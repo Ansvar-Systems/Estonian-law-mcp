@@ -6,20 +6,15 @@ sources:
   - name: "Riigi Teataja"
     authority: "Riigikantselei (State Chancellery of Estonia)"
     official_portal: "https://www.riigiteataja.ee"
-    retrieval_method: "HTML_SCRAPE"
-    update_frequency: "weekly"
-    last_ingested: "2026-02-21"
+    retrieval_method: "XML_DOWNLOAD"
+    update_frequency: "continuous"
     license_or_terms:
-      type: "Estonian Government Open Data (public domain under Estonian Copyright Act § 5)"
+      type: "government_terms"
       url: "https://www.riigiteataja.ee"
-      summary: "Official legislative texts are public domain"
+      summary: "Official legal acts are published by the state; legislation text is treated as official legal material (not copyrighted legal text under Estonian law)."
     coverage:
-      scope: "Key Estonian legislation covering data protection, cybersecurity, e-commerce, criminal law cyber provisions, and related statutes"
-      limitations: "AI-generated seed data; full official ingestion pending"
+      scope: "Official Estonian legal acts, including consolidated statute texts with section-level XML structure."
+      limitations: "Primary text is in Estonian; English translations are not systematically available for all acts."
     languages:
       - "et"
-
-data_freshness:
-  automated_checks: true
-  check_frequency: "weekly"
-  last_verified: "2026-02-21"
+      - "en"

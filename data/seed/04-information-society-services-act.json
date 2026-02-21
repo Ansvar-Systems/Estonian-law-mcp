@@ -3,114 +3,180 @@
   "type": "statute",
   "title": "Infoühiskonna teenuse seadus",
   "title_en": "Information Society Services Act",
-  "short_name": "IÜS",
+  "short_name": "InfoTS",
   "status": "in_force",
-  "issued_date": "2004-05-14",
-  "in_force_date": "2004-08-01",
-  "url": "https://www.riigiteataja.ee/akt/112122011003",
-  "description": "Regulates information society services in Estonia, implementing the EU e-Commerce Directive (2000/31/EC). Covers service provider obligations, electronic contracts, intermediary liability, and commercial communications.",
+  "issued_date": "2004-04-14",
+  "in_force_date": "2024-07-14",
+  "url": "https://www.riigiteataja.ee/akt/104072024024.xml",
+  "description": "Sets legal requirements for information society services, including service provider duties and liability rules in digital services contexts.",
   "provisions": [
     {
-      "provision_ref": "art1",
+      "provision_ref": "para1",
       "section": "1",
-      "title": "§ 1. Scope of the Act",
-      "content": "This Act provides for the requirements for the provision of information society services, the liability of service providers, and the supervision of information society services. This Act implements Directive 2000/31/EC of the European Parliament and of the Council on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market."
+      "title": "§ 1. Seaduse ülesanne",
+      "content": "(1) Käesolev seadus sätestab nõuded infoühiskonna teenuse osutajale, järelevalve teostamise korralduse ja vastutuse seaduse rikkumise eest.\n(2) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seadust, arvestades käesolevast seadusest tulenevaid erisusi.\n(3) Käesolevas seaduses sätestatut ei kohaldata infoühiskonna teenusega seonduvatele küsimustele, mis on reguleeritud elektroonilise side seaduse, isikuandmete kaitse seaduse ja meediateenuste seadusega."
     },
     {
-      "provision_ref": "art2",
+      "provision_ref": "para2",
       "section": "2",
-      "title": "§ 2. Information society service",
-      "content": "An information society service is a service normally provided for remuneration, at a distance, by electronic means, and at the individual request of a recipient of the service. The provision of information society services shall be subject to the law of the Member State in which the service provider is established (country of origin principle)."
+      "title": "§ 2. Mõisted",
+      "content": "Käesolevas seaduses kasutatakse mõisteid järgmises tähenduses:\n1) infoühiskonna teenus – teenus, mida osutatakse majandus- või kutsetegevuse raames teenuse kasutaja otsesel taotlusel ja mille puhul andmeid töödeldakse, säilitatakse ja edastatakse digitaalkujul andmete töötlemiseks ja säilitamiseks mõeldud elektrooniliste vahendite abil, kusjuures osapooled ei viibi üheaegselt samas kohas. Infoühiskonna teenus peab olema täielikult üle kantud, edastatud ja vastu võetud elektrooniliste sidevahendite abil. Infoühiskonna teenus ei ole faksi ega telefonikõne abil edastatud teenus ega televisiooni- või raadioteenus;\n2) reguleeritud kutseala – iga kutseala, millel tegutsemiseks on seadusega sätestatud kutsekvalifikatsiooni omamise nõue."
     },
     {
-      "provision_ref": "art3",
+      "provision_ref": "para3",
       "section": "3",
-      "title": "§ 3. General information requirements",
-      "content": "A service provider shall make the following information easily, directly, and permanently accessible to the recipient of the service: (1) the name and registration number of the service provider; (2) the geographic address of the establishment; (3) contact details including an electronic mail address; (4) the register in which the provider is entered; (5) VAT identification number if the provider carries out a taxable activity; (6) where the activity is subject to an authorisation scheme, the details of the relevant supervisory authority."
+      "title": "§ 3. Tegevuskoha riigi õiguse kohaldamine",
+      "content": "(1) Eestis asuva tegevuskoha kaudu osutatav infoühiskonna teenus (edaspidi teenus ) peab vastama Eesti õigusest tulenevatele nõuetele sellest olenemata, millises Euroopa Liidu või Euroopa Majanduspiirkonna liikmesriigis teenust osutatakse.\n(2) Euroopa Liidu või Euroopa Majanduspiirkonna liikmesriigis asuva tegevuskoha kaudu osutatava teenuse osutamist Eestis ei piirata kooskõlastatud valdkonna osas, välja arvatud juhul ja ulatuses, mis on õigustatud kõlbluse, avaliku korra, riigi julgeoleku, rahva tervise ja tarbija kaitseks.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud piirang peab vastama järgmistele tingimustele:\n1) piirang kehtestatakse konkreetsele teenusele, mis takistab käesoleva paragrahvi lõikes 2 nimetatud kaitse saavutamist või kujutab endast tõsist ohtu selle saavutamisele;\n2) piirang on proportsionaalne oma eesmärgiga;\n3) enne piirangu kehtestamist on Eesti pädev asutus taotlenud, et tegevuskoha riik kehtestaks piirangu ja viimane pole seda kehtestanud või see on olnud ebapiisav;\n4) kavatsusest kehtestada piirang on Eesti pädev asutus teatanud Euroopa Komisjonile ja vastavale liikmesriigile;\n5) edasilükkamatu vajaduse korral võib käesoleva lõike punktides 3 ja 4 ettenähtud tingimustest teha erandeid. Edasilükkamatu vajaduse korral tehtud piirangust peab Eesti pädev asutus võimalikult kiiresti teatama Euroopa Komisjonile ja liikmesriigile, tuues välja põhjused, miks juhtumit edasilükkamatuks loetakse;\n6) käesoleva lõike punkte 3–5 ei kohaldata kohtumenetlusele.\n(4) Käesoleva paragrahvi lõikes 2 sätestatut ei kohaldata:\n1) osapoolte vabadusele valida nende lepingu suhtes kohaldatav õigus;\n2) tarbijalepingutes sisalduvatele lepingulistele kohustustele;\n3) autoriõigusele ja sellega kaasnevatele õigustele;\n4) pooljuhtide kaitsele;\n5) andmebaaside kaitsele;\n6) tööstusomandi kaitsele;\n7) seadusest tulenevatele vorminõuetele, mis kehtivad kinnisasjaõigustega tehtavate tehingute suhtes;\n8) kommertsteadaande lubatavusele elektronposti teel;\n9) investeerimisfondide reklaamile;\n10) kindlustusandja kohustusele edastada kohustusliku kindlustuse üld- ja eritingimused pädevale asutusele;\n11) kindlustusandja asutamisõigusele ja teenuste osutamise vabadusele;\n12) kahju- ja elukindlustuslepingutele, mis katavad Euroopa Liidu liikmesriigis eksisteerivaid riske;\n13) notarite, kohtutäiturite ja teiste avalik-õiguslikku ametit vaba elukutsena pidavate isikute tegevusele avaliku võimu kandjana;\n14) protsessiosalise esindamisele ja tema huvide kaitsele kohtus;\n15) loteriidele ja hasartmängudele, sealhulgas rahalise panusega õnnemängudele ja kihlveotehingutele;\n16) e-raha väljastamisele äriühingu poolt, kes kasutab makseasutuste ja e-raha asutuste seaduse §-s 12 sätestatud õigust."
     },
     {
-      "provision_ref": "art4",
+      "provision_ref": "para3^1",
+      "section": "3^1",
+      "title": "§ 3^1. Teavitamine",
+      "content": "(1) Euroopa Komisjoni tuleb teavitada:\n1) ettevalmistatavast õigusaktist, mis sisaldab infoühiskonna teenusele kehtestatavat nõuet;\n2) väärtpaberibörsi, reguleeritud väärtpaberituru ja väärtpaberiarveldus-süsteemi poolt infoühiskonna teenusele kehtestatavast nõudest.\n(2) Teavitada ei tule õigusaktist, mis sisaldab:\n1) elektroonilise side teenusele esitatavat nõuet, mis on reguleeritud Euroopa Liidu õigusaktidega;\n2) finantsteenustele esitatavat nõuet, mis on reguleeritud Euroopa Liidu õigusaktidega ja mille mittetäielik nimekiri on esitatud Euroopa Parlamendi ja nõukogu direktiivi 98/48/EÜ VI lisas (EÜT L 217, 5.8.1998, lk 18–26).\n(3) Teavitada ei tule õigusakti eelnõust, mis järgib Euroopa Liidu ühtlustamise õigusakti või rahvusvahelistest lepingutest tulenevaid kohustusi, mille tulemusena võetakse Euroopa Liidus vastu ühtne infoühiskonna teenust käsitlev nõue.\n(4) Teavitamisele kuuluva õigusakti ettevalmistaja esitab õigusakti eelnõu teavitamist koordineerivale asutusele. Õigusakti eelnõu tuleb teavitamisele esitada sellises menetlusetapis, millal on veel võimalik eelnõus muudatusi teha.\n(5) Infoühiskonna teenusele kehtestatavat nõuet sisaldava õigusakti eelnõust ning väärtpaberibörsi, reguleeritud väärtpaberituru ja väärtpaberiarveldussüsteemi poolt infoühiskonna teenusele kehtestatavast nõudest teavitamise korra ja teabevahetust koordineeriva asutuse määrab."
+    },
+    {
+      "provision_ref": "para4",
       "section": "4",
-      "title": "§ 4. Commercial communications",
-      "content": "Commercial communications shall be clearly identifiable as such. The natural or legal person on whose behalf the commercial communication is made shall be clearly identifiable. Promotional offers, competitions, or games shall be clearly identifiable and the conditions for participation shall be easily accessible and presented clearly and unambiguously. Unsolicited commercial communication by electronic mail shall be clearly and unambiguously identifiable as such as soon as it is received."
+      "title": "§ 4. Teenuse osutaja kohta edastatav teave",
+      "content": "(1) Teenuse osutaja on kohustatud tegema teenuse kasutajale vahetult ja püsivalt kättesaadavaks vähemalt järgmise teabe:\n1) teenuse osutaja nime, registrikoodi ja vastava registri nime, teenuse osutaja aadressi ja muud kontaktandmed, sealhulgas elektronposti aadressi;\n2) registreeringu numbri, kui vastaval tegevusalal tegutsemiseks on seadusega sätestatud majandustegevuse registris registreerimise nõue, või tegevusloa numbri;\n3) viidete puhul teenuse tasu suurusele teabe selle kohta, kas need sisaldavad makse ja tarnekulusid;\n4) käibemaksukohustuslasena registreerimise numbri, kui teenuse osutaja on käibemaksukohustuslane.\n(2) Reguleeritud kutsealal tegutsev teenuse osutaja on kohustatud lisaks käesoleva paragrahvi lõikes 1 sätestatule tegema teenuse kasutajale vahetult ja püsivalt kättesaadavaks järgmise teabe:\n1) kutseorganisatsiooni või -liidu nimetuse, mille liige ta on seoses osutatava teenusega;\n2) kutse ja liikmesriigi nime, kus see omistati;\n3) viite teenuse osutaja tegevuskoha liikmesriigis kohaldatavatele kutsealastele nõuetele koos nende nõuete tekstidega tutvumiseks vajalike viidetega."
     },
     {
-      "provision_ref": "art5",
+      "provision_ref": "para5",
       "section": "5",
-      "title": "§ 5. Electronic contracts",
-      "content": "Where a service provider offers the possibility of concluding contracts by electronic means, the service provider shall inform the recipient of the service of: (1) the technical steps to follow to conclude the contract; (2) whether the concluded contract will be filed by the service provider and whether it will be accessible; (3) the technical means for identifying and correcting input errors prior to the placing of the order; (4) the languages offered for the conclusion of the contract."
+      "title": "§ 5. Kommertsteadaanne",
+      "content": "(1) Kommertsteadaanne on igasugune teave, mis on kavandatud otseselt või kaudselt edendama majandus- või kutsetegevuses osaleva isiku nimel tema kaupade või teenuste pakkumist või tõstma sellise isiku mainet.\n(2) Kommertsteadaanne peab:\n1) olema selgelt tuvastatav kommertsteadaandena;\n2) võimaldama selgelt tuvastada isikut, kelle nimel kommertsteadaanne esitatakse;\n3) võimaldama selgelt tuvastada müügiedenduspakkumisi, sealhulgas allahindlusi, autasusid ja kingitusi ning müügiedendusvõistlusi- ja mänge;\n4) selgelt esitama käesoleva lõike punktis 3 nimetatud müügiedenduspakkumiste ja kaubanduslike loteriide osalemistingimusi.\n(3) Kommertsteadaanne ei ole:\n1) teave, mis võimaldab otsest juurdepääsu füüsilise või juriidilise isiku tegevusele, sealhulgas domeeninimi või elektronposti aadress;\n2) teave, mis on esitatud isikust sõltumatult tema maine, pakutava kauba või teenuse kohta."
     },
     {
-      "provision_ref": "art6",
-      "section": "6",
-      "title": "§ 6. Order placement",
-      "content": "Where a recipient of the service places an order through technological means, the service provider shall acknowledge receipt of the recipient's order without undue delay and by electronic means. The order and the acknowledgement of receipt shall be deemed to be received when the parties to whom they are addressed are able to access them."
-    },
-    {
-      "provision_ref": "art7",
+      "provision_ref": "para7",
       "section": "7",
-      "title": "§ 7. Codes of conduct",
-      "content": "The Government and professional associations shall encourage trade, professional, and consumer associations to draw up codes of conduct at national level for the purpose of proper implementation of the provisions of this Act. Codes of conduct shall be made available electronically and shall be translated into Estonian and English where applicable."
+      "title": "§ 7. Üldkasutatavate andmesidevahendite vahendusel sõlmitud leping",
+      "content": "Teenuse osutaja ja teenuse kasutaja vahel üldkasutatavate andmesidevahendite vahendusel lepingu sõlmimine osapoolte üheaegse kohalolekuta peab toimuma vastavalt võlaõigusseaduse §-s 62^1 sätestatule."
     },
     {
-      "provision_ref": "art8",
-      "section": "8",
-      "title": "§ 8. Mere conduit",
-      "content": "Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, or the provision of access to a communication network, the service provider shall not be liable for the information transmitted, on condition that the provider: (1) does not initiate the transmission; (2) does not select the receiver of the transmission; (3) does not select or modify the information contained in the transmission."
-    },
-    {
-      "provision_ref": "art9",
-      "section": "9",
-      "title": "§ 9. Caching",
-      "content": "Where an information society service is provided that consists of the transmission of information provided by a recipient of the service, the service provider shall not be liable for the automatic, intermediate, and temporary storage of that information performed for the sole purpose of making more efficient the onward transmission, on condition that the provider: (1) does not modify the information; (2) complies with conditions on access to the information; (3) complies with rules regarding the updating of the information; (4) acts expeditiously to remove or disable access to information upon obtaining actual knowledge that the information has been removed or access disabled."
-    },
-    {
-      "provision_ref": "art10",
-      "section": "10",
-      "title": "§ 10. Hosting",
-      "content": "Where an information society service is provided that consists of the storage of information provided by a recipient of the service, the service provider shall not be liable for the information stored at the request of a recipient of the service, on condition that: (1) the provider does not have actual knowledge of illegal activity or information; (2) upon obtaining such knowledge or awareness, the provider acts expeditiously to remove or disable access to the information. This exemption from liability shall not apply where the recipient of the service is acting under the authority or control of the provider."
-    },
-    {
-      "provision_ref": "art11",
+      "provision_ref": "para11",
       "section": "11",
-      "title": "§ 11. No general monitoring obligation",
-      "content": "Service providers are not obliged to monitor the information which they transmit or store, nor are they obliged to actively seek facts or circumstances indicating illegal activity. Service providers shall promptly inform the competent public authorities of alleged illegal activities undertaken or information provided by recipients of their service and shall communicate to the competent authorities information enabling the identification of recipients of their service."
+      "title": "§ 11. Jälgimiskohustuse puudumine",
+      "content": "(1)\n(2)\n(3)\n(4) Teenuse osutaja peab esitama prokuratuurile ja uurimisasutusele tõe tuvastamiseks kriminaalmenetluse seadustikus ettenähtud alustel ja korras ning julgeoleku- ja jälitusasutusele seaduses ettenähtud alustel ja korras nende määratud tähtajaks olemasolevat teavet teenuse kasutaja kohta, kellele ta osutab andmete talletamise teenust.\n(5) Teenuse osutaja peab esitama kohtule tema kirjaliku üksikpäringu alusel tõe tuvastamiseks tsiviilkohtumenetluse seadustikus ettenähtud alustel ja korras ning kohtu määratud tähtajaks olemasolevat teavet teenuse kasutaja kohta, kellele ta osutab andmete talletamise teenust. Üksikpäring käesoleva paragrahvi mõttes on päring teenuse kasutaja isikuandmete ja teenuse kasutaja edastatud teabe edastamise fakti, kestuse, viisi ja vormi kohta seoses konkreetse elektronkirja, konkreetse elektroonilise kommentaari või muu üksiksõnumi edastamisega seotud sideseansiga."
     },
     {
-      "provision_ref": "art12",
+      "provision_ref": "para12",
       "section": "12",
-      "title": "§ 12. Court orders and removal procedures",
-      "content": "This Act does not affect the possibility for a court to require the service provider to terminate or prevent an infringement. Courts may also establish procedures leading to the removal or disabling of access to illegal information. The service provider shall comply with court orders requiring the removal of information or the disabling of access thereto."
+      "title": "§ 12. Riiklik järelevalve",
+      "content": "(1) Käesolevas seaduses teenuse osutaja kohta antavale teabele sätestatud nõuete järgimise üle teostab riiklikku järelevalvet Tarbijakaitse ja Tehnilise Järelevalve Amet.\n(2) Euroopa Parlamendi ja nõukogu määruses (EL) nr 2019/1150, mis käsitleb õigluse ja läbipaistvuse edendamist veebipõhiste vahendusteenuste ärikasutajate jaoks (ELT L 186, 11.07.2019, lk 57–79), sätestatud nõuete täitmise üle teostab riiklikku järelevalvet Tarbijakaitse ja Tehnilise Järelevalve Amet.\n(3) Tarbijakaitse ja Tehnilise Järelevalve Amet on sõltumatu digiteenuste koordinaator Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2065, mis käsitleb digiteenuste ühtset turgu ja millega muudetakse direktiivi 2000/31/EÜ (digiteenuste määrus) (ELT L 277, 27.10.2022, lk 1–102), artikli 49 lõike 2 tähenduses.\n(4) Tarbijakaitse ja Tehnilise Järelevalve Amet teostab riiklikku järelevalvet Euroopa Parlamendi ja nõukogu määruses (EL) 2022/2065 sätestatud nõuete täitmise üle.\n(5) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/784, mis käsitleb võitlemist terroristliku veebisisu levitamise vastu (ELT L 172, 17.05.2021, lk 79–109), artikli 3 lõigetes 3 ja 6, artikli 4 lõigetes 2 ja 7, artikli 6 lõigetes 1 ja 2 ning artikli 14 lõikes 5 sätestatud terroristliku veebisisu eemaldamise ja eemaldamiskorralduse täitmisega seotud meetmete rakendamise üle teostab riiklikku järelevalvet Kaitsepolitseiamet.\n(6) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/784 artiklis 5, artikli 6 lõikes 3, artiklites 7, 10 ja 11, artikli 15 lõikes 1 ning artiklis 17 sätestatud terroristliku veebisisu levitamist tõkestavate tehniliste nõuete, sisu säilitamise ja aruandlusega seotud meetmete rakendamise üle teostab riiklikku järelevalvet Tarbijakaitse ja Tehnilise Järelevalve Amet."
     },
     {
-      "provision_ref": "art13",
+      "provision_ref": "para12^1",
+      "section": "12^1",
+      "title": "§ 12^1. Piiriülene järelevalvekoostöö",
+      "content": "Tarbijakaitse ja Tehnilise Järelevalve Amet osaleb Euroopa Liidu liikmesriikide digiteenuste koordinaatorite ja Euroopa Komisjoni piiriüleses koostöös Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2065 IV peatükis sätestatu kohaselt."
+    },
+    {
+      "provision_ref": "para12^2",
+      "section": "12^2",
+      "title": "§ 12^2. Terroristliku veebisisu eemaldamise korraldus",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/784 artiklis 3 sätestatud eemaldamiskorralduse annab ja artiklis 4 sätestatud piiriülest eemaldamiskorraldust kontrollib Kaitsepolitseiamet.\n(2) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/784 artikli 21 lõikes 1 sätestatud teabe kogub ja esitab Euroopa Komisjonile Siseministeerium."
+    },
+    {
+      "provision_ref": "para13",
       "section": "13",
-      "title": "§ 13. Notice and takedown procedure",
-      "content": "Where a service provider receives a notification that information stored on behalf of a recipient is illegal, the provider shall assess the notification and, where the notification contains sufficient information to establish the illegality, shall expeditiously remove or disable access to the information. The notice shall contain: (1) the identity and contact details of the notifier; (2) a description of the illegal content; (3) the URL or other location identifier; (4) a statement that the notifier believes the information is illegal."
+      "title": "§ 13. Riikliku järelevalve erimeetmed",
+      "content": "Pädev korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 49, 50, 51 ja 52 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
     },
     {
-      "provision_ref": "art14",
+      "provision_ref": "para13^1",
+      "section": "13^1",
+      "title": "§ 13^1. Tarbijakaitse ja Tehnilise Järelevalve Ameti õigus nõuda infoühiskonna teenuse piiramist",
+      "content": "(1) Kui infoühiskonna teenuse kaudu üldsusele levitatud teabega kihutatakse vihkamisele, vägivallale või diskrimineerimisele kodakondsuse, etnilise päritolu, keele, usutunnistuse või muude Eesti Vabariigi põhiseaduse §-s 12 nimetatud asjaolude tõttu, õhutatakse sõda või õigustatakse sõjakuritegusid ning kui see on vajalik riigi julgeoleku tagamiseks ja sellise teabe levitamise lõpetamiseks ning ohu tõrjumiseks puuduvad muud tõhusad võimalused, on Tarbijakaitse ja Tehnilise Järelevalve Ametil õigus teha infoühiskonna teenuse osutajale ettekirjutus ja nõuda infoühiskonna teenuse kaudu esitatava teabe kõrvaldamist või teabele juurdepääsu piiramist, arvestades käesoleva paragrahvi lõigetes 2 ja 3 sätestatud erisusi.\n(2) Internetiühendust pakkuv üldkasutatava elektroonilise side teenuse osutaja on kohustatud Tarbijakaitse ja Tehnilise Järelevalve Ameti ettekirjutuse alusel blokeerima ettekirjutuses nimetatud domeeninime talle kuuluvates nimeserverites.\n(3) Domeeniregistri haldaja ja domeeniregistri pidaja on kohustatud Tarbijakaitse ja Tehnilise Järelevalve Ameti ettekirjutuse alusel blokeerima juurdepääsu domeenile või kustutama ettekirjutuses nimetatud domeeninime registreeringu ning võimaldama ametil see domeeninimi registreerida enda nimele."
+    },
+    {
+      "provision_ref": "para13^2",
+      "section": "13^2",
+      "title": "§ 13^2. Ebaseadusliku sisu vastu meetmete võtmise ja teabe esitamise korraldus",
+      "content": "(1) Korrakaitseorgani korraldus vahendusteenuse osutajale võtta meetmeid ebaseadusliku sisu vastu peab vastama Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2065 artikli 9 lõikes 2 sätestatud tingimustele.\n(2) Korrakaitseorgani korraldus vahendusteenuse osutajale anda konkreetset teavet konkreetse teenusesaaja kohta peab vastama Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2065 artikli 10 lõikes 2 sätestatud tingimustele."
+    },
+    {
+      "provision_ref": "para14",
       "section": "14",
-      "title": "§ 14. Supervision",
-      "content": "The Consumer Protection and Technical Regulatory Authority shall exercise supervision over the compliance of service providers with this Act. The supervisory authority may: (1) require the service provider to provide information; (2) carry out inspections; (3) issue precepts and apply coercive measures; (4) impose fines for non-compliance."
+      "title": "§ 14. Sunniraha määr",
+      "content": "(1) Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär füüsilisele isikule 640 eurot ja juriidilisele isikule 100 000 eurot.\n(2) Euroopa Parlamendi ja nõukogu määrusest (EL) 2022/2065 tuleneva ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär vahendusteenuse osutajast füüsilisele isikule viis protsenti tema eelmise kalendriaasta keskmisest päevasest sissetulekust ja juriidilisele isikule viis protsenti tema eelmise majandusaasta keskmisest päevasest ülemaailmsest käibest, arvutatuna alates asjaomases ettekirjutuses märgitud kuupäevast."
     },
     {
-      "provision_ref": "art15",
+      "provision_ref": "para15",
       "section": "15",
-      "title": "§ 15. Penalties",
-      "content": "Violation of the requirements for information society services by a legal person is punishable by a fine of up to 32,000 euros. Failure to comply with a precept of the supervisory authority is punishable by a fine of up to 10,000 euros for a natural person and up to 32,000 euros for a legal person."
+      "title": "§ 15. Nõuetele mittevastava teabe edastamine",
+      "content": "(1) Käesolevas seaduses teenuse osutaja kohta antavale teabele, kommertsteadaandele ja selle edastamisele sätestatud nõuetele mittevastava infoühiskonna teenuse osutamise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 400 000 eurot."
+    },
+    {
+      "provision_ref": "para15^2",
+      "section": "15^2",
+      "title": "§ 15^2. Euroopa Parlamendi ja nõukogu määruses (EL) nr 2019/1150 sätestatud nõuete täitmata jätmine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 2019/1150 artiklites 11 ja 12 sätestatud nõuete täitmata jätmise eest karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 400 000 eurot."
+    },
+    {
+      "provision_ref": "para15^3",
+      "section": "15^3",
+      "title": "§ 15^3. Euroopa Parlamendi ja nõukogu määruses (EL) 2022/2065 sätestatud kohustuste täitmata jätmine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2065 artiklites 9–14, 16–18, 20–23, 25–28, 30–32 ja 34–41 sätestatud nõuete täitmata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni kuus protsenti tema eelmise majandusaasta ülemaailmsest käibest."
+    },
+    {
+      "provision_ref": "para15^4",
+      "section": "15^4",
+      "title": "§ 15^4. Euroopa Parlamendi ja nõukogu määruses (EL) 2022/2065 sätestatud aruandluskohustuse täitmata jätmine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2065 artiklites 15, 24 ja 42 sätestatud aruandluskohustuse täitmata jätmise või aruandes ebaõige, mittetäieliku või eksitava teabe esitamise eest – karistatakse rahatrahviga kuni üks protsent selle füüsilise isiku eelmise kalendriaasta sissetulekust.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni üks protsent tema eelmise majandusaasta ülemaailmsest käibest."
+    },
+    {
+      "provision_ref": "para15^5",
+      "section": "15^5",
+      "title": "§ 15^5. Euroopa Parlamendi ja nõukogu määruses (EL) 2022/2065 sätestatud nõuete täitmise üle riikliku järelevalve teostamise takistamine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruses (EL) 2022/2065 sätestatud nõuete täitmise üle riikliku järelevalve teostamise takistamise eest, kui sellega ei võimaldata Tarbijakaitse ja Tehnilise Järelevalve Ametile juurdepääsu ruumidele või teabele, või ebaõige, mittetäieliku või eksitava teabe esitamise eest või ebaõigele, mittetäielikule või eksitavale teabele reageerimata jätmise või selle parandamata jätmise eest – karistatakse rahatrahviga kuni üks protsent selle füüsilise isiku eelmise kalendriaasta sissetulekust.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni üks protsent tema eelmise majandusaasta ülemaailmsest käibest."
+    },
+    {
+      "provision_ref": "para15^6",
+      "section": "15^6",
+      "title": "§ 15^6. Euroopa Parlamendi ja nõukogu määruse (EL) 2021/784 artikli 3 lõigetes 3 ja 6 ning artikli 4 lõigetes 2 ja 7 sätestatud nõuete täitmata jätmine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/784 artikli 3 lõigetes 3 ja 6 ning artikli 4 lõigetes 2 ja 7 sätestatud nõuete täitmata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 400 000 eurot.\n(3) Käesoleva paragrahvi lõikes 2 sätestatud teo eest, kui see on pandud toime korduvalt või süstemaatiliselt, – karistatakse rahatrahviga kuni neli protsenti veebimajutusteenuse pakkuja eelmise majandusaasta kogukäibest."
+    },
+    {
+      "provision_ref": "para15^7",
+      "section": "15^7",
+      "title": "§ 15^7. Euroopa Parlamendi ja nõukogu määruse (EL) 2021/784 artikli 14 lõikes 5 sätestatud nõuete täitmata jätmine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/784 artikli 14 lõikes 5 sätestatud nõuete täitmata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 1200 eurot."
+    },
+    {
+      "provision_ref": "para15^8",
+      "section": "15^8",
+      "title": "§ 15^8. Euroopa Parlamendi ja nõukogu määruse (EL) 2021/784 artikli 5 lõigetes 1–3, 5 ja 6, artikli 6 lõikes 3, artiklites 7, 10 ja 11, artikli 15 lõikes 1 ning artiklis 17 sätestatud nõuete täitmata jätmine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/784 artikli 5 lõigetes 1–3, 5 ja 6, artikli 6 lõikes 3, artiklites 7, 10 ja 11, artikli 15 lõikes 1 ning artiklis 17 sätestatud nõuete täitmata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 1200 eurot."
+    },
+    {
+      "provision_ref": "para16",
+      "section": "16",
+      "title": "§ 16. Menetlus",
+      "content": "(1)\n(2) Käesoleva seaduse §-des 15, 15^2–15^5 ja 15^8 sätestatud väärtegude kohtuväline menetleja on vastavalt oma pädevusele Tarbijakaitse ja Tehnilise Järelevalve Amet.\n(3) Käesoleva seaduse §-des 15^6 ja 15^7 sätestatud väärtegude kohtuväline menetleja on vastavalt oma pädevusele Kaitsepolitseiamet."
+    },
+    {
+      "provision_ref": "para17",
+      "section": "17",
+      "title": "§ 17. Tehnilise normi ja standardi seaduse muutmine",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para18",
+      "section": "18",
+      "title": "§ 18. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2004. aasta 1. mail."
     }
   ],
   "definitions": [
     {
-      "term": "information society service",
-      "definition": "A service normally provided for remuneration, at a distance, by electronic means, and at the individual request of a recipient of the service.",
-      "source_provision": "art2"
+      "term": "infoühiskonna teenus",
+      "definition": "teenus, mida osutatakse majandus- või kutsetegevuse raames teenuse kasutaja otsesel taotlusel ja mille puhul andmeid töödeldakse, säilitatakse ja edastatakse digitaalkujul andmete töötlemiseks ja säilitamiseks mõeldud elektrooniliste vahendite abil, kusjuures osapooled ei viibi üheaegselt samas kohas. Infoühiskonna teenus peab olema täielikult üle kantud, edastatud ja vastu võetud elektrooniliste sidevahendite abil. Infoühiskonna teenus ei ole faksi ega telefonikõne abil edastatud teenus ega televisiooni- või raadioteenus",
+      "source_provision": "para2"
     },
     {
-      "term": "commercial communication",
-      "definition": "Any form of communication designed to promote goods, services, or the image of a natural or legal person providing information society services.",
-      "source_provision": "art4"
+      "term": "reguleeritud kutseala",
+      "definition": "iga kutseala, millel tegutsemiseks on seadusega sätestatud kutsekvalifikatsiooni omamise nõue",
+      "source_provision": "para2"
     }
   ]
 }

@@ -253,49 +253,58 @@ function extractEuReferences(text: string): ExtractedEUReference[] {
   const refs: ExtractedEUReference[] = [];
   const seen = new Set<string>();
 
-  const patterns: RegExp[] = [
-    /\b(Regulation|Directive)\s*\((EU|EC|EEC|Euratom)\)\s*(?:No\.?\s*)?(\d{2,4})\/(\d{1,4})\b/gi,
-    /\b(Regulation|Directive)\s*(?:No\.?\s*)?(\d{2,4})\/(\d{1,4})\/(EU|EC|EEC|Euratom)\b/gi,
-    /\b(Regulation|Directive)\s*(?:No\.?\s*)?(\d{2,4})\/(\d{1,4})\b/gi,
-  ];
+  const referenceRegex = /\b(Regulation|Directive|määrus\w*|direktiiv\w*)\s*(?:\((EU|EL|EÜ|EC|EEC|Euratom)\))?\s*(?:(No\.?|nr\.?)\s*)?(\d{2,4})\/(\d{1,4})(?:\/(EU|EL|EÜ|EC|EEC|Euratom))?/gi;
+  let match: RegExpExecArray | null;
 
-  for (const pattern of patterns) {
-    let match: RegExpExecArray | null;
-    while ((match = pattern.exec(text)) !== null) {
-      const type = match[1].toLowerCase() as EUDocumentType;
-      let rawYear: string, rawNumber: string, communityRaw: string | undefined;
+  while ((match = referenceRegex.exec(text)) !== null) {
+    const rawType = match[1].toLowerCase();
+    const type: EUDocumentType = rawType.startsWith('directive') || rawType.startsWith('direktiiv')
+      ? 'directive'
+      : 'regulation';
 
-      if (pattern === patterns[0]) {
-        communityRaw = match[2]; rawYear = match[3]; rawNumber = match[4];
-      } else if (pattern === patterns[1]) {
-        rawYear = match[2]; rawNumber = match[3]; communityRaw = match[4];
-      } else {
-        rawYear = match[2]; rawNumber = match[3]; communityRaw = undefined;
-      }
+    const communityRaw = (match[2] ?? match[6] ?? 'EU').toUpperCase();
+    const community = (communityRaw === 'EL' || communityRaw === 'EÜ'
+      ? 'EU'
+      : communityRaw) as EUCommunity;
 
-      const parsedYear = Number.parseInt(rawYear, 10);
-      const year = rawYear.length === 2 ? (parsedYear >= 50 ? 1900 + parsedYear : 2000 + parsedYear) : parsedYear;
-      const number = Number.parseInt(rawNumber, 10);
-      if (year <= 0 || Number.isNaN(number) || number <= 0) continue;
+    const marker = (match[3] ?? '').toLowerCase();
+    const first = Number.parseInt(match[4], 10);
+    const second = Number.parseInt(match[5], 10);
 
-      const community = (communityRaw?.toUpperCase() ?? 'EU') as EUCommunity;
-      const euDocumentId = `${type}:${year}/${number}`;
+    // "nr 910/2014" form is number/year; "2016/679" form is year/number.
+    const number = marker ? first : second;
+    const parsedYear = marker ? second : first;
+    const year = String(parsedYear).length === 2
+      ? (parsedYear >= 50 ? 1900 + parsedYear : 2000 + parsedYear)
+      : parsedYear;
 
-      const start = Math.max(0, match.index - 120);
-      const end = Math.min(text.length, match.index + match[0].length + 120);
-      const referenceContext = text.slice(start, end).replace(/\s+/g, ' ').trim();
-      const euArticle = referenceContext.match(/\bArticle\s+(\d+[A-Za-z]?(?:\(\d+\))?)/i)?.[1] ?? null;
-      const referenceType: EUReferenceType = /\b(implement|align|transpos|equivalent)\b/i.test(referenceContext) ? 'implements' : 'references';
+    if (year <= 0 || Number.isNaN(number) || number <= 0) continue;
 
-      const dedupeKey = `${euDocumentId}:${euArticle ?? ''}`;
-      if (seen.has(dedupeKey)) continue;
-      seen.add(dedupeKey);
+    const euDocumentId = `${type}:${year}/${number}`;
 
-      refs.push({
-        type, community, year, number, euDocumentId, euArticle,
-        fullCitation: match[0], referenceContext, referenceType,
-      });
-    }
+    const start = Math.max(0, match.index - 160);
+    const end = Math.min(text.length, match.index + match[0].length + 160);
+    const referenceContext = text.slice(start, end).replace(/\s+/g, ' ').trim();
+    const euArticle = referenceContext.match(/\b(Article|artikli?|artiklis)\s+(\d+[A-Za-z]?(?:\(\d+\))?)/i)?.[2] ?? null;
+    const referenceType: EUReferenceType = /\b(implement|align|transpos|equivalent|rakenda|üle võtta|ülevõtta)\b/i.test(referenceContext)
+      ? 'implements'
+      : 'references';
+
+    const dedupeKey = `${euDocumentId}:${euArticle ?? ''}`;
+    if (seen.has(dedupeKey)) continue;
+    seen.add(dedupeKey);
+
+    refs.push({
+      type,
+      community,
+      year,
+      number,
+      euDocumentId,
+      euArticle,
+      fullCitation: match[0],
+      referenceContext,
+      referenceType,
+    });
   }
 
   return refs;
