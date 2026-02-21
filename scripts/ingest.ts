@@ -26,6 +26,7 @@ interface CliArgs {
   start: number;
   skipFetch: boolean;
   full: boolean;
+  allStatutes: boolean;
   resume: boolean;
   asOf: string;
 }
@@ -36,6 +37,8 @@ interface SearchAct {
   lyhend: string | null;
   liik: string;
   valjaandja: string;
+  mitteJoustunud?: boolean;
+  kehtivKehtetus?: boolean;
   muudetud: number;
   url: string;
   kehtivus?: {
@@ -70,6 +73,7 @@ function parseArgs(): CliArgs {
   let start = 1;
   let skipFetch = false;
   let full = false;
+  let allStatutes = false;
   let resume = false;
   let asOf = new Date().toISOString().slice(0, 10);
 
@@ -110,13 +114,18 @@ function parseArgs(): CliArgs {
       continue;
     }
 
+    if (arg === '--all-statutes') {
+      allStatutes = true;
+      continue;
+    }
+
     if (arg === '--resume') {
       resume = true;
       continue;
     }
   }
 
-  return { limit, start, skipFetch, full, resume, asOf };
+  return { limit, start, skipFetch, full, allStatutes, resume, asOf };
 }
 
 function ensureDirs(): void {
@@ -161,6 +170,34 @@ function choosePreferredAct(a: SearchAct, b: SearchAct): SearchAct {
   return a.globaalID >= b.globaalID ? a : b;
 }
 
+function isActiveAt(act: SearchAct, asOf: string): boolean {
+  const asOfTs = parseDate(asOf);
+  const algusTs = parseDate(act.kehtivus?.algus);
+  const loppTs = parseDate(act.kehtivus?.lopp);
+
+  if (act.mitteJoustunud === true) return false;
+  if (algusTs !== 0 && algusTs > asOfTs) return false;
+  if (loppTs !== 0 && loppTs <= asOfTs) return false;
+  if (act.kehtivKehtetus === true) return false;
+  return true;
+}
+
+function inferStatus(act: SearchAct, asOf: string): TargetLaw['status'] {
+  const asOfTs = parseDate(asOf);
+  const algusTs = parseDate(act.kehtivus?.algus);
+  const loppTs = parseDate(act.kehtivus?.lopp);
+
+  if (act.mitteJoustunud === true || (algusTs !== 0 && algusTs > asOfTs)) {
+    return 'not_yet_in_force';
+  }
+
+  if (act.kehtivKehtetus === true || (loppTs !== 0 && loppTs <= asOfTs)) {
+    return 'repealed';
+  }
+
+  return 'in_force';
+}
+
 function extractGlobalIdFromSourceUrl(sourceUrl: string): string {
   const match = sourceUrl.match(/\/akt\/(\d+)\.xml$/);
   return match ? match[1] : '';
@@ -173,12 +210,39 @@ function toAbsoluteActUrl(relativeOrAbsolute: string): string {
   return `https://www.riigiteataja.ee${relativeOrAbsolute}`;
 }
 
-function buildFullCorpusLaws(dedupedActs: SearchAct[]): TargetLaw[] {
+function buildExistingSeedFileMap(): Map<string, string> {
+  const byGlobalId = new Map<string, string>();
+  if (!fs.existsSync(SEED_DIR)) return byGlobalId;
+
+  for (const file of fs.readdirSync(SEED_DIR)) {
+    const match = file.match(/^full-(?:\d{4}-)?(\d+)\.json$/);
+    if (!match) continue;
+
+    const globalId = match[1];
+    const existing = byGlobalId.get(globalId);
+    if (!existing) {
+      byGlobalId.set(globalId, file);
+      continue;
+    }
+
+    const currentIsIndexed = /^full-\d{4}-\d+\.json$/.test(file);
+    const existingIsIndexed = /^full-\d{4}-\d+\.json$/.test(existing);
+    if (currentIsIndexed && !existingIsIndexed) {
+      byGlobalId.set(globalId, file);
+    }
+  }
+
+  return byGlobalId;
+}
+
+function buildFullCorpusLaws(dedupedActs: SearchAct[], asOf: string): TargetLaw[] {
   const curatedByGlobalId = new Map<string, TargetLaw>();
   for (const law of TARGET_LAWS) {
     const globalId = extractGlobalIdFromSourceUrl(law.sourceUrl);
     if (globalId) curatedByGlobalId.set(globalId, law);
   }
+
+  const existingSeedByGlobalId = buildExistingSeedFileMap();
 
   const sorted = [...dedupedActs].sort((a, b) => {
     const titleCmp = a.pealkiri.localeCompare(b.pealkiri, 'et');
@@ -188,8 +252,7 @@ function buildFullCorpusLaws(dedupedActs: SearchAct[]): TargetLaw[] {
 
   const laws: TargetLaw[] = [];
 
-  for (let i = 0; i < sorted.length; i++) {
-    const act = sorted[i];
+  for (const act of sorted) {
     const globalId = String(act.globaalID);
     const curated = curatedByGlobalId.get(globalId);
 
@@ -200,26 +263,31 @@ function buildFullCorpusLaws(dedupedActs: SearchAct[]): TargetLaw[] {
       });
       continue;
     }
-
-    const seedIndex = String(i + 1).padStart(4, '0');
     const title = act.pealkiri.trim();
 
     laws.push({
       id: `ee-law-${globalId}`,
-      seedFile: `full-${seedIndex}-${globalId}.json`,
+      seedFile: existingSeedByGlobalId.get(globalId) ?? `full-${globalId}.json`,
       sourceUrl: toAbsoluteActUrl(act.url),
       titleEn: title,
       shortName: act.lyhend ?? undefined,
       description: `Official consolidated statute text (${title}) from Riigi Teataja.`,
-      status: 'in_force',
+      status: inferStatus(act, asOf),
     });
   }
 
   return laws;
 }
 
-async function fetchSearchPage(page: number, limit: number, asOf: string): Promise<SearchResponse> {
-  const url = `${SEARCH_API_BASE}?dokument=seadus&kehtiv=${encodeURIComponent(asOf)}&limiit=${limit}&leht=${page}`;
+async function fetchSearchPage(page: number, limit: number, asOf?: string): Promise<SearchResponse> {
+  const params = new URLSearchParams({
+    dokument: 'seadus',
+    limiit: String(limit),
+    leht: String(page),
+  });
+  if (asOf) params.set('kehtiv', asOf);
+
+  const url = `${SEARCH_API_BASE}?${params.toString()}`;
   const response = await fetchLegislation(url);
   if (response.status !== 200) {
     throw new Error(`Search API HTTP ${response.status} (${url})`);
@@ -239,19 +307,22 @@ async function fetchSearchPage(page: number, limit: number, asOf: string): Promi
   return parsed;
 }
 
-async function discoverFullCorpusLaws(asOf: string): Promise<TargetLaw[]> {
+async function discoverFullCorpusLaws(asOf: string, allStatutes: boolean): Promise<TargetLaw[]> {
   const pageSize = 500;
-  const firstPage = await fetchSearchPage(1, pageSize, asOf);
+  const firstPage = await fetchSearchPage(1, pageSize, allStatutes ? undefined : asOf);
 
   const totalRows = firstPage.metaandmed.kokku;
   const totalPages = Math.max(1, Math.ceil(totalRows / pageSize));
 
-  console.log(`Discovering full corpus for ${asOf}: ${totalRows} rows across ${totalPages} pages`);
+  console.log(
+    `${allStatutes ? 'Discovering all statutes' : `Discovering full corpus for ${asOf}`}: ` +
+    `${totalRows} rows across ${totalPages} pages`
+  );
 
   const allActs: SearchAct[] = [...(firstPage.aktid ?? [])];
 
   for (let page = 2; page <= totalPages; page++) {
-    const next = await fetchSearchPage(page, pageSize, asOf);
+    const next = await fetchSearchPage(page, pageSize, allStatutes ? undefined : asOf);
     allActs.push(...(next.aktid ?? []));
 
     if (page % 2 === 0 || page === totalPages) {
@@ -259,24 +330,36 @@ async function discoverFullCorpusLaws(asOf: string): Promise<TargetLaw[]> {
     }
   }
 
-  const deduped = new Map<string, SearchAct>();
+  const rowsByKey = new Map<string, SearchAct[]>();
   for (const act of allActs) {
     if (!act.url || !act.url.endsWith('.xml')) continue;
-
     const key = normalizeSearchKey(act);
-    const existing = deduped.get(key);
+    const existing = rowsByKey.get(key);
     if (!existing) {
-      deduped.set(key, act);
+      rowsByKey.set(key, [act]);
       continue;
     }
-
-    deduped.set(key, choosePreferredAct(act, existing));
+    existing.push(act);
   }
 
-  const dedupedActs = [...deduped.values()];
-  const laws = buildFullCorpusLaws(dedupedActs);
+  const dedupedActs: SearchAct[] = [];
+  let nonActiveOnly = 0;
+
+  for (const rows of rowsByKey.values()) {
+    if (rows.length === 0) continue;
+
+    const activeRows = rows.filter(row => isActiveAt(row, asOf));
+    const sourceRows = allStatutes && activeRows.length > 0 ? activeRows : rows;
+    if (allStatutes && activeRows.length === 0) nonActiveOnly++;
+
+    const chosen = sourceRows.reduce((best, current) => choosePreferredAct(current, best));
+    dedupedActs.push(chosen);
+  }
+
+  const laws = buildFullCorpusLaws(dedupedActs, asOf);
 
   console.log(`  Deduplicated to ${laws.length} unique statutes`);
+  if (allStatutes) console.log(`  Includes ${nonActiveOnly} non-active-only statute keys`);
 
   return laws;
 }
@@ -312,6 +395,8 @@ async function ingestOneLaw(law: TargetLaw, skipFetch: boolean): Promise<LawResu
     const parsed = parseRiigiTeatajaXml(xml, law);
 
     if (parsed.provisions.length === 0) {
+      // Persist metadata-only records to keep corpus accounting complete.
+      writeSeed(law, parsed);
       return {
         id: law.id,
         title: parsed.title,
@@ -319,7 +404,7 @@ async function ingestOneLaw(law: TargetLaw, skipFetch: boolean): Promise<LawResu
         status: 'SKIPPED',
         provisions: 0,
         definitions: 0,
-        note: 'No provisions extracted',
+        note: 'No provisions extracted (metadata-only seed written)',
       };
     }
 
@@ -349,10 +434,10 @@ async function ingestOneLaw(law: TargetLaw, skipFetch: boolean): Promise<LawResu
 }
 
 async function main(): Promise<void> {
-  const { limit, start, skipFetch, full, resume, asOf } = parseArgs();
+  const { limit, start, skipFetch, full, allStatutes, resume, asOf } = parseArgs();
 
   const discoveredLaws = full
-    ? await discoverFullCorpusLaws(asOf)
+    ? await discoverFullCorpusLaws(asOf, allStatutes)
     : TARGET_LAWS;
 
   const startIndex = Math.max(0, start - 1);
@@ -363,9 +448,14 @@ async function main(): Promise<void> {
   console.log('========================================');
   console.log('Portal: https://www.riigiteataja.ee');
   console.log('Method: XML_DOWNLOAD via /akt/{id}.xml');
-  console.log(`Mode: ${full ? 'FULL_CORPUS' : 'CURATED_10'}`);
+  if (full) {
+    console.log(`Mode: ${allStatutes ? 'FULL_CORPUS_ALL_STATUTES' : 'FULL_CORPUS'}`);
+  } else {
+    console.log('Mode: CURATED_10');
+  }
   console.log(`Target laws: ${laws.length}`);
   if (full) console.log(`As-of date: ${asOf}`);
+  if (allStatutes) console.log('Flag: --all-statutes (include non-active-only statute keys)');
   if (start > 1) console.log(`Start index: ${start}`);
   if (limit) console.log(`Limit: ${limit}`);
   if (skipFetch) console.log('Flag: --skip-fetch (reuse cached XML when available)');

@@ -1,0 +1,190 @@
+{
+  "id": "ee-law-735236",
+  "type": "statute",
+  "title": "Toote ohutuse seadus",
+  "title_en": "Toote ohutuse seadus",
+  "short_name": "TTeOS",
+  "status": "repealed",
+  "issued_date": "2004-03-24",
+  "in_force_date": "2004-05-01",
+  "url": "https://www.riigiteataja.ee/akt/735236.xml",
+  "description": "Official consolidated statute text (Toote ohutuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse eesmärk ja reguleerimisala",
+      "content": "(1) Käesoleva seaduse eesmärk on tagada turule lastud toodete ohutus.\n(2) Käesolevas seaduses sätestatakse toote ohutuse tagamise nõuded ning turujärelevalve korraldamise alused.\n(3) Käesolevat seadust kohaldatakse tootele ja turujärelevalve korraldamisele niivõrd, kuivõrd seda ei ole reguleeritud teiste seadustega.\n(4) Kui tootele on kehtestatud ohutusnõuded muu seadusega, kohaldatakse käesolevat seadust ainult nende omaduste ja ohtude või ohuliikide suhtes, mida ei ole muu seadusega reguleeritud. Sellisele tootele:\n1) ei kohaldata käesoleva seaduse § 3 lõigetes 1–4, §-s 7 ja § 8 lõikes 1 sätestatut, kui vastavad ohud või ohuliigid on muu seadusega reguleeritud;\n2) kohaldatakse käesoleva seaduse § 8 lõigetes 2–7 ja §-des 9–21 sätestatut, välja arvatud juhul, kui muu seadus sisaldab viidatud sätetega sama tähendusega regulatsiooni.\n(5) Käesoleva seaduse §-s 4 sätestatud tootele kohaldatakse käesoleva seaduse §-des 16–21 sätestatut.\n(6) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse (RT I 2001, 58, 354; 2002, 53, 336; 61, 375; 2003, 20, 117; 78, 527) sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Mõisted",
+      "content": "(1) Toode käesoleva seaduse tähenduses on vallasasi, mis on mõeldud tarbijale või mida tarbija võib eeldatavalt mõistlikul viisil kasutada ka juhul, kui see ei ole tarbijale ette nähtud, samuti teenuse osutamise korral tarbijale kättesaadavaks tehtud toode, mida tasu eest või tasuta pakutakse või tehakse kättesaadavaks majandus- või kutsetegevuse käigus, sõltumata sellest, kas toode on uus, kasutatud või parendatud.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud tootena ei käsitata kasutatud toodet, mida pakutakse kui antiikeset, või kui toodet, mida tuleb remontida või taastada enne kasutamist, eeldusel, et pakkuja teavitab sellest asjaolust selgelt tarbijat.\n(3) Turujärelevalve käesoleva seaduse tähenduses on ametite ja inspektsioonide riiklik järelevalvealane tegevus, mille eesmärk on vältida või vähendada turule lastud tootest tulenevat ohtu inimese tervisele ja varale.\n(4) Toote turule laskmine on toote nõuetele vastavuse tõendamise seaduse (RT I 1999, 92, 825; 2003, 45, 308; 81, 543) § 2 lõikes 4 sätestatud tegevus.\n(5) Tarbija on tarbijakaitseseaduse (RT I 2004, 13, 86) § 2 punktis 1 sätestatud isik."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Ohutuse kindlaksmääramine",
+      "content": "(1) Toode on ohutu, kui see mõistlikel kasutustingimustel, arvestades kasutusiga ning asjakohastel juhtudel kasutuselevõtu-, paigaldus- ja hooldusnõuete järgimist, tagab inimese ohutuse ja tervise kaitse.\n(2) Ohutuse kindlaksmääramisel võetakse arvesse eelkõige järgmised asjaolud:\n1) toote omadused, kaasa arvatud koostis, pakend, kokkupaneku juhendid ning asjakohastel juhtudel paigaldamise ja hooldamise juhendid;\n2) mõju teisele tootele, kui võib põhjendatult eeldada nende koos kasutamist;\n3) toote esitlusviis, märgistus, hoiatused, kasutamise ja hävitamise juhendid ning muu teave;\n4) võimalik oht toote kasutamise korral tarbijate riskirühmadele, eriti lastele ja vanuritele.\n(3) Toodet ei või pidada ohtlikuks põhjusel, et seda on võimalik ohutumaks teha või mõni sama liiki toode on ohutum.\n(4) Ohtlik toode on iga toode, mis ei vasta käesoleva paragrahvi lõigetes 1–3 sätestatule.\n(5) Tõsise ohuna käsitatakse tootest tulenevat ohtu, kaasa arvatud ohtu, mille mõju ei ole otsene, mis nõuab turujärelevalveasutuse kiiret sekkumist.\n(6) Vabariigi Valitsus või tema volitatud minister võib kehtestada erinevatele toodetele ohutusnõuded ja nendele nõuetele vastavuse tõendamise korra."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Eksitava välimusega ohtlik toode",
+      "content": "(1) Eksitava välimusega ohtlik toode on toode, mis ei ole söödav, kuid mille suurus, lõhn, värvus, välimus, kuju, pakend või märgistus on selline, et tarbija, eelkõige laps, võib seda ekslikult pidada toiduks ja selle suhupanemine, imemine või allaneelamine võib olla ohtlik ning põhjustada tervisekahjustusi.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud toote tootmine, turule laskmine, importimine ja eksportimine on keelatud."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Tootja ja levitaja",
+      "content": "(1) Tootja käesoleva seaduse tähenduses on:\n1) toote valmistaja, kelle tegevuskoht on Euroopa Liidu liikmesriigis, või muu isik, kes esitleb end tootjana ja lisab tootele oma nime, kaubamärgi või muu eraldusmärgi või kes parendab toodet;\n2) toote valmistaja esindaja, kui toote valmistaja tegevuskoht ei ole Euroopa Liidu liikmesriigis;\n3) toote importija, kui toote valmistaja esindaja tegevuskoht ei ole Euroopa Liidu liikmesriigis;\n4) muu isik toote turustusahelas niivõrd, kuivõrd tema tegevus võib mõjutada toote ohutust.\n(2) Levitaja käesoleva seaduse tähenduses on iga majandus- või kutsetegevuse käigus toodet turustusahelas pakkuv isik, kelle tegevus ei mõjuta toote ohutust."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Toote tarbijalt tagasinõudmine ja turult kõrvaldamine",
+      "content": "(1) Toote tarbijalt tagasinõudmine käesoleva seaduse tähenduses on iga tegevus, mille eesmärk on saada tagasi tootja või levitaja poolt tarbijale üleantud või kättesaadavaks tehtud ohtlik toode.\n(2) Toote tarbijalt tagasinõudmise korral hüvitab tootja või levitaja tagastatud toote müügihinna tarbijale.\n(3) Toote turult kõrvaldamine käesoleva seaduse tähenduses on iga tegevus, mille eesmärk on vältida tarbijale ohtliku toote levitamist, esitlemist ja pakkumist."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - TOOTE OHUTUSE EELDAMINE, HINDAMINE NING TOOTJA JA LEVITAJA KOHUSTUSED OHUTUSE TAGAMISEL",
+      "section": "7",
+      "title": "§ 7. Ohutuse eeldamine ja hindamine",
+      "content": "(1) Toote ohutust tuleb eeldada, kui see vastab selle Euroopa Liidu liikmesriigi tervisekaitse- ja ohutusnõuetele, kus toode on turule lastud, ja kui seda valdkonda ei ole reguleeritud toodet või tooteliiki käsitlevate Euroopa Liidu eriaktidega ning juhul, kui selle liikmesriigi vastavad nõuded on kooskõlas Euroopa Ühenduse asutamislepinguga.\n(2) Toote ohutust tuleb eeldada ka, kui on täidetud tehnilise normi ja standardi seaduse (RT I 1999, 29, 398; 2000, 29, 169; 78, 495; 2002, 32, 186; 99, 580; 2003, 88, 594; 2004, 2, 8) § 6 lõikes 2 sätestatud tingimused.\n(3) Kui vastavalt käesoleva paragrahvi lõikes 1 või 2 sätestatule ei ole võimalik toote ohutust eeldada, hinnatakse selle ohutust, arvestades:\n1) Eesti standardeiks ülevõetud Euroopa standardiorganisatsioonide standardeid, mis ei ole harmoneeritud standardid;\n2) algupäraseid Eesti standardeid;\n3) Euroopa Komisjoni soovitusi, milles antakse juhiseid toote ohutuse hindamiseks;\n4) vastava tööstusharu toote ohutuse hea tava reegleid;\n5) teaduse ja tehnika hetkeseisu;\n6) tarbijate põhjendatud ootusi ohutuse suhtes.\n(4) Kui turujärelevalveasutusel on tõendeid, et toode on ohtlik, vaatamata käesoleva paragrahvi lõigetes 1–3 sätestatud kriteeriumidele, on tal õigus rakendada toote turule laskmise kitsendusi või nõuda selle tarbijalt tagasinõudmist või turult kõrvaldamist."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - TOOTE OHUTUSE EELDAMINE, HINDAMINE NING TOOTJA JA LEVITAJA KOHUSTUSED OHUTUSE TAGAMISEL",
+      "section": "8",
+      "title": "§ 8. Tootja kohustused",
+      "content": "(1) Tootjal on lubatud turule lasta ainult ohutut toodet.\n(2) Tootja on kohustatud andma tarbijale asjakohast teavet, et võimaldada tal hinnata toote võimalikke ohte selle tavalise või mõistliku kasutusea jooksul, kui sellised ohud ei ole vastavate hoiatusteta kohe selged, ning mis võimaldaksid tarbijal võtta kasutusele ettevaatusabinõusid nende ohtude vältimiseks.\n(3) Hoiatuste olemasolu ei vabasta tootjat muude käesolevas seaduses sätestatud nõuete täitmisest.\n(4) Tootja on kohustatud kasutusele võtma pakutava toote eripärale vastavaid meetmeid, mis võimaldaksid tal:\n1) olla teadlik ohtudest, mida toode võib põhjustada;\n2) valida ohtude vältimiseks sobiv tegevus, nagu toote turult kõrvaldamine, tarbijate hoiatamine või toote tarbijalt tagasinõudmine.\n(5) Käesoleva paragrahvi lõikes 4 loetletud meetmed peavad hõlmama:\n1) toote või selle pakendi märgistamist tootja andmetega viitega tootele või seeriale, millesse see kuulub, välja arvatud juhtudel, kui sellise teabe esitamata jätmine on põhjendatud;\n2) turule lastud toote pistelist katsetamist, vajaduse korral kaebusteregistri pidamist, levitajate teavitamist vastavast seirest;\n3) muid asjakohaseid meetmeid.\n(6) Käesoleva paragrahvi lõike 5 punktis 2 loetletud tegevusi algatab tootja ise või teeb järelevalveametniku nõudel.\n(7) Kui muudest käesolevas seaduses sätestatud meetmetest ei piisa ohtude vältimiseks, rakendatakse toote tarbijalt tagasinõudmist juhul, kui:\n1) tootja peab seda vajalikuks või\n2) turujärelevalveasutus kohustab selleks tootjat."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - TOOTE OHUTUSE EELDAMINE, HINDAMINE NING TOOTJA JA LEVITAJA KOHUSTUSED OHUTUSE TAGAMISEL",
+      "section": "9",
+      "title": "§ 9. Levitaja kohustused",
+      "content": "(1) Levitaja on kohustatud tegutsema asjakohaselt, et tagada toote vastavus ohutusnõuetele. Levitajal ei ole lubatud pakkuda toodet, mis tema valduses oleva teabe kohaselt ei vasta ohutusnõuetele või mille mittevastavust ohutusnõuetele oleks pidanud eeldama.\n(2) Levitaja on kohustatud oma tegevuse ulatuses osalema turule lastud toote ohutuse seires, edastama tootjale teavet toote ohtude kohta, hoidma toote päritolu väljaselgitamiseks vajalikku dokumentatsiooni ja tegema ohtude vältimiseks koostööd tootjate ja turujärelevalveasutustega."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - TOOTE OHUTUSE EELDAMINE, HINDAMINE NING TOOTJA JA LEVITAJA KOHUSTUSED OHUTUSE TAGAMISEL",
+      "section": "10",
+      "title": "§ 10. Turujärelevalveasutuse teavitamine",
+      "content": "(1) Kui tootja või levitaja teab või peaks teadma tema valduses oleva teabe põhjal, et tema poolt turule lastud toodet ei saa käesoleva seaduse §-s 7 sätestatu alusel lugeda ohutuks, on ta viivitamatult kohustatud sellest teavitama turujärelevalveasutust, kes vastava tootegrupi järelevalvet teostab.\n(2) Tõsise ohu korral on tootja või levitaja kohustatud turujärelevalveasutusele edastama:\n1) teabe, mis võimaldab täpselt tuvastada asjakohase toote või tooteseeria;\n2) tootest tuleneva ohu täieliku kirjelduse;\n3) toote varasemate ja hilisemate valdajate ja pakkujate tuvastamist võimaldava teabe;\n4) teabe ohtude vältimiseks kasutusele võetud meetmete kohta;\n5) muu turujärelevalveasutuse poolt nõutava teabe.\n(3) Tootja ja levitaja on kohustatud tegema turujärelevalveasutusega koostööd, et vältida nende pakutavast või tarbijale üleantud tootest tulenevaid ohte."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "3. peatükk - TURUJÄRELEVALVE",
+      "section": "11",
+      "title": "§ 11. Turujärelevalveasutuse pädevus",
+      "content": "(1) Käesolevas seaduses sätestatud nõuete täitmise üle teostab turujärelevalvet Tarbijakaitseamet ning teised ametid ja inspektsioonid oma pädevuse ulatuses.\n(2) Turujärelevalveasutuse pädevusse kuulub järelevalve käigus toote ohutuse kontrollimine ning ettekirjutuste ja otsuste tegemine.\n(3) Turujärelevalveasutused on kohustatud tegema koostööd ja vajaduse korral vahetama informatsiooni.\n(4) Turujärelevalveasutuse ning Maksu- ja Tolliameti koostööd korraldatakse vastavalt EÜ Nõukogu määrusele 339/93/EMÜ kolmandatest riikidest imporditud toodete tooteohutuse eeskirjadele vastavuse kontrolli kohta (EÜT L 40, 17.02.1993, lk 1–4)."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - TURUJÄRELEVALVE",
+      "section": "12",
+      "title": "§ 12. Turujärelevalvet teostava ametiisiku õigused ja kohustused",
+      "content": "(1) Turujärelevalvet teostavad ametiisikud kontrollivad toote ohutust:\n1) plaanipäraselt või,\n2) kui on kahtlus, et toode ei ole ohutu.\n(2) Turujärelevalvet teostaval ametiisikul on iga turule lastud toote suhtes õigus:\n1) kontrollida käesoleva seaduse täitmist takistamatult ja ette teatamata;\n2) kontrollida toote ohutust vajalikus ulatuses kuni toode ei ole jõudnud lõpptarbijani ning seda ka juhul, kui toode on ohutuna turule lastud;\n3) kontrollida toote ohutusnõuetele vastavust tõendavaid dokumente, teha neist ärakirju, kasutada tehnilisi vahendeid olukorra fikseerimiseks ja nõuda ohutuse hindamiseks vajalikku teavet kõigilt asjasse puutuvatelt isikutelt;\n4) võtta tootjalt ja levitajalt tooteid nende ohutuse kontrollimiseks, arvestades käesoleva seaduse §-s 13 sätestatud toote kontrollimise kulude tasumise korda;\n5) teha oma pädevuse piires ettekirjutusi, määrata nende täitmise tähtaegu ja kontrollida nende täitmist.\n(3) Toote suhtes, mis võib põhjustada ohtu teatud tingimustel, on turujärelevalvet teostaval ametiisikul õigus:\n1) nõuda selle märgistamist eestikeelsete selgesõnaliste asjakohaste hoiatustega nende ohtude kohta, mida toode võib põhjustada;\n2) seada selle turule laskmisele eeltingimusi, mis tagaksid ohutuse.\n(4) Toote suhtes, mis võib põhjustada ohtu teatud isikutele, on turujärelevalvet teostaval ametiisikul õigus nõuda, et neid isikuid hoiatatakse ohust sobival viisil ja ajal, sealhulgas eraldi hoiatuste avaldamise abil.\n(5) Toote suhtes, mis võib olla ohtlik, on turujärelevalvet teostaval ametiisikul õigus nõuda selle ajutist turult kõrvaldamist või keelata selle esitlemine ajaks, mis on vajalik ohutuse hindamiseks ja kontrollimiseks.\n(6) Turujärelevalvet teostav ametiisik võib keelata ohtliku toote turule laskmise ja tal on õigus kasutusele võtta meetmed, mis tagavad sellise keelu täitmise.\n(7) Turujärelevalvet teostaval ametiisikul on õigus ohtliku tootega seoses:\n1) nõuda või korraldada selle tegelikku ja kohest turult kõrvaldamist ja hoiatada tarbijaid toote ohtudest;\n2) nõuda, koordineerida või korraldada koos tootjate ja levitajatega selle tagasinõudmist tarbijatelt ning vajaduse korral hävitamist.\n(8) Tõsise ohu korral on turujärelevalveasutusel ning Maksu- ja Tolliametil õigus keelata toote eksport."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - TURUJÄRELEVALVE",
+      "section": "13",
+      "title": "§ 13. Ohutuse kontrollimine",
+      "content": "(1) Turujärelevalveasutusel on turujärelevalve käigus õigus:\n1) võtta tootjalt või levitajalt turule lastud toote näidis tasuta selle ohutuse kontrollimiseks;\n2) vajaduse korral tellida toote ohutuse kontrollimiseks ekspertiis.\n(2) Ohutuse kontrollimiseks tellitud ekspertiisi kulud kannab turujärelevalveasutus.\n(3) Kui tuvastatakse, et toode ei ole ohutu, peab selle tootja või levitaja hüvitama ohutuse kontrollimiseks tellitud ekspertiisi dokumentaalselt tõendatud kulud.\n(4) Kontrollimiseks võetud tootenäidis tagastatakse tootjale või levitajale. Kui kontrollimiseks võetud toode hävib kontrollimise käigus osaliselt või täielikult või muutub kasutamiskõlbmatuks, hüvitab turujärelevalveasutus tootjale või levitajale tekitatud kahju."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - TURUJÄRELEVALVE",
+      "section": "14",
+      "title": "§ 14. Turujärelevalve toimingu vastavus ohule",
+      "content": "(1) Turujärelevalveasutus on kohustatud soodustama tootjate ja levitajate toote ohutuse suurendamisele suunatud vabatahtlikke toiminguid, mille kasutamise võimalus on neile käesoleva seadusega ette nähtud.\n(2) Turujärelevalveasutusel on õigus korraldada või nõuda käesoleva seaduse § 12 lõikes 7 loetletud toiminguid, kui tootja või levitaja ei ole talle seadusega pandud tootega seonduvaid kohustusi täitnud või ei ole täitnud neid täielikult. Toote tarbijalt tagasinõudmist tuleb rakendada juhul, kui muudest meetmetest ei piisa.\n(3) Turujärelevalveasutusel on tõsise ohu korral õigus rakendada kõiki käesoleva seaduse § 12 lõigetes 3–7 loetletud toiminguid.\n(4) Käesolevas paragrahvis ja §-s 12 sätestatut kohaldatakse:\n1) tootjale;\n2) levitajale tema vastava tegevuse ulatuses, eelkõige isikule, kes on toote esmane levitaja Eestis;\n3) muule isikule, kelle tegevusest võib sõltuda tootest tulenev oht."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - TURUJÄRELEVALVE",
+      "section": "15",
+      "title": "§ 15. Toote turule laskmise kitsendustest Euroopa Komisjoni teavitamine",
+      "content": "(1) Kui toote turule laskmisele kohaldatakse käesoleva seaduse § 12 lõigetes 3–7 loetletud kitsendusi, samuti juhul, kui turujärelevalveasutus rakendab või kavatseb rakendada tootjate ja levitajate suhtes tootest tuleneva tõsise ohu tõttu soovituslikke, kokkuleppelisi või kohustuslikke meetmeid, millega nähakse ette eritingimusi sellise toote võimalikul turule laskmise või kasutamise korral, teavitab asjakohane turujärelevalveasutus sellest Euroopa Komisjoni, kui teavitamise kohustus ei tulene muust seadusest.\n(2) Teavitamisel põhjendatakse kohaldatud kitsendusi. Teavitada tuleb ka kitsenduste muutmisest ja kehtetuks tunnistamisest.\n(3) Kui võib eeldada, et tootest tuleneva ohu mõjud ei välju või ei saa väljuda Eesti territooriumilt, teavitatakse vaid toote ohutuse seisukohast teisi Euroopa Liidu liikmesriike huvitada võivatest kitsendustest, eriti kitsendustest, mida kohaldatakse varem teavitamata ohtude suhtes.\n(4) Tõsise ohu korral teavitatakse ka tootja või levitaja poolt vabatahtlikult käesoleva seaduse §-des 8–10 sätestatud meetmete kasutusele võtmisest.\n(5) Toote turule laskmise kitsendustest Euroopa Komisjoni teavitamise kord kehtestatakse Vabariigi Valitsuse määrusega."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - TURUJÄRELEVALVE",
+      "section": "16",
+      "title": "§ 16. Teabe avalikustamine",
+      "content": "(1) Toote ohutust puudutava teabe avalikustab turujärelevalveasutus avaliku teabe seaduses (RT I 2000, 92, 597; 2002, 61, 375; 63, 387; 2003, 25, 153; 26, 158; 32, õiend) sätestatud korras käesolevast paragrahvist tulenevate erisustega.\n(2) Turujärelevalveasutuse valduses olev teave, mis puudutab tootest tulenevaid ohte tarbija tervisele ja varale, välja arvatud seire- ja uurimistegevust puudutav teave, on avalik. Avalik on ka teave, mis puudutab toote identifitseerimist, ohu eripära ja rakendatud meetmeid.\n(3) Tootja ja levitaja on kohustatud esitama turujärelevalveasutusele ka ärisaladust sisaldava teabe, et tagada seire- ja järelevalvetoimingute tõhusus.\n(4) Turujärelevalveasutusel ei ole põhjendatud juhtudel lubatud avaldada käesoleva seaduse rakendamisel saadud teavet, mis on tootja või levitaja ärisaladus, välja arvatud toote ohutusomadusi puudutav teave, mille avalikustamine on põhjendatud vajadusega kaitsta tarbija tervist ja vara.\n(5) Turujärelevalveasutus on vajaduse korral kohustatud avalikkust teavitama konkreetse toote ohtlikkusest ühes üleriigilise levikuga päevalehes, teiste meediakanalite kaudu või muul võimalikul viisil."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - TURUJÄRELEVALVE",
+      "section": "17",
+      "title": "§ 17. Ettekirjutus ja toiming",
+      "content": "(1) Käesoleva seaduse või selle alusel kehtestatud õigusaktide nõuete rikkumise lõpetamiseks, sealhulgas nõuetele mittevastava toote turult kõrvaldamiseks või tarbijalt tagasinõudmiseks teeb turujärelevalvet teostav ametiisik ettekirjutuse, milles:\n1) juhib tähelepanu õigusrikkumisele ja esitab nõude selle lõpetamiseks,\n2) esitab vajaduse korral nõude õigusrikkumisega seotud tegevuse osaliseks või täielikuks peatamiseks või\n3) kohustab tegema edasise tegevuse õiguspäraseks jätkamiseks vajalikke toiminguid.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud ettekirjutuse täitmata jätmise korral võib turujärelevalvet teostav ametiisik rakendada sunnivahendit asendustäitmise ja sunniraha seaduses (RT I 2001, 50, 283; 94, 580) sätestatud korras. Sunniraha ülemmäär on 10 000 krooni.\n(3) Enne ettekirjutuse tegemist toote turult kõrvaldamise või tarbijalt tagasinõudmise kohta või enne vastava toimingu sooritamist tuleb tootjale ja levitajale anda võimalus esitada vastuväiteid.\n(4) Kui tootjale või levitajale ei antud võimalust esitada vastuväiteid enne ettekirjutuse tegemist toote turult kõrvaldamise või tarbijalt tagasinõudmise kohta või enne vastava toimingu sooritamist põhjusel, et turujärelevalveasutus oli kohustatud meetmeid rakendama viivitamatult, tuleb tootja ja levitaja arvamust küsida pärast ettekirjutuse tegemist või toimingu sooritamist.\n(5) Toote tarbijalt tagasinõudmise või turult kõrvaldamise nõuet sätestavas ettekirjutuses ning vastava toimingu sooritamise korral tuleb vastavate meetmete rakendamisel soodustada levitajate, kasutajate ja tarbijate osavõttu."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - TURUJÄRELEVALVE",
+      "section": "18",
+      "title": "§ 18. Ettekirjutuse ja toimingu vaidlustamine",
+      "content": "(1) Turujärelevalvet teostava ametiisiku ettekirjutuse või toiminguga mittenõustumise korral on õigus esitada kirjalik vaie turujärelevalveasutuse peadirektorile 10 tööpäeva jooksul ettekirjutusest või toimingust teadasaamise päevast arvates.\n(2) Vaiet ei saa esitada turujärelevalveasutuse peadirektori haldusakti või toimingu peale.\n(3) Vaide esitamine ei välista kohustust täita ettekirjutust.\n(4) Turujärelevalveasutuse peadirektor vaatab vaide läbi ning teeb otsuse 14 tööpäeva jooksul vaide esitamise päevast arvates. Vaide läbivaatamisest ei või osa võtta ametiisik, kelle ettekirjutuse või toimingu peale vaie on esitatud.\n(5) Turujärelevalveasutuse peadirektori otsus tehakse vaide esitanud isikule teatavaks ning antakse kätte allkirja vastu või saadetakse posti teel väljastusteatega kahe tööpäeva jooksul otsuse tegemise päevast arvates."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "4. peatükk - VASTUTUS",
+      "section": "19",
+      "title": "§ 19. Nõuetele mittevastava toote turule laskmine",
+      "content": "(1) Nõuetele mittevastava toote turule laskmise eest, samuti sellise toote turult kõrvaldamata jätmise või tarbijalt tagasi nõudmata jätmise eest tootja või levitaja poolt – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 40 000 krooni."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "4. peatükk - VASTUTUS",
+      "section": "20",
+      "title": "§ 20. Toote ohtudest teavitamata jätmine",
+      "content": "(1) Turule lastud toodetel ilmnenud ohtudest teavitamata jätmise eest tootja või levitaja poolt – karistatakse rahatrahviga kuni 100 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 30 000 krooni."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - VASTUTUS",
+      "section": "21",
+      "title": "§ 21. Menetlus",
+      "content": "(1) Käesoleva seaduse §-des 19 ja 20 sätestatud väärtegude menetlemisele kohaldatakse karistusseadustiku (RT I 2001, 61, 364; 2002, 86, 504; 82, 480; 105, 612; 2003, 4, 22; 83, 557; 90, 601; 2004, 7, 40) üldosa ja väärteomenetluse seadustiku (RT I 2002, 50, 313; 110, 654; 2003, 26, 156; 83, 557; 88, 590) sätteid.\n(2) Käesoleva seaduse §-des 19 ja 20 sätestatud väärtegude kohtuväline menetleja on:\n1) Tarbijakaitseamet;\n2) Tehnilise Järelevalve Inspektsioon;\n3) Tervisekaitseinspektsioon;\n4) Tööinspektsioon."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "22",
+      "title": "§ 22. Enne käesoleva seaduse jõustumist turule lastud toode",
+      "content": "Enne käesoleva seaduse jõustumist turule lastud toode ei tohi ohustada inimese tervist ega vara ja peab vastama turule laskmise ajal kehtinud nõuetele, kui seadusest ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "23",
+      "title": "§ 23. Seaduste kehtetuks tunnistamine ja täiendamine",
+      "content": "(1) Toote ohutuse seadus (RT I 1998, 40, 613; 1999, 82, 753; 2000, 86, 546; 2002, 47, 297; 61, 375; 63, 387; 2003, 20, 120; 26, 156; 32, õiend) tunnistatakse kehtetuks.\n(2) Tehnilise normi ja standardi seadust (RT I 1999, 29, 398; 2000, 29, 169; 78, 495; 2002, 32, 186; 99, 580; 2003, 88, 594; 2004, 2, 8) täiendatakse §-ga 8 ^1 järgmises sõnastuses: « § 8 ^1. Vastastikune tunnustamine\n(1) Kui seadusega või selle alusel kehtestatud õigusaktiga esitatakse tootele nõue, mis ei tulene Euroopa Liidu õigusaktist, võib sellisele nõudele mittevastava toote Eestis turule lasta ja kasutusele võtta, kui see on õiguspäraselt valmistatud Euroopa Majanduspiirkonna liikmesriigis või kui see on õiguspäraselt valmistatud või turule lastud Euroopa Liidu liikmesriigis või Türgis, tingimusel, et selle toote puhul on tagatud seadusega või selle alusel kehtestatud õigusaktis sätestatuga samaväärne kaitse.\n(2) Turujärelevalveasutus võib keelata käesoleva paragrahvi lõikes 1 kirjeldatud toote Eestis turule laskmise või nõuda selle turult kõrvaldamist, kui see ei vasta seadusega või selle alusel kehtestatud õigusaktiga kehtestatud kaitsenõuetele, olles eelnevalt sellest kirjalikult teavitanud kõnealuse toote tootjat või levitajat, kes lasi nimetatud toote Eesti turule.\n(3) Käesolevas paragrahvis sätestatust võib õigusaktiga ette näha erisusi.»"
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "24",
+      "title": "§ 24. Üleminekusäte",
+      "content": "Toote ohutuse seaduse (RT I 1998, 40, 613; 1999, 82, 753; 2000, 86, 546; 2002, 47, 297; 61, 375; 63, 387; 2003, 20, 120; 26, 156; 32, õiend) § 3 lõike 1 ^1 alusel antud määrused kehtivad nende kehtetuks tunnistamiseni, kuid mitte kauem kui 2005. aasta 1. jaanuarini."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "25",
+      "title": "§ 25. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2004. aasta 1. mail. Riigikogu esimees Ene ERGMA ^1 Euroopa Parlamendi ja EL Nõukogu direktiiv 2001/95/EÜ üldise tooteohutuse kohta (EÜT L 11, 15.01.2002, lk 4–17) ja EÜ Nõukogu direktiiv 87/357/EMÜ tervist või turvalisust ohustavaid eksitava välimusega tooteid käsitlevate liikmesriikide õigusaktide ühtlustamise kohta (EÜT L 192, 11.07.1987, lk 49–50)."
+    }
+  ],
+  "definitions": []
+}

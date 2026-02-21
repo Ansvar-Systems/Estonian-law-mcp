@@ -1,0 +1,247 @@
+{
+  "id": "ee-law-121062024016",
+  "type": "statute",
+  "title": "Küberturvalisuse seadus",
+  "title_en": "Küberturvalisuse seadus",
+  "short_name": "ee-law-121062024016",
+  "status": "not_yet_in_force",
+  "issued_date": "2018-05-09",
+  "in_force_date": "2027-01-01",
+  "url": "https://www.riigiteataja.ee/akt/121062024016.xml",
+  "description": "Official consolidated statute text (Küberturvalisuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimis- ja kohaldamisala",
+      "content": "(1) Käesolev seadus sätestab ühiskonna toimimise seisukohast oluliste, sealhulgas avaliku sektori võrgu- ja infosüsteemide pidamise nõuded, vastutuse ja järelevalve ning küberintsidentide ennetamise ja lahendamise alused.\n(2) Käesolevat seadust ei kohaldata:\n1) riigisaladuse ja salastatud välisteabe töötlemisele ning sellise teabe töötlussüsteemide pidamisele;\n2) Kaitseministeeriumi valitsemisalas rahvusvaheliseks sõjaliseks koostööks ja riigi sõjalise kaitse ettevalmistamiseks vajalike süsteemide pidamisele.\n(3) Käesolevat seadust ei kohaldata digitaalse teenuse osutajale, kellel on majandusaasta jooksul keskmiselt alla 50 töötaja ja kelle aasta bilansimaht või aastakäive ei ületa 10 miljonit eurot, arvestades mikro- ja väikeste ettevõtjate määratlusi Euroopa Komisjoni soovituses 2003/361/EÜ mikro-, väikeste ja keskmise suurusega ettevõtjate määratlemise kohta (ELT L 124, 20.05.2003, lk 36–41).\n(4) Kui võrgu- ja infosüsteemi pidamise nõuded on reguleeritud välislepinguga või muu seadusega, kohaldatakse käesolevat seadust välislepingust või muust seadusest tulenevate erisustega.\n(5) Käesolevas seaduses sätestatud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Terminid",
+      "content": "Käesolevas seaduses kasutatakse termineid järgmises tähenduses: 1 1) võrgu- ja infosüsteem (edaspidi süsteem ) – elektroonilise side võrk elektroonilise side seaduse § 2 punkti 8 tähenduses, seade või omavahel ühendatud või seotud seadmete rühm, millest vähemalt ühes toimub mõne programmi kohaselt digitaalsete andmete automaatne töötlemine, või digitaalsed andmed, mida salvestatakse, töödeldakse, saadakse päringuga või edastatakse eelnimetatud komponentide poolt nende töö, kasutamise, kaitsmise või hooldamise jaoks;\n2) süsteemi turvalisus – süsteemi võime osutada vastupanu mis tahes tegevusele, mis ohustab süsteemis töödeldavate andmete või süsteemi kaudu osutatavate või juurdepääsetavate teenuste käideldavust, autentsust, terviklust ja konfidentsiaalsust;\n2^1) turvameetmed – rakendatavad organisatsioonilised, füüsilised ja infotehnilised toimingud või vahendid andmete ja süsteemide turvalisuse saavutamiseks ning säilitamiseks;\n3) küberintsident – süsteemis toimuv sündmus, mis ohustab või kahjustab süsteemi turvalisust;\n4) digitaalse teenuse osutaja esindaja (edaspidi esindaja ) – Euroopa Liidus asuv füüsiline või juriidiline isik, kes on määratud tegutsema väljaspool Euroopa Liitu asuva digitaalse teenuse osutaja nimel ja kelle poole võib liikmesriigi pädev asutus või küberturbe intsidentide lahendamise üksus pöörduda digitaalse teenuse osutaja asemel seoses digitaalse teenuse osutaja kohustusega, mis tuleneb käesolevast seadusest;\n5) internetipõhine kauplemiskoht – infoühiskonna teenus, mis võimaldab tarbijakaitseseaduse tähenduses tarbijal ja kauplejal sõlmida internetipõhise müügi- või teenuse osutamise lepingu kas internetipõhise kauplemiskoha veebisaidil või kaupleja veebisaidil, mis kasutab internetipõhise kauplemiskoha pakutavat andmetöötlusteenust;\n6) internetipõhine otsimootor – infoühiskonna teenus, mis võimaldab kasutajal teha otsingut kõikidel veebisaitidel või konkreetses keeles veebisaitidel mis tahes teemal võtmesõna, fraasi või muu sisendi vormis päringu alusel ning saadab vastuseks lingid, kust võib leida teavet taotletud sisu kohta;\n7) pilvandmetöötlusteenus – infoühiskonna teenus, mis võimaldab juurdepääsu andmetöötlusressursside kogumile, mis on paindlikult jagatav ning laiendatav süsteemi ennast muutmata;\n8) küberturbe intsidentide lahendamise üksus – ekspertide grupp, kelle ülesandeks on küberintsidendi tuvastamist, analüüsimist ja ohjeldamist ning küberintsidendile reageerimist toetavad toimingud."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Teenuse osutaja",
+      "content": "(1) Teenuse osutaja käesoleva seaduse tähenduses on isik, kes kasutab süsteemi järgmiselt:\n1) hädaolukorra seaduses sätestatud elutähtsa teenuse osutaja elutähtsa teenuse osutamisel;\n2) raudteeseaduses sätestatud raudtee-ettevõtja, kes majandab avalikku raudteeinfrastruktuuri või kelle kaubaveo või reisijateveo turuosa on vähemalt 20 protsenti kaubaveo või reisijateveo turuosast avaliku raudtee toimimise ning raudteeveo ja avaliku reisijateveo toimimise teenuse osutamisel;\n3) lennundusseaduses sätestatud lennuvälja käitaja, kelle käitatav lennuväli on avatud rahvusvaheliseks regulaarseks lennuliikluseks, samuti Tallinna lennuinfopiirkonnas lennuliikluse teenindamist tagav aeronavigatsiooniteenuse osutaja lennuvälja toimimise ja aeronavigatsiooni toimimise teenuse osutamisel;\n4) sadamateenuse osutaja, kes on sadamaseaduse tähenduses sellise sadama pidaja või sellise sadamarajatise valdaja, mis teenindab 500-se ja enama kogumahutavusega laevu või rahvusvahelises meresõidus sõitvaid reisilaevu sadama toimimise teenuse osutamisel;\n5) elektroonilise side seaduses sätestatud sideettevõtja, kes osutab kaabelleviteenust, mida tarbib vähemalt 10 000 lõppkasutajat, ja ringhäälinguvõrgu teenuse osutaja kaabelleviteenuse või ringhäälinguvõrgu teenuse osutamisel;\n6) tervishoiuteenuste korraldamise seaduses sätestatud haiglavõrku kuuluvate piirkondliku haigla ja keskhaigla pidaja statsionaarse eriarstiabi osutamisel ja kiirabibrigaadi pidaja kiirabi osutamisel;\n7) tervishoiuteenuste korraldamise seaduses sätestatud perearstiabi osutaja perearstiabi osutamisel;\n8) Eesti maatunnusega seotud tipptaseme domeeninimede registri haldaja registri pidamiseks kasutatava süsteemi ja tipptaseme nimeserveri teenuse osutamisel;\n9) kriitilise tähtsusega side-, mereraadioside ja operatiivraadiosidevõrgu teenuse osutaja elektroonilise side seaduse tähenduses nende teenuste osutamisel.\n10)\n(2) Käesoleva paragrahvi lõikes 1 nimetatud teenuse osutajat, kes tegutseb Euroopa Parlamendi ja nõukogu direktiivi (EL) 2016/1148 meetmete kohta, millega tagada võrgu- ja infosüsteemide turvalisuse ühtlaselt kõrge tase kogu liidus (ELT L 194, 19.07.2016, lk 1–30), II lisas esitatud sektorites, loetakse olulise teenuse operaatoriks nimetatud direktiivi tähenduses.\n(3) Riigi Infosüsteemi Amet tuvastab iga kahe aasta tagant käesoleva seaduse kohaldamisalas olevad teenuse osutajad, kes tegutsevad Euroopa Parlamendi ja nõukogu direktiivi (EL) 2016/1148 II lisas esitatud sektorites.\n(4) Käesolevas seaduses teenuse osutaja kohta sätestatut kohaldatakse ka:\n1) andmekogu vastutavale töötlejale ja volitatud töötlejale;\n2) Arenguseire Keskusele;\n3) Eesti Pangale;\n4) kohaliku omavalitsuse üksusele ja kohaliku omavalitsuse üksuste liidule;\n5) kohtuasutusele;\n6) riigi valimisteenistusele;\n7) Riigikogu Kantseleile;\n8) Riigikontrollile;\n9) Riigimetsa Majandamise Keskusele;\n10) seaduse alusel asutatud avalik-õiguslikule juriidilisele isikule;\n11) Vabariigi Presidendi Kantseleile;\n12) valitsusasutusele ja valitsusasutuse hallatavale riigiasutusele;\n13) valla või linna ametiasutusele, valla või linna ametiasutuse hallatavale asutusele, osavallale, linnaosale, osavalla või linnaosa ametiasutusele, osavalla või linnaosa ametiasutuse hallatavale asutusele ning kohaliku omavalitsuse üksuste ühisametile ja -asutusele;\n14) Õiguskantsleri Kantseleile."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Digitaalse teenuse osutaja",
+      "content": "(1) Digitaalse teenuse osutaja käesoleva seaduse tähenduses on infoühiskonna teenuse seaduses sätestatud infoühiskonna teenuse osutaja, kes:\n1) pakub internetipõhist kauplemiskohta;\n2) pakub internetipõhist otsimootorit või\n3) osutab pilvandmetöötlusteenust.\n(2) Eestis teenust osutav, kuid väljaspool Euroopa Liitu asutatud digitaalse teenuse osutaja peab määrama esindaja Eestis või mõnes teises Euroopa Liidu liikmesriigis, kus ta teenust osutab, ning tegema püsivalt avalikult kättesaadavaks esindaja kontaktandmed."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5",
+      "title": "§ 5. Ühtne kontaktpunkt ja pädev asutus",
+      "content": "Euroopa Parlamendi ja nõukogu direktiivi (EL) 2016/1148 artikli 8 lõikes 1 nimetatud pädeva asutuse ja lõikes 3 nimetatud ühtse kontaktpunkti ning artikli 9 lõikes 1 nimetatud küberturbe intsidentide lahendamise üksuse ülesandeid täidab Riigi Infosüsteemi Amet."
+    },
+    {
+      "provision_ref": "para5^1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5^1",
+      "title": "§ 5^1. Küberturvalisuse valdkonna tööstuse, tehnoloogia ja teadusuuringute Euroopa pädevuskeskus ning riiklik koordineerimiskeskus",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/887, millega luuakse küberturvalisuse valdkonna tööstuse, tehnoloogia ja teadusuuringute Euroopa pädevuskeskus ning riiklike koordineerimiskeskuste võrgustik (ELT L 202, 08.06.2021, lk 1–31), artikli 12 tähenduses küberturvalisuse valdkonna tööstuse, tehnoloogia ja teadusuuringute Euroopa pädevuskeskuse nõukogu esindaja ja asendusliikme nimetab valdkonna eest vastutav minister käskkirjaga.\n(2) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/887 artikli 6 tähenduses riikliku koordineerimiskeskuse ülesandeid täidab Eesti küberturvalisuse valdkonna tööstuse, tehnoloogia ja teadusuuringute koordineerimisüksus.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud koordineerimisüksuse määrab ja tema ülesannete täitmise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "6",
+      "title": "§ 6. Küberturvalisuse tagamise põhimõtted",
+      "content": "Küberturvalisuse tagamisel arvestatakse järgmisi põhimõtteid: 1 1) isiklikkuse põhimõte – süsteemi turvalisuse tagamist korraldab teenuse osutaja;\n2) tervikliku kaitse põhimõte – teenuse osutaja teeb kindlaks võimalikud ohud süsteemile ning rakendab süsteemi kaitseks kohaseid korralduslikke ja tehnilisi abinõusid;\n3) kahjuliku mõju vähendamise põhimõte – teenuse osutaja rakendab küberintsidendi korral vajalikku hoolsust ja abinõusid, et vältida küberintsidendi mõju laienemist ja võimalikku levikut teisele süsteemile, ning teavitab küberintsidendist käesolevas seaduses sätestatud järelevalveasutust;\n4) koostööpõhimõte – küberturvalisuse tagamisel ja küberintsidentide lahendamisel teevad osalised koostööd ja võtavad vajaduse korral arvesse süsteemide ja teenuste omavahelist seotust ning sõltuvust."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - Kohustused küberturvalisuse tagamiseks",
+      "section": "7",
+      "title": "§ 7. Teenuse osutaja süsteemi turvameetmed",
+      "content": "(1) Teenuse osutaja peab rakendama alaliselt turvameetmeid:\n1) küberintsidendi ennetamiseks;\n2) küberintsidendi lahendamiseks;\n3) küberintsidendi tõttu teenuse toimepidevusele või süsteemi turvalisusele avalduva mõju ennetamiseks ja leevendamiseks või teise sõltuva teenuse toimepidevusele või süsteemi turvalisusele avalduda võiva mõju ennetamiseks ja leevendamiseks.\n(2) Teenuse osutaja on turvameetmete rakendamisel kohustatud:\n1) koostama süsteemi riskianalüüsi, milles tuleb esitada süsteemi turvalisust ja teenuse toimepidevust mõjutavate ning küberintsidendi tekkimist põhjustavate riskide loetelu, määrata riskide realiseerumisel tekkiva küberintsidendi tagajärgede raskusaste ning kirjeldada küberintsidendi lahendamise abinõusid;\n2) tagama dokumenteeritud süsteemi riskianalüüsi, turvaeeskirjade ja turvameetmete rakendamise kirjelduse olemasolu ja ajakohasuse;\n3) tagama süsteemi turvalisust ohustava tegevuse või tarkvara tuvastamiseks süsteemi seire ja edastama teavet süsteemi turvalisust ohustava tegevuse või tarkvara kohta Riigi Infosüsteemi Ametile;\n4) võtma kasutusele abinõud küberintsidendi mõju ja leviku vähendamiseks, sealhulgas vajaduse korral piirama süsteemi kasutamist või juurdepääsu süsteemile.\n5)\n6)\n(3) Kui teenuse osutaja volitab süsteemi haldamise teisele isikule või majutab süsteemi teise isiku juures, vastutab teenuse osutaja selle eest, et teine isik tagab süsteemi turvameetmete rakendamise.\n(4)\n(5) Vabariigi Valitsus või tema volitatud minister kehtestab määrusega käesolevas paragrahvis sätestatud kohustuste täitmise ja süsteemide küberturvalisuse tagamiseks:\n1) infoturbe halduse nõuded üldnimetusega Eesti infoturbestandard;\n2) turvameetmete üldnõuded;\n3) süsteemide turvameetmete erinõuded ja nende kohaldamise ulatuse."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - Kohustused küberturvalisuse tagamiseks",
+      "section": "8",
+      "title": "§ 8. Teenuse osutaja kohustus teavitada küberintsidendist",
+      "content": "(1) Teenuse osutaja teavitab Riigi Infosüsteemi Ametit viivitamata, kuid hiljemalt 24 tundi pärast teada saamist küberintsidendist:\n1) millel on süsteemi turvalisusele või teenuse toimepidevusele oluline mõju;\n2) mille oluline mõju süsteemi turvalisusele või teenuse toimepidevusele ei ole ilmne, kuid seda võib mõistlikult eeldada.\n(1^1) Kui teenuse osutaja volitab süsteemi haldamise teisele isikule või majutab süsteemi teise isiku juures, vastutab teenuse osutaja selle eest, et teine isik teavitab teenuse osutajat hiljemalt 24 tundi pärast käesoleva paragrahvi lõikes 1 nimetatud küberintsidendist teada saamist.\n(2) Küberintsidendil on oluline mõju, kui on täidetud vähemalt üks järgmistest tingimustest:\n1) küberintsidendi mõju on käesoleva seaduse § 7 lõike 2 punkti 1 alusel koostatud süsteemi riskianalüüsis määratud tagajärgede raskusastme kohaselt vähemalt raske;\n2) küberintsidendi tõttu ei ole teenuse osutamist võimalik jätkata teenustaseme kokkuleppes või teenuse toimepidevuse nõuetes sätestatud teenuse maksimaalse lubatud katkestuse aja möödumisel;\n3) küberintsidendi tõttu on häiritud teise teenuse osutaja teenuse toimepidevus;\n4) küberintsidendi lahendamiseks tuleb rakendada käesoleva seaduse § 7 lõike 2 punkti 1 alusel koostatud süsteemi riskianalüüsis või selle olemasolul muus teenuse toimepidevuse või süsteemi turvalisuse taastamist kirjeldavas dokumendis toodud erakorralisi abinõusid;\n5) teenuse osutajale, teise teenuse osutajale või teenuse kasutajatele on küberintsidendi tõttu tekkinud või võib tekkida märkimisväärne kahju.\n(3) Kui küberintsidendi tagajärjel on teenuse või teise teenuse osutamine häiritud veel vähemalt ühes Euroopa Liidu liikmesriigis, loetakse küberintsident alati olulise mõjuga küberintsidendiks.\n(4) Käesoleva paragrahvi lõikes 1 sätestatud kohustus ei piira teenuse osutaja õigust teavitada Riigi Infosüsteemi Ametit küberintsidendist, millel ei ole käesoleva paragrahvi lõikes 2 sätestatud olulist mõju.\n(5) Teenuse osutaja on kohustatud teavitama mõistliku aja jooksul isikut, keda olulise mõjuga küberintsident võib mõjutada, või avalikkust, kui mõjutatud isikuid ei ole võimalik eraldi teavitada.\n(6) Kui teenuse osutaja ei täida käesoleva paragrahvi lõikes 5 sätestatud teavitamiskohustust mõistliku aja jooksul, võib Riigi Infosüsteemi Amet mõjutatud isikut või avalikkust ise teavitada, informeerides teavitamisest ka teenuse osutajat.\n(7) Teenuse osutaja on olulise mõjuga küberintsidendi lahendamisel kohustatud edastama Riigi Infosüsteemi Ametile raporti, mis sisaldab informatsiooni küberintsidendi tekkepõhjuste, selle lahendamiseks kulunud aja ja rakendatud abinõude ning küberintsidendi mõju kohta.\n(8) Küberintsidendist teavitamise korra ja raporti vormi võib kehtestada valdkonna eest vastutav minister määrusega.\n(9) Teenuse osutaja on kohustatud teavitama Riigi Infosüsteemi Ametit digitaalse teenuse osutajat puudutava küberintsidendi olulisest mõjust oma teenuse toimepidevusele, kui tema teenus sõltub käesoleva seaduse §-s 4 määratletud digitaalse teenuse osutaja teenusest."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - Kohustused küberturvalisuse tagamiseks",
+      "section": "10",
+      "title": "§ 10. Digitaalse teenuse osutaja süsteemi turvameetmed",
+      "content": "(1) Digitaalse teenuse osutaja on kohustatud tegema kindlaks riskid, mis ohustavad süsteemi turvalisust, ja neid analüüsima ning rakendama riskide juhtimiseks kohaseid korralduslikke ja tehnilisi meetmeid.\n(2) Süsteemi turvalisuse tagamise meetmete valikul tuleb arvestada:\n1) tehnilise taristu turvalisust;\n2) küberintsidendi ennetamist, tuvastamist ja lahendamist;\n3) toimepidevuse haldamist;\n4) seiret, auditeerimist ja testimist;\n5) rahvusvahelistele standarditele vastavust.\n(3) Käesoleva paragrahvi lõike 2 rakendamisel on digitaalse teenuse osutaja kohustatud juhinduma Euroopa Parlamendi ja nõukogu direktiivi (EL) 2016/1148 artikli 16 lõike 8 alusel antud Euroopa Komisjoni rakendusmäärusest.\n(4) Digitaalse teenuse osutaja rakendab asjakohaseid meetmeid, et võimalikult vähendada küberintsidendi mõju osutatava teenuse toimepidevusele."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - Kohustused küberturvalisuse tagamiseks",
+      "section": "11",
+      "title": "§ 11. Digitaalse teenuse osutaja kohustus teavitada küberintsidendist",
+      "content": "(1) Digitaalse teenuse osutaja teavitab pädevat asutust või küberturbe intsidentide lahendamise üksust küberintsidendist, millel on oluline mõju osutatavale digitaalsele teenusele, viivitamata pärast küberintsidendist teada saamist.\n(2) Teade tuleb esitada selle liikmesriigi pädevale asutusele või küberturbe intsidentide lahendamise üksusele, kus on:\n1) digitaalse teenuse osutaja asutatud;\n2) kontserni puhul asutatud kontserni emaettevõtja või\n3) kolmandast riigist pärit ettevõtja määratud esindaja.\n(3) Küberintsidendist teavitamisel lähtutakse Euroopa Parlamendi ja nõukogu direktiivi (EL) 2016/1148 artikli 16 lõike 8 alusel antud Euroopa Komisjoni rakendusmääruses sätestatud kriteeriumidest.\n(4) Teade peab sisaldama teavet, mis võimaldab pädeval asutusel või küberturbe intsidentide lahendamise üksusel küberintsidendi piiriülest mõju kindlaks teha.\n(5) Kui küberintsidendil on oluline mõju digitaalse teenuse toimepidevusele teises liikmesriigis, teavitab Riigi Infosüsteemi Amet digitaalse teenuse osutaja esitatud teabe põhjal mõjutatud liikmesriiki.\n(6) Kui küberintsidendi ennetamiseks või käimasoleva küberintsidendi lahendamiseks ja avalikes huvides on vajalik avalikkuse teavitamine, võib Riigi Infosüsteemi Amet pärast digitaalse teenuse osutaja informeerimist teavitada küberintsidendist avalikkust või kohustada seda tegema digitaalse teenuse osutajat.\n(7) Käesoleva paragrahvi lõiget 1 ei kohaldata, kui digitaalse teenuse osutajal puudub küberintsidendi mõju olulisuse tuvastamiseks teave."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - Küberturvalisuse tagamine",
+      "section": "12",
+      "title": "§ 12. Küberintsidendi ennetus ja lahendamine",
+      "content": "(1) Küberturvalisuse tagamist ning küberintsidendi ennetamist ja lahendamist käesolevas seaduses sätestatud ulatuses koordineerib Riigi Infosüsteemi Amet.\n(2) Riigi Infosüsteemi Amet teostab küberturvalisuse tagamiseks Eesti internetiprotokolli aadressiruumis olevate ning Eesti maatunnusega seotud domeenide vaatlust, analüüsib süsteemide turvalisust ohustavaid riske ning nende mõju riigile, ühiskonnale ja süsteemide turvalisusele.\n(3) Riigi Infosüsteemi Amet edastab isikutele küberintsidendi ennetamiseks ja lahendamiseks ohuteateid, mis võimaldavad rakendada küberintsidendi mõju vältivaid või vähendavaid abinõusid.\n(4) Riigi Infosüsteemi Ametil on õigus välisriigile või Euroopa Liidu Võrgu- ja Infoturbeametile või muule organisatsioonile edastada küberintsidendi ennetamise ja lahendamisega seotud teavet käesoleva seaduse §-s 5 sätestatud ülesannete või Euroopa Liidu õigusest tuleneva kohustuse täitmiseks või välislepinguga ettenähtud juhtudel ja korras, kui edastatav teave ei kahjusta riigi julgeolekut või kriminaalmenetlust.\n(5) Teabe edastamisel arvestab Riigi Infosüsteemi Amet teenuse osutaja või digitaalse teenuse osutaja ärihuve ja juhindub ärisaladuse hoidmise kohustusest."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - Küberturvalisuse tagamine",
+      "section": "13",
+      "title": "§ 13. Küberintsidentide register",
+      "content": "(1) Küberintsidentide register (edaspidi register ) on Riigi Infosüsteemi Ameti peetav andmekogu, kuhu kantakse küberintsidendi toimumist kirjeldavad andmed eesmärgiga pidada küberintsidentide üle arvestust ning analüüsida küberintsidente nende lahendamiseks, ohuteadete edastamiseks ja järelevalvetoimingute tegemiseks.\n(2) Register on piiratud juurdepääsuga ja registriandmed on mõeldud asutusesiseseks kasutamiseks, kui õigusaktis ei ole sätestatud teisiti.\n(3) Registri asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para13^1",
+      "chapter": "3. peatükk - Küberturvalisuse sertifitseerimine",
+      "section": "13^1",
+      "title": "§ 13^1. Riiklik küberturvalisuse sertifitseerimise asutus",
+      "content": "Euroopa Parlamendi ja nõukogu määruse (EL) 2019/881, mis käsitleb ENISAt (Euroopa Liidu Küberturvalisuse Amet) ning info- ja kommunikatsioonitehnoloogia küberturvalisuse sertifitseerimist ja millega tunnistatakse kehtetuks määrus (EL) nr 526/2013 (küberturvalisuse määrus) (ELT L 151, 07.06.2019, lk 15–69), artikli 58 lõike 1 tähenduses riiklik küberturvalisuse sertifitseerimise asutus on Tarbijakaitse ja Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para13^2",
+      "chapter": "3. peatükk - Küberturvalisuse sertifitseerimine",
+      "section": "13^2",
+      "title": "§ 13^2. Küberturvalisuse valdkonna vastavushindamisasutus",
+      "content": "Vastavushindamisasutusena tegutsemisele ja vastavushindamisasutusele tegevusloa andmisele kohaldatakse toote nõuetele vastavuse seaduse §-e 22–31 ja 33 ning § 35 lõiget 1, arvestades Euroopa Parlamendi ja nõukogu määruse (EL) 2019/881 artiklites 60 ja 61 ning artikli 61 alusel vastu võetud Euroopa Komisjoni rakendusaktis ning sama määruse lisas toodud erisusi."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "4. peatükk - Riiklik ja haldusjärelevalve",
+      "section": "14",
+      "title": "§ 14. Riikliku ja haldusjärelevalve tegemine",
+      "content": "(1) Käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle teeb riiklikku ja haldusjärelevalvet Riigi Infosüsteemi Amet.\n(2) Riiklikku järelevalvet digitaalse teenuse osutajale käesoleva seaduse §-dega 10 ja 11 kehtestatud nõuete täitmise üle tehakse juhul, kui Riigi Infosüsteemi Ametit teavitatakse, et nimetatud nõudeid ei täida:\n1) digitaalse teenuse osutaja, kes on asutatud Eestis;\n2) kontserni kuuluv digitaalse teenuse osutaja, kelle emaettevõtja on asutatud Eestis;\n3) kolmanda riigi digitaalse teenuse osutaja, kellel on Eestis esindaja.\n(3)\n(4) Tarbijakaitse ja Tehnilise Järelevalve Amet teeb riiklikku ja haldusjärelevalvet Euroopa Parlamendi ja nõukogu määruse (EL) 2019/881 artikli 58 lõikes 7 sätestatud ulatuses.\n(5) Käesolevas seaduses ja selle alusel kehtestatud õigusaktides julgeolekuasutuse süsteemidele sätestatud nõuete täitmise üle teeb haldusjärelevalvet asjakohane julgeolekuasutus."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "4. peatükk - Riiklik ja haldusjärelevalve",
+      "section": "15",
+      "title": "§ 15. Riikliku järelevalve erimeetmed",
+      "content": "(1) Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve tegemiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras.\n(2) Käesoleva seaduse §-de 7 ja 8 ning nende alusel kehtestatud õigusaktide nõuete täitmise üle riikliku järelevalve tegemisel võib korrakaitseorgan kohaldada lisaks käesoleva paragrahvi lõikes 1 nimetatud erimeetmetele ka korrakaitseseaduse §-s 52 sätestatud riikliku järelevalve erimeedet korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "4. peatükk - Riiklik ja haldusjärelevalve",
+      "section": "16",
+      "title": "§ 16. Riikliku järelevalve erisused",
+      "content": "(1) Riigi Infosüsteemi Amet võib küberintsidendi korral vahetu kõrgendatud ohu tõrjumiseks või korrarikkumise kõrvaldamiseks süsteemi kasutamist või süsteemile juurdepääsu piirata, kui esinevad kõik järgmised tingimused:\n1) küberintsident ohustab või kahjustab teise süsteemi turvalisust;\n2) süsteemi haldaja ei saa või ei saa õigel ajal ise küberintsidendist lähtuvat kõrgendatud ohtu tõrjuda või korrarikkumist kõrvaldada;\n3) küberintsidendist lähtuvat kõrgendatud ohtu ei saa tõrjuda ega korrarikkumist kõrvaldada vähem riivava meetmega;\n4) küberintsidendist lähtuva kõrgendatud ohu tõrjumisega või korrarikkumise kõrvaldamisega ei tekitata isikule ebaproportsionaalset kahju.\n(1^1) Tarbijakaitse ja Tehnilise Järelevalve Amet võib riikliku järelevalve tegemiseks rakendada Euroopa Parlamendi ja nõukogu määruse (EL) 2019/881 artikli 58 lõikes 8 sätestatud meetmeid.\n(2) Käesolevas paragrahvis sätestatud meetme kohaldamisest tuleb adressaati ja käesoleva seaduse § 3 lõike 1 punktis 1 sätestatud teenuse osutaja puhul ka elutähtsa teenuse toimepidevust korraldavat asutust esimesel võimalusel teavitada.\n(3) Käesolevas paragrahvis sätestatud meetme protokollimine on kohustuslik."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "4. peatükk - Riiklik ja haldusjärelevalve",
+      "section": "17",
+      "title": "§ 17. Haldusjärelevalve meetmed",
+      "content": "(1) Riigi Infosüsteemi Amet on haldusjärelevalve tegemisel volitatud pääsema ligi süsteemile ning piirama süsteemi kasutamist või süsteemile juurdepääsu, kui esinevad kõik järgmised tingimused:\n1) küberintsident ohustab või kahjustab teise süsteemi turvalisust;\n2) süsteemi haldaja ei saa või ei saa õigel ajal ise küberintsidendist lähtuvat ohtu tõrjuda või küberintsidenti kõrvaldada;\n3) küberintsidendist lähtuvat ohtu ei saa tõrjuda ega küberintsidenti kõrvaldada isiku suhtes vähem riivava meetmega;\n4) küberintsidendist lähtuva ohu tõrjumisega või küberintsidendi kõrvaldamisega ei tekitata isikule ebaproportsionaalset kahju.\n(2) Käesolevas paragrahvis sätestatud meetme kohaldamisest tuleb adressaati esimesel võimalusel teavitada.\n(3) Käesolevas paragrahvis sätestatud meetme protokollimine on kohustuslik."
+    },
+    {
+      "provision_ref": "para17^1",
+      "chapter": "4. peatükk - Riiklik ja haldusjärelevalve",
+      "section": "17^1",
+      "title": "§ 17^1. Sunniraha määr",
+      "content": "Riikliku järelevalvemenetluse käigus ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha kohaldamise igakordne ülemmäär 20 000 eurot."
+    },
+    {
+      "provision_ref": "para17^2",
+      "chapter": "4. peatükk - Riiklik ja haldusjärelevalve",
+      "section": "17^2",
+      "title": "§ 17^2. Kaebuse läbivaatamise tähtaeg",
+      "content": "(1) Tarbijakaitse ja Tehnilise Järelevalve Amet lahendab Euroopa Parlamendi ja nõukogu määruse (EL) 2019/881 artiklis 63 sätestatud kaebuse hiljemalt 90. päeval kaebuse saamisest arvates.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud kaebuse lahendamiseks on vaja teha koostööd teise riigi riikliku küberturvalisuse sertifitseerimise asutusega, on Tarbijakaitse ja Tehnilise Järelevalve Ametil õigus pikendada kaebuse läbivaatamise tähtaega aja võrra, mis on vajalik asutuse arvamuse ärakuulamiseks. Kaebuse läbivaatamise tähtaja pikendamisest teavitatakse kaebuse esitajat kirjalikult."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "5. peatükk - Vastutus",
+      "section": "18",
+      "title": "§ 18. Seaduse nõuete rikkumine",
+      "content": "(1) Käesoleva seaduse § 7 lõigetes 1–3 sätestatud nõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 20 000 eurot."
+    },
+    {
+      "provision_ref": "para18^1",
+      "chapter": "5. peatükk - Vastutus",
+      "section": "18^1",
+      "title": "§ 18^1. Euroopa Parlamendi ja nõukogu määruse (EL) 2019/881 nõuete rikkumine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2019/881 artikli 53 lõikes 2 sätestatud tingimustele mittevastava vastavusdeklaratsiooni väljastamise eest või artikli 55 lõikes 1 nimetatud teabe korral sama artikli lõikes 2 sätestatud nõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 20 000 eurot."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "5. peatükk - Vastutus",
+      "section": "19",
+      "title": "§ 19. Menetlus",
+      "content": "(1) Käesoleva seaduse §-s 18 sätestatud väärteo kohtuväline menetleja on Riigi Infosüsteemi Amet.\n(2) Kui käesoleva seaduse §-s 18 sätestatud väärtegu on seotud isikuandmete töötlemise nõuete rikkumisega, kohaldatakse väärteomenetluse puhul isikuandmete kaitse seadust.\n(3) Käesoleva seaduse §-s 18^1 sätestatud väärteo kohtuväline menetleja on Tarbijakaitse ja Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "20",
+      "title": "§ 20. Teenuse osutajate tuvastamine",
+      "content": "Riigi Infosüsteemi Amet tuvastab käesoleva seaduse § 3 lõikes 3 nimetatud teenuse osutajad 2018. aasta 9. novembriks."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "21",
+      "title": "§ 21.",
+      "content": "-"
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "28",
+      "title": "§ 28.",
+      "content": "[Käesolevast tekstist välja jäetud]"
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "29",
+      "title": "§ 29. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub Riigi Teatajas avaldamisele järgneval päeval.\n(2) Käesoleva seaduse § 3 lõike 1 punkt 8, § 3 lõige 3, § 9 ning § 23 punkt 3 jõustuvad 2020. aasta 1. jaanuaril.\n(3) Käesoleva seaduse § 3 lõike 1 punktid 7 ja 10, § 21 ning § 28 punktid 1 ja 5 jõustuvad 2022. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "süsteemi turvalisus",
+      "definition": "süsteemi võime osutada vastupanu mis tahes tegevusele, mis ohustab süsteemis töödeldavate andmete või süsteemi kaudu osutatavate või juurdepääsetavate teenuste käideldavust, autentsust, terviklust ja konfidentsiaalsust",
+      "source_provision": "para2"
+    },
+    {
+      "term": "küberintsident",
+      "definition": "süsteemis toimuv sündmus, mis ohustab või kahjustab süsteemi turvalisust",
+      "source_provision": "para2"
+    },
+    {
+      "term": "digitaalse teenuse osutaja esindaja (edaspidi esindaja )",
+      "definition": "Euroopa Liidus asuv füüsiline või juriidiline isik, kes on määratud tegutsema väljaspool Euroopa Liitu asuva digitaalse teenuse osutaja nimel ja kelle poole võib liikmesriigi pädev asutus või küberturbe intsidentide lahendamise üksus pöörduda digitaalse teenuse osutaja asemel seoses digitaalse teenuse osutaja kohustusega, mis tuleneb käesolevast seadusest",
+      "source_provision": "para2"
+    },
+    {
+      "term": "internetipõhine kauplemiskoht",
+      "definition": "infoühiskonna teenus, mis võimaldab tarbijakaitseseaduse tähenduses tarbijal ja kauplejal sõlmida internetipõhise müügi- või teenuse osutamise lepingu kas internetipõhise kauplemiskoha veebisaidil või kaupleja veebisaidil, mis kasutab internetipõhise kauplemiskoha pakutavat andmetöötlusteenust",
+      "source_provision": "para2"
+    },
+    {
+      "term": "internetipõhine otsimootor",
+      "definition": "infoühiskonna teenus, mis võimaldab kasutajal teha otsingut kõikidel veebisaitidel või konkreetses keeles veebisaitidel mis tahes teemal võtmesõna, fraasi või muu sisendi vormis päringu alusel ning saadab vastuseks lingid, kust võib leida teavet taotletud sisu kohta",
+      "source_provision": "para2"
+    },
+    {
+      "term": "pilvandmetöötlusteenus",
+      "definition": "infoühiskonna teenus, mis võimaldab juurdepääsu andmetöötlusressursside kogumile, mis on paindlikult jagatav ning laiendatav süsteemi ennast muutmata",
+      "source_provision": "para2"
+    },
+    {
+      "term": "küberturbe intsidentide lahendamise üksus",
+      "definition": "ekspertide grupp, kelle ülesandeks on küberintsidendi tuvastamist, analüüsimist ja ohjeldamist ning küberintsidendile reageerimist toetavad toimingud",
+      "source_provision": "para2"
+    }
+  ]
+}

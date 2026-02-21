@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-25164",
+  "type": "statute",
+  "title": "Osoonikihi kaitsmise Viini konventsiooni ja osoonikihti kahandavate ainete Montreali protokolliga ühinemise seadus",
+  "title_en": "Osoonikihi kaitsmise Viini konventsiooni ja osoonikihti kahandavate ainete Montreali protokolliga ühinemise seadus",
+  "short_name": "ee-law-25164",
+  "status": "repealed",
+  "issued_date": "1996-09-11",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/25164.xml",
+  "description": "Official consolidated statute text (Osoonikihi kaitsmise Viini konventsiooni ja osoonikihti kahandavate ainete Montreali protokolliga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud osoonikihi kaitsmise Viini konventsiooniga, mis on sõlmitud 1985. aasta 22. märtsil Viinis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühineda juurdelisatud osoonikihti kahandavate ainete Montreali protokolliga, mis on sõlmitud 1987. aasta 16. septembril Montrealis. Riigikogu esimees Toomas SAVI"
+    }
+  ],
+  "definitions": []
+}

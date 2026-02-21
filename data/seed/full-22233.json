@@ -1,0 +1,171 @@
+{
+  "id": "ee-law-22233",
+  "type": "statute",
+  "title": "Eesti Vabariigi kindlustusseadus",
+  "title_en": "Eesti Vabariigi kindlustusseadus",
+  "short_name": "KindlS",
+  "status": "repealed",
+  "issued_date": "1992-11-05",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/22233.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi kindlustusseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "[Kehtetu]"
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "[Kehtetu]"
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Kindlustusandja",
+      "content": "Kindlustusandjaks on juriidiline isik, kellel käesoleva seadusega kehtestatud korras on õigus kindlustustegevuseks."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4. Kindlustusvõtja",
+      "content": "Kindlustusvõtjaks on füüsiline või juriidiline isik, kes sõlmib kindlustusandjaga kindlustuslepingu ja kellel seaduse või kindlustuslepingu järgi lasub kindlustusmaksete (-preemiate) tasumise kohustus ning kellele kindlustusandja on kohustatud kindlustusjuhtumi saabudes välja maksma kindlustussumma või -hüvitise, kui lepingus ei ole ette nähtud teisiti."
+    },
+    {
+      "provision_ref": "para5",
+      "section": "5",
+      "title": "§ 5. Kindlustatu",
+      "content": "Kindlustatu on kindlustusvõtja ise või kolmas isik, kelle huvides on sõlmitud kindlustusleping."
+    },
+    {
+      "provision_ref": "para6",
+      "section": "6",
+      "title": "§ 6. Soodustatud isik",
+      "content": "(1) Soodustatud isikuks on füüsiline või juriidiline isik, kellele makstakse kindlustusjuhtumi saabumisel välja kindlustussumma, kui kindlustuslepingus on nii ette nähtud.\n(2) Soodustatud isikule väljamakstav kindlustussumma ei kuulu kindlustusvõtja pärandvara hulka."
+    },
+    {
+      "provision_ref": "para7",
+      "section": "7",
+      "title": "§ 7. Kindlustuse objekt",
+      "content": "Kindlustuse objektiks on füüsiliste isikute elu ja tervis ning füüsiliste ja juriidiliste isikute vara, varalised ja mittevaralised huvid, õigused ja kohustused."
+    },
+    {
+      "provision_ref": "para8",
+      "section": "8",
+      "title": "§ 8. Kindlustusrisk",
+      "content": "Kindlustusrisk on kindlustusjuhtumi saabumise tõenäoline oht, mille tagajärgede vastu kindlustatakse."
+    },
+    {
+      "provision_ref": "para9",
+      "section": "9",
+      "title": "§ 9. Kindlustusjuhtum",
+      "content": "Kindlustusjuhtum on seaduses või kindlustuslepingus määratletud sündmus, seisund või tegu, mille tagajärjel tekib kindlustusvõtjal või kolmandal isikul kindlustussumma või -hüvitise saamise õigus ja kindlustusandjal kindlustussumma või -hüvitise väljamaksmise kohustus."
+    },
+    {
+      "provision_ref": "para10",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "[Kehtetu]"
+    },
+    {
+      "provision_ref": "para11",
+      "section": "11",
+      "title": "§ 11. Kindlustussumma",
+      "content": "Kindlustussumma on rahasumma, mis kindlustusjuhtumi saabumisel on väljamaksusumma piirmääraks, kui kindlustuslepingus ei ole ette nähtud teisiti."
+    },
+    {
+      "provision_ref": "para12",
+      "section": "12",
+      "title": "§ 12. Kindlustushüvitis",
+      "content": "(1) Kindlustushüvitis on rahasumma, mis makstakse välja kindlustusjuhtumi saabumisel kindlustuslepingu järgi varalise kahju hüvitamiseks.\n(2) Kindlustuslepingus võib ette näha ka mitterahalise hüvitise.\n(3) Kindlustushüvitis on piiratud kindlustatud varale kindlustusjuhtumi tagajärjel tekkinud varalise kahju suurusega, kui kindlustuslepingus ei ole ette nähtud teisiti.\n(4) Ühe ja sama vara kohta sõlmitud mitme ühesugust riski hõlmava kindlustuslepingu alusel makstakse kindlustushüvitist kokku tegeliku kahju ulatuses, kui kindlustuslepingus ei ole ette nähtud teisiti."
+    },
+    {
+      "provision_ref": "para13",
+      "section": "13",
+      "title": "§ 13.",
+      "content": "[Kehtetu]"
+    },
+    {
+      "provision_ref": "para14",
+      "section": "14",
+      "title": "§ 14. Kaaskindlustamine",
+      "content": "Kaks või enam kindlustusandjat võivad kindlustusvõtjaga sõlmida ühise kindlustuslepingu, jaotades õigused ja kohustused kindlustusvõtja suhtes vastavalt temaga sõlmitud lepingule."
+    },
+    {
+      "provision_ref": "para15",
+      "section": "15",
+      "title": "§ 15. Kindlustustariif",
+      "content": "Kindlustustariif on kindlustusmakse arvestuslik alus kindlustussumma ühe ühiku kohta kas kindlaksmääratud suuruses (kroonides) või protsendina kindlustussummast teatud kindlustusperioodi jooksul."
+    },
+    {
+      "provision_ref": "para16",
+      "section": "16",
+      "title": "§ 16. Kindlustusväärtus",
+      "content": "Kindlustusväärtus on kindlustatava vara maksumus, mis määratakse kindlaks kindlustuslepingu sõlmimise momendil kas seaduse või kindlustusandja ja kindlustusvõtja vahelise kokkuleppe alusel ning mis ei tohi olla suurem kui kindlustatud vara taastamisväärtus vara hävimise või kahjustamise korral."
+    },
+    {
+      "provision_ref": "para17",
+      "section": "17",
+      "title": "§ 17.",
+      "content": "[Kehtetu]"
+    },
+    {
+      "provision_ref": "para18",
+      "section": "18",
+      "title": "§ 18. Regressiõigus",
+      "content": "Kahjukindlustuse korral läheb nõudeõigus varalist kahju tekitanu vastu kindlustushüvitist saanud isikult üle kindlustusandjale viimase poolt väljamakstud kindlustushüvitise ulatuses."
+    },
+    {
+      "provision_ref": "para19",
+      "section": "19",
+      "title": "§ 19. Kindlustuslepingu vorm",
+      "content": "(1) Kindlustusleping on kindlustusandja ja kindlustusvõtja vahel sõlmitud kirjalik või suuline kokkulepe, mille kohaselt kindlustusvõtja kohustub tasuma lepingus märgitud kindlustusmakseid ning kindlustusandja kohustub kindlustusjuhtumi korral välja maksma kindlustussumma või -hüvitise või tegema lepingus ettenähtud teo.\n(2) Kindlustuslepingu sõlmimist tõendav dokument on kindlustuspoliis. Kindlustuspoliis peab sisaldama viite kõigile lepingu juurde kuuluvatele dokumentidele. Kui kindlustuspoliisil ei ole kindlustusvõtja allkirja, jõustub kindlustusleping alates kindlustusmakse nõuetekohasest tasumisest."
+    },
+    {
+      "provision_ref": "para20",
+      "section": "20",
+      "title": "§ 20. Lepinguvabaduse piirang",
+      "content": "Kindlustusleping, mis seab kindlustusvõtja käesoleva seadusega võrreldes halvemasse olukorda, on kehtetu."
+    },
+    {
+      "provision_ref": "para21",
+      "section": "21",
+      "title": "§ 21.",
+      "content": "[Kehtetu]"
+    },
+    {
+      "provision_ref": "para22",
+      "section": "22",
+      "title": "§ 22.",
+      "content": "[Kehtetu]"
+    },
+    {
+      "provision_ref": "para23",
+      "section": "23",
+      "title": "§ 23. Kindlustuslepingu lõppemine",
+      "content": "(1) Kindlustusleping lõpeb:\n1) kehtivustähtaja möödumisel;\n2) kindlustussumma väljamaksmisega, kui kindlustuslepingus ei ole ette nähtud teisiti;\n3) lepingus ettenähtud tähtajal ja suuruses kindlustusmakse mittetasumise korral, kui lepingus on nii ette nähtud;\n4) juriidilisest isikust kindlustusvõtja tegevuse lõppemisega, kui lepingujärgsed õigused ja kohustused ei lähe üle teisele isikule;\n5) kindlustusvõtja surmaga, kui lepingujärgsed õigused ja kohustused ei lähe üle teisele isikule.\n(2) Kindlustuslepingu lõpetamise õigus enne lepingu kehtivustähtaja möödumist on nii kindlustusandjal kui ka kindlustusvõtjal seaduses ja kindlustuslepingus ettenähtud korras.\n(3) Käesoleva paragrahvi 1. lõike punktides 3, 4 ja 5 märgitud alustel on kindlustusandja kohustatud tagastama kindlustusvõtjale tema poolt sissemakstud kindlustusmaksed, millest arvatakse maha asjaajamiskulud ja kindlustusandja poolt juba kantud risk.\n(4) Kindlustuslepingu lõppemine ei lõpeta kindlustusandja lepingujärgseid kohustusi."
+    },
+    {
+      "provision_ref": "para24",
+      "section": "24",
+      "title": "§ 24. Sissenõude pööramine kindlustusmaksetele",
+      "content": "(1) Kindlustuslepingu järgi kindlustusandja arvele laekunud kindlustusmaksed on kindlustusandja omand ja sellele ei saa pöörata sissenõudeid kindlustusvõtja võlgade katteks.\n(2) Sissenõude võib pöörata summale, mis kuulub kindlustuslepingu alusel kindlustusvõtjale väljamaksmisele."
+    },
+    {
+      "provision_ref": "para-d5970",
+      "section": "-d 59–70",
+      "title": "§ -d 59–70.",
+      "content": "[Kehtetud]"
+    },
+    {
+      "provision_ref": "para71",
+      "section": "71",
+      "title": "§ 71.",
+      "content": "[Kehtetu]"
+    }
+  ],
+  "definitions": []
+}

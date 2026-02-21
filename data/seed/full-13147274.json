@@ -1,0 +1,372 @@
+{
+  "id": "ee-law-13147274",
+  "type": "statute",
+  "title": "Tööturuteenuste ja - toetuste seadus",
+  "title_en": "Tööturuteenuste ja - toetuste seadus",
+  "short_name": "TTTS",
+  "status": "repealed",
+  "issued_date": "2005-09-28",
+  "in_force_date": "2009-05-01",
+  "url": "https://www.riigiteataja.ee/akt/13147274.xml",
+  "description": "Official consolidated statute text (Tööturuteenuste ja - toetuste seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse eesmärk ja reguleerimisala",
+      "content": "(1) Käesoleva seaduse eesmärk on tööealise elanikkonna võimalikult kõrge tööhõive saavutamine ning pikaajalise töötuse ja tööturult tõrjutuse ennetamine tööturuteenuste osutamise ja tööturutoetuste maksmise kaudu.\n(2) Käesolevas seaduses reguleeritakse arvestuse pidamist töötute ja tööotsijate üle, tööturuteenuste osutamist, tööturutoetuste maksmist, käesoleva seaduse kohaldamisel tekkinud vaidluste lahendamist ja vastutust käesoleva seaduse rikkumise eest.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi.\n(4) Käesolevas seaduses nimetatud halduslepingu, välja arvatud käesoleva seaduse §-des 18, 20 ja 21 nimetatud halduslepingu sõlmimisele kohaldatakse halduskoostöö seaduses, välja arvatud selle §-s 5, sätestatut, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Mõisted",
+      "content": "Käesolevas seaduses kasutatakse mõisteid järgmises tähenduses:\n1) tööturuteenus on teenus, mida osutatakse töötule ja tööotsijale töö leidmiseks ja tööalase arengu soodustamiseks ning tööandjale sobiva tööjõu saamiseks;\n2) tööotsija on isik, kes otsib tööd ja on tööotsijana arvele võetud Eesti Töötukassas. Tööotsija otsib tööd, kui ta pöördub vähemalt kord 30 päeva jooksul töövahendusteenuse saamiseks Eesti Töötukassa poole;\n3) töötu on isik, kes ei tööta, on töötuna arvele võetud Eesti Töötukassas ja otsib tööd. Töötu otsib tööd, kui ta täidab individuaalset tööotsimiskava ning on valmis vastu võtma sobiva töö ja kohe tööle asuma;\n4) puudega töötu on töötu, kellel on puue puuetega inimeste sotsiaaltoetuste seaduse § 2 tähenduses või keda on nimetatud sama seaduse § 2 ^1 lõike 2 punktis 2 või kes on tunnistatud püsivalt töövõimetuks riikliku pensionikindlustuse seaduse alusel."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Õigus tööturuteenustele ja -toetustele",
+      "content": "Käesolevas seaduses ettenähtud tööturuteenustele ja -toetustele on õigus:\n1) Eesti alalisel elanikul;\n2) tähtajalise elamisloa või tähtajalise elamisõiguse alusel Eestis elaval välismaalasel;\n3) Eestis viibival Euroopa Liidu, Euroopa Majanduspiirkonna liikmesriigi ja Šveitsi Konföderatsiooni kodanikul;\n4) Eestis viibival rahvusvahelise kaitse saajal või Eestis viibival varjupaigataotlejal välismaalasele rahvusvahelise kaitse andmise seaduses sätestatud tingimustel;\n5) tööandjal."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Tööturuteenuste osutamise ja tööturutoetuste määramise korraldamine",
+      "content": "(1) Käesolevas seaduses sätestatud tööturuteenuste osutamist korraldab ja tööturutoetusi määrab Eesti Töötukassa. Eesti Töötukassa tagab, et töötud, tööotsijad ja tööandjad saavad oma käesolevast seadusest tulenevaid õigusi ja kohustusi realiseerida vähemalt igas maakonnas.\n(2) Töötule ja tööotsijale osutatakse käesoleva seaduse § 9 lõike 1 punktides 3–13 nimetatud tööturuteenuseid Eesti Töötukassa selles osakonnas, kus ta on töötuna või tööotsijana arvele võetud.\n(3) Töötu ja tööotsija võivad Eesti Töötukassa osakonda vahetada, esitades sellekohase avalduse Eesti Töötukassale."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Teatamiskohustus",
+      "content": "Töötu, tööotsija ja tööandja on kohustatud viivitamatult teatama Eesti Töötukassale asjaoludest, mis toovad kaasa arveloleku lõpetamise või käesolevas seaduses sätestatud tööturuteenuste ja -toetuste saamise õiguse lõppemise."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - TÖÖTUTE JA TÖÖOTSIJATE NING TÖÖTURUTEENUSTE OSUTAMISE ÜLE ARVESTUSE PIDAMINE",
+      "section": "6",
+      "title": "§ 6. Isiku töötuna või tööotsijana arvelevõtmine",
+      "content": "(1) Isik pöördub töötuna või tööotsijana arvelevõtmiseks isiklikult Eesti Töötukassa kohalikku osakonda ning esitab avalduse ja vajalikud dokumendid.\n(2) Töötuna või tööotsijana arvelevõtmise avaldusele kantavate andmete ja sellele lisatavate dokumentide loetelu kehtestab sotsiaalminister määrusega.\n(3) Isik võetakse töötuna arvele avalduse esitamise päevast, kuid mitte varem kui käesoleva paragrahvi lõike 5 punktides 1 ja 3–11 nimetatud asjaolude äralangemisele või lõppemisele järgnevast päevast. Isik võetakse tööotsijana arvele avalduse esitamise päevast, kuid mitte varem kui käesoleva paragrahvi lõikes 6 nimetatud asjaolude äralangemisele järgnevast päevast.\n(4) Otsuse isiku töötuna või tööotsijana arvelevõtmise või arvelevõtmisest keeldumise kohta teeb Eesti Töötukassa hiljemalt teisel tööpäeval nõuetekohase avalduse esitamise päevast arvates.\n(5) Isikut ei võeta töötuna arvele, kui ta:\n1) on noorem kui 16 aastat;\n2) on jõudnud riikliku pensionikindlustuse seaduse § 7 lõikes 1 või 2 sätestatud vanaduspensioniikka või talle on sama seaduse § 9 alusel määratud ennetähtaegne vanaduspension;\n3) töötab töölepingu alusel, töövõtu-, käsundus- või muu teenuse osutamiseks sõlmitud võlaõigusliku lepingu alusel või on avalikus teenistuses;\n4) on juriidilise isiku juhtimis- või kontrollorgani liige ja saab selle eest tasu, välja arvatud sihtasutuse, mittetulundusühingu või -ühistu juhtimis- või kontrollorgani liige, kes saab selle eest väiksemat tasu kui pool palgaseaduse § 2 lõike 7 alusel kehtestatud palga alammäära;\n5) on registreeritud füüsilisest isikust ettevõtjana;\n6) õpib õppeasutuses päevases õppevormis või täiskoormusega õppes, välja arvatud juhul, kui täiskoormusega õppes õppiv isik on viimase 12 kuu jooksul olnud vähemalt 180 päeva hõivatud käesoleva seaduse § 26 lõike 3 punktides 1 ja 2 nimetatud tegevusega või viibib akadeemilisel puhkusel;\n7) täidab ajateenistuskohustust;\n8) hooldab puudega isikut ja valla- või linnavalitsus maksab talle hooldamise eest toetust;\n9) ei vasta ühele käesoleva seaduse § 3 punktides 1–4 sätestatud tingimustest;\n10) on Eesti Vabariigi välisesinduses töötava teenistujaga kaasasolev mittetöötav abikaasa, kellele makstakse abikaasatasu välisteenistuse seaduse § 67 lõike 1 alusel;\n11) saab päästeteenistuse seaduse § 19 alusel vanaduspensioni ootel oleva päästeteenistuja toetust.\n(6) Isikut ei võeta tööotsijana arvele, kui ta:\n1) on noorem kui 13 aastat;\n2) ei vasta ühele käesoleva seaduse § 3 punktides 1–4 sätestatud tingimustest."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - TÖÖTUTE JA TÖÖOTSIJATE NING TÖÖTURUTEENUSTE OSUTAMISE ÜLE ARVESTUSE PIDAMINE",
+      "section": "7",
+      "title": "§ 7. Töötuna ja tööotsijana arveloleku lõpetamine",
+      "content": "(1) Eesti Töötukassa teeb otsuse isiku töötuna arveloleku lõpetamise kohta:\n1) kui töötu vähemalt kord 30 päeva jooksul ei tule Eesti Töötukassasse vastuvõtule, välja arvatud juhul, kui töötu ei saanud tulla vastuvõtule mõjuva põhjuse või tööturukoolitusel või tööpraktikal osalemise tõttu ja eelnevalt oli tema individuaalsesse tööotsimiskavasse märgitud, et ta võtab Eesti Töötukassaga ühendust telefoni teel;\n2) kui töötu kolmandat korda mõjuva põhjuseta ei tule talle määratud ajal Eesti Töötukassasse vastuvõtule;\n3) käesoleva seaduse § 6 lõike 5 punktides 2–11 loetletud juhtudel;\n4) kui töötu keeldub individuaalse tööotsimiskava kinnitamisest;\n5) kui töötu kolmandat korda mõjuva põhjuseta keeldub individuaalse tööotsimiskava täitmisest;\n6) kui töötu kolmandat korda mõjuva põhjuseta keeldub sobivast tööst;\n7) kui ettevõtluse alustamise toetus on töötu pangakontole üle kantud;\n8) töötu soovil;\n9) töötu surma korral.\n(2) Eesti Töötukassa teeb otsuse isiku tööotsijana arveloleku lõpetamise kohta:\n1) kui tööotsija viimasest pöördumisest Eesti Töötukassasse on möödunud 90 päeva;\n2) tööotsija soovil;\n3) käesoleva seaduse § 6 lõike 6 punktis 2 sätestatud juhul;\n4) tööotsija surma korral."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - TÖÖTUTE JA TÖÖOTSIJATE NING TÖÖTURUTEENUSTE OSUTAMISE ÜLE ARVESTUSE PIDAMINE",
+      "section": "8",
+      "title": "§ 8. Töötuna ja tööotsijana arvel olevate isikute ning tööturuteenuste osutamise register",
+      "content": "(1) Töötuna ja tööotsijana arvel olevate isikute ning tööturuteenuste osutamise register (edaspidi register ) on Vabariigi Valitsuse poolt asutatud riiklik register avaliku teabe seaduse mõistes ning selle registri eesmärk on käesoleva seaduse ja muude seadustega pandud ülesannete täitmiseks vajalike andmete tagamine Eesti Töötukassale ja Sotsiaalministeeriumile.\n(2) Registri pidamise põhimääruse kehtestab Vabariigi Valitsus.\n(3) Registri vastutav töötleja on Eesti Töötukassa.\n(4) Register sisaldab:\n1) töötu ja tööotsija isikuandmeid, mille aluseks on Eesti rahvastikuregistri andmed või isikut tõendav dokument;\n2) andmeid töötuna ja tööotsijana arveloleku aja kohta;\n3) andmeid, mis on aluseks isikule tööturuteenuste osutamisel ja tööturutoetuste määramisel;\n4) andmeid isikule osutatud tööturuteenuste ning makstud tööturutoetuste kohta;\n5) andmeid Eestis töötamiseks nõusolekut taotlenud välismaalaste kohta;\n6) andmeid tööandjate ja nende pakutavate vabade töökohtade kohta.\n(5) Eesti Töötukassa esitab Sotsiaalministeeriumile statistiliste ja teaduslike uuringute jaoks statistilisi andmeid tööturu olukorra kohta.\n(5^1) Eesti Töötukassa esitab registrist andmeid käesoleva seaduse § 8 ^1 alusel asutatud andmekogusse viimase põhimäärusele vastavas mahus ja korras.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud andmete koosseisu ja esitamise korra kehtestab sotsiaalminister määrusega."
+    },
+    {
+      "provision_ref": "para8^1",
+      "chapter": "2. peatükk - TÖÖTUTE JA TÖÖOTSIJATE NING TÖÖTURUTEENUSTE OSUTAMISE ÜLE ARVESTUSE PIDAMINE",
+      "section": "8^1",
+      "title": "§ 8^1. Tööpoliitika infosüsteem",
+      "content": "(1) Tulemusliku ja tõhusa tööpoliitika väljatöötamiseks töövaldkonna probleemide analüüsimise, teadmistepõhiste tööpoliitika otsuste tegemise, Sotsiaalministeeriumi valitsemisala asutuste ja teiste tööpoliitikat rakendavate asutuste poliitikameetmete seire ning tööpoliitika tulemuslikkuse hindamise kaudu asutab sotsiaalminister riigiasutuse andmekogu «Tööpoliitika infosüsteem» (edaspidi andmekogu ).\n(2) Andmekogu pidamise põhimääruse kehtestab sotsiaalminister.\n(3) Andmekogu vastutav töötleja on Sotsiaalministeerium.\n(4) Andmekogu sisaldab isiku- ja juhtumipõhiseid andmeid:\n1) töötute, tööotsijate, Eestis töötamiseks nõusolekut taotlevate välismaalaste, töötuskindlustuse seaduse alusel kindlustatute ja hüvitise saajate ning tööandjate kohta;\n2) töötu või tööotsijana arvel olemise kohta;\n3) tööturuteenuste ja -toetuste kohta;\n4) puude ja töövõimetuse kohta;\n5) puudega laste ja puudega täiskasvanute hooldajatele makstavate toetuste kohta;\n6) vanemahüvitise kohta;\n7) sotsiaalmaksu maksmise kohta;\n8) töövigastusest tingitud tervisekahju hüvitise kohta;\n9) töötuskindlustushüvitise ning töölepingute kollektiivse ülesütlemise ja tööandja maksejõuetuse korral makstavate hüvitiste kohta;\n10) tööõnnetuste ja tööga seotud haiguste kohta;\n11) Tööinspektsiooni järelevalve ja tööalaste vaidluste kohta.\n(5) Andmekogu peetakse viisil, mis ei võimalda isiku otsest tuvastamist. Isikute otsest tuvastamist võimaldavatest andmetest kantakse andmekogusse üksnes isikukood, mis kodeeritakse enne täiendavat töötlemist, muutes isikukoodi unikaalseks asenduskoodiks. Asenduskoodi tagasikodeerimine on keelatud. Andmekogus on isikuandmete töötlemine lubatud üksnes mahus, mis on vajalik andmekogu eesmärgi saavutamiseks."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "9",
+      "title": "§ 9. Tööturuteenuste liigid ja nende osutamise põhimõtted",
+      "content": "(1) Tööturuteenuste liigid on:\n1) teavitamine tööturu olukorrast ning tööturuteenustest ja -toetustest;\n2) töövahendus;\n3) tööturukoolitus;\n4) karjäärinõustamine;\n5) tööpraktika;\n6) avalik töö;\n7) tööharjutus;\n8) palgatoetus;\n9) ettevõtluse alustamise toetus;\n10) tööruumide ja -vahendite kohandamine;\n11) töötamiseks vajaliku tehnilise abivahendi tasuta kasutada andmine;\n12) abistamine tööintervjuul;\n13) tugiisikuga töötamine.\n(2) Töötule osutatakse käesoleva paragrahvi lõikes 1 nimetatud tööturuteenuseid individuaalse tööotsimiskava alusel. Tööotsijale ja täiskoormusega õppes õppivale töötule, kaasa arvatud akadeemilisel puhkusel viibivale töötule, osutatakse käesoleva paragrahvi lõike 1 punktides 1, 2 ja 4 nimetatud tööturuteenuseid käesolevas seaduses sätestatud tingimustel. Isikutel, kes ei ole töötu või tööotsijana arvele võetud, on õigus saada teavet tööturu olukorrast ning tööturuteenustest ja -toetustest. Tööandjale osutatakse käesoleva paragrahvi lõike 1 punktides 1 ja 2 nimetatud tööturuteenuseid.\n(3) Tööturuteenuste osutamine peab soodustama töötu ja tööotsija töölerakendumist ning tööandjal sobiva tööjõu saamist.\n(4) Tööturuteenuseid osutades lähtutakse töötu ja tööotsija erialast, töökogemusest, vajadustest, võimalustest ja õigusest vabalt tööd valida ning tööandja vajadustest ja õigusest vabalt valida endale tööjõudu ning tööturu olukorrast. Otsuse tööturuteenuse osutamise kohta teeb Eesti Töötukassa.\n(5) Käesoleva paragrahvi lõike 1 punktides 10–13 sätestatud tööturuteenuseid osutatakse üksnes puudega töötule tingimusel, et tööturuteenuse osutamine on vajalik puudest tingitud takistuse kõrvaldamiseks tööle asumisel või töötamisel ning et muud tööturuteenused ei ole puudega töötu töölerakendamiseks tulemuslikud.\n(6) Eesti Töötukassa osutab töötule tööturuteenuseid ja muud töölesaamiseks vajalikku abi koostöös kohaliku omavalitsuse üksuste ja nende asutustega ning teiste teenuste pakkujatega."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "10",
+      "title": "§ 10. Individuaalne tööotsimiskava",
+      "content": "(1) Individuaalse tööotsimiskava koostamise eesmärk on töötule töö leidmiseks ja töölerakendumiseks vajalike tegevuste kavandamine. Individuaalne tööotsimiskava koostatakse kahes osas.\n(2) Individuaalse tööotsimiskava esimene osa sisaldab:\n1) töötu nime ja isikukoodi või sünniaega;\n2) koostaja nime ja ametikohta;\n3) töötu kutse- ja tööalaste ning muude töölerakendumist soodustavate oskuste kirjeldust;\n4) töö leidmiseks vajalikke tegevusi, nende osutajaid ja osutamise ajakava;\n5) Eesti Töötukassas vastuvõtul käimise või käesolevas seaduses sätestatud juhul telefoni teel ühenduse võtmise sagedust. Igal vastuvõtul või telefoni teel ühenduse võtmisel märgitakse individuaalsesse tööotsimiskavasse järgmine vastuvõtule tulemise või telefoni teel ühenduse võtmise kuupäev;\n6) töölerakendumiseks vajalikke tööturuteenuseid, välja arvatud käesoleva seaduse § 9 lõike 1 punktides 7, 8 ja 10–13 loetletud teenused;\n7) töötu aruandlust individuaalse tööotsimiskava täitmise kohta.\n(3) Individuaalse tööotsimiskava teine osa sisaldab:\n1) töötu kutse-, tööalaste ja muude töölerakendumist soodustavate oskuste analüüsi;\n2) töötu töölerakendumist takistavate asjaolude kirjeldust;\n3) töölerakendumist takistavate asjaolude kõrvaldamiseks või leevendamiseks vajalikke tööturuteenuseid, sealhulgas käesoleva seaduse § 9 lõike 1 punktides 7, 8 ja 10–13 loetletud teenuseid, ning muid meetmeid, nende osutajaid ja osutamise ajakava.\n(4) Individuaalse tööotsimiskava esimene osa koostatakse töötu ja Eesti Töötukassa koostöös seitsme päeva jooksul töötuna arvelevõtmisest arvates. Individuaalse tööotsimiskava teine osa koostatakse 18 nädala jooksul isiku töötuna arvelevõtmisest arvates. Kui töötu kuulub riskirühma ja seetõttu on tema töölerakendamine raskendatud, koostatakse individuaalse tööotsimiskava teine osa viivitamatult, kuid mitte hiljem kui viie nädala möödumisel töötuna arvelevõtmisest.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud riskirühma kuuluvad:\n1) puudega töötu, kes vajab töölerakendumisel puudest tulenevalt lisaabi;\n2) 16–24-aastane töötu;\n3) töötuna arvelevõtmisele eelnenud 12 kuu jooksul vanglast vabanenud töötu;\n4) 55-aastane kuni vanaduspensioniealine töötu;\n5)\n6) töötu, kes on enne töötuna arvelevõtmist hooldanud puudega isikut, kellele valla- või linnavalitsus on maksnud hooldamise eest toetust ja kes ei ole olnud hõivatud tööga või tööga võrdsustatud tegevusega töötuna arvelevõtmisele eelnenud 12 kuu jooksul;\n7) pikaajaline töötu, kes ei ole töötuna arvelevõtmisele vahetult eelnenud 12-kuulisel perioodil olnud hõivatud käesoleva seaduse § 26 lõikes 3 nimetatud tööga või tööga võrdsustatud tegevusega. 16–24-aastane noor on pikaajaline töötu, kui ta ei ole töötuna arvelevõtmisele vahetult eelnenud 6-kuulisel perioodil olnud hõivatud käesoleva seaduse § 26 lõikes 3 nimetatud tööga või tööga võrdsustatud tegevusega;\n8) töötu, kes ei oska eesti keelt ja kelle töölerakendamine on selle tõttu takistatud.\n(6) Töötu kinnitab individuaalse tööotsimiskavaga nõustumist allkirjaga. Individuaalset tööotsimiskava võib vastavalt vajadusele muuta. Muudatustega nõustumist kinnitab töötu allkirjaga.\n(7)"
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "11",
+      "title": "§ 11. Teavitamine tööturu olukorrast ning tööturuteenustest ja -toetustest",
+      "content": "Teavitamine tööturu olukorrast ning tööturuteenustest ja -toetustest on teabe andmine tööturu seisu ja muudatuste, tööturuteenuste sisu ja nende saamise tingimuste ning tööturutoetuste saamise tingimuste kohta."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "12",
+      "title": "§ 12. Töövahendus",
+      "content": "(1) Töövahendus on töötule ja tööotsijale sobiva töö ning tööandjale sobiva töötaja leidmine.\n(2) Eraõiguslik juriidiline isik ja füüsilisest isikust ettevõtja ei tohi nõuda tema poole tööleidmise sooviga pöördunud isikult tasu töövahendusteenuse eest. Töövahendusteenuse eest võib tasu nõuda üksnes tööandjalt või teiselt eraõiguslikult juriidiliselt isikult või füüsilisest isikust ettevõtjalt.\n(3) Sobivaks tööks töötule esimese 20 nädala vältel töötuna arvelevõtmisest arvates loetakse tööd:\n1) mis ei ole tervislikel põhjustel vastunäidustatud,\n2) mille puhul sõiduks elukohast töökohta ja tagasi ühissõidukiga ei kulu rohkem kui kaks tundi päevas ega rohkem kui 15 protsenti kuupalgast,\n3) mis vastab töötu haridusele, erialale ja varasemale töökogemusele ja\n4) mille eest pakutav töötasu on vähemalt 60 protsenti isiku ühe kuu keskmisest sotsiaalmaksuga maksustatavast tulust, kuid mitte vähem kui kahekordne palgaseaduse § 2 lõike 7 alusel kehtestatud kuupalga alammäär. Isiku sotsiaalmaksuga maksustatava ühe kuu keskmise tulu arvutamisel võetakse arvesse töötuna arvelevõtmisele eelnenud viimase kuue kuu kolm esimest kuud.\n(4) Sobivaks tööks töötule 21. nädalast töötuna arvelevõtmisest arvates loetakse tööd:\n1) mis ei ole tervislikel põhjustel vastunäidustatud,\n2) mis võib olla tähtajaline,\n3) mille puhul sõiduks elukohast töökohta ja tagasi ühissõidukiga ei kulu rohkem kui kaks tundi päevas ega rohkem kui 15 protsenti kuupalgast,\n4) mille eest pakutav töötasu on täistööajaga töötamisel suurem töötu samal perioodil saadavast töötuskindlustushüvitisest, aga mitte väiksem palgaseaduse § 2 lõike 7 alusel kehtestatud kuupalga alammäärast ja\n5) mis ei pea vastama töötu haridusele, erialale ega varasemale töökogemusele.\n(4^1) Kui isik võetakse eelmisest töötuna arveloleku lõpetamisest alates kuue kuu jooksul uuesti töötuna arvele ja ta ei ole selle aja jooksul olnud hõivatud käesoleva seaduse § 26 lõikes 3 nimetatud töö või tööga võrdsustatud tegevusega, siis võetakse talle sobiva töö määratlemisel arvesse ka viimase 12 kuu töötuna arveloleku perioodid. Kui isik on viimase 12 kuu jooksul olnud töötuna arvel kokku 20 nädalat või vähem, loetakse talle sobivaks tööd, mis vastab käesoleva paragrahvi lõikele 3 ja alates 21. töötuna arveloleku nädalast loetakse töötule sobivaks tööd, mis vastab käesoleva paragrahvi lõikele 4. Alates 21. töötuna arveloleku nädalast, mis on saadud viimase 12 kuu töötuna arveloleku perioodide liitmisel, loetakse töötule sobivaks tööd, mis vastab käesoleva paragrahvi lõikele 4.\n(5) Tööotsijale sobivaks tööks loetakse iga töö, mida tööotsija ise endale sobivaks peab."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "13",
+      "title": "§ 13. Tööturukoolitus",
+      "content": "(1) Tööturukoolitus on töötule korraldatav tööalane koolitus, kus omandatakse või arendatakse ameti- või muid oskusi, mis soodustavad isiku töölerakendumist. Tööturukoolitus kestab kuni üks aasta.\n(2) Eesti Töötukassa tellib tööturukoolitust haridusasutuselt, juriidiliselt isikult ja füüsilisest isikust ettevõtjalt, kellele on väljastatud koolitusluba.\n(3) Eesti Töötukassa sõlmib tööturukoolituse läbiviimiseks käesoleva paragrahvi lõikes 2 nimetatud asutuse või isikuga halduslepingu, milles määratakse kindlaks:\n1) tööturukoolitusest osavõtjate arv;\n2) tööturukoolituse toimumisaeg ja kestus õppetundides ning õppekava;\n3) õppetulemuse hindamise viis;\n4) tööturukoolituse kogumaksumus ja õppetunni hind osavõtja kohta;\n5) tööturukoolituse eest tasumise tingimused.\n(4) Tööturukoolituse läbiviija on kohustatud:\n1) pidama arvestust tööturukoolitusest osavõtjate kohta ja esitama andmed kord kuus Eesti Töötukassale;\n2) kinni pidama õppekavast või -plaanist;\n3) andma tööturukoolituse läbimise kohta tunnistuse.\n(5) Eesti Töötukassal on koolituse taseme hindamiseks õigus tutvuda koolituse korraldusega, kaasates eksperte ja korraldades küsitlusi."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "14",
+      "title": "§ 14. Karjäärinõustamine",
+      "content": "Karjäärinõustamine on töötule ja töö- või teenistussuhte lõpetamise kohta teate saanud tööotsijale tema isikuomadustele, haridusele ja oskustele vastava haridustee, tööalase valiku, koolituse või töö soovitamine. Karjäärinõustamise eesmärk on nõustada isikut töö- ja kutsevaliku, töö saamise ja karjääri kujundamise küsimustes."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "15",
+      "title": "§ 15. Tööpraktika",
+      "content": "(1) Tööpraktika on töötule praktilise töökogemuse saamiseks tööandja juures osutatav tööturuteenus, mille eesmärk on täiendada töötu tööks vajalikke teadmisi ja oskusi.\n(2) Eesti Töötukassa sõlmib tööpraktika korraldamiseks tööandjaga halduslepingu, milles määratakse kindlaks:\n1) tööpraktikal osalevate isikute arv;\n2) tööpraktika sisu;\n3) tööpraktika kestus.\n(2^1)\n(3) Töötu osaleb tööpraktikal kuni 8 tundi päevas ehk kuni 40 tundi nädalas. 16–17-aastane töötu osaleb tööpraktikal kuni 7 tundi päevas ehk kuni 35 tundi nädalas. Tööpraktika kestab kuni neli kuud.\n(4) Töötu peab tööpraktikal osalemise kohta praktikapäevikut. Praktikapäevik sisaldab täidetud tööülesannete kirjeldust ja tööandja hinnangut tööülesannete täitmise kohta. Töötu esitab praktikapäeviku hiljemalt iga kuu viiendal päeval Eesti Töötukassale. Eesti Töötukassa võib nõuda praktikapäeviku esitamist ka muul ajal.\n(5) Tööandja on kohustatud pidama arvestust tööpraktikast osavõtjate kohta ning esitama andmed osaletud ja puudutud tundide kohta hiljemalt iga kuu viiendal päeval Eesti Töötukassale.\n(5^1) Tööandja tagab töötute juhendamise. Ühe juhendaja kohta võib olla kuni neli juhendatavat.\n(6) Tööandjale makstakse tööpraktika juhendamise eest juhendamistasu käesoleva paragrahvi lõigetes 4 ja 5 nimetatud andmete alusel. Juhendamistasu makstakse töötu tööpraktikal osaletud iga tunni eest esimesel kuul 100 protsenti, teisel kuul 75 protsenti ning kolmandal ja neljandal kuul 50 protsenti palgaseaduse § 2 lõike 7 alusel kehtestatud tunnipalga alammäärast.\n(7) Juhendamistasu kantakse tööandja pangakontole kord kuus 10 tööpäeva jooksul käesoleva paragrahvi lõigetes 4 ja 5 nimetatud andmete esitamisest arvates.\n(8) Eesti Töötukassal on tööpraktika taseme hindamiseks õigus tutvuda tööpraktika korraldusega, kaasates eksperte ja korraldades küsitlusi.\n(9) Tööpraktikale ei kohaldata tööõigusakte, välja arvatud töötervishoiu ja tööohutuse seadus ning töö- ja puhkeaja seaduse §-d 1–5 ja 12–35."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "16",
+      "title": "§ 16. Avalik töö",
+      "content": "(1) Avalik töö on ajutine tasuline töö, mis ei eelda kutse-, eri- ega ametialast ettevalmistust.\n(2) Töötu suunatakse tema nõusolekul avalikule tööle kuni 10 tööpäevaks, kuid mitte kauemaks kui 50 tunniks ühe kuu jooksul. Töötu osaleb avalikus töös kuni 8 tundi päevas ja kuni 25 tundi nädalas. 16–17-aastane töötu osaleb avalikus töös kuni 7 tundi päevas ja kuni 25 tundi nädalas.\n(3) Eesti Töötukassa sõlmib avaliku töö korraldamiseks kohaliku omavalitsuse üksusega, mittetulundusühinguga ja sihtasutusega (edaspidi avaliku töö korraldaja ) halduslepingu. Halduslepingus määratakse kindlaks:\n1) avaliku töö laad;\n2) töötamiskoht ja töö kestus;\n3) rakendatavate töötute arv;\n4) avalikus töös osaleva töötu õigused ja kohustused;\n5) avalikus töös osaleva töötu tasu suurus ja selle maksmise tingimused;\n6) avalikus töös osalejate kohta arvestuse pidamise ja Eesti Töötukassale vastavate andmete esitamise kord.\n(4) Eesti Töötukassa on kohustatud tutvustama töötule enne tema avalikule tööle suunamist käesoleva paragrahvi lõikes 3 nimetatud halduslepingut ning tema õigusi ja kohustusi avalikus töös osalemisel.\n(5) Avaliku töö korraldaja peab arvestust avalikus töös osalejate kohta, edastab andmed kord nädalas Eesti Töötukassale käesoleva paragrahvi lõikes 3 nimetatud halduslepingu kohaselt ning teavitab viivitamatult probleemidest avalikus töös osalevate töötutega.\n(6) Avalikus töös osalevale töötule maksab tasu avaliku töö korraldaja. Avaliku töö tunnipalga alammäär on palgaseaduse § 2 lõike 7 alusel kehtestatud tunnipalga alammäär.\n(7) Avalikule tööle ei kohaldata tööõigusakte, välja arvatud töötervishoiu ja tööohutuse seadus ning töö- ja puhkeaja seaduse §-d 1–5 ja 12–35."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "17",
+      "title": "§ 17. Tööharjutus",
+      "content": "(1) Tööharjutus on töötule tööharjumuse taastamiseks või esmase tööharjumuse omandamiseks osutatav tööturuteenus. Tööharjutuse eesmärk on töötu ettevalmistamine töölkäimiseks.\n(2) Tööharjutuse kestus on kuni kolm kuud.\n(3) Eesti Töötukassa sõlmib tööharjutuse teenuse osutamiseks halduslepingu, milles määratakse kindlaks:\n1) tööharjutuse kava;\n2) õpetatavad oskused ja nende kavandatav tase;\n3) tööharjutuse toimumise koht;\n4) tööharjutuse kestus;\n5) osalevate töötute arv;\n6) tööharjutuse kogumaksumus ja hind ühe osavõtja kohta;\n7) tööharjutuses osalejate kohta arvestuse pidamise ja Eesti Töötukassale vastavate andmete esitamise kord;\n8) tööharjutuse teenuse osutamise eest tasumise tingimused.\n(3^1)\n(4) Tööharjutuse teenuse osutaja peab arvestust tööharjutuses osalejate kohta ja edastab andmed Eesti Töötukassale käesoleva paragrahvi lõikes 3 nimetatud halduslepingu kohaselt, kuid mitte harvemini kui kord 30 päeva jooksul.\n(5) Eesti Töötukassal on tööharjutuse taseme hindamiseks õigus tutvuda tööharjutuse korraldusega, kaasates eksperte ja korraldades küsitlusi."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "18",
+      "title": "§ 18. Palgatoetus",
+      "content": "(1) Palgatoetus on tööandjale töötu töölerakendamiseks makstav toetus. Palgatoetusega saab tööle rakendada töötu, kes on töötuna arvelevõtmisele eelnenud 12 kuu jooksul vabanenud vanglast ning töötu, kes on olnud töötuna arvel järjest üle 12 kuu ega ole tööd leidnud. 16–24-aastase töötu saab palgatoetusega tööle rakendada, kui ta on olnud töötuna arvel järjest üle kuue kuu ega ole tööd leidnud.\n(2) Palgatoetust võib taotleda füüsiline isik, eraõiguslik juriidiline isik ja kohaliku omavalitsuse üksuse asutus käesoleva paragrahvi lõikes 1 nimetatud töötu tähtajatu töölepinguga tööle või teenistusse võtmise korral.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud töötu töölerakendamisel makstava palgatoetuse suurus on 50 protsenti töötaja või teenistuja palgast, kuid mitte rohkem kui palgaseaduse § 2 lõike 7 alusel kehtestatud palga alammäär.\n(4) Palgatoetust makstakse tööandja esitatud palgatõendi alusel kord kuus kuue kuu vältel, aga mitte pikema aja jooksul kui üks aasta halduslepingu sõlmimisest arvates, vastavalt Eesti Töötukassa ning tööandja vahel sõlmitud halduslepingule.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud halduslepingus määratakse kindlaks:\n1) andmed palgatoetusega tööle rakendatava töötu kohta;\n2) palgatoetuse suurus;\n3) palgatoetuse maksmise aeg;\n4) tööandja kohustused;\n5) lepingu lõppemine.\n(6) Palgatoetust ei maksta töölepingu või teenistussuhte peatumise ajavahemiku eest. Nimetatud ajavahemikku ei arvata käesoleva paragrahvi lõikes 4 nimetatud kuue kuu hulka.\n(7) Tööandja tagastab palgatoetuse täies ulatuses, kui asjakohane töö- või teenistussuhe lõpetatakse tööandja algatusel enne ühe aasta möödumist töölepingu sõlmimisest või ametisse nimetamisest, välja arvatud juhul, kui:\n1) vabastamise põhjus on töötaja või teenistuja poolne töö- või teenistuskohustuste rikkumine, usalduse kaotus töötaja või teenistuja suhtes või töötaja või teenistuja vääritu või korruptiivne tegu;\n2) töötaja või teenistuja ei vasta ametikohale või tehtavale tööle oma tööoskuste või tervise poolest."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "19",
+      "title": "§ 19. Ettevõtluse alustamise toetus",
+      "content": "(1) Eesti Töötukassast võib ettevõtluse alustamise toetust taotleda töötu, kes:\n1) on vähemalt 18-aastane ja\n2) on läbinud ettevõtluskoolituse või kellel on kutse- või kõrgharidus majanduse alal või ettevõtluskogemus.\n(2) Ettevõtluse alustamise toetust taotlev töötu esitab Eesti Töötukassale:\n1) avalduse,\n2) äriplaani,\n3) koopiad dokumentidest, mis tõendavad käesoleva paragrahvi lõike 1 punktis 2 nimetatud nõude täitmist.\n(3) Ettevõtluse alustamise toetuse andmise otsustab Eesti Töötukassa kooskõlastatult töötu elukohajärgse kohaliku omavalitsuse üksuse ning Maksu- ja Tolliameti piirkondliku maksukeskuse esindajaga 30 tööpäeva jooksul töötult avalduse saamisest arvates.\n(4) Ettevõtluse alustamise toetust ei anta:\n1) olemasoleva ettevõtja majandustegevuse alustamiseks ja laiendamiseks;\n2) olemasoleva äriühingu osanikuks või aktsionäriks astumiseks;\n3) isikule, kelle suhtes kehtib ärikeeld;\n4) isikule, kellel on maksuvõlg riigi või kohaliku omavalitsuse ees;\n5) isikule, kelle esitatud äriplaan on suure riskiga;\n6) isikule, kellele kuulub vähemalt 51 protsenti olemasolevast äriühingust.\n(5) Ettevõtluse alustamise toetus kantakse töötu pangakontole 10 tööpäeva jooksul käesoleva paragrahvi lõikes 3 nimetatud otsuse tegemisest arvates.\n(6) Ettevõtluse alustamise toetust saanud isik peab seda kasutama sihtotstarbeliselt vastavalt esitatud äriplaanile.\n(7) Eesti Töötukassa kontrollib ettevõtluse alustamise toetust saanud isiku majandustegevust ja ettevõtluse alustamise toetuse sihtotstarbelist kasutamist tõendavaid dokumente vähemalt kaks korda aasta jooksul arvates toetuse ülekandmisest. Esimene kontrollimine toimub kuue kuu jooksul arvates toetuse ülekandmisest.\n(8) Ettevõtluse alustamise toetuse saaja tagastab toetuse täies ulatuses järgmiste asjaolude ilmnemise korral:\n1) äriplaanis ettenähtud majandustegevus ei ole alanud kuue kuu möödumisel raha pangakontole ülekandmise päevast, välja arvatud juhul, kui majandustegevus ei ole alanud mõjuval põhjusel;\n2) äriplaanis kavandatud majandustegevus lõpeb enne ühe aasta möödumist raha pangakontole ülekandmise päevast, välja arvatud juhul, kui majandustegevus lõpeb mõjuval põhjusel;\n3) ettevõtluse alustamise toetust saanud isik võõrandab talle kuuluva osa või aktsia toetuse abil loodud äriühingu osa- või aktsiakapitalist ühe aasta jooksul arvates raha pangakontole ülekandmise päevast;\n4) ettevõtluse alustamise toetust ei kasutata sihtotstarbeliselt.\n(9) Ettevõtluse alustamise toetuse ülemmäär kehtestatakse igaks eelarveaastaks riigieelarvega. Ettevõtluse alustamise toetuse uus ülemmäär ei või olla kehtivast ülemmäärast väiksem."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "20",
+      "title": "§ 20. Tööruumide ja -vahendite kohandamine",
+      "content": "(1) Tööruumide või töövahendite kohandamine seisneb tööandja ehitise, ruumi, töökoha või töövahendi puudega isikule ligipääsetavaks ja kasutatavaks muutmises.\n(2) Eesti Töötukassa sõlmib halduslepingu tööandjaga, kelle tööruume ja -vahendeid kohandatakse. Halduslepingus määratakse kindlaks:\n1) kohanduse objekt;\n2) kohanduse valmimise aeg;\n3) puudega töötu töölevõtmise aeg;\n4) kohanduse maksumus.\n(2^1)\n(3) Eesti Töötukassa hüvitab tööandjale pärast puudega isiku tööandja juures tööle või teenistusse asumist 50 protsenti töökoha ja -vahendi kohandamise maksumusest, kuid mitte rohkem kehtestatud hüvitise ülemmäärast.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud hüvitise ülemmäär kehtestatakse igaks eelarveaastaks riigieelarvega. Uus ülemmäär ei või olla kehtivast hüvitise ülemmäärast väiksem.\n(5) Tööandja tagastab Eesti Töötukassalt tööruumide ja -vahendite kohandamiseks saadud hüvitise summa täies ulatuses, kui asjakohane töö- või teenistussuhe lõpetatakse tööandja algatusel enne kolme aasta möödumist töölepingu sõlmimisest või ametisse nimetamisest, välja arvatud juhul, kui:\n1) vabastamise põhjus on töötaja või teenistuja poolne töö- või teenistuskohustuste rikkumine, usalduse kaotus töötaja või teenistuja suhtes või töötaja või teenistuja vääritu või korruptiivne tegu;\n2) töötaja või teenistuja ei vasta ametikohale või tehtavale tööle oma tööoskuste või tervise poolest.\n(6) Käesolevas paragrahvis sätestatud tööturuteenust ei osutata töötule tihedamini kui kord kolme aasta jooksul."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "21",
+      "title": "§ 21. Töötamiseks vajaliku tehnilise abivahendi tasuta kasutada andmine",
+      "content": "(1) Eesti Töötukassa sõlmib puudega isiku või tema tööandjaga nimetatud isikule töötamiseks vajaliku tehnilise abivahendi tasuta kasutada andmiseks halduslepingu. Halduslepingus määratakse kindlaks:\n1) lepingu ese;\n2) lepingu esemega seonduvad kulud ja nende tasumine;\n3) kasutaja kohustused;\n4) lepingu jõustumine ja lõppemine.\n(1^1)\n(2) Töötamiseks vajalik tehniline abivahend on abivahend, milleta isikul ei ole puudest tulenevalt võimalik tööülesandeid täita. Töötamiseks vajalikuks tehniliseks abivahendiks ei loeta vahendit, mis on puudest olenemata vajalik tööülesannete täitmiseks või mis on puudega inimesele vajalik igapäevaeluga toimetulekuks.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud haldusleping sõlmitakse kolmeks aastaks. Kui puudega isik on võetud tööle või teenistusse määratud ajaks, siis sõlmitakse haldusleping samaks tähtajaks, milleks on sõlmitud tööleping või vormistatud teenistusse võtmine, kuid mitte kauemaks kui kolmeks aastaks. Kui puudega isik halduslepingu lõppemise ajal töötab või on teenistuses, võib halduslepingu kehtivust pikendada kuni kolmeks aastaks."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "22",
+      "title": "§ 22. Abistamine tööintervjuul",
+      "content": "(1) Abistamine tööintervjuul on tööturuteenus puudega töötule, kes vajab puudest tulenevalt abi tööintervjuul tööandjaga suhtlemiseks.\n(2) Kui Eesti Töötukassa töötajal puuduvad vajalikud oskused puudega töötu abistamiseks tööintervjuul, sõlmib Eesti Töötukassa nimetatud teenuse osutamiseks halduslepingu isikuga, kellel on teenuse osutamiseks vajalikud oskused. Halduslepingus määratakse kindlaks:\n1) lepingu ese;\n2) andmed puudega töötu kohta;\n3) poolte õigused ja kohustused;\n4) tasu maksmine;\n5) lepingu jõustumine ja lõppemine.\n(3) Kui käesoleva paragrahvi lõikes 2 nimetatud haldusleping sõlmitakse isikuga, kes osutab käesolevas paragrahvis sätestatud teenust oma vabast ajast ja selle eest tasu saamata, hüvitatakse talle teenuse osutamisega seotud sõidukulud.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud sõidukulud hüvitatakse sotsiaalministri määrusega kehtestatud määras, tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "23",
+      "title": "§ 23. Tugiisikuga töötamine",
+      "content": "(1) Tugiisikuga töötamise võimaldamine on tööturuteenus puudega töötule, kes vajab töötamisel puudest tulenevalt abi ja juhendamist.\n(2) Eesti Töötukassa sõlmib puudega töötule tugiisikuga töötamise teenuse võimaldamiseks halduslepingu:\n1) tugiisikuga või\n2) tööandjaga, kes tagab puudega töötule tugiisikuga töötamise teenuse osutamise.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud halduslepingus määratakse kindlaks:\n1) lepingu ese;\n2) andmed puudega töötu kohta;\n3) poolte õigused ja kohustused;\n4) tasu maksmine;\n5) lepingu jõustumine ja lõppemine.\n(3^1)\n(3^2) Käesoleva paragrahvi lõike 2 punktis 1 sätestatud juhul võetakse tööandjalt tugiisikuga töötamise teenusega nõusoleku kohta kirjalik kinnitus. Tugiisikuga sõlmitud lepingut tutvustatakse tööandjale.\n(4) Tugiisikuga töötamise teenust võib puudega töötule osutada kuni ühe aasta jooksul tähtajatu töö- või teenistussuhte algusest tööandja ja puudega töötu vahel:\n1) esimesel kuul kuni 8 tundi päevas,\n2) teisel kuul kuni 4 tundi päevas ja\n3) 3.–12. kuul kuni 2 tundi päevas, kuid kokku mitte rohkem kui 700 tundi aastas puudega töötu kohta.\n(5) Käesoleva paragrahvi lõikes 2 nimetatud tugiisikule või tööandjale makstakse tasu vastavalt samas lõikes nimetatud halduslepingule. Tasu kantakse tugiisiku või tööandja pangakontole halduslepingu kohaselt, kuid mitte harvemini kui kord 30 päeva jooksul.\n(6) Tugiisikuga töötamise teenuse osutamise eest makstav tunnitasu määr kehtestatakse igaks eelarveaastaks riigieelarvega. Tugiisikuga töötamise teenuse osutamise eest makstav uus tunnitasu määr ei või olla kehtivast tunnitasu määrast väiksem."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - TÖÖTURUTEENUSED",
+      "section": "24",
+      "title": "§ 24. Riigiabi",
+      "content": "(1) Käesoleva seaduse §-des 18, 20 ja 23 sätestatud tööturuteenuste osutamine on riigiabi, mida antakse kooskõlas komisjoni määrusega (EÜ) nr 800/2008 EÜ asutamislepingu artiklite 87 ja 88 kohaldamise kohta, millega teatavat liiki abi tunnistatakse ühisturuga kokkusobivaks (üldine grupierandi määrus) (ELT L 214, 9.08.2008, lk 3–47).\n(2) Käesoleva seaduse §-s 19 sätestatud tööturuteenuse osutamine on vähese tähtsusega abi, mida antakse kooskõlas komisjoni määrustega (EÜ) nr 1998/2006, milles käsitletakse asutamislepingu artiklite 87 ja 88 kohaldamist vähese tähtsusega abi suhtes (ELT L 379, 28.12.2006, lk 5–10), nr 1535/2007, milles käsitletakse EÜ asutamislepingu artiklite 87 ja 88 kohaldamist vähese tähtsusega abi suhtes põllumajandustoodete tootmise sektoris (ELT L 337, 21.12.2007, lk 35–41) ning nr 875/2007, milles käsitletakse EÜ asutamislepingu artiklite 87 ja 88 kohaldamist vähese tähtsusega abi suhtes kalandussektoris ja millega muudetakse määrust (EÜ) nr 1860/2004 (ELT L 193, 25.07.2007, lk 6–12)."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - TÖÖTURUTOETUSED",
+      "section": "25",
+      "title": "§ 25. Tööturutoetuste liigid",
+      "content": "Tööturutoetuste liigid on:\n1) töötutoetus;\n2) stipendium;\n3) sõidu- ja majutustoetus."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - TÖÖTURUTOETUSED",
+      "section": "26",
+      "title": "§ 26. Õigus saada töötutoetust",
+      "content": "(1) Töötutoetust on õigus saada töötul, kes on töötuna arvelevõtmisele eelnenud 12 kuu jooksul olnud vähemalt 180 päeva hõivatud tööga või tööga võrdsustatud tegevusega, välja arvatud käesoleva paragrahvi lõikes 4 loetletud juhud, ja kelle kuu sissetulek on väiksem 31-kordsest töötutoetuse päevamäärast.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud sissetuleku hulka ei arvata:\n1) käesoleva seaduse alusel makstavat stipendiumi ning sõidu- ja majutustoetust;\n2) käesoleva seaduse alusel makstavat tasu avaliku töö tegemise eest;\n3) sotsiaalhoolekande seaduse alusel makstavat toimetulekutoetust;\n4) riiklike peretoetuste seaduse alusel makstavaid peretoetusi, välja arvatud sama seaduse alusel makstavat seitsme- ja enamalapselise pere vanema toetust;\n5) puuetega inimeste sotsiaaltoetuste seaduse alusel makstavaid puuetega inimeste sotsiaaltoetusi;\n6) elatist, mida töötu saab kohtuotsuse, kohtumäärusega kinnitatud kokkuleppe või pooltevahelise notariaalselt kinnitatud kokkuleppe alusel vastavalt perekonnaseaduse §-le 61;\n6^1) elatisabi seaduse alusel makstavat elatisabi;\n7) riikliku matusetoetuse seaduse alusel makstavat matusetoetust;\n8) ametiühingute vabatahtlike töötukassade makstud toetust.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud töö ja tööga võrdsustatud tegevus on:\n1) töötamine töölepingu alusel või avalikus teenistuses Eestis või Eestist lähetatud töötajana välisriigis;\n2) töötamine Eestis töövõtu-, käsundus- või muu teenuse osutamiseks sõlmitud võlaõigusliku lepingu alusel;\n3) tegutsemine Eestis füüsilisest isikust ettevõtjana;\n4) õppimine õppeasutuse päevases õppevormis või täiskoormusega õppes, juhul kui isik on oma õpingud lõpetanud. Õppimise aja hulka ei arvestata akadeemilisel puhkusel viibimise aega;\n5) ajateenistuskohustuse täitmine;\n6) aeg, mil Eesti Vabariigi välisesinduses töötava teenistujaga kaasasolevale mittetöötavale abikaasale makstakse välisteenistuse seaduse § 67 lõikes 1 nimetatud abikaasatasu.\n(4) Varasemat tööga või tööga võrdsustatud tegevusega hõivatust ei nõuta töötult, kes on töötuna arvelevõtmisele eelnenud 12 kuu jooksul vähemalt 180 päeva:\n1) kasvatanud ühe vanemana või eestkostjana kuni 18-aastast keskmise, raske või sügava puudega last, alla 8-aastast last või 8-aastast last kuni esimese klassi lõpetamiseni;\n2) olnud haiglaravil;\n3) hooldanud sotsiaalhoolekande seaduse § 15 lõike 2 alusel haiget, püsivalt töövõimetut isikut või vanurit;\n3^1) hooldanud puudega isikut ja valla- või linnavalitsus on maksnud talle hooldamise eest toetust;\n4) olnud tööta püsivalt töövõimetuks tunnistamise tõttu;\n5) olnud vahi all või kandnud karistust vanglas või arestimajas.\n(5) Kui vanemate abielu on lahutatud, saab käesoleva paragrahvi lõike 4 punkti 1 alusel töötutoetust see vanem, kelle juures laps elab pärast abielulahutust.\n(6) Kui töötu on olnud hõivatud ühe käesoleva paragrahvi lõikes 3 loetletud töö või tööga võrdsustatud tegevusega või lõikes 4 loetletud tegevusega vähem kui 180 päeva, liidetakse töötutoetuse määramisel hõivatuse ajavahemikud, mis ei kattu.\n(6^1) Töötutoetuse määramisel ei võeta arvesse käesoleva paragrahvi lõikes 3 loetletud töö ja tööga võrdsustatud tegevuse ning lõikes 4 loetletud tegevusega hõivatuse perioode, mis kattuvad töötuna arveloleku ajaga.\n(6^2) Alates töötutoetuse määramisest loetakse käesoleva paragrahvi lõigetes 3 ja 4 nimetatud tegevusega hõivatuse perioodid nulliks.\n(7) Töötul ei ole õigust saada töötutoetust ajavahemikul, mille jooksul talle makstakse töötuskindlustushüvitist töötuskindlustuse seaduse alusel."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - TÖÖTURUTOETUSED",
+      "section": "27",
+      "title": "§ 27. Töötutoetuse saamise tingimused",
+      "content": "(1) Töötutoetuse saaja peab tulema talle määratud ajal isiklikult Eesti Töötukassasse vastuvõtule ning täitma individuaalses tööotsimiskavas kokkulepitud tingimusi ja tegevusi.\n(2) Töötul, kes on saanud toetust käesoleva seaduse § 26 lõike 4 alusel, on õigus nimetatud lõike alusel korduvalt toetust saada, kui:\n1) töötule viimasest toetuse määramisest käesoleva seaduse § 26 lõike 4 alusel on möödunud vähemalt viis aastat või\n2) töötu on korduvale töötuna arvelevõtmisele eelnenud 24 kuu jooksul vähemalt 180 päeva olnud hõivatud käesoleva seaduse § 26 lõike 3 punktides 1–3 nimetatud töö ja tööga võrdsustatud tegevusega.\n(3) Töötul, kellel ei ole täitunud käesoleva seaduse § 26 lõikes 1 nõutud vähemalt 180-päevane hõive ja kellel on lõpetatud töötutoetuse maksmine enne käesoleva seaduse § 30 lõigetes 1–3 nimetatud ajavahemiku möödumist või töötuskindlustushüvitise maksmine enne 270-päevase ajavahemiku möödumist, on õigus saada töötutoetust, kui ta:\n1) on jäänud 12 kuu jooksul eelmisest töötuna arvelevõtmise päevast arvates uuesti töötuks;\n2) on vahepeal olnud hõivatud käesoleva seaduse § 26 lõike 3 punktides 1–3 nimetatud tegevusega ja\n3) vastab muudele käesolevas seaduses sätestatud töötutoetuse saamise tingimustele.\n(4) Käesoleva paragrahvi lõiget 3 ei kohaldata:\n1) käesoleva seaduse § 7 lõike 1 punktides 1–2 ja 4–6 nimetatud isikutele ja\n2) käesoleva seaduse § 33 punktides 1–3 nimetatud isikutele, kui nende töötuna arvelolek on lõpetatud käesoleva seaduse § 7 lõike 1 punkti 8 alusel."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - TÖÖTURUTOETUSED",
+      "section": "28",
+      "title": "§ 28. Töötutoetuse taotlemine",
+      "content": "(1) Töötutoetuse taotlemiseks esitab töötu nõuetekohase avalduse ja vajalikud dokumendid Eesti Töötukassale.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud avaldusele kantavate andmete ja sellele lisatavate dokumentide loetelu kehtestab sotsiaalminister määrusega.\n(3)\n(4) Käesoleva seaduse § 30 lõikes 4 nimetatud isik esitab kirjaliku avalduse Eesti Töötukassale, kes vaatab avalduse viivitamatult läbi ja teeb otsuse toetuse maksmise ajavahemiku pikendamise kohta."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - TÖÖTURUTOETUSED",
+      "section": "29",
+      "title": "§ 29. Töötutoetuse määramine",
+      "content": "(1) Eesti Töötukassa teeb otsuse toetuse määramise või määramata jätmise kohta viie tööpäeva jooksul nõuetekohase avalduse esitamisest arvates. Kui isik esitas samaaegselt töötutoetuse avaldusega töötuskindlustushüvitise avalduse, teeb Eesti Töötukassa otsuse toetuse määramise kohta viie tööpäeva jooksul töötuskindlustushüvitise määramata jätmise või avalduse läbivaatamata jätmise päevast arvates.\n(2) Töötutoetus määratakse kaheksandast päevast töötutoetuse avalduse esitamise päevast arvates, kuid mitte varem kui kaheksandast päevast isiku töötuna arvelevõtmise päevast arvates.\n(3) Töötule, kes on õppinud enne töötuna arvelevõtmist õppeasutuses päevases õppevormis või täiskoormusega õppes, määratakse töötutoetus 61. päevast töötutoetuse avalduse esitamise päevast arvates.\n(4) Käesoleva seaduse § 30 lõikes 3 nimetatud töötule määratakse töötutoetus avalduse esitamise päevast, kuid mitte varem kui töötuskindlustushüvitise maksmise lõppemise päevale järgnevast päevast.\n(5) Töötule, kes taotles, kuid kellele ei määratud töötuskindlustushüvitist töötuskindlustuse seaduse alusel, määratakse töötutoetus kaheksandast päevast töötuskindlustushüvitise taotlemise avalduse esitamise päevast alates."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "4. peatükk - TÖÖTURUTOETUSED",
+      "section": "30",
+      "title": "§ 30. Töötutoetuse maksmise ajavahemik",
+      "content": "(1) Töötutoetust makstakse kuni 270 päeva.\n(2) Töötutoetust makstakse kuni 210 päeva, kui töötu on tööandja algatusel lõpetanud viimases töökohas töötamise või teenistuse töökohustuste rikkumise, usalduse kaotamise või vääritu teo tõttu.\n(3) Töötule, kellele on makstud töötuskindlustushüvitist töötuskindlustuse seaduse § 8 kohaselt lühema ajavahemiku jooksul kui 270 päeva, makstakse töötutoetust kuni 270 päeva täitumiseni.\n(4) Töötule makstakse töötutoetust pärast käesoleva paragrahvi lõigetes 1–3 nimetatud ajavahemiku möödumist kuni vanaduspensioniikka jõudmiseni, kui töötul on vanaduspensionieani jäänud vähem kui 180 päeva.\n(5) Käesoleva seaduse § 27 lõikes 3 nimetatud juhul ei või töötutoetust maksta kahe või enama töötuna arveloleku ajavahemiku jooksul kokku rohkem kui käesoleva paragrahvi lõigetes 1–3 sätestatud päevade eest."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "4. peatükk - TÖÖTURUTOETUSED",
+      "section": "31",
+      "title": "§ 31. Töötutoetuse arvutamine ja maksmine",
+      "content": "(1) Töötutoetuse arvutamise aluseks on töötutoetuse päevamäär, mis kehtestatakse igaks eelarveaastaks riigieelarvega. Töötutoetuse uus päevamäär ei või olla kehtivast päevamäärast väiksem.\n(2) Töötutoetus arvutatakse tagasiulatuvalt töötu Eesti Töötukassas vastuvõtul käimise vaheliste päevade eest. Esmakordselt arvutatakse töötutoetus alates töötutoetuse määramise päevast kuni töötu Eesti Töötukassasse vastuvõtule tulemise päevani (kaasa arvatud). Edaspidi arvutatakse töötutoetus alates töötu Eesti Töötukassas vastuvõtul käimise päevale järgnevast päevast kuni tema järgmise vastuvõtule tulemise päevani (kaasa arvatud).\n(3) Töötutoetust makstakse vähemalt kord 30 päeva jooksul.\n(4) Kui töötutoetuse maksmine on peatatud käesoleva seaduse § 32 lõikes 1 sätestatud alustel, arvutatakse töötutoetus peatamise ajavahemikule järgnevast päevast kuni vastuvõtule tulemise päevani (kaasa arvatud).\n(5) Kui töötu individuaalses tööotsimiskavas sisaldub võimalus Eesti Töötukassas vastuvõtul käimise asemel võtta ühendust telefoni teel, võrdsustatakse telefoni teel ühenduse võtmine käesoleva paragrahvi lõigetes 2 ja 4 sätestatud juhtudel vastuvõtule tulemisega.\n(6) Töötutoetus makstakse töötu pangakontole maksja kulul."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - TÖÖTURUTOETUSED",
+      "section": "32",
+      "title": "§ 32. Töötutoetuse maksmise peatamine",
+      "content": "(1) Töötutoetuse maksmine peatatakse, kui:\n1) töötu esmakordselt mõjuva põhjuseta keeldub sobivast tööst – 10 päevaks;\n2) töötu esmakordselt mõjuva põhjuseta keeldub individuaalse tööotsimiskava täitmisest – 10 päevaks;\n3) töötu esmakordselt mõjuva põhjuseta ei tule määratud ajal Eesti Töötukassasse vastuvõtule – viimase pöördumise päevale järgnevast päevast kuni Eesti Töötukassasse vastuvõtule tulemise päevani (kaasa arvatud);\n4) töötul tekib vähemalt 31-kordse töötutoetuse päevamäära suurune ühekordne sissetulek – 30 päevaks.\n(2) Käesoleva paragrahvi lõike 1 punktides 1–3 nimetatud juhtudel vähendatakse töötutoetuse saamise päevade arvu nimetatud punktides sätestatud päevade võrra."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - TÖÖTURUTOETUSED",
+      "section": "33",
+      "title": "§ 33. Töötutoetuse maksmise ennetähtaegne lõpetamine",
+      "content": "Töötutoetuse maksmine lõpetatakse ennetähtaegselt, kui:\n1) töötu teist korda mõjuva põhjuseta ei tule talle määratud ajal Eesti Töötukassasse vastuvõtule;\n2) töötu teist korda mõjuva põhjuseta keeldub individuaalse tööotsimiskava täitmisest;\n3) töötu teist korda mõjuva põhjuseta keeldub sobivast tööst;\n4) töötuna arvelolek lõpetatakse käesoleva seaduse § 7 lõike 1 alusel;\n5) töötul tekib vähemalt 31-kordse töötutoetuse päevamäära suurune püsiv kuusissetulek. Püsivaks loetakse sissetulekut, mida isik saab vähemalt talle määratud töötutoetuse maksmise ajavahemiku lõpuni."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - TÖÖTURUTOETUSED",
+      "section": "34",
+      "title": "§ 34. Õigus saada stipendiumi",
+      "content": "Õigus saada stipendiumi on:\n1) töötul, kes osaleb vähemalt 40 tundi kestval tööturukoolitusel, mille on korraldanud Eesti Töötukassa käesoleva seaduse §-s 13 sätestatud tingimustel ja korras;\n2) töötul, kes osaleb tööpraktikas, mille on korraldanud Eesti Töötukassa käesoleva seaduse §-s 15 sätestatud tingimustel ja korras;\n3) töötul, kes osaleb tööharjutuses, mille on korraldanud Eesti Töötukassa käesoleva seaduse §-s 17 sätestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - TÖÖTURUTOETUSED",
+      "section": "35",
+      "title": "§ 35. Stipendiumi arvutamine ja maksmine ning stipendiumi määr",
+      "content": "(1) Tööturukoolituse stipendiumi arvutatakse koolitaja esitatud andmete alusel iga õppetööl osaletud tunni eest. Tööturukoolituse stipendiumi suurus arvutatakse stipendiumi ühekordse tunnimäära alusel.\n(2) Tööpraktika stipendiumi arvutatakse tööandja esitatud andmete alusel iga tööpraktikal osaletud tunni eest. Tööpraktika stipendiumi suurus arvutatakse esimesel kuul stipendiumi ühekordse, teisel kuul pooleteisekordse, kolmandal ja neljandal kuul kahekordse tunnimäära alusel.\n(3) Tööharjutuse stipendiumi arvutatakse iga tööharjutuses osaletud tunni eest tööharjutuse läbiviija esitatud andmete alusel. Tööharjutuse stipendiumi suurus arvutatakse stipendiumi poole tunnimäära alusel.\n(4) Stipendiumi arvutab Eesti Töötukassa.\n(5) Stipendium makstakse kord kuus töötu pangakontole maksja kulul.\n(6) Stipendiumi tunnimäär kehtestatakse igaks eelarveaastaks riigieelarvega. Stipendiumi uus tunnimäär ei või olla kehtivast määrast väiksem."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "4. peatükk - TÖÖTURUTOETUSED",
+      "section": "36",
+      "title": "§ 36. Õigus saada sõidu- ja majutustoetust",
+      "content": "Õigus saada sõidu- ja majutustoetust on:\n1) isikul, kes osaleb tööturukoolitusel, mille on korraldanud Eesti Töötukassa käesoleva seaduse §-s 13 sätestatud tingimustel ja korras;\n2) isikul, kes osaleb tööpraktikas, mille on korraldanud Eesti Töötukassa käesoleva seaduse §-s 15 sätestatud tingimustel ja korras;\n3) isikul, kes osaleb tööharjutuses, mille on korraldanud Eesti Töötukassa käesoleva seaduse §-s 17 sätestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "4. peatükk - TÖÖTURUTOETUSED",
+      "section": "37",
+      "title": "§ 37. Sõidu- ja majutustoetuse taotlemine, maksmine ning toetuse määr",
+      "content": "(1) Käesoleva seaduse §-s 36 nimetatud töötu esitab Eesti Töötukassale sõidu- ja majutustoetuse saamiseks avalduse.\n(2) Sõidukulud hüvitatakse tööturukoolituse, tööharjutuse või tööpraktika toimumise koha ja töötu elukoha vahemaa alusel. Majutuskulud hüvitatakse kuludokumentide alusel. Töötule hüvitatakse ühe päeva kohta kas sõidu- või majutuskulud.\n(3) Sõidu- ja majutustoetust makstakse kord kuus töötu pangakontole maksja kulul.\n(4) Sõidu- ja majutustoetuse maksmise maksimaalse päevamäära ja määra kilomeetri kohta, tingimused, korra ning avalduse vormi kehtestab sotsiaalminister määrusega.\n(5) Sõidu- ja majutustoetuse ülemmäär kuus kehtestatakse igaks eelarveaastaks riigieelarvega. Sõidu- ja majutustoetuse uus määr ei või olla kehtivast toetuse määrast väiksem."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "5. peatükk - TÖÖTURUTEENUSE OSUTAMINE ERAÕIGUSLIKU JURIIDILISE ISIKU VÕI FÜÜSILISEST ISIKUST ETTEVÕTJA POOLT",
+      "section": "38",
+      "title": "§ 38. Tegutsemine tööturuteenuse osutajana",
+      "content": "(1) Tööturuteenust võib osutada peale Eesti Töötukassa eraõiguslik juriidiline isik või füüsilisest isikust ettevõtja, kes on registreeritud tööturuteenuse osutajana majandustegevuse registris.\n(2) Käesolevat peatükki ei kohaldata Eesti Töötukassale."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "5. peatükk - TÖÖTURUTEENUSE OSUTAMINE ERAÕIGUSLIKU JURIIDILISE ISIKU VÕI FÜÜSILISEST ISIKUST ETTEVÕTJA POOLT",
+      "section": "39",
+      "title": "§ 39. Registreerimismenetlus ja registreerimisandmed",
+      "content": "(1) Eraõiguslik juriidiline isik või füüsilisest isikust ettevõtja esitab majandustegevuse registris tööturuteenuse osutajana registreerimiseks Sotsiaalministeeriumile majandustegevuse registri seaduse § 20 lõike 4 alusel kehtestatud registreerimistaotluse.\n(2) Lisaks majandustegevuse registri seaduses sätestatule peavad käesoleva paragrahvi lõikes 1 nimetatud registreerimistaotluses sisalduma järgmised andmed:\n1) tööturuteenused, mida soovitakse osutada (teavitamine tööturu olukorrast, töövahendus, karjäärinõustamine);\n2) kinnitus selle kohta, et töövahendusteenust osutatakse vastavalt käesolevas seaduses kehtestatud nõuetele;\n3) taotluse esitamise kuupäev ja allkiri;\n4) taotluse allkirjastanud isiku nimi, ametinimetus ja kontaktandmed.\n(3) Registreerimismenetlusele kohaldatakse majandustegevuse registri seaduses sätestatut, arvestades käesolevast seadusest tulenevaid erisusi.\n(4) Registreerimismenetlust majandustegevuse registri seaduse tähenduses teostavaks haldusorganiks on Sotsiaalministeerium."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "6. peatükk - RAHASTAMINE",
+      "section": "40",
+      "title": "§ 40. Rahastamine",
+      "content": "(1) Käesolevas seaduses sätestatud tööturuteenuseid ja -toetusi rahastatakse riigieelarvest Sotsiaalministeeriumi eelarve kaudu sihtotstarbelise eraldisena Eesti Töötukassa eelarvesse eraldatud vahenditest, välja arvatud käesoleva seaduse § 9 lõike 1 punktis 6 nimetatud avaliku töö eest makstav tasu, mida rahastab avaliku töö korraldaja.\n(2) Käesoleva seaduse § 9 lõike 1 punktis 10 nimetatud tööruumide ja -vahendite kohandamise teenuse osutamist rahastatakse riigieelarvest Sotsiaalministeeriumi eelarve kaudu sihtotstarbelise eraldisena Eesti Töötukassa eelarvesse eraldatud vahenditest 50 protsendi ulatuses."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "7. peatükk - VAIDLUSTE LAHENDAMINE",
+      "section": "41",
+      "title": "§ 41. Alusetult saadu tagasinõudmine",
+      "content": "(1) Eesti Töötukassa nõuab käesolevas seaduses sätestatud tööturutoetuse või käesoleva seaduse § 9 lõike 1 punktides 3, 5 ja 7–13 nimetatud tööturuteenuse saaja poolt teadliku valeandmete esitamise või tööturutoetuse või -teenuse saamist mõjutavatest asjaoludest teatamata jätmise korral või käesoleva seaduse § 18 lõikes 7, § 19 lõikes 8 ning § 20 lõikes 5 nimetatud juhtudel tööturutoetusteks alusetult makstud või tööturuteenuste osutamiseks kulunud summad tagasi.\n(2) Kui isik ei maksa alusetult makstud summasid tagasi, tehakse nende tagasinõudmiseks ettekirjutus koos hoiatusega. Hoiatuses märgitud tähtaja jooksul ettekirjutuse täitmata jätmise korral on Eesti Töötukassal õigus anda ettekirjutus sundtäitmiseks täitemenetluse seadustikus sätestatud korras."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "7. peatükk - VAIDLUSTE LAHENDAMINE",
+      "section": "42",
+      "title": "§ 42. Vaidemenetlus",
+      "content": "(1) Isik, kes leiab, et töötuna või tööotsijana arvelevõtmisel, talle individuaalse tööotsimiskava koostamisel, tööturuteenuse osutamisel või tööturutoetuse määramisel on rikutud tema õigusi või piiratud tema vabadusi, võib esitada vaide.\n(2) Vaie esitatakse Eesti Töötukassale.\n(3) Vaie lahendatakse haldusmenetluse seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para42^1",
+      "chapter": "7. peatükk - JÄRELEVALVE",
+      "section": "42^1",
+      "title": "§ 42^1. Järelevalve teostaja",
+      "content": "Järelevalvet käesolevas seaduses sätestatud Eesti Töötukassa kohustuste täitmise üle teostab Sotsiaalministeerium (edaspidi järelevalveorgan ). Järelevalveorganil on õigus kaasata järelevalve teostamisele eksperte."
+    },
+    {
+      "provision_ref": "para42^2",
+      "chapter": "7. peatükk - JÄRELEVALVE",
+      "section": "42^2",
+      "title": "§ 42^2. Järelevalveorgani pädevus",
+      "content": "(1) Järelevalveorganil on õigus:\n1) tutvuda Eesti Töötukassa käsutuses olevate tõendite ja andmetega, mille alusel on võimalik kindlaks teha järelevalveorgani ülesannete täitmiseks olulised asjaolud, saada dokumentidest ärakirju või väljavõtteid;\n2) teha Eesti Töötukassale ettekirjutusi käesoleva seadusega ja selle alusel kehtestatud õigusaktidega sätestatud nõuete rikkumise lõpetamiseks, edasiste rikkumiste ärahoidmiseks ja rikkumisega tekitatud tagajärgede kõrvaldamiseks.\n(2) Oma ülesannete täitmisel on järelevalveorgan kohustatud olema oma hinnangutes erapooletu, tuginema oma otsustustes õigusaktidele ja usaldusväärsele teabele.\n(3) Ettekirjutuse täitmata jätmisel võib järelevalveorgan rakendada sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 10 000 krooni."
+    },
+    {
+      "provision_ref": "para42^3",
+      "chapter": "7. peatükk - JÄRELEVALVE",
+      "section": "42^3",
+      "title": "§ 42^3. Ettekirjutus",
+      "content": "(1) Ettekirjutuses peavad sisalduma:\n1) ettekirjutuse tegemise alus koos viitega vastavatele õigusakti sätetele;\n2) ettekirjutuse tegemise kuupäev;\n3) ettekirjutuse täitmise tähtaeg;\n4) järelevalvet teostanud ametiisiku nimi, ametikoht ja allkiri;\n5) ettekirjutuse vaidlustamise võimalused, tähtaeg ja kord.\n(2) Järelevalveorgan toimetab ettekirjutuse Eesti Töötukassale kätte 10 päeva jooksul selle tegemise päevast arvates.\n(3) Ettekirjutusega mittenõustumisel on Eesti Töötukassal õigus esitada vaie sotsiaalministrile ühe kuu jooksul ettekirjutuse kättesaamisest arvates."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "43",
+      "title": "§ 43. Üleminekusätted",
+      "content": "(1) Kui isik on võetud töötuna arvele töötu sotsiaalse kaitse seaduse § 3 alusel ja saab hooldajatoetust puuetega inimeste sotsiaaltoetuste seaduse § 8 või sotsiaalhoolekande seaduse § 23 lõike 2 alusel, võib isik olla töötuna arvel 2006. aasta 1. juulini.\n(2) Kui isikule on määratud töötu riiklik abiraha töötu sotsiaalse kaitse seaduse § 8 alusel, ei kohaldata talle käesoleva seaduse § 26 lõikeid 1 ja 2 juhul, kui see seab isiku halvemasse olukorda, võrreldes töötu sotsiaalse kaitse seaduse § 8 lõigetes 1 ja 3 sätestatuga.\n(3) Kui töötu on enne käesoleva seaduse jõustumist esitanud avalduse tööturuteenuse seaduse §-s 18 sätestatud tööturutoetuse saamiseks ja tema kohta ei ole tehtud sama seaduse § 18 lõikes 4 nimetatud otsust, tehakse asjakohane otsus tööturuteenuse seaduse § 18 lõikes 4 sätestatud tähtajal, kuid muus osas kohaldatakse käesolevas seaduses ettevõtluse alustamise toetuse kohta sätestatut.\n(4) Kui isik on võetud töötuna arvele töötu sotsiaalse kaitse seaduse § 3 alusel, koostatakse talle käesoleva seaduse §-s 10 sätestatud individuaalse tööotsimiskava esimene osa töötu esimesel pöördumisel Eesti Töötukassasse käesoleva seaduse jõustumisest alates. Individuaalse tööotsimiskava teine osa koostatakse 18 nädala jooksul käesoleva seaduse jõustumisest alates.\n(5) Käesoleva seaduse § 12 lõigetes 3 ja 4 sätestatud ajavahemike algusajaks isikule, kes on võetud töötuna arvele töötu sotsiaalse kaitse seaduse § 3 alusel, loetakse käesoleva seaduse jõustumise aeg.\n(6) Kui tööturuteenuse seaduse §-s 20 sätestatud hädaabitööd jätkatakse pärast käesoleva seaduse jõustumist, lähtutakse hädaabitöö eest tasu maksmisel käesoleva seaduse §-s 16 sätestatud avaliku töö eest makstava tasu suurusest.\n(7) Isiku suhtes, kellele makstakse käesoleva seaduse jõustumise ajal töötu riiklikku abiraha või töötu õppestipendiumi töötu sotsiaalse kaitse seaduse kohaselt, kohaldatakse käesoleva seaduse jõustumisest alates käesolevas seaduses töötutoetuse, stipendiumi ning sõidu- ja majutustoetuse kohta sätestatut.\n(8) Kuni käesoleva seaduse jõustumiseni tööturuteenuse seaduse alusel välja antud tööturuteenuse tegevusload kehtivad tegevusloal märgitud ajani.\n(9) Käesoleva seaduse § 12 lõiget 4 ^1 kohaldatakse isiku suhtes, kelle eelmine töötuna arvelolek on lõpetatud pärast § 12 lõike 4 ^1 jõustumist. Käesoleva seaduse § 12 lõigetes 3 ja 4 sätestatud 20- või 21-nädalase perioodi pikkuse arvutamisel võetakse arvesse see töötuna arvel oldud aeg, mis järgneb § 12 lõike 4 ^1 jõustumisele.\n(10) Kuni 2010. aasta 1. jaanuarini võetakse käesoleva seaduse § 10 lõike 5 punktis 6 ja § 26 lõike 4 punktis 31 nimetatud valla- või linnavalitsuse poolt hooldamise eest makstava toetuse tingimuse täitmise juures arvesse lisaks Sotsiaalkindlustusameti poolt makstud hooldajatoetust."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "44",
+      "title": "§ 44. Statsionaarses õppevormis õppimine",
+      "content": "Isikute suhtes, kes on õppeasutusse vastu võetud enne 2003/2004. õppeaastat, loetakse käesoleva seaduse § 6 lõike 5 punktis 6, § 26 lõike 3 punktis 4 ja § 29 lõikes 3 sätestatud täiskoormusega õppe nõue täidetuks, kui nad õpivad statsionaarses õppevormis."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "45",
+      "title": "§ 45. Töötuna ja tööotsijana arvel olevate isikute ning tööturuteenuste osutamise register",
+      "content": "Käesoleva seaduse § 8 lõikes 1 nimetatud töötuna ja tööotsijana arvel olevate isikute ning tööturuteenuste osutamise registrina käsitatakse tööturuteenuse seaduse § 8 lõike 3 alusel asutatud tööotsijate ja tööturuteenuste riiklikku registrit."
+    },
+    {
+      "provision_ref": "para4658",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "46–58",
+      "title": "§ 46–58.",
+      "content": "[Käesolevast tekstist välja jäetud]"
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "59",
+      "title": "§ 59. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2006. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": []
+}

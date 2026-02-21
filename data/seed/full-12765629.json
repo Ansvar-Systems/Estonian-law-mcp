@@ -1,0 +1,320 @@
+{
+  "id": "ee-law-12765629",
+  "type": "statute",
+  "title": "Perioodi 2007-2013 struktuuritoetuse seadus",
+  "title_en": "Perioodi 2007-2013 struktuuritoetuse seadus",
+  "short_name": "STS2007_2013",
+  "status": "repealed",
+  "issued_date": "2006-12-07",
+  "in_force_date": "2007-01-01",
+  "url": "https://www.riigiteataja.ee/akt/12765629.xml",
+  "description": "Official consolidated statute text (Perioodi 2007-2013 struktuuritoetuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab struktuuritoetuse andmise ja kasutamise, tagasinõudmise ja tagasimaksmise alused ning korra, samuti struktuuritoetuse andmise ning kasutamise järelevalve alused ning vaidemenetluse korra.\n(2) Käesolevat seadust kohaldatakse Euroopa Liidu nõukogu (edaspidi nõukogu ) määruse (EÜ) nr 1083/2006, millega nähakse ette üldsätted Euroopa Regionaalarengu Fondi, Euroopa Sotsiaalfondi ja Ühtekuuluvusfondi kohta ning tunnistatakse kehtetuks määrus (EÜ) 1260/1999 (ELT L 210, 31.07.2006, lk 25–69), artikli 32 lõike 5 kohaselt Euroopa Komisjoni (edaspidi komisjon ) kinnitatud rakenduskava alusel struktuuritoetuseks eraldatavate vahendite andmisel ja kasutamisel.\n(3) Nõukogu määruse nr 1083/2006 artikli 3 lõike 2 punktis c nimetatud Euroopa Liidu territoriaalse koostöö eesmärgi (edaspidi EL territoriaalne koostöö ) rakenduskavade alusel struktuuritoetuse andmisel ja kasutamisel kohaldatakse käesoleva seaduse §-des 2, 5 ja 14, § 21 lõikes 1, §-s 22, § 25 lõigetes 1–2 ja 4–8, §-des 26–28, 32 ja 33 ning 8. peatükis sätestatut.\n(4) Käesoleva seaduse 8. peatükis sätestatu laieneb ka Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1638/2006, milles kehtestatakse üldsätted Euroopa naabruse ja partnerluse instrumendi loomiseks (ELT L 310, 09.11.2006, lk 1–14), alusel elluviidavatele piiriülese koostöö programmidele.\n(5) Käesolevas seaduses ettenähtud menetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesolevast seadusest tulenevaid erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Mõisted",
+      "content": "Käesoleva seaduse tähenduses:\n1) struktuuritoetus (edaspidi toetus ) on rahaline abi, mida antakse nõukogu määruse (EÜ) nr 1083/2006 artiklis 1 nimetatud struktuurifondide ja Ühtekuuluvusfondi vahenditest või Eesti riigi poolt nende vahendite kasutamise kaasrahastamiseks sihtotstarbeliselt eraldatavatest täiendavatest vahenditest;\n2) abikõlblik kulu on kulu, mis on põhjendatud, mõistlik ja vajalik projekti elluviimiseks ning mis on tehtud kooskõlas õigusaktides või toetuse taotluse rahuldamise otsuses sätestatud nõuetega;\n3) omafinantseering on toetuse saaja või teise projektis osaleva füüsilise või juriidilise isiku, riigiasutuse või kohaliku omavalitsuse asutuse (edaspidi projektis osalev isik ) rahaline või rahaliselt mõõdetav panus projekti. Omafinantseeringu hulka arvatakse ainult toetuse saaja või projektis osaleva isiku tehtavad abikõlblikud kulud. Omafinantseeringut toetuse hulka ei arvata, samuti ei saa toetust kasutada omafinantseeringuks;\n4) meede on tegevuste kogum, mida rakendatakse rakenduskavas püstitatud eesmärkide saavutamiseks;\n5) projekt on kindla eesmärgi saavutamisele suunatud ajas ja ruumis piiritletud ühekordne tegevus või tegevuste kogum, mille elluviimiseks toetust taotletakse või kasutatakse;\n6) projekti abikõlblikkuse periood on kas toetuse taotluse rahuldamise otsuses, investeeringute kavas, programmis, programmi elluviijaga sõlmitavas halduslepingus või meetme tingimustes sätestatud ajavahemik, millal projekti tegevused algavad ja lõpevad ning projekti teostamiseks vajalikud kulud tekivad;\n7) struktuuritoetuse ja omafinantseeringu audit (edaspidi audit ) on nõukogu määruse (EÜ) nr 1083/2006 artikli 62 lõike 1 punktides a ja b ning artikli 71 lõikes 2 sätestatud tegevus;\n8) toetuse taotleja (edaspidi taotleja ) on füüsiline või juriidiline isik, riigi- või kohaliku omavalitsuse asutus, kes on esitanud taotluse toetuse saamiseks;\n9) toetuse saaja on füüsiline või juriidiline isik, riigi- või kohaliku omavalitsuse asutus, kelle taotlus toetuse saamiseks on rahuldatud või kes on toetuse saaja meetme tingimustes, programmis või programmi elluviijaga sõlmitavas halduslepingus või EL territoriaalse koostöö rakenduskavas või selle lisades sätestatu kohaselt."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Riiklik strateegiline raamistik ja rakenduskavad",
+      "content": "(1) Toetuse andmise ja kasutamise üldised alused sätestatakse riiklikus strateegilises raamistikus nõukogu määruse (EÜ) nr 1083/2006 artikli 27 lõike 1 tähenduses ja rakenduskavades nõukogu määruse (EÜ) nr 1083/2006 artikli 2 punkti 1 tähenduses.\n(2) Riikliku strateegilise raamistiku ja selle muudatused kiidab heaks Vabariigi Valitsus. Komisjon teeb riikliku strateegilise raamistiku kohta nõukogu määruse (EÜ) nr 1083/2006 artikli 28 lõikes 3 nimetatud otsuse.\n(3) Rakenduskava ja selle muudatused kiidab heaks Vabariigi Valitsus ning need kinnitab vastavalt nõukogu määruse (EÜ) nr 1083/2006 artikli 32 lõikes 5 sätestatule komisjon."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Struktuuritoetuse register",
+      "content": "(1) Struktuuritoetuse register (edaspidi register ) on riiklik register andmekogude seaduse tähenduses.\n(2) Registrisse kogutakse statistilist ja finantsteavet, mille põhjal:\n1) peetakse toetuse andmise ja kasutamise arvestust komisjonile vajalike andmete esitamiseks;\n2) peetakse toetuse andmise ja kasutamise arvestust toetuse andmise ja kasutamise juhtimiseks ning järelevalveks;\n3) tehakse toetuse väljamakseid.\n(3) Registri pidamise põhimääruse kinnitab Vabariigi Valitsus.\n(4) Registri kasutamise korra kehtestab rahandusminister."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Dokumentide säilitamine",
+      "content": "Toetuse andmise ja kasutamisega seotud dokumente säilitatakse vähemalt 2025. aasta 31. detsembrini. Nõukogu määruse (EÜ) nr 1083/2006 artiklis 88 sätestatud juhul säilitatakse dokumente kuni Vabariigi Valitsuse määratud tähtpäevani."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - TOETUSE ANDMISE KORRALDAJAD",
+      "section": "6",
+      "title": "§ 6. Akrediteerimine ja volituse andmine",
+      "content": "(1) Akrediteerimine on rakendusüksuse ülesannete täitmise eelduseks olev eraõigusliku juriidilise isiku, valitsusasutuse või valitsusasutuse hallatava riigiasutuse juhtimis- ja kontrollisüsteemide tunnistamine nõukogu määruse (EÜ) nr 1083/2006 artiklis 58 sätestatud nõuetele vastavaks.\n(2) Kui rakendusüksuse ülesandeid täidab rakendusasutus või korraldusasutus, akrediteeritakse teda rakendusüksuse ülesannete täitmise osas.\n(3) Otsuse akrediteerimise või mitteakrediteerimise kohta teeb Vabariigi Valitsus rahandusministri ettepaneku alusel.\n(4) Koos akrediteerimise otsuse tegemisega volitab Vabariigi Valitsus akrediteeritavat täitma rakendusüksuse ülesandeid.\n(5) Akrediteerimise tingimused ja korra kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - TOETUSE ANDMISE KORRALDAJAD",
+      "section": "7",
+      "title": "§ 7. Korraldusasutus",
+      "content": "(1) Korraldusasutus nõukogu määruse (EÜ) nr 1083/2006 artikli 59 lõike 1 punkti a tähenduses on Vabariigi Valitsuse nimetatud ministeerium.\n(2) Korraldusasutuse ülesanded käesoleva seaduse kohaselt on:\n1) rakenduskavade juhtimis- ja kontrollisüsteemide vastavuse tagamine nõukogu määruse (EÜ) nr 1083/2006 artiklis 58 ja teistes õigusaktides sätestatud nõuetele ning puuduste esinemise korral vajalike abinõude kasutusele võtmine;\n2) rakenduskavade juhtimis- ja kontrollisüsteemide kirjelduse koostamine ja komisjonile esitamine vastavalt nõukogu määruse (EÜ) nr 1083/2006 artiklis 71 sätestatule;\n3) registri vastutava töötleja ülesannete täitmine andmekogude seaduse tähenduses;\n4) muud talle käesoleva seadusega või selle alusel antud õigusaktidega pandud ülesanded.\n(3) Korraldusasutuse ülesannete täitmiseks on korraldusasutuse volitatud isikul õigus kontrollida rakendusasutuste ja -üksuste toetuse andmise ja kasutamisega ning toetuse saajate toetuse kasutamisega seotud dokumente."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - TOETUSE ANDMISE KORRALDAJAD",
+      "section": "8",
+      "title": "§ 8. Makseasutus",
+      "content": "(1) Makseasutus nõukogu määruse (EÜ) nr 1083/2006 artikli 59 lõike 1 punkti b tähenduses on Vabariigi Valitsuse nimetatud ministeerium. Makseasutus täidab nõukogu määruse (EÜ) nr 1083/2006 artiklis 61 nimetatud ja muid käesolevas seaduses või teistes õigusaktides sätestatud ülesandeid.\n(2) Makseasutuse ülesannete täitmiseks on makseasutuse volitatud isikul õigus kontrollida korraldusasutuse, rakendusasutuste ja -üksuste ning toetuse saajate esitatud finantsaruannete aluseks olevaid dokumente."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - TOETUSE ANDMISE KORRALDAJAD",
+      "section": "9",
+      "title": "§ 9. Auditeeriv asutus",
+      "content": "(1) Auditeeriv asutus nõukogu määruse (EÜ) nr 1083/2006 artikli 59 lõike 1 punkti c tähenduses on Vabariigi Valitsuse nimetatud ministeerium. Auditeeriv asutus täidab nõukogu määruse (EÜ) nr 1083/2006 artiklis 62, artikli 88 lõikes 2 ja artiklis 98 nimetatud ning muid käesolevas seaduses või teistes õigusaktides sätestatud ülesandeid.\n(2) Auditeeriva asutuse ülesannete täitmiseks on auditeeriva asutuse volitatud isikul ja asutusel õigus auditeerida korraldus- ja makseasutust, rakendusasutusi ja -üksusi ning toetuse saajaid. Nimetatud asutused ja isikud peavad võimaldama auditi tegemist ning osutama selleks igakülgset abi, sealhulgas võimaldama volitatud isikule esitatud andmete õigsuse kontrollimiseks juurdepääsu andmetele ja dokumentidele ning lubama viibida toetuse andmise ja kasutamisega seotud ruumides ja territooriumil.\n(3) Auditi tegemise ja nõukogu määruse (EÜ) nr 1083/2006 artikli 62 lõike 1 punktis e nimetatud lõpetamise deklaratsiooni ning artikli 62 lõike 1 punkti d alapunktis iii nimetatud osalise lõpetamise deklaratsiooni esitamise korra kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - TOETUSE ANDMISE KORRALDAJAD",
+      "section": "10",
+      "title": "§ 10. Rakendusasutus",
+      "content": "(1) Rakendusasutus on Vabariigi Valitsuse nimetatud ministeerium või Riigikantselei.\n(2) Rakendusasutuse ülesanded on:\n1) meetme väljatöötamine ja kinnitamine;\n2) meetme rakendamiseks rahaliste vahendite planeerimine;\n3) toetuse andmise põhimõtete väljatöötamine ja vastavate õigusaktide kehtestamine;\n4) rakendusüksuste nõustamine meetme rakendamisel;\n5) toetuse andmise ja kasutamise aruandluse jaoks vajalike andmete esitamine;\n6) muud talle käesoleva seadusega või selle alusel antud õigusaktidega pandud ülesanded."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - TOETUSE ANDMISE KORRALDAJAD",
+      "section": "11",
+      "title": "§ 11. Rakendusüksus",
+      "content": "(1) Rakendusüksus on Vabariigi Valitsuse nimetatud ja käesoleva seaduse § 6 lõike 4 kohaselt rakendusüksuse ülesandeid täitma volitatud valitsusasutus, valitsusasutuse hallatav riigiasutus või eraõiguslik juriidiline isik.\n(2) Eraõigusliku juriidilise isikuga sõlmib rakendusasutus rakendusüksuse ülesannete täitmiseks halduslepingu (edaspidi haldusleping ) halduskoostöö seaduses sätestatud korras.\n(3) Rakendusüksuse ülesanded on:\n1) toetuse saamise võimalustest teavitamine;\n2) toetuse taotluste menetlemine;\n3) taotlejale ja toetuse saajale toetuse andmist ja kasutamist puudutavates küsimustes selgituste andmine;\n4) toetuse andmise ning kasutamise aruandluse jaoks vajalike andmete esitamine;\n5) toetuse andmise ja kasutamise kohta ülevaadete koostamine ja avalikustamine;\n6) muud talle käesoleva seadusega, selle alusel antud õigusaktidega või halduslepinguga pandud ülesanded.\n(4) Kui vastavalt meetme tingimustele, programmile või halduslepingule täidab rakendusüksuse ülesandeid rakendusasutus või korraldusasutus, kohaldatakse talle nende ülesannete täitmisel käesolevas seaduses rakendusüksuse kohta sätestatut.\n(5) Kui käesoleva paragrahvi lõikes 1 nimetatud isik või asutus või rakendusüksuse ülesandeid täitev rakendusasutus või korraldusasutus ei täida talle pandud rakendusüksuse ülesandeid, otsustab Vabariigi Valitsus rahandusministri ettepanekul isiku või asutuse volituste peatamise, jätkamise või lõpetamise ning rakendusüksuse ülesannete edasise täitmise."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - TOETUSE ANDMINE",
+      "section": "12",
+      "title": "§ 12. Toetuse andmise üldpõhimõtted",
+      "content": "(1) Toetust võib anda tagastamatu või tagastatava toetusena.\n(2) Toetust antakse avatud taotlemise, investeeringute kava või programmi alusel.\n(3) Toetuse andmine laenuna või laenu tagatisena toimub ettevõtluse toetamise ja laenude riikliku tagamise seaduses sätestatud alustel ja korras.\n(4) Meetme tingimused kehtestab rakendusasutuse juht. Kui rakendusasutuseks on Riigikantselei, kehtestab meetme tingimused Vabariigi Valitsus. Meetme tingimustes sätestatakse meetme rakendamiseks toetuse andmise ning kasutamise tingimused ja kord."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - TOETUSE ANDMINE",
+      "section": "13",
+      "title": "§ 13. Meetme tingimused avatud taotlemisel",
+      "content": "Toetuse andmiseks avatud taotlemise alusel sätestatakse meetme tingimustes:\n1) toetuse andmise eesmärk ja toetatavad tegevused;\n2) abikõlblikud või mitteabikõlblikud kulud;\n3) toetuse maksimaalne määr ja omafinantseeringu vajaduse korral selle minimaalne määr;\n4) vajaduse korral võimalus võtta taotlusi vastu konkreetse tegevuse, piirkonna, sihtrühma või meetme eelarve osa kohta;\n5) taotlejale esitatavad nõuded;\n6) toetuse taotlusele (edaspidi taotlus ) esitatavad nõuded;\n7) taotluse hindamise kriteeriumid ja hindamise kord, sealhulgas hindamise miinimumkriteeriumid, ning vajaduse korral nõuded hindamisse kaasatud isikutele;\n8) taotluse rahuldamise ja rahuldamata jätmise tingimused ja kord;\n9) taotluse rahuldamise otsuse muutmise või kehtetuks tunnistamise tingimused ja kord;\n10) toetuse saaja kohustused;\n11) toetuse andmise ja kasutamisega seotud teabe ja aruannete esitamise tähtajad ja kord ning vajaduse korral aruannete vormid;\n12) toetuse väljamaksete tegemise kord;\n13) elektroonilise andmeside kaudu edastatavatele dokumentidele vajaduse korral esitatavad lisanõuded."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - TOETUSE ANDMINE",
+      "section": "14",
+      "title": "§ 14. Taotlejale esitatavad nõuded ja taotleja kohustused",
+      "content": "(1) Taotlejale võib meetme tingimustes kehtestada järgmisi nõudeid:\n1) taotleja on maksevõimeline;\n2) taotleja on majanduslikult jätkusuutlik;\n3) taotlejal on projekti elluviimiseks vajalikud vahendid;\n4) taotleja on varem riigieelarvelistest, Euroopa Liidu või välisabi vahenditest saadud ja tagasimaksmisele kuulunud summa tähtajal tagasi maksnud või toetuse tagasimaksmise ajatamise korral tasunud tagasimaksed ettenähtud tähtajal ja summas;\n5) taotleja ei ole varem sama kulu hüvitamiseks riigieelarvelistest, Euroopa Liidu või välisabi vahenditest raha saanud;\n6) projektile või projekti üksikutele tegevustele samal ajal mitmest meetmest või muudest riigieelarvelistest, Euroopa Liidu või välisabi vahenditest toetuse taotlemise korral peab taotleja esitama sellekohase teabe;\n7) taotlejal või projektis osaleval isikul on projekti elluviimiseks vajalik kvalifikatsioon, kogemus või projekti elluviimiseks vajalikud õiguslikud eeldused;\n8) taotleja täidab keskkonna-, ohutus- ja hügieeninõudeid;\n9) residendist taotleja tegevuskoht või mitteresidendist taotleja püsiv tegevuskoht maksukorralduse seaduse tähenduses on Eestis;\n10) taotleja või taotlejas osalust omava isiku juriidilisele vormile esitatavad nõuded;\n11) taotleja vastaval alal tegutsemise ajale esitavad nõuded;\n12) taotleja vastab muudele meetme tingimustes või EL territoriaalse koostöö puhul rakenduskavas sätestatud nõuetele.\n(2) Taotleja on kohustatud:\n1) esitama taotluse menetleja nõudmisel taotleja ja taotluse kohta lisateavet meetme tingimustes sätestatud vormis ja tähtajal;\n2) võimaldama kontrollida taotluse ja taotleja vastavust nõuetele, sealhulgas teha paikvaatlust;\n3) taotluse menetlejat viivitamata teavitama taotluses esitatud andmetes toimunud muudatustest või ilmnenud asjaoludest, mis võivad mõjutada taotluse kohta otsuse tegemist;\n4) tõendama taotluse menetleja nõudmisel meetme tingimustes ettenähtud omafinantseeringu või muude vahendite või dokumentide olemasolu."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - TOETUSE ANDMINE",
+      "section": "15",
+      "title": "§ 15. Taotlusele esitatavad nõuded",
+      "content": "(1) Taotlus peab vastama järgmistele nõuetele:\n1) taotlus on esitatud meetme tingimustes ettenähtud korras ja vormis;\n2) toetust taotletakse meetme tingimustes sätestatud toetatavatele tegevustele;\n3) taotletud toetuse suurus ei ületa meetme tingimustes sätestatud toetuse määra;\n4) taotluses sisalduva projekti tegevused planeeritakse lõpetada hiljemalt 2015. aasta 31. augustiks;\n5) taotluses sisalduva projekti eelarves on muu hulgas ette nähtud nõutav omafinantseering;\n6) taotluses esitatud andmed on täielikud ja õiged;\n7) taotluse on allkirjastanud taotleja või tema esindusõiguslik isik omakäelise allkirjaga, digitaalallkirjaga või taotluse esitaja on tuvastatud muul meetme tingimustes ettenähtud elektroonsel viisil.\n(2) Kui taotluse nõuetele vastavuse kontrollimisel avastatakse puudusi, teatatakse sellest viivitamata taotlejale ja määratakse tähtaeg puuduste kõrvaldamiseks. Taotluse menetlemise tähtaega võib pikendada puuduste kõrvaldamiseks ettenähtud aja võrra.\n(3) Taotlus ei vasta nõuetele, kui esineb vähemalt üks järgmistest asjaoludest:\n1) taotlus ei vasta käesoleva paragrahvi lõikes 1 või meetme tingimustes sätestatud nõuetele;\n2) taotluses on esitatud ebaõigeid või mittetäielikke andmeid või taotleja mõjutab pettuse või ähvardusega või muul õigusvastasel viisil taotluse menetlemist;\n3) taotleja ei võimalda kontrollida taotluse vastavust nõuetele või teha paikvaatlust;\n4) taotleja ei ole käesoleva paragrahvi lõike 2 alusel määratud tähtaja jooksul taotluses esinevaid puudusi kõrvaldanud.\n(4) Kui taotleja ei ole esitanud taotlust tähtajaks, jäetakse taotlus läbi vaatamata. Taotluse võib jätta läbi vaatamata, kui taotlus ei vasta olulistele vorminõuetele."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - TOETUSE ANDMINE",
+      "section": "16",
+      "title": "§ 16. Taotluse hindamine ja rahuldamine",
+      "content": "(1) Nõuetele vastavaid taotlusi hindavad kompetentsed ja taotleja suhtes erapooletud isikud meetme tingimustes sätestatud korras ja hindamiskriteeriumide alusel. Rakendusüksus teeb hindamistulemuste põhjal otsuse taotluse täieliku või osalise rahuldamise kohta (edaspidi taotluse rahuldamise otsus ) või taotluse rahuldamata jätmise otsuse.\n(2) Taotluse rahuldamata jätmise otsus tehakse taotlust hindamata, kui:\n1) taotleja ei vasta vähemalt ühele meetme tingimustes taotlejale esitatavale nõudele;\n2) taotlus ei vasta käesoleva seaduse § 15 lõikes 1 sätestatud nõuetele.\n(3) Kui taotlus ei vasta meetme tingimustes sätestatud hindamiskriteeriumide miinimumnõuetele, tehakse taotluse rahuldamata jätmise otsus.\n(4) Vastavalt meetme tingimustes sätestatule rahuldatakse:\n1) hindamiskriteeriumide alusel koostatud taotluste paremusjärjestuses esimesele kohale tulnud taotlus,\n2) hindamiskriteeriumide alusel välja valitud ja vajaduse korral paremusjärjestusse seatud parimad taotlused,\n3) kõik taotlused, mis vastavad hindamiskriteeriumide miinimumnõuetele, või\n4) kõik taotlused, mille hindamistulemused ületavad meetme tingimustes sätestatud lävendi.\n(5) Hindamistulemuste alusel taotluste paremusjärjestuse koostamisel eelistatakse võrdsete näitajatega taotluste korral meetme tingimustes sätestatu kohaselt taotlust, millel on suurem omafinantseeringumäär, või ajaliselt varem esitatud taotlust või heidetakse võrdsete näitajatega taotluste vahel liisku.\n(6) Kui meetme tingimustes sätestatud lävendit ületavate taotluste maht on suurem kui meetme eelarve vabade vahendite jääk, rahuldatakse ajaliselt varem esitatud taotlus."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - TOETUSE ANDMINE",
+      "section": "17",
+      "title": "§ 17. Taotluse osaline ja järgmiste aastate vahendite arvel rahuldamine",
+      "content": "(1) Meetme tingimustes võib ette näha, et kui taotluse täielik rahuldamine ei ole võimalik või põhjendatud, võib taotleja nõusolekul taotletud toetuse summat vähendada ja projekti tegevusi muuta tingimusel, et saavutatakse taotluses sisalduva projekti eesmärgid. Kui taotleja ei ole nõus toetuse vähendamise või tegevuste muutmisega, tehakse taotluse rahuldamata jätmise otsus.\n(2) Kui taotluse rahuldamise otsus tehakse meetme järgmiste aastate eelarvete vahendite arvel, nähakse taotluse rahuldamise otsuses kõrvaltingimusena ette otsuse muutmise või kehtetuks tunnistamise võimalus, kui toetuse väljamaksmise aasta eelarves vahendid toetuse maksmiseks puuduvad."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - TOETUSE ANDMINE",
+      "section": "18",
+      "title": "§ 18. Taotluse rahuldamise otsuse muutmine ja kehtetuks tunnistamine",
+      "content": "(1) Taotluse rahuldamise otsust võib muuta või selle kehtetuks tunnistada taotluse rahuldamise otsuse teinud isiku või asutuse algatusel või toetuse saaja sellekohase avalduse alusel.\n(2) Taotluse rahuldamise otsusega kinnitatud projekti eelarvet või tegevusi võib toetuse saaja ilma taotluse rahuldamise otsuse muutmise avaldust esitamata muuta ainult meetme tingimustes sätestatud tingimustel ja korras, teavitades sellest eelnevalt rakendusüksust.\n(3) Taotluse rahuldamise otsust võib muuta, kui esineb vähemalt üks järgmistest asjaoludest:\n1) projekti tegevuste muutmise tõttu muutuks oluliselt projekti sisu või tulemus;\n2) muutmist vajab projekti tegevuste algus- või lõppkuupäev või projekti abikõlblikkuse periood;\n3) muutmist vajab projekti abikõlblike kulude eelarve;\n4) muutmist vajavad toetuse väljamaksmise tähtajad;\n5) meetme tingimustes või toetuse saaja avalduses nimetatud muu asjaolu.\n(4) Meetme tingimustes sätestatud korras võib põhjendatud juhtudel taotluse rahuldamise otsuse muutmisega toetuse summat suurendada projekti abikõlblikkuse perioodi jooksul üks kord siis, kui:\n1) projekti abikõlblike kulude eelarve suureneb avatud pakkumismenetlusega riigihanke kallinemise tõttu või\n2) projekti abikõlblikkuse periood on pikem kui 60 kuud.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud toetuse summa suurendamisel peavad olema täidetud kõik järgmised tingimused:\n1) meetme eelarve vahendite jääk võimaldab toetuse summa suurendamist;\n2) toetuse summat suurendatakse maksimaalselt 30 protsendi võrra toetuse esialgse summaga võrreldes;\n3) toetuse summa suurendamisel toetuse määr ei suurene.\n(6) Taotluse rahuldamise otsuse võib kehtetuks tunnistada, kui esineb vähemalt üks järgmistest asjaoludest:\n1) ilmneb asjaolu, mille korral taotlust ei oleks rahuldatud;\n2) toetuse saaja ei ole taotluse rahuldamise otsuses määratud tähtaja jooksul alustanud toetuse kasutamist;\n3) toetuse saaja ei täida taotluse rahuldamise otsuses või õigusaktides sätestatut või ei kasuta toetust ettenähtud tingimustel;\n4) projekti tegevusi ei ole võimalik lõpetada 2015. aasta 31. augustiks;\n5) toetuse saaja avaldust taotluse rahuldamise otsuse muutmise kohta ei rahuldata ja toetuse saajal ei ole toetuse kasutamist ettenähtud tingimustel võimalik jätkata;\n6) toetuse saaja esitab avalduse toetusest loobumise kohta."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - TOETUSE ANDMINE",
+      "section": "19",
+      "title": "§ 19. Toetuse andmine investeeringute kava alusel",
+      "content": "(1) Riikliku või piirkondliku tähtsusega investeeringuprojektide, sealhulgas nõukogu määruse (EÜ) nr 1083/2006 artikli 39 tähenduses suurprojektide kohta võib rakendusasutus koostada investeeringute kava, mis koosneb projektide nimekirjast või eelistusnimekirjast ning milles on märgitud vähemalt projektide hinnanguline maksumus ja projektidele antava toetuse maksimaalne määr. Investeeringute kava koostamisel lähtutakse meetme tingimustes sätestatust.\n(2) Investeeringute kava kinnitab Vabariigi Valitsus.\n(3) Suurprojektide komisjonile esitamise korraldab rakendusasutus.\n(4) Toetuse andmiseks investeeringute kava alusel sätestatakse meetme tingimustes:\n1) toetuse andmise eesmärk ja toetatavad tegevused;\n2) abikõlblikud või mitteabikõlblikud kulud;\n3) toetuse maksimaalne ja omafinantseeringu minimaalne määr;\n4) investeeringute kava koostamise ja muutmise kord, sealhulgas investeeringute kavaga kinnitatavate projektide valimisel nende valimise tingimused ja kord;\n5) suurprojektide komisjonile esitamise kord;\n6) investeeringute kavaga kinnitatud projektide elluviimise ja muutmise tingimused ja kord;\n7) toetuse saaja kohustused;\n8) toetuse kasutamisega seotud aruannete esitamise tähtajad ja kord ning vajaduse korral aruannete vormid;\n9) toetuse väljamaksete tegemise kord.\n(5) Meetme tingimustes sätestatud tingimustel ja korras võib põhjendatud juhtudel investeeringute kavaga kinnitatud projekti muutmisel projektile antava toetuse summat suurendada."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - TOETUSE ANDMINE",
+      "section": "20",
+      "title": "§ 20. Toetuse andmine programmi alusel",
+      "content": "(1) Rakendusasutus võib rakenduskavas toodud eesmärkide saavutamiseks ettenähtud tegevuste kohta koostada programmi, mis koosneb vähemalt programmi eesmärkide ja tegevuste kirjeldusest ning programmi eelarvest.\n(2) Täies ulatuses või osaliselt programmi alusel elluviidavate meetmete nimekirja, sealhulgas osaliselt programmi alusel elluviidava meetme puhul meetmest programmile antava toetuse suuruse, kinnitab Vabariigi Valitsus rakendusasutuse ettepanekul.\n(3) Programmi viib ellu rakendusasutus või tema volitatud isik või asutus. Juriidilise isikuga sõlmib rakendusasutus programmi elluviija ülesannete täitmiseks halduslepingu.\n(4) Programmile kohaldatakse käesolevas seaduses projekti kohta sätestatut, välja arvatud käesoleva seaduse §-des 14, 15, 17 ja 18 sätestatut.\n(5) Programmi elluviijale kohaldatakse käesolevas seaduses toetuse saaja kohta sätestatut, välja arvatud käesoleva seaduse §-s 18 sätestatut.\n(6) Toetuse andmiseks programmi alusel sätestatakse meetme tingimustes või programmis:\n1) toetuse andmise sihtgrupp, kui on vajalik seda määrata;\n2) abikõlblikud või mitteabikõlblikud kulud;\n3) vajaduse korral programmi koostamise kord;\n4) programmi elluviija valimise korral tema valimise tingimused ja kord;\n5) programmi elluviija kohustused;\n6) toetuse väljamaksete tegemise kord;\n7) programmi muutmise tingimused ja kord;\n8) toetuse kasutamisega seotud aruannete esitamise tähtajad ja kord ning vajaduse korral aruannete vormid.\n(7) Programmi tegevused peab olema võimalik lõpetada hiljemalt 2015. aasta 31. augustiks.\n(8) Põhjendatud juhtudel võib meetme tingimustes või programmis sätestatud tingimustel ja korras programmi elluviijale antavat toetust suurendada."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - TOETUSE KASUTAMINE",
+      "section": "21",
+      "title": "§ 21. Toetuse kasutamise üldpõhimõtted ja toetuse abikõlblikkus",
+      "content": "(1) Toetuse saaja peab toetust kasutama sihtotstarbeliselt. Kõik toetusest hüvitatavad kulud peavad olema projektiga otseselt seotud ja abikõlblikud.\n(2) Kulude abikõlblikkuse või mitteabikõlblikkuse määramise tingimused ja korra kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - TOETUSE KASUTAMINE",
+      "section": "22",
+      "title": "§ 22. Toetuse saaja kohustused",
+      "content": "Toetuse saaja on kohustatud:\n1) tagama omafinantseeringu ettenähtud määras;\n2) kasutama toetust ettenähtud tingimustel;\n3) tagama, et temal või projektis osaleval isikul on projekti abikõlblikkuse perioodil projekti elluviimiseks vajalik kvalifikatsioon või õiguslikud eeldused;\n4) tagama toetuse väljamaksmise aluseks olevate dokumentide nõuetele vastavuse ning kulude abikõlblikkuse;\n5) esitama toetuse saamise ja kasutamise kohta nõutud teabe ning aruanded tähtaegselt;\n6) viivitamata kirjalikult teavitama rakendusüksust või EL territoriaalse koostöö puhul käesoleva seaduse §-s 36 nimetatud ühist tehnilist sekretariaati taotluses esitatud või projektiga seotud andmete muutumisest;\n7) taotlema eelnevat nõusolekut toetuse kasutamise tingimuste muutmiseks;\n8) võimaldama auditi, järelevalve või käesoleva seaduse § 7 lõikes 3 või § 8 lõikes 2 nimetatud kontrolli teostamist ning osutama selleks igakülgset abi, sealhulgas võimaldama volitatud isikul esitatud andmete õigsuse kontrollimiseks viibida toetuse saaja ja projektis osaleva isiku ruumides ja territooriumil, mis on seotud toetuse kasutamisega;\n9) andma õigustatud isiku kasutusse tema nõutavad andmed ja dokumendid õigustatud isiku määratud tähtaja jooksul;\n10) eristama selgelt oma raamatupidamises ja tagama, et projektis osalev isik eristaks oma raamatupidamises, toetuse kasutamisega seotud kulud muudest kuludest ning kulusid kajastavad kulu- ja maksedokumendid muudest kulu- ja maksedokumentidest;\n11) järgima projektiga seotud hangete tegemisel riigihangete seaduses sätestatud nõudeid, kui toetuse saaja on ostja riigihangete seaduse tähenduses, või meetme tingimustes sätestatud nõudeid, kui toetuse saajale ei kohaldata riigihangete seaduses sätestatut;\n12) tagama projekti eesmärgi täitmiseks vajaliku vara säilimise ja sihtotstarbelise kasutamise ettenähtud tingimustel ja kooskõlas nõukogu määruse (EÜ) nr 1083/2006 artiklis 57 sätestatuga vähemalt viie aasta jooksul, arvates projekti abikõlblikkuse perioodi lõppemisest;\n13) näitama, et tegemist on toetuse abil elluviidava projektiga, kasutades selleks ettenähtud sümboolikat ja teavitustegevusi;\n14) täitma muid talle käesoleva seadusega või selle alusel antud õigusaktidega pandud ülesandeid."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - TOETUSE KASUTAMINE",
+      "section": "23",
+      "title": "§ 23. Toetuse väljamaksed ja kasutamise aruanded",
+      "content": "(1) Toetus makstakse välja ainult abikõlblike kulude hüvitamiseks.\n(2) Rakendusüksus kontrollib toetuse väljamaksmise aluseks olevate dokumentide nõuetele vastavust ja kulude abikõlblikkust ning teeb toetuse väljamakse või keeldub sellest.\n(3) Makseasutus võib rakendusüksuse teostatavaid toetuse väljamakseid täiendavalt kontrollida. Kui kontrollimisel avastatakse puudusi, teavitatakse sellest viivitamata rakendusüksust. Toetuse väljamaksmise tähtaega võib pikendada täiendava kontrolli või puuduste kõrvaldamiseks vajamineva aja võrra.\n(4) Toetuse väljamaksmise tingimused ja korra kehtestab rahandusminister.\n(5) Kui makseasutus on saanud korraldusasutuselt, rakendusasutuselt või rakendusüksustelt dokumentaalselt tõendatud teavet või järelevalve tulemustest, auditi aruannetest või muudest dokumentidest teavet selle kohta, et korraldusasutuse, rakendusasutuse või rakendusüksuse juhtimis- ja kontrollisüsteemid ei vasta nõukogu määruse (EÜ) nr 1083/2006 artiklis 58 sätestatud nõuetele või ohustavad Euroopa Ühenduse finantshuvide kaitset nõukogu määruse (EÜ) nr 2988/95 Euroopa Ühenduse finantshuvide kaitse kohta (EÜT L 312, 23.12.1995, lk 1–4) tähenduses, võib makseasutus peatada toetuse väljamaksed, teavitades sellest viivitamata korraldusasutust, rakendusasutust ja rakendusüksust.\n(6) Toetuse väljamakseid jätkatakse viivitamata, kui makseasutuse või audiitori hinnangu järgi juhtimis- ja kontrollisüsteemid vastavad nõuetele ning ei kahjusta Euroopa Liidu finantshuve.\n(7) Toetuse kasutamise ja väljamaksmise aruannete esitamise tähtajad ja korra ning aruannete vormid kehtestab rahandusminister."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - TOETUSE KASUTAMINE",
+      "section": "24",
+      "title": "§ 24. Toetuse andmise ja kasutamise seire ning hindamine",
+      "content": "(1) Toetuse andmise ja kasutamise seiret nõukogu määruse (EÜ) nr 1083/2006 artikli 66 tähenduses (edaspidi seire ) teostab rakendusasutus koostöös rakendusüksusega ja toetuse saajaga.\n(2) Toetuse andmise ja kasutamise hindamisi nõukogu määruse (EÜ) nr 1083/2006 artikli 47 tähenduses (edaspidi hindamine ) korraldavad rakendusasutused ja -üksused. Rakenduskavade üleseid hindamisi korraldab korraldusasutus.\n(3) Seire ja hindamise korra ning nõukogu määruse (EÜ) nr 1083/2006 artiklis 63 nimetatud seirekomisjoni moodustamise korra kehtestab Vabariigi Valitsus.\n(4) Rakendusasutuse juht kehtestab vajaduse korral seire eeskirja ja seirearuannete vormid."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - TOETUSE KASUTAMINE",
+      "section": "25",
+      "title": "§ 25. Toetuse andmisest ja kasutamisest teavitamine, andmete töötlemine ning avalikustamine",
+      "content": "(1) Toetuse andmisest ja kasutamisest teavitamist ning andmete avalikustamist koordineerib korraldusasutus.\n(2) Toetuse andmisest ja kasutamisest teavitamise, selle avalikustamise ning toetusest rahastatud objektide tähistamise ja Euroopa Liidu osalusele viitamise tingimused ning korra kehtestab Vabariigi Valitsus.\n(3) Käesoleva seaduse §-des 7–11 nimetatud asutused võivad töödelda ja omavahel vahetada teavet taotlejate ja toetuse saajate kohta ning muud menetluse käigus saadud teavet või dokumente käesolevas seaduses ja selle alusel kehtestatud õigusaktides nimetatud ülesannete täitmiseks.\n(4) Enne taotluse rahuldamise või rahuldamata jätmise otsuse tegemist või investeeringute kava või programmi kinnitamist võib avalikustada ainult statistilisi ülevaateid.\n(5) Pärast taotluse rahuldamise otsuse tegemist või investeeringute kava või programmi kinnitamist avalikustatakse toetuse saaja nimi, toetust saava projekti nimi ja toetuse summa.\n(6) Käesoleva paragrahvi lõikes 5 nimetamata andmeid toetuse saaja ja tema projekti kohta võib avalikustada, välja arvatud andmed projekti äriplaani ja tehnoloogiliste lahenduste kohta, taotluse ja projekti hindamisse kaasatud isikute isikuandmed ning muud andmed, mida loetakse ärisaladuseks või mis on tunnistatud asutusesiseseks kasutamiseks mõeldud teabeks avaliku teabe seaduses sätestatud korras. Andmed projekti omafinantseeringu allikate kohta ei ole avalikud, välja arvatud omafinantseeringu osas, mis on saadud riigieelarvelistest või kohaliku omavalitsuse vahenditest.\n(7) Rahuldamata jäetud taotluse ja selle esitanud taotleja andmeid ei avalikustata.\n(8) Taotlejal ja toetuse saajal on õigus tutvuda tema kohta koostatud dokumentidega, välja arvatud dokumentidega, mis on tunnistatud asutusesiseseks kasutamiseks."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "5. peatükk - TOETUSE TAGASINÕUDMINE JA TAGASIMAKSMINE",
+      "section": "26",
+      "title": "§ 26. Toetuse tagasinõudmine",
+      "content": "(1) Kui ilmneb, et toetust on kasutatud mitteabikõlblike kulude hüvitamiseks, teeb rakendusüksus või EL territoriaalse koostöö puhul makseasutus otsuse nõuda toetuse saajalt toetus osaliselt või täielikult tagasi (edaspidi tagasinõudmise otsus ).\n(2) Tagasinõudmise otsuse võib teha, kui:\n1) ilmneb asjaolu, mille korral taotlust ei oleks rahuldatud;\n2) toetust ei ole kasutatud ettenähtud tingimustel;\n3) toetuse saaja suhtes on algatatud likvideerimis- või pankrotimenetlus;\n4) ilmneb, et projekti eesmärkide saavutamine ei ole võimalik või projekti tegevuste tähtaegu ei ole järgitud;\n5) taotluse rahuldamise otsus on vastavalt käesoleva seaduse § 18 lõikele 6 tunnistatud kehtetuks;\n6) käesoleva seaduse § 31 lõike 2 punktis 5 sätestatud ettekirjutus on jäetud tähtpäevaks täitmata;\n7) toetuse saaja ei ole täitnud talle käesoleva seadusega või selle alusel antud õigusaktidega pandud kohustusi.\n(3) Käesoleva paragrahvi lõike 2 punktis 3 nimetatud juhul nõutakse toetus tagasi likvideerimis- või pankrotimenetlust reguleerivate sätete alusel.\n(4) Riiki esindab toetuse tagasinõudmisel rakendusüksus või EL territoriaalse koostöö puhul makseasutus. Rakendusüksus pöördub vajaduse korral kaebusega halduskohtusse.\n(5) Tagasinõudmise otsuse võib teha hiljemalt 2025. aasta 31. detsembril. Nõukogu määruse (EÜ) nr 1083/2006 artiklis 88 sätestatud juhul võib tagasinõudmise otsuse teha kuni Vabariigi Valitsuse määratud dokumentide säilitamise tähtpäevani.\n(6) Toetuse tagasinõudmise ja tagasimaksmise tingimused ning korra kehtestab Vabariigi Valitsus.\n(7) Kui EL territoriaalse koostöö rakenduskavas nimetatud isik või asutus esitab tagasinõude Eesti riigile, nõutakse Eesti-poolselt partnerilt toetus tagasi vastavalt käesoleva paragrahvi lõike 6 alusel kehtestatud õigusaktis sätestatule."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "5. peatükk - TOETUSE TAGASINÕUDMINE JA TAGASIMAKSMINE",
+      "section": "27",
+      "title": "§ 27. Toetuse tagasimaksmine",
+      "content": "(1) Toetuse saaja peab toetuse tagasi maksma tagasinõudmise otsuses näidatud summas ja tähtpäevaks. Tähtaeg toetuse tagasimaksmiseks peab olema vähemalt 90 kalendripäeva.\n(2) Rakendusüksus või EL territoriaalse koostöö puhul makseasutus võib põhjendatud juhul toetuse saaja taotlusel ajatada toetuse tagasimaksmise, nõudes vajaduse korral tagatist.\n(3) Kui toetuse saaja peab toetuse osaliselt tagasi maksma, võib sama projekti raames järgnevalt väljamakstavat toetuse summat vähendada tagasi maksta jäänud summa ulatuses.\n(4) Rakendusüksus või EL territoriaalse koostöö puhul makseasutus võib peatada toetuse väljamaksed toetuse saajale tema tagasimaksega seotud projekti või toetuse saaja kõikide projektide osas kuni tagasinõutava summa lõpliku tagasimaksmiseni."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "5. peatükk - TOETUSE TAGASINÕUDMINE JA TAGASIMAKSMINE",
+      "section": "28",
+      "title": "§ 28. Intressid ja viivis",
+      "content": "(1) Käesoleva seaduse § 26 lõigete 1 ja 2 alusel tagastatava toetuse summa jäägilt nõutakse intressi toetuse väljamaksmise valuutas. Intressimäär eurodes tagastatava toetuse summa jäägilt on kuue kuu Euribor + 5 protsenti aastas, Eesti kroonides tagastatava toetuse summa jäägilt on intressimäär kuue kuu Talibor + 5 protsenti aastas. Intressiarvestuse baasiks on 360-päevane periood.\n(2) Intressi arvestatakse tagasinõudmise otsuse tegemise päevast arvates, võttes aluseks otsuse tegemise kalendrikuule eelnenud kuu viimasel tööpäeval kehtinud intressimäära. Kui toetuse taotlemisel või kasutamisel on toime pandud kuritegu, arvestatakse intressi toetuse väljamaksmise päevast arvates, võttes aluseks sellel päeval kehtinud intressimäära.\n(3) Intressi arvestatakse kuni toetuse tagasimaksmise päevani, kuid mitte kauem kui toetuse tagasimaksmise tähtpäevani, ajatamise korral lõpliku tagasimaksmise tähtpäevani.\n(4) Intressiarvestus peatub toetuse saaja pankroti väljakuulutamisel.\n(5) Kui tagasinõudmise otsuses ettenähtud tähtpäevaks toetust ei tagastata, peab toetuse saaja maksma tagasimaksmisele kuuluva toetuse summa jäägilt viivist 0,1 protsenti iga toetuse tagasimaksmisega viivitatud kalendripäeva eest toetuse väljamaksmise valuutas.\n(6) Riigiasutus ei pea intressi ega viivist tasuma. Kui komisjon nõuab viivise tasumist riigilt, tasub riigiasutus viivist riigi poolt komisjonile tasutud summa ulatuses.\n(7) Rakendusüksus või EL territoriaalse koostöö puhul makseasutus võib loobuda tagasinõutava toetuse, intressi ja viivise kogusumma jäägi nõudmisest, kui see on alla 50 krooni ning tasutud intressi ja viivise kogusummast on võimalik hüvitada tagasimaksmata toetuse summa jääk.\n(8) Toetuse tagasimaksmisel tehtavad maksed loetakse sooritatuks järgmises järjekorras: esimeses järjekorras loetakse tasutuks viivis, teises järjekorras intressid vastavalt nende ajalisele tekkele, alustades varaseimast, ning viimases järjekorras tagastatav toetus või selle osad, alates varaseimast võlgnevusest."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "6. peatükk - JÄRELEVALVE JA RIKKUMISTEST TEAVITAMINE",
+      "section": "29",
+      "title": "§ 29. Järelevalve eesmärk, ulatus ja subjektid",
+      "content": "(1) Järelevalve eesmärk on kontrollida toetuse andmise ja kasutamise eesmärgipärasust ja vastavust õigusaktidele.\n(2) Järelevalve käigus kontrollitakse rakendusüksuse tegevust temale käesoleva seadusega, selle alusel kehtestatud õigusaktidega või halduslepinguga pandud ülesannete täitmisel või toetuse saaja tegevuse vastavust taotluse rahuldamise otsuses ja õigusaktides sätestatuga."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "6. peatükk - JÄRELEVALVE JA RIKKUMISTEST TEAVITAMINE",
+      "section": "30",
+      "title": "§ 30. Järelevalve teostajad",
+      "content": "(1) Rakendusüksuse üle teostab järelevalvet rakendusasutus.\n(2) Toetuse saaja tegevuse üle teostab järelevalvet rakendusüksus. Kui rakendusüksuseks on eraõiguslik juriidiline isik, teostab järelevalvet toetuse saaja üle rakendusüksus või rakendusasutus vastavalt halduslepingus kokkulepitule.\n(3) Järelevalvet teostatakse selleks volitatud ametniku või töötaja (edaspidi järelevalveametnik ) kaudu."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "6. peatükk - JÄRELEVALVE JA RIKKUMISTEST TEAVITAMINE",
+      "section": "31",
+      "title": "§ 31. Järelevalveametniku pädevus",
+      "content": "(1) Rakendusüksuse üle järelevalvet teostaval järelevalveametnikul on õigus:\n1) kontrollida toetuse andmisega seotud andmeid, dokumente ja muid materjale;\n2) saada rakendusüksuse esindajatelt kirjalikke ja suulisi seletusi;\n3) viibida järelevalve teostamiseks rakendusüksuse ruumides ja territooriumil ning teostada paikvaatlust;\n4) kontrollida rakendusüksuse tegevust toetuse saaja tegevuse üle järelevalve teostamisel;\n5) teha ettekirjutus toetuse andmisega kaasneva rikkumise lõpetamiseks, edasiste rikkumiste ärahoidmiseks ja rikkumise tagajärgede kõrvaldamiseks.\n(2) Toetuse saaja tegevuse üle järelevalvet teostaval järelevalveametnikul on õigus:\n1) kontrollida toetuse kasutamisega seotud andmeid, dokumente ja muid materjale;\n2) saada toetuse saajalt või tema esindajalt kirjalikke ja suulisi seletusi;\n3) viibida järelevalve teostamiseks toetuse saaja ja projektis osaleva isiku ruumides ja territooriumil, mis on rajatud toetuse abil või mis on seotud toetuse kasutamisega, ning teostada paikvaatlust;\n4) tutvuda toetuse abil loodud objektiga;\n5) teha ettekirjutus toetuse kasutamisega kaasneva rikkumise lõpetamiseks, edasiste rikkumiste ärahoidmiseks ja rikkumise tagajärgede kõrvaldamiseks;\n6) ettekirjutuse täitmata jätmise või ebakohase täitmise korral kohaldada sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras.\n(3) Käesoleva paragrahvi lõike 2 punktis 6 nimetatud sunniraha ülemmäär on ühel korral 30 000 krooni ning kokku 100 000 krooni ühe ja sama kohustuse täitmisele sundimiseks.\n(4) Kui järelevalveametnik avastab järelevalve käigus käesoleva seaduse § 26 lõikes 1 või 2 nimetatud asjaolu või rikkumise, teatab ta sellest viivitamata teda volitanud isikule või asutusele ja taotluse rahuldamise otsuse teinud isikule või asutusele."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "6. peatükk - JÄRELEVALVE JA RIKKUMISTEST TEAVITAMINE",
+      "section": "32",
+      "title": "§ 32. Rahandusministeeriumi teavitamine",
+      "content": "(1) Rakendusüksus või EL territoriaalse koostöö puhul korraldusasutus teavitab Rahandusministeeriumi ja rakendusasutust rikkumisest, sealhulgas nõukogu määruse (EÜ) nr 1083/2006 artikli 2 punktis 7 nimetatud eeskirjade eiramisest, süüteo kahtlusest ja teistest Euroopa Liidu finantshuve kahjustavatest tegevustest ning toetuse tagasinõudmisest.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud teabe edastamise korra kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "6. peatükk - JÄRELEVALVE JA RIKKUMISTEST TEAVITAMINE",
+      "section": "33",
+      "title": "§ 33. Euroopa Pettustevastase Ameti teavitamine",
+      "content": "(1) Käesoleva seaduse § 32 lõikes 1 nimetatud asjaoludest teavitab Rahandusministeerium Euroopa Pettustevastast Ametit kooskõlas Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 1073/1999 Euroopa Pettustevastase Ameti ( OLAF ) juurdluste kohta (EÜT L 136, 31.05.1999, lk 1–7) ja muudes Euroopa Liidu õigusaktides sätestatuga.\n(2) Käesoleva paragrahvi lõike 1 ja käesoleva seaduse § 32 lõike 1 alusel edastatav teave tunnistatakse vajaduse korral asutusesiseseks kasutamiseks mõeldud teabeks avaliku teabe seaduses sätestatud korras. Rahandusministeerium võib käsitletavat teavet avalikustada õigusaktides sätestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "7. peatükk - VAIDEMENETLUS",
+      "section": "34",
+      "title": "§ 34. Vaidemenetlus",
+      "content": "(1) Enne halduskohtule kaebuse esitamist tuleb läbida vaidemenetlus haldusmenetluse seaduses sätestatud tingimustel ja korras.\n(2) Kui vaie esitatakse niisuguse rakendusasutuse või -üksuse otsuse või toimingu peale, kelle üle teostab teenistuslikku järelevalvet Vabariigi Valitsus, lahendab vaide otsuse teinud või toimingu teostanud rakendusasutus või -üksus.\n(3) Kui vaie esitatakse rakendusüksuseks oleva eraõigusliku juriidilise isiku otsuse või toimingu peale, lahendab vaide rakendusasutus või tema volitusel rakendusüksus.\n(4) Kui vaiet lahendab otsuse teinud või toimingu teostanud rakendusasutus või rakendusüksus, peab tagama, et vaie lahendatakse sõltumatult rakendusasutuse või -üksuse ülesannete täitmisest.\n(5) Vaie lahendatakse 30 kalendripäeva jooksul vaide vastuvõtmisest arvates."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "8. peatükk - EUROOPA LIIDU TERRITORIAALSE KOOSTÖÖ RAKENDUSKAVADE VÄLJATÖÖTAMINE JA ELLUVIIMINE",
+      "section": "35",
+      "title": "§ 35. Siseministeeriumi pädevus",
+      "content": "(1) EL territoriaalse koostöö rakenduskavade väljatöötamise ja elluviimisega seotud Euroopa Liidu õigusaktides liikmesriigile pandud ülesandeid täidab Siseministeerium.\n(2) EL territoriaalse koostöö rakenduskavade väljatöötamiseks ja elluviimise korraldamiseks peab Siseministeerium läbirääkimisi komisjoniga, rakenduskavas osalevate riikide asjaomaste asutustega, rakenduskavade korraldus- ja makseasutustega ning sõlmib Eesti riigi nimel vajalikke kokkuleppeid."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "8. peatükk - EUROOPA LIIDU TERRITORIAALSE KOOSTÖÖ RAKENDUSKAVADE VÄLJATÖÖTAMINE JA ELLUVIIMINE",
+      "section": "36",
+      "title": "§ 36. Vastutavate isikute ja asutuste määramine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1080/2006, mis käsitleb Euroopa Regionaalarengu Fondi ja millega tunnistatakse kehtetuks määrus (EÜ) nr 1783/1999 (ELT L 210, 31.07.2006, lk 1–11), artikli 14 lõigetes 1 ja 2 nimetatud EL territoriaalse koostöö korraldusasutus, makseasutus, auditeeriv asutus, ühine tehniline sekretariaat ja audiitorgrupp määratakse Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1080/2006 artikli 12 punkti 8 alapunkti a kohaselt rakenduskavades nendes osalevate riikide kokkuleppel.\n(2) Kui EL territoriaalse koostöö korraldusasutus, makseasutus või auditeeriv asutus asub Eestis, nimetab vastavaid ülesandeid täitva valitsusasutuse, valitsusasutuse hallatava riigiasutuse või eraõigusliku juriidilise isiku Vabariigi Valitsus regionaalministri ettepanekul. Eraõigusliku juriidilise isikuga sõlmib regionaalminister korraldusasutuse, makseasutuse või auditeeriva asutuse ülesannete täitmiseks halduslepingu.\n(3) Kui EL territoriaalse koostöö ühine tehniline sekretariaat asub Eestis, määrab selle ülesannete täitmise eest vastutava isiku või asutuse regionaalminister. Juriidilise isikuga sõlmib regionaalminister ühise tehnilise sekretariaadi ülesannete täitmiseks halduslepingu.\n(4) EL territoriaalse koostöö audiitorgrupi Eesti-poolsed liikmed nimetab regionaalminister."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "8. peatükk - EUROOPA LIIDU TERRITORIAALSE KOOSTÖÖ RAKENDUSKAVADE VÄLJATÖÖTAMINE JA ELLUVIIMINE",
+      "section": "37",
+      "title": "§ 37. Euroopa Liidu territoriaalse koostöö rakenduskava alusel toetuse taotlemine, andmine ja kasutamine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1080/2006 artikli 14 lõigetes 1 ja 2 nimetatud asutuste pädevus ning ülesanded ja toetuse andmise ning kasutamise tingimused ja kulude abikõlblikkus sätestatakse rakenduskavas osalevate riikide kokkuleppel Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 10802006 artiklite 12 ja 13 kohaselt rakenduskavas ja selle lisades.\n(2) Kui EL territoriaalse koostöö korraldusasutus, makseasutus või auditeeriv asutus asub Eestis, on regionaalministril õigus kokkuleppel teiste rakenduskavas osalevate riikide, korraldus- ja makseasutuse ning muude asjaomaste institutsioonidega kehtestada rakenduskava juhtimise ja kontrolli küsimustes lisatingimusi ja -juhendeid ning teha ettekirjutusi.\n(3) EL territoriaalse koostöö rakenduskava elluviimises osalevate Eesti-poolsete partnerite tehtavate kulude abikõlblikkuse ja mitteabikõlblikkuse määramise tingimused ning korra kehtestab regionaalminister."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "8. peatükk - EUROOPA LIIDU TERRITORIAALSE KOOSTÖÖ RAKENDUSKAVADE VÄLJATÖÖTAMINE JA ELLUVIIMINE",
+      "section": "38",
+      "title": "§ 38. Euroopa Liidu territoriaalse koostöö rakenduskava alusel toetuse andmise ja kasutamise kontroll, seire ning hindamine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1080/2006 artikli 16 lõikes 1 nimetatud kontrolli teostamise põhimõtted ja korra ning kontrolli teostamise eest vastutava asutuse või isiku määrab regionaalminister. Juriidilise isikuga sõlmib regionaalminister kontrolli teostamiseks halduslepingu.\n(2) EL territoriaalse koostöö rakenduskava alusel toetuse andmise ja kasutamise hindamise ning seire kord, sealhulgas nõukogu määruse (EÜ) nr 1083/2006 artiklis 63 nimetatud seirekomisjoni moodustamise kord, sätestatakse Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1080/2006 artikli 12 punkti 8 alapunkti b kohaselt rakenduskavas. Seirekomisjoni Eesti-poolsed liikmed nimetab regionaalminister."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "39",
+      "title": "§ 39. Struktuuritoetuse seaduse muutmine",
+      "content": "Struktuuritoetuse seaduses (RT I 2003, 82, 552; 2006, 7, 42) tehakse järgmised muudatused:\n1) seaduse pealkiri muudetakse ja sõnastatakse järgmiselt: «Perioodi 2004–2006 struktuuritoetuse seadus»;\n2) paragrahvi 1 täiendatakse lõikega 3 järgmises sõnastuses: « (3) Käesolevat seadust kohaldatakse Euroopa Liidu (edaspidi EL ) Nõukogu määruse nr 1260/1999/EÜ (EÜT L 161, 26.02.1999, lk 1–42) artikli 15 lõike 5 kohaselt Euroopa Komisjoni poolt kinnitatud arengukava alusel eraldatavate vahendite andmisel ja kasutamisel.»;\n3) paragrahvi 2 lõige 1 muudetakse ja sõnastatakse järgmiselt: « (1) Struktuuritoetus (edaspidi toetus ) käesoleva seaduse tähenduses on rahaline abi, mida antakse EL Nõukogu määruse 1260/1999/EÜ artikli 2 lõikes 1 nimetatud struktuurifondide, sealhulgas EL Nõukogu määruse 1260/1999/EÜ artikli 20 lõike 1 punktides a, b ja d nimetatud Euroopa Ühenduse algatuste «Interreg» (edaspidi « Interreg »), «Urban» (edaspidi « Urban ») ja «Equal» (edaspidi « Equal ») vahenditest, EL Nõukogu määruse 1164/1994/EÜ (EÜT L 130, 25.05.1994, lk 1–13) alusel asutatud Ühtekuuluvusfondi vahenditest või Eesti riigi poolt sihtotstarbeliselt struktuuritoetuseks eraldatud vahenditest.»;\n4) paragrahvi 16 lõiget 2 täiendatakse punktiga 8 järgmises sõnastuses: « 8) elektroonilise andmeside kaudu esitatavatele dokumentidele vajaduse korral esitatavad lisanõuded.»;\n5) paragrahvi 26 tekst muudetakse ja sõnastatakse järgmiselt: « (1) Taotluse rahuldamise otsuse teinud või eraõigusliku juriidilise isikuga halduslepingu sõlminud isik või asutus võib teha otsuse toetuse osalise või täieliku tagasinõudmise kohta (edaspidi toetuse tagasinõudmise otsus ) toetuse saajalt, kui:\n1) ilmneb, et toetust on kasutatud mitteabikõlblike kulude hüvitamiseks;\n2) ilmneb asjaolu, mille korral taotlust ei oleks rahuldatud;\n3) toetust ei ole kasutatud ettenähtud tingimustel;\n4) toetuse saaja suhtes on algatatud likvideerimis- või pankrotimenetlus;\n5) ilmneb, et projekti eesmärkide saavutamine ei ole võimalik või projekti elluviimise tähtaegu ei ole järgitud;\n6) taotluse rahuldamise otsus on vastavalt käesoleva seaduse § 20^2 lõikele 4 tunnistatud kehtetuks;\n7) käesoleva seaduse § 25 lõike 2 punktis 5 sätestatud ettekirjutus on jäetud tähtpäevaks täitmata;\n8) toetuse saaja ei ole täitnud talle käesoleva seadusega või selle alusel antud õigusaktidega pandud kohustusi.\n(2) Käesoleva paragrahvi lõike 1 punktis 4 nimetatud juhul nõutakse toetus tagasi likvideerimis- või pankrotimenetlust reguleerivate sätete alusel.\n(3) Ühtekuuluvusfondist antud toetuse tagasinõudmise otsuse võib käesoleva paragrahvi lõikes 1 loetletud juhtudel teha Ühtekuuluvusfondi rakendusasutus või kui toetuse saaja on Ühtekuuluvusfondi rakendusasutus, siis korraldusasutus.\n(4) Riiki esindab toetuse tagasinõudmisel toetuse tagasinõudmise otsuse teinud isik või asutus. Toetuse tagasinõudmise otsuse teinud isik või asutus pöördub vajaduse korral kaebusega halduskohtusse.\n(5) Toetuse tagasinõudmise ja tagasimaksmise tingimused ning korra kehtestab Vabariigi Valitsus.\n(6) Toetuse võib tagasi nõuda viie aasta jooksul pärast toetuse saajale viimase väljamakse tegemist.»;\n6) paragrahv 27 muudetakse ja sõnastatakse järgmiselt: « § 27. Toetuse tagasimaksmine\n(1) Toetuse saaja peab toetuse tagasi maksma toetuse tagasinõudmise otsuses näidatud summas ja tähtpäevaks. Tähtaeg toetuse tagasimaksmiseks peab olema vähemalt 90 kalendripäeva.\n(2) Toetuse tagasinõudmise otsuse teinud isik või asutus võib põhjendatud juhul toetuse saaja taotlusel ajatada toetuse tagasimaksmise, nõudes vajaduse korral tagatist.\n(3) Kui toetuse saaja peab toetuse osaliselt tagasi maksma, võib sama projekti raames järgnevalt väljamakstavat toetuse summat vähendada tagasi maksta jäänud summa ulatuses.\n(4) Toetuse tagasinõudmise otsuse teinud isik või asutus võib peatada toetuse väljamaksed toetuse saajale tema tagasimaksega seotud projekti osas kuni tagasinõutava summa lõpliku tagasimaksmiseni.»;\n7) paragrahvi 28 tekst muudetakse ja sõnastatakse järgmiselt: « (1) Käesoleva seaduse § 26 lõike 1 alusel tagastatava toetuse summa jäägilt nõutakse intressi toetuse väljamaksmise valuutas. Intressimäär eurodes tagastatava toetuse summa jäägilt on kuue kuu Euribor + 5 protsenti aastas, Eesti kroonides tagastatava toetuse summa jäägilt on intressimäär kuue kuu Talibor + 5 protsenti aastas. Intressiarvestuse baasiks on 360-päevane periood.\n(2) Intressi arvestatakse toetuse tagasinõudmise otsuse tegemise päevast arvates, võttes aluseks otsuse tegemise kalendrikuule eelnenud kuu viimasel tööpäeval kehtinud intressimäära. Kui toetuse taotlemisel või kasutamisel on toime pandud kuritegu, arvestatakse intressi toetuse väljamaksmise päevast arvates, võttes aluseks sellel päeval kehtinud intressimäära.\n(3) Intressi arvestatakse kuni toetuse tagasimaksmise päevani, kuid mitte kauem kui toetuse tagasimaksmise tähtpäevani, ajatamise korral lõpliku tagasimaksmise tähtpäevani.\n(4) Intressiarvestus peatub toetuse saaja pankroti väljakuulutamisel.\n(5) Kui toetuse tagasinõudmise otsuses ettenähtud tähtpäevaks toetust ei tagastata, peab toetuse saaja maksma tagasimaksmisele kuuluva toetuse summa jäägilt viivist 0,1 protsenti iga toetuse tagasimaksmisega viivitatud kalendripäeva eest toetuse väljamaksmise valuutas.\n(6) Riigiasutus ei pea intressi ega viivist tasuma. Kui Euroopa Komisjon nõuab viivise tasumist riigilt, peab riigiasutus tasuma viivist riigi poolt Euroopa Komisjonile tasutud summa ulatuses.\n(7) Toetuse tagasinõudmise otsuse teinud isik või asutus võib loobuda tagasinõutava toetuse, intressi ja viivise kogusumma jäägi nõudmisest, kui see on alla 50 krooni ning tasutud intressi ja viivise kogusummast on võimalik hüvitada tagasimaksmata toetuse summa jääk.\n(8) Toetuse tagasimaksmisel tehtavad maksed loetakse sooritatuks järgmises järjekorras: esimeses järjekorras loetakse tasutuks viivis, teises järjekorras intressid, vastavalt nende ajalisele tekkele, alustades varaseimast, ning viimases järjekorras tagastatav toetus või selle osad, alates varaseimast võlgnevusest.»;\n8) paragrahvi 28^1 pealkirjas ja lõikes 1 asendatakse sõnad «auditeeriv asutus» sõnaga «Rahandusministeerium» vastavas käändes;\n9) paragrahv 28^1 lõige 2 sõnastatakse järgmiselt: « (2) Käesoleva paragrahvi lõike 1 punktides 1–3 nimetatud teabe edastamise korra kehtestab Vabariigi Valitsus.»;\n10) paragrahvi 29 lõikes 1 asendatakse sõnad «§ 15 lõike 1 punkte 2–9 ja lõiget 2, § 21–22 ning 26–28^2» sõnadega «§ 15 lõike 1 punkte 2–9, lõikeid 2 ja 3 ning § 21–28^2»;\n11) paragrahvi 30 lõikes 1 asendatakse sõnad «§ 7 lõikeid 1–4» sõnadega «§ 7 lõikeid 1 ja 2»;\n12) paragrahvi 32^1 täiendatakse lõigetega 3–5 järgmises sõnastuses: « (3) Kui taotluse rahuldamise otsus tehti või haldusleping sõlmiti enne 2007. aasta 1. jaanuari ja toetuse tagasinõudmise otsus tehti pärast 2007. aasta 1. jaanuari, siis kohaldatakse intressi ja viivise arvestamisel käesoleva seaduse § 28 lõigete 1–4, 7 ja 8 alates 2007. aasta 1. jaanuarist kehtivat redaktsiooni.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud toetuselt võib nõuda viivist kuni 0,1 protsenti päevas iga toetuse tagasimaksmisega viivitatud kalendripäeva eest.\n(5) Käesoleva paragrahvi lõikes 3 nimetatud toetuselt riigiasutus intressi ja viivist tasuma ei pea. Kui Euroopa Komisjon nõuab viivise tasumist riigilt, tasub riigiasutus viivist riigi poolt Euroopa Komisjonile tasutud summa ulatuses.»"
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "40",
+      "title": "§ 40. Halduskoostöö seaduse muutmine",
+      "content": "Halduskoostöö seaduse (RT I 2003, 20, 117; 2006, 29, 223) § 13 lõike 1^1 punkt 6 muudetakse ja sõnastatakse järgmiselt: « 6) perioodi 2004–2006 struktuuritoetuse seaduse § 14 lõikes 3 ja perioodi 2007–2013 struktuuritoetuse seaduse § 11 lõikes 2, § 20 lõikes 3, § 36 lõigetes 2 ja 3 ning § 38 lõikes 1 nimetatud haldusleping;»."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "41",
+      "title": "§ 41. Varem asutatud struktuuritoetuse registri kasutamine",
+      "content": "Käesolevas seaduses nimetatud registrina käsitatakse perioodi 2004–2006 struktuuritoetuse seaduse § 9 lõike 6 alusel asutatud registrit."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "42",
+      "title": "§ 42. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2007. aasta 1. jaanuaril. Riigikogu esimees Toomas VAREK"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "toetuse taotleja (edaspidi taotleja ) on füüsiline või juriidiline isik, riigi",
+      "definition": "või kohaliku omavalitsuse asutus, kes on esitanud taotluse toetuse saamiseks",
+      "source_provision": "para2"
+    },
+    {
+      "term": "toetuse saaja on füüsiline või juriidiline isik, riigi",
+      "definition": "või kohaliku omavalitsuse asutus, kelle taotlus toetuse saamiseks on rahuldatud või kes on toetuse saaja meetme tingimustes, programmis või programmi elluviijaga sõlmitavas halduslepingus või EL territoriaalse koostöö rakenduskavas või selle lisades sätestatu kohaselt",
+      "source_provision": "para2"
+    }
+  ]
+}
