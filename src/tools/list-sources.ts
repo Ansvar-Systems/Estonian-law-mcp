@@ -45,7 +45,7 @@ export async function listSources(
       sources: [
         {
           name: 'Riigi Teataja',
-          authority: 'Estonian Government, Office of Parliamentary Counsel',
+          authority: 'Riigikantselei (State Chancellery of Estonia)',
           url: 'https://www.www.riigiteataja.ee',
           license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
           coverage:

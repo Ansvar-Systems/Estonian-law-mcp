@@ -33,8 +33,8 @@ export function generateResponseMetadata(
     data_source: 'Riigi Teataja (www.riigiteataja.ee) — Riigikantselei (State Chancellery of Estonia)',
     jurisdiction: 'EE',
     disclaimer:
-      'This data is sourced from the Riigi Teataja under CC BY 4.0 licence. ' +
-      'The authoritative versions are maintained by the Australian Government. ' +
+      'This data is sourced from the Riigi Teataja under public domain. ' +
+      'The authoritative versions are maintained by Riigikantselei (State Chancellery of Estonia). ' +
       'Always verify with the official Riigi Teataja portal (www.riigiteataja.ee).',
     freshness,
   };
