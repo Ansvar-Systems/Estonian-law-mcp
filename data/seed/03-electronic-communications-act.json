@@ -1,0 +1,133 @@
+{
+  "id": "electronic-communications-act",
+  "type": "statute",
+  "title": "Elektroonilise side seadus",
+  "title_en": "Electronic Communications Act",
+  "short_name": "ESS",
+  "status": "in_force",
+  "issued_date": "2004-12-08",
+  "in_force_date": "2005-01-01",
+  "url": "https://www.riigiteataja.ee/akt/120112023004",
+  "description": "Regulates electronic communications networks and services in Estonia, implementing the EU Electronic Communications Code and the e-Privacy Directive (2002/58/EC). Covers telecommunications, network security, data retention, and consumer protection.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "§ 1. Scope of the Act",
+      "content": "This Act regulates the conditions and procedure for the provision of electronic communications networks and electronic communications services, the use of radio frequencies, the numbering of electronic communications, the rights and obligations of persons engaged in the provision of electronic communications networks and services, and state supervision over electronic communications. This Act implements Directive 2002/58/EC of the European Parliament and of the Council concerning the processing of personal data and the protection of privacy in the electronic communications sector."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "§ 2. Definitions",
+      "content": "For the purposes of this Act: (1) 'electronic communications' means the transmission, including switching and routing, of signals by wire, radio, optical, or other electromagnetic means; (2) 'electronic communications network' means transmission systems and switching or routing equipment and other resources that permit the conveyance of signals; (3) 'electronic communications service' means a service normally provided for remuneration via electronic communications networks; (4) 'end-user' means a user not providing public electronic communications networks or services."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "§ 3. General authorisation",
+      "content": "The provision of electronic communications networks and electronic communications services requires a general authorisation. A provider of an electronic communications network or service shall notify the Consumer Protection and Technical Regulatory Authority (TTJA) before commencing the provision of the network or service. The notification shall contain the name, registration number, and contact details of the provider, a description of the service or network, and the estimated date of commencement."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "§ 4. Rights and obligations of providers",
+      "content": "A provider of an electronic communications network or service shall: (1) ensure the interoperability of services; (2) provide access to emergency services; (3) ensure number portability; (4) comply with the conditions of the general authorisation; (5) provide information to end-users in a clear and comprehensive manner; (6) comply with quality of service requirements established by the regulatory authority."
+    },
+    {
+      "provision_ref": "art101",
+      "section": "101",
+      "title": "§ 101. Confidentiality of communications",
+      "content": "Electronic communications are confidential. It is prohibited to listen, tap, store, or engage in other kinds of interception or surveillance of communications and the related traffic data by persons other than the communicating parties, without the consent of the communicating parties, unless such activity is authorised by law. Service providers shall ensure the confidentiality of communications transmitted via their networks."
+    },
+    {
+      "provision_ref": "art102",
+      "section": "102",
+      "title": "§ 102. Processing of traffic data",
+      "content": "Traffic data relating to subscribers and users processed for the purpose of the conveyance of a communication shall be erased or made anonymous when it is no longer needed for the purpose of the transmission of a communication. Traffic data necessary for the purposes of billing and interconnection payments may be processed until the end of the period during which the bill may lawfully be challenged or payment pursued."
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "§ 103. Location data",
+      "content": "Where location data other than traffic data can be processed, such data may only be processed when they are made anonymous or with the consent of the user to the extent and for the duration necessary for the provision of a value-added service. The service provider shall inform the user prior to obtaining consent of the type of location data that will be processed, the purposes and duration of the processing, and whether the data will be transmitted to a third party."
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "§ 104. Cookies and similar technologies",
+      "content": "The storing of information, or the gaining of access to information already stored in the terminal equipment of a subscriber or user, is only allowed on condition that the subscriber or user has given consent after being provided with clear and comprehensive information about the purposes of the processing in accordance with the General Data Protection Regulation. This shall not prevent technical storage or access for the sole purpose of carrying out the transmission of a communication or that is strictly necessary for the provision of a service explicitly requested by the user."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "§ 105. Security of networks and services",
+      "content": "A provider of a public electronic communications network or service shall take appropriate technical and organisational measures to manage the risks posed to the security of networks and services. These measures shall ensure a level of security appropriate to the risk, taking into account the state of the art. Measures shall include: (1) security policies; (2) incident handling; (3) business continuity management; (4) supply chain security; (5) encryption and anonymisation where appropriate."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "§ 106. Notification of security incidents",
+      "content": "A provider shall notify the Consumer Protection and Technical Regulatory Authority (TTJA) of any security incident that has a significant impact on the operation of networks or services. Where an incident has a significant impact on end-users, the provider shall also inform the affected end-users without undue delay. The provider shall report annually to TTJA on the security incidents that have occurred and the measures taken."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "§ 107. Data retention",
+      "content": "Providers of publicly available electronic communications services shall retain traffic data and location data for a period of one year from the date of the communication for the purpose of investigation, detection, and prosecution of criminal offences. The data retained shall include: (1) data necessary to trace and identify the source and destination of a communication; (2) data necessary to determine the date, time, and duration of a communication; (3) data necessary to determine the type of communication; (4) data necessary to identify the communication equipment used."
+    },
+    {
+      "provision_ref": "art108",
+      "section": "108",
+      "title": "§ 108. Access to retained data",
+      "content": "Access to retained data shall be granted only to authorities authorised by law and only on the basis of a court authorisation, except in cases of emergency where the authorisation may be obtained subsequently. The request for access shall specify the legal basis, the scope of data requested, and the purpose. The competent authority shall maintain records of access requests and their outcomes."
+    },
+    {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "§ 109. Unsolicited communications",
+      "content": "The use of automated calling and communication systems without human intervention, facsimile machines, or electronic mail for the purposes of direct marketing may only be allowed in respect of subscribers or users who have given their prior consent. A natural or legal person who has obtained electronic contact details for electronic mail from their customers in the context of the sale of a product or service may use these details for direct marketing of similar products or services, provided that the customer is given the opportunity to object."
+    },
+    {
+      "provision_ref": "art110",
+      "section": "110",
+      "title": "§ 110. Calling line identification",
+      "content": "Where the presentation of calling line identification is offered, the service provider shall offer the calling user the possibility of preventing the presentation of the calling line identification on a per-call or per-line basis. The called user shall have the possibility of rejecting incoming calls where the calling line identification has been prevented. Where the presentation of the connected line identification is offered, the called user shall have the possibility of preventing the presentation."
+    },
+    {
+      "provision_ref": "art111",
+      "section": "111",
+      "title": "§ 111. Universal service obligations",
+      "content": "The Government may impose universal service obligations to ensure that certain minimum electronic communications services of a specified quality are available to all end-users in the territory of Estonia at an affordable price. Universal service obligations may include: (1) access to a public communications network at a fixed location; (2) directory enquiry services; (3) public payphones; (4) adequate broadband internet access."
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "§ 112. Consumer protection",
+      "content": "Service providers shall provide end-users with transparent, comparable, adequate, and up-to-date information regarding prices, tariffs, standard terms and conditions. Before concluding a contract, the provider shall inform the consumer of: (1) the identity and address of the provider; (2) the services provided; (3) the quality of service parameters; (4) the term of the contract; (5) conditions for renewal and termination; (6) the dispute resolution mechanisms available."
+    },
+    {
+      "provision_ref": "art113",
+      "section": "113",
+      "title": "§ 113. Regulatory authority",
+      "content": "The Consumer Protection and Technical Regulatory Authority (Tarbijakaitse ja Tehnilise Järelevalve Amet, TTJA) is the national regulatory authority for electronic communications. TTJA shall promote competition in the provision of electronic communications networks and services, contribute to the development of the internal market, and promote the interests of end-users."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "electronic communications",
+      "definition": "The transmission, including switching and routing, of signals by wire, radio, optical, or other electromagnetic means.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "electronic communications service",
+      "definition": "A service normally provided for remuneration via electronic communications networks.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "traffic data",
+      "definition": "Any data processed for the purpose of the conveyance of a communication on an electronic communications network or for the billing thereof.",
+      "source_provision": "art102"
+    }
+  ]
+}

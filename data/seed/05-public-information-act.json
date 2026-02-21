@@ -1,0 +1,134 @@
+{
+  "id": "public-information-act",
+  "type": "statute",
+  "title": "Avaliku teabe seadus",
+  "title_en": "Public Information Act",
+  "short_name": "AvTS",
+  "status": "in_force",
+  "issued_date": "2000-11-15",
+  "in_force_date": "2001-01-01",
+  "url": "https://www.riigiteataja.ee/akt/122032011010",
+  "description": "Establishes the right of access to public information held by government agencies, local authorities, and public-law entities in Estonia. Sets rules on proactive disclosure, information management, and restrictions on access to classified or sensitive information.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "§ 1. Purpose of the Act",
+      "content": "The purpose of this Act is to ensure that the public and every person have the opportunity to access information intended for public use, based on the principles of a democratic and social rule-of-law state and an open society, and to create opportunities for the public to monitor the performance of public duties."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "§ 2. Scope of application",
+      "content": "This Act applies to information held by the state, local government authorities, legal persons governed by public law, and other bodies performing public functions. This Act does not apply to information that constitutes a state secret or information classified for internal use to the extent regulated by the State Secrets and Classified Information of Foreign States Act."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "§ 3. Right of access to information",
+      "content": "Every person has the right to access public information on the basis and pursuant to the procedure provided for in this Act. The holder of information shall not restrict access to public information unless provided for by law. Access to information may not be restricted on the ground that it contains criticism of the state or its officials."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "§ 4. Holders of information",
+      "content": "The following are holders of information: (1) state and local government agencies; (2) legal persons governed by public law; (3) private law legal persons and natural persons performing public duties on the basis of law or a contract under public law; (4) undertakings in a dominant position or having special or exclusive rights. The holder of information shall appoint a person responsible for the organisation of access to information."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "§ 5. Obligation to disclose information proactively",
+      "content": "The holder of information shall make available proactively, through its website, the following information: (1) the activities and organisation of the holder; (2) the budget and its implementation; (3) draft legislation and policy documents; (4) statistics and summaries of the performance of public duties; (5) the register of documents; (6) information on procurement; (7) environmental information."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "§ 6. Register of documents",
+      "content": "Every holder of information shall maintain a register of documents that records all documents received and created by the holder. The register shall be publicly accessible through the internet. The register shall contain: (1) the date of receipt or creation; (2) the sender or creator; (3) the title and brief description; (4) the access restrictions, if any; (5) the date of disclosure."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "§ 7. Request for information",
+      "content": "A person requesting access to information may submit a request orally, in writing, or electronically. The request shall specify the information requested with sufficient precision to enable the holder to identify the information. The requester is not required to give reasons for the request."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "§ 8. Procedure for responding to requests",
+      "content": "The holder of information shall respond to a request for information without undue delay but not later than five working days after receipt of the request. If the request requires extensive search or compilation of data, the period may be extended to 15 working days, and the requester shall be notified accordingly. Where the information is held by another body, the holder shall forward the request to the competent body and inform the requester within five working days."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "§ 9. Form of disclosure",
+      "content": "Information shall be disclosed in the form requested by the applicant, unless this is not practicable. If the information requested is available on the website of the holder, the holder may refer the applicant to the website address. The holder may charge a reasonable fee for the reproduction of documents, but shall not charge for the provision of information in electronic form."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "§ 10. Refusal of request",
+      "content": "The holder of information may refuse a request only on grounds provided for by law. The refusal shall be in writing and shall state the reasons and the legal basis for the refusal. The holder shall inform the applicant of the right to challenge the refusal through the Data Protection Inspectorate or in administrative court."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "§ 11. Restrictions on access — for internal use",
+      "content": "A holder of information may establish access restrictions on information designated for internal use if the disclosure of such information could: (1) damage the international relations of Estonia; (2) endanger national security; (3) adversely affect the economic interests of the state; (4) harm the privacy of a person; (5) endanger the safety of a person or the protection of property; (6) prejudice the conduct of criminal proceedings."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "§ 12. Duration of access restrictions",
+      "content": "Access restrictions shall be established for a specified period not exceeding five years. The restriction may be extended once for up to five additional years where the grounds for the restriction persist. Upon expiry of the restriction period, the information shall become publicly accessible. The holder shall review the necessity of access restrictions at least once a year."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "§ 13. Personal data in public information",
+      "content": "Access to public information containing personal data shall be granted in accordance with the General Data Protection Regulation (Regulation (EU) 2016/679) and the Personal Data Protection Act. Where information contains personal data, the holder shall assess whether disclosure would constitute a disproportionate interference with the privacy of the data subject. Anonymised information shall be made accessible as public information."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "§ 14. Databases",
+      "content": "State databases and registers shall be established and managed in accordance with the Database Administration System for the State Information System (RIHA). Every database maintained by a public sector body shall be registered in RIHA. The interoperability of databases shall be ensured through the data exchange layer X-Road."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "§ 15. Reuse of public information",
+      "content": "Public information may be reused for commercial and non-commercial purposes. The holder of information shall not impose unjustified conditions on the reuse of public information. Where information is made available for reuse, it shall be made available in machine-readable and open formats where possible."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "§ 16. Data Protection Inspectorate supervision",
+      "content": "The Data Protection Inspectorate shall supervise compliance with this Act. Any person may file a challenge with the Data Protection Inspectorate concerning a decision of a holder of information regarding access to information. The Inspectorate shall review the challenge within 30 calendar days."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "§ 17. Liability",
+      "content": "Unlawful restriction of access to public information by a public official is punishable by a fine. Failure to comply with the obligation to maintain a register of documents or to make information proactively available is punishable by a fine of up to 20,000 euros for a legal person."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "§ 18. X-Road data exchange layer",
+      "content": "The state data exchange layer X-Road is the national interoperability platform enabling secure data exchange between information systems. All state and local government agencies shall use X-Road for data exchange. X-Road ensures authentication, authorisation, logging of data exchange operations, and encryption of data in transit."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "public information",
+      "definition": "Information recorded and documented in any manner by a holder of information in the performance of public duties.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "holder of information",
+      "definition": "State and local government agencies, legal persons governed by public law, and private persons performing public duties.",
+      "source_provision": "art4"
+    }
+  ]
+}

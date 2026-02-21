@@ -1,0 +1,181 @@
+{
+  "id": "iks",
+  "type": "statute",
+  "title": "Isikuandmete kaitse seadus",
+  "title_en": "Personal Data Protection Act",
+  "short_name": "IKS",
+  "status": "in_force",
+  "issued_date": "2019-01-15",
+  "in_force_date": "2019-03-15",
+  "url": "https://www.riigiteataja.ee/akt/104012019011",
+  "description": "Estonia's primary data protection legislation implementing the GDPR (Regulation (EU) 2016/679). Establishes the Data Protection Inspectorate as the supervisory authority and provides supplementary rules on personal data processing.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "§ 1. Scope of the Act",
+      "content": "This Act establishes supplementary provisions for the application of Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation). This Act regulates the processing of personal data to the extent not directly regulated by the General Data Protection Regulation."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "§ 2. Definitions",
+      "content": "The terms used in this Act have the same meaning as in the General Data Protection Regulation (Regulation (EU) 2016/679). In addition, the following definitions apply: (1) 'supervisory authority' means the Data Protection Inspectorate (Andmekaitse Inspektsioon); (2) 'national identification number' means the personal identification code issued under Estonian law."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "§ 3. Legal basis for processing personal data",
+      "content": "Personal data may be processed where there is a legal basis provided for in Article 6(1) of the General Data Protection Regulation or in this Act. The processing of personal data for purposes in the public interest or in the exercise of official authority shall be based on a law or regulation adopted on the basis of a law."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "§ 4. Processing of special categories of personal data",
+      "content": "Special categories of personal data as referred to in Article 9 of the General Data Protection Regulation may be processed on the basis of a law or regulation that specifies the categories of data, the purposes of processing, and the safeguards for the rights and freedoms of the data subject. Processing of genetic data, biometric data, and health data for employment purposes is permitted only where necessary for the performance of the employer's obligations."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "§ 5. Processing of the national identification number",
+      "content": "The personal identification code may be processed without the consent of the data subject where processing is necessary for: (1) unambiguous identification of the data subject; (2) the performance of a contract or the taking of steps at the request of the data subject prior to entering into a contract; (3) compliance with a legal obligation to which the controller is subject; (4) the performance of a task carried out in the public interest or in the exercise of official authority."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "§ 6. Processing of personal data for journalistic, academic, artistic, or literary purposes",
+      "content": "Personal data may be processed for journalistic purposes or for the purpose of academic, artistic, or literary expression if the public interest in such processing outweighs the rights of the data subject. The controller shall implement appropriate safeguards for the rights and freedoms of the data subject. The exemptions provided for in Article 85 of the General Data Protection Regulation shall apply."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "§ 7. Processing of personal data of deceased persons",
+      "content": "The personal data of a deceased person may be processed for the purpose of protecting the rights and interests of the heir or other persons who have a legitimate interest. Processing of the personal data of a deceased person for scientific or historical research purposes or statistical purposes is permitted subject to appropriate safeguards."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "§ 8. Processing of personal data of children",
+      "content": "In relation to the offer of information society services directly to a child, processing of personal data of a child is lawful where the child is at least 13 years old, in accordance with Article 8(1) of the General Data Protection Regulation. Where the child is below the age of 13 years, processing is lawful only if and to the extent that consent is given or authorised by the holder of parental responsibility over the child."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "§ 9. Data Protection Inspectorate",
+      "content": "The Data Protection Inspectorate (Andmekaitse Inspektsioon) is the independent supervisory authority for the purposes of the General Data Protection Regulation and this Act. The Inspectorate is a government agency operating within the area of government of the Ministry of Justice. The Inspectorate shall act with complete independence in performing the tasks and exercising the powers conferred on it."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "§ 10. Tasks of the Data Protection Inspectorate",
+      "content": "In addition to the tasks specified in Article 57 of the General Data Protection Regulation, the Data Protection Inspectorate shall: (1) monitor compliance with data protection legislation; (2) handle complaints lodged by data subjects; (3) provide guidance to controllers and processors; (4) conduct audits and inspections; (5) impose administrative fines and other corrective measures; (6) cooperate with supervisory authorities of other Member States and the European Data Protection Board."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "§ 11. Director General of the Data Protection Inspectorate",
+      "content": "The Data Protection Inspectorate shall be headed by the Director General, who is appointed to office by the Government of the Republic for a term of five years on the proposal of the Minister of Justice. The Director General may not be removed from office except on the grounds specified in this Act. The Director General shall represent the Inspectorate and manage its activities."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "§ 12. Powers of the Data Protection Inspectorate",
+      "content": "For the purposes of performing its supervisory tasks, the Data Protection Inspectorate has the right to: (1) access the premises of the controller or processor; (2) access all personal data and information necessary for the performance of its tasks; (3) require the controller or processor to provide information and documents; (4) carry out data protection audits; (5) issue warnings and reprimands; (6) order the controller or processor to comply with data protection legislation."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "§ 13. Data Protection Officer",
+      "content": "A controller or processor shall designate a data protection officer in the cases specified in Article 37 of the General Data Protection Regulation. In addition, a data protection officer shall be designated by a body governed by public law. The data protection officer shall perform the tasks specified in Article 39 of the General Data Protection Regulation."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "§ 14. Data protection impact assessment",
+      "content": "Where a type of processing is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall carry out a data protection impact assessment in accordance with Article 35 of the General Data Protection Regulation. The Data Protection Inspectorate shall publish a list of the kinds of processing operations that require a data protection impact assessment."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "§ 15. Prior consultation",
+      "content": "Where a data protection impact assessment indicates that the processing would result in a high risk in the absence of measures taken by the controller to mitigate the risk, the controller shall consult the Data Protection Inspectorate prior to processing in accordance with Article 36 of the General Data Protection Regulation."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "§ 16. Processing of personal data for the purposes of criminal proceedings and enforcement of sentences",
+      "content": "The processing of personal data for the purposes of prevention, investigation, detection, or prosecution of criminal offences or execution of criminal penalties shall be carried out in accordance with Directive (EU) 2016/680 and the specific provisions of this Act. The controller shall implement appropriate technical and organisational measures."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "§ 17. Rights of the data subject in criminal data processing",
+      "content": "A data subject has the right to obtain from the controller confirmation as to whether personal data concerning them are being processed. The right of access may be restricted where necessary and proportionate to: (1) avoid obstructing official or legal inquiries; (2) avoid prejudicing the prevention, detection, investigation, or prosecution of criminal offences; (3) protect public security or national security."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "§ 18. International data transfers",
+      "content": "The transfer of personal data to a third country or international organisation may take place where the European Commission has decided that the third country ensures an adequate level of protection, or where appropriate safeguards are in place. In the absence of an adequacy decision, transfers may take place on the basis of standard data protection clauses or binding corporate rules approved by the supervisory authority."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "§ 19. Administrative fines",
+      "content": "The Data Protection Inspectorate may impose administrative fines in accordance with Article 83 of the General Data Protection Regulation. When imposing fines on a body governed by public law, the maximum amount of the fine shall be 20,000 euros. The Inspectorate shall take into account the nature, gravity, and duration of the infringement, the intentional or negligent character, and any measures taken to mitigate damage."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "§ 20. Criminal liability for data protection violations",
+      "content": "Unlawful processing of personal data that causes significant damage to the data subject shall be punishable by a fine or up to one year of imprisonment. Making personal data available to an unauthorized person or obtaining personal data by unlawful means shall be punishable by a fine or up to three years of imprisonment."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "§ 21. Right to compensation and judicial remedies",
+      "content": "A data subject who has suffered material or non-material damage as a result of an infringement of this Act or the General Data Protection Regulation has the right to receive compensation from the controller or processor. The data subject has the right to an effective judicial remedy against the controller, processor, or supervisory authority in accordance with Article 79 of the General Data Protection Regulation."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "§ 22. Video surveillance",
+      "content": "Video surveillance of persons for the protection of property, the safety of persons, or other legitimate interests shall be permitted where the purpose of surveillance cannot be achieved by other less intrusive means. The controller shall clearly and visibly mark the surveillance area. Recordings shall not be stored longer than necessary and in any case not longer than 30 days unless required for legal proceedings."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "§ 23. Direct marketing",
+      "content": "The use of personal data for direct marketing purposes requires the prior consent of the data subject, unless the data subject is an existing customer and the marketing relates to similar products or services. The data subject has the right to object at any time to the processing of personal data for direct marketing purposes."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "§ 24. Transitional provisions",
+      "content": "Processing operations that were lawfully commenced before the entry into force of this Act shall be brought into conformity with this Act and the General Data Protection Regulation within one year of the entry into force of this Act. Existing authorisations and approvals issued by the Data Protection Inspectorate shall remain valid until their expiry date."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "§ 25. Entry into force",
+      "content": "This Act enters into force on 15 March 2019. The provisions of this Act concerning the processing of personal data supplement the General Data Protection Regulation (Regulation (EU) 2016/679) and implement Directive (EU) 2016/680 regarding personal data processing in criminal matters."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "personal data",
+      "definition": "Any information relating to an identified or identifiable natural person, as defined in Article 4(1) of the General Data Protection Regulation.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "supervisory authority",
+      "definition": "The Data Protection Inspectorate (Andmekaitse Inspektsioon), serving as the independent supervisory authority for data protection in Estonia.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "personal identification code",
+      "definition": "The national identification number assigned to natural persons under Estonian law, used for unambiguous identification.",
+      "source_provision": "art5"
+    }
+  ]
+}

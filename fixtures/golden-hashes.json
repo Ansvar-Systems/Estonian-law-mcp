@@ -1,0 +1,56 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Estonian Law MCP",
+  "jurisdiction": "EE",
+  "provisions": [
+    {
+      "id": "ee-hash-001",
+      "description": "IKS § 1 -- scope of the Personal Data Protection Act (GDPR implementation)",
+      "upstream_url": "https://www.riigiteataja.ee/akt/104012019011#para1",
+      "selector_hint": "§ 1. Scope of the Act",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "supplementary provisions"
+    },
+    {
+      "id": "ee-hash-002",
+      "description": "Cybersecurity Act § 1 -- purpose and scope of the NIS2 transposition",
+      "upstream_url": "https://www.riigiteataja.ee/akt/118102024002#para1",
+      "selector_hint": "§ 1. Purpose and scope",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "high common level of cybersecurity"
+    },
+    {
+      "id": "ee-hash-003",
+      "description": "Electronic Communications Act § 101 -- confidentiality of communications",
+      "upstream_url": "https://www.riigiteataja.ee/akt/120112023004#para101",
+      "selector_hint": "§ 101. Confidentiality of communications",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "confidential"
+    },
+    {
+      "id": "ee-hash-004",
+      "description": "Penal Code § 208 -- illegal access to computer systems",
+      "upstream_url": "https://www.riigiteataja.ee/akt/184411#para208",
+      "selector_hint": "§ 208. Illegal access to computer systems",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Unauthorised access"
+    },
+    {
+      "id": "ee-hash-005",
+      "description": "Digital Signatures Act § 3 -- legal validity of digital signature",
+      "upstream_url": "https://www.riigiteataja.ee/akt/694375#para3",
+      "selector_hint": "§ 3. Legal validity of digital signature",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "handwritten signature"
+    },
+    {
+      "id": "ee-hash-006",
+      "description": "Trade Secrets Act § 2 -- definition of trade secret",
+      "upstream_url": "https://www.riigiteataja.ee/akt/121122018001#para2",
+      "selector_hint": "§ 2. Trade secret",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "commercial value"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "cybersecurity-act",
+  "type": "statute",
+  "title": "Küberturvalisuse seadus",
+  "title_en": "Cybersecurity Act",
+  "short_name": "KüTS",
+  "status": "in_force",
+  "issued_date": "2024-10-01",
+  "in_force_date": "2024-12-18",
+  "url": "https://www.riigiteataja.ee/akt/118102024002",
+  "description": "Estonia's cybersecurity legislation transposing NIS2 Directive (EU) 2022/2555. Establishes cybersecurity requirements for essential and important entities, incident reporting obligations, and the role of the Information System Authority (RIA) as the national cybersecurity authority.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "§ 1. Purpose and scope",
+      "content": "This Act establishes measures for ensuring a high common level of cybersecurity across Estonia, implementing Directive (EU) 2022/2555 of the European Parliament and of the Council concerning measures for a high common level of cybersecurity across the Union (NIS2 Directive). This Act applies to essential entities and important entities as defined in this Act, and to providers of public electronic communications networks and services."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "§ 2. Definitions",
+      "content": "For the purposes of this Act: (1) 'cybersecurity' means the activities necessary to protect network and information systems, the users of such systems, and other persons affected by cyber threats; (2) 'network and information system' means an electronic communications network, a device or group of interconnected devices that processes data by means of a programme, or digital data stored, processed, retrieved, or transmitted for the purposes of operation, use, protection, and maintenance; (3) 'cyber threat' means any potential circumstance, event, or action that could damage, disrupt, or otherwise adversely impact network and information systems; (4) 'essential entity' means a public or private entity of a type listed in Annex I that exceeds the thresholds set for medium-sized enterprises."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "§ 3. Essential entities",
+      "content": "Essential entities are entities operating in the following sectors: (1) energy, including electricity, district heating, oil, gas, and hydrogen; (2) transport, including air, rail, water, and road; (3) banking and financial market infrastructure; (4) health sector; (5) drinking water supply and distribution; (6) wastewater management; (7) digital infrastructure; (8) ICT service management (B2B); (9) public administration; (10) space. An entity shall be classified as essential if it exceeds the medium-sized enterprise threshold or is designated by the competent authority."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "§ 4. Important entities",
+      "content": "Important entities are entities operating in the following sectors that are not classified as essential entities: (1) postal and courier services; (2) waste management; (3) manufacture, production, and distribution of chemicals; (4) production, processing, and distribution of food; (5) manufacturing of medical devices, computers, electronics, optical products, electrical equipment, machinery, motor vehicles, and other transport equipment; (6) digital providers, including online marketplaces, online search engines, and social networking services platforms; (7) research organisations."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "§ 5. National Cybersecurity Authority",
+      "content": "The Information System Authority (Riigi Infosüsteemi Amet, RIA) is the national competent authority for cybersecurity and serves as the single point of contact and the national CSIRT. RIA shall: (1) oversee the implementation of this Act; (2) carry out supervisory activities; (3) provide guidance on cybersecurity risk management; (4) operate the national CSIRT; (5) cooperate with competent authorities of other Member States and ENISA."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "§ 6. National Cybersecurity Strategy",
+      "content": "The Government of the Republic shall adopt a national cybersecurity strategy establishing the strategic objectives, the resources required, and the appropriate policy and regulatory measures to achieve and maintain a high level of cybersecurity. The strategy shall be reviewed and updated at least every five years and shall address: (1) the governance framework; (2) the cybersecurity of supply chains; (3) vulnerability management; (4) cybersecurity in education and training; (5) the role of cybersecurity research and development."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "§ 7. CSIRT functions",
+      "content": "The national CSIRT operated by RIA shall: (1) monitor and analyse cyber threats, vulnerabilities, and incidents at national level; (2) provide early warnings, alerts, announcements, and disseminate information to relevant entities; (3) respond to incidents and provide assistance; (4) collect and analyse forensic data related to incidents; (5) coordinate vulnerability disclosure; (6) cooperate with other CSIRTs and with ENISA."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "§ 8. Cybersecurity risk management measures",
+      "content": "Essential entities and important entities shall take appropriate and proportionate technical, operational, and organisational measures to manage the risks posed to the security of network and information systems. These measures shall be based on an all-hazards approach and shall include at a minimum: (1) policies on risk analysis and information system security; (2) incident handling procedures; (3) business continuity and crisis management; (4) supply chain security; (5) security in network and information systems acquisition, development, and maintenance; (6) policies and procedures for assessing the effectiveness of cybersecurity risk management measures."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "§ 9. Management body obligations",
+      "content": "The management bodies of essential entities and important entities shall: (1) approve the cybersecurity risk management measures adopted by the entity; (2) oversee the implementation of those measures; (3) undergo training to gain sufficient knowledge and skills to identify risks and assess cybersecurity risk management practices; (4) offer similar training to their employees on a regular basis. Members of the management body may be held personally liable for infringements of cybersecurity obligations."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "§ 10. Incident reporting obligations",
+      "content": "Essential entities and important entities shall report any significant incident to RIA without undue delay: (1) an early warning within 24 hours of becoming aware of the significant incident, indicating whether the incident is suspected of being caused by unlawful or malicious acts; (2) an incident notification within 72 hours of becoming aware of the incident, providing an initial assessment including severity and impact, and indicators of compromise where available; (3) a final report not later than one month after the incident notification, including a detailed description, the type of threat or root cause, applied and ongoing mitigation measures, and cross-border impact where applicable."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "§ 11. Significant incidents",
+      "content": "An incident shall be considered significant if: (1) it has caused or is capable of causing severe operational disruption to the services or financial loss for the entity concerned; (2) it has affected or is capable of affecting other natural or legal persons by causing considerable material or non-material damage. An incident affecting more than 500,000 persons or disrupting essential services for more than 24 hours shall be deemed significant."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "§ 12. Voluntary notification",
+      "content": "Entities not covered by this Act may submit notifications of significant incidents, cyber threats, or near misses to RIA on a voluntary basis. RIA shall process voluntary notifications in the same manner as mandatory notifications and may provide feedback and guidance. Voluntary notifications shall not result in the imposition of additional obligations on the notifying entity."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "§ 13. Supervision and enforcement",
+      "content": "RIA shall carry out supervisory activities in respect of essential entities and important entities, including: (1) on-site inspections and off-site supervision; (2) regular and targeted security audits; (3) security scans; (4) requests for information necessary to assess cybersecurity risk management measures; (5) requests for evidence of implementation. For essential entities, RIA may carry out supervisory activities at any time. For important entities, supervisory activities shall be carried out ex post where evidence of non-compliance is brought to its attention."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "§ 14. Enforcement measures",
+      "content": "Where RIA finds that an entity does not comply with this Act, it may impose enforcement measures, including: (1) issuing binding instructions; (2) ordering the entity to cease conduct that infringes this Act; (3) ordering the entity to ensure that cybersecurity risk management measures comply with the Act; (4) ordering the entity to inform natural or legal persons that may be affected; (5) appointing a monitoring officer; (6) temporarily suspending or requesting the suspension of certification or authorisation."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "§ 15. Administrative fines",
+      "content": "For essential entities, administrative fines of up to 10,000,000 euros or 2% of total worldwide annual turnover, whichever is higher, may be imposed for infringements of cybersecurity risk management or incident reporting obligations. For important entities, fines of up to 7,000,000 euros or 1.4% of total worldwide annual turnover, whichever is higher, may be imposed. When imposing fines on public sector bodies, the maximum amount shall be 100,000 euros."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "§ 16. Registration of entities",
+      "content": "Essential entities and important entities shall register with RIA and provide the following information: (1) name, address, and registration number; (2) the sector or sub-sector; (3) contact details including email addresses, IP ranges, and phone numbers; (4) the Member States in which they provide services. Entities shall update their information within 14 days of any change. RIA shall maintain a national registry of essential and important entities."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "§ 17. Supply chain security",
+      "content": "Essential entities and important entities shall consider the cybersecurity-related aspects of their relationships with direct suppliers and service providers when managing risks. Entities shall take into account: (1) the overall quality of products and cybersecurity practices of suppliers; (2) specific vulnerabilities of each supplier; (3) the results of coordinated risk assessments of critical supply chains carried out by the Cooperation Group."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "§ 18. Vulnerability disclosure",
+      "content": "RIA shall serve as the national coordinator for coordinated vulnerability disclosure. Any person who discovers a vulnerability in a product or service may report it to RIA. RIA shall: (1) receive and process vulnerability reports; (2) contact the affected vendor and set a reasonable deadline for remediation; (3) publish vulnerability advisories after the vendor has had a reasonable opportunity to address the vulnerability."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "§ 19. Information sharing",
+      "content": "Essential entities and important entities may exchange relevant cybersecurity information, including indicators of compromise, tactics, techniques and procedures, cybersecurity alerts, and configuration tools. Information sharing arrangements shall comply with data protection legislation and competition law. RIA shall facilitate and promote voluntary cybersecurity information sharing arrangements."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "§ 20. Cybersecurity certification",
+      "content": "RIA may require or encourage essential entities and important entities to use certified ICT products, ICT services, and ICT processes under European cybersecurity certification schemes adopted pursuant to Regulation (EU) 2019/881 (the Cybersecurity Act). RIA shall serve as the national cybersecurity certification authority."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "§ 21. International cooperation",
+      "content": "RIA shall cooperate with competent authorities and CSIRTs of other Member States, with ENISA, and with the NIS Cooperation Group. RIA shall participate in peer reviews and provide mutual assistance to other Member States. Where an incident affects two or more Member States, RIA shall cooperate with the relevant competent authorities to ensure coordinated response and communication."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "§ 22. DNS service providers",
+      "content": "Providers of DNS services, TLD name registries, and entities providing domain name registration services shall collect and maintain accurate and complete domain name registration data in a dedicated database, ensuring the integrity and availability of such data. Domain name registration data shall include: (1) the domain name; (2) the name and contact details of the registrant; (3) the date of registration and expiry; (4) the name servers authoritative for the domain."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "§ 23. Transitional provisions",
+      "content": "Entities that are subject to the obligations established by this Act shall comply with the cybersecurity risk management measures specified in § 8 within 12 months of the entry into force of this Act. Existing registrations under the previous legislation shall be deemed to be registrations for the purposes of this Act. RIA shall complete the designation of essential and important entities within six months of entry into force."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "§ 24. Entry into force",
+      "content": "This Act enters into force on 18 December 2024, transposing Directive (EU) 2022/2555 of the European Parliament and of the Council concerning measures for a high common level of cybersecurity across the Union (NIS2 Directive)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "cybersecurity",
+      "definition": "The activities necessary to protect network and information systems, the users of such systems, and other persons affected by cyber threats.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "essential entity",
+      "definition": "A public or private entity of a type listed in Annex I to the NIS2 Directive that exceeds the thresholds set for medium-sized enterprises, or is specifically designated by the competent authority.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "important entity",
+      "definition": "An entity operating in sectors covered by this Act that is not classified as an essential entity.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "significant incident",
+      "definition": "An incident that has caused or is capable of causing severe operational disruption or financial loss, or that has affected or is capable of affecting other natural or legal persons by causing considerable damage.",
+      "source_provision": "art11"
+    }
+  ]
+}

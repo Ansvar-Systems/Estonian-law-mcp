@@ -1,0 +1,145 @@
+{
+  "id": "penal-code-cyber",
+  "type": "statute",
+  "title": "Karistusseadustik (küberkaristusõigus)",
+  "title_en": "Penal Code (Cybercrime Provisions)",
+  "short_name": "KarS-cyber",
+  "status": "in_force",
+  "issued_date": "2001-06-06",
+  "in_force_date": "2002-09-01",
+  "url": "https://www.riigiteataja.ee/akt/184411",
+  "description": "Cybercrime-related provisions of the Estonian Penal Code (Karistusseadustik). Covers computer fraud, unauthorized access, data interference, system interference, misuse of devices, identity theft, and other technology-related offences. Implements the Budapest Convention on Cybercrime.",
+  "provisions": [
+    {
+      "provision_ref": "art206",
+      "section": "206",
+      "title": "§ 206. Interference with computer data",
+      "content": "Unlawful alteration, deletion, damage, blocking, or suppression of computer data is punishable by a fine or up to three years of imprisonment. The same act, if committed against data of significant public interest or if it causes significant damage, is punishable by one to five years of imprisonment. For the purposes of this section, 'computer data' means any representation of facts, information, or concepts in a form suitable for processing in a computer system."
+    },
+    {
+      "provision_ref": "art207",
+      "section": "207",
+      "title": "§ 207. Interference with computer systems",
+      "content": "Unlawful hindering or interruption of the functioning of a computer system by inputting, transmitting, deleting, damaging, altering, or suppressing computer data is punishable by a fine or up to three years of imprisonment. If the act results in significant disruption to the operation of a critical infrastructure or essential service, it is punishable by two to six years of imprisonment."
+    },
+    {
+      "provision_ref": "art208",
+      "section": "208",
+      "title": "§ 208. Illegal access to computer systems",
+      "content": "Unauthorised access to a computer system or part of a computer system, by infringing security measures, is punishable by a fine or up to three years of imprisonment. Unauthorised access committed with the purpose of obtaining computer data, including personal data, is punishable by a fine or up to five years of imprisonment. For the purposes of this section, 'unauthorised access' means access without right, including access that exceeds authorised access."
+    },
+    {
+      "provision_ref": "art209",
+      "section": "209",
+      "title": "§ 209. Illegal interception of computer data",
+      "content": "Unlawful interception by technical means of non-public transmissions of computer data to, from, or within a computer system, including electromagnetic emissions from a computer system carrying such data, is punishable by a fine or up to three years of imprisonment. If the interception was committed against communications containing state secrets or personal data of a sensitive nature, the punishment is one to five years of imprisonment."
+    },
+    {
+      "provision_ref": "art210",
+      "section": "210",
+      "title": "§ 210. Misuse of devices",
+      "content": "The production, sale, procurement for use, import, distribution, or otherwise making available of: (1) a device, including a computer programme, designed or adapted primarily for the purpose of committing the offences described in §§ 206-209; (2) a computer password, access code, or similar data by which the whole or any part of a computer system is capable of being accessed — with the intent that it be used for the purpose of committing such offences, is punishable by a fine or up to two years of imprisonment."
+    },
+    {
+      "provision_ref": "art211",
+      "section": "211",
+      "title": "§ 211. Computer fraud",
+      "content": "Causing a loss of property to another person by: (1) inputting, altering, deleting, or suppressing computer data; (2) interfering with the functioning of a computer system — with the intention of procuring an unlawful economic benefit for oneself or a third person, is punishable by a fine or up to five years of imprisonment. If the offence causes significant material damage or is committed by a group of persons, it is punishable by two to eight years of imprisonment."
+    },
+    {
+      "provision_ref": "art213",
+      "section": "213",
+      "title": "§ 213. Computer-related forgery",
+      "content": "The inputting, alteration, deletion, or suppression of computer data, resulting in inauthentic data with the intent that they be considered or acted upon as if they were authentic, regardless of whether the data are directly readable and intelligible, is punishable by a fine or up to three years of imprisonment. If the forged data are used for the commission of further offences, the punishment is one to five years of imprisonment."
+    },
+    {
+      "provision_ref": "art2131",
+      "section": "213-1",
+      "title": "§ 213¹. Identity theft",
+      "content": "Unlawful use of the identification data of another person, including the name, personal identification code, electronic identification means, or digital identity, for the purpose of misleading a third party, causing damage to the legitimate interests of the person whose identity is used, or obtaining an unlawful benefit, is punishable by a fine or up to three years of imprisonment."
+    },
+    {
+      "provision_ref": "art216",
+      "section": "216",
+      "title": "§ 216. Distribution of child sexual abuse material via computer systems",
+      "content": "The production, making available, distribution, or possession of child sexual abuse material through a computer system is punishable as provided in §§ 178-179 of this Code, with enhanced penalties where the offence is committed via information and communication technologies. Providers of electronic communications services shall cooperate with law enforcement for the identification and removal of such material."
+    },
+    {
+      "provision_ref": "art217",
+      "section": "217",
+      "title": "§ 217. Illegal collection of personal data",
+      "content": "The systematic or large-scale collection of personal data without a legal basis, by automated or other means, for the purpose of: (1) creating profiles; (2) monitoring the activities of persons; (3) selling or otherwise distributing such data — is punishable by a fine or up to three years of imprisonment. If the collected data include special categories of personal data (health data, biometric data, political opinions), the punishment is one to five years of imprisonment."
+    },
+    {
+      "provision_ref": "art2171",
+      "section": "217-1",
+      "title": "§ 217¹. Unlawful disclosure of personal data",
+      "content": "The intentional and unlawful disclosure of personal data obtained in the course of professional or official duties, where such disclosure causes significant damage to the data subject, is punishable by a fine or up to one year of imprisonment. If the disclosure involves data relating to health, sexual life, criminal convictions, or financial information, the punishment is a fine or up to three years of imprisonment."
+    },
+    {
+      "provision_ref": "art218",
+      "section": "218",
+      "title": "§ 218. Cyber harassment and stalking",
+      "content": "Repeated and unwanted contact with a person, monitoring or surveillance of a person through electronic means, or publication of the personal data or intimate images of a person without consent, causing fear, anxiety, or humiliation, is punishable by a fine or up to one year of imprisonment. If the offence is committed by means of a computer system or electronic communications network, the punishment may be increased."
+    },
+    {
+      "provision_ref": "art241",
+      "section": "241",
+      "title": "§ 241. Cyber attacks against the state",
+      "content": "A cyber attack against the critical infrastructure of the Republic of Estonia, the computer systems of state or local government agencies, or the electronic communications networks serving the functioning of the state is punishable by three to ten years of imprisonment. If the attack is committed in connection with terrorism or results in the endangerment of human life or a widespread disruption of essential services, the punishment is five to fifteen years of imprisonment."
+    },
+    {
+      "provision_ref": "art244",
+      "section": "244",
+      "title": "§ 244. Espionage through computer systems",
+      "content": "The use of computer systems or electronic communications networks for the purpose of obtaining state secrets, classified information, or information protected as trade secrets for the benefit of a foreign state, a foreign organisation, or an unauthorised person is punishable by three to fifteen years of imprisonment."
+    },
+    {
+      "provision_ref": "art255",
+      "section": "255",
+      "title": "§ 255. Money laundering through virtual assets",
+      "content": "Conversion, transfer, or concealment of virtual assets or cryptocurrency knowing that such assets are derived from criminal activity, or the acquisition, possession, or use of such assets while aware of their illicit origin, constitutes money laundering and is punishable by a fine or up to five years of imprisonment. If the offence involves assets of significant value or is committed in the framework of a criminal organisation, the punishment is two to ten years of imprisonment."
+    },
+    {
+      "provision_ref": "art275",
+      "section": "275",
+      "title": "§ 275. Illegal eavesdropping and surveillance",
+      "content": "The installation or use of a device for the purpose of intercepting private communications, recording private conversations, or conducting video surveillance of a person in a place where they have a reasonable expectation of privacy, without the consent of the person or without lawful authority, is punishable by a fine or up to three years of imprisonment."
+    },
+    {
+      "provision_ref": "art284",
+      "section": "284",
+      "title": "§ 284. Spam and unsolicited commercial communications",
+      "content": "The mass sending of unsolicited commercial electronic communications (spam), including emails, SMS, or other electronic messages, without the prior consent of the recipients, is punishable by a fine. If the act is committed on a large scale or using a botnet or compromised computer systems, it is punishable by a fine or up to one year of imprisonment."
+    },
+    {
+      "provision_ref": "art3771",
+      "section": "377-1",
+      "title": "§ 377¹. Denial of service attacks",
+      "content": "Intentional directing of a large volume of data traffic against a computer system with the purpose of rendering the system or its services unavailable (denial of service attack) is punishable by a fine or up to three years of imprisonment. If the attack targets critical infrastructure, essential services, or state information systems, or is committed during a period of emergency, the punishment is two to six years of imprisonment."
+    },
+    {
+      "provision_ref": "art3981",
+      "section": "398-1",
+      "title": "§ 398¹. Jurisdiction for cyber offences",
+      "content": "Estonian courts shall have jurisdiction over cyber offences committed: (1) in the territory of Estonia; (2) on board an Estonian ship or aircraft; (3) by an Estonian citizen or resident, regardless of the location; (4) against computer systems located in Estonia or Estonian residents, regardless of the location of the offender. International cooperation in the investigation of cyber offences shall follow the principles of the Budapest Convention on Cybercrime."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "computer data",
+      "definition": "Any representation of facts, information, or concepts in a form suitable for processing in a computer system, including programmes capable of causing a computer system to perform a function.",
+      "source_provision": "art206"
+    },
+    {
+      "term": "computer system",
+      "definition": "Any device or group of interconnected devices, one or more of which performs automatic processing of data pursuant to a programme.",
+      "source_provision": "art207"
+    },
+    {
+      "term": "virtual assets",
+      "definition": "A digital representation of value that can be digitally traded or transferred and can be used for payment or investment purposes.",
+      "source_provision": "art255"
+    }
+  ]
+}

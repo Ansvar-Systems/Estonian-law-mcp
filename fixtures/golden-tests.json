@@ -1,0 +1,179 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Estonian Law MCP",
+  "description": "Golden contract tests for the Estonian Law MCP -- 12 tests covering article retrieval, search, citation, cross-reference, and negative cases",
+  "tests": [
+    {
+      "id": "ee-001",
+      "category": "article_retrieval",
+      "description": "Retrieve IKS § 1 (Isikuandmete kaitse seadus) -- scope and purpose of GDPR implementing provisions",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "iks",
+        "section": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["Regulation", "2016/679", "General Data Protection Regulation", "personal data"],
+        "fields_present": ["content", "provision_ref"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ee-002",
+      "category": "article_retrieval",
+      "description": "Retrieve Cybersecurity Act § 1 (Küberturvalisuse seadus) -- scope and NIS2 transposition",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "cybersecurity-act",
+        "section": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["cybersecurity", "Directive", "2022/2555", "NIS2"],
+        "fields_present": ["content", "provision_ref"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ee-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Penal Code § 208 -- illegal access to computer systems",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "penal-code-cyber",
+        "section": "208"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["access", "computer system", "security measures", "imprisonment"],
+        "fields_present": ["content", "provision_ref"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ee-004",
+      "category": "search",
+      "description": "Full-text search for 'personal data' returns IKS and related provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "personal data"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["personal data", "data protection", "data subject"]
+      }
+    },
+    {
+      "id": "ee-005",
+      "category": "search",
+      "description": "Full-text search for 'cybersecurity' returns Cybersecurity Act and related provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "cybersecurity"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["cybersecurity", "essential entities", "incident", "RIA"]
+      }
+    },
+    {
+      "id": "ee-006",
+      "category": "search",
+      "description": "Full-text search for 'electronic commerce' returns Information Society Services Act provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "electronic commerce"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["information society", "service provider", "electronic"]
+      }
+    },
+    {
+      "id": "ee-007",
+      "category": "citation_roundtrip",
+      "description": "Citation for IKS § 2 includes riigiteataja.ee URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "iks",
+        "section": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "riigiteataja\\.ee",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ee-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for Cybersecurity Act § 10 includes riigiteataja.ee URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "cybersecurity-act",
+        "section": "10"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "riigiteataja\\.ee",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ee-009",
+      "category": "eu_cross_reference",
+      "description": "IKS cross-reference to EU GDPR -- Estonian IKS implements GDPR (Regulation 2016/679)",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "document_id": "iks",
+        "provision_ref": "art1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["GDPR", "General Data Protection Regulation", "2016/679"]
+      }
+    },
+    {
+      "id": "ee-010",
+      "category": "negative_test",
+      "description": "Non-existent Estonian law returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "fictional-estonian-law-2099",
+        "section": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "ee-011",
+      "category": "negative_test",
+      "description": "Malformed article number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "iks",
+        "section": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "ee-012",
+      "category": "list_sources",
+      "description": "list_sources returns metadata including Riigi Teataja as data source",
+      "tool": "list_sources",
+      "input": {},
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["Riigi Teataja", "Estonia", "EE"]
+      }
+    }
+  ]
+}

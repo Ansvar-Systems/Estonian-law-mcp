@@ -1,0 +1,116 @@
+{
+  "id": "info-society-services-act",
+  "type": "statute",
+  "title": "Infoühiskonna teenuse seadus",
+  "title_en": "Information Society Services Act",
+  "short_name": "IÜS",
+  "status": "in_force",
+  "issued_date": "2004-05-14",
+  "in_force_date": "2004-08-01",
+  "url": "https://www.riigiteataja.ee/akt/112122011003",
+  "description": "Regulates information society services in Estonia, implementing the EU e-Commerce Directive (2000/31/EC). Covers service provider obligations, electronic contracts, intermediary liability, and commercial communications.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "§ 1. Scope of the Act",
+      "content": "This Act provides for the requirements for the provision of information society services, the liability of service providers, and the supervision of information society services. This Act implements Directive 2000/31/EC of the European Parliament and of the Council on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "§ 2. Information society service",
+      "content": "An information society service is a service normally provided for remuneration, at a distance, by electronic means, and at the individual request of a recipient of the service. The provision of information society services shall be subject to the law of the Member State in which the service provider is established (country of origin principle)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "§ 3. General information requirements",
+      "content": "A service provider shall make the following information easily, directly, and permanently accessible to the recipient of the service: (1) the name and registration number of the service provider; (2) the geographic address of the establishment; (3) contact details including an electronic mail address; (4) the register in which the provider is entered; (5) VAT identification number if the provider carries out a taxable activity; (6) where the activity is subject to an authorisation scheme, the details of the relevant supervisory authority."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "§ 4. Commercial communications",
+      "content": "Commercial communications shall be clearly identifiable as such. The natural or legal person on whose behalf the commercial communication is made shall be clearly identifiable. Promotional offers, competitions, or games shall be clearly identifiable and the conditions for participation shall be easily accessible and presented clearly and unambiguously. Unsolicited commercial communication by electronic mail shall be clearly and unambiguously identifiable as such as soon as it is received."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "§ 5. Electronic contracts",
+      "content": "Where a service provider offers the possibility of concluding contracts by electronic means, the service provider shall inform the recipient of the service of: (1) the technical steps to follow to conclude the contract; (2) whether the concluded contract will be filed by the service provider and whether it will be accessible; (3) the technical means for identifying and correcting input errors prior to the placing of the order; (4) the languages offered for the conclusion of the contract."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "§ 6. Order placement",
+      "content": "Where a recipient of the service places an order through technological means, the service provider shall acknowledge receipt of the recipient's order without undue delay and by electronic means. The order and the acknowledgement of receipt shall be deemed to be received when the parties to whom they are addressed are able to access them."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "§ 7. Codes of conduct",
+      "content": "The Government and professional associations shall encourage trade, professional, and consumer associations to draw up codes of conduct at national level for the purpose of proper implementation of the provisions of this Act. Codes of conduct shall be made available electronically and shall be translated into Estonian and English where applicable."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "§ 8. Mere conduit",
+      "content": "Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, or the provision of access to a communication network, the service provider shall not be liable for the information transmitted, on condition that the provider: (1) does not initiate the transmission; (2) does not select the receiver of the transmission; (3) does not select or modify the information contained in the transmission."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "§ 9. Caching",
+      "content": "Where an information society service is provided that consists of the transmission of information provided by a recipient of the service, the service provider shall not be liable for the automatic, intermediate, and temporary storage of that information performed for the sole purpose of making more efficient the onward transmission, on condition that the provider: (1) does not modify the information; (2) complies with conditions on access to the information; (3) complies with rules regarding the updating of the information; (4) acts expeditiously to remove or disable access to information upon obtaining actual knowledge that the information has been removed or access disabled."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "§ 10. Hosting",
+      "content": "Where an information society service is provided that consists of the storage of information provided by a recipient of the service, the service provider shall not be liable for the information stored at the request of a recipient of the service, on condition that: (1) the provider does not have actual knowledge of illegal activity or information; (2) upon obtaining such knowledge or awareness, the provider acts expeditiously to remove or disable access to the information. This exemption from liability shall not apply where the recipient of the service is acting under the authority or control of the provider."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "§ 11. No general monitoring obligation",
+      "content": "Service providers are not obliged to monitor the information which they transmit or store, nor are they obliged to actively seek facts or circumstances indicating illegal activity. Service providers shall promptly inform the competent public authorities of alleged illegal activities undertaken or information provided by recipients of their service and shall communicate to the competent authorities information enabling the identification of recipients of their service."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "§ 12. Court orders and removal procedures",
+      "content": "This Act does not affect the possibility for a court to require the service provider to terminate or prevent an infringement. Courts may also establish procedures leading to the removal or disabling of access to illegal information. The service provider shall comply with court orders requiring the removal of information or the disabling of access thereto."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "§ 13. Notice and takedown procedure",
+      "content": "Where a service provider receives a notification that information stored on behalf of a recipient is illegal, the provider shall assess the notification and, where the notification contains sufficient information to establish the illegality, shall expeditiously remove or disable access to the information. The notice shall contain: (1) the identity and contact details of the notifier; (2) a description of the illegal content; (3) the URL or other location identifier; (4) a statement that the notifier believes the information is illegal."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "§ 14. Supervision",
+      "content": "The Consumer Protection and Technical Regulatory Authority shall exercise supervision over the compliance of service providers with this Act. The supervisory authority may: (1) require the service provider to provide information; (2) carry out inspections; (3) issue precepts and apply coercive measures; (4) impose fines for non-compliance."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "§ 15. Penalties",
+      "content": "Violation of the requirements for information society services by a legal person is punishable by a fine of up to 32,000 euros. Failure to comply with a precept of the supervisory authority is punishable by a fine of up to 10,000 euros for a natural person and up to 32,000 euros for a legal person."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "information society service",
+      "definition": "A service normally provided for remuneration, at a distance, by electronic means, and at the individual request of a recipient of the service.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "commercial communication",
+      "definition": "Any form of communication designed to promote goods, services, or the image of a natural or legal person providing information society services.",
+      "source_provision": "art4"
+    }
+  ]
+}

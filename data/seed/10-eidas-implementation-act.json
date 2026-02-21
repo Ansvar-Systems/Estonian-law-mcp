@@ -1,0 +1,145 @@
+{
+  "id": "eidas-implementation-act",
+  "type": "statute",
+  "title": "Euroopa Liidu eIDAS rakendusseadus",
+  "title_en": "Electronic Identification and Trust Services Act",
+  "short_name": "eIDAS-RS",
+  "status": "in_force",
+  "issued_date": "2016-10-19",
+  "in_force_date": "2016-11-01",
+  "url": "https://www.riigiteataja.ee/akt/125102016001",
+  "description": "Implements Regulation (EU) No 910/2014 (eIDAS) in Estonian law. Establishes the framework for electronic identification, trust services (electronic signatures, seals, timestamps, delivery services), and the national trust list. Designates RIA as the supervisory body.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "§ 1. Purpose and scope",
+      "content": "This Act provides supplementary provisions for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (eIDAS Regulation). This Act establishes the national supervisory body, designates conformity assessment bodies, and provides for sanctions."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "§ 2. Supervisory body",
+      "content": "The Information System Authority (Riigi Infosüsteemi Amet, RIA) is the supervisory body for trust services in Estonia within the meaning of Article 17 of the eIDAS Regulation. RIA shall: (1) supervise qualified and non-qualified trust service providers established in Estonia; (2) carry out audits and inspections; (3) grant and withdraw qualified status; (4) maintain the national trusted list."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "§ 3. National trusted list",
+      "content": "RIA shall establish, maintain, and publish a national trusted list of qualified trust service providers and the qualified trust services they provide, in accordance with Article 22 of the eIDAS Regulation. The trusted list shall be published in a secure electronic format and shall be updated promptly when the status of a trust service provider or service changes."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "§ 4. Notification of electronic identification schemes",
+      "content": "The Government of the Republic shall notify the European Commission of the electronic identification schemes under Estonian law, in accordance with Article 9 of the eIDAS Regulation. The Estonian ID-card, Mobile-ID, and Smart-ID electronic identification schemes shall be notified at the assurance levels specified in the implementing acts. RIA shall ensure that the notified schemes comply with the interoperability requirements."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "§ 5. Recognition of foreign electronic identification means",
+      "content": "Electronic identification means issued under a notified electronic identification scheme of another Member State shall be recognised in Estonia for the purpose of cross-border authentication to public sector online services. The recognition shall apply when the assurance level of the electronic identification means corresponds to an assurance level equal to or higher than that required by the Estonian service. RIA shall ensure the technical interoperability of the eIDAS node."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "§ 6. Qualified electronic signatures",
+      "content": "A qualified electronic signature shall have the equivalent legal effect of a handwritten signature. A qualified electronic signature based on a qualified certificate issued in one Member State shall be recognised as a qualified electronic signature in Estonia. The requirements for qualified electronic signatures are those set out in Article 26 and Annex I of the eIDAS Regulation."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "§ 7. Qualified electronic seals",
+      "content": "A qualified electronic seal shall enjoy the presumption of integrity of the data and of correctness of the origin of those data to which the seal is linked. The use of qualified electronic seals by legal persons and public authorities shall be encouraged for the purpose of ensuring the origin and integrity of official documents, certificates, and communications."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "§ 8. Qualified electronic time stamps",
+      "content": "A qualified electronic time stamp shall enjoy the presumption of the accuracy of the date and time it indicates and the integrity of the data to which the date and time are bound. A qualified time stamp issued in one Member State shall be recognised as a qualified time stamp in Estonia. Qualified time stamps shall be used in connection with qualified electronic signatures and seals."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "§ 9. Electronic registered delivery services",
+      "content": "A qualified electronic registered delivery service shall enjoy the presumption of the integrity of the data, the sending of the data by the identified sender, the receipt by the identified addressee, and the accuracy of the date and time of sending and receipt indicated by the service. RIA may accredit qualified electronic registered delivery service providers."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "§ 10. Website authentication certificates",
+      "content": "Qualified certificates for website authentication shall be issued by qualified trust service providers. Such certificates shall identify the natural or legal person to whom the certificate is issued and shall include the domain name(s) operated by that person. Browsers shall recognise qualified certificates for website authentication."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "§ 11. Trust service provider requirements",
+      "content": "A trust service provider established in Estonia that intends to provide qualified trust services shall notify RIA at least three months before commencing activities. The notification shall include: (1) a business plan; (2) a security policy; (3) a certificate practice statement; (4) evidence of conformity assessment by an approved body. RIA shall verify the compliance and grant or refuse qualified status within three months."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "§ 12. Security requirements for trust service providers",
+      "content": "Qualified trust service providers shall: (1) take appropriate technical and organisational measures to manage the risks to the security of the trust services they provide; (2) notify RIA and, where applicable, other relevant bodies of any security breach that has a significant impact on the trust service; (3) undergo regular audits by a conformity assessment body; (4) ensure business continuity and data recovery in the event of a disaster."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "§ 13. Liability of trust service providers",
+      "content": "A qualified trust service provider shall be liable for damage caused to any natural or legal person due to failure to comply with the obligations under the eIDAS Regulation and this Act. The burden of proof of compliance rests with the qualified trust service provider. A non-qualified trust service provider shall be liable for damage unless it can prove that it did not act negligently."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "§ 14. Conformity assessment bodies",
+      "content": "The Government of the Republic shall designate the conformity assessment bodies authorised to carry out the assessment of qualified trust service providers. A conformity assessment body shall be accredited in accordance with Regulation (EC) No 765/2008. The conformity assessment shall be carried out at least every 24 months and whenever there has been a significant change in the trust services provided."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "§ 15. Sanctions",
+      "content": "Failure to comply with the obligations of a trust service provider under this Act is punishable by a fine of up to 200,000 euros. Providing trust services without the required qualified status, or falsely representing a service as qualified, is punishable by a fine of up to 400,000 euros. RIA may also order the suspension or withdrawal of the qualified status."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "§ 16. Preservation of signed documents",
+      "content": "Qualified electronic signatures and seals shall be preserved in a manner that ensures their long-term validity and verifiability. Where a qualified electronic signature or seal is at risk of losing its validity due to the expiration of the underlying certificate or algorithm, the preservation service shall extend the validity by applying a qualified time stamp and, where necessary, re-sealing with a stronger algorithm."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "§ 17. Cooperation with other Member States",
+      "content": "RIA shall cooperate with the supervisory bodies of other Member States and participate in the cooperation network established under Article 18 of the eIDAS Regulation. RIA shall promptly inform the Commission and the supervisory bodies of other Member States of any changes to the national trusted list, any security breaches affecting qualified trust services, and any withdrawal of qualified status."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "§ 18. Transitional provisions",
+      "content": "Trust service providers that were providing trust services before the entry into force of this Act shall submit a notification to RIA within six months. Certificates and signatures created before the entry into force of this Act under the Digital Signatures Act shall remain valid. Existing certification service providers registered under the Digital Signatures Act shall be deemed to be trust service providers under this Act."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "§ 19. Entry into force",
+      "content": "This Act enters into force on 1 November 2016. This Act supplements Regulation (EU) No 910/2014 (eIDAS Regulation) and provides for the implementation of the Regulation in Estonian law."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "trust service",
+      "definition": "An electronic service consisting of the creation, verification, and validation of electronic signatures, seals, time stamps, delivery services, and website authentication certificates, or the preservation of electronic signatures and seals.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "qualified trust service provider",
+      "definition": "A trust service provider that has been granted qualified status by the supervisory body and is listed in the national trusted list.",
+      "source_provision": "art11"
+    },
+    {
+      "term": "conformity assessment body",
+      "definition": "A body accredited to carry out assessments of qualified trust service providers.",
+      "source_provision": "art14"
+    }
+  ]
+}

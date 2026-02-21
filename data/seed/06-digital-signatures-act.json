@@ -1,0 +1,145 @@
+{
+  "id": "digital-signatures-act",
+  "type": "statute",
+  "title": "Digitaalallkirja seadus",
+  "title_en": "Digital Signatures Act",
+  "short_name": "DAS",
+  "status": "in_force",
+  "issued_date": "2000-03-08",
+  "in_force_date": "2000-12-15",
+  "url": "https://www.riigiteataja.ee/akt/694375",
+  "description": "Establishes the legal framework for digital signatures and the functioning of certification service providers in Estonia. This was one of the world's first digital signature laws and underpins Estonia's e-government infrastructure, including the ID-card system.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "§ 1. Purpose of the Act",
+      "content": "This Act provides for the conditions and procedure for the use of digital signatures and digital stamps, the requirements for certification service providers, and the supervision thereof. A digital signature shall have the same legal effect as a handwritten signature if the requirements of this Act are fulfilled."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "§ 2. Definitions",
+      "content": "For the purposes of this Act: (1) 'digital signature' means data in digital form which are attached to or logically associated with other data in digital form and which are used by the signatory to sign; (2) 'certificate' means an electronic attestation which links signature verification data to a person and confirms the identity of that person; (3) 'certification service provider' means a natural or legal person who issues certificates or provides other services related to digital signatures; (4) 'time-stamp' means data in digital form which bind other digital data to a particular time, establishing evidence that the data existed at that time."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "§ 3. Legal validity of digital signature",
+      "content": "A digital signature has the same legal effect as a handwritten signature if: (1) the signature creation data are unique to the signatory; (2) the signature creation data were under the sole control of the signatory at the time of signing; (3) any alteration of the signed data is detectable; (4) the signature is based on a valid certificate issued by a certification service provider. A document signed with a digital signature that meets these requirements shall not be denied legal effect solely on the grounds that it is in electronic form."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "§ 4. Digital stamp",
+      "content": "A digital stamp is a digital signature of a legal person used to ensure the origin and integrity of digital data. A digital stamp shall be created using signature creation data assigned to the legal person. The legal person shall be responsible for the security of the signature creation data used for the digital stamp."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "§ 5. Certificate requirements",
+      "content": "A qualified certificate shall contain: (1) an indication that the certificate is issued as a qualified certificate; (2) the name and state of establishment of the certification service provider; (3) the name or pseudonym of the signatory; (4) the personal identification code or registration number of the signatory; (5) signature verification data corresponding to the signature creation data under the control of the signatory; (6) the beginning and end of the period of validity of the certificate; (7) the identity code of the certificate; (8) the advanced electronic signature of the issuing certification service provider."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "§ 6. Certification service providers",
+      "content": "A certification service provider shall: (1) be registered in the Estonian commercial register; (2) have the technical capability and financial resources to provide certification services; (3) employ personnel with the necessary expertise; (4) use trustworthy systems and products; (5) ensure the accuracy and completeness of the information in certificates; (6) provide a revocation service and ensure that the date and time of revocation can be determined precisely."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "§ 7. Obligations of certification service providers",
+      "content": "A certification service provider shall: (1) verify the identity of the person to whom a certificate is issued; (2) ensure that the signature creation data complement the signature verification data in the certificate; (3) store all relevant information concerning a qualified certificate for an appropriate period of time; (4) inform the applicant of the exact terms and conditions regarding the use of the certificate; (5) use trustworthy systems to store certificates in a verifiable form."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "§ 8. Liability of certification service providers",
+      "content": "A certification service provider that issues a qualified certificate shall be liable for damage caused to any person who reasonably relies on that certificate with regard to: (1) the accuracy of all information contained in the certificate; (2) the assurance that the signatory held the signature creation data corresponding to the signature verification data; (3) the assurance that the signature creation and verification data can be used in a complementary manner. The certification service provider shall not be liable where it can prove that it acted without negligence."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "§ 9. Revocation of certificates",
+      "content": "A certification service provider shall revoke a certificate immediately when: (1) the signatory or their representative so requests; (2) the certification service provider has reason to believe that the certificate was issued on the basis of false or forged information; (3) the signature creation data have been compromised; (4) the certification service provider ceases its activities. Revocation of a certificate shall take effect from the time the certificate is entered in the revocation list."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "§ 10. Time-stamping",
+      "content": "A time-stamping service binds digital data to a particular point in time, providing evidence that the data existed at that time. A qualified time stamp shall be issued by a trust service provider and shall accurately indicate the date and time. A qualified time stamp shall enjoy the presumption of the accuracy of the date and time it indicates and the integrity of the data to which the date and time are bound."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "§ 11. Recognition of foreign certificates",
+      "content": "Certificates issued by certification service providers established in a Member State of the European Union shall be recognised as equivalent to certificates issued in Estonia. Certificates issued in third countries shall be recognised where: (1) the certification service provider meets the requirements laid down in this Act and is accredited in a Member State; (2) a bilateral or multilateral agreement between Estonia and the third country provides for mutual recognition; (3) the certificate is guaranteed by a certification service provider established in the European Union."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "§ 12. Supervision",
+      "content": "The Information System Authority (RIA) shall supervise compliance of certification service providers with this Act and Regulation (EU) No 910/2014 (eIDAS Regulation). RIA may: (1) carry out inspections; (2) require information and documents; (3) issue precepts; (4) suspend or revoke the qualified status of a trust service provider."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "§ 13. Obligations of the signatory",
+      "content": "The signatory shall: (1) keep the signature creation data confidential and prevent their unauthorised use; (2) notify the certification service provider without undue delay of any loss, theft, or compromise of the signature creation data; (3) ensure that the personal data in the certificate are accurate. The signatory shall be liable for any damage arising from failure to comply with these obligations."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "§ 14. ID-card and digital identity",
+      "content": "The Estonian identity card (ID-card) shall contain a qualified certificate for electronic identification and a qualified certificate for the creation of digital signatures. The certificates in the ID-card shall be issued by a certification service provider designated by the Government of the Republic. Digital signature functionality shall be activated upon the personal appearance of the holder and verification of identity."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "§ 15. Mobile-ID and Smart-ID",
+      "content": "Digital signatures may be given using Mobile-ID, Smart-ID, or other secure electronic identification means that meet the requirements for qualified electronic signatures. The trust service provider shall ensure that the electronic identification means provides a level of assurance equivalent to the ID-card for the purpose of digital signing."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "§ 16. DigiDoc container format",
+      "content": "Digitally signed documents shall be stored in the DigiDoc format (BDOC/ASiC-E) adopted by the Government of the Republic. The DigiDoc container shall include: (1) the signed document; (2) the digital signature(s); (3) the certificate(s) of the signatory; (4) the OCSP response confirming the validity of the certificate at the time of signing; (5) the time stamp."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "§ 17. Long-term validation",
+      "content": "A digital signature shall be accompanied by validation data sufficient to verify the signature over a long period. The validation data shall include: (1) the certificate of the signatory; (2) the certificate chain up to the trust anchor; (3) an OCSP response or CRL entry confirming the validity of the certificate; (4) a time stamp. The trust service provider shall ensure the availability of validation data for at least ten years."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "§ 18. Electronic seals",
+      "content": "A legal person may use an electronic seal to ensure the origin and integrity of data. A qualified electronic seal shall enjoy the presumption of integrity and correctness of the origin of the data to which it is linked. The requirements for electronic seals shall be those set out in Regulation (EU) No 910/2014 (eIDAS Regulation)."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "§ 19. Entry into force and relation to eIDAS",
+      "content": "This Act supplements Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (eIDAS Regulation). Where the provisions of this Act conflict with the eIDAS Regulation, the Regulation shall prevail. This Act shall apply to trust services and electronic identification to the extent not regulated by the eIDAS Regulation."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "digital signature",
+      "definition": "Data in digital form which are attached to or logically associated with other data in digital form and which are used by the signatory to sign.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "certificate",
+      "definition": "An electronic attestation which links signature verification data to a person and confirms the identity of that person.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "certification service provider",
+      "definition": "A natural or legal person who issues certificates or provides other services related to digital signatures.",
+      "source_provision": "art2"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "identity-documents-act",
+  "type": "statute",
+  "title": "Isikut tõendavate dokumentide seadus",
+  "title_en": "Identity Documents Act",
+  "short_name": "ITDS",
+  "status": "in_force",
+  "issued_date": "1999-11-15",
+  "in_force_date": "2000-01-01",
+  "url": "https://www.riigiteataja.ee/akt/122032011006",
+  "description": "Regulates the issuance, use, and administration of identity documents in Estonia, including the national ID-card with its electronic identification and digital signature capabilities, passports, residence permit cards, and digital identity documents.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "§ 1. Purpose and scope",
+      "content": "This Act provides for the types of identity documents, the procedure for their issuance, extension, suspension, and revocation, and the rights and obligations of holders of identity documents. Identity documents issued under this Act serve as proof of the identity of a person and, where applicable, as electronic identification means."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "§ 2. Types of identity documents",
+      "content": "The following identity documents shall be issued under this Act: (1) identity card (ID-card); (2) passport; (3) diplomatic passport; (4) seafarer's service book; (5) residence permit card; (6) temporary travel document; (7) digital identity card (e-Residency). The Government of the Republic shall establish the specifications and security features of identity documents by regulation."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "§ 3. Identity card (ID-card)",
+      "content": "The identity card is a mandatory identity document for Estonian citizens aged 15 years and older residing in Estonia. The identity card shall contain: (1) the given name and surname of the holder; (2) the personal identification code; (3) the date of birth; (4) the sex; (5) the citizenship; (6) the photograph of the holder; (7) a chip containing electronic identification certificates and digital signature certificates; (8) biometric data (fingerprints) in accordance with EU regulations."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "§ 4. Electronic functionality of the ID-card",
+      "content": "The identity card shall enable: (1) electronic identification for access to e-services; (2) the giving of digital signatures with legal effect equivalent to a handwritten signature; (3) encryption and decryption of electronic documents; (4) authentication in electronic communications. The electronic functionality shall be based on qualified certificates issued by a designated certification service provider and shall meet the requirements of Regulation (EU) No 910/2014 (eIDAS Regulation)."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "§ 5. Issuance of identity documents",
+      "content": "Identity documents shall be issued by the Police and Border Guard Board. The applicant shall appear in person for the taking of biometric data, unless the data have already been collected and are valid. An identity card shall be issued within 30 days of the submission of the application. In urgent cases, the processing time may be reduced to two working days upon payment of an additional fee."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "§ 6. Validity of identity documents",
+      "content": "An identity card issued to a person aged 15 or older shall be valid for five years. An identity card issued to a person under the age of 15 shall be valid for three years. A passport shall be valid for ten years for adults and five years for minors. The validity period of a digital identity card shall be determined by the Government of the Republic."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "§ 7. Suspension and revocation of documents",
+      "content": "The Police and Border Guard Board shall suspend the validity of an identity document if: (1) there is reason to suspect that the document has been forged or the data therein are false; (2) the holder has reported the document lost or stolen; (3) the electronic certificates have been compromised. An identity document shall be revoked if: (1) the holder has obtained a new document of the same type; (2) the holder has lost Estonian citizenship; (3) the holder has died."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "§ 8. Obligations of the holder",
+      "content": "The holder of an identity document shall: (1) protect the document from damage, loss, or theft; (2) not transfer the document to another person for use as an identity document; (3) report the loss, theft, or damage of the document to the police without delay; (4) protect the PIN codes of the electronic certificates and not disclose them to other persons; (5) return an expired or revoked document to the issuing authority."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "§ 9. e-Residency digital identity card",
+      "content": "An e-Residency digital identity card may be issued to a foreign national who has a legitimate interest in using Estonian e-services. The e-Residency digital identity card enables: (1) electronic identification for access to Estonian e-services; (2) the giving of digital signatures; (3) the establishment and administration of Estonian companies. The e-Residency digital identity card does not grant the right to physically enter or reside in Estonia and does not serve as a travel document."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "§ 10. e-Residency application procedure",
+      "content": "A foreign national may apply for e-Residency by submitting an application to the Police and Border Guard Board or an Estonian embassy. The application shall be processed within 30 days. The Police and Border Guard Board may refuse to issue an e-Residency digital identity card if: (1) the applicant poses a threat to public order or national security; (2) the applicant has a criminal record for serious offences; (3) the applicant has previously misused Estonian e-services."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "§ 11. Biometric data",
+      "content": "Biometric data collected for identity documents shall include: (1) a facial image; (2) fingerprints (two flat impressions). Biometric data shall be stored in the chip of the identity document and in the document register. Biometric data stored in the register shall be used only for the verification of identity and the issuance of new documents. The retention period for biometric data in the register shall not exceed the validity period of the document plus 12 months."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "§ 12. Document register",
+      "content": "The Police and Border Guard Board shall maintain a register of identity documents containing data on all identity documents issued, suspended, and revoked. The register shall include the personal data of the holder, the document data, the biometric data, and the status of the certificates. Access to the register shall be restricted to authorised persons and agencies for the performance of their official duties."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "§ 13. International standards and interoperability",
+      "content": "Identity documents shall comply with ICAO Document 9303 (Machine Readable Travel Documents) and with applicable EU regulations on security features and biometric data. The electronic identification means embedded in the identity card shall be notified under Article 9 of Regulation (EU) No 910/2014 (eIDAS Regulation) to enable cross-border recognition."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "§ 14. Offences related to identity documents",
+      "content": "Forging or counterfeiting an identity document, or knowingly using a forged or counterfeit identity document, is punishable under the Penal Code. Using another person's identity document as one's own, or allowing another person to use one's identity document, is punishable by a fine of up to 300 fine units. Failure to report the loss or theft of an identity document is punishable by a fine."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "§ 15. Supervision",
+      "content": "The Police and Border Guard Board shall supervise compliance with the requirements for the use and protection of identity documents. The Information System Authority shall supervise the technical security of the electronic components of identity documents and the certification services. The Data Protection Inspectorate shall supervise the processing of personal data in connection with identity documents."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "identity document",
+      "definition": "A document issued under this Act for the purpose of proving the identity of a person, including the identity card, passport, and digital identity card.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "e-Residency",
+      "definition": "A digital identity card issued to a foreign national enabling access to Estonian e-services, digital signing, and company administration, without granting physical entry or residence rights.",
+      "source_provision": "art9"
+    }
+  ]
+}

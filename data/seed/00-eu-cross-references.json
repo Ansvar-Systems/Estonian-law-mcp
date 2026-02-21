@@ -1,0 +1,56 @@
+{
+  "id": "eu-cross-references",
+  "type": "statute",
+  "title": "EU Cross-Reference Index for Estonian Law",
+  "title_en": "EU Cross-Reference Index for Estonian Law",
+  "short_name": "EU-XREF",
+  "status": "in_force",
+  "issued_date": "2024-01-01",
+  "in_force_date": "2024-01-01",
+  "url": "https://eur-lex.europa.eu",
+  "description": "Cross-reference index mapping Estonian national legislation to EU directives and regulations. Estonia implements GDPR (Regulation (EU) 2016/679), NIS2 (Directive (EU) 2022/2555), eIDAS (Regulation (EU) 910/2014), e-Privacy Directive (2002/58/EC), Trade Secrets Directive (EU) 2016/943, e-Commerce Directive (2000/31/EC), and Law Enforcement Directive (EU) 2016/680.",
+  "provisions": [
+    {
+      "provision_ref": "xref1",
+      "section": "1",
+      "title": "GDPR Implementation",
+      "content": "Estonia implements the General Data Protection Regulation (EU) 2016/679 through the Personal Data Protection Act (Isikuandmete kaitse seadus, IKS). The IKS provides supplementary provisions including: the age of consent for information society services (13 years), the supervisory authority (Data Protection Inspectorate), administrative fines for public bodies (max 20,000 EUR), and criminal penalties for serious data protection violations. The GDPR is directly applicable and the IKS fills the margins of discretion left to Member States."
+    },
+    {
+      "provision_ref": "xref2",
+      "section": "2",
+      "title": "NIS2 Transposition",
+      "content": "Estonia transposes Directive (EU) 2022/2555 (NIS2) through the Cybersecurity Act (Küberturvalisuse seadus). The transposition designates the Information System Authority (RIA) as the national competent authority and CSIRT, establishes cybersecurity risk management requirements for essential and important entities, and sets incident reporting timelines (24h early warning, 72h notification, 1 month final report). Administrative fines up to 10M EUR or 2% turnover for essential entities."
+    },
+    {
+      "provision_ref": "xref3",
+      "section": "3",
+      "title": "eIDAS Implementation",
+      "content": "Estonia implements Regulation (EU) No 910/2014 (eIDAS) through the Electronic Identification and Trust Services Act and the Digital Signatures Act. Estonia's electronic identification schemes (ID-card, Mobile-ID, Smart-ID) are notified under Article 9 of eIDAS. RIA serves as the supervisory body for trust services and maintains the national trusted list. Estonia's digital signature infrastructure predates eIDAS and has been aligned with the Regulation."
+    },
+    {
+      "provision_ref": "xref4",
+      "section": "4",
+      "title": "e-Privacy Directive Implementation",
+      "content": "Estonia implements Directive 2002/58/EC (e-Privacy Directive) through the Electronic Communications Act (Elektroonilise side seadus). The implementation covers: confidentiality of communications, traffic and location data processing rules, cookie consent requirements, unsolicited communications (opt-in for electronic marketing), data retention obligations for law enforcement purposes (one year), and calling line identification."
+    },
+    {
+      "provision_ref": "xref5",
+      "section": "5",
+      "title": "Trade Secrets Directive Transposition",
+      "content": "Estonia transposes Directive (EU) 2016/943 through the Trade Secrets Protection Act (Ärisaladuse kaitse seadus). The transposition provides: the three-part definition of trade secrets, rules on lawful and unlawful acquisition/use/disclosure, whistleblower protection exception, preservation of confidentiality in judicial proceedings, remedies (injunctions, damages, corrective measures), and a three-year limitation period."
+    },
+    {
+      "provision_ref": "xref6",
+      "section": "6",
+      "title": "e-Commerce Directive Implementation",
+      "content": "Estonia implements Directive 2000/31/EC (e-Commerce Directive) through the Information Society Services Act (Infoühiskonna teenuse seadus). The implementation covers: the country of origin principle, service provider information requirements, rules on electronic contracts, intermediary liability exemptions (mere conduit, caching, hosting), the prohibition on general monitoring obligations, and notice-and-takedown procedures."
+    },
+    {
+      "provision_ref": "xref7",
+      "section": "7",
+      "title": "Law Enforcement Directive Implementation",
+      "content": "Estonia implements Directive (EU) 2016/680 (Law Enforcement Directive) through provisions in the Personal Data Protection Act (IKS). The implementation covers the processing of personal data for the purposes of prevention, investigation, detection, or prosecution of criminal offences, including data subject rights in criminal proceedings, transfer restrictions, and supervisory authority oversight by the Data Protection Inspectorate."
+    }
+  ]
+}
