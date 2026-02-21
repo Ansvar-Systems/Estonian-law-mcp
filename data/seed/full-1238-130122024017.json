@@ -1,0 +1,603 @@
+{
+  "id": "ee-law-130122024017",
+  "type": "statute",
+  "title": "Ruumiandmete seadus",
+  "title_en": "Ruumiandmete seadus",
+  "short_name": "RAS",
+  "status": "in_force",
+  "issued_date": "2011-02-17",
+  "in_force_date": "2025-01-01",
+  "url": "https://www.riigiteataja.ee/akt/130122024017.xml",
+  "description": "Official consolidated statute text (Ruumiandmete seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab nõuded ruumiandmekogumite ja -teenuste kohta nende kättesaadavaks tegemiseks ja jagamiseks, geodeetilise süsteemi ja aadressiandmete süsteemi haldamise ning topograafiliste andmete hõive ja kasutusse andmise tingimused, ruumiandmete infrastruktuuri väljaarendamise koordineerimise ja aruandluse korralduse, haldusjärelevalve koha-aadresside määramise üle ning vastutuse geodeetilise märgi kaitse nõuete rikkumise eest.\n(2) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi.\n(3)"
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Seaduse kohaldamine",
+      "content": "(1) Käesolevas seaduses sätestatud nõudeid kohaldatakse:\n1) nendesse ruumiandmevaldkondadesse kuuluvate elektrooniliste ruumiandmekogumite ja nendega seotud ruumiandmeteenuste suhtes, mida Euroopa Parlamendi ja nõukogu direktiiv 2007/2/EÜ, millega rajatakse Euroopa Ühenduse ruumiandmete infrastruktuur INSPIRE (ELT L 108, 25.04.2007, lk 1–14) (edaspidi INSPIRE direktiiv ), loetleb lisades;\n2) ruumiandmeid töötleva avaliku teabe seaduse §-s 5 nimetatud teabevaldaja (edaspidi teabevaldaja ) suhtes.\n(2) Kohaliku omavalitsuse üksuste suhtes kohaldatakse käesoleva seaduse §-des 10–13, 15, 17 ja 19, § 20 lõigetes 5–8, §-des 78 ja 81–83 sätestatut juhul, kui nende ruumiandmekogumite pidamise või ruumiandmeteenuste osutamise kohustus tuleneb seadusest.\n(3) Käesolevas seaduses sätestatut kohaldatakse ka Eesti majandusvööndis.\n(4) Kui eri teabevaldajate valduses on samade ruumiandmekogumite koopiaid, kohaldatakse käesolevat seadust üksnes selle ruumiandmekogumi suhtes, kuhu neid ruumiandmeid kogutakse põhiandmetena.\n(5) Kui ruumiandmete ja ruumiandmekogumite intellektuaalse omandi õigus kuulub kolmandale isikule, kohaldatakse käesolevat seadust üksnes selle kolmanda isiku nõusolekul."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Ruumiandmed, ruumiandmekogum ja ruumiobjekt",
+      "content": "(1) Ruumiandmed käesoleva seaduse tähenduses on andmed, mis otseselt või kaudselt osutavad konkreetsele asukohale või geograafilisele alale, sealhulgas andmekogudes hallatavad andmed, mis kirjeldavad ruumiobjektide asukohta, omadusi ja kuju geograafilises ruumis.\n(2) Ruumiandmekogum käesoleva seaduse tähenduses on ruumiandmete selgelt piiritletav kogum, sealhulgas andmekogu, mille koosseisus töödeldakse ruumiandmeid, või selle andmekogu osa.\n(3) Ruumiobjekt käesoleva seaduse tähenduses on konkreetse asukoha või geograafilise alaga seotud reaalmaailma nähtuse abstraktne kujutis. Ruumiobjekti geomeetriline kuju on ruumiobjekti ruumikuju.\n(4) Sõltuvalt reaalmaailma nähtuste defineerimise erinevast detailsusest, ruumiobjekti määramise täpsusest ja metoodikast ning ruumiobjekti kujutamise viisist ei ole eri moel defineeritud ja määratud samade nähtuste ruumiobjekti andmete korral tegu ühtede ja samade andmetega avaliku teabe seaduse § 43^3 lõike 2 tähenduses."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Ruumiandmete töötlemine ja hõive",
+      "content": "(1) Ruumiandmete töötlemine käesoleva seaduse tähenduses on iga ruumiandmetega tehtav toiming.\n(2) Ruumiandmete hõive on ruumiandmete kogumine ja salvestamine ning uusi ruumiandmeid tekitav ruumiandmete korrastamine, muutmine ja ühendamine või mitu eelnimetatud toimingut, sõltumata toimingute teostamise viisist ja kasutatavatest vahenditest."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5",
+      "title": "§ 5. Ruumiandmete infrastruktuur",
+      "content": "(1) Ruumiandmete infrastruktuur käesoleva seaduse tähenduses on organisatsiooniliste, tehniliste ja õiguslike vahendite raamistik, mis koosneb ruumiandmetest ja ruumiandmekogumitest, nende metaandmetest, võrguteenustest ja -tehnoloogiatest, andmete jagamise, neile juurdepääsu ja nende kasutamise tingimustest ning kokkulepetest, koordinatsiooni- ja järelevalvemehhanismidest, haldamise protsessidest ja menetlustest.\n(2) Ruumiandmete infrastruktuuri põhikomponendid on riigi geodeetiline süsteem ja aadressiandmete süsteem ning Eesti topograafia andmekogu andmed."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "6",
+      "title": "§ 6. Ruumiandmeteenused",
+      "content": "Ruumiandmeteenused käesoleva seaduse tähenduses on toimingud, mida võib arvutirakenduse abil ruumiandmekogumitesse kuuluvate ruumiandmetega või nendega seotud metaandmetega teha."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "7",
+      "title": "§ 7. Metaandmed",
+      "content": "Metaandmed käesoleva seaduse tähenduses on teave, mis kirjeldab ruumiandmekogumeid ja ruumiandmeteenuseid ning võimaldab neid leida, vaadelda ja kasutada."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "8",
+      "title": "§ 8. Koostalitlusvõime",
+      "content": "Koostalitlusvõime käesoleva seaduse tähenduses on eri andmekogude võime vahetada andmeid ning ruumiandmekogumite ühendamise ja ruumiandmeteenuste koostoimimise võimalikkus ilma korduva manuaalse sekkumiseta selliselt, et tulemus on ühtne ning andmekogumite ja -teenuste lisaväärtus suureneb."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - Üldnõuded ruumiandmekogumite ja -teenuste kohta",
+      "section": "9",
+      "title": "§ 9. Ruumiandmekogumite andmete avalikustamine",
+      "content": "Teabevaldajad avalikustavad ruumiandmekogumite andmed võrguteenuste kaudu käesolevas seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - Üldnõuded ruumiandmekogumite ja -teenuste kohta",
+      "section": "10",
+      "title": "§ 10. Metaandmete koostamine ja haldamine",
+      "content": "(1) Teabevaldajad koostavad enda peetavate ruumiandmekogumite ja osutatavate teenuste kirjeldamiseks metaandmed, kannavad need Eesti geoportaali infosüsteemi ja ajakohastavad neid.\n(2) Metaandmed koostatakse ja neid hallatakse vastavalt Euroopa Komisjoni määrusele (EÜ) nr 1205/2008, millega rakendatakse Euroopa Parlamendi ja nõukogu direktiivi 2007/2/EÜ seoses metaandmetega (ELT L 326, 04.12.2008, lk 12–30)."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - Üldnõuded ruumiandmekogumite ja -teenuste kohta",
+      "section": "11",
+      "title": "§ 11. Ruumiandmekogumite ja -teenuste koostalitlusvõime",
+      "content": "(1) Teabevaldajate ruumiandmekogud kuuluvad riigi infosüsteemi.\n(2) Koostalitlusvõimelised ruumiandmekogumid ja -teenused tehakse teistele teabevaldajatele õigusaktidega pandud ülesannete täitmiseks kättesaadavaks.\n(3) Kui käesoleva paragrahvi lõikes 2 nimetatud ruumiandmekogumite ja -teenuste kättesaadavaks tegemisel peab õigusaktidest tulenevalt tagama andmevahetuse ning teenuste koostoimimise turvalisuse ja tõestusväärtuse, tehakse need kättesaadavaks riigi infosüsteemide andmevahetuskihi vahendusel.\n(4) Üle Eesti Vabariigi ja Euroopa Liidu muu liikmesriigi vahelise piiri ulatuva ruumiobjekti ruumiandmete sidususe tagamiseks otsustatakse sellise ruumiobjekti kirjeldus ja paiknemine liikmesriikide vastastikusel kokkuleppel.\n(5) INSPIRE direktiivi lisades loetletud ruumiandmevaldkondadesse kuuluvate ruumiandmekogumite ja -teenuste koostalitlusvõime ja ühtlustamise täpsem kirjeldus ruumiobjektide määratluse, liigituse ja georefereerimise viisi osas kehtestatakse Euroopa Liidu rakenduseeskirjadega."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - Võrguteenused",
+      "section": "12",
+      "title": "§ 12. Võrguteenuste loomine",
+      "content": "(1) INSPIRE direktiivi lisades nimetatud ruumiandmevaldkondadesse kuuluvate ruumiandmekogumite ja -teenuste jaoks, mille kohta on koostatud metaandmed, töötavad teabevaldajad välja järgmised võrguteenused:\n1) otsinguteenused, mille abil on võimalik leida ruumiandmekogumeid ja -teenuseid asjakohaste metaandmete sisu järgi ning kuvada metaandmete sisu;\n2) vaatamisteenused, mille abil saab vaadatavaid ruumiandmekogumeid vähemalt kuvada, neis navigeerida, kuva suurendada ja vähendada, panoraamida või teha ülekatteid ning kuvada seletavat teavet või metaandmete mis tahes asjakohast sisu;\n3) allalaadimisteenused, mis võimaldavad ruumiandmekogumite või nende osade koopiaid alla laadida ning võimaluse korral neile otse juurde pääseda;\n4) transformeerimisteenused, mis võimaldavad ruumiandmekogumeid koostalitlusvõime saavutamise eesmärgil teisendada;\n5) teenused, mis võimaldavad kasutusele võtta ruumiandmeteenuseid, sealhulgas teenuseid e-kaubanduse korraldamiseks.\n(2) Transformeerimisteenuseid tuleb kombineerida teiste käesoleva paragrahvi lõikes 1 nimetatud teenustega nii, et kõiki kõnealuseid teenuseid oleks võimalik hallata vastavalt käesoleva seaduse § 11 lõikes 5 nimetatud rakenduseeskirjadele."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - Võrguteenused",
+      "section": "13",
+      "title": "§ 13. Võrguteenuste osutamine",
+      "content": "(1) Teabevaldajad teevad käesoleva seaduse § 12 lõikes 1 nimetatud võrguteenused avalikkusele kättesaadavaks oma veebilehe ja Eesti geoportaali kaudu ning tagavad nende ajakohasuse ja toimivuse.\n(2) Kui käesoleva seaduse § 12 lõikes 1 nimetatud avalikkusele suunatud võrguteenuste osutamisel peab õigusaktidest tulenevalt tagama andmevahetuse ning teenuste koostoimimise turvalisuse ja tõestusväärtuse, osutatakse neid teenuseid riigi infosüsteemide andmevahetuskihi vahendusel.\n(3) Teabevaldaja võib piirata juurdepääsu ruumiandmekogumitele ja -teenustele käesoleva seaduse § 12 lõike 1 punktis 1 nimetatud teenuste kaudu vaid juhul, kui selline juurdepääs kahjustab rahvusvahelisi suhteid, avalikku korda või riigikaitset."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - Võrguteenused",
+      "section": "14",
+      "title": "§ 14. Kolmandate isikute võrguteenuste osutamine",
+      "content": "(1) Kolmandad isikud, kes ei ole teabevaldajad avaliku teabe seaduse tähenduses, võivad osutatavad võrguteenused teha kättesaadavaks Eesti geoportaali kaudu juhul, kui nende peetavad ruumiandmekogumid ja osutatavad ruumiandmeteenused vastavad käesoleva seaduse nõuetele, eelkõige nõuetele, mis käsitlevad metaandmeid, koostalitlusvõimet ja võrguteenuseid.\n(2) Kolmandate isikute osutatavate võrguteenuste kättesaadavaks tegemiseks Eesti geoportaali kaudu esitab isik taotluse geoportaali infosüsteemi haldajale."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - Võrguteenused",
+      "section": "15",
+      "title": "§ 15. Nõuded võrguteenustele",
+      "content": "Teabevaldajad loovad ja haldavad võrguteenuseid vastavalt Euroopa Komisjoni määrusele (EÜ) nr 976/2009, millega rakendatakse Euroopa Parlamendi ja nõukogu direktiivi 2007/2/EÜ seoses võrguteenustega (ELT L 274, 20.10.2009, lk 9–18)."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "4. peatükk - Eesti geoportaal",
+      "section": "16",
+      "title": "§ 16. Eesti geoportaal",
+      "content": "(1) Eesti geoportaal on veebileht, mis võimaldab internetikeskkonnas keskset juurdepääsu ruumiandmetele ning nendega seotud teabele ja teenustele.\n(2) Geoportaali infosüsteemi haldamise ja arendamise tagab Maa- ja Ruumiamet.\n(3) Eesti geoportaali ja selle infosüsteemi haldamise, arendamise ja kasutamise ning selle kaudu teabe kättesaadavaks tegemise nõuded ja korra kehtestab Vabariigi Valitsus määrusega.\n(4) Eesti geoportaali infosüsteemi vastutav töötleja ja volitatud töötleja määratakse käesoleva paragrahvi lõikes 3 nimetatud Vabariigi Valitsuse määrusega."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "4. peatükk - Eesti geoportaal",
+      "section": "17",
+      "title": "§ 17. Ruumiandmekogumite ja -teenuste liidestamine geoportaaliga",
+      "content": "(1) INSPIRE direktiivi lisades loetletud ruumiandmevaldkondadesse kuuluvate ruumiandmekogumite ja -teenustega seotud võrguteenused teeb teabevaldaja Eesti geoportaali kaudu kättesaadavaks kas riigi infosüsteemide andmevahetuskihi kaudu või vahetult.\n(2) Ruumiandmekogumeid ja -teenuseid, mis ei kuulu INSPIRE direktiivi lisades loetletud ruumiandmevaldkondadesse, võib Eesti geoportaali kaudu kättesaadavaks teha juhul, kui nende ruumiandmekogumite ja -teenustega seotud võrguteenused vastavad käesoleva seadusega kehtestatud nõuetele, eelkõige metaandmete, koostalitlusvõime ja võrguteenuste kohta kehtestatud nõuetele."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "4. peatükk - Eesti geoportaal",
+      "section": "18",
+      "title": "§ 18. Ruumiandmekogumite ja -teenuste kättesaadavaks tegemine Euroopa Liidu geoportaalile",
+      "content": "Eesti geoportaali haldaja tagab Eesti geoportaaliga liidestatud ruumiandmekogumite ja -teenustega seotud võrguteenuste kättesaadavaks tegemise Euroopa Liidu INSPIRE geoportaalile."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "5. peatükk - Ruumiandmekogumite ja -teenuste kättesaadavaks tegemine ning nende jagamine teabevaldajate ja Euroopa Liidu institutsioonide ning organitega",
+      "section": "19",
+      "title": "§ 19. Ruumiandmekogumite ja -teenuste tasuta kättesaadavaks tegemine",
+      "content": "(1) Käesoleva seaduse § 12 lõike 1 punktides 1 ja 2 sätestatud võrguteenused on avalikkusele tasuta kättesaadavad.\n(2) Käesoleva seaduse § 12 lõike 1 punktis 2 nimetatud vaatamisteenuste kaudu kättesaadavad andmed võivad olla kujul, mis takistab nende taaskasutamist kaubanduseesmärgil."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "5. peatükk - Ruumiandmekogumite ja -teenuste kättesaadavaks tegemine ning nende jagamine teabevaldajate ja Euroopa Liidu institutsioonide ning organitega",
+      "section": "20",
+      "title": "§ 20. Ruumiandmekogumite ja -teenuste jagamine teabevaldajate ning Euroopa Liidu institutsioonide ja organitega",
+      "content": "(1) Teabevaldajale õigusaktide ja rahvusvaheliste lepingutega pandud kohustuste täitmiseks peavad ruumiandmekogumite andmed ja ruumiandmekogumite teenused olema talle tasuta kättesaadavad.\n(2) Teabevaldajad võivad tasuta saadud andmeid kolmandale isikule edasi anda üksnes seaduses sätestatud juhtudel või tulenevalt litsentsi- või muudest lepingutest.\n(3) Tasu maksmise kohustuse puudumine andmete kättesaadavaks tegemise eest ei välista õigusaktidest, litsentsi- või muudest lepingutest tulenevate nõuete rakendamist teabevaldajate suhtes ruumiandmekogumite ja -teenuste kasutamise korral, tingimusel et sellised nõuded aitavad kaasa ruumiandmekogumite ja -teenuste jagamisele teabevaldajate vahel.\n(4) Ruumiandmekogumite ja -teenuste jagamise tingimused ja korra võib kehtestada määrusega minister, kelle juhitava ministeeriumi valitsemisalasse kuulub asjaomase ruumiandmekogumi pidamine ja -teenuste osutamine, ja valla- või linnavolikogu või tema volitusel valla- või linnavalitsus määrusega juhul, kui ruumiandmekogumi pidamine ja -teenuste osutamine on selle kohaliku omavalitsuse üksuse pädevuses.\n(5) Käesoleva paragrahvi lõigetes 1–4 sätestatu kehtib ka teiste Euroopa Liidu liikmesriikide avaliku võimu kandjate ning Euroopa Liidu institutsioonide ja organite kohta selliste avalik-õiguslike ülesannete täitmiseks, mis võivad mõjutada keskkonda.\n(6) Käesoleva paragrahvi lõigetes 1–4 sätestatu kehtib ka vastastikusel ja võrdsel alusel organite kohta, mis on asutatud rahvusvaheliste kokkulepetega, mille osalised Euroopa Liit või liikmesriigid on, selliste ülesannete täitmiseks, mis võivad mõjutada keskkonda.\n(7) Kui ruumiandmekogumid ja -teenused on tehtud kättesaadavaks vastavalt käesoleva paragrahvi lõigetele 5 ja 6, ei välista see käesoleva paragrahvi lõigetes 3 ja 4 sätestatud nõuete rakendamist.\n(8) Võimaldades Euroopa Liidu institutsioonidele ja organitele juurdepääsu ruumiandmekogumitele ja -teenustele, järgivad teabevaldajad Euroopa Komisjoni määrust (EL) nr 268/2010, millega rakendatakse Euroopa Parlamendi ja nõukogu direktiivi 2007/2/EÜ seoses ühenduse institutsioonide ja asutuste juurdepääsuga liikmesriikide ruumiandmekogumitele ja -teenustele ühtlustatud tingimustel (ELT L 83, 30.03.2010, lk 8–9)."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "21",
+      "title": "§ 21. Geodeetiline süsteem",
+      "content": "(1) Geodeetiline süsteem on organisatsiooniliste, tehniliste ja õiguslike vahendite raamistik, mis tagab ühtses koordinaat- ja kõrgussüsteemis reaalmaailma nähtuste asukoha määramise, raskuskiirenduse väärtuse määramise ning geodeetiliste tööde tegemise ühtse korralduse.\n(2) Geodeetiline süsteem on ruumiandmete infrastruktuuri alus, mis kindlustab andmekogude pidamist."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "22",
+      "title": "§ 22. Geodeetiline punkt ja võrk",
+      "content": "(1) Geodeetiline punkt on kohtkindlalt paigaldatud geodeetilise märgi asukoht maapinnal, pinnases või ehitisel, millele on arvutatud koordinaadid ning vajaduse korral arvutatud kõrgused ja määratud raskuskiirenduse väärtus.\n(2) Geodeetiline võrk on ühtsesse geodeetilisse süsteemi kuuluvate geodeetiliste punktide kogum."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "23",
+      "title": "§ 23. Geodeetiliste märkide paigaldamine ja kasutamine",
+      "content": "(1) Kinnisasja omanik peab lubama paigaldada kinnisasjale maapinnale ja maapõue ning kinnisasjal asuvale ehitisele geodeetilisi märke, kui nende paigaldamiseks puudub muu tehniliselt või majanduslikult otstarbekam võimalus.\n(2) Kinnisasjale seaduslikul alusel paigaldatud geodeetilised märgid ei ole maatüki olulised osad tsiviilseadustiku üldosa seaduse § 54 lõike 1 tähenduses.\n(3) Riiklike geodeetiliste tööde käigus paigaldatud geodeetiliste märkide omanik on Eesti Vabariik, kohalike geodeetiliste tööde käigus paigaldatud geodeetiliste märkide omanik on kohaliku omavalitsuse üksus.\n(4) Kinnisasja omanik peab lubama teostada geodeetilise märgi mõõtmis- ja hooldustöid ning tagama juurdepääsu märgile. Kui kinnisasjal asuv geodeetiline märk on kahjustatud või hävinud, peab kinnisasja omanik sellest viivitamata teavitama asukohajärgset valla- või linnavalitsust. Kui kahjustatud või hävinud geodeetiline märk kuulub riigile, peab valla- või linnavalitsus teavitama sellest Maa- ja Ruumiametit.\n(5) Geodeetilise märgi paigaldamine ehitisele ei tohi oluliselt kahjustada ehitise välisilmet ega takistada ehitise sihipärast kasutamist.\n(6) Geodeetilise märgi paigaldamisel tekkivaks kahjuks ei loeta talumiskohustuse tekkimisest tingitud kinnisasja väärtuse vähenemist.\n(7) Geodeetiliste tööde tegemiseks võib kinnisasjale paigaldada ajutisi märke ja markeeringuid ilma kinnisasja omaniku nõusolekuta. Pärast tööde lõpetamist on tööde teostaja kohustatud ajutised märgid ja markeeringud kõrvaldama."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "24",
+      "title": "§ 24. Geodeetilise märgi kõrvaldamine ja teisaldamine",
+      "content": "(1) Kui geodeetiline märk ei võimalda kinnisasja planeeringu- või sihtotstarbekohast kasutamist, võib kinnisasja omanik esitada märgi omanikule taotluse selle kõrvaldamiseks või teisaldamiseks.\n(2) Geodeetiline märk kõrvaldatakse või teisaldatakse märgi omaniku nõusolekul taotleja kulul."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "25",
+      "title": "§ 25. Geodeetiliste märkide kaitse",
+      "content": "Geodeetilise märgi kaitsevöönd on geodeetilist märki ümbritsev ala, kus geodeetilise märgi kaitse ja kasutamise vajadusest tulenevalt kitsendatakse inimtegevust."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "26",
+      "title": "§ 26. Tegevuse korraldamine geodeetilise märgi kaitsevööndis",
+      "content": "(1) Geodeetilise märgi kaitsevööndis on geodeetilise märgi omaniku loata keelatud igasugune tegevus, mis võib kahjustada geodeetilist märki ja selle tähistust, takistada sellele juurdepääsu või sellega seotud mõõtmisi, eelkõige:\n1) ehitamine, mis tahes mäe-, laadimis-, süvendus-, lõhkamis- ja maaparandustööde tegemine, puude ja põõsaste istutamine, puude langetamine, jäätmete ladestamine ning oma tegevusega geodeetilise märgi korrosiooni põhjustamine;\n2) pinnases paikneva geodeetilise märgi kaitsevööndis löökmehhanismidega töötamine, pinnase tihendamine või tasandamine, transpordivahenditele ja mehhanismidele läbisõidukohtade rajamine ning künni- või mullatööde tegemine.\n(2) Geodeetilise märgi kaitsevööndis tegutsemiseks loa saamiseks esitab huvitatud isik märgi omanikule taotluse. Loa andmise otsustab märgi omanik hiljemalt 30 päeva jooksul taotluse saamisest arvates.\n(3) Geodeetiliste märkide tähistamise korra, kaitsevööndi ulatuse ning kaitsevööndis tegutsemiseks loa taotlemise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "27",
+      "title": "§ 27. Geodeetiliste märkide tähistamine",
+      "content": "(1) Geodeetilise märgi asukoha leidmiseks ja märgist lähtuvate piirangute tajumise hõlbustamiseks on märgi omanik kohustatud tähistama märgi asukoha.\n(2) Geodeetilise märgi tähis on geodeetilise märgiga lahutamatult seotud ning seda loetakse geodeetilise märgi koostisosaks."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "28",
+      "title": "§ 28. Geodeetiliste võrkude klassifikatsioon",
+      "content": "(1) Riiklikud geodeetilised võrgud jaotatakse mõõtmise täpsuse, geodeetiliste märkide kindlustatuse ning võrgu hierarhilise ülesehituse alusel klassidesse. Kohalikud võrgud jaotatakse järkudesse.\n(2) Geodeetiliste võrkude parameetrid ja kirjeldused sätestatakse geodeetilise süsteemi kehtestamisega."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "29",
+      "title": "§ 29. Geodeetilise süsteemi koosseis",
+      "content": "(1) Geodeetilise süsteemi koosseisu kuuluvad geodeetiline referentssüsteem, tasapinnaline ristkoordinaatide süsteem, kõrgussüsteem, gravimeetriline süsteem ja nendele vastavad geodeetilised võrgud.\n(2)"
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "30",
+      "title": "§ 30. Geodeetilise süsteemi kasutamine",
+      "content": "(1) Geodeetilise süsteemi kasutamine on kohustuslik:\n1) teabevaldajate andmekogude pidamisel ja ruumiandmeteenuste osutamisel;\n2) geodeetiliste andmete töötlemisel, kui neid andmeid kasutatakse teabevaldajate andmekogudes.\n(2) Geodeetilise süsteemi kasutamise kohustuse suhtes võib teha avaliku teabe seadusega ettenähtud korras erandi rahvusvahelisest lepingust tulenevate ülesannete täitmiseks asutatud andmekogule."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "31",
+      "title": "§ 31. Geodeetilise süsteemi haldaja",
+      "content": "Geodeetilise süsteemi haldaja on Maa- ja Ruumiamet."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "32",
+      "title": "§ 32. Geodeetilise süsteemi kehtestamine",
+      "content": "Geodeetilise süsteemi kehtestab Vabariigi Valitsus määrusega. Vabariigi Valitsus võib geodeetilise süsteemi kehtestamise õiguse anda asjaomasele ministrile."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "33",
+      "title": "§ 33. Geodeetilised tööd",
+      "content": "(1) Geodeetilised tööd käesoleva seaduse tähenduses on geodeetiliste punktide ja võrkude rajamine, rekonstrueerimine, mõõtmine ja hooldamine ning sellega seotud geodeetiliste andmete töötlemine.\n(2) Geodeetiliste tööde tulemusena rajatakse riiklik geodeetiline võrk, kõrgusvõrk, gravimeetriline võrk, Eesti globaalse positsioneerimise püsijaamade referentsvõrk ning vajaduse korral nendele vastavad kohalikud võrgud."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "34",
+      "title": "§ 34. Geodeetiliste tööde teostamise korraldamine",
+      "content": "(1) Riiklike geodeetiliste tööde teostamist korraldab Maa- ja Ruumiamet.\n(2) Kohalikke geodeetilisi töid korraldatakse valla- või linnavolikogu või tema volitusel valla- või linnavalitsuse määrusega kehtestatud korras.\n(3) Kohalike geodeetiliste võrkude rajamine tugineb riiklikele geodeetilistele võrkudele ning täiendab ja tihendab neid kohaliku omavalitsuse üksuse haldusterritooriumil. Kohalike geodeetiliste tööde käigus rajatavad geodeetilised punktid ja võrgud seotakse riigi geodeetilise süsteemiga, punktide ja võrkude andmed kantakse geodeetiliste punktide andmekogusse.\n(4) Kohalike geodeetiliste punktide ja võrkude rajamise ning rekonstrueerimise tööd kooskõlastatakse Maa- ja Ruumiametiga vähemalt üks kuu enne tööde algust.\n(5) Geodeetiliste tööde teostamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud korras sätestatakse riiklike geodeetiliste tööde teostamise, kohalike geodeetiliste tööde kooskõlastamise ning kohalike geodeetiliste punktide ja võrkude riigi geodeetilise süsteemiga sidumise korraldus."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "35",
+      "title": "§ 35. Nõuded geodeetiliste tööde teostajale",
+      "content": "(1) Geodeetilisi punkte ja võrke võib rajada, rekonstrueerida, mõõta ning hooldada isik, kellel on geodeedi kutse, mis vastab vähemalt kutseseadusega sätestatud kvalifikatsiooniraamistiku 7. tasemele kõrgema geodeesia valdkonnas. Kohaliku omavalitsuse üksus võib lubada teha kohalikke geodeetilisi töid ka isikul, kellel on geodeedi kutse, mis vastab kvalifikatsiooniraamistiku 6. tasemele kõrgema geodeesia valdkonnas.\n(2) Kui geodeetilisi punkte ja võrke rajab, rekonstrueerib, mõõdab ning hooldab ettevõtja, peab tal olema asjaomane õigussuhe käesoleva paragrahvi lõikes 1 nimetatud isikuga, füüsilisest isikust ettevõtjal peab olema käesoleva paragrahvi lõikes 1 nimetatud geodeedi kutse."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "36",
+      "title": "§ 36. Geodeetiliste punktide andmekogu",
+      "content": "(1) Geodeetiliste punktide andmekogu (edaspidi GPA ) on riigi infosüsteemi kuuluv andmekogu, kuhu kantakse andmed geodeetiliste tööde, geodeetiliste võrkude, geodeetiliste punktide ja märkide kohta, geodeetiliste võrkude mõõtmisandmed ning andmed nende teisenduste kohta.\n(2) GPA asutab ja selle põhimääruse kehtestab Vabariigi Valitsus määrusega.\n(3) GPA vastutav töötleja ja volitatud töötleja määratakse GPA põhimäärusega."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "37",
+      "title": "§ 37. GPA-le andmete esitamine",
+      "content": "Geodeetiliste tööde teostaja on kohustatud esitama GPA vastutavale töötlejale registreerimiseks geodeetiliste tööde andmed, sealhulgas vähemalt: 1 1) andmed tööde tegija ja tööde tegemise aja kohta;\n2) andmed kasutatud riist- ja tarkvara kohta;\n3) geodeetiliste mõõtmiste käigus kogutud originaalandmed;\n4) originaalandmetest töötlemise käigus saadud teisendused;\n5) geodeetiliste punktide lõppandmed, milleks on muu hulgas koordinaadid ja kõrgused ning raskuskiirenduse väärtused;\n6) geodeetiliste punktide asukohaskeemid."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "6. peatükk - Geodeetilise süsteemi haldamine",
+      "section": "38",
+      "title": "§ 38. GPA andmetele juurdepääsu võimaldamine",
+      "content": "(1) GPA andmed avalikustatakse käesolevas seaduses sätestatud korras Eesti geoportaali kaudu.\n(2) GPA andmed tehakse teabevaldajatele nendele õigusaktidega pandud või rahvusvahelises lepingus sätestatud ülesannete täitmiseks kättesaadavaks, vajaduse korral riigi infosüsteemide andmevahetuskihi kaudu, käesolevas seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "39",
+      "title": "§ 39. Aadressiandmete süsteem",
+      "content": "(1) Aadressiandmete süsteem on organisatsiooniliste, tehniliste ja õiguslike vahendite raamistik, mis tagab aadressiobjektide ühese identifitseerimise nii nende asukohas kui ka eri andmekogudes ning koha-aadresside määramise ja aadressiandmete töötlemise ühtse korralduse.\n(2) Aadressiandmete süsteem on ruumiandmete infrastruktuuri alus ja kindlustab andmekogude pidamist."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "40",
+      "title": "§ 40. Geograafiline aadress, geograafiline aadressiobjekt ja koha-aadress",
+      "content": "(1) Geograafiline aadress (edaspidi aadress ) on objekti asukohta osutav kirje või tunnus objekti leidmiseks geograafilises ruumis.\n(2) Geograafiline aadressiobjekt (edaspidi aadressiobjekt ) on maaga seotud objekt, millele on määratud aadress või millele aadressi määramise kohustus või võimalus tuleneb õigusaktist.\n(3) Koha-aadress on territooriumi haldusjaotuse hierarhiast ja ametlikest kohanimedest lähtuv aadressiobjekti tekstilis-numbriline kirje."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "41",
+      "title": "§ 41. Aadressiandmed",
+      "content": "Aadressiandmed on andmed, mille abil kirjeldatakse aadressiobjekti asukohta ja määratakse see."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "42",
+      "title": "§ 42. Koha-aadressi määramise kohustus",
+      "content": "Maaüksusel maakatastriseaduse tähenduses (edaspidi maaüksus ) ja hoonel peab olema määratud koha-aadress. Hooneosade koha-aadressi peab määrama juhul, kui tegemist on eluruumiga või kui selle eristamine aadressi alusel on vajalik muul põhjusel."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "43",
+      "title": "§ 43. Unikaalaadress",
+      "content": "(1) Unikaalaadress on koha-aadress, mille tekstilis-numbriline kuju on samaliigiliste unikaalaadressi nõudvate aadressiobjektide seas ainulaadne. Mitmel sama liiki unikaalaadressi nõudval aadressiobjektil, samal maaüksusel paiknevatel unikaalaadressi nõudvatel hoonetel ja samas hoones asuvatel hooneosadel ei või olla sama koha-aadress.\n(2) Unikaalaadressi nõudvad aadressiobjektid on:\n1) elu- või ühiskondlik hoone;\n2) hooned, milles on eluruume ehk kortereid ja muid aadressi alusel eristamist vajavaid hooneosi;\n3) juriidiliste isikute asukohahooned;\n4) hooned, milles asuvad universaalse postiteenuse osutamise juurdepääsupunktid ning eelnimetatud hoonete osad;\n5) aadressiandmete süsteemi infosüsteemi (edaspidi ADS-i infosüsteem ) vastutava töötleja määratud unikaalaadressi nõudega aladel (edaspidi unikaalaadressi nõudega ala ) asuvad maaüksused;\n6) maaüksused, mille koha-aadress sisaldab aadressikoha nime;\n7) korterid ja muud aadressi alusel eristamist vajavad hooneosad.\n(3) ADS-i infosüsteemi vastutaval töötlejal on õigus määrata unikaalaadressi nõudega alasid, lähtudes käesoleva seaduse § 48 lõikes 1 sätestatud leitavuse põhimõttest ning arvestades olemasolevate ja planeeritavate hoonete maastikul paiknemise tihedust või piirkonna kultuurilist eripära."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "44",
+      "title": "§ 44. Aadressikoht",
+      "content": "Aadressikoht on: 1 1) ehitusseadustiku tähenduses tee (edaspidi liikluspind ), mille nime kasutatakse teiste aadressiobjektide aadressis; aadressikoha nime võib määrata ka teelõigule;\n2) asulast väiksem maa-ala (edaspidi väikekoht ), mille nime kasutatakse teiste aadressiobjektide aadressis. Väikekohas asuv tee võib olla kasutuses iseseisva aadressikohana liikluspinna tähenduses."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "45",
+      "title": "§ 45. Koha-aadressi struktuur",
+      "content": "Koha-aadressi struktuurielemendid on: 1 1) maakonna nimi;\n2) omavalitsusüksuse nimi;\n3) asula nimi, kui asula ei ole samades piirides haldusüksus või linnaosa nimi, kui linnaosa on moodustatud enne 2016. aasta 1. juunit;\n4) väikekoha nimi;\n5) liikluspinna nimi;\n6) aadressiobjekti nimi;\n7) aadressiobjektiks oleva maaüksuse või hoone number (edaspidi aadressinumber ) ja sellele vajaduse korral lisatav eristav number või täht (edaspidi tähtlisand );\n8) korteri või muu hooneosa number ja sellele vajaduse korral lisatav eristav number või tähtlisand."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "46",
+      "title": "§ 46. Lähiaadress ja erilisand",
+      "content": "(1) Käesoleva seaduse § 45 punktides 4–8 nimetatud elemendid on aadressiobjekti lähiaadressi elemendid.\n(2) Erilisand on lähiaadressi osa, mis koosneb käesoleva seaduse § 45 punktides 7 ja 8 nimetatud elementidest. Lähiaadress ei või koosneda ainult erilisandist."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "47",
+      "title": "§ 47. Paralleelaadress",
+      "content": "Ühele aadressiobjektile võib olla määratud mitu koha-aadressi, mis on üksteise suhtes võrdsed paralleelaadressid."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "48",
+      "title": "§ 48. Koha-aadressi määramise üldnõuded",
+      "content": "(1) Koha-aadress peab tagama objekti leidmise geograafilises ruumis, olema minimaalselt vajaliku pikkusega, vastama kultuuritavadele ja keelenõuetele ning olema kooskõlas aadressiandmete süsteemiga.\n(2) Unikaalaadressi nõudega alal, samuti aadressikoha olemasolul nii unikaalaadressi nõudega alal kui ka väljaspool seda määratakse hoonete, aadressi vajavate hooneosade ja hoonestatud või hoonestatavate maaüksuste lähiaadressid piirkonniti sama aadressikoha järgi, kasutades ühte järgmistest lähiaadressi määramise viisidest:\n1) liikluspinna nimi, millele lisatakse erilisand;\n2) väikekoha olemasolul väikekoha nimi, millele lisatakse erilisand;\n3) kui väikekoht sisaldab liikluspinda, siis väikekoha nimi ja liikluspinna nimi, millele lisatakse erilisand.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud aadressiobjektidele, välja arvatud hooneosadele, võib paralleelaadressina määrata lähiaadressiks ka aadressiobjekti nime.\n(4) Unikaalaadressi nõudvate aadressiobjektide korral on lähiaadressi määramine kohustuslik.\n(5) Väljaspool unikaalaadressi nõudega ala võib lähiaadressi jätta määramata, kui tegemist ei ole unikaalaadressi nõudva aadressiobjektiga.\n(6) Liikluspinna järgi määratavates lähiaadressides kasutatavad aadressinumbrid määratakse viisil, mille kohaselt ühel pool liikluspinda kõrvuti asetsevatel maaüksustel või järjestikku paiknevatel hoonetel on paaritud numbrid ja teisel pool liikluspinda asetsevatel maaüksustel või järjestikku paiknevatel hoonetel on paarisnumbrid. Väljakute ja platside ääres järjestikku paiknevate maaüksuste ja hoonete korral võib kasutada järjestikuseid numbreid."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "49",
+      "title": "§ 49. Kohanimede kasutamine koha-aadressis",
+      "content": "(1) Eesti haldus- ja asustusüksuste nimede esitamisel koha-aadressis kasutatakse Eesti haldus- ja asustusjaotuse klassifikaatoris esinevat nimekuju seda lühendamata.\n(2) Koha-aadressis kasutatavad kohanimed on ainult ametlikud kohanimed kohanimeseaduse tähenduses."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "50",
+      "title": "§ 50. Maaüksuse koha-aadress",
+      "content": "(1) Maaüksuse koha-aadress koosneb:\n1) maakonna nimest;\n2) omavalitsusüksuse nimest;\n3) asula nimest, kui asula ei jaotu linnaosadeks, mis on moodustatud enne 2016. aasta 1. juunit, või linnaosa nimest, kui linnaosa on moodustatud enne 2016. aasta 1. juunit;\n4) lähiaadressist.\n(2) Kui maaüksus moodustatakse pärast sellel maaüksusel asuvale hoonele koha-aadressi määramist, määratakse maaüksuse koha-aadress hoone koha-aadressi järgi.\n(3) Kui maaüksuse lähiaadressi esitamine on nõutav aadressiandmete süsteemist tulenevalt või kui selle esitamist peetakse vajalikuks aadressiobjekti identifitseerimisel, on maaüksuse lähiaadress kas maaüksuse nimi või esitatakse lähiaadress ühel käesoleva seaduse § 48 lõike 2 punktides 1–3 sätestatud viisil.\n(4) Maaüksuse koha-aadressis ei esitata korterinumbreid ega teisi hooneosade koha-aadressi erilisandeid.\n(5) Unikaalaadressi nõudega alal asuvale maaüksusele, mis ei ole hoonestatud ja mida ei hoonestata, ning väljaspool unikaalaadressi nõudega ala asuvale maaüksusele võib lähiaadressiks määrata nime. Nime võib määrata ka maaüksuse paralleelaadressiks. Maaüksusel, välja arvatud transpordimaa sihtotstarbega hoonestamata maaüksusel ja väljaspool unikaalaadressi nõudega ala asuval transpordimaa sihtotstarbega hoonestatud maaüksusel, ei või olla eri paralleelaadressideks mitut nime."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "51",
+      "title": "§ 51. Hoone koha-aadress",
+      "content": "(1) Hoone koha-aadress koosneb hoonealuse maaüksuse koha-aadressi struktuurielementidest ja hoone eristamiseks vajalikest erilisanditest.\n(2) Hoone koha-aadressis ei esitata korterinumbreid ega teisi hooneosade lähiaadressi erilisandeid.\n(3) Kui hoonele määratakse mitu paralleelaadressi, peavad kõik hoone lähiaadressid sisalduma ka maaüksuse koha-aadressis.\n(4) Kui maaüksusel asuvad ainult hooned, mis unikaalaadressi ei nõua, või kui maaüksusel asub ainult üks unikaalaadressi nõudev hoone, siis moodustub kõikide sellel maaüksusel asuvate hoonete koha-aadress ainult selle maaüksuse koha-aadressi struktuurielementidest ja nendele ei lisata erilisandeid.\n(5) Kui maaüksuse koha-aadress koosneb mitmest paralleelaadressist, on lubatud sellel maaüksusel paikneva mitme hoone korral kasutada eri lähiaadresse.\n(6) Kui maaüksusel paikneb mitu unikaalaadressi nõudvat hoonet, siis moodustub hoone koha-aadress selle maaüksuse koha-aadressi struktuurielementidest ja erilisandist, milleks on hoonet eristav number ning vajaduse korral sellele järgnev täht."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "52",
+      "title": "§ 52. Korteri ja muu hooneosa koha-aadress",
+      "content": "(1) Korteri ja muu hooneosa koha-aadress koosneb maaüksuse ja hoone koha-aadressi struktuurielementidest ning korteri või hooneosa eristamiseks vajalikest erilisanditest.\n(2)\n(3)\n(4) Kui hoones on ainult üks unikaalaadressi nõudega hooneosa või kui hooneosad ei nõua unikaalaadressi, ei pea hooneosa koha-aadressi määrama.\n(5)\n(6) Hooneosale ei või määrata paralleelaadressi, välja arvatud käesoleva seaduse § 45 punktis 8 nimetatud struktuurielement."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "53",
+      "title": "§ 53. Aadressitoimingud",
+      "content": "Aadressitoiminguteks on koha-aadressi määramine, muutmine ja kehtetuks tunnistamine ning koha-aadressiga seotud aadressiandmete muutmine."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "54",
+      "title": "§ 54. Koha-aadressi määraja",
+      "content": "(1) Koha-aadressi määraja on linna- või vallavalitsus.\n(2) Koha-aadressi määraja tagab:\n1) oma pädevuses olevate aadressitoimingute tegemise käesoleva seaduse ja aadressiandmete süsteemi nõuete kohaselt;\n2) maaüksuse, sellel asuva hoone ning hooneosa koha-aadressi omavahelise kooskõla;\n3) unikaalaadressi nõudvate aadressiobjektide koha-aadresside ainukordsuse."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "55",
+      "title": "§ 55. Koha-aadressi määramise kord",
+      "content": "(1) Aadressitoimingud ning asjakohased otsused teeb koha-aadressi määraja omal algatusel. Linna- või vallavalitsus võib aadressitoimingud algatada ka riigi- või kohaliku omavalitsuse asutuse ning füüsilise või juriidilise isiku taotluse alusel.\n(2) Eraomandis olevale aadressiobjektile koha-aadressi määramise või selle muutmise kavatsusest teavitab koha-aadressi määraja asjaomast aadressiobjekti omanikku haldusmenetluse seaduse § 25 lõikes 1 sätestatud korras, küsides tema arvamust. Aadressiobjekti omanik peab kirjaliku arvamuse esitama 15 päeva jooksul teate saamisest arvates. Arvamuse tähtajaks esitamata jätmise korral loetakse, et aadressiobjekti omanik on koha-aadressi määramisega või selle muutmisega nõus.\n(2^1) Korteriomandi omanikku võib teavitada koha-aadressi muutmisest korteriühistu kaudu. Kui teavitus on korteriühistule kätte toimetatud, loetakse teavitus kättetoimetatuks korteriomandi omanikule.\n(3) Aadressiobjekti omaniku arvamust ei küsita, kui tema arvamus on tuvastatav aadressitoimingute teostamise menetluse dokumentidest.\n(4) Koha-aadressita maaüksuse koha-aadress tuleb määrata enne linna- või vallavalitsuse haldusakti vastuvõtmist selle aadressiobjekti moodustamise kohta. Hoone, korteri ja muu hooneosa koha-aadress tuleb määrata hiljemalt enne ehitusloa andmist või vahetult pärast ehitusteatise esitamist.\n(5) Kui linna- või vallavalitsus ei määra Eesti topograafia andmekogu poolt tuvastatud olemasolevale hoonele koha-aadressi kolme kuu jooksul hoone olemasolust teadasaamisest arvates, määrab hoone koha-aadressi ADS-i infosüsteemi vastutav töötleja."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "56",
+      "title": "§ 56. Koha-aadressi registreerimine ja jõustumine",
+      "content": "(1) Koha-aadressi määraja esitab uue koha-aadressi registreerimiseks ADS-i infosüsteemi vastutavale töötlejale andmed aadressiobjekti, sellele määratava koha-aadressi ja aadressitoimingu menetluse kohta.\n(2) ADS-i infosüsteemi vastutav töötleja kontrollib registreerimismenetluse käigus koha-aadressi vastavust käesoleva seaduse ja aadressiandmete süsteemi nõuetele. Nõuetele vastavuse korral registreeritakse uus koha-aadress ADS-i infosüsteemis, mille kohta antakse koha-aadressi määrajale ADS-i infosüsteemi vahendusel kinnitus.\n(3) Kui koha-aadress ei vasta käesoleva seaduse ja aadressiandmete süsteemi nõuetele ning eelnimetatud puudused välistavad uue koha-aadressi registreerimise ADS-i infosüsteemis, jätab ADS-i infosüsteemi vastutav töötleja uue koha-aadressi registreerimata ning teavitab puudustest koha-aadressi määrajat. Vajaduse korral määrab ADS-i infosüsteemi vastutav töötleja puuduste kõrvaldamiseks tähtaja.\n(4) Koha-aadress loetakse jõustunuks ja ametlikuks käesoleva paragrahvi lõikes 2 sätestatud kinnituse saamisest arvates."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "57",
+      "title": "§ 57. Koha-aadressi muutmine ja kehtetuks tunnistamine",
+      "content": "(1) Koha-aadressi peab muutma, kui:\n1) koha-aadressi muutmise kohustus tuleneb õigusaktist, sealhulgas muutub haldus- või asustusjaotus või muutuvad koha-aadressis kasutusel olevad kohanimed;\n2) kehtestatud koha-aadress ei ole vastavuses õigusaktides sätestatud nõuetega;\n3) kasutusel olev koha-aadress on eksitav;\n4) muutub aadressiobjekti ulatus.\n(2) Koha-aadressi võib muuta, kui:\n1) aadressiobjekti leidmiseks on otstarbekas kasutada teistsugust koha-aadressi;\n2) aadressiobjekti omanik avaldab selleks soovi.\n(3) Aadressiobjekti koha-aadressi võib tunnistada kehtetuks, kui:\n1) maaüksuse moodustamisest loobutakse;\n2) maaüksus planeerimis- või maakorraldustegevuse käigus kaob;\n3) planeeritava hoone või hooneosa ehitamisest loobutakse;\n4) hoone või hooneosa ehitustegevuse käigus kaob;\n5) hoone või hooneosa on hävinud ning omanik on loobunud selle taastamisest.\n(4) Koha-aadressi muutmise ning kehtetuks tunnistamise esitab koha-aadressi määraja ADS-i infosüsteemi vastutavale töötlejale registreerimiseks. Registreerimismenetlusele kohaldatakse käesoleva seaduse §-s 56 sätestatut. Koha-aadressi muutmine või kehtetuks tunnistamine jõustub kinnituse saamisega käesoleva seaduse § 56 lõikes 2 sätestatud korras.\n(5) Käesoleva paragrahvi lõikes 4 sätestatut kohaldatakse ka siis, kui koha-aadress ei muutu, aga aadressitoimingute käigus muutuvad koha-aadressiga seotud aadressiandmed, sealhulgas andmed, mida koha-aadressi määraja esitas selle koha-aadressi esmasel registreerimisel.\n(6) Aadressiandmete süsteemi ümberkorraldamisel ning haldus- ja asustusjaotuse muutumise korral teeb koha-aadressi muudatused ADS-i infosüsteemi vastutav töötleja. Kokkuleppel koha-aadressi määrajaga võib ADS-i infosüsteemi vastutav töötleja muuta koha-aadressi ka käesoleva paragrahvi lõike 1 punktides 1 ja 2 sätestatud juhul, kui sellega ei kaasne haldusmenetlust.\n(7) Kohanimeseaduse § 13 lõike 6^3 alusel tehtava aadressikoha kohanime muudatuse korral määrab vastavat kohanime sisaldava koha-aadressiga katastriüksusele, hoonele ja hooneosale uue koha-aadressi ADS-i infosüsteemi vastutav töötleja."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "58",
+      "title": "§ 58. Aadressiandmete süsteemi kehtestamine",
+      "content": "(1) Aadressiandmete süsteemi kehtestab Vabariigi Valitsus määrusega. Vabariigi Valitsus võib aadressiandmete süsteemi kehtestamise õiguse anda asjaomasele ministrile.\n(2) Aadressiandmete süsteemi koosseisu kuulub ADS-i infosüsteem.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud määruses sätestatakse:\n1) nõuded selliste nimede määramise ja esitamise kohta, mis koha-aadressis kasutatavate kohanimede hulka ei kuulu, ning kohanimede kasutamise kohta;\n2) paralleelaadresside esitamise nõuded;\n3) nõuded eri liiki aadressiobjektide koha-aadressi esitamisel kasutatavate koha-aadressi struktuurielementide rakendamise ja lähiaadressi esitamise viisi kohta;\n4) nõuded isikunime, tähtlisandi, numbri, eraldaja ja lühendi kasutamise kohta koha-aadressis;\n5) koha-aadressi määramise, muutmise või kehtetuks tunnistamise registreerimiseks esitatavate andmete koosseis ja registreerimismenetluse kord;\n6) ADS-i infosüsteemi vastutav ja volitatud töötleja, nõuded infosüsteemi pidamise kohta, infosüsteemile esitatavate ja sellesse kogutavate andmete koosseis, andmeandjad ja vajaduse korral muud infosüsteemi pidamise korralduslikud küsimused."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "59",
+      "title": "§ 59. Aadressiandmete süsteemi kasutamine",
+      "content": "(1) Aadressiandmete süsteemi kasutamine on kohustuslik:\n1)\n2) koha-aadresside määramisel ja muutmisel ning teabevaldajatele koha-aadressidega seotud aadressiandmete töötlemisel.\n(2) Aadressiandmete süsteemi kasutamise kohustuse suhtes võib avaliku teabe seadusega ettenähtud korras teha erandi rahvusvahelisest lepingust tulenevate ülesannete täitmiseks asutatud andmekogule."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "60",
+      "title": "§ 60. ADS-i infosüsteem",
+      "content": "ADS-i infosüsteemi kantakse andmed koha-aadresside, aadressiobjektide ja aadressitoimingute kohta."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "61",
+      "title": "§ 61. Andmete esitamine ADS-i infosüsteemi",
+      "content": "(1) ADS-i infosüsteemile esitavad andmeid:\n1) Maa- ja Ruumiamet katastriüksuste ja kohanimede kohta;\n2) Maa- ja Ruumiamet hoonete ja hooneosade kohta;\n3)\n4) linna- või vallavalitsused koha-aadresside määramise, muutmise ja kehtetuks tunnistamise kohta.\n(2) Vabariigi Valitsus võib käesoleva seaduse § 58 lõikes 1 sätestatud aadressiandmete süsteemi kehtestava määrusega ADS-i infosüsteemile andmete esitajate ringi laiendada."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "7. peatükk - Aadressiandmete süsteemi haldamine",
+      "section": "62",
+      "title": "§ 62. ADS-i infosüsteemi andmetele juurdepääsu võimaldamine",
+      "content": "(1) ADS-i infosüsteemi andmed avalikustatakse käesolevas seaduses sätestatud korras Eesti geoportaali kaudu.\n(2) ADS-i infosüsteemi andmed tehakse teabevaldajatele nendele õigusaktidega pandud või rahvusvahelises lepingus sätestatud ülesannete täitmiseks kättesaadavaks, vajaduse korral riigi infosüsteemide andmevahetuskihi kaudu, käesolevas seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "8. peatükk - Topograafiliste andmete hõive ja kasutusse andmine",
+      "section": "63",
+      "title": "§ 63. Topograafilised andmed",
+      "content": "Topograafilised andmed on ruumiandmed looduslike ja inimtekkeliste, maapinnal füüsiliselt asuvate reaalmaailma nähtuste asukoha, kuju, omaduste ning ruumiliste suhete kohta kindlaksmääratud asukoha või maa-ala piires."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "8. peatükk - Topograafiliste andmete hõive ja kasutusse andmine",
+      "section": "64",
+      "title": "§ 64. Üldist tähtsust omavate topograafiliste nähtuste andmed",
+      "content": "Üldist tähtsust omavate topograafiliste nähtuste andmed on topograafilised põhiandmed nende nähtuste asukoha, kuju, omaduste ning ruumiliste suhete kohta, sealhulgas andmed riigi pinnamoe, veekogude ja hüdrograafiliste rajatiste, kõlvikute, ehitiste ruumikuju ning transpordi- ja tehnovõrkude ruumikuju kohta."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "8. peatükk - Topograafiliste andmete hõive ja kasutusse andmine",
+      "section": "65",
+      "title": "§ 65. Topograafiliste nähtuste klassid",
+      "content": "(1) Topograafilised nähtused jagunevad oma omaduste ja neid kirjeldavate tunnuste alusel hierarhilistesse klassidesse.\n(2) Topograafiliste nähtuste klassifikaatori kehtestab klassifikaatori haldaja riigi infosüsteemi kindlustavas klassifikaatorite süsteemis ettenähtud korras.\n(3) Topograafiliste nähtuste klassifikaatori haldaja on Maa- ja Ruumiamet."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "8. peatükk - Topograafiliste andmete hõive ja kasutusse andmine",
+      "section": "66",
+      "title": "§ 66. Topograafiliste andmete hõive korraldamine",
+      "content": "(1) Üldist tähtsust omavate topograafiliste nähtuste andmete hõivet korraldab Maa- ja Ruumiamet.\n(2) Õigusaktidega ettenähtud juhtudel ning arvestades käesoleva seaduse § 3 lõikes 4 sätestatut võib üldist tähtsust omavate topograafiliste nähtuste andmete hõivet korraldada ka mõni teine teabevaldaja.\n(3) Maa- ja Ruumiamet kogub andmeid üldist tähtsust omavate topograafiliste nähtuste kohta:\n1) vaatluste ja mõõdistamiste, sealhulgas aeropildistamise ja aerolaserskaneerimise teel;\n2) vaatluste ja mõõdistamiste käigus kogutud andmete töötlemise teel;\n3) teiste teabevaldajatega andmete vahetamise käigus.\n(4) Üldist tähtsust omavad topograafilised nähtused ja topograafiliste andmete hõive teostamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud korras sätestatakse üldist tähtsust omavad topograafilised nähtused, nende omaduste koosseis, nendega vastavuses olevate ruumiobjektide määramise kord ning täpsemad nõuded topograafiliste andmete hõive teostamise korralduse kohta.\n(6) Maa- ja Ruumiamet võib teostada ka käesoleva paragrahvi lõikes 1 nimetamata INSPIRE direktiivi lisades sätestatud ruumiandmevaldkondadega seotud topograafiliste nähtuste andmete hõivet kas kokkuleppel teise teabevaldajaga halduskoostöö seaduses sätestatud tingimustel ja korras või rahvusvahelise ametiabi korras välislepingu alusel, samuti Euroopa Liidu õigusaktides sätestatud korras või muude kokkulepete alusel."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "8. peatükk - Topograafiliste andmete hõive ja kasutusse andmine",
+      "section": "67",
+      "title": "§ 67. Eesti topograafia andmekogu",
+      "content": "(1) Eesti topograafia andmekogu (edaspidi ETAK ) on riigi infosüsteemi kuuluv andmekogu, kuhu kantakse üldist tähtsust omavate topograafiliste nähtuste andmed ning andmed, mis kirjeldavad nende nähtuste sisu, suhteid ja konteksti.\n(2) Andmete uuendamine ETAK-is toimub topograafiliste andmete hõive kaudu.\n(3) ETAK-isse kogutavate andmete koosseis, vastutav ja volitatud töötleja, andmeandjad ja andmete registreerimiseks esitamise korralduslikud küsimused sätestatakse ETAK-i põhimääruses.\n(4) ETAK-i asutab ja selle põhimääruse kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "8. peatükk - Topograafiliste andmete hõive ja kasutusse andmine",
+      "section": "68",
+      "title": "§ 68. ETAK-i andmetele juurdepääsu võimaldamine",
+      "content": "(1) ETAK-i andmed avalikustatakse käesolevas seaduses sätestatud korras Eesti geoportaali kaudu.\n(2) ETAK-i andmed tehakse teistele teabevaldajatele nendele õigusaktidega pandud või rahvusvahelises lepingus sätestatud ülesannete täitmiseks kättesaadavaks käesolevas seaduses sätestatud korras, vajaduse korral riigi infosüsteemide andmevahetuskihi kaudu."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "8. peatükk - Topograafiliste andmete hõive ja kasutusse andmine",
+      "section": "69",
+      "title": "§ 69. ETAK-i andmete kohustuslikkus",
+      "content": "Olemasolevate ETAK-i andmete kasutamine on kohustuslik teabevaldajate andmekogude pidamisel, andmete töötlemisel ja ruumiandmeteenuste osutamisel juhul, kui teabe hõivel või kasutamisel tuleb lähtuda topograafilistest ruumiandmetest."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "8. peatükk - Topograafiliste andmete hõive ja kasutusse andmine",
+      "section": "70",
+      "title": "§ 70. ETAK-i andmete alusel koostatavad topograafilised kaardid",
+      "content": "(1) ETAK-i andmete alusel koostab Maa- ja Ruumiamet järgmisi digitaalkaarte ja -plaane:\n1) Eesti topograafiline kaart mõõtkavas 1: 10 000;\n2) Eesti topograafiline kaart mõõtkavas 1: 50 000.\n(2) ETAK-i andmete alusel koostab Maa- ja Ruumiamet järgmisi tardkujul kaarte:\n1) Eesti topograafiline kaart mõõtkavas 1: 20 000;\n2) Eesti topograafiline kaart mõõtkavas 1: 50 000.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud topograafilistele kaartidele kantavate andmete koosseisu ja kasutatavad leppemärgid ning kartograafiliste tööde teostamise korralduse kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "8. peatükk - Topograafiliste andmete hõive ja kasutusse andmine",
+      "section": "71",
+      "title": "§ 71. Topograafiliste kaartide nomenklatuur",
+      "content": "(1) Topograafiliste kaartide nomenklatuur on mitmelehelise kaardi lehtedeks jaotamise ja lehtede tähistamise süsteem.\n(2) Topograafiliste kaartide nomenklatuuri kehtestab valdkonna eest vastutav minister käesoleva seaduse § 70 lõikes 3 sätestatud määrusega."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "8. peatükk - Topograafiliste andmete hõive ja kasutusse andmine",
+      "section": "72",
+      "title": "§ 72. Muud kaardid ja plaanid",
+      "content": "Maa- ja Ruumiamet võib koostada ka käesoleva seaduse §-s 70 nimetamata kaarte ja plaane, sealhulgas kokkuleppel teabevaldajatega teemakaarte ja kaarte mõõtkavas, mis ei ole sätestatud käesoleva seaduse §-s 70."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "8. peatükk - Topograafiliste andmete hõive ja kasutusse andmine",
+      "section": "73",
+      "title": "§ 73. ETAK-i andmete kasutusse andmine",
+      "content": "(1) ETAK-i andmed on digitaalsete ruumiandmekogumitena avalikkusele tasuta kättesaadavad.\n(2) ETAK-i andmetest loodud kaardi ja plaani ning nende digitaalse trükifaili kasutusse andmise tasumäär on 2–20 eurot kaardilehe kohta või 2–60 eurot kaardi kohta\n(3) ETAK-i kaartide ja plaanide loetelu, tasumäärad ning teenuste osutamise tingimused kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "9. peatükk - Koordineerimine, haldusjärelevalve ja aruandlus",
+      "section": "74",
+      "title": "§ 74. INSPIRE kontaktpunkt",
+      "content": "(1) INSPIRE direktiivi artikli 19 lõikes 2 nimetatud kontaktpunkt on Maa- ja Ruumiamet. Maa- ja Ruumiamet vastutab Euroopa Komisjoniga ühenduse pidamise eest nimetatud direktiiviga seotud küsimustes.\n(2) Teabevaldajad on kohustatud tegema Maa- ja Ruumiametiga koostööd."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "9. peatükk - Koordineerimine, haldusjärelevalve ja aruandlus",
+      "section": "75",
+      "title": "§ 75. Koordineerimine",
+      "content": "(1) Ruumiandmete infrastruktuuri väljaarendamist koordineerib Majandus- ja Kommunikatsiooniministeerium või valdkonna eest vastutava ministri volitusel ministeeriumi valitsemisalasse kuuluv asutus koostöös Kliimaministeeriumiga.\n(2) Enne andmekogu asutamist, andmekogus kogutavate andmete koosseisu muutmist, andmekogu kasutusele võtmist või andmekogu lõpetamist kooskõlastatakse andmekogu dokumentatsioon andmekogus töödeldavate ruumiandmete osas Majandus- ja Kommunikatsiooniministeeriumi või valdkonna eest vastutava ministri volitatud ministeeriumi valitsemisalasse kuuluva asutusega.\n(3) Käesoleva paragrahvi lõikes 2 sätestatud dokumentatsioon esitatakse kooskõlastamiseks riigi infosüsteemi haldussüsteemi kaudu.\n(4) Käesoleva paragrahvi lõikes 2 nimetatud asutusega ei kooskõlastata sellise andmekogu dokumentatsiooni, mis asutatakse ainult organisatsiooni sisemise töökorralduse vajadusteks või asutustevaheliseks dokumentide menetlemiseks.\n(5) Kooskõlastaja hindab ja kontrollib andmekogu dokumentatsiooni kooskõlastamisel andmekogu korralduslike ja infotehnoloogiliste tingimuste vastavust käesolevas seaduses sätestatud nõuetele ruumiandmete töötlemise, ruumiandmekogude haldamise ja ruumiandmeteenuste osutamise kohta.\n(6) Käesoleva paragrahvi lõikes 2 nimetatud asutus kooskõlastab andmekogu dokumentatsiooni või keeldub motiveeritult selle kooskõlastamisest 20 tööpäeva jooksul andmekogu dokumentatsiooni kooskõlastamiseks esitamisest arvates.\n(7) Käesoleva paragrahvi lõikes 2 nimetatud asutusel on õigus saada teabevaldajatelt teavet ja dokumente ning anda selgitusi käesoleva seaduse rakendamisega seotud küsimustes."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "9. peatükk - Koordineerimine, haldusjärelevalve ja aruandlus",
+      "section": "76",
+      "title": "§ 76. Järelevalve koha-aadresside määramise üle",
+      "content": "(1) Haldusjärelevalvet koha-aadresside määramisel käesoleva seadusega ja selle alusel vastuvõetud õigusaktidega sätestatud nõuetest kinnipidamise üle teostab oma pädevuse piires Maa- ja Ruumiamet.\n(2) Järelevalvet teostaval ametiisikul on õigus:\n1) kontrollida seaduse täitmist ja nõuda koha-aadressi määramist käsitlevate dokumentide esitamist, neid dokumente kontrollida, nõuda seletusi ja arvamusi ning saada asja õigeks lahendamiseks tähtsust omavaid andmeid;\n2) teha ettekirjutus õigusrikkumise lõpetamiseks, õigusrikkumise tagajärje kõrvaldamiseks, edasisest õigusrikkumisest hoidumiseks või edasiseks õiguspäraseks käitumiseks vajalike toimingute tegemiseks.\n(3) Käesoleva paragrahvi lõike 2 punktis 2 sätestatud ettekirjutuses peab olema märgitud:\n1) ettekirjutuse koostaja nimi ja ametikoht ning järelevalveasutuse nimetus ja aadress;\n2) ettekirjutuse tegemise koht ja kuupäev;\n3) ettekirjutuse saaja nimi või nimetus ja elu- või asukoht;\n4) ettekirjutuse tegemise aluseks olevad asjaolud või viide dokumendile, kus need on kajastatud, ning viide õiguslikule alusele;\n5) ettekirjutuse resolutsioon, milles märgitakse kohustatud subjekti ettekirjutusest tulenevad kohustused ja nende täitmise tähtaeg;\n6) viide haldussunnivahendite kohaldamise võimalusele ettekirjutuses sisalduva kohustuse täitmata jätmise korral;\n7) ettekirjutuse vaidlustamise kord ja tähtaeg.\n(4) Ettekirjutuse täitmata jätmise korral on järelevalveametnikul õigus rakendada sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 1600 eurot."
+    },
+    {
+      "provision_ref": "para77",
+      "chapter": "9. peatükk - Koordineerimine, haldusjärelevalve ja aruandlus",
+      "section": "77",
+      "title": "§ 77. Järelevalve ruumiandmete töötlemise, ruumiandmekogude haldamise ja ruumiandmeteenuste osutamise üle",
+      "content": "Järelevalve teostamisel käesolevas seaduses sätestatud ruumiandmete töötlemise, ruumiandmekogude haldamise ja ruumiandmeteenuste osutamise seadustele, teistele õigusaktidele ja tehnilistele nõuetele vastavuse üle kohaldatakse avaliku teabe seaduses andmekogude haldamise üle järelevalve kohta sätestatut, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para78",
+      "chapter": "9. peatükk - Koordineerimine, haldusjärelevalve ja aruandlus",
+      "section": "78",
+      "title": "§ 78. Aruandlus ruumiandmete infrastruktuuri kohta",
+      "content": "(1) Käesolevas seaduses sätestatud ruumiandmete infrastruktuuri arendamise, ruumiandmekogumite pidamise ja ruumiandmeteenuste osutamise kohta esitavad teabevaldajad aruanded vastavalt Euroopa Komisjoni otsusele nr 2009/442/EÜ, millega rakendatakse Euroopa Parlamendi ja nõukogu direktiivi 2007/2/EÜ seoses järelevalve ja aruannete esitamisega (ELT L 148, 11.06.2009, lk 18–26).\n(2) Maa- ja Ruumiamet koondab teabevaldajatelt saadud andmed ja aruanded, teeb need Eesti geoportaalis avalikkusele kättesaadavaks ning edastab Euroopa Komisjonile.\n(3) Aruannete esitamise tähtajad, nende koostamise ja ruumiandmete infrastruktuuri rakendamise ning kasutamise jälgimise täpsema korra võib kehtestada Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para79",
+      "chapter": "10. peatükk - Vastutus",
+      "section": "79",
+      "title": "§ 79. Geodeetilise märgi kaitse nõuete rikkumine, märgi kahjustamine, hävitamine ja omavoliline teisaldamine",
+      "content": "(1) Looduses või ehitisel asuva riigi või kohaliku omavalitsuse geodeetilise märgi kaitsenõuete rikkumise, märgi kahjustamise, hävitamise või omavolilise teisaldamise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para80",
+      "chapter": "10. peatükk - Vastutus",
+      "section": "80",
+      "title": "§ 80. Menetlus",
+      "content": "(1) Käesoleva seaduse §-s 79 sätestatud väärtegudele kohaldatakse karistusseadustiku üldosa ja väärteomenetluse seadustiku sätteid.\n(2) Käesoleva seaduse §-s 79 sätestatud väärtegude kohtuväline menetleja on riiklike geodeetiliste märkide asjus Maa- ja Ruumiamet ning kohalike omavalitsuste geodeetiliste märkide asjus linna- või vallavalitsus."
+    },
+    {
+      "provision_ref": "para81",
+      "chapter": "11. peatükk - Rakendussätted",
+      "section": "81",
+      "title": "§ 81. Metaandmete koostamise ajakava",
+      "content": "Teabevaldajad koostavad enda peetavate ruumiandmekogumite ja osutatavate teenuste kirjeldamiseks metaandmed INSPIRE direktiivis sätestatud ajakava kohaselt."
+    },
+    {
+      "provision_ref": "para82",
+      "chapter": "11. peatükk - Rakendussätted",
+      "section": "82",
+      "title": "§ 82. Ruumiandmekogumite ja -teenuste kättesaadavaks tegemise tähtajad",
+      "content": "(1) Asutatavad või ulatuslikult ümber struktureeritavad ruumiandmekogumid ja -teenused teeb teabevaldaja kättesaadavaks kooskõlas käesoleva seaduse § 11 lõikes 5 nimetatud rakenduseeskirjadega kahe aasta jooksul eeskirjade kehtestamisest arvates.\n(2) Muud kasutuses olevad ruumiandmekogumid ja -teenused teeb teabevaldaja kättesaadavaks kooskõlas käesoleva seaduse § 11 lõikes 5 nimetatud rakenduseeskirjadega seitsme aasta jooksul eeskirjade kehtestamisest arvates.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud ruumiandmekogumite ja -teenuste koostalitlusvõimeliselt kättesaadavaks tegemise vajadus määratakse andmekogu asutamise ja teenuste osutamise alustamise või andmekogusse kogutavate andmete koosseisu muutmise registreerimisel riigi infosüsteemi haldussüsteemis.\n(4) Ruumiandmekogumid teeb teabevaldaja kättesaadavaks kooskõlas käesoleva seaduse § 11 lõikes 5 nimetatud rakenduseeskirjadega kas olemasolevate ruumiandmekogumite kohandamise teel või käesoleva seaduse § 12 lõike 1 punktis 4 sätestatud transformeerimisteenuseid kasutades."
+    },
+    {
+      "provision_ref": "para83",
+      "chapter": "11. peatükk - Rakendussätted",
+      "section": "83",
+      "title": "§ 83. Otsingu- ja vaatamisteenustele juurdepääsu võimaldamine",
+      "content": "(1) Teabevaldajad võimaldavad juurdepääsu käesoleva seaduse § 12 lõikes 1 sätestatud otsingu- ja vaatamisteenustele, välja arvatud nõuete osas, mis sätestavad nende teenuste kättesaadavuse Eesti geoportaali kaudu või nende teenuste kvaliteedi tagamise vastavalt Euroopa Komisjoni määruse (EÜ) nr 976/2009, millega rakendatakse Euroopa Parlamendi ja nõukogu direktiivi 2007/2/EÜ seoses võrguteenustega, I lisas sätestatud eeskirjadele, hiljemalt 2011. aasta 9. maist.\n(2) Hiljemalt 2011. aasta 9. novembrist võimaldavad teabevaldajad juurdepääsu käesoleva seaduse § 12 lõikes 1 sätestatud otsingu- ja vaatamisteenustele ka Eesti geoportaali kaudu, arvestades kõiki nõudeid, mis on sätestatud Euroopa Komisjoni määruses (EÜ) nr 976/2009, millega rakendatakse Euroopa Parlamendi ja nõukogu direktiivi 2007/2/EÜ seoses võrguteenustega."
+    },
+    {
+      "provision_ref": "para84",
+      "chapter": "11. peatükk - Rakendussätted",
+      "section": "84",
+      "title": "§ 84. Aadressiandmete süsteemi rakendamine",
+      "content": "(1) Käesoleva seaduse § 55 lõiget 4 ning §-e 56, 57, 60, 61 ja 76 rakendatakse alates 2012. aasta 1. jaanuarist.\n(2) ADS-i infosüsteemis 2012. aasta 1. jaanuari kella 00.00 seisuga kehtivad aadressiandmed loetakse käesoleva seaduse tähenduses kehtestatud ametlikeks registreeritud aadressiandmeteks.\n(3) Käesoleva seaduse alusel kehtestatud aadressiandmete süsteemi käivitamise hetkeks loetakse 2012. aasta 1. jaanuari kell 00.00.\n(4) Andmekogude pidamisel ja ruumiandmeteenuste osutamisel peavad teabevaldajad oma andmekogud ja infosüsteemid viima käesoleva seaduse §-ga 59 vastavusse hiljemalt 2012. aasta 1. märtsiks.\n(5) Kui linna- või vallavalitsus ei määra maareformi käigus moodustatud maaüksuse koha-aadressi ühe kuu jooksul maareformi seaduse § 29 alusel kehtestatud korras nimetatud toimiku või dokumentide saamisest arvates, määrab maaüksuse koha-aadressi ADS-i infosüsteemi vastutav töötleja.\n(6) Ruumiandmete seaduse nõuetele mittevastavate aadressiandmete masskorrastamine, mis väljub kohaliku omavalitsuse igapäevase tegevuse raamest, toimub kohalikele omavalitsustele eraldatud vahendite arvel."
+    }
+  ],
+  "definitions": []
+}

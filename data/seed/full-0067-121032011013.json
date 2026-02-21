@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-121032011013",
+  "type": "statute",
+  "title": "Arhiiviseadus",
+  "title_en": "Arhiiviseadus",
+  "short_name": "ee-law-121032011013",
+  "status": "in_force",
+  "issued_date": "1998-03-25",
+  "in_force_date": "2012-01-01",
+  "url": "https://www.riigiteataja.ee/akt/121032011013.xml",
+  "description": "Official consolidated statute text (Arhiiviseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu -"
+    }
+  ],
+  "definitions": []
+}

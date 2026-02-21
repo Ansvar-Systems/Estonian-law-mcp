@@ -1,0 +1,561 @@
+{
+  "id": "ee-law-109012025021",
+  "type": "statute",
+  "title": "Avaliku teabe seadus",
+  "title_en": "Avaliku teabe seadus",
+  "short_name": "ee-law-109012025021",
+  "status": "in_force",
+  "issued_date": "2000-11-15",
+  "in_force_date": "2025-09-01",
+  "url": "https://www.riigiteataja.ee/akt/109012025021.xml",
+  "description": "Official consolidated statute text (Avaliku teabe seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse eesmärk",
+      "content": "Käesoleva seaduse eesmärk on tagada üldiseks kasutamiseks mõeldud teabele avalikkuse ja igaühe juurdepääsu võimalus, lähtudes demokraatliku ja sotsiaalse õigusriigi ning avatud ühiskonna põhimõtetest, ning luua võimalused avalikkuse kontrolliks avalike ülesannete täitmise üle."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab:\n1) avalikule teabele juurdepääsu ja selle taaskasutamise tingimused, korra ja viisid ning teabele juurdepääsu võimaldamisest keeldumise alused;\n2) piiratud juurdepääsuga avaliku teabe ja sellele juurdepääsu võimaldamise korra teiste seadustega reguleerimata osas;\n2^1) andmekogude asutamise ja haldamise alused ning järelevalve andmekogude haldamise üle;\n3) teabele juurdepääsu korraldamise üle riikliku järelevalve ja haldusjärelevalve teostamise korra.\n(2) Käesolevat seadust ei kohaldata:\n1) riigisaladuseks või salastatud välisteabeks oleva teabe suhtes kuni teabe salastatuse kustumiseni;\n2) juurdepääsu võimaldamisel arhivaalidele Rahvusarhiivis ja kohaliku omavalitsuse arhiivis arhiiviseaduses ja selle alusel sätestatud korras, välja arvatud juurdepääsupiirangute kehtestamise ja teabe taaskasutamise osas;\n3) märgukirjale ja selgitustaotlusele vastamise seaduses sätestatud korras märgukirjadele ja selgitustaotlustele vastamisele, kui vastamine eeldab jäädvustatud teabe analüüsimist, sünteesimist või täiendava teabe kogumist ja dokumenteerimist;\n4) teabele juurdepääsupiirangute, juurdepääsu eritingimuste, korra ja viiside osas, juhul kui need on eriseaduses või välislepingus sätestatud teisiti.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Avalik teave",
+      "content": "(1) Avalik teave (edaspidi teave ) on mis tahes viisil ja mis tahes teabekandjale jäädvustatud ja dokumenteeritud teave, mis on saadud või loodud seaduses või selle alusel antud õigusaktides sätestatud avalikke ülesandeid täites.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud teabele juurdepääsu võib piirata seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para3^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3^1",
+      "title": "§ 3^1. Avaliku teabe taaskasutamine",
+      "content": "(1) Teabe taaskasutamine on füüsilise või juriidilise isiku poolt sellise avaliku teabe kasutamine, mille üldist kasutamist ei ole seadusega või seadusega kehtestatud korras piiratud (edaspidi avaandmed ), ärilisel või mitteärilisel eesmärgil, mis ei lange kokku algse eesmärgiga, mille jaoks see teave avalikke ülesandeid täites saadi või loodi. Teabevaldajate vahel teabe vahetamine oma avalike ülesannete täitmiseks ei ole teabe taaskasutamine.\n(2) Teabe taaskasutamiseks ei tohi teabevaldaja sõlmida ainuõiguslikke kokkuleppeid, välja arvatud, kui see on vajalik ja põhjendatud avalike huvidega. Ainuõigusliku kokkuleppe põhjendatust tuleb hinnata vähemalt iga kolme aasta järel. Teabevaldaja avaldab ainuõigusliku kokkuleppe oma veebilehel hiljemalt kaks kuud enne selle jõustumist.\n(3) Teabe üldiseks kasutamiseks andmisel peab olema tagatud isiku eraelu puutumatus, autoriõiguste kaitse, riigi julgeoleku kaitse, ärisaladuse ja muu juurdepääsupiiranguga teabe kaitse. Enne teabe üldiseks kasutamiseks andmist peab teabevaldaja hindama teabe üldisele kasutamisele piirangute kehtestamise vajadust.\n(4) Kui see on võimalik ja asjakohane, võimaldab teabevaldaja juurdepääsu avaandmetele failivormingus, mis on struktureeritud selliselt, et tarkvararakendused suudavad spetsiifilisi andmeid, sealhulgas üksikuid faktiväiteid, ja nende sisemist struktuuri kergesti tuvastada, ära tunda ja välja lugeda (edaspidi masinloetav kuju ), ning platvormist sõltumatus vormingus, mis tehakse üldsusele kättesaadavaks dokumendi taaskasutamise piiranguteta (edaspidi avatud vorming ) koos andmestikke ja neis sisalduvaid andmeid kirjeldava andmekirjeldusega. Kui avaandmete digitaalsele kujule, masinloetavale kujule või avatud vormingusse viimine ei ole võimalik või see nõuab ebaproportsionaalselt suuri pingutusi, võimaldab teabevaldaja avaandmetele juurdepääsu nende algkujul või mis tahes muus vormis.\n(4^1) Käesoleva paragrahvi lõikes 4 nimetatud vorming ja andmekirjeldus peavad vastama kirjalikult väljendatud standardile, mis sisaldab üksikasjalikke nõudeid selle kohta, kuidas tagada tarkvara koostalitlusvõime.\n(5) Teave, millele on seadusega kehtestatud juurdepääsupiirang või millele juurdepääs on seadusega kehtestatud korras piiratud, sealhulgas teave, millele juurdepääsu võimaldatakse seaduse alusel üksnes õigustatud huvi korral või millele juurdepääsuks on seadusega kehtestatud eritingimused, kord ja viisid, ei ole üldiseks kasutamiseks.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud teavet ei anta üldiseks kasutamiseks või antakse üldiseks kasutamiseks üksnes selline osa teabest, mis ei sisalda juurdepääsupiiranguga teavet ning mille üldiseks kasutamiseks andmisega ei kaasne juurdepääsupiiranguga teabe avalikuks tuleku oht.\n(7) Kui seaduse alusel avalikustatav teave sisaldab isikuandmeid, võib sellise teabe üldist kasutamist piirata, kui selle üldiseks kasutamiseks andmine kahjustab oluliselt isiku eraelu puutumatust.\n(8) Kui seaduse alusel avalikustatava ja isikuandmeid sisaldava teabe üldiseks kasutamiseks andmine kahjustab isiku eraelu puutumatust, antakse see üldiseks kasutamiseks viisil, mis ei kahjusta oluliselt isiku eraelu puutumatust.\n(8^1)\n(8^2) Teave, mida kogutakse või koostatakse teadustöö käigus ning mida kasutatakse teadusprotsessis tõendusmaterjalina või peetakse teadusringkondades üldiselt vajalikuks, et tõestada teadustöö käigus tehtud avastusi ja teadustöö tulemusi (edaspidi teadusandmed ), antakse taaskasutamisse, kui teadusandmete loomist on rahastatud riigi, kohaliku omavalitsuse üksuse või avalik-õigusliku juriidilise isiku eelarve vahenditest ning teadlased, teadustööga tegelevad isikud või teadustööd rahastavad isikud on need digitaalselt institutsionaalse või valdkondliku teadusandmete hoidla kaudu juba avalikult kättesaadavaks teinud. Teaduslikud publikatsioonid ei ole käsitatavad teadusandmetena.\n(8^3) Avaandmed, mida ajakohastatakse sageli või reaalajas eelkõige seetõttu, et nad muutuvad pidevalt või aeguvad kiiresti (edaspidi dünaamilised andmed ), tehakse taaskasutamiseks kättesaadavaks rakendusliidese kaudu ning asjakohasel juhul hulgiallalaaditavate andmetena kohe pärast kogumist või manuaalse ajakohastamise korral pärast andmete muutmist. Kui dünaamiliste andmete taaskasutamiseks kättesaadavaks tegemine kohe pärast nende kogumist oleks teabevaldajale rahaliselt ja tehniliselt ebaproportsionaalselt koormav, tuleb andmed kättesaadavaks teha vähima võimaliku aja jooksul ning tehniliste piirangutega, mis ei kahjusta põhjendamatult nende andmete majandusliku ja sotsiaalse potentsiaali kasutamist.\n(9) Avaandmed antakse taaskasutamisse üldjuhul tingimusteta. Kui tingimuste seadmine taaskasutamisse andmisel on vajalik avalikes huvides, peavad vastavad tingimused olema objektiivsed, proportsionaalsed ja mittediskrimineerivad. Taaskasutamise tingimused peavad olema kättesaadavad masinloetaval kujul ja avatud vormingus. Taaskasutamise tingimused avalikustab käesoleva seaduse § 32^1 lõikes 2 nimetatud asutus Eesti teabeväravas."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Avalikule teabele juurdepääsu võimaldamise põhimõtted",
+      "content": "(1) Demokraatliku riigikorralduse tagamiseks ning avaliku huvi ja igaühe õiguste, vabaduste ja kohustuste täitmise võimaldamiseks on teabevaldajad kohustatud tagama juurdepääsu nende valduses olevale teabele seaduses sätestatud tingimustel ja korras.\n(2) Teabele juurdepääs tuleb tagada igaühele võimalikult kiirel ja hõlpsal viisil.\n(3) Teabele juurdepääsu võimaldamisel peab olema tagatud isiku eraelu puutumatus ja autoriõiguste kaitse.\n(4) Juurdepääs teabele võimaldatakse tasuta, välja arvatud juhul, kui teabe väljastamisega seotud otseste kulutuste eest maksmine on seadusega ette nähtud.\n(4^1) Teabevaldaja peab avaldama teabele juurdepääsu tingimused ja juurdepääsutasu suuruse ning teabenõudja soovil andma selgitusi tasude kulupõhisuse kohta.\n(4^2) Juurdepääsu tingimused ei tohi olla põhjendamatult piiravad ega konkurentsi kahjustavad.\n(4^3) Kui teabevaldaja kasutab teavet tegevuses, mis ei kuulu avalik-õiguslike ülesannete täitmise alla, kohaldatakse talle teabe andmisel sama tasu ja muid tingimusi, mis kehtivad teistele taotlejatele, tagades võrdse kohtlemise.\n(5) Igaühel on õigus vaidlustada teabele juurdepääsu piiramist, kui selline piirang rikub tema õigusi ja vabadusi."
+    },
+    {
+      "provision_ref": "para4^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4^1",
+      "title": "§ 4^1. Väärtuslikud andmestikud",
+      "content": "(1) Avaandmed, mille taaskasutamist seostatakse ühiskonnale, keskkonnale ja majandusele oluliste hüvedega eelkõige nende sobivuse tõttu lisaväärtusteenuste ja -rakenduste ning uute kõrge kvaliteediga ja inimväärsete töökohtade loomiseks ning sellistest teenustest ja rakendustest kasu saavate inimeste arvu tõttu (edaspidi väärtuslikud andmestikud ), teeb teabevaldaja taaskasutamiseks kättesaadavaks tasuta, masinloetavas vormingus selleks sobiva rakendusliidese kaudu ja asjakohasel juhul hulgiallalaaditavate andmestikena.\n(2) Väärtuslike andmestike temaatilised kategooriad on kehtestatud Euroopa Parlamendi ja nõukogu direktiivi (EL) 2019/1024 avaandmete ja avaliku sektori valduses oleva teabe taaskasutamise kohta (ELT L 172, 26.06.2019, lk 56–83) artikli 13 lõike 1 või 2 alusel direktiivi I lisas. Väärtuslike andmestike nimekiri ning avaldamise ja taaskasutamise tingimused ja kord sätestatakse sama direktiivi artikli 14 lõike 1 alusel kehtestatud Euroopa Komisjoni rakendusmääruses.\n(3) Lisaks käesoleva paragrahvi lõikes 2 sätestatule võib Vabariigi Valitsus või valdkonna eest vastutav minister määrusega kehtestada muu väärtuslike andmestike kategooria ning selle andmestike nimekirja, avaldamise ja taaskasutamise tingimused ning korra.\n(4) Väärtuslikke andmestikke ei pea taaskasutamiseks tasuta kättesaadavaks tegema raamatukogu, muuseum ega arhiiv."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Teabevaldaja",
+      "content": "(1) Teabevaldajaks on:\n1) riigi- ja kohaliku omavalitsuse asutus;\n2) avalik-õiguslik juriidiline isik;\n3) eraõiguslik juriidiline isik ja füüsiline isik käesoleva paragrahvi lõikes 2 sätestatud tingimustel.\n(2) Eraõiguslikule juriidilisele isikule ja füüsilisele isikule laienevad teabevaldaja kohustused, kui isik täidab seaduse, haldusakti või lepingu alusel avalikke ülesandeid, sealhulgas osutab haridus-, tervishoiu-, sotsiaal- või muid avalikke teenuseid, – teabe osas, mis puudutab nende ülesannete täitmist.\n(3) Teabevaldajaga võrdsustatakse:\n1) ettevõtja, kes on kaubaturul valitsevas seisundis, omab eri- või ainuõigust või loomulikku monopoli, – teabe osas, mis puudutab kaupade ja teenuste pakkumise tingimusi, hindu ja nende muudatusi;\n2) füüsilisest isikust ettevõtja, mittetulundusühing, sihtasutus või äriühing, – teabe osas, mis puudutab riigi või kohaliku omavalitsuse eelarvest avalike ülesannete täitmiseks või toetusena antud vahendite kasutamist."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Teabenõue",
+      "content": "Teabenõue on teabenõudja poolt käesolevas seaduses sätestatud korras teabevaldajale esitatud taotlus teabe saamiseks või taaskasutamiseks."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "7",
+      "title": "§ 7. Teabenõudja",
+      "content": "Teabenõudja on iga isik, kes esitab teabevaldajale teabenõude käesolevas seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "8",
+      "title": "§ 8. Juurdepääs teabele",
+      "content": "(1) Juurdepääs teabele võimaldatakse teabevaldaja poolt:\n1) teabenõude täitmisega;\n2) teabe avalikustamisega.\n(2) Teabe avalikustamine on teabevaldaja poolt seadusega sätestatud korras teabele juurdepääsu võimaldamine, ilma et selleks peaks teabenõuet esitama.\n(3) Avaandmetele juurdepääs hõlmab ka õigust seda teavet taaskasutada. Kui teabevaldaja on seadnud teabe üldisele kasutamisele tingimusi litsentsi abil, siis tuleb teavet kasutada vastavalt litsentsi tingimustele."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - TEABELE JUURDEPÄÄSU KORRALDUS",
+      "section": "9",
+      "title": "§ 9. Teabevaldaja kohustused",
+      "content": "(1) Teabevaldaja on kohustatud võimaldama juurdepääsu tema valduses olevale teabele seaduses sätestatud korras.\n(2) Teabele juurdepääsu võimaldamisel on teabevaldaja kohustatud:\n1) tagama juurdepääsu neile dokumentidele, millele teabenõudja juurdepääsu taotleb ja millele teabenõudjal on juurdepääsuõigus;\n2) pidama arvestust tema valduses olevate dokumentide üle;\n3) avalikustama avalikustamisele kuuluva teabe seaduses sätestatud korras;\n4) andma avalikkusele korrapäraselt teavet avalike ülesannete täitmisest;\n5) abistama teabenõudjat;\n6) teavitama teabenõudjat dokumentide suhtes kehtivatest juurdepääsupiirangutest;\n7) tagama teabe juurdepääsupiirangutest kinnipidamise;\n8) mitte andma teadvalt eksitavat, tegelikkusele mittevastavat või ebaõiget teavet ning kontrollima kahtluse korral väljastatava teabe õigsust ja vastavust tegelikkusele."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - TEABELE JUURDEPÄÄSU KORRALDUS",
+      "section": "10",
+      "title": "§ 10. Teabele juurdepääsu korraldamine teabevaldaja poolt",
+      "content": "(1) Teabevaldaja poolt teabele juurdepääsu seadusekohase korraldamise eest vastutab teabevaldaja juht või füüsilisest isikust teabevaldaja.\n(2) Teabevaldaja võib asjaajamiskorra või muude dokumentidega määrata kindlaks teabenõuete täitmise ja teabe avalikustamise eest vastutavad struktuuriüksused ja ametnikud või töötajad ning teabenõuete või avalikustamisele kuuluva teabe asutusesisese menetlemise korra.\n(3) Kui teabevaldaja ei ole kehtestanud ametnike või töötajate pädevust teabenõuete täitmisel, vastutab teabenõude nõuetekohase täitmise eest iga ametnik või töötaja, kellele teabenõue on täitmiseks antud või kellele see on esitatud.\n(4) Teabe nõuetekohase avalikustamise eest vastutab teabevaldaja juht, kui õigusaktiga ei ole teabe avalikustamise korraldamist tehtud ülesandeks teisele isikule."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - TEABELE JUURDEPÄÄSU KORRALDUS",
+      "section": "11",
+      "title": "§ 11. Asutuse dokumendiregister",
+      "content": "(1) Asutuse dokumendiregister on digitaalselt peetav andmekogu, mida asutusse saabunud ja asutuses koostatud dokumentide registreerimiseks ja neile juurdepääsu tagamiseks peab riigi- või kohaliku omavalitsuse asutus või avalik-õiguslik juriidiline isik.\n(2) Vabariigi Valitsus võib kehtestada nõuded dokumendiregistrile."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - TEABELE JUURDEPÄÄSU KORRALDUS",
+      "section": "12",
+      "title": "§ 12. Nõuded dokumendiregistrile",
+      "content": "(1) Dokumendiregistris registreeritakse:\n1) asutusele saabunud dokumendid ja asutusest väljasaadetud dokumendid hiljemalt saabumise või väljasaatmise päevale järgneval tööpäeval;\n2) asutuses koostatud ja allkirjastatud õigusaktid hiljemalt nende allakirjutamise või sellele järgneval tööpäeval;\n3) sõlmitud lepingud nende allakirjutamisele järgneval tööpäeval.\n(2) Raamatupidamisdokumente ei pea dokumendiregistrisse kandma.\n(2^1) Isikuga seotud dokumente, mis on juba kantud teise andmekogusse ja millele on isiku juurdepääs tagatud, ei pea dokumendiregistrisse kandma.\n(3) Dokumendiregistrisse kantakse saabunud ja väljastatud dokumentide kohta vähemalt järgmised andmed:\n1) kellelt on saabunud või kellele väljastatud;\n2) saabumise või väljastamise kuupäev;\n3) mil viisil dokument saabus või väljastati (elektronposti, posti, faksi või kulleriga või anti üle isiklikult);\n4) dokumendi rekvisiidid;\n5) dokumendi liik (avaldus, märgukiri, resolutsioon, teabenõue, kiri vms);\n6) dokumendi suhtes kehtivad juurdepääsupiirangud.\n(3^1) Kui asutusele saabunud dokumentide saatja või asutusest väljastatud dokumentide saaja on füüsiline isik, siis ei märgita dokumendiregistri avalikus vaates teavet, mis võimaldaks füüsilist isikut tuvastada.\n(4) Saabunud ja lahendamist või vastamist vajavate dokumentide kohta kantakse dokumendiregistrisse ka seadusest tulenev lahendamise või vastamise tähtaeg, vastuse koostamise või lahendamise korraldamise eest vastutava struktuuriüksuse nimetus ja ametniku või töötaja nimi, kes vastuse koostab.\n(4^1) Dokumendiregistris registreeritud ja asutuse dokumendihaldussüsteemis sisalduvatele elektroonilistele dokumentidele, millele ei ole juurdepääsupiirangut kehtestatud, tagatakse juurdepääs dokumendiregistri kaudu, välja arvatud dokumentidele, mis avaldatakse Riigi Teatajas.\n(4^2)\n(5) Dokumendiregistri pidaja peab võimaldama juurdepääsu dokumendiregistrile, looma dokumentide leidmise hõlbustamiseks sisujuhi ja kasutusjuhendi ning tagama dokumentide leidmise käesoleva paragrahvi lõikes 3 toodud andmete alusel infotehnoloogilise otsingusüsteemi abil ületekstiotsinguga."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - TEABELE JUURDEPÄÄSU VÕIMALDAMINE TEABENÕUDE ALUSEL",
+      "section": "13",
+      "title": "§ 13. Teabenõude esitamise viis",
+      "content": "Teabenõudja esitab teabevaldajale teabenõude kas:\n1) suuliselt, pöördudes teabevaldaja poole vahetult või telefoni teel, või\n2) kirjalikult, andes teabenõude üle isiklikult või edastades selle posti, faksi või elektronpostiga."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - TEABELE JUURDEPÄÄSU VÕIMALDAMINE TEABENÕUDE ALUSEL",
+      "section": "14",
+      "title": "§ 14. Teabenõude kohta kehtivad nõuded",
+      "content": "(1) Teabenõudes tuleb suuliselt või kirjalikult esitada järgmised andmed:\n1) teabenõudja ees- ja perekonnanimi;\n2) asutuse või juriidilise isiku nimel esitatava teabenõude puhul juriidilise isiku nimi või asutuse nimetus;\n3) teabenõudja sideandmed (posti- või elektronpostiaadress või faksi- või telefoninumber), mille kaudu teabevaldaja saaks teabe väljastada või teabenõudjaga ühendust võtta;\n4) taotletava teabe sisu või dokumendi liik, nimetus ja sisu või teabenõudjale teada olevad dokumendirekvisiidid;\n5) taotletav teabenõude täitmise viis.\n(2) Kui isik taotleb teavet, milles sisalduvad tema või kolmandate isikute juurdepääsupiiranguga isikuandmed, tuvastab teabevaldaja teabenõudja isiku. Kui isik taotleb juurdepääsupiiranguga isikuandmeid kolmandate isikute kohta, teatab ta teabevaldajale teabele juurdepääsu aluse ja eesmärgi.\n(2^1)\n(3) Teabevaldajal on õigus nõuda kirjaliku teabenõude esitamist, kui teabenõudja ei ole rahul suuliselt antud teabega.\n(4)\n(5) Teabenõudja ei tohi ameti- või tööülesannete täitmise ettekäändel või ametiseisundit kasutades taotleda teabele juurdepääsu isiklikul eesmärgil."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - TEABELE JUURDEPÄÄSU VÕIMALDAMINE TEABENÕUDE ALUSEL",
+      "section": "15",
+      "title": "§ 15. Teabevaldaja kohustus abistada teabenõudjat",
+      "content": "(1) Teabevaldaja on kohustatud selgitama teabenõudjale arusaadavalt teabele juurdepääsu korda, tingimusi ja viise.\n(2) Teabevaldaja ametnik või töötaja on kohustatud igakülgselt abistama teabenõudjat teabenõude esitamisel ning teabenõudjale vajaliku teabe, selle asukoha ja teabenõudjale sobivamate võimalike juurdepääsuviiside väljaselgitamisel.\n(3) Teabevaldaja ametnik või töötaja, kellel ei ole pädevust teabenõuet täita, on kohustatud viivitamata juhatama teabenõudja ametniku või töötaja juurde, kellel on vastav pädevus, või edastama viivitamata kirjaliku teabenõude nimetatud ametnikule või töötajale.\n(4) Kui teabenõudest ei selgu, millisel viisil või millist teavet teabenõudja soovib, peab teabevaldaja teabenõude täpsustamiseks võtma teabenõudjaga viivitamata ühendust."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - TEABELE JUURDEPÄÄSU VÕIMALDAMINE TEABENÕUDE ALUSEL",
+      "section": "16",
+      "title": "§ 16. Teabenõude registreerimine",
+      "content": "(1) Teabevaldaja registreerib teabenõude selle saamise päeval või hiljemalt saamisele järgneval tööpäeval.\n(2) Käesoleva seaduse §-s 11 sätestatud teabevaldaja dokumendiregistrisse kantakse teabenõudja esitatud § 14 lõikes 1 loetletud andmed ja teabenõude täitmise eest vastutava töötaja või struktuuriüksuse andmed ning teabenõude täitmise tähtpäev.\n(3) Teabenõuet ei pea registreerima, kui:\n1) see on anonüümne;\n2) see on esitatud suuliselt või elektrooniliselt ja täidetakse viivitamata."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - TEABELE JUURDEPÄÄSU VÕIMALDAMINE TEABENÕUDE ALUSEL",
+      "section": "17",
+      "title": "§ 17. Teabenõude täitmise viis",
+      "content": "(1) Teabevaldaja täidab teabenõude teabenõudja poolt soovitud viisil, väljastades teabe:\n1) teisaldatavale andmekandjale digitaalselt või teabenõudes märgitud elektronpostiaadressil;\n2) dokumendi koopia või ärakirjana paberkandjal kas vahetult teabenõudjale või tema postiaadressil;\n3) faksi teel;\n4) suuliselt;\n5) tutvumiseks teabevaldaja juures;\n6) muul viisil, arvestades teabekandja tüüpi.\n(2) Teabevaldaja võib keelduda soovitud viisil teabenõude täitmisest, kui:\n1) selleks puuduvad tehnilised võimalused;\n2) seda ei võimalda teabekandja tüüp;\n3) teabe suuliselt edastamine takistab ajalise kestuse tõttu ülemääraselt teabevaldaja põhiülesannete täitmist.\n(3) Teabevaldaja peab teabenõudja taotlusel väljastama dokumentide koopiad paberkandjal, kui teabekandja tüüp ja teabenõudja sideandmed seda võimaldavad ja kui teave ei ole avalikustatud.\n(4) Teabenõudja nõudel peab teabevaldaja väljastama teabe (sealhulgas avalikustatud teabe) ametliku kinnitusega, kui kinnitus on vajalik teabenõudja õiguste ja vabaduste kasutamiseks ning kohustuste täitmiseks.\n(5) Suuliselt väljastatakse teave üksnes juhul, kui:\n1) soovitakse andmeid teabenõudja esitatud avalduse, märgukirja või muu taotluse menetluse kohta;\n2) soovitakse andmeid selle kohta, kas teabevaldaja valduses on teabenõudja poolt soovitud teave.\n(6) Teabenõude suulisel täitmisel ei ole teabenõude täitja kohustatud dokumente ette lugema.\n(7) Käesoleva paragrahvi lõikes 2 sätestatud juhtudel valib sobiva teabenõude täitmise viisi teabevaldaja, konsulteerides võimaluse korral enne teabenõude täitmist teabenõudjaga.\n(8) Kui teabenõudest ei selgu teabenõudja poolt taotletav teabenõude täitmise viis ja teabenõudjaga ei ole võimalik teabenõude täitmise viisi täpsustada teabenõude täitmiseks ettenähtud tähtaja jooksul, täidetakse teabenõue selles esitatud sideandmete alusel teabevaldaja valitud viisil, võimaluse korral eelistades teabenõude esitamise viisi."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - TEABELE JUURDEPÄÄSU VÕIMALDAMINE TEABENÕUDE ALUSEL",
+      "section": "18",
+      "title": "§ 18. Teabenõude täitmise tähtaeg ja menetlustähtaegade arvestamine",
+      "content": "(1) Teabenõue täidetakse viivituseta, kuid mitte hiljem kui viie tööpäeva jooksul.\n(2) Kui teabenõuet ei ole võimalik teabenõudja esitatud andmete puudulikkuse tõttu täita, siis teavitab teabevaldaja sellest teabenõudjat viie tööpäeva jooksul teabenõude täpsustamiseks.\n(3) Käesolevas seaduses sätestatud teabenõude menetluse tähtaegu arvestatakse alates teabenõude registreerimisele järgnevast tööpäevast."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - TEABELE JUURDEPÄÄSU VÕIMALDAMINE TEABENÕUDE ALUSEL",
+      "section": "19",
+      "title": "§ 19. Teabenõude täitmise tähtaja pikendamine",
+      "content": "Kui teabevaldajal on vaja teabenõuet täpsustada või kui teabe väljaselgitamine on aeganõudev, võib ta teabenõude täitmise tähtaega pikendada kuni 15 tööpäevani. Tähtaja pikendamisest koos põhjendustega teatab teabevaldaja teabenõudjale viie tööpäeva jooksul."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - TEABELE JUURDEPÄÄSU VÕIMALDAMINE TEABENÕUDE ALUSEL",
+      "section": "20",
+      "title": "§ 20. Teabenõude täidetuks lugemine",
+      "content": "Teabenõue loetakse teabenõude saanud teabevaldaja poolt täidetuks, kui:\n1) teave on teabenõudjale edastatud seaduses sätestatud viisil;\n2) teabenõue on edastatud vastavalt kuuluvusele ja sellest on teabenõudjale teatatud;\n3) teabenõudjale on selgitatud võimalust tutvuda avalikustatud teabega."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - TEABELE JUURDEPÄÄSU VÕIMALDAMINE TEABENÕUDE ALUSEL",
+      "section": "21",
+      "title": "§ 21. Teabenõude edastamine vastavalt kuuluvusele",
+      "content": "(1) Kui teabevaldaja ei valda taotletud teavet, selgitab ta välja pädeva teabevaldaja ja edastab talle teabenõude viivituseta, kuid mitte hiljem kui viie tööpäeva jooksul, teatades sellest samal ajal teabenõudjale.\n(2) Telefoni teel esitatud teabenõude võib jätta edastamata juhul, kui teabenõudjale teatatakse, kuhu teabenõudega tuleb pöörduda.\n(3) Eraõiguslikust juriidilisest isikust ja füüsilisest isikust teabevaldaja võib jätta teabenõude edastamata, teatades sellest teabenõudjale viivituseta, kuid mitte hiljem kui viie tööpäeva jooksul."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - TEABELE JUURDEPÄÄSU VÕIMALDAMINE TEABENÕUDE ALUSEL",
+      "section": "22",
+      "title": "§ 22. Avalikustatud teabe juurde juhatamine",
+      "content": "Kui taotletud teave on avalikustatud käesolevas või muus seaduses sätestatud korras, võib teabevaldaja teavet väljastamata teatada sellest teabenõudjale viivituseta, kuid mitte hiljem kui viie tööpäeva jooksul, koos andmetega taotletavale teabele juurdepääsu viisi ja koha kohta, välja arvatud käesoleva seaduse § 17 lõikes 4 sätestatud juhul."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - TEABELE JUURDEPÄÄSU VÕIMALDAMINE TEABENÕUDE ALUSEL",
+      "section": "23",
+      "title": "§ 23. Teabenõude täitmisest keeldumine",
+      "content": "(1) Teabevaldaja keeldub teabenõude täitmisest, kui:\n1) taotletava teabe suhtes kehtivad juurdepääsupiirangud ja teabenõudjal ei ole taotletavale teabele juurdepääsuõigust;\n2) ta ei valda taotletavat teavet ega tea, kes seda valdab, ning tal ei ole võimalik taotletava teabe valdajat kindlaks teha;\n3) teabenõude täitmine ei ole võimalik, kuna teabenõude täpsustamisel ei selgu, millist teavet teabenõudja taotleb;\n4) teabenõudja ei ole tasunud riigilõivu või teabenõude täitmise kulutuste eest, kui riigilõiv või tasu on seadusega ette nähtud ja teabevaldaja ei ole loobunud kulutuste katmise nõudest.\n(2) Teabevaldaja võib teabenõude täitmisest keelduda, kui:\n1) samale teabenõudjale on taotletav teave juba antud ja teabenõudja ei põhjenda vajadust saada teavet teist korda;\n2) füüsiliselt isikult ja eraõiguslikult juriidiliselt isikult taotletav teave ei käsitle avalike ülesannete täitmist;\n3) teabenõude täitmine nõuab taotletava teabe suure mahu tõttu teabevaldaja töökorralduse muutmist, takistab talle pandud avalike ülesannete täitmist või nõuab põhjendamatult suuri kulutusi;\n4) teabenõuet ei saa täita ühekordse teabe väljastamisega;\n5) teabenõude täitmiseks tuleb teavet täiendavalt süstematiseerida ja analüüsida ning selle alusel on vaja uus teave dokumenteerida. Selline teabenõue loetakse selgitustaotluseks ja sellele vastatakse märgukirjale ja selgitustaotlusele vastamise seadusega ettenähtud korras;\n6) kohus on tuvastanud, et teabenõudja teovõime on piiratud;\n7) teabenõudja sideandmed puuduvad.\n(3) Teabevaldaja teeb teabenõude täitmisest keeldumise koos põhjendusega teabenõudjale teatavaks viie tööpäeva jooksul."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "3. peatükk - TEABELE JUURDEPÄÄSU VÕIMALDAMINE TEABENÕUDE ALUSEL",
+      "section": "25",
+      "title": "§ 25. Teabenõude täitmise kulude katmine",
+      "content": "(1) Teabenõude täitmise kulud katab teabevaldaja, kui seadusega ei ole ette nähtud teisiti. Väärtuslike andmestike ja teadusandmete taaskasutamisse andmise kulud katab teabevaldaja.\n(2) Paberkandjal koopiate valmistamise ja väljatrükkide eest tasub teabenõudja kuni 0,19 eurot iga väljastatud lehekülje eest alates 21. leheküljest, kui seadusega ei ole teabe väljastamise eest riigilõivu ette nähtud.\n(3) Riigi- ja kohaliku omavalitsuse asutuse esitatud teabenõude täitmise kulud katab teabevaldaja.\n(4) Teabe taaskasutamisse andmise eest saadav tulu ei tohi ületada avaandmete paljundamiseks, esitamiseks ja levitamiseks ning isikuandmete anonüümimiseks ja ärisaladuse kaitsmiseks tehtud kulusid.\n(5) Teabevaldaja, kes peab katma olulise osa oma avalike ülesannete täitmisest tulenevatest kuludest, ning käesoleva seaduse § 5 lõike 1 punktis 3 ja lõikes 3 nimetatud teabevaldaja võib teabe taaskasutamisse andmise eest saadava tulu hulka lisaks käesoleva paragrahvi lõikes 4 nimetatud kuludele arvata ka mõistliku investeeringutulu. Mõistlikuks investeeringutuluks on kuni viis protsenti üle Euroopa Keskpanga põhirefinantseerimisoperatsioonidele kohaldatava fikseeritud intressimäära.\n(6) Kui teabe taaskasutamise eest võetakse tasu, avalikustab teabevaldaja oma veebilehel tasu suuruse, tasu võtmise tingimused ja tasu arvutamise alused ning korraldab vähemalt iga kolme aasta järel vajaduse korral tasude ümberhindamise.\n(7) Teabevaldaja, kes peab katma olulise osa oma avalike ülesannete täitmisest tulenevatest kuludest ja võtab käesoleva paragrahvi lõikes 5 nimetatud tasu, teavitab tasu võtmisest käesoleva seaduse § 32^1 lõikes 2 nimetatud asutust.\n(8) Käesoleva paragrahvi lõike 5 alusel tasu võtvate teabevaldajate nimekiri avalikustatakse Eesti teabeväravas."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "3. peatükk - TEABELE JUURDEPÄÄSU VÕIMALDAMINE TEABENÕUDE ALUSEL",
+      "section": "26",
+      "title": "§ 26. Kulude katmisest vabastamine",
+      "content": "Teabevaldaja võib vabastada teabenõudja käesoleva seaduse § 25 lõikes 2 sätestatud kulude katmisest, kui:\n1) kulude sissenõudmine ei ole majanduslikult otstarbekas;\n2) teabenõudjale on teave vajalik teadusliku töö tegemiseks;\n3) teabenõudjale on teave vajalik oma õiguste ja vabaduste teostamiseks või kohustuste täitmiseks ja tal ei ole majanduslikke võimalusi kulude katmiseks."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "3. peatükk - TEABELE JUURDEPÄÄSU VÕIMALDAMINE TEABENÕUDE ALUSEL",
+      "section": "27",
+      "title": "§ 27. Kulude katmise kord",
+      "content": "(1) Teabenõudja tasub teabevaldajale enne teabe väljastamist.\n(2) Teabe või dokumendi väljastamise eest ette nähtud riigilõiv tasutakse enne teabe väljastamist riigilõivuseaduses sätestatud määra järgi.\n(3) Teabevaldaja on kohustatud teabenõudjale väljastama vastuvõetud summade kohta kviitungi."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - TEABE AVALIKUSTAMINE",
+      "section": "28",
+      "title": "§ 28. Teabevaldaja kohustus teave avalikustada",
+      "content": "(1) Teabevaldaja on kohustatud avalikustama järgmise tema ülesannetega seotud olemasoleva teabe:\n1) riigi ja kohaliku omavalitsuse üksuste üldistava majandusstatistika ja majandusprognoosid;\n2) kuritegevuse ja väärtegude üldistava statistika;\n3) riigi- ja kohaliku omavalitsuse asutuste ning nende struktuuriüksuste põhimäärused;\n4) riigi- ja kohaliku omavalitsuse asutustele esitatavate avalduste ja muude dokumentide vormid ning nende täitmise juhendi;\n5) riigi ja kohaliku omavalitsuse ametnike ametijuhendid;\n6) riigi- ja kohaliku omavalitsuse asutuste koosseisud ja neis asutustes ettenähtud ametikohti täitvate ametnike ees- ja perekonnanimed, hariduse ja eriala, telefoninumbrid ning elektronpostiaadressid;\n7) andmed ohu kohta inimeste elule, tervisele ja varale;\n8) riigi- ja kohaliku omavalitsuse asutuste töötulemuste ja ülesannete täitmise aruanded;\n9) avalik-õiguslike juriidiliste isikute nõukogu ja juhatuse liikmete nimed ning elektronpostiaadressid;\n10) avalik-õiguslike juriidiliste isikute tegevusaruanded ja tulude-kulude aruanded;\n11) riigiasutuste ja kohaliku omavalitsuse üksuste ning kohaliku omavalitsuse asutuste eelarvete eelnõud ja eelarved ning nende täitmise aruanded;\n12) andmed riigieelarve tulude laekumise kohta;\n13) andmed keskkonnaseisundi, keskkonnakahjustuste ja ohtlike keskkonnamõjude kohta;\n14) riikliku järelevalve, haldusjärelevalve ja teenistusliku järelevalve käigus tehtud ettekirjutused ning otsused nende jõustumisest alates;\n15) ministeeriumides valminud seaduste ja Vabariigi Valitsuse määruste eelnõud koos seletuskirjadega nende kooskõlastamiseks saatmisel ja Vabariigi Valitsusele esitamisel;\n16) ministri ja kohaliku omavalitsuse organite määruste eelnõud koos seletuskirjadega enne nende vastuvõtmiseks esitamist;\n17) kontseptsioonide, arengukavade, programmide ja muude üldise tähtsusega projektide eelnõud enne pädevatele organitele heakskiitmiseks esitamist, samuti vastavad heakskiidetud või vastuvõetud dokumendid;\n18) riigi- või kohaliku omavalitsuse asutuse tellitud uuringud ja analüüsid;\n19) andmed riigi- ja kohaliku omavalitsuse asutuste täitmata ametikohtade kohta;\n20) andmed riigi ja kohaliku omavalitsuse üksuste poolt teostatavate ja teostatud riigihangete kohta;\n21) andmed selle vara ja eelarveraha kasutamise kohta, mille riik või kohaliku omavalitsuse üksus on andnud üle riigi või kohaliku omavalitsuse üksuse asutatud või nende osalusega eraõiguslikele juriidilistele isikutele;\n22) avalike ürituste kavad;\n23) muudatused riigi- ja kohaliku omavalitsuse asutuste töös ja ülesannetes, mis on seotud isikute teenindamisega, vähemalt kümme päeva enne muudatuste rakendamist;\n24) andmed riigi- ja kohaliku omavalitsuse asutuste juhtide vastuvõtuaegade kohta;\n25) riigi ja kohaliku omavalitsuse üksuse ametiasutuste ametnike palga ja teenistusülesannetega seonduva muu tulu ning ametiasutuse palgajuhendi avaliku teenistuse seaduses sätestatud korras;\n26) andmed kaubaturul valitsevas seisundis olevate, eri- või ainuõigust või loomulikku monopoli omavate äriühingute hinnakujunduse kohta;\n27) andmed üldkasutatavate teenuste osutamise kohta, samuti muudatuste kohta teenuste osutamise tingimustes ja hindades enne selliste muudatuste rakendamist;\n28) erakondade liikmete nimekirjad;\n29) jõustunud kohtulahendid seadusest tulenevate piirangutega;\n30) andmekogudes sisalduvad andmed, millele ei ole kehtestatud juurdepääsupiirangut;\n31) asutuse dokumendiregistri;\n31^1) isikuandmete töötlemise eesmärk, ulatus ja viis, kolmandatele isikutele, sealhulgas teisele asutusele, isikuandmete edastamise ja avalikkusele kättesaadavaks tegemise ning isiku poolt enda andmetega tutvumise õigus ja kord;\n31^2) avalikustamisele kuuluvad avaandmed, teave avaandmete kättesaadavuse ja vajaduse korral litsentside kohta;\n32) muu teabe ja dokumendid, mille avalikustamise kohustus on sätestatud välislepingus, seaduses või selle alusel vastuvõetud õigusaktis või mida teabevaldaja peab vajalikuks avalikustada.\n(2) Teabe avalikustamise korral peab olema märgitud, kes, millal ja millise toiminguga (kehtestamine, kinnitamine, registreerimine või muu ametlik toiming) on avalikustatava teabe dokumenteerinud ning kellelt saab avalikustatud teabe kohta selgitusi."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - TEABE AVALIKUSTAMINE",
+      "section": "29",
+      "title": "§ 29. Teabe avalikustamise viisid",
+      "content": "(1) Käesoleva seaduse § 28 lõikes 1 loetletud teave tuleb käesoleva seaduse §-s 31 nimetatud teabevaldajal avalikustada veebilehel, või lisatakse veebilehe link, mille kaudu on teave kättesaadav.\n(2) Lisaks veebilehele võib käesoleva seaduse § 28 lõikes 1 loetletud teabe avalikustada:\n1) tele- või raadioprogrammis või trükiajakirjanduses;\n2) dokumendi väljapanekuga üldiseks tutvumiseks kohaliku omavalitsuse asutuses või rahvaraamatukogus;\n3) ametlikus väljaandes;\n4) muul seadusega või selle alusel vastuvõetud õigusaktiga ettenähtud viisil.\n(3) Käesoleva seaduse § 28 lõike 1 punktides 1–4, 7, 8, 10–13, 15–24, 26, 27, 31^1 ja 31^2 nimetatud avaandmed avalikustab teabevaldaja § 3^1 lõikes 4 sätestatud viisil.\n(4)\n(5) Käesoleva seaduse § 28 lõike 1 punktis 30 nimetatud teabe üldisele kasutamisele piirangute seadmisel lähtub käesoleva seaduse § 43^4 lõikes 1 nimetatud teabevaldaja käesoleva seaduse §-s 3^1 sätestatust ning avalikustab üldiseks kasutamiseks antavad andmekogu andmed (edaspidi andmekogu avaandmed ) juhul, kui see on võimalik ja asjakohane, ajakohasena ning viisil ja vormis, mis võimaldab andmekogu avaandmed alla laadida tervikliku andmekogumina koos metaandmetega masinloetaval kujul ning avatud vormingus. Kui andmekogu avaandmete masinloetavale kujule või avatud vormingusse viimine ei ole võimalik või see nõuab ebaproportsionaalselt suuri pingutusi, tagab teabevaldaja andmekogu avaandmete avalikustamise nende algkujul või mis tahes muus vormingus.\n(6) Masinloetaval kujul avaandmed peavad olema juurdepääsetavad Eesti teabevärava kaudu."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "4. peatükk - TEABE AVALIKUSTAMINE",
+      "section": "30",
+      "title": "§ 30. Teabe avalikustamise viisi valimine",
+      "content": "(1) Teabevaldaja on kohustatud teabe avalikustama viisil, mis tagab selle jõudmise võimalikult kiiresti igaüheni, kes teavet vajab. Teabevaldaja ei ole kohustatud teabe avalikustamiseks taaskasutamise eesmärgil teavet täiendavalt süstematiseerima või analüüsima, kui see nõuab ebaproportsionaalseid pingutusi.\n(2) Kui teabe avalikustamise viis on ette nähtud eriseaduse või välislepinguga, kohaldatakse teabe avalikustamisel eriseaduses või välislepingus sätestatud viisi ja avalikustatakse teave ka veebilehel, kui selline kohustus tuleneb käesoleva seaduse §-st 31.\n(3) Teabevaldaja on kohustatud viivitamata avalikustama teabe inimeste elu, tervist või vara või keskkonda ähvardava ohu kohta, valides selleks kiireima ja sobivaima viisi, et ohtu vältida ja võimalikke tagajärgi leevendada.\n(4) Riigi- ja kohaliku omavalitsuse asutused on kohustatud edastama meediateenuse osutajatele või trükiajakirjandusele avalikustamiseks nende valduses oleva teabe sündmuste ja faktide kohta, mille puhul on eeldada avalikkuse huvi."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "4. peatükk - TEABE AVALIKUSTAMINE",
+      "section": "31",
+      "title": "§ 31. Veebilehe pidamise kohustus",
+      "content": "(1) Riigikogu Kantselei, Vabariigi Presidendi Kantselei, Õiguskantsleri Kantselei, Riigikontroll, kohtud, valitsusasutused ja avalik-õiguslikud juriidilised isikud on kohustatud pidama teabe avalikustamiseks veebilehte.\n(2) Linna- ja vallavalitsus korraldab veebilehe pidamise oma linna või valla organite ja asutuste tegevuse kajastamiseks ja nende valduses oleva teabe avalikustamiseks. Linna- ja vallavalitsused võivad lepingu alusel korraldada ühise veebilehe pidamist.\n(3) Riigikantselei ja ministeeriumid on kohustatud kasutusele võtma abinõud hallatavate riigiasutuste poolt veebilehtede pidamiseks."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - TEABE AVALIKUSTAMINE",
+      "section": "32",
+      "title": "§ 32. Veebilehe ja mobiilirakenduse pidamise nõuded",
+      "content": "(1) Veebilehte või mobiilirakendust pidav teabevaldaja:\n1) teavitab avalikkust veebilehe või mobiilirakendusega tutvumise võimalustest, avaldades viite veebilehele või mobiilirakendusele;\n2) avaldab veebilehel või mobiilirakenduses päevakohast teavet;\n3) ei või avaldada veebilehel või mobiilirakenduses teavet, mis ei vasta tegelikkusele või on eksitav;\n4) märgib veebilehel või mobiilirakenduses iga dokumendi avaldamise kuupäeva ja teabe uuendamise aja;\n5) rakendab viivitamata abinõusid veebilehele või mobiilirakendusele juurdepääsu takistavate tehniliste probleemide kõrvaldamiseks;\n6) teeb veebilehe või mobiilirakenduse käesoleva paragrahvi lõike 2 alusel kehtestatud nõuetele vastavalt ligipääsetavaks, välja arvatud juhul, kui see nõuab ebaproportsionaalselt suurt pingutust;\n7) avaldab veebilehe või mobiilirakenduse ligipääsetavust kirjeldava teabe veebilehel või mobiilirakenduse allalaadimise keskkonnas.\n(2) Veebilehe ja mobiilirakenduse ligipääsetavuse nõuded ning ligipääsetavust kirjeldava teabe avaldamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(3) Käesoleva paragrahvi lõike 1 punktis 6 sätestatud ligipääsetavuse kohustus ei laiene Euroopa Parlamendi ja nõukogu direktiivi (EL) 2016/2102, mis käsitleb avaliku sektori asutuste veebisaitide ja mobiilirakenduste juurdepääsetavust (ELT L 327, 02.12.2016, lk 1–15), artikli 1 lõikes 4 nimetatud veebilehtede ja mobiilirakenduste sisule.\n(4) Käesoleva paragrahvi lõike 1 punkti 6 tähenduses on pingutus ebaproportsionaalselt suur, kui teabevaldaja suurust, ressurssi ja tüüpi ning veebilehe või mobiilirakenduse kasutamise sagedust ja kestust arvestades toob veebilehe või mobiilirakenduse ligipääsetavaks tegemine kaasa ebamõistlikud kulud.\n(5) Riigikantselei ja ministeeriumi veebilehelt peab olema võimalik otse juurde pääseda nende haldusala asutuste veebilehtedele.\n(6) Käesoleva paragrahvi lõike 1 punktides 6 ja 7 sätestatut ei kohaldata:\n1) meediateenust osutavale teabevaldajale;\n2) koolidele, lasteaedadele ja lastehoidudele, välja arvatud üldinfo, sealhulgas vastuvõtuinfo, asukoha ja kontaktandmete avaldamisel;\n3) käesoleva seaduse § 5 lõikes 3 nimetatud teabevaldajaga võrdsustatud isikule."
+    },
+    {
+      "provision_ref": "para32^1",
+      "chapter": "4. peatükk - TEABE AVALIKUSTAMINE",
+      "section": "32^1",
+      "title": "§ 32^1. Eesti teabevärav",
+      "content": "(1) Eesti teabevärav on veebileht, mille kaudu on kättesaadav teabevaldajate tegevusvaldkonda ja üldkasutatavaid teenuseid puudutav avalikkusele suunatud teave ning mille kaudu võimaldatakse juurdepääs elektroonilisele üldkasutatavale teenusele ja taaskasutatavale teabele.\n(2) Eesti teabevärava haldamise ja arendamise tagab Justiits- ja Digiministeerium.\n(3) Eesti teabevärava haldaja tagab koostöös teabevaldajatega teabe kasutajakeskselt korrastatud esitluse teabeväravas.\n(4) Teabevaldaja tagab ennast puudutava teabe aktuaalsuse ja ülevaatlikkuse Eesti teabeväravas ning teabe edastamise.\n(5) Vabariigi Valitsus võib määrusega kehtestada Eesti teabevärava haldamise, teabe kättesaadavaks tegemise, arendamise, kasutamise, Eesti teabeväravas isikuandmete töötlemise ning andmekogu teabeväravaga liidestamise nõuded ja korra."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - TEABE AVALIKUSTAMINE",
+      "section": "33",
+      "title": "§ 33. Juurdepääs andmesidevõrgule",
+      "content": "Igaühel peab olema võimalus Interneti kaudu vabaks juurdepääsuks avalikule teabele rahvaraamatukogudes rahvaraamatukogu seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "5. peatükk - PIIRATUD JUURDEPÄÄSUGA TEAVE",
+      "section": "34",
+      "title": "§ 34. Piiratud juurdepääsuga teave",
+      "content": "(1) Piiratud juurdepääsuga teave on teave, millele juurdepääs on seadusega kehtestatud korras piiratud.\n(2) Käesoleva seaduse alusel võib asutuse juht kehtestada teabele juurdepääsupiirangu, tunnistades teabe asutusesiseseks kasutamiseks mõeldud teabeks."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "5. peatükk - PIIRATUD JUURDEPÄÄSUGA TEAVE",
+      "section": "35",
+      "title": "§ 35. Teabe asutusesiseseks tunnistamise alused",
+      "content": "(1) Teabevaldaja on kohustatud tunnistama asutusesiseseks kasutamiseks mõeldud teabeks:\n1) kriminaal- või väärteomenetluses kogutud teabe, välja arvatud vastavalt väärteomenetluse seadustikus ja kriminaalmenetluse seadustikus sätestatud tingimustel avaldatava teabe;\n2) riikliku järelevalve, haldusjärelevalve ja teenistusliku järelevalve menetluse käigus kogutud teabe kuni selle kohta tehtud otsuse jõustumiseni;\n3) teabe, mille avalikuks tulek kahjustaks riigi välissuhtlemist;\n3^1) teabe sisejulgeoleku tagamise, riigikaitsepoliitika kujundamise, riigikaitse korraldamise, sealhulgas riigi sõjalise kaitse planeerimise, ettevalmistamise ja juhtimise, või riigisaladuse ja salastatud välisteabe kaitse korraldamisega tegeleva teabevaldaja struktuuriüksuse ülesannete ja koosseisu, ametniku ja töötaja ning tema ülesannete kohta, kui sellise teabe avalikuks tulek ohustaks riigi julgeolekut või riigisaladuse ja salastatud välisteabe kaitset;\n4) teabe kaitseväe relvastuse ja varustuse tabelite ning relvastuse ja varustuse hulga kohta, kui selline teave ei ole riigisaladus või salastatud välisteave;\n5) kaitseväe valdusse sõjalise valmisoleku tõstmisel ja mobilisatsiooni korral üleantava riigivara kohta käiva teabe;\n5^1) teabe uurimisasutuse tegevuse meetodite ja taktika kohta, kui selle avalikuks tulek võib raskendada süütegude avastamist või soodustada nende toimepanemist;\n5^2) teabe politsei relvastuse hulga kohta, kui selline teave ei ole riigisaladus või salastatud välisteave;\n6) teabe riigikaitseseaduse alusel kohaldatud asja sundkasutusse võtmise ja asja sundvõõrandamise kohta;\n6^1) teabe, mille avalikuks tulek ohustaks riigikaitseobjekti või lihtsustaks selle vastase ründe toimepanemist;\n6^2) teabe riigikaitseülesannete täitmiseks ja hädaolukorra tagajärgede leevendamiseks vajaliku varu suuruse ja vahendite koguse kohta ning selle kasutusele võtmise ulatuse ja tingimuste kohta;\n7) teabe, mille avalikuks tulek ohustaks muinsuskaitse all olevat objekti või muuseumikogusse kuuluvat museaali;\n8) teabe, mille avalikuks tulek ohustaks kaitseala või kaitsealuse liigi ning tema elupaiga või kasvukoha säilimist;\n9) teabe turvasüsteemide, turvaorganisatsiooni või turvameetmete kirjelduse kohta;\n10) teabe tehnoloogiliste lahenduste kohta, kui sellise teabe avalikuks tulek kahjustaks teabevaldaja huve või sellise teabe asutusesiseseks kasutamiseks tunnistamine on ette nähtud eraõigusliku isikuga sõlmitud lepingus;\n11) teabe, mis sisaldab eriliiki isikuandmeid või andmeid süüteo toimepanemise või selle ohvriks langemise kohta enne avalikku kohtuistungit või õigusrikkumise asjas otsuse langetamist või asja menetluse lõpetamist;\n12) teabe, mis sisaldab isikuandmeid, kui sellisele teabele juurdepääsu võimaldamine kahjustaks oluliselt andmesubjekti eraelu puutumatust;\n13) teabe, mis sisaldab perekonnaelu üksikasju kirjeldavaid andmeid;\n14) teabe sotsiaalabi või sotsiaalteenuste osutamise taotlemise kohta;\n15) teabe, mis kirjeldab isiku vaimseid või füüsilisi kannatusi;\n16) isiku kohta seoses maksustamisega kogutud teabe, välja arvatud maksukorralduse seaduse §-s 27 nimetatud andmed;\n17) teabe, mille avalikustamine võib kahjustada ärisaladust;\n18) siseauditi aruanded enne nende kinnitamist asutuse juhi poolt;\n18^1) elutähtsa teenuse riskianalüüsi ja toimepidevuse plaani puudutav teave;\n18^2) teabe isikuandmetega seotud rikkumisest teavitamise kohta;\n19) seaduses sätestatud muu teabe.\n(1^1)\n(2) Riigi- või kohaliku omavalitsuse asutuse või avalik-õigusliku juriidilise isiku juht võib asutusesiseseks kasutamiseks mõeldud teabeks tunnistada:\n1) õigustloovate aktide eelnõud enne nende kooskõlastamiseks saatmist või vastuvõtmiseks esitamist;\n2) dokumendi kavand ja selle juurde kuuluvad dokumendid enne nende vastuvõtmist või allakirjutamist;\n3) põhjendatud juhtudel asutusesiseselt adresseeritud dokumendid, mida dokumendiregistris ei registreerita (arvamused, teated, memod, õiendid, nõuanded jm);\n4) tsiviilkohtumenetluses riigi kui menetlusosalise huvisid kahjustada võiva teabe kuni kohtulahendi tegemiseni;\n5) riigikaitseülesannete täitmiseks ja hädaolukorra tagajärgede leevendamiseks vajaliku varu moodustamise ning vahendite muretsemisega seotud teabe, kui selle avalikuks tulek võib mõjutada varu moodustamist ja vahendite muretsemist.\n(3) Välisriigi või rahvusvahelise organisatsiooni poolt edastatud juurdepääsupiirangu märkega teave, mida ei loeta vastavalt riigisaladuse ja salastatud välisteabe seadusele salastatud välisteabeks, loetakse asutusesiseseks kasutamiseks mõeldud teabeks."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "5. peatükk - PIIRATUD JUURDEPÄÄSUGA TEAVE",
+      "section": "36",
+      "title": "§ 36. Teabe asutusesiseseks kasutamiseks tunnistamise keeld",
+      "content": "(1) Riigi- ja kohaliku omavalitsuse asutusest ja avalik-õiguslikust juriidilisest isikust teabevaldaja ei tohi asutusesiseseks kasutamiseks mõeldud teabeks tunnistada:\n1) avaliku arvamuse küsitluse tulemusi;\n2) üldistatud statistilisi ülevaateid;\n3) majandus- ja sotsiaalprognoose;\n4) teateid keskkonnaseisundi ja heidete kohta;\n5) teabevaldaja töö või tööedukuse aruandeid ning andmeid ülesannete täitmise kvaliteedi ja juhtimisvigade kohta;\n6) riigi- või kohaliku omavalitsuse ametniku või avalikke ülesandeid täitva eraõigusliku juriidilise isiku või füüsilise isiku mainet kahjustavat teavet, välja arvatud eriliiki isikuandmed või isikuandmed, mille avalikuks tulek kahjustaks andmesubjekti eraelu puutumatust;\n7) tarbija huvide kaitsest lähtuvat teavet kaupade ja teenuste kvaliteedi kohta;\n8) riigi või kohaliku omavalitsuse üksuse poolt või nende tellimisel tehtud uuringute ja analüüside tulemusi, kui andmete avalikustamine ei ohusta riigikaitset või riiklikku julgeolekut;\n9) dokumente riigi, kohaliku omavalitsuse üksuse või avalik-õigusliku juriidilise isiku eelarvevahendite kasutamise ning eelarvest töölepinguga töötavatele isikutele makstud töötasude ning muude tasude ja hüvitiste kohta;\n10) andmeid teabevaldaja varaliste kohustuste kohta;\n11) andmeid teabevaldajale kuuluva vara kohta;\n12) riikliku järelevalve, haldusjärelevalve või teenistusliku järelevalve korras või distsiplinaarkorras tehtud jõustunud ettekirjutusi või antud akte ning andmeid kehtivate karistuste kohta.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud keeld kehtib ka:\n1) selle mittetulundusühingu, sihtasutuse või äriühingu suhtes, mille asutajaks või milles osalejaks on riik, kohaliku omavalitsuse üksus või avalik-õiguslik juriidiline isik;\n2) teabe suhtes, mis puudutab eraõiguslikule juriidilisele isikule riigi või kohaliku omavalitsuse üksuse eelarvest eraldatud vahendite ja üleantud vara kasutamist."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "5. peatükk - PIIRATUD JUURDEPÄÄSUGA TEAVE",
+      "section": "38",
+      "title": "§ 38. Juurdepääs üksnes asutusesiseseks tunnistatud teabele",
+      "content": "(1) Avalikkuse huvi põhjustanud teabe faktide kohta, mis on seotud õiguserikkumise või õnnetusega, peab teabevaldaja avalikustama enne õiguserikkumise või õnnetuse asjaolude lõplikku selgitamist ulatuses, mis ei takista uurimist või järelevalvet või õnnetuse põhjuste selgitamist. Sellise teabe avalikustamise ulatuse otsustab pädev uurimist või järelevalvet korraldav või õnnetuse asjaolusid selgitav ametnik.\n(2) Kui teabele juurdepääsu võimaldamine võib põhjustada juurdepääsupiiranguga teabe avalikuks tulemise, siis tagatakse juurdepääs üksnes sellele osale teabest või dokumendist, mille kohta juurdepääsupiirangud ei kehti.\n(3) Asutusesiseseks kasutamiseks mõeldud teabeks tunnistatud teabele on juurdepääsuõigus riigi ja kohaliku omavalitsuse ametnikul või töötajal oma ametiülesannete täitmiseks. Seda teavet ei tohi edastada kolmandatele isikutele juurdepääsupiirangu kehtestanud asutuse loata.\n(3^1) Kui seadusega sätestatud juhul taotletakse avalike ülesannete täitmiseks juurdepääsu asutusesiseseks kasutamiseks mõeldud teabeks tunnistatud teabele, teatatakse teabevaldajale teabele seaduses sätestatud juurdepääsu alus ja eesmärk.\n(4) Asutuse juht võib otsustada asutuseväliste isikute juurdepääsu võimaldamise asutusesiseseks tunnistatud teabele, kui see ei kahjusta riigi või omavalitsusüksuse huve."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "5. peatükk - PIIRATUD JUURDEPÄÄSUGA TEAVE",
+      "section": "39",
+      "title": "§ 39. Juurdepääs isikuandmeid sisaldavale teabele",
+      "content": "(1) Teabevaldaja võimaldab juurdepääsu tema valduses olevatele isikuandmetele Euroopa Parlamendi ja nõukogu määruses (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus) (ELT L 119, 04.05.2016, lk 1–88) või seaduses sätestatud aluse olemasolul käesolevas seaduses sätestatud korras.\n(2) Teabevaldaja on kohustatud pidama arvestust, kellele, mis eesmärgil, millal, millisel viisil ja millist asutusesiseseks kasutamiseks tunnistatud isikuandmeid sisaldavat teavet väljastati.\n(3)"
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "5. peatükk - PIIRATUD JUURDEPÄÄSUGA TEAVE",
+      "section": "40",
+      "title": "§ 40. Juurdepääsupiirangu tähtajad",
+      "content": "(1) Asutusesiseseks kasutamiseks mõeldud teabele kehtestatakse juurdepääsupiirang alates dokumendi koostamisest või saamisest ning kuni vajaduse möödumiseni või sündmuse saabumiseni, kuid mitte kauemaks kui viieks aastaks. Asutuse juht võib seda tähtaega pikendada kuni viie aasta võrra, kui juurdepääsupiirangu kehtestamise põhjus püsib.\n(1^1) Välisriigi või rahvusvahelise organisatsiooni poolt edastatud juurdepääsupiirangu märkega teabele, mis loetakse asutusesiseseks kasutamiseks mõeldud teabeks, kehtib juurdepääsupiirang teabe loonud riigi või organisatsiooni määratud tähtaja lõpuni.\n(2) Riiklikku järelevalvet, haldusjärelevalvet ja teenistuslikku järelevalvet ning täitevvõimu üksikotsuste ettevalmistamist käsitlevate dokumentide suhtes kohaldatakse juurdepääsupiirangut kuni otsuse vastuvõtmiseni, kui ei ole muud alust teabele juurdepääsu piirata.\n(3) Asutusesiseseks kasutamiseks tunnistatud isikuandmeid sisaldavale teabele kehtib juurdepääsupiirang selle saamisest või dokumenteerimisest alates 75 aastat või isiku surmast alates 30 aastat, või kui surma ei ole võimalik tuvastada, siis 110 aastat, alates isiku sünnist."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "5. peatükk - PIIRATUD JUURDEPÄÄSUGA TEAVE",
+      "section": "41",
+      "title": "§ 41. Teabe asutusesiseseks tunnistamise kord",
+      "content": "(1) Teabe tunnistab asutusesiseseks kasutamiseks mõeldud teabeks asutuse juht.\n(1^1) Asutuse juht kehtestab dokumentide loetelus sarjad, milles sisalduvatele dokumentidele võib juurdepääsupiirangud kehtestada, märkides ära käesolevas seaduses või muus seaduses sisalduva aluse. Konkreetsele dokumendile juurdepääsupiirangu kehtestamise otsustab asutuse juht või vastavalt asutuse juhi kehtestatud dokumentide loetelule asutuse juhi poolt määratud pädev töötaja, lähtudes dokumendi sisust ja juurdepääsupiirangu eesmärgist.\n(2) Kui teabekandja seda võimaldab, teeb asutusesiseseks kasutamiseks mõeldud teabeks tunnistatud dokumendile või dokumendi kogumile dokumendi vormistaja suurtähtedega märke «ASUTUSESISESEKS KASUTAMISEKS» või kasutab selle lühendit AK. Märkele lisatakse teabevaldaja nimi, juurdepääsupiirangu alus, lõpptähtpäev ja vormistamise kuupäev.\n(3) Välisriigi või rahvusvahelise organisatsiooni poolt edastatud juurdepääsupiirangu märkega dokumentidele, mis loetakse asutusesiseseks kasutamiseks mõeldud teabeks, lisatakse käesoleva paragrahvi lõikele 2 vastav eestikeelne märge juhul, kui teabe loonud riik või organisatsioon seda nõuab, kui see on ette nähtud välislepingus või kui see aitab selgitada juurdepääsupiirangut või selle tähtaega.\n(4) Teabe asutusesiseseks kasutamiseks tunnistanud teabevaldaja teavitab viivitamata teabe asutusesiseseks kasutamiseks tunnistamisest teabevaldajaid, kellele see teave on edastatud."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "5. peatükk - PIIRATUD JUURDEPÄÄSUGA TEAVE",
+      "section": "42",
+      "title": "§ 42. Juurdepääsupiirangu kehtetuks tunnistamine",
+      "content": "(1) Teabevaldaja on kohustatud juurdepääsupiirangu kehtetuks tunnistama, kui selle kehtestamise põhjus on kadunud.\n(2) Juurdepääsupiirangu kehtetuks tunnistamise kohta tehakse dokumendile märge.\n(2^1) Välisriigi või rahvusvahelise organisatsiooni poolt edastatud juurdepääsupiirangu märkega dokumentidele, mis loetakse asutusesiseseks kasutamiseks mõeldud teabeks, tehakse juurdepääsupiirangu kehtetuks tunnistamise kohta märge ka siis, kui neid ei ole märgistatud käesoleva seaduse § 41 lõike 3 kohaselt.\n(3) Teabevaldaja teavitab viivitamata juurdepääsupiirangu kehtetuks tunnistamisest teabevaldajaid, kellele see teave on edastatud."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "5. peatükk - PIIRATUD JUURDEPÄÄSUGA TEAVE",
+      "section": "43",
+      "title": "§ 43. Asutusesisese teabe kaitse",
+      "content": "(1) Teabevaldaja peab rakendama organisatsioonilisi, füüsilisi ja infotehnilisi turvameetmeid, et kaitsta asutusesisese teabe:\n1) terviklust – juhusliku või tahtliku volitamata muutmise eest;\n2) käideldavust – juhusliku hävimise ja tahtliku hävitamise eest ning õigustatud isikule andmete kättesaadavuse takistamise eest;\n3) konfidentsiaalsust – juhusliku või tahtliku volitamata juurdepääsu eest.\n(2) Organisatsioonilisi, füüsilisi ja infotehnilisi turvameetmeid tuleb rakendada asutusesisese teabe kaitseks olenemata teabe vormingust nii digitaalkujul kui ka paberkandjal teabe osas.\n(3) Vabariigi Valitsus võib määrusega kehtestada asutusesisese teabe tervikluse, käideldavuse ja konfidentsiaalsuse kaitseks rakendatavate organisatsiooniliste, füüsiliste ja infotehniliste turvameetmete loetelu."
+    },
+    {
+      "provision_ref": "para43^1",
+      "chapter": "5. peatükk - ANDMEKOGUD",
+      "section": "43^1",
+      "title": "§ 43^1. Andmekogu",
+      "content": "(1) Andmekogu on riigi, kohaliku omavalitsuse või muu avalik-õigusliku isiku või avalikke ülesandeid täitva eraõigusliku isiku infosüsteemis töödeldavate korrastatud andmete kogum, mis asutatakse ja mida kasutatakse seaduses, selle alusel antud õigusaktis või rahvusvahelises lepingus sätestatud ülesannete täitmiseks.\n(2) Andmekogus töödeldavate korrastatud andmete kogum võib koosneda ka üksnes teistes andmekogudes sisalduvatest unikaalsetest andmetest.\n(3) Andmekogusse andmete kogumisel lähtutakse andmete ühekordse küsimise põhimõttest."
+    },
+    {
+      "provision_ref": "para43^2",
+      "chapter": "5. peatükk - ANDMEKOGUD",
+      "section": "43^2",
+      "title": "§ 43^2. Riigi infosüsteem",
+      "content": "(1) Riigi infosüsteemi kuuluvad andmekogud, mis on infosüsteemi andmevahetuskihiga liitunud ja riigi infosüsteemi haldussüsteemis registreeritud, ning andmekogude pidamist kindlustavad süsteemid.\n(2) Valdkonna eest vastutav minister võib määrusega kehtestada riigi infosüsteemi infotehnoloogilise auditeerimise korra ja nõuded riigi infosüsteemiga seotud arendusprojektide algatamisele, läbiviimisele ja aruandlusele."
+    },
+    {
+      "provision_ref": "para43^3",
+      "chapter": "5. peatükk - ANDMEKOGUD",
+      "section": "43^3",
+      "title": "§ 43^3. Andmekogu asutamine",
+      "content": "(1) Andmekogu asutatakse seadusega või selle alusel antud õigusaktiga.\n(2) Keelatud on asutada ühtede ja samade andmete kogumiseks eraldi andmekogusid.\n(3) Enne andmekogu asutamist, andmekogus kogutavate andmete koosseisu muutmist, andmekogu kasutusele võtmist või andmekogu lõpetamist kooskõlastatakse andmekogu tehniline dokumentatsioon Riigi Infosüsteemi Ametiga, Andmekaitse Inspektsiooniga ja Statistikaametiga.\n(4) Ainult organisatsiooni sisemise töökorralduse vajadusteks või asutustevaheliseks dokumentide menetlemiseks peetavat ja riigi infosüsteemi mittekuuluvat andmekogu ei pea käesoleva paragrahvi lõikes 3 sätestatud korras kooskõlastama.\n(5) Riigi Infosüsteemi Ametiga ning Andmekaitse Inspektsiooniga kooskõlastamise täpsemad tingimused ja kord ning vajadusel andmekogu asutamise ja pidamise tehnilised ja korralduslikud nõuded sätestatakse käesoleva seaduse § 43^9 lõike 1 punktis 6 nimetatud kindlustavat süsteemi kehtestavas määruses."
+    },
+    {
+      "provision_ref": "para43^4",
+      "chapter": "5. peatükk - ANDMEKOGUD",
+      "section": "43^4",
+      "title": "§ 43^4. Andmekogu vastutav ja volitatud töötleja",
+      "content": "(1) Andmekogu vastutav töötleja (haldaja) on riigi- või kohaliku omavalitsuse asutus, muu avalik-õiguslik juriidiline isik või avalikke ülesandeid täitev eraõiguslik isik, kes korraldab andmekogu kasutusele võtmist, teenuste ja andmete haldamist. Andmekogu vastutav töötleja vastutab andmekogu haldamise seaduslikkuse ja andmekogu arendamise eest.\n(1^1) Andmehalduse valdkonda koordineerib Statistikaamet.\n(1^2) Andmehalduse täpsemad nõuded ja tingimused sätestab Vabariigi Valitsus või tema volitatud minister määrusega.\n(2) Andmekogu vastutav töötleja võib volitada andmete töötlemise ja andmekogu majutamise teisele riigi- või kohaliku omavalitsuse asutusele, avalik-õiguslikule juriidilisele isikule või hanke- või halduslepingu alusel eraõiguslikule isikule vastutava töötleja poolt ettenähtud ulatuses.\n(3) Volitatud töötleja on kohustatud täitma vastutava töötleja juhiseid andmete töötlemisel ja andmekogu majutamisel ning tagama andmekogu turvalisuse.\n(4) Andmekogu vastutav töötleja korraldab riigi poolt kohalikule omavalitsusele pandud või delegeeritud ülesannete täitmiseks asutatud andmekogu keskse tehnoloogilise keskkonna loomise ja haldamise."
+    },
+    {
+      "provision_ref": "para43^5",
+      "chapter": "5. peatükk - ANDMEKOGUD",
+      "section": "43^5",
+      "title": "§ 43^5. Andmekogu põhimäärus",
+      "content": "(1) Andmekogu põhimääruses sätestatakse andmekogu pidamise kord, sealhulgas andmekogu vastutav töötleja (haldaja) ja vajaduse korral volitatud töötleja, andmekogusse kogutavate andmete koosseis, andmeandjad ja vajaduse korral muud andmekogu pidamisega seotud korralduslikud küsimused.\n(2) Andmeandjaks on riigi- või kohaliku omavalitsuse asutused või muud avalik-õiguslikud või eraõiguslikud isikud, kui neil on seadusega või selle alusel antud õigusaktiga sätestatud kohustus andmekogusse andmeid esitada või kui nad teevad seda vabatahtlikult."
+    },
+    {
+      "provision_ref": "para43^6",
+      "chapter": "5. peatükk - ANDMEKOGUD",
+      "section": "43^6",
+      "title": "§ 43^6. Põhiandmed ja andmete tähendus",
+      "content": "(1) Põhiandmed on riigi infosüsteemi kuuluvasse andmekogusse kogutavad andmekogu unikaalsed andmed, mis tekivad andmekogu haldaja avalike ülesannete täitmise käigus.\n(2) Andmete töötlemisel, mida kogub põhiandmetena teine riigi infosüsteemi kuuluv andmekogu, tuleb aluseks võtta vastava teise andmekogu põhiandmed.\n(3) Andmete põhiandmeteks olek määratakse kindlaks käesoleva seaduse § 43^3 lõike 3 kohaselt kooskõlastatud tehnilise dokumentatsiooni alusel riigi infosüsteemi haldussüsteemis. Põhiandmete kindlaksmääramisel lähtutakse andmekogu asutamise eesmärgist.\n(4) Õiguslik tähendus antakse andmetele seadusega."
+    },
+    {
+      "provision_ref": "para43^7",
+      "chapter": "5. peatükk - ANDMEKOGUD",
+      "section": "43^7",
+      "title": "§ 43^7. Andmekogu registreerimine",
+      "content": "(1) Enne andmekogu kasutusele võtmist tuleb see registreerida riigi infosüsteemi haldussüsteemis. Andmekogu registreerimise kord sätestatakse käesoleva seaduse § 43^9 lõike 1 punktis 6 nimetatud kindlustavat süsteemi kehtestavas määruses.\n(2) Enne riigi infosüsteemi kuuluva andmekogu registreerimist kontrollib ja kooskõlastab vastavat pädevust omav Riigi Infosüsteemi Ameti ametnik või töötaja andmekogu tehnilise vastavuse ning kogutavate andmete koosseisu ja allikate vastavuse seaduse või selle alusel antud õigusaktiga kehtestatud nõuetele."
+    },
+    {
+      "provision_ref": "para43^8",
+      "chapter": "5. peatükk - ANDMEKOGUD",
+      "section": "43^8",
+      "title": "§ 43^8. Andmekogu avalikkus",
+      "content": "(1) Andmekogus töödeldavad andmed peavad olema avalikult kättesaadavad, kui neile ei ole seadusega või selle alusel kehtestatud juurdepääsupiirangut.\n(2)\n(3) Julgeolekuasutust puudutavate andmete kajastamisel riigi andmekogudes võib julgeolekuasutuse juhi salajase käskkirja alusel kasutada variandmeid."
+    },
+    {
+      "provision_ref": "para43^9",
+      "chapter": "5. peatükk - ANDMEKOGUD",
+      "section": "43^9",
+      "title": "§ 43^9. Riigi infosüsteemi kindlustavad süsteemid",
+      "content": "(1) Andmekogude pidamiseks kehtestab Vabariigi Valitsus määrusega järgmised kindlustavad süsteemid:\n1) klassifikaatorite süsteem;\n2) geodeetiline süsteem;\n3) aadressiandmete süsteem;\n4)\n5) infosüsteemide andmevahetuskiht;\n6) riigi infosüsteemi haldussüsteem.\n(2) Vabariigi Valitsus võib käesoleva paragrahvi lõikes 1 nimetatud kindlustavate süsteemide ja nende rakendamise korra kehtestamise õiguse anda asjaomasele ministrile.\n(3) Riigi infosüsteemi kindlustavate süsteemide kasutamine on kohustuslik kõigi riigi ja kohaliku omavalitsuse andmekogude pidamisel. Käesoleva seaduse § 43^3 lõikes 4 nimetatud andmekogu pidamiseks on kohustuslikud käesoleva paragrahvi lõike 1 punktides 1, 2 ja 6 nimetatud kindlustavad süsteemid.\n(4) Riigi infosüsteemi kindlustavate süsteemide kasutamise kohustuse suhtes võib kooskõlastatult Justiits- ja Digiministeeriumiga teha erandi rahvusvahelisest lepingust tulenevate ülesannete täitmiseks asutatud andmekogule.\n(5) Andmevahetus riigi infosüsteemi kuuluvate andmekogudega ja riigi infosüsteemi kuuluvate andmekogude vahel toimub läbi riigi infosüsteemi andmevahetuskihi.\n(6) Käesoleva paragrahvi lõikes 5 toodu ei piira andmevahetust infosüsteemide andmevahetuskihil muude juriidiliste isikute vahel."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "6. peatükk - JÄRELEVALVE",
+      "section": "44",
+      "title": "§ 44. Järelevalve seaduse täitmise üle",
+      "content": "Käesoleva seaduse ja selle alusel kehtestatud õigusaktide täitmise üle teostavad järelevalvet: 1 1) Andmekaitse Inspektsioon;\n2) Riigi Infosüsteemi Amet;\n3) Statistikaamet;\n4) Tarbijakaitse ja Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "6. peatükk - JÄRELEVALVE",
+      "section": "45",
+      "title": "§ 45. Andmekaitse Inspektsiooni järelevalvepädevus",
+      "content": "(1) Andmekaitse Inspektsioon teostab teabevaldajate üle riiklikku ja haldusjärelevalvet nende poolt:\n1) teabenõuete täitmisel ja teabe avalikustamisel;\n1^1) veebilehe ja mobiilirakenduse pidamise nõuete täitmisel, välja arvatud ligipääsetavuse nõuete täitmisel;\n2) asutusesiseseks kasutamiseks ettenähtud teabe kaitsmisel;\n3) andmekogude asutamisel, kasutuselevõtmisel, pidamisel, ümberkorraldamisel ja lõpetamisel.\n(2) Andmekaitse Inspektsioon võib järelevalvemenetluse algatada vaide alusel või oma algatusel.\n(3)\n(4) Andmekaitse Inspektsioon võib anda soovituslikke juhiseid käesoleva seaduse rakendamiseks."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "6. peatükk - JÄRELEVALVE",
+      "section": "46",
+      "title": "§ 46. Vaide või kaebuse esitamine teabenõude täitmisest keeldumise või mittenõuetekohase täitmise peale",
+      "content": "(1) Isik, kelle käesolevas seaduses sätestatud õigusi on rikutud, võib vaidega pöörduda käesoleva seaduse §-s 44 nimetatud järelevalveorgani poole või kaebusega halduskohtusse kas isiklikult või esindaja kaudu.\n(2) Kui Andmekaitse Inspektsioon jätab vaide rahuldamata, siis on vaide esitajal õigus pöörduda teabevaldaja vastu halduskohtusse."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "6. peatükk - JÄRELEVALVE",
+      "section": "50",
+      "title": "§ 50. Riikliku järelevalve teostamine",
+      "content": "Andmekaitse Inspektsioon võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-s 30, 32, 49, 50 ja 51 sätestatud riikliku järelevalve erimeedet korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "6. peatükk - JÄRELEVALVE",
+      "section": "51",
+      "title": "§ 51. Andmekaitse Inspektsiooni ettekirjutus",
+      "content": "(1) Andmekaitse Inspektsioon võib teha teabevaldajale ettekirjutuse seadusliku olukorra taastamiseks, kui ta leiab, et teabevaldaja:\n1) on ebaseaduslikult keeldunud teabenõude täitmisest;\n2) ei ole teabenõudele vastanud ettenähtud tähtajal;\n3) ei ole teabenõuet täitnud nõuetekohaselt;\n4) ei ole teabenõuet menetlenud nõuetekohaselt;\n5) on jätnud avalikustamisele kuuluva teabe nõuetekohaselt avalikustamata;\n6) ei ole nõuetekohaselt täitnud veebilehe pidamise kohustust;\n7) on teabele ebaseaduslikult kehtestanud juurdepääsupiirangud;\n8) on jätnud seaduses sätestatud juurdepääsupiirangu kehtestamata;\n9) on väljastanud käesoleva seaduse alusel kehtestatud juurdepääsupiirangutega teavet.\n(2)\n(3) Käesoleva paragrahvi lõikes 1 nimetatud ettekirjutuse täitmata jätmisel võib Andmekaitse Inspektsioon rakendada sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 9600 eurot."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "6. peatükk - JÄRELEVALVE",
+      "section": "52",
+      "title": "§ 52. Andmekaitse Inspektsiooni ettekirjutuse täitmine",
+      "content": "(1) Teabevaldaja võtab ettekirjutuse saamisest alates viie tööpäeva jooksul kasutusele abinõud ettekirjutuse täitmiseks ja teatab sellest Andmekaitse Inspektsioonile. Andmekaitse Inspektsioon avalikustab teate oma veebilehel.\n(2)"
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "6. peatükk - JÄRELEVALVE",
+      "section": "53",
+      "title": "§ 53. Andmekaitse Inspektsiooni taotlus teenistusliku järelevalve korraldamiseks",
+      "content": "(1) Kui teabevaldaja jätab Andmekaitse Inspektsiooni ettekirjutuse täitmata, võib Andmekaitse Inspektsioon pöörduda teabevaldaja kõrgemalseisva asutuse, isiku või kogu poole teenistusliku järelevalve korraldamiseks või ametniku suhtes distsiplinaarmenetluse algatamiseks.\n(2) Teenistusliku järelevalve teostaja või distsiplinaarmenetluse algatamise õigust omav isik on kohustatud taotluse läbi vaatama selle saamisest alates ühe kuu jooksul ja esitama oma põhjendatud arvamuse Andmekaitse Inspektsioonile. Teenistusliku järelevalve või distsiplinaarmenetluse algatamise korral on järelevalve teostajal või distsiplinaarmenetluse algatamise õigust omaval isikul kohustus teavitada Andmekaitse Inspektsiooni viivitamata selle tulemustest."
+    },
+    {
+      "provision_ref": "para53^1",
+      "chapter": "6. peatükk - JÄRELEVALVE",
+      "section": "53^1",
+      "title": "§ 53^1. Riigi Infosüsteemi Ameti järelevalve",
+      "content": "(1) Riigi Infosüsteemi Amet teostab haldus- ja riiklikku järelevalvet infosüsteemide andmevahetuskihiga liitumise üle.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud riikliku järelevalve teostamisel võib Riigi Infosüsteemi Amet kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50, 51 ja 52 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para53^2",
+      "chapter": "6. peatükk - JÄRELEVALVE",
+      "section": "53^2",
+      "title": "§ 53^2. Statistikaameti järelevalve",
+      "content": "Statistikaamet teostab haldusjärelevalvet andmehalduse nõuete täitmise üle."
+    },
+    {
+      "provision_ref": "para53^3",
+      "chapter": "6. peatükk - JÄRELEVALVE",
+      "section": "53^3",
+      "title": "§ 53^3. Tarbijakaitse ja Tehnilise Järelevalve Ameti järelevalve",
+      "content": "(1) Tarbijakaitse ja Tehnilise Järelevalve Amet teostab teabevaldajate üle riiklikku ja haldusjärelevalvet nende poolt veebilehe ja mobiilirakenduse ligipääsetavuse nõuete täitmise kohta.\n(2) Tarbijakaitse ja Tehnilise Järelevalve Amet võib anda soovituslikke juhiseid veebilehe ja mobiilirakenduse ligipääsetavuse nõuete rakendamiseks.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud riikliku järelevalve teostamisel võib Tarbijakaitse ja Tehnilise Järelevalve Amet kohaldada korrakaitseseaduse §-des 30, 32, 49, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para53^4",
+      "chapter": "6. peatükk - JÄRELEVALVE",
+      "section": "53^4",
+      "title": "§ 53^4. Tarbijakaitse ja Tehnilise Järelevalve Ameti ettekirjutuse täitmine",
+      "content": "Teabevaldaja võtab ettekirjutuse saamisest alates viie tööpäeva jooksul kasutusele abinõud ettekirjutuse täitmiseks ning teatab sellest Tarbijakaitse ja Tehnilise Järelevalve Ametile. Tarbijakaitse ja Tehnilise Järelevalve Amet avalikustab teate oma veebilehel."
+    },
+    {
+      "provision_ref": "para53^5",
+      "chapter": "6. peatükk - JÄRELEVALVE",
+      "section": "53^5",
+      "title": "§ 53^5. Tarbijakaitse ja Tehnilise Järelevalve Ameti taotlus teenistusliku järelevalve korraldamiseks",
+      "content": "(1) Kui teabevaldaja jätab Tarbijakaitse ja Tehnilise Järelevalve Ameti ettekirjutuse täitmata, võib amet pöörduda teabevaldaja kõrgemalseisva asutuse, isiku või kogu poole teenistusliku järelevalve korraldamiseks või ametniku suhtes distsiplinaarmenetluse algatamiseks.\n(2) Teenistusliku järelevalve teostaja või distsiplinaarmenetluse algatamise õigust omav isik on kohustatud taotluse läbi vaatama selle saamisest alates ühe kuu jooksul ja esitama oma põhjendatud arvamuse Tarbijakaitse ja Tehnilise Järelevalve Ametile. Teenistusliku järelevalve või distsiplinaarmenetluse algatamise korral on järelevalve teostajal või distsiplinaarmenetluse algatamise õigust omaval isikul kohustus teavitada Tarbijakaitse ja Tehnilise Järelevalve Ametit viivitamata selle tulemustest."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "6. peatükk - JÄRELEVALVE",
+      "section": "54",
+      "title": "§ 54. Andmekaitse Inspektsiooni ettekanne seaduse täitmisest",
+      "content": "(1) Andmekaitse Inspektsioon esitab Riigikogu põhiseaduskomisjonile ning õiguskantslerile iga aasta 1. aprilliks ettekande käesoleva seaduse täitmise kohta eelmisel aastal.\n(2) Ettekandes esitatakse ülevaade seaduserikkumistest ja need toime pannud teabevaldajatest, vaietest, ettekirjutustest, alustatud väärteomenetlustest ja määratud karistustest ning muudest seaduse rakendamisega seotud asjaoludest.\n(3) Ettekanne avalikustatakse Andmekaitse Inspektsiooni veebilehel.\n(4) Käesoleva paragrahvi lõikes 1 nimetatud korralisele ettekandele lisaks võib Andmekaitse Inspektsiooni juht esitada Riigikogu põhiseaduskomisjonile ja õiguskantslerile ettekandeid käesoleva seaduse täitmise üle teostatud järelevalve käigus ilmnenud oluliste, ulatusliku mõjuga või kiiret lahendamist vajavate probleemide kohta."
+    },
+    {
+      "provision_ref": "para54^1",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "54^1",
+      "title": "§ 54^1. Avaliku teabe avalikustamise ja väljastamise nõuete rikkumine",
+      "content": "(1) Teadvalt ebaõige avaliku teabe väljastamise või asutusesiseseks kasutamiseks ettenähtud teabe avalikustamise või väljastamise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2)\n(3) Käesolevas paragrahvis sätestatud väärtegude kohtuväline menetleja on Andmekaitse Inspektsioon."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "55",
+      "title": "§ 55. Juurdepääs avalikele arvutivõrkudele rahvaraamatukogudes",
+      "content": "Riik ja kohalikud omavalitsused tagavad aastaks 2002 võimaluse avalikule teabele juurdepääsuks andmesidevõrgu kaudu rahvaraamatukogudes."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "56",
+      "title": "§ 56. Veebilehe pidamise alustamine",
+      "content": "(1) Ministrid oma valitsemisalas ning riigisekretär ja maavanemad enda hallatavate riigiasutuste osas kehtestavad 2001. aasta 1. juuniks ajakavad käesoleva seaduse nõuetele vastava veebilehe pidamisele üleminekuks.\n(2) Käesoleva seaduse §-s 31 nimetatud teabevaldajad alustavad käesoleva seaduse nõuetele vastava veebilehe pidamist mitte hiljem kui 2002. aasta 1. märtsist."
+    },
+    {
+      "provision_ref": "para56^1",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "56^1",
+      "title": "§ 56^1. Veebilehe ja mobiilirakenduse pidamise nõuete rakendamine",
+      "content": "(1) Pärast 2018. aasta 23. septembrit esimest korda avaldatud veebilehtede suhtes kohaldatakse käesoleva seaduse § 32 lõike 1 punktides 6 ja 7 sätestatut alates 2019. aasta 23. septembrist.\n(2) Enne 2018. aasta 23. septembrit avaldatud veebilehtede suhtes kohaldatakse käesoleva seaduse § 32 lõike 1 punktides 6 ja 7 sätestatut alates 2020. aasta 23. septembrist.\n(3) Käesoleva seaduse §-s 32 sätestatud mobiilirakenduse pidamise nõudeid kohaldatakse alates 2021. aasta 23. juunist."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "57",
+      "title": "§ 57. Riigi ja kohaliku omavalitsuse andmekogudes peetavatele andmetele juurdepääsu korra kooskõlla viimine seadusega",
+      "content": "Vabariigi Valitsus, ministeeriumid ja kohaliku omavalitsuse organid viivad andmekogude pidamist reguleerivad õigusaktid käesoleva seadusega ja käesoleva seaduse kohaselt andmekogude seaduses tehtavate muudatustega kooskõlla 2002. aasta 1. jaanuariks."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "58",
+      "title": "§ 58. Asjaajamiskorra kooskõlla viimine käesoleva seadusega",
+      "content": "(1) Vabariigi Valitsus kehtestab riigi- ja kohaliku omavalitsuse asutuste ning avalik-õiguslike juriidiliste isikute asjaajamiskorra alused 2001. aasta 1. märtsiks.\n(2) Teabevaldajad viivad oma asjaajamiskorrad käesoleva seadusega kooskõlla 2001. aasta 1. juuniks."
+    },
+    {
+      "provision_ref": "para58^1",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "58^1",
+      "title": "§ 58^1. Seaduse 5^1. peatüki rakendamine",
+      "content": "(1) Andmekogude seadusega kooskõlas asutatud riiklike registrite pidamise põhimäärused ja nende alusel peetavad andmekogud ning muud riigi ja kohalike omavalitsuste andmekogud viiakse käesoleva seadusega kooskõlla kuue kuu jooksul andmekogude seaduse kehtetuks tunnistamisest arvates.\n(1^1) Riigi infosüsteemi kindlustavate süsteemide rakendamiseks võib käesoleva seaduse § 43^9 lõike 1 alusel kehtestatud määrustes näha ette käesoleva paragrahvi lõikes 1 nimetatud tähtajast pikemaid tähtaegu.\n(2) Riigi infosüsteemiga mitte koostoimelised andmekogud, andmeid dubleerivalt koguvad või üksteisega seotud andmeid sisaldavad andmekogud ühendatakse, nende pidamine lõpetatakse või nad muudetakse koostoimeliseks vastavalt käesoleva seaduse 5^1. peatüki nõuetele kuue kuu jooksul andmekogude seaduse kehtetuks tunnistamisest arvates.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatud üleminekut koordineerib Majandus ja Kommunikatsiooniministeerium.\n(4) Enne käesoleva seaduse 5^1. peatüki jõustumist andmekogude riiklikus registris registreeritud andmekogu loetakse registreerituks riigi infosüsteemi haldussüsteemis käesoleva seaduse 5^1. peatüki jõustumisel. Andmekogu haldaja peab aktualiseerima andmekogu andmed riigi infosüsteemi haldussüsteemis hiljemalt kolme kuu jooksul pärast käesoleva seaduse 5^1. peatüki jõustumist. Andmekogu andmete aktualiseerimisel määratakse kindlaks andmekogu põhiandmed.\n(5) Käesoleva paragrahvi lõike 4 esimest lauset ei kohaldata andmekogude riiklikus registris registreeritud, kuid infosüsteemi andmevahetuskihiga liitumata andmekogule.\n(6) Riigi infosüsteemi haldussüsteemis registreeritud või käesoleva paragrahvi lõike 4 kohaselt registreerituks loetud ja infosüsteemi andmevahetuskihiga liitunud andmekogu loetakse riigi infosüsteemi kuuluvaks andmekoguks.\n(7) Enne käesoleva seaduse 5^1. peatüki jõustumist andmekogude pidamiseks sõlmitud lepingud jäävad kehtima nendes toodud tähtaja lõpuni.\n(8) Käesolevas seaduses riigi infosüsteemi kuuluvale andmekogule kehtestatud nõudeid rakendatakse Riigi Teatajale ja Ametlikele Teadaannetele alates tehniliste võimaluste loomisest, kuid hiljemalt 2011. aasta 1. juulist."
+    },
+    {
+      "provision_ref": "para58^2",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "58^2",
+      "title": "§ 58^2. Avaliku teabe taaskasutamist reguleerivate sätete rakendamine",
+      "content": "(1) Teabevaldaja avalikustab käesoleva seaduse §-s 28 nimetatud avaandmed lähtuvalt käesoleva seaduse §-s 29 sätestatust hiljemalt 2016. aasta 1. veebruariks.\n(2)\n(3)"
+    },
+    {
+      "provision_ref": "para58^3",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "58^3",
+      "title": "§ 58^3. Väärtuslike andmestike tasuta kättesaadavaks tegemine",
+      "content": "Kui väärtuslike andmestike tasuta kättesaadavaks tegemine avaldaks olulist mõju sellise teabevaldaja eelarvele, kes peab katma olulise osa oma avalike ülesannete täitmisest tulenevatest kuludest, peab see teabevaldaja väärtuslikud andmestikud tasuta kättesaadavaks tegema hiljemalt kaks aastat pärast Euroopa Parlamendi ja nõukogu direktiivi (EL) 2019/1024 artikli 14 lõikes 1 nimetatud Euroopa Komisjoni rakendusmääruse kohaldatavaks muutumist."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "59",
+      "title": "§ 59.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "68",
+      "title": "§ 68.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "69",
+      "title": "§ 69. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2001. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": []
+}

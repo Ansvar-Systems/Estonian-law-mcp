@@ -1,0 +1,694 @@
+{
+  "id": "ee-law-119122025002",
+  "type": "statute",
+  "title": "Riigieelarve seadus",
+  "title_en": "Riigieelarve seadus",
+  "short_name": "RES",
+  "status": "in_force",
+  "issued_date": "2014-02-19",
+  "in_force_date": "2025-12-29",
+  "url": "https://www.riigiteataja.ee/akt/119122025002.xml",
+  "description": "Official consolidated statute text (Riigieelarve seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab riigieelarve koostamise, vastuvõtmise ja riigieelarve vahendite kasutamise tingimused ja korra. Samuti sätestatakse riigieelarve koostamise alused, mille kohaselt lähtutakse riigieelarve koostamisel riigi rahandusprognoosist tulenevatest fiskaalpoliitilistest võimalustest ja strateegilistest arengudokumentidest.\n(2) Riigieelarve koostamisele seatud nõuete täitmiseks sätestatakse käesoleva seadusega tingimused valitsussektori keskvalitsuse allsektori üksuste kohustuste võtmisele ja vahendite planeerimisele."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Valitsussektor ja keskvalitsuse allsektor",
+      "content": "(1) Valitsussektorisse kuuluvad Euroopa Parlamendi ja nõukogu määruse (EL) nr 549/2013 Euroopa Liidus kasutatava Euroopa rahvamajanduse ja regionaalse arvepidamise süsteemi kohta (ELT L 174, 26.06.2013, lk 1–727) A lisa punktis 2.112 nimetatud üksused.\n(2) Valitsussektor jaguneb keskvalitsuse, kohaliku omavalitsuse ja sotsiaalkindlustusfondide allsektoriks. Keskvalitsuse allsektorisse (edaspidi keskvalitsus ) kuuluvad üksused on:\n1) valitsusasutus, valitsusasutuse hallatav riigiasutus, maakohus, halduskohus ja ringkonnakohus (edaspidi riigiasutused );\n2) Riigikogu Kantselei, Vabariigi Presidendi Kantselei, Riigikontroll, Õiguskantsleri Kantselei ja Riigikohus (edaspidi põhiseaduslikud institutsioonid ) ning nende haldusala asutused;\n3) Euroopa Parlamendi ja nõukogu määruse (EL) nr 549/2013 kohaselt keskvalitsuse üksusena määratletud avalik-õiguslik juriidiline isik, riigi asutatud sihtasutus ja riigi osalusega äriühing (edaspidi keskvalitsuse juriidilised isikud ).\n(3) Valitsussektori üksuste nimekirja avaldab oma kodulehel ja teavitab üksuse kuulumisest valitsussektorisse Statistikaamet."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Ministeeriumi valitsemisala",
+      "content": "(1) Ministeeriumi valitsemisalana käsitatakse käesolevas seaduses ministeeriumi koos oma valitsemisala riigiasutustega.\n(2) Põhiseaduslikele institutsioonidele ja nende haldusala asutustele kohaldatakse käesolevas seaduses ministeeriumi, ministeeriumi valitsemisala ja riigiasutuse kohta sätestatut, kui käesolevas seaduses ei ole sätestatud teisiti. Õigusakti, mille kehtestamise õigus või kohustus käesoleva seaduse kohaselt on ministril, kehtestab põhiseadusliku institutsiooni juht tema institutsioonile omase aktiga, arvestades põhiseaduslikule institutsioonile ette nähtud erisusi ja kui seaduses ei ole sätestatud teisiti.\n(3) Riigikantseleile ja Riigikantselei haldusalale kohaldatakse käesolevas seaduses ministeeriumi ja ministeeriumi valitsemisala kohta sätestatut."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Eelarvenõukogu",
+      "content": "(1) Eelarvenõukogu on Eesti Panga seaduse § 4^2 kohaselt moodustatud nõuandekogu, mis hindab riigi makromajandusprognoose ja riigi rahandusprognoose ning jälgib käesoleva seaduse 2. peatükis toodud eelarvereeglite täitmist käesolevas seaduses ja Euroopa Liidu õiguses esitatud nõuete kohaselt.\n(2) Kui Vabariigi Valitsus ei arvesta eelarvenõukogu arvamusega, vormistatakse selle kohta Vabariigi Valitsuse otsus esimesel võimalusel, aga hiljemalt kahe kuu möödumisel arvates arvamuse esitamisest. Otsuse põhjendus avalikustatakse Rahandusministeeriumi kodulehel.\n(3) Riigi makromajandusprognoosi (edaspidi makromajandusprognoos ) ja riigi rahandusprognoosi (edaspidi rahandusprognoos ) kohta antud hinnangu arvestamata jätmist põhjendab Rahandusministeerium. Põhjendus avalikustatakse Rahandusministeeriumi kodulehel.\n(4) Eelarvenõukogu avalikustab oma arvamused eelarvenõukogu veebilehel. Eelarvenõukogul on õigus avaldada oma hinnangute ja arvamuste koostamise aluseks olevad metoodikad ja andmed ning esitleda neid arvamusi Riigikogu rahanduskomisjonile selle taotlusel.\n(5) Eelarvenõukogu tegevust hindab Eesti Panga nõukogu nimetatud sõltumatu väline hindaja vähemalt kord nelja aasta jooksul või Riigikogu rahanduskomisjoni taotlusel. Hinnang esitatakse Eesti Panga nõukogule, seda tutvustatakse rahandusministrile ja Riigikogu rahanduskomisjonile ning see avalikustatakse eelarvenõukogu kodulehel."
+    },
+    {
+      "provision_ref": "para4^1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4^1",
+      "title": "§ 4^1. Andmete esitamine",
+      "content": "Rahandusministeeriumil on õigus saada ministeeriumidelt ja teistelt valitsussektorisse kuuluvatelt üksustelt vajalikke andmeid riigi eelarvestrateegia (edaspidi eelarvestrateegia ), riigieelarve eelnõu, rahandusprognooside ning riikliku keskpika perioodi eelarve- ja struktuurikava (edaspidi eelarve- ja struktuurikava ) ja selle iga-aastase eduaruande koostamiseks ning riigieelarve kasutamise ja täitmise jälgimiseks."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - Riigi eelarveraamistik",
+      "section": "5",
+      "title": "§ 5. Eelarvepositsioon, netokulud ja eelarvepoliitiline eesmärk",
+      "content": "(1) Valitsussektori eelarvepositsioon on valitsussektori kogutulude ja kogukulude vahe.\n(2) Valitsussektori struktuurne eelarvepositsioon on tsükliliselt korrigeeritud valitsussektori eelarvepositsioon, mis ei arvesta ühekordseid ega ajutisi tehinguid.\n(2^1) Valitsussektori netokulude määratlemisel ja arvutamisel lähtutakse Euroopa Parlamendi ja nõukogu määruses (EL) 2024/1263 majanduspoliitika tulemusliku koordineerimise ja mitmepoolse eelarvejärelevalve kohta ning millega tunnistatakse kehtetuks nõukogu määrus (EÜ) nr 1466/97 (ELT L, 2024/1263, 30.04.2024) sätestatust.\n(3) Valitsussektori eelarvepoliitiline eesmärk määratakse käesolevas seaduses sätestatu ning Euroopa Parlamendi ja nõukogu määruse (EL) 2024/1263 alusel.\n(4) Euroopa Liidu eelarveraamistik käesoleva seaduse tähenduses on Euroopa Liidu toimimise lepingu artiklitel 121, 126 ja 136 ja selle lepingu lisaprotokollil nr 12 ning nende alusel kehtestatud Euroopa Liidu õigusaktidel, sealhulgas Euroopa Parlamendi ja nõukogu määrusel (EL) 2024/1263 ning nõukogu määrusel (EÜ) nr 1467/97 ülemäärase eelarvepuudujäägi menetluse rakendamise kiirendamise ja selgitamise kohta (EÜT L 209, 02.08.1997, lk 6–11), põhinev Euroopa Liidu liikmesriikide eelarvepoliitika koordineerimise süsteem ja põhimõtted ning nimetatud lepingu alusel kehtestatud asjakohased õigusaktid."
+    },
+    {
+      "provision_ref": "para5^1",
+      "chapter": "2. peatükk - Riigi eelarveraamistik",
+      "section": "5^1",
+      "title": "§ 5^1. Eelarvepoliitika piirmäärad",
+      "content": "(1) Riigieelarve ja eelarvestrateegia koostatakse nii, et valitsussektori eelarvepositsioon ja võlakoormus on käesoleva seaduse §-s 15 nimetatud makromajandusprognoosi ja rahandusprognoosi arvestades kooskõlas Euroopa Liidu toimimise lepingu lisaprotokolliga nr 12 ning Euroopa Parlamendi ja nõukogu määruse (EL) 2024/1263 nõuetega, ning nii, et valitsussektori iga-aastane netokulude kasv on kooskõlas käesoleva seaduse § 20^1 alusel koostatud kehtiva eelarve- ja struktuurikavaga.\n(2) Riigieelarve ja eelarvestrateegia koostatakse nii, et valitsussektori struktuurne puudujääk ei ületa 0,5 protsenti sisemajanduse koguproduktist jooksevhindades ühelgi aastal, arvestades käesoleva seaduse § 15 alusel koostatud makromajandusprognoosi ja rahandusprognoosi.\n(3) Kui riigivõla suhe sisemajanduse koguprodukti on alla 30 protsendi ja riigi rahanduse pikaajalise jätkusuutlikkusega seotud riskid on väikesed, võib käesoleva paragrahvi lõikes 2 nimetatud struktuurne puudujääk ulatuda kuni ühe protsendini sisemajanduse koguproduktist jooksevhindades."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - Riigi eelarveraamistik",
+      "section": "6",
+      "title": "§ 6. Eelarvepositsiooni reeglid keskvalitsuse juriidilisele isikule",
+      "content": "(1)\n(1^1)\n(1^2)\n(1^3)\n(2) Seadusega või seaduse alusel peab olema tagatud, et keskvalitsuse juriidilise isiku eelarve koostatakse ja kinnitatakse selliselt, et eelarveaasta põhitegevuse tulude ja kulude vahe (edaspidi põhitegevuse tulem ) on tasakaalus või ülejäägis.\n(3) Seadusega või seaduse alusel peab olema tagatud, et keskvalitsuse juriidilise isiku kavandatav põhitegevuse tulem võib olla puudujäägis kuni 30 protsendi ulatuses eelarveaasta põhitegevuse tuludest, kui põhitegevuse tulemi puudujääk kaetakse varem põhitegevuse tulemi ülejäägina kogunenud likviidsetest varadest.\n(4) Käesoleva paragrahvi lõikes 2 sätestatud nõuet ei kohaldata keskvalitsuse juriidilise isiku suhtes, kui tema kavandatava põhitegevuse tulemi puudujääk on seotud tegevuskavas või äriplaanis ettenähtud keskvalitsuse juriidilise isiku asutamise, ümberkorraldamise või lõpetamisega.\n(5) Keskvalitsuse juriidilise isiku põhitegevuse tulude ning põhitegevuse kulude arvestusmetoodika kehtestab valdkonna eest vastutav minister määrusega, arvestades põhimõtteid, mis on kehtestatud Euroopa Parlamendi ja nõukogu määrusega (EL) nr 549/2013."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - Riigi eelarveraamistik",
+      "section": "7",
+      "title": "§ 7. Korrigeerimismehhanism",
+      "content": "(1) Kui käesoleva seaduse § 15 alusel koostatud makromajandusprognoosi ja rahandusprognoosi kohaselt ületab valitsussektori eelarvepositsioon §-s 5^1 sätestatud piirmäärasid, esitab valdkonna eest vastutav minister Vabariigi Valitsusele kuu aja jooksul prognoosi avaldamisest arvates riigi rahanduse olukorra analüüsi ja vajaduse korral ettepanekud valitsussektori eelarvepositsiooni parandamiseks.\n(2) Kui valitsussektori eelarvepositsiooni puudujääk ületab käesoleva seaduse §-s 5^1 sätestatud piirmäärasid rohkem kui 0,5 protsenti sisemajanduse koguproduktist (edaspidi SKP ) või kui käesoleva paragrahvi lõikes 1 nimetatud analüüsi põhjal on vajalik valitsussektori eelarvepositsiooni parandada, peab Vabariigi Valitsus esimesel võimalusel, aga hiljemalt riigieelarve ja eelarvestrateegia koostamisel rakendama meetmeid, et viia valitsussektori eelarvepositsioon vastavusse §-s 5^1 sätestatud piirmääradega.\n(3)\n(4) Käesoleva paragrahvi lõikes 2 nimetatud meetmeid tuleb rakendada selliselt, et valitsussektori struktuurne eelarvepositsioon paraneks vähemalt 0,5 protsendi võrra SKP-st valitsussektori struktuurse eelarvepositsiooni puudujäägi erinevuse ilmnemise aastal.\n(5) Kui käesoleva paragrahvi lõikes 2 sätestatud meetmetest ei piisa Euroopa Liidu eelarveraamistiku nõuete täitmiseks, rakendab Vabariigi Valitsus eelarvepositsiooni parandavaid lisameetmeid mahus, mis viib riigieelarve ja eelarvestrateegia nende nõuetega vastavusse."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - Riigi eelarveraamistik",
+      "section": "9",
+      "title": "§ 9. Vabastusklausel",
+      "content": "(1) Kui kehtib Euroopa Liidu üldine või riigipõhine vabastusklausel Euroopa Parlamendi ja nõukogu määruse (EL) 2024/1263 kohaselt, võib käesoleva seaduse § 7 lõigetes 2 ja 2^1 sätestatud meetmete rakendamist edasi lükata, juhindudes Euroopa Liidu Nõukogu asjakohase otsuse tingimustest ja käesolevas paragrahvis sätestatust. Vabastusklauslit võib rakendada üksnes tingimusel, et see ei ohusta riigi rahanduse jätkusuutlikkust keskpikas perspektiivis.\n(2) Euroopa Liidu üldise vabastusklausli rakendamiseks tuleb analüüsida majandussurutise olemasolu ja tõsidust Eestis vabastusklausli rakendamise aastal või sellele järgneval aastal. Vabastusklauslit tohib rakendada üksnes juhul, kui majandussurutis esineb ka Eestis ja see on tõsine.\n(3) Majandussurutis loetakse olemasolevaks ja tõsiseks, kui käesoleva seaduse § 15 lõikes 1 nimetatud makromajandusprognoosi kohaselt on reaalse SKP aastakasv negatiivne või reaalne SKP on rohkem kui kolm protsenti madalam potentsiaalsest reaalsest SKP-st. Analüüsi ja ettepaneku vabastusklausli kohaldamiseks koos riigi rahanduse jätkusuutlikkuse analüüsiga keskpikas perspektiivis esitab valdkonna eest vastutav minister Vabariigi Valitsusele.\n(4) Riigipõhise vabastusklausli või selle pikendamise taotlemise otsustab Vabariigi Valitsus valdkonna eest vastutava ministri ettepanekul, juhindudes Euroopa Parlamendi ja nõukogu määruse (EL) 2024/1263 nõuetest. Kui riigipõhist vabastusklauslit taotletakse majandussurutise tõttu, tuleb enne analüüsida majandussurutise olemasolu ja tõsidust Eestis vabastusklausli taotlemise aastal või sellele järgneval aastal. Kui riigipõhist vabastusklauslit taotletakse või pikendatakse mõnel muul põhjusel, esitab valdkonna eest vastutav minister Vabariigi Valitsusele põhjendused riigipõhise vabastusklausli taotlemise või pikendamise vajaduse kohta."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - Riigi eelarveraamistik",
+      "section": "10",
+      "title": "§ 10. Keskvalitsuse juriidilise isiku netovõlakoormuse reegel",
+      "content": "(1) Seadusega või seaduse alusel peab olema tagatud, et keskvalitsuse juriidilise isiku eelarveaasta lõpu seisuga planeeritud võlakohustuste ja likviidsete varade kogusumma vahe (edaspidi netovõlakoormus ) võib moodustada kuni 40 protsenti samaks eelarveaastaks kavandatud põhitegevuse tuludest kogu käesoleva seaduse § 12 alusel esitatud finantsplaaniga hõlmatud perioodi kestel. Netovõlakoormuse üle 40 protsendi suurenemise lubamise otsustab Vabariigi Valitsus, arvestades käesolevas peatükis sätestatud nõudeid.\n(2) Keskvalitsuse juriidilise isiku võlakohustuste ja likviidsete varade arvutusmetoodika kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - Riigi eelarveraamistik",
+      "section": "11",
+      "title": "§ 11. Erandid eelarvepositsiooni ja netovõlakoormuse reeglitest",
+      "content": "(1) Riigieelarvega võib põhjendatud juhtudel kehtestada lisapiiranguid käesoleva seaduse §-des 6 ja 10 toodud keskvalitsuse juriidilise isiku põhitegevuse tulemile või netovõlakoormusele. Seadusega või seaduse alusel peab olema tagatud keskvalitsuse juriidilise isiku kohustus sellistest piirangutest kinni pidada.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud lisapiirangute kehtestamine on lubatud, kui esineb vähemalt üks järgmistest asjaoludest:\n1) riigi rahandusprognoos näitab eelarveaasta jooksul valitsussektori eelarvepositsiooni puudujäägi suurenemist üle kahe protsendi SKP-st;\n2) riigi rahandusprognoos näitab eelarveaasta jooksul valitsussektori võlakoormuse tõusu üle 50 protsendi SKP-st;\n3) Vabariigi Valitsus on kohustatud rakendama käesoleva seaduse § 7 lõikes 2 nimetatud eelarvepositsiooni parandavaid meetmeid."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - Riigi eelarveraamistik",
+      "section": "12",
+      "title": "§ 12. Keskvalitsuse juriidilise isiku finantsplaan",
+      "content": "(1) Seadusega või seaduse alusel peab olema tagatud, et keskvalitsuse juriidiline isik esitab igal aastal finantsplaani oma jooksva eelarveaasta, sellele eelnenud eelarveaasta ja järgneva nelja eelarveaasta kohta. Andmed esitatakse asutajaõigusi teostava või valdkonna ministeeriumi vahendusel Rahandusministeeriumile 15. juuliks. Kui pärast andmete esitamist tehtud Riigikogu või Vabariigi Valitsuse otsused mõjutavad finantsplaani andmeid, tuleb keskvalitsuse juriidilise isiku nõukogul kinnitada uus finantsplaan ja eelarve ning esitada finantsplaan asutajaõigusi teostava või osalust valitseva ministeeriumi vahendusel Rahandusministeeriumile hiljemalt kuu aja möödumisel arvates selle kinnitamisest.\n(2) Nõuded finantsplaani sisule ja finantsplaani esitamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - Riigi eelarveraamistik",
+      "section": "13",
+      "title": "§ 13. Keskvalitsuse juriidiliselt isikult lisaandmete saamine",
+      "content": "(1) Valdkonna eest vastutaval ministril ja asutajaõigusi teostaval või valdkonna ministril on õigus käesolevas peatükis sätestatud eelarvereeglite täitmise hindamiseks saada keskvalitsuse juriidiliselt isikult asjakohaseid andmeid.\n(2) Asutajaõigusi teostaval või valdkonna ministril on riigieelarvest toetuse saamise taotluse hindamiseks ning toetuse kasutamise kontrollimiseks õigus saada keskvalitsuse juriidiliselt isikult asjakohaseid andmeid.\n(3) Valdkonna eest vastutav minister saab andmeid asutajaõigusi teostava või valdkonna ministeeriumi vahendusel."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - Riigi eelarveraamistik",
+      "section": "14",
+      "title": "§ 14. Eelarvereeglite täitmise jälgimine",
+      "content": "(1) Eelarvenõukogu annab arvamuse:\n1) eelarvestrateegias esitatud valitsussektori eelarvepoliitiliste eesmärkide kohta enne eelarvestrateegia kinnitamist;\n2) eelarve- ja struktuurikava eduaruandes kajastatud möödunud aasta kulukasvu vastavuse kohta netokulude trajektoorile ja võimalike kõrvalekallete põhjuste kohta rahandusministri taotlusel enne eduaruande esitamist Euroopa Komisjonile;\n3) riigi eelarvepoliitilise eesmärgi täitmise kohta möödunud eelarveaastal hiljemalt 30 päeva enne eelarvestrateegia kinnitamist;\n4) eelarve- ja struktuurikavas esitatud netokulude kasvu vastavuse kohta Euroopa Parlamendi ja nõukogu määruse (EL) 2024/1263 nõuetele enne kava kinnitamist.\n(2) Arvamus koostatakse, lähtudes käesolevas peatükis sätestatud nõuetest, sealhulgas Euroopa Liidu toimimise lepingu lisaprotokolli nr 12 ning Euroopa Parlamendi ja nõukogu määruse (EL) 2024/1263 nõuetest, samuti eelarvepositsiooni korrigeerimise vajadusest."
+    },
+    {
+      "provision_ref": "para14^1",
+      "chapter": "2. peatükk - Riigi eelarveraamistik",
+      "section": "14^1",
+      "title": "§ 14^1. Riigi eelarveraamistiku toimimise hindamine",
+      "content": "Eelarvenõukogu hindab käesolevas peatükis kirjeldatud riigi eelarveraamistiku toimimist vähemalt kord iga nelja aasta järel või Riigikogu rahanduskomisjoni ettepaneku korral."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - Riigieelarve lähtealused",
+      "section": "15",
+      "title": "§ 15. Makromajandusprognoos ja rahandusprognoos",
+      "content": "(1) Makromajandusprognoosi eesmärk on kirjeldada riigi majanduskeskkonda koos tõenäolise arenguga ja teavitada sellest avalikkust.\n(2) Makromajandusprognoos on aluseks rahandusprognoosile, millega kirjeldatakse valitsussektori tulusid, kulusid ja investeeringuid koos tõenäoliste muutustega. Rahandusprognoos on eelarve- ja struktuurikava ja selle eduaruande, eelarvestrateegia ning riigieelarve eelnõu aluseks."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - Riigieelarve lähtealused",
+      "section": "16",
+      "title": "§ 16. Makromajandusprognoosile ja rahandusprognoosile esitatavad nõuded",
+      "content": "(1) Makromajandusprognoos ja rahandusprognoos koostatakse igal aastal jooksva eelarveaasta ja sellele järgneva nelja aasta kohta, tuginedes viimastele teadaolevatele andmete aegridadele. Makromajandusprognoosi ja rahandusprognoosi väliskeskkonna eeldustena kasutatavad andmed ei tohi prognoosi kavandatud avaldamisajaks olla vanemad kui kaks kuud.\n(2) Makromajandusprognoosi ja rahandusprognoosi koostamisel kasutatavates alternatiivsetes eeldustes juhindutakse sellest, kuivõrd paikapidavad on olnud eelmised prognoosid, ning arvestatakse asjaomaste riskistsenaariumidega. Makromajandusprognoosis esitatakse lisaks põhistsenaariumile vähemalt üks riskistsenaarium ning hinnatakse selle võimalikku mõju riigieelarve laekumisele ja tasakaalule. Rahandusprognoos koostatakse kõige tõenäolisema või sellest ettevaatlikuma makromajandusprognoosi stsenaariumi põhjal.\n(3) Makromajandusprognoos ja rahandusprognoos peavad sisaldama tundlikkusanalüüsi, mille raames uuritakse, kuidas kujunevad peamised eelarvemuutujad erinevate majanduskasvu ja intressimäärade prognooside korral.\n(4) Makromajandusprognoosi ja rahandusprognoosi seletuskirjas võrreldakse prognoosi kõige ajakohasemate Euroopa Komisjoni ja teiste sõltumatute institutsioonide prognoosidega ning kirjeldatakse ja põhjendatakse olulisi erinevusi."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - Riigieelarve lähtealused",
+      "section": "17",
+      "title": "§ 17. Makromajandusprognoosi ja rahandusprognoosi koostamine",
+      "content": "(1) Makromajandusprognoosi ja rahandusprognoosi koostab Rahandusministeerium käesolevas seaduses ja Euroopa Liidu õiguses esitatud nõuete kohaselt.\n(2) Makromajandusprognoosi ja rahandusprognoosi koostavad ametnikud või töötajad on prognoosi koostamisel ja koostamise metoodika valikul sõltumatud."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - Riigieelarve lähtealused",
+      "section": "18",
+      "title": "§ 18. Makromajandusprognoosi ja rahandusprognoosi hindamine ning avalikustamine",
+      "content": "(1) Eelarvenõukogu annab arvamuse makromajandusprognoosi ja rahandusprognoosi kohta kahe nädala jooksul nende avaldamisest arvates. Eelarvenõukogu arvamuse arvestamata jätmist põhjendab Rahandusministeerium avalikult kahe nädala jooksul eelarvenõukogu arvamuse avaldamisest arvates.\n(2) Makromajandusprognoosi ja rahandusprognoosi avalikustab Rahandusministeerium oma kodulehel viivitamata pärast prognoosi koostamist."
+    },
+    {
+      "provision_ref": "para18^1",
+      "chapter": "3. peatükk - Riigieelarve lähtealused",
+      "section": "18^1",
+      "title": "§ 18^1. Makromajandusprognoosi ja rahandusprognoosi järelhindamine",
+      "content": "(1) Eelarvenõukogu hindab regulaarselt, kuid mitte harvem kui üks kord kolme aasta jooksul makromajandusprognoosi ja rahandusprognoosi tõepärasust, lähtudes objektiivsetest kriteeriumidest, et välja selgitada võimalike süsteemsete kõrvalekallete olemasolu. Eelarvenõukogu avalikustab hinnangu ning Rahandusministeerium võtab tulemused arvesse tulevaste makromajandusprognooside ja rahandusprognooside koostamisel.\n(2) Rahandusministeerium esitab vajaduse korral ülevaate meetmetest, mis on vajalikud süsteemsete kõrvalekallete makromajandusprognoosist ja rahandusprognoosist likvideerimiseks."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - Riigieelarve lähtealused",
+      "section": "19",
+      "title": "§ 19. Strateegilised arengudokumendid",
+      "content": "(1) Strateegilised arengudokumendid on riigi pikaajaline arengustrateegia, poliitika põhialused, valdkonna arengukava ja programm.\n(1^1) Riigi pikaajaline arengustrateegia on arengudokument, milles määratakse poliitikavaldkondade terviklik visioon, üleriigilised strateegilised sihid ja olulisemad muudatused nende elluviimiseks vähemalt 15 aastaks.\n(2) Poliitika põhialused on arengudokument, milles määratakse ühe või mitme omavahel seotud poliitikavaldkonna visioon, üleriigiline eesmärk ja prioriteetsed arengusuunad.\n(3) Valdkonna arengukava on arengudokument, milles määratakse terviklikult ühe või mitme poliitikavaldkonna üldeesmärk, alaeesmärgid ja nende mõõtmist võimaldavad mõõdikud ning poliitikainstrumendid, mille kaudu seatud eesmärke plaanitakse saavutada.\n(4)\n(5) Programm on arengudokument, milles määratakse tulemusvaldkonna alaeesmärgi saavutamisele suunatud meetmed, mõõdikud, tegevused ja rahastamiskava. Mõõdikud peavad olema otseselt seotud programmi eesmärkidega ja olema perioodiliselt mõõdetavad, et hinnata riigieelarve vahendite kasutamise efektiivsust ning tulemuslikkust.\n(6) Strateegilised arengudokumendid peavad olema omavahel kooskõlas.\n(7) Põhiseaduslikud institutsioonid ei ole kohustatud koostama strateegilisi arengudokumente."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - Riigieelarve lähtealused",
+      "section": "20",
+      "title": "§ 20. Strateegiliste arengudokumentide koostamine, elluviimine ja muutmine",
+      "content": "(1) Riigi pikaajalise arengustrateegia ja poliitika põhialused võtab vastu Riigikogu kas omal algatusel või Vabariigi Valitsuse ettepanekul.\n(2) Valdkonna arengukava koostatakse vähemalt eelarvestrateegia perioodiks. Valdkonna arengukava kinnitab Vabariigi Valitsus, kui seadusest ei tulene teisiti. Valdkonna arengukava esitatakse enne kinnitamist Riigikogule arutamiseks.\n(3)\n(4) Programm koostatakse kooskõlas eelarvestrateegia perioodiga. Programmi kinnitab minister. Kui programmi eesmärgi saavutamisse panustavad mitu ministeeriumi, kinnitavad ministrid kogu programmi või jaotatakse programm osadeks, mille ministrid kinnitavad.\n(5) Valdkonna arengukava ja programmi koostamise, elluviimise, aruandluse, hindamise ja muutmise korra kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para20^1",
+      "chapter": "3. peatükk - Riigieelarve lähtealused",
+      "section": "20^1",
+      "title": "§ 20^1. Eelarve- ja struktuurikava",
+      "content": "(1) Käesoleva seaduse §-dele 5 ja 5^1 vastavad keskpika perioodi eelarve-eesmärgid kinnitatakse Vabariigi Valitsuselt Euroopa Liidu Nõukogule ja Euroopa Komisjonile esitatavas eelarve- ja struktuurikavas. Kava avalikustatakse Rahandusministeeriumi kodulehel.\n(2) Eelarve- ja struktuurikava koostatakse vähemalt kord nelja aasta jooksul, järgides Euroopa Parlamendi ja nõukogu määruse (EL) 2024/1263 nõudeid ning käesoleva seaduse §-s 5^1 sätestatud eelarvepoliitika piirmäärasid.\n(3) Kui eelarve- ja struktuurikava viimane kehtivusaasta langeb kokku Riigikogu korraliste valimiste aastaga, esitab valdkonna eest vastutav minister Vabariigi Valitsusele eelarve- ja struktuurikava eelarve-eesmärgid kinnitamiseks hiljemalt neli kuud enne järgmise eelarveaasta algust ning Vabariigi Valitsus kinnitab selle kava hiljemalt kaks kuud enne järgmise eelarveaasta algust.\n(4) Eelarvenõukogu annab hinnangu eelarve- ja struktuurikava netokulude kasvu aluseks oleva makromajandusprognoosi ja selle makromajanduslike eelduste kohta enne kava esitamist Euroopa Komisjonile. Hinnanguga arvestamata jätmist peab Rahandusministeerium põhjendama. Põhjendus avalikustatakse Rahandusministeeriumi kodulehel."
+    },
+    {
+      "provision_ref": "para20^2",
+      "chapter": "3. peatükk - Riigieelarve lähtealused",
+      "section": "20^2",
+      "title": "§ 20^2. Eelarve- ja struktuurikava eduaruanne",
+      "content": "Eelarve- ja struktuurikava täitmist kirjeldatakse vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) 2024/1263 nõuetele igal aastal koostatavas eduaruandes. Eduaruanne avaldatakse Rahandusministeeriumi kodulehel."
+    },
+    {
+      "provision_ref": "para20^3",
+      "chapter": "3. peatükk - Riigieelarve lähtealused",
+      "section": "20^3",
+      "title": "§ 20^3. Fiskaalriskide raport",
+      "content": "Rahandusministeerium koostab riigi eelarveraamistiku osana regulaarselt fiskaalriskide raporti, et hinnata riske, mis võivad ohustada riigi rahanduse jätkusuutlikkust ning kaasavat ja kestlikku kasvu keskpikas ja pikaajalises perspektiivis. Riskide hindamisel võetakse võimaluse korral arvesse hinnanguid kliimamuutustega kaasneda võivate makrofiskaalriskide ja nendega seotud jaotuslike mõjude kohta, samuti hinnatakse hädaolukorra või muu sarnase olukorra riski ja kaudsete kohustustega kaasnevaid riske."
+    },
+    {
+      "provision_ref": "para25^1",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "25^1",
+      "title": "§ 25^1. Eelarvestrateegia sisu",
+      "content": "(1) Eelarvestrateegias määratakse riigi eelarvepoliitika põhisuunad ning kajastatakse Vabariigi Valitsuse üldeesmärgid, mida eelarvestrateegia perioodil kavatsetakse ellu viia, ja elluviimiseks planeeritavad vahendid (edaspidi rahastamiskava ). Eelarvestrateegia koostatakse igal aastal vähemalt järgmise aasta ja sellele järgneva kolme aasta kohta (edaspidi eelarvestrateegia periood ).\n(2) Rahastamiskava aluseks on rahandusprognoos.\n(3) Eelarvestrateegia peab sisaldama aastate kaupa:\n1) makromajandusprognoosist ja rahandusprognoosist lähtuvat riigi majandusolukorra analüüsi;\n2) valitsussektori suuremate tulu- ja kuluartiklite prognoosi, mis põhineb eeldusel, et poliitikat ei muudeta;\n3) riigi eelarvepoliitilisi eesmärke, sealhulgas valitsussektori eelarvepositsiooni ja prognoositavat võlakoormuse suurust;\n4) kirjeldust, milliste poliitikamuudatuste, sealhulgas reformide ja investeeringute abil saavutatakse riigi eelarvepoliitilised eesmärgid;\n5) hinnangut kavandatavate poliitikamuudatuste mõju kohta valitsemissektori rahandusele keskpikas perspektiivis ja riigi rahanduse pikaajalisele jätkusuutlikkusele;\n6) valitsussektori allsektorite või sinna kuuluvate üksuste eeldatavat eelarvepositsiooni ja muud finantsteavet koos olulisemate muudatustega finantseerimise ja finantsjuhtimise põhimõtetes;\n7) eelarvestrateegia perioodiks tulemusvaldkondadele kavandatud maksimaalsete vahendite mahtude jaotust ministeeriumi valitsemisalale;\n8) võrdlust eelmise ja uuendatud eelarvestrateegia vahel, kui poliitika eesmärgid on võrreldes eelmise eelarvestrateegiaga muutunud;\n9) kavandatavaid investeeringuid;\n10) valitsussektori likviidsete varade ja võlakoormuse prognoosi, sealhulgas riigi varade, kohustuste ja netovara muutuste prognoosi (eelarveline bilanss);\n11) riigi rahavoogude prognoosi;\n12) põhiseaduslike institutsioonide taotletud vahendeid, välja arvatud kinnisasjadega seotud investeeringud, mahus, mille Riigikogu rahanduskomisjon on makromajandusprognoosi arvestades heaks kiitnud;\n13) kavandatavaid välistoetuseid.\n(3^1) Käesoleva paragrahvi lõike 3 punktis 4 nimetatud kirjeldus esitatakse valitsussektori suuremate tulu- ja kuluartiklite kaupa ning selles võrreldakse poliitikamuudatuste mõju sama lõike punktis 1 nimetatud prognoosidega, milles on eeldatud, et poliitikat ei muudeta. Eraldi tuuakse välja sellised poliitikamuudatused, mis mõjutavad riigi rahandust ning kestlikku ja kaasavat majanduskasvu.\n(4) Kui eelarvestrateegia koostamise ajal kehtib eriolukord, erakorraline seisukord või sõjaseisukord, võib Vabariigi Valitsus täita käesoleva paragrahvi lõikes 3 sätestatut osaliselt, põhjendades seda eelarvestrateegias."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "26",
+      "title": "§ 26. Riigieelarve sisu",
+      "content": "(1) Riigieelarve on riigi aastane rahastamiskava, milles kajastatakse vahendid, mida riik eelarveaastal plaanib koguda, saada toetusena, vahendada ja kasutada.\n(2) Riigieelarves liigendatakse vahendid eelarveklassifikaatori alusel administratiivselt Riigikogu Kantselei, Vabariigi Presidendi Kantselei, Riigikontrolli, Õiguskantsleri Kantselei, Riigikohtu ja ministeeriumide valitsemisalade vahel.\n(3) Administratiivne liigendus näitab, millised ministeeriumide valitsemisalad riigieelarve vahendeid koguvad, toetusena saavad, vahendavad või kasutavad. Administratiivses liigenduses võib tema kasutatavate vahendite osas märkida ka Vabariigi Valitsuse.\n(4) Majandusliku sisu järgi liigendatakse riigieelarve vahendid tuludeks, kuludeks, investeeringuteks ja finantseerimistehinguteks, lähtudes järgnevast:\n1) tulud on kõik vahendid, mida riik oma ülesandeid täites kogub või saab toetusena;\n2) kulud on riigi kasutatavad vahendid, mis pole investeeringud ega finantseerimistehingud;\n3) investeeringud on materiaalse ja immateriaalse põhivara soetamiseks ja renoveerimiseks planeeritud vahendid;\n4) finantseerimistehingud on tehingud finantsvarade või -kohustustega, mille puhul kahekordse kirjendamise põhimõttest tulenevalt tehakse mõlemad kirjed finantsvarades või -kohustustes ning mille tulemusena eelarvepositsioon ei muutu.\n(5) Riigieelarves liigendatakse kulud tulemusvaldkondade ja programmi tegevuste kaupa.\n(5^1) Riigieelarves liigendatakse ministeeriumi valitsemisala kulud administratiivselt riigiasutuste või nende gruppide kaupa. Ministeeriumi valitsemisala programmi tegevuse ja põhiseadusliku institutsiooni kulud liigendatakse majandusliku sisu põhjal tööjõu- ja majandamiskuludeks, sotsiaaltoetusteks, muudeks toetusteks ning muudeks kuludeks, eristades riigivõla intressikulu, edasiantava maksu kulud ja alates ühest miljonist eurost seadusest tulenevad arvestuslikud kulud.\n(5^2)\n(6) Põhiseadusliku institutsiooni eelarve liigendamise käesoleva paragrahvi lõike 5 kohaselt otsustab Vabariigi Valitsus põhiseadusliku institutsiooni algatusel.\n(7) Investeeringud maksumusega kümme miljonit eurot või rohkem liigendatakse riigieelarves investeeringuobjektide kaupa.\n(8) Riigisaladusega seotud valdkondade eelarve liigendatakse käesoleva paragrahvi lõigete 5, 5^1 ja 7 kohaselt ulatuses, mis ei ole vastuolus riigisaladuse ja salastatud välisteabe seaduse ning selle alusel kehtestatud õigusaktidega."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "27",
+      "title": "§ 27. Eelarveaasta",
+      "content": "(1) Riigieelarve koostatakse ühe eelarveaasta kohta.\n(2) Eelarveaasta algab 1. jaanuaril ja lõpeb 31. detsembril."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "28",
+      "title": "§ 28. Riigieelarve ülesehitus",
+      "content": "(1) Riigieelarves esitatakse:\n1) riigieelarve vahendite konsolideeritud eelarve;\n2)\n3) riigieelarve vahendite liigendus.\n(2) Riigieelarve seaduses esitatakse sätted, mille esitamise kohustus tuleneb õigusaktist või mis on seotud eelarveaastal riigieelarve vahendite kogumise, toetusena saamise, vahendamise või kasutamise korralduse või tingimustega.\n(3) Riigieelarve seaduses ei esitata muu seaduse muutmise või kehtetuks tunnistamise sätteid."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "29",
+      "title": "§ 29. Eelarveklassifikaator",
+      "content": "(1) Eelarveklassifikaator koosneb vahendite detailsest liigendusest ning eelarvestamisel, finantsjuhtimises ja strateegilises planeerimises kasutatavatest arvestuspõhimõtetest ja mõistetest.\n(2)\n(3)\n(4) Eelarveklassifikaatori kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "31",
+      "title": "§ 31. Kulude, investeeringute ja finantseerimistehingute täiendav liigendamine",
+      "content": "(1) Vabariigi Valitsus liigendab riigieelarves märgitud ministeeriumi valitsemisala investeeringud kinnisasjadesse objektide kaupa. Vabariigi Valitsus võib riigieelarves märgitud ministeeriumi valitsemisala muid investeeringuid, kulusid ja finantseerimistehinguid liigendada kooskõlas eelarveklassifikaatoriga.\n(2) Minister liigendab riigieelarves märgitud ministeeriumi valitsemisala vahendid administratiivselt ja majandusliku sisu järgi valitsemisala eelarves vähemalt eelarveklassifikaatori kohaselt kehtestatud kohustuslikus planeerimisdetailsuses ja lähtudes käesoleva paragrahvi lõike 1 alusel kehtestatud Vabariigi Valitsuse liigendusest.\n(3) Põhiseaduslikud institutsioonid ja nende haldusala asutused liigendavad riigieelarves märgitud vahendid majandusliku sisu järgi või tegevuspõhiselt oma eelarves kooskõlas eelarveklassifikaatoriga."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "32",
+      "title": "§ 32. Piirmääraga ja piirmäärata vahendid ning edasiantav maks",
+      "content": "(1) Riigieelarve vahendid jaotuvad piirmäärata ja piirmääraga vahenditeks. Piirmäärata vahendite arvel võetavate kohustuste suurusele riigieelarvega piiranguid ei kehtestata.\n(2) Piirmäärata vahendid on:\n1) kulu, investeering ja finantseerimistehing, mille tegemise võimalikkus sõltub konkreetse tulu tekkimisest (edaspidi tuludest sõltuvad vahendid );\n2) kulu, investeering ja finantseerimistehing, mille suurus tuleneb seadusest (edaspidi arvestuslikud vahendid );\n3) tulu;\n4) mitterahalised tulud ja kulud.\n(3) Riigieelarves nii tulu kui ka kuluna planeeritud maksud, maksed ja muud tasud, mida riik kogub ja edastab õigusaktis määratud isikule (edaspidi edasiantav maks ), kantakse saajale edasi vastavalt tegelikule laekumisele.\n(4) Riigieelarve seadusega määratakse piirmääraga vahendite kasutamisele limiit."
+    },
+    {
+      "provision_ref": "para33^1",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "33^1",
+      "title": "§ 33^1. Eelarvestrateegia koostamine",
+      "content": "(1) Eelarvestrateegia koostab Rahandusministeerium.\n(2) Eelmise perioodi eelarvestrateegias esitatud teavet eelseisvate aastate kohta muudetakse uue eelarvestrateegia kinnitamisel vaid juhul, kui on muutunud tulemusvaldkonna üldeesmärk, Vabariigi Valitsuse tegevusprogramm, riigi eelarvepoliitilised põhisuunad, makromajandusprognoos, rahandusprognoos või asjaomane õigusakt.\n(3)\n(4) Taotluse avalik-õiguslikule juriidilisele isikule riigieelarvest vahendite eraldamiseks esitab ministeerium, kelle pädevusvaldkonnaga on selle avalik-õigusliku juriidilise isiku tegevus peamiselt seotud, eelarvestrateegia ja eelarve koostamiseks esitatavate andmete hulgas.\n(5) Eelarvestrateegia ja riigieelarve koostamise tingimused ja korra kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "34",
+      "title": "§ 34. Riigieelarve eelnõu koostamise alused",
+      "content": "Riigieelarve eelnõu koostatakse eelarvestrateegia ja viimase rahandusprognoosi alusel."
+    },
+    {
+      "provision_ref": "para34^1",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "34^1",
+      "title": "§ 34^1. Eelarvestrateegia ja riigieelarve kinnitamine",
+      "content": "(1) Vabariigi Valitsus kinnitab eelarvestrateegia ja kiidab heaks riigieelarve eelnõu arvestusega, et need esitatakse Riigikogule hiljemalt kolm kuud enne eelarveaasta algust.\n(2)\n(3)\n(4)"
+    },
+    {
+      "provision_ref": "para34^2",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "34^2",
+      "title": "§ 34^2. Tõhustamiskava",
+      "content": "(1) Avalike vahendite tulemuslikuks ja tõhusaks kasutuseks ning riigi toimimise paindlikkuse suurendamiseks võib Vabariigi Valitsus riigieelarve vahendite planeerimisel koostada tõhustamiskava.\n(2) Tõhustamiskavaga tehakse konkreetsed ettepanekud riigieelarve vahendite mõjusamaks, tõhusamaks ja säästlikumaks kasutamiseks.\n(3) Tõhustamiskava koostamise tingimused ja korra kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "35",
+      "title": "§ 35. Ministeeriumi valitsemisala eelarve projekt",
+      "content": "(1)\n(2)\n(3) Justiits- ja Digiministeeriumi eelarve projekti juurde lisatakse kohtute haldamise nõukoja arvamus maakohtutele, halduskohtutele ja ringkonnakohtutele planeeritud vahendite vastavuse kohta kohtute aastaeelarve kujundamise põhimõtetele.\n(4)"
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "37",
+      "title": "§ 37. Riigieelarve eelnõu menetlemine Vabariigi Valitsuses",
+      "content": "(1)\n(2)\n(3) Maakohtutele, halduskohtutele või ringkonnakohtutele riigieelarve eelnõus ettenähtud vahendite mahtude muutmisel või vahendite väljajätmisel esitab Vabariigi Valitsus tehtud muudatused koos kohtute haldamise nõukoja arvamusega riigieelarve eelnõu seletuskirjas."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "38",
+      "title": "§ 38. Riigieelarve eelnõu esitamine Riigikogule",
+      "content": "(1) Vabariigi Valitsus esitab riigieelarve eelnõu koos seletuskirjaga Riigikogule hiljemalt kolm kuud enne eelarveaasta algust.\n(2) Riigikogule esitatav riigieelarve eelnõu peab vastama avaldatud õigusaktidele ja enne riigieelarve esitamist Vabariigi Valitsuse poolt Riigikogus algatatud eelnõudele. Esitatavas riigieelarve eelnõus võib olla arvesse võetud Vabariigi Valitsuse poolt Riigikogus algatatud eelnõudes Riigikogu menetluses tehtud muudatusi.\n(2^1) Riigikogule esitatavas riigieelarve eelnõus peavad olema kajastatud põhiseaduslike institutsioonide taotletud vahendid, välja arvatud kinnisasjadega seotud investeeringud, mahus, mille Riigikogu rahanduskomisjon on makromajandusprognoosi arvestades heaks kiitnud.\n(3)\n(4)"
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "39",
+      "title": "§ 39. Riigieelarve eelnõu menetlemine Riigikogus",
+      "content": "Riigieelarve eelnõu menetletakse Riigikogus Riigikogu kodu- ja töökorra seaduse alusel käesolevast seadusest tulenevate erisustega."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "40",
+      "title": "§ 40. Riigieelarve eelnõu muutmise ettepanekud",
+      "content": "(1) Riigieelarve eelnõu muutmise ettepanekule, mis tingib eelnõus ettenähtud tulude vähendamise või kulu, investeeringu või finantseerimistehingu suurendamise või ümberjaotamise, tuleb algatajal lisada rahalised arvestused, milles on märgitud vajalikud katteallikad.\n(2) Riigieelarve eelnõu muutmise ettepanek ei või põhjustada struktuurset riigieelarve puudujääki, selle suurenemist ega struktuurse ülejäägi vähenemist."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "41",
+      "title": "§ 41. Riigieelarve vastuvõtmine",
+      "content": "Riigikogu võtab riigieelarve vastu seadusena."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "42",
+      "title": "§ 42. Kulude tegemine, kui riigieelarvet ei ole eelarveaasta alguseks vastu võetud",
+      "content": "(1) Kui Riigikogu ei ole riigieelarvet eelarveaasta alguseks vastu võtnud, võib ministeeriumi valitsemisala kuni riigieelarve vastuvõtmiseni teha alanud aasta igal kuul kulusid, investeeringuid ja finantseerimistehinguid kuni ühe kaheteistkümnendiku ulatuses eelmise aasta riigieelarve vastavast kulust, investeeringust või finantseerimistehingust tingimusel, et kulu, investeering või finantseerimistehing:\n1) on ka alanud aasta riigieelarve eelnõus ette nähtud ja\n2) ei ületata üht kaheteistkümnendikku alanud aasta eelarve eelnõus ette nähtud vastava kulu, investeeringu või finantseerimistehingu summast.\n(2) Kui Riigikogu ei ole riigieelarvet eelarveaasta alguseks vastu võtnud, kohaldatakse kuni riigieelarve vastuvõtmiseni eelmise aasta riigieelarvega seaduse alusel kehtestatud määrasid ja piirmäärasid.\n(3) Kui sõjaseisukorra ajal ei ole Riigikogu eelarveaasta alguseks riigieelarvet vastu võtnud, otsustab Vabariigi Valitsus Riigikogule esitatud riigieelarve eelnõu rakendamise kuni Riigikogu poolt riigieelarve vastuvõtmiseni. Sellisel juhul ei tohi enne Riigikogu poolt riigieelarve vastuvõtmist igakuiselt tehtavad kulud, investeeringud ja finantseerimistehingud kokku ületada üht kaheteistkümnendikku eelmise aasta riigieelarve kulude, investeeringute ja finantseerimistehingute kogumahust."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "43",
+      "title": "§ 43. Riigieelarve muutmine",
+      "content": "(1) Riigieelarve muutmiseks vahendite kogumahtu muutmata võib Vabariigi Valitsus algatada hiljemalt kaks kuud enne eelarveaasta lõppu riigieelarve muutmise seaduse eelnõu.\n(2) Riigieelarve muutmise seaduse eelnõu koos seletuskirjaga koostab Rahandusministeerium.\n(3) Riigieelarve muutmise seaduse eelnõu esitamine, arutamine ja vastuvõtmine toimub käesoleva seaduse §-des 39 ja 40 sätestatud korras."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "44",
+      "title": "§ 44. Lisaeelarve",
+      "content": "(1) Riigieelarve muutmiseks vahendite kogumahtu muutes võib Vabariigi Valitsus algatada hiljemalt kolm kuud enne eelarveaasta lõppu lisaeelarve eelnõu.\n(2) Lisaeelarve eelnõu koos seletuskirjaga koostab Rahandusministeerium.\n(3) Lisaeelarve eelnõu esitamine, arutamine ja vastuvõtmine toimub käesoleva seaduse §-des 39 ja 40 sätestatud korras, arvestades § 38 lõikes 2^1 sätestatud nõudeid."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "45",
+      "title": "§ 45. Riigieelarve muutmise ja lisaeelarve algatamise erisused",
+      "content": "(1) Pärast kaitsevalmiduse kõrgendamise otsuse Riigikogu poolt heakskiitmist või mobilisatsiooni või sõjaseisukorra väljakuulutamist ning kollektiivse enesekaitse lepinguga ette nähtud kohustuste täitmiseks võib Vabariigi Valitsus esitada Riigikogule riigieelarve muutmise seaduse või lisaeelarve eelnõu ning otsustada vajaduse korral selle rakendamise kuni Riigikogu poolt küsimuse otsustamiseni, kusjuures enne Riigikogu poolt küsimuse otsustamist tehtavate kulude kogumaht ei tohi ületada kümmet protsenti jooksva aasta riigieelarve kulude mahust. Kui kõrgendatud kaitsevalmiduse või sõjaseisukorra ajal nähakse riigieelarve muutmise seaduse või lisaeelarve eelnõuga ette seaduses sätestatud toetus- või tasumäärade muutmine, esitatakse riigieelarve muutmise seaduse või lisaeelarve eelnõuga samal ajal asjakohase seaduse muutmise eelnõu.\n(2) Käesoleva seaduse § 43 lõikes 1 ja § 44 lõikes 1 nimetatud ajalisi piiranguid ei kohaldata, kui riigieelarve muutmise või lisaeelarve algatamise põhjuseks on:\n1) krediidiasutustele, kindlustusandjatele või finantseerimisasutustele või kesksetele vastaspooltele (edaspidi finantsasutused ) likviidsus- või maksevõimega seotud raskusi või makse- ja arveldussüsteemides või väärtpaberite arveldussüsteemides olulisi tõrkeid põhjustada võiva finantskriisi lahendamine või ennetamine;\n2) välisriigi, euroala või selle liikmesriigi finantsstabiilsuse tagamine;\n3) kaitsevalmiduse kõrgendamine, kollektiivse enesekaitse lepinguga ettenähtud kohustuste täitmine, eriolukorra, erakorralise seisukorra, sõjaseisukorra või mobilisatsiooni väljakuulutamine;\n4) käesoleva seaduse § 73 lõikes 1 nimetatud Riigikogu otsus.\n(3) Kõrgendatud kaitsevalmiduse ja sõjaseisukorra ajal sellega seonduvate ülesannete täitmiseks, mobilisatsiooni läbiviimiseks või kollektiivse enesekaitse lepinguga ettenähtud kohustuste täitmiseks võib Vabariigi Valitsus valdkonna eest vastutava ministri ettepanekul esitada Riigikogule riigieelarve muutmise seaduse eelnõu ning otsustada vajaduse korral Riigikogule esitatud eelnõu rakendamise kuni Riigikogu poolt küsimuse otsustamiseni."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "46",
+      "title": "§ 46. Riigieelarve seos kohaliku omavalitsuse üksuste eelarvetega",
+      "content": "(1) Riigieelarvest antakse kohaliku omavalitsuse üksustele toetust:\n1) tasandusfondist;\n2) toetusfondist;\n3) juhtumipõhiselt konkreetse tegevuse või investeeringu toetamiseks.\n(2) Kohaliku omavalitsuse üksuste ning üleriigilise kohaliku omavalitsuse üksuste liidu ja Vabariigi Valitsuse esindajad peavad enne eelarvestrateegia ja riigieelarve eelnõu koostamist läbirääkimisi eesmärgiga kokku leppida järgmistes küsimustes:\n1) edasiantavate maksude osa suurus ja laekumise põhimõtted;\n2) käesoleva paragrahvi lõike 1 punktides 1 ja 2 nimetatud toetuste jaotamise alused, kasutamise tingimused, suuruse kujunemise põhimõtted ning suurused eelarvestrateegia perioodiks ja eelarveaastaks;\n3) kohaliku omavalitsuse üksusele seadusega pandud riiklike ülesannete kulude katmise põhimõtted;\n4) käesoleva lõike punktides 1 ja 2 nimetatud informatsiooni eelarvestrateegias ja riigieelarve eelnõus kajastamise metoodika;\n5) finantsdistsipliini tagamise meetmed ja vajaduse korral kohaliku omavalitsuse üksuste konsolideeritud eelarvepositsiooni parandamise meetmed.\n6)\n(3) Käesoleva paragrahvi lõikes 2 nimetatud küsimustes saavutatud kokkulepped kajastuvad eelarvestrateegias, riigieelarve eelnõus, seaduseelnõus või mõnes muus õigusaktis. Küsimused, milles kokkulepet ei saavutata, otsustab Vabariigi Valitsus eelarvestrateegia ja riigieelarve eelnõu koostamisel.\n(4) Läbirääkimistel sõlmitud kokkulepete ja poolte lahkarvamuste protokoll lisatakse eelarvestrateegiale või riigieelarve eelnõu seletuskirjale.\n(5) Eelarvestrateegias esitatakse informatsioon kohaliku omavalitsuse üksustele edasiantavate maksude ning tasandusfondist ja toetusfondist määratavate toetuste eeldatavate suuruste kohta."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "47",
+      "title": "§ 47. Tasandusfond",
+      "content": "(1) Tasandusfondi suurus ja jaotamise põhimõtted määratakse riigieelarvega või muu seadusega.\n(2) Tasandusfondi eesmärk on vahendite kasutamise tingimusi määramata ühtlustada kohaliku omavalitsuse üksuste ülesannete täitmise võimalusi. Tasandusfondi jaotamisel võetakse aluseks kohaliku omavalitsuse üksusele laekuv tulumaks ja maamaks, kohaliku omavalitsuse üksuse elanike arv ja muud kohaliku omavalitsuse üksuse erisused.\n(3) Tasandusfondi jaotuse kohaliku omavalitsuse üksuste vahel kehtestab Vabariigi Valitsus korraldusega."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "48",
+      "title": "§ 48. Toetusfond",
+      "content": "(1) Toetusfondi suurus ja sellesse kuuluvad toetuste liigid määratakse riigieelarvega.\n(2) Toetusfond on kohaliku omavalitsuse üksustele seaduses määratud sihtotstarbel ja tingimustel kasutamiseks antav toetus, mida jaotatakse ainult arvnäitajate alusel.\n(3) Toetusfondi jaotamise aluseks olevad arvnäitajad sätestatakse seadusega.\n(4) Toetusfondi jaotamise ja kasutamise tingimused ning korra kehtestab Vabariigi Valitsus määrusega.\n(5) Vabariigi Valitsus kehtestab käesoleva paragrahvi lõikes 4 nimetatud määrusega ka toetusfondi jaotamise aluseks olevad arvnäitajad, kui toetusfondis on riigieelarvega määratud üheaastase kestusega toetus, mille jaotamise aluseks olevad arvnäitajad ei ole seadusega sätestatud.\n(6) Toetusfondi jaotuse kohaliku omavalitsuse üksuste vahel kehtestab Vabariigi Valitsus korraldusega."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "49",
+      "title": "§ 49. Tasandusfondi ja toetusfondi väljamaksed",
+      "content": "(1) Käesoleva seaduse § 64 lõike 4 alusel kehtestatavas kassalise teenindamise eeskirjas sätestatakse käesoleva seaduse § 47 lõike 3 ja § 48 lõike 6 alusel kohaliku omavalitsuse üksusele määratud toetuste väljamaksmise ja toetuste avansiliste maksete tegemise tingimused ja kord.\n(2) Kui Vabariigi Valitsus ei ole eelarveaasta alguseks kehtestanud käesoleva seaduse § 47 lõikes 3 ja § 48 lõikes 6 nimetatud jaotust, makstakse kohaliku omavalitsuse üksustele kuni selle jaotuse kehtestamiseni igal kuul kuni üks kaheteistkümnendik eelmisel eelarveaastal Vabariigi Valitsuse kinnitatud jaotuse alusel samaks otstarbeks eraldatud summast, arvestades riigieelarves jooksvaks eelarveaastaks kavandatud summaga või riigieelarve eelnõus kavandatud summaga, kui jooksva aasta riigieelarve on vastu võtmata."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "50",
+      "title": "§ 50. Juhtumipõhine toetus",
+      "content": "(1) Ministeerium annab riigieelarvega ministeeriumi valitsemisalale ettenähtud vahenditest kohaliku omavalitsuse üksusele ja tema valitseva mõju all olevale üksusele sihtotstarbelist juhtumipõhist toetust investeeringuteks või tegevuskuludeks.\n(2)\n(2^1) Minister võib kehtestada määrusega juhtumipõhise tegevuskulutoetuse andmise tingimused ja korra, milles sätestatakse vähemalt toetuse andmise eesmärk ning jaotamise põhimõtted.\n(3) Minister võib kehtestada määrusega juhtumipõhise investeeringutoetuse andmise tingimused ja korra, milles sätestatakse vähemalt:\n1) toetuse andmise eesmärk;\n2) toetatavad tegevused;\n3) toetuse jaotamise või taotlemise põhimõtted;\n4) taotluse esitamise korral selle hindamise põhimõtted;\n5) toetuse väljamaksete tegemise kord.\n(4) Riigieelarvest antakse kohaliku omavalitsuse üksusele ja tema valitseva mõju all olevale üksusele juhtumipõhist investeeringutoetust järgmistel tingimustel:\n1) toetatava investeeringuga panustatakse üldjuhul kohaliku omavalitsuse üksuse arengukava valdkondliku eesmärgi täitmisse;\n2) kohaliku omavalitsuse üksuse arengukava ja eelarvestrateegia peavad sisaldama vähemalt seaduses määratud perioodi;\n3) omafinantseeringusse panustamise korral peab kohaliku omavalitsuse üksus suutma tagada omafinantseeringut, arvestades finantsdistsipliini meetmeid seaduses määratud tingimustel.\n(5)"
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "51",
+      "title": "§ 51. Riikliku ülesande kulude katmine",
+      "content": "(1) Kohaliku omavalitsuse üksusele seadusega pandud riikliku ülesande (edaspidi riiklik ülesanne ) kulude katmise aluseks on keskmine arvutatud kulu või tegelik kulu.\n(2) Kui riikliku ülesande kulud kaetakse seaduses sätestatud arvnäitajate alusel, määratakse keskmise kulu arvutamise põhimõtted või tegeliku kulu hüvitamise põhimõtted käesoleva seaduse § 48 lõikes 4 nimetatud määruses.\n(3) Minister võib kehtestada määrusega:\n1) riikliku ülesande kulude katmise keskmise kulu arvutamise või tegeliku kulu hüvitamise põhimõtted;\n2) kulude katmise taotluse esitamise ja menetlemise korra.\n(4) Hüvitise määrad riikliku ülesande kulude katmiseks määratakse igaks eelarveaastaks riigieelarvega.\n(5) Riikliku ülesande kulude katmiseks antavad vahendid tuleb kavandada riigieelarves.\n(6) Riigieelarve eelnõu seletuskirjas tuleb esitada informatsioon iga riikliku ülesande kulude katteks antavate vahendite suuruse ja nende andja kohta."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "4. peatükk - Eelarvestrateegia ja riigieelarve",
+      "section": "52",
+      "title": "§ 52. Toetusfondi ja juhtumipõhiste toetuste kasutamine",
+      "content": "Kui toetuse andja ei ole ette näinud toetusfondi või juhtumipõhise toetuse kasutamata jäänud vahendite tagastamist riigile, võib kohaliku omavalitsuse üksus neid kasutada järgmistel eelarveaastatel samal otstarbel."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "53",
+      "title": "§ 53. Riigieelarve vahendite kasutamise eeldused",
+      "content": "(1) Ministeeriumi valitsemisalal on õigus kasutada riigieelarve vahendeid sihtotstarbeliselt ja ainult siis, kui vastavad vahendid on eelarves ette nähtud ja kui käesolevast seadusest ei tulene teisiti.\n(2) Ministeeriumi valitsemisalal on õigus riigieelarve vahendeid kasutada ainult sama eelarveaasta jooksul, kui käesolevast seadusest või riigieelarvest ei tulene teisiti.\n(3)\n(4)\n(5) Tuludest sõltuvaid vahendeid on õigus kasutada pärast tulu tekkimist, välja arvatud käesoleva seaduse § 54 lõikes 1 sätestatud juhul.\n(6) Tehtud kulude hüvitamiseks laekunud välistoetuse ja välistoetuse kaasrahastamise vahendeid võib riigiasutus kasutada otstarbel, mis oli vahenditel, mida hüvitatavate kulude tegemiseks kasutati.\n(7)"
+    },
+    {
+      "provision_ref": "para53^1",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "53^1",
+      "title": "§ 53^1. Riigisisese projektipõhise toetuse andmine",
+      "content": "(1) Ministeeriumi valitsemisala vahendite arvelt antava riigisisese projektipõhise toetuse andmise, sealhulgas taotlusvooru korraldamise, toetuse kasutamise ja aruandluse ning toetusena antud vahendite või selle jäägi tagasinõudmise tingimused ja korra, kui nimetatud tingimused ja kord ei tulene muust õigusaktist, kehtestab valdkonna eest vastutav minister määrusega.\n(1^1) Riigisisest projektipõhist toetust antakse kooskõlas valitsemisala arengudokumentidega kulude ja investeeringute sihtfinantseerimiseks üldjuhul avatud taotlusvooru kaudu. Erandjuhul ja põhjendatult võib riigisisest projektipõhist toetust anda otsustuskorras, kui minister on kehtestanud selliste toetuste andmise põhimõtted käesoleva paragrahvi lõikes 1 nimetatud määrusega.\n(2) Minister võib halduslepinguga volitada ministeeriumi valitsemisala vahendite arvelt riigisisese projektipõhise toetuse andmise tingimuste elluviimisega seotud haldusülesannet täitma riigi sihtasutuse või riigi osalusel asutatud sihtasutuse, kohaliku omavalitsuse üksuse või tema asutatud sihtasutuse või mittetulundusühingu, kohaldamata halduskoostöö seaduse § 5 lõikeid 2 ja 3, § 6 lõikeid 1 ja 2 ning § 14 lõiget 1. Sellise halduslepingu sõlmimisele ei kohaldata halduskoostöö seaduse § 13 ega § 14 lõiget 3."
+    },
+    {
+      "provision_ref": "para53^2",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "53^2",
+      "title": "§ 53^2. Riigisisese tegevustoetuse andmine",
+      "content": "(1) Ministril on õigus anda valitsemisala vahendite arvelt riigisisest tegevustoetust seaduses sätestatud juhul või käesolevas paragrahvis sätestatud juhul tegevusteks, mis sisalduvad valdkonna arengudokumentides. Põhiseaduslik institutsioon võib anda riigisisest tegevustoetust, kui see on seotud tema ülesannete ja tegevussuundadega.\n(2) Riigisisese tegevustoetuse saajaks võib olla keskvalitsuse juriidiline isik, kui seaduses ei ole sätestatud teisiti. Riigisisest tegevustoetust antakse saajale, lähtudes tema arengudokumentides määratud eesmärkidest ja põhikirjalistest ülesannetest.\n(3) Ministeeriumi valitsemisala eelarvest riigisisese tegevustoetuse jaotamise põhimõtted ja korra samal tegevusalal tegutsevatele keskvalitsuse juriidilistele isikutele, kui nimetatud põhimõtted ja kord ei tulene muust õigusaktist ja juhul, kui samal tegevusalal tegutsevaid keskvalitsuse juriidilisi isikuid on rohkem kui üks, kehtestab valdkonna eest vastutav minister määrusega.\n(4) Käesolevas paragrahvis sätestatut ei kohaldata nende liikmemaksude maksmisele, mida põhiseaduslik institutsioon ja ministeeriumi valitsemisala maksab riigisisestes ja rahvusvahelistes organisatsioonides osalemise eest."
+    },
+    {
+      "provision_ref": "para53^3",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "53^3",
+      "title": "§ 53^3. Riigisisese sotsiaaltoetuse andmine",
+      "content": "(1) Ministeeriumi valitsemisala vahendite arvelt võib füüsilisele isikule anda käesoleva seaduse alusel riigisisest sotsiaaltoetust, mille andmine ei ole ette nähtud muu seaduse või õigusaktiga, kui see seostub valdkonna arengudokumentides sisalduva valitsemisala tegevusega ja selleks on valitsemisala eelarves vahendid ette nähtud.\n(2) Riigisisese sotsiaaltoetusena käsitatakse käesolevas paragrahvis stipendiume tulumaksuseaduse § 19 lõike 7 tähenduses ja preemiaid. Preemiana ei käsitata käesoleva paragrahvi tähenduses avaliku teenistuse seaduse § 61 lõikes 5 nimetatud muutuvpalka.\n(3) Ministeeriumi valitsemisala vahendite arvelt antava riigisisese sotsiaaltoetuse andmise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega.\n(4) Põhiseaduslik institutsioon kehtestab sotsiaaltoetuse andmise põhimõtted ja avalikustab need oma kodulehel."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "54",
+      "title": "§ 54. Välistoetuse ja välistoetuse kaasrahastamise vahendite kasutamine enne nende laekumist",
+      "content": "(1) Välistoetuse ning välistoetuse kaasrahastamise vahendeid võib riigiasutus Rahandusministeeriumi nõusolekul kasutada enne nende laekumist.\n(2) Kui riigiasutus on teinud käesoleva paragrahvi lõikes 1 nimetatud vahendite arvel väljamakseid suuremas summas, kui laekub välistoetust või välistoetuse kaasrahastamise vahendeid, peab riigiasutus või tema kõrgemalseisev ministeerium, välistoetuse vahendaja tehtud väljamaksete puhul ministeerium, kelle vastutusalas on vastava välistoetuse väljamaksmise ülesande täitmine, katma puudujääva summa riigiasutuse või ministeeriumi valitsemisala eelarvelistest vahenditest või taotlema puudujäägi katmist Vabariigi Valitsuse reservist.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud vahendite kasutamise korra ja tingimused kehtestab valdkonna eest vastutav minister käesoleva seaduse § 64 lõike 4 alusel kehtestatavas kassalise teenindamise eeskirjas."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "55",
+      "title": "§ 55. Riigisisese projektipõhise toetuse ja riigisisese tegevustoetuse ning välistoetuse kaasrahastamise eelarve kasutamine",
+      "content": "(1) Riigisisese projektipõhise toetuse ja tegevustoetuse ning välistoetuse riigieelarves ette nähtud kaasrahastamise vahendite andja peab tagama, et toetuse või kaasrahastamise vahendite saaja kohustub kasutama saadud toetust või vahendeid ainult toetuse või vahendite andja määratud otstarbel ja tingimustel.\n(2) Ebaseaduslik ja väärkasutatud riigiabi nõutakse tagasi konkurentsiseaduse § 42 alusel ja korras, kui Euroopa Liidu õigusest ei tulene teisiti, kohaldamata käesolevas seaduses sätestatut.\n(3) Riigisisese projektipõhise toetuse saaja kohustub kandma toetuse kasutamata jäägi andjale tagasi. Jäägi tagasi kandmata jätmise korral nõuab toetuse andja selle toetuse saajalt tagasi."
+    },
+    {
+      "provision_ref": "para55^1",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "55^1",
+      "title": "§ 55^1. Riigisisese projektipõhise toetuse tagasinõudmine",
+      "content": "(1) Riigisisese projektipõhise toetuse andja võib toetuse andmise otsuse osaliselt või täielikult kehtetuks tunnistada ja selle olenevalt rikkumise raskusest osaliselt või täielikult tagasi nõuda, kui selgub, et toetuse saaja:\n1) on toetuse taotlemise või kasutamise korral esitanud teadlikult valeandmeid, on täitnud toetuse saamise või kasutamisega seotud tingimused näiliselt ning toetuse kasutamise korral on esinenud kelmus, pettus, korruptsioon või huvide konflikt või ilmneb asjaolu, mille korral ei oleks toetuse taotlust rahuldatud;\n2) ei ole täitnud toetuse väljamaksmise aluseks olevaid nõudeid;\n3) ei ole täitnud toetuse saamisega seotud kohustust osaliselt või täielikult;\n4) suhtes on algatatud likvideerimis- või pankrotimenetlus.\n(2) Minister võib kehtestada käesoleva seaduse § 53^1 lõikes 1 nimetatud määrusega riigisisese projektipõhise toetuse tagasinõude määrad ning toetuse täpsustavad või muud tagasinõudmise alused.\n(3) Riigisisese projektipõhise toetuse käesoleva paragrahvi lõikes 1 nimetatud alustel tagasinõudmisest võib loobuda, kui:\n1) toetust ei ole võimalik sihipäraselt kasutada vääramatu jõu või toetuse saaja tahtest sõltumatu muu asjaolu tõttu;\n2) toetuse saaja on avastanud ja toetuse andjat esimesel võimalusel teavitanud, et talle on hüvitatud kulu, mida toetusest ei hüvitata, ning on tagastanud toetuse või selle osa toetuse andmise tingimustes sätestatud viisil;\n3) tagasinõutav toetuse summa on 1000 eurot või sellest väiksem, välja arvatud juhul, kui tegemist on käesoleva paragrahvi lõike 1 punktis 1 nimetatud asjaoludega.\n(4) Otsuse riigisisese projektipõhise toetuse tagasinõudmise kohta võib teha projekti viimase väljamakse tegemise päevast arvates nelja aasta jooksul, kui seaduses ei ole sätestatud teisiti. Toetus tuleb tagasi maksta 60 päeva jooksul arvates sellekohase otsuse saamisest. Erandjuhul ja põhjendatult võib toetuse andja pikendada toetuse tagasimakse tähtaega toetuse saaja taotlusel ja ajatada tagasimaksmise, nõudes vajaduse korral tagatist.\n(5) Kui riigisisese projektipõhise toetuse tagasimaksmise tähtpäevaks toetust tagasi ei maksta või tasaarvestata, peab toetuse saaja maksma viivist 0,06 protsenti iga toetuse tagasimaksmisega viivitatud kalendripäeva eest. Viivise arvestamine lõpeb, kui viivise summa ületab selle arvestamise aluseks oleva tagasinõutava toetuse suuruse. Toetuse tagasinõudmise otsusega on võimalik viivist vähendada põhjendatud juhul, kuid tagada tuleb piisav kahjuhüvitis.\n(6) Riigisisese projektipõhise toetuse tagasimaksmise ajatamise korral maksab toetuse saaja intressi arvates käesoleva paragrahvi lõike 4 teises lauses sätestatud tähtpäevale järgnevast päevast. Intressimäär tagastatava toetuse summa jäägilt on kuue kuu euribor, millele lisandub kolm protsenti aastas. Kuue kuu euribor arvestatakse toetuse tagasimaksmise ajatamise otsuse tegemisele eelnenud pangapäeva seisuga. Intressiarvestuse baasiks on 360-päevane periood. Negatiivse euribori korral ei kohaldata summeeritud protsendimäärasid alla ühe.\n(7) Viivist ja intressi ei nõuta riigiasutuselt.\n(8) Riigisisese projektipõhise toetuse tagasinõudmise otsus on täitedokument täitemenetluse seadustiku § 2 lõike 1 punkti 21 tähenduses."
+    },
+    {
+      "provision_ref": "para55^2",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "55^2",
+      "title": "§ 55^2. Isikuandmete töötlemine toetuse taotluse menetlemise korral",
+      "content": "(1) Toetuse taotluse menetlemise korral käesoleva seaduse §-de 53^1–53^3 alusel töödeldakse järgmisi isikuandmeid:\n1) toetuse taotleja üldandmed ja arvelduskonto;\n2) füüsilisest isikust toetuse taotleja tervise, etnilise päritolu, hariduse ja töökogemuse andmed, kui sellised andmed on toetuse andmise tingimuste kohaselt vajalikud, et tuvastada toetuse taotlemise ning saamise õigus.\n(2) Toetuse taotluse menetlemise korral töödeldavaid isikuandmeid säilitatakse viis aastat alates taotluse rahuldamata jätmise otsuse või toetuse saajale tehtud lõppmakse tegemise aasta 31. detsembrist, välja arvatud juhul, kui riigiabi reeglitest tuleneb teisiti. Isikuandmete säilitamise tähtaeg katkeb kohtumenetluse ajaks."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "56",
+      "title": "§ 56. Muudatused riigieelarve vahendite kasutamisel",
+      "content": "(1) Riigieelarvega kindlaks määratud vahendite jaotust on võimalik muuta vaid riigieelarve muutmise või lisaeelarvega, kui käesolevast seadusest või riigieelarvest ei tulene teisiti.\n(2) Vabariigi Valitsusel on õigus muuta riigieelarves määratud järgmiste vahendite liigendust:\n1) välistoetuste ja kaasrahastamisega seotud vahendid;\n2) Kaitseministeeriumi valitsemisala vahendid rahvusvahelises sõjalises operatsioonis osalemise rahastamiseks;\n3) ministeeriumi valitsemisala vahendid ministeeriumi valitsemisala riigiasutuse ümberkorraldamise või lõpetamisega seoses;\n4) ministeeriumi valitsemisala investeeringuobjektid ületamata riigieelarves investeeringuteks ettenähtud eelarvet.\n(2^1) Ministril on õigus muuta riigieelarvega kindlaks määratud piirmääraga vahendite liigendust riigieelarves sätestatud ulatuses ja tingimustel.\n(2^2) Ministril on õigus muuta riigieelarvega kindlaks määratud ministeeriumi valitsemisala piirmääraga vahendite riigiasutuste või nende gruppide eelarve liigendust ja programmi tegevuse majandusliku sisu detailset liigendust, ületamata valitsemisala programmi tegevuse piirmääraga vahendite muutmiseks riigieelarves sätestatud ulatust ja tingimusi.\n(2^3) Põhiseaduslikul institutsioonil on õigus muuta riigieelarvega kindlaks määratud piirmääraga vahendite käesoleva seaduse § 26 lõike 5^1 kohaselt esitatud majandusliku sisu liigendust selle kogumahtu muutmata.\n(2^4) Ministeerium ja põhiseaduslik institutsioon teavitavad viivitamata Riigikogu rahanduskomisjoni käesoleva paragrahvi lõigete 2^2 ja 2^3 kohaselt tehtud eelarvemuudatustest ning nende põhjendustest.\n(3)\n(4) Vabariigi Valitsusel on õigus riigiasutuste ümberkorraldamisel ja lõpetamisel suunata ümberkorraldatava või lõpetatava riigiasutuse kasutamata summad Vabariigi Valitsuse reservi. Vabariigi Valitsuse reservi ei suunata toetusi, asutuse majandustegevusest laekunud tulusid ning varude ja põhivara müügist laekunud tulusid.\n(5) Kui riigiasutuse tegevuse ümberkorraldamisel või lõpetamisel ei anta tema ülesandeid üle teisele riigiasutusele, suunatakse ümberkorraldatava või lõpetatava riigiasutuse kasutamata toetused, majandustegevusest laekunud tulud ning varude ja põhivara müügist laekunud tulud riigi tuludesse."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "58",
+      "title": "§ 58. Vabariigi Valitsuse reservi vahendite kasutamine",
+      "content": "(1) Vabariigi Valitsuse reservi vahendeid võib kasutada ettenägematuteks kuludeks ja investeeringuteks, mida ei ole võimalik riigieelarve eelnõu menetlemisel planeerida. Riigieelarves nähakse ette Vabariigi Valitsuse reserv, mis moodustab kuni kolm protsenti riigieelarve kulude ja investeeringute kogumahust.\n(1^1) Vabariigi Valitsuse reservis võib ette näha sihtotstarbelisi vahendeid Vabariigi Valitsuse heakskiidetud tegevuste rahastamiseks.\n(2) Vabariigi Valitsuse reservist vahendite eraldamise otsustab Vabariigi Valitsus. Raha eraldamisel kuludeks määrab Vabariigi Valitsus tulemusvaldkonna, kus raha kasutatakse.\n(3) Vabariigi Valitsuse reservist vahendite eraldamise ja eraldatud vahendite kasutamise korra kehtestab Vabariigi Valitsus määrusega.\n(4) Vabariigi Valitsusel on õigus käesoleva paragrahvi lõikes 3 nimetatud määrusega volitada käesoleva paragrahvi lõikes 1^1 nimetatud sihtotstarbeliste vahendite eraldamist otsustama valdkonna eest vastutav minister. Valdkonna eest vastutav minister võib vahendeid eraldada ainult Vabariigi Valitsuse määratud sihtotstarbeks.\n(5) Vabariigi Valitsuse reservi kasutamata jääki ei kanta üle järgmisse eelarveaastasse."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "59",
+      "title": "§ 59. Tulude laekumise korraldus",
+      "content": "Tulud laekuvad riigi likviidsete finantsvarade hulka, kui seaduses ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para59^1",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "59^1",
+      "title": "§ 59^1. Riigieelarve vahendite ülekandmine",
+      "content": "(1) Riigieelarve vahendite ülekandmine on riigieelarve vahendite kasutamise tähtaja pikendamine ühe eelarveaasta võrra (edaspidi ülekandmine ).\n(2) Ülekantud riigieelarve vahendeid võib kasutada riigieelarvega määratud otstarbeks. Ülekantavate riigieelarve vahendite tulemusvaldkondade ja programmi tegevuste vahelist jaotust ning käesoleva seaduse § 26 lõike 5^1 kohaselt esitatud administratiivse ja majandusliku sisu põhist liigendust võib ülekandmise korral muuta, kui see on seotud ministeeriumi valitsemisala riigiasutuse ümberkorraldamise või lõpetamisega või tulemusvaldkonna või programmi tegevuse muutmisega.\n(2^1) Eriolukorra, erakorralise seisukorra või sõjaseisukorra lahendamiseks ja selle mõju leevendamiseks eraldatud vahendite kasutamise tähtaja pikendamise järgmiseks eelarveaastaks otsustab Vabariigi Valitsus. Vabariigi Valitsusel on õigus käesoleva paragrahvi lõikes 3 nimetatud määrusega volitada nende vahendite, mida kasutusele ei võetud, kasutamise üle otsustama valdkonna eest vastutav minister.\n(3) Riigieelarve vahendite ülekandmise tingimused ja korra kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "60",
+      "title": "§ 60. Kohustuste võtmine",
+      "content": "(1) Riigiasutusel on õigus võtta kohustusi ainult siis, kui talle on riigieelarves või selle alusel kinnitatud eelarves kohustuse täitmiseks vahendid ette nähtud.\n(2) Kui käesolevast seadusest ei tulene teisiti, on riigiasutusel keelatud:\n1) võtta riigile võlakohustusi;\n2) anda riigigarantiid või muud tagatist;\n3) anda laenu;\n4) teha annetusi;\n5) omandada finantsvara, välja arvatud riigi eraõiguslikes juriidilistes isikutes osalemine riigivara seaduse alusel;\n6) teha tehinguid kapitalirendi tingimustel, sõlmida kontsessioonilepinguid ja teha muid selliseid tehinguid, kui riigieelarvega ei ole selleks luba antud.\n(3) Käesoleva paragrahvi lõike 2 punktis 6 nimetatud loa andmisel peab riigieelarvega kindlaks määrama:\n1) tehingu eesmärgi;\n2) riigile võetava kohustuse suuruse, ühel eelarveaastal tasumisele kuuluvate maksete suuruse ja maksete suuruse muutmise tingimused;\n3) riigile võetava kohustuse tähtaja;\n4) muud olulised tehingu tingimused.\n(4) Minister võib ministeeriumi valitsemisala riigiasutustel lubada võtta rahalisi kohustusi eelseisvateks eelarveaastateks tingimusel, et ühelgi eelseisval eelarveaastal ei ületa nende ministeeriumi valitsemisala täidetavate rahaliste kohustuste maht 50 protsenti ministeeriumi valitsemisala vastava eelseisva eelarveaasta rahastamiskava piirmääraga vahenditest.\n(5) Valdkonna eest vastutava ministri ettepanekul võib Vabariigi Valitsus suurendada ministeeriumi valitsemisala eelseisva eelarveaasta rahaliste kohustuste võtmise maksimaalset määra, mis on sätestatud käesoleva paragrahvi lõikes 4, kuid mitte rohkem kui 80 protsendini ministeeriumi valitsemisala vastava eelseisva eelarveaasta rahastamiskava piirmääraga vahenditest. Riigieelarvega võib Vabariigi Valitsusele anda õiguse lubada ministeeriumi valitsemisalale rahaliste kohustuste võtmist käesolevas lõikes sätestatust suuremas mahus.\n(6) Põhiseaduslikud institutsioonid ja nende haldusala asutused lähtuvad eelseisvateks eelarveaastateks rahaliste kohustuste võtmisel käesoleva paragrahvi lõikest 4, kui riigieelarvega ei ole kindlaks määratud teisiti.\n(7) Riigikogu otsustab finantsasutustele likviidsus- või maksevõimega seotud raskusi või makse- ja arveldussüsteemides olulisi tõrkeid põhjustada võiva finantskriisi lahendamiseks või ennetamiseks aktsiate, osade ja muude osaluste ning muu finantsvara omandamise ning välisriigi, euroala või selle liikmesriigi finantsstabiilsuse tagamiseks makstavate summadega seoses kohustuste võtmise või finantseerimistehingute tegemise riigieelarves ettenähtust suuremas ulatuses. Pärast otsuse tegemist esitab Vabariigi Valitsus Riigikogule riigieelarve muutmise või lisaeelarve eelnõu. Riigieelarve muutmise või lisaeelarve eelnõu menetlemine ei takista Riigikogu otsuse rakendamist."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "61",
+      "title": "§ 61. Riigi antav laen ja riigigarantii",
+      "content": "(1) Riik võib anda laenu või riigigarantii:\n1) avalike ülesannete täitmiseks;\n2) finantsasutusele või finantsasutuse kohustuste tagamiseks, et lahendada või ennetada likviidsus- või maksevõimega seotud raskusi või makse- ja arveldussüsteemides olulisi tõrkeid põhjustada võivat finantskriisi;\n3) käesoleva seaduse § 67 lõikes 1 nimetatud isikutele, kelle raha riik hoiab ja paigutab, või nende kohustuste tagamiseks;\n4) äriühingule või äriühingu kohustuste tagamiseks, kui riigil on äriühingus enamusotsustusõigus ja kui see on vajalik riigi huvide tagamiseks sellises äriühingus osalemisel;\n5) välisriigi, euroala või selle liikmesriigi finantsstabiilsuse tagamiseks;\n6) tagatisfondi kohustuste täitmise tagamiseks.\n(2) Riigi poolt laenu andmine on laenulepingu või krediidilepingu alusel rahasumma või krediidi andmine teise isiku käsutusse või laenusaaja emiteeritud võlakirjade omandamine.\n(3) Riigigarantii on riigi poolt käesoleva või muu seaduse alusel antav garantii või muu tagatis, välja arvatud käesoleva seaduse § 69 lõikes 1 nimetatud lühiajaline laen väärtpaberite tagatisel ja § 70 lõikes 4 nimetatud riigi võlakohustustega seotud tuletistehingute tegemisel finantsriskide juhtimise eesmärgil antud tagatis.\n(4) Laenu või riigigarantii annab Riigikogu Vabariigi Valitsuse ettepanekul, kui seaduses ei ole sätestatud teisiti. Vabariigi Valitsus võib anda laenu või käesoleva seaduse alusel riigigarantii käesoleva paragrahvi lõike 5 kohaselt määratud ulatuses lõikes 4^1 nimetatud isikutele või nende kohustuste tagamiseks.\n(4^1) Vabariigi Valitsus võib anda laenu või käesoleva seaduse alusel riigigarantii tähtajaga kuni 30 aastat riigieelarvega määratud suurima lubatud jäägi ulatuses järgmistele Eestis asuvatele või Eestis tegutsevatele isikutele või nende kohustuste tagamiseks:\n1) avalik-õiguslik juriidiline isik;\n2) äriühing, milles riigil on enamusotsustusõigus;\n3) riigi asutatud sihtasutus;\n4) finantsasutus.\n(4^2) Valdkonna eest vastutav minister võib anda laenu arvelduskrediidilepingu alusel Eestis asuvale või Eestis tegutsevale riigi asutatud sihtasutusele riigieelarvega määratud suurima lubatud jäägi ja maksimaalse laenusumma ulatuses kuni kolmeks aastaks.\n(5) Käesoleva paragrahvi lõigetes 4^1 ja 4^2 nimetatud suurimate lubatud jääkide määramisel tuleb arvesse võtta antud laenude, garantiide ja tagastatava toetuse summat ning nende andmise prognoositavat vajadust.\n(6) Vabariigi Valitsuse ja valdkonna eest vastutava ministri antava laenu intressimääraks on intress, millega riigil oleks laenulepingu sõlmimise ajal võimalik sarnastel tingimustel võlakohustusi võtta, ja sellele lisanduv täiendav riskimarginaal, mille määramisel arvestatakse selle isiku krediidiriski ja laenu tähtaega.\n(7)\n(8) Pärast Riigikogu või Vabariigi Valitsuse poolt laenu või käesoleva seaduse alusel riigigarantii andmise otsustamist sõlmib laenu või riigigarantii andmiseks vajalikud lepingud, teeb tehingud ja korraldab nende täitmist Rahandusministeerium.\n(9) Laenu ja käesoleva seaduse alusel riigigarantii taotlemise ja andmise korra ning täpsemad tingimused kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "62",
+      "title": "§ 62. Riigigarantii ja laenu andmise otsus",
+      "content": "(1) Riigigarantii andmise otsus peab sisaldama vähemalt järgmisi andmeid:\n1) riigigarantii saaja või garanteeritav isik;\n2) riigigarantii sihtotstarve või eesmärk;\n3) riigigarantii summa ja valuuta;\n4) riigigarantii tähtaeg;\n5) riigigarantii preemia.\n(2) Laenu andmise otsus peab sisaldama vähemalt järgmisi andmeid:\n1) laenusaaja;\n2) laenusumma sihtotstarve või eesmärk;\n3) laenusumma suurus;\n4) laenu tähtaeg."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "63",
+      "title": "§ 63. Tagastatava toetuse andmine riigitulundusasutusele",
+      "content": "(1) Rahandusministeeriumil on õigus käesoleva seaduse § 61 lõikes 5 nimetatud Vabariigi Valitsuse antavate laenude ja riigigarantiide suurima lubatud jäägi arvel anda riigitulundusasutusele tagastatavat toetust.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud tagastatava toetuse suuruse ning selle väljamaksmise ja tagastamise täpsed tingimused ja korra ning toetuse kasutamise eest makstava tasu suuruse ja maksmise täpsed tingimused ja korra otsustab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "5. peatükk - Riigieelarve tulude laekumine, vahendite kasutamine ja kohustuste võtmine",
+      "section": "64",
+      "title": "§ 64. Riigiasutuste kassaline teenindamine",
+      "content": "(1) Riigiasutuste makseid ja arveldusi teeb ning neile vahendab makseteenuseid (edaspidi kassaline teenindamine ) Rahandusministeerium.\n(2) Riigiasutusel ei või olla krediidi- või finantseerimisasutuses oma arveldus- ja maksekontot, välja arvatud, kui selleks on loa andnud Rahandusministeerium. Loa andmisel võib Rahandusministeerium riigiasutusele seada tingimusi sellise konto kasutamiseks.\n(3) Kui riigieelarve tulude laekumise kord ei ole seadusega või selle alusel kindlaks määratud, kehtestab selle valdkonna eest vastutav minister käesoleva paragrahvi lõike 4 alusel kehtestatavas kassalise teenindamise eeskirjas.\n(4) Kassalise teenindamise eeskirja kehtestab valdkonna eest vastutav minister määrusega.\n(5) Rahandusministeerium tagab kassalise teenindamise toimepidevuse. Arveldussüsteemide häirete korral on Rahandusministeeriumil kohustus tagada riigieelarvest maksete ja arvelduste tegemine.\n(6) Valdkonna eest vastutav minister kehtestab käesoleva paragrahvi lõikes 4 nimetatud määrusega riigieelarve väljamaksete tingimused arveldussüsteemide häirete korral ja käesoleva seaduse § 66 lõikes 4 nimetatud juhul selliselt, et on tagatud:\n1) riigi toimimine hädaolukorras ja selle lahendamiseks väljakuulutatud eriolukorras;\n2) riigi võlakohustuste ja muude selliste kohustuste täitmine, mille täitmata jätmine võib kaasa tuua riigi võlakohustuste ennetähtaegse tagasimaksmise kohustuse või ohustada riigile võlakohustuste võtmist;\n3) pensionide ja muude sotsiaaltoetuste väljamaksmine;\n4) sotsiaalkindlustusfondidele ja kohaliku omavalitsuse üksustele edasiantava maksu väljamaksmine;\n5) väljamaksed põhiseaduslikele institutsioonidele ja nende haldusala asutustele.\n(7) Kui kõrgendatud kaitsevalmiduse, erakorralise seisukorra, sõjaseisukorra, mobilisatsiooni või demobilisatsiooni ajal on vaja kasutada täiendavaid riigi rahalisi vahendeid kaitseolukorra lahendamiseks, sealhulgas riigi eelarvelise jätkusuutlikkuse tagamiseks, võib Vabariigi Valitsus määrata riigieelarve ja käesoleva seaduse § 67 lõikes 1 nimetatud isikute väljamaksete tingimused."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "6. peatükk - Riigi rahavoog ja stabiliseerimisreserv",
+      "section": "65",
+      "title": "§ 65. Riigi rahavoo juhtimine",
+      "content": "(1) Riigi rahavoo juhtimine on riigi likviidsete finantsvaradega tehingute tegemine, riigile võlakohustuste võtmine ja nimetatud tegevustega seonduvate finantsriskide juhtimine eesmärgiga tagada piisavate vahendite olemasolu väljamaksete tegemiseks.\n(2) Riigi likviidsed finantsvarad on riigile kuuluv või riigi hoitav raha, väärtpaberid ja muu finantsvara, mis ei kuulu stabiliseerimisreservi.\n(3) Riigi rahavoogu juhib Rahandusministeerium."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "6. peatükk - Riigi rahavoog ja stabiliseerimisreserv",
+      "section": "66",
+      "title": "§ 66. Riigi rahavoo juhtimise põhimõtted",
+      "content": "(1) Riigi likviidsete finantsvarade maht ja võlakohustuste võtmise võimalus peavad olema sellised, et oleks tagatud riigi ja käesoleva seaduse §-s 67 nimetatud teiste isikute väljamaksete tegemine. Riigi likviidsete varade mahu ja võlakohustuste võtmise võimaluse piisavuse hindamisel arvestatakse riigi potentsiaalsete kohustuste realiseerumise tõenäosust ja riigi võlakohustustega seotud maksete täitmise vajadust.\n(2) Raha, väärtpaberite ja muu finantsvaraga tehingute tegemisel tuleb lähtuda konservatiivsetest investeerimispõhimõtetest, et tagada finantsvara likviidsus, väärtuse säilivus ja tulu teenimine.\n(3) Rahandusministeeriumile ei kohaldata riigi rahavoo juhtimisel käesoleva seaduse §-s 60 sätestatud kohustuste võtmise piiranguid, kui seaduses ei ole sätestatud teisiti.\n(4) Ulatusliku või kiire majanduslanguse korral, finantskriisi ajal või tulude kavandatust väiksema laekumise korral on valdkonna eest vastutaval ministril õigus ajutiselt piirata väljamaksete tegemist ja kohustuste võtmist, teavitades sellest Vabariigi Valitsust. Väljamaksete tegemisel lähtutakse sellisel juhul käesoleva seaduse § 64 lõikes 6 sätestatud maksete tingimustest.\n(5) Riigi rahavoo juhtimise põhimõtted kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "6. peatükk - Riigi rahavoog ja stabiliseerimisreserv",
+      "section": "67",
+      "title": "§ 67. Teiste isikute raha hoidmine ja paigutamine",
+      "content": "(1) Rahandusministeeriumil on õigus seaduse või lepingu alusel hoida ja paigutada avalik-õiguslike juriidiliste isikute, riigi asutatud või riigi osalusega eraõiguslike juriidiliste isikute ning riigi haldusülesandeid täitvate eraõiguslike juriidiliste isikute raha, teha nende makseid ja arveldusi ning vahendada neile makseteenuseid.\n(2) Rahandusministeeriumil on õigus käesoleva paragrahvi lõike 1 kohaselt hoitavat raha kasutada, kuid ta peab võimaldama käesoleva paragrahvi lõikes 1 nimetatud isikutel igal ajal neile kuuluvate vahendite arvel teha väljamakseid neile õigusaktidega pandud ülesannete täitmiseks. Väljamaksete tegemisel ei kohaldata käesoleva seaduse § 64 lõiget 6. Nimetatud isikute maksete ja arvelduste tegemisele ning neile makseteenuste vahendamisele kohaldatakse käesoleva seaduse § 64 lõikes 4 nimetatud kassalise teenindamise eeskirja.\n(3) Riigiasutusel on õigus seaduses sätestatud juhul, tingimustel ja korras hoida teise isiku raha. Käesolevas lõikes nimetatud isikule väljamaksete tegemisel ei kohaldata käesoleva seaduse § 64 lõiget 6.\n(4) Riigi rahavoogu ning käesoleva paragrahvi lõigetes 1 ja 3 nimetatud isikute raha hoidmise ja paigutamisega seotud rahavoogu juhib Rahandusministeerium käesoleva seaduse § 66 lõikes 5 nimetatud põhimõtete alusel ühtse tervikuna, tasakaalustades isikute positiivseid ja negatiivseid rahavooge."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "6. peatükk - Riigi rahavoog ja stabiliseerimisreserv",
+      "section": "68",
+      "title": "§ 68. Potentsiaalsete kohustuste täitmine",
+      "content": "(1) Valdkonna eest vastutav minister korraldab käesoleva seaduse alusel antud riigigarantiidest tulenevate rahaliste kohustuste täitmise riigi likviidsete finantsvarade arvel.\n(2) Valdkonna eest vastutav minister korraldab nende rahvusvaheliste finantsinstitutsioonide, mille liikmeks või osanikuks riik on, nõudmisel sissemakstava osaluse kohase tasumise või riigi poolt neile väljastatud võlakirjadest tulenevate rahaliste kohustuste kohase täitmise riigi likviidsete finantsvarade arvel, kui seaduses ei ole sätestatud teisiti.\n(3) Vabariigi Valitsus või Vabariigi Valitsuse volitusel valdkonna eest vastutav minister otsustab nende käesoleva paragrahvi lõikes 1 nimetamata riigi antud tagatistest ning kohtuotsustest ja -määrustest tulenevate rahaliste kohustuste, mille täitmiseks ei ole riigieelarves vahendeid ette nähtud ja mida pole võimalik täita Vabariigi Valitsuse reservi vahendite arvel, täitmise riigi likviidsete finantsvarade arvel."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "6. peatükk - Riigi rahavoog ja stabiliseerimisreserv",
+      "section": "69",
+      "title": "§ 69. Riigi võlakohustused",
+      "content": "(1) Riigi võlakohustused käesoleva seaduse tähenduses on riigi rahavoo juhtimiseks võetavad laenud, arvelduskrediidid, lühiajalised laenud väärtpaberite tagatisel, emiteeritavad võlakirjad ning sõlmitavad väärtpaberite müügi- ja tagasiostutehingud.\n(2) Riigi võlakohustuste suurim lubatud jääk määratakse riigieelarvega.\n(3) Riigi võlakohustuste suurima lubatud jäägi määramisel võetakse arvesse:\n1) võetud laenude jääk;\n2) riigieelarve kulude, investeeringute ja finantseerimistehingute rahastamise vajadus;\n3) riigi võlakohustuste täitmise ja refinantseerimise vajadus;\n4) võimalik laenude andmise vajadus;\n5) riigi potentsiaalsete kohustuste realiseerumise tõenäosus.\n(4) Riigieelarvega määratud riigi võlakohustuste suurimat lubatud jääki ei kohaldata sõjaseisukorra ajal võlakohustuste võtmisel.\n(5) Riigikogu otsustab finantsasutustele likviidsus- või maksevõimega seotud raskusi või makse- ja arveldussüsteemides olulisi tõrkeid põhjustada võiva finantskriisi lahendamiseks või ennetamiseks või võlakohustuste refinantseerimiseks või välisriigi, euroala või selle liikmesriigi finantsstabiilsuse tagamiseks aktsiate, osade ja muude osaluste ning muu finantsvara omandamise eesmärgil riigile võlakohustuste võtmise käesoleva paragrahvi lõikes 2 nimetatud võlakohustuste suurimast lubatud jäägist suuremas ulatuses. Pärast otsuse tegemist esitab Vabariigi Valitsus Riigikogule lisaeelarve või riigieelarve muutmise eelnõu. Lisaeelarve või riigieelarve muutmise eelnõu menetlemine ei takista Riigikogu otsuse rakendamist."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "6. peatükk - Riigi rahavoog ja stabiliseerimisreserv",
+      "section": "70",
+      "title": "§ 70. Võlakohustuste võtmine",
+      "content": "(1) Riigile võlakohustuse võtmisel tuleb tagada võlakohustustega kaasnevate finantsriskide ja -kulu suhe, mis oleks kooskõlas riigi võlakohustuste täitmise võimekusega nii lühi- kui ka pikaajalisel perioodil.\n(2) Rahandusministeeriumil on lubatud võtta riigile võlakohustusi käesoleva seaduse § 69 lõikes 2 nimetatud riigi võlakohustuste suurima lubatud jäägi ulatuses. Loa nimetatud jäägist suuremas ulatuses riigile võlakohustuste võtmiseks annab Riigikogu Vabariigi Valitsuse ettepanekul. Võlakohustuste võtmisega seotud finantsriskide juhtimiseks on Rahandusministeeriumil õigus sõlmida võlakohustuste võtmist võimaldavaid lepinguid kogusummas, mis ületab käesoleva seaduse § 69 lõikes 2 nimetatud riigi võlakohustuste suurimat lubatud jääki, tingimusel et riigi poolt tegelikult võetud võlakohustuste jääk ei ületa ühelgi ajahetkel § 69 lõikes 2 nimetatud piirmäära.\n(3) Võlakohustuste võtmisega seotud lepingud sõlmib, tehingud teeb ja nende täitmist korraldab Rahandusministeerium.\n(4) Rahandusministeerium juhib riigi võlakohustustega kaasnevaid finantsriske. Rahandusministeeriumil on õigus riigi võlakohustustega seotud tuletistehingute tegemisel finantsriskide juhtimise eesmärgil nõuda ja anda tagatisi.\n(5) Riigile võlakohustuste võtmise tingimused kehtestab Vabariigi Valitsus määrusega.\n(6) Riigi võlakohustustega seotud finantsriskide juhtimise põhimõtted kehtestab Vabariigi Valitsus käesoleva seaduse § 66 lõikes 5 nimetatud määrusega."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "6. peatükk - Riigi rahavoog ja stabiliseerimisreserv",
+      "section": "71",
+      "title": "§ 71. Stabiliseerimisreserv",
+      "content": "(1) Stabiliseerimisreserv on riigi rahalistest vahenditest moodustatud finantsreserv selliste kulude, investeeringute ja finantseerimistehingute rahastamiseks, mille eesmärk on:\n1) üldmajanduslike riskide vähendamine;\n2) sotsiaal-majanduslike kriiside vältimine või leevendamine;\n3) eriolukorra, erakorralise seisukorra, sõjaseisukorra või muu erakorralise olukorra või olulise mõjuga kriisi lahendamine või ennetamine või kollektiivse enesekaitse lepingus ettenähtud kohustuste täitmine;\n4) finantsasutustele likviidsus- või maksevõimega seotud raskusi või makse- ja arveldussüsteemides olulisi tõrkeid põhjustada võiva finantskriisi lahendamine või ennetamine.\n(2) Stabiliseerimisreservi kantakse:\n1) riigieelarves selleks ettenähtud vahendid;\n2) riigi konsolideerimata rahavoolise ülejäägi jaotamise otsuse kohaselt stabiliseerimisreservi kantavad vahendid;\n3) riigivara erastamisest saadud tulu vastavalt seadusele;\n4) riigieelarvesse Eesti Panga kasumist tehtud eraldised;\n5) stabiliseerimisreservi haldamisel saadud tulu;\n6) muud seaduses sätestatud vahendid."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "6. peatükk - Riigi rahavoog ja stabiliseerimisreserv",
+      "section": "72",
+      "title": "§ 72. Stabiliseerimisreservi haldamine",
+      "content": "(1) Stabiliseerimisreservi haldamine on stabiliseerimisreservi vahendite hoidmine ja paigutamine.\n(2) Stabiliseerimisreservi haldamist korraldab Rahandusministeerium.\n(3) Stabiliseerimisreservi haldamise eesmärk on kehtestatud piirangute raames pikaajaliselt stabiliseerimisreservi vahendite väärtuse kasvatamine ja piisava likviidsuse säilitamine, et vajaduse korral oleks võimalik täita käesoleva seaduse § 71 lõikes 1 nimetatud eesmärke.\n(4) Stabiliseerimisreservi haldamise ja sellega seonduvate finantsriskide juhtimise põhimõtted kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "6. peatükk - Riigi rahavoog ja stabiliseerimisreserv",
+      "section": "73",
+      "title": "§ 73. Stabiliseerimisreservi vahendite kasutamine",
+      "content": "(1) Stabiliseerimisreservi vahendite kasutusele võtmise otsustab Riigikogu Vabariigi Valitsuse ettepanekul. Pärast otsuse tegemist esitab Vabariigi Valitsus Riigikogule lisaeelarve või riigieelarve muutmise eelnõu. Lisaeelarve või riigieelarve muutmise eelnõu menetlemine ei takista Riigikogu otsuse rakendamist.\n(2) Ulatusliku või kiire majanduslanguse korral või finantskriisi ajal või Tagatisfondi seaduses sätestatud hoiuste hüvitamise juhtumi korral võib Rahandusministeerium Vabariigi Valitsuse nõusolekul stabiliseerimisreservi vahendite arvel ostetud väärtpabereid kasutada kuni kuus kuud riigi võlakohustuste tagamiseks või anda Tagatisfondile laenu tingimusel, et vahendid tagastatakse koos intressiga. Selle õiguse kasutamise otsuse tegemisest teavitab Rahandusministeerium viivitamata Riigikogu."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "6. peatükk - Riigi rahavoog ja stabiliseerimisreserv",
+      "section": "74",
+      "title": "§ 74. Stabiliseerimisreservi aruandlus",
+      "content": "(1) Rahandusministeerium esitab Riigikontrollile, Vabariigi Valitsusele ja Riigikogu rahanduskomisjonile hiljemalt iga kvartali kümnendal tööpäeval aruande stabiliseerimisreservi varade koosseisu ja väärtuse kohta eelmise kvartali viimase tööpäeva seisuga.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud aruandes esitatakse vähemalt:\n1) stabiliseerimisreservi varade turuväärtus ja selle muutus võrreldes aruandeperioodile eelneva kvartali lõpu ja aruandeaasta algusega;\n2) stabiliseerimisreservi sissemaksed ja väljamaksed koondsummadena;\n3) stabiliseerimisreservi tulusus;\n4) ülevaade stabiliseerimisreservi paigutuste struktuurist finantsvarade, suurimate emitentide ja krediidiasutuste, krediidireitingute, valuuta ja sektorite kaupa;\n5) stabiliseerimisreservi investeeringute keskmine kestus.\n(3) Rahandusministeerium avaldab käesoleva paragrahvi lõikes 1 nimetatud aruande oma kodulehel pärast Vabariigi Valitsuse istungit, kus aruannet arutati."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "7. peatükk - Riigiasutuste finantsdistsipliini tagamine",
+      "section": "75",
+      "title": "§ 75. Riigieelarve täitmise jälgimine",
+      "content": "Rahandusministeerium jälgib riigieelarve täitmist ja annab sellest Vabariigi Valitsusele ülevaate vähemalt kaks korda aastas."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "7. peatükk - Riigiasutuste finantsdistsipliini tagamine",
+      "section": "76",
+      "title": "§ 76. Finantskontrollisüsteem",
+      "content": "(1) Finantskontrollisüsteem on sisekontrollisüsteemi osa, mis hõlmab riigiasutuse eelarvevahendite planeerimist, kasutamist ja kasutamise kontrollimist. Finantskontrollisüsteemi eesmärk on tagada riigieelarve vahendite säästlik, tõhus, mõjus, õiguspärane ja läbipaistev kasutamine.\n(2) Finantskontrollisüsteemi rakendamise ja selle tulemuslikkuse eest vastutab riigiasutuse juht."
+    },
+    {
+      "provision_ref": "para77",
+      "chapter": "7. peatükk - Riigiasutuste finantsdistsipliini tagamine",
+      "section": "77",
+      "title": "§ 77. Riigi majandusaasta aruanded ja nende auditeerimine",
+      "content": "(1) Riigi majandusaasta aruanded on Riigikontrolli majandusaasta aruanne ja riigi majandusaasta koondaruanne. Aruanded koostatakse vastavalt raamatupidamise seadusele.\n(2) Riigi majandusaasta koondaruande osaks oleva raamatupidamise aastaaruande auditi teeb Riigikontroll. Riigi tehingute seaduslikkust kontrollib Riigikontroll.\n(3) Riigikontrolli raamatupidamise aastaaruande auditi teeb ja tehingute seaduslikkust kontrollib Riigikogu poolt vastavalt Riigikontrolli seadusele määratud audiitorettevõtja.\n(4) Riigikontroll võib käesoleva paragrahvi lõikes 2 nimetatud auditi või tehingute seaduslikkuse kontrolli käigus toetuda riigi konsolideerimisgrupi üksuse raamatupidamise aastaaruande auditis või tehingute seaduslikkuse kontrolli põhjal audiitortegevuse seaduse § 54 tähenduses vormistatud vandeaudiitori aruandes avaldatule."
+    },
+    {
+      "provision_ref": "para79",
+      "chapter": "7. peatükk - Riigiasutuste finantsdistsipliini tagamine",
+      "section": "79",
+      "title": "§ 79. Riigi majandusaasta koondaruande audiitorkontroll ja Riigikogule esitamine",
+      "content": "(1) Rahandusministeerium esitab riigi majandusaasta koondaruande Riigikontrollile hiljemalt aruandeaastale järgneva aasta 30. juunil. Riigikontrollile esitatud aruanne avalikustatakse Rahandusministeeriumi kodulehel viivitamata pärast aruande esitamist. Audiitorkontrolli käigus võib Rahandusministeerium teha aruandesse parandusi ja täiendusi.\n(2) Riigikontroll lõpetab riigi majandusaasta koondaruande raamatupidamise aastaaruande auditi ja tehingute seaduslikkuse kontrolli hiljemalt aruandeaastale järgneva aasta 31. augustil.\n(3) Riigi majandusaasta koondaruande koos otsuse eelnõuga riigi konsolideerimata rahavoolise ülejäägi jaotamise kohta ning riigi majandusaasta koondaruande raamatupidamise aastaaruande auditi ja tehingute seaduslikkuse kontrolli kohta avaldatava Riigikontrolli kontrolliaruande esitab Rahandusministeerium Vabariigi Valitsusele heakskiitmiseks seitsme tööpäeva jooksul pärast Riigikontrollilt aruande saamist ja avalikustab selle oma kodulehel viivitamata pärast Vabariigi Valitsusele esitamist. Vabariigi Valitsus esitab riigi majandusaasta heakskiidetud koondaruande Riigikogule kinnitamiseks koos otsuse eelnõuga riigi konsolideeritama rahavoolise ülejäägi jaotamise kohta. Riigi majandusaasta koondaruandele lisatakse Riigikontrolli kontrolliaruanne.\n(4) Otsus riigi konsolideerimata rahavoolise ülejäägi jaotamise kohta koostatakse raamatupidamise seaduses sätestatu kohaselt.\n(5)"
+    },
+    {
+      "provision_ref": "para80",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "80",
+      "title": "§ 80. Käesoleva seaduse §-de 20, 48 ja 60 rakendamine",
+      "content": "(1) Kuni käesoleva seaduse jõustumiseni kehtinud riigieelarve seaduse § 10 lõike 2 alusel antud määrus kehtib pärast käesoleva seaduse jõustumist niivõrd, kuivõrd ta ei ole vastuolus käesoleva seadusega, kuni selle kehtetuks tunnistamiseni käesoleva seaduse § 20 lõikes 5 nimetatud määrusega.\n(2) Riigieelarves ministeeriumi valitsemisalas kavandatud toetusfondi vahendite jaotamisele kohaldatakse käesoleva seaduse § 48 lõike 4 alusel kehtestatavat määrust alates 2017. aasta 1. jaanuarist.\n(3) Käesoleva seaduse § 60 lõiget 3 kohaldatakse esmakordselt 2015. aasta riigieelarve seaduse suhtes."
+    },
+    {
+      "provision_ref": "para81",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "81",
+      "title": "§ 81. 2014. aasta riigieelarvega seotud erisused",
+      "content": "(1) Käesoleva seaduse jõustumisest alates ei kohaldata 2014. aasta riigieelarve seaduse § 2 lõiget 12 ning §-e 4, 6–10, 12, 14 ja 16.\n(2) Käesoleva seaduse § 69 lõikes 2 nimetatud riigi võlakohustuste suurim lubatud kogujääk on 2014. aastal 2 500 000 000 eurot.\n(3) Käesoleva seaduse § 61 lõikes 5 nimetatud Vabariigi Valitsuse antavate laenude ja riigigarantiide suurim lubatud jääk 2014. aastal on 610 000 000 eurot."
+    },
+    {
+      "provision_ref": "para81^1",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "81^1",
+      "title": "§ 81^1. 2020. aasta riigieelarvega seotud erisused",
+      "content": "(1) Käesoleva seaduse § 33^1 lõiget 5 kohaldatakse esmakordselt 2020. aasta riigieelarve seaduse suhtes.\n(2) Käesoleva seaduse § 25^1, § 26 lõigete 1, 2, 3, 5 ja 6, § 29 lõigete 2 ja 3, § 30, § 31 lõigete 2 ja 3, § 32 lõike 4, §-de 33^1, 34, 34^1, 34^2 ja 35–37, § 38 lõike 3 ning § 58 lõigete 1 ja 1^1 2020. aasta 1. jaanuaril jõustuvaid redaktsioone kohaldatakse esmakordselt 2020. aasta riigieelarve seaduse suhtes."
+    },
+    {
+      "provision_ref": "para81^2",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "81^2",
+      "title": "§ 81^2. COVID-19 haigust põhjustava koroonaviiruse levikuga seotud kriisi leevendamiseks ettenähtud toetusmeetmete kehtestamine",
+      "content": "(1) Eriolukorra tõttu käesoleva seaduse § 53^1 alusel kehtestatavate toetusmeetmete üldtingimused kehtestab Vabariigi Valitsus määrusega.\n(2) Minister lähtub eriolukorra tõttu käesoleva seaduse § 53^1 alusel toetusprogrammide kehtestamisel käesoleva paragrahvi lõikes 1 nimetatud üldtingimustest."
+    },
+    {
+      "provision_ref": "para81^3",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "81^3",
+      "title": "§ 81^3. COVID-19 põhjustava viiruse levikuga seotud kriisi leevendamiseks ettenähtud toetusprogrammide kehtestamine",
+      "content": "(1) COVID-19 põhjustava viiruse levikuga seotud kriisi leevendamiseks ettenähtud toetusprogrammide üldtingimused kehtestab Vabariigi Valitsus määrusega.\n(2) Minister lähtub COVID-19 põhjustava viiruse levikuga seotud kriisi leevendamise toetusprogrammide kehtestamisel käesoleva paragrahvi lõikes 1 nimetatud üldtingimustest."
+    },
+    {
+      "provision_ref": "para81^4",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "81^4",
+      "title": "§ 81^4. 2022. aasta riigieelarvega seotud erisused",
+      "content": "Käesoleva seaduse 2021. aasta 15. detsembril jõustunud redaktsiooni § 26 lõikeid 5, 7 ja 8 kohaldatakse esmakordselt 2022. aasta riigieelarve liigendamisele."
+    },
+    {
+      "provision_ref": "para81^5",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "81^5",
+      "title": "§ 81^5. 2025. aasta riigieelarvega seotud erisused",
+      "content": "(1) Käesoleva seaduse 2024. aasta 20. novembril vastuvõetud redaktsiooni § 26 lõikeid 5^1, 5^2 ja 8 kohaldatakse 2025. aasta riigieelarve liigendamisele.\n(2) Käesoleva seaduse 2025. aasta 29. detsembril jõustunud redaktsiooni § 58 lõiget 5 kohaldatakse esimest korda 2025. aasta riigieelarvele."
+    },
+    {
+      "provision_ref": "para81^6",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "81^6",
+      "title": "§ 81^6. 2026. aasta riigieelarvega seotud erisused",
+      "content": "(1) Käesoleva seaduse 2025. aasta 29. detsembril jõustunud redaktsiooni § 26 lõikeid 5^1 ja 8, § 56 lõikeid 1, 2^2 ja 2^3 ning § 58 lõiget 1 kohaldatakse esimest korda 2026. aasta riigieelarvele.\n(2) 2026. aasta riigieelarves planeeritakse riigisiseseid toetusi vastavalt käesoleva seaduse § 33^1 lõike 5 alusel kehtestatud määruse alusel antud ministeeriumi valitsemisala eelarvestrateegia projekti koostamise ja esitamise juhistele."
+    },
+    {
+      "provision_ref": "para81^7",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "81^7",
+      "title": "§ 81^7. Riigisiseste toetuste andmisega seotud erisused",
+      "content": "(1) Käesolevas seaduses sätestatud riigisiseseid toetusi planeeritakse käesolevas seaduses sätestatud toetuse liikide kaupa esimest korda 2027. aasta riigieelarves.\n(2) Ilma käesolevast seadusest või muust õigusaktist tuleneva aluseta antud riigisiseste toetuste andmine ja käesoleva seaduse alusel riigisiseste toetuste andmine tuleb viia kooskõlla käesoleva seaduse 2025. aasta 29. detsembril jõustunud redaktsiooniga hiljemalt 2026. aasta 31. detsembril, välja arvatud käesoleva paragrahvi lõikes 3 sätestatud juhul.\n(3) Käesoleva seaduse § 53^1 lõike 1 alusel enne 2025. aasta 29. detsembrit kehtestatud valdkonna eest vastutava ministri määruse alusel läbi viidavatele pooleli olevatele toetuste andmise menetlustele, toetuste kasutamisele ning nende aruandlusele ja kontrollile kohaldatakse käesoleva seaduse ja selle alusel kehtestatud määruse enne 2025. aasta 29. detsembrit kehtinud redaktsiooni."
+    },
+    {
+      "provision_ref": "para82",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "82",
+      "title": "§ 82.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para125",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "125",
+      "title": "§ 125.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para126",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "126",
+      "title": "§ 126. Seaduse jõustumine",
+      "content": "(1) Käesoleva seaduse § 47 lõige 3, § 48 lõiked 4–6 ja § 49 jõustuvad 2015. aasta 1. jaanuaril.\n(2) Käesoleva seaduse § 50 lõiked 2 ja 3 ning § 51 jõustuvad 2017. aasta 1. jaanuaril.\n(3) Käesoleva seaduse §-d 108 ja 120 jõustuvad 2019. aasta 1. jaanuaril.\n(4) Käesoleva seaduse § 48 lõige 3 ning § 110 jõustuvad 2020. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": []
+}

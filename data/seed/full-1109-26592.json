@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-26592",
+  "type": "statute",
+  "title": "Rahvusvahelise tsiviillennunduse konventsiooni muudatusprotokollide ja protokolli ratifitseerimise seadus",
+  "title_en": "Rahvusvahelise tsiviillennunduse konventsiooni muudatusprotokollide ja protokolli ratifitseerimise seadus",
+  "short_name": "ee-law-26592",
+  "status": "in_force",
+  "issued_date": "2000-10-24",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/26592.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise tsiviillennunduse konventsiooni muudatusprotokollide ja protokolli ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud rahvusvahelise tsiviillennunduse konventsiooni muudatusprotokoll, mis on koostatud 1995. aasta 29. septembril Montrealis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ratifitseerida juurdelisatud rahvusvahelise tsiviillennunduse konventsiooni muudatusprotokoll, mis on koostatud 1998. aasta 1. oktoobril Montrealis."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ratifitseerida juurdelisatud protokoll Chicago 1944. aasta rahvusvahelise tsiviillennunduse konventsiooni autentsete kuuekeelsete tekstide kohta, mis on koostatud 1998. aasta 1. oktoobril Montrealis. Riigikogu esimees Toomas SAVI"
+    }
+  ],
+  "definitions": []
+}

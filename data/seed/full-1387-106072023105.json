@@ -1,0 +1,428 @@
+{
+  "id": "ee-law-106072023105",
+  "type": "statute",
+  "title": "Tõestamisseadus",
+  "title_en": "Tõestamisseadus",
+  "short_name": "TõS",
+  "status": "in_force",
+  "issued_date": "2001-11-14",
+  "in_force_date": "2024-02-01",
+  "url": "https://www.riigiteataja.ee/akt/106072023105.xml",
+  "description": "Official consolidated statute text (Tõestamisseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Reguleerimisala ja tõestamistoimingu tähendus",
+      "content": "(1) Käesolev seadus kehtestab notari pädevuses olevate tõestamistoimingute tegemise korra.\n(2) Käesolevat seadust, välja arvatud § 5 lõiget 2, kohaldatakse ka muu ametiisiku ja -asutuse toimingule, kui see on võrdsustatud notari pädevuses oleva tõestamistoiminguga.\n(3) Tõestamistoimingu vormid on notariaalne tõestamine (edaspidi tõestamine ) ja notariaalne kinnitamine (edaspidi kinnitamine ).\n(3^1) Tõestamistoimingu võib teha ka kaugtõestamise teel (edaspidi kaugtõestamine ).\n(4) Notar kajastab tõestamistoimingu käigus isiklikult tajutud asjaolud notariaalaktis või -märkes.\n(4^1) Notariaalakt ja -märge on paberdokument, kui seadusest ei tulene teisiti.\n(5) Pädevuse piires koostatud ja vorminõuetele vastava notariaalakti ja -märke õigsust eeldatakse.\n(6) Tõestamistoiming on tühine käesolevas seaduses sätestatud juhtudel."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Tööpiirkonnast väljumine",
+      "content": "(1) Tõestamistoiming ei ole tühine põhjusel, et notar tegi selle väljaspool oma tööpiirkonda.\n(2) Tõestamistoiming, mille notar tegi väljaspool Eesti Vabariigi territooriumi, on tühine.\n(3) Kaugtõestamise puhul loetakse tõestamistoimingu tegemise kohaks tõestava notari büroo."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Notarina osalemise keeld",
+      "content": "(1) Notar hoidub tõestamistoimingu tegemisest, kui see puudutab:\n1) tema enda huve, seda ka juhul, kui ta on üksnes kaasõigustatud või kaaskohustatud isik;\n2) tema abikaasa või endise abikaasa huve;\n2^1) tema registreeritud elukaaslase või endise registreeritud elukaaslase huve;\n3) isiku huve, kes on notari, tema abikaasa, registreeritud elukaaslase, endise abikaasa või endise registreeritud elukaaslase otsejoones sugulane või vend, õde, poolvend, poolõde või nende alaneja sugulane;\n4) isiku huve, kellega notar peab ühist bürood, kes on tema alaline asendaja või kellega tal on ühised ametiruumid;\n5) isiku huve, kellele notar või punktis 4 nimetatud isik on seadusjärgseks esindajaks;\n6) isiku huve, kelle juhatusse notar või punktis 4 nimetatud isik kuulub;\n7) isiku huve, kes on notarit samas asjas volitanud või kelle tööandja on notar või punktis 4 nimetatud isik;\n8) täis-, usaldus- või osaühingu, sihtasutuse või tulundusühistu huve, mille osanik, asutaja või liige on notar või punktis 2 nimetatud isik;\n9) aktsiaseltsi huve, mille aktsiatega määratud häältest kuulub notarile või punktis 2 nimetatud isikule üle 5 protsendi.\n(1^1) Notar hoidub pärimismenetluse algatamise avalduse tõestamisest, kui pärimismenetlust soovitakse algatada seoses sama isiku surmaga, kelle pärimisasja menetlemisega seotud dokumendi tunnustamise hagita menetluses on notar olnud või on avaldaja esindaja.\n(2) Notar teatab asjaosalistele huvide konflikti ohust ning küsib tõestamistoimingu tegemiseks nende nõusolekut, kui toiming puudutab:\n1) selle isiku huve, mille esindusõiguseta organisse notar kuulub;\n2) valla- või linnaomavalitsuse huve, kui notar on selle volikogu liige;\n3) muu avalik-õigusliku juriidilise isiku huve, kui notar kuulub selle esindusõiguslikku organisse. Sellisel juhul ei kohaldata käesoleva paragrahvi lõike 1 punkti 6;\n4) juriidilise isiku huve, milles vald või linn on osanik, aktsionär, liige või asutaja, kui notar on vastava valla- või linnavolikogu liige;\n5) mitme isiku huve ning üheks isikuks on isik, kellele notar on osutanud õigusnõustamist väljaspool tõestamismenetlust.\n(3) Kui tõestamistoiming tehakse tõestamise vormis, märgib notar käesoleva paragrahvi lõikes 2 nimetatud nõusoleku küsimise notariaalakti."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Tõestamistoimingu tegemisest keeldumine",
+      "content": "Notar keeldub tõestamistoimingu tegemisest, kui taotletava toimingu eesmärgid on vastuolus seaduse, muu õigusakti või heade kommetega või on ilmselt lubamatud ja ebaausad või kui ilmneb, et tehingupoolel või muul asjaosalisel puudub vajalik õigus-, teo- või otsusevõime või esindusõigus."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Dokumendi keel",
+      "content": "(1) Notariaalakt või -märge koostatakse eesti keeles.\n(2) Tõestamistoimingu taotleja soovil võib notar koostada notariaalakti või -märke muus keeles, kui notar seda keelt piisavalt valdab. Kui tõestamistoimingu taotleja soovib, tõlgib notar muus keeles koostatud notariaalakti või -märke eesti keelde või kinnitab esitatud tõlke õigsuse."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "6",
+      "title": "§ 6. Tehingu ja tahteavalduse tõestamine",
+      "content": "(1) Tehingu tõestamiseks koostab notar käesolevas peatükis sätestatud korras notariaalakti. Ilma notariaalaktita on tõestamine tühine.\n(2) Tehingu osaks oleva tahteavalduse tõestamise suhtes kohaldatakse tehingu tõestamise kohta sätestatut.\n(3) Juriidilise isiku organi otsuste tõestamise suhtes kohaldatakse käesoleva seaduse 3. peatükis sätestatut."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "7",
+      "title": "§ 7. Notari või tema lähikondlase osalemine",
+      "content": "(1) Tehingu tõestamine on tühine, kui osalejaks on:\n1) notar ise,\n2) tema abikaasa,\n2^1) tema registreeritud elukaaslane;\n3) isik, kes on notari otsejoones sugulane;\n4) punktides 1–3 nimetatute esindajad.\n(2) Osaleja on isik, kelle tahteavaldust sisaldavat tehingut või teise isiku nimel esitatud tahteavaldust sisaldavat tehingut tõestatakse."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "8",
+      "title": "§ 8. Tõestamine notari või tema lähikondlase kasuks",
+      "content": "Tehingu tõestamine on tühine selles osas, mis on suunatud käesoleva seaduse § 3 lõike 1 punktides 1–3 nimetatud isikule õigushüve loomisele."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "9",
+      "title": "§ 9. Notariaalakti sisu",
+      "content": "(1) Notariaalakti märgib notar enda ja osalejate isikuandmed ning osalejate poolt avaldatu. Nende andmeteta on tehingu tõestamine tühine.\n(2) Notariaalakti osaks loetakse sellele lisatud dokumenti, kaarti, joonist, maakatastri ruumiandmeid või illustratsiooni, millele aktis viidatakse ning mis sisaldab osaleja tahteavaldust või on sellega seotud.\n(3) Notariaalakti märgitakse tõestamise kuupäev ja koht. Kaugtõestamise korral märgitakse notariaalakti ka videosilla vahendusel osalevate isikute asukoht."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "10",
+      "title": "§ 10. Osaleja isiku tuvastamine",
+      "content": "(1) Notariaalakti märgib notar osaleja kohta nii täpsed isikuandmed, et kahtlus ja segiajamine on välistatud.\n(2) Notar märgib, millisel viisil ta osaleja isiku tuvastas. Kui notar tunneb osalejat isiklikult, märgib ta selle asjaolu notariaalakti. Kuni 15-aastase osaleja isiku tuvastab notar isikut tõendava dokumendi puudumisel sündi ja põlvnemist tõendavate riiklike dokumentide ja eestkostja ütluste abil, märkides selle notariaalakti.\n(3) Kui notar ei saa isikut tuvastada või kahtleb isikusamasuses, aga tehingu tõestamist nõutakse sellele vaatamata, märgib notar selle asjaolu notariaalakti.\n(4) Käesoleva paragrahvi lõikeid 1–3 kohaldatakse ka tõestamisse kaasatud tõlgi, tunnistaja ja usaldusisiku kohta."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "11",
+      "title": "§ 11. Teo- ja otsusevõime tuvastamine",
+      "content": "(1) Kui notar on veendunud, et osalejal puudub vajalik teo- või otsusevõime, keeldub ta tõestamast.\n(2) Oma kahtluse osaleja vajaliku teo- ja otsusevõime kohta märgib notar notariaalakti.\n(3) Kui osaleja on raskesti haige, märgib notar selle asjaolu koos oma tähelepanekuga osaleja teo- ja otsusevõime kohta notariaalakti.\n(4) Notar märgib notariaalakti alaealise osaleja vanuse."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "12",
+      "title": "§ 12. Esindusõiguse tuvastamine",
+      "content": "(1) Notar märgib notariaalakti esindusõiguse aluse ning selgituse, kuidas ta selle tuvastas.\n(2) Kui notar ei saa vajaliku esindusõiguse olemasolu tuvastada või kahtleb selles, aga tõestamist nõutakse sellele vaatamata, märgib notar selle asjaolu notariaalakti."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "13",
+      "title": "§ 13. Ettelugemine, heakskiitmine ja allkirjastamine",
+      "content": "(1) Tehingu tõestamiseks tuleb notariaalakt notari juuresolekul osalejatele ette lugeda, nende poolt heaks kiita ning osalejate ja notari poolt omakäeliselt allkirjastada. Ilma heakskiitmise ja allkirjastamiseta on tõestamine tühine.\n(2) Ettelugemine hõlmab ka notariaalaktile lisatud dokumendi ettelugemist. Käesoleva seaduse §-des 10 ja 12 nimetatud dokumente ei loeta ette. Kui notariaalaktis viidatakse kaardile, joonisele, maakatastri ruumiandmetele või illustratsioonile, tuleb see ettelugemise asemel esitada osalejatele läbivaatamiseks. Pimedale tuleb kaarti, joonist, maakatastri ruumiandmeid või illustratsiooni läbivaatamise asemel piisavalt kirjeldada.\n(3) Enne heakskiitmist tuleb notariaalakt anda osalejale läbivaatamiseks.\n(4) Ettelugemise, läbivaatamise ja heakskiitmise toimumise märgib notar notariaalakti lõppu. Kui osalejad on notariaalakti omakäeliselt alla kirjutanud, siis eeldatakse, et see on neile notari juuresolekul ette loetud, käesoleva paragrahvi lõike 2 kohaselt läbi vaadatud või kirjeldatud ning nende poolt heaks kiidetud.\n(5) Kui koostatakse mitu notariaalakti, mis täielikult või osaliselt üksteist kordavad, piisab nende korduva osa ühekordsest ettelugemisest ja käesoleva paragrahvi lõike 3 kohaselt läbivaatamiseks esitamisest.\n(6) Notar lisab oma allkirjale enda ametinimetuse ja pitsatijäljendi.\n(7) Kaugtõestamise puhul tehakse käesolevas seaduses nimetatud toimingud isiku ja tema tahte tuvastamist võimaldava videosilla vahendusel tõestamisviisist tulenevate erisustega ning toiming loetakse tehtuks notari juuresolekul. Notar ja tehingus osalejad allkirjastavad notariaalakti digitaalallkirjaga.\n(8) Kaugtõestamise korra ning kaugtõestamise teel tehtavate ametitoimingute ja tehingute nimekirja kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "14",
+      "title": "§ 14. Teisele notariaalaktile viitamine",
+      "content": "(1) Kui notariaalaktis esitatakse osaleja poolt avaldatu viitena teisele notariaalaktile, ei ole vaja viidatavat notariaalakti ette lugeda, kui kõik osalejad avaldavad, et neile on selle sisu teada ja et nad loobuvad ettelugemisest. Selle asjaolu märgib notar notariaalakti. Notar võib tõestada vaid juhul, kui viidatav notariaalakt on osalejatele tõestamise juures esitatud originaalina, algärakirjana või notariaalselt kinnitatud ärakirjana.\n(2) Käesoleva paragrahvi lõiget 1 kohaldatakse ka teise notariaalakti lisaks oleva kaardi, joonise, maakatastri ruumiandmete ja illustratsiooni läbivaatamisele.\n(3) Viidatavat notariaalakti ei ole vaja koostatavale notariaalaktile lisada, kui kõik osalejad sellest loobuvad. Loobumise märgib notar notariaalakti.\n(4) Kui teise notariaalaktiga on notari juures või mujal võimalik mõistliku aja jooksul enne tehingu tõestamist tutvuda, teatab notar sellest osalejatele. Lisaks käesoleva seaduse §-st 18 tulenevatele ülesannetele selgitab notar osalejatele teisele notariaalaktile viitamise tähendust.\n(5) Kui notariaalaktis viidatakse kaardile, joonisele või maakatastri ruumiandmetele, mis on allkirja ja pitseriga või e-templiga kinnitatud ning mille on välja andnud pädev ametiasutus või notar, kohaldatakse käesoleva paragrahvi lõikeid 1–4."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "15",
+      "title": "§ 15. Lisadokumendi ettelugemisest loobumine",
+      "content": "(1) Kui notariaalaktis viidatakse sellele lisatud dokumendile, ei pea seda ette lugema, kui kõik osalejad ettelugemisest loobuvad. Kohesele sundtäitmisele allumise tahteavalduse peab notar notariaalakti märkima; üksnes aktile lisatud dokumenti märgituna on see tühine.\n(2) Kui käesoleva paragrahvi lõike 1 kohaselt lisatud dokumenti ette ei loeta, esitab notar selle osalejatele tutvumiseks ja allakirjutamiseks. Kui dokument koosneb rohkem kui ühest leheküljest, tuleb igale leheküljele eraldi alla kirjutada, välja arvatud kaugtõestamise korral. Käesoleva seaduse §-st 18 tulenevad notari kohustused kehtivad muutmatult.\n(3) Notar peab notariaalakti märkima, et osalejad loobusid ettelugemisest; ilma selleta on tõestamine tühine. Samuti märgib notar notariaalakti asjaolu, et lisatud dokument on neile tutvumiseks esitatud."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "16",
+      "title": "§ 16. Enampakkumine",
+      "content": "(1) Enampakkumise tehingu tõestamisel loetakse osalejaiks üksnes need pakkujad, kes jäävad oma pakkumise juurde.\n(2) Kui selline osaleja lahkub enne enampakkumise lõppu, ei kohaldata tema suhtes käesoleva seaduse § 13 lõiget 1 juhul, kui notar märgib tema lahkumise notariaalakti."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "17",
+      "title": "§ 17. Notariaalakti tõlkimine",
+      "content": "(1) Kui osaleja tema enda teatel või notari tähelepaneku kohaselt ei valda piisavalt eesti keelt või, kui notariaalakt koostatakse võõrkeeles, piisavalt seda keelt, märgib notar selle asjaolu notariaalakti.\n(2) Notariaalakt tuleb käesoleva paragrahvi lõikes 1 nimetatud juhul osalejale ettelugemise asemel tõlkida, ilma selleta on tõestamine tühine. Kui kõik osalejad avaldavad, et nad valdavad keelt, millesse notariaalakt tõlgitakse, ja loobuvad ettelugemisest, siis asendab tõlkimine ettelugemist. Kui osaleja nõuab, koostatakse ja antakse talle läbivaatamiseks kirjalik tõlge. Kirjalik tõlge tuleb notariaalaktile lisada. Notar teatab osalejale, et viimasel on õigus kirjalikku tõlget nõuda. Need asjaolud märgib notar notariaalakti.\n(3) Kui notar ei tõlgi ise, kaasatakse osaleja või notari valitud tõlk. Notaril on õigus keelduda osaleja valitud tõlgi kaasamisest, kui tal tekib kahtlus tõlke õigsuse suhtes. Ebaõige tõlkimisega tekitatud kahju eest vastutavad notar ja tema poolt valitud tõlk solidaarselt, välja arvatud juhul, kui tõlkis vandetõlk. Kui tõlk ei ole vandetõlk, hoiatab notar teda ebaõige tõlkimisega kaasneva tsiviil- ja kriminaalvastutuse eest. Notar märgib need asjaolud notariaalakti. Notariaalaktile kirjutab alla ka tõlk.\n(4) Tõlgi suhtes kohaldatakse vastavalt käesoleva seaduse § 7 ja § 8, kusjuures tühiseks loetakse nii tõlge kui tõestamine."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "18",
+      "title": "§ 18. Notari selgitamiskohustus",
+      "content": "(1) Notar selgitab välja osalejate tahte ja õiguslikult korrektseks tehinguks olulised asjaolud. Samuti selgitab notar osalejatele tehingu tähendust, õiguslikke tagajärgi ja tehingu tegemise erinevaid võimalusi. Notar kajastab osalejate tahteavaldused notariaalaktis selgelt ja ühemõtteliselt. Seejuures hoolitseb notar selle eest, et välistataks eksimused ja kahtlused ega kahjustataks kogenematu ja asjatundmatu osaleja huve.\n(2) Kui notaril tekib kahtlus tehingu seadusele ja osalejate tegelikule tahtele vastavuse suhtes, arutab ta selle osalejatega läbi. Kui notar kahtleb tehingu kehtivuses ja osalejad nõuavad sellele vaatamata tõestamist, märgib notar oma selgituse ja selle kohta esitatud osalejate põhjendused notariaalakti.\n(3) Notar korraldab tehingu notariaalse tõestamise selliselt, et käesoleva paragrahvi lõigetest 1 ja 2 tulenevate kohustuste täitmine oleks tagatud.\n(4) Kui tuleb kohaldada välismaa õigust või tekib selle kohta kahtlus, teatab notar sellest osalejatele ning märgib selle asjaolu notariaalakti.\n(5) Notar ei pea selgitama välismaa õiguse sisu ega tehingu maksuõiguslikke tagajärgi, kui õigusaktidest ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "19",
+      "title": "§ 19. Load ja nõusolekud",
+      "content": "Notar juhib osalejate tähelepanu tehinguks vajalikule kohtu- või ametiasutuse loale või nõusolekule ning märgib selle notariaalakti."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "20",
+      "title": "§ 20. Seadusjärgne ostueesõigus",
+      "content": "Niisuguse tehingu tõestamisel, mille puhul on võimalik teostada seadusjärgset ostueesõigust, selgitab notar seda asjaolu osalejatele ning märgib selle notariaalakti."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "21",
+      "title": "§ 21. Registriseisu kontrollimine",
+      "content": "(1) Kui tehing puudutab kinnistusraamatusse, laevakinnistusraamatusse, kommertspandiregistrisse või muusse avaliku usaldatavusega registrisse kantud või kandmisele kuuluvat asjaõigust, kontrollib notar eelnevalt tehinguks vajaliku käsutusõiguse olemasolu vastavast registrist ning vajaduse korral abieluvararegistrist.\n(2) Vastasel juhul tõestab notar tehingu üksnes siis, kui osalejad seda üksmeelselt nõuavad, hoolimata notari selgitustest kontrollimata asjaoludele põhineva tõestamise ohtlikkuse kohta.\n(3) Notar märgib käsutusõiguse kontrollimise tulemused või kontrollimisest loobumise koos enda antud selgitustega notariaalakti."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "22",
+      "title": "§ 22. Perekonnaseisu tuvastamine",
+      "content": "(1) Kui tehingu ese võib olla abikaasade, registreeritud elukaaslaste, endiste abikaasade või endiste registreeritud elukaaslaste ühisvara, märgib notar notariaalakti osaleja perekonnaseisu ja kuidas ta selle tuvastas ning miks tehingu ese võib kuuluda ühisvara hulka.\n(2) Asjaõiguslepingu tõestamisel märgib notar notariaalakti tehingu eseme omandaja perekonnaseisu ja selle tuvastamise alused. Kui tehingu ese hakkab kuuluma abikaasade või registreeritud elukaaslaste ühisvara hulka, märgib notar notariaalakti lisaks asjaolud, mille alusel ta selle tuvastas. Tehingu eseme omandajateks märgib notar sellisel juhul mõlemad abikaasad või registreeritud elukaaslased.\n(3) Käesoleva paragrahvi lõikes 2 sätestatut kohaldatakse ainult juhul, kui abikaasade või registreeritud elukaaslaste varalistele suhetele kohaldatakse Eesti õigust."
+    },
+    {
+      "provision_ref": "para22^1",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "22^1",
+      "title": "§ 22^1. Kooselulepingu sõlmimine ja kooselulepingu sõlmimiseks esitatavad dokumendid",
+      "content": "(1) Kooselulepingu sõlmimisel esitab isik järgmised dokumendid:\n1) mõlema kooselulepingut sõlmida sooviva isiku sündi tõendav dokument;\n2) teise või järgmise kooselulepingu sõlmimise korral dokument selle kohta, et eelmine kooseluleping on lõppenud või kehtetuks tunnistatud, või kui kooselulepingu sõlmimisele on eelnenud abielu, dokument selle kohta, et abielu on lõppenud või kehtetuks tunnistatud;\n3) kooselulepingu sõlmimise muu takistuse puudumist kinnitav dokument.\n(2) Kooselulepingut sõlmida sooviva isiku sündi tõendava dokumendi esitamist ei nõuta, kui kooselulepingut sõlmida sooviv isik tõendab, et tõendit pole võimalik saada või selle saamine on ülemäära raske.\n(3) Kui Eestis soovib kooselulepingu sõlmida välismaalane, peab ta lisaks käesoleva paragrahvi lõikes 1 ettenähtud dokumentide esitamisele tõendama, et tal on Eestis viibimiseks välismaalaste seaduses nimetatud seaduslik alus.\n(4) Seaduslikul alusel Eestis viibimist ei pea tõendama Euroopa Liidu liikmesriigi kodanik ega isik, keda peetakse Euroopa Liidu kodaniku perekonnaliikmeks vastavalt Euroopa Liidu kodaniku seadusele."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "23",
+      "title": "§ 23. Kurt, tumm ja pime osaleja",
+      "content": "(1) Kui osaleja tema enda teatel või notari tähelepaneku kohaselt piisavalt ei kuule, ei kõnele või ei näe, kaasab notar tõestamisse tunnistaja, välja arvatud juhul, kui kõik osalejad sellest loobuvad. Need asjaolud märgib notar notariaalakti.\n(2) Notariaalaktile kirjutab alla ka tunnistaja."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "24",
+      "title": "§ 24. Erisused kurdi osaleja suhtes",
+      "content": "(1) Notariaalakti, milles käesoleva seaduse § 23 lõike 1 kohaselt on märgitud, et osaleja ei kuule piisavalt, peab notar esitama sellele osalejale ettelugemise asemel läbivaatamiseks; ilma selleta on tõestamine tühine. Läbivaatamiseks esitamise märgib notar notariaalakti.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud osaleja on notariaalaktile omakäeliselt alla kirjutanud, siis eeldatakse, et see on talle läbivaatamiseks esitatud ning tema poolt heaks kiidetud."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "25",
+      "title": "§ 25. Erisused kurttumma osaleja suhtes, kellega ei ole võimalik kirjalikult suhelda",
+      "content": "(1) Kui osaleja tema enda teatel või notari tähelepaneku kohaselt piisavalt ei kuule ega kõnele ega suuda ka kirjalikul teel suhelda, kaasab notar tõestamisse osaleja usaldusisiku, kes on võimeline osalejast aru saama. Ilma selleta on tõestamine tühine.\n(2) Usaldusisiku kaasamise märgib notar notariaalakti. Notariaalaktile kirjutab alla ka usaldusisik.\n(3) Tõestamine on tühine osas, mis on seotud usaldusisikule õigushüve loomisega.\n(4) Käesoleva seaduse §-s 23 sätestatud nõue tunnistaja kaasamise kohta jääb kehtima."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "26",
+      "title": "§ 26. Kirjutamisvõimetu osaleja",
+      "content": "(1) Kui osaleja enda teatel või notari tähelepaneku kohaselt ei saa alla kirjutada, kaasab notar ettelugemise ja nõusoleku andmise juurde tunnistaja. Selle asjaolu märgib notar notariaalakti.\n(2) Notariaalaktile kirjutab osaleja asemel alla tunnistaja."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "27",
+      "title": "§ 27. Tunnistajana kaasamise keeld",
+      "content": "Tunnistajana ei tohi kaasata isikut, kes:\n1) osaleb ise tehingus või esindab osalejat;\n2) saab tõestatavast tehingust kasu;\n3) on notariga abielus;\n3^1) on notariga registreeritud kooselus;\n4) on notari või tema abikaasa või registreeritud elukaaslase otsejoones sugulane, vend või õde, poolvend või poolõde;\n5) on notaribüroo töötaja;\n6) on piiratud teovõimega;\n7) ei ole võimeline piisavalt kuulma, kõnelema või nägema;\n8) ei ole võimeline kirjutama;\n9) ei oska piisavalt keelt, milles notariaalakt koostatakse."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "28",
+      "title": "§ 28. Soodustatud isikud",
+      "content": "Käesoleva seaduse § 8, § 17 lõiget 4, § 25 lõiget 3 ning § 27 punkti 2 kohaldatakse vastavalt isiku suhtes, kes saab viimse tahte avaldusest (testamendist, pärimislepingust) õigushüve või kes on testamenditäitja."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "29",
+      "title": "§ 29. Teovõime tuvastamine",
+      "content": "Notar märgib notariaalakti oma tähelepanekud pärandaja teo- ja otsusevõime kohta."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "30",
+      "title": "§ 30. Tunnistaja",
+      "content": "(1) Osaleja nõudel kaasab notar viimse tahte avalduse tõestamise juurde kuni kaks tunnistajat. Kaasamise märgib notar notariaalakti.\n(2) Notariaalaktile kirjutab alla ka tunnistaja."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "31",
+      "title": "§ 31. Testamendi hoiuleandmine",
+      "content": "(1) Testamendi hoiulevõtmiseks tõestab notar vastavalt käesolevale peatükile isiku avalduse, et notarile üleantud ümbrik sisaldab tema testamenti. Notar märgib ümbriku üleandmise toimumise notariaalakti. Üleantud ümbrik loetakse notariaalakti lisaks.\n(2) Kui ümbrik ei ole üleandmisel suletud, pitseerib notar ümbriku testaatori juuresolekul kinni ning märgib selle notariaalakti.\n(3) Ümbrikule teeb notar pealdise selle kohta, et ümbrik sisaldab testaatori avalduse kohaselt tema testamenti. Pealdis peab sisaldama testaatori isikuandmeid ning testamendi hoiuleandmise kuupäeva. Pealdisele kirjutavad alla notar ja testaator."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "32",
+      "title": "§ 32. Tumma testaatori testament",
+      "content": "Pärandaja, kes ei ole tema enda avalduse või notari tähelepaneku kohaselt võimeline piisavalt kõnelema, peab avalduse, et notarile tõestamiseks esitatud dokument või hoiuleandmiseks esitatud ümbrik sisaldab tema viimset tahet, märkima tõestamise käigus omakäeliselt notariaalakti, kirjutama notariaalaktile lisatavale eraldi lehele või hoiuleandmiseks esitatud ümbrikule. Omakäelise avalduse kirjutamine märgitakse notariaalakti."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "2. peatükk - TEHINGU TÕESTAMINE",
+      "section": "33",
+      "title": "§ 33. Keelt mitteoskav pärandaja",
+      "content": "Kui pärandaja, kes avaldab notarile oma viimse tahte suuliselt, ei oska piisavalt keelt, milles notariaalakti koostatakse, ning see asjaolu on notariaalaktis märgitud, koostatakse ja lisatakse notariaalaktile akti kirjalik tõlge. Pärandaja võib kirjalikust tõlkest loobuda, loobumine tuleb notariaalakti märkida, ilma selleta on tõestamine tühine."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "3. peatükk - MUUD TÕESTAMISTOIMINGUD",
+      "section": "34",
+      "title": "§ 34. Notariaalakti koostamine",
+      "content": "(1) Kui käesoleva seaduse §-s 38 ei sätestata teisiti, peab tõestamistoiming, mille esemeks ei ole tehing ega tahteavaldus, vaid muu sündmus või asjaolu, olema notariaalse tõestamise vormis. Tõestamiseks koostab notar notariaalakti vastavalt käesoleva seaduse §-s 35 sätestatule. Ilma notariaalaktita on tõestamine tühine.\n(2) Juriidilise isiku organi otsuse tõestamiseks koostab notar notariaalakti käesoleva seaduse §-de 35 ja 36 alusel; ilma notariaalaktita on tõestamine tühine. Käesoleva seaduse 2. peatükis sätestatut ei kohaldata."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "3. peatükk - MUUD TÕESTAMISTOIMINGUD",
+      "section": "35",
+      "title": "§ 35. Notariaalakti sisu",
+      "content": "(1) Notariaalakt peab sisaldama notari nime ja allkirja ning tema tähelepanekute aruannet, ilma selleta on tõestamine tühine.\n(2) Dokumendid, kaardid, joonised, maakatastri ruumiandmed ja illustratsioonid, millele notariaalaktis viidatakse ning mis sellele lisatakse, on notariaalakti osa.\n(3) Notariaalakti märgib notar tähelepanekute tegemise aja ja koha ning notariaalakti koostamise aja ja koha.\n(4) Käesoleva seaduse § 13 lõiget 6 kohaldatakse vastavalt."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "3. peatükk - MUUD TÕESTAMISTOIMINGUD",
+      "section": "36",
+      "title": "§ 36. Juriidilise isiku organi otsuse protokolli tõestamine",
+      "content": "(1) Juriidilise isiku organi otsuse kohta koostatava protokolli tõestamiseks kontrollib notar organi koosoleku otsustusvõimet, koosoleku juhataja ja protokollija isikusamasust ja teovõimet. Kui otsus võetakse vastu koosolekut kokku kutsumata, kontrollib notar hääletamise korraldaja (juhatuse liikmete, nõukogu esimehe) isikusamasust ning teovõimet käesoleva seaduse §-de 10 ja 11 kohaselt.\n(2) Notar kajastab kontrollimise tulemused, koosoleku päevakorra, vastuvõetud otsuse sisu, hääletamistulemused ning otsuse suhtes eriarvamusele jäämise käesoleva seaduse § 35 lõikes 1 nimetatud tähelepanekute aruandes.\n(3) Osalejate nimekirja õigsuse eest vastutab koosoleku juhataja ning hääletusprotokolli õigsuse eest hääletamise korraldaja. Kumbki kirjutab vastava dokumendi õigsuse kinnituseks sellele notari juuresolekul alla. Osalejate nimekiri või hääletusprotokoll lisatakse notariaalaktile.\n(4) Kahtlused koosoleku otsusevõime, otsuste seaduslikkuse, osalejate nimekirja või hääletusprotokolli asjaomase organi koosseisule vastavuse kohta ning esindajate volituste osas märgib notar protokolli kohta koostatavasse notariaalakti."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "3. peatükk - MUUD TÕESTAMISTOIMINGUD",
+      "section": "37",
+      "title": "§ 37. Vannutamine",
+      "content": "(1) Vannutamisele ja vande all antava kirjaliku tunnistuse tõestamisele kohaldatakse vastavalt tehingu tõestamise sätteid.\n(2) Vannutamisel ja vande all antava kirjaliku tunnistuse tõestamisel hoiatab notar osalejat karistusseadustikus tahtlikult valeandmete esitamise eest ettenähtud süütegude eest ning lisab asjakohase hoiatuse notariaalakti."
+    },
+    {
+      "provision_ref": "para37^1",
+      "chapter": "3. peatükk - MUUD TÕESTAMISTOIMINGUD",
+      "section": "37^1",
+      "title": "§ 37^1. Volikirja kehtetuks kuulutamine",
+      "content": "(1) Volitaja tahteavaldus volikirja kehtetuks kuulutamiseks tõestatakse tehingu tõestamise sätete kohaselt.\n(2) Kui notar tõestab volitaja tahteavalduse volikirja kehtetuks kuulutamiseks, avaldab ta volikirja kehtetuks kuulutamise teate väljaandes Ametlikud Teadaanded.\n(3) Volikiri muutub kehtetuks kümne päeva möödumisel teate avaldamisest."
+    },
+    {
+      "provision_ref": "para37^2",
+      "chapter": "3. peatükk - MUUD TÕESTAMISTOIMINGUD",
+      "section": "37^2",
+      "title": "§ 37^2. Omandiõiguse tunnistuse tõestamine",
+      "content": "(1) Abikaasade või registreeritud elukaaslaste ühise notariaalselt tõestatud avalduse alusel tõestab notar tunnistuse (edaspidi omandiõiguse tunnistus ) selle kohta, et ese kuulub abikaasade või registreeritud elukaaslaste ühisvara hulka.\n(2) Käesoleva paragrahvi lõikes 1 sätestatut kohaldatakse ka juhul, kui abielu või registreeritud kooselu on lõppenud, kuid abikaasade või registreeritud elukaaslaste ühisvara ei ole jagatud.\n(3) Kui abielu või registreeritud kooselu on lõppenud ühe abikaasa või registreeritud elukaaslase surma tõttu ning pärandaja ja tema abikaasa või registreeritud elukaaslase varasuhe oli varaühisus, tõestab notar surnud abikaasa või registreeritud elukaaslase pärija notariaalselt tõestatud avalduse alusel omandiõiguse tunnistuse selle kohta, et ese kuulus surnud abikaasa või registreeritud elukaaslase lahusvara hulka."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "3. peatükk - MUUD TÕESTAMISTOIMINGUD",
+      "section": "38",
+      "title": "§ 38. Notariaalmärge",
+      "content": "(1) Asjaolu notariaalseks kinnitamiseks teeb notar notariaalmärke, mis peab sisaldama notari tunnistust tema poolt kindlakstehtu kohta, notari allkirja ning värvipitsati jäljendit; ilma selleta on kinnitamine tühine. Märkes näidatakse selle tegemise kuupäev ja koht.\n(1^1) Notariaalmärge võib olla ka digitaalne. Sel juhul asendab notari allkirja ja värvipitsati jäljendit tema digitaalallkiri. Digitaalse märke saab teha vaid digitaalse dokumendi juurde.\n(2) Kinnitatakse:\n1) allkirja ja allkirjanäidise õigsust;\n2) dokumendi esitamise aja kindlakstegemist;\n3) avaliku registri andmeid ja väljatrüki õigsust;\n4) ärakirja õigsust;\n5) isiku elusolekut ja teatud kohas viibimist;\n6) avalduse ja teate edastamist;\n7) dokumendi tõlke õigsust ning\n8) muid lihtsaid asjaolusid.\n(3) Käesoleva paragrahvi lõikes 2 nimetamata tõendeid ja tunnistusi väljastab notar vastavalt oma äranägemisele tõestamise või kinnitamise vormis."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "3. peatükk - MUUD TÕESTAMISTOIMINGUD",
+      "section": "39",
+      "title": "§ 39. Allkirja õigsus",
+      "content": "(1) Notar kinnitab allkirja üksnes juhul, kui allkiri on antud või omaks võetud tema juuresolekul. Allkirja omaksvõtmist kinnitab selle andja vastaval dokumendil notari juuresolekul antud omakäelise allkirjastatud märkusega.\n(1^1) Digitaalallkirja puhul, mis ei ole antud notari juuresolekul, kinnitab notar üksnes digitaalallkirja kehtivust.\n(2) Dokumenti, millel olevat allkirja kinnitatakse, kontrollib notar vaid selleks, et välja selgitada võimalik alus ametitoimingust keeldumiseks.\n(3) Notariaalmärkes märgib notar allkirja andnud või omaks võtnud isiku tuvastamiseks vajalikud andmed ning kas allkirja andmine või omaksvõtmine toimus tema juuresolekul.\n(4) Käesoleva seaduse § 10 lõikeid 1 ja 2 kohaldatakse vastavalt.\n(5) Allkirja ilma selle juurde kuuluva tekstita (blankoallkiri) kinnitab notar üksnes juhul, kui ta on kindlaks teinud, et allkirja kinnitamine on vajalik enne dokumendi sisu kindlaksmääramist. Notariaalmärkes viitab notar teksti puudumisele ning nimetab asjaolud, millega põhjendati blankoallkirja kinnitamise vajalikkust.\n(6)"
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "3. peatükk - MUUD TÕESTAMISTOIMINGUD",
+      "section": "40",
+      "title": "§ 40. Allkirjanäidise õigsus",
+      "content": "(1) Tartu Maakohtu registriosakonnale esitatava allkirjanäidise kinnitamisel tuleb allkiri anda notari juuresolekul, vastasel korral on kinnitamine tühine. Sellele asjaolule viitab notar notariaalmärkes. Notariaalmärkes viidatakse, et allkirjanäidis on esitamiseks Tartu Maakohtu registriosakonnale registrikande tegemiseks. Notariaalmärge peab sisaldama allkirja andnud isiku andmeid. Käesoleva seaduse § 10 lõikeid 1 ja 2 kohaldatakse vastavalt.\n(2) Juriidilise isiku seadusjärgse esindaja allkirjanäidise puhul märgitakse esindaja avalduse alusel täiendavalt juriidilise isiku nimi ja esindaja amet (juhatuse liige, täisosanik jne)."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "3. peatükk - MUUD TÕESTAMISTOIMINGUD",
+      "section": "41",
+      "title": "§ 41. Dokumendi ärakirja õigsus",
+      "content": "(1) Dokumendi ärakirja kinnitamisel tuvastab notar, kas dokument on originaal, algärakiri, kinnitatud või kinnitamata ärakiri, ning viitab sellele asjaolule notariaalmärkes.\n(1^1) Digitaalse dokumendi ärakirja puhul tuvastab notar dokumendi usaldusväärsust iseloomustavad olulised asjaolud (kas dokument on kehtivalt digitaalallkirjastatud, alla laetud arvutivõrgust, paljundatud muult andmekandjalt vms) ja viitab nendele notariaalmärkes.\n(2) Kui dokumendis on lünk, läbikriipsutus, vahelekirjutus, muudatus või loetamatu sõna või kui dokument sisaldab kustutatud või loetamatut teksti, kui mitmeleheline dokument on lahti köidetud või kui muud asjaolud viitavad dokumendis esialgse sisu muutmisele, viitab notar notariaalmärkes neile asjaoludele, kui see ei ilmne ärakirjast endast.\n(3) Kui ärakiri sisaldab üksnes dokumendi väljavõtet, nimetab notar notariaalmärkes väljavõtte eseme ning märgib, et dokumendis ei ole seda täiendavaid või muutvaid andmeid."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "3. peatükk - MUUD TÕESTAMISTOIMINGUD",
+      "section": "42",
+      "title": "§ 42. Väljatrüki õigsus",
+      "content": "(1) Digitaalse teabe väljatrüki kinnitamisel viitab notar notariaalmärkes, kas väljatrükitud teave oli allkirjastatud kehtiva digitaalallkirjaga ja ajatembeldatud või asus arvutivõrgu kaudu kasutatavas andmekogus või arvutivõrgu kaudu kasutataval võrguaadressil või oli tegemist muu elektroonilise teabekandjaga.\n(2) Arvutivõrgu kaudu kasutatava andmekogu väljatrüki kinnitamisel peab ilmnema, millise registri andmetega on tegemist, kas väljatrükk sisaldab ainult kehtivaid või ka kehtetuid andmeid ning millise ajalise seisuga andmed väljatrükil kajastuvad.\n(3) Käesoleva seaduse § 41 lõiget 3 kohaldatakse vastavalt."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "3. peatükk - MUUD TÕESTAMISTOIMINGUD",
+      "section": "43",
+      "title": "§ 43. Dokumendi esitamise aja kindlakstegemine",
+      "content": "Isiku poolt dokumendi esitamise aja kindlakstegemisele kohaldatakse vastavalt käesoleva seaduse § 41 lõiget 2."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "4. peatükk - DOKUMENTIDE KÄSITLEMINE",
+      "section": "44",
+      "title": "§ 44. Nööri ja reljeefpitseriga köitmine",
+      "content": "(1) Kui dokument koosneb mitmest lehest, tuleb need nööri ja reljeefpitseri abil kokku köita. Dokumendina käsitatakse notariaalakti või -märget kandvat originaaldokumenti ja notariaalselt kinnitatud ärakirja.\n(2) Käesoleva paragrahvi lõige 1 kehtib ka dokumendi, kaardi, joonise, maakatastri ruumiandmete väljavõtte ja illustratsiooni kohta, mis käesoleva seaduse § 9 lõike 2, § 15, § 35 lõike 2 ning § 36 lõike 3 kohaselt notariaalaktile lisatakse."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "4. peatükk - DOKUMENTIDE KÄSITLEMINE",
+      "section": "45",
+      "title": "§ 45. Muudatused dokumentides",
+      "content": "(1) Täiendused ja muudatused, välja arvatud sisulise tähenduseta ebaolulised parandused, märgib notar notariaalakti või -märke lõppu enne allkirja või notariaalakti või -märke servale ning allkirjastab eraldi.\n(2) Kui notariaalaktile on lisatud dokument käesoleva seaduse § 9 lõike 2, § 15, § 35 lõike 2 või § 36 lõike 3 kohaselt, ei pea muudatusi ja täiendusi juurdelisatud dokumendil alla kirjutama, kui notariaalaktist ilmneb nende heakskiitmine.\n(3) Ilmse vea võib notar parandada ka pärast notariaalakti või -märke koostamise lõpetamist tema poolt allkirjastatud ja kuupäevastatud õiendusega. Õienduse kirjutab notar notariaalakti või -märke lõppu pärast allkirju või dokumendi külge köidetud eraldi lehele.\n(3^1) Kaugtõestamise korral koostab notar käesoleva paragrahvi lõikes 3 nimetatud juhul õienduse eraldi failina või viitab muudatustele parandatud ärakirja notariaalmärkes.\n(4) Kui pärast notariaalakti või -märke valmimist ilmneb vajadus muudatuste või täienduste järele, koostab notar selle kohta eraldi notariaalakti."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "4. peatükk - DOKUMENTIDE KÄSITLEMINE",
+      "section": "46",
+      "title": "§ 46. Notariaaldokumendi originaal",
+      "content": "(1) Notariaalakt, välja arvatud volikiri, koostatakse ühes originaaleksemplaris, mis jääb notari kätte hoiule. Notariaalakti originaali või paberkandjal ärakirja digitaalsest originaalist väljastab notar avalduse alusel isikule, kui dokumenti on vaja välisriigis kasutamiseks. Paberkandjal originaaleksemplari väljastamiseks on vajalik teiste ärakirja nõudma õigustatud isikute notariaalselt kinnitatud nõusolek.\n(2) Volikiri koostatakse kahes originaaleksemplaris, millest üks jääb notari kätte hoiule ning teine väljastatakse volitajale.\n(2^1) Kaugtõestamise korral koostatakse volikiri ühes digitaalses originaaleksemplaris, mis on kasutusel õigussuhetes.\n(3) Originaali väljastamisel varustab notar notariaalakti originaali pitseriga; originaali asemele jätab notar ärakirja ning märgib sellele, kellele ja miks originaal väljastati. Ärakiri asendab edaspidi originaali.\n(3^1) Kaugtõestamise korral on õigussuhetes kasutusel digitaalne originaaldokument. Üksnes juhul, kui dokumendis on tehtud muudatusi vastavalt käesoleva seaduse §-le 45, väljastatakse digitaalne ärakiri.\n(3^2) Kaugtõestamise korral teeb notar digitaalsest originaaldokumendist paberil kinnitatud ärakirja, mis jääb notari kätte hoiule.\n(4) Notariaalmärkega dokument väljastatakse, kui ei nõuta selle notari juures säilitamist."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "4. peatükk - DOKUMENTIDE KÄSITLEMINE",
+      "section": "47",
+      "title": "§ 47. Originaaldokumendi asendamine",
+      "content": "(1) Kui notariaalakti originaal on kadunud või täielikult või osaliselt hävinud ning selle asendamine on vajalik, võib selle olemasolevale algärakirjale, notariaalselt kinnitatud ärakirjale või sellest valmistatud notariaalselt kinnitatud ärakirjale teha märke, et see asendab originaaldokumenti. Märge peab sisaldama väljaandmise aega ja kohta ning sellele tuleb alla kirjutada.\n(2) Originaaldokumendi asendab isik või asutus, kes on pädev ärakirja väljastama.\n(3) Kui võlgnik peab dokumendi kohaselt alluma kohesele sundtäitmisele, tuleb enne originaali asendamist ära kuulata võlgniku arvamus. Originaali asendamisest peab teatama isikutele, kellel on õigus nõuda ärakirja, kui neid isikuid on võimalik ilma oluliste raskusteta välja selgitada."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "4. peatükk - DOKUMENTIDE KÄSITLEMINE",
+      "section": "48",
+      "title": "§ 48. Ärakirja õiguslik tähendus",
+      "content": "Notariaalaktide, välja arvatud volikirjade puhul asendab notariaalakti ärakirja valdamine õigustoimingutes notariaalakti originaali valdamist. Kaugtõestamise vahendusel tõestatud volikirja puhul asendab volikirja paberkandjal ärakiri õigustoimingutes originaali."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "4. peatükk - DOKUMENTIDE KÄSITLEMINE",
+      "section": "49",
+      "title": "§ 49. Ärakirja väljastamise pädevus",
+      "content": "(1) Ärakirja väljastab isik või asutus, kes säilitab notariaalakti originaali.\n(2) Kui Euroopa Parlamendi ja nõukogu määruse (EL) nr 650/2012, mis käsitleb kohtualluvust, kohaldatavat õigust ning otsuste tunnustamist ja täitmist, ametlike dokumentide vastuvõtmist ja täitmist pärimisasjades ning Euroopa pärimistunnistuse loomist (ELT L 201, 27.07.2012, lk 107–134), alusel on tõestatud Euroopa pärimistunnistus, mille originaal on üle antud riigi arhiivile notariaadiseaduse § 16 lõikes 2 sätestatu kohaselt, väljastab tunnistuse kinnitatud ärakirja teine notar."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "4. peatükk - DOKUMENTIDE KÄSITLEMINE",
+      "section": "52",
+      "title": "§ 52. Õigus ärakirjale ja tutvumisele",
+      "content": "(1) Kinnitatud ja kinnitamata ärakirja võivad nõuda ja originaaliga tutvuda:\n1) tehingu või tahteavalduse tõestamisel tehtud notariaalakti puhul igaüks, kelle tahteavaldus või kelle nimel esitatud tahteavaldus notariaalaktis sisaldub;\n2) teiste notariaalaktide puhul igaüks, kes taotles akti koostamist;\n3) punktis 1 ja 2 nimetatud isikute õigusjärglased.\n(1^1) Kui notariaalakt on koostatud käesoleva seaduse § 6 või 34 kohaselt, väljastatakse tõestamistoimingu osana tehingus osalejatele notariaalakti kinnitatud ärakiri.\n(2) Ärakirja nõudma õigustatud isikud võivad kokku leppida selle õiguse piiramises, sealhulgas nii, et notar väljastab ärakirja alles notari poolt kontrollitava tingimuse täitumisel.\n(3) Notariaadiseaduse § 3 lõikes 4 sätestatud nõusoleku olemasolu korral võivad originaaliga tutvuda ning sellest ärakirju saada vastavalt nimetatud nõusolekule ka teised isikud.\n(4) Pärimistunnistuse ärakirja saamise õigus on ka pärandaja võlausaldajatel, pärandaja võlgnikel ja teistel õigustatud huvi omavatel isikutel."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "4. peatükk - DOKUMENTIDE KÄSITLEMINE",
+      "section": "53",
+      "title": "§ 53. Edastamine kohtu registriosakonnale või kinnistusosakonnale",
+      "content": "(1) Kui notar tõestab tehingu või kinnitab avalduse, mis kuulub esitamisele Tartu Maakohtu registriosakonnale või kinnistusosakonnale, edastab ta selle ning kõik seaduse kohaselt selle juurde kuuluvad muud dokumendid registriosakonda või kinnistusosakonda.\n(2)\n(3) Kui notar tõestab tehingu, mille alusel tehakse kanne Tartu Maakohtu kinnistus- või registriosakonna poolt peetavasse registrisse, märgib notar tehingu Tartu Maakohtu kinnistus- või registriosakonnas registreerimiseks esitatavasse avaldusse andmed tasumisele kuuluva riigilõivu ja riigilõivu arvutamise aluseks oleva tehinguväärtuse kohta."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "4. peatükk - DOKUMENTIDE KÄSITLEMINE",
+      "section": "54",
+      "title": "§ 54. Hiljem tuvastatud asjaolud",
+      "content": "(1) Käesoleva seaduse § 10 lõikes 3, § 12 lõikes 2 ning § 21 lõikes 2 nimetatud juhtudel võib notar väljastada notariaalakti ärakirju alles siis, kui ta on vajaliku isikusamasuse või esindus- või käsutusõiguse tuvastanud.\n(2) Isikusamasuse või esindus- või käsutusõiguse tuvastamiseks esitatud dokumente säilitab notar koos notariaalakti originaaliga, kuid ei köida neid nööri ja reljeefpitseriga selle külge.\n(3) Tuvastanud vajaliku isikusamasuse või esindus- või käsutusõiguse, teeb notar notariaalaktile käesoleva seaduse § 45 lõikes 3 sätestatud korras asjakohase õienduse. Ärakirja võib väljastada pärast õienduse tegemist.\n(3^1) Kui notar on teinud käesoleva paragrahvi lõikes 3 nimetatud õienduse, loetakse tõestamine toimunuks tagasiulatuvalt alates notariaalakti allkirjastamisest käesoleva seaduse § 13 kohaselt. Kuni õienduse tegemiseni on tõestamine kehtetu.\n(4) Kui notar peab seaduse alusel või osalejate soovil notariaalakti edastama pädevasse kohtu- või ametiasutusse, tekib edastamiskohustus pärast käesoleva paragrahvi lõikes 3 nimetatud õienduse tegemist."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "5. peatükk - RAKENDAMINE",
+      "section": "55",
+      "title": "§ 55. Enne käesoleva seaduse jõustumist alustatud tõestamistoimingud",
+      "content": "Enne käesoleva seaduse jõustumist tehtud või alustatud tõestamistoimingu suhtes kohaldatakse enne käesoleva seaduse jõustumist kehtinud õigusakte."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "5. peatükk - RAKENDAMINE",
+      "section": "56",
+      "title": "§ 56. Välismaal väljaantud dokumendid",
+      "content": "(1) Kui tõestamistoimingu tegemise aluseks tuleb võtta välismaal väljaantud avalik dokument, peab see olema legaliseeritud või kinnitatud legaliseerimist asendava tunnistusega (apostilliga), kui välisleping ei sätesta teisiti. Apostilliga kinnitamine või legaliseerimine ei ole vajalik, kui toimingu olemuse tõttu ei oma dokumendi sisu mingit tähendust. Avaliku dokumendi ja apostilli mõiste on määratletud välisriigi avaliku dokumendi legaliseerimise nõude tühistamise konventsioonis.\n(2) Kohtu- ja ametiasutus, samuti kohtutäitur võib nõuda talle esitatud välismaise avaliku dokumendi legaliseerimist või apostilliga kinnitamist, kui välisleping ei sätesta teisiti.\n(3) Kui dokumendil oleva allkirja või dokumendi ärakirja on tõestanud või kinnitanud välismaine ametiisik, kelle ametipädevust on tõendatud legaliseerimise või apostilliga, ei ole dokumendi või ärakirja Eestis kasutamise korral vajalik notariaalne kinnitamine.\n(4) Tõestamisest välismaise ametiisiku poolt ning dokumendi legaliseerimisest või apostilliga kinnitamisest ei piisa, kui Eesti seadus nõuab notariaalset tõestamist ning välisleping ei näe ette teisiti."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "5. peatükk - RAKENDAMINE",
+      "section": "57",
+      "title": "§ 57. Välismaise ametiisiku tõestatud volikiri",
+      "content": "(1) Valdkonna eest vastutava ministri määrusega kehtestatakse välismaiste ametiisikute loetelu, kelle puhul eeldatakse volitaja isikusamasuse ja tehingu tegemise võime usaldusväärset tuvastamist. Niisuguse ametiisiku kinnitatud või tõestatud volikiri on võrdne Eesti notari tõestatud volikirjaga, kui on täidetud käesoleva seaduse §-st 56 tulenev legaliseerimise või apostilliga kinnitamise nõue.\n(2) Kohus võib tunnustada ka teiste välismaiste ametiisikute pädevust volikirja tõestamisel, kui ametiisiku ametialane ettevalmistus ja seisund vastab Eesti notari omale ning volikirja tõestamise põhimõtted vastavad käesolevas seaduses tehingute tõestamise kohta sätestatule."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "5. peatükk - RAKENDAMINE",
+      "section": "59",
+      "title": "§ 59. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2002. aasta 1. veebruaril.\n(2) Käesoleva seaduse §-d 56–57 jõustuvad kümnendal päeval pärast seaduse Riigi Teatajas avaldamist.\n(3) Notariaalselt kinnitatud tehing käesoleva seaduse ning tõestamisseaduse rakendamisega seotud seaduste muutmise seaduse mõttes on notariaalselt tõestatud allkirjadega tehing tsiviilseadustiku üldosa seaduse § 92 lõike 2 tähenduses."
+    }
+  ],
+  "definitions": []
+}

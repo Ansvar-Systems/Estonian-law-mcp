@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-123032015149",
+  "type": "statute",
+  "title": "Teeseadus",
+  "title_en": "Teeseadus",
+  "short_name": "TeeS",
+  "status": "in_force",
+  "issued_date": "1999-02-17",
+  "in_force_date": "2015-07-01",
+  "url": "https://www.riigiteataja.ee/akt/123032015149.xml",
+  "description": "Official consolidated statute text (Teeseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

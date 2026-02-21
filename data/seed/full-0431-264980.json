@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-264980",
+  "type": "statute",
+  "title": "Energiaseadus",
+  "title_en": "Energiaseadus",
+  "short_name": "EnS",
+  "status": "in_force",
+  "issued_date": "1997-06-11",
+  "in_force_date": "2003-07-01",
+  "url": "https://www.riigiteataja.ee/akt/264980.xml",
+  "description": "Official consolidated statute text (Energiaseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

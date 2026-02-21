@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-248588",
+  "type": "statute",
+  "title": "Mootorsõidukiaktsiisi seadus",
+  "title_en": "Mootorsõidukiaktsiisi seadus",
+  "short_name": "MSAS",
+  "status": "in_force",
+  "issued_date": "1995-02-08",
+  "in_force_date": "2003-01-01",
+  "url": "https://www.riigiteataja.ee/akt/248588.xml",
+  "description": "Official consolidated statute text (Mootorsõidukiaktsiisi seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

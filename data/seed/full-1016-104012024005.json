@@ -1,0 +1,561 @@
+{
+  "id": "ee-law-104012024005",
+  "type": "statute",
+  "title": "Prokuratuuriseadus",
+  "title_en": "Prokuratuuriseadus",
+  "short_name": "ee-law-104012024005",
+  "status": "in_force",
+  "issued_date": "1998-04-22",
+  "in_force_date": "2024-03-15",
+  "url": "https://www.riigiteataja.ee/akt/104012024005.xml",
+  "description": "Official consolidated statute text (Prokuratuuriseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Prokuratuur",
+      "content": "(1) Prokuratuur on Justiitsministeeriumi valitsemisalas olev valitsusasutus, mis osaleb kuritegude tõkestamiseks ja avastamiseks vajaliku jälitustegevuse planeerimises, juhib kohtueelset kriminaalmenetlust, tagades selle seaduslikkuse ja tulemuslikkuse, esindab kohtus riiklikku süüdistust ning täidab muid seadusega prokuratuurile pandud ülesandeid.\n(1^1) Prokuratuur on oma seadusest tulenevate ülesannete täitmisel sõltumatu ja tegutseb, lähtudes käesolevast seadusest, muudest seadustest ning nende alusel antud õigusaktidest.\n(2) Prokuratuur jaguneb Riigiprokuratuuriks ja temale alluvateks ringkonnaprokuratuurideks."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Prokurör",
+      "content": "(1) Prokurörid on Riigiprokuratuuri prokurörid ning ringkonnaprokuratuuri prokurörid.\n(2) Prokurör on oma ülesannete täitmisel sõltumatu ning tegutseb ainult seaduse alusel ja oma veendumuse järgi."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "3",
+      "title": "§ 3. Riigi peaprokurör",
+      "content": "(1) Riigi peaprokurör juhib prokuratuuri ja täidab teisi temale seadusega pandud ülesandeid.\n(2) Kui riigi peaprokurör ei saa haiguse või muu takistuse tõttu ajutiselt oma ülesandeid täita, määrab valdkonna eest vastutav minister talle Riigiprokuratuuri prokuröride hulgast asendaja."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "4",
+      "title": "§ 4. Riigiprokuratuur",
+      "content": "(1) Riigiprokuratuuri prokurörid tagavad kohtueelse menetluse seaduslikkuse ja tulemuslikkuse ning esindavad riiklikku süüdistust kohtus ja täidavad teisi seadusega neile pandud ülesandeid.\n(2) Riigiprokuratuuri prokurörid on riigi peaprokurör, juhtivad riigiprokurörid, riigiprokurörid ja abiprokurörid.\n(3) Riigiprokuratuur võib jaguneda osakondadeks, mille kinnitab valdkonna eest vastutav minister. Osakonda kuuluvad riigiprokurörid ja abiprokurörid määrab riigi peaprokurör."
+    },
+    {
+      "provision_ref": "para4^1",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "4^1",
+      "title": "§ 4^1. Juhtiv riigiprokurör",
+      "content": "(1) Juhtiv riigiprokurör juhib Riigiprokuratuuri osakonda ja täidab teisi seadusega temale pandud ülesandeid.\n(2) Oma vastutusvaldkonnas on juhtival riigiprokuröril õigus anda korraldusi ringkonnaprokuratuuridele.\n(3) Riigi peaprokurör määrab juhtivale riigiprokurörile Riigiprokuratuuri prokuröride hulgast asendaja juhuks, kui juhtiv riigiprokurör ei saa haiguse või muu takistuse tõttu ajutiselt oma ülesandeid täita."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "5",
+      "title": "§ 5. Ringkonnaprokuratuur",
+      "content": "(1) Ringkonnaprokuratuuri prokurörid tagavad kohtueelse menetluse seaduslikkuse ja tulemuslikkuse ning esindavad riiklikku süüdistust kohtus ja täidavad teisi seadusega neile pandud ülesandeid.\n(2) Ringkonnaprokuratuuri prokurörid on juhtivprokurör, vanemprokurörid, eriasjade prokurörid, ringkonnaprokurörid ja abiprokurörid.\n(3) Ringkonnaprokuratuuri asukoha ja tööpiirkonna kehtestab Vabariigi Valitsus määrusega.\n(4) Ringkonnaprokuratuur võib jaguneda osakondadeks, mille kinnitab valdkonna eest vastutav minister. Osakonda kuuluvad eriasjade prokurörid, ringkonnaprokurörid ja abiprokurörid määrab juhtivprokurör. Juhtivprokuröril on õigus ilma konkursita viia sama ringkonnaprokuratuuri tööpiirkonnas ringkonnaprokuratuuri prokurör tema nõusolekul ühest piirkondlikust osakonnast teise."
+    },
+    {
+      "provision_ref": "para5^1",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "5^1",
+      "title": "§ 5^1. Prokuröride arv",
+      "content": "Riigiprokuratuuri prokuröride ning ringkonnaprokuratuuri prokuröride arvu määrab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para5^2",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "5^2",
+      "title": "§ 5^2. Juhtivprokurör",
+      "content": "(1) Juhtivprokurör juhib ringkonnaprokuratuuri ja täidab teisi seadusega temale pandud ülesandeid.\n(2) Riigi peaprokurör määrab juhtivprokurörile prokuröride hulgast asendaja juhuks, kui juhtivprokurör ei saa haiguse või muu takistuse tõttu ajutiselt oma ülesandeid täita."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "6",
+      "title": "§ 6. Vanemprokurör",
+      "content": "(1) Vanemprokurör juhib ringkonnaprokuratuuri osakonda ja täidab teisi seadusega temale pandud ülesandeid.\n(2) Juhtivprokurör määrab vanemprokurörile ringkonnaprokuratuuri prokuröride hulgast asendaja juhuks, kui vanemprokurör ei saa haiguse või muu takistuse tõttu ajutiselt oma ülesandeid täita."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "7",
+      "title": "§ 7. Abiprokurör",
+      "content": "(1) Abiprokurör tegutseb riigi peaprokuröri, juhtiva riigiprokuröri, juhtivprokuröri, riigiprokuröri, vanemprokuröri, eriasjade prokuröri või ringkonnaprokuröri juhendamisel.\n(2) Abiprokurör võib täita prokurörile pandud ülesandeid üldkorras kohtusse saadetud kriminaalasjade kohtulikus menetluses ulatuses, milleks on teda konkreetses kriminaalmenetluses volitanud kõrgemalseisev prokurör.\n(3) Abiprokurör ei või olla prokuröride konkursikomisjoni liige ega prokuröride distsiplinaarkomisjoni liige."
+    },
+    {
+      "provision_ref": "para7^1",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "7^1",
+      "title": "§ 7^1. Euroopa prokurör",
+      "content": "(1) Euroopa prokurör on nõukogu määruse (EL) 2017/1939, millega rakendatakse tõhustatud koostööd Euroopa Prokuratuuri asutamisel (ELT L 283, 31.10.2017, lk 1–71), artikli 16 lõike 3 alusel Eestist Euroopa Prokuratuuri ametisse nimetatud isik.\n(2) Euroopa prokurör ei kuulu Eesti prokuröriteenistusse ning on oma tegevuses Eesti prokuratuurist sõltumatu.\n(3) Euroopa prokurörile ei kohaldata käesoleva seaduse sätteid, kui seadusest ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para7^2",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "7^2",
+      "title": "§ 7^2. Euroopa delegaatprokurör",
+      "content": "(1) Euroopa delegaatprokurör on nõukogu määruse (EL) 2017/1939 artikli 17 alusel Eestist Euroopa Prokuratuuri ametisse nimetatud isik. Määrusest tulenevate ülesannete täitmisel on Euroopa delegaatprokurör väljaspool Eesti prokuratuuriteenistust ning on oma tegevuses Eesti prokuratuurist sõltumatu.\n(2) Euroopa delegaatprokurör võib täita riigisisese prokuröri ülesandeid riigi peaprokuröri otsuse alusel niivõrd, kuivõrd see ei takista teda täitmast nõukogu määrusest (EL) 2017/1939 tulenevaid ülesandeid.\n(3) Nõukogu määrusest (EL) 2017/1939 tulenevate ülesannete täitmisel ei kohaldata Euroopa delegaatprokurörile käesoleva seaduse sätteid, kui seadusest ei tulene teisiti. Riigisisese prokuröri ülesannete täitmisel kohalduvad Euroopa delegaatprokurörile kõik käesoleva seaduse sätted.\n(4) Eestist ametisse nimetatud delegaatprokurör nimetatakse delegaatprokuröri ametiajaks riigiprokuröriks."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "8",
+      "title": "§ 8. Tööjaotuskava",
+      "content": "(1) Riigi peaprokurör määrab pärast Riigiprokuratuuri prokuröride arvamuse ärakuulamist kindlaks nende tööjaotuse. Ringkonnaprokuratuuri prokuröride tööjaotuse määrab kindlaks juhtivprokurör, olles ära kuulanud ringkonnaprokuratuuri prokuröride arvamuse.\n(2) Töö jaotatakse kuriteo liikidest, subjektidest või muudest üldistest kriteeriumidest lähtudes. Tööjaotuskavas määratakse samuti prokuröride asendamise kord.\n(3) Tööjaotuskava võib muuta üksnes mõjuvatel põhjustel."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "9",
+      "title": "§ 9. Teenistuslik järelevalve",
+      "content": "(1) Teenistuslikku järelevalvet prokuratuuri üle teostab Justiitsministeerium. Justiitsministeeriumi teostatav teenistuslik järelevalve prokuratuuri üle ei laiene prokuratuuri tegevusele jälitustegevuse planeerimises, kohtueelses kriminaalmenetluses ja riikliku süüdistuse esindamisel kohtus.\n(2) Teenistuslikku järelevalvet prokuratuuris teostab riigi peaprokurör, ringkonnaprokuratuuris juhtivprokurör.\n(3) Teenistusliku järelevalve teostajal on õigus tema valvele alluvalt prokurörilt nõuda seletusi ja andmeid.\n(4) Teenistuslikku järelevalvet käesoleva paragrahvi alusel ei teostata Euroopa delegaatprokuröri üle, kui tema tegevus on seotud nõukogu määrusest (EL) 2017/1939 tulenevate ülesannete täitmisega."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "10",
+      "title": "§ 10. Teenistusalane asendamine",
+      "content": "Riigi peaprokurör või juhtivprokurör võib mõjuval põhjusel kriminaalmenetluses asendada alluvat prokuröri või kohustada selleks teist alluvat prokuröri, kes ei tohi olla asendatava alluv. Asendamise korraldus tehakse kirjalikult, märkides asendamise ulatuse ja põhjendades asendamise vajadust."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "11",
+      "title": "§ 11. Aruandlus",
+      "content": "(1) Riigi peaprokurör esitab kord aastas valdkonna eest vastutavale ministrile prokuratuuri tegevuse koondaruande. Aruande esitamise tähtaja ja nõuded kehtestab valdkonna eest vastutav minister käskkirjaga.\n(2) Riigi peaprokurör esitab iga aasta Riigikogu kevadistungjärgul Riigikogu põhiseaduskomisjonile ülevaate seadusega prokuratuurile pandud ülesannete täitmise kohta eelmisel kalendriaastal.\n(3) Riigi peaprokurör võib lisaks käesoleva paragrahvi lõigetes 1 ja 2 nimetatud korralisele aruandlusele esitada Riigikogu põhiseaduskomisjonile ettekandeid prokuratuuri tegevuse käigus ilmnenud oluliste, ulatusliku mõjuga või kiiret lahendamist vajavate probleemide kohta."
+    },
+    {
+      "provision_ref": "para11^1",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "11^1",
+      "title": "§ 11^1. Haldusosakond",
+      "content": "(1) Haldusfunktsioonide täitmiseks võib prokuratuuris moodustada haldusosakonna, mille moodustamise kinnitab valdkonna eest vastutav minister.\n(2) Haldusosakonda juhib haldusdirektor."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - PROKURATUURI KORRALDUS",
+      "section": "12",
+      "title": "§ 12. Prokuratuuri põhimäärus",
+      "content": "Prokuratuuri põhimääruse kinnitab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - PROKURÖRIDE ÜLDKOGU",
+      "section": "13",
+      "title": "§ 13. Prokuröride üldkogu",
+      "content": "(1) Prokuröride üldkogu on kõigi prokuröride koosolek, mis kutsutakse kokku vähemalt kord aastas.\n(2) Prokuröride üldkogu:\n1) valib kaks ringkonnaprokuratuuri prokuröri ja ühe Riigiprokuratuuri prokuröri prokuröride konkursikomisjoni liikmeks;\n2) valib kaks ringkonnaprokuratuuri prokuröri ja kaks Riigiprokuratuuri prokuröri distsiplinaarkomisjoni liikmeks;\n2^1) valib Eesti Advokatuuri kutsesobivuskomisjoni prokurörist liikme ja tema asendusliikme;\n3) kinnitab prokuröride üldkogu töökorra;\n4) kuulab ära valdkonna eest vastutava ministri ja riigi peaprokuröri ettekanded prokuratuuride tegevuse kohta;\n5) arutab prokuratuuride tegevuse ja prokuröriteenistuse küsimusi ning teeb ettepanekuid nende lahendamiseks.\n(3) Prokuröride üldkogu kutsub kokku ja selle tööd juhib riigi peaprokurör."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "14",
+      "title": "§ 14. Avaliku teenistuse seaduse kehtivus prokuröride suhtes",
+      "content": "Prokuröriteenistusele kohaldatakse avaliku teenistuse seadust, kui käesolevast seadusest ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "15",
+      "title": "§ 15. Prokurörile esitatavad nõuded",
+      "content": "(1) Prokuröriks võib nimetada teovõimelise vähemalt 21-aastase Eesti Vabariigi kodaniku, kes:\n1) on omandanud õiguse õppesuunal vähemalt riiklikult tunnustatud magistrikraadi või sellele vastava kvalifikatsiooni Eesti Vabariigi haridusseaduse § 28 lõike 2^2 tähenduses või sellele vastava välisriigi kvalifikatsiooni;\n2) oskab eesti keelt keeleseaduses sätestatud C1-tasemel või sellele vastaval tasemel;\n3) on kõrgete kõlbeliste omadustega;\n4) on prokuröritööks vajalike võimete ja isikuomadustega.\n(1^1)\n(2) Prokuröriks ei või nimetada isikut:\n1) kelle kohta on jõustunud süüdimõistev kohtuotsus tahtlikult toimepandud kuriteo eest;\n2) kes on vabastatud avalikust teenistusest distsiplinaarsüüteo eest;\n3) kes on välja heidetud Eesti Advokatuurist või tagandatud notari ametist;\n4) kes on prokuröri ametikoha vahetu kontrollija või vahetu juhi abikaasa, registreeritud elukaaslane, elukaaslane või vanavanem või kes on ametikoha vahetu kontrollija või vahetu juhi või nende abikaasa, registreeritud elukaaslase või elukaaslase vanem või vanema alaneja sugulane, sealhulgas laps ja lapselaps, kusjuures vanemaks loetakse ka lapsendaja ja kasuvanem ning alanejaks sugulaseks ka lapsendatu ja kasulaps ning eespool nimetatud piirang kehtib ka prokuröri ametikoha vahetu kontrollija või vahetu juhi ametikoha täitmisel;\n5) kes oma tervise tõttu ei saa prokurörina töötada. Kahtluse korral määrab isiku tervisliku seisundi kindlaks arstlik komisjon.\n(3) Ringkonnaprokuröriks võib nimetada isiku, kes on töötanud ühe aasta prokurörina või kolm aastat kohtunikuna, politseiametnikuna, vandeadvokaadina või muul ametikohal, mis nõuab süvateadmisi karistusõigusest ja -menetlusest.\n(4) Eriasjade prokuröriks võib nimetada isiku, kes enne ametisse nimetamist töötab prokurörina, välja arvatud abiprokurörina.\n(5) Juhtivprokuröriks ja vanemprokuröriks võib nimetada isiku, kes enne ametisse nimetamist on töötanud kolm aastat kohtunikuna, prokurörina, politseiametnikuna või vandeadvokaadina.\n(6) Juhtivaks riigiprokuröriks ja riigiprokuröriks võib nimetada isiku, kes on vähemalt kaks aastat töötanud juriidilist kõrgkvalifikatsiooni nõudval töökohal.\n(7)\n(8) Riigi peaprokuröriks võib nimetada isiku, kes on kogenud ja tunnustatud jurist."
+    },
+    {
+      "provision_ref": "para15^1",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "15^1",
+      "title": "§ 15^1. Prokuröriteenistusse kandideeriva isiku tausta kontrollimine",
+      "content": "(1) Prokuröriteenistusse kandideeriv isik esitab prokuröride konkursikomisjonile:\n1) isikuandmete ankeedi;\n2) korruptsioonivastases seaduses sätestatud nõuetele vastava huvide deklaratsiooni kandideerimisele eelneva kuu esimese kuupäeva seisuga.\n(2) Isikuandmete ankeedis märgib kandideeriv isik ka oma sugulaste ja hõimlaste (vanemad, õde, vend, lapsed, abikaasa, registreeritud elukaaslane, endine abikaasa, endine registreeritud elukaaslane), samuti alalise elukaaslase ees- ja perekonnanime, isikukoodi (isikukoodi puudumisel sünniaeg ja -koht) ja kontaktandmed.\n(2^1) Käesoleva paragrahvi lõikes 2 nimetatud andmeid säilitatakse viis aastat prokuröriteenistusse kandideerimisest või viis aastat pärast teenistusest lahkumist.\n(3) Prokuröriteenistusse kandideeriva isiku sobivuse hindamiseks töödeldavate isikuandmete täpsema koosseisu ja ankeedi vormi kinnitab valdkonna eest vastutav minister.\n(4) Käesoleva paragrahvi lõikes 1 sätestatu kohaselt esitatud andmete õigsuse kontrollimiseks on riigi peaprokuröril, samuti tema volitatud prokuratuuriametnikul õigus:\n1) pöörduda riigi ja kohaliku omavalitsuse asutuste ja ametiisikute, samuti füüsiliste ja juriidiliste isikute poole järelepärimistega prokuröriteenistusse kandideeriva isiku isikuandmete kohta;\n2) vestelda isikuandmete ankeedis märgitud isiku, samuti tööandja ja õppeasutuse esindajate ning teiste isikutega, et selgitada välja kandidaadi kõlbelisi ja teisi isikuomadusi ning vajaduse korral ja küsitletava isiku nõusolekul võtta temalt kirjalik seletus;\n3) kontrollida, kas käesoleva paragrahvi lõikes 2 nimetatud isikud on kriminaalmenetluses kahtlustatavad või süüdistatavad;\n4) tutvuda jälitustoiminguga saadud andmetega.\n(5) Käesolevas paragrahvis nimetatud järelepärimise saanud asutus või isik vastab järelepärimisele viivitamatult.\n(6) Prokuröride konkursikomisjon teavitab prokuröriteenistusse kandideerivat isikut kohe tema suhtes läbiviidud taustakontrollist ja võimaldab tal tutvuda kontrolli käigus kogutud materjalidega.\n(7) Kui prokuröriteenistusse kandideeriv isik esitas prokuröride konkursikomisjonile tahtlikult valeandmeid või varjas olulist informatsiooni, arvatakse kandidaat konkursilt välja prokuröride konkursikomisjoni otsusega.\n(8) Prokuratuur võib piirata prokuratuuriteenistusse kandideeriva isiku Euroopa Parlamendi ja nõukogu määrusest (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus) (ELT L 119, 04.05.2016, lk 1–88) tulenevaid õigusi, kui see on vajalik süüteo tõkestamiseks, avastamiseks, menetlemiseks või karistuse täideviimiseks, teise isiku või andmesubjekti õiguste ja vabaduste kahjustamise takistamiseks, riigi julgeoleku ohustamise takistamiseks või avaliku korra kaitse tagamiseks.\n(9) Käesoleva paragrahvi lõike 8 alusel võib piirata järgmisi Euroopa Parlamendi ja nõukogu määrusest (EL) 2016/679 tulenevaid andmesubjekti õigusi:\n1) õigust saada teada tema isikuandmete töötlemisest, sealhulgas sellest, milliseid isikuandmeid töödeldakse, samuti töötlemise viisi, meetodit, eesmärki, õiguslikku alust, ulatust või põhjust;\n2) õigust saada teada tema isikuandmete vastuvõtjaid ja avaldatavate isikuandmete kategooriaid ning teavet selle kohta, kas tema isikuandmed edastatakse välisriigile või rahvusvahelisele organisatsioonile;\n3) õigust nõuda tema isikuandmete töötlemise piiramist;\n4) õigust esitada vastuväiteid tema isikuandmete töötlemise kohta;\n5) õigust saada teada tema isikuandmetega seotud rikkumisest."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "16",
+      "title": "§ 16. Prokuröri ametisse nimetamine",
+      "content": "(1) Riigi peaprokuröri nimetab ametisse Vabariigi Valitsus valdkonna eest vastutava ministri ettepanekul, olles ära kuulanud Riigikogu õiguskomisjoni arvamuse.\n(2) Juhtiva riigiprokuröri, riigiprokuröri ning juhtivprokuröri nimetab ametisse valdkonna eest vastutav minister riigi peaprokuröri ettepanekul.\n(3) Vanemprokuröri nimetab ametisse riigi peaprokurör juhtivprokuröri ettepanekul.\n(4)\n(5) Eriasjade prokuröri, ringkonnaprokuröri ning abiprokuröri nimetab ametisse riigi peaprokurör prokuröride konkursikomisjoni ettepanekul.\n(6) Riigi peaprokuröriks ja juhtivprokuröriks võib nimetada isiku, kes on selleks andnud kirjaliku nõusoleku.\n(7) Isikut ei nimetata prokuröri ametisse, kui ta ei vasta prokurörile esitatavatele nõuetele. Ametisse nimetamata jätmise otsust tuleb põhjendada."
+    },
+    {
+      "provision_ref": "para16^1",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "16^1",
+      "title": "§ 16^1. Prokuröri üleviimine",
+      "content": "(1) Valdkonna eest vastutaval ministril on õigus viia juhtiv riigiprokurör, juhtivprokurör või riigiprokurör tema kirjaliku avalduse alusel avaliku konkursita madalamalseisvale avaliku konkursi korras täidetavale prokuröri ametikohale.\n(2) Riigi peaprokuröril on õigus viia vanemprokurör, eriasjade prokurör või ringkonnaprokurör tema kirjaliku avalduse alusel avaliku konkursita madalamalseisvale avaliku konkursi korras täidetavale prokuröri ametikohale.\n(3) Riigi peaprokuröril on õigus viia eriasjade prokurör, ringkonnaprokurör või abiprokurör tema nõusolekul ilma avaliku konkursita samale ametikohale teises prokuratuuris.\n(4) Prokuröri üleviimisel ühest teenistuspiirkonnast teise võib talle alates uude teenistuspiirkonda asumisest kahe kuu jooksul hüvitada seoses elukohavahetusega tekkinud kulutused.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud kulutuste hüvitamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "17",
+      "title": "§ 17. Prokuröri ametiaeg",
+      "content": "(1) Riigi peaprokurör ja juhtivprokurör nimetatakse ametisse viieks aastaks.\n(2) Juhtiv riigiprokurör, riigiprokurör, vanemprokurör, eriasjade prokurör, ringkonnaprokurör ning abiprokurör nimetatakse ametisse määramata ajaks.\n(3) Riigiprokuröri, eriasjade prokuröri, ringkonnaprokuröri ja abiprokuröri asendaja nimetatakse ametisse määratud ajaks asendatava naasmiseni ametikohale või asendatava ametist vabastamiseni. Riigiprokuröri, eriasjade prokuröri, ringkonnaprokuröri või abiprokuröri asendaja võib tema nõusolekul asendamise ajal ja ühe aasta jooksul pärast asendamise lõppu ilma avaliku konkursita nimetada samale või madalamalseisvale vabale prokuröri ametikohale määramata ajaks."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "18",
+      "title": "§ 18. Avalik konkurss",
+      "content": "(1) Eriasjade prokurör, ringkonnaprokurör ning abiprokurör nimetatakse ametisse avaliku konkursi alusel.\n(2) Avaliku konkursi eriasjade prokuröri, ringkonnaprokuröri ning abiprokuröri ametikohale kuulutab ametlikus väljaandes Ametlikud Teadaanded välja prokuröri ametisse nimetamise õigust omav riigi peaprokurör. Kandidaatidele tuleb avalduse esitamiseks anda aega vähemalt kaks nädalat teadaande avaldamise päevast.\n(3) Avaliku konkursita võib ametisse nimetada riigi peaprokuröri, juhtiva riigiprokuröri, riigiprokuröri, juhtivprokuröri ning vanemprokuröri.\n(4)"
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "19",
+      "title": "§ 19. Avalikul konkursil osalejate hindamine",
+      "content": "(1) Kandidaadi sobivust ametikohale hindab prokuröride konkursikomisjon.\n(2) Prokuröri kandideerimisel vabale ametikohale esitab prokurör, kellele kandidaat vahetult allub, prokuröride konkursikomisjonile kandidaadi kohta põhistatud arvamuse."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "22",
+      "title": "§ 22. Ametipalk",
+      "content": "(1) Riigi peaprokuröri ametipalk määratakse kõrgemate riigiteenijate ametipalkade seaduses.\n(2) Prokuröride ametipalk, välja arvatud riigi peaprokuröri ja abiprokuröri ametipalk, määratakse protsendina riigi peaprokuröri ametipalgast järgmiselt:\n1) juhtiv riigiprokurör – ametipalk on 95 protsenti riigi peaprokuröri ametipalgast;\n2) juhtivprokurör – ametipalk on 90 protsenti riigi peaprokuröri ametipalgast;\n3) riigiprokurör – ametipalk on 80 protsenti riigi peaprokuröri ametipalgast;\n4) vanemprokurör – ametipalk on 75 protsenti riigi peaprokuröri ametipalgast;\n5) eriasjade prokurör – ametipalk on 75 protsenti riigi peaprokuröri ametipalgast;\n6) ringkonnaprokurör – ametipalk on 70 protsenti riigi peaprokuröri ametipalgast.\n(3) Abiprokuröri ametipalk ei või ületada ringkonnaprokuröri ametipalka ja pärast katseaega moodustada vähem kui 60 protsenti ringkonnaprokuröri ametipalgast.\n(4) Riigi peaprokurör võib Ida-Viru maakonda Viru Ringkonnaprokuratuuri ametisse nimetatavatel või üleviidavatel prokuröridel suurendada ametipalka kuni 1000 euro võrra kuni neljaks aastaks.\n(5) Käesoleva paragrahvi lõikes 4 ettenähtud ametipalga suurendamise otsustab riigi peaprokurör eraldi iga ametisse nimetatava või üleviidava prokuröri puhul.\n(6) Riigi peaprokurör võib avaliku teenistuse seaduses sätestatud põhimõtetest juhindudes määrata prokurörile muutuvpalgana tulemuspalga kindlaks määratud kriteeriumide alusel konkreetse töö või perioodi eest, preemia erakordsete teenistusalaste saavutuste eest või lisatasu täiendavate teenistusülesannete täitmise eest. Riigi peaprokurörile ei maksta muutuvpalka.\n(7) Tulemuspalga määramise aluseks on prokuröri töötulemustele antud hinnang.\n(8) Tulemuspalga määramise aluseks võib olla ka asutuse või selle struktuuriüksuse töö tulemuslikkusele antud hinnang, milles võetakse arvesse kollektiivset panust asutuse eesmärkide saavutamisel. Asutuse või selle struktuuriüksuse töö tulemuslikkust eesmärkide saavutamisel hindab riigi peaprokurör.\n(9) Täiendavateks teenistusülesanneteks loetakse riigi peaprokuröri, prokuröri vahetu juhi või struktuuriüksuse juhi poolt prokurörile antud, kuid tööjaotuskavas nimetamata teenistusülesandeid.\n(10) Prokuröri muutuvpalga maksmise tingimused ja kord ning abiprokuröri ametipalga kujundamise alused kehtestatakse prokuratuuri palgajuhendis. Palgajuhendi kehtestab valdkonna eest vastutav minister käskkirjaga."
+    },
+    {
+      "provision_ref": "para22^1",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "22^1",
+      "title": "§ 22^1. Prokuröri puhkus",
+      "content": "(1) Prokuröril on õigus saada iga-aastast puhkust.\n(2) Prokuröri puhkus on 35 kalendripäeva.\n(3)\n(4) Prokuröride puhkuste ajakava kinnitab Riigiprokuratuuris riigi peaprokurör ja ringkonnaprokuratuuris juhtivprokurör.\n(5) Riigi peaprokurör või juhtivprokurör võib töö korraldamise huvidest lähtudes seada piiranguid korraga väljavõetava puhkuse pikkusele ja puhkuse ajale. Ühe katkestamatu puhkuseosa kestus peab sellisel juhul olema vähemalt 14 kalendripäeva, prokuröri nõudmisel 21 kalendripäeva. Teiste puhkuseosade kestus võib olla lühem."
+    },
+    {
+      "provision_ref": "para22^2",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "22^2",
+      "title": "§ 22^2. Valveaeg",
+      "content": "(1) Valveaeg on aeg, millal prokurör peab töövälisel ajal olema kättesaadav ettenägematute või edasilükkamatute teenistusülesannete täitmiseks.\n(2) Lõikes 1 nimetatud valveaeg on osa puhkeajast. Valveaja rakendamisel ei kohaldata prokuröri suhtes töölepingu seaduse §-s 48 sätestatut.\n(3) Valveaja eest makstakse lisatasu kuni kümme protsenti prokuröri ametipalgast. Lisatasu maksmise korra ja juhud kehtestab valdkonna eest vastutav minister määrusega.\n(4) Valveaja kestus ei tohi ilma prokuröri nõusolekuta ületada 250 tundi kuus.\n(5) See osa valveajast, kui prokurör täidab teenistusülesandeid, loetakse tööajaks. Sellisel juhul ei kohaldata prokuröri suhtes töölepingu seaduse §-des 51 ja 52 sätestatud nõuet puhkeaja järjestikkuse kohta."
+    },
+    {
+      "provision_ref": "para22^3",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "22^3",
+      "title": "§ 22^3. Riigi peaprokuröri esinduskulud",
+      "content": "Riigi peaprokurörile makstakse iga kuu 20 protsenti ametipalgast esinduskuludeks."
+    },
+    {
+      "provision_ref": "para23^1",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "23^1",
+      "title": "§ 23^1. Ergutuse kohaldamine",
+      "content": "Prokurörile kohaldab ergutusi riigi peaprokurör."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "24",
+      "title": "§ 24. Varalise kahju hüvitamine",
+      "content": "Prokurörile või tema perekonnaliikmele seoses prokuröri teenistusülesande täitmisega tekitatud varalise kahju hüvitab riik."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "28",
+      "title": "§ 28. Ametisaladuse hoidmise kohustus",
+      "content": "Prokurör ei tohi avaldada temale seoses teenistusülesannete täitmisega teatavaks saanud asjaolusid, kui see võib kahjustada õigusemõistmist. Ametisaladuse hoidmise kohustus on tähtajatu."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "29",
+      "title": "§ 29. Juhendamiskohustus",
+      "content": "(1) Prokurör on kohustatud riigi peaprokuröri või juhtivprokuröri korraldusel juhendama praktikanti.\n(2) Prokurör ei ole kohustatud juhendama üheaegselt rohkem kui ühte praktikanti."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "30",
+      "title": "§ 30. Tegevuspiirangud",
+      "content": "(1) Prokurör ei või olla erakonna liige.\n(2) Riigi peaprokurör ei tohi olla väljaspool ametikohustusi ühelgi muul valitaval või nimetataval ametikohal. Riigi peaprokurör peab viivitamata teavitama valdkonna eest vastutavat ministrit kirjalikult, kui ta tegeleb või kavatseb tegeleda väljaspool ametikohustusi töölepingu või teenuste osutamise lepingu alusel, ettevõtjana või täisosanikuna täis- või usaldusühingus või juriidilise isiku juhtimis- või kontrollorgani liikmena. Ametikohustusi mõistetakse käesolevas paragrahvis korruptsioonivastases seaduses antud tähenduses.\n(3) Valdkonna eest vastutav minister keelab riigi peaprokuröril haldusaktiga täielikult või osaliselt käesoleva paragrahvi lõikes 1 nimetatud kõrvaltegevuse, kui kõrvaltegevusele kuluva tööjõu maht või laad takistab korrapärast teenistusülesannete täitmist või kõrvaltegevus toob kaasa teenistuskohustuse rikkumise."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "31",
+      "title": "§ 31. Distsiplinaarsüütegu ja distsiplinaarkaristus",
+      "content": "(1) Distsiplinaarsüüteo eest võib prokurörile määrata distsiplinaarkaristuse.\n(2) Distsiplinaarsüüteod on:\n1) ametikohustuste süüline täitmata jätmine või mittekohane täitmine;\n2) vääritu tegu – süüline tegu, mis on vastuolus üldtunnustatud kõlblusnormidega või diskrediteerib prokuröri või prokuratuuri, sõltumata sellest, kas niisugune tegu pandi toime ametikohustuste täitmisel või mitte.\n(3) Distsiplinaarkaristused on:\n1) noomitus;\n2)\n3) ametipalga vähendamine kuni 30 protsenti kuni üheks aastaks;\n4) teenistusest vabastamine."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "32",
+      "title": "§ 32. Distsiplinaarmenetluse algatamine",
+      "content": "(1) Distsiplinaarmenetlus algatatakse, kui ilmnevad distsiplinaarsüüteo tunnused. Distsiplinaarmenetluse algatamiseks võib esitada taotluse huvitatud isik. Taotlus distsiplinaarmenetluse algatamiseks tuleb esitada kuue kuu jooksul, arvates päevast, mil taotluse esitaja sai teada või oleks pidanud teada saama taotluse aluseks olevatest asjaoludest.\n(2) Distsiplinaarmenetluse algatab huvitatud isiku taotluse alusel või enda algatusel:\n1) valdkonna eest vastutav minister riigi peaprokuröri, juhtiva riigiprokuröri või juhtivprokuröri suhtes;\n2) riigi peaprokurör kõigi prokuröride suhtes;\n3) juhtivprokurör temale alluva ringkonnaprokuratuuri prokuröri suhtes.\n(3) Käesoleva paragrahvi lõike 2 punktis 1 nimetatud juhul võib valdkonna eest vastutav minister distsiplinaarmenetluse algatamisel määrata, et distsiplinaarsüütegu arutab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para32^1",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "32^1",
+      "title": "§ 32^1. Euroopa delegaatprokuröri distsiplinaarvastutus",
+      "content": "(1) Euroopa delegaatprokuröri suhtes võib läbi viia distsiplinaarmenetluse.\n(2) Kui distsiplinaarmenetluse algatamise vajadus on seotud Euroopa delegaatprokuröri poolt riigisisese prokuröri ülesannete täitmisega, teavitab riigi peaprokurör enne menetluse algatamist Euroopa peaprokuröri.\n(3) Kui distsiplinaarmenetluse algatamise vajadus on seotud Euroopa delegaatprokuröri poolt nõukogu määrusest (EL) 2017/1939 tulenevate ülesannete täitmisega, peab distsiplinaarmenetluse algatamiseks olema Euroopa peaprokuröri nõusolek, kaasa arvatud juhul, kui distsiplinaarmenetlust alustatakse pärast Euroopa delegaatprokuröri ametist vabastamist Euroopa Prokuratuuris."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "33",
+      "title": "§ 33. Distsiplinaarsüüteo eelmenetlus",
+      "content": "(1) Distsiplinaarsüüteo eelmenetluse viib läbi distsiplinaarmenetluse algataja. Valdkonna eest vastutav minister võib enda algatatud distsiplinaarmenetluses juhtiva riigiprokuröri või juhtivprokuröri suhtes teha eelmenetluse läbiviimise ülesandeks riigi peaprokurörile.\n(2) Distsiplinaarsüüteo eelmenetluse läbiviija võib koguda distsiplinaarasja lahendamiseks vajalikke tõendeid ja nõuda seletusi. Seletuse nõudmine prokurörilt, kelle suhtes distsiplinaarmenetlus algatati, on kohustuslik.\n(3) Tõendite kogumise ja seletuste nõudmise võib distsiplinaarsüüteo eelmenetluse läbiviija teha ülesandeks enda määratud prokurörile. Seda ülesannet ei saa panna prokurörile, kes on prokuröride distsiplinaarkomisjoni liige, prokurörile, kelle suhtes distsiplinaarmenetlus algatati, ega temale alluvale prokurörile."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "34",
+      "title": "§ 34. Prokuröri ametist kõrvaldamine",
+      "content": "(1) Distsiplinaarsüüteo eelmenetluse läbiviija võib distsiplinaarmenetluse ajaks kõrvaldada prokuröri ametist.\n(2) Ametist kõrvaldamine vormistatakse haldusaktiga.\n(3) Ajal kui prokurör on käesoleva paragrahvi lõike 1 alusel ametist kõrvaldatud, makstakse talle 60 protsenti tema viimase kuue kuu keskmisest ametipalgast, kuid mitte vähem, kui on töölepingu seaduse § 29 lõike 5 alusel kehtestatud töötasu alammäär. Kui prokuröri süü ei leia tõendamist määras, mis tooks kaasa teenistusest vabastamise, ning teda ei karistata distsiplinaarkorras teenistusest vabastamisega, makstakse talle maksmata jäänud ametipalk tagantjärele."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "35",
+      "title": "§ 35. Distsiplinaarsüüdistus",
+      "content": "(1) Kui distsiplinaarsüüteo eelmenetluse käigus on kogutud kõik vajalikud tõendid ja seletused, koostab distsiplinaarsüüteo eelmenetluse läbiviija või tema määratud prokurör distsiplinaarsüüdistuse.\n(2) Distsiplinaarsüüdistus on kirjalik dokument, milles märgitakse:\n1) distsiplinaarsüüteos süüdistatava prokuröri ees- ja perekonnanimi ning ametikoht;\n2) süüteo kirjeldus ja toimepanemise aeg;\n3) süüteo toimepanemist kinnitavad tõendid;\n4) distsiplinaarsüüteo eelmenetluse läbiviija ning süüdistuse koostaja nimi ja ametikoht;\n5) süüdistuse koostamise aeg ja koht.\n(3) Distsiplinaarsüüteo eelmenetluse läbiviija esitab distsiplinaarsüüdistuse distsiplinaarkomisjonile või käesoleva seaduse § 32 lõikes 3 nimetatud juhul valdkonna eest vastutavale ministrile.\n(4) Distsiplinaarsüüdistust ei või esitada ja distsiplinaarmenetlus tuleb lõpetada, kui distsiplinaarsüüteo toimepanemisest on möödunud enam kui kolm aastat."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "36",
+      "title": "§ 36. Distsiplinaarsüüteo arutamine",
+      "content": "(1) Prokuröri distsiplinaarsüütegu arutab prokuröride distsiplinaarkomisjon või käesoleva seaduse § 32 lõikes 3 nimetatud juhul valdkonna eest vastutav minister.\n(2) Kui on vaja koguda lisatõendeid, lükkab distsiplinaarsüüteo arutaja distsiplinaarsüüteo arutamise edasi, määrab kindlaks järgmise istungi aja ja koha ning teeb lisatõendite kogumise ülesandeks distsiplinaarsüüteo eelmenetluse läbiviijale või süüdistuse koostajale.\n(3) Distsiplinaarkomisjoni koosseisu kuuluvad kaks Riigiprokuratuuri prokuröri, kaks ringkonnaprokuratuuri prokuröri ja üks kohtunike täiskogu valitud kohtunik. Distsiplinaarkomisjon valitakse kolmeks aastaks. Distsiplinaarkomisjoni esimehe valib distsiplinaarkomisjon oma prokuröridest liikmete hulgast.\n(4) Distsiplinaarkomisjoni töökorra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "37",
+      "title": "§ 37. Distsiplinaarkomisjoni istungi ettevalmistamine",
+      "content": "(1) Distsiplinaarkomisjoni istungi aja ja koha määrab kindlaks distsiplinaarkomisjoni esimees või käesoleva seaduse § 32 lõikes 3 nimetatud juhul valdkonna eest vastutav minister.\n(2) Istungile kutsutakse distsiplinaarsüüteo eelmenetluse läbiviija ja süüdistuse koostaja ning distsiplinaarsüüteos süüdistatav prokurör. Kui distsiplinaarsüüteos süüdistatav on abiprokurör, kutsutakse distsiplinaarkomisjoni istungile ka abiprokuröri juhendav prokurör."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "38",
+      "title": "§ 38. Distsiplinaarsüüdistuse materjalidega tutvumise õigus",
+      "content": "(1) Distsiplinaarsüüteos süüdistatavale prokurörile antakse distsiplinaarsüüdistus kätte vähemalt kolm päeva enne distsiplinaarkomisjoni istungit.\n(2) Distsiplinaarsüüteos süüdistataval prokuröril on õigus tutvuda distsiplinaarsüüdistuse materjalidega. Abiprokuröri distsiplinaarsüüdistuse materjalidega võib tutvuda ka teda juhendav prokurör."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "39",
+      "title": "§ 39. Distsiplinaarkomisjoni istung",
+      "content": "(1) Distsiplinaarsüütegu arutab distsiplinaarkomisjon kinnisel istungil.\n(2) Distsiplinaarkomisjon on otsusevõimeline, kui istungist võtab osa vähemalt kolm distsiplinaarkomisjoni liiget, sealhulgas esimees.\n(3) Distsiplinaarkomisjoni istungit juhatab distsiplinaarkomisjoni esimees.\n(4) Distsiplinaarkomisjoni liikmena ei saa isik osaleda temale esitatud distsiplinaarsüüdistuse arutamisel."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "40",
+      "title": "§ 40. Distsiplinaarkomisjoni otsus distsiplinaarsüüteo arutamisel",
+      "content": "(1) Distsiplinaarkomisjoni otsusega tehakse valdkonna eest vastutavale ministrile või riigi peaprokurörile ettepanek määrata distsiplinaarkaristus või jätta distsiplinaarkaristus määramata või lõpetatakse distsiplinaarmenetlus, kui distsiplinaarsüütegu puudub.\n(2) Distsiplinaarkomisjon teeb otsuse istungist osavõtvate distsiplinaarkomisjoni liikmete lihthäälteenamusega. Kui hääled jagunevad võrdselt, otsustab distsiplinaarkomisjoni esimehe hääl."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "41",
+      "title": "§ 41. Valdkonna eest vastutava ministri otsus distsiplinaarsüüteo arutamisel",
+      "content": "(1) Käesoleva seaduse § 32 lõikes 3 nimetatud juhul määrab valdkonna eest vastutav minister distsiplinaarkaristuse, otsustab jätta distsiplinaarkaristuse määramata või lõpetab distsiplinaarmenetluse, kui puudub distsiplinaarsüütegu. Riigi peaprokuröri teenistusest vabastamise otsuse korral teeb valdkonna eest vastutav minister sellekohase ettepaneku Vabariigi Valitsusele ega määra ise distsiplinaarkaristust.\n(2) Valdkonna eest vastutav minister teeb otsuse ainuisikuliselt."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "42",
+      "title": "§ 42. Distsiplinaarkaristuse määramine ja vaidlustamine",
+      "content": "(1) Prokurörile distsiplinaarkaristuse määramise õigus on:\n1) Valdkonna eest vastutaval ministril Vabariigi Valitsuse või valdkonna eest vastutava ministri poolt ametisse nimetatava prokuröri suhtes;\n2) riigi peaprokuröril kõigi prokuröride suhtes prokuröride distsiplinaarkomisjoni ettepanekul.\n(2) Riigi peaprokuröril ei ole õigust määrata karistusena teenistusest vabastamist valdkonna eest vastutava ministri poolt ametisse nimetatavatele prokuröridele.\n(3) Distsiplinaarkaristuse määramine või käesoleva seaduse § 41 lõikes 2 nimetatud ettepaneku tegemine toimub ühe kuu jooksul, arvates otsuse tegemisest.\n(4) Riigi peaprokuröri teenistusest vabastamise distsiplinaarkaristusena otsustab Vabariigi Valitsus valdkonna eest vastutava ministri ettepanekul ühe kuu jooksul, olles ära kuulanud Riigikogu õiguskomisjoni arvamuse.\n(5) Distsiplinaarkaristuse määramise võib vaidlustada halduskohtus."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "43",
+      "title": "§ 43. Prokuröride konkursikomisjon",
+      "content": "(1) Prokuröride konkursikomisjon hindab isikuid, kes kandideerivad prokuröri ametikohale, kui prokuröri ametikoht täidetakse avaliku konkursi korras.\n(2) Prokuröride konkursikomisjoni koosseisu kuuluvad riigi peaprokurör, üks Riigiprokuratuuri prokurör, kaks ringkonnaprokuratuuri prokuröri, üks kohtunike täiskogu valitud kohtunik, Tartu Ülikooli õigusteaduskonna dekaani määratud õigusteadlane ja valdkonna eest vastutava ministri määratud Justiitsministeeriumi ametnik. Konkursikomisjoni liikme, välja arvatud riigi peaprokuröri ja Justiitsministeeriumi ametniku volitused kestavad kolm aastat.\n(3) Prokuröride konkursikomisjoni esimees on riigi peaprokurör.\n(4) Prokuröride konkursikomisjon on otsustusvõimeline, kui istungist võtab osa vähemalt viis komisjoni liiget, sealhulgas esimees.\n(5) Prokuröride konkursikomisjoni asjaajamist korraldab Riigiprokuratuur.\n(6) Prokuröride konkursikomisjoni liikmed ei tohi avaldada nendele seoses konkursikomisjoni tegevusega teatavaks saanud asjaolusid ja andmeid, sealhulgas mistahes isikuandmeid. Saladuse hoidmise kohustus on tähtajatu."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "44",
+      "title": "§ 44. Konkursi korraldamise nõuded",
+      "content": "Konkursi korraldamise nõuded kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para44^1",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "44^1",
+      "title": "§ 44^1. Prokuröri arengu- ja hindamisvestlus",
+      "content": "Arengu- ja hindamisvestluse peab prokuröri vahetu juht temale alluva prokuröriga avaliku teenistuse seaduses sätestatud alustel ja korras."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "45",
+      "title": "§ 45. Teenistusest vabastamine omal soovil",
+      "content": "Prokurör võidakse teenistusest vabastada omal soovil."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "47",
+      "title": "§ 47. Teenistusest vabastamine vanuse tõttu",
+      "content": "Prokuröri võib vabastada teenistusest, kui ta on saanud 65-aastaseks."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "48",
+      "title": "§ 48. Teenistusest vabastamine pankroti korral",
+      "content": "Prokurör vabastatakse teenistusest, kui on välja kuulutatud tema pankrot."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "49",
+      "title": "§ 49. Teenistusest vabastamine distsiplinaarsüüteo eest",
+      "content": "Distsiplinaarsüüteo eest vabastatakse prokurör teenistusest käesoleva seaduse 5. jaos sätestatud korras."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "50",
+      "title": "§ 50. Riigi peaprokuröri ning juhtivprokuröri ametist vabastamine ametiaja lõppemise tõttu",
+      "content": "(1) Ametiaja lõppemisel vabastab valdkonna eest vastutav minister riigi peaprokuröri või juhtivprokuröri ametist ning nimetab ta avaliku konkursita riigiprokuröriks, eriasjade prokuröriks või ringkonnaprokuröriks.\n(2) Riigi peaprokuröri ning juhtivprokuröri võib uueks ametiajaks ametisse tagasi nimetada.\n(3) Riigi peaprokuröri ning juhtivprokuröri võib käesoleva paragrahvi lõikes 1 sätestatud ametikohale nimetada või ametisse tagasi nimetada tema kirjaliku nõusoleku korral.\n(4) Kui riigi peaprokurör või juhtivprokurör ei ole nõus käesoleva paragrahvi lõikes 1 sätestatud ametikohale nimetamisega või puudub vaba ametikoht, vabastatakse ta teenistusest."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "52",
+      "title": "§ 52. Prokuröri nimetamine Riigiprokuratuuri, Justiitsministeeriumi, Riigikohtu või Euroopa Prokuratuuri koosseisus ettenähtud ametikohale",
+      "content": "(1) Riigi peaprokurör võib prokuröri tema nõusolekul nimetada Riigiprokuratuuri koosseisus ettenähtud ametikohale rahvusvahelise õigusalase koostööga seotud ülesannete täitmiseks.\n(2) Kuulanud ära riigi peaprokuröri arvamuse, võib prokuröri tema nõusolekul konkursita üle viia Riigikohtusse või nimetada konkursita Justiitsministeeriumi koosseisus ettenähtud ametikohale prokuratuuride haldamisega või rahvusvahelise õigusalase koostööga seotud ülesannete täitmiseks.\n(3) Prokuröri nimetamise korral Justiitsministeeriumi, Riigikohtu või Riigiprokuratuuri koosseisus ettenähtud ametikohale säilivad tal senisel ametikohal ettenähtud ametihüved.\n(4) Prokuröril, kes on käesoleva paragrahvi lõikes 1 või 2 nimetatud alusel töötanud Justiitsministeeriumis, Riigikohtus või Riigiprokuratuuris, on õigus ilma avaliku konkursita pöörduda tagasi senisele ametikohale, teatades sellest vähemalt üks kuu ette.\n(4^1) Prokuröri nimetamise korral Euroopa peaprokuröriks tema teenistussuhe prokuratuuris lõpeb.\n(4^2) Prokuröri nimetamise korral Euroopa prokuröriks tema teenistussuhe prokuratuuris peatub.\n(4^3) Kui Euroopa prokurörina töötanud prokurör soovib tagasi pöörduda prokuröriteenistusse või Euroopa delegaatprokurör soovib tagasi pöörduda oma senisele ametikohale, on tal õigus ilma konkursita asuda senisele ametikohale, kui ametikoht on vaba, välja arvatud juhul, kui isik on Euroopa Prokuratuuri ametist vabastatud seoses süülise teo toimepanemisega või püsiva võimetusega oma ülesandeid täita vastavalt nõukogu määruse (EL) 2017/1939 artikli 16 lõikele 5 või artikli 17 lõikele 3.\n(4^4) Tagasipöördumise soovist teatab Euroopa prokurör või Euroopa delegaatprokurör riigi peaprokurörile kirjalikult:\n1) hiljemalt üks kuu enne ametiaja korralist lõppemist Euroopa Prokuratuuris;\n2) hiljemalt üks kuu pärast ametiaja ennetähtaegset lõppemist Euroopa Prokuratuuris.\n(4^5) Käesoleva paragrahvi lõikes 4^4 nimetatud tagasipöördumise soovist tähtaegselt teatamata jätmise korral loetakse, et prokurör ei soovi samasse prokuratuuri tagasi pöörduda.\n(4^6) Kui Euroopa prokuröril või Euroopa delegaatprokuröril puudub pärast ametiaja lõppemist Euroopa Prokuratuuris võimalus tagasi pöörduda senisele ametikohale, võib riigi peaprokurör määrata isiku tema nõusolekul madalama astme prokuröriks või prokuröriks teise prokuratuuri. Kui uuel ametikohal prokurörile makstav palk on väiksem võrreldes sellega, mis ta oleks saanud, kui ta oleks tagasi pöördunud senisele ametikohale, säilitatakse talle kuue kuu jooksul kõrgem palk.\n(5) Teenistusaeg Justiitsministeeriumis, Riigikohtus, Euroopa Prokuratuuris või Riigiprokuratuuris arvatakse prokuröri senise ametikoha teenistusaja hulka."
+    },
+    {
+      "provision_ref": "para52^1",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "52^1",
+      "title": "§ 52^1. Prokuröri kaasamine sisekaitselise rakenduskõrgkooli õppetegevusse",
+      "content": "Sisekaitselise rakenduskõrgkooli õppejõuks valitud või õppejõuna tööle võetud prokuröri teenistussuhe senisel ametikohal peatub õppejõuna töötamise ajaks. Õppejõuna töötamise aeg arvatakse senise ametikoha teenistusaja hulka. Kui õppejõuna töötamise aeg lõpeb, on prokuröril õigus senisele ametikohale tagasi pöörduda."
+    },
+    {
+      "provision_ref": "para52^2",
+      "chapter": "4. peatükk - PROKURÖRITEENISTUS",
+      "section": "52^2",
+      "title": "§ 52^2. Prokuröri kaasamine rahvusvahelise organisatsiooni tegevusse ja osalemine eksperdina rahvusvahelisel tsiviilmissioonil",
+      "content": "(1) Riigi peaprokuröri nõusolekul võib prokurör töötada rahvusvahelises organisatsioonis rahvusvahelise õigusalase koostöö või õigusemõistmisega seotud töökohal ning osaleda eksperdina rahvusvahelisel tsiviilmissioonil. Prokuröri teenistussuhe senisel ametikohal peatub rahvusvahelises organisatsioonis töötamise ja rahvusvahelisel tsiviilmissioonil osalemise ajaks.\n(2) Prokuröril on õigus alates teenistussuhte peatamisest nelja aasta jooksul avaliku konkursita tagasi pöörduda senisele ametikohale.\n(3) Töötamise aeg rahvusvahelises organisatsioonis ja osalemine eksperdina rahvusvahelisel tsiviilmissioonil arvatakse prokuröri senise ametikoha teenistusaja hulka."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "53",
+      "title": "§ 53. Prokuröride ametisse nimetamine",
+      "content": "(1) Seaduse jõustumise ajal ametis olevad prokurörid nimetab valdkonna eest vastutav minister:\n1) maa- või linnaprokuröri – maakonna või linna vanemprokuröriks;\n2) maa- või linnaprokuröri asetäitja – maa- või linnaprokuröriks;\n3) maa- või linna prokuröri abi – maa- või linnaprokuröriks, kui tal on käesoleva seaduse § 15 lõikes 1 nimetatud õigusalane kõrgharidus;\n4) maa- või linna prokuröri abi – prokuröri abiks, kui ta ei vasta käesoleva lõike punktis 3 märgitud nõudele;\n5) prokurörikandidaadi – prokuröri abiks.\n(2) Käesoleva paragrahvi lõike 1 punkti 4 alusel ametisse nimetatud prokuröri abile õppeteenistust ja katseaega ei kohaldata. Käesoleva paragrahvi lõike 1 punkti 5 alusel ametisse nimetatud prokuröri abi läbib õppeteenistuse. Prokurörikandidaadina töötamise aeg arvatakse õppeteenistuse aja hulka.\n(3) Riigi peaprokuröri nimetab ametisse Vabariigi Valitsus valdkonna eest vastutava ministri ettepanekul ühe kuu jooksul käesoleva seaduse jõustumisest. Kuni riigi peaprokuröri ametisse nimetamiseni täidab tema ülesandeid käesoleva seaduse jõustumise ajal ametis olev riigiprokurör või tema kohusetäitja.\n(4) Riigiprokurörid nimetab valdkonna eest vastutav minister ametisse avaliku konkursi alusel atesteerimiskomisjoni ettepanekul ühe aasta jooksul käesoleva seaduse jõustumisest. Kuni riigiprokuröride ametisse nimetamiseni täidavad riigiprokuröride ülesandeid seaduse jõustumise ajal Riigiprokuratuuris ametis olevad prokurörid.\n(5) Kui käesoleva seaduse jõustumise ajal ametis olevat riigiprokuröri asetäitjat või Riigiprokuratuuri prokuröri ei nimetata riigi peaprokuröriks või riigiprokuröriks, viib valdkonna eest vastutav minister prokuröri tema nõusolekul avaliku konkursita üle prokuröri vabale ametikohale maa- või linnaprokuratuuris. Kui prokurör sellega ei nõustu, vabastab valdkonna eest vastutav minister ta teenistusest koondamise tõttu.\n(6) Kõik maakonna ja linna vanemprokurörid nimetab käesoleva seaduse § 17 lõikes 2 sätestatud tähtajaks ametisse valdkonna eest vastutav minister ühe aasta jooksul käesoleva seaduse jõustumisest prokuröride konkursi- ja atesteerimiskomisjoni ettepanekul. Kui käesoleva paragrahvi lõike 1 punkti 1 alusel ametisse nimetatud maakonna või linna vanemprokuröri ei nimetata maakonna või linna vanemprokuröriks, viib valdkonna eest vastutav minister prokuröri tema nõusolekul avaliku konkursita üle prokuröri vabale ametikohale maa- või linnaprokuratuuris. Kui prokurör sellega ei nõustu, vabastab valdkonna eest vastutav minister ta teenistusest koondamise tõttu.\n(7) Prokuröri vabadele ametikohtadele maa- ja linnaprokuratuuris nimetab valdkonna eest vastutav minister prokurörid avaliku konkursi alusel atesteerimiskomisjoni ettepanekul ühe aasta jooksul käesoleva seaduse jõustumisest.\n(8) Käesolevas paragrahvis sätestatud ametisse nimetamisele ei kohaldata käesoleva seaduse § 15 lõikeid 3–5.\n(9) Käesoleva paragrahvi alusel ametisse nimetatud prokuröri teenistusaeg ametisse nimetamisele eelneval prokuröri ametikohal arvatakse uue ametikoha teenistusaja hulka käesoleva seaduse § 15 tähenduses."
+    },
+    {
+      "provision_ref": "para53^1",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "53^1",
+      "title": "§ 53^1. Maakonna või linna vanemprokuröri ning maa- või linnaprokuröri ametisse nimetamine",
+      "content": "(1) Riigi peaprokurör nimetab enne 2004. aasta 1. märtsi ametisse nimetatud maakonna või linna vanemprokuröri senise ametiaja lõppemisel vanemprokuröriks, eriasjade prokuröriks või ringkonnaprokuröriks.\n(2) Riigi peaprokurör nimetab enne 2004. aasta 1. märtsi ametisse nimetatud maa- või linnaprokuröri ringkonnaprokuröriks."
+    },
+    {
+      "provision_ref": "para53^3",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "53^3",
+      "title": "§ 53^3. Abiprokuröri ametisse nimetamise erisused",
+      "content": "Enne 2015. aasta 1. aprilli ametisse nimetatud prokuröri abi nimetab riigi peaprokurör abiprokuröriks, kui isik vastas tema ametisse nimetamise ajal prokuröri abile kehtestatud nõuetele."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "54",
+      "title": "§ 54. Riigiprokuratuuri prokuröri ametipalk",
+      "content": "(1) Käesoleva seaduse § 53 lõike 3 teises lauses märgitud riigiprokurör või tema kohusetäitja saab riigi peaprokuröri ülesannete täitmise ajal riigi peaprokuröri ametipalka.\n(2) Käesoleva seaduse § 53 lõike 4 teises lauses märgitud riigiprokuröri asetäitja saab riigiprokuröri ülesannete täitmise ajal Riigiprokuratuuri osakonda juhtiva prokuröri ametipalka.\n(3) Käesoleva seaduse § 53 lõike 4 teises lauses märgitud Riigiprokuratuuri prokuröri ametipalk riigiprokuröri ülesannete täitmise ajal on käesoleva seaduse § 22 lõikes 1 märgitud palgamäära ja 1,15 korrutis."
+    },
+    {
+      "provision_ref": "para54^1",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "54^1",
+      "title": "§ 54^1. Palgavahe hüvitamine",
+      "content": "(1) Kui alates 2004. aasta 1. märtsist prokuratuuris kehtestatud palgatingimuste alusel prokuröri põhipalk koos individuaalse lisatasuga osutub madalamaks tema senisest ametipalgast koos lisatasudega teenistusaastate, akadeemilise kraadi, võõrkeelte valdamise ning riigisaladuse ja salastatud teabekandjate töötlemise eest, hüvitatakse prokurörile tekkinud vahe juurdemaksega ühe aasta jooksul, alates prokuratuuri üleminekust uutele palgatingimustele.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud juurdemakseid tehakse juhul, kui prokuröri ei viida tema nõusolekul üle teistsuguse keerukusastmega ametikohale."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "55",
+      "title": "§ 55. Esimese prokuröride üldkogu kokkukutsumine",
+      "content": "(1) Esimese prokuröride üldkogu kutsub kokku riigi peaprokurör ühe kuu jooksul ametisse nimetamisest.\n(2) Esimene prokuröride üldkogu valib prokuröridest konkursikomisjoni ning distsiplinaarkomisjoni liikmed.\n(3) Kuni kohtunike esinduskogu ei ole distsiplinaarkomisjoni ega prokuröride konkursikomisjoni kohtunikust liiget valinud, teeb seda Kohtunike Ühingu juhatus.\n(4) Distsiplinaarkomisjoni ning prokuröride konkursikomisjoni riigiprokurörist liige valitakse pärast riigiprokuröride ametisse nimetamist."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "57",
+      "title": "§ 57. Käesoleva seaduse § 15 lõike 1 kohaldamise erisused",
+      "content": "Isiku, kes on saanud akadeemilise kõrghariduse õigusteaduses eraõiguslikus ülikoolis, võib nimetada prokuröriks, kui ta on omandanud kõrghariduse akrediteeritud õppekava alusel."
+    },
+    {
+      "provision_ref": "para57^1",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "57^1",
+      "title": "§ 57^1. Käesoleva seaduse § 17 lõike 2 kohaldamise erisused",
+      "content": "(1) Kahe aasta jooksul pärast 2004. aasta 1. märtsi nimetatakse vanemprokurörid ametisse kolmeks aastaks.\n(2) Riigi peaprokurör nimetab käesoleva paragrahvi lõikes 1 sätestatud korras ametisse nimetatud vanemprokuröri tema ametiaja lõppemisel vanemprokuröriks, ringkonnaprokuröriks või eriasjade prokuröriks."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "58",
+      "title": "§ 58. Käesoleva seaduse § 22 kohaldamise erisused",
+      "content": "(1) Käesoleva seaduse jõustumisest kümne aasta jooksul võib Vabariigi Valitsus mõnes piirkonnas töötavate prokuröride ametipalka suurendada kuni neljandiku võrra.\n(2) 2009. aasta 1. märtsist kuni 2010. aasta 31. detsembrini võib määrata prokuröri ametipalga lühemaks ajavahemikuks kui üks aasta, seejuures võib kehtestada eelmisest perioodist madalama ametipalga."
+    },
+    {
+      "provision_ref": "para58^1",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "58^1",
+      "title": "§ 58^1. Käesoleva seaduse § 22^1 lõike 2 kohaldamise erisused",
+      "content": "Prokuröri abile säilitatakse 42-kalendripäevane ja muule prokurörile 49-kalendripäevane põhipuhkus kaheks aastaks alates 2013. aasta 1. aprillist juhul, kui nad on 2013. aasta 1. aprilli seisuga kas prokuröri abina või muu prokurörina teenistuses."
+    },
+    {
+      "provision_ref": "para59^2",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "59^2",
+      "title": "§ 59^2. Käesoleva seaduse § 52 kohaldamise erisused",
+      "content": "Esimesel Eestist nimetatud Euroopa delegaatprokuröril on õigus kolme aasta jooksul alates ametisse nimetamisest ilma avaliku konkursita pöörduda tagasi oma senisele ametikohale."
+    },
+    {
+      "provision_ref": "para60^1",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "60^1",
+      "title": "§ 60^1. Prokuröri töövõimehüvitis",
+      "content": "(1) Prokurörile, kellele 2021. aasta 1. juuli seisuga makstakse töövõimehüvitist, jätkatakse selle maksmist töövõimet hindamata.\n(2) Prokuröri töövõimehüvitis indekseeritakse iga aasta 1. aprilliks riikliku pensionikindlustuse seaduse § 26 alusel Vabariigi Valitsuse määrusega kinnitatud pensioniindeksiga.\n(3) Prokuröril on õigus valida, kas talle makstakse käesoleva seaduse alusel töövõimehüvitist või töövõimetoetuse seaduse alusel töövõimetoetust.\n(4) Prokuröri töövõimehüvitis makstakse riigieelarvest.\n(5) Prokuröri töövõimehüvitisele kohaldatakse riikliku pensionikindlustuse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para60^2",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "60^2",
+      "title": "§ 60^2. Õigus prokuröri töövõimetuspensionile",
+      "content": "(1) Prokuröril, kellel on tuvastatud püsiv töövõime kaotus riikliku pensionikindlustuse seaduse alusel enne 2016. aasta 1. juulit, on õigus taotleda töövõimetuspensioni, mis määratakse kuni 2016. aasta 1. juulini kehtinud käesoleva seaduse § 26 redaktsiooni alusel.\n(2) Prokurörile, kes saab töövõimetuspensioni kuni 2016. aasta 1. juulini kehtinud prokuratuuriseaduse § 26 redaktsiooni alusel, jätkatakse pärast püsiva töövõimetuse ekspertiisiga tuvastatud püsiva töövõimetuse kestuse lõppemist töövõimetuspensioni maksmist endises suuruses töövõimet hindamata.\n(3) Kui prokuröri töövõimetuspensioni saav isik jõuab riikliku pensionikindlustuse seaduse §-s 7 sätestatud vanaduspensioniikka, jätkatakse talle tema soovi korral vanaduspensioni maksmist senise töövõimetuspensioni suuruses.\n(4) Prokuröri töövõimetuspension ja prokuröri vanaduspension töövõimetuspensioni suuruses, välja arvatud jooksva aasta palgamäära alusel arvutatud pension, indekseeritakse iga aasta 1. aprilliks riikliku pensionikindlustuse seaduse § 26 alusel Vabariigi Valitsuse määrusega kinnitatud pensioniindeksiga.\n(5) Prokuröri töövõimetuspension makstakse riigieelarvest.\n(6) Prokuröri töövõimetuspensionile kohaldatakse riikliku pensionikindlustuse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para60^3",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "60^3",
+      "title": "§ 60^3. Õigus prokuröri vanaduspensionile",
+      "content": "(1) Õigus prokuröri vanaduspensionile on riikliku pensionikindlustuse seaduse §-s 7 sätestatud vanaduspensionieas oleval isikul, kes:\n1) töötas prokurörina prokuratuuriseaduse jõustumise ajal või pärast seaduse jõustumist ja on 2020. aasta 1. jaanuariks töötanud prokurörina vähemalt 25 aastat;\n2) töötas prokurörina prokuratuuriseaduse jõustumise ajal või pärast seaduse jõustumist ja on 2020. aasta 1. jaanuariks töötanud prokurörina vähemalt 15 aastat ning enne seda kohtunikuna või politseiametnikuna vähemalt kümme aastat;\n3) on 2019. aasta 31. detsembril ametis prokurörina ja kellel vanaduspensioniea saabumise ajaks täitub või on täitunud käesoleva lõike punktis 1 või 2 sätestatud prokuröri vanaduspensioni saamiseks vajalik staaž.\n(2) Prokurörina töötamise aja hulka arvatakse ka prokuratuuri uurijana töötamise aeg.\n(3) Prokuröri vanaduspensioni suurus on 65 protsenti tema viimasele ametikohale vastavast või teenistuse viie viimase aasta ametikohtade hulgast, millel ta teenis vähemalt 12 kuud järjest, valitud talle soodsaimast kõrgemate riigiteenijate ametipalkade seadusega või käesoleva seaduse § 22 alusel kehtestatud ametipalgast, arvestamata eripiirkonnas töötamisest tulenevat ametipalga suurendust. Pensioni arvutamisel võetakse aluseks ametipalk suuruses, mis kehtis prokuröri prokuröriteenistusest vabastamise päeval. Soodsaima ametipalga valimisel võetakse arvutamise aluseks ametipalk, mis kehtis prokuröri üleviimise päeval.\n(3^1) Ajavahemikul 2024. aasta 1. aprillist kuni 2028. aasta 31. märtsini võetakse prokuröri vanaduspensioni suuruse arvutamisel aluseks selline käesoleva seaduse § 22 lõigetes 1 ja 2 nimetatud ametipalk, mida prokurör oleks saanud, kui riigi peaprokuröri ametipalka oleks indekseeritud kõrgemate riigiteenijate ametipalkade seaduse § 1 lõike 2 kohaselt.\n(4) Prokuröri vanaduspension, välja arvatud jooksva aasta palga alusel arvutatud pension, indekseeritakse iga aasta 1. aprilliks kõrgemate riigiteenijate ametipalkade seaduse §-s 2^1 nimetatud kõrgeima palgamäära indeksiga.\n(5) Prokuröri vanaduspensioni see osa, mis ületab riikliku pensionikindlustuse seaduse alusel arvutatava vanaduspensioni, makstakse riigieelarvest.\n(6) Prokuröri vanaduspensioni ei maksta prokurörina töötamise ajal. Kui pensionile läinud prokurör teeb muud tööd, makstakse talle prokuröri vanaduspensioni täies ulatuses sõltumata töötasu suurusest.\n(7) Prokuröri vanaduspensionile kohaldatakse riikliku pensionikindlustuse seadust, kui käesolev seadus ei sätesta teisiti.\n(8) Prokuröri vanaduspensioni ei määrata ega maksta isikule, kes on teenistusest vabastatud tahtlikult toimepandud kuriteo eest süüdimõistva kohtuotsuse jõustumise tõttu.\n(9) Isik, kes on süüdi mõistetud karistusseadustiku 15. peatükis või 17. peatüki 2. jaos sätestatud süüteo eest, mille eest karistusseadustik näeb ette vähemalt kuni viieaastase vangistuse, ja kelle suhtes jõustus süüdimõistev kohtuotsus pärast 2009. aasta 10. märtsi, kaotab õiguse käesolevas paragrahvis sätestatud prokuröri vanaduspensionile.\n(10) Kui isikule maksti käesolevas paragrahvis sätestatud prokuröri vanaduspensioni, lõpetatakse pensioni maksmine kohtuotsuse jõustumise kuule järgnevast kuust. Käesolevas paragrahvis sätestatud prokuröri vanaduspensionile õiguse kadumise korral säilib isikul õigus taotleda pensioni riikliku pensionikindlustuse seaduse alusel.\n(11) Kohus on kohustatud kümne tööpäeva jooksul kohtuotsuse jõustumisest arvates kirjalikult teatama Sotsiaalkindlustusametile asjaolust, millega seoses kaob isikul õigus käesolevas paragrahvis sätestatud prokuröri vanaduspensionile."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "61",
+      "title": "§ 61. Süümevanne",
+      "content": "Kuni 2000. aasta 31. detsembrini annab prokuröri ametit taotlev isik, kes seni ei ole vannet andnud, kirjaliku süümevande."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "62",
+      "title": "§ 62.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "66",
+      "title": "§ 66.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "67",
+      "title": "§ 67. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub Riigi Teatajas avaldamisele järgneval päeval.\n(2)\n(3) Maa- ja linnaprokuratuuride prokurörid alustavad nende ülesannete täitmist, mida enne seaduse jõustumist täitsid Riigiprokuratuuris ametis olevad prokurörid, ühe aasta jooksul, arvates seaduse jõustumisest."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-225022017001",
+  "type": "statute",
+  "title": "Eesti Vabariigi ja India Vabariigi kohtulikult karistatud isikute üleandmise kokkuleppe ratifitseerimise seadus",
+  "title_en": "Eesti Vabariigi ja India Vabariigi kohtulikult karistatud isikute üleandmise kokkuleppe ratifitseerimise seadus",
+  "short_name": "ee-law-225022017001",
+  "status": "in_force",
+  "issued_date": "2017-02-22",
+  "in_force_date": "2017-02-26",
+  "url": "https://www.riigiteataja.ee/akt/225022017001.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi ja India Vabariigi kohtulikult karistatud isikute üleandmise kokkuleppe ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud Eesti Vabariigi ja India Vabariigi kohtulikult karistatud isikute üleandmise kokkulepe, mis on alla kirjutatud 2016. aasta 15. novembril New Delhis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Käesolev seadus jõustub Riigi Teatajas avaldamisele järgneval päeval."
+    }
+  ],
+  "definitions": []
+}

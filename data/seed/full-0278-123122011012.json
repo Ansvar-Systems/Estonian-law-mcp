@@ -1,0 +1,45 @@
+{
+  "id": "ee-law-123122011012",
+  "type": "statute",
+  "title": "Eesti Vabariigi poolt rahvusvaheliste organisatsioonide liikmeks olemisega seotud varaliste kohustuste võtmise ja täitmise seadus",
+  "title_en": "Eesti Vabariigi poolt rahvusvaheliste organisatsioonide liikmeks olemisega seotud varaliste kohustuste võtmise ja täitmise seadus",
+  "short_name": "ROLVKS",
+  "status": "in_force",
+  "issued_date": "2002-01-23",
+  "in_force_date": "2011-12-24",
+  "url": "https://www.riigiteataja.ee/akt/123122011012.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi poolt rahvusvaheliste organisatsioonide liikmeks olemisega seotud varaliste kohustuste võtmise ja täitmise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "Käesolevas seaduses sätestatakse Eesti Vabariigi poolt Rahvusvahelise Rekonstrueerimis- ja Arengupangaga ja selle juurde kuuluvate organisatsioonidega ning Euroopa Nõukogu Arengupangaga (kõik edaspidi rahvusvaheline organisatsioon ) ühinemisel võetud kohustuste täitmisega seotud täiendavate varaliste kohustuste, nagu võlakirja emiteerimine ja tagasiostmine, võtmise ja täitmise alused ja kord."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Kohustuste liigid",
+      "content": "(1) Osaluse eest rahvusvahelises organisatsioonis tasub Eesti Vabariik kas rahas või võlakirja emiteerimise teel.\n(2) Kui valuuta, milles Eesti Vabariik on teinud makse või emiteerinud võlakirja, nõrgeneb valuuta suhtes, milles rahvusvaheline organisatsioon peab Eesti Vabariigi osaluse üle arvestust, tuleb osaluse suuruse säilitamiseks teostada juurdemakse vastavalt rahvusvahelise organisatsiooni poolt esitatud nõudele vajaliku summa tasumisega rahvusvahelise organisatsiooni kontole või võlakirja emiteerimisega."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Võlakirja emiteerimine",
+      "content": "(1) Eesti Vabariigi poolt käesoleva seaduse §-s 2 nimetatud võlakirja emiteerimise otsuse teeb Vabariigi Valitsus.\n(2) Võlakiri emiteeritakse järgmistel tingimustel:\n1) võlakirja nimiväärtus võrdub summaga, mille ulatuses rahvusvaheline organisatsioon esitab Eesti Vabariigile tasumise nõude;\n2) võlakiri on intressita;\n3) võlakirja võõrandamine ei ole lubatud;\n4) võlakirja tagasiostmine toimub rahvusvahelise organisatsiooni esimesel nõudmisel.\n(3) Võlakirja emiteerimisega seotud toiminguid korraldab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4. Võlakirja tagasiostmine",
+      "content": "(1) Eesti Vabariigi poolt rahvusvahelisele organisatsioonile emiteeritud võlakirja tagasiostmine toimub rahvusvahelise organisatsiooni poolt esitatud ajakava või nõudekirja alusel.\n(2) Võlakirja tagasiostmise korraldab Vabariigi Valitsus.\n(3) Vabariigi Valitsusel on õigus Riigikogu nõusolekuta võtta võlakirja tagasiostmiseks lühiajalist laenu kuni 5 protsendi ulatuses Riigikogu poolt jooksvaks eelarveaastaks kinnitatud riigieelarve tuludest."
+    },
+    {
+      "provision_ref": "para5",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    }
+  ],
+  "definitions": []
+}

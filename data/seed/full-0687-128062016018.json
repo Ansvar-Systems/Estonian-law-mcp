@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-128062016018",
+  "type": "statute",
+  "title": "Kiirgusseadus",
+  "title_en": "Kiirgusseadus",
+  "short_name": "ee-law-128062016018",
+  "status": "in_force",
+  "issued_date": "2004-03-24",
+  "in_force_date": "2016-11-01",
+  "url": "https://www.riigiteataja.ee/akt/128062016018.xml",
+  "description": "Official consolidated statute text (Kiirgusseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

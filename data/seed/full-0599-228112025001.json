@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-228112025001",
+  "type": "statute",
+  "title": "Isikuid sunniviisilise kadumise eest kaitsva rahvusvahelise konventsiooniga ühinemise seadus",
+  "title_en": "Isikuid sunniviisilise kadumise eest kaitsva rahvusvahelise konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-228112025001",
+  "status": "in_force",
+  "issued_date": "2025-11-19",
+  "in_force_date": "2025-12-08",
+  "url": "https://www.riigiteataja.ee/akt/228112025001.xml",
+  "description": "Official consolidated statute text (Isikuid sunniviisilise kadumise eest kaitsva rahvusvahelise konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Preambul",
+      "content": "Ühineda juurdelisatud isikuid sunniviisilise kadumise eest kaitsva rahvusvahelise konventsiooniga, mis on vastu võetud 2006. aasta 20. detsembril New Yorgis."
+    }
+  ],
+  "definitions": []
+}

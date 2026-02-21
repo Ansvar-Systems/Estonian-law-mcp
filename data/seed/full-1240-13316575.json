@@ -1,0 +1,309 @@
+{
+  "id": "ee-law-13316575",
+  "type": "statute",
+  "title": "Saastuse kompleksse vältimise ja kontrollimise seadus",
+  "title_en": "Saastuse kompleksse vältimise ja kontrollimise seadus",
+  "short_name": "ee-law-13316575",
+  "status": "in_force",
+  "issued_date": "2001-10-10",
+  "in_force_date": "2011-01-01",
+  "url": "https://www.riigiteataja.ee/akt/13316575.xml",
+  "description": "Official consolidated statute text (Saastuse kompleksse vältimise ja kontrollimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus määratleb keskkonnaohuga tegevuse ja sätestab sellest tegevusest tuleneva saastuse kompleksse vältimise ja kontrollimise alused, et ära hoida inimtegevusest tulenevat kahjulikku mõju keskkonnale või seda vähendada.\n(2) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi. Keskkonnakompleksloa andmise menetlusele kohaldatakse avatud menetluse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Saastus ja heide",
+      "content": "(1) Saastus on ainete, vibratsiooni, soojuse või müra inimtegevusest põhjustatud otsene või kaudne väljutamine õhku, vette või pinnasesse nii, et see võib ohustada inimeste tervist või keskkonda, põhjustada varalist kahju või kahjustada või häirida keskkonna puhkeotstarbelist või muud õiguspärast kasutamist.\n(2) Heide on ainete, vibratsiooni, soojuse või müra otsene või kaudne väljutamine käitise saasteallikast õhku, vette või pinnasesse."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Käitis ja käitaja",
+      "content": "(1) Käitis käesoleva seaduse tähenduses on paikne tehniline üksus, milles tootmine toimub keskkonnakompleksluba vajavas tegevusvaldkonnas ning tegevuskohas tootmisega otseselt liituvas ja tehnilist seost omavas muus tegevusvaldkonnas, mis võib mõjutada heite ja saastuse hulka.\n(2) Käitaja käesoleva seaduse tähenduses on isik, kes käitab või valdab käitist."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Parim võimalik tehnika",
+      "content": "(1) Parim võimalik tehnika peab vastama tegevusala ja selles rakendatavate töömeetodite tõhusaimale ja arenenumale astmele. Seda võib põhimõtteliselt pidada sobivaks heite piirväärtuse aluse määramiseks, et vältida või, kui see pole võimalik, vähendada heidet ja selle mõju kogu keskkonnale.\n(2) Parima võimaliku tehnika mõistes tähendab:\n1) tehnika - käitises kasutatavat tehnoloogiat ja käitise kavandamise, ehitamise, hooldamise, käitamise, tegevuse lõpetamise ning käitise sulgemise viisi;\n2) võimalik tehnika – käitajale mõistlikul viisil kättesaadavat nüüdisaegset tehnikat, mille kasutamine on kulusid ja eeliseid arvesse võttes majanduslikult ja tehniliselt vastuvõetav ning tagab keskkonnanõuete parima täitmise;\n3) parim - tõhusaimat kogu keskkonna kaitsmiseks."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Heite piirväärtus",
+      "content": "Heite piirväärtus on heidet iseloomustava näitaja suhtes väljendatud heite mass, kontsentratsioon või tase, mida kindlaksmääratud ajavahemikus või ajavahemikes ei tohi ületada või mille piiresse tuleb jääda."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "6",
+      "title": "§ 6. Keskkonnakompleksluba",
+      "content": "(1) Keskkonnakompleksluba (edaspidi kompleksluba ) on dokument, mis annab õiguse kasutada käitist või selle osa viisil, mis tagab käesoleva seaduse alusel määratud tegevusvaldkonnas või allvaldkondades toimuva tegevuse võimalikult vähese kahjuliku mõju keskkonnale. Kompleksloaga sätestatavad nõuded peavad tagama vee, õhu ja pinnase kaitse ning käitises tekkinud jäätmete käitlemise viisil, mis hoiab ära saastuse kandumise ühest keskkonnaelemendist (vesi, õhk, pinnas) teise.\n(2) Kompleksloa võib anda ühe või mitme samas kohas paikneva sama käitaja käitise või käitiseosa kohta."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "7",
+      "title": "§ 7. Kompleksloa kohustuslikkus",
+      "content": "(1) Käitaja ei tohi ilma kompleksloata tegutseda tegevusvaldkonnas, kus käesoleva seaduse järgi on vaja kompleksluba.\n(2) Kui vähemalt ühes kompleksluba nõudvas käitise tegevusvaldkonnas ületab tegevus käesoleva paragrahvi lõike 4 alusel kehtestatud künnisvõimsuse, on kompleksluba vaja käitise kui terviku tegutsemiseks. Sel juhul asendab kompleksluba veeseaduse, jäätmeseaduse ja välisõhu kaitse seaduse kohased load.\n(3) Kompleksluba on vaja tegutsemiseks järgmistes tegevusvaldkondades:\n1) elektri, soojuse, kütuse ja koksi tootmine;\n2) vedel- ja gaasilise kütuse rafineerimine ning tahke kütuse utmine;\n3) metallide tootmine ja töötlemine;\n4) mineraalsete materjalide töötlemine;\n5) keemiatööstus;\n6) jäätmekäitlus;\n7) tselluloosi-, paberi- ja tekstiilitööstus ning nahaparkimine;\n8) toiduainetööstus;\n9) sea-, veise- ja linnukasvatus;\n10) pinnatöötlus või -viimistlus orgaaniliste lahustite abil;\n11) vineeri ja puitkiudplaatide tootmine;\n12) grafiidi (tempersöe) ja elektrografiidi tootmine põletamise või grafiidistamise teel;\n13) loomakorjuste ja loomsete jäätmete kõrvaldamine või taaskasutamine.\n(4) Alltegevusvaldkonnad ja künnisvõimsused käesoleva paragrahvi lõikes 3 nimetatud tegevusvaldkondade raames kehtestab Vabariigi Valitsus määrusega. Käitajatelt, kelle tegevus jääb neist alltegevusvaldkondadest välja või ei ületa künnisvõimsust, kompleksluba ei nõuta.\n(5) Kui käitaja tegutseb samas käitises või samas tegevuskohas mitmes käesoleva paragrahvi lõikes 3 nimetatud tegevusvaldkonnas, tuleb kompleksloa kohustuslikkuse üle otsustades käitise samaliigiliste tegevuste tootmisvõimsused, -mahud või toodetavad kogused liita.\n(6) Käitaja taotluse alusel tohib kompleksluba anda ka käitisele, mille jaoks ei ole käesoleva seaduse järgi kompleksluba vaja.\n(7) Kompleksluba ei nõuta teadustööd tegevalt või uusi tooteid või tehnoloogilisi protsesse väljatöötavalt või katsetavalt käitajalt, kelle tegevuse mastaap on nii väike, et ei mõjuta keskkonda oluliselt."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "8",
+      "title": "§ 8. Kompleksloa andja",
+      "content": "Kompleksloa annab Keskkonnaamet (edaspidi loa andja )."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "9",
+      "title": "§ 9. Kompleksloa taotlus",
+      "content": "(1) Kuupäeva ja taotleja allkirjaga kompleksloa taotlus esitatakse loa andjale. Taotluses märgitakse taotlejale otsuse kättetoimetamise viis (liht- või tähtkirjaga). Taotluse lisades peavad olema andmed, mis on loetletud käesoleva seaduse § 17 lõike 1 punktides 1–20.\n(2) Kompleksloa taotleja peab enne taotluse esitamist tasuma riigilõivu.\n(3) Kompleksloa taotlusele lisatakse:\n1) keskkonnamõju hindamise aruanne, kui käitise tegevust on eelnevalt hinnatud keskkonnamõju hindamise ja keskkonnajuhtimissüsteemi seaduses sätestatud juhtudel ning korras;\n2) ohtliku ja suurõnnetuse ohuga ettevõtte korral kemikaaliseaduse § 11 lõike 4 alusel koostatud teabeleht, ohutusaruanne ja ettevõtte hädaolukorra lahendamise plaan.\n(4) Kompleksloa taotluse lisade vormid ja nende täitmise juhise kehtestab keskkonnaminister määrusega.\n(5) Keskkonnaminister võib määrusega kehtestada mõnes valdkonnas kompleksloa taotlustele lisanõudeid."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "10",
+      "title": "§ 10. Kompleksloa taotluse esitamine",
+      "content": "Kompleksloa taotlus esitatakse loa andjale digitaalselt formaadis, mis on töödeldav, või paberil kolmes eksemplaris, millest pärast menetlemise lõppemist jääb üks loa andjale ja teine tagastatakse taotlejale. Loa andja esitab kompleksloa taotluse pärast selle nõuetele vastavuse kindlakstegemist käitise asukoha järgsele linna- või vallavalitsusele."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "11",
+      "title": "§ 11. Kompleksloa taotluse menetlusse võtmine",
+      "content": "(1) Loa andja registreerib kompleksloa taotluse kohe pärast selle saamist.\n(2) Loa andja kontrollib kompleksloa taotluse nõuetekohasust selle saamisest alates 21 kalendripäeva jooksul.\n(3) Kui kompleksloa taotlus ei sisalda kõiki käesoleva seadusega ja selle alusel kehtestatud õigusaktidega nõutud andmeid, tagastab loa andja taotluse, osutades kirjalikult taotluses esinenud puudustele, ning määrab puuduste kõrvaldamiseks tähtaja. Tähtaega määrates peab loa andja arvestama taotluse puuduste laadi ja andmete kättesaadavust.\n(4) Kui kompleksloa taotluses puudusi ei ole, võtab loa andja selle läbivaatamiseks vastu ja teatab sellest taotlejale. Kui taotleja ei ole 21 kalendripäeva jooksul saanud teadet taotluse vastavusest nõuetele või selle tagastamisest, on taotlus nõuetekohaselt esitatud."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "12",
+      "title": "§ 12. Kohaliku omavalitsuse kohustused kompleksloa taotluse menetluses",
+      "content": "Käitise asukoha järgne valla- või linnavalitsus esitab kuu aja jooksul pärast kompleksloa taotluse saamist loa andjale kirjalikult oma seisukoha."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "13",
+      "title": "§ 13. Piiriülese mõjuga tootmiseks kompleksloa taotlemine",
+      "content": "Kui käitise tegevus võib oluliselt kahjustada teise riigi keskkonda või kui kompleksloa olemasolu nõuab riik, kes leiab, et tootmine võib tema keskkonda oluliselt mõjutada, peab loa andja tagama kompleksloa taotluse edastamise Eesti Vabariigis jõustunud rahvusvahelistes lepingutes sätestatud viisil asjaomase riigi pädevale asutusele ja avalikkusele, et kaasata see kompleksloa andmise menetlusse."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "14",
+      "title": "§ 14. Kompleksloa taotluse läbivaatamine",
+      "content": "(1) Loa andja otsustab kompleksloa andmise 120 kalendripäeva jooksul, alates taotluse menetlusse võtmisest.\n(2) Kui otsuse tegemiseks kulub kauem aega põhjusel, et kompleksluba taotletakse suure või tehniliselt keeruka käitise jaoks, võib loa andja käesoleva paragrahvi lõikes 1 nimetatud tähtaega pikendada, kuid mitte rohkem kui ühe aasta võrra taotluse menetlusse võtmisest arvates. Tähtaja pikendamine, selle põhjus ja otsuse tegemise kavandatav tähtaeg tehakse kompleksloa taotlejale teatavaks.\n(3) Kui kompleksloa taotlust menetledes ilmneb lisateabe vajadus, teatab loa andja sellest taotlejale ja teeb ettepaneku teabe esitamiseks. Lisateabe esitamise kulud kannab taotleja.\n(4) Taotluse menetlemise aeg pikeneb lisateabe esitamiseks kuluva aja võrra.\n(5) Kompleksloa eelnõu või kompleksloa andmisest keeldumise otsuse eelnõu esitatakse kompleksloa taotlejale seisukohavõtuks. Taotleja võib esitada oma seisukoha eelnõu saamisest alates 14 kalendripäeva jooksul."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "15",
+      "title": "§ 15. Kompleksloa andmine",
+      "content": "(1) Kompleksloa andmist otsustades tuleb arvestada kompleksloa taotluse aluseks oleva tegevuse laadi ja käitise geograafilist asukohta ning saastuse vältimise põhimõtteid. Otsus peab põhinema:\n1) taotluses esitatud teabel;\n2) loa taotluse menetlemisel kogutud andmetel;\n3) keskkonnamõju hindamisega saadud teabel;\n4) taotluse avalikustamise käigus saadud teabel ja seisukohtadel;\n5) õigusaktides sätestatud nõuetel;\n6) parima võimaliku tehnika kasutamise nõuetel.\n(2) Kompleksluba vormistatakse kahes eksemplaris, millest üks jääb loa andjale ja teine käitajale."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "16",
+      "title": "§ 16. Kompleksloa andmisest keeldumise alused",
+      "content": "(1) Loa andja keeldub kompleksloa andmisest, kui:\n1) tegevus konkreetses tegevusvaldkonnas või alltegevusvaldkonnas, milleks kompleksluba taotletakse, ei vasta õigusaktides sätestatud nõuetele;\n2) kompleksloa taotluses esitatud andmete põhjal võib järeldada, et tegevus, mille jaoks kompleksluba taotletakse, ei võimalda täita keskkonnanormatiive;\n3) kompleksloa taotluses on esitatud valeandmed.\n(2)"
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "17",
+      "title": "§ 17. Kompleksloa sisu ja nõuded",
+      "content": "(1) Kompleksluba sisaldab järgmisi andmeid:\n1) käitaja ärinimi, registrikood, asukoht, aadress ja kontaktandmed või nimi, isikukood, elukoht, aadress ja kontaktandmed;\n2) käitise nimetus, aadress, kontaktandmed ja koordinaadid;\n3) käitise põhitegevusala ja kompleksloa taotlemist vajava alltegevusvaldkonna nimetus ja kirjeldus, sealhulgas käitise tööaeg, aastane tootmismaht ja ülesseatud tootmisvõimsus;\n4) käitise asukoha kirjeldus;\n5) uue käitise ehitamise või olemasoleva käitise rekonstrueerimise kavandamise erisused, sealhulgas tööde kavandatav algus- ja lõpptähtaeg;\n6) käitises kasutatavate seadmete ja tehnoloogia vastavus parimale võimalikule tehnikale ning saasteheite vältimise või vähendamise meetmed ja tehnika. Kui parimat võimalikku tehnikat taotluse esitamise ajal ei rakendata, tuleb tegevuskavas märkida, kuidas ja millal seda tehakse;\n7) toorme, abimaterjalide, pooltoodete ja kemikaalide, sealhulgas puhastusainete kasutamise maht ja säilitamise tingimused ning säästliku kasutamise või taaskasutamise meetmed;\n8) vee kasutamise maht ja säästliku kasutamise või taaskasutamise meetmed;\n9) pinna-, põhjavee ja pinnase kaitsemeetmed;\n10) käitise heiteallikad, heite vältimiseks või vähendamiseks kavandatav tehnika, heite piirväärtused või nendega võrdväärsed parameetrid või tehnilised meetmed ilma konkreetse seadme või tehnoloogia kasutamise nõuet kehtestamata;\n11) välisõhusaaste vältimise või vähendamise meetmed;\n12) reovee tekke vähendamise meetmed;\n13) jäätmete teke käitises, jäätmete liigid ja kogused ning jäätmetekke vältimiseks, vähendamiseks nii palju kui võimalik või jäätmete taaskasutamiseks ja kõrvaldamiseks kavandatavad meetmed;\n14) kasutatava või toodetava energia ning kasutatava kütuse liik ja kogus ning nende ressursside kasutamise vähendamise, tõhusa kasutamise või taaskasutamise meetmed;\n15) välisõhus leviva lõhna, müra ja vibratsiooni allikad, tase ja mõju ning vältimise või vähendamise meetmed;\n16) käitise omaseire kirjeldus, mis sisaldab andmeid käitise juhtimissüsteemi, heite ja saastuse omaseire, seadmete hoolduse ja kontrolli kohta ning käitise omaseire tõhustamise meetmeid;\n17) õnnetuste vältimise süsteemi kirjeldus, kui käitaja ei ole kohustatud sellealast teavet lisama käesoleva seaduse § 9 lõike 3 punkti 2 alusel;\n18) puhastustöödel, tootmis- või puhastusseadmete rikete korral, tehnoloogiaseadmete töö alustamisel ja lõpetamisel rakendatavad meetmed;\n19) käitise või selle osa sulgemise korral keskkonnamõju vältimise või vähendamise meetmed ja järelhoolde abinõud;\n20) kaug- ja piiriülese saastuse minimeerimise meetmed;\n21) kompleksloa nõuete ajutised erandid;\n22) kompleksloa andmise otsustamise ajal esitatud kirjalike ettepanekute ja seisukohtade arvestamine ning otsuse põhjendus;\n23) loa andjale käitise andmete esitamise viis, sagedus ja ulatus;\n24) kompleksloa nõuete iga-aastase ülevaatuse tulemused;\n25) kompleksloa vaidlustamine ja kompleksloa andmise põhjendus.\n(2)\n(3) Kui keskkonna kvaliteedinormatiividega on ette nähtud rangemad nõuded kui need, mida on võimalik täita parimat võimalikku tehnikat kasutades, pannakse käitajale kompleksloaga kohustus rakendada lisaabinõusid, mis tagavad normatiivide täitmise.\n(4) Keskkonnaministeeriumil või Keskkonnaametil on keskkonnamõju hindamise järelevalvajana õigus määrata inimese tervise või keskkonna kaitseks keskkonnanõudeid, kui kavandatav või toimuv tegevus võib ohustada inimese tervist või keskkonda, põhjustada varalist kahju, häirida keskkonna puhkeotstarbelist või muud õiguspärast kasutamist.\n(4^1) Käesoleva paragrahvi lõigetes 2 ja 3 nimetatud nõudeid määrates arvestatakse ka muudes õigusaktides saastuse vältimise ja vähendamise kohta kehtestatud nõudeid.\n(5) Kompleksloa nõuete suhtes võib teha ka ajutisi erandeid, kui käitaja võetavad meetmed tagavad nõuete täitmise kuue kuu jooksul ning kui saastus nende tulemusena väheneb.\n(6)\n(7) Kompleksloa sisu täpsustavad nõuded ja kompleksloa vormid kehtestab keskkonnaminister määrusega."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "18",
+      "title": "§ 18. Parima võimaliku tehnika määramise alused",
+      "content": "Loa andja arvestab parima võimaliku tehnika eeliseid ja eeldatavaid kulusid sellele üleminekuks, saastuse vältimise põhimõtteid ja järgmisi asjaolusid:\n1) jäätmevaese tehnoloogia kasutamine;\n2) vähemohtlike ainete kasutamine;\n3) tootmises kasutatavate ja tekkivate ainete ning jäätmete kordus- ja taaskasutamine;\n4) tööstusharus tõhusaks osutunud tehnoloogia, seadmete ja töömeetodite kasutamine;\n5) tehnoloogiauuendused, teadussaavutused, käitaja teadmiste tase ja arenguvõime;\n6) heite laad, mõju ja kogus;\n7) käitise käikuandmise aeg;\n8) parima võimaliku tehnika evitamiseks kuluv aeg;\n9) kasutatava vee ning toorme kogus ja laad ning energiakasutuse tõhusus;\n10) vajadus vältida või vähendada nii palju kui võimalik heite keskkonnamõju ja sellega kaasnevat riski;\n11) vajadus vältida õnnetusi ja vähendada nendega kaasnevat keskkonnaohtu;\n12) ametiasutuste ja rahvusvaheliste organisatsioonide asjakohane teave parima võimaliku tehnika kohta."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "19",
+      "title": "§ 19. Heite piirväärtuse määramise alused",
+      "content": "(1) Käitaja peab heite piirväärtustest lähtudes täitma keskkonnanormatiive, minimeerima piiriülese saastuse ja kaitsma kogu keskkonda tõhusalt, kasutades parimat võimalikku tehnikat ning arvestades käitise tehnilisi näitajaid, käitise asukohta ja kohalikke keskkonnaolusid.\n(2) Heite piirväärtusi määrates lähtutakse õigusaktides sätestatud piirväärtustest. Õigusaktides sätestatud piirväärtusi käsitletakse kui miinimumnõudeid, millest keskkonna kaitse kõrge taseme saavutamiseks võib määrata rangemaid, parima võimaliku tehnika rakendamisega saavutatavaid heite piirväärtusi.\n(3) Heite piirväärtus kehtib heite käitisest väljumise kohas. Heite piirväärtust määrates ei arvestata heite hajutamist või lahjendamist muude ainete või keskkonnakomponentidega enne keskkonda väljutamist.\n(4) Kui heide juhitakse vette kaudselt, võib käitisele heite piirväärtust määrates arvestada reoveepuhasti mõju tingimusel, et keskkonnasaastus ei suurene ning käitaja järgib ühiskanalisatsiooni juhitavate ohtlike ainete kohta kehtestatud nõudeid.\n(5) Käesoleva seaduse § 7 lõike 3 punktis 9 nimetatud tegevusvaldkonna käitisele heite piirväärtuste kehtestamisel võetakse arvesse põllumajandusliku tootmise eripära ning seiretingimuste määramisel võetakse arvesse mõistlikke kulusid."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "20",
+      "title": "§ 20. Heite piirväärtuste määramisel arvesse võetavad ained",
+      "content": "(1) Heite piirväärtusi määrates peab loa andja arvestama käitise saasteallikast keskkonda heidetavate ainete olemust ja võimet kanda saastust ühest keskkonnaelemendist teise.\n(2) Õhuheite koostises määratakse eelkõige järgmiste ainete heite piirväärtused:\n1) vääveldioksiid ja muud väävliühendid;\n2) lämmastikoksiidid ja muud lämmastikuühendid;\n3) süsinikoksiid;\n4) lenduvad orgaanilised ühendid;\n5) metallid ja nende ühendid;\n6) tolm;\n7) asbest (lenduvad osakesed ja kiud);\n8) kloor ja selle ühendid;\n9) fluor ja selle ühendid;\n10) arseen ja selle ühendid;\n11) tsüaniidid;\n12) õhu kaudu toimivad kantserogeensed, mutageensed või reproduktiivset funktsiooni kahjustavad ained või valmistised;\n13) polüklooritud dibensodioksiinid ja polüklooritud dibensofuraanid.\n(2^1) Kui käitise tegevus on tegevusalade loetelus, mis on kehtestatud välisõhu kaitse seaduse § 120 lõike 1 alusel, ei kehtestata kompleksloas kasvuhoonegaaside heitele piirväärtust ja vajaduse korral kehtestatakse seadmete energiatõhususe näitajad, välja arvatud juhul, kui see on vajalik olulise saastuse tekke ärahoidmiseks kohalikul tasandil. Piirväärtuste määramisel võetakse aluseks kasvuhoonegaaside lubatud heitkogused.\n(2^2) Kui käitis arvatakse ajutiselt kasvuhoonegaaside heitkogustega kauplemise süsteemist välja, siis kehtestatakse sellele käitise kasvuhoonegaaside heitele kompleksloaga piirväärtused ja süsinikdioksiidi eraldavate seadmete energiatõhususe näitajad, lähtudes parima võimaliku tehnikaga saavutatavast heitetasemest.\n(3) Veeheite koostises määratakse eelkõige järgmiste ainete heite piirväärtused:\n1) halogeenorgaanilised ühendid ja ained, mis võivad neid ühendeid moodustada veekeskkonnas;\n2) fosfororgaanilised ühendid;\n3) tinaorgaanilised ühendid;\n4) vee kaudu toimivad kantserogeensed, mutageensed või reproduktiivset funktsiooni kahjustavad ained või valmistised;\n5) püsivad süsivesinikud ning püsivad ja bioakumuleeruvad orgaanilised mürkained;\n6) tsüaniidid;\n7) metallid ja nende ühendid;\n8) arseen ja selle ühendid;\n9) biotsiidid ja taimekaitsevahendid;\n10) heljum;\n11) eutrofeerumist soodustavad ained, sealhulgas eelkõige nitraadid ja fosfaadid;\n12) ained, mis mõjuvad halvasti hapnikubilansile ning mida on võimalik mõõta bioloogilise hapnikutarbe (BHT), keemilise hapnikutarbe (KHT) või teiste analoogiliste näitajate kaudu."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "21",
+      "title": "§ 21. Kompleksloa kehtivus",
+      "content": "Kompleksluba antakse tähtajatult."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "22",
+      "title": "§ 22. Kompleksloa nõuete läbivaatamine",
+      "content": "(1) Loa andja vaatab kompleksloa nõuded läbi ja käitise kohapeal üle vähemalt kord aastas ning vajaduse korral muudab kompleksloa nõudeid. Käitise iga-aastase ülevaatuse võib siduda käitise inspekteerimisega keskkonnajärelevalve korras.\n(2) Käitaja tasub kompleksloa nõuete iga-aastase läbivaatamise eest riigilõivu."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "23",
+      "title": "§ 23. Käitise laadi või toimimisviisi muutus",
+      "content": "(1) Kui käitaja on loa andjale teatanud kavandatavatest keskkonda mõjutada võivatest muudatustest käitise laadis või toimimisviisis või on loa andja sellest muul viisil teada saanud, peab loa andja 21 kalendripäeva jooksul selgitama muudatuste olulisuse ja vajaduse korral algatama kompleksloa muutmise menetluse.\n(1^1) Käitaja on kohustatud teavitama loa andjat olulisest negatiivsest keskkonnamõjust, mis kaasneb käitaja tegevusega, olenemata sellest, et järgiti kompleksloas sätestatud nõudeid.\n(2) Loa andja loeb oluliseks käitise tegevuse muutmise või laiendamise, kui selle tõttu käitise tegevuse maht ületab käesoleva seaduse § 7 lõike 4 alusel kehtestatud alltegevusvaldkonna künnisvõimsuse. Käitise tegevuse muutmine või laiendamine on oluline ka siis, kui see võib põhjustada olulise kahju inimese tervisele või keskkonnale."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "24",
+      "title": "§ 24. Kompleksloa nõuete muutmise alused",
+      "content": "Kompleksloa nõudeid muudetakse, kui:\n1) õigusaktides sätestatud ja kompleksloa nõuete aluseks olnud normid on muutunud;\n2) saastus on nii suur, et see põhjustab käitise tegevuskohas kahjulikke muutusi keskkonnas, mistõttu tuleb vähendada heite piirväärtusi või määrata lisapiirväärtused;\n3) muudatused parimas võimalikus tehnikas võimaldavad heite hulka või ohtlikkust oluliselt vähendada liigseid kulutusi tegemata;\n4) õnnetuste vältimiseks tuleb kasutada muid meetmeid, kui on kompleksloaga määratud;\n5) käitise laadi või toimimisviisi on oluliselt muudetud või kavatsetakse oluliselt muuta."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "25",
+      "title": "§ 25. Kompleksloa muutmise menetlus",
+      "content": "(1) Kui kompleksloa muutmise algatab käitaja, toimub menetlus käesoleva seaduse §-de 10-14 kohaselt.\n(2) Kui kompleksloa muutmise algatab loa andja, teeb ta käitajale posti teel või elektrooniliselt teatavaks kompleksloa tingimuste muutmise põhjused, nõuab käesoleva seaduse §-s 9 loetletud kompleksloa muutmiseks vajalike andmete esitamist ning määrab andmete esitamise tähtaja. Tähtaega määrates arvestab loa andja nõutavate andmete ulatust ja kättesaadavust.\n(3) Kui kompleksloas tehtavate muudatuste rohkus ei võimalda enam tootmist tõhusalt kontrollida, võib loa andja kohustada käitajat esitama taotluse muudatusi arvestava kompleksloa saamiseks.\n(4) Kui käitaja vahetub või tema kontaktandmed muutuvad, muudab loa andja pärast sellekohase teate saamist käitaja andmed kompleksloas menetluseta. Loa andja saadab posti teel või elektrooniliselt käitaja vahetumise või tema andmete muutumise teate saamisest alates viie tööpäeva jooksul kompleksloa vastava muudatuse käitajale ning selle koopia käitise asukoha järgsele linna- või vallavalitsusele ja Keskkonnainspektsioonile.\n(5) Pärast käitisele kasvuhoonegaaside heitkogustega kauplemise loa andmist algatab kompleksloa andja vajaduse korral menetluse käitise kompleksloa muutmiseks."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "26",
+      "title": "§ 26. Kompleksloa kehtetuks tunnistamise alused",
+      "content": "(1) Loa andja tunnistab kompleksloa kehtetuks, kui:\n1) seda taotleb käitaja;\n2) käitaja ei ole alustanud kompleksloaga lubatud tegevust kompleksloas nimetatud tegutsemisaja algusest alates 12 kuu jooksul ega esitanud taotlust käitise tegevuse algusaja muutmiseks;\n3) selgub, et kompleksloa taotlemisel on käitaja tahtlikult esitanud valeandmeid, millel oli loa andmisel oluline tähendus, või võltsitud dokumente või muudel juhtudel, kui loa andjale või Keskkonnainspektsioonile on loas ettenähtud nõuete täitmise kontrollimisel esitatud valeandmeid või võltsitud dokumente või kui andmete esitamise tähtaega on korduvalt rikutud;\n4) käitaja on jätnud kompleksloa nõuded täitmata ning teda on varem sama teo eest karistatud;\n5) käitisest tulenev saastus on nii suur, et sellest põhjustatud ohtu keskkonnale, inimese tervisele või varale ei ole võimalik vältida uue loa taotlemist eeldavate põhjalike tehniliste ümberkorraldusteta;\n6) käitaja on pankrotistunud või on juriidilise isikuna likvideeritud ja tegevust ei jätka teine käitaja.\n(2) Kui kompleksluba on tunnistatud kehtetuks, võib loa andja määrata käitajale käitise ja selle asukoha järelhoolduse tingimused, et pärast käitaja tegevuse lõpetamist vältida ohtu keskkonnale, inimese tervisele või varale."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "27",
+      "title": "§ 27. Kompleksloa kehtetuks tunnistamise menetlus",
+      "content": "(1) Kompleksloa kehtetuks tunnistamise algatab käitaja ise, loa andja või Keskkonnainspektsioon.\n(2) Kui kompleksloa kehtetuks tunnistamise algatab käitaja, esitab ta sellekohase avalduse loa andjale, kes määrab järelhoolduse tingimused ja teeb need käitajale teatavaks otsuse tegemisest alates viie tööpäeva jooksul.\n(3) Kui loa andja või Keskkonnainspektsioon algatab kompleksloa kehtetuks tunnistamise menetluse, teatab ta sellest käitajale posti teel või elektrooniliselt kolme tööpäeva jooksul, näidates kompleksloa kehtetuks tunnistamise menetlemise algatamise põhjused.\n(4) Käitajal on õigus käesoleva paragrahvi lõike 3 kohase teate saamisest 14 kalendripäeva jooksul esitada loa andjale vastuväiteid, selgitusi või lisadokumente ning nõuda loa andjalt enda ärakuulamist.\n(5) Kompleksloa kehtetuks tunnistamise või menetluse lõpetamise otsuse teeb loa andja hiljemalt seitsme kalendripäeva jooksul pärast käesoleva paragrahvi lõikes 4 nimetatud seletuste ja lisaandmete saamist või käitaja ärakuulamist.\n(6) Loa andja teeb otsuse kompleksloa kehtetuks tunnistamise või menetluse lõpetamise kohta käitajale teatavaks posti teel või elektrooniliselt kolme tööpäeva jooksul otsuse tegemise päevast alates. Otsuse ärakirjad saadab loa andja käitise asukoha järgsele linna- või vallavalitsusele ja Keskkonnainspektsioonile.\n(7) Kompleksloa kehtetuks tunnistamise korral tagastab käitaja kompleksloa originaali loa andjale asjaomase otsuse saamisest alates 14 kalendripäeva jooksul."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "2. peatükk - KESKKONNAKOMPLEKSLUBA",
+      "section": "28",
+      "title": "§ 28. Ehitustööde alustamine käitises",
+      "content": "(1) Kui käitises on vaja teha ehitustöid kompleksluba vajava tegevuse alustamiseks või suurteks tehnilisteks ümberkorraldusteks, arvestab loa andja:\n1) käitaja võimalusi kasutada parimat võimalikku tehnikat;\n2) kavandatava tegevuse vastavust keskkonnanormatiividele ja keskkonnamõju hindamise korral selle tulemusi.\n3)\n(2) Loa andja võib nõustuda ehitustööde alustamisega käitises enne kompleksloa andmist. Loa andja teeb oma otsuse käitajale ja ehitusloa andjale teatavaks posti teel või elektrooniliselt 21 kalendripäeva jooksul kompleksloa taotluse saamisest alates.\n(3) Ehitustööde alustamisega nõustumine ei võta kompleksloa andjalt õigust käesolevas seaduses ettenähtud juhtudel keelduda kompleksloa andmisest."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "3. peatükk - KOMPLEKSLOA AVALIKUSTAMINE",
+      "section": "29",
+      "title": "§ 29. Avalik teade kompleksloa taotluse esitamise kohta ja menetlusse võetud kompleksloa taotluse avalikustamine",
+      "content": "(1) Loa andja teatab kompleksloa taotluse saamisest kompleksloa taotleja kulul ametlikus väljaandes Ametlikud Teadaanded kompleksloa taotluse nõuetele vastavuse kindlakstegemisest alates 21 kalendripäeva jooksul. Teatises märgitakse vähemalt:\n1) kompleksloa taotleja ärinimi, registrikood ja asukoht või nimi, isikukood ja aadress;\n2) tegevuskoht;\n3) tegevuse lühikirjeldus;\n4) teave selle kohta, kus saab taotlusega ja kompleksloa eelnõuga tutvuda.\n(2) Loa andja võib kompleksloa taotleja kulul teatada kompleksloa taotluse saamisest peale käesoleva paragrahvi lõikes 1 nimetatud väljaande ka käitise asukoha järgses kohalikus ajalehes.\n(3) Hiljemalt kompleksloa taotluse menetlusse võtmise teate saamise päeval paneb käitaja kavandatava käitise asukohas või toimiva käitise peasissekäigu kõrval välja teate kompleksloa taotluse esitamise kohta ja tagab teate olemasolu kompleksloa taotluse läbivaatamise ajal.\n(4) Loa andja paneb kompleksloa taotluse nõuetele vastavuse kindlakstegemisest alates viie tööpäeva jooksul oma asukohas avalikkusele juurdepääsetavas paigas välja teate kompleksloa taotluse saamise kohta.\n(5) Käesoleva paragrahvi lõigetes 3 ja 4 nimetatud teadete vormid kehtestab keskkonnaminister määrusega. Kompleksloa taotluse saamise teade ja kompleksloa taotlus avalikustatakse kompleksloa taotluse nõuetele vastavuse kindlakstegemisest alates seitsme kalendripäeva jooksul Keskkonnaameti veebilehel."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "3. peatükk - KOMPLEKSLOA AVALIKUSTAMINE",
+      "section": "30",
+      "title": "§ 30. Avalik teade kompleksloa andmise või sellest keeldumise kohta",
+      "content": "(1) Loa andja teeb kompleksloa andmise või sellest keeldumise teatavaks ametlikus väljaandes Ametlikud Teadaanded loa andmisest või sellest keeldumisest alates seitsme kalendripäeva jooksul. Teates märgitakse vähemalt:\n1) kompleksloa saaja ärinimi, registrikood ja asukoht või nimi, isikukood ja aadress;\n2) tegevuskoht;\n3) tegevuse lühikirjeldus.\n(2) Kui loa andja on kompleksloa taotluse esitamise teate avaldanud käitise asukoha järgses kohalikus ajalehes, avaldatakse samas ajalehes taotleja kulul ka teade kompleksloa andmisest või sellest keeldumisest.\n(3) Kompleksloa andmise teade ja kompleksluba avalikustatakse Keskkonnaameti veebilehel seitsme kalendripäeva jooksul alates kompleksloa väljastamisest. Kompleksloa andmisest keeldumise teade avalikustatakse Keskkonnaameti veebilehel seitsme kalendripäeva jooksul alates kompleksloa väljastamisest keeldumisest. Kompleksloa andmise või sellest keeldumise teadete vormid kehtestab keskkonnaminister määrusega."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "3. peatükk - KOMPLEKSLOA AVALIKUSTAMINE",
+      "section": "31",
+      "title": "§ 31. Teabe kättesaadavus",
+      "content": "(1) Kompleksloa taotlus, kompleksloa eelnõu, kompleksluba, kompleksloaga määratud ametiasutuste valduses olevad keskkonnaseire tulemused ning kompleksloa nõuete täitmise kontrollimise tulemused on avalikud.\n(2) Informatsioon käitise projekti või tegevuse või teatava toorme, kemikaali või muu materjali või toote koostise ja kasutamise kohta võib olla konfidentsiaalne, kui see on esitatud kompleksloa taotluse eraldi osana ning sellele on selgelt märgitud «Ärisaladus». Nimetatud märkusega andmed avalikustab loa andja taotleja nõusolekul, kui seadus ei sätesta teisiti."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "3. peatükk - KOMPLEKSLOA AVALIKUSTAMINE",
+      "section": "32",
+      "title": "§ 32. Avalikkuse seisukohad",
+      "content": "(1) Igaühel on õigus esitada loa andjale kirjalikke ettepanekuid kompleksloa taotluse kohta, enne kui kompleksloa eelnõu edastatakse käitajale seisukoha võtmiseks.\n(2) Loa andja peab loa andmisest huvitatud isikut tema taotlusel informeerima kompleksloa eelnõu üleandmisest kompleksloa taotlejale, et võimaldada huvitatud isikul eelnõuga tutvuda ning esitada oma ettepanekud käesoleva seaduse § 14 lõikes 5 nimetatud aja jooksul.\n(3) Kirjalikud arvamused ja ettepanekud peavad sisaldama vähemalt nende esitaja nime ja aadressi ning arvamuse või ettepaneku põhjendust."
+    },
+    {
+      "provision_ref": "para32^1",
+      "chapter": "3. peatükk - KOMPLEKSLOA AVALIKUSTAMINE",
+      "section": "32^1",
+      "title": "§ 32^1. Avalik istung",
+      "content": "Loa andja viib loa taotleja või huvitatud isiku taotlusel või oma initsiatiivil juhul, kui see on vajalik asja õigeks otsustamiseks, läbi avaliku istungi."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - KÄITAJA KOHUSTUSED",
+      "section": "34",
+      "title": "§ 34. Kohustus säilitada dokumente ja esitada informatsiooni",
+      "content": "(1) Käitaja peab kompleksloa kehtivuse aja jooksul ja vähemalt viis aastat pärast loa kehtetuks tunnistamist säilitama kõik talle kuuluvad kompleksloa taotlemisega, kompleksloa andmisega, kompleksloaga määratud seirega ning nõuete täitmise kontrollimisega seotud dokumendid ja andmed. Dokumendid peavad olema kättesaadavad loa andja ja Keskkonnainspektsiooni nõudmisel.\n(2) Käitaja teatab loa andjale:\n1) kompleksloaga määratud seire andmed kompleksloas ettenähtud nõuete kohaselt;\n2) viivitamatult igast õnnetusest, mis oluliselt mõjutab keskkonda või inimeste tervist;\n3) igast muudatusest käitise laadis või toimimisviisis, mis võib avaldada mõju keskkonnale;\n4) kavandatavast käitaja vahetumisest.\n(3) Kompleksloa objektiks oleva tehnilise ümberkorralduse võib ellu viia ainult pärast seda, kui loa andja on käitajale kirjalikult teatanud, et selleks ei ole vaja muuta kompleksloa nõudeid, või kui kompleksloa nõudeid on muudetud.\n(4) Käitaja on kohustatud loa andja või keskkonnakaitseinspektori nõudmisel:\n1) osutama käitist kontrollivale riigi keskkonnakaitseinspektorile igakülgset abi, tagama talle juurdepääsu kompleksloas määratud proovivõtu- ja seirepunktidele ning võimaldama neil koguda informatsiooni käesolevas seaduses sätestatud kohustuste täitmise kohta;\n2) esitama loa andjale kompleksloa andmiseks, muutmiseks või kehtetuks tunnistamiseks vajalikud andmed ja osutama käitist üle vaatavale loa andjale igakülgset abi kompleksloa nõuete täitmise selgitamisel."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - KÄITAJA KOHUSTUSED",
+      "section": "35",
+      "title": "§ 35. Kohustus likvideerida tekkinud saastus",
+      "content": "(1) Kui saastus on lähtunud käitisest, mille kasutamiseks on antud kompleksluba või mille käitamiseks peab käesoleva seaduse või selle alusel antud õigusaktide kohaselt kompleksluba olema, peab käitaja oma tehnilisi ja majanduslikke võimalusi arvestades saastuse viivitamata likvideerima, sõltumata asjaolust, kas saastus on tahtlik või tuleb ettevaatamatusest.\n(2) Kui käitaja ei täida kohustust likvideerida saastus, korraldab likvideerimise asendustäitmise ja sunniraha seaduses sätestatud korras Keskkonnainspektsioon."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "5. peatükk - JÄRELEVALVE JA VASTUTUS",
+      "section": "36",
+      "title": "§ 36. Järelevalve",
+      "content": "(1) Keskkonnainspektsioon kontrollib vähemalt üks kord aastas käitise ja selle tegevuse vastavust kompleksloa nõuetele.\n(2) Keskkonnainspektsioon edastab kontrollimise tulemused loa andjale ja käitajale kontrollimisest alates 14 kalendripäeva jooksul."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "5. peatükk - JÄRELEVALVE JA VASTUTUS",
+      "section": "37",
+      "title": "§ 37. Kompleksloa kohustuse või kompleksloa nõuete rikkumine",
+      "content": "Tegevuse eest kompleksloata valdkonnas, kus kompleksluba on nõutav, või kompleksloa nõuete rikkumise eest karistatakse juriidilist isikut kuni 3200-eurose rahatrahviga."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "5. peatükk - JÄRELEVALVE JA VASTUTUS",
+      "section": "38",
+      "title": "§ 38. Menetlus",
+      "content": "(1) Käesoleva seaduse §-s 37 sätestatud väärtegudele kohaldatakse karistusseadustiku üldosa ja väärteomenetluse seadustiku sätteid.\n(2) Käesoleva seaduse §-s 37 sätestatud väärtegude kohtuväline menetleja on Keskkonnainspektsioon."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "39",
+      "title": "§ 39. Käitis ja olemasolev käitis",
+      "content": "(1) Olemasolev käitis on käesoleva seaduse jõustumise ajal tegutsev käitis ning käitis, mille käitajal on enne käesoleva seaduse jõustumist saadud õigusaktide kohased tegevus- ja keskkonnaload ning milles alustatakse tegevust hiljemalt aasta jooksul pärast käesoleva seaduse jõustumist.\n(2) Olemasoleva käitise käitaja peab esitama kompleksloa taotluse loa andjale hiljemalt Vabariigi Valitsuse määrusega kehtestatud tähtajaks. Ajavahemik käesoleva seaduse jõustumisest kuni esitamise tähtajani ei tohi olla lühem kui üks aasta.\n(3) Kui olemasoleva käitise käitaja kavatseb vähendada tootmisvõimsust alla künnivõimsuse või lõpetada kompleksluba vajava tegevuse hiljemalt käesoleva paragrahvi lõike 2 alusel kehtestatud tähtajaks ja teavitab sellest loa andjat eelnevalt kirjalikult, ei ole kompleksloa taotlust selle käitise kohta vaja esitada.\n(4) Kompleksloa taotluse esitamise vajalikkuse või esitamise tähtpäeva kohta selgituse saamiseks pöördub käitaja loa andja poole.\n(5) Käesoleva paragrahvi lõikes 2 nimetatud kohustuse täitmata jätmise korral rakendatakse käesoleva seaduse §-de 37 ja 38 sätteid või peatatakse käitise tegevus keskkonnajärelevalve seaduses sätestatud korras.\n(6) Kui loa andja tuvastab, et käitises ei kasutata kompleksloa taotluse esitamise ajal parimat võimalikku tehnikat, tehakse käitajale lisaks käesoleva seaduse §-s 17 sätestatule kohustuseks koostada tehniliste ümberkorralduste kava parima võimaliku tehnika rakendamiseks. See kava peab sisaldama meetmeid ka käesoleva seaduse § 9 lõikes 3 nimetatud õigusaktide nõuete täitmiseks. Loa andja kiidab kava heaks ning määrab heite piirväärtused ja meetmete rakendamise tähtajad igaks kalendriaastaks või tagastab selle ümbertegemiseks. Kava abinõude rakendamise tulemusel peab käitis toimima parima võimaliku tehnika nõuete kohaselt hiljemalt 2007. aasta 30. oktoobriks.\n(7) Käesoleva paragrahvi lõikes 6 nimetatud tehniliste ümberkorralduste kava esitab taotleja loa andjale koos kompleksloa taotlusega.\n(8) Kui tehnilisi ümberkorraldusi ei ole käesoleva paragrahvi lõikes 6 nimetatud tähtajaks võimalik majanduslikel või tehnilistel põhjustel teha, peab käitaja esitama kompleksloa taotluse Keskkonnaametile, kes otsustab kompleksloa andmise käesolevas seaduses sätestatud korras. Kompleksluba peab sel juhul sisaldama tehniliste ümberkorralduste kava. Käitaja tegevust tehniliste ümberkorralduste kava elluviimisel jälgib loa andja.\n(9) Kui käitise käitaja otsustab kompleksluba vajava tegevuse viia üle uude asukohta või teise käitisesse, siis peab ta algatama kompleksloa tingimuste muutmise menetluse või esitama Keskkonnaametile taotluse uue kompleksloa saamiseks.\n(10) Kui käitise käitaja kavandab kompleksloa taotluse menetlemise ajal käitise tegevuses muudatusi, mis väljastatava kompleksloa või veeseaduse, jäätmeseaduse ja välisõhu kaitse seaduse alusel väljastatud lubade tingimusi muudaksid, teavitab ta nendest loa andjat ja loa andja otsustab teabe saamisest alates 21 kalendripäeva jooksul, kas tegemist on olulise muudatusega ning teeb otsuse käitajale viivitamatult teatavaks.\n(11) Kui käitise kompleksloa taotluse menetlemise ajal jõuab kätte ükskõik millise käesoleva seaduse § 7 lõikes 2 viidatud loa kehtivuse lõpptähtaeg, pikendab loa andja loa kehtivust perioodi võrra, mis on eeldatavalt vajalik kompleksloa andmise menetluse lõpetamiseks."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "40",
+      "title": "§ 40. Seaduse rakendamine",
+      "content": "Käesoleva seaduse §-d 37 ja 38 jõustuvad 2003. aasta 1. jaanuaril."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "41",
+      "title": "§ 41.",
+      "content": "[Käesolevast tekstist välja jäetud]"
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "42",
+      "title": "§ 42. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2002. aasta 1. mail."
+    }
+  ],
+  "definitions": []
+}

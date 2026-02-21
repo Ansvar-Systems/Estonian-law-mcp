@@ -1,0 +1,309 @@
+{
+  "id": "ee-law-110052014014",
+  "type": "statute",
+  "title": "Lifti ja köistee ohutuse seadus",
+  "title_en": "Lifti ja köistee ohutuse seadus",
+  "short_name": "ee-law-110052014014",
+  "status": "in_force",
+  "issued_date": "2002-05-22",
+  "in_force_date": "2014-07-01",
+  "url": "https://www.riigiteataja.ee/akt/110052014014.xml",
+  "description": "Official consolidated statute text (Lifti ja köistee ohutuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab inimese ja vara ohutuse tagamise eesmärgil nõuded:\n1) liftile, selle ohutusseadisele, köisteele, selle alamsüsteemile ja ohutusseadisele, nende turule laskmisele, paigaldamisele, kasutusele võtmisele ja kasutamisele ning tõsteseadmetöödele;\n2) lifti, selle ohutusseadise ning köistee alamsüsteemi ja ohutusseadise nõuetele vastavuse hindamise ja tõendamise korrale, tehnilise kontrolli, turujärelevalve ja riikliku järelevalve korraldusele;\n3) kasutamise järelevaatajale, tõsteseadmetöid juhtivale isikule ning nende isikute nõuetele vastavuse hindamise ja tõendamise korrale.\n(2) Käesolevat seadust ei kohaldata Euroopa Parlamendi ja nõukogu direktiivi 95/16/EÜ lifte käsitlevate liikmesriikide õigusaktide ühtlustamise kohta ja Euroopa Parlamendi ja nõukogu direktiivi 2000/9/EÜ reisijateveoks ettenähtud köisteede kohta kohaldamisalast välja jäävatele seadmetele, milleks on:\n1) tõsteseade, mille kiirus ei ole suurem kui 0,15 m/s;\n2) ehitusplatsi tõstuk;\n3) lift, mis on spetsiaalselt kavandatud ja ehitatud sõjalisel otstarbel kasutamiseks või politsei ülesannete täitmiseks;\n4) tõsteseade, millelt saab töid teha;\n5) kaevanduses kasutatav tõstuk;\n6) tõsteseade, mis on mõeldud esinejate tõstmiseks etenduse ajal;\n7) transpordivahendile paigaldatud tõsteseade;\n8) masinaga ühendatud tõsteseade, mis on ette nähtud ainult masina töökohale ning hooldus- ja kontrollimiskohale pääsemiseks;\n9) hammaslatt- ja hammasratasrong;\n10) eskalaator ja mehaaniline jalgtee;\n11) köistramm;\n12) põllumajanduses kasutatav köistee;\n13) laadaplatsil või lõbustuspargis meelelahutuslikul eesmärgil kasutamiseks mõeldud püsivalt paigaldatud või mobiilne köistee;\n14) kaevanduses või tööstuslikul eesmärgil kasutatav köistee;\n15) köisparvlaev;\n16) kettülekandega köistee.\n(3) Kui liftist või köisteest tulenevate ohtude vältimine on reguleeritud teise seadusega, kohaldatakse käesolevat seadust teisest seadusest tulenevate erisustega.\n(4) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesolevast seadusest tulenevaid erisusi.\n(5) Lifti ja selle ohutusseadise ning köistee, selle alamsüsteemi ja ohutusseadise tootja, tootja volitatud esindaja, importija ning levitaja kohustustele, tehnilise kontrolli teostaja ja isiku nõuetele vastavuse hindaja ja tõendaja akrediteerijale, teavitatud asutusele ning vastavushindamisele ja turujärelevalvele kohaldatakse toote nõuetele vastavuse seadust käesolevast seadusest tulenevate erisustega.\n(6) Käesolevas seaduses sätestatud tegevuslubade andmisele ja kehtetuks tunnistamisele, samuti majandusteadete esitamisele kohaldatakse majandustegevuse seadustiku üldosa seaduses sätestatut ka juhul, kui loa- või teatamiskohustusega tegevust ei teostata majandustegevusena."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Lift ja lifti paigaldaja",
+      "content": "(1) Lift käesoleva seaduse tähenduses on:\n1) ehitisse püsivalt paigaldatud, eri tasapindade vahel liikuv tõsteseade, mille kandur liigub piki horisontaalpinna suhtes üle 15-kraadise kaldega jäiku juhikuid ja mis on ette nähtud kas ainult inimese veoks, inimese ja asja veoks või ainult asja veoks, kui inimene pääseb kandurile takistuseta ja juhtimisseadmed on kanduris või kanduril oleva inimese käeulatuses;\n2) käesoleva lõike punktis 1 sätestatud fikseeritud suunal liikuv tõsteseade ka siis, kui see ei liigu mööda jäiku juhikuid (näiteks käärlift).\n(1^1) Kandur käesoleva seaduse tähenduses on lifti osa, mille abil sellel asuvaid inimesi või kaupu tõstetakse või langetatakse.\n(2) Lifti paigaldaja käesoleva seaduse tähenduses on isik, kes võtab endale vastutuse lifti projekteerimise ja paigaldamise ning turule laskmise eest ja kes annab välja vastavusdeklaratsiooni.\n(3)"
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Köistee, köistee paigaldaja ja köistee alamsüsteemi tootja",
+      "content": "(1) Köistee käesoleva seaduse tähenduses on eri komponentidest koosnev paigaldis, mis on kavandatud, toodetud, koostatud ja mida võimaldatakse kasutada inimeste teisaldamiseks sõiduki või vedamisseadmega, kusjuures jõuülekanne toimub piki liikumissuunda paigaldatud trosside abil. Köisteeks käesoleva seaduse tähenduses ei loeta lifti.\n(2) Köistee koosneb:\n1) köistee alamsüsteemidest, nagu trossid ja trossühendused, ajamid ja pidurid, mehaaniline varustus (kaabliveomehhanism, masinajaam, liiniseadmed), liikurid (kabiinid, istmed või vedamisseadmed, riputusmehhanism, käitusmehhanism, trossile kinnitatavad haakeseadmed), elektrotehnilised seadmed (jälgimis-, kontrolli- ja ohutusseadmed, kommunikatsiooni- ja info edastamise varustus, piksekaitsevarustus), päästevarustus (statsionaarne päästevarustus, teisaldatav päästevarustus);\n2) kohapeal spetsiaalselt iga köistee jaoks projekteeritud ja paigaldatud infrastruktuurist, nagu asendiplaan, seadme andmestik, tarindi struktuur ja teised struktuurid ulatuses, mis on vajalikud köistee ehitamiseks ja töötamiseks, kaasa arvatud vundamendid.\n(3) Köisteede hulka kuuluvad:\n1) funikulaarraudtee ja teised samalaadsed paigaldised, kus ratastel või muudel riputusmehhanismidel liikuvaid sõidukeid veetakse ühe või mitme trossi abil;\n2) köissõiduk, mille kabiini tõstetakse või liigutatakse ühe või mitme kandetrossi abil, kaasa arvatud gondel ja istelift;\n3) vedamislift, mille puhul vastava varustusega kasutajaid veetakse trossi abil.\n(4) Köistee paigaldaja käesoleva seaduse tähenduses on isik, kes võtab endale vastutuse köistee paigaldamise eest.\n(5) Köistee alamsüsteemi (edaspidi alamsüsteem ) tootja on isik, kes võtab endale vastutuse alamsüsteemi projekteerimise ja valmistamise eest ning kes annab välja vastavusdeklaratsiooni ja sellega kaasneva tehnilise dokumentatsiooni."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Ohutusseadis ja ohutusseadise tootja",
+      "content": "(1) Lifti ohutusseadis on:\n1) šahtiuste lukustusseadis;\n2) seadis lifti kabiini allakukkumise või kontrollimatu ülesliikumise takistamiseks;\n3) lifti ülekiirust piirav seadis;\n4) energiat akumuleeriv mittelineaarne või tagasiliikumise summutamise amortisaator;\n5) energiat hajutav amortisaator;\n6) lifti kabiini kukkumist takistav seadis, mis on paigaldatud hüdrosilindri ahelasse;\n7) elektroonilisi komponente sisaldav ohutuslüliti tüüpi elektriline seadis.\n(2) Köistee puhul on ohutusseadis iga peamine komponent või nende kogum, seadmestiku alamkoost või kogukoost ja iga seade, mis on ühendatud köisteega, tagamaks selle ohutu funktsioneerimine, ja identifitseeritud ohutusanalüüsi tulemusena ning mille puudumine, tõrge või talitlushäire ohustab inimese elu ja tervist.\n(3) Lifti ja köistee ohutusseadise (edaspidi ohutusseadis ) tootja on isik, kes võtab endale vastutuse ohutusseadise projekteerimise ja valmistamise eest ning annab välja vastavusdeklaratsiooni."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - LIFTI JA KÖISTEE PAIGALDAMINE NING TURULE LASKMINE",
+      "section": "5",
+      "title": "§ 5. Nõuded lifti ja köistee paigaldamisele",
+      "content": "(1)\n(2) Lifti paigaldaja peab tagama turule lastava lifti vastavuse käesolevas seaduses ja selle alusel kehtestatud õigusaktides ja ehitustegevust reguleerivas õigusaktis sätestatud nõuetele.\n(3) Ehitisse lifti paigaldaja ja hoone või rajatise ehitaja peavad teavitama teineteist lifti paigaldamisega seotud küsimustes ja rakendama vajalikke meetmeid, tagamaks lifti nõuetele vastav paigaldamine.\n(4) Köistee paigaldamisele kohaldatakse ehitustegevust reguleerivas õigusaktis sätestatud nõudeid käesolevast seadusest tulenevate erisustega.\n(5) Köistee paigaldaja peab tagama kavandatava köistee puhul käesoleva paragrahvi lõike 10 nõuetele vastava ohutusanalüüsi koostamise.\n(6) Ohutusanalüüsi tulemiks on ohutusraport, milles nähakse ette meetmed selgunud riskide vältimiseks ja mis sisaldab köistee alamsüsteemide ja ohutusseadiste loetelu.\n(7) Enne köistee paigaldamist peab köistee paigaldaja või tema volitatud esindaja esitama tehnilise kontrolli teostajale heakskiitmiseks ohutusanalüüsiga seotud dokumentatsiooni ja ohutusraporti. Ohutusraporti heakskiitmiseks hindab tehnilise kontrolli teostaja ohutusanalüüsi ja ohutusraporti vastavust käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele. Köistee paigaldamine on lubatud, kui tehnilise kontrolli teostaja on ohutusraporti heaks kiitnud.\n(8) Köistee paigaldaja peab tagama, et komplekteeritaks asjakohane dokumentatsioon: ohutusraport, ohutusanalüüsi ja köistee parameetreid käsitlevad dokumendid, köistee ohutusseadiste ja alamsüsteemide vastavust tõendavad dokumendid ning kasutamistingimusi käsitlevad dokumendid, mis sisaldavad hoolduse, järelevalve ja seadistamise üksikasju ning köistee kasutamise piiranguid. Köistee omanik peab tagama nimetatud dokumentide kättesaadavuse köistee juures.\n(9) Köistee paigaldamisel kasutatavad ohutusseadised ja alamsüsteemid peavad võimaldama paigaldada köistee, mis vastab käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele ning ei ohusta inimest ega vara.\n(10) Nõuded köistee ohutusanalüüsile kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - LIFTI JA KÖISTEE PAIGALDAMINE NING TURULE LASKMINE",
+      "section": "6",
+      "title": "§ 6. Lifti, alamsüsteemi ja ohutusseadise turule laskmine",
+      "content": "(1) Lifti võib turule lasta, kui:\n1) see ettenähtud korras paigaldamise, hooldamise ja ettenähtud otstarbel kasutamise korral ei ohusta inimest ega vara;\n2) see vastab käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele;\n3) selle nõuetele vastavus on käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud korras tõendatud;\n4) sellele on paigaldatud vastavusmärk, kui see on nõutav;\n5) see on varustatud muu nõutava märgistuse ja teabega.\n(2) Alamsüsteemi võib turule lasta, kui:\n1) see võimaldab täita köisteele kehtestatud ohutusnõudeid;\n2) see vastab käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuetele;\n3) selle nõuetele vastavus on käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud korras tõendatud;\n4) see on varustatud nõutava dokumentatsiooniga.\n(3) Ohutusseadise võib turule lasta, kui:\n1) lift või köistee, kuhu ohutusseadis paigaldatakse, ei ohusta õige paigaldamise, hooldamise ja ettenähtud otstarbel kasutamise korral inimest ega vara ning ohutusseadis võimaldab täita liftile või köisteele kehtestatud ohutusnõudeid;\n2) see vastab käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele;\n3) selle nõuetele vastavus on käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud korras tõendatud;\n4) sellele on paigaldatud vastavusmärk, kui see on nõutav;\n5) see on varustatud muu nõutava märgistuse ja teabega.\n(4) Lifti turule laskmine on lifti esmakordse kasutamise võimaldamine.\n(5)\n(6) Nõuded liftile, köisteele, alamsüsteemile ja ohutusseadisele, nende teabega varustamisele ja vastavusmärgi paigaldamisele kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - LIFTI JA KÖISTEE PAIGALDAMINE NING TURULE LASKMINE",
+      "section": "7",
+      "title": "§ 7. Lifti, alamsüsteemi ning ohutusseadise nõuetele vastavuse hindamine ja tõendamine",
+      "content": "(1) Lifti nõuetele vastavuse hindamise ja tõendamise peab tagama lifti paigaldaja vastavalt käesoleva paragrahvi lõike 5 alusel kehtestatud korrale.\n(2) Alamsüsteemi või ohutusseadise nõuetele vastavuse ning nõuetele vastavuse hindamise ja tõendamise peab tagama alamsüsteemi või ohutusseadise tootja või nende volitatud esindaja vastavalt käesoleva paragrahvi lõike 5 alusel kehtestatud korrale.\n(3) Kui lifti paigaldaja, alamsüsteemi või ohutusseadise tootja ega tootja volitatud esindaja ei ole täitnud käesoleva paragrahvi lõigetes 1 ja 2 sätestatud kohustusi, peab need kohustused täitma isik, kes laseb lifti, alamsüsteemi või ohutusseadise turule. Nõuetele vastavuse hindamise ja tõendamise peab tagama ka isik, kes oma tarbeks paigaldab lifti või valmistab ohutusseadise.\n(4)\n(5) Lifti, alamsüsteemi ja ohutusseadise nõuetele vastavuse hindamise ja tõendamise korra ning nõuetele vastavuse hindamiseks ja tõendamiseks vajalikud vastavushindamise protseduurid kehtestab majandus- ja kommunikatsiooniminister.\n(6) Lifti, alamsüsteemi ja ohutusseadise nõuetele vastavuse tõendamiseks vajalikes vastavushindamise protseduurides võidakse ette näha teavitatud asutuse kaasamise kohustus."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - LIFTI JA KÖISTEE PAIGALDAMINE NING TURULE LASKMINE",
+      "section": "8",
+      "title": "§ 8. Nõuetele mittevastava lifti ja ohutusseadise esitlemine",
+      "content": "Lifti või selle ohutusseadist, mis ei vasta käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele, võib esitleda messidel, näitustel, demonstratsioonidel ja teistel avalikel esitlustel tingimusel, et sellejuurde on nähtavale kohale paigaldatud teave, mille kohaselt lift või ohutusseadis ei vasta kehtestatud nõuetele ning seda ei tohi turule lasta enne, kui see on muudetud käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele vastavaks. Esitluse ajal peab lifti või ohutusseadise esitleja tagama ohutuse."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "3. peatükk - TEAVITATUD ASUTUS",
+      "section": "9",
+      "title": "§ 9. Teavitatud asutus",
+      "content": "(1) Teavitatud asutus on vastavushindamisasutus, kellel on õigus teha lifti, alamsüsteemi või ohutusseadise nõuetele vastavuse hindamiseks ja tõendamiseks vajalikke vastavushindamise protseduure.\n(2) Teavitatud asutusele, sealhulgas talle tegevusloa andmisele, selle kehtivuse peatamisele ja kehtetuks tunnistamisele, samuti teavitatud asutusena tegutsemisele ja tema üle riikliku järelevalve teostamisele kohaldatakse toote nõuetele vastavuse seadust."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "3. peatükk - TEAVITATUD ASUTUS",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "4. peatükk - LIFTI JA KÖISTEE KASUTAMINE",
+      "section": "12",
+      "title": "§ 12. Nõuded lifti ja köistee kasutusele võtmisele ja kasutamisele",
+      "content": "(1) Lifti võib kasutusele võtta või seda kasutada, kui:\n1) lift vastab käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele ning ettenähtud korras paigaldamise, hooldamise ja ettenähtud otstarbel kasutamise korral ei ohusta inimest ega vara;\n1^1) lifti kasutusele võtmise hetkel on täidetud turule laskmise nõuded;\n2) ettenähtud juhtudel ja korras on teostatud selle tehniline kontroll;\n3) registreerimisele kuuluvale liftile on määratud kasutamise järelevaataja;\n4) järgitakse teisi õigusaktides liftile kehtestatud nõudeid.\n(1^1) Ruumi, kus asuvad lifti ajam ja sellega seotud seadmed, ei tohi olla paigaldatud lifti ekspluateerimiseks mittevajalikke seadmeid, kui need takistavad lifti hooldus- ja remonditöid.\n(2) Köistee võib kasutusele võtta ja seda kasutada, kui:\n1) see ettenähtud korras paigaldamise, hooldamise ja ettenähtud otstarbel kasutamise korral ei ohusta inimest ega vara;\n2) see vastab käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele;\n3) ettenähtud juhtudel ja korras on teostatud selle tehniline kontroll;\n4) registreerimisele kuuluvale köisteele on määratud kasutamise järelevaataja;\n5) see vastab ohutusraportis sätestatud tingimustele;\n6) järgitakse teisi õigusaktides köisteele kehtestatud nõudeid.\n(3) Lift ja köistee (edaspidi tõsteseade ) loetakse kasutusele võetuks hetkest, mil alustatakse selle ettenähtud otstarbel kasutamist."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "4. peatükk - LIFTI JA KÖISTEE KASUTAMINE",
+      "section": "13",
+      "title": "§ 13. Tõsteseadme omaniku kohustused",
+      "content": "(1) Tõsteseadme omanik peab:\n1) täitma käesoleva seaduse § 12 lõigetes 1 ja 2 sätestatud nõudeid;\n2) tagama, et tõsteseadmetöid teeks pädev isik;\n3) tagama kasutamise järelevaataja kohustuste täitmise ja võimaldama kasutamise järelevaatajal oma kohustusi täita;\n4) tagama, et riiklikku järelevalvet teostavale ametiisikule antaks igakülgset abi avarii ja sellega kaasnenud õnnetusjuhtumi põhjuste väljaselgitamisel, säilitades põhjuste väljaselgitamiseni avarii ja õnnetusjuhtumi tagajärjel tekkinud olukorra, kui see ei põhjusta edasisi kahjustusi;\n5) omama dokumentatsiooni tõsteseadme ja selle tehnilise kontrolli teostamise kohta;\n6) olema sõlminud kirjaliku kokkuleppe käesoleva seaduse §-s 14 sätestatud kasutamise järelevaataja kohustuste täitmiseks, välja arvatud juhul, kui tõsteseadme füüsilisest isikust omanik on ise kasutamise järelevaataja;\n7) teatama registreeritava tõsteseadme andmete muutumisest tehnilise kontrolli teostajale kümne tööpäeva jooksul andmete muutumise päevast arvates;\n8) tagama, et juurdepääs tõsteseadme ajamile ja sellega seotud seadmetele oleks takistatud, välja arvatud nende hooldus- ja remonditöödeks, järelevalveks või ohuolukorras.\n(2) Kui tõsteseadme omanik ei ole käesolevast seadusest tulenevaid kohustusi täitnud, peab nimetatud kohustused täitma tõsteseadme valdaja."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "4. peatükk - LIFTI JA KÖISTEE KASUTAMINE",
+      "section": "14",
+      "title": "§ 14. Kasutamise järelevaataja",
+      "content": "(1) Kasutamise järelevaataja on isik, kes:\n1) on pädev käesoleva seaduse ja teiste õigusaktide kohaselt korraldama või tagama tõsteseadme nõuetekohast kasutamist;\n2) kohustub tagama, et tõsteseadme kasutamisel järgitaks käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõudeid.\n(2) Kasutamise järelevaatajal peab olema tõsteseadme kasutamise ohutuse tagamiseks vajalikus ulatuses teadmisi tõsteseadmest, mille kasutamise järelevaatajaks ta on määratud, samuti selle ehitusest ja kasutamise ohutusnõuetest.\n(3) Köistee kasutamise järelevaataja vastavus käesoleva paragrahvi lõikes 2 sätestatud nõuetele peab olema hinnatud ja tõendatud käesoleva seaduse 7. peatükis sätestatud korras.\n(4) Kasutamise järelevaataja on kohustatud tagama, et:\n1) tõsteseadme kasutamine toimuks käesoleva seaduse ja selle alusel kehtestatud õigusaktide kohaselt ning et tõsteseadme ümberehitamist, remonti ja tehnohooldust teeks pädev isik;\n2) tõsteseadme kasutamine peatataks, kui selle edasine kasutamine võib ohustada inimest või vara;\n3) esimesel võimalusel teatataks tõsteseadme kasutamisel toimunud avariist ja sellega kaasnenud õnnetusjuhtumist Tehnilise Järelevalve Ametile.\n(5) Kasutamise järelevaataja peab olema kättesaadav tõsteseadme ohutuse tagamiseks ja tehnilise kontrolli ning riiklike järelevalvetoimingute teostamisel."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "4. peatükk - LIFTI JA KÖISTEE KASUTAMINE",
+      "section": "15",
+      "title": "§ 15. Tõsteseadme registreerimine ja registreeringuandmete muutmine",
+      "content": "(1) Tehnilise kontrolli teostaja peab kümne tööpäeva jooksul pärast tehnilist kontrolli esitama Tehnilise Järelevalve Ametile elektrooniliselt andmed registreerimisele kuuluva lifti ja registreerimisele kuuluva köistee (edaspidi registreeritav tõsteseade ), selle omaniku ja kasutamise järelevaataja ning tehnilise kontrolli kohta.\n(1^1) Tehnilise kontrolli teostaja peab kümne tööpäeva jooksul pärast käesoleva seaduse § 13 lõike 1 punktis 7 nimetatud teate saamist teavitama Tehnilise Järelevalve Ametit elektrooniliselt tõsteseadme andmete muutumisest.\n(2) Tõsteseadme registreerib ja registreeringuandmeid muudab tehnilise kontrolli teostaja Tehnilise Järelevalve Ameti andmekogus.\n(3) Registreeritavate tõsteseadmete loetelu, samuti registreeritavate tõsteseadmete, nende omanike ja kasutamise järelevaatajate ning tehnilise kontrolli kohta esitatavate andmete loetelu, vorminõuded ning esitamise ja registreerimise korra kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "5. peatükk - TÕSTESEADMETÖÖD",
+      "section": "16",
+      "title": "§ 16. Nõuded tõsteseadmetöödele ja tõsteseadmetööde tegijale",
+      "content": "(1) Tõsteseadmetööd on tõsteseadme ümberehitamine, remont ja tehnohooldus.\n(2) Lifti ümberehitamine on selliste tööde tegemine, mille tulemusena:\n1) muutub lifti kasutamisohutust mõjutavate osade ehitus;\n2) muutub lifti juhtimisskeem;\n3) suurenevad lifti osadele mõjuvad koormused;\n4) muutub lifti tõstevõime või liikumiskiirus;\n5) muutub lifti tõstekõrgus;\n6) lisatakse või likvideeritakse lifti peatumistasandeid või uksi;\n7) muutub lifti šahti- või kabiiniuste konstruktsioon;\n8) muutub lifti juhtimise elektriskeem;\n9) muutub lifti šahtiuste lukustusseadmete tüüp;\n10) muutub lifti masinaruumi või plokkide ruumi asukoht;\n11) muutub lifti kabiini vöö või vastukaaluraami konstruktsioon;\n12) asendatakse ohutusseadised teist tüüpi seadistega.\n(3) Köistee ümberehitamine on selliste tööde tegemine, mille tulemusena:\n1) muutuvad köistee põhiparameetrid;\n2) muutub köistee kasutamisohutust mõjutavate osade ehitus;\n3) muutub köistee juhtimisskeem;\n4) suurenevad köistee osadele mõjuvad koormused;\n5) muutub köistee kandevõime või liikumiskiirus;\n6) lisatakse või likvideeritakse peale- ja mahaminekukohti;\n7) asendatakse köistee ohutusseadised teist tüüpi seadistega.\n(4) Tõsteseadme remont on selle osade asendamine samatüübilistega, tagamaks tõsteseadme korrasolek ja ohutus.\n(5) Tõsteseadme tehnohooldus on selle tehnosüsteemi ülevaatamine, puhastamine, reguleerimine, õlitamine ja muude tööde tegemine, tagamaks tõsteseadme korrasolek ja ohutus.\n(6)\n(6^1)\n(7) Tõsteseadmetööde tegija peab:\n1) valdama piisavaid vahendeid ja vajalikku dokumentatsiooni tõsteseadmetööde tegemiseks;\n2) tagama, et tõsteseadmetöid teeksid selleks piisavat erialast ettevalmistust omavad isikud;\n3) määrama tõsteseadmetööde tegemiseks tõsteseadmetöid juhtiva isiku;\n4) tagama, et tõsteseadmetöödel järgitaks ohutusnõudeid;\n5) tagama, et tõsteseade vastaks pärast tõsteseadmetööde tegemist käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele;\n6) olema vastavasisulises õigussuhtes tõsteseadmetöid juhtiva isikuga käesoleva seaduse § 17 lõikes 4 sätestatud kohustuste täitmiseks, välja arvatud, kui füüsilisest isikust tõsteseadmetööde tegija on ise tõsteseadmetöid juhtivaks isikuks;\n7) tagama, et tõsteseadmetööd dokumenteeritaks."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "5. peatükk - TÕSTESEADMETÖÖD",
+      "section": "17",
+      "title": "§ 17. Tõsteseadmetöid juhtiv isik",
+      "content": "(1) Tõsteseadmetöid juhtiv isik on isik, kes:\n1) on pädev käesoleva seaduse ja teiste õigusaktide kohaselt korraldama või tagama tõsteseadmetööde nõuetekohast tegemist;\n2) kohustub tagama, et tõsteseadmetöödel järgitaks käesoleva seaduse ja teiste õigusaktide nõudeid.\n(2) Tõsteseadmetöid juhtival isikul peavad olema erialane ettevalmistus, vähemalt kaheaastane töökogemus tõsteseadmetööde tegemisel, teadmised tõsteseadmest, selle ehitusest ja kasutamise ohutusnõuetest tema poolt juhitavate tõsteseadmetööde ohutuse tagamiseks vajalikus ulatuses.\n(3) Tõsteseadmetöid juhtiva isiku vastavus käesoleva paragrahvi lõikes 2 sätestatud nõuetele peab olema hinnatud ja tõendatud käesoleva seaduse 7. peatükis sätestatud korras.\n(4) Tõsteseadmetöid juhtiv isik on kohustatud tagama, et:\n1) tõsteseadmetööde tegemisel järgitaks õigusaktide nõudeid;\n2) tõsteseadmetöid teeksid selleks piisavat erialast ettevalmistust omavad isikud, keda juhendatakse ülesannete nõuetekohaseks täitmiseks vajalikul määral;\n3) tõsteseade vastaks pärast tõsteseadmetööde tegemist käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele;\n4) tõsteseadmetööde tegemine dokumenteeritaks."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "6. peatükk - TEHNILINE KONTROLL",
+      "section": "18",
+      "title": "§ 18. Tehniline kontroll",
+      "content": "(1) Tehniline kontroll käesoleva seaduse tähenduses on menetlus, mille käigus tehnilise kontrolli teostaja kirjalikult hindab ja tõendab registreeritava tõsteseadme vastavust käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele.\n(2) Tehniline kontroll jaguneb kasutamisele eelnevaks, korraliseks ja erakorraliseks tehniliseks kontrolliks.\n(3) Enne tõsteseadme esmakordset kasutusele võtmist tuleb tagada kasutamisele eelnev, tõsteseadme kasutamisel korraline ja käesoleva paragrahvi lõikes 4 sätestatud juhtudel erakorraline tehniline kontroll.\n(4) Erakorraline tehniline kontroll teostatakse järgmistel juhtudel:\n1) enne tõsteseadme kasutusele võtmist, kui seda pole kasutatud eelnenud 12 kuu jooksul;\n2) lifti kabiini või vastukaalutrosside vahetamisel;\n3) juhikute vahetamisel;\n4) lifti ajami, hõõrdratta või võlli vahetamisel;\n5) hüdrosilindri vahetamisel;\n6) kiiruspiiriku või püüduri vahetamisel;\n7) puhvrite vahetamisel;\n8) pärast tõsteseadme ümberehitamist.\n(5) Korralise tehnilise kontrolli teostamise sageduse ja korra ning kasutamisele eelneva ja erakorralise tehnilise kontrolli teostamise korra kehtestab majandus- ja kommunikatsiooniminister.\n(6)"
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "6. peatükk - TEHNILINE KONTROLL",
+      "section": "19",
+      "title": "§ 19. Nõuded tehnilise kontrolli teostajale",
+      "content": "(1)\n(1^1)\n(2) Tehnilise kontrolli teostaja peab:\n1) omama tehnilise kontrolli teostamiseks vajaliku ettevalmistuse, hariduse ja kogemusega töötajaid, kes tunnevad tõsteseadme ja selle tehnilise kontrolli kohta käivaid õigusakte, standardeid ja eeskirju ning kellel on piisavad teadmised ja kogemused tõsteseadme tehnilise kontrolli teostamiseks. Tehnilist kontrolli teostava töötaja nõuetele vastavus tõendatakse käesoleva seaduse 7. peatükis sätestatud korras;\n2) valdama vahendeid tehnilise kontrolli teostamiseks;\n3) olema sõltumatu, asjatundlik, erapooletu ja mittediskrimineeriv;\n4) teavitama Tehnilise Järelevalve Ametit ja tõsteseadme omanikku või valdajat tehnilise kontrolli käigus tuvastatud puudustest, mis võivad ohustada inimest või vara;\n5)\n6) tagama kogu Eesti territooriumil kõikide registreeritavate tõsteseadmete tehnilise kontrolli teenuse osutamise ühtse hinnakirja alusel, kusjuures tehnilise kontrolli teenuse hind ei tohi oleneda kontrollitava tõsteseadme asukohast;\n7)\n8) esitama Tehnilise Järelevalve Ametile kümne tööpäeva jooksul elektrooniliselt andmed tehnilise kontrolli kohta käesoleva seaduse § 15 lõike 3 alusel kehtestatud korra kohaselt;\n9) omama kogu tehnilise kontrolli teostajana tegutsemise aja jooksul kehtivat ja käesoleva seaduse §-s 27 sätestatud tingimustele vastavat vastutuskindlustust;\n10) olema tehnilise kontrolli teostamiseks akrediteeritud;\n11)\n(3)"
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "7. peatükk - ISIKU NÕUETELE VASTAVUSE HINDAMINE JA TÕENDAMINE",
+      "section": "20",
+      "title": "§ 20. Isiku nõuetele vastavuse hindamine ja tõendamine",
+      "content": "(1) Isiku nõuetele vastavuse hindamine ja tõendamine käesoleva seaduse tähenduses on menetlus, mille käigus isiku nõuetele vastavuse hindaja ja tõendaja hindab kasutamise järelevaataja ja tõsteseadmetöid juhtiva isiku ning tehnilist kontrolli teostava töötaja nõuetele vastavust ning tõendab seda pädevustunnistuse andmisega.\n(2) Pädevustunnistus antakse, kui isiku erialane ettevalmistus ja töökogemus vastavad käesolevast seadusest tulenevatele nõuetele ning isik sooritab pädevuseksami positiivselt.\n(3) Isik, kellele pädevustunnistus on antud, peab võimaldama isiku nõuetele vastavuse hindajal ja tõendajal kontrollida enda jätkuvat vastavust sätestatud nõuetele.\n(4) Kui käesoleva paragrahvi alusel teostatava kontrolli käigus tuvastatakse isiku mittevastavus nõuetele, võib isiku nõuetele vastavuse hindaja ja tõendaja asjaolude kaalukust arvestades pädevustunnistuse kehtetuks tunnistada või sellel märgitud pädevuse ulatust piirata.\n(5) Isiku nõuetele vastavuse hindaja ja tõendaja tunnistab pädevustunnistuse kehtetuks, kui:\n1) tuvastatakse, et pädevustunnistus on saadud seoses pettuse, võltsingu või ebaõigete andmete esitamisega;\n2) vastavalt käesoleva seaduse § 29 lõikele 2 on pädevustunnistuse kehtivus peatatud ning isik ei ole oma pädevuse uuesti hindamiseks sooritanud pädevuseksamit kolme kuu jooksul pädevustunnistuse kehtivuse peatamise tähtaja lõppemisest arvates;\n3) pädevuse uuesti hindamisel selgub isiku mittevastavus pädevustunnistuse saamise eelduseks olevatele nõuetele;\n4) isik ei ole isiku nõuetele vastavuse hindaja ja tõendaja poolt kontrolli käigus esitatud nõudeid täitnud kolme kuu jooksul nende esitamisest arvates.\n(6) Isiku nõuetele vastavuse hindamise ja tõendamise ning välisriigis omandatud pädevuse tunnustamise korra kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para20^1",
+      "chapter": "7. peatükk - ISIKU NÕUETELE VASTAVUSE HINDAMINE JA TÕENDAMINE",
+      "section": "20^1",
+      "title": "§ 20^1. Välisriigis omandatud pädevuse tunnustamine",
+      "content": "(1) Kui isik, kes soovib töötada kasutamise järelevaatajana, tõsteseadmetöid juhtiva isikuna või tehnilist kontrolli teostava töötajana, on omandanud pädevuse välisriigis, ei kohaldata tema suhtes käesoleva seaduse § 20 nõudeid.\n(2) Välisriigis omandatud pädevuse vastavust käesoleva seaduse nõuetele hindab ja tõendab isiku nõuetele vastavuse hindaja ja tõendaja välisriigi kutsekvalifikatsiooni tunnustamise seaduse ja selle alusel kehtestatud õigusaktide alusel, arvestades käesolevast seadusest tulenevaid erisusi.\n(3) Välisriigis omandatud pädevuse tunnustamise eest riigilõivu ei tasuta. Välisriigis omandatud pädevuse tunnustamise eest tasutakse isiku nõuetele vastavuse hindajale ja tõendajale vastavalt tema hinnakirjale.\n(4)"
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "7. peatükk - ISIKU NÕUETELE VASTAVUSE HINDAMINE JA TÕENDAMINE",
+      "section": "21",
+      "title": "§ 21. Isiku nõuetele vastavuse hindaja ja tõendaja",
+      "content": "(1)\n(2) Isiku nõuetele vastavuse hindaja ja tõendaja peab:\n1) omama isiku nõuetele vastavuse hindamiseks ja tõendamiseks vajaliku erialase ettevalmistuse, väljaõppe ja kogemusega töötajaid;\n2) valdama vahendeid isiku nõuetele vastavuse hindamiseks ja tõendamiseks;\n3) olema sõltumatu, asjatundlik, erapooletu ja mittediskrimineeriv;\n4) omama kogu isiku nõuetele vastavuse hindaja ja tõendajana tegutsemise aja jooksul kehtivat ja käesoleva seaduse §-s 27 sätestatud nõuetele vastavat vastutuskindlustust;\n5) olema isiku nõuetele vastavuse hindamiseks ja tõendamiseks akrediteeritud;\n6) tagama isiku nõuetele vastavuse hindamise ja tõendamise teenuse ning välisriigis omandatud pädevuse tunnustamise teenuse kõigile taotlejatele.\n(3)\n(4) Isiku nõuetele vastavuse hindamise ja tõendamise teenuse ning välisriigis omandatud pädevuse tunnustamise teenuse hinnad peavad olema kulupõhised, läbipaistvad ja mittediskrimineerivad ning kujundatud selliselt, et kataksid nende teenustega seotud põhjendatud kulutused ja tagaksid isiku nõuetele vastavuse hindajale ja tõendajale mõistliku kasumi."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "8. peatükk - TEGEVUSLUBA JA VASTUTUSKINDLUSTUS",
+      "section": "22",
+      "title": "§ 22. Loakohustus",
+      "content": "(1) Isikul peab olema tegevusluba järgmistel tegevusaladel tegutsemiseks:\n1) tõsteseadmetööde tegemine;\n2) tehnilise kontrolli teostamine;\n3) isiku nõuetele vastavuse hindamine ja tõendamine.\n(2) Tegevusluba annab loa tõsteseadmetööde tegemiseks käesoleva seaduse §-s 17 nimetatud tõsteseadmetöid juhtiva isiku pädevuse ulatuses.\n(3) Käesoleva paragrahvi lõike 1 punktides 1 ja 2 sätestatud loakohustus puudub teises Euroopa Majanduspiirkonna liikmesriigis õiguspäraselt tõsteseadmetöid tegeval ja seal asutatud isikul või liikmesriigi kodanikul Eestis ajutiselt tõsteseadmetööde tegemiseks. Selline isik teavitab Eestis tegevuse alustamisel Tehnilise Järelevalve Ametit ja järgib Eestis tõsteseadmetöödele kehtestatud nõudeid.\n(4) Käesoleva paragrahvi lõike 1 punktis 3 sätestatud loakohustus puudub teises Euroopa Majanduspiirkonna liikmesriigis õiguspäraselt tehnilist kontrolli teostaval ja seal asutatud isikul või liikmesriigi kodanikul Eestis ajutiselt tehnilise kontrolli teostamiseks. Selline isik teavitab Eestis tegevuse alustamisel Tehnilise Järelevalve Ametit ja järgib Eestis tehnilise kontrolli teostamisele kehtestatud nõudeid."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "8. peatükk - TEGEVUSLUBA JA VASTUTUSKINDLUSTUS",
+      "section": "23",
+      "title": "§ 23. Tegevusloa taotlemine",
+      "content": "Tegevusloa taotluse lahendab Majandus- ja Kommunikatsiooniministeerium tegevusloa andmise või andmisest keeldumisega viie tööpäeva jooksul taotluse esitamise päevast arvates."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "8. peatükk - TEGEVUSLUBA JA VASTUTUSKINDLUSTUS",
+      "section": "24",
+      "title": "§ 24. Tegevusloa kontrolliese",
+      "content": "(1) Tõsteseadmetööde tegemiseks antakse tegevusluba, kui taotleja tõsteseadmetöid juhtiv isik vastab käesoleva seaduse § 17 lõigetes 2 ja 3 sätestatud nõuetele.\n(2) Isiku nõuetele vastavuse hindamiseks ja tõendamiseks antakse tegevusluba, kui taotleja vastab käesoleva seaduse § 21 lõikes 2 sätestatud nõuetele ning omab §-s 27 sätestatud tingimustele vastavat vastutuskindlustust.\n(3) Tehnilise kontrolli teostamiseks antakse tegevusluba, kui taotleja vastab käesoleva seaduse § 19 lõike 2 punktides 10 ja 11 sätestatud nõuetele ning omab §-s 27 sätestatud tingimustele vastavat vastutuskindlustust."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "8. peatükk - TEGEVUSLUBA JA VASTUTUSKINDLUSTUS",
+      "section": "25",
+      "title": "§ 25. Isiku nõuetele vastavuse hindaja ja tõendaja dokumentatsiooni üleandmise kohustus",
+      "content": "Tegevusloa kehtetuks tunnistamise korral peab isiku nõuetele vastavuse hindaja ja tõendaja kogu oma isiku nõuetele vastavuse hindamise ja tõendamise alase dokumentatsiooni üle andma Tehnilise Järelevalve Ametile ühe kuu jooksul tegevusloa kehtetuks tunnistamise päevast arvates."
+    },
+    {
+      "provision_ref": "para25^1",
+      "chapter": "8. peatükk - TEGEVUSLUBA JA VASTUTUSKINDLUSTUS",
+      "section": "25^1",
+      "title": "§ 25^1. Teatamiskohustus",
+      "content": "Lifti paigaldamise tegevusalal tegutsemiseks peab esitama majandustegevusteate."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "8. peatükk - TEGEVUSLUBA JA VASTUTUSKINDLUSTUS",
+      "section": "27",
+      "title": "§ 27. Vastutuskindlustus",
+      "content": "Ettevõtja, kes tegutseb tehnilise kontrolli teostajana või isiku nõuetele vastavuse hindaja ja tõendajana, peab omama vastutuskindlustuslepingut kindlustussumma ulatuses, mis:\n1) tagab tema tegevuses tehnilise kontrolli teostajana või isiku nõuetele vastavuse hindaja ja tõendajana kolmandale isikule tekkida võiva kogu kahju hüvitamise;\n2) on vähemalt 31 950 eurot."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "9. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "28",
+      "title": "§ 28. Riiklik järelevalve",
+      "content": "Käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle teostab riiklikku järelevalvet Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "9. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "29",
+      "title": "§ 29. Tehnilise Järelevalve Ameti pädevus",
+      "content": "Tehnilise Järelevalve Ameti pädevusse kuulub: 1 1) järelevalve selle üle, kas turule lastud tõsteseade, alamsüsteem ja ohutusseadis vastavad käesoleva seaduse ning selle alusel kehtestatud õigusaktide nõuetele (turujärelevalve);\n2) järelevalve selle üle, kas tõsteseadme kasutamine, tõsteseadmetööd ja tehniline kontroll vastavad käesoleva seaduse ning selle alusel kehtestatud õigusaktide nõuetele;\n3) järelevalve selle üle, kas järgitakse teavitatud asutuse, tehnilise kontrolli teostaja ja ettevõtja suhtes käesoleva seaduse ning selle alusel kehtestatud õigusaktide nõudeid;\n4) tõsteseadmega toimunud avarii või õnnetuse tekkepõhjuste väljaselgitamine;\n5) järelevalve käigus ettekirjutuste ja otsuste tegemine ning tõsteseadme, alamsüsteemi ja ohutusseadise nõuetele vastavuse kontrollimine."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "9. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "30",
+      "title": "§ 30. Riikliku järelevalve erimeetmed",
+      "content": "Tehnilise Järelevalve Amet võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para30^1",
+      "chapter": "9. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "30^1",
+      "title": "§ 30^1. Riikliku järelevalve erisused",
+      "content": "(1) Tehnilise Järelevalve Amet võib korrakaitseseaduse §-s 50 sätestatud tingimustel siseneda üksnes teavitatud asutuse, tehnilise kontrolli teostaja või isiku nõuetele vastavuse hindaja ja tõendaja ruumidesse, tõsteseadme, alamsüsteemi ja ohutusseadise valmistamis-, paigaldus-, kasutamis-, remondi-, hooldus-, ladustamis- ja müügikohta.\n(2) Kui riikliku järelevalve käigus tuvastatakse, et kasutamise järelevaataja, tõsteseadmetöid juhtiv isik või tehnilist kontrolli teostav töötaja ei ole järginud tema tegevuse suhtes kohaldatavaid nõudeid ja on sellega põhjustanud ohu inimese elule, tervisele, varale või keskkonnale, võib Tehnilise Järelevalve Ameti peadirektor või tema volitatud ametiisik sõltuvalt rikkumise raskusest ja lisaks muude käesolevast seadusest tulenevate sanktsioonide rakendamisele peatada oma otsusega kasutamise järelevaataja, tõsteseadmetöid juhtiva isiku või tehnilist kontrolli teostava töötaja pädevustunnistuse kehtivuse kuni üheks aastaks. Pädevustunnistuse kehtivuse taastamiseks tuleb sooritada uus pädevuseksam.\n(3) Tehnilise Järelevalve Ametil on õigus keelata tõsteseadme, alamsüsteemi või ohutusseadise turule laskmine või kasutamine ajaks, mis on vajalik selle nõuetele vastavuse tagamiseks, ja nõuda nõuetele mittevastava tõsteseadme, alamsüsteemi või ohutusseadise turult eemaldamist või selle kasutamise lõpetamist."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "9. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "31",
+      "title": "§ 31. Otsus ja sunniraha määr",
+      "content": "(1)\n(2) Tehnilise Järelevalve Ameti peadirektoril või tema volitatud ametiisikul on õigus teha otsus:\n1) käesoleva seaduse § 30^1 lõikes 2 nimetatud juhul kasutamise järelevaataja, tõsteseadmetöid juhtiva isiku või tehnilist kontrolli teostava töötaja pädevustunnistuse peatamise kohta.\n2)\n(3) Käesoleva paragrahvi lõikes 2 sätestatud otsuses märgitakse:\n1) otsuse tegemise aeg ja koht;\n2) otsuse sisu ja õiguslik alus;\n3) märge otsuse vaidlustamise võimaluse, tähtaja ja korra kohta;\n4) otsuse teinud isiku ees- ja perekonnanimi ning ametinimetus.\n(4)\n(5) Käesoleva paragrahvi lõikes 2 sätestatud otsus tehakse isikule teatavaks ning antakse kätte allkirja vastu või saadetakse posti teel väljastusteatega kahe tööpäeva jooksul otsuse tegemise päevast arvates.\n(6) Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär 640 eurot."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "36",
+      "title": "§ 36. Tõsteseadme kasutusele võtmise ja kasutamise nõuete rikkumine",
+      "content": "(1) Tõsteseadme kasutusele võtmise või kasutamise nõuete või tõsteseadme omaniku või kasutamise järelevaataja kohustuste rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "37",
+      "title": "§ 37. Tõsteseadmetööde tegemise nõuete rikkumine",
+      "content": "(1) Tõsteseadmetööde tegemise nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para37^1",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "37^1",
+      "title": "§ 37^1. Tõsteseadmetöid juhtiva isiku kohustuste täitmata jätmine",
+      "content": "Tõsteseadmetöid juhtiva isiku kohustuste täitmata jätmise eest, kui sellega põhjustati oht inimese elule, tervisele, varale või keskkonnale, – karistatakse rahatrahviga kuni 300 trahviühikut."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "38",
+      "title": "§ 38. Tehnilise kontrolli ning isiku nõuetele vastavuse hindamise ja tõendamise nõuete rikkumine",
+      "content": "(1) Tehnilise kontrolli või isiku nõuetele vastavuse hindamise ja tõendamise nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "39",
+      "title": "§ 39. Menetlus",
+      "content": "(1) Käesoleva seaduse §-des 36–38 sätestatud väärtegudele kohaldatakse karistusseadustiku üldosa ja väärteomenetluse seadustiku sätteid.\n(2) Käesoleva seaduse §-des 36–38 sätestatud väärtegude kohtuväline menetleja on Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "40",
+      "title": "§ 40. Enne käesoleva seaduse jõustumist paigaldatud tõsteseadmed",
+      "content": "(1) Enne käesoleva seaduse jõustumist paigaldatud tõsteseadmed peavad olema ohutud ja vastama nende paigaldamise ajal kehtinud nõuetele.\n(2) Kui enne käesoleva seaduse jõustumist paigaldatud tõsteseadme ümberehitamise käigus tehakse tõsteseadme põhiparameetritesse, alamsüsteemidesse või ohutusseadistesse muudatusi, peavad need muudatused ja nende mõju kogu tõsteseadmele vastama käesoleva seaduse nõuetele."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "41",
+      "title": "§ 41. Üleminekusätted",
+      "content": "(1) Ettevõtja võib tegutseda registri registreeringuta 2002. aasta 1. oktoobrini.\n(2) Enne käesoleva seaduse jõustumist surve- ja tõsteseadme ohutuse seaduse alusel tegutsenud tehnilise kontrolli teostaja peab vastama käesoleva seaduse nõuetele hiljemalt 2003. aasta 1. jaanuaril.\n(3) Käesoleva paragrahvi lõikes 2 sätestatud tehnilise kontrolli teostaja on kohustatud esitama andmed käesoleva seaduse §-s 15 sätestatud korras enne käesoleva seaduse jõustumist teostatud tehnilise kontrolli kohta 2002. aasta 1. oktoobriks.\n(4) Kasutamise järelevaataja ning lifti remondi ja tehnohoolduse järelevaataja, kelle nõuetele vastavust on enne käesoleva seaduse jõustumist hinnatud ja tõendatud pädevustunnistusega surve- ja tõsteseadme ohutuse seaduse alusel, loetakse neile väljastatud pädevustunnistuse kehtivuse lõpuni käesolevas seaduses esitatud nõuetele vastavaks. Lifti remondi ja tehnohoolduse järelevaataja pädevus on vastav käesolevas seaduses sätestatud tõsteseadmetöid juhtiva isiku omale.\n(5) Köistee alamsüsteemi ja ohutusseadise turule laskmisel ning kasutusele võtmisel ei pea kuni 2004. aasta 3. maini järgima käesoleva seaduse § 6 lõike 2 punktis 3 ja lõike 3 punktides 3–5 sätestatud nõudeid."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "42",
+      "title": "§ 42. Juriidilise isiku haldusvastutus enne karistusseadustiku jõustumist",
+      "content": "Juriidiline isik vastutab käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuete rikkumise eest järgmises ulatuses:\n1) riikliku erinõuetega ettevõtjate registri registreeringuta tõsteseadme paigaldamise, tõsteseadmetööde tegemise või isiku nõuetele vastavuse hindamise ja tõendamise eest – määratakse rahatrahv 5000 kuni 50 000 krooni;\n2) riikliku erinõuetega registri volitatud töötlejale valeandmete esitamise või andmete muutumisest teatamata jätmise või tähtaegselt esitamata jätmise eest – määratakse rahatrahv 500 kuni 5000 krooni;\n3) tõsteseadme, alamsüsteemi või ohutusseadise turule laskmise või kasutamise nõuete rikkumise eest – määratakse rahatrahv 5000 kuni 50 000 krooni;\n4) tõsteseadmetööde tegemise nõuete rikkumise eest – määratakse rahatrahv 5000 kuni 50 000 krooni;\n5) isiku nõuetele vastavuse hindamise ja tõendamise või tehnilise kontrolli nõuete rikkumise eest – määratakse rahatrahv 5000 kuni 50 000 krooni."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "43",
+      "title": "§ 43. Menetlus haldusõiguserikkumise asjades enne karistusseadustiku jõustumist",
+      "content": "(1) Menetlus käesoleva seaduse §-s 42 sätestatud haldusõiguserikkumiste asjades, kaasa arvatud karistuse määramine ja vaidlustamine ning jõustunud halduskaristuse täitmine, toimub haldusõiguserikkumiste seadustikus sätestatud korras.\n(2) Riiklikku järelevalvet teostaval ametiisikul on õigus määrata juriidilisest isikust haldusõiguserikkujale rahatrahv kuni 20 000 krooni. Sellest suurema rahatrahvi määramise õigus on maa- või linnakohtu kohtunikul.\n(3) Haldusõiguserikkumise protokolli märgitakse:\n1) selle koostamise aeg ja koht;\n2) asutuse nimetus ja aadress, kelle nimel protokoll koostatakse;\n3) protokolli koostanud isiku ees- ja perekonnanimi ning ametinimetus;\n4) haldusõiguserikkuja nimi, aadress ja kontaktandmed;\n5) haldusõiguserikkuja esindaja ees- ja perekonnanimi ning ametikoht;\n6) viide õigusakti sättele, mida rikuti;\n7) haldusõiguserikkuja või viimase esindaja seletus õigusrikkumise kohta;\n8) tunnistajate seletused ja muud asja lahendamiseks olulised asjaolud;\n9) teave, et haldusõiguserikkujale on selgitatud õigust kasutada õigusabi.\n(4) Protokoll esitatakse tutvumiseks haldusõiguserikkujale või tema esindajale. Haldusõiguserikkuja või tema esindaja annab protokolliga tutvumisel allkirja. Allkirja andmisest keeldumise korral teeb protokolli koostaja protokolli sellekohase märke. Protokolli koopia väljastatakse haldusõiguserikkujale või tema esindajale."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "44",
+      "title": "§ 44. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2002. aasta 1. juulil, välja arvatud:\n1) paragrahvi 6 lõige 5 ja § 7 lõige 4, mis jõustuvad vastavasisulise välislepingu jõustumisel või Eesti ühinemisel Euroopa Liiduga olenevalt sellest, kumb tähtpäev saabub varem;\n2) 10. peatükk, mis jõustub koos karistusseadustikuga.\n(2) Käesoleva seaduse §-d 42 ja 43 kehtivad kuni karistusseadustiku jõustumiseni."
+    }
+  ],
+  "definitions": []
+}

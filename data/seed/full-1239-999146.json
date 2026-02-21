@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-999146",
+  "type": "statute",
+  "title": "Saastetasu seadus",
+  "title_en": "Saastetasu seadus",
+  "short_name": "SaasteTS",
+  "status": "in_force",
+  "issued_date": "1999-02-10",
+  "in_force_date": "2006-01-01",
+  "url": "https://www.riigiteataja.ee/akt/999146.xml",
+  "description": "Official consolidated statute text (Saastetasu seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

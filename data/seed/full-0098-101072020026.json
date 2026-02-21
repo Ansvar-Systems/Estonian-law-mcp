@@ -1,0 +1,295 @@
+{
+  "id": "ee-law-101072020026",
+  "type": "statute",
+  "title": "Biotsiidiseadus",
+  "title_en": "Biotsiidiseadus",
+  "short_name": "ee-law-101072020026",
+  "status": "in_force",
+  "issued_date": "2009-05-14",
+  "in_force_date": "2021-05-26",
+  "url": "https://www.riigiteataja.ee/akt/101072020026.xml",
+  "description": "Official consolidated statute text (Biotsiidiseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus annab õigusliku aluse biotsiidi ja biotsiidiga töödeldud toote turul kättesaadavaks tegemisele ja kasutamisele, biotsiidi kasutamisega seotud majandustegevuse piiramisele ning riikliku järelevalve korraldamisele käesolevas seaduses ja Euroopa Liidu asjakohases määruses sätestatud nõuete täitmise üle eesmärgiga kaitsta tervist, keskkonda ja vara ning tagada kaupade vaba liikumine.\n(1^1) Biotsiidi ja biotsiidiga töödeldud toote turul kättesaadavaks tegemise ja kasutamise nõuded ja tingimused on kehtestatud Euroopa Parlamendi ja nõukogu määruses (EL) nr 528/2012, milles käsitletakse biotsiidide turul kättesaadavaks tegemist ja kasutamist (EMPs kohaldatav tekst) (ELT L 167, 27.06.2012, lk 1–123) (edaspidi biotsiidimäärus ).\n(1^2) Käesolevat seadust kohaldatakse biotsiidi ja biotsiidiga töödeldud toote turul kättesaadavaks tegemisele ja kasutamisele juhtudel, mida ei ole reguleeritud biotsiidimäärusega.\n(2) Käesolevat seadust ei kohaldata järgmiste toodete kohta:\n1) taimekaitsevahend, mille suhtes kohaldatakse taimekaitseseadust ja asjakohaseid Euroopa Liidu õigusakte;\n2) ravim, mille suhtes kohaldatakse ravimiseadust ja asjakohaseid Euroopa Liidu õigusakte;\n3) meditsiiniseade, mille suhtes kohaldatakse meditsiiniseadme seadust ja asjakohaseid Euroopa Liidu õigusakte;\n4) kosmeetikatoode, mille suhtes kohaldatakse rahvatervise seadust;\n5) toiduga kokkupuutumiseks ettenähtud materjal või ese või nende koostisosa, mille suhtes kohaldatakse toiduseadust ja asjakohaseid Euroopa Liidu õigusakte;\n6) toit või toidu lisaaine, ensüüm, lõhna- ja maitseaine või abiaine, mille suhtes kohaldatakse toiduseadust ning asjakohaseid Euroopa Liidu õigusakte;\n7) sööt, mille suhtes kohaldatakse söödaseadust.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse ja biotsiidimääruse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para5^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5^1",
+      "title": "§ 5^1. Terminid",
+      "content": "Käesolevas seaduses kasutatakse termineid biotsiidimääruse tähenduses, kui käesolevas seaduses ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Pädev asutus",
+      "content": "Käesolevas seaduses ja biotsiidimääruses sätestatud toimingud teeb ja haldusaktid annab Terviseamet, kui käesolevas seaduses või biotsiidimääruses ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "8",
+      "title": "§ 8. Biotsiidi kättesaadavaks tegemise ja kasutamise üldnõuded",
+      "content": "(1) Biotsiidi turul kättesaadavaks tegemine on tegevus, millega biotsiid tehakse tasu eest või tasuta kättesaadavaks kasutamiseks või levitamiseks Euroopa Liidu tolliterritooriumil. Biotsiidi kättesaadavaks tegemiseks peetakse ka selle importi ja ladustamist, välja arvatud juhul, kui ladustamisele järgneb selle eksport või ringlusest kõrvaldamine.\n(2)\n(3) Biotsiidi on lubatud Eestis kättesaadavaks teha ja kasutada, kui see on saanud asjakohase loa või registreerimistunnistuse käesoleva seaduse või biotsiidimääruse kohaselt."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - TOIMEAINE KANDMINE BIOTSIIDIDIREKTIIVI LISASSE",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMISE LUBAMINE",
+      "section": "13",
+      "title": "§ 13. Turustusloa andmise tingimused",
+      "content": "(1) Terviseamet annab biotsiidile turustusloa, kui biotsiidi kõik toimeained on kantud biotsiididirektiivi I või I A lisasse ja kui neis sätestatud tingimused on täidetud ning biotsiidi toimikus esitatud andmete alusel, arvestades biotsiidi ettenähtud kasutamistingimuste, biotsiidiga töödeldud materjalide ettenähtud kasutamistingimuste ning biotsiidi kasutamise ja hävitamise võimalike tagajärgedega, on täidetud järgmised tingimused:\n1) biotsiid on piisavalt tõhus;\n2) biotsiid ei põhjusta sihtorganismil vastuvõetamatuid tagajärgi, nagu resistentsust või ristresistentsust, ning selgroogsetel tarbetuid kannatusi või valu;\n3) biotsiid või selle jäägid ei avalda inimese ega looma tervisele vastuvõetamatut toimet otseselt ega kaudselt joogivee, toidu, sööda, elu- ja tööruumide õhu kaudu ega muul viisil;\n4) biotsiid või selle jäägid ei avalda vastuvõetamatut mõju keskkonnale, arvestades biotsiidi käitumist ja liikuvust keskkonnas, pinna-, põhja- või joogivee võimalikku saastumist ning biotsiidi mõju mittesihtorganismidele;\n5) biotsiidi füüsikalised ja keemilised omadused on kindlaks määratud ning need on biotsiidi ettenähtud kasutamiseks, hoidmiseks ja transportimiseks sobivad.\n(2) Biotsiidi toimeainete ja vajaduse korral toksilisuse või ökotoksilisuse seisukohast oluliste lisandite või muude koostisainete või biotsiidi lubatud kasutamisel tekkivate jääkide olemust ja kogust peab olema võimalik kindlaks teha biotsiididirektiivi II A, II B, III A, III B, IV A või IV B lisa kohaselt.\n(3) Biotsiidi turustusloa menetlemisel tuleb arvestada ka muude õigusaktidega kehtestatud sätteid, millega reguleeritakse biotsiidide levitajate, kasutajate ja tarbijate ning loomade tervise kaitse ja keskkonnakaitse küsimusi.\n(4) Et tagada biotsiidi vastavus käesoleva paragrahvi lõikes 1 esitatud nõuetele, võib turustusloas kehtestada biotsiidi kättesaadavaks tegemise ja kasutamise piiranguid, eelkõige biotsiidi lubatud kasutusala, biotsiidi kasutajate, kättesaadavaks tegemise või kasutamise tingimuste kitsendamise või biotsiidi kasutamisel lubatud piirkoguste kohta.\n(5) Biotsiidi, mis on klassifitseeritud väga mürgiseks, mürgiseks, 1. või 1 A, 2. või 1 B kategooriasse kuuluvaks kantserogeenseks, mutageenseks või reproduktiivtoksiliseks kemikaaliks, ei tohi lubada kättesaadavaks tegemiseks või kasutamiseks tarbijale tarbijakaitseseaduse tähenduses."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMISE LUBAMINE",
+      "section": "14",
+      "title": "§ 14. Turustusloa taotlemine",
+      "content": "(1) Turustusluba võib taotleda biotsiidi Eestis esmakordse kättesaadavaks tegemise eest vastutav isik või tema esindaja, kes on registreeritud Eestis või mõnes teises liikmesriigis ettevõtjana või kel on esindus Eestis või mõnes teises liikmesriigis.\n(2) Turustusloa taotlemisel tuleb esitada Terviseametile:\n1) biotsiididirektiivi II B lisa ja vajaduse korral III B lisa asjakohaste osade nõuete kohane biotsiidi toimik, madala riskiastmega biotsiidi toimik või asjakohane teabekasutusnõusolek;\n2) biotsiididirektiivi II A lisa ja vajaduse korral III A lisa asjakohaste osade nõuete kohane toimik biotsiidis sisalduva iga toimeaine kohta või asjakohane teabekasutusnõusolek;\n3) ettepanek toimikute erialaseks hindamiseks valitud eksperdi heakskiitmiseks koos tema sobivuse põhjendusega.\n(3) Turustusloa taotlemisel esitatakse toimikud ja muud asjakohased dokumendid eesti või inglise keeles nii paberil kui ka digitaalselt.\n(4) Terviseamet koostab iga taotluse kohta kausta või faili, mis sisaldab vähemalt taotluse ja toimikute kohta tehtud haldusotsuseid ning toimikute kokkuvõtteid.\n(5) Terviseamet esitab käesoleva paragrahvi lõikes 4 nimetatud materjalid Euroopa Komisjonile või teiste liikmesriikide pädevatele asutustele nende nõudmise korral ning vajaduse korral edastab neile kogu teabe, mis on vajalik taotluse sisu mõistmiseks, samuti tagab, et taotleja esitab nõude korral toimiku koopia."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMISE LUBAMINE",
+      "section": "15",
+      "title": "§ 15. Biotsiidi toimik",
+      "content": "(1) Biotsiidi toimikus esitatakse uuringute tulemused ja vajalik teave biotsiididirektiivi II A ja II B lisa ning vajaduse korral III A ja III B lisa asjakohaste osade kohaselt. Toimik peab sisaldama tehtud uuringute üksikasjalikku kirjeldust, samuti kasutatud meetodite üksikasjalikku kirjeldust või bibliograafilisi viiteid kasutatud meetoditele. Toimikus esitatav teave biotsiidi või selle toimeaine omaduste ja toime kohta peab olema piisav, et hinnata biotsiidi või toimeaine vastavust § 13 lõikes 1 esitatud nõuetele.\n(2)\n(3) Toimikus ei pea esitama teavet, mis ei ole oluline biotsiidi olemuslike omaduste või biotsiidi kavandatud kasutusala seisukohast, samuti teavet, mis ei ole teaduslikult põhjendatud või mis tehnilistel põhjustel ei olnud kättesaadav. Kõnealuse teabe puudumise kohta esitatakse asjakohane ning pädevat asutust rahuldav põhjendus. Selliseks põhjenduseks võib olla raammääratluse olemasolu, mille kasutamiseks on taotlejal teabekasutusnõusolek."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMISE LUBAMINE",
+      "section": "17",
+      "title": "§ 17. Turustusloa andmine raammääratluse korral",
+      "content": "(1) Biotsiidide raammääratlusega kirjeldatakse sama kasutusala ja kasutajate rühmaga biotsiide, mis sisaldavad samu toimeaineid ning kuuluvad samasse tooteliiki. Erinevused raammääratlusega hõlmatud biotsiidide koostises võrreldes juba turustusloa saanud biotsiidi koostisega võivad seisneda üksnes väiksemas toimeaine sisalduses, biotsiidi koostisesse kuuluva ühe või mitme mittetoimeaine suhtelise sisalduse muutuses või ühe või mitme pigmendi, värvaine või lõhnaaine asendamises teise ainega, millega kaasneb sama või madalam riskitase ja mis ei vähenda biotsiidi tõhusust.\n(2) Terviseamet koostab biotsiidide raammääratluse biotsiidide turustuslubade taotlemisel esitatud asjakohase taotluse alusel või omaalgatuslikult ning väljastab selle taotlejale koos turustuslubadega.\n(3) Kui raammääratluse omanik taotleb uuele raammääratlusel põhinevale biotsiidile turustusluba, tuleb taotlus menetleda ja otsus teha hiljemalt 60 päeva jooksul."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMISE LUBAMINE",
+      "section": "18",
+      "title": "§ 18. Turustusloa kehtivusaeg",
+      "content": "(1) Turustusluba antakse tähtajalisena kuni kümneks aastaks.\n(2) Turustusloa kehtivusaeg ei või olla pikem kui biotsiidis sisalduva toimeaine sissekande kehtivusaeg biotsiididirektiivi I või I A lisas.\n(3)\n(4)"
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMISE LUBAMINE",
+      "section": "21",
+      "title": "§ 21. Turustuslubade vastastikune tunnustamine",
+      "content": "(1) Teises liikmesriigis välja antud turustusloa tunnustamise taotlemiseks tuleb Terviseametile esitada järgmised dokumendid:\n1) käesoleva seaduse § 14 lõike 2 punkti 1 ja biotsiididirektiivi II B lisa X punkti nõuetele vastava toimiku kokkuvõte;\n2) esmase ingliskeelse turustusloa kinnitatud koopia või turustusloa eesti- või ingliskeelse tõlke kinnitatud koopia.\n(2) Turustuslubade vastastikuse tunnustamise menetlusaeg on kuni 120 päeva.\n(3) Terviseamet võib taotlejalt nõuda biotsiidi märgistusel esitatud kasutustingimuste muutmist nii, et biotsiid vastaks §-s 13 esitatud tingimustele, kui ta teeb hindamise käigus kindlaks, et\n1) Eestis ei esine biotsiidi sihtorganismi ohtlikus koguses;\n2) on välja selgitatud sihtorganismi resistentsus selle biotsiidi suhtes või biotsiidi ebasoovitav ja talumatu mõju sihtorganismile või\n3) esmase kasutusloa andnud riigi ja Eesti kliima- või muud tingimused erinevad oluliselt, mistõttu võib esialgsete kasutustingimuste järgimisel tekkida vastuvõetamatu risk inimeste ja loomade tervisele ning keskkonnale.\n(4) Kui Terviseamet otsustab, et liikmesriigis turustusloa saanud biotsiid ei vasta §-s 13 esitatud tingimustele ning tal on alus keelduda selle Eestis turule lubamisest või seda turule lubada üksnes kasutustingimuste muutmise korral, teavitab ta viivitamata Euroopa Komisjoni, teiste liikmesriikide pädevaid asutusi ja loa taotlejat otsusest asjakohase seletuskirjaga, milles on esitatud toote nimetus ja kirjeldus ning ettepaneku põhjendused.\n(5) Terviseamet võib Euroopa Liidu ühinemislepingust lähtudes keelduda biotsiididirektiivi V lisas esitatud tooteliikidesse 15, 17 ja 23 kuuluvate biotsiidide turustuslubade vastastikusest tunnustamisest. Terviseamet peab sellisest otsusest ja selle põhjustest teavitama Euroopa Komisjoni ja teiste liikmesriikide pädevaid asutusi."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMISE LUBAMINE",
+      "section": "23",
+      "title": "§ 23.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - TEAVE JA KOOSTÖÖ",
+      "section": "26",
+      "title": "§ 26.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "5. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMINE JA KASUTAMINE",
+      "section": "32",
+      "title": "§ 32. Biotsiidide klassifitseerimine, pakendamine ja märgistamine",
+      "content": "(1) Kättesaadavaks tehtav biotsiid peab olema enne kättesaadavaks tegemist klassifitseeritud, märgistatud ja pakendatud kemikaaliseaduse ning selle alusel kehtestatud õigusaktide või Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1272/2008, mis käsitleb ainete ja segude klassifitseerimist, märgistamist ja pakendamist ning millega muudetakse direktiive 67/548/EMÜ ja 1999/45/EÜ ja tunnistatakse need kehtetuks ning muudetakse määrust (EÜ) nr 1907/2006 (EMPs kohaldatav tekst) (ELT L 353, 31.12.2008, lk 1–1355), ning käesoleva seaduse nõuete kohaselt.\n(2) Biotsiidi pakend peab võimaldama biotsiidi selgelt eristada toidust ja söödast.\n(3) Tarbijale tarbijakaitse seaduse mõistes kasutamiseks ettenähtud biotsiidile, mida võib eksikombel pidada toiduks või söödaks, tuleb lisada koostisosi, mis teevad selle tarbimise vastumeelseks.\n(4) Putukate, lestaliste, näriliste, lindude või molluskite tõrjeks ettenähtud biotsiidide pakendamisel ja märgistamisel tuleb arvestada taimekaitseseadusega sätestatud asjakohaseid erinõudeid kooskõlas käesoleva seaduse turustusloa andmise nõuetega.\n(5) Biotsiidi pakendi märgistus peab olema eestikeelne ning sellel ei tohi olla teavet, mis eksitaks kasutajat või suunaks teda biotsiidi kasutama mittesihtotstarbeliselt.\n(6) Käesolevas paragrahvis kindlaks määratud klassifitseerimise, pakendamise ja märgistamise nõudeid ei kohaldata biotsiidide veole."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "5. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMINE JA KASUTAMINE",
+      "section": "33",
+      "title": "§ 33. Kättesaadavaks tegemise piirangud",
+      "content": "(1) Biotsiidi, mis on klassifitseeritud mürgiseks, väga mürgiseks, 1. või 1 A, 2. või 1 B kategooriasse kuuluvaks kantserogeenseks, mutageenseks või reproduktiivtoksiliseks kemikaaliks, ei tohi kättesaadavaks teha tarbijale tarbijakaitseseaduse tähenduses.\n(2) Biotsiidimääruse kohaselt kutsealaseks kasutamiseks ettenähtud biotsiide ei tohi kättesaadavaks teha tarbijale tarbijakaitseseaduse tähenduses.\n(3) Kutsealaseks kasutamiseks ettenähtud biotsiide tohib kättesaadavaks teha üksnes hulgikaubanduses.\n(4) Kutsealaseks kasutamiseks ettenähtud biotsiidide müügiga tegelemiseks peab majandustegevusteate esitama hulgikaubanduse tegevusalal.\n(5) Majandustegevusteates esitatakse lisaks majandustegevuse seadustiku üldosa seaduses sätestatule järgmised andmed:\n1) tegevuskoht või tegevuskohad, e-kaubanduse korral veebilehe aadress;\n2) kaup, mida soovitakse müüa (kutsealaseks kasutamiseks ettenähtud biotsiid).\n(6) Biotsiidi turul kättesaadavaks tegevatel isikutel peavad olema teadmised biotsiidide ohtlike omaduste, riskide ohjamise ja kasutustingimuste kohta ning valmisolek vajaduse korral nõustada biotsiidi kasutajaid."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "5. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMINE JA KASUTAMINE",
+      "section": "34",
+      "title": "§ 34. Biotsiidi hoiu- ja kättesaadavaks tegemise koht",
+      "content": "(1) Et tagada inimeste ja loomade tervise- ning keskkonnaohutus, tuleb biotsiidi hoida ja kättesaadavaks teha nii, et oleks välditud toidu, ravimite ja söötade, samuti muude kaupade saastumine sellega.\n(2) Biotsiidi hoiu- ja kättesaadavaks tegemise kohas ei tohi olla biotsiidi avatud pakendeid. Hoiu- ja kättesaadavaks tegemise kohas on keelatud biotsiidi ümberpakendamine.\n(3) Biotsiidi, mille pakend on purunenud, ei tohi kättesaadavaks teha. Selline toode tuleb viivitamata kõrvaldada ja jäätmeseaduses sätestatud korras kahjutustada, arvestades biotsiidi ohutuskaardi andmeid."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "5. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMINE JA KASUTAMINE",
+      "section": "36",
+      "title": "§ 36. Biotsiidi reklaam",
+      "content": "Biotsiidi reklaam peab vastama reklaamiseaduse §-s 27 sätestatud nõuetele."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "5. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMINE JA KASUTAMINE",
+      "section": "37",
+      "title": "§ 37. Mürgistusalane teave",
+      "content": "Loaomanik, kes vastutab ohtliku biotsiidi turule laskmise eest Eesti Vabariigis, peab enne biotsiidi turule laskmist esitama Terviseameti mürgistusteabe keskusele Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1272/2008 artikli 45 kohase teabe, mida kasutatakse mürgistusjuhtumite ennetus- ja ravimeetmete väljatöötamise ning rakendamise eesmärgil."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "5. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMINE JA KASUTAMINE",
+      "section": "38",
+      "title": "§ 38. Biotsiidi kasutamise üldnõuded",
+      "content": "(1) Isik, kes kasutab biotsiidi kahjulike organismide hävitamiseks, tõrjumiseks, kahjutuks muutmiseks või nende ebasoovitava toime ohjamiseks (edaspidi kahjuritõrjuja ), peab kahjuritõrjet tegema üksnes biotsiidi märgistusel ja kasutusjuhendis ettenähtud viisil ja tingimustel.\n(2)\n(3)"
+    },
+    {
+      "provision_ref": "para38^1",
+      "chapter": "5. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMINE JA KASUTAMINE",
+      "section": "38^1",
+      "title": "§ 38^1. Biotsiidi kutseline kasutaja",
+      "content": "(1) Biotsiidi kutseline kasutaja on isik, kellel on asjakohane ettevalmistus ja kes kasutab majandus- või kutsetegevuse käigus biotsiide, mis on biotsiidi turul kättesaadavaks tegemiseks ja kasutamiseks antud loaga või registreerimistunnistusega ette nähtud kutsealaseks kasutamiseks.\n(2) Biotsiidi kutselisel kasutajal peavad olema teadmised kutsetegevuses kasutatavate biotsiidide ohtlike omaduste, riskide ohjamise ja kasutustingimuste kohta ning biotsiidi ohutu kasutamise oskused, mis on saadud taseme- või tööalase koolituse käigus, mille kohta on olemas asjakohane tunnistus või tõend."
+    },
+    {
+      "provision_ref": "para38^2",
+      "chapter": "5. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMINE JA KASUTAMINE",
+      "section": "38^2",
+      "title": "§ 38^2. Biotsiidi kutselise kasutaja koolitus",
+      "content": "(1) Koolitusasutus korraldab biotsiidi kutselise kasutaja koolitust täiskasvanute koolituse seaduses, kutseõppeasutuse seaduses ja käesolevas seaduses sätestatud nõuete kohaselt.\n(2) Koolitusasutus peab õppe- või koolituskava koostamisel võtma aluseks 4. või 5. taseme kahjuritõrjuja kutsestandardi ja esitama oma kava enne koolituse korraldamist kahjuritõrjuja kutse andjale kutseseaduse tähenduses seisukoha ja ettepanekute saamiseks."
+    },
+    {
+      "provision_ref": "para38^3",
+      "chapter": "5. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMINE JA KASUTAMINE",
+      "section": "38^3",
+      "title": "§ 38^3. Kahjuritõrje kutsealaseks kasutamiseks ettenähtud biotsiidiga",
+      "content": "(1) Kutseline kahjuritõrjeteenuse osutaja on ettevõtja, kelle majandus- või kutsetegevuseks on kahjuritõrjeteenuse osutamine ning kellel on selleks vähemalt üks asjakohase ettevalmistusega spetsialist.\n(2) Kutselisel kahjuritõrjeteenuse osutajal on asjakohane õigussuhe käesoleva seaduse §-s 39 nimetatud vastutava spetsialistiga või on füüsilisest isikust ettevõtja ise pädev tegutsema vastutava spetsialistina.\n(3) Ettevõtja, kes ei ole kutseline kahjuritõrjeteenuse osutaja, kuid kelle majandustegevuse käigus kasutatakse kutsealaseks kasutamiseks ettenähtud biotsiide, peab tagama, et kahjuritõrjuja on pädev ning vastab käesoleva seaduse § 38^1 lõikes 2 sätestatud nõuetele."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "5. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMINE JA KASUTAMINE",
+      "section": "39",
+      "title": "§ 39. Vastutav spetsialist",
+      "content": "(1) Vastutav spetsialist on isik, kes on pädev juhtima ja korraldama kahjuritõrjet ning nõustama ettevõtjat, et oleks tagatud õigusaktides sätestatud nõuete täitmine.\n(2) Vastutaval spetsialistil peab olema kahjuritõrje juhtimiseks ja korraldamiseks omandatud kahjuritõrjuja 5. taseme kutsekvalifikatsioon kutseseaduse tähenduses, mille kohaselt isik korraldab ressursside jagamist ja teiste tööd ning vastutab selle töö eest.\n(3) Käesoleva paragrahvi lõikes 2 sätestatud kutsekvalifikatsiooni taotlemisel on nõutav vähemalt keskharidus, kutse- ja juhtimisalase täiendusõppe läbimine ning kolmeaastane kahjuritõrje töökogemus.\n(4) Välisriigis omandatud pädevuse vastavust käesoleva seaduse nõuetele hindab ja tõendab pädev asutus välisriigi kutsekvalifikatsiooni tunnustamise seaduse alusel, arvestades käesolevast seadusest tulenevaid erisusi. Välisriigi kutsekvalifikatsiooni tunnustamise seaduse § 7 lõikes 2 sätestatud pädev asutus on Sotsiaalministeerium."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "5. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMINE JA KASUTAMINE",
+      "section": "40",
+      "title": "§ 40. Teatamiskohustus",
+      "content": "(1) Kutseliseks kahjuritõrjeteenuse osutamiseks peab esitama majandustegevusteate.\n(2) Majandustegevusteates esitatakse lisaks majandustegevuse seadustiku üldosa seaduses sätestatule järgmised andmed:\n1) vastutava spetsialisti nimi ja isikukood, selle puudumise korral sünniaeg;\n2) vastutava spetsialisti telefoninumber ja e-posti aadress;\n3) vastutava spetsialisti kvalifikatsiooni tõendava tunnistuse number ja kehtivusaeg, kutse andja nimi, kutse andmise koht ja kuupäev."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "5. peatükk - BIOTSIIDI KÄTTESAADAVAKS TEGEMINE JA KASUTAMINE",
+      "section": "41",
+      "title": "§ 41. Kahjuritõrje korraldamine objektil",
+      "content": "(1) Kahjuritõrje objektina käsitatakse hoonet, rajatist või selle osa või nende juurde kuuluvat piiritletud maa-ala (edaspidi objekt ), kus on võimalik kahjulike organismide levik.\n(2) Objekti valdaja korraldab kahjulike organismide jälgimise objektil ning vastutab kahjurite kahjustava toime ennetamise ja kahjurite hävitamise eest.\n(3) Objekti valdaja loob vajalikud tingimused kahjuritõrje ohutuks läbiviimiseks objektil ning koos kahjuritõrjet tegeva isikuga töötab välja kahjuritõrje läbiviimise plaani.\n(4) Kahjuritõrjuja koostab tehtud kahjuritõrje kohta objekti valdajale aruande, mida säilitatakse vähemalt viis aastat.\n(5) Täpsustatud nõuded kahjuritõrje läbiviimisele, plaanile ja aruandele kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "6. peatükk - RIIGILÕIVUD JA TASUD",
+      "section": "42",
+      "title": "§ 42. Riigilõivud dokumentide menetlemise eest Terviseametis",
+      "content": "(1) Biotsiidi toimeaine heakskiitmise taotleja, biotsiidile asjakohase loa taotleja või käesoleva seaduse kohaselt registreerimistunnistuse taotleja tasub enne dokumentide esitamist Terviseametile biotsiidimääruse kohaselt riigilõivu riigilõivuseaduses sätestatud määras järgmiste toimingute eest:\n1) toimeaine heakskiitmiseks esitatud taotluse kinnitamine;\n2) toimeaine heakskiitmise otsuse uuendamiseks esitatud taotluse kinnitamine;\n3) toimeaine kasutamiseks täiendava tooteliigi heakskiitmiseks esitatud taotluse kinnitamine;\n4) biotsiidile riikliku loa andmise taotluse kinnitamine ja loa andmine või sellest keeldumise otsuse tegemine;\n5) biotsiidiperele liidu loa andmise taotluse kinnitamine;\n6) biotsiidile liidu loa andmise taotluse kinnitamine;\n7) biotsiidiperele riikliku loa andmise taotluse kinnitamine ja loa andmine või sellest keeldumise otsuse tegemine;\n8) biotsiidile või biotsiidiperele antud riikliku loa uuendamise taotluse kinnitamine ja muudetud loa andmine või sellest keeldumise otsuse tegemine;\n9) biotsiidile või biotsiidiperele antud liidu loa uuendamise taotluse kinnitamine;\n10) biotsiidiperele antud loale toote lisamise taotluse menetlemine;\n11) biotsiidile lihtsustatud korras riikliku loa andmise taotluse kinnitamine ja loa andmine või sellest keeldumise otsuse tegemine;\n12) biotsiidile lihtsustatud korras antud riikliku loa uuendamise taotluse kinnitamine ja muudetud loa andmine või sellest keeldumise otsuse tegemine;\n13) lihtsustatud korras loa saanud biotsiidi Eestis kättesaadavaks tegemise taotluse menetlemine;\n14) biotsiidile järjestikku või paralleelse vastastikuse tunnustamise korras riikliku loa andmise taotluse menetlemine;\n15) biotsiidile paralleelse kaubanduse riikliku loa andmise taotluse menetlemine;\n16) samade omadustega biotsiidile riikliku loa andmise taotluse menetlemine;\n17) biotsiidi või toimeaine uurimis- ja arendustegevuse eesmärgil kasutamiseks ja kättesaadavaks tegemiseks riikliku loa andmise taotluse menetlemine;\n18) biotsiidile ajutise riikliku loa andmise taotluse menetlemine;\n19) biotsiidile antud riikliku loa haldusliku muudatuse, nagu toote nimetuse või tootja nime muutmine või muud muudatused, millega ei kaasne toote omaduste, kvaliteedi või toime muutust, taotluse menetlemine;\n20) biotsiidile antud riikliku loa vähem tähtsa muudatuse, nagu koostises mittetoimeainete muudatus, kasutustingimuste, säilivusaja, ladustamistingimuste või pakendi suuruse muutmine, taotluse menetlemine;\n21) biotsiidile antud riikliku loa olulise muudatuse, nagu klassifikatsiooni või toote koostise muutmine või muud muudatused, millega võib kaasneda toote omaduste, kvaliteedi või toime muutus, taotluse kinnitamine ja muudetud loa andmine või sellest keeldumise otsuse tegemine;\n22) biotsiidile antud liidu loa olulise muudatuse, nagu klassifikatsiooni või toote koostise muutmine või muud muudatused, millega võib kaasneda toote omaduste, kvaliteedi või toime muutus, taotluse kinnitamine;\n23) üleminekuperioodil biotsiidi registreerimistunnistuse taotluse menetlemine;\n24) üleminekuperioodil biotsiidi registreerimistunnistuse muudatuse taotluse menetlemine.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud toimingute eest võetava riigilõivu määrad vaadatakse üle vähemalt iga kahe aasta järel ja vajaduse korral tehakse asjakohased muudatused lõivu suuruses, võttes aluseks möödunud perioodi tegelikud kulutused."
+    },
+    {
+      "provision_ref": "para42^1",
+      "chapter": "6. peatükk - RIIGILÕIVUD JA TASUD",
+      "section": "42^1",
+      "title": "§ 42^1. Tasud biotsiidile loa andmise taotluse hindamise eest",
+      "content": "(1) Biotsiidile liidu või riikliku loa taotleja tasub biotsiidimääruse kohaselt taotluse hindamise eest Terviseametile.\n(2) Terviseamet hindab võimaluse korral taotlust asutusesiseselt või kasutab hindamiseks lepinguliste ekspertide abi. Eksperdi tunnitasu võib olla maksimaalselt 150 eurot.\n(3) Taotlust võib hinnata ekspert, kes on sõltumatu Eesti või välismaa füüsiline või juriidiline isik ning kellel on kogemus biotsiidide, taimekaitsevahendite või muude seda laadi ainete taotluste erialasel hindamisel. Ekspert peab arvestama biotsiidimääruses esitatud nõuetega ja Euroopa Komisjoni asjakohaste juhistega erialase hindamise kohta.\n(4) Taotleja tasub Terviseametile järgmiste toimingute eest:\n1) toimeaine heakskiitmiseks esitatud taotluse hindamine, mille algtasu on 133 865 eurot, maksimaalne tasu 387 945 eurot;\n2) toimeaine heakskiitmise otsuse uuendamiseks esitatud taotluse hindamine, mille algtasu on 39 775 eurot, maksimaalne tasu 99 935 eurot;\n3) toimeaine kasutamiseks täiendava tooteliigi heakskiitmiseks esitatud taotluse hindamine, mille algtasu on 58 440 eurot, maksimaalne tasu 160 680 eurot;\n4) biotsiidile loa andmise taotluse hindamine, mille algtasu on 28 865 eurot, maksimaalne tasu 158 170 eurot;\n5) biotsiidile või biotsiidiperele antud loa uuendamise taotluse hindamine, mille algtasu on 21 120 eurot, maksimaalne tasu 75 625 eurot;\n6) biotsiidiperele loa andmise taotluse hindamine, mille algtasu on 55 145 eurot, maksimaalne tasu 302 190 eurot;\n7) biotsiidile lihtsustatud korras loa andmise taotluse hindamine, mille algtasu on 4340 eurot, maksimaalne tasu 7300 eurot;\n8) biotsiidile lihtsustatud korras antud loa uuendamise taotluse hindamine, mille algtasu on 2350 eurot, maksimaalne tasu 3950 eurot;\n9) biotsiidile antud loa olulise muudatuse taotluse hindamine, mille algtasu on 17 600 eurot, maksimaalne tasu 63 020 eurot.\n(5) Käesoleva paragrahvi lõikes 4 sätestatud toimingute eest võetava tasu määrad vaadatakse üle vähemalt iga kahe aasta järel ja vajaduse korral tehakse asjakohased muudatused tasu suuruses, võttes aluseks möödunud perioodi tegelikud kulutused."
+    },
+    {
+      "provision_ref": "para42^2",
+      "chapter": "6. peatükk - RIIGILÕIVUD JA TASUD",
+      "section": "42^2",
+      "title": "§ 42^2. Tasude maksmise tingimused ja kord",
+      "content": "(1) Biotsiidile loa taotleja tasub biotsiidimääruses ettenähtud tähtaja jooksul Terviseametile seaduses ettenähtud algtasu. Olenevalt hindamisele tehtud tegelikest kulutustest maksab Terviseamet taotlejale enam makstud summa tagasi või maksab taotleja juurde, kuid kokku mitte rohkem kui seaduses ettenähtud maksimaalne tasu.\n(2) Taotluse hindaja peab pidama taotluse hindamiseks kulunud aja kohta tööaja arvestust, kuhu on kantud hindamiseks kulutatud aeg päevade kaupa.\n(3) Tasu arvutamise aluseks võetakse tööks kulutatud tööaeg tundides, Terviseameti ametniku või töötaja tunnitasu eelmise kalendriaasta personali- ja majanduskulude alusel ning eksperdi tunnitasu.\n(4) Kui hindamiseks kulus vähem kui tasutud algsumma, maksab Terviseamet taotlejale enam makstud summa tagasi 30 kalendripäeva jooksul pärast taotlejale arve esitamist. Taotlejale ei tagastata 100 eurost väiksemat summat, kui taotleja ei ole tagasimaksmist nõudnud.\n(5) Kui hindamiseks kulus rohkem kui tasutud algsumma, maksab taotleja Terviseameti esitatud arve alusel nõutud tasu 30 kalendripäeva jooksul arve saamisest arvates Terviseameti arvelduskontole.\n(6) Kui taotleja ei tasu käesoleva paragrahvi lõikes 5 nimetatud summat ettenähtud tähtaja jooksul, on Terviseametil õigus anda tasu maksmiseks kohustav nõue sundtäitmisele täitemenetluse seadustikus sätestatud korras.\n(7) Terviseamet väljastab asjakohase otsuse viie tööpäeva jooksul pärast käesoleva paragrahvi lõikes 5 nimetatud summa laekumist."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "7. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "43",
+      "title": "§ 43. Riiklik järelevalve",
+      "content": "Riiklikku järelevalvet biotsiididele ja biotsiidi sisaldavatele toodetele ning nende turul kättesaadavaks tegemisele ja kasutamisele käesoleva seaduse ja selle alusel kehtestatud õigusaktide ning biotsiidimäärusega sätestatud nõuete täitmise üle teostavad: 1 1) Terviseamet – biotsiidi ja biotsiidiga töödeldud toote kättesaadavaks tegemisele kehtestatud nõuete täitmise üle biotsiidi tootja ja importija juures ning toodete hulgimüügil, biotsiidile kehtestatud nõuete ja selle kasutamise üle kutselise kahjuritõrjeteenuse osutaja juures ning rahvatervise seaduse ja tervishoiuteenuste korraldamise seadusega reguleeritud valdkondades;\n2) Tarbijakaitse ja Tehnilise Järelevalve Amet – biotsiidi ja biotsiidiga töödeldud toote turul kättesaadavaks tegemisele kehtestatud nõuete täitmise üle jaemüügil;\n3) Tööinspektsioon – biotsiidi kasutamisele kehtestatud nõuete täitmise üle töötervishoiu- ja tööohutuse seadusega reguleeritud valdkonnas;\n4) Keskkonnainspektsioon – biotsiidi kasutamisele kehtestatud nõuete täitmise üle keskkonnaohtlikkuse seisukohast oma valdkonna järelevalve objektidel;\n5) Põllumajanuds- ja Toiduamet – biotsiidi kasutamisele kehtestatud nõuete täitmise üle loomatervise ning sööda- ja toiduohutuse seisukohast oma valdkonna järelevalve objektidel;\n6) Maksu- ja Tolliamet – biotsiidide kättesaadavaks tegemisele kehtestatud nõuete täitmist ühenduse turule sisenemisel Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 765/2008 artiklite 27–29 kohaselt."
+    },
+    {
+      "provision_ref": "para43^1",
+      "chapter": "7. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "43^1",
+      "title": "§ 43^1. Riikliku järelevalve erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 45, 49, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para43^2",
+      "chapter": "7. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "43^2",
+      "title": "§ 43^2. Riikliku järelevalve erisused",
+      "content": "(1) Korrakaitseorganil on õigus kehtiva turustusloa või registreerimistunnistuse puudumise korral keelata biotsiidi import ühenduse tolliterritooriumile ja müük.\n(2) Kui riikliku järelevalve tegemise käigus on järelevalveasutus teinud biotsiidimääruse artikli 88 kohaselt ettekirjutuse biotsiidi kättesaadavaks tegemise ja kasutamise piiramise või ajutise keelamise kohta, teavitab ta sellest kohe Terviseametit, kes omakorda teavitab sellest viivitamata Euroopa Komisjoni ja teisi liikmesriike.\n(3) Järelevalveasutused esitavad Terviseametile 2015. aasta 1. juuliks ja pärast seda iga viienda aasta 1. aprilliks biotsiidimääruse artikli 65 lõike 3 kohased andmed. Terviseamet esitab saadud andmete alusel komisjonile biotsiidimääruse artikli 65 lõikes 3 nimetatud aruande.\n(4) Korrakaitseorgan võib riikliku järelevalve teostamise eesmärgil viibida ja liikuda sõidukiga, sealhulgas maastikusõidukiga ja ujuvvahendiga maa- või veealal, kus viibimine ja liikumine on keskkonnakaitse eesmärgil õigusaktiga keelatud või piiratud."
+    },
+    {
+      "provision_ref": "para43^3",
+      "chapter": "7. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "43^3",
+      "title": "§ 43^3. Vahetu sunni kasutamine",
+      "content": "Keskkonnainspektsioonil on lubatud kasutada füüsilist jõudu korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "7. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "46",
+      "title": "§ 46. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär 32 000 eurot."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "47",
+      "title": "§ 47. Biotsiidi ja biotsiidiga töödeldud toote kättesaadavaks tegemisele ja kasutamisele kehtestatud nõuete rikkumine",
+      "content": "(1) Biotsiidi ja biotsiidiga töödeldud toote kättesaadavaks tegemisele ja kasutamisele käesoleva seaduse ja biotsiidimäärusega kehtestatud nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "48",
+      "title": "§ 48. Menetlus",
+      "content": "(1)\n(2) Käesoleva seaduse §-s 47 sätestatud väärtegude kohtuvälised menetlejad on vastavalt oma pädevusele:\n1) Tööinspektsioon;\n2) Keskkonnainspektsioon;\n3) Tarbijakaitse ja Tehnilise Järelevalve Amet;\n4) Terviseamet;\n5) Põllumajandus- ja Toiduamet.\n6)"
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "49",
+      "title": "§ 49. Seaduse rakendamine biotsiidimääruses ettenähtud üleminekuperioodi reguleeriva tööprogrammi raames",
+      "content": "(1) Biotsiide, mille toimeained vastavad biotsiidimääruse artikli 89 lõikes 2 sätestatud tingimustele, võib jätkuvalt kättesaadavaks teha ja kasutada pärast registreerimist Terviseametis.\n(1^1) Biotsiide, mis vastavad käesoleva paragrahvi lõikes 1 sätestatud nõuetele, registreeritakse kuni 2024. aasta 31. detsembrini või tähtpäevani, milleni on Euroopa Komisjoni otsusega pikendatud üleminekuperioodi teatud toimeainete kohta esitatud andmete läbivaatamiseks.\n(2) Registreerimiseks esitatakse Terviseametile järgmised andmed:\n1) taotleja nimi, registrikood või isikukood ja kontaktandmed;\n2) biotsiidi ja toimeaine tootja kontaktandmed ja tootmiskoha aadress;\n3) vajaduse korral asjakohane teabekasutusnõusolek;\n4) biotsiidi kaubanduslik nimetus;\n5) biotsiidi täielik koostis ja iga ohtliku koostisaine klassifikatsioon;\n6) biotsiidi füüsikalised ja keemilised omadused, mis on asjakohased biotsiidi ettenähtud kasutamise, hoidmise ja transportimise seisukohast;\n7) biotsiidi tooteliik ja kasutusala;\n8) biotsiidi kasutajad;\n9) biotsiidi kasutusviis ja kasutusjuhend;\n10) võimaluse korral andmed biotsiidi toime tõhususe kohta;\n11) biotsiidi klassifikatsioon, pakendamine ja märgistus koos märgistuse näidisega;\n12) biotsiidi ohutuskaart.\n(3) Kui toimeaine on kantud liidu heakskiidetud toimeainete nimekirja, tuleb taotleda registreeritud biotsiidile luba biotsiidimääruses sätestatud nõuete kohaselt. Taotlus loa saamiseks tuleb esitada hiljemalt biotsiidimääruse artikli 89 lõikes 3 nimetatud kuupäevaks.\n(4) Eestis registreeritud biotsiidi võib jätkuvalt turul kättesaadavaks teha pärast toimeaine heakskiitmise kuupäeva, kui taotleja on esitanud loataotluse Terviseametile või Euroopa Kemikaaliametile biotsiidiregistri kaudu.\n(5)\n(6) Biotsiide, mis on kantud komisjoni määruse (EÜ) nr 1451/2007 Euroopa Parlamendi ja nõukogu biotsiidide turuleviimist käsitleva direktiivi 98/8/EÜ artikli 16 lõikes 2 osutatud kümneaastase tööprogrammi teise etapi kohta I või II lisasse, kuid mille import Eestisse on keelatud Euroopa Parlamendi ja nõukogu määruse 304/2003/EÜ ohtlike kemikaalide eksportimise ja importimise kohta (ELT L 063, 06.03.2003, lk 1–26) kohaselt, ei ole lubatud Eestisse sisse tuua ka teistest liikmesriikidest ega Eestis kättesaadavaks teha ja kasutada.\n(7) Enne 2013. aasta 1. septembrit antud turustuslubade ja registreerimistunnistuste suhtes kohaldatakse käesoleva seaduse § 1 lõiget 2, §-e 13 ja 14, § 15 lõikeid 1 ja 3, § 17, § 18 lõikeid 1 ja 2, § 21, § 32 lõiget 1 ja § 33 lõiget 1."
+    },
+    {
+      "provision_ref": "para49^1",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "49^1",
+      "title": "§ 49^1. Seaduse § 39 lõike 2 rakendamine",
+      "content": "Enne 2015. aasta 1. juulit kahjuritõrje juhtimiseks ja korraldamiseks omandatud kahjuritõrjuja III taseme kutsekvalifikatsioon on võrdsustatud käesoleva seaduse § 39 lõikes 2 nõutud 5. taseme kahjuritõrjuja kutsekvalifikatsiooniga."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "50",
+      "title": "§ 50.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "52",
+      "title": "§ 52.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    }
+  ],
+  "definitions": []
+}

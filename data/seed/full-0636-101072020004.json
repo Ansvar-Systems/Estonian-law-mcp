@@ -1,0 +1,729 @@
+{
+  "id": "ee-law-101072020004",
+  "type": "statute",
+  "title": "Kalapüügiseadus",
+  "title_en": "Kalapüügiseadus",
+  "short_name": "ee-law-101072020004",
+  "status": "in_force",
+  "issued_date": "2015-02-19",
+  "in_force_date": "2021-01-01",
+  "url": "https://www.riigiteataja.ee/akt/101072020004.xml",
+  "description": "Official consolidated statute text (Kalapüügiseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse eesmärk",
+      "content": "Käesoleva seaduse eesmärk on: 1 1) tagada kala- ja veetaimevaru kaitse ja säästlik kasutamine lähtuvalt rahvusvaheliselt tunnustatud kohuseteadliku kalanduse põhimõtetest;\n2) tagada kala- ja veetaimevaru taastumisvõime ja veekogude tootlikkus;\n3) vältida ebasoodsaid muutusi veekogu ökosüsteemis."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Kohaldamisala",
+      "content": "(1) Käesolev seadus kehtib Eesti Vabariigi territooriumil ja majandusvööndis majandusvööndi seadusest ja Euroopa Liidu (edaspidi EL ) õigusaktidest tulenevate erisustega.\n(2) Käesolev seadus ei reguleeri kalakasvatust ja -püüki kalakasvatusrajatistes nagu tiigid, sumbad ja basseinid.\n(3) Käesolev seadus reguleerib kalapüüki väljaspool Eesti Vabariigi jurisdiktsiooni oleval veealal, kui püük toimub Eesti lipudokumenti omava laevaga või kui kalapüüki teostab käesolevas seaduses sätestatud juhul Eesti Vabariigi äriregistris registreeritud ettevõtja niivõrd, kuivõrd püügikoha asukohariigi õigusakt või püügikoha kalapüüki reguleeriv rahvusvaheline leping või ELi õigusakt ei sätesta teisiti.\n(4) Käesolevas seaduses sätestatud haldusmenetlusele kohaldatakse haldusmenetluse seadust, arvestades käesolevas seaduses sätestatud erisusi."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Mõisted",
+      "content": "(1) Kalapüük on tegevus, mille eesmärk on kala, jõesilmu ja teiste sõõrsuude, jõevähi, krevetiliste ning teiste kümnejalaliste, kalmaari ja teiste peajalgsete (edaspidi kõik koos kala ) hõivamine nende kinnipüüdmise või surmamise teel ning veetaime kogumine.\n(2) Veekogul või selle ranna või kalda piiranguvööndis püügivahendiga viibimine, välja arvatud püügivahendite hoidmiseks mõeldud ehitises või vahetult selle läheduses ja veekogul käesoleva seaduse alusel kehtestatud keeluala läbimine püügikohta jõudmiseks, võrdsustatakse kalapüügiga.\n(3) Kaaspüük on püüda lubatud kalaliigi kõrval teise kalaliigi isendi või sellel ajal, kohas või püünisega püüda keelatud kalaliigi isendi või alamõõdulise kala püünisesse sattumine ja väljapüük.\n(4) Veetaime kogumine on agariku ( Furcellaria lumbricalis ) püük merest.\n(5) Kalur on füüsiline isik, kes vahetult püüab kala või kogub veetaimi kutselise kalapüügi vahendiga.\n(6) Käitlemine käesoleva seaduse tähenduses on tegevus, mis on seotud kala tootmise, töötlemise, üleandmise, vastuvõtmise, hoidmise ning transpordiga."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Kala ja agariku kuuluvus",
+      "content": "(1) Looduslikus vabaduses olev kala on peremehetu.\n(2) Püüdja omand kalale tekib hõivamisega, kui see ei ole vastuolus käesoleva seadusega ja ei rikuta teiste isikute õigusi.\n(3) Agarik meres on riigi omand. Kaldale uhutud agarik on kaldal asuva kinnisasja omaniku omand."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5",
+      "title": "§ 5. Kalapüügiõigus",
+      "content": "(1) Kala võib püüda või veetaimi koguda kalapüügiõiguse alusel.\n(2) Sõltuvalt kasutatavatest püügivahenditest on kalapüügiõigus:\n1) õngepüügiõigus;\n2) harrastuskalapüügiõigus;\n3) kutselise kalapüügi õigus;\n4) eripüügiõigus.\n(3) Kalapüügiõigus tekib käesolevas seaduses sätestatud alustel ja korras."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "6",
+      "title": "§ 6. Kalapüügiõiguse tasulisus",
+      "content": "Kalapüügiõiguse eest makstakse tasu keskkonnatasude seaduses ja selle alusel kehtestatud õigusaktides sätestatud korras ja juhtudel, arvestades käesolevast seadusest tulenevaid erisusi."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "7",
+      "title": "§ 7. Elektroonilise menetluse põhimõtte rakendamine",
+      "content": "(1) Käesolevas seaduses ettenähtud taotlused, teated ja andmed võib isik esitada elektroonilises vormis digitaalallkirjastatult, või kui selline võimalus on loodud, siis ka muul sellesarnasel isikut tuvastada võimaldaval turvalisel viisil, arvestades käesolevas seaduses või selle alusel kehtestatud õigusaktis sätestatud erisusi.\n(2) Kutselise kalapüügi korraldamisega, sealhulgas kutselise kalapüügi registri toimingutega, seotud otsused tehakse elektrooniliselt. Kui otsuse tegemine elektrooniliselt ei ole tehnilistel põhjustel võimalik, antakse otsus paberil."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "8",
+      "title": "§ 8. Volitatud asutus",
+      "content": "Kui kalapüüki, sellega seonduvat tegevust või kalapüügi järelevalvet reguleeriva ELi määruse kohaselt on vaja määrata volitatud asutus ning seda ei ole käesoleva seadusega tehtud, määrab volitatud asutuse Vabariigi Valitsus korraldusega."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - Kala- ja veetaimevaru kaitse ja kasutamise üldnõuded",
+      "section": "9",
+      "title": "§ 9. Kalapüügieeskiri",
+      "content": "(1) Kalapüügieeskirja, mis näeb ette kalapüügikorra kõigil veekogudel, kehtestab Vabariigi Valitsus määrusega.\n(2) Kalapüügieeskirjaga sätestatakse:\n1) kalapüügi keeluajad ja -alad ning veekogus kalade püügijärgse hoidmise keeluajad;\n2) kalade alammõõdud ja kaaspüügi tingimused, sealhulgas kaaspüügi lubatud määrad;\n3) püügivahendite ja veekogus kalade püügijärgseks hoidmiseks mõeldud vahendite ning püügiviiside nõuded ja kasutamise piirangud;\n4) püügivahendite loetelu ja kirjeldus;\n5) püügivahendite ja veekogus kalade püügijärgseks hoidmiseks mõeldud vahendite tähistamise ning märgistamise, sealhulgas vajaduse korral elektroonilise märgistamise nõuded ja nende vahendite asukoha kindlaksmääramise nõuded;\n6) saagis kalaliikide ja alamõõdulise kala osakaalu määramise metoodika.\n(3) Rahvusvahelisest lepingust tulenevad kalapüügi nõuded ja piirangud väljaspool Eesti Vabariigi jurisdiktsiooni oleval veealal Eesti merelaevatunnistusega laevale, kui seda ei reguleeri ELi õigusaktid või rahvusvahelised lepingud, kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - Kala- ja veetaimevaru kaitse ja kasutamise üldnõuded",
+      "section": "10",
+      "title": "§ 10. Keelatud tegevus, püügiviisid ja -vahendid",
+      "content": "(1) Keelatud on püüda kala, kelle pikkus on väiksem kalapüügieeskirjaga sätestatud alammõõdust, välja arvatud käesoleva seaduse alusel kehtestatud õigusaktiga või ELi määrusega sätestatud kaaspüügi tingimustel (edaspidi kaaspüügi tingimused ).\n(2) Keelatud on püüda kala käesolevas seaduses või selle alusel kehtestatud õigusaktis või ELi õigusaktis või rahvusvahelise lepingu alusel sätestatud keeluajal, -alal või püügivõimalust eirates, välja arvatud käesoleva seaduse § 19 lõike 4 alusel lubatud eriotstarbelisel kalapüügil (edaspidi eripüük ) või kaaspüügi tingimustel.\n(3) Keelatud on koguda veetaimi käesolevas seaduses loetlemata ja kalapüügieeskirjas kirjeldamata püügivahendiga ning käesoleva seaduse alusel kehtestatud õigusaktis sätestatud püügivõimalust eirates.\n(4) Keelatud on vette tagasi heita:\n1) püütud kala, välja arvatud harrastuspüügil õngpüünistega ja õngepüügil püütud kala, neid liike, keda on nimetatud Euroopa Parlamendi ja nõukogu määruse (EL) nr 1380/2013 ühise kalanduspoliitika kohta, millega muudetakse nõukogu määrusi (EÜ) nr 1954/2003 ja (EÜ) nr 1224/2009 ning tunnistatakse kehtetuks nõukogu määrused (EÜ) nr 2371/2002 ja (EÜ) nr 639/2004 ning nõukogu otsus 2004/585/EÜ (ELT L 354, 28.12.2013, lk 22–61), artikli 15 lõike 1 punktides a, b ja d, juhul kui nimetatud artikli lõigetes 5–7 või nende alusel kehtestatud õigusaktides ei ole sätestatud teisiti;\n2) veetaime ja käesoleva lõike punktis 1 viitamata liiki kuuluvat püütud kala, kui see on kaotanud eluvõime, välja arvatud harrastuspüügil õngpüünistega ja õngepüügil püütud kala.\n(5) Keelatud on püüda kala kalapüügivahendeid kasutamata, käesolevas seaduses loetlemata ja kalapüügieeskirjas kirjeldamata vahendiga või käesoleva seaduse või selle alusel kehtestatud õigusakti kohaselt keelatud vahendiga või viisil, samuti viisil, mis põhjustab kalade asjatu hukkumise ja kalavarude kahjustamise, nagu näiteks püük elektriga, mürk- ja narkootilise ainega, tulirelvaga ning lõhkelaenguga.\n(6) Keelatud on kala elektriga püüdmise vahendi (edaspidi elektripüügivahend ) valmistamine, omamine, ladustamine, võõrandamine, transportimine ja kasutamine, välja arvatud käesoleva seaduse § 20 lõikes 2 sätestatud juhul.\n(7) Kalapüügieeskirjas kirjeldamata püügivahendite ja püügiviiside kasutamine on lubatud Keskkonnaministeeriumi loal eripüügi teostamiseks.\n(8) Keelatud on:\n1) müüa, osta või käidelda kala, kes on püütud veekogust ajal, mil selle püüdmine on keelatud, välja arvatud juhtumid, kui kala on püütud eripüügil keskkonnatasude seaduse §-s 57 sätestatud eesmärgil, kaaspüügi tingimustel või kui kala ostab füüsiline isik oma tarbeks ühe ööpäeva jooksul nõukogu määruse (EÜ) nr 1224/2009, millega luuakse ühenduse kontrollisüsteem ühise kalanduspoliitika eeskirjade järgimise tagamiseks ja muudetakse määrusi (EÜ) nr 847/96, (EÜ) nr 2371/2002, (EÜ) nr 811/2004, (EÜ) nr 768/2005, (EÜ) nr 2115/2005, (EÜ) nr 2166/2005, (EÜ) nr 388/2006, (EÜ) nr 509/2007, (EÜ) nr 676/2007, (EÜ) nr 1098/2007, (EÜ) nr 1300/2008 ja (EÜ) nr 1342/2008 ning tunnistatakse kehtetuks määrused (EMÜ) nr 2847/93, (EÜ) nr 1627/94 ja (EÜ) nr 1966/2006 (ELT L 343, 22.12.2009, lk 1–50), artikli 65 lõikes 2 nimetatud koguses;\n2) müüa, osta või käidelda alamõõdulist kala, välja arvatud kaaspüügi tingimustel püütud alamõõdulise kala transport;\n3) müüa, osta või käidelda kala, mille päritolu ei ole tõendatav, välja arvatud kui kala ostab füüsiline isik oma tarbeks ühe ööpäeva jooksul nõukogu määruse (EÜ) nr 1224/2009 artikli 65 lõikes 2 nimetatud koguses;\n4) müüa või osta harrastuskalapüügil või õngepüügil püütud kala;\n5) müüa või osta kala enne lossimist või maale toomist;\n6) töödelda veekogul või vahetult selle rannal või kaldal harrastuskalapüügil või õngepüügil püütud kala, kui selle kalaliigi kohta on käesoleva seaduse § 9 lõike 2 punkti 2 alusel kehtestatud alammõõt ja töötlemine ei võimalda tuvastada püütud kala pikkust.\n(9) Erandina käesoleva paragrahvi lõike 8 punktist 2 on lubatud keskkonnatasude seaduse §-s 57 sätestatud eesmärgil eripüügil püütud alamõõdulise kala ja merest püütud käesoleva paragrahvi lõike 4 punktis 1 viidatud liiki kuuluva alamõõdulise kala mitteinimtoiduks ostmine, müümine, transport ja hoidmine.\n(10) Keelatud on abistada neid laevu, merel kala nendelt laevadelt ümber laadida või osaleda ühises püügitegevuses nende laevadega, mis on nõukogu määruse (EÜ) nr 1005/2008, millega luuakse ühenduse süsteem ebaseadusliku, teatamata ja reguleerimata kalapüügi vältimiseks, ärahoidmiseks ja lõpetamiseks ning muudetakse määrusi (EMÜ) nr 2847/93, (EÜ) nr 1936/2001 ja (EÜ) nr 601/2004 ning tunnistatakse kehtetuks määrused (EÜ) nr 1093/94 ja (EÜ) nr 1447/1999 (ELT L 286, 29.10.2008, lk 1–32), artiklite 27 ja 30 kohaselt kantud ebaseadusliku, teatamata ja reguleerimata kalapüügiga tegelevate laevade ELi nimekirja.\n(11) Eesti Vabariigi äriregistris registreeritud ettevõtjal on keelatud kasutada kalapüügil laeva, mis on nõukogu määruse (EÜ) nr 1005/2008 artiklite 27 ja 30 kohaselt kantud ebaseadusliku, teatamata ja reguleerimata kalapüügiga tegelevate laevade ELi nimekirja.\n(12) Kutselise kalapüügi luba omaval isikul on keelatud müüa tema püütud kala otse füüsilisele isikule oma tarbeks ühe ööpäeva jooksul suuremas koguses, kui sätestab nõukogu määruse (EÜ) nr 1224/2009 artikli 65 lõige 2."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - Kala- ja veetaimevaru kaitse ja kasutamise üldnõuded",
+      "section": "11",
+      "title": "§ 11. Kalapüügiõiguse teostamise üldised kitsendused",
+      "content": "(1) Kalapüügikitsendus kehtestatakse kalakaitse- või teadusasutuse ettepanekul teadusuuringute ja kalapüügiga seotud statistiliste andmete alusel. Kalakaitse- või teadusasutuse ettepanek ei ole vajalik, kui püügikitsendus tuleneb rahvusvahelisest lepingust või ELi õigusaktist või selle on rahvusvahelise lepingu alusel määranud kalapüüki reguleeriv rahvusvaheline organisatsioon.\n(2) Kalavaru ohustatuse korral kehtestab ajutised püügikitsendused valdkonna eest vastutav minister määrusega.\n(3) Erandina käesoleva paragrahvi lõikes 2 sätestatust võib kalade kudemise ajal või suguküpseks arenemata kalade kaitseks kehtestada ajutiselt kalapüügi keeluajad kalaliikide või püügivahendite kaupa valdkonna eest vastutav minister käskkirjaga. Käskkiri tehakse teatavaks Ametlikes Teadaannetes ja see hakkab kehtima järgmisel päeval pärast avaldamist, kui käskkirjas ei ole ette nähtud hilisemat kehtima hakkamise tähtpäeva. Käskkiri avalikustatakse viivitamata ka ministeeriumi veebilehel ning teave ajutiste püügikitsenduste kohta edastatakse elektroonilisel teel kutselise kalapüügiga tegelejaid ühendavatele erialaliitudele.\n(4) Erandina käesoleva paragrahvi lõikes 2 sätestatust, kui Euroopa Komisjon sulgeb nõukogu määruse (EÜ) nr 1224/2009 artikli 104 lõike 1 kohaselt ajutiselt kalapüügi ja osutub vajalikuks kehtestada Eestis ajutine kalapüügikitsendus, võib asjakohase püügikitsenduse kehtestada valdkonna eest vastutav minister käskkirjaga. Käskkiri tehakse teatavaks Ametlikes Teadaannetes ja see hakkab kehtima järgmisel päeval pärast avaldamist, kui käskkirjas ei ole ette nähtud hilisemat kehtima hakkamise tähtpäeva. Käskkiri avalikustatakse viivitamata ka ministeeriumi veebilehel ning teave ajutise püügikitsenduse kohta saadetakse elektroonilisel teel kutselise kalapüügiga tegelejaid ühendavatele erialaliitudele.\n(5) Kui rahvusvahelisest lepingust tuleneb vajadus nõudeid kalapüügi kohta korduvalt või ajutiselt muuta, võib Vabariigi Valitsus delegeerida selle õiguse valdkonna eest vastutavale ministrile.\n(6) Valdkonna eest vastutav minister võib keelata määrusega teatud kalaliigi lossimise, merel ümberlaadimise, pardal hoidmise või vastuvõtmise, kui selle kalaliigi püük on keelatud.\n(7) Kui ELi määruse kohaselt on vaja määrata sadamad, kus on lubatud laevalt kala lossida või ümber laadida, kehtestab need valdkonna eest vastutav minister määrusega.\n(8) Kui merel kala ümberlaadimine, vastuvõtmine, töötlemine, mitme laeva ühine kalapüük või lossimine võib ELi õigusaktidest tulenevalt toimuda ainult loa alusel, määrab loa andja Vabariigi Valitsus määrusega.\n(9) Vabariigi Valitsus või selleks volitatud minister võib vajaduse korral kehtestada määrusega käesoleva paragrahvi lõikes 8 nimetatud loa andmise korra ja loa vormi."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - Kala- ja veetaimevaru kaitse ja kasutamise üldnõuded",
+      "section": "12",
+      "title": "§ 12. Kohustus kalapüügiõigust tõendada",
+      "content": "(1) Kalapüügiga tegeleval isikul peab eripüügil ja harrastuskalapüügil kaasas olema kalapüügiõigust tõendav dokument. Kaluri kalapüügiloa alusel kalapüügiga tegeleval isikul peab kalapüügil kaasas olema isikut tõendav dokument. Kalapüügiga tegelev isik on riiklikku järelevalvet teostava isiku nõudmisel kohustatud esitama käesolevas lõikes nimetatud dokumendi.\n(2) Eripüügil ja juhul kui harrastuskalapüügiõigus on soetatud harrastuskalapüügiõiguse, sealhulgas kalastuskaardi eest tasumisega, tõendab püügiõigust püüdja isikut tõendav dokument.\n(3) Kui käesoleva seaduse § 28 lõikes 3 nimetatud dokumendil puudub foto, peab püügil kaasas olema ka isikut tõendav dokument.\n(4) Käesoleva seaduse § 23 lõike 1 punktides 4 ja 5 nimetatud püügivahendite püügilt eemaldamisel, kui harrastuskalapüügiõiguse soetanud isik on haigestunud, tõendab kalapüügiõigust selle õiguse soetanud isiku kirjalik volikiri ja püügivahendit püügilt eemaldama volitatud isiku isikut tõendav dokument.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud volikirjale esitatavad nõuded ja volikirjast teavitamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(6) Kui EL, kalapüüki reguleeriv riik või rahvusvaheline organisatsioon nõuab, et kalapüügiga tegeleval isikul peab kutselisel kalapüügil kaasas olema kalapüügiõigust tõendav dokument, mille on andnud Eesti Vabariik, peab sellel isikul kaasas olema kalapüügiloa paberärakiri."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - Kala- ja veetaimevaru kaitse ja kasutamise üldnõuded",
+      "section": "13",
+      "title": "§ 13. Kala ja veetaime päritolu tõendamine",
+      "content": "(1) Harrastuskalapüügil püütud kala päritolu tõendavaks dokumendiks loetakse harrastuskalapüüdja isikut tõendavat dokumenti või käesoleva seaduse § 28 lõikes 3 nimetatud dokumenti.\n(2) Kutselisel kalapüügil püütud kala ja veetaime päritolu tõendavaks dokumendiks loetakse müügiteatist (edaspidi esmakokkuostukviitung ), lossimise deklaratsiooni, kalalaeva kalapüügipäevikut koos kalalaeva kalapüügiloaga või rannapüügipäevikut koos kaluri kalapüügiloaga, kala või veetaime ülevõtmisdeklaratsiooni ehk üleandmise deklaratsiooni või kala või veetaime veodokumenti ehk transpordidokumenti.\n(3) Eripüügil püütud kala päritolu tõendavaks dokumendiks loetakse loa omaniku või loale kantud püüdja isikut tõendav dokument või esmakokkuostukviitung.\n(4) Kolmanda riigi kalalaeva lossimisel loetakse kala päritolu tõendavaks dokumendiks nõukogu määruse (EÜ) nr 1386/2007, milles sätestatakse Loode-Atlandi Kalastusorganisatsiooni reguleeritavas piirkonnas kohaldatavad kaitse- ja rakendusmeetmed (ELT L 318, 05.12.2007, lk 1–58), artiklite 63b või 63c või komisjoni rakendusmääruse (EL) nr 433/2012, milles sätestatakse Euroopa Parlamendi ja nõukogu määruse (EL) nr 1236/2010, millega kehtestatakse Kirde-Atlandi tulevase mitmepoolse kalandusalase koostöö konventsiooniga hõlmatud piirkonnas kohaldatav kontrolli- ja rakendussüsteem, üksikasjalikud rakenduseeskirjad (ELT L 136, 25.05.2012, lk 41–93), artiklite 12 ja 13 kohast sadamariigi kontrollidokumenti, kui kalalaeva lipuriik on selle kinnitanud, nõukogu määruse (EÜ) nr 1005/2008 artiklis 6 nimetatud eelteatist, artiklis 8 nimetatud lossimise või ümberlaadimise deklaratsiooni ning artiklis 12 märgitud püügisertifikaati.\n(5) Kala impordi ja reekspordi korral loetakse kala päritolu tõendavaks dokumendiks nõukogu määruse (EÜ) nr 1005/2008 artiklis 12 nimetatud püügisertifikaati.\n(6) Käesolevas paragrahvis nimetatud kala päritolu tõendamise nõue ei kehti füüsilise isiku oma tarbeks ühe ööpäeva jooksul ostetud kala kohta nõukogu määruse (EÜ) nr 1224/2009 artikli 65 lõikes 2 sätestatud koguses ja õngepüügil püütud kala kohta.\n(7) Kala või veetaime esmakokkuostukviitungi koopia peab kala või veetaime ostja üle andma igale järgmisele ostjale, kes ostab kala või veetaime kokku ärilisel eesmärgil. Kui kala või veetaime müüakse mitme partiina, antakse esmakokkuostukviitungi koopia üle igale kala või veetaime ostjale, märkides esmakokkuostukviitungi koopiale üleantud kala või veetaime koguse, üleandmise kuupäeva ja üleantava kala esitusviisi ning andmed müüja transpordivahendi ja autojuhi kohta.\n(8) Kala ja veetaime päritolu tõendav dokument peab olema käitlemise ja müügi kohas ning kala ja veetaime käitleja ja müüja on kohustatud riiklikku järelevalvet teostava isiku nõudmisel selle esitama."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - Kala- ja veetaimevaru kaitse ja kasutamise üldnõuded",
+      "section": "14",
+      "title": "§ 14. Kalatoote import, eksport ja reeksport ning pädev asutus",
+      "content": "(1) Nõukogu määruse (EÜ) nr 1005/2008 artikli 16 lõike 3 ja artikli 39 lõike 4 kohane pädev asutus ning komisjoni määruse (EÜ) nr 1010/2009, millega kehtestatakse nõukogu määruse (EÜ) nr 1005/2008 (millega luuakse ühenduse süsteem ebaseadusliku, teatamata ja reguleerimata kalapüügi vältimiseks, ärahoidmiseks ja lõpetamiseks) üksikasjalikud rakenduseeskirjad (ELT L 280, 27.10.2009, lk 5–41), artikli 39 lõike 1 kohane kontaktasutus on Keskkonnaministeerium.\n(2) Merest püütud kala ja sellest valmistatud kalatoote (edaspidi kalandustoode ) püügisertifikaat esitatakse nõukogu määruse (EÜ) nr 1005/2008 artikli 15 lõikes 1 nimetatud kalandustoote ekspordi korral kinnitamiseks Põllumajandus- ja Toiduametile ning artikli 21 lõigetes 1 ja 2 nimetatud kalandustoote reekspordi korral Maksu- ja Tolliametile vähemalt kolm tööpäeva enne arvatavat kalandustoote eksporti või reeksporti.\n(3) Nõukogu määruse (EÜ) nr 1005/2008 artiklis 18 nimetatud impordist keeldumisega kaasneva kalandustoote käitlemisega seotud kulud katab importija."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - Kala- ja veetaimevaru kaitse ja kasutamise üldnõuded",
+      "section": "15",
+      "title": "§ 15. Kala ja veetaime esmakokkuost",
+      "content": "(1) Kala ja veetaime esmakokkuostuga tohib tegeleda äriregistrisse kantud ettevõtja, kellele on antud toidu või sööda käitlemise tegevusluba või kes on esitanud majandustegevusteate toidu või sööda käitlemise kohta.\n(2) Kala ja veetaime esmakokkuostuga ei tohi tegeleda ettevõtja, kellele on määratud kala või veetaime ostu või müügi nõuete rikkumise eest karistus, millega seotud andmed on karistusregistrist kustutamata (edaspidi kehtiv karistus ).\n(3) Kala esmakokkuostuks ei loeta kala ostmist ühe ööpäeva jooksul oma tarbeks koguses, mis on sätestatud nõukogu määruse (EÜ) nr 1224/2009 artikli 65 lõikes 2.\n(4) Maaeluministeerium avaldab eelmise aasta keskmised kala kokkuostuhinnad kalaliikide kaupa väljaandes Ametlikud Teadaanded ja oma veebilehel iga aasta 31. jaanuariks. Ajavahemikus 1.–31. jaanuarini püütud kala väärtuse arvutamisel võetakse aluseks viimased avaldatud Eesti keskmised kala esmakokkuostu hinnad."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - Kala- ja veetaimevaru kaitse ja kasutamise üldnõuded",
+      "section": "16",
+      "title": "§ 16. Kala elusisendi import ja veekogusse asustamine",
+      "content": "(1) Eestis looduslikult mitte esineva kalaliigi või muu veeorganismi liigi või tema viljastatud marja Eesti Vabariiki toomisel ja veekogusse asustamisel lähtutakse looduskaitseseaduses sätestatud tingimustest.\n(2) Eestis looduslikult esinevat kalaliiki või tema viljastatud marja tohib veekogusse asustada ainult Keskkonnaameti loal.\n(3) Eestis looduslikult esineva kala või viljastatud marja veekogusse asustamise taotluse kohta esitatavad nõuded, asustamisloa andmise ja asustamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "17",
+      "title": "§ 17. Õngepüügiõigus",
+      "content": "(1) Igaüks tohib avalikul ja avalikult kasutataval veekogul tasuta ja püügiõigust vormistamata püüda kala ühe lihtkäsiõngega, järgides käesolevas seaduses ja selle alusel kehtestatud õigusaktis sätestatud piiranguid.\n(2) Kinnisasja omaniku loal tohib ühe lihtkäsiõngega kala püüda:\n1) eraomandis oleval veekogul, mis ei ole määratud avalikult kasutatavaks;\n2) siseveekogust üleujutatud kinnisasjal või selle osal."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "18",
+      "title": "§ 18. Kalapüük eraomandis oleval veekogul, mis ei ole määratud avalikult kasutatavaks",
+      "content": "(1) Eraomandis oleval veekogul, mis ei ole määratud avalikult kasutatavaks, võib kala püüda, arvestades käesoleva seaduse § 9 lõike 1 ja § 11 lõigete 1–3 ja 5 alusel püügivahendite, püügiaja ja püüda lubatud kalaliikide kohta kehtestatud piiranguid ning järgides keskkonnaseadustiku üldosa seaduse § 37 lõikes 7 sätestatut.\n(2) Kalapüügiks kutselise kalapüügi vahendiga eraomandis oleval veekogul, mis ei ole määratud avalikult kasutatavaks, peab veekogu omanik taotlema kutselise kalapüügi luba, mille annab Põllumajandus- ja Toiduamet tasuta kuni üheks kalendriaastaks käesoleva seaduse §-s 42 sätestatud kutselise kalapüügiloa andmise tingimusi arvestamata.\n(3) Mitme kinnisasja piires asuval eraomandis oleval veekogul, mis ei ole määratud avalikult kasutatavaks, korraldavad nende kinnisasjade omanikud kalapüüki kokkuleppel.\n(4) Käesoleva paragrahvi lõigetes 1–3 ja käesoleva seaduse § 22 lõike 2 punktis 1 sätestatud võimalused ei kehti nakkepüünisega püügi kohta paisjärvel."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "19",
+      "title": "§ 19. Eripüügiõigus",
+      "content": "(1) Eripüüki teostatakse vähemalt ühel järgmisel eesmärgil:\n1) keskkonnauuringud;\n2) asustusmaterjali tootmiseks vajamineva kalamarja kogumine;\n3) sugukalade püük;\n4) hüpofüüsi kogumine;\n5) kalade ümberasustamine;\n6) kalade hukkumise vältimine või veekogu ökosüsteemi parandamine.\n(2) Lisaks käesoleva paragrahvi lõikes 1 sätestatule võib Keskkonnaministeerium hinnata eripüügiks ka harrastuspüügivõistluste raames toimuva kalapüügi või kalapüügi, mida korraldavad õppepraktika eesmärgil koolid, mille kinnitatud õppekavas on kalapüügipraktika.\n(3) Kalapüügi hindamisel eripüügiks arvestab Keskkonnaministeerium püütavate kalaliikide puhul:\n1) rahvusvahelisest õigusest või ELi õigusest tulenevaid kitsendusi;\n2) püügi põhjendatust, harrastuspüügivõistlusel ka püügi ulatust ning seda, kas püügi eesmärki on võimalik saavutada muul viisil.\n(4) Keskkonnaministeerium võib eripüügil, välja arvatud harrastuspüügivõistluste raames toimuval või õppepraktika eesmärgil korraldataval kalapüügil, lubada käesolevas seaduses ja selle alusel kehtestatud õigusaktis lubatust erineva püügivahendi või -viisi kasutamist, eripüüki keelatud ajal või keelatud kohas ning keelatud kalaliigi eripüüki."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "20",
+      "title": "§ 20. Eripüügiluba",
+      "content": "(1) Eripüügiks annab õiguse eripüügiluba selles määratud tingimustel ja vahendiga.\n(2) Keskkonnauuringute eesmärgil teostataval eripüügil võib kasutada elektripüügivahendit, mis on kantud teadus- ja harrastuskalapüügi andmekogusse ning mille kasutamiseks on antud tõend.\n(3) Eripüügiloa ja elektripüügivahendi kasutamise tõendi annab Keskkonnaministeerium elektrooniliselt. Kui isik märgib taotluses, et soovib luba või tõendit paberil, antakse see paberil. Keskkonnaministeerium kannab loa ja tõendi andmed teadus- ja harrastuskalapüügi andmekogusse.\n(4) Eripüügiloa taotlus loetakse põhjendatuks, kui:\n1) see vastab keskkonnauuringu programmile, mis on taotluse esitamise alus;\n2) see vastab vähemalt ühele käesoleva seaduse § 19 lõigetes 1 ja 2 märgitud eripüügi eesmärgile;\n3) selles märgitud püügitingimused ja püüdja pädevus tagavad püügi eesmärgi saavutamise kalavaru kõige vähem mõjutaval viisil.\n(5) Eripüügiloa vormi, lisatingimused, loa taotluse läbivaatamise, loa andmise ja loa kehtetuks tunnistamise ning elektripüügivahendi kasutamise taotlemise, tõendi andmise ja tõendi kehtetuks tunnistamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(6) Kui eripüügiloa alusel toimuva püügi kohta on vaja esitada püügiandmeid, märgitakse eripüügiloale püügiandmete esitamise kohustus."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "21",
+      "title": "§ 21. Eripüügiloa andmisest keeldumine ja loa kehtetuks tunnistamine",
+      "content": "(1) Eripüügiloa andmisest keeldutakse, kui esineb vähemalt üks järgmistest põhjustest:\n1) loa taotleja on esitanud taotluses valeandmeid;\n2) loa andja on teavitanud loa taotlejat taotluses esinevatest puudustest ja puudusi ei ole nende kõrvaldamiseks antud tähtaja jooksul kõrvaldatud;\n3) loa taotleja on jätnud tähtajaks maksmata eripüügiõiguse eest kalapüügiõiguse tasu, kui tasu maksmine on nõutav;\n4) loa taotlejal või taotlusele kantud püüdjal on kehtiv karistus kalapüügi- või sellega seotud nõuete rikkumise eest;\n5) taotlus ei ole põhjendatud.\n(2) Eripüügiluba tunnistatakse kehtetuks, kui esineb vähemalt üks järgmistest põhjustest:\n1) loa omanik või loale kantud püüdja on rikkunud loa tingimusi;\n2) loa omanikul või loale kantud püüdjal on kehtiv karistus kalapüügi- või sellega seotud nõuete rikkumise eest."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "22",
+      "title": "§ 22. Harrastuskalapüügiõigus",
+      "content": "(1) Igaüks tohib kalastuskaardi alusel või harrastuskalapüügiõiguse eest tasumise korral püüda harrastuskalapüügivahendiga kala avalikul ja avalikult kasutataval veekogul, järgides käesolevas seaduses või selle alusel kehtestatud õigusaktis sätestatud piiranguid.\n(2) Kinnisasja omaniku loal tohib harrastuskalapüügivahendiga püüda kala:\n1) eraomandis oleval veekogul, mis ei ole määratud avalikult kasutatavaks;\n2) siseveekogust üleujutatud kinnisasjal või selle osal."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "23",
+      "title": "§ 23. Harrastuskalapüügivahendid",
+      "content": "(1) Harrastuskalapüügivahendid on:\n1) spinning, vedel, sikuti, lendõng, põhjaõng ehk krunda ehk tonka, und, käsiõng ja ühe isiku korraga kasutatav rohkem kui üks lihtkäsiõng;\n2) harpuunipüss ja harpuun;\n3) räimeõng;\n4) nakkevõrk ning Peipsi, Lämmi- ja Pihkva järvel kaldavõrk;\n5) kuni 100 konksust koosnev õngejada;\n6) kuurits;\n7) liiv;\n8) vähinatt ja vähimõrd;\n9) kadiska.\n(2) Püsielanikul püsiasustusega väikesaarte seaduse § 2 punktis 6 sätestatud tähenduses (edaspidi väikesaare püsielanik ) on lubatud kasutada kuni 300 konksust koosnevat õngejada.\n(3) Harrastuskalapüügivahend peab olema kalapüügil püügivahendi omaniku valve all, et võimaldada selle omanikku veekogul või selle kaldal kindlaks teha. See nõue ei kehti püügil nakkevõrgu, vähimõrra, õngejada ja kadiskaga, mis peavad olema tähistatud käesoleva seaduse § 9 lõike 2 punkti 5 alusel kehtestatud nõuete kohaselt."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "24",
+      "title": "§ 24. Harrastuskalapüügivahendi kasutamise kitsendused",
+      "content": "(1) Räimeõnge tohib kasutada üksnes harrastuskalapüügil merel.\n(2) Harrastuskalapüügil on keelatud kasutada samal ajal rohkem kui kolme sama või eri liiki püügivahendit, välja arvatud vedelit, vähinatta ja vähimõrda, kui käesolev seadus ei sätesta teisiti.\n(3) Harrastuskalapüügil käesoleva seaduse § 23 lõike 1 punktides 4–7 ja lõikes 2 nimetatud püügivahenditega kehtivad samad kitsendused, mis on käesoleva seaduse § 9 lõike 1 ning § 11 lõigete 2–5 alusel kehtestatud kutselisel kalapüügil samade püügivahenditega."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "25",
+      "title": "§ 25. Harrastuskalapüügiõiguse kehtivus",
+      "content": "(1) Harrastuskalapüügiõigust tõendab:\n1) harrastuskalapüügiõiguse eest tasumine;\n2) kalastuskaart käesoleva seaduse §-s 29 sätestatud juhtudel.\n(2) Käesoleva paragrahvi lõike 1 punktis 1 sätestatud juhul tekib harrastuskalapüügiõigus üks tund pärast selle eest tasu maksmist või muust tasu maksmisel määratud kuupäevast, mis ei või olla varasem kui harrastuskalapüügiõiguse eest tasumise kuupäev ja hilisem kui 30 päeva harrastuskalapüügiõiguse tasumise kuupäevast arvates.\n(3) Käesoleva paragrahvi lõike 1 punktis 2 sätestatud juhul tekib harrastuskalapüügiõigus:\n1) kalastuskaardi taotlemise korral isiku ühest tuvastamist võimaldava elektroonilise kanali (edaspidi elektrooniline kanal ) kaudu kalastuskaardile märgitud kehtivuse alguse kuupäevast alates, kuid mitte varem kui üks tund pärast harrastuskalapüügiõiguse eest tasu maksmist;\n2) kalastuskaardi taotlemise korral vahetult loa andja kaudu kalastuskaardile märgitud kehtivuse alguse kuupäevast alates, mis ei või olla varasem kalastuskaardi andmise ajast.\n(4) Kui kalastuskaardiga lubatakse mitmesuguste püügivõimaluste kasutamist eri aegadel, tekib harrastuskalapüügiõigus kaardile märgitud kuupäeval.\n(5) Harrastuskalapüügiõiguse, sealhulgas kalastuskaardi alusel toimuva kalapüügiõiguse eest mobiiltelefonilt tehtud maksega tasumise korral tekib harrastuskalapüügiõigus üks tund pärast püügiõiguse andmise, sealhulgas kalastuskaardi andmise kohta lühisõnumiga kinnituse saamist. Tasumist ja kalastuskaardi andmist kinnitav lühisõnum saadetakse samale mobiiltelefoni numbrile, millelt tasu maksti.\n(6) Harrastuskalapüügiõigus kehtib kalastuskaardile märgitud ajal, kuid mitte kauem kui üks kalendriaasta. Pärast harrastuskalapüügiõiguse eest tasumist, kui kalastuskaart ei ole nõutav, tekib harrastuskalapüügiõigus kuni üheks aastaks.\n(7) Harrastuskalapüügiõiguse eest tasumise ja tasu maksmise kontrollimise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "26",
+      "title": "§ 26. Kalastuskaart",
+      "content": "(1) Kalastuskaardi annab Keskkonnaamet.\n(2) Väikesaare püsielanikule annab kalastuskaardi kalapüügiks tema elukohajärgset väikesaart ümbritseval veealal kohalik omavalitsusüksus käesoleva seaduse § 29 lõike 7 alusel kehtestatud lubatud püügivahendite arvu piires.\n(3) Kalastuskaart on elektrooniline dokument teadus- ja harrastuskalapüügi andmekogus ja sellele märgitakse kaardi andja, kaardi andmise ja kehtivuse aeg, püügipiirkond, kalapüügiõiguse omaniku isikukood või nimi ja sünniaeg ning vajaduse korral isikut tõendava dokumendi number, kasutada lubatud püügivahendid, nende arv ning püüda lubatud kalaliigi isendite arv.\n(4) Kalastuskaart antakse elektroonilise kanali kaudu või vahetult loa andjale esitatud asjaomase taotluse alusel.\n(5) Kalastuskaart antakse pärast kalastuskaardi eest tasu maksmist.\n(6) Kalastuskaardi taotlemise korral elektroonilise kanali kaudu makstakse tasu kohe taotluse esitamisel.\n(7) Kalastuskaardi taotlemise korral vahetult loa andjalt makstakse tasu kümne päeva jooksul pärast kalastuskaardi andja otsust kaardi andmise kohta. Vastasel juhul muutub kalastuskaardi andmise otsus kehtetuks.\n(8) Kalastuskaardi taotlemise, andmise ja peatamise korra, tähtajad, taotlemise viisid ja taotluses esitatavad andmed ning vahetult loa andjale esitatava taotluse vormi kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "27",
+      "title": "§ 27. Kalastuskaardi andmisest keeldumine ning selle kehtivuse peatumine ja peatamine",
+      "content": "(1) Kalastuskaardi andmisest keeldutakse, kui esineb vähemalt üks järgmistest asjaoludest:\n1) kalastuskaardi taotlejal on rohkem kui üks kehtiv karistus käesolevas seaduses sätestatud väärteo toimepanemise eest või kehtiv karistus kuriteo eest, mida on kohaldatud seoses käesoleva seaduse § 71 lõikes 2 nimetatud kalapüüginõuete tõsise rikkumisega;\n2) käesoleva seaduse § 29 alusel kehtestatud piirangud ei võimalda anda kalastuskaarti taotletud tingimustel;\n3) kalastuskaardi taotleja suhtes on jõustunud täitemenetluse seadustiku § 177^2 lõike 1 punkti 5 ja lõike 2 alusel tehtud kohtumäärus;\n3^1) halduskohus on kaitseväeteenistuse seaduse § 33^1 lõikes 5 või § 71^1 lõikes 5 sätestatud taotluse alusel andnud loa keelduda kalastuskaardi taotlejale kalastuskaardi andmisest;\n4) kalastuskaardi taotleja on taotluse esitamisele eelnenud aastal jätnud esitamata käesoleva seaduse § 61 lõike 12 alusel kehtestatud tähtajaks nõutud püügiandmed.\n(2) Isiku kalastuskaardi kehtivus peatub ja selle andmisest keeldutakse, kui isiku suhtes on jõustunud täitemenetluse seadustiku § 177^2 lõike 1 punkti 5 ja lõike 2 alusel tehtud kohtumäärus.\n(2^1) Isiku kalastuskaardi kehtivus peatatakse, kui halduskohus on kaitseväeteenistuse seaduse § 33^1 lõikes 5 või § 71^1 lõikes 5 sätestatud taotluse alusel andnud selleks loa. Kalastuskaardi kehtivus peatatakse kaardi andja otsusega. Otsuse tegemisel lähtub kaardi andja Kaitseressursside Ameti, Kaitseväe või kohtu poolt isiku ärakuulamisel kogutud andmetest, kui lisaandmete saamine ei ole vajalik.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud juhul kalastuskaardi kehtivuse peatumine ja selle andmisest keeldumine lõpeb, kui isiku suhtes jõustub täitemenetluse seadustiku § 177^5 lõike 1 alusel tehtud kohtumäärus.\n(3^1) Kalastuskaardi andja lõpetab käesoleva paragrahvi lõikes 2^1 nimetatud juhul kalastuskaardi kehtivuse peatamise ja käesoleva paragrahvi lõike 1 punktis 3^1 nimetatud juhul selle andmisest keeldumise, kui peatamise ja keeldumise alused on ära langenud ja Kaitseressursside Amet või Kaitsevägi on sellest kalastuskaardi andjat teavitanud ning halduskohtu määrusest ei tulene teisiti.\n(4) Kui kalastuskaardi taotlus esitatakse elektroonilise kanali kaudu, sealhulgas mobiiltelefoni teel, teavitatakse kalastuskaardi andmisest keeldumise otsusest samas elektroonilises keskkonnas, kus taotlus esitati.\n(5) Otsus kalastuskaardi kehtivuse kohta toimetatakse viivitamata kaardi omanikule kätte käesoleva paragrahvi lõikes 4 sätestatud viisil või avaldatakse väljaandes Ametlikud Teadaanded, kui otsust ei ole muul viisil võimalik kätte toimetada. Otsus loetakse avalikult kättetoimetatuks, kui on möödunud kümme päeva selle Ametlikes Teadaannetes ilmumise päevast või kui isik kinnitab Ametlike Teadaannete infosüsteemis teate kättesaamist."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "28",
+      "title": "§ 28. Soodustatud isikute harrastuskalapüügiõigus",
+      "content": "(1) Käesoleva seaduse tähenduses loetakse soodustatud isikuks eelkooliealine laps, alla 16-aastane õpilane, pensionär, õigusvastaselt represseeritud või represseerituga võrdsustatud isik, puudega isik ning osalise või puuduva töövõimega isik.\n(2) Soodustatud isikud tohivad kala püüda harrastuskalapüügivahendiga püügiõiguse eest tasumata, välja arvatud kalapüügil kalastuskaardi alusel.\n(3) Soodustatud isikul, välja arvatud eelkooliealine laps, peab harrastuskalapüügil kaasas olema soodustust tõendav dokument, milleks on:\n1) alla 16-aastasel õpilasel õpilaspilet;\n2) pensionäril pensionitunnistus;\n3) õigusvastaselt represseeritud isikul ja represseerituga võrdsustatud isikul represseeritu tunnistus;\n4) puudega isikul puude raskusastet ja kestust tõendav dokument;\n5) osalise või puuduva töövõimega isikul osalist või puuduvat töövõimet tõendav dokument."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "29",
+      "title": "§ 29. Harrastuskalapüügiõiguse piirangud",
+      "content": "(1) Valdkonna eest vastutaval ministril on õigus kehtestada kalavaru kaitse eesmärgil piirkonnad, kus:\n1) rakendatakse piiranguid kala püüdvate isikute ja püügivahendite arvu, püügiaja või püütavate kalaliikide kohta;\n2) lubatakse kasutada käesoleva seaduse § 23 lõike 1 punktides 4–9 nimetatud kalapüügivahendeid kehtestatud piirarvu ulatuses ja püügiajal.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud piirkondades on harrastuskalapüügiõigust tõendav dokument kalastuskaart.\n(3) Arvuliselt või kaaluliselt ühes ööpäevas püüda lubatud kalakoguseid võib piirata valdkonna eest vastutav minister määrusega.\n(4) Ühe kalastuskaardi alusel tohib veekogul, kus on kehtestatud kalastuskaartide piirarv, kasutada:\n1) ühte nakkevõrku merel sügavusest sõltumata või sise- või piiriveekogul või selle osal ning kuni kolme kadiskat ja ühte kuni 100 konksust koosnevat õngejada merel kuni 20 meetri samasügavusjooneni või sise- või piiriveekogul või selle osal;\n2) ühte liivi või ühte kuuritsat siseveekogul;\n3) kuni viit vähinatta või vähimõrda vähipüügil.\n(5) Isikule, välja arvatud väikesaare püsielanikule, antakse kalapüügiks ühe nakkevõrguga, kuni kolme kadiskaga, ühe kuni 100 konksust koosneva õngejadaga, ühe liiviga või ühe kuuritsaga selle piirkonna jaoks kehtestatud piirarvu piires üks kalastuskaart. Püügiks kuni viie vähinataga või viie vähimõrraga ühe piirkonna jaoks kehtestatud piirarvu piires antakse kalastuskaart kuni kolmeks ööpäevaks. Kui maakonnas on piirarvud kehtestatud rohkem kui ühes piirkonnas, võib kalastuskaardi andja märkida sama maakonna eri piirkondades kasutada lubatud püügivahendid ühele kalastuskaardile.\n(6) Väikesaare püsielanik tohib ühe kalastuskaardi alusel kasutada merel kuni kolme nakkevõrku sügavusest sõltumata ning kuni kolme kadiskat ja ühte kuni 300 konksust koosnevat õngejada kuni 20 meetri samasügavusjooneni. Peipsi järvel tohib väikesaare püsielanik kasutada ühe kalastuskaardi alusel kuni kolme nakkevõrku ning kuni kolme kadiskat ja ühte kuni 300 konksust koosnevat õngejada ühe kilomeetri laiusel veealal tema elukohajärgse saare ümber. Väikesaare püsielanikule antakse kalapüügiks eespool nimetatud vahenditega tema elukohajärgset saart ümbritsevale veealale kehtestatud piirarvu piires üks kalastuskaart.\n(7) Käesoleva paragrahvi lõikes 1 nimetatud piirkonnad ja nendes rakendatavad piirangud ning elektroonilise kanali kaudu ja vahetult Keskkonnaametile laekuvate taotluste alusel antavate kalastuskaartide piirarvud, samuti püsiasustusega väikesaari ümbritseval veealal kasutada lubatud püügivahendite arvu kehtestab valdkonna eest vastutav minister määrusega.\n(8) Elektroonilise kanali kaudu ja vahetult Keskkonnaametile laekuvate taotluste alusel antavate kalastuskaartide piirarvude määramise aluseks on eelmisel aastal elektroonilise kanali kaudu ja vahetult Keskkonnaametile laekunud taotluste arvude suhe."
+    },
+    {
+      "provision_ref": "para29^1",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "29^1",
+      "title": "§ 29^1. Teadus- ja harrastuskalapüügi andmekogu",
+      "content": "(1) Teadus- ja harrastuskalapüügi andmekogu (edaspidi ka andmekogu ) on andmekogu, mille eesmärk on lihtsustada eripüügi-, harrastuskalapüügi- ning asustamislubade taotlemist ja menetlemist, aruandluse esitamist, muude lubadega seotud kohustuste täitmist ning kogutud andmete säilitamist, kasutamist ja kättesaadavust.\n(2) Teadus- ja harrastuskalapüügi andmekogus on:\n1) harrastuskalapüügi õiguse eest tasumise andmed;\n2) kalastuskaart ja selle taotlemise andmed;\n3) harrastuskalapüügi kohta esitatavad andmed;\n4) eripüügiloa ja selle taotlemise andmed;\n5) eripüügi kohta esitatavad andmed;\n6) elektripüügivahendi kasutamise andmed;\n7) Eestis looduslikult esineva kalaliigi või tema viljastatud marja veekogusse asustamise andmed;\n8) kalandus- ja vesiviljelussektori aruanded.\n(3) Andmekogu vastutav töötleja on Keskkonnaministeerium. Andmekogu volitatud töötleja määratakse andmekogu põhimääruses.\n(4) Teadus- ja harrastuskalapüügi andmekogu asutab ning selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "30",
+      "title": "§ 30. Kutselise kalapüügi õiguse kuuluvus",
+      "content": "(1) Kutselise kalapüügi vahendiga tohib kalapüügiloa alusel siseveekogudel, piiriveekogudel, merel, Eesti Vabariigi majandusvööndis või väljaspool Eesti Vabariigi jurisdiktsiooni oleval veealal kala püüda või veetaimi koguda äriregistris ettevõtjana registreeritud isik.\n(2) Väljaspool Eesti Vabariigi jurisdiktsiooni oleval veealal võib Eesti Vabariigist sõltumata omandatud püügivõimalusi kasutada vaid juhul, kui see ei ole vastuolus ELi õigusest tulenevate nõuetega."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "31",
+      "title": "§ 31. Kutselise kalapüügi vahendid",
+      "content": "Kutselise kalapüügi vahendid on: 1 1) õngejadad;\n2) nakkepüünised;\n3) lõkspüünised;\n4) kurnpüünised;\n5) traalpüünised."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "32",
+      "title": "§ 32. Kutselise kalapüügi luba",
+      "content": "(1) Kutselise kalapüügi õiguse annab kalapüügiluba, mis võib olla kalalaeva kalapüügiluba või kaluri kalapüügiluba. Kalalaeva kalapüügiluba ja kaluri kalapüügiluba antakse elektroonilises vormis.\n(2) Kui ELi õigusakti kohaselt on kalapüügiloa omamine kohustuslik, kohaldatakse kutselise kalapüügi loa andmisel komisjoni rakendusmäärust (EL) nr 404/2011, millega kehtestatakse nõukogu määruse (EÜ) nr 1224/2009 (millega luuakse ühenduse kontrollisüsteem ühise kalanduspoliitika eeskirjade järgimise tagamiseks) üksikasjalikud rakenduseeskirjad (ELT L 112, 30.04.2011, lk 1–153). Kalapüügiks tingimustel, mis on nimetatud nõukogu määruse (EÜ) nr 1006/2008, mis käsitleb ühenduse kalalaevadele loa andmist püügitegevuseks ühenduse vetest väljaspool ning kolmandate riikide laevade juurdepääsu ühenduse vetele ning millega muudetakse määrusi (EMÜ) nr 2847/93 ja (EÜ) nr 1627/94 ning tunnistatakse kehtetuks määrus (EÜ) nr 3317/94 (ELT L 286, 29.10.2008, lk 33–44), artiklis 1, kohaldatakse kutselise kalapüügi loa andmisel nõukogu määruses (EÜ) nr 1006/2008 sätestatut."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "33",
+      "title": "§ 33. Kalalaev",
+      "content": "(1) Kutseliseks kalapüügiks merel võib kasutada üksnes kutselise kalapüügi registrisse kantud kalalaeva, millel on kehtiv kalalaevatunnistus.\n(2) Kalalaev käesoleva seaduse tähenduses on laev, mis on kohandatud kala- või muu vee-elusvaru kaubanduslikuks kasutamiseks.\n(3) Kalalaeval, mida kasutatakse merel ja mille uue peajõuseadme, asenduspeajõuseadme või komisjoni rakendusmääruse (EÜ) nr 404/2011 artikli 61 lõike 2 kohaselt tehniliselt muudetud peajõuseadme võimsus on suurem kui 120 kilovatti, välja arvatud üksnes seisevpüüniseid või tragimisvahendeid kasutav kalalaev, abilaev ja vesiviljeluses kasutatav laev, peab mootorivõimsus olema sertifitseeritud nõukogu määruse (EÜ) nr 1224/2009 artikli 40 lõike 3 kohaselt.\n(4) Mootorivõimsuse sertifitseerib nõukogu määruse (EÜ) nr 1224/2009 artikli 40 lõike 3 kohaselt klassifikatsiooniühing, mootori valmistajatehas või käitaja, kellel on mootori võimsuse tehniliseks hindamiseks ELi liikmesriigi õigusaktide alusel vajalik pädevus.\n(5) Mootorivõimsuse sertifitseerimisega seotud kulud kannab kalalaeva omanik või valdaja.\n(6) Käesoleva paragrahvi lõikes 3 nimetatud kalalaevale uue peajõuseadme paigaldamise, olemasoleva peajõuseadme asendamise või tehnilise muutmise korral järgitakse lisaks käesoleva paragrahvi lõigetes 3–5 sätestatud nõuetele ka käesoleva seaduse §-s 35 sätestatud nõudeid."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "34",
+      "title": "§ 34. Kutselise kalapüügi register",
+      "content": "(1) Kutselise kalapüügi register (edaspidi register ) on andmekogu, mille ülesanne on võimaldada kutselise kalapüügiga tegelevate isikute, nende tegevuse ja kalalaevade üle arvestuse pidamist ning järelevalve teostamist.\n(2) Registri koosseisu kuuluvad alamregistritena kalalaevade register ja kutselise kalapüügi arvestuse register.\n(3) Kalalaevade registrisse kantakse:\n1) komisjoni rakendusmääruses (EL) nr 2017/218 liidu kalalaevastikuregistri kohta (ELT L 34, 09.02.2017, lk 9–17) nimetatud andmed Eesti lipu all sõitva kalalaeva ja Eesti laevakinnistusraamatusse või liiklusregistrisse kantud kalalaeva kohta, mis ei pea kandma riigilippu;\n2) andmed käesoleva seaduse § 35 lõikes 3 nimetatud vaba püügivõimsuse arvel kalalaeva kalalaevastiku segmenti lisamise õiguse kohta;\n3) andmed komisjoni rakendusmääruse (EL) nr 404/2011 artikli 126 alusel tõsiste rikkumiste eest määratud punktide kohta;\n4) muud kalalaeva andmed, mille registrisse kandmise näeb ette Euroopa Liidu õigusakt.\n(4) Kutselise kalapüügi arvestuse registrisse kantakse:\n1) andmed isiku kohta, kes omab kutselise kalapüügi õigust, tegeleb kala ja veetaime esmakokkuostuga või esitab käesoleva seaduse § 61 lõigetes 1 ja 3–8 nimetatud andmeid;\n2) andmed ajaloolise püügiõiguse, püügivõimaluste jaotamise ja omandamise ning kasutada andmise ja saamise kohta;\n3) andmed kutselise kalapüügi õiguse omandamise ja lõppemise, sealhulgas kalapüügiõiguse tasu maksmise kohta;\n4) käesoleva seaduse § 61 lõigetes 1 ja 3–8 nimetatud andmed.\n(5) Registri vastutav töötleja on Maaeluministeerium. Registri volitatud töötleja määratakse registri põhimääruses.\n(6) Registri põhimääruse kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "35",
+      "title": "§ 35. Kalalaevastiku segment",
+      "content": "(1) Registris rühmitatakse kalalaevad alajaotustesse (edaspidi kalalaevastiku segment ) nende üldpikkuse, püügipiirkonna, kasutatavate püüniste ja püütavate kalaliikide järgi. Kalalaevastiku segmendi suurus määratakse püügivõimsuse järgi.\n(2) Kalalaevastiku segmendid ja nende tunnused, kalalaevastiku segmenti kantavale kalalaevale esitatavad nõuded ning kalalaevastiku segmenti kalalaeva lisamise võimaluse kehtestab valdkonna eest vastutav minister määrusega.\n(3) Kalalaevastiku segmenti, kuhu käesoleva paragrahvi lõike 2 alusel kehtestatud määruse kohaselt kalalaeva lisada ei või, võib kalalaeva kanda üksnes siis, kui taotleja omab piisavas mahus käesoleva seaduse §-s 35^1 nimetatud kalalaeva lisamise õigust või kui kalalaevastiku segmenti on käesoleva seaduse § 35^3 alusel määratud piisavas mahus täiendavat vaba püügivõimsust.\n(4) Laeva püügivõimsus käesoleva seaduse tähenduses on laeva kogumahutavus ja peamasina võimsus.\n(5) Hüvitise toel kalalaeva alatiseks püügilt kõrvaldamise korral kohaldatakse Euroopa Parlamendi ja nõukogu määruse (EL) nr 1380/2013 artikli 22 lõigetes 5 ja 6 sätestatut.\n(6) Kui kalalaev on kantud kalalaevastiku segmenti, kuhu käesoleva paragrahvi lõike 2 alusel kehtestatud määruse kohaselt kalalaeva lisada ei või, võib kalalaeva püügivõimsust suurendada üksnes siis, kui taotleja omab piisavas mahus käesoleva seaduse §-s 35^1 nimetatud kalalaeva lisamise õigust või kui kalalaevastiku segmenti on käesoleva seaduse § 35^3 alusel määratud piisavas mahus täiendavat vaba püügivõimsust. Kalalaeva registrisse kandmise kohta sätestatut kohaldatakse ka registrisse kantud kalalaeva püügivõimsuse suurendamise suhtes.\n(7) Kui käesoleva seaduse § 33 lõikes 3 nimetatud kalalaev on kantud kalalaevastiku segmenti, kuhu käesoleva paragrahvi lõike 2 alusel kehtestatud määruse kohaselt kalalaeva lisada ei või, võib kalalaevale uue peajõuseadme paigaldamine, kalalaeval olemasoleva peajõuseadme asendamine või tehniline muutmine suurendada peajõuseadme võimsust üksnes siis, kui kalalaeva omanik või valdaja omab käesoleva seaduse §-s 35^1 nimetatud kalalaeva lisamise õigust mahus, mille võrra peajõuseadme võimsus suureneb.\n(8) Kalalaeva omanik või valdaja teavitab käesoleva seaduse § 33 lõikes 3 nimetatud kalalaevale uue peajõuseadme paigaldamise, kalalaeval olemasoleva peajõuseadme asendamise või tehnilise muutmise kavatsusest registri volitatud töötlejat kirjalikult ning esitab pärast uue peajõuseadme paigaldamist või olemasoleva peajõuseadme asendamist või tehnilist muutmist registri volitatud töötlejale viivitamata nõukogu määruse (EÜ) nr 1224/2009 artikli 40 lõike 3 kohase kirjaliku kinnituse."
+    },
+    {
+      "provision_ref": "para35^1",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "35^1",
+      "title": "§ 35^1. Kalalaeva kalalaevastiku segmenti lisamise õigus",
+      "content": "(1) Kui kalalaevastiku segmenti, kuhu käesoleva seaduse § 35 lõike 2 alusel kehtestatud määruse kohaselt kalalaeva lisada ei või, kantud kalalaev kustutatakse esmakordselt registrist käesoleva seaduse § 37 punkti 3 või 4 alusel, tekib kalalaeva omanikul või valdajal õigus kanda registrisse kalalaev selle püügivõimsuse arvel, mis vabanes kalalaeva registrist kustutamisega (edaspidi kalalaeva lisamise õigus ).\n(2) Kui kalalaevastiku segmenti, kuhu käesoleva seaduse § 35 lõike 2 alusel kehtestatud määruse kohaselt kalalaeva lisada ei või, kantud kalalaev kustutatakse registrist vähemalt teist korda käesoleva seaduse § 37 punkti 3 või 4 alusel, tekib kalalaeva omanikul või valdajal kalalaeva lisamise õigus üksnes siis, kui on täidetud kõik järgmised tingimused:\n1) omanik või valdaja ei ole seotud isikuga, kelle taotlusel kalalaev registrist esmakordselt kustutati;\n2) kalalaev on enne registrist kustutamist olnud sama omaniku või valdaja omandis või valduses katkematult vähemalt 36 kuud;\n3) kalalaev on enne registrist kustutamist olnud registris katkematult vähemalt 36 kuud;\n4) seda kalalaeva ei ole sama omaniku või valdaja taotlusel registrist varem kustutatud.\n(3) Kalalaeva lisamise õiguse alusel võib kalalaeva kanda ainult sellesse kalalaevastiku segmenti, kuhu kuulus registrist kustutatud kalalaev.\n(4) Kalalaeva lisamise õigus lõpeb 36 kuu möödumisel kalalaeva registrist kustutamisest arvates. Kui kalalaeva registrisse kandmise menetlus ei ole tähtpäevaks lõppenud, lõpeb kalalaeva lisamise õigus kalalaeva registrisse kandmise menetluse lõppedes.\n(5) Kui kalalaevastiku segmenti, kuhu käesoleva seaduse § 35 lõike 2 alusel kehtestatud määruse kohaselt kalalaeva lisada ei või, kantud kalalaev kustutatakse registrist käesoleva seaduse § 37 punkti 3 või 4 alusel, võib kalalaeva registrisse tagasi kanda ainult sama kalalaeva registrist kustutamisega tekkinud kalalaeva lisamise õiguse alusel, välja arvatud käesoleva paragrahvi lõikes 6 sätestatud juhul.\n(6) Kalalaeva võib registrisse tagasi kanda muu kalalaeva registrist kustutamisega tekkinud kalalaeva lisamise õiguse alusel, kui:\n1) kalalaeva registrisse kandmist taotlev isik ei ole seotud isikuga, kelle taotlusel sama kalalaev registrist kustutati, ega oma piisavas mahus sama kalalaeva registrist kustutamisega tekkinud kalalaeva lisamise õigust või\n2) sama kalalaeva registrist kustutamisega tekkinud kalalaeva lisamise õigus on lõppenud.\n(7) Kui käesoleva paragrahvi lõike 6 punktis 1 nimetatud isiku taotlusel registrisse tagasi kantud kalalaev antakse 36 kuu jooksul registrisse kandmisest arvates tagasi selle isiku või temaga seotud isiku kasutusse, kelle taotluse alusel kalalaeva registrist kustutamisega tekkis kalalaeva lisamise õigus, ning see isik või temaga seotud isik omab sama kalalaeva registrist kustutamisega tekkinud kalalaeva lisamise õigust, loetakse sama kalalaeva registrist kustutamisega tekkinud kalalaeva lisamise õigus lõppenuks osas, mis vastab püügivõimsusele, mida ei kasutatud sama kalalaeva registrisse tagasi kandmiseks.\n(8) Kui see isik või temaga seotud isik, kelle taotluse alusel kalalaeva registrist kustutamisega tekkis kalalaeva lisamise õigus, ei oma käesoleva paragrahvi lõikes 7 sätestatud juhul sama kalalaeva registrist kustutamisega tekkinud kalalaeva lisamise õigust, kuid omab muu kalalaeva registrist kustutamisega tekkinud kalalaeva lisamise õigust, loetakse muu kalalaeva registrist kustutamisega tekkinud kalalaeva lisamise õigus asjakohases osas lõppenuks.\n(9) Kui see isik või temaga seotud isik, kelle taotluse alusel kalalaeva registrist kustutamisega tekkis kalalaeva lisamise õigus, ei oma käesoleva paragrahvi lõikes 7 sätestatud juhul sama ega muu kalalaeva registrist kustutamisega tekkinud kalalaeva lisamise õigust, loetakse järgmise kümne aasta jooksul kalalaeva tagasi andmisest arvates sellel isikul või temaga seotud isikul tekkiv või neile loovutatav kalalaeva lisamise õigus asjakohases osas lõppenuks.\n(10) Seotud isikutena käsitatakse omavahel seotud isikuid tulumaksuseaduse § 8 tähenduses.\n(11) Kalalaeva lisamise õigust on lubatud loovutada kirjaliku kokkuleppega. Loovutamise kokkulepe või selle notariaalselt kinnitatud ärakiri esitatakse registri volitatud töötlejale koos kalalaeva registrisse kandmise taotlusega."
+    },
+    {
+      "provision_ref": "para35^2",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "35^2",
+      "title": "§ 35^2. Kalalaeva registrist ajutine kustutamine",
+      "content": "(1) Kalalaevastiku segmenti, kuhu käesoleva seaduse § 35 lõike 2 alusel kehtestatud määruse kohaselt kalalaeva lisada ei või, kantud kalalaeva võib registrist ajutiselt kustutada, kui:\n1) seda kalalaeva soovitakse ajutiselt kasutada kalapüügiks teises riigis või\n2) selle kalalaeva asemel soovitakse Eestis kalapüügiks kasutada ajutiselt muud kalalaeva.\n(2) Kalalaeva registrist ajutist kustutamist ei käsitata kalalaeva registrist kustutamisena käesoleva seaduse § 35^1 tähenduses, sealhulgas ei teki kalalaeva omanikul või valdajal kalalaeva lisamise õigust.\n(3) Kalalaeva registrist ajutise kustutamise korral kantakse kalalaev sama omaniku või valdaja taotlusel registrisse tagasi 12 kuu jooksul ajutisest kustutamisest arvates.\n(4) Kalalaeva registrist ajutise kustutamise korral on kalalaeva omanikul või valdajal õigus kanda registrisse ajutiselt kuni 12 kuuks muu kalalaev selle püügivõimsuse arvel, mis vabanes kalalaeva registrist ajutise kustutamisega. Registrisse ajutiselt kantud kalalaeva registrist kustutamisega ei teki kalalaeva omanikul või valdajal kalalaeva lisamise õigust, välja arvatud käesoleva paragrahvi lõike 7 punktis 1 sätestatud juhul.\n(5) Registrist käesoleva paragrahvi lõike 1 punkti 1 alusel ajutiselt kustutatud kalalaeva registrisse tagasi kandmiseks esitab kalalaeva omanik või valdaja registri volitatud töötlejale koos taotlusega kalapüügiloa ja püügiandmed, millest nähtub, et kalalaeva kasutati kalapüügiks teises riigis. Kalapüügiluba ja püügiandmeid ei pea esitama, kui kalalaeva kalapüügiks kasutamine nähtub Euroopa Liidu asjakohasest andmekogust.\n(6) Registrist ajutiselt kustutatud kalalaeva ei kanta registrisse tagasi selle püügivõimsuse arvel, mis vabanes kalalaeva registrist ajutise kustutamisega, kui:\n1) kalalaeva registrist ajutisest kustutamisest on möödunud enam kui 12 kuud;\n2) registrist ajutiselt kustutatud kalalaeva asemel registrisse ajutiselt kantud muud kalalaeva ei ole 12 kuu jooksul kalapüügiks kasutatud või\n3) registrist ajutiselt kustutatud kalalaeva ei ole 12 kuu jooksul kasutatud kalapüügiks teises riigis.\n(7) Käesoleva paragrahvi lõikes 6 sätestatud juhul loetakse registrist ajutiselt kustutatud kalalaev registrist kustutatuks ja käesolevas seaduses kalalaeva registrist kustutamise kohta sätestatud tagajärjed saabunuks ajutisest kustutamisest arvates ning:\n1) kui kalalaeva registrist kustutamisega tekib käesoleva seaduse § 35^1 kohaselt kalalaeva lisamise õigus, loetakse see tekkinuks ajutisest kustutamisest arvates;\n2) kui kalalaeva registrist kustutamisega ei teki käesoleva seaduse § 35^1 kohaselt kalalaeva lisamise õigust, loetakse asjakohane püügivõimsus vabanenuks.\n(8) Kui käesoleva paragrahvi lõike 7 punkti 1 kohaselt kalalaeva registrist kustutamisega tekib kalalaeva lisamise õigus ning registrist kustutatud kalalaeva asemel on registrisse ajutiselt kantud muu kalalaev, loetakse registrisse ajutiselt kantud kalalaev registrisse kantud kalalaevaks registrisse ajutisest kandmisest arvates.\n(9) Kui käesoleva paragrahvi lõike 7 punkti 2 kohaselt kalalaeva registrist kustutamisega ei teki kalalaeva lisamise õigust ning registrist kustutatud kalalaeva asemel on registrisse ajutiselt kantud muu kalalaev, kustutatakse ajutiselt registrisse kantud muu kalalaev registrist."
+    },
+    {
+      "provision_ref": "para35^3",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "35^3",
+      "title": "§ 35^3. Kalalaevastiku segmenti täiendava vaba püügivõimsuse määramine",
+      "content": "(1) Püügivõimsus loetakse asjakohases mahus vabanenuks, kui:\n1) kalalaev kustutatakse registrist käesoleva seaduse § 37 punkti 1, 2 või 5 alusel;\n2) kalalaev kustutatakse registrist käesoleva seaduse § 37 punkti 3 või 4 alusel nii, et kalalaeva lisamise õigust ei teki, või\n3) kalalaeva lisamise õigus on lõppenud.\n(2) Registri vastutav töötleja otsustab hiljemalt püügivõimsuse vabanemise aastale järgneva aasta 31. märtsil, millises kalalaevastiku segmendis võib vabanenud püügivõimsuse arvel taotleda kalalaeva registrisse kandmist.\n(3) Käesoleva paragrahvi lõike 1 kohaselt vabanenud püügivõimsuse arvel kalalaeva registrisse kandmist ei saa taotleda enne, kui registri vastutav töötleja on otsustanud, millises kalalaevastiku segmendis võib selle püügivõimsuse arvel taotleda kalalaeva registrisse kandmist.\n(4) Kui käesoleva paragrahvi lõike 2 alusel kalalaevastiku segmenti määratud täiendava vaba püügivõimsuse arvel ei ole määramise aastale järgneva aasta 31. märtsiks kalalaeva registrisse kantud, võib registri vastutav töötleja määrata kalalaevastiku muu segmendi, kuhu võib selle püügivõimsuse arvel taotleda kalalaeva registrisse kandmist. Kalalaevastiku muusse segmenti ei määrata püügivõimsust, kui käesoleva paragrahvi lõikes 2 nimetatud otsuse tegemisest on möödunud vähem kui üks aasta.\n(5) Kalavaru jätkusuutliku kasutamise tagamiseks võib valdkonna eest vastutav minister kehtestada määrusega käesolevas paragrahvis nimetatud vaba püügivõimsuse arvel kalalaeva registrisse kandmise tingimused ja korra, sealhulgas tingimused taotluse esitaja ja kalalaeva kohta ning vajaduse korral taotluste hindamise kriteeriumid.\n(6) Kui valdkonna eest vastutav minister ei ole käesoleva paragrahvi lõike 5 alusel kehtestanud asjakohaseid kalalaeva registrisse kandmise tingimusi ja korda, võivad käesolevas paragrahvis nimetatud täiendava vaba püügivõimsuse arvel taotleda kalalaeva kalalaevastiku segmenti kandmist kõik isikud. Rahuldatakse registri volitatud töötlejani varem jõudnud nõuetekohane taotlus.\n(7) Isik, kes omab õigust lisada kalalaev kalalaevastiku segmenti, kuhu käesoleva paragrahvi alusel on määratud täiendav vaba püügivõimsus, võib taotleda kalalaeva registrisse kandmist täiendava vaba püügivõimsuse arvel üksnes osas, mis kalalaeva lisamise õigust arvestades jääb puudu kalalaeva registrisse kandmiseks."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "36",
+      "title": "§ 36. Kalalaeva registrisse kandmisest keeldumine",
+      "content": "Kalalaeva registrisse kandmisest keeldutakse, kui esineb vähemalt üks järgmistest põhjustest: 1 1) kalalaev ei vasta selle kalalaevastiku segmendi nõuetele, kuhu seda soovitakse kanda;\n2) kalalaevastiku segmendis, kuhu laeva kanda soovitakse, ei ole vaba püügivõimsust ning kalalaevastiku segmenti ei või laevu juurde kanda;\n3) kalalaeva omanik või valdaja ei vasta kalapüügiloa saajale esitatavatele nõuetele;\n4) taotleja on esitanud taotluses valeandmeid;\n5) registrisse taotletakse sellise kalalaeva kandmist, mille alatiseks püügilt kõrvaldamiseks on makstud hüvitist;\n6) kalalaev ei vasta õigusaktides kehtestatud nõuetele;\n7) kalalaev ei ole varustatud laeva asukoha jälgimist võimaldava GPS- või muu satelliitjälgimissüsteemiga, kui see on nõutav;\n8) kalalaeva kasutamisel on rikutud rahvusvahelisi või teise riigi kalapüüki reguleerivaid õigusakte ja laev on kantud rahvusvahelise kalandusorganisatsiooni ebaseaduslikku püüki teostanud laevade loetellu või kehtib teise riigi määratud karistus laeva ebasihipärase kasutamise eest, mis ei luba nimetatud laevaga karistuse kehtivuse ajal kala püüda;\n9) kalalaevastiku segmendi jaoks kehtestatud riiklik püügikoormuse reguleerimise kava näeb ette selles segmendis püügivõimsuse vähendamise, välja arvatud juhul, kui taotluse esitajal on käesoleva seaduse § 35 lõikes 3 nimetatud õigus kalalaev segmenti lisada vähemalt lisatava kalalaeva poole püügivõimsuse ulatuses nii peamasina võimsust kui ka laeva kogumahutavust arvestades ja segmendis on piisavalt vaba püügivõimsust, mille arvel on võimalik lisatava kalalaeva ülejäänud püügivõimsus katta;\n10) taotluse esitaja või kalalaev ei vasta käesoleva seaduse § 35^3 lõike 5 alusel kehtestatud täiendava vaba püügivõimsuse arvel kalalaeva registrisse kandmise tingimustele ja korrale."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "37",
+      "title": "§ 37. Kalalaeva registrist kustutamine",
+      "content": "Kalalaev kustutatakse registrist, kui esineb vähemalt üks järgmistest põhjustest: 1 1) kalalaev, laeva omanik või valdaja ei vasta enam registrisse kandmise tingimustele;\n2) registrisse kantud laeva kalalaevatunnistus on tunnistatud kehtetuks;\n3) laeva kasutusvaldaja või liiklusregistrisse kantud laeva reeder on seda nõudnud;\n4) käesoleva paragrahvi punktis 3 nimetatud isiku puudumise korral on kalalaeva omanik seda nõudnud;\n5) kalalaev on registreeritud segmendis, kuhu laevu juurde lisada ei tohi, ning kalalaeva püügivõimsust on suurendatud käesoleva seaduse § 35 lõikes 6 nimetatud nõudeid järgimata või käesoleva seaduse § 33 lõike 3 kohaselt sertifitseerimata."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "38",
+      "title": "§ 38. Kalalaevatunnistus",
+      "content": "(1) Registrisse kantud kalalaevale antakse kalalaevatunnistus, lähtudes nõukogu määrusest (EÜ) nr 1224/2009 ja komisjoni rakendusmäärusest (EL) nr 404/2011.\n(2) Kalalaevatunnistuse annab registri volitatud töötleja.\n(3) Kalalaevatunnistust ei pea hoidma sellise laeva pardal, mis on lühem kui kümme meetrit ja millega püütakse kala ainult Eesti Vabariigi jurisdiktsiooni all oleval veealal.\n(4) Registri volitatud töötleja tunnistab kalalaevatunnistuse kehtetuks, kui esineb vähemalt üks järgmistest põhjustest:\n1) laeva ei ole kahe järjestikuse aasta jooksul kalapüügiks kasutatud;\n2) kalalaevatunnistuse omanikul on kogunenud komisjoni rakendusmääruse (EL) nr 404/2011 lisas XXX nimetatud tõsiste rikkumiste eest punkte nimetatud määruse artikli 129 lõikes 2 sätestatud määral;\n3) laev on registrist kustutatud.\n(5) Kehtivuse kaotanud kalalaevatunnistus tagastatakse registri volitatud töötlejale kümne päeva jooksul tunnistuse kehtivuse lõppemisest arvates. Kui tunnistus on antud väljaspool Eesti Vabariigi jurisdiktsiooni oleval veealal tegutsevale kalalaevale, tagastatakse tunnistus 30 päeva jooksul selle kehtivuse lõppemisest arvates.\n(6) Registri volitatud töötleja peatab kalalaevatunnistuse kehtivuse, kui esineb vähemalt üks järgmistest põhjustest:\n1) laeva ei ole ühe aasta jooksul kalapüügiks kasutatud;\n2) kalalaevatunnistuse omanikul on kogunenud komisjoni rakendusmääruse (EL) nr 404/2011 lisas XXX nimetatud tõsiste rikkumiste eest punkte nimetatud määruse artikli 129 lõikes 1 sätestatud määral.\n(7) Käesoleva paragrahvi lõike 6 punktis 2 nimetatud juhul peatatakse kalalaevatunnistuse kehtivus nõukogu määruse (EÜ) nr 1224/2009 artikli 92 lõikes 3 sätestatud ajavahemikuks.\n(8) Kalalaevatunnistuse kehtivuse peatamise ajaks tagastatakse tunnistus registri volitatud töötlejale. Kalalaevatunnistuse kehtivuse peatamise korral käesoleva paragrahvi lõike 6 punktis 1 sätestatud juhul hakkab kalalaevatunnistus jälle kehtima, kui kalalaevale kalapüügiloa saamise taotlus esitatakse uuesti ning punktis 2 sätestatud juhul, kui kalalaevatunnistuse peatamise tähtaeg on möödunud.\n(9) Kalalaevatunnistuse andmise, kehtivuse peatamise ning kehtetuks tunnistamise korra ja kalalaevatunnistuse vormi kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "39",
+      "title": "§ 39. Kalalaeva kalapüügiluba",
+      "content": "(1) Kalalaeva kalapüügiluba annab õiguse kalapüügiks kutselise kalapüügi vahendiga merel kuni Eesti Vabariigi majandusvööndi välispiirini, väljaspool Eesti Vabariigi jurisdiktsiooni oleval veealal, kui kalapüügiõiguse tagab seal riik, või käesolevas lõikes nimetamata avamerel.\n(2) Kalalaeva kalapüügiluba antakse äriregistris registreeritud ettevõtjale tema seaduslikus valduses olevale kalalaevale, millel on Eesti merelaeva või väikelaeva registreerimistunnistus ja kalalaevatunnistus.\n(3) Kalalaeva kalapüügiloa annab Põllumajandus- ja Toiduamet.\n(4) Ettevõtja võib asendada temale antud kalalaeva kalapüügiloas nimetatud kalalaeva teise tema õiguspärases valduses oleva Eesti merelaevatunnistust või väikelaeva registreerimistunnistust ja kalalaevatunnistust omava kalalaevaga, esitades kalapüügiloa andjale kirjaliku taotluse loa tingimuste muutmiseks. Muudetud tingimustega kalapüügiluba antakse ettevõtjale kahe nädala jooksul taotluse saamisest arvates."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "40",
+      "title": "§ 40. Kalalaeva kapten",
+      "content": "(1) Kalalaeva võib selle kalapüügil viibimise ajal juhtida ning kalapüüki korraldada ainult kalalaeva kalapüügiloale kantud kapten.\n(2) Ettevõtja võib asendada temale antud kalalaeva kalapüügiloas nimetatud kapteni teise kapteniga, teavitades sellest kirjalikult kalapüügiloa andjat. Kapteni asendamise jõustumiseks annab kalapüügiloa andja ettevõtjale uue kalapüügiloa viie tööpäeva jooksul teate saamisest arvates."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "41",
+      "title": "§ 41. Kaluri kalapüügiluba",
+      "content": "(1) Kaluri kalapüügiluba annab õiguse kalapüügiks kutselise kalapüügi vahendiga merel kuni 20 meetri samasügavusjooneni, Peipsi, Lämmi- ja Pihkva järvel, Narva jõel ja Narva veehoidlal või teistel siseveekogudel.\n(2) Erandina käesoleva paragrahvi lõikes 1 sätestatust annab kaluri kalapüügiluba õiguse püüda kala nakkevõrgu ja põhjanoodaga Eesti Vabariigi territoriaal- ja sisemeres, sõltumata mere sügavusest.\n(3) Kaluri kalapüügiluba antakse äriregistris registreeritud ettevõtjale.\n(3^1) Kalapüügiluba püsiasustusega väikesaare püügivõimaluse kasutamiseks antakse ainult sama väikesaare püsielanikust füüsilisest isikust ettevõtjale või äriühingule, kelle kõik osanikud, aktsionärid või liikmed on sama väikesaare püsielanikud.\n(4) Kalapüügiloale võib kanda ainult sellise kaluri nime, kellel on vähemalt rannakaluri neljanda taseme kutsekvalifikatsioon kutseseaduse tähenduses. Kalapüügiloale võib kanda ka välisriigi kutsekvalifikatsiooni omandanud isiku, kui tema kutsekvalifikatsiooni on tunnustatud välisriigi kutsekvalifikatsiooni tunnustamise seaduse kohaselt. Välisriigi kutsekvalifikatsiooni tunnustamise seaduse § 7 lõikes 2 sätestatud pädev asutus on Maaeluministeerium.\n(5) Ettevõtja kirjaliku taotluse alusel kantakse kalapüügiloale kalapüügiga vahetult tegeleva kaluri nimi ja isikukood.\n(6) Ettevõtja võib asendada temale antud kaluri kalapüügiloas nimetatud kaluri teisega, esitades kalapüügiloa andjale kirjaliku taotluse loa tingimuste muutmiseks. Muudetud tingimustega kalapüügiluba antakse ettevõtjale viie tööpäeva jooksul taotluse saamisest arvates.\n(7) Kaluri poolt kalapüügile kaasavõetavate isikute arv ei ole piiratud.\n(8) Kaluri kalapüügiloa annab Põllumajandus- ja Toiduamet."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "42",
+      "title": "§ 42. Kutselise kalapüügi loa andmine ja tingimused",
+      "content": "(1) Kutselise kalapüügi luba antakse aastas lubatud väljapüügimahu, püügipäevade arvu, püügivahendite arvu, laevade püügikoormuse või püügivõimsuse või kalalaevade arvu (edaspidi püügivõimalused ) piires tähtajaliselt ja mitte kauemaks kui üheks kalendriaastaks. Kui lubatud aastasaak on kehtestatud kastmõrrale, siis kastmõrraga püügiks kutselise kalapüügiloa andmisel arvestatakse lisaks esimeses lauses sätestatule ka lubatud aastasaaki.\n(2) Püügipäev käesoleva seaduse tähenduses on kalendripäev, millal kalalaev viibib veealal, kus kalapüüki reguleeritakse, sõltumata sellest, kas kala tegelikult püütakse.\n(3) Laeva püügikoormus on käesoleva seaduse tähenduses laeva kogumahutavuse või peamasina võimsuse ja püügipäeva korrutis.\n(4)\n(5) Kutselise kalapüügi loa taotlus esitatakse järgmiseks aastaks jooksval aastal ajavahemikus 1. septembrist 1. detsembrini. Valdkonna eest vastutav minister võib mõjuvatel põhjustel taotluste esitamise tähtaega pikendada.\n(6) Kutselise kalapüügi loa taotlemisel esitatavate dokumentide loetelu, kalapüügiloa andmise, kehtivuse peatamise ning kehtetuks tunnistamise korra, kalapüügivõimaluste arvutamise metoodika ja kalapüügiloa taotluse ning kalapüügiloa vormid kehtestab Vabariigi Valitsus määrusega.\n(7) Kalapüügiloas määratakse lubatud püügivahend, püügivõimalus, püügiaeg ja kalapüügi koht ning kastmõrraga püügil lubatud aastasaak, mis arvutatakse käesoleva seaduse § 47 lõike 2 alusel kehtestatud kastmõrra aastasaagi ja kastmõrra püügivõimaluse korrutisena. Kui ettevõtja on omandanud kalapüügiõiguse väljaspool Eesti Vabariigi jurisdiktsiooni asuval veealal Eesti Vabariigist sõltumata, kuid kalapüügiõiguse andja nõuab kalapüügiõiguse kasutamiseks Eesti Vabariigi nõusolekut, märgitakse kalapüügiloas kalapüügi koht ja kalapüügiõiguse omandamise alus.\n(8) Kui lubatud aastasaak on kehtestatud kastmõrdade kaupa, arvestatakse esimeses järjekorras selle isiku räimepüük, kellele on määratud kastmõrraga püügiks lubatud räime aastasaak, talle määratud lubatud räime aastasaagi arvele. Kui sellele isikule lubatud räime aastasaak on ammendunud, peab ta lõpetama kastmõrraga püügi.\n(9) Veekogul, kus on lubatud kasutada kümmet või enamat nakke- või raamvõrku, ei anta kalapüügiluba korraga vähem kui kümne võrgu kasutamiseks, välja arvatud käesoleva paragrahvi lõigetes 10 ja 11 sätestatud juhul.\n(10) Vähem kui kümne nakke- või raamvõrgu kasutamiseks antakse kalapüügiluba, kui lisaks nakke- või raamvõrgule on ettevõtjal võimalus püüda kala ka kastmõrraga või vähemalt kahe ääre- või avaveemõrraga. Peipsi, Lämmi- ja Pihkva järvel vähem kui kümne nakke- või raamvõrgu kasutamiseks kalapüügiluba ei anta.\n(11) Kutselisele kalurile, kes on väikesaare püsielanik, võib anda kalapüügiloa viie või enama nakke- või raamvõrgu kasutamiseks."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "43",
+      "title": "§ 43. Kutselise kalapüügi loa andmisest keeldumine",
+      "content": "Kutselise kalapüügi loa andmisest keeldutakse, kui esineb vähemalt üks järgmistest põhjustest: 1 1) loa taotlejal või taotluses nimetatud kaluril on rohkem kui üks kehtiv karistus väärteo või kuriteo eest, mida on kohaldatud seoses käesoleva seaduse § 71 lõikes 1 nimetatud kalapüüginõuete tõsise rikkumisega;\n2) loa taotleja või loa taotleja kalalaev ei vasta ELi õigusaktides kehtestatud nõuetele;\n3) kalapüüginõuete rikkumise tõttu kalalaeva kalapüügiloa kehtetuks tunnistamisest on möödunud vähem kui aasta;\n4) loa taotleja on esitanud taotluses valeandmeid;\n5) loa taotleja kalalaeva ei luba kala püüdma püügikohas kalapüüki reguleerivad õigusaktid või püügikohas kalapüüki korraldav riik või rahvusvaheline organisatsioon;\n6) loa taotleja on jätnud tähtajaks maksmata kalapüügiõiguse tasu;\n7) selle kalalaeva kalalaevatunnistus, mille märkimist loale taotletakse, on kehtetuks tunnistatud või selle kehtivus on peatatud või tunnistus puudub;\n8) luba taotletakse tingimustel, mis ei vasta kalalaevastiku segmendile, kuhu taotlusele märgitud kalalaev on riiklikus registris kantud;\n9) kalalaeva kalapüügiloa taotluses nimetatud kaptenil on rohkem kui üks kehtiv karistus väärteo või kuriteo eest, mida on kohaldatud seoses käesoleva seaduse § 71 lõikes 1 nimetatud kalapüüginõuete tõsise rikkumisega."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "44",
+      "title": "§ 44. Kutselise kalapüügi loa kehtivuse ennetähtaegne lõppemine, peatamine ja kehtetuks tunnistamine",
+      "content": "(1) Kalapüügiloa kehtivus lõpeb enne tähtaega, kui sellega määratud püügivõimalused on ammendatud.\n(2) Kalapüügiloa andja peatab kalapüügiloa kehtivuse, kui esineb vähemalt üks järgmistest põhjustest:\n1) kolmanda riigi lubasid väljastav asutus peatab Eesti kalalaevale antud kalapüügiloa, nagu seda on käsitletud nõukogu määruse (EÜ) nr 1006/2008 artikli 16 lõike 2 esimeses lõigus;\n2) kalalaevatunnistuse kehtivus on peatatud.\n(3) Kalapüügiloa andja tunnistab kalapüügiloa kehtetuks, kui esineb vähemalt üks järgmistest põhjustest:\n1) loa saanud isik või loale kantud kalalaev ei vasta enam loa saamise nõuetele;\n2) kalapüüki reguleeriv välisriik või rahvusvaheline organisatsioon on vähendanud väljaspool Eesti Vabariigi jurisdiktsiooni oleval veealal püügivõimalusi ulatuses, mis ei võimalda antud loa alusel kala püüda;\n3) Eesti Vabariigile või ELile rahvusvaheliste kokkulepete alusel eraldatud püügivõimalused on ammendatud ja riigil või ELil on kohustus sellel alal kalapüük lõpetada;\n4) loa saanud isik on jätnud tähtajaks maksmata kalapüügiõiguse tasu;\n5) loa saanud isiku kalalaeva ei luba kala püüdma püügikohas kalapüüki reguleerivad õigusaktid või püügikohas kalapüüki korraldav riik või rahvusvaheline organisatsioon;\n6) loa saanud isik ei taga kalalaeva asukoha jälgimist GPS- või muu satelliitjälgimissüsteemi kaudu või ei võimalda vaatleja viibimist kalalaeval veealal, kus EL, kalapüüki reguleeriv riik või rahvusvaheline organisatsioon seda nõuab;\n7) loal märgitud kalalaeva kalalaevatunnistus on tunnistatud kehtetuks;\n8) loa saanud isik, loale kantud kalur või kapten on kalendriaasta jooksul rohkem kui ühel korral toime pannud käesoleva seaduse § 71 lõikes 1 nimetatud kalapüüginõuete tõsise rikkumise;\n9) nõukogu määruse (EÜ) nr 1006/2008 artikli 16 lõikes 2 nimetatud juhul.\n(4) Kui käesoleva paragrahvi lõike 3 punktis 8 nimetatud rikkumise pani toime loale kantud kalur või kapten, siis annab loa andja loa omaniku kirjaliku taotluse alusel uue kalapüügiloa kahe nädala jooksul nõuetekohase taotluse saamisest arvates.\n(5) Kui kalapüügiloa kehtivus lõpeb käesoleva paragrahvi lõikes 1 nimetatud juhul loale märgitud kuupäevast varem, tagastatakse kehtivuse kaotanud kalapüügiluba loa andjale kümne päeva jooksul loa kehtivuse lõppemisest arvates. Kui luba on antud kalapüügiks väljaspool Eesti Vabariigi jurisdiktsiooni oleval veealal, tagastatakse käesolevas lõikes sätestatud juhul luba 30 päeva jooksul kehtivuse lõppemisest arvates."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "45",
+      "title": "§ 45. Püügivõimaluste kehtestamine kaluri kalapüügiloa alusel",
+      "content": "(1) Eelseisva aasta püügivõimalused kaluri kalapüügiloa alusel maakondade ja merel veealade, siseveekogude ja püsiasustusega väikesaarte kaupa, lähtudes kala- ja veetaimevaru seisundist, kehtestab Vabariigi Valitsus määrusega jooksva aasta 1. novembriks, kui EL ei sea püügivõimalusi hiljem.\n(2) Kalapüügivõimalused, mis saadakse teiste riikidega püügivõimaluste vahetamise tulemusena, kehtestab Vabariigi Valitsus määrusega 60 tööpäeva jooksul püügivõimaluste vahetamisest arvates."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "46",
+      "title": "§ 46. Püügivõimaluste kehtestamine kalalaeva kalapüügiloa alusel",
+      "content": "(1) Püügivõimalused kalalaeva kalapüügiloa alusel aastaks, milleks taotlus esitatakse, ja mida kasutavad Läänemerel nii kalalaeva kalapüügiloa kui ka kaluri kalapüügiloa alusel püüdjad, ning püügivõimalused väljaspool Eesti Vabariigi jurisdiktsiooni oleval veealal, mida EL ei reguleeri, kehtestab Vabariigi Valitsus määrusega 60 tööpäeva jooksul pärast ELi püügivõimaluste kehtestamist.\n(2) Püügivõimalused aastaks, milleks taotlus esitatakse, ja mis saadakse teiste riikidega püügivõimaluste vahetamise tulemusena, kehtestab Vabariigi Valitsus määrusega 60 tööpäeva jooksul püügivõimaluste vahetamisest arvates."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "47",
+      "title": "§ 47. Lubatud saakide kehtestamine",
+      "content": "(1) Eesti Vabariigi valitsuse ja Venemaa Föderatsiooni valitsuse vahelise Peipsi, Lämmi- ja Pihkva järve kalavaru säilitamise ja kasutamise alase koostöö kokkuleppe alusel Peipsi, Lämmi- ja Pihkva järvel Eesti Vabariigile määratud lubatud aastasaagi kalaliikide kaupa kehtestab Vabariigi Valitsus määrusega 60 tööpäeva jooksul pärast valitsustevahelises Peipsi, Lämmi- ja Pihkva järve kalapüügi komisjonis lubatud kogusaagi poolte vahel jaotamist, kusjuures iga kalaliigi lubatud aastasaagi võib kehtestada ka poolaastate kaupa.\n(2) 60 päeva jooksul pärast ELi püügivõimaluste kehtestamist võib Vabariigi Valitsus kehtestada määrusega Läänemerel kaluri kalapüügiloa alusel püüda lubatud aastasaagi veealade ja maakondade ning püsiasustusega väikesaarte jaoks iga kalaliigi kohta ja kastmõrraga püügil kastmõrra kaupa iga kalaliigi kohta, mida püütakse nii kalalaeva kalapüügiloa kui ka kaluri kalapüügiloa alusel.\n(3) Käesoleva paragrahvi lõigete 1 ja 2 alusel kehtestatud saake ei loeta püügivõimalusteks käesoleva seaduse § 42 lõike 1 ja § 51 lõike 1 tähenduses."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "48",
+      "title": "§ 48. Teatud osa püügivõimaluste taotlejate vahel jaotamine",
+      "content": "(1) Kui EL või Vabariigi Valitsus ei ole eelseisva aasta püügivõimalusi jooksva aasta 15. detsembriks kehtestanud, võib kutselise kalapüügi loa andja jagada taotlejate vahel osa järgmise aasta püügivõimalustest.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud juhul võib loa andja välja jagada kuni 50 protsenti taotluses nimetatud aastale eelnenud aastal kehtestatud püügivõimalustest."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "49",
+      "title": "§ 49. Kutselise kalapüügi peatamine ja taasavamine",
+      "content": "(1) Kui veealal kehtestatud kutselise kalapüügi võimalused või käesoleva seaduse § 47 alusel kehtestatud lubatud aastasaak on ammendatud 90 protsendi ulatuses, peatab valdkonna eest vastutav minister kutselise kalapüügi sellel veealal. Kutselise kalapüügi võib peatada ühe või mitme maakonna, püsiasustusega väikesaare, püügivahendi, kalaliigi ja käesoleva seaduse § 32 lõikes 1 nimetatud kalapüügiloa osas.\n(2) Valdkonna eest vastutav minister peatab kutselise kalapüügi käesoleva paragrahvi lõike 1 alusel käskkirjaga, mis tehakse teatavaks Ametlikes Teadaannetes. Käskkiri hakkab kehtima järgmisel päeval pärast selle avaldamist, kui käskkirjas ei ole ette nähtud hilisemat kehtima hakkamise tähtpäeva. Käskkiri avalikustatakse viivituseta ka ministeeriumi veebilehel ning teave kalapüügi peatamise kohta saadetakse elektroonilisel teel kutselise kalapüügiga tegelejaid ühendavatele erialaliitudele.\n(3) Valdkonna eest vastutav minister võib kutselise kalapüügi taasavada veealal, kus kalapüük käesoleva paragrahvi lõike 1 kohaselt peatati, pärast kalapüügiandmete laekumist, kui nende kohaselt ei ole kutselise kalapüügi võimalused või käesoleva seaduse § 47 alusel kehtestatud lubatud aastasaak 100 protsendiliselt ammendatud. Kutselise kalapüügi võib uuesti avada määratud tähtajaks ning ühe või mitme maakonna, püsiasustusega väikesaare, püügivahendi, kalaliigi ja käesoleva seaduse § 32 lõikes 1 nimetatud kalapüügiloa osas. Kutselise kalapüügi taasavamise käskkiri avalikustatakse ning see hakkab kehtima käesoleva paragrahvi lõikes 2 sätestatud korras.\n(4) Kui Eesti Vabariigile või ELile rahvusvaheliste kokkulepete alusel eraldatud püügivõimalused, mida Eesti ettevõtjad kasutavad, on ammendatud ja riigil või ELil on kohustus kalapüük sellel alal keelata või lõpetada, keelab või lõpetab kalapüügi juhul, kui kalapüüki ei ole lõpetanud EL, valdkonna eest vastutav minister käskkirjaga. Käskkiri hakkab kehtima käesoleva paragrahvi lõikes 2 sätestatud korras."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "50",
+      "title": "§ 50. Püügivõimaluste jaotamine taotlejate vahel",
+      "content": "(1) Kui veeala püügivõimalused ei võimalda kalapüügilubade taotluste rahuldamist täies ulatuses, jaotatakse püügivõimalused nende taotlejate vahel, kes on eelmisel kolmel aastal selle veeala püügivõimalusi õiguspäraselt omandanud.\n(1^1) Kui veeala püügivõimalused võimaldavad rahuldada kalapüügilubade taotlused täies ulatuses, jaotatakse püügivõimalused taotlejate vahel vastavalt taotlustele.\n(1^2) Käesoleva paragrahvi lõigetes 1 ja 1^1 nimetatud püügivõimalusi ei jaotata taotlejate vahel, kellele ei või asjaomaseks aastaks kalapüügiluba anda.\n(2) Veeala käesoleva paragrahvi lõike 1 tähenduses on veekogu või selle piiritletud osa, kus püügivõimalused on kehtestatud käesoleva seaduse §-de 45 ja 46 alusel, või ELi määruses nimetatud piirkond, kus püügivõimalused on kehtestatud ELi määrusega."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "51",
+      "title": "§ 51. Ajalooline püügiõigus",
+      "content": "(1) Käesoleva seaduse § 50 lõikes 1 sätestatud püügivõimaluste jaotamisel võetakse arvesse taotleja eelmisel kolmel aastal õiguspäraselt omandatud püügivõimaluste summa ja kõikide sama püügivõimaluse taotlejate eelmisel kolmel aastal õiguspäraselt omandatud püügivõimaluste summa jagatist (edaspidi ajalooline püügiõigus ).\n(2) Ajaloolise püügiõiguse ulatuse arvutamise metoodika kehtestab Vabariigi Valitsus määrusega.\n(3) Püügivõimalus loetakse omandatuks, kui see on loale märgitud ja selle eest on makstud, kui tasu maksmine on nõutav.\n(4) Ajaloolise püügiõiguse ulatuse arvutamisel liidetakse ajaloolisele püügiõigusele juurde ka käesoleva seaduse § 60 lõike 1 alusel omandatud püügiõigus.\n(5) Ajaloolise püügiõiguse ulatuse arvutamisel arvatakse ajaloolisest püügiõigusest maha püügiõigus, mille taotleja on käesoleva seaduse § 60 lõike 1 kohaselt võõrandanud, või püügiõigus, millest ta on käesoleva seaduse § 60 lõike 3 kohaselt loobunud.\n(6) Kui jagatud püügivõimalused ei rahuldanud kalapüügilubade taotlusi täies ulatuses, jaotatakse täiendavalt avanenud püügivõimalused vastavalt käesoleva paragrahvi lõike 1 alusel määratud ajaloolisele püügiõigusele.\n(7) Kui püügivõimalused jagati vastavalt taotlustele, jaotatakse täiendavalt avanenud püügivõimalused nõuetekohaste taotluste loa andjani jõudmise järjekorras.\n(8) Püügivõimaluste avanemiseks loetakse püügivõimaluste kehtestamist käesoleva seaduse § 45 või 46 alusel.\n(9) Kui käesoleva paragrahvi lõikes 1 nimetatud ajaloolise püügiõiguse võõrandamisel tuvastatakse käesoleva seaduse §-s 56 sätestatud asjaolu, kohaldatakse ajaloolise püügiõiguse omandaja suhtes käesoleva seaduse §-s 56 sätestatut. Kui ajaloolise püügiõiguse osa antakse üle, antakse kalapüügiluba nii ajaloolise püügiõiguse võõrandajale kui ka omandajale püügivõimaluse kasutamiseks võrdeliselt vähendatud ulatuses.\n(10) Käesoleva seaduse §-des 56 ja 57 ning käesoleva paragrahvi lõikes 9 sätestatu ei mõjuta taotleja ajaloolist püügiõigust. Kui taotlejale antakse kalapüügiluba püügivõimaluse kasutamiseks vähendatud ulatuses, loetakse loaga andmata püügivõimalus õiguspäraselt omandatud püügivõimaluseks käesoleva paragrahvi tähenduses ning see võetakse arvesse ajaloolise püügiõiguse suuruse arvutamisel. Kui taotlejale antakse kalapüügiluba püügivõimaluse kasutamiseks suurendatud ulatuses, ei loeta lisapüügivõimalust õiguspäraselt omandatud püügivõimaluseks käesoleva paragrahvi tähenduses ning seda ei võeta arvesse ajaloolise püügiõiguse alusel püütava kalakoguse suuruse arvutamisel."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "52",
+      "title": "§ 52. Püügivõimaluste jaotamise erijuhud",
+      "content": "(1) Kui räimepüügivõimalused kaluri kalapüügiloa alusel kehtestatakse kastmõrdade piirarvu asemel väljapüügimahuna ja püügivõimalustest ei piisa kalapüügilubade taotluste rahuldamiseks täies ulatuses, siis eraldatakse taotlejatele püügivõimalused nii, et lubatud väljapüügimaht jagatakse kõigi taotlejate eelmisel aastal õiguspäraselt omandatud kastmõrdade koguarvuga. Selle tulemusel saadakse lubatud väljapüügimaht ühe kastmõrra kohta ning igale taotlejale eraldatakse püügivõimalused tema eelmisel aastal õiguspäraselt omandatud kastmõrdade arvu ja ühe kastmõrra kohta saadud väljapüügimahu korrutisena. Püügivõimaluse mahu arvutamisel ei arvestata püügiõigust, mille taotleja on käesoleva seaduse § 60 lõike 1 kohaselt võõrandanud või millest ta on käesoleva seaduse § 60 lõike 3 kohaselt loobunud.\n(2) Kui kehtestatud püügivõimalust on varem kasutatud muul viisil ja kõiki kalapüügilubade taotlusi ei ole võimalik rahuldada, rakendatakse püügivõimaluste jaotamisel käesoleva seaduse § 51 lõikes 1 sätestatut, arvestades ajaloolise püügivõimaluse jaotamisel eelnevalt omandatud püügiõigust, mis arvutatakse ümber uuel viisil kehtestatud püügivõimaluseks.\n(3) Kui kehtestatud püügivõimalusi on varem kasutatud muul viisil ja püügivõimalused ei võimalda kalapüügilubade taotluste rahuldamist täies ulatuses, kuid püügivõimalusi varem kasutanud isikud püügivõimalusi ei taotle, kohaldatakse käesoleva seaduse § 53 lõikes 1 sätestatut.\n(4) Kui Vabariigi Valitsus ei ole kalavaru säilimise eesmärgil kolmel aastal järjest kehtestanud püügivõimalusi käesoleva seaduse § 45 või 46 alusel või neid ei ole kehtestatud ELi määrusega, siis nende püügivõimaluste taaskehtestamise korral jagatakse järgmise seitsme aasta jooksul püügivõimalused käesoleva seaduse § 51 lõike 1 alusel, lugedes õiguspäraselt omandatuks need püügivõimalused, mis olid nende kasutamise viimasel aastal loale märgitud ja mille eest on makstud kalapüügiõiguse tasu, või loa alusel välja võetud püügivõimalused, mille eest kalapüügiõiguse tasu maksmine ei olnud nõutav."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "53",
+      "title": "§ 53. Püügivõimaluste enampakkumine",
+      "content": "(1) Kui esmakordselt kehtestatud püügivõimalused ei võimalda kalapüügilubade taotluste rahuldamist täies ulatuses, müüakse püügivõimalused enampakkumisel. Enampakkumise alghind määratakse keskkonnatasude seaduse §-s 11 sätestatust lähtudes.\n(1^1) Püügivõimaluse esmakordseks kehtestamiseks loetakse püügivõimaluse kehtestamist veealal, kus ei ole eelmisel kolmel aastal õiguspäraselt omandatud sama liiki püügivõimalusi.\n(1^2) Püügivõimaluse esmakordseks kehtestamiseks ei loeta püügivõimaluse kehtestamist käesoleva seaduse § 52 lõigetes 2 ja 4 sätestatud juhtudel.\n(2) Kui enampakkumisel müüdavat püügivõimalust ei arvutata väljapüütava kalakoguse järgi, on püügivõimaluse arvutamise tulemusi lubatud ümardada täisarvuni."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "54",
+      "title": "§ 54. Enampakkumise korraldamine",
+      "content": "(1) Käesoleva seaduse §-s 53 sätestatud enampakkumisel osalemiseks tasutakse osavõtutasu ja tagatisraha.\n(2) Osavõtutasu ei tohi ületada 10 protsenti kõikide enampakkumisel müüdavate sama veeala sama liiki püügivõimaluste alghinnast ega olla suurem kui 20 eurot. Osavõtutasu ei tagastata.\n(3) Tagatisraha suurus on 50 protsenti käesoleva paragrahvi lõikes 2 nimetatud alghinnast. Tagatisraha ei tagastata isikule, kelle süül enampakkumine nurjus.\n(4) Enampakkumise toimumise korra kehtestab Vabariigi Valitsus määrusega.\n(5) Enampakkumisel võib osaleda isik, kes on esitanud kalapüügiloa taotluse enampakkumisel müüdava püügivõimaluse kasutamiseks ja kellele võib anda asjakohase kalapüügiloa. Isik, kelle süü tõttu enampakkumine on nurjunud, ei või osaleda sama aasta sama liiki püügivõimaluse enampakkumisel."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "55",
+      "title": "§ 55. Püügivõimaluse vabanemine",
+      "content": "(1) Kui taotleja ei ole tasunud taotluses nimetatud aasta 1. juuliks endale taotletud või talle käesoleva seaduse § 50 lõike 1 alusel jaotatud püügivõimaluse eest, loetakse püügivõimalused tasumata osas vabanenuks.\n(2) Kui püügivõimalused olid jaotatud kasutajate vahel käesoleva seaduse § 50 lõike 1 alusel, jagatakse vabanenud püügivõimalused käesoleva seaduse § 51 lõike 1 alusel määratud ajaloolise püügiõiguse kohaselt, kusjuures vabanenud püügivõimalusi ei jagata isikutele, kelle arvel püügivõimalused vabanesid.\n(3) Kui lubatud püügivõimalused on jaotatud vastavalt taotlustele või püügivõimalusi on vabanenud kõigi ajaloolise püügiõiguse alusel püügivõimalusi saanud taotlejate arvel, jagatakse vabanenud püügivõimalused taotlejate nõuetekohaste taotluste saabumise järjekorras. Sellisel juhul võivad püügivõimalusi taotleda ka isikud, kelle arvel püügivõimalused on vabanenud.\n(3^1) Taotlusi vabanenud püügivõimalustele saab esitada 31. augustini.\n(4) Kui ettevõtja ei ole kolmel järjestikusel aastal võtnud välja luba kalapüügiks talle määratud püügivõimaluse piires või esitanud käesoleva seaduse § 61 kohaselt kalapüügiandmeid, millest pidi nähtuma, kuidas ta on talle määratud püügivõimalust kasutanud, loetakse ettevõtja selle püügivõimaluse kasutamisest loobunuks ning püügivõimalus vabanenuks. Vabanenud püügivõimalus jagatakse käesoleva paragrahvi lõigetes 2 ja 3 sätestatud korras. Käesolevas lõikes sätestatut ei kohaldata ettevõtja suhtes, kes ei ole kolmel järjestikusel aastal võtnud välja talle loaga määratud püügivõimalust või esitanud kalapüügi andmeid käesoleva seaduse § 42 lõigetes 9–11, § 58 lõigetes 1 ja 3 või § 59 lõigetes 1 ja 3 nimetatud juhtudel, juhul kui ta saab kasutada antavate püügivõimaluste asemel muid kutselise kalapüügi võimalusi."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "56",
+      "title": "§ 56. Püügivõimaluse vähendamine",
+      "content": "Kui taotleja püüdis taotluses käsitletud aastale eelnenud aastal rohkem kala, kui andis õiguse tema õiguspäraselt omandatud püügivõimalus, antakse talle taotluses nimetatud aastaks kalapüügiluba püügivõimaluse kasutamiseks vähendatud ulatuses. Kui taotleja püüdis taotletavale aastale eelnenud aastal rohkem kala, kui talle kastmõrra kohta lubatud aastasaak õiguse andis, antakse talle taotletavaks aastaks kalapüügiluba aastas püüda lubatud saagi kasutamiseks vähendatud ulatuses. Vähendamine toimub nõukogu määruse (EÜ) nr 1224/2009 artikli 105 lõigetes 2 ja 5 sätestatud ulatuses."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "57",
+      "title": "§ 57. Püügivõimaluse suurendamine",
+      "content": "(1) Kui taotluses nimetatud aastale eelnenud aastal püüdis püügivõimaluse taotleja vähem kala, kui andis õiguse tema õiguspäraselt omandatud püügivõimalus, kuna Eesti Vabariigile eraldatud püügivõimaluse ammendumise tõttu peatati kalapüük enne taotleja püügivõimaluse ammendumist, antakse talle asjakohase avalduse alusel taotluses nimetatud aastaks kalapüügiluba püügivõimaluse kasutamiseks eelmise aasta puudujäägiga võrdse osa võrra suurendatud ulatuses.\n(2) Käesoleva paragrahvi lõiget 1 ei kohaldata, kui enne taotleja püügivõimaluse ammendumist peatati kalapüük Eesti Vabariigile eraldatud püügivõimaluse vähendamise tõttu."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "58",
+      "title": "§ 58. Püügivõimaluse kasutada andmine ja saamine",
+      "content": "(1) Ettevõtja võib temale taotluses nimetatud aastaks määratud püügivõimaluse, mille eest ta on maksnud kalapüügiõiguse tasu, ning teise riigi ettevõtjalt kasutamiseks saadud püügivõimaluse anda jooksval aastal kasutamiseks Eesti ettevõtjale, kellele on samaks aastaks määratud püügivõimalus samal veekogul. Selleks esitavad ettevõtjad Põllumajandus- ja Toiduametile ühise avalduse, milles on märgitud kasutada antava püügivõimaluse ulatus.\n(2) Kui lubatud aastasaak on kehtestatud kastmõrra kaupa, võib ettevõtja talle taotletavaks aastaks määratud kastmõrra püügivõimaluse anda käesoleva paragrahvi lõike 1 kohaselt jooksvaks aastaks kasutamiseks teisele ettevõtjale ainult koos lubatud aastasaagiga. Ettevõtja ei või anda kastmõrra püügivõimalust teise ettevõtja kasutusse esimeses lauses sätestatu kohaselt pärast seda, kui ta on selle püügivõimaluse loaga välja võtnud.\n(3) Püügivõimaluse kasutada andmine või saamine käesoleva paragrahvi lõike 1 alusel ei mõjuta ettevõtja ajaloolist püügiõigust ning võib toimuda ulatuses, mida ettevõtjal on õigus püügivõimaluse kasutada andmise ajal välja võtta.\n(4) Käesoleva paragrahvi lõikes 1 sätestatud juhul vastutab kalapüügi nõuetekohasuse ja aruandluse eest püügivõimaluse kasutada saanud ettevõtja.\n(5) Kui kasutada antud püügivõimaluse alusel püütakse lubatust rohkem kala, antakse püügivõimaluse kasutada saanud ettevõtjale järgmiseks aastaks kalapüügiluba püügivõimaluse kasutamiseks käesoleva seaduse § 56 kohaselt vähendatud ulatuses.\n(6) Kui püügivõimaluse kasutada saanud ettevõtjal ei ole käesoleva paragrahvi lõikes 5 nimetatud vähendatavat püügivõimalust, vähendatakse selle võrra püügivõimaluse kasutada andnud ettevõtja järgmise aasta püügivõimaluse mahtu.\n(7) Kui lubatud aastasaak on kehtestatud kastmõrdade kaupa ja kastmõrra püügivõimaluse ning aastas püüda lubatud saagi kasutada saanud ettevõtja ei oma piisavas ulatuses kastmõrra püügivõimalust ja lubatud aastasaaki, siis vähendatakse vastavas ulatuses püügivõimaluse kasutada andnud ettevõtja lubatud aastasaaki nõukogu määruse (EÜ) nr 1224/2009 artikli 105 lõikes 2 sätestatu kohaselt."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "59",
+      "title": "§ 59. Püügivõimaluse kasutada andmine teise riigi ettevõtjale või saamine teise riigi ettevõtjalt",
+      "content": "(1) Ettevõtja võib temale taotluses nimetatud aastaks määratud püügivõimaluse, mille eest ta on maksnud kalapüügiõiguse tasu, ning teise riigi ettevõtjalt kasutamiseks saadud püügivõimaluse anda jooksval aastal kasutamiseks teise riigi ettevõtjale või saada püügivõimaluse jooksval aastal kasutamiseks teise riigi ettevõtjalt Põllumajandus- ja Toiduameti nõusolekul.\n(1^1) Ettevõtja võib jooksval aastal anda teise riigi ettevõtjale kasutamiseks püügivõimaluse, mille ta on saanud kasutamiseks Eesti ettevõtjalt, kui teise riigi ettevõtjale kasutamiseks antav püügivõimalus kehtib merel väljaspool Läänemerd oleva veeala kohta.\n(2) Püügivõimaluse kasutamiseks vajaliku kalapüügiloa annab Eesti ettevõtjale Põllumajandus- ja Toiduamet, arvestades ELi või asjaomasel veealal kalapüüki reguleeriva rahvusvahelise organisatsiooni kehtestatud nõudeid.\n(3) Käesoleva paragrahvi alusel püügivõimaluse kasutada andmine või saamine ei mõjuta ettevõtja ajaloolist püügiõigust ning võib toimuda ulatuses, mida ettevõtjal on õigus püügivõimaluse kasutada andmise ajal loa kohaselt välja võtta."
+    },
+    {
+      "provision_ref": "para59^1",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "59^1",
+      "title": "§ 59^1. Püügivõimaluse kasutada andmine teisele riigile ja kasutada saamine teiselt riigilt",
+      "content": "(1) Kui käesoleva seaduse § 55 lõikes 3^1 nimetatud tähtpäevaks esitatud taotluste rahuldamise järel jääb veel vabu püügivõimalusi, võib loa andja neid teisele riigile kasutada anda, saades sellelt riigilt vastu püügivõimalusi.\n(2) Euroopa Liidu poolt määrusega Eestile kehtestatud püügivõimalusi, mida ei jaotata taotlejatele kalapüügiloaga kalaliigi väljapüügimahu piires, võib loa andja teisele riigile kasutada anda, saades sellelt riigilt vastu püügivõimalusi.\n(3) Käesoleva paragrahvi lõike 1 kohaselt saadud püügivõimalus jaotatakse käesoleva seaduse § 50 lõikes 1 ja §-s 53 sätestatud korras.\n(4) Käesoleva paragrahvi lõike 1 kohaselt saadud püügivõimaluse taotlemise tähtaja kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "3. peatükk - Kalapüügiõiguse teostamine",
+      "section": "60",
+      "title": "§ 60. Ajaloolise püügiõiguse võõrandamine ja ajaloolisest püügiõigusest loobumine",
+      "content": "(1) Ajaloolist püügiõigust on lubatud võõrandada isikule, kellele tohib anda kalapüügiluba. Väikesaare püsielaniku ajaloolist püügiõigust võib võõrandada ainult sama väikesaare püsielanikule, kes on olnud selle saare püsielanik vähemalt ühe aasta enne ajaloolise püügiõiguse võõrandamise tehingu tegemist, või äriühingule, kelle kõik osanikud, aktsionärid või liikmed on olnud sama väikesaare püsielanikud vähemalt ühe aasta enne ajaloolise püügiõiguse võõrandamise tehingu tegemist.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud võõrandamise tehing peab olema notariaalselt tõestatud. Tehingudokumendis peab olema kirjas võõrandatava püügiõiguse ulatus, selle alus ning püügiõiguse ülemineku aeg. Püügiõiguse üleminek jõustub võõrandamistehingu ärakirja kalapüügiloa andjale üleandmise päeval, kui tehingus ei ole sätestatud hilisemat tähtpäeva.\n(3) Käesoleva seaduse § 51 lõikes 1 nimetatud ajaloolisest püügiõigusest ja selle alusel arvutatud kasutamata püügivõimalusest võib loobuda, esitades kalapüügiloa andjale kirjaliku avalduse. Avalduses peab olema märgitud loovutatava püügiõiguse ulatus või püügivõimaluse maht. Kui ajaloolisest püügiõigusest ja püügivõimalusest loobutakse toetuse saamise eesmärgil, loetakse isik püügiõigusest ja püügivõimalusest loobunuks toetusetaotluse rahuldamise päevast arvates. Kui toetusetaotlust ei rahuldata, loetakse ajaloolisest püügiõigusest ja püügivõimalusest loobumise avaldus tagasivõetuks.\n(4) Käesoleva paragrahvi lõike 3 alusel loovutatud ajaloolise püügivõimaluse jaotamisel kohaldatakse täiendavalt avanenud püügivõimaluse jaotamise kohta sätestatut."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "4. peatükk - Kalapüügi arvestus",
+      "section": "61",
+      "title": "§ 61. Kalapüügiga seotud andmete esitamine",
+      "content": "(1) Kutselise kalapüügi loa alusel kala püüdev või veetaimi koguv isik esitab püügi-, kogumis-, ümberlaadimis- või lossimisandmed või muud nende töödega seotud andmed.\n(2) Kui harrastuskalapüük toimub kalastuskaardi alusel, siis otsustab valdkonna eest vastutav minister kalavarude seisundist lähtudes harrastuskalapüügi andmete esitamise vajalikkuse.\n(3) Kui kutselisel kalapüügil ja kalastuskaardi alusel toimuval harrastuskalapüügil satub kalapüünisesse hukkunud imetajaid ja linde, siis esitatakse nende kohta asjakohased andmed.\n(4) Kala ja veetaime esmakokkuostja esitab andmed püügiõigust omavalt isikult kala ostmise kohta.\n(5) Kala ja veetaime esmakokkuostja, kes vastab nõukogu määruse (EÜ) nr 1224/2009 artikli 63 lõikes 1 nimetatud kriteeriumidele, esitab elektrooniliste vahendite kaudu andmed kala esmakokkuostu kohta.\n(6) Merel kala vastuvõtva, transportiva või töötleva laeva kapten esitab andmed kala vastuvõtmise, töötlemise, transportimise või lossimise kohta.\n(7) Enne esmamüüki toimuva kala üleandmise, ladustamise või transportimise andmed esitatakse nõukogu määruse (EÜ) nr 1224/2009 artiklite 66–68 kohaselt.\n(8) Merel kalalaeva kalapüügiloa alusel kala püüdva 12-meetrise kogupikkusega või pikema kalalaeva kapten või kapteni esindaja esitab elektrooniliste vahendite kaudu kalapüügiga seotud andmed Põllumajandus- ja Toiduametile nõukogu määruses (EÜ) nr 1224/2009 ja komisjoni rakendusmääruses (EÜ) nr 404/2011 kehtestatud korras.\n(9) Käesoleva paragrahvi lõigetes 1 ja 3–7 nimetatud andmete esitamise korra, viisi ja tähtajad, andmete saaja ja vajaduse korral ka esitaja kehtestab Vabariigi Valitsus määrusega.\n(10)\n(11) Käesoleva paragrahvi lõike 9 alusel kehtestatud nõuded kalapüügi ja sellega seonduvate muude andmete esitamise kohta laienevad eraomandis oleva veekogu omanikule ja Eesti lipu all sõitvale laevale, olenemata püügikohast.\n(12) Harrastuskalapüügi andmete esitamise korra, vormi ning tähtaja kehtestab valdkonna eest vastutav minister määrusega.\n(13) Merel kala püüdva, vastuvõtva, transportiva või töötleva kalalaeva kapten teavitab Keskkonnainspektsiooni laeva sadamasse tulekust ning pardal olevast kalakogusest.\n(14) Käesoleva paragrahvi lõikes 13 nimetatud teate esitamise aja, korra ning edastatavate andmete nimistu kehtestab valdkonna eest vastutav minister määrusega.\n(15) Käesoleva paragrahvi lõigetes 1 ja 3–8 nimetatud andmete arvestust korraldab Põllumajandus- ja Toiduamet ning lõigetes 2 ja 3 nimetatud andmete arvestust korraldab Keskkonnaministeerium.\n(16) Komisjoni rakendusmääruse (EÜ) nr 404/2011 artikli 49 lõikes 3 nimetatud ümberarvestustegurid kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para61^1",
+      "chapter": "4. peatükk - Kalapüügi arvestus",
+      "section": "61^1",
+      "title": "§ 61^1. Lossitava kala kaalumine",
+      "content": "(1) Kala kaalutakse lossimisel.\n(2) Kaalumisel kasutatakse mõõteseaduse kohaselt taadeldud kaalu.\n(3) Valdkonna eest vastutav minister võib lubada osalist kala kaalumist lossimisel nõukogu määruse (EÜ) nr 1224/2009 artikli 60 lõikes 1 nimetatud juhul.\n(4) Valdkonna eest vastutav minister võib lubada kala kaalumist pärast lossimiskohast transportimist nõukogu määruse (EÜ) nr 1224/2009 artikli 61 lõikes 1 nimetatud juhul.\n(5) Käesoleva paragrahvi lõigetes 3 ja 4 nimetatud juhul kehtestab kala kaalumise täiendavad nõuded ja kala kaalumise metoodika valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "4. peatükk - Kalapüügi arvestus",
+      "section": "62",
+      "title": "§ 62. Andmete avalikustamine",
+      "content": "Andmed ettevõtjale kalendriaastaks määratud püügivõimaluse ja selle kasutamise ning tegeliku väljapüügi kohta on avalikud. Põllumajandus- ja Toiduamet avalikustab oma veebilehel iga kvartali esimese kuu jooksul möödunud kvartalis kutselise kalapüügiga tegelenud Eesti ettevõtjate nimed ning andmed neile kalendriaastaks määratud ja kasutatud püügivõimaluse ning tegelikult väljapüütud kalakoguse kohta veealade, maakondade ja püsiasustusega väikesaarte kaupa."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "5. peatükk - Järelevalve, tõsised rikkumised ja kahju hüvitamine",
+      "section": "63",
+      "title": "§ 63. Riikliku järelevalve teostamine",
+      "content": "(1) Riiklikku järelevalvet käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuete täitmise üle teostab Keskkonnainspektsioon (edaspidi ka korrakaitseorgan ).\n(2) Keskkonnainspektsioon võib teostada järelevalvet kalapüüki reguleerivate õigusaktide nõuete ja kalapüügiloaga määratud tingimuste täitmise üle ka väljaspool Eesti Vabariigi jurisdiktsiooni oleval veealal nõukogu määruse (EÜ) nr 1224/2009 artiklite 74–95 kohaselt. Sellisel juhul kohaldatakse korrakaitseseadusest tulenevaid üld- ja erimeetmeid sedavõrd, kuivõrd seda ei reguleeri ELi õigusaktid või rahvusvahelised lepingud.\n(3) Riiklikku järelevalvet kalapüüki reguleerivate õigusaktide nõuete ja kalapüügiloaga määratud tingimuste täitmise üle võivad teostada ka ELi, väljaspool Eesti jurisdiktsiooni oleval veealal rannikuriigi või kalapüüki reguleeriva organisatsiooni inspektorid, kui see on ette nähtud ELi õigusaktides või rahvusvahelistes lepingutes."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "5. peatükk - Järelevalve, tõsised rikkumised ja kahju hüvitamine",
+      "section": "64",
+      "title": "§ 64. Riikliku järelevalve teostamiseks lubatud erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30–32, 45–47 ja 49–53 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "5. peatükk - Järelevalve, tõsised rikkumised ja kahju hüvitamine",
+      "section": "65",
+      "title": "§ 65. Riikliku järelevalve erisused",
+      "content": "(1) Keskkonnainspektsioon võib:\n1) teostada püügile asetatud püügivahendite läbivaatust ilma korrakaitseseaduse § 49 lõikes 2 nimetatud isikute juuresolekuta;\n2) eemaldada korrakaitseseaduse §-s 52 sätestatud korras paiknemiskohast ja võtta vallasasjana hoiule koos kalaga kalapüügivahendi, mis peab olema õigusakti kohaselt selle omaniku kindlakstegemist võimaldaval viisil märgistatud, kuid millel märgistus puudub või mis ei võimalda kuuluvust tuvastada.\n(2) Tähistatud kinnisasjale võib Keskkonnainspektsioon lisaks korrakaitseseaduse §-s 50 sätestatule vahetut sundi kohaldamata siseneda valdaja või muu õigustatud isiku juuresolekuta, kui:\n1) see on vajalik olulise ohu väljaselgitamiseks või tõrjumiseks ja nimetatud isikute kaasamisega kaasneks viivitus, mis seaks ohtu meetme kohaldamise eesmärgi saavutamise;\n2) valdusesse sisenemise eesmärk on läbipääsu tagamine teisele kinnisasjale või veekogule.\n(3) Käesoleva paragrahvi lõike 2 punktis 2 sätestatud alusel valdusesse sisenemisest ei pea Keskkonnainspektsioon hiljem valdajat teavitama, kui pärast sisenemist ei teostatud valduses järelevalve- või süüteomenetluse toiminguid.\n(4) Kui laeva kapten ei luba väljaspool Eesti jurisdiktsiooni jääval veealal nõukogu määruse (EÜ) nr 1224/2009 artikli 80 alusel nõuetekohaselt volitatud inspektoril pardale minna ja inspekteerida, annab korrakaitseorgan kaptenile korralduse, et ta seda viivitamata võimaldaks, välja arvatud olukorras, kus mereohutuse üldtunnustatud rahvusvaheliste eeskirjade, menetluste või tavade kohaselt on vaja pardaleminekut ja inspekteerimist edasi lükata. Kui laeva kapten seda korraldust ei täida, peatatakse laeva kalalaevatunnistuse kehtivus.\n(5) Keskkonnainspektsiooni ametiisik võib järelevalve teostamise eesmärgil viibida ja liikuda sõidukiga, sealhulgas maastikusõidukiga või ujuvvahendiga, maa- või veealal, kus viibimine ja liikumine on keskkonnakaitse eesmärgil õigusaktiga keelatud või piiratud."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "5. peatükk - Järelevalve, tõsised rikkumised ja kahju hüvitamine",
+      "section": "66",
+      "title": "§ 66. Vahetu sunni kasutamine",
+      "content": "(1) Keskkonnainspektsiooni inspektoril on lubatud kohaldada korrakaitseseadusega sätestatud meetmete rakendamisel füüsilist jõudu, erivahendeid ja teenistusrelvi korrakaitseseaduses sätestatud alusel ja korras.\n(2) Keskkonnainspektsiooni inspektori erivahend on käerauad.\n(3) Keskkonnainspektsiooni inspektori teenistusrelv on tulirelv."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "5. peatükk - Järelevalve, tõsised rikkumised ja kahju hüvitamine",
+      "section": "67",
+      "title": "§ 67. Sunniraha ülemmäär",
+      "content": "Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär 32 000 eurot."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "5. peatükk - Järelevalve, tõsised rikkumised ja kahju hüvitamine",
+      "section": "68",
+      "title": "§ 68. Vaatlejad",
+      "content": "(1) Valdkonna eest vastutav minister võib määrata, millises kalapüügipiirkonnas või millise kalaliigi püügil peab Eesti lipudokumenti omav kalalaev võtma pardale vaatleja. Vaatleja võetakse pardale enne püügi alustamist.\n(2) Vaatlejale esitatavad nõuded ja ülesanded kehtestab valdkonna eest vastutav minister määrusega.\n(3) Vaatleja peab vastama meresõiduohutuse seaduse § 26 lõike 7 alusel kehtestatud tervisenõuetele ning tal peab olema sellekohane tervisetõend.\n(4) Vaatleja kogutud andmete esitamise korra ja vormi kehtestab valdkonna eest vastutav minister määrusega.\n(5) Kui rahvusvahelistest lepingutest või ELi õigusaktidest tulenevalt ei ole nõutud käesoleva paragrahvi lõike 1 alusel määratud piirkonnas või kalaliikide püügil vaatleja viibimist kõikidel laevadel või kogu püügil viibimise aja kestel, määrab vaatlejate arvu vähendamise ulatuse ning kehtestab vaatlejate tegevuse ajavahemiku määramise korra valdkonna eest vastutav minister määrusega. Vaatlejate tegevuse ajavahemiku lühendamise korral lähtutakse vaatleja laeval viibimise eesmärgist ja eri kalaliike või eri piirkondades püüdvate kalalaevade vahelisest tasakaalust.\n(6) Keskkonnainspektsioon määrab igaks aastaks laevad ja iga laeva jaoks ajavahemiku, millal vaatleja pardal viibimise kestust vähendatakse, vastavalt käesoleva paragrahvi lõikele 5. Kui ettevõtja või kapten on kalalaeva kasutades pannud viimase kahe aasta jooksul toime käesoleva seaduse § 71 lõikes 1 nimetatud rikkumise, siis vaatleja viibimise kestust selle rikkumisega seotud laeval ei vähendata."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "5. peatükk - Järelevalve, tõsised rikkumised ja kahju hüvitamine",
+      "section": "69",
+      "title": "§ 69. Satelliitjälgimissüsteem",
+      "content": "(1) Merel kalapüügiks kasutatav Eesti kalalaev peab olema varustatud satelliitsidel põhineva laevade jälgimise autonoomse süsteemiga (edaspidi satelliitjälgimissüsteem ) kooskõlas nõukogu määruse (EÜ) nr 1224/2009 artikli 9 lõikega 2 ning edastama satelliitjälgimissüsteemi kaudu andmeid komisjoni rakendusmääruse (EL) nr 404/2011 artikli 19 lõikes 1 sätestatu kohaselt. Satelliitjälgimissüsteemiga ei pea olema varustatud kaluri kalapüügiloa alusel püüdev kalalaev, mis vastab nõukogu määruse (EÜ) nr 1224/2009 artikli 9 lõikes 5 sätestatud tingimustele.\n(2) Nõukogu määruse (EÜ) nr 1224/2009 artikli 9 lõikes 7 nimetatud Eesti kalalaevade jälgimise keskus asub Keskkonnainspektsioonis.\n(3) Satelliitjälgimissüsteemi kaudu andmete esitamise sageduse ja korra ning nõuded satelliitjälgimisseadme kohta kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "5. peatükk - Järelevalve, tõsised rikkumised ja kahju hüvitamine",
+      "section": "70",
+      "title": "§ 70. GPS-jälgimissüsteem",
+      "content": "(1) Mootoriga varustatud kalalaev Peipsi, Lämmi- ja Pihkva järvel peab olema varustatud GPS-seadmetega (globaalse positsioneerimissüsteemi seadmed), mille kaudu teabe saatmiseks kasutatakse GPRS-süsteemi ( General Packet Radio Service System ). Teabe vastuvõtja on Keskkonnainspektsioon.\n(2) GPS-jälgimissüsteemi kaudu saadetavate andmete nimistu, andmete esitamise sageduse ja korra ning nõuded GPS-jälgimisseadme kohta kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "5. peatükk - Järelevalve, tõsised rikkumised ja kahju hüvitamine",
+      "section": "71",
+      "title": "§ 71. Kalapüüginõuete tõsine rikkumine",
+      "content": "(1) Kutselisel kalapüügil, sõltumata sellest, kas kalalaeva kasutatakse, loetakse kalapüüginõuete tõsiseks rikkumiseks:\n1) nõukogu määruse (EÜ) nr 1005/2008 artiklis 42 ja nõukogu määruse (EÜ) nr 1224/2009 artikli 90 lõikes 1 nimetatud rikkumisi;\n2) kaaspüügi tingimuste rikkumist;\n3) keelatud püügiviiside kasutamist;\n4) käesoleva seaduse § 13 lõigetes 2, 4 ja 5 nimetatud dokumendi puudumist ja võltsimist ning võltsitud dokumendi ja valeandmete esitamist.\n(2) Harrastuskalapüügil loetakse kalapüüginõuete tõsiseks rikkumiseks:\n1) kalapüüki keeluajal või keelatud kohas;\n2) keelatud kalaliigi püüki;\n3) kalapüüki keelatud või nõuetele mittevastava püügivahendiga;\n4) kalapüügi üle riiklikku järelvalvet teostava inspektori töö takistamist või uurimisega seotud tõendite varjamist, rikkumist või kõrvaldamist;\n5) alamõõdulise kala püüki;\n6) keelatud püügiviisi kasutamist;\n7) kaaspüügi tingimuste rikkumist."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "5. peatükk - Järelevalve, tõsised rikkumised ja kahju hüvitamine",
+      "section": "72",
+      "title": "§ 72. Tõsiste rikkumiste punktisüsteem merel",
+      "content": "(1) Nõukogu määruse (EÜ) nr 1224/2009 artikli 92 lõikes 4 ning komisjoni rakendusmääruse (EL) nr 404/2011 artiklis 133 sätestatud juhul otsustab komisjoni rakendusmääruse (EL) nr 404/2011 artikli 126 alusel määratud punktide kustutamise Keskkonnainspektsioon.\n(2) Kalalaevatunnistuse omanik võib taotleda komisjoni rakendusmääruse (EL) nr 404/2011 artikli 133 lõikes 3 sätestatud tingimustel rakendusmääruse artikli 126 alusel määratud punktide kustutamist. Asjaomase kirjaliku taotluse esitab kalalaevatunnistuse omanik Keskkonnainspektsioonile komisjoni rakendusmääruse (EL) nr 404/2011 artikli 133 lõike 3 viimases lõigus nimetatud ajavahemikul, viidates rakendusmääruse artikli 133 lõike 3 punktis a, b, c või d sätestatud tingimusele, mida täidetakse, ja lisades taotlusele sellekohase tõendi. Otsuse punktide kustutamise kohta teeb Keskkonnainspektsioon kümne tööpäeva jooksul asjaomase kirjaliku taotluse saamisest arvates.\n(3) Tõsiste rikkumiste eest määratud punktide kustutamisest käesoleva paragrahvi lõikes 2 nimetatud taotluse esitamise korral keeldutakse, kui esineb vähemalt üks järgmisest põhjustest:\n1) taotleja on esitanud taotluses valeandmeid;\n2) taotlus ei ole esitatud komisjoni rakendusmääruse (EL) nr 404/2011 artikli 133 lõikes 3 nimetatud tingimuste kohaselt;\n3) taotleja ei ole komisjoni rakendusmääruse (EL) nr 404/2011 artikli 133 lõike 3 punktis a, b, c või d ettenähtud tingimust täitnud nõuetekohaselt;\n4) taotlejal on viimase kolme aasta jooksul talle määratud punktide kogusummat komisjoni rakendusmääruse (EL) nr 404/2011 artikli 133 lõikes 3 nimetatud tingimustel juba vähendatud.\n(4) Kui kalalaeva kaptenil või kaluri kalapüügiloale kantud kaluril on väärteo või kuriteo eest üks kehtiv karistus, mida on kohaldatud seoses käesoleva seaduse § 71 lõikes 1 nimetatud kalapüüginõuete tõsise rikkumisega, loetakse kaptenile või kalurile määratuks üks punkt nõukogu määruse (EÜ) 1224/2009 artikli 92 lõikes 6 nimetatud punktisüsteemi järgi.\n(5) Kui kalalaeva kaptenil või kaluri kalapüügiloale kantud kaluril on väärteo või kuriteo eest rohkem kui üks kehtiv karistus, mida on kohaldatud seoses käesoleva seaduse § 71 lõikes 1 nimetatud kalapüüginõuete tõsise rikkumisega, loetakse kaptenile või kalurile määratuks kokku kaks punkti nõukogu määruse (EÜ) 1224/2009 artikli 92 lõikes 6 nimetatud punktisüsteemi järgi ning kohaldatakse käesoleva seaduse § 43 punktis 1 või 9 või § 44 lõike 3 punktis 8 sätestatut.\n(6) Käesoleva paragrahvi lõigetes 4 ja 5 sätestatud punktid loetakse kustutatuks, kui karistusandmed on karistusregistrist kustutatud."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "5. peatükk - Järelevalve, tõsised rikkumised ja kahju hüvitamine",
+      "section": "73",
+      "title": "§ 73. Kala- ja veetaimevarule tekitatud kahju ning selle hüvitamine",
+      "content": "(1) Kala- ja veetaimevarule kahju tekitamiseks loetakse:\n1) kala püüdmist ja veetaime kogumist ilma nõutava püügiõiguseta;\n2) kaaspüügi tingimusi rikkudes sellise kala püüdmist, mille pikkus on väiksem käesoleva seaduse alusel sätestatud alammõõdust;\n3) sellise kalaliigi püüdmist, mille püük on käesoleva seaduse või selle alusel kehtestatud õigusakti kohaselt keelatud;\n4) kaaspüügi tingimusi rikkudes kalapüüki käesolevas seaduses või selle alusel kehtestatud õigusaktis sätestatud keeluajal ja keelualal;\n5) kalapüüki püügivahendit kasutamata või käesolevas seaduses loetlemata ja kalapüügieeskirjas kirjeldamata vahendiga;\n6) kalapüüki käesolevas seaduses või selle alusel kehtestatud õigusaktis püügivahendi või kalalaeva kohta sätestatud nõudeid ja piiranguid eirates;\n7) sellise kala müümist, ostmist või käitlemist, mille päritolu ei ole tõendatav, välja arvatud käesoleva seaduse § 13 lõikes 6 sätestatud juhtudel;\n8) alamõõdulise kala müümist, ostmist või käitlemist, välja arvatud kaaspüügi tingimustel püütud alamõõdulise kala transport ja käesoleva seaduse § 10 lõikes 9 sätestatud erand;\n9) harrastuskalapüügil käesoleva seaduse või selle alusel kehtestatud õigusakti kohaselt lubatud kala koguse ületamist.\n(2) Kala- ja veetaimevarule tekitatud kahju tuleb hüvitada.\n(3) Kala- ja veetaimevarule tekitatud kahju hüvitamise määrad, välja arvatud käesoleva paragrahvi lõikes 5 nimetatud juhul, lähtudes kalaliigi või veetaime ohustatusest, kaitsestaatusest või kuni kümnekordsest turuhinnast, samuti kala- ja veetaimevarule tekitatud kahju arvutamise alused ja metoodika ning tekitatud kahju arvutamise akti vormi kehtestab Vabariigi Valitsus määrusega.\n(4) Kahju hüvitamise määr isendi kohta ei või olla väiksem kui 1,30 eurot ega suurem kui 96 eurot. Kahju hüvitamise määr kilogrammi kohta ei või olla väiksem kui 0,64 eurot ega suurem kui 64 eurot, välja arvatud käesoleva paragrahvi lõikes 6 nimetatud juhtudel.\n(5) Nende kalaliikide puhul, mida püütakse väljaspool Läänemerd Eesti Vabariigi jurisdiktsiooni alla mittekuuluval veealal, on kahju hüvitamise määr kalaliigi lossimiskohas või püügipiirkonnaga piirnevates sadamates kehtiv viiekordne turuhind.\n(6) Kalavaru kahjustamise korral käesoleva seaduse §-s 71 nimetatud rikkumise toimepanemisel on kahjuhüvitis kalaliigi isendi või kilogrammi kohta käesoleva paragrahvi lõike 3 või 5 alusel määratud viiekordne määr. Kalavaru kahjustamise korral eriti suures ulatuses on kahju hüvitamise määr kalaliigi isendi või kilogrammi kohta käesoleva paragrahvi lõike 3 või 5 alusel määratud kümnekordne määr. Kalavaru kahjustamiseks eriti suures ulatuses loetakse püüki elektri, mürk- ja narkootilise aine, tulirelva ning lõhkelaenguga või muul kalade asjatut hukkumist põhjustaval viisil.\n(7) Kala- ja veetaimevarule tekitatud kahju hüvitise nõuab sisse Keskkonnainspektsioon. Hüvitis kantakse riigieelarvesse."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "74",
+      "title": "§ 74. Kala müügi, ostu ja käitlemisega seotud nõuete rikkumine",
+      "content": "(1) Kala müügi, ostu või käitlemise nõuete rikkumise eest või sellise kala müügi, ostu või käitlemise nõuete rikkumise eest, mille päritolu ei ole tõendatav, – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "75",
+      "title": "§ 75. Kalapüük loata ja loa nõudeid rikkudes ning merel kalalaevatunnistuseta ja sertifitseerimata mootorivõimsusega kalalaevaga",
+      "content": "(1) Harrastuskalapüügi eest harrastuskalapüügiõigust omamata, – karistatakse rahatrahviga kuni 100 trahviühikut.\n(2) Kalapüügi eest loata või loa nõudeid rikkudes või kalapüügi eest merel kalalaevatunnistuseta laevaga või sertifitseerimata mootorivõimsusega kalalaevaga – karistatakse rahatrahviga kuni 300 trahviühikut.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "76",
+      "title": "§ 76. GPS- ja muu satelliitjälgimissüsteemi kaudu andmete esitamise korra rikkumine",
+      "content": "(1) GPS- või muu satelliitjälgimissüsteemi kaudu andmete esitamise korra rikkumise eest, laeval nõutava GPS- või muu satelliitjälgimissüsteemi puudumise või selle töö häirimise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para77",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "77",
+      "title": "§ 77. Kalapüügiga seotud andmete esitamise korra rikkumine",
+      "content": "(1)\n(2) Kutselise kalapüügiga seotud andmete esitamise korra rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(3) Käesoleva paragrahvi lõikes 2 toimepandud teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para78",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "78",
+      "title": "§ 78. Vaatleja töö takistamine",
+      "content": "(1) Laeva pardale määratud vaatleja töö takistamise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para79",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "79",
+      "title": "§ 79. Püütud kala ja veetaime vette tagasi heitmise keelu rikkumine",
+      "content": "(1) Püütud kala vette tagasi heitmise keelu rikkumise eest harrastuskalapüügil – karistatakse rahatrahviga kuni 100 trahviühikut.\n(2) Püütud kala või veetaime vette tagasi heitmise keelu rikkumise eest kutselisel kalapüügil – karistatakse rahatrahviga kuni 300 trahviühikut.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para80",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "80",
+      "title": "§ 80. Püügivahendite ja veekogus kalade püügijärgseks hoidmiseks mõeldud vahendite tähistamise, märgistamise ja asukoha kindlaks määramise nõuete rikkumine",
+      "content": "(1) Nõuetekohaselt tähistamata või märgistamata püügivahendiga kalapüügi eest – karistatakse rahatrahviga kuni 100 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 6400 eurot.\n(3) Nõuetekohaselt tähistamata, märgistamata või kindlaks määramata asukohaga seisevpüünistega kalapüügi eest või nõuetekohaselt tähistamata, märgistamata või kindlaks määramata asukohaga veekogus kalade püügijärgseks hoidmiseks mõeldud vahendites kala hoidmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para81",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "81",
+      "title": "§ 81. Kalapüük püügivahendite kohta esitatud nõudeid rikkudes",
+      "content": "(1) Kalapüügi eest püügivahendit kasutamata, käesolevas seaduses ja kalapüügieeskirjas kirjeldamata püügivahendiga, keelatud vahendiga või viisil, mis põhjustab kalade asjatu hukkumise ja kalavarude kahjustamise, või püügivahendite kohta esitatud muude nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para82",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "82",
+      "title": "§ 82. Elektripüügivahendiga seotud nõuete rikkumine",
+      "content": "(1) Kala elektriga püüdmise vahendi ebaseadusliku valmistamise, omamise, ladustamise, võõrandamise, transportimise või kasutamise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para83",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "83",
+      "title": "§ 83. Eestis looduslikult esinevate kalaliikide veekogusse asustamise nõuete rikkumine",
+      "content": "(1) Eestis looduslikult esinevate kalaliikide veekogusse asustamise nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para84",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "84",
+      "title": "§ 84. Kalapüünise kontrollimise sageduse nõuete rikkumine",
+      "content": "(1) Kalapüünise kontrollimise sageduse nõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 12 800 eurot."
+    },
+    {
+      "provision_ref": "para85",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "85",
+      "title": "§ 85. Kalapüük ja veekogus kala püügijärgne hoidmine keelatud ajal ja alal ning püüda keelatud kalaliigi isendite ja alamõõdulise kala püük ning püüda lubatud kala koguse ületamine",
+      "content": "(1) Kalapüügi või veekogus kala püügijärgse hoidmise eest keelatud ajal või alal või püüda keelatud kalaliigi isendite või alamõõdulise kala püüdmise eest kaaspüügi tingimusi rikkudes või harrastuspüügil püüda lubatud kala koguse ületamise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para86",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "86",
+      "title": "§ 86. Kala lossimise, merel ümberlaadimise, pardal hoidmise ja vastuvõtmise nõuete rikkumine",
+      "content": "(1) Kala lossimise, merel ümberlaadimise, pardal hoidmise, vastuvõtmise, töötlemise, mitme laeva ühise püügitegevuse, laeva abistamise või laeva kalapüügil kasutamise nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para87",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "87",
+      "title": "§ 87. Ebaseadusliku, teatamata ja reguleerimata kalapüügiga tegelenud ja arvatavalt tegelenud laeva abistamise ning sellise laeva kalapüügil kasutamise nõuete rikkumine",
+      "content": "(1) Ebaseadusliku, teatamata ja reguleerimata kalapüügiga tegelenud või arvatavalt tegelenud laevade loeteludesse kuuluvate laevade abistamise või nendelt kala ümberlaadimise või ühise püügitegevuse või nende kalapüügil kasutamise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para88",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "88",
+      "title": "§ 88. Impordi, ekspordi ja reekspordi nõuete rikkumine",
+      "content": "(1) Nõukogu määruse (EÜ) nr 1005/2008 artiklites 4–6, 8, 12, 14–16 ja 21 kehtestatud impordi, ekspordi ja reekspordi nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para89",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "89",
+      "title": "§ 89. Menetlus",
+      "content": "(1) Käesolevas seaduses sätestatud väärtegude kohtuväline menetleja on Keskkonnainspektsioon.\n(2) Käesoleva seaduse §-des 74, 75, 78–82, 84 ja 85 nimetatud väärteo kohtuväline menetleja on ka politseiasutus.\n(3) Kohtuväline menetleja või kohus võib kohaldada käesoleva seaduse §-des 74, 75, 81–83, 85, 86 ja 88 sätestatud väärtegude toimepanemise vahendi ning väärteo vahetuks objektiks olnud eseme konfiskeerimist vastavalt karistusseadustiku §-le 83."
+    },
+    {
+      "provision_ref": "para90",
+      "chapter": "7. peatükk - Lõppsätted",
+      "section": "90",
+      "title": "§ 90. Rakendussätted",
+      "content": "(1) Käesoleva seaduse § 33 lõiget 3 kohaldatakse komisjoni rakendusmääruse (EL) nr 404/2011 artikli 61 lõike 4 viimases lauses nimetatud kalalaevadele.\n(2) Kalapüügiseaduse (RT I 1995, 80, 1384) alusel kehtestatud õigusaktid, välja arvatud § 13^4 lõike 5 ja § 22 lõike 2 alusel kehtestatud õigusaktid, kehtivad pärast käesoleva seaduse jõustumist kuni nende kehtivuse aja lõpuni või kehtetuks tunnistamiseni niivõrd, kuivõrd nad ei ole vastuolus käesoleva seadusega.\n(3) Enne käesoleva seaduse jõustumist antud ja käesoleva seadusega kooskõlas olevad kalalaevatunnistused, rannakaluri kutsetunnistused, eripüügiload, elektripüügivahendi tõendid, kalapüügiload ja kalastuskaardid kehtivad nendes märgitud kehtivusaja lõpuni ning harrastuspüügiõigus kuni tähtaja lõpuni.\n(4) Käesoleva seaduse jõustumisel käesoleva paragrahvi lõikes 3 nimetatud pooleliolevate haldusaktide taotlemise menetlused viiakse lõpuni käesolevas seaduses sätestatu kohaselt.\n(5) Alates 2017. aasta 1. detsembrist lahendab Veterinaar- ja Toiduamet kalapüügiloa ja kalalaevatunnistuse saamise taotluse, mis on esitatud enne 2017. aasta 1. detsembrit."
+    },
+    {
+      "provision_ref": "para90^1",
+      "chapter": "7. peatükk - Lõppsätted",
+      "section": "90^1",
+      "title": "§ 90^1. Kalalaevade riikliku registri ümberkorraldamine",
+      "content": "(1) Käesoleva seaduse enne 2017. aasta 1. detsembrit kehtinud redaktsiooni alusel asutatud kalalaevade riiklik register kujundatakse ümber kutselise kalapüügi registriks. Kalalaevade riiklikku registrisse kantud andmed loetakse kutselise kalapüügi registri andmeteks.\n(2) Alates 2017. aasta 1. detsembrist lahendab Veterinaar- ja Toiduamet kutselise kalapüügi registrisse kalalaeva kandmise taotluse, mis on esitatud enne 2017. aasta 1. detsembrit.\n(3) Käesoleva seaduse §-s 35^1 sätestatut ei kohaldata vaba püügivõimsuse suhtes, mis on:\n1) vabanenud kalalaeva kustutamisega kalalaevade riiklikust registrist käesoleva seaduse § 37 punkti 3 või 4 alusel enne 2017. aasta 1. detsembrit;\n2) vabanenud kalalaeva kustutamisega kutselise kalapüügi registrist käesoleva seaduse § 37 punkti 3 või 4 alusel pärast 2017. aasta 1. detsembrit, kui kalalaeva kustutamise taotlus esitati enne 2017. aasta 1. detsembrit.\n(4) Kalalaevade riikliku registri kalalaevade alajaotusest, kuhu kalalaeva lisada ei võinud, kalalaeva kustutamisega käesoleva seaduse § 37 punkti 3 või 4 alusel enne 2017. aasta 1. detsembrit tekkinud vaba püügivõimsuse arvel on kalalaeva lisamise õigus kalalaevade riiklikust registrist kustutatud kalalaeva omanikul või valdajal või isikul, kellele kalalaeva lisamise õigus on loovutatud. Nimetatud õigus kehtib 36 kuud laeva kalalaevade riiklikust registrist kustutamisest arvates.\n(5) Kui kalalaev kustutatakse kalalaevastiku segmendist, kuhu käesoleva seaduse § 35 lõike 2 alusel kehtestatud määruse kohaselt kalalaeva lisada ei või, käesoleva seaduse § 37 punkti 3 või 4 alusel pärast 2017. aasta 1. detsembrit, kuid kalalaeva kustutamise taotlus on esitatud enne 2017. aasta 1. detsembrit, tekib vaba püügivõimsuse arvel kalalaeva lisamise õigus kutselise kalapüügi registrist kustutatud kalalaeva omanikul või valdajal või isikul, kellele kalalaeva lisamise õigus on loovutatud. Nimetatud õigus kehtib 36 kuud laeva kutselise kalapüügi registrist kustutamisest arvates.\n(6) Kui õigustatud isik ei ole käesoleva paragrahvi lõikes 4 või 5 sätestatud tähtaja jooksul esitanud taotlust uue kalalaeva kandmiseks kutselise kalapüügi registrisse, loetakse kalalaeva lisamise õigus lõppenuks. Kui kalalaeva kutselise kalapüügi registrisse kandmise menetlus ei ole tähtpäevaks lõppenud, lõpeb kalalaeva lisamise õigus kalalaeva kutselise kalapüügi registrisse kandmise menetluse lõppedes.\n(7) Käesoleva paragrahvi lõikes 4 või 5 sätestatud kalalaeva lisamise õiguse alusel võib kalalaeva kanda ainult sellesse kalalaevastiku segmenti, kuhu kuulus kalalaevade riiklikust registrist või kutselise kalapüügi registrist kustutatud kalalaev.\n(8) Käesoleva paragrahvi lõikes 4 või 5 sätestatud kalalaeva lisamise õigust on lubatud loovutada kirjaliku kokkuleppega. Loovutamise kokkulepe või selle notariaalselt kinnitatud ärakiri esitatakse kutselise kalapüügi registri volitatud töötlejale koos kalalaeva registrisse kandmise taotlusega."
+    },
+    {
+      "provision_ref": "para90^2",
+      "chapter": "7. peatükk - Lõppsätted",
+      "section": "90^2",
+      "title": "§ 90^2. Varem kogutud andmed",
+      "content": "(1) Käesoleva seaduse § 29^1 lõikes 2 nimetatud andmed, mis on esitatud Keskkonnaministeeriumile enne teadus- ja harrastuskalapüügi andmekogu asutamist ning mille säilitamistähtaeg ei ole möödunud, loetakse teadus- ja harrastuskalapüügi andmekogu andmeteks selle asutamisest arvates.\n(2) Käesoleva seaduse § 34 lõikes 4 nimetatud andmed, mis on esitatud Maaeluministeeriumile enne 2017. aasta 1. detsembrit ning mille säilitamistähtaeg ei ole möödunud, loetakse alates 2017. aasta 1. detsembrist kutselise kalapüügi registri andmeteks."
+    },
+    {
+      "provision_ref": "para91",
+      "chapter": "7. peatükk - Lõppsätted",
+      "section": "91",
+      "title": "§ 91. Kalapüügiseaduse muutmine",
+      "content": "Kalapüügiseaduses tehakse järgmised muudatused: 1) paragrahvi 10 lõike 8 punkt 1 muudetakse ja sõnastatakse järgmiselt: „1) müüa, osta või käidelda kala, kes on püütud veekogust ajal, mil selle püüdmine on keelatud, välja arvatud juhtumid, kui kala on püütud eripüügil keskkonnatasude seaduse §-s 57 sätestatud eesmärgil, kaaspüügi tingimustel või kui kala ostab füüsiline isik oma tarbeks ühe ööpäeva jooksul nõukogu määruse (EÜ) nr 1224/2009 artikli 65 lõikes 2 nimetatud koguses;”; 2) paragrahvi 70 lõige 1 muudetakse ja sõnastatakse järgmiselt: „(1) Mootoriga varustatud kalalaev Peipsi, Lämmi- ja Pihkva järvel peab olema varustatud GPS-seadmetega (globaalse positsioneerimissüsteemi seadmed), mille kaudu teabe saatmiseks kasutatakse GPRS-süsteemi ( General Packet Radio Service System ). Teabe vastuvõtja on Keskkonnainspektsioon.”."
+    },
+    {
+      "provision_ref": "para92",
+      "chapter": "7. peatükk - Lõppsätted",
+      "section": "92",
+      "title": "§ 92.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para93",
+      "chapter": "7. peatükk - Lõppsätted",
+      "section": "93",
+      "title": "§ 93.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para94",
+      "chapter": "7. peatükk - Lõppsätted",
+      "section": "94",
+      "title": "§ 94. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2015. aasta 1. juulil.\n(2) Käesoleva seaduse § 91 punkt 2 jõustub 2015. aasta 1. septembril.\n(3) Käesoleva seaduse § 18 lõige 4 ja § 91 punkt 1 jõustuvad 2016. aasta 1. jaanuaril.\n(4) Käesoleva seaduse § 27 lõike 1 punkt 3 ning lõiked 2 ja 3 jõustuvad 2016. aasta 1. märtsil."
+    }
+  ],
+  "definitions": []
+}

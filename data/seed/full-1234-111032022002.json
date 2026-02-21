@@ -1,0 +1,407 @@
+{
+  "id": "ee-law-111032022002",
+  "type": "statute",
+  "title": "Riikliku statistika seadus",
+  "title_en": "Riikliku statistika seadus",
+  "short_name": "RStS",
+  "status": "in_force",
+  "issued_date": "2010-06-10",
+  "in_force_date": "2022-03-21",
+  "url": "https://www.riigiteataja.ee/akt/111032022002.xml",
+  "description": "Official consolidated statute text (Riikliku statistika seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Riiklik statistika",
+      "content": "(1) Riiklik statistika käesoleva seaduse tähenduses on kvantitatiivne, kvalitatiivne, kokkuvõtlik ja üldistav teave, mis iseloomustab massnähtust vaatlusaluses kogumis ja mis saadakse riikliku statistika programmi või programmivälise statistikatöö raames andmete statistilise töötlemise tulemusena.\n(2) Riikliku statistika eesmärk on kajastada ühiskonna olukorda ja muutusi ning varustada ühiskonda rahvastiku, sotsiaalvaldkonna, majanduse ja keskkonna arengu seisukohalt olulise teabega, sealhulgas arengukavade ja prognooside koostamiseks, erinevate poliitikate kujundamiseks, teadus- ja rakendusuuringute tegemiseks ning teadmuspõhiste otsuste langetamiseks."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Haldusmenetluse seaduse kohaldamine",
+      "content": "Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Andmed",
+      "content": "(1) Andmed käesoleva seaduse tähenduses on riikliku statistika tegija poolt talle seadusega antud ülesannete täitmiseks andmeesitajatelt kogutud või töödeldud üksik- ja koondandmed, sealhulgas riigi ja teiste andmekogude, riigi- ja kohaliku omavalitsuse asutuste ning juriidiliste isikute tegevuse käigus loodud või nende kogutud andmed.\n(2) Üksikandmed käesoleva seaduse tähenduses on konkreetset statistilist üksust iseloomustavad detailsed andmed.\n(3) Koondandmed käesoleva seaduse tähenduses on üksikandmetest kindla metoodika alusel statistilise töötlemise ja analüüsi tulemusena saadud andmed.\n(4) Andmestik käesoleva seaduse tähenduses on identifitseeritav ja hallatav andmete kogum."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Riikliku statistika programm ja statistikatöö",
+      "content": "(1) Riikliku statistika programm on igal aastal järgmiseks viieks aastaks koostatav rahvastiku-, sotsiaal-, majandus- ja keskkonnaalaste statistikatööde loetelu, mille koostamisel lähtutakse riigisisestest strateegilistest arengudokumentidest ja rahvusvahelisest statistikavajadusest.\n(2) Statistikatöö on andmete kogumine, töötlemine, säilitamine ja analüüs statistika tegemise eesmärgil riikliku statistika programmi raames või programmiväliselt.\n(3) Programmiväline statistikatöö on füüsiliste ja juriidiliste isikute, riigi- ja kohaliku omavalitsuse asutuste ning rahvusvaheliste ja eksterritoriaalsete organisatsioonide tellimisel ja rahastamisel väljaspool riikliku statistika programmi tehtav statistikatöö."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Andmeesitaja ja statistiline üksus",
+      "content": "(1) Andmeesitaja käesoleva seaduse tähenduses on juriidiline isik, välismaa äriühingu Eestis asuv filiaal, riigi- või kohaliku omavalitsuse asutus, füüsilisest isikust ettevõtja, füüsiline isik, kohtutäitur, notar ja vandetõlk, kes on kohustatud esitama andmeid riikliku statistika tegijale või kellelt kogutakse andmeid riikliku statistika tegemiseks.\n(2) Statistiline üksus käesoleva seaduse tähenduses on objekt või subjekt, keda või mida kirjeldavaid andmeid riikliku statistika tegemisel kogutakse, töödeldakse ja levitatakse."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Riikliku statistika tegemine",
+      "content": "(1) Riikliku statistika tegemine hõlmab kõiki toiminguid, mis on seotud riikliku statistika jaoks andmete kogumise, nende statistilise töötlemise, analüüsi, levitamise ja säilitamisega ning nimetatud tegevuste arendamisega.\n(2) Statistiline töötlemine on statistikametoodikale vastav andmete korrastamine ja ettevalmistamine statistiliseks analüüsiks, sealhulgas üksikandmete teisendamine, kontrollimine, parandamine, andmete seostamine ja lisanäitajate arvutamine.\n(3) Riikliku statistika tegemisel moodustatavad andmestikud ja statistilised registrid ei ole andmekogud avaliku teabe seaduse tähenduses.\n(4) Statistiline register on otseselt tuvastatavate statistiliste üksuste andmete kogum, mida kasutatakse riikliku statistika tegemisel."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "7",
+      "title": "§ 7. Riikliku statistika tegemise põhimõtted ja kvaliteedikriteeriumid",
+      "content": "(1) Riikliku statistika tegemisel järgitakse Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 223/2009 Euroopa statistika kohta ning Euroopa parlamendi ja nõukogu määruse (EÜ, Euratom) nr 1101/2008 (konfidentsiaalsete statistiliste andmete Euroopa Ühenduste Statistikaametile edastamise kohta), nõukogu määruse (EÜ) nr 322/97 (ühenduse statistika kohta) ja nõukogu otsuse 89/382/EMÜ, Euratom (millega luuakse Euroopa ühenduste statistikaprogrammi komitee) kehtetuks tunnistamise kohta (ELT L 87, 31.3.2009, lk 164–173) sätestatud statistikaalaseid põhimõtteid ja kvaliteedikriteeriume.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud statistikaalaseid põhimõtteid ja kvaliteedikriteeriume ei pea Eesti Pank riikliku statistika tegemisel järgima osas, mis on sätestatud nõukogu määruses (EÜ) nr 2533/98 statistilise teabe kogumise kohta Euroopa Keskpanga poolt (EÜT L 318, 27.11.1998, lk 8–19).\n(3) Riikliku statistika tegija avaldab oma veebilehel kvaliteedi hinnangud tehtud riikliku statistika kohta ning informatsiooni riikliku statistika kvaliteedikriteeriumide ettenähtud ulatuses täitmise ja mittetäitmise kohta."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - RIIKLIKU STATISTIKA KORRALDUS",
+      "section": "8",
+      "title": "§ 8. Riikliku statistika tegijad",
+      "content": "(1) Riikliku statistika tegijad on Statistikaamet ja Eesti Panga seaduse § 34 lõikes 1 sätestatud ulatuses Eesti Pank.\n(2) Riikliku statistika tegija selgitab avalikkusele riikliku statistikaga seonduvat, sealhulgas kasutatava metoodika eeliseid alternatiivsete metoodikate ees, juhul kui kasutatav metoodika ei ole kindlaks määratud Euroopa Liidu õigusaktiga, ning annab eelhinnanguid metoodika ja selle muutmise mõjude kohta. Informatsioon kasutatava metoodika ja selles kavandatavate muudatuste kohta avaldatakse riikliku statistika tegija veebilehel.\n(3) Riikliku statistika tegijad on statistikametoodika valimisel sõltumatud, kuid kooskõlastavad selle oma pädevuse piires omavahel. Kooskõlastatakse ka kõik metoodikas hiljem tehtavad muudatused.\n(4) Riikliku statistika tegijad teevad statistikaalast koostööd nii riigisisesel kui ka rahvusvahelisel tasandil valitsusasutuste, teadusasutuste, ettevõtjate ja kodanikuühendustega ning asjaomaste valdkondade asjatundjatega."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - RIIKLIKU STATISTIKA KORRALDUS",
+      "section": "9",
+      "title": "§ 9. Statistikaamet",
+      "content": "(1) Statistikaamet on Rahandusministeeriumi valitsemisalas tegutsev valitsusasutus, mis teeb riiklikku statistikat, osutab andmejagamisteenust ning teostab riiklikku ja haldusjärelevalvet käesolevas seaduses ettenähtud alustel ja ulatuses.\n(2) Statistikaameti ülesanded on:\n1) teha riiklikku statistikat käesolevas seaduses sätestatu kohaselt;\n2) koostada Vabariigi Valitsusele esitatava riikliku statistika programmi osa koostöös Eesti Panga, avaliku huvi esindajate ja statistikanõukoguga;\n3) koordineerida riikliku statistika tegemist;\n4) koordineerida andmehaldust ja juhtida klassifikaatorite süsteemi;\n4^1) osutada andmejagamisteenust;\n5) tagada statistikanõukogu tehniline teenindamine;\n6) täita muid seadusest tulenevaid ülesandeid.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud ülesannete täitmisel on Statistikaamet ametialaselt sõltumatu Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 223/2009 sätestatud tähenduses.\n(4) Statistikaamet on Euroopa Liidu Statistikaameti ( Eurostat ) riigisisene kontaktasutus."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - RIIKLIKU STATISTIKA KORRALDUS",
+      "section": "10",
+      "title": "§ 10. Statistikaameti peadirektor",
+      "content": "(1) Statistikaameti peadirektoril peavad olema Statistikaameti juhi ülesannete täitmiseks vajalikud teadmised, oskused ja kogemused. Statistikaameti peadirektorina võib töötada organisatsiooni või struktuuriüksuse vähemalt viieaastase eduka juhtimise kogemusega isik, kellel on vähemalt magistrikraad, sellele vastav kvalifikatsioon Eesti Vabariigi haridusseaduse § 28 lõike 2^2 tähenduses või sellele vastav välisriigi kvalifikatsioon statistika või majanduse või nendega seotud erialal.\n(2) Statistikaameti peadirektor ei või ametisoleku ajal osaleda erakondade tegevuses.\n(3) Statistikaameti peadirektor:\n1) vastutab riikliku statistika tegemisel koostöö eest Eesti Pangaga;\n2) otsustab statistikameetodite ja standardite kasutamise üle ning levitatavate andmete sisu, levitamise vormi ja tähtaja määramise üle;\n3) täidab muid ülesandeid, mis on talle antud teiste õigusaktidega."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - RIIKLIKU STATISTIKA KORRALDUS",
+      "section": "11",
+      "title": "§ 11. Statistikaameti peadirektori ametisse nimetamine ja ametist vabastamine",
+      "content": "(1) Statistikaameti peadirektori nimetab valdkonna eest vastutava ministri ettepanekul ametisse Vabariigi Valitsus viieks aastaks.\n(2) Statistikaameti peadirektori ametikoha täitmiseks korraldatakse avalik konkurss avaliku teenistuse seaduses sätestatud korras. Konkurssi läbiviiv komisjon kuulab ära statistikanõukogu seisukoha kandidaadi sobivuse kohta.\n(3) Statistikaameti peadirektori vabastab ametist Vabariigi Valitsus valdkonna eest vastutava ministri ettepanekul."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - RIIKLIKU STATISTIKA KORRALDUS",
+      "section": "12",
+      "title": "§ 12. Statistikanõukogu",
+      "content": "(1) Statistikanõukogu tegevuse eesmärk on nõustamise ja arvamuse avaldamise kaudu anda panus riikliku statistika eesmärgi täitmisse.\n(2) Statistikanõukogu:\n1) nõustab riikliku statistika tegijat riikliku statistika programmi koostamisel;\n2) annab Statistikaametile soovitusi riikliku statistika tegemise koordineerimise kohta;\n3) avaldab valdkonna eest vastutavale ministrile arvamust riikliku statistika programmi ja selle muudatuste kohta enne nende kinnitamist;\n4) nõustab riikliku statistika tegijat riikliku statistika tegemisel, sealhulgas statistikaalaste põhimõtete ja kvaliteedikriteeriumide rakendamises;\n5) annab valdkonna eest vastutavale ministrile hinnangu riikliku statistika tegemise kulutuste kohta ja esitab selle oma aastaaruandes;\n6) annab valdkonna eest vastutavale ministrile soovitusi ja avaldab arvamust statistikaalase õigusloome valdkonnas;\n7) avaldab arvamust Statistikaameti peadirektori ametikoha täitmiseks avalikku konkurssi läbiviivale komisjonile kandidaadi sobivuse kohta;\n8) annab riikliku statistika tegijale andmehalduse koordineerimiseks soovitusi ja avaldab arvamust andmehalduse korralduse kohta.\n(3) Statistikanõukogul on õigus küsida oma ülesannete täitmiseks riikliku statistika tegijatelt ning teistelt asjaomastelt isikutelt ja asutustelt vajalikku teavet.\n(4) Statistikanõukogu esitab valdkonna eest vastutava ministri kaudu Vabariigi Valitsusele statistikanõukogu tegevuse kalendriaasta aruande hiljemalt järgmise aasta 30. aprilliks. Aastaaruanne avaldatakse Statistikaameti veebilehel."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - RIIKLIKU STATISTIKA KORRALDUS",
+      "section": "13",
+      "title": "§ 13. Statistikanõukogu moodustamine",
+      "content": "(1) Statistikanõukogu moodustab valdkonna eest vastutava ministri ettepanekul Vabariigi Valitsus korraldusega. Statistikanõukogu iga koosseisu volituste tähtaeg on neli aastat.\n(2) Statistikanõukogu koosneb 11 liikmest:\n1) üks liige Statistikaametist;\n2) üks liige Eesti Pangast;\n3) üks liige Andmekaitse Inspektsioonist;\n4) kaheksa liiget tarbijate ja andmeesitajate esindajate ning ekspertide hulgast.\n(3) Käesoleva paragrahvi lõike 2 punktis 4 nimetatud eksperdid määratakse arvestusega, et esindatud on statistika, rahvastiku, sotsiaalvaldkonna, keskkonna ja majanduse, sealhulgas põllumajanduse asjatundjad.\n(4) Statistikanõukogu liikmetele statistikanõukogu tegevuses osalemise eest tasu ei maksta.\n(5) Vabariigi Valitsus kehtestab määrusega statistikanõukogu töökorra."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - RIIKLIKU STATISTIKA KORRALDUS",
+      "section": "14",
+      "title": "§ 14. Statistikanõukogu juhtimine",
+      "content": "(1) Statistikanõukogu juhib esimees, kelle statistikanõukogu liikmed valivad endi hulgast.\n(2) Statistikanõukogu esimees:\n1) esindab statistikanõukogu;\n2) korraldab statistikanõukogu tööd;\n3) kutsub kokku ja juhatab statistikanõukogu koosolekuid;\n4) esitab statistikanõukogu ettepanekud, otsused, arvamused ja soovitused riikliku statistika tegijatele, valdkonna eest vastutavale ministrile ja käesoleva seaduse § 12 lõike 2 punktis 7 nimetatud komisjonile."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - RIIKLIKU STATISTIKA KORRALDUS",
+      "section": "15",
+      "title": "§ 15. Statistikanõukogu liikme volituste lõppemine",
+      "content": "(1) Statistikanõukogu liikme volitused lõpevad statistikanõukogu koosseisu volituste lõppemisel.\n(2) Vabariigi Valitsus võib valdkonna eest vastutava ministri ettepanekul statistikanõukogu liikme enne tema volituste lõppemist erandkorras tagasi kutsuda ja tema asemele uue liikme määrata, kui:\n1) isik esitab lahkumisavalduse;\n2) isiku esitanud institutsioon teeb ettepaneku liikme tagasikutsumiseks;\n3) isik ei võta poole aasta jooksul osa statistikanõukogu tegevusest."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - RIIKLIKU STATISTIKA PROGRAMM, PROGRAMMIVÄLISED TÖÖD JA ARUANDLUS",
+      "section": "16",
+      "title": "§ 16. Riikliku statistika programmi osad",
+      "content": "(1) Riikliku statistika programm (edaspidi ka programm ) koosneb:\n1) Vabariigi Valitsuse kinnitatud statistikatööde loetelust;\n2) Eesti Panga presidendi kinnitatud statistikatööde loetelust.\n(2) Programm sisaldab statistikatöö kohta järgmisi andmeid:\n1) nimetus;\n2) õiguslik alus;\n3) väljundnäitajad;\n4) sagedus;\n5) periood või moment;\n6) eeldatav maksumus;\n7) info kavandatavate metoodikamuudatuste kohta.\n(3) Kui programmis ei esitata statistikatöö kohta käesoleva paragrahvi lõike 2 punktis 2 nimetatud õiguslikku alust, tuleb programmis esitada andmed avalikku huvi esindava asutuse kohta ning statistikatöö eesmärk käesoleva seaduse § 1 lõike 2 tähenduses."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - RIIKLIKU STATISTIKA PROGRAMM, PROGRAMMIVÄLISED TÖÖD JA ARUANDLUS",
+      "section": "17",
+      "title": "§ 17. Programmi koostamine",
+      "content": "(1) Riikliku statistika tegija suhtleb programmi koostamisel ning rakendamisel riigi- ja kohaliku omavalitsuse asutustega otse.\n(2) Programmi koostamisel lähtutakse avalikust huvist, andmeallikate olemasolust, andmeesitajate koormusest ja riikliku statistika tegemise tasuvusest. Lisaks võetakse arvesse riigi eelarvestrateegiat ja järgmise aasta riigieelarve projekti.\n(3) Riikliku statistika tegija konsulteerib statistikatöö planeerimisel andmeesitajatega avalikult andmete koosseisu ja esitamise aja üle. Andmeesitajatega konsulteeritakse piisavalt vara, et oleks võimalik arvestada nende arvamusega ja et andmeesitajad jõuaksid vajaduse korral oma tavapäraseid toiminguid nõutavate andmete esitamiseks kohandada.\n(4) Riikliku statistika tegija konsulteerib programmi ettevalmistamisel avaliku huvi esindajatega, analüüsib tehtava statistika vajalikkust tarbijatele, nõustab tarbijaid seoses uute vajaduste ja prioriteetidega ning hindab riikliku statistika tegemiseks andmete esitamisega kaasnevat halduskoormust.\n(5) Statistikaamet koostab ja esitab Rahandusministeeriumile käesoleva seaduse § 16 lõike 1 punktis 1 nimetatud statistikatööde loetelu igal aastal hiljemalt 1. juuliks.\n(6) Statistikaameti poolt tehtavate statistikatööde loetelu kinnitab Vabariigi Valitsus korraldusega."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - RIIKLIKU STATISTIKA PROGRAMM, PROGRAMMIVÄLISED TÖÖD JA ARUANDLUS",
+      "section": "18",
+      "title": "§ 18. Statistikatöö küsimustik",
+      "content": "(1) Statistikatöö küsimustik on statistikatöö tegemisel andmete kogumiseks kasutatav küsimuste või näitajate struktureeritud kogum, mis on taasesitataval kujul ja mille täidab andmeesitaja või küsitleja või mille esitab andmeesitaja andmestikuna.\n(2) Riikliku statistika tegijad avaldavad küsimustikud oma veebilehel."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - RIIKLIKU STATISTIKA PROGRAMM, PROGRAMMIVÄLISED TÖÖD JA ARUANDLUS",
+      "section": "19",
+      "title": "§ 19. Programmi aruandlus",
+      "content": "(1) Statistikaameti peadirektor esitab iga aasta 31. märtsiks statistikanõukogule ja Rahandusministeeriumile aruande (edaspidi aastaaruanne ) programmi täitmise kohta oma pädevuse piires. Aastaaruanne avaldatakse Statistikaameti veebilehel.\n(2) Valdkonna eest vastutav minister esitab aastaaruande Vabariigi Valitsusele iga aasta 30. aprilliks koos statistikanõukogu tegevusaruandega.\n(3) Aastaaruanne sisaldab:\n1) ülevaadet programmi täitmise kohta;\n2) ülevaadet andmeesitajate nii olemasoleva kui ka lisanduva halduskoormuse kohta;\n3) ülevaadet tarbijate rahulolu kohta riikliku statistikaga;\n4) ülevaadet andmekogude kvaliteedi hindamistest tulenevalt käesoleva seaduse § 29 lõikes 2 sätestatud õigusest;\n5) järgmise nelja aasta jooksul programmi lisanduvate suuremahuliste statistikatööde loetelu, nende vajaduse põhjendust ja eeldatavat maksumust.\n(4) Eesti Pank annab ülevaate programmi täitmise kohta oma pädevuse piires Eesti Panga aastaaruandes."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - RIIKLIKU STATISTIKA PROGRAMM, PROGRAMMIVÄLISED TÖÖD JA ARUANDLUS",
+      "section": "20",
+      "title": "§ 20. Programmivälised statistikatööd",
+      "content": "(1) Riikliku statistika tegija võib teha statistikatööd väljaspool programmi tingimusel, et tellimustöö tegemine ei sega programmi koostamist ega täitmist. Statistikaamet teavitab Rahandusministeeriumi programmivälise statistikatöö tegemisest.\n(2) Programmiväliste statistikatööde tegemisel järgitakse käesoleva seaduse § 7 lõigetes 1 ja 2 sätestatud riikliku statistika tegemise põhimõtteid ja kvaliteedikriteeriume.\n(3) Programmivälise statistikatöö tegemisel levitatavaid andmeid ei ole lubatud kasutada ühelgi muul kui statistilisel või teaduslikul eesmärgil."
+    },
+    {
+      "provision_ref": "para20^1",
+      "chapter": "3. peatükk - RIIKLIKU STATISTIKA PROGRAMM, PROGRAMMIVÄLISED TÖÖD JA ARUANDLUS",
+      "section": "20^1",
+      "title": "§ 20^1. Andmejagamisteenus",
+      "content": "(1) Andmejagamisteenus käesoleva seaduse tähenduses on andmete töötlemine teaduslikul või statistilisel eesmärgil, mille käigus riigi- ja kohaliku omavalitsuse asutus või avalik-õiguslik juriidiline isik edastab tema valduses olevad andmed Statistikaametile või Statistikaamet töötleb statistikatöö käigus saadud andmeid ning edastab anonüümitud andmed riigi- või kohaliku omavalitsuse asutusele, avalik-õiguslikule juriidilisele isikule või teadusasutusele või avaldab andmed kokkuvõtliku ja üldistatud teabena.\n(2) Andmejagamisteenuse osutamisel järgitakse isikuandmete kaitse ning äri-, maksu- ja pangasaladuse kaitse reegleid ja põhimõtteid.\n(3) Andmejagamisteenuse osutamisel võib edastada riigi julgeolekut ja riigikaitset puudutavat teavet üksnes selle asutuse nõusolekul, keda teave puudutab, ning tingimusel, et see ei kahjusta riigi julgeolekut ega riigikaitset. Riigi julgeolekut ja riigikaitset puudutava teabe edastamisest teavitatakse julgeolekuasutust.\n(4) Andmejagamisteenuse osutamisel levitatavaid andmeid ei ole lubatud kasutada ühelgi muul kui statistilisel ja teaduslikul eesmärgil."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - LOENDUS",
+      "section": "21",
+      "title": "§ 21. Loendus",
+      "content": "(1) Loendus käesoleva seaduse tähenduses on kõikne uuring, mille käigus saadakse andmeid teatud momendi seisuga statistilist üksust iseloomustavate kindlaksmääratud tunnuste kohta. Loenduse liigid on:\n1) rahvaloendus;\n2) eluruumide loendus;\n3) põllumajandusloendus.\n(2) Vabariigi Valitsus võib määrusega kehtestada käesoleva seaduse § 24 lõikes 4 nimetatud asutusleibkonnas loenduse tegemise täpsema korra.\n(3) Vabariigi Valitsus võib korraldusega moodustada loenduse tegemiseks Vabariigi Valitsuse loenduskomisjoni, kes:\n1) teeb Vabariigi Valitsusele ja valitsusasutustele ettepanekuid loenduse tegemisega seonduvate õigusaktide ettevalmistamiseks ja annab arvamusi nimetatud õigusaktide eelnõude kohta;\n2) koordineerib loenduse korraldamist riigivalitsemisorganite tasemel ning suunab riigi- ja omavalitsusasutuste koostööd loenduse korraldamisel;\n3) kooskõlastab loenduse tegemise ajakava ja jälgib selle täitmist;\n4) analüüsib loenduse korraldamisega seotud kulude vajadusi;\n5) täidab muid Vabariigi Valitsuse poolt talle pandud loendusega seotud ülesandeid."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - LOENDUS",
+      "section": "22",
+      "title": "§ 22. Loenduse eesmärk ja kogutavad andmed",
+      "content": "(1) Rahvaloenduse eesmärk on koguda andmeid riigi rahvaarvu, rahvastiku koosseisu, olukorra ja paiknemise kohta. Rahvaloenduse käigus andmete kogumisel ja töötlemisel lähtub riikliku statistika tegija Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 763/2008 rahva ja eluruumide loenduse kohta (ELT L 218, 13.8.2008, lk 14–20) sätestatud nõuetest. Riigisisesest riikliku statistika vajadusest tulenevalt on täiendavalt kogutavad ja töödeldavad andmed isikute ja leibkonnaliikmete kohta järgmised:\n1) ees- ja perekonnanimi, isikukood (olemasolu korral) – isikut tuvastavad andmed;\n2) teine elukoht, seal viibimise kestus ja põhjus; vanemate ja vanavanemate sünnikoht; elukoht enne Eestisse elama asumist; elukoht eelmise loenduse ajal – geograafilised ja rändeandmed;\n3) rahvus, emakeel, võõrkeelte oskus, religioon, sünnitatud laste arv ning naise vanus esimese lapse sündimisel – demograafilised andmed;\n4) elatusallikad, tavaline nädalatööaeg, töötaoleku kestus – majanduslikud andmed;\n5) tasemehariduses õppijate õppeasutuse asukoht, haridusliik ja -aste – hariduse andmed;\n6) pikaajalise haiguse või terviseprobleemi olemasolu ja mõju tavategevustele – tervise andmed;\n7) Eestis viibimise kestus ja peamine põhjus, seos leibkonnaga – andmed Eestis ajutiselt (vähemalt kolm kuud) viibivatelt välisriikide elanikelt;\n8) registreeritud ja tegeliku elukoha erinevuse andmed;\n9) leibkonna ajutiste elanike andmed;\n10) asutusleibkonna andmed;\n11) leibkonna põllumajandusliku tegevuse ja selle ulatuse andmed.\n(2) Eluruumide loenduse eesmärk on koguda andmeid riigis olevate eluruumide kohta. Eluruumide loenduse käigus andmete kogumisel ja töötlemisel lähtub riikliku statistika tegija Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 763/2008 sätestatud nõuetest. Riigisisesest riikliku statistika vajadusest tulenevalt kogutakse ja töödeldakse täiendavaid andmeid eluruumide aadressi- ja ruumiandmete ning tehnilise varustatuse kohta.\n(3) Põllumajandusloenduse eesmärk on koguda andmeid riigi põllumajanduslike majapidamiste tegevuse kohta. Põllumajandusloenduse käigus andmete kogumisel ja töötlemisel lähtub riikliku statistika tegija Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 1166/2008, mis käsitleb põllumajanduslike majapidamiste struktuuriuuringuid ja põllumajanduslike tootmismeetodite uuringut ning millega tunnistatakse kehtetuks nõukogu määrus (EMÜ) nr 571/88 (ELT L 308, 24.11.2009, lk 27–46), sätestatud nõuetest. Riigisisesest riikliku statistika vajadusest tulenevalt on täiendavalt kogutavad ja töödeldavad andmed järgmised:\n1) põllumajanduslike majapidamiste valdajate ees- ja perekonnanimi, isikukood (olemasolu korral) ja kontaktandmed;\n2) põllumajanduskultuuride detailiseeritud andmed taimekasvatuse statistikatöö valimisse kuuluvate majapidamiste osas;\n3) loenduse andmete kvaliteeti toetavad andmed."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - LOENDUS",
+      "section": "23",
+      "title": "§ 23. Loenduse andmeesitaja kohustused ja õigused",
+      "content": "(1) Andmeesitaja on kohustatud vastama kõigile loenduse küsimustele ning andma tõeseid ja täielikke vastuseid.\n(2) Oma veendumuste kohta annab andmeesitaja vastuseid vabatahtlikkuse alusel."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - LOENDUS",
+      "section": "24",
+      "title": "§ 24. Rahvaloenduse statistiline üksus ja andmeesitaja",
+      "content": "(1) Rahvaloenduse statistilised üksused on füüsiline isik, perekond ja leibkond.\n(2) Rahvaloendusega hõlmatakse:\n1) isik, kelle elukoht on Eesti Vabariigis, sealhulgas isik, kes ajutiselt viibib välisriigis kuni aastase tähtajaga;\n2) isik, kes on Eesti Vabariigis viibinud või kavatseb viibida vähemalt kolm kuud järjest;\n3) Eesti Vabariigi välisesinduse teenistuja ja tema perekonnaliikmed, kes loendusmomendil viibivad välisriigis.\n(3) Rahvaloendusega ei hõlmata:\n1) välisriigi diplomaatiliste ja konsulaaresinduste diplomaatilise personali liikmeid ja nende perekonnaliikmeid;\n2) välisriigi sõjaväe tegevteenistuses olevaid isikuid.\n(4) Leibkond käesoleva seaduse tähenduses on koos elavad isikud, keda seob ühine kodune majapidamine. Leibkond on ka üksinda elav isik. Hoolekande-, ravi-, puhke- ja muudes asutustes ning kinnipidamiskohtades ja ajateenistuses viibivad isikud, kes viibivad asutuses pikka aega, moodustavad asutusleibkonna.\n(5) Rahvaloenduse andmeesitaja on käesoleva paragrahvi lõikes 2 nimetatud vähemalt 15-aastane isik või riigi- ja kohaliku omavalitsuse asutuse või muu avalik-õigusliku juriidilise isiku andmekogu vastutav või volitatud töötleja või avalikke ülesandeid täitva eraõigusliku juriidilise isiku andmekogu volitatud töötleja."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - LOENDUS",
+      "section": "25",
+      "title": "§ 25. Eluruumide loenduse statistiline üksus ja andmeesitaja",
+      "content": "(1) Eluruumide loenduse statistiline üksus on eluruum, eluruume sisaldav hoone ja muu füüsilise isikuga asustatud hoone.\n(2) Eluruumide loendusega hõlmatakse elamu, muu elamiseks kasutatav hoone ja muu eluruum, sõltumata selle asustatusest loendusmomendil, ning füüsilise isikuga asustatud muu elamiseks kasutatav ruum.\n(3) Eluruumide loendusega ei hõlmata välisriikide diplomaatiliste ja konsulaaresinduste hooneid ega neis paiknevaid eluruume.\n(4) Eluruumide loenduse andmeesitaja on käesoleva paragrahvi lõikes 2 nimetatud eluruumi elanik või omanik või riigi- ja kohaliku omavalitsuse asutuse või muu avalik-õigusliku juriidilise isiku andmekogu vastutav või volitatud töötleja või avalikke ülesandeid täitva eraõigusliku juriidilise isiku andmekogu volitatud töötleja."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - LOENDUS",
+      "section": "26",
+      "title": "§ 26. Põllumajandusloenduse statistiline üksus ja andmeesitaja",
+      "content": "(1) Põllumajandusloenduse statistiline üksus on Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 1166/2008 sätestatud ning programmis märgitud muu üksus.\n(2) Põllumajandusloenduse andmeesitaja on füüsiline või juriidiline isik, kes on käesoleva paragrahvi lõikes 1 sätestatud statistilise üksuse valdaja või valdaja esindaja, riigi- või kohaliku omavalitsuse asutuse või muu avalik-õigusliku juriidilise isiku andmekogu vastutav või volitatud töötleja või avalikke ülesandeid täitva eraõigusliku juriidilise isiku andmekogu volitatud töötleja."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - LOENDUS",
+      "section": "27",
+      "title": "§ 27. Kohaliku omavalitsuse üksuse ülesanded loenduse korraldamisel",
+      "content": "(1) Kohaliku omavalitsuse üksus võimaldab koostöös riikliku statistika tegijaga loenduse korraldamise oma haldusterritooriumil, sealhulgas:\n1) võimaldab ligipääsu enda kasutuses olevale informatsioonile, mida vajab riikliku statistika tegija loenduse korraldamiseks kasutatava andmestiku koostamisel;\n2) abistab riikliku statistika tegijat loendatavate eluruumide leidmisel;\n3) abistab riikliku statistika tegijat loenduse korraldamiseks vajalike ja sobivalt varustatud tööruumide leidmisel;\n4) abistab riikliku statistika tegijat loenduse korraldamiseks vajaliku teabe vahendamisel oma valla või linna elanikele.\n(2) Riikliku statistika tegijal on õigus sõlmida kohaliku omavalitsuse üksusega leping käesoleva paragrahvi lõikes 1 nimetamata loenduse korraldamisega seotud muude ülesannete täitmiseks.\n(3) Käesoleva paragrahvi lõikes 1 nimetamata loenduse korraldamisega seotud ülesannete täitmisega kaasnevad kulud kaetakse riigieelarvest loenduse korraldamiseks ettenähtud vahenditest."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "5. peatükk - ANDMETE KOGUMINE JA STATISTILINE TÖÖTLEMINE",
+      "section": "28",
+      "title": "§ 28. Andmeesitaja kohustused ja andmetega tutvumine",
+      "content": "(1) Riikliku statistika tegija nõudmisel on andmeesitaja kohustatud õigeaegselt esitama tõesed ja täielikud andmed käesoleva seaduse § 16 lõike 1 alusel koostatud ja § 18 lõikes 2 nimetatud viisil avaldatud küsimustiku ulatuses. Andmete esitamise eest tasu ei maksta.\n(2) Füüsiline isik esitab isikuandmed vabatahtlikkuse alusel, kui seaduses ei sätestata teisiti. Füüsilised isikud, kes omavad kinnisvara, ehitisi või nende osi või omavad või valdavad põllumajandusmaad või põllumajandusloomi või teevad rahvusvahelisi makseid, on kohustatud esitama asjaomased andmed käesoleva paragrahvi lõike 1 kohaselt.\n(3) Juriidilised isikud ning riigi- ja kohaliku omavalitsuse asutused teatavad riikliku statistika tegija põhjendatud nõudmisel, mille kohta nad andmeid koguvad.\n(4) Andmekogude vastutavad töötlejad esitavad riikliku statistika tegija nõudmisel käesoleva seaduse § 29 lõikes 1 nimetatud andmekogudesse kogutud andmed.\n(5) Riikliku statistika tegija võib erandina vabastada andmeesitaja tema kirjalikul taotlusel käesoleva paragrahvi lõikes 1 sätestatud kohustusest kas osaliselt või täielikult, kui andmete esitamine on võimatu.\n(6) Isikul on õigus tutvuda andmetega, mis riikliku statistika tegija on tema kohta kogunud."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "5. peatükk - ANDMETE KOGUMINE JA STATISTILINE TÖÖTLEMINE",
+      "section": "29",
+      "title": "§ 29. Andmekogude kasutamine",
+      "content": "(1) Riikliku statistika tegija kasutab statistikatöö tegemisel eelkõige andmekogudesse kogutud andmeid ning riigi- ja kohaliku omavalitsuse asutuste, avalik-õiguslike ja eraõiguslike juriidiliste isikute tegevuse käigus loodud või kogutud andmeid, kui nende andmete alusel on võimalik teha riikliku statistika kvaliteedikriteeriumidele vastavat statistikatööd.\n(2) Riikliku statistika tegijal on õigus teha ettepanekuid andmekogudes olevate andmete koosseisu ja kasutatavate klassifikaatorite muutmiseks, kui andmete kaetus ning andmekogus olevate andmete koosseis, detailsus ja kvaliteet ei võimalda teha riikliku statistika kvaliteedikriteeriumidele vastavat riiklikku statistikat."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "5. peatükk - ANDMETE KOGUMINE JA STATISTILINE TÖÖTLEMINE",
+      "section": "30",
+      "title": "§ 30. Andmete kogumine ja statistiline töötlemine",
+      "content": "(1) Riikliku statistika tegija teatab andmeesitajale piisavalt vara temalt kogutavate andmete koosseisu, nende kasutamise eesmärgi, statistilise töötlemise ja levitamise põhimõtted ning esitamise tähtpäeva. Riikliku statistika tegija teavitab andmeesitajat vastutusest käesolevas seaduses sätestatud nõuete rikkumise eest.\n(2) Riikliku statistika tegijal on õigus riikliku statistika tegemisel moodustada andmetest statistilisi registreid, kogudes samu andmeid erinevatest andmekogudest ja muudest andmeallikatest, kui seaduses ei ole sätestatud teisiti. Statistikatöö tegemiseks statistilisse registrisse kogutud andmeid võib kasutada muu riikliku statistika tegemiseks, olenemata sellest, millisel eesmärgil andmeid algselt on kogutud.\n(3) Riikliku statistika tegijal on õigus andmeesitajatelt ja andmekogudest saadud üksikandmeid seostada, kasutades statistilise üksuse otsest või kaudset tuvastamist võimaldavaid tunnuseid."
+    },
+    {
+      "provision_ref": "para30^1",
+      "chapter": "5. peatükk - ANDMETE KOGUMINE JA STATISTILINE TÖÖTLEMINE",
+      "section": "30^1",
+      "title": "§ 30^1. Eesti Pangale integreeritult andmete kogumine ja nende andmete jagamine",
+      "content": "(1) Integreeritud andmekogumine on Eesti Pangale riikliku statistika tegemiseks vajalike andmete kogumine koos muude andmetega, mida Eesti Pank või käesoleva paragrahvi lõikes 3 või 3^1 nimetatud määruses osutatud isikud vajavad neile õigusaktidega pandud ülesannete täitmiseks.\n(2) Integreeritud andmekogumine on lubatud, kui täidetud on järgmised tingimused:\n1) andmete kogumine integreerituna vähendab halduskoormust;\n2) andmete kogumise eesmärgid on andmeesitajatele teada;\n3) andmete konfidentsiaalsus on tagatud vastavalt käesolevas seaduses või teistes õigusaktides sätestatud nõuetele.\n(3) Valdkonna eest vastutav minister võib määrusega kehtestada integreeritud andmete töötlemise üldised tingimused andmete esmasele kogujale ja isikule, kellele andmed edastatakse.\n(3^1) Eesti Panga president võib aruandlust reguleeriva määrusega kohustada krediidiasutusi esitama aruandeid, mis on vajalikud integreeritud andmekogumiseks.\n(4) Kui integreeritult kogutud andmed esitatakse Eesti Pangale, on andmete koosseisus olevate üksnes statistilisel eesmärgil kogutud andmete jagamine lubatud ainult käesoleva seaduse § 35 lõikes 3 sätestatud juhtudel.\n(5) Konfidentsiaalset statistilist või muud konfidentsiaalset teavet edastavad ja vastu võtvad asutused on kohustatud võtma kõik vajalikud regulatiivsed, haldus-, tehnilised ja korralduslikud meetmed, et tagada konfidentsiaalse teabe kaitse."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "5. peatükk - ANDMETE KOGUMINE JA STATISTILINE TÖÖTLEMINE",
+      "section": "31",
+      "title": "§ 31. Isikuandmete kasutamine riikliku statistika tegemisel",
+      "content": "(1) Riikliku statistika tegijal on õigus riikliku statistika tegemisel kasutada isikuandmeid Euroopa Parlamendi ja nõukogu määruses (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus) (ELT L 119, 04.05.2016, lk 1–88) ja isikuandmete kaitse seaduses ettenähtud alustel ja korras, arvestades käesolevas seaduses sätestatud erisusi.\n(2) Riikliku statistika tegija ei pea teavitama isikut tema isikuandmete kasutamisest riikliku statistika tegemisel.\n(3) Riikliku statistika tegemisel kogutud andmetele ei laiene andmesubjekti õigus nõuda nende andmete parandamist või kustutamist.\n(4) Riikliku statistika tegemisel kogutud andmetele ei laiene andmesubjekti õigus piirata nende andmete töötlemist."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "6. peatükk - ANDMETE SÄILITAMINE JA RIIKLIKU STATISTIKA LEVITAMINE",
+      "section": "32",
+      "title": "§ 32. Andmete säilitamine",
+      "content": "(1) Riikliku statistika tegija säilitab andmeid käesolevas seaduses ja arhiiviseaduses sätestatud nõuete kohaselt.\n(2) Riikliku statistika tegija hoiab füüsilise isiku üksikandmeid nende kontrollimise ajal koos isikukoodiga. Pärast kontrollimist säilitatakse isikukood teistest isiku andmetest eraldi, tagades nende hilisema ühendamise võimaluse.\n(3) Konfidentsiaalsete andmete säilitamisel järgitakse isikuandmete kaitse ja statistilise konfidentsiaalsuse põhimõtteid.\n(4) Andmejagamisteenuse osutamiseks kasutatavaid andmeid säilitatakse andmete töötlemise eesmärgi saavutamiseni, kuid mitte kauem kui andmeesitaja poolt kehtestatud andmete säilitustähtpäevani."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "6. peatükk - ANDMETE SÄILITAMINE JA RIIKLIKU STATISTIKA LEVITAMINE",
+      "section": "33",
+      "title": "§ 33. Riikliku statistika levitamine",
+      "content": "(1) Riikliku statistika tegija levitab riiklikku statistikat objektiivselt ja erapooletult ning oma veebilehel avalikustatud avaldamiskalendri kohaselt. Enne avaldamiskalendris olevat tähtpäeva ei või riikliku statistika tegija riiklikku statistikat levitada.\n(2) Riiklik statistika loetakse avaldatuks hetkest, kui riikliku statistika tegija selle üldiseks kasutamiseks kättesaadavaks teeb.\n(3) Riikliku statistika tegija avaldab oma veebilehel riikliku statistika avaldamiskalendri järgmise kalendriaasta kohta hiljemalt kolm kuud enne järgmise kalendriaasta algust. Avaldamiskalendri koostamisel arvestab riikliku statistika tegija tarbijate vajadustega.\n(4) Käesoleva seaduse § 20 alusel tehtud statistikatöö tulem tehakse tarbijatele kättesaadavaks esimesel võimalusel."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "6. peatükk - ANDMETE SÄILITAMINE JA RIIKLIKU STATISTIKA LEVITAMINE",
+      "section": "34",
+      "title": "§ 34. Konfidentsiaalsed andmed",
+      "content": "(1) Andmed, mis võimaldavad statistilise üksuse otsest või kaudset tuvastamist ja seeläbi üksikandmete avalikustamist, on konfidentsiaalsed andmed.\n(1^1) Konfidentsiaalseid andmeid ei ole lubatud kasutada ühelgi muul kui statistilisel ja teaduslikul eesmärgil.\n(2) Statistiline üksus käesoleva seaduse tähenduses on andmete alusel otseselt tuvastatav, kui andmed sisaldavad kas statistilise üksuse nime, aadressi või isiku- või registrikoodi.\n(3) Statistiline üksus käesoleva seaduse tähenduses on andmete alusel kaudselt tuvastatav, kui otsest tuvastamist võimaldavate tunnuste puudumisel on võimalik statistilist üksust tuvastada muude andmete alusel. Et otsustada, kas statistiline üksus on tuvastatav, võetakse arvesse kõik võimalused, mida kolmas isik võib eeldatavasti kasutada nimetatud statistilise üksuse tuvastamiseks.\n(4) Isikud, kes tööülesannete täitmisel või teaduslikel eesmärkidel andmete kasutamisel puutuvad kokku statistilise üksuse otsest või kaudset tuvastamist võimaldavate andmetega, on kohustatud tagama andmete kasutamise eranditult statistilisel eesmärgil ning hoidma ära andmete ebaseadusliku levitamise.\n(5) Riikliku statistika tegija tagab kõigi statistikatööde tegemisel andmete organisatsioonilise, infotehnilise ja füüsilise kaitse.\n(6) Statistikaameti kogutud ja statistiliselt töödeldud andmete organisatsioonilise, infotehnilise ja füüsilise kaitse nõuded kehtestab Vabariigi Valitsus määrusega.\n(7) Eesti Panga kogutud ja statistiliselt töödeldud andmete organisatsioonilise, infotehnilise ja füüsilise kaitse nõuded kehtestab Eesti Panga president käskkirjaga.\n(8) Riikliku statistika tegemiseks kogutud isikuandmete vastutav töötleja on riikliku statistika tegija."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "6. peatükk - ANDMETE SÄILITAMINE JA RIIKLIKU STATISTIKA LEVITAMINE",
+      "section": "35",
+      "title": "§ 35. Konfidentsiaalsete andmete levitamine",
+      "content": "(1) Riikliku statistika tegija levitab riikliku statistika tegemiseks kogutud andmeid ainult sellisel kujul, mis välistab statistilise üksuse otsese või kaudse tuvastamise võimaluse, kui käesolevas seaduses ei ole sätestatud teisiti.\n(2) Riikliku statistika tegija levitab isiku otsest või kaudset tuvastamist võimaldavaid andmeid ainult tema nõusolekul, välja arvatud käesolevast seadusest tuleneval juhul või kui andmed on avalikud tulenevalt seadusest.\n(3) Riikliku statistika tegija levitab isiku nõusolekuta isiku otsest või kaudset tuvastamist võimaldavaid andmeid järgmistel juhtudel:\n1) teisele riikliku statistika tegijale tulenevalt pädevusvaldkonnast ning koos märkega nende konfidentsiaalsuse kohta;\n2) Euroopa Liidu Statistikaametile ( Eurostatile ), Euroopa Liidu liikmesriikide statistikaasutustele ja Euroopa Keskpankade Süsteemi liikmetele tulenevalt pädevusvaldkonnast Euroopa Liidu õigusaktides sätestatud ulatuses ja koos märkega nende konfidentsiaalsuse kohta.\n(4) Riikliku statistika tegija levitab isiku nõusolekuta järgmisi otsest või kaudset tuvastamist võimaldavaid Eestis registreeritud juriidiliste isikute, välismaa äriühingute filiaalide, riigi- ja kohaliku omavalitsuse asutuste ning füüsilisest isikust ettevõtjate andmeid:\n1) registrikood;\n2) nimi ja aadress;\n3) õiguslik vorm;\n4) tegevusala;\n5) suurusrühm, millesse üksus kuulub tööga hõivatud isikute arvu järgi;\n6) suurusrühm, millesse üksus kuulub müügitulu järgi.\n(5) Riikliku statistika tegija levitab isiku nõusolekuta statistilise üksuse otsest või kaudset tuvastamist võimaldavaid andmeid teaduslikel eesmärkidel kasutamiseks käesoleva seaduse §-s 38 sätestatu kohaselt.\n(6) Riikliku statistika tegija levitab statistilise üksuse kaudset tuvastamist võimaldavat tööstusstatistikat riigisisese tööstustoodete klassifikaatori detailseimal tasemel ning kaupade välja- ja sisseveo statistikat kombineeritud nomenklatuuri detailseimal tasemel, kui andmeesitaja ei ole seda keelanud.\n(7) Riikliku statistika tegija võib isiku nõusolekuta levitada kaudset tuvastamist võimaldavaid füüsilise isiku andmeid soo, vanuse ja asustusüksuse järgi."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "6. peatükk - ANDMETE SÄILITAMINE JA RIIKLIKU STATISTIKA LEVITAMINE",
+      "section": "36",
+      "title": "§ 36. Avalikuks kasutamiseks mõeldud andmefailid",
+      "content": "(1) Üksikandmeid levitatakse avalikuks kasutamiseks mõeldud andmefailidena, mis ei võimalda statistilist üksust otse ega kaudselt tuvastada. Andmefailide moodustamisel kasutatakse statistilise aimatavuse kontrolli meetodeid.\n(2) Avalikuks kasutamiseks mõeldud andmefailide levitamisel tagatakse statistilise analüüsi meetodite rakendamise võimalus seoste säilitamisega tunnuste vahel.\n(3) Avalikuks kasutamiseks mõeldud andmefailidele võimaldab riikliku statistika tegija juurdepääsu avaldamiskalendri alusel."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "6. peatükk - ANDMETE SÄILITAMINE JA RIIKLIKU STATISTIKA LEVITAMINE",
+      "section": "38",
+      "title": "§ 38. Konfidentsiaalsete andmete levitamine teaduslikel eesmärkidel kasutamiseks",
+      "content": "(1) Konfidentsiaalsete andmete levitamine teaduslikul eesmärgil kasutamiseks on lubatud Euroopa Parlamendi ja nõukogu määruses (EL) 2016/679 ja isikuandmete kaitse seaduses ettenähtud alustel ja korras, arvestades käesolevas seaduses sätestatud erisusi.\n(2) Riikliku statistika tegija sõlmib konfidentsiaalsete andmete levitamisel teaduslikel eesmärkidel kasutamiseks andmete kasutajaga (edaspidi kasutaja ) andmeedastuslepingu, milles sätestatakse uurimistöö eesmärk, edastatud andmete uurimistööks kasutamise õigust omavad isikud, andmete töötlemise ja edastamise kord ning kohustus tagada andmete organisatsiooniline, füüsiline ja infotehniline kaitse ning andmete hävitamise tingimused pärast uurimistöö lõppu. Käesolevas lõikes nimetatud lepingut ei sõlmita füüsilise isikuga.\n(3) Riikliku statistika tegija keeldub andmeedastuslepingu sõlmimisest kasutajaga, kui:\n1) ta ei ole veendunud, et andmeid kasutatakse üksnes teaduslikel eesmärkidel;\n2) soovitakse kasutada isikuandmeid, kuid täidetud ei ole isikuandmete kaitse seaduse §-s 6 sätestatud tingimused;\n3) kasutaja on varem rikkunud riikliku statistika tegijaga sõlmitud lepingu tingimusi ning riikliku statistika tegija hinnangul ei ole kasutaja rakendanud piisavaid meetmeid lepingu tingimuste rikkumise vältimiseks tulevikus.\n(4) Lepingu sõlmimisest keeldumise korral põhjendab riikliku statistika tegija oma otsust.\n(5) Teaduslikel eesmärkidel kasutamiseks edastatud andmeid võib kasutada ainult lepingus sätestatud eesmärgil.\n(6) Teaduslikel eesmärkidel kasutamiseks konfidentsiaalsete andmete edastamise korra kehtestab riikliku statistika tegija.\n(7) Teaduslikel eesmärkidel kasutamiseks võib edastada ka andmekogudest kogutud andmeid."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "7. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "39",
+      "title": "§ 39. Ettekirjutus",
+      "content": "(1) Riikliku statistika tegija teostab riiklikku ja haldusjärelevalvet käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud riikliku järelevalve teostamisel võib riikliku statistika tegija kohaldada korrakaitseseaduse §-s 30 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras.\n(3)"
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "40",
+      "title": "§ 40. Riikliku statistika seaduse nõuete rikkumine",
+      "content": "(1) Riikliku statistika tegemisel kogutud või andmeesitaja tuvastamist võimaldavate andmete ebaseadusliku levitamise või andmete muul kui statistilisel eesmärgil kasutamise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "41",
+      "title": "§ 41. Menetlus",
+      "content": "(1)\n(2) Käesoleva seaduse §-s 40 sätestatud väärtegude kohtuväline menetleja on Andmekaitse Inspektsioon."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "42",
+      "title": "§ 42. Riiklike statistiliste vaatluste korraldamine",
+      "content": "(1) Riikliku statistika seaduse (RT I 1997, 51, 822; 2010, 22, 108) § 3 lõike 2 alusel kinnitatud 2010. aasta riiklike statistiliste vaatluste loetelu kehtib riikliku statistika tegemise alusena 2010. aasta 31. detsembrini.\n(2) Riikliku statistika seaduse (RT I 1997, 51, 822; 2010, 22, 108) § 3 lõike 3 alusel kehtestatud õigusaktid kehtivad 2012. aasta 31. detsembrini."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "43",
+      "title": "§ 43. Riikliku statistika programm aastateks 2011–2015",
+      "content": "(1) Käesoleva seaduse nõuetele vastav riikliku statistika programm koostatakse esmakordselt aastateks 2011–2015.\n(2) Statistikanõukogu alustab käesoleva seaduse § 12 lõike 2 punktis 1 sätestatud ülesande täitmist alates riikliku statistika programmi koostamisest aastateks 2012–2016.\n(3) Aruanne riikliku statistika programmi täitmise kohta käesoleva seaduse §-s 19 sätestatu kohaselt koostatakse esmakordselt 2012. aasta 31. märtsiks."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "44",
+      "title": "§ 44. Aastal 2011 toimuv rahva ja eluruumide loendus",
+      "content": "(1) Aastal 2011 toimuv rahva ja eluruumide loendus korraldatakse rahva ja eluruumide loenduse seaduse (RT I 1998, 52/53, 772; 2009, 62, 405) § 2 lõike 5 alusel määratud ajal ja määratud momendi seisuga.\n(2) Rahva ja eluruumide loenduse seaduse (RT I 1998, 52/53, 772; 2009, 62, 405) § 21 lõike 1 alusel moodustatud Vabariigi Valitsuse rahvaloenduskomisjon jätkab oma tegevust 2011. aasta rahva ja eluruumide loenduse ettevalmistuste lõppemiseni."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "45",
+      "title": "§ 45. Aastal 2011 toimuval rahva ja eluruumide loendusel täiendatud aadressiandmete edastamine aadressiandmete haldussüsteemi vastutavale töötlejale",
+      "content": "(1) Riikliku statistika tegija edastab 2011. aastal toimuva rahva ja eluruumide loenduse käigus kogutud aadressiandmed (koha-aadress, aadressiobjekti liik, aadressipunkti x- ja y-koordinaadid ning aadressiobjekti olek) aadressiandmete haldussüsteemi vastutavale töötlejale.\n(2) Aadressiandmete haldussüsteemi vastutav töötleja teeb riikliku statistika tegija edastatud aadressiandmed kättesaadavaks riigi infosüsteemi kuuluvatele andmekogudele."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "46",
+      "title": "§ 46. Aastal 2011 toimuval rahva ja eluruumide loendusel kogutud andmete edastamine rahvastikuregistri vastutavale töötlejale",
+      "content": "(1) Riikliku statistika tegija edastab isiku nõusolekul 2011. aastal toimuva rahva ja eluruumide loenduse käigus isikute kohta kogutud andmed (sünnikoht, rahvus, emakeel, haridus ja tegevusala ning isiku ema, isa, abikaasa ja laste nimed ja isikukoodid) koos isikukoodiga rahvastikuregistri vastutavale töötlejale.\n(2) Kui isikul puudub rahvastikuregistris sünnikoht, rahvus, emakeel, haridus või tegevusala või kui haridus või tegevusala on loenduse momendi seisuga uuendamata, kannab rahvastikuregistri volitatud töötleja riikliku statistika tegijalt saadud andmed rahvastikuregistrisse.\n(3) Riikliku statistika tegijalt saadud andmeid isiku suhete kohta (isiku ema, isa, abikaasa, lapsed) kasutab rahvastikuregistri vastutav töötleja rahvastikuregistris olevate andmete kvaliteedi hindamiseks ja rahvastikuregistrisse kantavate andmete alusdokumentide leidmiseks."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "47",
+      "title": "§ 47. Varasemate loendusandmete kasutamine",
+      "content": "Statistikaametis moodustatakse statistiline register 2000. aastal toimunud rahva ja eluruumide loenduse andmete alusel ning loodud statistilist registrit kasutatakse edaspidi riikliku statistika tegemiseks."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "48",
+      "title": "§ 48. Andmekaitse",
+      "content": "Riikliku statistika seaduse (RT I 1997, 51, 822; 2010, 22, 108) § 8 lõike 6 alusel kehtestatud Statistikaameti kogutud ja töödeldud andmete kaitse korda kohaldatakse kuni käesoleva seaduse § 34 lõikes 6 nimetatud määruse jõustumiseni."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "49",
+      "title": "§ 49. Statistikaameti peadirektori ametikoha täitmine",
+      "content": "(1) Avaliku konkursi Statistikaameti peadirektori ametikohale kuulutab rahandusminister välja 90 päeva jooksul pärast käesoleva seaduse jõustumist.\n(2) Avaliku konkursi korras peadirektori ametisse nimetamiseni täidab peadirektori ülesandeid käesoleva seaduse jõustumisel ametis olev Statistikaameti peadirektor, kes loetakse määratud ajaks ametisse nimetatuks ning kelle teenistussuhe lõpeb avaliku konkursi korras Statistikaameti peadirektori ametisse nimetamise päeval."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "50",
+      "title": "§ 50. Registripõhisele rahva ja eluruumide loendusele üleminek",
+      "content": "(1) Registripõhisele rahva ja eluruumide loendusele üleminekuks kinnitab Vabariigi Valitsus korraldusega andmekogude kaupa vajalike tegevuste loendi koos tegevuse tähtaja ja vastutava ministeeriumiga.\n(2) Statistikaamet hindab 2011. aastal toimuva rahva ja eluruumide loenduse tulemuste põhjal andmekogude põhiandmete kvaliteeti ning teeb vajaduse korral andmekogu vastutavale töötlejale ettepanekuid andmete kvaliteedi parandamiseks."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "51",
+      "title": "§ 51.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "58",
+      "title": "§ 58.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "59",
+      "title": "§ 59.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "61",
+      "title": "§ 61.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "62",
+      "title": "§ 62. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2010. aasta 1. augustil.\n(2) Käesoleva seaduse § 36 jõustub 2011. aasta 1. jaanuaril.\n(3) Käesoleva seaduse § 37 jõustub 2011. aasta 1. augustil.\n(4) Käesoleva seaduse §-d 53 ja 58 jõustuvad päeval, mis on kindlaks määratud Euroopa Liidu Nõukogu otsuses Eesti Vabariigi suhtes kehtestatud erandi kehtetuks tunnistamise kohta Euroopa Liidu toimimise lepingu artikli 140 lõikes 2 sätestatud alusel."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,319 @@
+{
+  "id": "ee-law-113032019064",
+  "type": "statute",
+  "title": "Inimgeeniuuringute seadus",
+  "title_en": "Inimgeeniuuringute seadus",
+  "short_name": "IGUS",
+  "status": "in_force",
+  "issued_date": "2000-12-13",
+  "in_force_date": "2019-03-15",
+  "url": "https://www.riigiteataja.ee/akt/113032019064.xml",
+  "description": "Official consolidated statute text (Inimgeeniuuringute seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse eesmärk ja reguleerimisala",
+      "content": "(1) Käesoleva seaduse eesmärk on reguleerida geenivaramu loomist ja pidamist ning selleks vajalike geeniuuringute tegemist, kindlustades seejuures geenidoonorluse vabatahtlikkuse ja geenidoonori isiku salastatuse, ning kaitsta inimesi geeniandmete kuritarvitamise ja nende DNA ülesehituse ning sellest johtuvate pärilikkusriskide põhjal diskrimineerimise eest.\n(2) Käesoleva seadusega sätestatakse:\n1) koeproovide, DNA kirjelduste, terviseseisundi kirjelduste ja sugupuude geenivaramus töötlemise tingimused ning andmekoosseis;\n2) geenivaramu geenidoonori, vastutava ja volitatud töötleja ning geeniuurija õigused ja kohustused seoses koeproovide, DNA kirjelduste, terviseseisundi kirjelduste ja sugupuudega;\n3) geenivaramu loomise ja pidamise tingimused;\n4) piirangud geenivaramusse kogutud koeproovide, DNA kirjelduste, terviseseisundi kirjelduste ning sugupuude kasutamisel;\n5) geenivaramuga seotud geeniuuringute tegemise ja haldusjärelevalve organiseerimise tingimused."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Mõisted",
+      "content": "Käesolevas seaduses kasutatakse mõisteid järgmises tähenduses:\n1) DNA – desoksüribonukleiinhappe molekul, millesse on salvestunud inimese pärilikkuse informatsioon;\n2) koeproov – inimeselt geeniuuringuteks võetud rakud, rakkudevaheline aine ja kehavedelikud;\n3) DNA kirjeldus ehk geenikaart – geeniuuringute tulemusena loodud DNA digitaalne mudel, sisaldades inimese genoomis esinevate geenivariantide kogu, mis on sisendiks geenidoonori geneetiliste riskide raportite koostamisele;\n4) geenidoonor – inimene, kes annab käesoleva seaduse alusel oma koeproovi ja kelle kohta koostatakse terviseseisundi kirjeldus ning sugupuu;\n5) terviseseisundi kirjeldus – geeniuuringutes kasutamiseks kogutud andmed, mis kajastavad geenidoonori tervislikku seisundit, põetud haigusi ja nende ravi, eluviisi, elukeskkonda ja pärilikke omadusi;\n6) sugupuu – geenivaramus olev teave geenidoonori ülenejate ja alanejate sugulaste nime, sünniaja ja suguluse kohta;\n7) geeniuuring – DNA, koeproovi teiste koostisosade, terviseseisundi kirjelduste ja sugupuude teaduslik uurimine, kirjeldamine ja nendevaheliste seoste kindlakstegemine eesmärgiga saada andmeid inimese geenide, geeniproduktide ja pärilike omaduste kohta;\n8) geeniuurija – füüsiline või juriidiline isik või riigi- või kohaliku omavalitsuse asutus, kes teostab geeniuuringuid;\n9) geeniandmed – teave, mida saadakse geeniuuringute tulemusena inimese geenide, geeniproduktide või pärilike omaduste kohta, sealhulgas DNA või selle osa kirjeldus;\n10) geenivaramu – koeproovide, DNA kirjelduste, terviseseisundi kirjelduste, sugupuude, geeniandmete ja geenidoonori isiku tuvastamist võimaldavate andmete kogu, mille loob ja mida peab vastutav töötleja;\n11) pseudonüümimine – koeproovi, DNA kirjelduse, terviseseisundi kirjelduse ja sugupuu juures isiku tuvastamist võimaldavate andmete asendamine kordumatu tunnuskoodiga;\n12) depseudonüümimine – koeproovile, DNA kirjeldusele, terviseseisundi kirjeldusele ja sugupuule antud kordumatu tunnuskoodi abil geenidoonori isiku tuvastamine või geenidoonori isikust lähtuvalt tema koeproovi, DNA kirjelduse või terviseseisundi kirjelduse tuvastamine;\n13) geneetiliste riskide raport – terviseseisundi kirjelduse osa, mis on koostatud DNA kirjelduse andmete alusel erinevate haiguste, seisundite ja muude omaduste kohta."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Geenivaramu vastutav töötleja",
+      "content": "(1) Geenivaramu vastutav töötleja on Tartu Ülikool, kelle eesmärk geenivaramu vastutava töötlejana on:\n1) edendada geeniuuringute arengut;\n2) koguda teavet Eesti rahvastiku tervise ja pärilikkuse informatsiooni kohta;\n3) rakendada geeniuuringute tulemused rahva tervise parandamiseks.\n(2) Vastutaval töötlejal on õigus korraldada koeproovide võtmist, koostada terviseseisundi kirjeldusi ja sugupuusid, neid pseudonüümida, depseudonüümida, säilitada, hävitada ja väljastada, teha geeniuuringuid ning koguda, säilitada, hävitada ja väljastada geeniandmeid.\n(3) Vastutav töötleja võib käesolevas seaduses sätestatud juhtudel ja tingimustel anda töötlemise õiguse, välja arvatud õiguse pseudonüümida ja depseudonüümida, lepingu alusel üle volitatud töötlejale."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Geenivaramu volitatud töötleja",
+      "content": "Geenivaramu volitatud töötleja on füüsiline või juriidiline isik või Eesti riigi- või kohaliku omavalitsuse asutus, kes võib saada vastutavalt töötlejalt lepingu alusel kõik töötlemise õigused peale pseudonüümimise ja depseudonüümimise õiguse. Volitatud töötlejale esitatavad nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Geeniuuringud ja geenitestid",
+      "content": "(1) Geenivaramuga seotud geeniuuringud on lubatud geenide, elukeskkonna ja inimeste eluviisi vaheliste seoste uurimiseks ja kirjeldamiseks, selle põhjal ravimite või ravimeetodite leidmiseks, individuaalsete terviseriskide hindamiseks ning haiguste ennetamiseks.\n(2) Seadusega sätestatud korras ja eesmärgil on lubatud läbi viia geeniteste, millele ei laiene käesoleva seaduse 2., 3. ja 4. peatüki sätted. Geenitesti käigus inimeselt võetud koeproovi ja selle uurimise tulemusena saadavaid andmeid ei lisata geenivaramusse."
+    },
+    {
+      "provision_ref": "para6^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6^1",
+      "title": "§ 6^1. Geenivaramus töödeldavad andmed",
+      "content": "(1) Geenivaramus töödeldakse järgmisi andmeid:\n1) isiku üldandmed;\n2) isiku avaldatu alusel andmed ülenevate ja alanevate sugulaste kohta;\n3) isiku terviseandmed;\n4) isiku tervisekäitumise ja isikuomaduste andmed;\n5) koeproovi analüüsi tulemused.\n(2) Geenivaramus töödeldavate andmete täpsema koosseisu kehtestab geenivaramu vastutav töötleja."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "7",
+      "title": "§ 7. Isikuandmete töötlemist reguleerivate sätete kohaldamine",
+      "content": "(1)\n(2) Pseudonüümitud koeproovide, pseudonüümitud DNA kirjelduste ja pseudonüümitud terviseseisundi kirjelduste töötlemise suhtes ei kohaldata isikuandmete töötlemist reguleerivaid sätteid juhul, kui koeproove, DNA kirjeldusi või terviseseisundi kirjeldusi töödeldakse hulgana ja tingimusel, et töödeldavaid proove või kirjeldusi on üheaegselt vähemalt viie geenidoonori kohta."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - GEENIDOONORI ÕIGUSED",
+      "section": "8",
+      "title": "§ 8. Geenidoonorluse salastatus",
+      "content": "(1) Geenidoonori isik peab pärast pseudonüümimist jääma salastatuks.\n(2) Geenidoonoril on õigus lubada oma isiku avalikustamist.\n(3) Geenidoonoriks olemise või mitteolemise fakt peab jääma salastatuks. Ainult isikul endal on õigus avaldada geenidoonoriks olemise või mitteolemise fakti ja asjaolusid, kui seaduses ei ole ette nähtud teisiti.\n(4) Pseudonüümimine ja depseudonüümimine peab toimuma kooskõlas käesoleva seaduse nõuetega."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - GEENIDOONORI ÕIGUSED",
+      "section": "9",
+      "title": "§ 9. Geenidoonorluse vabatahtlikkus",
+      "content": "(1) Koeproovi võtmine, terviseseisundi kirjelduse ja sugupuu koostamine on ilma isiku teadliku ja vabatahtlikult antud nõusolekuta keelatud.\n(2) Isiku geenidoonoriks hakkamise otsuse mõjutamine, sealhulgas ähvardades negatiivse tagajärjega, lubades ainelisi hüvesid või andes hinnangulist teavet, on keelatud.\n(3) Vastutaval töötlejal ja volitatud töötlejal on lubatud geenivaramu ja geeniuuringute kohta levitada üksnes üldise iseloomuga teavet."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - GEENIDOONORI ÕIGUSED",
+      "section": "10",
+      "title": "§ 10. Õigus taotleda materjali hävitamist",
+      "content": "(1) Geenidoonoril on igal ajal õigus taotleda vastutavalt töötlejalt depseudonüümimist võimaldavate andmete hävitamist vastavalt käesoleva seaduse § 21 sätetele.\n(2) Kui geenidoonori isik on avalikustatud õigusvastaselt, on geenidoonoril õigus taotleda vastutavalt töötlejalt koeproovi, DNA kirjelduse ja terviseseisundi kirjelduse hävitamist vastavalt käesoleva seaduse § 21 sätetele."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - GEENIDOONORI ÕIGUSED",
+      "section": "11",
+      "title": "§ 11. Geenidoonori muud õigused",
+      "content": "(1) Geenidoonoril on õigus mitte teada enda geeniandmeid.\n(2) Geenidoonoril on õigus isiklikult tutvuda tema kohta geenivaramus hoitavate andmetega. Geenidoonoril ei ole õigust tutvuda enda sugupuuga.\n(3) Geenidoonorilt ei või nõuda tasu tema kohta geenivaramus hoitavate andmetega tutvumise ja talle andmete väljastamise eest.\n(4) Geenidoonoril on õigus nõustamisele tema kohta geenivaramus hoitavate andmetega tutvumisel.\n(5) Geenidoonoril on õigus esitada vastutavale töötlejale enda kohta täiendavaid andmeid.\n(6) Geenidoonoril on õigus keelata tema kohta geenivaramus hoitava terviseseisundi kirjelduse täiendamine, uuendamine ja kontrollimine."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - GEENIDOONORI ÕIGUSED",
+      "section": "12",
+      "title": "§ 12. Geenidoonoriks saamise nõusolek",
+      "content": "(1) Isiku nõusolek võtta temalt koeproov, koostada tema terviseseisundi kirjeldus ja sugupuu, kanda need pseudonüümituna geenivaramusse ning kasutada neid geeniuuringuteks, individuaalsete terviseriskide hindamiseks ja haiguste ennetamiseks, rahva tervise uurimiseks ja statistilistel eesmärkidel, vormistatakse kirjalikult ning sellele kirjutab alla geenidoonoriks saav isik.\n(2) Osaliselt või tingimuslikult antud nõusolek ei ole kehtiv.\n(3)\n(4) Vastutav töötleja või volitatud töötleja peab enne isiku poolt nõusoleku andmist teavitama teda järgmistest asjaoludest:\n1) käesoleva paragrahvi lõikes 1 nimetatud nõusoleku andmine on vabatahtlik;\n2) geenidoonoril ei ole õigust nõuda koeproovi võtmise, terviseseisundi kirjelduse või sugupuu koostamise, uurimise ja uurimistulemuste kasutamise eest tasu;\n3) geeniuuringute tulemusena saadud andmed pärilike omaduste ja pärilikkusriskide kohta võivad olla geenidoonorile ebameeldivad;\n4) geenidoonoril on õigus mitte teada oma geeniandmeid;\n5) geenidoonoril on õigus teada oma geeniandmeid, välja arvatud sugupuud;\n6) geenidoonoril on õigus taotleda vastutavalt töötlejalt depseudonüümimist võimaldavate andmete hävitamist või tema isiku õigusvastasel avalikustamisel koeproovi, DNA kirjelduse ja terviseseisundi kirjelduse hävitamist;\n7) geenidoonoril on õigus enda nõusolek igal ajal tagasi võtta. Nõusoleku tagasivõtmisel ei ole tagasiulatuvat jõudu.\n(5) Vastutav töötleja või volitatud töötleja, kellele geenidoonoriks saav isik annab oma nõusoleku, on kohustatud viivitamatult andma geenidoonorile tema nõusoleku koopia.\n(6) Geenidoonori nõusolekut hoiab vastutav töötleja alal sama kaua kui koeproovi, terviseseisundi kirjeldust või DNA kirjeldust, välja arvatud käesoleva seaduse § 10 lõikes 1 sätestatud juhul.\n(7) Geenidoonoriks saamise nõusoleku vormi, selle täitmise ja säilitamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - GEENIDOONORI ÕIGUSED",
+      "section": "13",
+      "title": "§ 13. Piiratud teovõimega ja otsusevõimetu isik",
+      "content": "(1) Piiratud teovõimega isiku geenidoonoriks saamise nõusolek loetakse kehtivaks, kui on täidetud järgmised tingimused:\n1) piiratud teovõimega isikule ja tema seaduslikule esindajale või eestkostjale on antud käesoleva seaduse § 12 lõikes 4 sätestatud teavet;\n2) seaduslik esindaja või eestkostja on väljendanud käesoleva seaduse § 12 lõikes 1 sätestatud nõusolekut;\n3) piiratud teovõimega isik ei ole vastu temalt koeproovi võtmisele ja terviseseisundi kirjelduste kogumisele.\n(2) Geenidoonoriks ei saa olla isik, kes ei ole võimeline nõusoleku sisust ja tähendusest aru saama. Kahtluse korral eeldatakse isiku ajutist võimetust aru saada nõusoleku sisust ja tähendusest."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - GEENIVARAMU TÖÖTLEMINE",
+      "section": "14",
+      "title": "§ 14. Koeproovi võtmine ja terviseseisundi kirjelduse koostamine",
+      "content": "(1) Koeproovi võtmise ja terviseseisundi kirjelduse koostamise korraldab vastutav töötleja ise või volitatud töötleja kaudu.\n(2) Koeproovi võtmine on meditsiiniline protseduur, mida tohib läbi viia Eesti Vabariigi tervishoiuteenuse osutaja tervishoiuteenuste korraldamise seaduses sätestatud tingimustel ja korras.\n(3) Terviseseisundi kirjelduse koostab ja seda täiendab vastutav töötleja või volitatud töötleja geenidoonori ütluste ning geenidoonori kohta raviasutustes hoitavate andmete põhjal. Geenidoonorilt võib koguda andmeid vaid tema enda põetud haiguste kohta. Geenidoonorile võib esitada küsimusi tema suguvõsas ilmnenud harjumuste või haiguste kohta. Nimetatud küsimustega ei tohi olla võimalik tuvastada konkreetset isikut või põlvkonda.\n(4) Sugupuu võib vastutav töötleja või volitatud töötleja koostada geenidoonori küsitlemise, teiste andmekogude ning geeniuuringute põhjal.\n(5) Koeproovi võtja ja terviseseisundi kirjelduse koostaja peab hoidma geenidoonori isiku, tema koeproovi, terviseseisundi kirjelduse ja sugupuu salastatust ning edastama geenidoonori isikuandmed, koeproovi, terviseseisundi kirjelduse ja sugupuu võimalikult kiiresti vastutavale töötlejale või vastutava töötleja poolt määratud volitatud töötlejale."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - GEENIVARAMU TÖÖTLEMINE",
+      "section": "15",
+      "title": "§ 15. Koeproovi omandiõigus ning terviseseisundi kirjelduse ja sugupuu ning nendega seotud isikuandmete kasutamise õigus",
+      "content": "(1) Vastutaval töötlejal tekib omandiõigus koeproovile selle võtmise hetkel. Terviseseisundi kirjelduse, sugupuu ja geenidoonori kirjaliku nõusoleku kasutamise õigus ning nendes sisalduvate isikuandmete töötlemise õigus tekib vastutaval töötlejal nende koostamise hetkel.\n(2) Vastutava töötleja omandis olev koeproov ei ole võõrandatav. Vastutava töötleja tegevuse lõpetamisel läheb vastutava töötleja omandis oleva koeproovi omandiõigus, terviseseisundi kirjelduse, sugupuu ja geenidoonori kirjaliku nõusoleku ning nendega seotud isikuandmete töötlemise õigus üle Eesti Vabariigile.\n(3) Geenivaramu vastutav töötleja teavitab enne käesoleva paragrahvi lõikes 2 nimetatud õiguste üleminekut geenidoonorit uuest vastutavast töötlejast, kasutades selleks kas geenidoonori kontaktandmeid või muid kanaleid nagu üleriigilise levikuga ajaleht või ametlik väljaanne Ametlikud Teadaanded.\n(4) Geenidoonoril ei ole õigust nõuda koeproovi võtmise, terviseseisundi kirjelduse või sugupuu koostamise, uurimise ja uurimistulemuste kasutamise eest tasu."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - GEENIVARAMU TÖÖTLEMINE",
+      "section": "16",
+      "title": "§ 16. Geenivaramu kasutamise lubatavus",
+      "content": "(1) Geenivaramut võib kasutada üksnes teaduslikuks uurimistööks, geenidoonori haiguste uurimiseks ja raviks, rahva tervise uurimiseks ja statistilistel eesmärkidel. Geenivaramu kasutamine muul otstarbel, eriti tsiviil- või kriminaalprotsessis tõendite kogumiseks või jälitustegevuseks, on keelatud.\n(1^1) Käesoleva paragrahvi lõikes 1 nimetatud eesmärgid ei piira geenidoonori poolt andmete kasutamist tema nõusolekul muudel eesmärkidel.\n(2) Geenidoonori arstil on geenidoonori ravimiseks õigus saada geenivaramust depseudonüümitult geenidoonori terviseseisundi kirjeldus vastavalt käesoleva seaduse § 24 lõike 2 punktile 7."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - GEENIVARAMU TÖÖTLEMINE",
+      "section": "17",
+      "title": "§ 17. Sugupuu kasutamise lubatavus",
+      "content": "(1) Sugupuud võib kasutada ainult geenivaramusiseselt koeproovide, DNA kirjelduste ja terviseseisundi kirjelduste struktureerimiseks sugulusseoste põhjal.\n(2) Vastutav töötleja võib geeniuurijale väljastada pseudonüümitud koeproovide, pseudonüümitud DNA kirjelduste ja pseudonüümitud terviseseisundi kirjelduste vahelise seose suguluse põhjal, järgides käesoleva seaduse § 22 lõike 4 nõudeid."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - GEENIVARAMU TÖÖTLEMINE",
+      "section": "18",
+      "title": "§ 18. Koeproovide, DNA kirjelduste ja terviseseisundi kirjelduste säilitamine",
+      "content": "(1) Koeproove, DNA kirjeldusi ja terviseseisundi kirjeldusi säilitatakse pseudonüümituna või pseudonüümimata kujul tähtajatult, kui need ei kuulu hävitamisele käesoleva seaduse § 21 lõikes 1 või 2 sätestatud juhul.\n(2) Pseudonüümitud koeproove, pseudonüümitud DNA kirjeldusi ja pseudonüümitud terviseseisundi kirjeldusi võib säilitada ka geeniuurija, kellel on olemas selleks vajalikud vahendid ja tingimused. Säilitamise tingimused kehtestab valdkonna eest vastutav minister määrusega.\n(3) Säilitamiseks sõlmib vastutav töötleja volitatud töötleja või geeniuurijaga lepingu, milles peavad olema kokku lepitud järgmised tingimused:\n1) säilitamiseks antavad koeproovid, DNA kirjeldused ja terviseseisundi kirjeldused;\n2) volitatud töötlejale või geeniuurijale koeproovi, DNA kirjelduse ja terviseseisundi kirjelduse üleandmise aeg ja täiendamise viis;\n3) säilitamise koht ja tähtaeg;\n4) säilitamise viis;\n5) säilitaja poolt rakendatavad turvameetmed;\n6) koeproovide, DNA kirjelduste või terviseseisundi kirjelduste paljundamise, jagamise, hävitamise, väljastamise ja vastutavale töötlejale või volitatud töötlejale tagastamise kord;\n7) volitatud töötleja või geeniuurija vastutus.\n(4) Koeproove säilitatakse Eesti Vabariigi territooriumil. Tartu Ülikooli senat võib kaalukate põhjuste ilmnemisel anda loa koeproovi säilitamiseks ja uurimiseks väljaspool Eesti Vabariigi territooriumi juhul, kui koeproov väljastatakse isikustamata kujul ning vastutav töötleja tagab tõhusa kontrolli koeproovi kasutuse üle olukorras, mis on õigusaktidega keelatud.\n(5) Selleks, et võimaldada tõhusalt kontrollida koeproovide kasutamist väljaspool Eesti Vabariigi territooriumi, on vastutav töötleja kohustatud teatama iga kalendriaasta jaanuarikuus Sotsiaalministeeriumile eelmise kalendriaasta kohta järgmise teabe:\n1) vastutavale töötlejale teatavaks saanud juhtumid, kui väljaspool Eestit säilitatud koeproove on kasutatud Eesti seaduses keelatud viisil, ning juhtumitega seotud rikkumiste korral vastutava töötleja ette võetud ja kavandatav tegevus;\n2) väljaspool Eestit säilitatud koeproovide arv, sihtkoht ja säilitamise põhjused;\n3) sõlmitud kokkulepped koeproovide säilitamiseks väljaspool Eestit, sealhulgas kokkulepped, millest tulenevalt võib tekkida vajadus säilitada koeproove väljaspool Eestit."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - GEENIVARAMU TÖÖTLEMINE",
+      "section": "19",
+      "title": "§ 19. Geeniuuringu tulemustega seotud õigused",
+      "content": "(1) DNA või DNA osa kirjeldus tuleb volitatud töötlejal või geeniuurijal tingimusteta üle anda vastutavale töötlejale. Vastutav töötleja võib anda volitatud töötlejale või geeniuurijale DNA või DNA osa kirjelduse kasutamise õiguse tasu eest. Geeniuurijale, kes on Eesti Vabariigi avalik-õiguslik juriidiline isik või riigiasutus, annab vastutav töötleja õiguse kasutada DNA või DNA osa kirjeldust tasu eest, mis katab väljastusega seotud kulutused.\n(2) Käesoleva paragrahvi lõikes 1 nimetamata geeniuuringute tulemused ja nendega seotud intellektuaalse omandi õigused sätestatakse seaduses."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - GEENIVARAMU TÖÖTLEMINE",
+      "section": "20",
+      "title": "§ 20. Koeproovi, DNA kirjelduse ja terviseseisundi kirjelduse väljastamine ning väljastamisprotokoll",
+      "content": "(1) Geenivaramust väljastab vastutav töötleja koeproove, DNA kirjeldusi ja terviseseisundi kirjeldusi ainult pseudonüümituna, välja arvatud geenidoonorile või geenidoonori arstile geenidoonori kohta käivate andmete väljastamisel käesoleva seaduse § 11 lõikes 2 ja § 16 lõikes 2 sätestatud juhtudel.\n(2) Koeproovi, DNA kirjelduse või terviseseisundi kirjelduse väljastamisel koostab väljastaja väljastamisprotokolli, kuhu märgitakse väljastatud ja vastuvõetud koeproovid, DNA kirjeldused ja terviseseisundi kirjeldused ning üleandmise viis ja kuupäev. Väljastamisprotokollile kirjutavad alla väljastaja ja vastuvõtja esindajad.\n(3) Kui väljastajaks on volitatud töötleja, edastab väljastaja väljastamisprotokolli koopia viivitamatult vastutavale töötlejale.\n(4) Koeproovi, DNA kirjelduse ja terviseseisundi kirjelduse väljastamise korra, sealhulgas väljastamisprotokolli vormi, selle täitmise ja säilitamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - GEENIVARAMU TÖÖTLEMINE",
+      "section": "21",
+      "title": "§ 21. Depseudonüümimist võimaldavate andmete, koeproovi, DNA kirjelduse ja terviseseisundi kirjelduse hävitamine ning hävitamisprotokoll",
+      "content": "(1) Kui geenidoonor taotleb vastutavalt töötlejalt depseudonüümimist võimaldavate andmete hävitamist, on vastutav töötleja kohustatud hävitama depseudonüümimist võimaldavad andmed kahe nädala jooksul geenidoonorilt vastava kirjaliku taotluse saamisest.\n(2) Kui geenidoonor taotleb vastutavalt töötlejalt koeproovi, DNA kirjelduse ja terviseseisundi kirjelduse hävitamist tema isiku salastatuse õigusvastase avalikustamise tõttu, on vastutav töötleja kohustatud korraldama koeproovi, DNA kirjelduse ja terviseseisundi kirjelduse hävitamise ühe kuu jooksul geenidoonori poolt vastava kirjaliku taotluse saamisest, kui ta ei tõenda, et geenidoonori isiku salastatus on avalikustatud geenidoonori enda käitumise tulemusena.\n(3) Vastutav töötleja võib lähtuda koeproovide, DNA kirjelduste ja terviseseisundi kirjelduste hävitamise korraldamisel käesoleva seaduse § 20 alusel koostatud väljastamisprotokollidest, andes hävitamise korralduse väljastamisprotokollis nimetatud vastuvõtjale.\n(4) Kõik isikud, kelle valduses on konkreetne koeproov, DNA kirjeldus või terviseseisundi kirjeldus, on vastutava töötleja korraldusel kohustatud oma kulul viivitamatult hävitama konkreetse koeproovi, DNA kirjelduse või terviseseisundi kirjelduse.\n(5) Depseudonüümimist võimaldavate andmete, koeproovi, DNA kirjelduse või terviseseisundi kirjelduse hävitamisel koostab hävitaja hävitamisprotokolli, kuhu märgitakse hävitatud objekt, hävitamise viis, koht ja kuupäev. Kui hävitajaks ei ole vastutav töötleja, edastab hävitaja hävitamisprotokolli koopia viivitamatult vastutavale töötlejale.\n(6) Depseudonüümimist võimaldavate andmete, koeproovi, DNA kirjelduse ja terviseseisundi kirjelduse hävitamise korra, sealhulgas hävitamisprotokolli vormi, selle täitmise ja säilitamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - ANDMEKAITSE",
+      "section": "22",
+      "title": "§ 22. Andmekaitse üldnõuded",
+      "content": "(1) Geenivaramu andmete töötlemine peab vastama andmekaitse kõrgeimale standardile.\n(2)\n(3) Vastutav töötleja määrab nimeliselt isikud, kes teostavad pseudonüümimist või depseudonüümimist, kellel on juurdepääs geenidoonorite nõusolekutele, koeproovide ja DNA kirjelduste kogule, terviseseisundi kirjeldustele ja sugupuudele ning kes väljastavad pseudonüümitud või pseudonüümimata koeproove, DNA kirjeldusi või terviseseisundi kirjeldusi.\n(4) Vastutav töötleja võib geenivaramust väljastada koeproove, DNA kirjeldusi või terviseseisundi kirjeldusi ainult pseudonüümituna, hulgana ja tingimusel, et väljastatavaid proove või andmeid on üheaegselt vähemalt viie geenidoonori kohta. Erandiks on käesoleva seaduse § 11 lõikes 2 ja § 16 lõikes 2 sätestatud juhud.\n(5) Geenivaramusse kantavate andmete tõesuse kontrolliks enne nende pseudonüümimist on vastutaval töötlejal ja volitatud töötlejal lubatud nende andmete võrdlemine teistes andmekogudes säilitatavate andmetega ja vajaduse korral andmete parandamine."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - ANDMEKAITSE",
+      "section": "23",
+      "title": "§ 23. Pseudonüümimine",
+      "content": "(1) Vastutav töötleja annab koeproovile, DNA kirjeldusele, terviseseisundi kirjeldusele ning sugupuule viivitamatult pärast koeproovi, DNA kirjelduse, terviseseisundi kirjelduse ning sugupuu vastuvõtmist geenivaramusse kordumatu, vähemalt 16-kohalise juhuslikest numbri- või tähemärkidest koosneva koodi. Koodi genereerimise meetodi kooskõlastab vastutav töötleja andmekaitse järelevalveasutusega.\n(2) Vastutav töötleja asendab koodiga koeproovi, DNA kirjelduse ja terviseseisundi kirjelduse juures kõik andmed, mis võimaldavad geenidoonori isikut tuvastada, sealhulgas nime, isikukoodi, sünniaja ja elukoha.\n(3) Koeproovile, DNA kirjeldusele, terviseseisundi kirjeldusele ja sugupuule antud koodi märgib vastutav töötleja ka geenidoonori kirjalikule nõusolekule. Koodiga märgitud kirjalikku nõusolekut hoiab vastutav töötleja geenivaramu andmekogus ning see peab olema depseudonüümimise ainus võimalik võti.\n(4) Vastutav töötleja võib suurema turvalisuse huvides anda pseudonüümitud koeproovile, pseudonüümitud DNA kirjeldusele, pseudonüümitud terviseseisundi kirjeldusele ja pseudonüümitud sugupuule täiendava koodi, millega asendatakse koeproovi, DNA kirjelduse, terviseseisundi kirjelduse ja sugupuu juures esialgne kood. Esialgse koodi ja täiendava koodi seosed salvestab vastutav töötleja eraldi ainult sellel otstarbel kasutatavas andmekogus.\n(5) Vastutav töötleja, volitatud töötleja ja geeniuurija on kohustatud tähistama koeproovi, DNA kirjelduse, terviseseisundi kirjeldust ja sugupuu ainult vastutava töötleja poolt sellele koeproovile, DNA kirjeldusele, terviseseisundi kirjeldusele ja sugupuule antud koodiga."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - ANDMEKAITSE",
+      "section": "24",
+      "title": "§ 24. Depseudonüümimine",
+      "content": "(1) Juurdepääs koodiga märgitud kirjalikule nõusolekule ning tehniline võimalus depseudonüümimiseks tohib olla ainult käesoleva seaduse § 22 lõike 3 alusel määratud isikutel.\n(2) Depseudonüümimine on vastutaval töötlejal lubatud ainult järgmistel juhtudel ja otstarbel:\n1) koeproovi, DNA kirjelduse või terviseseisundi kirjelduse või depseudonüümimist võimaldavate andmete hävitamiseks;\n2) geenidoonori kohta geenivaramus hoitavate andmetega, välja arvatud sugupuuga tutvumise võimaldamiseks, kui geenidoonor seda kirjalikult taotleb;\n3) terviseseisundi kirjelduse uuendamiseks, täiendamiseks või kontrollimiseks ilma geenidoonoriga ühendust võtmata, kui geenidoonor ei ole keelanud tema terviseseisundi kirjelduse täiendamist, uuendamist või kontrollimist;\n4) vastutava töötleja ettepanekul ja eetikakomitee nõusolekul geenidoonori tuvastamiseks, temaga ühenduse võtmiseks ning tema kirjalikul nõusolekul terviseseisundi kirjelduse uuendamiseks, täiendamiseks või kontrollimiseks;\n5) geenidoonori tuvastamiseks ja tema kirjalikul nõusolekul uue DNA proovi võtmiseks, kui koeproov on hävinud või ei sisalda piisaval hulgal DNA-d;\n6) geenidoonori tuvastamiseks geenivaramusiseselt ning tema sugupuusse täienduse või muudatuse tegemiseks, kui DNA uurimise tulemused on vastuolus seni teada oleva sugupuuga või annavad selle kohta uut teavet;\n7) geenidoonori terviseseisundi kirjelduse väljastamiseks geenidoonori nõusolekul geenidoonori arstile, kui geenidoonori arst seda taotleb. Kui geenidoonor ei ole võimeline nõusolekut andma ning tal puudub seaduslik esindaja või eestkostja või tema seaduslik esindaja või eestkostja ei ole kättesaadav, siis edasilükkamatul juhul ilma geenidoonori nõusolekuta, kuid tema huvides ja vastavalt tema eeldatavale tahtele."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "5. peatükk - DISKRIMINEERIMISE KEELD",
+      "section": "25",
+      "title": "§ 25. Diskrimineerimise keeld",
+      "content": "(1) Inimese õiguste ja võimaluste piiramine või eeliste andmine lähtuvalt tema DNA ülesehitusest ja sellest johtuvatest pärilikkusriskidest on keelatud.\n(2) Inimese diskrimineerimine geenidoonoriks olemise või mitteolemise fakti põhjal on keelatud."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "5. peatükk - DISKRIMINEERIMISE KEELD",
+      "section": "26",
+      "title": "§ 26. Diskrimineerimine töösuhetes",
+      "content": "(1) Tööandjal on keelatud koguda geneetilisi isikuandmeid töötaja või töökoha taotleja kohta ning nõuda töötajalt või töökoha taotlejalt koeproovi või DNA kirjelduse andmist.\n(2) Tööandjal on keelatud seada erineva pärilikkusriskiga inimestele diskrimineerivaid töö- ja palgatingimusi."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "5. peatükk - DISKRIMINEERIMISE KEELD",
+      "section": "27",
+      "title": "§ 27. Diskrimineerimine kindlustussuhetes",
+      "content": "(1) Kindlustusandjal on keelatud koguda geneetilisi isikuandmeid kindlustatu või kindlustuse taotleja kohta ning nõuda kindlustatult või kindlustuse taotlejalt koeproovi või DNA kirjelduse andmist.\n(2) Kindlustusandjal on keelatud seada erineva pärilikkusriskiga inimestele erinevaid kindlustustingimusi, sealhulgas kehtestada soodustariife või määratleda kindlustusjuhtumit kitsendavalt."
+    },
+    {
+      "provision_ref": "para27^1",
+      "chapter": "5. peatükk - GEENIVARAMU VASTUTAVA TÖÖTLEJA RAHASTAMINE",
+      "section": "27^1",
+      "title": "§ 27^1. Geenivaramu vastutava töötleja rahastamine",
+      "content": "(1) Geenivaramu vastutava töötleja tegevust geenivaramu pidamisel ja säilitamisel rahastatakse riigieelarvest Sotsiaalministeeriumi kaudu.\n(2) Geenivaramu vastutava töötleja tegevust koeproovide võtmisel, terviseseisundi kirjelduste ja sugupuude koostamisel, nende pseudonüümimisel ja depseudonüümimisel ning geeniuuringute tegemisel rahastatakse riigieelarvest vastavalt riigieelarves sätestatud mahule ja muudest vahenditest.\n(3) Terviseandmete ja koeproovide väljastamisega seotud otsesed kulud katab geeniuurija."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "6. peatükk - HALDUSJÄRELEVALVE JA KAEBUSTE LAHENDAMINE",
+      "section": "28",
+      "title": "§ 28. Andmekaitse järelevalveasutus",
+      "content": "Terviseseisundi kirjelduste ja sugupuuandmete kogumise, koeproovide, DNA kirjelduste, terviseseisundi kirjelduste ning sugupuuandmete pseudonüümimise, depseudonüümimise ning koeproovide, DNA kirjelduste, terviseseisundi kirjelduste ja sugupuuandmete töötlemise üle teostab haldusjärelevalvet andmekaitse järelevalveasutus."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "6. peatükk - HALDUSJÄRELEVALVE JA KAEBUSTE LAHENDAMINE",
+      "section": "29",
+      "title": "§ 29. Uuringueetika komitee",
+      "content": "(1) Geenivaramu töötlemisele annab hinnangu sõltumatu teadlastest ja eri elualade esindajatest koosnev uuringueetika komitee.\n(2) Uuringueetika komitee töö eesmärk on isikute põhiõiguste ennetava kaitse tagamine, uuringutele rakendatavate hindamispõhimõtete ühtlustamine, et kindlustada õiguste kaitsemeetmed ja uurijate kohustused neid kaitsemeetmeid järgida.\n(3) Uuringueetika komitee lähtub oma tegevuses valdkonnale kehtestatud eetikanormidest ja rahvusvahelistest konventsioonidest, samuti Euroopa Parlamendi ja nõukogu määrusest (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus) (ELT L 119, 04.05.2016, lk 1–88) ja eriseadustes sätestatud põhimõtetest.\n(4) Uuringueetika komitee hindab uuringu vastavust isikuandmete kaitse seaduse §-s 6 toodud tingimustele, eetiliste riskide suurust ning uuringu läbiviija tausta, leides tasakaalu põhiõiguste kaitse ja uuringu otstarbekuse vahel.\n(5) Uuringueetika komitee moodustab, selle töökorra, liikmete arvu ja määramise korra ning uuringu läbivaatamise tasumäärad kinnitab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "6. peatükk - HALDUSJÄRELEVALVE JA KAEBUSTE LAHENDAMINE",
+      "section": "30",
+      "title": "§ 30. Töö- ja kindlustussuhetest tekkinud kaebuste lahendamine",
+      "content": "(1) Kaebusi töösuhetes pärilikkusriskide tõttu ilmnenud diskrimineerimise kohta lahendab Tööinspektsioon, kasutades asja uurimisel ja otsustamisel vajaduse korral vastutava töötleja või andmekaitse järelevalveasutuse ekspertide abi.\n(2)"
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "31",
+      "title": "§ 31.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "33",
+      "title": "§ 33.",
+      "content": "[Käesolevast tekstist välja jäetud]"
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "35",
+      "title": "§ 35. Koeproovi, terviseseisundi kirjelduse ja sugupuu omandiõiguse üleminek Tartu Ülikoolile",
+      "content": "(1) Koeproovi, terviseseisundi kirjelduse ja teiste isikuandmete ning sugupuu omandiõigus, mis on tekkinud geenivaramu vastutaval töötlejal sihtasutusel Eesti Geenivaramu, läheb alates 2007. aasta 1. aprillist üle Tartu Ülikoolile.\n(2) Isikul, kes on andnud käesoleva seaduse § 12 alusel sihtasutusele Eesti Geenivaramu nõusoleku geenidoonoriks saamiseks, on õigus kuni 2008. aasta 1. juulini nõuda Tartu Ülikoolilt kui geenivaramu vastutavalt töötlejalt koeproovi, DNA kirjelduse ja terviseseisundi kirjelduse hävitamist vastavalt §-s 21 sätestatud korrale."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "DNA",
+      "definition": "desoksüribonukleiinhappe molekul, millesse on salvestunud inimese pärilikkuse informatsioon",
+      "source_provision": "para2"
+    },
+    {
+      "term": "koeproov",
+      "definition": "inimeselt geeniuuringuteks võetud rakud, rakkudevaheline aine ja kehavedelikud",
+      "source_provision": "para2"
+    },
+    {
+      "term": "DNA kirjeldus ehk geenikaart",
+      "definition": "geeniuuringute tulemusena loodud DNA digitaalne mudel, sisaldades inimese genoomis esinevate geenivariantide kogu, mis on sisendiks geenidoonori geneetiliste riskide raportite koostamisele",
+      "source_provision": "para2"
+    },
+    {
+      "term": "geenidoonor",
+      "definition": "inimene, kes annab käesoleva seaduse alusel oma koeproovi ja kelle kohta koostatakse terviseseisundi kirjeldus ning sugupuu",
+      "source_provision": "para2"
+    },
+    {
+      "term": "terviseseisundi kirjeldus",
+      "definition": "geeniuuringutes kasutamiseks kogutud andmed, mis kajastavad geenidoonori tervislikku seisundit, põetud haigusi ja nende ravi, eluviisi, elukeskkonda ja pärilikke omadusi",
+      "source_provision": "para2"
+    },
+    {
+      "term": "sugupuu",
+      "definition": "geenivaramus olev teave geenidoonori ülenejate ja alanejate sugulaste nime, sünniaja ja suguluse kohta",
+      "source_provision": "para2"
+    },
+    {
+      "term": "geeniuuring",
+      "definition": "DNA, koeproovi teiste koostisosade, terviseseisundi kirjelduste ja sugupuude teaduslik uurimine, kirjeldamine ja nendevaheliste seoste kindlakstegemine eesmärgiga saada andmeid inimese geenide, geeniproduktide ja pärilike omaduste kohta",
+      "source_provision": "para2"
+    },
+    {
+      "term": "geeniuurija",
+      "definition": "füüsiline või juriidiline isik või riigi- või kohaliku omavalitsuse asutus, kes teostab geeniuuringuid",
+      "source_provision": "para2"
+    },
+    {
+      "term": "geeniandmed",
+      "definition": "teave, mida saadakse geeniuuringute tulemusena inimese geenide, geeniproduktide või pärilike omaduste kohta, sealhulgas DNA või selle osa kirjeldus",
+      "source_provision": "para2"
+    },
+    {
+      "term": "geenivaramu",
+      "definition": "koeproovide, DNA kirjelduste, terviseseisundi kirjelduste, sugupuude, geeniandmete ja geenidoonori isiku tuvastamist võimaldavate andmete kogu, mille loob ja mida peab vastutav töötleja",
+      "source_provision": "para2"
+    },
+    {
+      "term": "pseudonüümimine",
+      "definition": "koeproovi, DNA kirjelduse, terviseseisundi kirjelduse ja sugupuu juures isiku tuvastamist võimaldavate andmete asendamine kordumatu tunnuskoodiga",
+      "source_provision": "para2"
+    },
+    {
+      "term": "depseudonüümimine",
+      "definition": "koeproovile, DNA kirjeldusele, terviseseisundi kirjeldusele ja sugupuule antud kordumatu tunnuskoodi abil geenidoonori isiku tuvastamine või geenidoonori isikust lähtuvalt tema koeproovi, DNA kirjelduse või terviseseisundi kirjelduse tuvastamine",
+      "source_provision": "para2"
+    },
+    {
+      "term": "geneetiliste riskide raport",
+      "definition": "terviseseisundi kirjelduse osa, mis on koostatud DNA kirjelduse andmete alusel erinevate haiguste, seisundite ja muude omaduste kohta",
+      "source_provision": "para2"
+    }
+  ]
+}

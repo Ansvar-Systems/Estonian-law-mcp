@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-123032015214",
+  "type": "statute",
+  "title": "Masina ohutuse seadus",
+  "title_en": "Masina ohutuse seadus",
+  "short_name": "MOS",
+  "status": "in_force",
+  "issued_date": "2008-12-10",
+  "in_force_date": "2015-07-01",
+  "url": "https://www.riigiteataja.ee/akt/123032015214.xml",
+  "description": "Official consolidated statute text (Masina ohutuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

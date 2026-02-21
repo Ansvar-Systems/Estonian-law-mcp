@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-13227893",
+  "type": "statute",
+  "title": "Teatavate ohtlike kemikaalide ja pestitsiididega rahvusvaheliseks kauplemiseks nõusoleku saamise korda käsitleva Rotterdami konventsiooniga ühinemise seadus",
+  "title_en": "Teatavate ohtlike kemikaalide ja pestitsiididega rahvusvaheliseks kauplemiseks nõusoleku saamise korda käsitleva Rotterdami konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-13227893",
+  "status": "in_force",
+  "issued_date": "2006-02-15",
+  "in_force_date": "2010-01-01",
+  "url": "https://www.riigiteataja.ee/akt/13227893.xml",
+  "description": "Official consolidated statute text (Teatavate ohtlike kemikaalide ja pestitsiididega rahvusvaheliseks kauplemiseks nõusoleku saamise korda käsitleva Rotterdami konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Konventsiooniga ühinemine",
+      "content": "Ühineda teatavate ohtlike kemikaalide ja pestitsiididega rahvusvaheliseks kauplemiseks nõusoleku saamise korda käsitleva Rotterdami konventsiooniga (edaspidi konventsioon ), mis on vastu võetud 1998. aasta 10. septembril Rotterdamis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Asutus",
+      "content": "Pädev riigiasutus konventsiooni artikli 4 lõike 1 tähenduses on Terviseamet."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Deklaratsioon",
+      "content": "Eesti Vabariik deklareerib, et ta tunnustab konventsiooni tõlgendamise või kohaldamisega seotud vaidluse korral artikli 20 lõikes 2 sätestatud mõlemat vaidluse lahendamise meedet kohustuslikuna konventsiooniosalise suhtes, kes võtab endale sama kohustuse."
+    }
+  ],
+  "definitions": []
+}

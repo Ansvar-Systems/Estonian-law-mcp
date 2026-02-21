@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-914821",
+  "type": "statute",
+  "title": "Kirde-Atlandi tulevase mitmepoolse kalanduskoostöö konventsiooni denonsseerimise seadus",
+  "title_en": "Kirde-Atlandi tulevase mitmepoolse kalanduskoostöö konventsiooni denonsseerimise seadus",
+  "short_name": "ee-law-914821",
+  "status": "in_force",
+  "issued_date": "2005-06-08",
+  "in_force_date": "2005-07-01",
+  "url": "https://www.riigiteataja.ee/akt/914821.xml",
+  "description": "Official consolidated statute text (Kirde-Atlandi tulevase mitmepoolse kalanduskoostöö konventsiooni denonsseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Denonsseerida Kirde-Atlandi tulevase mitmepoolse kalanduskoostöö konventsioon, millega Eesti Vabariik ühines 2003. aasta 14. mail (RT II 2003, 13, 50)."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Käesolev seadus jõustub Riigi Teatajas avaldamisele järgneval päeval. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

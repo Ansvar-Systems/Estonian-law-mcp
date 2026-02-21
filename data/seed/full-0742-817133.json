@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-817133",
+  "type": "statute",
+  "title": "Konventsiooni kalapüügist ja elusressursside säilitamisest Läänemeres ja Beltides (Taani väinades) denonsseerimise seadus",
+  "title_en": "Konventsiooni kalapüügist ja elusressursside säilitamisest Läänemeres ja Beltides (Taani väinades) denonsseerimise seadus",
+  "short_name": "ee-law-817133",
+  "status": "in_force",
+  "issued_date": "2004-10-27",
+  "in_force_date": "2004-11-28",
+  "url": "https://www.riigiteataja.ee/akt/817133.xml",
+  "description": "Official consolidated statute text (Konventsiooni kalapüügist ja elusressursside säilitamisest Läänemeres ja Beltides (Taani väinades) denonsseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Denonsseerida konventsioon « Kalapüügist ja elusressursside säilitamisest Läänemeres ja Beltides (Taani väinades), mille Eesti Vabariik ratifitseeris 1993. aasta 10. veebruaril kalapüüki ja mereuurimist reguleerivate rahvusvaheliste konventsioonide ratifitseerimise seadusega (RT II 1993, 5, 4)."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Käesoleva seaduse §-s 1 nimetatud konventsiooni denonsseerimine jõustub Eesti Vabariigi suhtes depositaarile denonsseerimiskirja laekumise aastale järgneva aasta 31. detsembril vastavalt konventsiooni artiklile 19."
+    }
+  ],
+  "definitions": []
+}

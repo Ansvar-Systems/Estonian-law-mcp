@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-209042014001",
+  "type": "statute",
+  "title": "Maksuasjades vastastikuse haldusabi konventsiooni ratifitseerimise seadus",
+  "title_en": "Maksuasjades vastastikuse haldusabi konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-209042014001",
+  "status": "in_force",
+  "issued_date": "2014-03-26",
+  "in_force_date": "2014-04-19",
+  "url": "https://www.riigiteataja.ee/akt/209042014001.xml",
+  "description": "Official consolidated statute text (Maksuasjades vastastikuse haldusabi konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Konventsiooni ratifitseerimine",
+      "content": "Ratifitseerida juurdelisatud maksuasjades vastastikuse haldusabi konventsioon, mis on koostatud 1988. aasta 25. jaanuaril Strasbourgis, mida on muudetud 2010. aasta 27. mai protokolliga ja millele Eesti Vabariik on alla kirjutanud 2013. aasta 29. mail Pariisis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Deklaratsioonid",
+      "content": "(1) Kooskõlas konventsiooni artikli 2 lõikega 2 deklareerib Eesti Vabariik, et kohaldab konventsiooni järgmistele maksudele:\n1) artikli 2 lõike 1 punkti a alapunkti i kategoorias tulumaks;\n2) artikli 2 lõike 1 punkti b alapunkti ii kategoorias sotsiaalmaks, töötuskindlustusmakse ja kohustusliku kogumispensioni makse;\n3) artikli 2 lõike 1 punkti b alapunkti iii kategoorias B) maamaks, C) käibemaks, D) aktsiisid, E) raskeveokimaks ja G) hasartmängumaks.\n(2) Kooskõlas konventsiooni artikli 3 lõike 1 punktiga d deklareerib Eesti Vabariik, et pädev asutus on Maksu- ja Tolliamet."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Reservatsioon",
+      "content": "Kooskõlas konventsiooni artikli 30 lõike 1 punktiga a reserveerib Eesti Vabariik õiguse keelduda abi osutamisest teiste konventsiooniosaliste artikli 2 lõike 1 punkti b alapunktides i ja iv nimetatud maksude puhul (kohaliku omavalitsuse üksuse või muu haldusüksuse kehtestatud maksud)."
+    }
+  ],
+  "definitions": []
+}

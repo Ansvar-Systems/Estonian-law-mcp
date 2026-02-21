@@ -1,0 +1,39 @@
+{
+  "id": "ee-law-27347",
+  "type": "statute",
+  "title": "Euroopa farmakopöa koostamise konventsiooni ja selle muutmise protokolliga ühinemise seadus",
+  "title_en": "Euroopa farmakopöa koostamise konventsiooni ja selle muutmise protokolliga ühinemise seadus",
+  "short_name": "ee-law-27347",
+  "status": "in_force",
+  "issued_date": "2001-10-24",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/27347.xml",
+  "description": "Official consolidated statute text (Euroopa farmakopöa koostamise konventsiooni ja selle muutmise protokolliga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud Euroopa farmakopöa koostamise konventsiooniga, mis on koostatud 1964. aasta 22. juulil Strasbourgis ning mida on muudetud 1989. aasta 16. novembri protokolliga."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühineda juurdelisatud Euroopa farmakopöa koostamise konventsiooni protokolliga, mis on koostatud 1989. aasta 16. novembril Strasbourgis."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Konventsiooni rakendamisel näha ette siseriiklik üleminekuperiood kuni 2003. aasta 1. jaanuarini."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Vabariigi Valitsus või tema volitusel valdkonna eest vastutav minister kehtestab määrusega konventsiooni rakendamise korra, milles nähakse ette ravimeid tootvate ettevõtete kohustused üleminekuperioodi jooksul ning Ravimiameti kohustused konventsiooni rakendamisel. Riigikogu esimees Toomas SAVI"
+    }
+  ],
+  "definitions": []
+}

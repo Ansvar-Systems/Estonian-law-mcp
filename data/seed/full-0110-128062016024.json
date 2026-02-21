@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-128062016024",
+  "type": "statute",
+  "title": "Eesti Arengufondi seadus",
+  "title_en": "Eesti Arengufondi seadus",
+  "short_name": "EAFS",
+  "status": "in_force",
+  "issued_date": "2006-11-15",
+  "in_force_date": "2017-07-01",
+  "url": "https://www.riigiteataja.ee/akt/128062016024.xml",
+  "description": "Official consolidated statute text (Eesti Arengufondi seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-106122014003",
+  "type": "statute",
+  "title": "Eesti Vabariigi lastekaitse seadus",
+  "title_en": "Eesti Vabariigi lastekaitse seadus",
+  "short_name": "ee-law-106122014003",
+  "status": "in_force",
+  "issued_date": "1992-06-08",
+  "in_force_date": "2016-01-01",
+  "url": "https://www.riigiteataja.ee/akt/106122014003.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi lastekaitse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

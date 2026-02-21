@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-752475",
+  "type": "statute",
+  "title": "Ranna ja kalda kaitse seadus",
+  "title_en": "Ranna ja kalda kaitse seadus",
+  "short_name": "RanKS",
+  "status": "in_force",
+  "issued_date": "1995-02-22",
+  "in_force_date": "2004-05-10",
+  "url": "https://www.riigiteataja.ee/akt/752475.xml",
+  "description": "Official consolidated statute text (Ranna ja kalda kaitse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

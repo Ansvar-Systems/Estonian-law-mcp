@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-112062021017",
+  "type": "statute",
+  "title": "Kohanimeseadus",
+  "title_en": "Kohanimeseadus",
+  "short_name": "ee-law-112062021017",
+  "status": "in_force",
+  "issued_date": "1996-12-11",
+  "in_force_date": "2004-07-01",
+  "url": "https://www.riigiteataja.ee/akt/112062021017.xml",
+  "description": "Official consolidated statute text (Kohanimeseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

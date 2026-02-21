@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-110072013006",
+  "type": "statute",
+  "title": "Muuseumiseadus",
+  "title_en": "Muuseumiseadus",
+  "short_name": "ee-law-110072013006",
+  "status": "in_force",
+  "issued_date": "1996-11-13",
+  "in_force_date": "2013-07-15",
+  "url": "https://www.riigiteataja.ee/akt/110072013006.xml",
+  "description": "Official consolidated statute text (Muuseumiseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

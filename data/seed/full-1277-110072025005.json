@@ -1,0 +1,323 @@
+{
+  "id": "ee-law-110072025005",
+  "type": "statute",
+  "title": "Spordiseadus",
+  "title_en": "Spordiseadus",
+  "short_name": "SpS",
+  "status": "in_force",
+  "issued_date": "2005-04-06",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.riigiteataja.ee/akt/110072025005.xml",
+  "description": "Official consolidated statute text (Spordiseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab spordi korraldamise üldised organisatsioonilised ja õiguslikud alused, sportlase ja treeneri õigused ja kohustused, spordi andmekogu eesmärgi ja tegevuse alused, spordi finantseerimise alused, sealhulgas spordiorganisatsioonide toetamise, olümpiavõitja riikliku toetuse, sportlasestipendiumi ja sportlasetoetuse maksmise, treeneri tööjõukulu toetamise ja vabatahtliku spordikohtuniku tegevusega seotud kulude hüvitamise alused, dopinguvastaste ja spordieetika reeglite järgimise nõuded, spordivõistlustega manipuleerimise vastase riikliku kontaktpunkti korralduse alused ning spordiürituste korraldamise ja pidamise nõuded ja vastutuse nõuete rikkumise eest.\n(2) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi.\n(3) Sotsiaalkindlustusamet kohaldab käesolevas seaduses ettenähtud sotsiaalkaitsele sotsiaalseadustiku üldosa seaduse sätteid."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Spordi korraldamise ja edendamise ülesanne",
+      "content": "Sporti korraldavad ja edendavad riik, kohaliku omavalitsuse üksused ja spordiorganisatsioonid kogu rahva kehalise ja vaimse vormi, sportliku eluviisi, samuti noorte sportliku eneseteostuse eesmärgil."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Spordi korraldamine vallas ja linnas",
+      "content": "Vallal ja linnal on kohustus:\n1) määrata kindlaks oma haldusterritooriumil spordiks vajalik maa-ala;\n2) kinnitada spordiorganisatsioonide valla- või linnaeelarvest toetamise tingimused, kord ja taotluste vormid ning vajaduse korral näha ette omaosaluse tingimused toetuse saamiseks;\n2^1) toetada eelarveliste vahendite olemasolu korral oma haldusterritooriumil asuvate spordiorganisatsioonide tööd;\n3) tagada munitsipaalkoolides tingimused kehalise kasvatuse tundide läbiviimiseks ja soodustada spordiharrastust koolides, spordikoolides ning noorte püsilaagrites;\n4) määrata oma haldusterritooriumil spordi korraldamisega tegelev teenistuja või määrata need ülesanded mõnele teisele valla või linna ametiasutuse teenistujale;\n5) informeerida spordiehitise otstarbe muutmise kavatsusest Kultuuriministeeriumi."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Spordiorganisatsioonid",
+      "content": "Spordiorganisatsioonid käesoleva seaduse mõistes on:\n1) spordiklubi – eraõiguslik juriidiline isik, mille põhitegevus on spordi arendamine;\n2) maakonna spordiliit – maakonnas tegutsevate spordiklubide ühendus, kes rahvusliku olümpiakomitee liikmena esindab maakonna sporti ja kellel on ainuõigus korraldada maakonna meistrivõistlusi ja anda vastavaid tiitleid;\n3) spordialaliit – spordiala harrastavate spordiklubide üleriigiline ühendus, kes spordiala rahvusvahelise spordialaliidu ning rahvusliku olümpiakomitee liikmena spordiala esindab ja kellel on ainuõigus korraldada üleriigilisi meistrivõistlusi ning anda vastavaid tiitleid;\n4) spordiühendus – spordi spetsiifilises valdkonnas (harrastussport, tervisesport, koolisport, üliõpilassport, puudega inimeste sport, töökohasport, veteranisport jm) või piirkondlikul põhimõttel tegutsevate spordiklubide või füüsiliste isikute ühendus;\n5) rahvuslik olümpiakomitee – maakonna spordiliite, spordialaliite, spordiühendusi ja olümpiahartas sätestatud tingimustel füüsilisi isikuid ühendav organisatsioon, kes korraldab ühistegevust ja arendab ning kaitseb spordi- ja olümpialiikumist Eestis;\n6) rahvuslik paralümpiakomitee – Eesti puudega inimeste spordi- ja liikumisharrastusega tegelevaid spordiklubisid, spordiühendusi ja spordialaliite ühendav organisatsioon ning paralümpialiikumise ainuesindaja Eestis."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Spordikool",
+      "content": "Spordikool on huvikooli seaduse või erakooliseaduse alusel tegutsev asutus."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Treenerile esitatavad nõuded",
+      "content": "(1) Treener on kohustatud:\n1) tagama sportliku treeningu aluspõhimõtete järgimise ja ohutuse;\n2) jälgima treeningukoormuse vastavust juhendatavate tervislikule seisundile.\n(2) Treener on sportlasi ja teisi spordis osalevaid isikuid juhendav spordispetsialist, kellel on treeneri kutsekvalifikatsioon kutseseaduse tähenduses.\n(3) Treener võib olla ka välisriigi kutsekvalifikatsiooni omandanud isik, kui tema kutsekvalifikatsiooni on tunnustatud välisriigi kutsekvalifikatsiooni tunnustamise seaduse kohaselt. Välisriigi kutsekvalifikatsiooni tunnustamise seaduse § 7 lõikes 2 sätestatud pädev asutus on Kultuuriministeerium."
+    },
+    {
+      "provision_ref": "para6^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6^1",
+      "title": "§ 6^1. Spordi andmekogu",
+      "content": "(1) Valdkonna eest vastutav minister asutab riigi infosüsteemi kuuluva spordi andmekogu, mille põhieesmärk on andmete kogumine ja töötlemine spordi korraldamise, juhtimise ja toetamise ning sportimise tõhustamiseks.\n(2) Spordi andmekogu koosneb spordiorganisatsioonide, spordikoolide, spordiehitiste, treenerite, sportlasestipendiumi ja sportlasetoetuse ning sporditulemuste alamandmekogust.\n(3) Lisaks käesoleva paragrahvi lõikes 1 sätestatule on spordi andmekogu eesmärk:\n1) koguda, väljastada ja avalikustada teavet, mis on vajalik treenerikutse andja kutseseadusest tulenevate ülesannete täitmiseks ja treenerikutse andmiseks ning sportijate ohutuse tagamiseks;\n2) koguda ja töödelda andmeid käesoleva seaduse §-s 10^1 sätestatud sportlasestipendiumi maksmiseks vajaliku arvestuse pidamiseks;\n3) koguda ja töödelda andmeid käesoleva seaduse §-s 10^5 sätestatud sportlasetoetuse maksmiseks vajaliku arvestuse pidamiseks;\n4) koguda, töödelda, avalikustada ja säilitada Eesti ja rahvusvahelistel tiitlivõistlustel saavutatud sporditulemusi toetuste eraldamise otsuste tegemiseks, Eesti spordi arengu toetamiseks ning spordiajaloo jäädvustamiseks.\n(4) Maksu- ja Tolliametil on õigus saada maksukorralduse seaduse § 10 lõikes 2 sätestatud ülesannete täitmiseks andmeid sportlasele väljamakstud sportlasestipendiumi, sportlasetoetuse ja selle maksmise eelduseks oleva, sportlasega sõlmitud lepingu kohta.\n(5) Spordi andmekogu põhimääruse kehtestab valdkonna eest vastutav minister määrusega.\n(6) Isikuandmetena kogutakse järgmisi andmeid:\n1) spordiorganisatsiooni tegevjuhi nimi, isikukood ja kontaktandmed ning spordiorganisatsiooni selle esindaja nimi, isikukood ja kontaktandmed, kes kuulub rahvusvahelise spordiorganisatsiooni juhtorganisse, komisjoni või eksperdirühma;\n2) treeneri, treenerikutset taotleva isiku ja sportimist juhendava treenerikutseta isiku nimi, isikukood ja kontaktandmed ning andmed tema hariduse, kutse, tööhõive, tasemekoolituste ja kutseeksamite kohta;\n3) treenerikutset andva kutsekomisjoni liikme nimi, isikukood ja kontaktandmed;\n4) käesoleva seaduse §-s 10^1 sätestatud sportlasestipendiumi saaja andmed, §-s 10^5 sätestatud sportlasetoetuse saaja andmed ja toetuse maksmise eelduseks oleva, sportlasega sõlmitud lepingu andmed;\n5) sportlase nimi, isikukood ja tema sporditulemus;\n6) spordiobjekti kohta lisatava foto autori ja litsentsiandja andmed.\n(6^1) Isikuandmeid säilitatakse 12 aastat alates nende arhiveerimisest, kui põhimääruses ei ole sätestatud lühemat tähtaega. Sporditulemusi säilitatakse tähtajatult. Säilitustähtaja möödumisel isikuandmed anonüümitakse.\n(7) Spordi andmekogusse kantavate andmete, sealhulgas isikuandmete täpsem koosseis ja nende säilitamise täpsem tähtaeg, andmetele juurdepääsu ja andmete väljastamise kord ning muud andmekogu pidamiseks vajalikud tingimused sätestatakse andmekogu põhimääruses.\n(8) Spordi andmekogu vastutav töötleja on Kultuuriministeerium.\n(9) Spordi andmekogu volitatud töötleja ülesandeid võib halduslepingu alusel täita eraõiguslik juriidiline isik vastutava töötleja ettenähtud ulatuses. Halduslepingu sõlmimisel teostab halduslepingu täitmise üle järelevalvet Kultuuriministeerium.\n(10) Kui käesoleva paragrahvi lõikes 9 nimetatud haldusleping lõpetatakse ühepoolselt või esineb muu põhjus, mis takistab haldusülesande täitjal jätkata haldusülesande täitmist, korraldab haldusülesande edasise täitmise Kultuuriministeerium."
+    },
+    {
+      "provision_ref": "para6^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6^2",
+      "title": "§ 6^2. Sporditulemuste töötlemine",
+      "content": "Spordi andmekogusse kantud spordiorganisatsioonil, spordikoolil ning spordi andmekogu vastutaval ja volitatud töötlejal on spordi eripära arvestades õigus spordi arendamiseks ja toetamiseks ning spordiajaloo jäädvustamiseks koguda, töödelda ja avalikustada spordialaliidu väljastatud sportlase litsentsiga sportlase sporditulemusi, mis on saavutatud spordialaliidu, maakonna spordiliidu või spordiühenduse veebilehel avalikustatud võistluskalendris kajastatud võistlusel."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "7",
+      "title": "§ 7. Spordilähetus",
+      "content": "Spordiorganisatsioonil on õigus lähetada oma liikmeks olevaid või oma liikmeks oleva spordiorganisatsiooni liikmeks olevaid sportlasi, samuti treenereid, kohtunikke, spordiarste ning teisi spordi korraldamisega seotud isikuid põhikirjaliste eesmärkide täitmiseks väljapoole lähetatava alalise tegevuskoha asukohta, sealhulgas välisriiki, ning maksta nendele lähetusega seotud sõidu- ja majutuskulude hüvitisi ning päevaraha."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "8",
+      "title": "§ 8. Rahvusvahelistest tiitlivõistlustest osavõtt",
+      "content": "Rahvusvahelistel tiitlivõistlustel on Eesti rahvuskoondise koosseisus või individuaalselt õigus esineda Eesti kodanikel ja Eestis elavatel alla 18-aastastel alaealistel, kellel ei ole mõne muu riigi kodakondsust."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "9",
+      "title": "§ 9. Riigieelarvest spordi finantseerimise alused",
+      "content": "(1) Sporditoetust makstakse spordiorganisatsioonile, kes on kantud spordi andmekogusse ja kes on enda kohta eelmisel kalendriaastal spordi andmekogusse kantud andmed vastutava töötleja määratud tähtpäevaks ajakohastanud, ning spordivaldkonnas tegutsevale juriidilisele isikule, kes aitab kaasa riigi strateegiliste eesmärkide saavutamisele spordivaldkonnas.\n(2) Sportlasele ja tema treenerile võib määrata preemia rahvusvahelisel tiitlivõistlusel medali võitmise eest.\n(3) Sporditoetuse määramise spordiorganisatsioonile ja spordivaldkonnas tegutsevale juriidilisele isikule, kes aitab kaasa riigi strateegiliste eesmärkide saavutamisele spordivaldkonnas, preemia määramise rahvusvahelisel tiitlivõistlusel medali võitnud sportlasele ja tema treenerile ning sporditoetuse ja preemia tagasinõudmise otsustab valdkonna eest vastutav minister.\n(4) Valdkonna eest vastutav minister võib halduslepingu alusel volitada spordialaliidule sporditoetust või rahvusvahelisel tiitlivõistlusel medali võitnud sportlasele ja tema treenerile preemiat määrama ja seda tagasi nõudma rahvuslikku olümpiakomiteed. Halduslepingu sõlmimise korral teeb selle täitmise üle haldusjärelevalvet Kultuuriministeerium.\n(5) Kui käesoleva paragrahvi lõikes 4 nimetatud haldusleping lõpetatakse ühepoolselt või esineb muu põhjus, mis takistab haldusülesande täitjal nimetatud haldusülesande täitmist jätkata, korraldab selle edasise täitmise Kultuuriministeerium.\n(6) Riigieelarvest Kultuuriministeeriumile eraldatud vahenditest antavate sporditoetuste liigid, sporditoetuse taotlemise, taotleja hindamise, sporditoetuse määramise, määramisest keeldumise ja tagasinõudmise tingimused ja korra ning sportlasele ja tema treenerile rahvusvahelisel tiitlivõistlusel medali võitmise eest preemia määramise ja tagasinõudmise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para9^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "9^1",
+      "title": "§ 9^1. Toetus spordialaliidule, spordiklubile ja spordikoolile treeneri tööjõukulu katmiseks",
+      "content": "(1) Riigieelarves nähakse ette toetus spordialaliidule, spordiklubile ja spordikoolile lapsi ja kuni 24-aastaseid (kaasa arvatud) noori juhendava treeneri tööjõukulu katmiseks (edaspidi treeneri tööjõukulu toetus ).\n(2) Treeneri tööjõukulu toetuse suuruse määramisel lähtutakse tema poolt spordialaliidus, spordiklubis või spordikoolis juhendatavate treeningrühmade treeningtundide summast.\n(3) Treeneri tööjõukulu toetuse määramise, jaotamise ja tagasinõudmise otsustab valdkonna eest vastutav minister.\n(4) Valdkonna eest vastutav minister võib treeneri tööjõukulu toetuse määramise, jaotamise ja tagasinõudmise volitada halduslepingu alusel eraõiguslikule juriidilisele isikule. Halduslepingu sõlmimisel teostab halduslepingu täitmise üle järelevalvet Kultuuriministeerium.\n(5) Treeneri tööjõukulu toetuse andmise menetlemiseks võib töödelda järgmisi isikuandmeid:\n1) toetust taotlevas spordialaliidus, spordiklubis või spordikoolis treeniva lapse või noore nimi;\n2) toetust taotlevas spordialaliidus, spordiklubis või spordikoolis treeniva lapse või noore isikukood;\n3) toetust taotlevas spordialaliidus, spordiklubis või spordikoolis treeniva lapse või noore puude andmed;\n4) toetust taotlevas spordialaliidus, spordiklubis või spordikoolis treeniva lapse või noore nädala treeningkoormus tundides.\n(5^1) Tervisekassal on õigus saada toetuse andjalt spordialaliidus, spordiklubis või spordikoolis treeniva lapse või noore treeningkoormuse andmeid, et korraldada ja rahastada spordiga tegelevate laste ja noorte tervisekontrolle, tagades Tervisekassa eelarve efektiivse ja otstarbeka kasutamise.\n(6) Treeneri tööjõukulu toetuse taotluste menetlemisel on õigus kasutada käesoleva seaduse §-s 6^1 nimetatud spordi andmekogu andmeid ning kontrollida käesoleva paragrahvi lõikes 5 nimetatud isikuandmete õigsust rahvastikuregistri kaudu.\n(7) Treeneri tööjõukulu toetuse määramise tingimused, sealhulgas nõuded spordialaliidule, spordiklubile ja spordikoolile ning selle omaosalusele, treeningrühmale ning treenerile, ning toetuse suuruse, jaotamise, tagasimaksmise ja tagasinõudmise korra kehtestab valdkonna eest vastutav minister määrusega.\n(8) Treeneri tööjõukulu toetuse taotlemiseks esitatud käesoleva paragrahvi lõikes 5 sätestatud isikuandmeid säilitatakse kõige rohkem kolm aastat."
+    },
+    {
+      "provision_ref": "para9^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "9^2",
+      "title": "§ 9^2. Vabatahtliku spordikohtuniku tegevusega seotud kulude hüvitamine",
+      "content": "(1) Spordi andmekogusse kantud spordiorganisatsioonil ja spordikooli pidajal on õigus spordialaliidu või maakonna spordiliidu või piirkondlikul põhimõttel tegutseva spordiühenduse veebilehel avalikustatud võistluskalendris kajastatud võistlusel vabatahtliku spordikohtuniku tegevusega seotud kulude hüvitamiseks maksta kuludokumente nõudmata kuni 45 eurot spordikohtunikuna tegutsemise päeva eest.\n(2) Käesolevas paragrahvis sätestatud vabatahtliku spordikohtuniku tegevusega seotud kulusid hüvitatakse isikule, kes:\n1) on spordialaliidu poolt atesteeritud või alla 20-aastane;\n2) ei saa samal võistlusel spordikohtunikuna tegutsemise eest töötasu ega töövõtulepingu, käsunduslepingu või teenuse osutamiseks sõlmitud muu võlaõigusliku lepingu alusel makstavat tasu.\n(3) Käesolevas paragrahvis sätestatud vabatahtliku spordikohtuniku tegevusega seotud kulusid võib isikule hüvitada ühe või mitme spordiorganisatsiooni või spordikooli pidaja poolt kokku kuni 2340 eurot kalendriaastas."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "10",
+      "title": "§ 10. Riiklikud spordistipendiumid ja -preemiad",
+      "content": "(1) Vabariigi Valitsus määrab väljapaistvate sportlike saavutuste eest riiklikke spordipreemiaid ja valdkonna eest vastutav minister määrab sportlike tipptulemuste stimuleerimiseks riiklikke spordistipendiume.\n(1^1) Käesoleva seaduse § 11 lõikes 1 nimetatud reeglite rikkumise korral otsustab riikliku spordipreemia tagasinõudmise Vabariigi Valitsus ja riikliku spordistipendiumi tagasinõudmise valdkonna eest vastutav minister.\n(2) Riiklike spordistipendiumide ja -preemiate määramise ning tagasinõudmise tingimused ja korra kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para10^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "10^1",
+      "title": "§ 10^1. Sportlasestipendium",
+      "content": "(1) Sportlasestipendium on sportlasele makstav tulevikku suunatud toetus, mida makstakse spordiga seotud teadmiste või oskuste omandamise ning võimete arendamise soodustamiseks. Sportlasestipendiumina ei käsitata väljamakset, millega tunnustatakse või tasustatakse mingit tegevust.\n(2) Sportlasestipendiumi makstakse spordi andmekogusse kantud rahvusliku olümpiakomitee või rahvusliku paralümpiakomitee või nende liikmeks oleva spordialaliidu, maakonna spordiliidu või spordiühenduse või nende liikmeks oleva spordiorganisatsiooni või spordikooli juhtorgani otsuse alusel. Otsusest teavitatakse sportlasestipendiumi maksja või valdkondlikku teavet sisaldaval veebilehel.\n(3) Sportlasestipendiumi piirmäär on 12-kordne töölepingu seaduse § 29 lõike 5 alusel kehtestatud kuu töötasu alammäär ühes kalendriaastas. Sportlasestipendiumi võib maksta ühekordselt või perioodiliste väljamaksetena.\n(4) Sportlasestipendiumi võib saada ühelt või mitmelt spordi andmekogusse kantud spordiorganisatsioonilt ja spordikoolilt, arvestades käesoleva paragrahvi lõikes 3 sätestatud piirmäära.\n(5) Sportlasestipendiumi maksja kannab andmed sportlasestipendiumi saaja, suuruse, määramise ja väljamaksmise ning üle piirmäära makstud sportlasestipendiumi tagastamise kohta spordi andmekogusse.\n(6) Käesoleva paragrahvi lõikes 3 nimetatud piirmäära täitumisel teavitab spordi andmekogu volitatud töötleja sportlasestipendiumi saajat ning temale sportlasestipendiumi määranud ja maksnud spordiorganisatsiooni ja spordikooli. Piirmäära ületamisel tuleb sportlasestipendiumi saajal piirmäära ületav summa sportlasestipendiumi maksjale tagastada.\n(7) Sportlasestipendiumi maksmise tingimused ja piirmäär kehtivad ka välismaalasest sportlasele makstavale sportlasestipendiumile."
+    },
+    {
+      "provision_ref": "para10^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "10^2",
+      "title": "§ 10^2. Sportlasega sõlmitav leping",
+      "content": "(1) Spordi andmekogusse kantud spordiorganisatsiooni või spordikooli ja sportlase kui regulaarselt treeniva ja võistleva isiku vahel sportimiseks sõlmitav leping on sõltuvalt pooltevaheliste suhete iseloomust tööleping või teenuse osutamiseks sõlmitav muu võlaõiguslik leping, mille eest makstakse sportlasele tasu (edaspidi leping ).\n(2) Kui sportlasega sõlmitakse sportimiseks muu võlaõiguslik leping, sõlmitakse leping kirjalikku taasesitamist võimaldavas vormis.\n(3) Kui sportlasega sõlmitakse sportimiseks muu võlaõiguslik leping, makstakse sportlasele tasu kord kuus, kui tasu maksmiseks ei ole kokku lepitud lühemat tähtaega."
+    },
+    {
+      "provision_ref": "para10^3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "10^3",
+      "title": "§ 10^3. Tähtajalise töölepingu järjestikuse sõlmimise ja pikendamise piirang",
+      "content": "(1) Sportlasega võib tulenevalt spordi eripärast sõlmida tähtajalise töölepingu kuni viieks aastaks või sõlmida viie aasta jooksul järjestikuseid tähtajalisi töölepinguid korduvalt või pikendada viie aasta jooksul tähtajalisi töölepinguid korduvalt.\n(2) Pärast viie aasta möödumist sõlmitud tähtajaline tööleping loetakse tähtajatuks, kui ühe töölepingu lõppemise ja järgmise sõlmimise vaheline aeg ei ületa kahte kuud."
+    },
+    {
+      "provision_ref": "para10^4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "10^4",
+      "title": "§ 10^4. Sportlane kui iseseisva otsustuspädevusega töötaja",
+      "content": "(1) Täisealine sportlane, kes on oma töö iseloomust lähtuvalt vaba oma tööaja korralduse üle otsustama, ja tööandja saavad kokku leppida, et sportlane on iseseisva otsustuspädevusega töötaja tingimusel, et töötamine ei kahjusta tema tervist ja ohutust.\n(2) Iseseisva otsustuspädevusega töötaja puhul võib kokku leppida töölepingu seaduse §-des 43–47 ja 50–53 sätestatu kohaldamata jätmises.\n(3) Iseseisva otsustuspädevusega töötaja puhul ei pea tööandja täitma töölepingu seaduse § 28 lõike 2 punktis 4 sätestatud kohustust.\n(4) Tööandja või töötaja võib käesoleva paragrahvi lõike 1 alusel sõlmitud kokkuleppe igal ajal üles öelda, teatades sellest kaks nädalat ette."
+    },
+    {
+      "provision_ref": "para10^5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "10^5",
+      "title": "§ 10^5. Sportlasetoetus",
+      "content": "(1) Spordi andmekogusse kantud spordiorganisatsioon või spordikool võib sportlasele lepingu kehtivuse ajal maksta sportlasetoetust kuni kahekordse töölepingu seaduse § 29 lõike 5 alusel kehtestatud kuu töötasu alammäära ulatuses kalendrikuus, kui on täidetud kõik järgmised tingimused:\n1) sportlasele makstakse lepingu alusel iga kuu tasu vähemalt töölepingu seaduse § 29 lõike 5 alusel kehtestatud kuu töötasu alammäära ulatuses;\n2) sportlasel on spordialaliidu väljastatud sportlase litsents;\n3) sportlane osaleb spordialaliidu võistlussüsteemis või kuulub Eesti rahvuskoondisesse.\n(2) Sportlasetoetuse suurus, maksmise periood ning poolte õigused ja kohustused sportlasetoetuse maksmisel lepitakse kokku sportlasega sõlmitavas lepingus.\n(3) Kui sportlasega on sõlminud lepingu mitu spordiorganisatsiooni või spordikooli, võib sportlasetoetust käesoleva paragrahvi tähenduses maksta ainult üks spordiorganisatsioon või spordikool.\n(4) Kui leping ei kehti terve kalendrikuu ulatuses, võib sportlasetoetust maksta summas, mis on proportsionaalne lepingu kehtivuse päevade arvuga.\n(5) Sportlasetoetuse maksja kannab andmed sportlasetoetuse saaja ning sportlasetoetuse suuruse, määramise ja väljamaksmise kohta spordi andmekogusse."
+    },
+    {
+      "provision_ref": "para10^6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "10^6",
+      "title": "§ 10^6. Sportlasestipendiumi ja sportlasetoetuse maksmise erisused",
+      "content": "(1) Lepingu kehtivuse ajal sportlasele sportlasestipendiumi maksta ei tohi.\n(2) Sportlasestipendiumi ja sportlasetoetuse summa kokku ei tohi kalendriaastas ületada 24-kordset töölepingu seaduse § 29 lõike 5 alusel kehtestatud kuu töötasu alammäära. Kui sportlasele on sportlasestipendiumi makstud enne lepingu sõlmimist või makstakse pärast lepingu lõppemist, teeb sportlasestipendiumi või sportlasetoetuse maksja sportlasestipendiumi või sportlasetoetuse maksmisel vastavad mahaarvamised.\n(3) Kui lepingu sõlminud spordiorganisatsioon või spordikool maksab lepingu kehtivuse ajal sportlasele sportlasetoetust alla käesoleva seaduse § 10^5 lõikes 1 nimetatud kalendrikuu piirmäära, on kohaliku omavalitsuse üksusel, spordialaliidul, rahvuslikul paralümpiakomiteel või rahvuslikul olümpiakomiteel õigus maksta sportlasele lepingu kehtivuse ajal sportlasetoetust kuni § 10^5 lõikes 1 nimetatud kalendrikuu piirmäära täitumiseni, arvestades käesoleva paragrahvi lõikes 2 sätestatut. Sportlasetoetuse suurus, maksmise periood ning poolte õigused ja kohustused sportlasetoetuse maksmisel lepitakse kokku kirjalikku taasesitamist võimaldavas vormis."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "11",
+      "title": "§ 11. Dopinguvastaste ja spordieetika reeglite järgimine",
+      "content": "(1) Sportlane, treener, sportlase tugiisik, spordikohtunik ning spordiorganisatsiooni ja spordikooli töötaja ja juhtorgani liige on kohustatud tundma ja järgima:\n1) dopinguvastaseid reegleid, mis on sätestatud maailma dopinguvastases koodeksis ja on selle alusel vastu võetud;\n2) spordivõistluste tulemustega manipuleerimise ja väärkohtlemise vastaseid ning muid spordieetika reegleid, mis on sätestatud rahvusvahelise spordiorganisatsiooni, rahvusliku olümpiakomitee, rahvusliku paralümpiakomitee ja spordialaliidu kehtestatud dokumentides.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud reeglid kohalduvad ka spordiorganisatsioonile ja spordikoolile.\n(3) Kui sportlane, treener või sportlase tugiisik rikub käesoleva paragrahvi lõikes 1 nimetatud reegleid ja dopinguvastane organisatsioon, rahvusvaheline spordiorganisatsioon, rahvuslik olümpiakomitee, rahvuslik paralümpiakomitee või spordialaliit määrab talle võistluskeelu või spordis osalemise keelu, kaotab isik keelu ajaks õiguse käesoleva seaduse §-des 9, 9^1, 10, 10^1 ja 10^5 nimetatud preemiatele, stipendiumidele ja toetustele.\n(4) Kui dopinguvastane organisatsioon, rahvusvaheline spordiorganisatsioon, rahvuslik olümpiakomitee, rahvuslik paralümpiakomitee või spordialaliit on määranud käesoleva paragrahvi lõikes 1 nimetatud isikule karistuse samas lõikes nimetatud reeglite rikkumise eest, on §-des 9, 9^1, 10, 10^1 ja 10^5 nimetatud preemia, stipendiumi või toetuse andjal õigus aasta jooksul karistuse määramise otsuse jõustumisest arvates nõuda pärast reeglite rikkumist määratud preemia, stipendium ja toetus isikult tagasi.\n(5) Riiklikul dopinguvastasel organisatsioonil ja spordiorganisatsioonidel on dopinguvastaste toimingute tegemiseks ja reeglite rikkumiste menetlemiseks ning spordivõistluste tulemustega manipuleerimise ja väärkohtlemise vastaste reeglite ning teiste spordieetika reeglite rikkumiste menetlemiseks õigus töödelda isikuandmeid. Riiklikul dopinguvastasel organisatsioonil, rahvuslikul olümpiakomiteel, rahvuslikul paralümpiakomiteel ja spordialaliidul on dopinguvastaste toimingute tegemiseks ja reeglite rikkumise menetlemiseks ning väärkohtlemise vastaste reeglite rikkumise menetlemiseks õigus töödelda isiku terviseandmeid."
+    },
+    {
+      "provision_ref": "para11^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "11^1",
+      "title": "§ 11^1. Spordivõistlustega manipuleerimise vastane riiklik kontaktpunkt",
+      "content": "(1) Spordivõistlustega manipuleerimise vastu võitlemiseks luuakse riiklik kontaktpunkt (edaspidi kontaktpunkt ), mis:\n1) kogub ja edastab asjaomastele organisatsioonidele ja asutustele spordivõistlustega manipuleerimise vastase võitlusega seotud teavet;\n2) koordineerib spordivõistlustega manipuleerimise vastast võitlust;\n3) võtab vastu, koondab ja analüüsib teavet tavatutest ja kahtlastest, Eestis toimuvate spordivõistluste kohta sõlmitud kihlvedudest ning edastab vajaduse korral hoiatusi;\n4) edastab teavet võimalike rikkumiste kohta riigiasutustele, spordiorganisatsioonidele või spordikihlvedude korraldajatele;\n5) teeb koostööd kõigi organisatsioonide ja asjaomaste asutustega riigisisesel ja rahvusvahelisel tasandil, sealhulgas teiste riikide kontaktpunktidega.\n(1^1) Kontaktpunktil on spordivõistluste tulemustega manipuleerimise vastaste toimingute tegemiseks õigus töödelda isikuandmeid.\n(2) Kontaktpunkti ülesandeid täidab Kultuuriministeerium. Kultuuriminister võib kontaktpunkti ülesanded halduslepingu alusel anda eraõiguslikule juriidilisele isikule. Halduslepingu sõlmimisel teostab halduslepingu täitmise üle järelevalvet Kultuuriministeerium.\n(3) Kui käesoleva paragrahvi lõikes 2 nimetatud haldusleping lõpetatakse ühepoolselt või esineb muu põhjus, mis takistab haldusülesande täitjal jätkata haldusülesande täitmist, korraldab haldusülesande edasise täitmise Kultuuriministeerium."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - OLÜMPIAVÕITJA RIIKLIK TOETUS",
+      "section": "12",
+      "title": "§ 12. Olümpiavõitja riiklikule toetusele õigust omavad isikud",
+      "content": "(1) Olümpiavõitja riiklikku toetust määratakse ja makstakse käesolevas seaduses sätestatud tingimustel isikule, kes on Eesti kodanik ning on saavutanud olümpiahartas sätestatud olümpiaspordialal või paralümpiamängude programmi kuuluval spordialal olümpiavõidu, esindades Eesti Vabariiki.\n(2) Olümpiamängudel olümpiavõidu saavutanud isik võib taotleda olümpiavõitja riiklikku toetust:\n1) vanuse alusel – kümme aastat enne riikliku pensionikindlustuse seaduse §-s 7 sätestatud vanaduspensioniea saabumist või\n2) osalise või puuduva töövõime alusel – alates osalise või puuduva töövõime tuvastamisest töövõimetoetuse seaduses sätestatud korras.\n(3) Paralümpiamängudel olümpiavõidu saavutanud isik võib taotleda olümpiavõitja riiklikku toetust kümme aastat enne riikliku pensionikindlustuse seaduse §-s 7 sätestatud vanaduspensioniea saabumist."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - OLÜMPIAVÕITJA RIIKLIK TOETUS",
+      "section": "13",
+      "title": "§ 13. Olümpiavõitja riikliku toetuse finantseerimine ja olümpiavõitja riikliku toetuse suurus",
+      "content": "(1) Olümpiavõitja riiklikku toetust finantseeritakse riigieelarvest.\n(2) Olümpiavõitja riikliku toetuse suurus on Statistikaameti avaldatud eelmise kalendriaasta kolmanda kvartali keskmine brutokuupalk. Olümpiavõitja riikliku toetuse uus suurus ei või olla väiksem eelmise aasta olümpiavõitja riikliku toetuse suurusest."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - OLÜMPIAVÕITJA RIIKLIK TOETUS",
+      "section": "14",
+      "title": "§ 14. Olümpiavõitja riikliku toetuse taotlemine",
+      "content": "(1) Olümpiavõitja riikliku toetuse taotlus esitatakse Sotsiaalkindlustusametile.\n(2) Olümpiavõitja riikliku toetuse taotlemiseks esitatakse järgmised dokumendid:\n1) avaldus;\n2) isikut tõendavate dokumentide seaduse § 2 lõikes 2 või §-s 4 sätestatud dokument;\n3) rahvusliku olümpiakomitee või paralümpiakomitee teatis, millega tõendatakse vastavust käesoleva seaduse § 12 lõikes 1 sätestatud tingimustele;\n4) käesoleva seaduse § 12 lõike 2 punktis 2 sätestatud juhul osalist või puuduvat töövõimet tõendav dokument.\n(3) Sotsiaalkindlustusametisse esitatakse originaaldokumendid või ametlikult kinnitatud ärakirjad.\n(4) Olümpiavõitja riiklike toetuste taotlemise päevaks loetakse päev, millal Sotsiaalkindlustusamet võtab vastu olümpiavõitja riikliku toetuse taotluse.\n(5) Kui olümpiavõitja riikliku toetuse taotlus on saadetud posti teel, loetakse taotlemise päevaks taotluse lähtekohas postitamise kuupäev."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - OLÜMPIAVÕITJA RIIKLIK TOETUS",
+      "section": "15",
+      "title": "§ 15. Taotluse läbivaatamine",
+      "content": "Sotsiaalkindlustusamet vaatab olümpiavõitja riiklike toetuste taotlemiseks esitatud dokumendid läbi esimesel võimalusel, kuid mitte hiljem kui kümne tööpäeva jooksul taotluse esitamise päevast arvates."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - OLÜMPIAVÕITJA RIIKLIK TOETUS",
+      "section": "16",
+      "title": "§ 16. Olümpiavõitja riikliku toetuse suuruse arvutamine",
+      "content": "(1) Vanuse ja puuduva töövõime alusel makstava olümpiavõitja riikliku toetuse suuruseks on käesoleva seaduse §-s 13 sätestatud olümpiavõitja riikliku toetuse suurus.\n(2) Osalise töövõime alusel makstava olümpiavõitja riikliku toetuse suuruseks on pool käesoleva seaduse §-s 13 sätestatud olümpiavõitja riikliku toetuse suurusest.\n(3) Olümpiavõitja riikliku toetuse suurus arvutatakse olümpiavõitja riikliku toetuse määramise algtähtajal kehtinud olümpiavõitja riikliku toetuse suuruse alusel. Käesoleva seaduse §-s 13 sätestatud olümpiavõitja riikliku toetuse suuruse muutumise korral arvutatakse olümpiavõitja riiklik toetus ümber alates järgmise kalendriaasta 1. jaanuarist."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - OLÜMPIAVÕITJA RIIKLIK TOETUS",
+      "section": "17",
+      "title": "§ 17. Olümpiavõitja riikliku toetuse määramise tähtaeg",
+      "content": "(1) Olümpiavõitja riiklik toetus määratakse käesolevas seaduses sätestatud olümpiavõitja riiklikule toetusele õiguse tekkimise päevast, kui olümpiavõitja riikliku toetuse taotlemiseks vajalikud dokumendid on esitatud kuue kuu jooksul, arvates olümpiavõitja riiklikule toetusele õiguse tekkimise päevast.\n(2) Olümpiavõitja riikliku toetuse hilisemal taotlemisel määratakse olümpiavõitja riiklik toetus taotlemise päevast.\n(3) Vanuse alusel makstav olümpiavõitja riiklik toetus määratakse tähtajatult.\n(4) Osalise või puuduva töövõime alusel makstav olümpiavõitja riiklik toetus määratakse osalise või puuduva töövõime kestuse ajaks.\n(5) Isikule, kellele makstakse olümpiavõitja riiklikku toetust osalise või puuduva töövõime alusel kuni käesoleva seaduse § 12 lõike 2 punktis 1 sätestatud vanuseni, määratakse olümpiavõitja riiklik toetus vanuse alusel ilma uut avaldust nõudmata."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - OLÜMPIAVÕITJA RIIKLIK TOETUS",
+      "section": "18",
+      "title": "§ 18. Olümpiavõitja riikliku toetuse määramine, selle maksmise peatamine ja tagasinõudmine",
+      "content": "(1) Olümpiavõitja riikliku toetuse määramise otsustab Sotsiaalkindlustusamet.\n(2) Olümpiavõitja riikliku toetuse maksmine peatatakse käesoleva seaduse § 11 lõikes 1 nimetatud reeglite rikkumise eest määratud võistluskeelu või spordis osalemise keelu ajaks. Kui isikule määratakse eluaegne võistluskeeld või spordis osalemise keeld, kaotab isik õiguse olümpiavõitja riiklikule toetusele. Vastava kirjaliku taotluse teeb Sotsiaalkindlustusametile rahvuslik olümpiakomitee või paralümpiakomitee.\n(3) Kui olümpiavõitja riikliku toetuse saajale on määratud karistus käesoleva seaduse § 11 lõikes 1 nimetatud reeglite rikkumise eest, nõuab Sotsiaalkindlustusamet pärast reeglite rikkumist makstud olümpiavõitja riikliku toetuse isikult tagasi. Vastava kirjaliku taotluse teeb Sotsiaalkindlustusametile rahvuslik olümpiakomitee või paralümpiakomitee. Tagasinõude esitamise aegumistähtaeg on üks aasta karistuse määramise otsuse jõustumisest arvates."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - OLÜMPIAVÕITJA RIIKLIK TOETUS",
+      "section": "19",
+      "title": "§ 19. Olümpiavõitja riikliku toetuse maksmine",
+      "content": "(1) Olümpiavõitja riiklikku toetust makstakse iga kuu jooksva kuu eest sotsiaalseadustiku üldosa seaduse §-s 28 sätestatud korras.\n(2)\n(3)"
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - SPORDIÜRITUSTE KORRALDAMISE JA PIDAMISE NÕUDED",
+      "section": "20",
+      "title": "§ 20. Spordiürituse korraldamise loa taotlemine",
+      "content": "(1) Spordiüritused, mille korraldamiseks on vaja taotleda valla- või linnavalitsuse luba, on:\n1) autospordi, mootorrattaspordi ja veemotospordi võistlused sellisel võistlusalal või võistlusklassis, kus korraldatakse või on taotluse esitamisele eelnenud kahel aastal korraldatud rahvusvahelisi tiitlivõistlusi, Eesti meistrivõistlusi või karikavõistlusi;\n2) jalgpalli täiskasvanute rahvuskoondise mäng või turniir;\n3) jalgpalliklubi UEFA karikasarja mäng või turniir;\n4) võistlus, mis toimub välitingimustes ajavahemikus kella 22.00-st kuni 6.00-ni või puhkepäevale eelneval ööl kella 00.00-st kuni 7.00-ni ja võib tekitada kestvalt või korduvalt teist isikut oluliselt häirivat müra või valgusefekte;\n5) suurenenud turvariskiga spordiüritus.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud nõue kehtib ka lõike 1 punktis 1 nimetamata võistluste kohta, kus võisteldakse samaväärsel võistlusalal või võistlusklassis.\n(3) Suurenenud turvariskiga on spordiüritus:\n1) millega kaasneb liikluse ümberkorraldamine;\n2) kus pakutakse alkohoolseid jooke või toimub nende jaemüük, välja arvatud üritus, mis toimub alalise müügikohaga siseruumis;\n3) mida korraldatakse selleks mitte ette nähtud ehitises või kohas või õhuruumis;\n4) kus kasutatakse suuremõõtmelist teisaldatavat tribüüni, lava, telki või muud konstruktsiooni või inimese elule ja tervisele ohtlikku muud lisainventari;\n5) kus korraldaja kasutab pürotehnilisi tooteid.\n(4) Käesoleva paragrahvi lõikes 1 nimetamata spordiürituse korraldamise nõuded võib kohaliku omavalitsuse üksus kehtestada korrakaitseseaduse § 59 lõike 1 alusel kehtestatava määrusega.\n(5) Spordiürituse korraldaja (edaspidi korraldaja ) esitab hiljemalt üks kuu enne spordiürituse korraldamise päeva loa saamiseks kirjaliku taotluse, milles märgib järgmised andmed:\n1) spordiürituse nimi või nimetus, selle toimumise aeg ja koht;\n2) korraldaja nimi või nimetus, elukoht või aadress, sünniaeg või registrikood;\n3) osalevate klubide või koondiste nimed või nimetused, kui see on kohane;\n4) eeldatav pealtvaatajate arv ja iga võistkonna eeldatav toetajate arv eraldi;\n5) andmed isiku kohta, kes vastutab avaliku korra ja turvalisuse eest;\n6) andmed turvaettevõtja kohta ja turvategevuse seaduse § 4 lõike 3 alusel kehtestatud turvategevuse eeskirja kohaselt koostatud turvaplaan korra pidamiseks või korraldajapoolsete korrapidajate arv ja nende tööülesannete kirjeldus;\n7) andmed piletimüügi korralduse kohta;\n8) andmed osalevate võistkondade toetajate üksteisest eraldamise korralduse kohta;\n9) andmed spordiürituse toimumise kohas kavandatud alkohoolse joogi jaemüügi korralduse kohta;\n10) andmed sõidukite parkimise korralduse kohta;\n11) korraldaja hinnang spordiürituse toimumise ajal esineda võivate turvariskide kohta ning nende maandamise meetmed;\n12) info ligipääsetavuse ning erivajadustega inimeste kaasamiseks planeeritud tegevuste kohta;\n13) info pürotehniliste toodete kasutamise kohta korraldaja poolt.\n(6) Kui autospordi, mootorrattaspordi või veemotospordi võistluse korraldaja ei ole autospordi, mootorrattaspordi ega veemotospordi spordialaliit, lisab ta vastava spordialaliidu kinnituse selle kohta, et võistlus on planeeritud rahvusvaheliste või riigisiseste võistluste korraldamise nõuete kohaselt. Spordialaliit kehtestab võistluste turvalisuse tagamise eeskirja ja kinnituse andmise korra, millega nähakse ette läbipaistvad, objektiivsed, mittediskrimineerivad ja proportsionaalsed kriteeriumid selle spordiala võistluste korraldamiseks ja läbiviimiseks. Kinnituse andmise korras määratakse, juhindudes Eesti spordieetika reeglitest, sõltumatu organ, kes vaatab läbi ja lahendab menetluse käigus esitatud kaebused. Võistluste turvalisuse tagamise eeskiri ja kinnituse andmise kord avalikustatakse spordialaliidu kodulehel.\n(7) Kui korraldaja saab spordiürituse korraldamise õiguse hiljem kui üks kuu enne korraldamise päeva, esitab ta käesoleva paragrahvi lõikes 5 nimetatud taotluse esimesel võimalusel.\n(8) Valla- või linnavalitsus esitab käesoleva paragrahvi lõikes 5 nimetatud loa taotluse vajaduse korral kooskõlastamiseks Politsei- ja Piirivalveametile ja Päästeametile ning muudele asutustele, kes kooskõlastavad loa taotluse või jätavad selle kooskõlastamata viie tööpäeva jooksul selle esitamisest arvates. Nimetatud asutused võivad turvalisuse tagamise eesmärgil loa taotluse kooskõlastada tingimuslikult.\n(9) Valla- või linnavalitsus võib käesolevas paragrahvis ning §-des 21 ja 22 sätestatud pädevuse anda valla või linna ametiasutusele."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - SPORDIÜRITUSTE KORRALDAMISE JA PIDAMISE NÕUDED",
+      "section": "21",
+      "title": "§ 21. Loa andmine",
+      "content": "Valla- või linnavalitsus annab loa kümne tööpäeva jooksul loa taotluse esitamisest. Loas märgitakse:\n1) spordiürituse nimetus;\n2) korraldaja nimi, elukoht või aadress, sünniaeg või registrikood ja telefoninumber;\n3) võistluspaiga asukoht;\n4) spordiürituse toimumise alguse ja lõpu kuupäev ning kellaaeg;\n5) loa taotluse kooskõlastanud asutuste esitatud tingimused."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - SPORDIÜRITUSTE KORRALDAMISE JA PIDAMISE NÕUDED",
+      "section": "22",
+      "title": "§ 22. Loa andmisest keeldumine",
+      "content": "Valla- või linnavalitsus võib keelduda loa andmisest kümne tööpäeva jooksul loa taotluse esitamisest, teatades sellest korraldajale kirjalikult kolme tööpäeva jooksul. Valla- või linnavalitsus võib jätta loa andmata:\n1) kui loa taotluses ei esitatud nõutud andmeid või esinesid muud puudused ning puudusi ei kõrvaldatud tähtaja jooksul;\n2) kui loa taotlus ei ole esitatud õigeaegselt;\n3) kui korraldaja ei täida loa taotluse kooskõlastanud asutuste kooskõlastamise tingimusi, mis peavad olema täidetud enne loa andmist."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - SPORDIÜRITUSTE KORRALDAMISE JA PIDAMISE NÕUDED",
+      "section": "23",
+      "title": "§ 23. Korraldaja kohustused",
+      "content": "Korraldaja on kohustatud spordiürituse planeerimisel, ettevalmistamisel ja korraldamisel:\n1) tagama spordiüritusel osalejate turvalisuse, sealhulgas pürotehnika mittekasutamise või kasutamise vastavalt loa tingimustele;\n2) tagama piletimüügi korralduse range kontrolli, et eri võistlejate toetajad oleksid üksteisest eraldatud;\n3) korraldama sõidukite parkimise;\n4) tagama võistluspaigas avaliku korra ja heakorra;\n5) täitma loa taotluse kooskõlastanud asutuste esitatud tingimusi."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - SPORDIÜRITUSTE KORRALDAMISE JA PIDAMISE NÕUDED",
+      "section": "24",
+      "title": "§ 24. Hooajaloa taotlemine, loa andmine ja selle andmisest keeldumine",
+      "content": "(1) Samas toimumiskohas ja samale sihtrühmale suunatud regulaarselt toimuvate spordiürituste korraldamiseks võib taotleda hooajaloa. Korraldaja esitab vähemalt üks kuu enne hooaja algust loa taotluse, milles märgitakse käesoleva seaduse § 20 lõikes 5 nimetatud andmed kõigi teadaolevate spordiürituste kohta.\n(2) Hooajaluba antakse kuni üheks aastaks.\n(3) Käesoleva seaduse § 20 lõikes 6 nõutud kinnitus esitatakse kõigi teadaolevate spordiürituste kohta.\n(4) Käesoleva paragrahvi lõikes 1 nimetatud luba antakse või selle andmisest keeldutakse käesoleva seaduse §-des 21 ja 22 sätestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para24^1",
+      "chapter": "3. peatükk - SPORDIÜRITUSTE KORRALDAMISE JA PIDAMISE NÕUDED",
+      "section": "24^1",
+      "title": "§ 24^1. Motospordiürituse korraldamise nõuded",
+      "content": "(1) Üksnes mootori jõul maismaal liikuvate sõidukitega sportimiseks ja selle edendamiseks loodud käesoleva seaduse § 4 punktis 3 nimetatud üle-eestiline spordialaliit näeb juhendiga ette, et nimetatud sõidukite selliste spordiürituste ja -tegevuste puhul, mis hõlmavad võidusõite, võistlusi, koolitust, katsetusi ja esitlusi piiratud ning tähistatud alal, sõlmib korraldaja või muu isik vastutuskindlustuslepingu või tagatiskokkuleppe, mis katab kolmandale isikule, sealhulgas pealtvaatajale ja muule kõrvalseisjale, tekitatud kahju hüvitamise.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud kindlustuslepingu või tagatiskokkuleppe olemasolu tagab spordiürituse või -tegevuse korraldaja."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - VASTUTUS",
+      "section": "25",
+      "title": "§ 25. Spordiürituse korraldamise nõuete rikkumine",
+      "content": "(1) Spordiürituse korraldamise eest ilma loata või korraldaja kohustuste eiramise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 20 000 eurot."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - VASTUTUS",
+      "section": "26",
+      "title": "§ 26. Menetlus",
+      "content": "(1)\n(2) Käesoleva seaduse §-s 25 sätestatud väärteo kohtuväline menetleja on Politsei- ja Piirivalveamet ning valla- või linnavalitsus."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "27",
+      "title": "§ 27. Täiendav toetuse määramine",
+      "content": "(1) Õigust toetusele vanuse alusel omavad lisaks käesoleva seaduse § 12 lõikes 1 sätestatud tingimustele vastavatele isikutele ka need isikud, kes on Eesti kodanikud ja on saavutanud olümpiahartas sätestatud olümpiaspordialal olümpiavõidu enne 1988. aastat, esindades NSV Liitu. Nimetatud isikute loetelu kinnitab Eesti Olümpiakomitee ettepanekul kultuuriminister käskkirjaga. Toetuse taotlemine ja maksmine toimub käesolevas seaduses sätestatud korras.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud isikutel tuvastatakse osaline või puuduv töövõime töövõimetoetuse seaduses sätestatud korras, on neil õigus taotleda toetust käesolevas seaduses sätestatud tingimustel ja korras.\n(3) Isikule, kellel käesoleva paragrahvi lõike 1 või 2 kohaselt tekib 2005. aasta 1. jaanuaril õigus olümpiavõitja riiklikule toetusele, määratakse olümpiavõitja riiklik toetus tagasiulatuvalt alates 2005. aasta 1. jaanuarist, kui isik on esitanud taotluse ja vajalikud dokumendid hiljemalt 2005. aasta 1. novembriks.\n(4) Olümpiavõitja toetuse määr 2005. aastal on 10 000 krooni kuus."
+    },
+    {
+      "provision_ref": "para27^1",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "27^1",
+      "title": "§ 27^1. Varem määratud toetuse väljamaksmine",
+      "content": "Enne 2009. aasta 1. veebruari määratud toetus makstakse alates 2009. aasta 1. veebruarist välja käesoleva seaduse §-s 19 sätestatud korras."
+    },
+    {
+      "provision_ref": "para27^2",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "27^2",
+      "title": "§ 27^2. Püsiva töövõime kaotuse alusel toetuse taotlemine ja määramine",
+      "content": "Olümpiamängudel olümpiavõidu saavutanud isikul, kellel on enne 2017. aasta 1. jaanuari tuvastatud püsiv töövõimetus riikliku pensionikindlustuse seaduses sätestatud korras, on õigus taotleda toetust ja see määratakse talle, lähtudes kuni 2016. aasta 1. jaanuarini kehtinud käesoleva seaduse redaktsioonist."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "28",
+      "title": "§ 28.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "32",
+      "title": "§ 32.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "33",
+      "title": "§ 33. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2006. aasta 1. jaanuaril.\n(2) Käesoleva seaduse §-d 12–19 ja 27 jõustuvad üldises korras.\n(3) Käesoleva seaduse § 6 lõige 2 jõustub 2006. aasta 1. septembril."
+    }
+  ],
+  "definitions": []
+}

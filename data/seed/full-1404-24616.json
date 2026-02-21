@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-24616",
+  "type": "statute",
+  "title": "Tööstusomandi kaitse Pariisi konventsiooni ratifitseerimise seadus",
+  "title_en": "Tööstusomandi kaitse Pariisi konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-24616",
+  "status": "in_force",
+  "issued_date": "1994-03-23",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/24616.xml",
+  "description": "Official consolidated statute text (Tööstusomandi kaitse Pariisi konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud tööstusomandi kaitse Pariisi konventsioon 1967. aasta 14. juuli Stockholmi redaktsioonis koos muudatustega, mis on tehtud 1979. aasta 28. septembril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Taastada Eesti Vabariigi liikmelisus käesolevas seaduses nimetatud konventsiooni alusel moodustatud rahvusvahelises organisatsioonis – Rahvusvahelises Tööstusomandi Kaitse Liidus. Riigikogu esimees Ülo NUGIS Õiend Akti metaandmed parandatud ja täiendatud."
+    }
+  ],
+  "definitions": []
+}

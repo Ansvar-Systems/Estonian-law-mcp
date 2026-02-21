@@ -1,0 +1,57 @@
+{
+  "id": "ee-law-120122022005",
+  "type": "statute",
+  "title": "Pühade ja tähtpäevade seadus",
+  "title_en": "Pühade ja tähtpäevade seadus",
+  "short_name": "PTS",
+  "status": "in_force",
+  "issued_date": "1998-01-27",
+  "in_force_date": "2022-12-30",
+  "url": "https://www.riigiteataja.ee/akt/120122022005.xml",
+  "description": "Official consolidated statute text (Pühade ja tähtpäevade seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Rahvuspüha",
+      "content": "Rahvuspüha ja puhkepäev on: 24. veebruar – iseseisvuspäev, Eesti Vabariigi aastapäev."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Riigipühad",
+      "content": "Riigipühad ja puhkepäevad on:\n1) 1. jaanuar – uusaasta;\n2) – suur reede;\n3) – ülestõusmispühade 1. püha;\n4) 1. mai – kevadpüha;\n5) – nelipühade 1. püha;\n6) 23. juuni – võidupüha;\n7) 24. juuni – jaanipäev;\n8) 20. august – taasiseseisvumispäev;\n8^1) 24. detsember – jõululaupäev;\n9) 25. detsember – esimene jõulupüha;\n10) 26. detsember – teine jõulupüha."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Riiklikud tähtpäevad",
+      "content": "Riiklikud tähtpäevad on:\n1) 6. jaanuar – kolmekuningapäev;\n1^1) 30. jaanuar – eesti kirjanduse päev;\n2) 2. veebruar – Tartu rahulepingu aastapäev;\n2^1) 14. märts – emakeelepäev;\n3) maikuu teine pühapäev – emadepäev;\n3^1) 1. juuni – lastekaitsepäev;\n3^2) 4. juuni – Eesti lipu päev;\n4) 14. juuni – leinapäev;\n4^1) 23. august – kommunismi ja natsismi ohvrite mälestuspäev;\n4^2) septembrikuu teine pühapäev – vanavanemate päev;\n4^3) 22. september – vastupanuvõitluse päev;\n4^4) 1. oktoober – omavalitsuspäev;\n4^5) oktoobrikuu kolmas laupäev – hõimupäev;\n5) 2. november – hingedepäev;\n6) novembrikuu teine pühapäev – isadepäev;\n7) 16. november – taassünni päev."
+    },
+    {
+      "provision_ref": "para3^1",
+      "section": "3^1",
+      "title": "§ 3^1. Üleriigiline lein",
+      "content": "(1) Vabariigi Valitsus võib välja kuulutada üleriigilise leina.\n(2) Leinapäeval, 14. juunil, ei korraldata leinaga kokkusobimatuid avalikke üritusi."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4. Pühade ja tähtpäevade arvestamine",
+      "content": "(1) Käesolevas seaduses nimetatud pühad ja tähtpäevad arvestatakse gregooriuse ehk uue kalendri järgi.\n(2) Rahvuspüha suhtes kohaldatakse teistes õigusaktides riigipühade ja riiklike pühade kohta sätestatut."
+    },
+    {
+      "provision_ref": "para5",
+      "section": "5",
+      "title": "§ 5. Seaduse kehtetuks tunnistamine",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para6",
+      "section": "6",
+      "title": "§ 6. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 1998. aasta 23. veebruaril."
+    }
+  ],
+  "definitions": []
+}

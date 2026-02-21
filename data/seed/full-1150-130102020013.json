@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-130102020013",
+  "type": "statute",
+  "title": "Raudteeseadus",
+  "title_en": "Raudteeseadus",
+  "short_name": "ee-law-130102020013",
+  "status": "in_force",
+  "issued_date": "2003-11-19",
+  "in_force_date": "2020-10-31",
+  "url": "https://www.riigiteataja.ee/akt/130102020013.xml",
+  "description": "Official consolidated statute text (Raudteeseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-205032015003",
+  "type": "statute",
+  "title": "Kyoto protokolli Doha muudatuse ratifitseerimise seadus",
+  "title_en": "Kyoto protokolli Doha muudatuse ratifitseerimise seadus",
+  "short_name": "ee-law-205032015003",
+  "status": "in_force",
+  "issued_date": "2015-02-18",
+  "in_force_date": "2015-03-15",
+  "url": "https://www.riigiteataja.ee/akt/205032015003.xml",
+  "description": "Official consolidated statute text (Kyoto protokolli Doha muudatuse ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Preambul",
+      "content": "Ratifitseerida juurdelisatud Kyoto protokolli Doha muudatus, mis on vastu võetud 2012. aasta 8. detsembril Dohas Kyoto protokolli osaliste konverentsi otsusega nr 1/CMP.8."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-724858",
+  "type": "statute",
+  "title": "Euroopa sotsiaalkindlustuskoodeksi ratifitseerimise seadus",
+  "title_en": "Euroopa sotsiaalkindlustuskoodeksi ratifitseerimise seadus",
+  "short_name": "ee-law-724858",
+  "status": "in_force",
+  "issued_date": "2004-03-10",
+  "in_force_date": "2004-04-12",
+  "url": "https://www.riigiteataja.ee/akt/724858.xml",
+  "description": "Official consolidated statute text (Euroopa sotsiaalkindlustuskoodeksi ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Ratifitseerimine",
+      "content": "Ratifitseerida juurdelisatud Euroopa sotsiaalkindlustuskoodeks (edaspidi koodeks), mis on koostatud 1964. aasta 16. aprillil Strasbourg’is ja millele Eesti Vabariik on alla kirjutanud 2000. aasta 24. jaanuaril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Deklaratsioonid",
+      "content": "Ratifitseerimisel teha järgmised deklaratsioonid:\n(1) Koodeksi artikli 2 lõike 1 punkti b ja artikli 3 alusel tunnistab Eesti Vabariik end seotuks järgmiste koodeksi osadega:\n1) II osa. Arstiabi;\n2) III osa. Haigushüvitis;\n3) IV osa. Töötushüvitis;\n4) V osa. Vanadushüvitis;\n5) VII osa. Perehüvitis;\n6) VIII osa. Emadushüvitis;\n7) IX osa. Invaliidsushüvitis;\n8) X osa. Toitjakaotushüvitis.\n(2) Koodeksi artikli 3 alusel tunnistab Eesti Vabariik, et ta ei kohalda enda suhtes koodeksi artikli 2 lõike 2 sätteid."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Aruandeid esitava asutuse määramine",
+      "content": "Koodeksi artiklites 74 ja 76 nimetatud aruanded esitab Euroopa Nõukogu peasekretärile Sotsiaalministeerium. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

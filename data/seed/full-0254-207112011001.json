@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-207112011001",
+  "type": "statute",
+  "title": "Eesti Vabariigi ja Ukraina sotsiaalkindlustuslepingu ratifitseerimise seadus",
+  "title_en": "Eesti Vabariigi ja Ukraina sotsiaalkindlustuslepingu ratifitseerimise seadus",
+  "short_name": "ee-law-207112011001",
+  "status": "in_force",
+  "issued_date": "2011-10-19",
+  "in_force_date": "2011-11-17",
+  "url": "https://www.riigiteataja.ee/akt/207112011001.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi ja Ukraina sotsiaalkindlustuslepingu ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Preambul",
+      "content": "Ratifitseerida juurdelisatud Eesti Vabariigi ja Ukraina sotsiaalkindlustusleping, mis on alla kirjutatud 2010. aasta 5. oktoobril Tallinnas."
+    }
+  ],
+  "definitions": []
+}

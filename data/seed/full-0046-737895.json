@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-737895",
+  "type": "statute",
+  "title": "Aiandustoodete seadus",
+  "title_en": "Aiandustoodete seadus",
+  "short_name": "AiaTS",
+  "status": "in_force",
+  "issued_date": "2000-11-08",
+  "in_force_date": "2004-05-01",
+  "url": "https://www.riigiteataja.ee/akt/737895.xml",
+  "description": "Official consolidated statute text (Aiandustoodete seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

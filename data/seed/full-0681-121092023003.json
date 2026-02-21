@@ -1,0 +1,211 @@
+{
+  "id": "ee-law-121092023003",
+  "type": "statute",
+  "title": "Keskkonnaseire seadus",
+  "title_en": "Keskkonnaseire seadus",
+  "short_name": "KeSS",
+  "status": "in_force",
+  "issued_date": "2016-05-04",
+  "in_force_date": "2023-07-01",
+  "url": "https://www.riigiteataja.ee/akt/121092023003.xml",
+  "description": "Official consolidated statute text (Keskkonnaseire seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimis- ja kohaldamisala",
+      "content": "(1) Käesolev seadus sätestab riikliku, kohaliku omavalitsuse üksuse ja vabatahtliku keskkonnaseire korralduse, riikliku keskkonnaseire programmi ja selle allprogrammide täitmise, riikliku keskkonnaseire jaamade ja alade rajamise, kasutamise, kaitse ja likvideerimise, keskkonnaseire käigus saadud andmete säilitamise, kasutamise ja avaldamise korra ning riikliku järelevalve korralduse ja vastutuse käesoleva seaduse nõuete täitmata jätmise eest.\n(2) Käesolevat seadust ei kohaldata sellele keskkonna seisundi seirele, mis ei ole keskkonnaseire käesoleva seaduse tähenduses.\n(3) Keskkonnaloas ja keskkonnakompleksloas ette nähtud loa omaja keskkonnaseirele kohaldatakse vastavat luba reguleerivas seaduses ja selle alusel kehtestatud nõudeid.\n(4) Keskkonnaloas ette nähtud loa omaja keskkonnaseire andmete hoidmisele, kasutamisele, säilitamisele ja avaldamisele kohaldatakse käesoleva seaduse § 13, kui seaduses ei ole sätestatud teisiti.\n(5) Käesolevas seaduses ette nähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesolevas seaduses sätestatud erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Keskkonnaseire",
+      "content": "(1) Keskkonnaseire on keskkonnaseisundi ja seda mõjutavate tegurite järjepidev jälgimine, mis hõlmab keskkonnavaatlusi, vaatlusandmete kogumist, töötlemist ja säilitamist, vaatlustulemuste analüüsimist ning muutuste prognoosimist.\n(2) Keskkonnaseire jaguneb riiklikuks keskkonnaseireks, kohaliku omavalitsuse üksuse keskkonnaseireks ja vabatahtlikuks keskkonnaseireks."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "2. peatükk - Riiklik keskkonnaseire",
+      "section": "3",
+      "title": "§ 3. Riikliku keskkonnaseire eesmärk, rahastamine ja korraldamine",
+      "content": "(1) Riikliku keskkonnaseire eesmärk on saada ülevaade riigi keskkonna seisundist ja selle pikaajalistest muutustest, tagada välislepingutest ning riigisisestest õigusaktidest tulenevate keskkonnaseisundi seire kohustuste täitmine ja hinnata riiklike tegevus-, arengu- ja korralduskavade täitmise mõju keskkonnaseisundile ja selle muutustele.\n(2) Riikliku keskkonnaseire andmed on aluseks tegevus-, arengu- ja korralduskavade ning õigusaktide koostamisel ja nende mõju hindamisel.\n(3) Riiklikku keskkonnaseiret rahastatakse riigieelarvest või rahvusvaheliste programmide eelarvest.\n(4) Riiklikku keskkonnaseiret korraldab ja koordineerib Kliimaministeerium."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - Riiklik keskkonnaseire",
+      "section": "4",
+      "title": "§ 4. Riikliku keskkonnaseire programm",
+      "content": "(1) Riiklikku keskkonnaseiret tehakse pikaajalise riikliku keskkonnaseire programmi alusel, mis koostatakse haldusmenetluse seaduse kohaselt avatud menetluses.\n(2) Riikliku keskkonnaseire programm koosneb valdkondade allprogrammidest.\n(3) Riikliku keskkonnaseire programmi ja allprogrammide täitmise nõuded ja korra kehtestab valdkonna eest vastutav minister määrusega, milles ta sätestab riikliku keskkonnaseire:\n1) programmi koostamise ja selle täitmise korraldamise üldpõhimõtted;\n2) allprogrammide loetelu, nende eesmärgid ja ülesanded;\n3) allprogrammide täitmise korra;\n4) allprogrammi seirejaamade, -alade või -kohtade valiku põhimõtted;\n5) allprogrammi seireandmete kogumise, töötlemise, edastamise ja säilitamise nõuded;\n6) allprogrammi seireandmete kvaliteedi tagamise nõuded.\n(4) Riikliku keskkonnaseire programmi kinnitab valdkonna eest vastutav minister käskkirjaga.\n(5) Riikliku keskkonnaseire allprogrammide eelarved koos asjaomaste seiretööde loeteluga kinnitab valdkonna eest vastutav minister käskkirjaga."
+    },
+    {
+      "provision_ref": "para4^1",
+      "chapter": "2. peatükk - Riiklik keskkonnaseire",
+      "section": "4^1",
+      "title": "§ 4^1. Riikliku keskkonnaseire programmi välised tasulised teenused",
+      "content": "(1) Keskkonnaagentuur võib osutada oma põhitegevusega seotud tasulisi keskkonnaandmete analüüsi ja prognoosi teenuseid, kui see ei takista tema seadusest ja põhimäärusest tulenevate ülesannete täitmist.\n(2) Tasuliste teenuste tasu alam- ja ülemmäärad teenuste liikide kaupa on järgmised:\n1) eriotstarbelise ilmaprognoosi koostamine – üks tund 28–56 eurot;\n2) eriotstarbelise prognoosmudeli koostamine – üks tund 32–64 eurot;\n3) tasuline sünoptikute infotelefon – üks minut 1,1–2,2 eurot;\n4) tuuleroosi koostamine – 24–44 eurot;\n5) meteoroloogiliste ja hüdroloogiliste andmete analüüs – üks tund 28–56 eurot;\n6) hüdroloogilised insenertehnilised arvutused – üks tund 28–56 eurot.\n(3) Tasuliste teenuste eest laekunud tasu võib kasutada üksnes käesoleva paragrahvi lõikes 2 nimetatud teenuste osutamise kulude katmiseks.\n(4) Tasuliste teenuste täpsustatud loetelu ja tasumäärad, võttes aluseks teenuse osutamiseks vajalikud tööjõu-, materjali-, seadmete ja üldkulud ning arvestades käesoleva paragrahvi lõikes 2 sätestatut, kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - Riiklik keskkonnaseire",
+      "section": "5",
+      "title": "§ 5. Riikliku keskkonnaseire allprogrammi vastutav täitja",
+      "content": "(1) Riikliku keskkonnaseire programmi allprogrammi täitmist juhib vastutav täitja.\n(2) Vastutav täitja on:\n1) valitsusasutus või valitsusasutuse hallatav riigiasutus oma põhimääruse alusel;\n2) isik, kellega on sõlmitud sellekohane leping riigihangete seaduses sätestatud korras või\n3) riigi omandis olev äriühing, kelle põhitegevus on keskkonnauuringute läbiviimine ja kellega valdkonna eest vastutav minister on sõlminud selleks halduslepingu halduskoostöö seaduses sätestatud korras.\n(2^1) Käesoleva paragrahvi lõike 2 punktis 3 nimetatud halduslepingu sõlmimisele ei kohaldata halduskoostöö seaduse §-e 6 ja 14.\n(3) Vastutav täitja teostab ja korraldab keskkonnaseiret nõutava pädevusega isikute kaudu."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - Riiklik keskkonnaseire",
+      "section": "6",
+      "title": "§ 6. Vastutava täitja ülesanded",
+      "content": "Vastutav täitja: 1 1) kogub seireandmeid;\n2) koondab ja töötleb allprogrammi täitmise käigus kogutud seireandmeid, analüüsib ja üldistab kogutud teabe ning esitab seireandmed keskkonnaseire andmekogusse;\n3) annab hinnangu keskkonna seisundile ja selle muutustele;\n4) teeb ettepanekuid keskkonnaseire allprogrammi muutmiseks, sealhulgas kasutatavate keskkonnaseirejaamade kohta;\n5) tagab kogutud seireandmete õigsuse ja säilitamise;\n6) sõlmib kinnisasja omanikuga käesoleva seaduse § 9 lõikes 4 ja § 22 lõikes 2 nimetatud kokkuleppeid;\n7) vajaduse korral hooldab riikliku keskkonnaseire jaamu, alasid ja seadmeid, et tagada nende töökindlus ja andmete laekumise järjepidevus;\n8) vajaduse korral informeerib kinnisasja omanikku või valdajat tehtavast keskkonnaseirest enne seiretööde algust;\n9) teavitab viivitamata allprogrammi töö tellijat, kui seire käigus selgub, et seirejaam või -ala on kahjustatud või hävinud, või ilmnevad seireseadmete rikked."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - Riiklik keskkonnaseire",
+      "section": "7",
+      "title": "§ 7. Riiklikule keskkonnaseirele kehtestatud nõuded, meetodid ja metoodikad",
+      "content": "Riikliku keskkonnaseire programmi allprogrammi seiretöödel kasutatakse asjakohases õigusaktis või rahvusvahelises programmis, kuhu seireandmeid edastatakse, kehtestatud nõudeid, meetodeid ja metoodikaid, nende puudumise korral standardmeetodeid ja -metoodikat, viimaste puudumise korral valdkonnas üldtunnustatud meetodeid ja metoodikat."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - Riiklik keskkonnaseire",
+      "section": "8",
+      "title": "§ 8. Riikliku keskkonnaseire jaam, ala ja koht",
+      "content": "(1) Riikliku keskkonnaseire jaam on koht, kus toimuvad keskkonnaseire allprogrammiga määratud proovivõtmised, vaatlused ja mõõtmised ning kus on seadmetega varustatud alalised või alalised ja ajutised keskkonnaseireehitised.\n(2) Riikliku keskkonnaseire ala on maa-ala, kus toimuvad keskkonnaseire allprogrammiga määratud proovivõtmised, vaatlused ja mõõtmised ning kus alalised keskkonnaseireehitised puuduvad.\n(3) Riikliku keskkonnaseire koht on punkt- või joonobjektina märgitud koht, kus toimuvad riikliku keskkonnaseire allprogrammiga määratud proovivõtmised, vaatlused ja mõõtmised ning kus keskkonnaseireehitised puuduvad. Riikliku keskkonnaseire koht võib kuuluda käesoleva paragrahvi lõikes 1 nimetatud jaama või lõikes 2 nimetatud ala koosseisu.\n(4) Riikliku keskkonnaseire jaamade, alade ja kohtade nimistu kehtestab valdkonna eest vastutav minister käskkirjaga."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - Riiklik keskkonnaseire",
+      "section": "9",
+      "title": "§ 9. Riikliku keskkonnaseire jaama ja ala rajamine ning likvideerimine",
+      "content": "(1) Riikliku keskkonnaseire jaam rajatakse kinnisasja omaniku nõusolekul ning vajaduse korral sõlmitakse sellekohane kokkulepe, mis kantakse kinnistusraamatusse.\n(2) Kui kinnisasja omanik ei ole nõus keskkonnaseirejaama rajamise või paiknemisega kinnisasjal ning jaama rajamiseks puudub muu keskkonnaseireks sobiv esinduslik koht ja tehniliselt või majanduslikult otstarbekas võimalus, seatakse kinnisasjale sundvaldus keskkonnaseirejaama omaniku kasuks kinnisasja avalikes huvides omandamise seaduses sätestatud korras.\n(3) Riikliku keskkonnaseire ala rajamisel küsitakse nende kinnisasja omanike nõusolekut, kelle katastriüksuse piiresse ajutine keskkonnaseireehitis rajatakse, ning vajaduse korral sõlmitakse sellekohane kokkulepe, mis kantakse kinnistusraamatusse.\n(4) Riikliku keskkonnaseire jaama ja ala rajamise kokkuleppe kinnisasja omanikuga sõlmib vastutav täitja.\n(5) Kui käesoleva paragrahvi lõigetes 1 ja 3 nimetatud kinnisasja omanik on riik, rajatakse riikliku keskkonnaseire jaam või ala riigivara valitseja nõusolekul.\n(6) Riikliku keskkonnaseire jaam ja ala likvideeritakse valdkonna eest vastutava ministri käskkirjaga jaama või kinnisasja omaniku põhjendatud taotluse alusel."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - Riiklik keskkonnaseire",
+      "section": "10",
+      "title": "§ 10. Riikliku keskkonnaseire jaama ja ala tähistamine ning kaitse",
+      "content": "(1) Riikliku keskkonnaseire jaama ja ala asukoht tähistatakse, kui see on otstarbekas või kui tähistamise nõue on jaama või ala rajamise või käitamise rahastaja tingimus.\n(2) Riikliku keskkonnaseire jaamas, selle läheduses ja riikliku keskkonnaseire alal on keelatud tegevus, mis võib jaama või ala kahjustada, takistada seiretöid või põhjustada riikliku keskkonnaseire programmi täitmise katkemise.\n(3) Riikliku keskkonnaseire jaama ja ala tähistamise ning kaitse täpsustatud nõuded ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "3. peatükk - Kohaliku omavalitsuse üksuse keskkonnaseire ja vabatahtlik keskkonnaseire",
+      "section": "11",
+      "title": "§ 11. Kohaliku omavalitsuse üksuse keskkonnaseire",
+      "content": "(1) Kohaliku omavalitsuse üksus korraldab keskkonnaseiret talle seadusega pandud ülesannete täitmiseks või oma töö korraldamiseks.\n(2) Keskkonnaseire programmi täitmise ja selle alusel kogutavate keskkonnaseire andmete töötlemise ja säilitamise korra kehtestab kohaliku omavalitsuse üksus, arvestades riikliku keskkonnaseire kohta sätestatud nõudeid.\n(3) Kohaliku omavalitsuse üksusele seadusega pandud ülesannete täitmiseks tehtava keskkonnaseire andmed edastatakse keskkonnaseire andmekogu vastutavale töötlejale.\n(4) Kohaliku omavalitsuse üksuse keskkonnaseiret finantseeritakse:\n1) riigieelarvest kohaliku omavalitsuse üksusele ettenähtud eraldistest;\n2) linna või valla eelarvest.\n(5) Kohaliku omavalitsuse üksuse tehtavat ja rahvusvahelise programmi või projekti koosseisu kuuluvat keskkonnaseiret finantseeritakse selle programmi või projekti eelarvest."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - Kohaliku omavalitsuse üksuse keskkonnaseire ja vabatahtlik keskkonnaseire",
+      "section": "12",
+      "title": "§ 12. Vabatahtlik keskkonnaseire",
+      "content": "(1) Vabatahtlikku keskkonnaseiret teeb avalik-õiguslik või eraõiguslik juriidiline isik või füüsiline isik omal soovil ja kulul enda tarbeks.\n(2) Kui vabatahtlik keskkonnaseire on tehtud käesoleva seaduse §-s 7 nimetatud nõuete, meetodite ja metoodikate kohaselt, võib isik selle andmed esitada keskkonnaseire andmekogu vastutavale töötlejale.\n(3) Andmete keskkonnaseire andmekogu vastutavale töötlejale esitamisel peab isik määrama, kas ja millises ulatuses nõustub ta seireandmete avalikustamisega. Kui isik on määranud, et tema esitatud seireandmed võib avalikustada, aga pole täpsustanud, millises ulatuses, siis eeldatakse, et ta on nõus nende avalikustamisega täies ulatuses."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "4. peatükk - Keskkonnaseire andmete hoidmine, kasutamine, avaldamine ja säilitamine",
+      "section": "13",
+      "title": "§ 13. Keskkonnaseire andmete hoidmine, kasutamine, avaldamine ja säilitamine",
+      "content": "(1) Keskkonnaseire andmeid hoitakse ja avaldatakse keskkonnaseire andmekogus ja muus Kliimaministeeriumi haldusala infosüsteemis.\n(1^1) Keskkonnaseire andmekogu on riigi infosüsteemi kuuluv andmekogu, mille eesmärk on käesoleva seaduse alusel kogutavate keskkonnaseire andmete hõive, säilitamine ja kättesaadavuse tagamine.\n(1^2) Keskkonnaseire andmed käesoleva seaduse tähenduses on:\n1) keskkonnaseire käigus kogutavad andmed keskkonnaseisundi kohta;\n2) keskkonnaseire aruanded.\n(2) Keskkonnaseire andmete kasutamine ja andmevahetus riigi teiste infosüsteemide ja andmekogudega toimub andmekogude pidamist kindlustavate süsteemide kaudu, arvestades õigusaktides sätestatud piiranguid.\n(3)\n(4) Riikliku keskkonnaseire andmete kasutamisel ja avaldamisel on kohustuslik viidata seire vastutavale täitjale ja allprogrammile, mille alusel töö tehti, muude keskkonnaseire andmete kasutamise ja avaldamise korral andmete andjale.\n(5) Keskkonnaseire andmeid säilitatakse alaliselt.\n(6) Keskkonnaseire andmekogu asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "4. peatükk - Keskkonnaseire andmete hoidmine, kasutamine, avaldamine ja säilitamine",
+      "section": "14",
+      "title": "§ 14. Keskkonnaseire andmete kasutamine keskkonnaohu ja olulise keskkonnahäiringu ilmnemisel",
+      "content": "Kui keskkonnaseire andmed viitavad keskkonnaohu ja olulise keskkonnahäiringu olemasolule, on seire teostaja kohustatud sellest viivitamata teatama Keskkonnaametile ning keskkonnaohu või olulise keskkonnahäiringu ilmnemise asukoha kohaliku omavalitsuse üksusele, pinna- või põhjaveega, välisõhu või pinnasega seotud keskkonnaohu või olulise keskkonnahäiringu korral ka Terviseametile."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "5. peatükk - Riikliku keskkonnaseire jaama ja alaga tekitatud kahju hüvitamine",
+      "section": "15",
+      "title": "§ 15. Riikliku keskkonnaseire jaama ja alaga tekitatud kahju hüvitamine",
+      "content": "Riikliku keskkonnaseire jaama või ala rajamise või remondi tõttu ning jaamas või alal toimuva keskkonnaseire tõttu kinnisasja omanikule või valdajale tekitatud kahju hüvitab riiklikku keskkonnaseire jaama või ala valitsenud isik sõltumata oma süüst."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "6. peatükk - Riiklik järelevalve",
+      "section": "16",
+      "title": "§ 16. Riikliku järelevalve teostamine",
+      "content": "Riiklikku järelevalvet käesoleva seaduse § 10 lõikes 2 sätestatud keelu ja §-s 14 sätestatud nõuete järgimise ning § 10 lõike 3 alusel kehtestatud korra täitmise üle teostab Keskkonnaamet."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "6. peatükk - Riiklik järelevalve",
+      "section": "17",
+      "title": "§ 17. Riikliku järelevalve teostamiseks lubatud erimeetmed",
+      "content": "Keskkonnaamet võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30–32 ja 49–51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "6. peatükk - Riiklik järelevalve",
+      "section": "18",
+      "title": "§ 18. Vahetu sunni kasutamine",
+      "content": "Korrakaitseseaduse §-des 32, 49 ja 50 sätestatud meetmete rakendamisel on Keskkonnaametil lubatud kohaldada füüsilist jõudu korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "6. peatükk - Riiklik järelevalve",
+      "section": "19",
+      "title": "§ 19. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise puhul on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär 6400 eurot."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "7. peatükk - Vastutus",
+      "section": "20",
+      "title": "§ 20. Keskkonnaohust ja olulisest keskkonnahäiringust teavitamata jätmine",
+      "content": "(1) Keskkonnaseire andmete alusel ilmnevast keskkonnaohust või olulisest keskkonnahäiringust teavitamata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "7. peatükk - Vastutus",
+      "section": "21",
+      "title": "§ 21. Menetlus",
+      "content": "Käesoleva seaduse §-s 20 sätestatud väärteo kohtuväline menetleja on Keskkonnaamet."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "22",
+      "title": "§ 22. Keskkonnaseirejaama ja -ala talumiskohustus",
+      "content": "(1) Kinnisasja omanik on kohustatud taluma oma kinnisasjal olemasolevat riiklikku keskkonnaseire jaama või ala, mis on rajatud enne maa esmakinnistamist ja mille eemaldamine tooks kaasa riikliku keskkonnaseire või pikaajalise andmerea katkemise või ülemäära suuri kulutusi jaama või ala ümberpaigutamiseks.\n(2) Talumiskohustuse tingimustes, sealhulgas talumiskohustuse hüvitisega seonduvas, lepitakse kokku vastutava täitja ja kinnisasja omaniku vahel sõlmitavas kokkuleppes, kui kinnisasja omanik seda soovib."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "23",
+      "title": "§ 23. Keskkonnaseire andmete üleviimine keskkonnaseire andmekogusse",
+      "content": "(1) Kuni keskkonnaseire andmekogu asutamiseni hoitakse keskkonnaseire andmeid keskkonnaregistris või muus Kliimaministeeriumi haldusala infosüsteemis.\n(2) Keskkonnaseire andmekogusse võib andmed keskkonnaregistrist või muust Kliimaministeeriumi haldusala infosüsteemist üle viia ka järk-järgult allprogrammide kaupa, sõltuvalt infotehnoloogilise valmiduse saavutamisest. Andmete keskkonnaseire andmekogusse üleviimise tähtajad sätestatakse andmekogu põhimääruses."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "24",
+      "title": "§ 24. Keskkonnaseirejaama ja -ala rajamiseks ja käitamiseks sõlmitud kokkulepped",
+      "content": "Enne käesoleva seaduse jõustumist sõlmitud kokkulepped keskkonnaseirejaama või -ala rajamiseks või käitamiseks kehtivad nende kehtivusaja lõpuni."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "25",
+      "title": "§ 25. Kinnisasja sundvõõrandamise seaduse muutmine",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "26",
+      "title": "§ 26. Keskkonnaseire seaduse kehtetuks tunnistamine",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "27",
+      "title": "§ 27. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2017. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": []
+}

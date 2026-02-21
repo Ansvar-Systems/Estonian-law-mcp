@@ -247,7 +247,7 @@ function extractParagraphText(paragraphXml: string): string {
     currentLine = '';
   };
 
-  const tokenRegex = /<(kuvatavNr|tavatekst|HTMLKonteiner)\b[^>]*>([\s\S]*?)<\/\1>|<reavahetus\b[^>]*\/>/gi;
+  const tokenRegex = /<(kuvatavNr|kuvatavTekst|tavatekst|HTMLKonteiner)\b[^>]*>([\s\S]*?)<\/\1>|<reavahetus\b[^>]*\/>/gi;
   let tokenMatch: RegExpExecArray | null;
 
   while ((tokenMatch = tokenRegex.exec(working)) !== null) {
@@ -284,6 +284,65 @@ function extractParagraphText(paragraphXml: string): string {
     .trim();
 
   return joined;
+}
+
+function extractFallbackText(xml: string): string {
+  const extractFromBlock = (input: string, stripChangeBlocks: boolean): string => {
+    let working = stripChangeBlocks
+      ? input.replace(/<muutmismarge\b[\s\S]*?<\/muutmismarge>/gi, '')
+      : input;
+    const lines: string[] = [];
+    let currentLine = '';
+
+    const pushCurrentLine = (): void => {
+      const normalized = normalizeLine(currentLine);
+      if (normalized) lines.push(normalized);
+      currentLine = '';
+    };
+
+    const tokenRegex = /<(kuvatavNr|kuvatavTekst|tavatekst|HTMLKonteiner)\b[^>]*>([\s\S]*?)<\/\1>|<reavahetus\b[^>]*\/>/gi;
+    let tokenMatch: RegExpExecArray | null;
+
+    while ((tokenMatch = tokenRegex.exec(working)) !== null) {
+      const tag = tokenMatch[1];
+      if (!tag) {
+        pushCurrentLine();
+        continue;
+      }
+
+      const value = normalizeInline(stripMarkup(tokenMatch[2] ?? ''));
+      if (!value) continue;
+
+      if (tag.toLowerCase() === 'kuvatavnr') {
+        pushCurrentLine();
+        currentLine = value;
+        continue;
+      }
+
+      if (currentLine) currentLine += ` ${value}`;
+      else currentLine = value;
+    }
+
+    pushCurrentLine();
+
+    return lines.join('\n').replace(/\n{3,}/g, '\n\n').trim();
+  };
+
+  const sisuMatch = xml.match(/<sisu\b[^>]*>([\s\S]*?)<\/sisu>/i);
+  if (sisuMatch) {
+    const text = extractFromBlock(sisuMatch[1], true);
+    if (text) return text;
+  }
+
+  // Some records are published only as repeal/change markers with empty <sisu/>.
+  const changeBlocks = [...xml.matchAll(/<muutmismarge\b[\s\S]*?<\/muutmismarge>/gi)]
+    .map(match => extractFromBlock(match[0], false))
+    .filter(Boolean);
+  if (changeBlocks.length > 0) {
+    return changeBlocks.join('\n');
+  }
+
+  return '';
 }
 
 function extractDefinitions(provisions: ParsedProvision[]): ParsedDefinition[] {
@@ -391,6 +450,20 @@ export function parseRiigiTeatajaXml(xml: string, law: TargetLaw): ParsedAct {
     });
 
     provisionRefSet.add(provisionRef);
+  }
+
+  if (provisions.length === 0) {
+    const fallbackContent = extractFallbackText(xml);
+    if (fallbackContent) {
+      provisions.push({
+        provision_ref: 'para1',
+        section: '1',
+        title: /<preambul\b/i.test(xml)
+          ? 'Preambul'
+          : (/<muutmismarge\b/i.test(xml) ? 'Muutmismärge' : '§ 1.'),
+        content: fallbackContent,
+      });
+    }
   }
 
   const definitions = extractDefinitions(provisions);

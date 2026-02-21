@@ -1,0 +1,345 @@
+{
+  "id": "ee-law-769551",
+  "type": "statute",
+  "title": "Riigisaladuse seadus",
+  "title_en": "Riigisaladuse seadus",
+  "short_name": "ee-law-769551",
+  "status": "in_force",
+  "issued_date": "1999-01-26",
+  "in_force_date": "2004-07-01",
+  "url": "https://www.riigiteataja.ee/akt/769551.xml",
+  "description": "Official consolidated statute text (Riigisaladuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "Käesolev seadus sätestab riigisaladuse mõiste, riigisaladuseks oleva teabe, riigisaladusele juurdepääsu ning riigisaladuse ja salastatud teabekandjate töötlemise korra alused."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Mõisted",
+      "content": "Käesolevas seaduses kasutatakse mõisteid järgmises tähenduses:\n1) riigisaladus – üksnes käesolevas seaduses sätestatud Eesti Vabariigi julgeoleku tagamise huvides avalikuks tuleku eest kaitset vajav teave, mis kuulub riigile, on riigi kontrolli all või on toodetud riigi poolt või riigi jaoks;\n2) salastatud teabekandja – dokument, andmekogum või muu materiaalne objekt, mis sisaldab riigisaladust või esitab seda elektroonilises vormis;\n3) riigisaladuse valdaja - asutus, institutsioon või juriidiline või füüsiline isik, kelle valduses on riigisaladus või salastatud teabekandja;\n4) juurdepääsuvajadus - töö- või teenistusülesandest, samuti õppe- või uurimistööst või riigihanke läbirääkimistest tulenev riigisaladusega tutvumise või selle töötlemise vajadus, samuti seadusest tulenev õigus tutvuda kriminaalasjas, tsiviilasjas, haldusasjas või haldusõiguserikkumise asjas riigisaladust sisaldava teabekandjaga või osaleda riigisaladuseks oleva teabe käsitlemisel kohtumenetluse või kohtueelse menetluse käigus;\n5) põhjendatud teadmisvajadus - vajadus teada või töödelda konkreetset riigisaladust või salastatud teabekandjat;\n6) riigisaladuse automatiseeritud infotöötlussüsteemid – mis tahes tehnilised vahendid, mida kasutatakse riigisaladuse automatiseeritud töötlemiseks, sealhulgas tark- või riistvara, telekommunikatsioonivõrk, -liin või -seade, nende liides või kogum;\n7) elektrooniline teabeturve – teabe (riigisaladuse) käideldavuse, salajasuse ja terviklikkuse olemasolu tagamine riigisaladuse automatiseeritud infotöötlussüsteemides."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "2. peatükk - RIIGISALADUS",
+      "section": "3",
+      "title": "§ 3. Riigisaladuse tasemed",
+      "content": "(1) Riigisaladuseks oleva teabe tähtsusest lähtuvalt liigitatakse käesolevas seaduses riigisaladus järgmisteks erineva salastatuse tasemega saladusteks:\n1) «piiratud» tasemega riigisaladus;\n2) «konfidentsiaalse» tasemega riigisaladus;\n3) «salajase» tasemega riigisaladus;\n4) «täiesti salajase» tasemega riigisaladus.\n(2) Salastatuse tasemed on käesoleva paragrahvi lõikes 1 nimetatud nende tasemete tähtsuse suurenemise järjekorras."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - RIIGISALADUS",
+      "section": "4",
+      "title": "§ 4. Teabekandja salastamistähtaeg",
+      "content": "(1) Riigisaladust sisaldava teabekandja salastamistähtaeg on võrdne selles sisalduva riigisaladuse salastamistähtajaga.\n(2) Teabekandja salastamistähtaja kulgu arvestatakse alates päevast, millal teabekandja registreeriti kui salastatud teabekandja."
+    },
+    {
+      "provision_ref": "para4^1",
+      "chapter": "2. peatükk - RIIGISALADUS",
+      "section": "4^1",
+      "title": "§ 4^1. «Piiratud» tasemega riigisaladus",
+      "content": "(1)\n(2) «Piiratud» tasemega riigisaladus on Välisministeeriumi, Kaitseministeeriumi ja Kaitsejõudude Peastaabi kogutud ja koostatud teave välisriikide ja rahvusvaheliste organisatsioonide kohta, välja arvatud teave, mille avalikustamine ei kahjusta välissuhtlemist. Seda teavet sisaldav teabekandja salastatakse 30 aastaks. [Lõige 3 jõustub Politseiameti, Piirivalveameti, Justiitsministeeriumi vanglate osakonna ja vangla ning Maksu- ja Tolliameti suhtes 2005. aasta 1. jaanuaril]\n(3) Piiratud tasemega riigisaladuseks on jälitusasutuste poolt kriminaalmenetluse seadustiku §-de 115–120 alusel kogutud teave ning teabe kogumisel kasutatud meetodid, taktika ja tehnilised vahendid ulatuses, mis on vajalik teabe kasutamisel tõendina. Seda teavet sisaldav teabekandja salastatakse 25 aastaks. Salastatus kustub teabe kasutamisel kriminaaltoimikus või teabe tutvustamisel isikule, kelle suhtes jälitustoiming tehti, või isikule, kelle perekonna- või eraelu puutumatust jälitustoiminguga riivati."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - RIIGISALADUS",
+      "section": "5",
+      "title": "§ 5. \"Konfidentsiaalse\" tasemega riigisaladus",
+      "content": "\"Konfidentsiaalse\" tasemega riigisaladuseks on järgmine teave:\n1) Kaitseministeeriumi, Siseministeeriumi, Kaitsepolitseiameti ning Teabeameti kriisireguleerimisplaan tegutsemiseks hädaolukorras. Seda teavet sisaldav teabekandja salastatakse 20 aastaks. Salastatus kustub teabe kasutamisel hädaolukorras\n2) Vabariigi Valitsuse kriisikomisjoni viivitamatu kokkukutsumise kriteeriumid. Seda teavet sisaldav teabekandja salastatakse 10 aastaks;\n3) Vabariigi Valitsuse kinnitatud riiklikult tähtsate hädaolukorraks valmisolekuga seotud ettevõtete ja asutuste loetelu, mille töö tagamine on riigi julgeolekule olulise tähtsusega. Seda teavet sisaldav teabekandja salastatakse 10 aastaks;\n4)\n5) kaitseväe ja Kaitseliidu sõjaaja struktuur. Seda teavet sisaldav teabekandja salastatakse 10 aastaks;\n5^1) kaitsetegevuse operatiivkava. Seda teavet sisaldav teabekandja salastatakse 20 aastaks;\n6) väeosa tegevuskava eriolukorra ja erakorralise seisukorra ajal ning sõjaajal. Seda teavet sisaldav teabekandja salastatakse 20 aastaks. Salastatus kustub eriolukorra, erakorralise seisukorra või sõjaseisukorra väljakuulutamisel;\n7) [Kehtetu]\n8) kaitseväe ja Kaitseliidu mobilisatsioonikava kaitseringkonna ja maakonna ulatuses. Seda teavet sisaldav teabekandja salastatakse 25 aastaks;\n9) kaitseringkonna sideplaan ja väeosa sideskeem. Seda teavet sisaldav teabekandja salastatakse 20 aastaks;\n10) riigisaladust valdava asutuse riigisaladust sisaldavate teabekandjate evakuatsiooniplaan. Seda teavet sisaldav teabekandja salastatakse 20 aastaks;\n11) õhuväe integreeritud õhuseiresüsteemi side- ja infotehnoloogia allprojektid. Seda teavet sisaldav teabekandja salastatakse 25 aastaks;\n12) [Kehtetu];\n13) Kaitsepolitseiameti ja Teabeameti valduses või kasutuses olevate hoonete, ruumide, rajatiste, valve- ja sidesüsteemide ning muude kommunikatsioonide plaanid. Seda teavet sisaldav teabekandja salastatakse 50 aastaks;\n14) Välisministeeriumi (sealhulgas välisesinduste) ja Kaitseministeeriumi valve- ja sidesüsteemide plaanid. Seda teavet sisaldav teabekandja salastatakse 50 aastaks;\n15) kaitseväe, Kaitseliidu ja piirivalve relva- ja laskemoonaladude ning nende valve- ja sidesüsteemide ning muude kommunikatsioonide plaanid. Seda teavet sisaldav teabekandja salastatakse 25 aastaks;\n16) Kaitsepolitseiameti ja Teabeameti tööandja eluruumide üldarv ja koondandmed. Seda teavet sisaldav teabekandja salastatakse 10 aastaks;\n17) Kaitsepolitseiameti alarmsõidukite üldarv, koondandmed, arvestus ja kasutamine jälitustegevuses ning jälitustoimingute vahetuks läbiviimiseks kasutatavad transpordivahendid ja neid puudutav teave. Seda teavet sisaldav teabekandja salastatakse 10 aastaks;\n18) riigisaladuse automatiseeritud infotöötlussüsteemide kasutamist, paiknemist ja tehnilisi andmeid puudutav teave, mille valdamine võimaldab ohustada elektroonilist teabeturvet. Seda teavet sisaldav teabekandja salastatakse 25 aastaks;\n19) õhuväe õhuseire terviklik integreeritud radariteave. Seda teavet sisaldav teabekandja salastatakse 10 aastaks;\n20) Välisministeeriumi juures tegutseva strateegilise kauba komisjoni kogutud ja koostatud teave strateegilise kauba sisseveo, väljaveo, transiidi, sõjalise kaubaga seotud teenuse väljaveo ja strateegilise kauba lõppkasutuse kohta, välja arvatud teave, mille avalikustamine ei kahjusta välissuhtlemist ega riigi julgeolekut. Seda teavet sisaldav teabekandja salastatakse 30 aastaks."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - RIIGISALADUS",
+      "section": "6",
+      "title": "§ 6. \"Salajase\" tasemega riigisaladus",
+      "content": "\"Salajase\" tasemega riigisaladuseks on järgmine teave:\n1) mobilisatsiooni läbiviimise tegevuskava. Seda teavet sisaldav teabekandja salastatakse 30 aastaks. Salastatus kustub mobilisatsiooni väljakuulutamisel;\n2) kaitseväe ja Kaitseliidu sõjaaja koosseis. Seda teavet sisaldav teabekandja salastatakse 10 aastaks;\n3) ministeeriumide ja maakondade riskianalüüsi kokkuvõte ning riskianalüüsi see osa, mis kirjeldab põhiseaduslikku korda ähvardavaid ohte, planeeritavaid meetmeid ja ressursside vajadust ohtude ennetamiseks ning nendest tulenevate hädaolukordade lahendamiseks. Seda teavet sisaldav teabekandja salastatakse 10 aastaks;\n4) strateegilised ja sõjalised uuringud ning nende läbiviimiseks riigieelarvest eraldatavate vahendite jaotust puudutav teave. Seda teavet sisaldav teabekandja salastatakse 15 aastaks;\n5) julgeoleku- ja mobilisatsioonivaru nomenklatuur ja kogused. Seda teavet sisaldav teabekandja salastatakse 10 aastaks;\n6) statsionaarselt paigaldatud relvi ja nende laskesektoreid puudutav teave. Seda teavet sisaldav teabekandja salastatakse 20 aastaks;\n7) kaitseväe ja Kaitseliidu sideplaan. Seda teavet sisaldav teabekandja salastatakse 30 aastaks;\n8) riigisaladuse automatiseeritud infotöötlussüsteemide paiknemist, ühendusi ja ühenduspunkte, samuti nende konfiguratsiooni, võimsust, sagedusi ja teisi parameetreid puudutav teave. Seda teavet sisaldav teabekandja salastatakse 30 aastaks;\n9) Kaitsepolitseiameti või Teabeameti poolt julgeolekuasutuste seaduse §-des 25 ja 26 sätestatud viisil kogutud teave ja see osa teabe kogumiseks kasutatud meetoditest, taktikast ja tehnilistest vahenditest, mille olemus on tuletatav kogutud teabest, ning Kaitsepolitseiameti poolt jälitustegevuses kasutatavad meetodid, taktika ja üksnes teabe kogumiseks kasutatavad või selleks kohandatud tehnilised vahendid, välja arvatud käesoleva seaduse § 4 ^1 lõikes 3 kirjeldatud teave. Seda teavet sisaldav teabekandja salastatakse 25 aastaks;\n10) Kaitsejõudude Peastaabi luure ja vastuluurega tegeleva struktuuriüksuse koosseis, välja arvatud administratiivjaoskond. Seda teavet sisaldav teabekandja salastatakse 25 aastaks;\n11) Kaitsepolitseiameti ja Teabeameti struktuur, välja arvatud struktuuriüksused, mis avaldatakse vastava julgeolekuasutuse põhimääruses. Seda teavet sisaldav teabekandja salastatakse 25 aastaks;\n12) Kaitsejõudude Peastaabi luure ja vastuluurega tegelevale struktuuriüksusele ning Kaitsepolitseiameti ja Teabeameti struktuuriüksustele pandud ülesanded ja struktuuriüksuste teenistujate ja seal teenivate isikute konkreetsed tööülesanded. Seda teavet sisaldav teabekandja salastatakse 25 aastaks;\n13) Kaitsepolitseiameti ja Teabeameti teenistujate üldarv ja koondandmed ning üksnes jälitustegevusega seonduvaid tööülesandeid täitvate teenistujate koosseis. Seda teavet sisaldav teabekandja salastatakse 25 aastaks;\n14) kaitseväe, Kaitseliidu, Kaitsepolitseiameti ja Teabeameti ja piirivalve relvade ja laskemoona üldarv ja nende jaotust puudutav teave ning Kaitsepolitseiameti politseierivahendite üldarv. Seda teavet sisaldav teabekandja salastatakse 10 aastaks;\n15) Kaitsejõudude Peastaabi luure ja vastuluurega tegeleva struktuuriüksuse, Kaitsepolitseiameti ja Teabeameti eelarve kulude mis tahes liigendus. Seda teavet sisaldav teabekandja salastatakse 50 aastaks;\n16) Kaitsepolitseiameti ja Teabeameti riigivara majandamise kava. Seda teavet sisaldav teabekandja salastatakse 10 aastaks;\n17) Eestit okupeerinud riikide julgeolekuorganite või relvajõudude luure- või vastuluureorganite teenistuses olnud või nendega koostööd teinud isikute arvelevõtmise ja avalikustamise korra seaduse (RT I 1995, 17, 233)) § 5 lõike 2 punktis 1 sätestatud korras Kaitsepolitseiametile julgeoleku- või luureorgani teenistuses olemise või sellega koostöö tegemise kohta isikliku ülestunnistuse esitanud isikut puudutavad andmed, välja arvatud juhul, kui julgeoleku- või luureorgani teenistuses olnud või sellega koostööd teinud isik on eeltoodud teenistuse või koostööga seonduvalt rikkunud sel ajal kehtinud seadusi või toime pannud inimsusevastaseid kuritegusid või sõjakuritegusid ning seaduse rikkumine või kuriteo toimepanemine selle isiku poolt on kohtulikult tõendatud jõustunud kohtulahendiga või kui julgeoleku- või luureorgani teenistuses oli või tegi sellega koostööd Vabariigi President või Riigikogu, Vabariigi Valitsuse või Riigikohtu liige. Seda teavet sisaldav teabekandja salastatakse 50 aastaks. Salastatus kustub, kui isiku surmast on möödunud 20 aastat, kuid sealhulgas mitte rohkem kui 50 aastat teabekandja salastamisest arvates;\n18) Kaitsejõudude Peastaabi, Kaitsepolitseiameti, Teabeameti või Riigikantselei koostatud ohuprognoos ja riigi teabehanke eelistuskava. Seda teavet sisaldav teabekandja salastatakse 25 aastaks;\n19) Kaitseministeeriumi kui riigi julgeoleku volitatud esindaja, kaitseväe, Kaitsepolitseiameti, Teabeameti või Riigikantselei julgeolekuasutuste töö koordineerimisega tegeleva ametniku koostöö välisriigi julgeolekuasutusega. Seda teavet sisaldav teabekandja salastatakse 50 aastaks, kui vastava riigiga ei ole kokku lepitud teisiti;\n20) Kaitsepolitseiameti või Teabeameti valdusse antud riigivara kohta peetava registri andmed. Seda teavet sisaldav teabekandja salastatakse 25 aastaks."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - RIIGISALADUS",
+      "section": "7",
+      "title": "§ 7. \"Täiesti salajase\" tasemega riigisaladus",
+      "content": "\"Täiesti salajase\" tasemega riigisaladuseks on järgmine teave:\n1) riiklikus kriisireguleerimisplaanis kirjeldatud riiklik tegevuskava tegutsemiseks eriolukorra ja erakorralise seisukorra ajal ning sõjaajal. Seda teavet sisaldav teabekandja salastatakse 50 aastaks. Salastatus kustub eriolukorra, erakorralise seisukorra või sõjaseisukorra väljakuulutamisel;\n2) Kaitsepolitseiameti või Teabeameti poolt julgeolekuasutuste seaduse §-des 25 ja 26 sätestatud viisil teabe kogumise meetodid ja taktika ning üksnes teabe kogumiseks kasutatavate või selleks kohandatud tehniliste vahendite kohta käiv teave, välja arvatud käesoleva seaduse § 6 punktis 9 kirjeldatud meetodid ja taktika. Seda teavet sisaldav teabekandja salastatakse 50 aastaks;\n3) Kaitsepolitseiameti jälitustegevus koostöös välisriikide politsei- ja julgeolekuasutustega ning selle käigus vahetatav teave, samuti Kaitsepolitseiameti või Teabeameti poolt julgeolekuasutuste seaduse §-des 25 ja 26 sätestatud viisil teabe kogumine koostöös välisriikide julgeolekuasutustega ning selle käigus vahetatav teave. Seda teavet sisaldav teabekandja salastatakse 50 aastaks;\n4) Kaitsepolitseiameti poolt jälitustegevuse käigus kogutud teabest, samuti Kaitsepolitseiameti või Teabeameti poolt julgeolekuasutuste seaduse §-des 25 ja 26 sätestatud viisil kogutud teabest moodustatud elektroonilised andmekogud ja neid puudutav teave. Seda teavet sisaldav teabekandja salastatakse 50 aastaks;\n5) Kaitsejõudude Peastaabi, Teabeameti ja Kaitsepolitseiameti poolt alalisele salajasele koostööle kaasatud isikud ja variisikud ning nende isikuandmed. Seda teavet sisaldav teabekandja salastatakse 75 aastaks. Salastatus kustub, kui isiku surmast on möödunud 20 aastat, kuid sealhulgas mitte rohkem kui 50 aastat teabekandja salastamisest arvates;\n6) Kaitsepolitseiameti initsiatiivil jälitustegevuse käigus asutatud varistruktuuride seotus Kaitsepolitseiametiga, samuti Kaitsepolitseiameti või Teabeameti ülesannete täitmiseks vajaliku isiku, asutuse või organi teesklemine. Seda teavet sisaldav teabekandja salastatakse 50 aastaks. Salastatus kustub teabe kasutamisel kriminaalmenetluses;\n7) Kaitsepolitseiameti ja Teabeameti krüpteeritud infosüsteemi paiknemist, samuti süsteemi ja selle seadmete konfiguratsiooni, võimsust ja teisi parameetreid puudutav teave. Seda teavet sisaldav teabekandja salastatakse 15 aastaks;\n8) elektroonilise teabeturbe ja eriside korraldamiseks ning kontrollimiseks kasutatavad meetodid ja vahendid. Seda teavet sisaldav teabekandja salastatakse 30 aastaks."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - RIIGISALADUS",
+      "section": "8",
+      "title": "§ 8. Välisriigi salastatud teave",
+      "content": "Välisriigi salastatud teave on välisriigi, Euroopa Liidu, NATO või mõne muu rahvusvahelise organisatsiooni (edaspidi teabe avaldaja ) poolt Eestile välislepingu alusel edastatud teave, mille teabe avaldaja on salastanud."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "3. peatükk - TEABEKANDJA SALASTATUSE KUSTUMINE JA KUSTUTAMINE NING TEABEKANDJA SALASTAMISTÄHTAJA PIKENDAMINE",
+      "section": "9",
+      "title": "§ 9. Teabekandja salastatuse kustumine",
+      "content": "(1) Teabekandja salastatus kustub teabekandja salastamistähtaja möödumisel.\n(2) Teabekandja salastatus ei kustu põhjusel, et selles sisalduv teave on tulnud ebaseaduslikult avalikuks või on avalikustatud teabekandjas sisalduva riigisaladusega sarnane teave.\n(3) Riigisaladuse valdaja on kohustatud vähemalt üks kord aastas vaatama üle tema valduses olevad salastatud teabekandjad ning salastatuse kustumisel tegema teabekandjale vastava märke."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "3. peatükk - TEABEKANDJA SALASTATUSE KUSTUMINE JA KUSTUTAMINE NING TEABEKANDJA SALASTAMISTÄHTAJA PIKENDAMINE",
+      "section": "10",
+      "title": "§ 10. Riigisaladuseks oleva teabe salastatuse ennetähtaegse kustutamise ja salastamistähtaja pikendamise alused",
+      "content": "(1) Kui riigisaladuseks olev teave ei vaja enam riigi julgeoleku tagamise huvides kaitset avalikuks tuleku eest, võidakse selle teabe salastatus kustutada ennetähtaegselt käesoleva seadusega sätestatud korras.\n(1^1) Kui riigisaladuseks tunnistatud teave sisaldab kuriteo tunnuseid, edastab teabe valdaja selle pädevale riigiasutusele, lähtudes uurimisalluvusest. Edastatakse ainult see osa teabest, mis ei sea ohtu teabes või teabe kogumisel osalenud või osalevate isikute julgeolekut ja riigisaladuse kaitset.\n(2) Kui riigisaladuseks olev teave vajab riigi julgeoleku tagamise huvides kaitset avalikuks tuleku eest ka pärast ettenähtud salastamistähtaja möödumist, võidakse selle teabe salastamistähtaega pikendada, kuid kokku mitte rohkem kui 50 aastaks.\n(3) Käesoleva paragrahvi lõikes 2 sätestatu ei laiene käesoleva seaduse § 5 punktides 13 ja 14, § 6 punktides 15, 17 ja 19 ning § 7 punktides 1-6 nimetatud teabele. �� 11. Riigisaladuseks oleva teabe salastatuse ennetähtaegse kustutamise või salastamistähtaja pikendamise kord\n(1) Riigisaladuseks oleva teabe salastatuse ennetähtaegse kustutamise või salastamistähtaja pikendamise otsustab Vabariigi Valitsus korraldusega.\n(2) Vabariigi Valitsus võib kehtestada riigisaladuseks oleva teabe liigid, mille salastatuse ennetähtaegse kustutamise või salastamistähtaja pikendamise otsustab:\n1) minister käskkirjaga - ministeeriumi valitsemisala käsitlevates küsimustes;\n2) kaitseväe juhataja või kaitseväe ülemjuhataja käskkirjaga - kaitseväge või Kaitseliitu käsitlevates küsimustes.\n(3) Taotlus riigisaladuseks oleva teabe salastatuse ennetähtaegseks kustutamiseks või salastamistähtaja pikendamiseks Vabariigi Valitsuse poolt esitatakse ministri kaudu, kelle juhitava ministeeriumi valitsemisala taotlus käsitleb. Muudel juhtudel esitatakse taotlus siseministri kaudu. Ministril on õigus suunata taotlus riigisaladuse kaitse komisjonile arvamuse andmiseks.\n(4) Taotlus riigisaladuseks oleva teabe salastamistähtaja pikendamise kohta tuleb esitada vastavalt Vabariigi Valitsusele, ministrile või kaitseväe juhatajale või ülemjuhatajale vähemalt kolm kuud enne teabe salastamistähtaja lõppemist.\n(5) Otsuse ärakiri riigisaladuseks oleva teabe salastatuse ennetähtaegse kustutamise või salastamistähtaja pikendamise kohta edastatakse kohe kõigile seda teavet sisaldavate teabekandjate valdajatele."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "4. peatükk - RIIGISALADUSE KAITSE",
+      "section": "12",
+      "title": "§ 12. Riigisaladuse kaitse korraldus",
+      "content": "(1) Riigisaladuse kaitse tagatakse:\n1) riigisaladusele juurdepääsu korra järgimise ja elektroonilise teabeturbe tagamisega;\n2) riigisaladuse ja salastatud teabekandjate töötlemisele kehtestatud nõuete järgimise ja tagamisega;\n3) riigisaladuse hoidmisega ebaseadusliku avalikuks tuleku eest;\n4) kriminaal- ja distsiplinaarvastutuse kohaldamisega riigisaladusele juurdepääsu korra ning riigisaladuse ja salastatud teabekandjate töötlemise nõuete eiramise ning riigisaladuse ebaseadusliku avalikustamise eest.\n(2) Riigisaladuse kaitse kord kehtestatakse Vabariigi Valitsuse määrusega. Riigisaladuse kaitse korras sätestatakse:\n1) nõuded riigisaladust valdavale asutusele, institutsioonile ning juriidilisele isikule riigisaladuse kaitse korraldamiseks ning elektrooniliseks teabeturbeks;\n2) riigisaladuse ja salastatud teabekandjate töötlemise täpsem kord;\n3) nõuded salastatud teabekandjate hoiukohtadele, edasitoimetamisele, veovahendajatele ja veole;\n4) nõuded julgeolekuasutuste ja Kaitsejõudude Peastaabi töökorraldusele (§-d 16 ja 16 ^1 ) käesoleva seadusega neile pandud kontrolli teostamisel;\n5) välisriigi salastatud teabe kaitse ja välisriigi salastatud teabe juurdepääsusertifikaadi väljastamise täpsem kord.\n(3) Kaitsepolitseiameti poolt teostatava riigisaladuse kaitse kontrolli tööplaani ja kontrolli läbiviimiseks moodustatava komisjoni töökorra kinnitab siseminister."
+    },
+    {
+      "provision_ref": "para12^1",
+      "chapter": "4. peatükk - RIIGISALADUSE KAITSE",
+      "section": "12^1",
+      "title": "§ 12^1. Välisriigi salastatud teabe kaitse",
+      "content": "Välisriigi salastatud teavet kaitstakse ja töödeldakse selle salastatuse tasemele vastava riigisaladusega samadel alustel ja samas korras, kui välislepingust või käesolevast seadusest ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "4. peatükk - RIIGISALADUSE KAITSE",
+      "section": "13",
+      "title": "§ 13. Riigisaladuse hoidmise kohustus",
+      "content": "(1) Isik, kellel ei ole õigust juurdepääsuks riigisaladusele, kuid kellele on teatavaks saanud riigisaladus, on kohustatud hoidma seda saladuses.\n(2) Isik, kellel ei ole õigust juurdepääsuks riigisaladusele, kuid kelle valdusesse on sattunud salastatud teabekandja, on kohustatud andma selle viivitamata Kaitsepolitseiametile."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "4. peatükk - RIIGISALADUSE KAITSE",
+      "section": "14",
+      "title": "§ 14. Riigisaladusele juurdepääsu omava isiku kohustused",
+      "content": "(1) Riigisaladusele juurdepääsu omav isik on kohustatud:\n1) hoidma saladuses talle teatavaks saanud riigisaladust;\n2) kaitsma tema valduses olevat salastatud teabekandjat avalikuks tuleku ja kõrvalise isiku juurdepääsu eest;\n3) teatama asutuse või juriidilise isiku juhile või tema poolt riigisaladuse kaitset korraldama volitatud isikule ja asjaomasele julgeolekukontrolli asutusele kohe igast isikust, kes püüab mis tahes viisil saavutada ebaseaduslikku juurdepääsu riigisaladusele;\n4) teatama asutuse või juriidilise isiku juhile või tema poolt riigisaladuse kaitset korraldama volitatud isikule ja asjaomasele julgeolekukontrolli asutusele viivitamata igast temale teatavaks saanud käesoleva seaduse või selle alusel antud õigusakti nõuete rikkumisest;\n5) teatama asjaomasele julgeolekukontrolli asutusele kohe oma nime, elu- või asukoha või postiaadressi muutmisest.\n(2) Lisaks käesoleva paragrahvi lõikes 1 sätestatule on juriidiline isik kohustatud julgeolekukontrolli asutusele kohe teatama ka järgmistest muudatustest:\n1) ühinemisest, jagunemisest või ümberkujundamisest;\n2) juhatuse või nõukogu liikmete muutumisest;\n3) juriidilise isiku suhtes algatatud pankroti- või likvideerimismenetlusest;\n4) omanike muutumisest, kui uue omaniku osalus moodustab vähemalt 5%;\n5) varaliste kohustuste tekkimisest, mis ületavad eelmise majandusaasta ühe kuu keskmist käivet."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "4. peatükk - RIIGISALADUSE KAITSE",
+      "section": "15",
+      "title": "§ 15. Riigisaladust valdava asutuse, institutsiooni ja juriidilise isiku kohustused",
+      "content": "(1) Riigisaladust valdava asutuse, institutsiooni ja juriidilise isiku juht on kohustatud määrama isiku ja vajaduse korral tema asendaja, kes korraldab riigisaladuse kaitset ning vastutab käesoleva seaduse ja selle alusel antud õigusaktidega kehtestatud nõuete täitmise eest, ning ametikohad, millel töötamise eeltingimuseks on juurdepääsu omamine riigisaladusele.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud vastutav isik peab alluma riigisaladuse kaitse korraldamise küsimuses vahetult asutuse, institutsiooni või juriidilise isiku juhile. Vajaduse korral moodustatakse riigisaladuse kaitset korraldav struktuuriüksus.\n(3) Lisaks käesolevas seaduses sätestatud muudele kohustustele on riigisaladust valdav asutus, institutsioon ja juriidiline isik kohustatud kooskõlastatult Kaitsepolitseiameti või Kaitsejõudude Peastaabiga vastavalt nende seaduses sätestatud pädevusele kehtestama käesolevast seadusest ja selle alusel antud õigusaktidest tulenevad juhendid, reguleerimaks juurdepääsu riigisaladusele ning riigisaladuse töötlemist ja kaitset."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "4. peatükk - RIIGISALADUSE KAITSE",
+      "section": "16",
+      "title": "§ 16. Kaitsepolitseiameti ja Kaitsejõudude Peastaabi kohustused ja õigused riigisaladuse kaitse korraldamisel",
+      "content": "(1) Riigisaladuse kaitset korraldab ja kontrolli käesoleva seaduse täitmise üle teostab Kaitsepolitseiamet, kaitseväes ja Kaitseliidus Kaitsejõudude Peastaap, välja arvatud käesoleva seaduse §-des 16 ^1 ja 16 ^2 nimetatud juhtudel.\n(2) Kaitsepolitseiamet ja Kaitsejõudude Peastaap on vastavalt kohustatud:\n1) kontrollima riigisaladust valdava asutuse, institutsiooni ja juriidilise isiku riigisaladuse kaitse programmide ja süsteemide olemasolu ja korrasolekut ning töötajate juurdepääsu riigisaladusele;\n2) kontrollima riigisaladuse ja salastatud teabekandjate töötlemise vastavust nõuetele;\n3) välja selgitama käesoleva seaduse ja selle alusel antud õigusaktide nõuete rikkumisi;\n4) tegema riigisaladuse kaitse komisjonile ettepanekuid esinevate puuduste ja õiguserikkumiste vältimiseks ja kõrvaldamiseks;\n5) korraldama regulaarselt koolitust riigisaladuse kaitse küsimustes.\n(3) Kaitsepolitseiametil ja Kaitsejõudude Peastaabil on kontrollimise käigus õigus tutvuda kogu vajaliku teabega ning teha asutusele, institutsioonile ja juriidilisele isikule kohustuslikke ettekirjutusi riigisaladuse seadusest tulenevate nõuete rikkumise või rikkumise ohu kõrvaldamiseks.\n(4) Kui kontrollimise käigus on välja selgitatud käesoleva seaduse või selle alusel antud õigusaktidega kehtestatud nõuete rikkumine, mis võib kaasa tuua riigisaladuse avalikuks tuleku, on vastavalt Kaitsepolitseiametil või Kaitsejõudude Peastaabil õigus teha kontrollitavale asutusele, institutsioonile ja juriidilisele isikule kohustuslik ettekirjutus riigisaladuse ja salastatud teabekandjate töötlemise peatamise kohta ning vajaduse korral võtta salastatud teabekandjad ajutiselt hoiule kuni vajalike tingimuste loomiseni.\n(5) Salastatud teabekandjaid valdava asutuse, institutsiooni või juriidilise isiku tegevuse lõpetamisel antakse salastatud teabekandja hoiule vastavalt Kaitsepolitseiametile või Kaitsejõudude Peastaabile või kooskõlastatult nendega Rahvusarhiivi.\n(6) Julgeolekukontrolli teostav asutus säilitab juriidiliste isikute nimekirja, kellele on antud juurdepääsuluba, ja juriidiliste isikute nimekirja, kelle juurdepääsuloa kehtivus on lõppenud."
+    },
+    {
+      "provision_ref": "para16^1",
+      "chapter": "4. peatükk - RIIGISALADUSE KAITSE",
+      "section": "16^1",
+      "title": "§ 16^1. Teabeameti kohustused ja õigused riigisaladuse kaitse korraldamisel",
+      "content": "(1) Teabeamet korraldab ja kontrollib elektrooniliseks teabeturbeks kehtestatud nõuete täitmist, annab või tunnistab kehtetuks vastavussertifikaadid riigisaladuse automatiseeritud infotöötlussüsteemidele ning kontrollib nende käigushoidmist, sealhulgas ehitamist, kasutamist, hooldamist, remontimist ja ühendusi telekommunikatsioonivõrkudega.\n(2) Teabeametil on käesoleva paragrahvi lõikes 1 sätestatud ülesannete täitmiseks õigus tutvuda riigisaladuse valdaja juures vajaliku teabega ning teha riigisaladuse valdajale ettekirjutusi käesolevast paragrahvist tulenevate nõuete rikkumise ja rikkumise ohu kõrvaldamiseks."
+    },
+    {
+      "provision_ref": "para16^2",
+      "chapter": "4. peatükk - RIIGISALADUSE KAITSE",
+      "section": "16^2",
+      "title": "§ 16^2. Riigi julgeoleku volitatud esindaja",
+      "content": "(1) Välisriigi salastatud teabe kaitset korraldab ja kontrollib Kaitseministeeriumi põhimääruses ettenähtud Kaitseministeeriumi struktuuriüksus (edaspidi riigi julgeoleku volitatud esindaja ). Riigi julgeoleku volitatud esindaja ei korralda ega kontrolli julgeolekuasutuste teabevahetust, mis toimub julgeolekuasutuste seaduse (RT I 2001, 7, 17; 100, 643; 2002, 61, 375; 2003, 23, 147; 90, 601) §-s 34 sätestatud alusel, kui välislepingus ei ole sätestatud teisiti.\n(2) Riigi julgeoleku volitatud esindaja ülesanded on:\n1) välisriigi salastatud teabe selle avaldajalt vastuvõtmise, töötlemise ja sellele juurdepääsu korraldamine ning arvestuse pidamine välisriigi salastatud teabe ja seda valdavate asutuste, institutsioonide ning füüsiliste ja juriidiliste isikute üle;\n2) asutuse, institutsiooni, füüsilise või juriidilise isiku poolt välisriigi salastatud teabe kaitse tagamiseks rakendatavate turvameetmete ja nimetatud teabele töötajate juurdepääsu kontrollimine, sealhulgas riigi välisesindustes ja väljaspool riigi territooriumi asuvates kaitseväe üksustes, ning koolituse andmine turvameetmete vastavuse tagamiseks käesolevast seadusest ja selle alusel antud õigusaktidest ning välislepingutest tulenevatele salastatud teabe kaitse nõuetele;\n3) välisriigi salastatud teabe õigusvastasel avalikustamisel teabe avaldaja teavitamine avalikustamise asjaoludest välislepingus ettenähtud tingimustel;\n4) välisriigi salastatud teabe juurdepääsusertifikaatide väljastamine ja teabe avaldaja teavitamine juurdepääsu andmisest välislepingus ettenähtud tingimustel;\n5) muude talle seadusega, seaduse alusel antud õigusaktidega või välislepinguga pandud ülesannete täitmine.\n(3) Riigi julgeoleku volitatud esindajal on käesoleva paragrahvi lõikes 1 sätestatud pädevuse piires ja lõikes 2 sätestatud ülesannete täitmiseks õigus:\n1) tutvuda kontrollimise käigus välislepingute alusel Eestile edastatud välisriigi salastatud teabega ning selle kaitseks vajaliku teabega;\n2) saada julgeolekuasutustelt ja Kaitsejõudude Peastaabilt nende pädevuse piires ametiabi vastavalt halduskoostöö seadusele (RT I 2003, 20, 117; 82, 552);\n3) teha asutusele, institutsioonile, füüsilisele või juriidilisele isikule ettekirjutusi välislepingust ja käesolevast seadusest tulenevate nõuete rikkumise või rikkumise ohu kõrvaldamiseks, peatada välisriigi salastatud teabe töötlemine või võtta välisriigi salastatud teavet sisaldavad teabekandjad hoiule kuni nõutavate tingimuste loomiseni;\n4) teha riigisaladuse kaitse komisjonile ettepanekuid puuduste ja õiguserikkumiste vältimiseks ja kõrvaldamiseks välisriigi salastatud teabe kaitsel.\n(4) Välisriigi salastatud teavet sisaldavad teabekandjad antakse neid valdava asutuse, institutsiooni või juriidilise isiku tegevuse lõpetamisel, samuti riigi julgeoleku volitatud esindaja nõudel viivitamatult üle riigi julgeoleku volitatud esindajale.\n(5) Riigi julgeoleku volitatud esindaja teenistujal on õigus kanda ametiülesannete täitmisel tulirelva ja kasutada seda äärmise abinõuna, kui teisiti ei ole elu või tervist ohtu seadmata võimalik täita temale pandud teenistusülesandeid:\n1) kuritegeliku ründe tõkestamisel, kui ohus on teise inimese või teenistuja enda elu;\n2) relvastatud kurjategija relvitustamisel ja kinnipidamisel;\n3) teenistujale grupiviisilise või relvastatud kallaletungi tõrjumisel.\n(6) Riigi julgeoleku volitatud esindaja teenistujate teenistusrelvade kandmise ja kasutamise korra kehtestab kaitseminister määrusega.\n(7) Tulirelva ei tohi kasutada:\n1) lapse, vanuri ega ilmse raseduse tunnusega naise vastu, välja arvatud temapoolse relvastatud ründe või grupiviisilise ründe tõrjumiseks või tõkestamiseks või tema relvitustamiseks;\n2) välisriigi diplomaatilises või konsulaaresinduses ega rahvusvahelise leppe alusel puutumatust omava esinduse hoones, ruumis ega territooriumil, samuti diplomaatilist puutumatust omava sõiduki suhtes, välja arvatud selle esinduse juhi nõusolekul või muu rahvusvahelise kokkuleppega ettenähtud juhul;\n3) ehitises ega ruumis, kus toodetakse või hoitakse lõhkeainet või kergesti süttivat või mürgist ainet, mis tulirelva kasutamisel võib ohustada isiku elu või tervist."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "4. peatükk - RIIGISALADUSE KAITSE",
+      "section": "17",
+      "title": "§ 17. Riigisaladuse kaitse komisjon",
+      "content": "(1) Riigisaladuste kaitse koordineerimiseks ja korraldamiseks moodustab Vabariigi Valitsus riigisaladuse kaitse komisjoni (edaspidi komisjon).\n(2) Komisjon:\n1) teeb Vabariigi Valitsusele ettepanekuid riigisaladuse kaitse korraldamiseks;\n2) vaatab läbi avaldusi ja kaebusi käesoleva seaduse ja selle alusel antud õigusaktide ebaseadusliku kohaldamise või kohaldamata jätmise kohta ministri või kaitseväe juhataja poolt ning informeerib Vabariigi Valitsust läbivaatamise tulemustest;\n3) vaatab läbi avaldusi ja kaebusi käesoleva seaduse ja selle alusel antud õigusaktide ebaseadusliku kohaldamise või kohaldamata jätmise kohta täidesaatva riigivõimu asutuse või ametiisiku (välja arvatud minister või kaitseväe juhataja) poolt, esitades nende kohta oma arvamuse või saates need läbivaatamiseks vastavale ministeeriumile või kaitseväe juhatajale;\n4) annab Vabariigi Valitsusele arvamuse riigisaladust käsitlevate õigusaktide ja välislepingute eelnõude kohta;\n5) vaatab läbi ja kinnitab Siseministeeriumi kantsleri, Kaitsepolitseiameti peadirektori ja tema asetäitja, Teabeameti peadirektori ja tema asetäitja ning Kaitsejõudude Peastaabi ülema ja tema asetäitja suhtes teostatud julgeolekukontrolli tulemused.\n(3) Komisjoni kuuluvad Kaitseministeeriumi, Siseministeeriumi, Välisministeeriumi, Riigikantselei, Vabariigi Presidendi Kantselei, Kaitsejõudude Peastaabi, Teabeameti ning Kaitsepolitseiameti esindajad. Komisjoni esimees on siseminister. Komisjoni koosseisu ja töökorra kinnitab Vabariigi Valitsus.\n(4) Komisjoni koosseisu ja töökorra kinnitab Vabariigi Valitsus korraldusega."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "5. peatükk - RIIGISALADUSE JA SALASTATUD TEABEKANDJATE TÖÖTLEMINE",
+      "section": "18",
+      "title": "§ 18. Riigisaladuse ja salastatud teabekandjate töötlemise mõiste",
+      "content": "Riigisaladuse ja salastatud teabekandja töötlemine on riigisaladuse või salastatud teabekandja märgistamine, arvestus, kogumine, hoidmine, säilitamine, kasutamine, reprodutseerimine, väljavõtete tegemine, edastamine või hävitamine või mitu eeltoodud toimingut, sõltumata toimingute teostamise viisist või kasutatavatest vahenditest."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "5. peatükk - RIIGISALADUSE JA SALASTATUD TEABEKANDJATE TÖÖTLEMINE",
+      "section": "19",
+      "title": "§ 19. Salastatud teabekandja märgistamine",
+      "content": "(1) Salastatud teabekandjale tuleb teha:\n1) salastusmärge;\n2) märge teabe salastamise aluse kohta.\n(2) Salastatud teabekandja märgistatakse vaid järgmiselt:\n1) \"täiesti salajase\" tasemega riigisaladust sisaldav teabekandja märgistatakse salastusmärkega \"TÄIESTI SALAJANE\";\n2) \"salajase\" tasemega riigisaladust sisaldav teabekandja märgistatakse salastusmärkega \"SALAJANE\";\n3) \"konfidentsiaalse\" tasemega riigisaladust sisaldav teabekandja märgistatakse salastusmärkega \"KONFIDENTSIAALNE\";\n4) «piiratud» tasemega riigisaladust sisaldav teabekandja märgistatakse salastusmärkega «PIIRATUD».\n(3) Salastatud dokumendi igale lehele tehakse salastusmärge ning esilehele täiendavalt ka märge teabe salastamise aluse kohta.\n(4) Salastatud dokumendil tervikuna on tema eri osade kõrgeim riigisaladuse tase, mille kohta tehakse märge dokumendi esilehele.\n(5) Materiaalsele objektile kantakse salastusmärge ainult siis, kui selle struktuuri, sisu või väliskülje uurimisel, sellega operatsioonide teostamisel, selle testimisel, samuti kasutamise või rakendamise käigus on võimalik teada saada riigisaladust.\n(6) Teabekandjale, mis sisaldab välisriigi salastatud teavet tõlkena, väljavõttena või ärakirjana, kantakse ka töödeldud välisriigi salastatud teabe märgistus vastavalt välislepingus kehtestatud nõuetele."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "5. peatükk - RIIGISALADUSE JA SALASTATUD TEABEKANDJATE TÖÖTLEMINE",
+      "section": "20",
+      "title": "§ 20. Salastatud dokumendi koostamine ja vormistamine",
+      "content": "(1) Salastatud dokumendi koostamisel ja vormistamisel juhindutakse haldusdokumentide vormistamise põhinõuetest riigisaladuse kaitse korrast tulenevate erisustega.\n(2) Salastatud teabekandja kuulub kohustuslikule registreerimisele."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "5. peatükk - RIIGISALADUSE JA SALASTATUD TEABEKANDJATE TÖÖTLEMINE",
+      "section": "21",
+      "title": "§ 21. Salastatud teabekandja säilitamine ja hävitamine",
+      "content": "(1) Teabekandja, mille salastamistähtaeg on kustunud või kustutatud, kuid millel on väärtus ühiskonnale, riigile või isikule, antakse üle Rahvusarhiivile kooskõlas arhiiviseadusega (RT I 1998, 36/37, 552).\n(2) Teabekandja, mille salastamistähtaeg on kustunud või kustutatud, kuulub hävitamisele, kui see on kaotanud oma praktilise väärtuse.\n(3) Salastatud teabekandja hävitatakse viisil, mis teeb võimatuks selles sisaldunud teabe taastamise."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "6. peatükk - JUURDEPÄÄS RIIGISALADUSELE",
+      "section": "22",
+      "title": "§ 22. Riigisaladusele juurdepääsu alused",
+      "content": "Juurdepääs riigisaladusele on isiku õigus tutvuda riigisaladusega ning töödelda riigisaladust ja salastatud teabekandjat:\n1) ametikohajärgselt;\n2) riigisaladusele juurdepääsu loa alusel;\n3) uurija, prokuröri või kohtu määruse alusel."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "6. peatükk - JUURDEPÄÄS RIIGISALADUSELE",
+      "section": "23",
+      "title": "§ 23. Juurdepääs riigisaladusele ametikohajärgselt",
+      "content": "(1) Õigus juurdepääsuks riigisaladusele, sõltumata selle salastatuse tasemest, on ametikohajärgselt:\n1) Vabariigi Presidendil talle Eesti Vabariigi põhiseaduse ja seadustega ning nende alusel antud õigusaktidega pandud ülesannete täitmiseks;\n2) Riigikogu liikmel Riigikogu töökorra seaduses (RT 1992, 46, 582; RT I 1999, 2, 44) sätestatud juhtudel;\n3) Vabariigi Valitsuse liikmel Vabariigi Valitsuse seaduses (RT I 1995, 94, 1628; 1996, 49, 953; 88, 1560; 1997, 29, 447; 40, 622; 52, 833; 73, 1200; 81, 1361 ja 1362; 87, 1468; 1998, 28, 356; 36/37, 552; 40, 614; 107, 1762; 111, 1833) sätestatud juhtudel;\n4) kohtunikul Eesti Vabariigi põhiseaduse ja seadustega ning nende alusel antud õigusaktidega talle pandud ülesannete täitmiseks;\n5) kaitseväe juhatajal ja ülemjuhatajal riigikaitset käsitlevates seadustes sätestatud juhtudel;\n6) õiguskantsleril Eesti Vabariigi põhiseaduse ja seadustega talle pandud ülesannete täitmiseks;\n7) riigikontrolöril Riigikontrolli seaduses (RT I 1995, 11, 115; 23, lk 792, õiend; 1996, 81, 1448; 1997, 5/6, 32, 77, 1311) sätestatud juhtudel;\n8) Eesti Panga presidendil ning Eesti Panga Nõukogu esimehel ja liikmel Eesti Panga seaduses (RT I 1993, 28, 498; 30, lk 743, õiend; 1994, 30, 463; 1998, 64/65, 1006) sätestatud juhtudel.\n(2) Õigus üksnes «piiratud» tasemega riigisaladusele juurdepääsuks tekib füüsilisel isikul ametikohajärgselt. Ametikohtade loetelu, kellel on põhjendatud teadmisvajadus juurdepääsuks üksnes «piiratud» tasemega riigisaladusele, kehtestab asjaomane minister, kaitseväes või Kaitseliidus kaitseväe juhataja, maavalitsuses maavanem ning Riigikogu Kantseleis, Vabariigi Presidendi Kantseleis, Riigikantseleis, Õiguskantsleri Kantseleis, kohtutes, prokuratuuris ja Riigikontrollis vastava asutuse juht.\n(3) Õiguse üksnes «piiratud» tasemega riigisaladusele juurdepääsuks juriidilistel isikutel ja teenistusvälistel füüsilistel isikutel otsustab asjaomane minister, maavalitsuses maavanem ning Riigikogu Kantseleis, Vabariigi Presidendi Kantseleis, Riigikantseleis, Õiguskantsleri Kantseleis, kohtutes ja Riigikontrollis vastava asutuse juht igal konkreetsel juhul eraldi.\n(4) Kui «piiratud» tasemega riigisaladusele juurdepääsu omav isik ei oma juurdepääsu «konfidentsiaalse», «salajase» või «täiesti salajase» tasemega riigisaladusele, siis esitab ta ühe kuu jooksul pärast vastavale ametikohale nimetamist või käesoleva paragrahvi lõikes 3 nimetatud otsuse tegemist julgeolekukontrolli teostavale asutusele käesoleva seaduse § 28 lõike 3 punktis 3 nimetatud dokumendi."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "6. peatükk - JUURDEPÄÄS RIIGISALADUSELE",
+      "section": "24",
+      "title": "§ 24. Juurdepääs riigisaladusele juurdepääsuloa alusel",
+      "content": "(1) Riigisaladusele juurdepääsu õigus juurdepääsuloa alusel on «konfidentsiaalse», «salajase» või «täiesti salajase» tasemega juurdepääsuluba omaval füüsilisel või juriidilisel isikul, kellel on põhjendatud teadmisvajadus.\n(1^1) Juriidilisele isikule ei anta juurdepääsuluba varem kui juriidilise isiku juures riigisaladuse kaitset korraldavale isikule.\n(1^2) Juriidilise isiku juurdepääsuluba ei laiene füüsilisele isikule.\n(2) Kõrgema tasemega riigisaladusele juurdepääsu luba annab õiguse juurdepääsuks ka madalama tasemega riigisaladusele. Madalama tasemega riigisaladusele juurdepääsu luba ei anna õigust juurdepääsuks kõrgema tasemega riigisaladusele.\n(3) Riigisaladuse valdaja on kohustatud enne riigisaladusele juurdepääsu lubamist iga kord kontrollima, kas isikul on vastava tasemega riigisaladusele juurdepääsu luba ja veenduma, et isikul on põhjendatud teadmisvajadus."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "6. peatükk - JUURDEPÄÄS RIIGISALADUSELE",
+      "section": "25",
+      "title": "§ 25. Juurdepääs riigisaladusele uurija, prokuröri või kohtu määruse alusel",
+      "content": "(1) «Piiratud», «konfidentsiaalse» või «salajase» tasemega riigisaladusele juurdepääsu õigus on kriminaal-, tsiviil-, haldus- või väärteoasja kohtueelse menetlemise või kohtumenetluse osalisel uurija, prokuröri või kohtu põhistatud määruse alusel ning pärast julgeolekukontrolli läbimist, kui juurdepääs on kriminaal-, tsiviil-, haldus- või väärteoasja lahendamiseks vältimatult vajalik.\n(2) Uurija, prokurör või kohus edastab julgeolekukontrolli teostavale asutusele julgeolekukontrolli läbiviimise taotluse isikule riigisaladusele juurdepääsu õiguse andmise otsustamiseks. Julgeolekukontrolli läbimiseks esitavad isikud julgeolekukontrolli teostavale asutusele käesoleva seaduse § 28 lõike 3 punktis 3 nimetatud dokumendi.\n(3) Julgeolekukontrolli teostav asutus edastab julgeolekukontrolli tulemusena kogutud andmed uurijale, prokurörile või kohtule nende poolt määratud tähtajaks, mis ei või olla lühem kui üks kuu.\n(4) Uurija, prokuröri või kohtu määruse alusel ei lubata juurdepääsu «piiratud», «konfidentsiaalse» või «salajase» tasemega riigisaladusele, kui see seab ohtu jälitustegevuse seaduse (RT I 1994, 16, 290; 1995, 15, 173; 1996, 49, 955; 1997, 81, 1361; 93, 1557; 1998, 47, 698; 50, 753; 51, 756; 61, 981; 98/99, 1575; 101, 1663; 1999, 16, 271; 31, 425; 95, 845; 2000, 35, 222; 40, 251; 102, 671; 2001, 3, 9; 7, 17; 58, 353; 2002, 56, 350; 61, 375; 88, 591; 2004, 2, 7) § 8 lõike 1 punktides 2, 3 ja 4 sätestatud kohustuste täitmise, ja «täiesti salajase» tasemega riigisaladusele."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "6. peatükk - JUURDEPÄÄS RIIGISALADUSELE",
+      "section": "26",
+      "title": "§ 26. Välismaalaste juurdepääs riigisaladusele",
+      "content": "(1) Välisriigi kodanik või kodakondsuseta isik (edaspidi välismaalane) võib taotleda juurdepääsuluba, kui riigisaladust valdaval asutusel on selle isiku riigisaladusele juurdepääsu lubamine vajalik seoses asutusele pandud ülesannete täitmisega ning isikul on vajalikud eriteadmised või -oskused nende ülesannete täitmisele kaasaaitamiseks.\n(2) Julgeolekukontrolli Eestis ei pea läbima ja juurdepääsuluba ei pea taotlema välismaalane või välisriigi juriidiline isik, kes omab vastava tasemega välisriigi riigisaladusele juurdepääsu õigust.\n(3) Välismaalase juurdepääs riigisaladusele on piiratud. Seda võib lubada ainult konkreetses programmis, projektis või lepingus osalemiseks või tegutsemiseks tegevusalal, kus välismaalase eriteadmisi või -oskusi vaja läheb.\n(4) Nende ametiasutuste nimekirja, kellel on õigus lubada välismaalaste juurdepääsu riigisaladusele, kinnitab Vabariigi Valitsus korraldusega."
+    },
+    {
+      "provision_ref": "para26^1",
+      "chapter": "6. peatükk - JUURDEPÄÄS RIIGISALADUSELE",
+      "section": "26^1",
+      "title": "§ 26^1. Riigisaladuse edastamine välisriigile ja rahvusvahelisele organisatsioonile",
+      "content": "(1) Riigikantselei, Kaitseministeerium, Siseministeerium, Välisministeerium ja julgeolekuasutus võivad edastada riigisaladuseks olevat teavet välisriigile või rahvusvahelisele organisatsioonile julgeolekuasutuste seaduse ( RT I 2001, 7, 17 ) §-s 34 sätestatud juhul ja Vabariigi Valitsuse poolt käesoleva seaduse § 12 lõike 2 alusel kehtestatud määrusega ettenähtud korras, kui välislepinguga on tagatud kaitse edastatava teabe avalikuks tulemise eest.\n(2) Salastatud teabekandja edastamine välisriigile või rahvusvahelisele organisatsioonile registreeritakse eelnevalt riigi julgeoleku volitatud esindaja juures, välja arvatud julgeolekuasutuse poolt riigisaladuse edastamisel julgeolekuasutuste seaduse §-s 34 sätestatud alusel."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "6. peatükk - JUURDEPÄÄS RIIGISALADUSELE",
+      "section": "27",
+      "title": "§ 27. Juurdepääsuloa andmise, andmisest keeldumise, kehtivuse pikendamise ja tühistamise alused",
+      "content": "(1) Juurdepääsuluba antakse juurdepääsuks konfidentsiaalse», «salajase» või «täiesti salajase» tasemega riigisaladusele lähtuvalt isiku juurdepääsuvajadusest.\n(2) Juurdepääsuloa andmise korra kehtestab Vabariigi Valitsus määrusega. Juurdepääsuloa andmise korras sätestatakse juurdepääsuloa andmise, andmisest keeldumise, kehtivuse pikendamise ja tühistamise täpsem kord."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "6. peatükk - JUURDEPÄÄS RIIGISALADUSELE",
+      "section": "28",
+      "title": "§ 28. Juurdepääsuloa või selle kehtivuse pikendamise taotlemine",
+      "content": "(1) Juurdepääsuluba või selle kehtivuse pikendamist võib taotleda ning taotluse võib rahuldada üksnes juhul, kui isikul on juurdepääsuvajadus. Juurdepääsuluba või selle kehtivuse pikendamist ei või taotleda, samuti seda anda ainuüksi eesmärgil lubada isikule sissepääs riigisaladuse kaitseks valvatavale alale või kergendada seal liikumist.\n(2) Juurdepääsuluba taotlev isik peab olema vähemalt 18-aastane Eesti kodanik või Eestis registreeritud eraõiguslik juriidiline isik.\n(2^1) Juurdepääsuluba võib taotleda juriidiline isik, kes osaleb rahvusvahelises hankes või riigihankes pakkujana.\n(3) Juurdepääsuloa saamiseks või selle kehtivuse pikendamiseks esitab isik julgeolekukontrolli asutusele juurdepääsuvajadust põhjendava ja loa saamist või pikendamist toetava asutuse kaudu vastavalt taotletavale riigisaladuse tasemele avalduse, millele lisatakse järgmised dokumendid:\n1) asutuse kiri, milles põhjendatakse töö-, teenistus- või lepingulises suhtes oleva või seda taotleva isiku juurdepääsuvajadust ja toetatakse loa saamist või selle kehtivuse pikendamist;\n2) juurdepääsuloa taotlemisel vastavalt taotletavale riigisaladuse tasemele täidetud füüsilise või juriidilise isiku ankeet või juurdepääsuloa kehtivuse pikendamisel vastavalt taotletavale riigisaladuse tasemele täidetud füüsilise või juriidilise isiku ankeedi lisa;\n3) taotleja kirjalik nõusolek, millega lubatakse julgeolekukontrolli teostaval asutusel saada isiku kohta teavet füüsilistelt isikutelt ja juriidilistelt isikutelt ning nende asutustelt ja organitelt juurdepääsuloa andmise või selle kehtivuse pikendamise otsustamiseks, loa kehtivusajal ja kolme aasta jooksul pärast selle lõppemist.\n(4) Juurdepääsuloa kehtivuse pikendamiseks esitatakse käesoleva paragrahvi lõikes 3 nimetatud avaldus koos sellele lisatud dokumentidega julgeolekukontrolli teostavale asutusele füüsilise isiku puhul hiljemalt kolm kuud ja juriidilise isiku puhul hiljemalt kuus kuud enne juurdepääsuloa kehtivuse lõppemist.\n(5) Juurdepääsuloa või selle kehtivuse pikendamise taotlemise avalduse ning taotleja füüsilise ja juriidilise isiku ankeedi ja nõusoleku vormi kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "6. peatükk - JUURDEPÄÄS RIIGISALADUSELE",
+      "section": "29",
+      "title": "§ 29. Julgeolekukontroll",
+      "content": "(1) Juurdepääsuloa saamiseks või selle kehtivuse pikendamiseks või juurdepääsuks uurija, prokuröri või kohtu määruse alusel peab seda taotlev isik läbima julgeolekukontrolli. Julgeolekukontrolli eesmärk on selgitada välja isiku vastavus juurdepääsuloa andmise või selle kehtivuse pikendamise tingimustele.\n(1^1) Julgeolekukontrolli on õigus läbi viia ka isikute suhtes, kellel on juurdepääs «piiratud» tasemega riigisaladusele ametikohajärgselt.\n(2) Julgeolekukontrolli teostab Kaitsepolitseiamet, välja arvatud käesoleva paragrahvi lõikes 3 ja 3 ^1 nimetatud juhtudel.\n(3) Kaitsejõudude Peastaap teostab julgeolekukontrolli:\n1) kaitseväes ja Kaitseliidus;\n2) lepingulises tegevteenistuses olevate kaitseväelaste suhtes Kaitseministeeriumis (välja arvatud kantsler ja asekantsler) ja selle valitsemisala asutustes, piirivalves, Päästeametis ja sõjaväestatud päästeüksustes.\n(3^1) Teabeamet teostab julgeolekukontrolli Teabeametisse julgeolekuametniku ametikohale kandideerivate ja Teabeametis teenistuses olevate isikute suhtes.\n(4) Julgeolekukontrolli teostatakse jälitustegevuse seaduses (RT I 1994, 16, 290; 1995, 15, 173; 1996, 49, 955; 1997, 81, 1361; 93, 1557; 1998, 47, 698; 50, 753; 51, 756; 61, 981; 98/99, 1575; 101, 1663; 1999, 16, 271; 31, 425; 95, 845; 2000, 35, 222; 40, 251; 102, 671; 2001, 3, 9) ja julgeolekuasutuste seaduses sätestatud korras.\n(5) Julgeolekukontrolli teostaval asutusel on õigus isikut kontrollida ka juurdepääsuloa kehtivusajal ning kolme aasta jooksul pärast selle lõppemist."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "6. peatükk - JUURDEPÄÄS RIIGISALADUSELE",
+      "section": "30",
+      "title": "§ 30. Juurdepääsuloa andmine või selle kehtivuse pikendamine",
+      "content": "(1) Juurdepääsuloa andmise või selle kehtivuse pikendamise aluseks on teostatud julgeolekukontrolli alusel tehtud otsustus, mis peab tuginema kogu julgeolekukontrolli käigus kogutud teabele.\n(2) Julgeolekukontrolli käigus kogutud teabe vaatab julgeolekukontrolli teostanud asutuses läbi selleks moodustatud komisjon, kes teeb asutuse juhile ettepaneku juurdepääsuloa andmise või selle kehtivuse pikendamise kohta. Juurdepääsuloa andmise või selle kehtivuse pikendamise otsustab julgeolekukontrolli teostanud asutuse juht füüsilise isiku puhul hiljemalt kolme kuu jooksul ja juriidilise isiku puhul hiljemalt kuue kuu jooksul, arvates nõuetekohase avalduse esitamisest.\n(2^1) Julgeolekukontrolli teostav asutus võib käesoleva paragrahvi lõikes 2 kirjeldatud tähtaega pikendada füüsilise isiku puhul kolme kuu ja juriidilise isiku puhul kuue kuu võrra järgmistel juhtudel:\n1) juurdepääsuloa taotlejaga või taotleja esindajaga ei ole julgeolekukontrolli käigus olnud võimalik taotlejast olenevatel põhjustel vestlust läbi viia;\n2) juurdepääsuloa andmise otsustamisel on vajalik tugineda välisriigist pärinevale teabele;\n3) julgeolekukontrolli käigus kogutud teabest tuleneb, et vastavalt järgneva kolme või kuue kuu jooksul võivad tõenäoliselt ilmneda juurdepääsuloa andmisest keeldumise alused;\n4) julgeolekukontrolli käigus kogutud teabest tuleneb, et vastavalt järgneva kolme või kuue kuu jooksul võivad kontrollitava isiku suhtes juurdepääsuloa andmisest keeldumise alused ära langeda.\n(2^2) Riigisaladuse kaitse komisjon võib käesoleva paragrahvi lõikes 2 kirjeldatud tähtaega pikendada füüsilise isiku puhul kolme kuu ja juriidilise isiku puhul kuue kuu võrra ka muudel juhtudel, mis on julgeolekukontrolli eesmärki silmas pidades vajalik.\n(3) Juurdepääsuks \"täiesti salajase\" ja \"salajase\" tasemega riigisaladusele antakse isikule juurdepääsuluba või pikendatakse selle kehtivust kuni kolmeks aastaks. Juurdepääsuks \"konfidentsiaalse\" tasemega riigisaladusele antakse isikule juurdepääsuluba või pikendatakse selle kehtivust kuni 5 aastaks.\n(4) Ajutise juurdepääsuvajaduse korral antava juurdepääsuloa kehtivusaeg ei või ületada selle isiku ajutises ülesandes või töös osalemise tähtaega.\n(5) Juurdepääsuluba või selle kehtivuse pikendamine vormistatakse julgeolekukontrolli teostanud asutuse turvaelementidega kirjaplangil asutuse juhi allkirjaga. Juurdepääsuloal või selle kehtivuse pikendamise teatisel peavad olema järgmised andmed:\n1) juurdepääsuloa andmise või selle kehtivuse pikendamise kuupäev ja otsuse number;\n2) otsuse tegemise alus;\n3) juurdepääsuloa saanud füüsilise isiku ees- ja perekonnanimi ning isikukood või juriidilise isiku nimi, asukoht ning registrikood;\n4) juurdepääsuloa saanud füüsilise isiku töö- ja ametikoht;\n5) riigisaladuse tase, millele lubatakse isiku juurdepääs;\n6) juurdepääsuloa kehtivusaeg.\n(6) Juurdepääsuluba või selle kehtivuse pikendamise teatis saadetakse juurdepääsuvajadust põhjendanud ja loa saamist toetanud asutuse kaudu loa saajale viie tööpäeva jooksul. Juurdepääsuvajadust põhjendanud ja loa saamist toetanud asutus võtab loa saanud füüsiliselt isikult või loa saanud juriidilise isiku juhilt allkirjastatud kinnituse, et ta on teadlik riigisaladuse kaitse nõuetest, vastutusest nende rikkumise eest ja kohustusest hoida temale töö või teenistuse kaudu teatavaks saavat riigisaladust, ning saadab selle julgeolekukontrolli teostanud asutusele. Kinnituse vormi kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "6. peatükk - JUURDEPÄÄS RIIGISALADUSELE",
+      "section": "31",
+      "title": "§ 31. Juurdepääsuloa andmisest või selle kehtivuse pikendamisest keeldumise alused",
+      "content": "(1) Juurdepääsuluba andmast või selle kehtivust pikendamast keeldutakse füüsilisele isikule:\n1) kes ei vasta käesoleva seaduse § 28 lõikes 2 sätestatud tingimustele;\n2) kes on piiratud teovõimega;\n3) kelle tegevus on olnud või on suunatud Eesti riigi ja tema julgeoleku vastu;\n4) kes töötab välisriigi luure- või julgeolekuteenistuses, välja arvatud käesoleva seaduse §-s 26 sätestatud juhul;\n5) kes on töötanud Eestit okupeerinud riigi luure- või julgeolekuteenistuses, välja arvatud Eestit okupeerinud riikide julgeolekuorganite või relvajõudude luure- või vastuluureorganite teenistuses olnud või nendega koostööd teinud isikute arvelevõtmise ja avalikustamise korra seaduses sätestatud korras Kaitsepolitseiametile julgeoleku- või luureorgani teenistuses olemise või sellega koostöö tegemise kohta isikliku ülestunnistuse esitanud isikule, samuti välja arvatud käesoleva seaduse §-s 26 sätestatud juhul;\n6) kes on ideoloogiliselt või kultuuriliselt seotud organisatsiooniga, mis oma tegevusega eirab avalikku korda või mille eesmärk on riigikorra vägivaldne muutmine;\n7) kes on kriminaalmenetluse osaline kahtlustatavana, süüdistatavana või kohtualusena;\n8) keda on karistatud tahtlikult toime pandud kuriteo eest ja kelle neid karistusandmeid ei ole karistusregistrist kustutatud;\n9) keda on karistatud riigivastase või ametialase süüteo toimepanemise eest;\n10) kes kannab karistust kuriteo eest;\n11) kellele varem antud juurdepääsuluba on tühistatud riigisaladuse seaduse ja selle alusel antud õigusakti sätete rikkumise tõttu;\n12) kellel on sõltuvus narkootilistest ainetest või alkoholist;\n13) kellel on kinnistuvaid harrastusi, mis võivad kaasa tuua tema majandusliku või muu sõltuvuse;\n14) kes on julgeolekukontrolli teostavale asutusele esitatud riigisaladusele juurdepääsu loa taotleja ankeedis või vestlusel varjanud andmeid, esitanud võltsitud andmeid või valeinformatsiooni;\n15) kellel puudub juurdepääsuvajadus;\n16) kelle suhtes viiakse läbi distsiplinaarmenetlust või väärteomenetlust korruptiivse teo tunnustel;\n17) kes on oluliselt rikkunud korruptsioonivastase seaduse (RT I 1999, 16, 276; 87, 791; 2000, 25, 145; 2001, 58, 357) sätteid.\n(1^1) Juurdepääsuluba andmast või selle kehtivust pikendamast keeldutakse juriidilisele isikule:\n1) kes ei vasta käesoleva paragrahvi lõike 1 punktides 1, 3, 6, 11, 14 ja 15 toodud nõuetele;\n2) kelle äri- ja kaubandustegevus ei ole vastavuses heade tavade ja kommetega;\n3) kes ei ole maksevõimeline, kelle vara on sekvestreeritud ja kelle suhtes on algatatud likvideerimismenetlus või tehtud pankrotiotsus;\n4) kes ei ole täitnud kõiki oma kohustusi riiklike ja kohalike maksude osas;\n5) kelle majanduslik seisund ja tehniline kompetentsus ei vasta esitatud nõuetele;\n6) kes on viimase kolme aasta jooksul oluliselt rikkunud riigihangete teostamiseks sõlmitud hankelepinguid;\n7) kes ei vasta käesoleva seaduse § 12 lõike 2 alusel kehtestatud Vabariigi Valitsuse määruses esitatavatele nõuetele.\n(2) Juurdepääsuloa andmisest või selle kehtivuse pikendamisest keeldumise korral saadab julgeolekukontrolli teostanud asutus viie tööpäeva jooksul juurdepääsuvajadust põhjendanud ja loa saamist toetanud asutusele ning juurdepääsuloa taotlejale ametlikult kinnitatud ärakirja loa andmisest või selle kehtivuse pikendamisest keeldumise otsusest.\n(3) «Piiratud» tasemega riigisaladusele juurdepääsu eeldaval ametikohal ei saa töötada isik, kelle puhul esinevad käesoleva paragrahvi lõikes 1 sätestatud asjaolud. Selline isik kas nimetatakse võimaluse korral teisele ametikohale või vabastatakse teenistusest avaliku teenistuse seaduses (RT I 1995, 16, 228; 1999, 7, 112; 10, 155; 16, 271 ja 276; 2000, 25, 144 ja 145; 28, 167; 102, 672; 2001, 7, 17 ja 18; 17, 78; 42, 233; 47, 260; 2002, 21, 117; 62, 377; 110, 656; 2003, 4, 22) sätestatud alustel ja korras."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "6. peatükk - JUURDEPÄÄS RIIGISALADUSELE",
+      "section": "32",
+      "title": "§ 32. Juurdepääsuloa tühistamine",
+      "content": "(1) Isikule keelatakse juurdepääs riigisaladusele ja juurdepääsuluba tühistatakse, kui:\n1) isikul ei ole enam juurdepääsuvajadust;\n2) isik on rikkunud käesoleva seaduse või selle alusel antud õigusakti nõudeid;\n3) isik on lakanud vastamast juurdepääsuloa saamise tingimustele;\n4) juriidilise isiku suhtes on alustatud likvideerimismenetlust või on tehtud pankrotiotsus.\n(1^1) Juurdepääsuloa kehtivus lõpeb seoses:\n1) isiku surmaga;\n2) isiku teadmata kadunuks tunnistamisega.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud asjaolu ilmnemisest on isiku töö- või teenistuskohajärgne asutus, institutsioon ja juriidiline isik kohustatud viivitamatult teatama julgeolekukontrolli teostavale asutusele.\n(3) Juurdepääsuloa tühistab julgeolekukontrolli teostav asutus.\n(4) Füüsilise isiku juurdepääsuloa tühistamisest teatatakse viivitamatult asutusele või juriidilisele isikule, kus töötab isik, kelle juurdepääsuluba tühistati.\n(4^1) Juriidilise isiku juurdepääsuloa tühistamisest teatatakse viivitamatult riigisaladusele juurdepääsu vajadust põhjendanud ja loa saamist toetanud asutusele ning juriidilise isiku juhile ja tema poolt riigisaladuse kaitset korraldama volitatud isikule.\n(4^2) Riigi julgeoleku volitatud esindaja teavitab viie tööpäeva jooksul julgeolekukontrolli teostavat asutust füüsilisele või juriidilisele isikule välisriigi salastatud teabe juurdepääsusertifikaadi väljastamisest või selle tühistamisest. Julgeolekukontrolli teostav asutus teavitab viivitamatult riigi julgeoleku volitatud esindajat välisriigi salastatud teabe juurdepääsusertifikaati omava isiku riigisaladuse juurdepääsuloa tühistamisest või juurdepääsuloa kehtivuse lõppemisest käesoleva seaduse § 32 lõike 1 ^1 alusel.\n(5) Juurdepääsuloa tühistamise korral vabastatakse isik ametikohalt, millel töötamise eeltingimuseks on riigisaladusele juurdepääsu omamine.\n(6) Juurdepääsuloa tühistamine ei vabasta luba omanud isikut riigisaladuse hoidmise kohustusest.\n(7) Juurdepääsuvajaduse lühiajalisel äralangemisel võib juurdepääsuloa jätta tühistamata.\n(8) Juriidilise isiku juurdepääsuloa kehtetuks tunnistamise korral peab loa saanud juriidiline isik tagastama:\n1) julgeolekukontrolli teostanud asutusele viivitamatult loa originaali viie tööpäeva jooksul, alates kuupäevast, mil julgeolekukontrolli teostanud asutus lõpetamisteate edastas;\n2) riigisaladust sisaldavat teavet edastanud ametiasutusele kogu saadud riigisaladust sisaldava teabe.\n(9) Füüsilise isiku juurdepääsuloa kehtetuks tunnistamise korral peab juurdepääsuvajadust põhjendanud ja loa saamist toetanud asutus tagastama loa originaali julgeolekukontrolli teostanud asutusele viie tööpäeva jooksul, alates kuupäevast, mil julgeolekukontrolli teostanud asutus lõpetamisteate edastas."
+    },
+    {
+      "provision_ref": "para32^1",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "32^1",
+      "title": "§ 32^1. Riigisaladuse seaduse nõuete rikkumine",
+      "content": "(1) Riigisaladuse seaduse või selle alusel kehtestatud õigusaktide nõuete rikkumise eest, kui see ei olnud seotud riigisaladuse avalikustamisega, – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 50 000 krooni.\n(3) Käesolevas paragrahvis sätestatud väärtegudele kohaldatakse karistusseadustiku (RT I 2001, 61, 364) üldosa ja väärteomenetluse seadustiku (RT I 2002, 50, 313) sätteid.\n(4) Käesolevas paragrahvis sätestatud väärtegude kohtuväline menetleja on Kaitsepolitseiamet."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "33",
+      "title": "§ 33. Teabekandjate ülevaatamine",
+      "content": "Riigisaladuse valdaja on kohustatud üle vaatama tema valduses oleva riigisaladuse ja muu teabe ning märgistama riigisaladust sisaldavad teabekandjad vastavalt käesoleva seaduse §-le 19. Kui teabekandjas sisalduv teave ei ole käesoleva seaduse kohaselt enam riigisaladus, loetakse teabekandja salastatus kustunuks ning teabekandjale tehakse sellekohane märge. [Paragrahv 33 ^1 jõustub 1. 07. 2004]"
+    },
+    {
+      "provision_ref": "para33^1",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "33^1",
+      "title": "§ 33^1. Riigisaladuse automatiseeritud infotöötlussüsteemide kasutamine",
+      "content": "Riigisaladuse automatiseeritud infotöötlussüsteeme võib riigisaladuse töötlemiseks kasutada üksnes Teabeameti poolt väljastatud vastavussertifikaadi olemasolu korral."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "34",
+      "title": "§ 34. Varem väljaantud juurdepääsulubade kehtivus",
+      "content": "Enne käesoleva seaduse jõustumist väljaantud juurdepääsuload kehtivad kuni nendes märgitud tähtajani."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "35",
+      "title": "§ 35. Varem kehtinud riigisaladuse seaduse alusel antud õigusaktide kehtivus",
+      "content": "Enne käesoleva seaduse jõustumist kehtinud riigisaladuse seaduse (RT I 1997, 81, 1361) alusel antud Vabariigi Valitsuse määrused - osas, mis ei ole vastuolus käesoleva seaduse sätetega -, kehtivad kuni nende asendamiseni käesoleva seaduse alusel antud Vabariigi Valitsuse määrusega, kuid mitte kauem kui kuus kuud pärast käesoleva seaduse jõustumist."
+    },
+    {
+      "provision_ref": "para35^1",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "35^1",
+      "title": "§ 35^1. Ametikohajärgne juurdepääs «piiratud» tasemega riigisaladusele",
+      "content": "(1) Isikud, kes töötavad ametikohal, millel on pärast käesoleva seaduse § 23 lõikes 2 nimetatud ametikohtade loetelu kehtestamist ametikohajärgne juurdepääs «piiratud» tasemega riigisaladusele ja kes ei oma kehtivat juurdepääsuluba «konfidentsiaalse», «salajase» või «täiesti salajase» tasemega riigisaladusele, esitavad § 28 lõike 3 punktis 3 nimetatud dokumendid julgeolekukontrolli teostavale asutusele hiljemalt ühe kuu jooksul pärast eespool nimetatud ametikohtade loetelu jõustumist.\n(2) Kui isiku suhtes, kes töötab ametikohal, millel on pärast käesoleva seaduse § 23 lõikes 2 nimetatud ametikohtade loetelu kehtestamist ametikohajärgne juurdepääs «piiratud» tasemega riigisaladusele, esinevad § 31 lõikes 1 sätestatud tingimused, siis ta nimetatakse võimaluse korral teisele ametikohale või vabastatakse ta vastavalt ametikohalt avaliku teenistuse seaduses sätestatud alustel ja korras. §-d 36--57. [Käesolevast tekstist välja jäetud]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "riigisaladus",
+      "definition": "üksnes käesolevas seaduses sätestatud Eesti Vabariigi julgeoleku tagamise huvides avalikuks tuleku eest kaitset vajav teave, mis kuulub riigile, on riigi kontrolli all või on toodetud riigi poolt või riigi jaoks",
+      "source_provision": "para2"
+    },
+    {
+      "term": "salastatud teabekandja",
+      "definition": "dokument, andmekogum või muu materiaalne objekt, mis sisaldab riigisaladust või esitab seda elektroonilises vormis",
+      "source_provision": "para2"
+    },
+    {
+      "term": "riigisaladuse valdaja",
+      "definition": "asutus, institutsioon või juriidiline või füüsiline isik, kelle valduses on riigisaladus või salastatud teabekandja",
+      "source_provision": "para2"
+    },
+    {
+      "term": "juurdepääsuvajadus",
+      "definition": "töö- või teenistusülesandest, samuti õppe- või uurimistööst või riigihanke läbirääkimistest tulenev riigisaladusega tutvumise või selle töötlemise vajadus, samuti seadusest tulenev õigus tutvuda kriminaalasjas, tsiviilasjas, haldusasjas või haldusõiguserikkumise asjas riigisaladust sisaldava teabekandjaga või osaleda riigisaladuseks oleva teabe käsitlemisel kohtumenetluse või kohtueelse menetluse käigus",
+      "source_provision": "para2"
+    },
+    {
+      "term": "põhjendatud teadmisvajadus",
+      "definition": "vajadus teada või töödelda konkreetset riigisaladust või salastatud teabekandjat",
+      "source_provision": "para2"
+    },
+    {
+      "term": "riigisaladuse automatiseeritud infotöötlussüsteemid",
+      "definition": "mis tahes tehnilised vahendid, mida kasutatakse riigisaladuse automatiseeritud töötlemiseks, sealhulgas tark- või riistvara, telekommunikatsioonivõrk, -liin või -seade, nende liides või kogum",
+      "source_provision": "para2"
+    },
+    {
+      "term": "elektrooniline teabeturve",
+      "definition": "teabe (riigisaladuse) käideldavuse, salajasuse ja terviklikkuse olemasolu tagamine riigisaladuse automatiseeritud infotöötlussüsteemides",
+      "source_provision": "para2"
+    }
+  ]
+}

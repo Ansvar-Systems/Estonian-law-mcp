@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-229042016002",
+  "type": "statute",
+  "title": "Eesti Vabariigi ja Austraalia vahelise sotsiaalkindlustuslepingu ratifitseerimise seadus",
+  "title_en": "Eesti Vabariigi ja Austraalia vahelise sotsiaalkindlustuslepingu ratifitseerimise seadus",
+  "short_name": "ee-law-229042016002",
+  "status": "in_force",
+  "issued_date": "2016-04-13",
+  "in_force_date": "2016-05-09",
+  "url": "https://www.riigiteataja.ee/akt/229042016002.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi ja Austraalia vahelise sotsiaalkindlustuslepingu ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Preambul",
+      "content": "Ratifitseerida juurdelisatud Eesti Vabariigi ja Austraalia vaheline sotsiaalkindlustusleping, mis on alla kirjutatud 2015. aasta 14. septembril Tallinnas."
+    }
+  ],
+  "definitions": []
+}

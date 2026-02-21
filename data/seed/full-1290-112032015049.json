@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-112032015049",
+  "type": "statute",
+  "title": "Sõjaaja riigikaitse seadus",
+  "title_en": "Sõjaaja riigikaitse seadus",
+  "short_name": "SRKS",
+  "status": "in_force",
+  "issued_date": "1994-09-28",
+  "in_force_date": "2016-01-01",
+  "url": "https://www.riigiteataja.ee/akt/112032015049.xml",
+  "description": "Official consolidated statute text (Sõjaaja riigikaitse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

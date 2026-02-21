@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-208032016003",
+  "type": "statute",
+  "title": "Rahvusvahelise Tööorganisatsiooni meretöö konventsiooni ratifitseerimise seadus",
+  "title_en": "Rahvusvahelise Tööorganisatsiooni meretöö konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-208032016003",
+  "status": "in_force",
+  "issued_date": "2016-02-23",
+  "in_force_date": "2016-03-18",
+  "url": "https://www.riigiteataja.ee/akt/208032016003.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise Tööorganisatsiooni meretöö konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Preambul",
+      "content": "Ratifitseerida juurdelisatud Rahvusvahelise Tööorganisatsiooni meretöö konventsioon, mis on vastu võetud 2006. aasta 23. veebruaril Genfis."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,1317 @@
+{
+  "id": "ee-law-101032023006",
+  "type": "statute",
+  "title": "Kohtute seadus",
+  "title_en": "Kohtute seadus",
+  "short_name": "ee-law-101032023006",
+  "status": "in_force",
+  "issued_date": "2002-06-19",
+  "in_force_date": "2023-05-01",
+  "url": "https://www.riigiteataja.ee/akt/101032023006.xml",
+  "description": "Official consolidated statute text (Kohtute seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "Käesolevas seaduses sätestatakse kohtukorralduse ja kohtuteenistuse õiguslikud alused."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Õigusemõistmine ja kohtu sõltumatus",
+      "content": "(1) Õigust mõistab ainult kohus.\n(2) Kellelgi ei ole õigust sekkuda õigusemõistmisesse.\n(3) Kohtus ja selle lähikonnas on keelatud teod, mis on suunatud õigusemõistmise häirimisele."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Kohtuniku sõltumatuse põhitagatised",
+      "content": "(1) Kohtunik nimetatakse ametisse eluajaks.\n(2) Kohtuniku saab ametist tagandada üksnes kohtuotsuse alusel.\n(3) Esimese ja teise astme kohtu kohtunikule võib tema ametisoleku ajal kriminaalasjas süüdistuse esitada ainult Riigikohtu üldkogu ettepanekul ja Vabariigi Presidendi nõusolekul.\n(4) Riigikohtu kohtunikule võib tema ametisoleku ajal kriminaalasjas süüdistuse esitada ainult õiguskantsleri ettepanekul ja Riigikogu koosseisu enamuse nõusolekul."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Kohtualluvus",
+      "content": "(1) Kohtualluvus sätestatakse seadusega.\n(2) Kohtuasja võib ühe kohtu alluvusest üle anda teisele kohtule üksnes seaduses sätestatud alustel ja korras."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Kohtu töökeel",
+      "content": "(1) Kohtumenetlus ja asjaajamine kohtus toimuvad eesti keeles.\n(2) Muu keele kasutamine kohtumenetluses sätestatakse kohtumenetluse seadustes."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Kohtu tööaeg",
+      "content": "(1) Kohtunik korraldab oma tööaja iseseisvalt. Kohtunik peab oma kohustused täitma mõistliku aja jooksul, arvestades seaduses ettenähtud menetlustähtaegu.\n(2) Kohtuistungid peetakse tööpäevadel kella üheksast kella kaheksateistkümneni. Pärast seda võib istung jätkuda juhul, kui kohus leiab, et see on otstarbekas õigusemõistmise huvides.\n(3) Kriminaalasja kiirmenetluses lahendamiseks, väärteo eest karistuse mõistmiseks, tõkendi kohaldamise või haldustoiminguks loa andmise otsustamiseks võib kohtuistungit pidada ka muul ajal.\n(4) Valveaeg on aeg, millal kohtunik peab iseseisvalt korraldatud tööaja väliselt olema kättesaadav seaduses sätestatud ettenägematute või edasilükkamatute teenistusülesannete täitmiseks."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "7",
+      "title": "§ 7. Kohtuasutus",
+      "content": "(1) Kohtuasutused on maakohus, halduskohus, ringkonnakohus ja Riigikohus.\n(2) Kohtuasutusel on oma eelarve ja väikese riigivapi kujutisega pitsat.\n(3) Kohtuasutused registreeritakse riigi- ja kohaliku omavalitsuse asutuste riiklikus registris selle registri põhimääruses sätestatud korras."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "8",
+      "title": "§ 8. Kohtuteenistus",
+      "content": "(1) Kohtuteenistus on töötamine kohtuasutuses. Kohtuteenistuses on kohtunikud ja kohtuteenistujad.\n(2) Kohtunikele kohaldatakse avaliku teenistuse seadust üksnes käesolevas seaduses sätestatud juhtudel.\n(3) Kohtuteenistujale kohaldatakse avaliku teenistuse seadust, kui käesolevas seaduses ei ole ette nähtud teisiti.\n(4) Kohtuteenistuja ametisse nimetamisel või üleviimisel teise kohtuasutusse võib jätta katseaja kohaldamata, kui käesolevas seaduses ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para8^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "8^1",
+      "title": "§ 8^1. Kohtuniku juurdepääs riigisaladusele ja salastatud välisteabele",
+      "content": "(1) Kohtunikul on ametikohajärgne õigus juurdepääsuks riigisaladusele ja salastatud välisteabele Eesti Vabariigi põhiseaduse ja seadustega ning nende alusel antud õigusaktidega talle pandud ülesannete täitmiseks.\n(2) Kui välislepingu kohaselt on julgeolekukontrolli läbiviimine salastatud välisteabele juurdepääsu õiguse andmise kohustuslik eeltingimus, teostatakse julgeolekukontroll ka kohtuniku suhtes.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud julgeolekukontrolli läbimiseks täidab kohtunik riigisaladusele juurdepääsu loa taotleja ankeedi ja allkirjastab nõusoleku, millega lubatakse julgeolekukontrolli teostaval asutusel saada julgeolekukontrolli teostamise ajal enda kohta teavet füüsilistelt ja juriidilistelt isikutelt ning riigi- ja kohaliku omavalitsuse asutustelt ja organitelt, ning esitab need kohtu esimehele.\n(4) Kohtu esimees määrab kohtuniku suhtes julgeolekukontrolli teostava asutuse, kellele ta edastab käesoleva paragrahvi lõikes 3 nimetatud dokumendid.\n(5) Julgeolekukontrolli asutus esitab kohtuniku suhtes teostatud julgeolekukontrolli käigus kogutud andmed kolme kuu jooksul käesoleva paragrahvi lõikes 3 nimetatud dokumentide saamisest arvates kohtu esimehele. Kohtu esimees esitab põhjendatud taotluse kohtunikule salastatud välisteabele juurdepääsu õiguse andmiseks koos julgeolekukontrolli käigus kogutud andmetega Riigikohtu üldkogule otsustamiseks, kas kohtunik on läbinud julgeolekukontrolli. Salastatud välisteabe juurdepääsusertifikaat väljastatakse riigisaladuse ja salastatud välisteabe seaduses ettenähtud korras."
+    },
+    {
+      "provision_ref": "para8^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "8^2",
+      "title": "§ 8^2. Menetlusdokumentide registreerimine kohtus",
+      "content": "(1) Kohtusse saabunud ja välja saadetud menetlusdokumendid registreeritakse kohtute infosüsteemis ja kohtutoimikus. Registreerimise täpsem kord nähakse ette kohtu kantselei kodukorras.\n(2) Kohtusse saabunud ja välja saadetud menetlusdokumente ei registreerita dokumendiregistris juhul, kui menetlusosalisele on tagatud juurdepääs menetlusdokumentidele veebilehe või infosüsteemi kaudu."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "9",
+      "title": "§ 9. Maakohus",
+      "content": "(1) Maakohus esimese astme kohtuna arutab tsiviil-, kriminaal- ja väärteoasju. Maakohus teeb ka muid toiminguid, mis on seadusega antud nende pädevusse.\n(2) Maakohtud on:\n1) Harju Maakohus;\n2) Viru Maakohus;\n3) Pärnu Maakohus;\n4) Tartu Maakohus.\n(2^1) Maakohtul on üks või mitu kohtumaja.\n(3) Kohtumajad asuvad maakohtu tööpiirkonnas. Kohtumajade täpsed asukohad määrab valdkonna eest vastutav minister. Iga kohtumaja asukoht on ka maakohtu asukohaks.\n(4) Maakohtu struktuuri ja kohtuteenistujate koosseisu kinnitab kohtudirektor, välja arvatud õigusemõistmise funktsiooni teostamisega seotud osas. Selles osas kinnitab struktuuri ja kohtuteenistujate koosseisu kohtu esimees. Struktuuri ja kohtuteenistujate koosseisu kinnitamisel lähtutakse käesoleva seaduse §-s 43 sätestatust."
+    },
+    {
+      "provision_ref": "para9^1",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "9^1",
+      "title": "§ 9^1. Maakohtu tsiviilosakond ja süüteoosakond",
+      "content": "(1) Maakohtus on tsiviilosakond ja süüteoosakond. Osakonda kuulub vähemalt kuus kohtunikku. Kohtunike arvulise jaotuse osakondade vahel otsustab kohtu esimees.\n(2) Kohtunike spetsialiseerumise tagamiseks võib kohtu üldkogu otsustada, et kohtus on mitu tsiviil- või süüteoosakonda. Sellisel juhul nimetatakse osakond spetsialiseerumise järgi.\n(3) Iga kohtunik kuulub ühte osakonda. Kohtu üldkogu otsustab, millisesse osakonda kohtunik kuulub.\n(4) Kohtuniku üleviimise ühest osakonnast teise otsustab kohtu esimees kohtuniku avalduse alusel, kuulanud ära kohtu üldkogu arvamuse."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "10",
+      "title": "§ 10. Maakohtu tööpiirkond",
+      "content": "(1) Maakohtu tööpiirkonna määrab valdkonna eest vastutav minister.\n(2) Seadusega võib ette näha kohtud, kes lahendavad mõnda liiki kohtuasju tööpiirkonda arvestamata."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "11",
+      "title": "§ 11. Maakohtu kohtunike arv",
+      "content": "Maakohtu kohtunike arvu ja jagunemise kohtumajade vahel määrab valdkonna eest vastutav minister, kuulanud ära maakohtu esimehe ja selle ringkonnakohtu esimehe arvamuse, kelle tööpiirkonda kohus kuulub."
+    },
+    {
+      "provision_ref": "para11^1",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "11^1",
+      "title": "§ 11^1. Maakohtu kohtuniku alaline teenistuskoht",
+      "content": "(1) Maakohtu kohtuniku alaline teenistuskoht on kohtumajas, kuhu Riigikohtu üldkogu (§ 55 lõige 3) või kohtu esimees (§ 57) on ta määranud.\n(1^1) Kui maakohtu esimeheks nimetatakse kohtunik, kes oli vahetult enne esimeheks nimetamist teise kohtu teenistuses, määrab ta esimehe ametiajaks ise kohtumaja, kus on tema alaline teenistuskoht.\n(2) Kohtunik ei või keelduda asja arutamisest teises sama maakohtu kohtumajas.\n(3) Kui kohtunik arutab asja kohtumajas, mis ei ole tema alaline teenistuskoht, hüvitatakse talle sõidu- ja majutuskulud, samuti muud lähetuskulud avaliku teenistuse seaduse § 44 lõike 5 alusel kehtestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para11^2",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "11^2",
+      "title": "§ 11^2. Eeluurimiskohtunik",
+      "content": "Eeluurimiskohtunik on maakohtu süüteoosakonna kohtunik, kes täidab talle kriminaalmenetluse seadustikuga pandud ülesandeid kohtueelses menetluses ainuisikuliselt."
+    },
+    {
+      "provision_ref": "para11^3",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "11^3",
+      "title": "§ 11^3. Täitmiskohtunik",
+      "content": "Täitmiskohtunik on maakohtu süüteoosakonna kohtunik, kes täidab talle kriminaalmenetluse seadustiku ja väärteomenetluse seadustikuga pandud ülesandeid kohtulahendi täitmisel ainuisikuliselt."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "12",
+      "title": "§ 12. Maakohtu esimees",
+      "content": "(1) Maakohtu esimees nimetatakse esimese ja teise astme kohtunike seast seitsmeks aastaks. Kohtu esimehe nimetab valdkonna eest vastutav minister, kuulanud ära selle kohtu üldkogu arvamuse, mille esimeheks kohtunik nimetatakse.\n(1^1) Kui maakohtu esimeheks nimetatakse kohtunik, kelle alaline teenistuskoht oli teises kohtus, võib kohtunike arv maakohtus olla suurem käesoleva seaduse § 11 alusel määratust.\n(1^2) Kui maakohtu esimeheks nimetatakse ringkonnakohtu kohtunik, säilitatakse talle ringkonnakohtu kohtuniku ametipalk, millele lisandub lisatasu esimehe ülesannete täitmise eest.\n(2) Maakohtu esimees esindab ja juhib kohtuasutust oma pädevuse piires. Kohtu esimees vastutab õigusemõistmise korrakohase toimumise eest kohtus.\n(3) Maakohtu esimees:\n1) korraldab õigusemõistmise alast tegevust;\n2) kooskõlastab kohtudirektori koostatud kohtu eelarve eelnõu;\n3) teostab seaduses ettenähtud järelevalvet;\n3^1) otsustab kohtuniku üleviimise vastavalt käesoleva seaduse §-s 57 sätestatud korrale;\n4) koostab kohtu kohtunike koolituskava eelnõu ja esitab selle kinnitamiseks kohtu kohtunike üldkogule, korraldab ja kontrollib selle täitmist ning esitab vähemalt kord aastas kohtu üldkogule ülevaate selle täitmisest;\n4^1) kinnitab kohtunike valvegraafiku;\n5) täidab muid seadusest ja kohtu kodukorrast tulenevaid ülesandeid.\n(4) Kohtu esimehe võib valdkonna eest vastutav minister enne tähtaja lõppemist vabastada:\n1) tema enda soovil;\n2) kui ta on süüliselt jätnud oma ülesanded olulisel määral täitmata;\n3) tema valimisel või nimetamisel Euroopa Inimõiguste Kohtu, Euroopa Liidu Kohtu või muu rahvusvahelise kohtuinstitutsiooni (edaspidi rahvusvaheline kohtuinstitutsioon ) kohtunikuks (§ 58^4) või Euroopa Prokuratuuri peaprokuröriks, Euroopa prokuröriks või Euroopa delegaatprokuröriks.\n(5) Käesoleva paragrahvi lõike 4 punktis 2 nimetatud juhul kuulab valdkonna eest vastutav minister ära kohtu üldkogu arvamuse ja selle ringkonnakohtu esimehe arvamuse, kelle tööpiirkonda maakohus kuulub.\n(6) Kohtu esimehe äraoleku ajal asendab teda tema enda määratud kohtunik. Kui kohtu esimees ei ole asendajat määranud, asendab teda kõige kauem teenistuses olnud kohtunik või teenistusaegade võrdsuse korral vanim kohtunik.\n(7) Kui kohtu esimees vabastatakse kohtunikuametist, vabastatakse ta ka kohtu esimehe ülesannete täitmisest.\n(8) Kohtu esimehe ülesannete täitmisest vabastatud kohtuesimehel säilivad kohtuniku volitused.\n(9)\n(10) Kedagi ei tohi nimetada sama kohtu esimeheks kaheks ametiajaks järjestikku.\n(11) Kui maakohtu esimees vabastatakse esimehe ülesannete täitmisest enne ametiaja lõppemist, pöördub kohtunik tagasi kohtusse, kus ta oli teenistuses enne maakohtu esimeheks nimetamist.\n(12) Kui maakohtu esimehe ametiaeg lõpeb tähtaja saabumise tõttu, võib kohtunik pöörduda tagasi kohtusse, kus ta oli teenistuses enne maakohtu esimeheks nimetamist, või jätkata kohtunikuna teenistust maakohtus, mille esimees ta oli. Sellekohase avalduse esitab kohtu esimees kirjalikult valdkonna eest vastutavale ministrile vähemalt kolm kuud enne ametiaja lõppemist.\n(13) Kui kohaldatakse käesoleva paragrahvi lõikeid 11 ja 12, võib kohtunike arv maakohtus olla suurem käesoleva seaduse § 11 alusel määratust."
+    },
+    {
+      "provision_ref": "para12^2",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "12^2",
+      "title": "§ 12^2. Maakohtu osakonnajuhataja",
+      "content": "(1) Maakohtu esimees nimetab osakonna koosseisu kuuluvate kohtunike seast neljaks aastaks osakonnajuhataja, kuulanud ära selle osakonna kohtunike arvamuse.\n(2) Osakonnajuhataja toetab oma vastutusvaldkonnas õigusemõistmise korrakohast toimimist ja korraldab osakonna teenistujate tööd. Osakonnajuhataja täidab ka maakohtu esimehe antud ja kohtu kodukorras ettenähtud ülesandeid ning korraldab valdkondlikku koostööd teiste kohtute osakondade ja kolleegiumidega.\n(3) Maakohtu esimees võib käskkirjaga vähendada osakonnajuhataja töökoormust õigusemõistmisel osakonnajuhataja ülesannete täitmiseks vajalikus määras.\n(4) Maakohtu esimees võib osakonnajuhataja enne tähtaja lõppemist osakonnajuhataja ülesannetest vabastada:\n1) tema enda soovil;\n2) maakohtu esimehega koostöö mittelaabumise tõttu."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "14",
+      "title": "§ 14. Rahvakohtunik",
+      "content": "Maakohtu rahvakohtunike arvu määrab valdkonna eest vastutav minister kooskõlastatult kohtute haldamise nõukojaga, kuulanud ära maakohtu üldkogu arvamuse."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "15",
+      "title": "§ 15. Kinnistusosakond",
+      "content": "(1) Tartu Maakohtus on kinnistusosakond.\n(2) Kinnistusosakonnas peetakse kinnistusraamatut, laevakinnistusraamatut.\n(3)\n(4) Kinnistusosakonna koosseisu kuuluvad kohtunikuabid ja muud kohtuteenistujad. Kohtudirektor määrab kinnistusosakonna kohtunikuabide seast kinnistusosakonna juhataja."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "16",
+      "title": "§ 16. Registriosakond",
+      "content": "(1) Tartu Maakohtus on registriosakond.\n(2) Registriosakonnas peetakse äriregistrit, mittetulundusühingute ja sihtasutuste registrit ning kommertspandiregistrit.\n(2^1) Lisaks käesoleva paragrahvi lõikes 2 nimetatud registritele peab Tartu Maakohtu registriosakond informatiivse tähendusega riigi- ja kohaliku omavalitsuse asutuste riiklikku registrit, mille eesmärk on avaliku sektori siseselt riigi- ja kohaliku omavalitsuse asutuste ja avalik-õiguslike juriidiliste isikute üle arvestuse pidamine ning registriandmete kättesaadavaks tegemine. Registri pidamise korra kehtestab valdkonna eest vastutav minister.\n(3)\n(4) Registriosakonna koosseisu kuuluvad kohtunikuabid, registrisekretärid ja muud kohtuteenistujad. Kohtudirektor määrab registriosakonna kohtunikuabide seast registriosakonna juhataja."
+    },
+    {
+      "provision_ref": "para16^1",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "16^1",
+      "title": "§ 16^1. Maksekäsuosakond",
+      "content": "(1) Pärnu Maakohtus on maksekäsuosakond.\n(2) Maksekäsuosakonnas menetletakse maksekäsu kiirmenetluse avaldusi.\n(3) Maksekäsuosakonna koosseisu kuuluvad kohtunikuabid ja muud kohtuteenistujad. Kohtudirektor määrab maksekäsuosakonna kohtunikuabide seast maksekäsuosakonna juhataja."
+    },
+    {
+      "provision_ref": "para16^2",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "16^2",
+      "title": "§ 16^2. Eestkoste järelevalve osakond",
+      "content": "(1) Eestkoste järelevalve osakond täidab perekonnaseaduse §-s 193 nimetatud järelevalvega seonduvaid ja §-s 194 sätestatud ülesandeid.\n(2) Pärnu Maakohtus on eestkoste järelevalve osakond.\n(3) Pärnu Maakohtu esimees nimetab Pärnu Maakohtu tsiviilosakonna koosseisu kuuluvate kohtunike seast neljaks aastaks eestkoste järelevalve osakonna juhataja. Osakonnajuhatajale kohaldatakse käesoleva seaduse § 12^2 lõigetes 3 ja 4 sätestatut.\n(4) Eestkoste järelevalve osakonna kodukorra kinnitab Pärnu Maakohtu esimees, kuulanud ära maakohtute esimeeste arvamuse."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "18",
+      "title": "§ 18. Halduskohus",
+      "content": "(1) Halduskohus arutab esimese astme kohtuna seadusega tema pädevusse antud haldusasju. Halduskohus teeb ka muid toiminguid, mis on seadusega antud tema pädevusse.\n(2) Halduskohtud on:\n1) Tallinna Halduskohus;\n2) Tartu Halduskohus.\n(2^1) Halduskohtul on üks või mitu kohtumaja.\n(3) Kohtumajad asuvad halduskohtu tööpiirkonnas, mille määrab valdkonna eest vastutav minister. Kohtumajade täpsed asukohad määrab valdkonna eest vastutav minister. Iga kohtumaja asukoht on ka halduskohtu asukoht.\n(4) Halduskohtu struktuuri ja kohtuteenistujate koosseisu kinnitab kohtudirektor, välja arvatud õigusemõistmise funktsiooni teostamisega seotud osas. Selles osas kinnitab struktuuri ja kohtuteenistujate koosseisu kohtu esimees. Struktuuri ja kohtuteenistujate koosseisu kinnitamisel lähtutakse käesoleva seaduse §-s 43 sätestatust."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "19",
+      "title": "§ 19. Halduskohtunike arv",
+      "content": "Halduskohtu kohtunike arvu ja jagunemise kohtumajade vahel määrab valdkonna eest vastutav minister, kuulanud ära halduskohtu esimehe ja selle ringkonnakohtu esimehe arvamuse, kelle tööpiirkonda kohus kuulub."
+    },
+    {
+      "provision_ref": "para19^1",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "19^1",
+      "title": "§ 19^1. Halduskohtu kohtuniku alaline teenistuskoht",
+      "content": "(1) Halduskohtu kohtuniku alaline teenistuskoht on kohtumajas, kuhu Riigikohtu üldkogu (§ 55 lõige 3) või kohtu esimees (§ 57) on ta määranud.\n(1^1) Kui halduskohtu esimeheks nimetatakse kohtunik, kes oli vahetult enne esimeheks nimetamist teise kohtu teenistuses, määrab ta esimehe ametiajaks ise kohtumaja, kus on tema alaline teenistuskoht.\n(2) Kohtunik ei või keelduda asja arutamisest teises sama halduskohtu kohtumajas.\n(3) Kui kohtunik arutab asja kohtumajas, mis ei ole tema alaline teenistuskoht, hüvitatakse talle sõidu- ja majutuskulud, samuti muud lähetuskulud avaliku teenistuse seaduse § 44 lõike 5 alusel kehtestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - ESIMESE ASTME KOHUS",
+      "section": "20",
+      "title": "§ 20. Halduskohtu esimees",
+      "content": "(1) Halduskohtu esimees nimetatakse esimese ja teise astme kohtunike seast seitsmeks aastaks. Muus osas kohaldatakse halduskohtu esimehele käesoleva seaduse §-s 12 sätestatut.\n(2)\n(3)\n(4)\n(5)\n(6)\n(7)\n(8)\n(9)"
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - TEISE ASTME KOHUS",
+      "section": "22",
+      "title": "§ 22. Ringkonnakohus",
+      "content": "(1) Ringkonnakohus on teise astme kohus, kes vaatab apellatsiooni korras läbi maa-, ja halduskohtu lahendeid.\n(2) Ringkonnakohtud on Tallinna Ringkonnakohus ja Tartu Ringkonnakohus.\n(3) Tallinna Ringkonnakohtu tööpiirkonnas on Harju Maakohus ja Pärnu Maakohus ning Tallinna Halduskohus.\n(4) Tartu Ringkonnakohtu tööpiirkonnas on Tartu Maakohus ja Viru Maakohus ning Tartu Halduskohus.\n(5)\n(6) Tallinna Ringkonnakohus asub Tallinnas ja Tartu Ringkonnakohus Tartus. Ringkonnakohtu täpse asukoha määrab valdkonna eest vastutav minister.\n(7) Ringkonnakohtu struktuuri ja kohtuteenistujate koosseisu kinnitab kohtudirektor, välja arvatud õigusemõistmise funktsiooni teostamisega seotud osas. Selles osas kinnitab struktuuri ja kohtuteenistujate koosseisu kohtu esimees. Struktuuri ja kohtuteenistujate koosseisu kinnitamisel lähtutakse käesoleva seaduse §-s 43 sätestatust."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - TEISE ASTME KOHUS",
+      "section": "23",
+      "title": "§ 23. Ringkonnakohtunike arv",
+      "content": "Ringkonnakohtu kohtunike arvu määrab valdkonna eest vastutav minister, kuulanud ära ringkonnakohtu esimehe arvamuse."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - TEISE ASTME KOHUS",
+      "section": "24",
+      "title": "§ 24. Ringkonnakohtu esimees",
+      "content": "(1) Ringkonnakohtu esimees nimetatakse teise astme kohtunike seast seitsmeks aastaks. Muus osas kohaldatakse ringkonnakohtu esimehele käesoleva seaduse §-s 12 sätestatut.\n(2)\n(3)\n(3^1) Tallinna Ringkonnakohtu esimees annab riigi peaprokuröri taotluse alusel nõusoleku kriminaalmenetluse seadustiku § 382^2 lõikes 1 nimetatud menetlustoimingute tegemiseks Riigikogu liikme suhtes enne süüdistusakti koostamiseks nõusoleku saamist.\n(3^2) Ringkonnakohtute esimehed otsustavad kohtuasja teise kohtusse lahendamiseks suunamise käesoleva seaduse §-s 45^1 sätestatud korras ning maakohtu ja ringkonnakohtu kohtuniku halduskohtu koosseisu ajutise kaasamise §-s 45^2 sätestatud korras.\n(3^3) Ringkonnakohtute esimehed korraldavad kohtujuristide osalemist kohtunike järelkasvu kavas.\n(4) Kohtu esimehe võib valdkonna eest vastutav minister kooskõlastatult Riigikohtu üldkoguga teenistusest enne tähtaja lõppemist vabastada:\n1) tema enda soovil;\n2) kui ta on süüliselt jätnud oma ülesanded olulisel määral täitmata;\n3) tema valimisel või nimetamisel rahvusvahelise kohtuinstitutsiooni kohtunikuks (§ 58^4) või Euroopa Prokuratuuri peaprokuröriks, Euroopa prokuröriks või Euroopa delegaatprokuröriks.\n(5) Käesoleva paragrahvi lõike 4 punktis 2 nimetatud juhul kuulab valdkonna eest vastutav minister ära kohtu üldkogu arvamuse.\n(6)\n(7)\n(8)\n(9)"
+    },
+    {
+      "provision_ref": "para24^1",
+      "chapter": "3. peatükk - TEISE ASTME KOHUS",
+      "section": "24^1",
+      "title": "§ 24^1. Ringkonnakohtu kolleegium",
+      "content": "(1) Ringkonnakohtus on tsiviilkolleegium, kriminaalkolleegium ja halduskolleegium. Iga ringkonnakohtunik kuulub ühte kolleegiumi.\n(2) Kohtunike arvulise jaotuse kolleegiumide vahel otsustab ringkonnakohtu esimees, kuulanud ära kohtu üldkogu arvamuse.\n(3) Kohtuniku üleviimise ühest kolleegiumist teise otsustab ringkonnakohtu esimees kohtuniku avalduse alusel, kuulanud ära kolleegiumide esimeeste arvamuse."
+    },
+    {
+      "provision_ref": "para24^2",
+      "chapter": "3. peatükk - TEISE ASTME KOHUS",
+      "section": "24^2",
+      "title": "§ 24^2. Ringkonnakohtu kolleegiumi esimees",
+      "content": "(1) Kolleegiumi liikmed valivad enda seast viieks aastaks kolleegiumi esimehe. Esimehe võib ennetähtaegselt vabastada kolleegiumi otsuse alusel või tema enda soovil.\n(2) Kolleegiumi esimees:\n1) toetab oma vastutusvaldkonnas õigusemõistmise korrakohast toimimist ja korraldab kolleegiumi teenistujate tööd;\n2) täidab ringkonnakohtu esimehe antud ja kohtu kodukorras ettenähtud ülesandeid;\n3) korraldab valdkondlikku koostööd teiste kohtutega.\n(3) Ringkonnakohtu esimees võib käskkirjaga vähendada kolleegiumi esimehe töökoormust õigusemõistmisel kolleegiumi esimehe ülesannete täitmiseks vajalikus määras."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - RIIGIKOHUS",
+      "section": "25",
+      "title": "§ 25. Riigikohus",
+      "content": "(1) Riigikohus on riigi kõrgeim kohus.\n(2) Riigikohus asub Tartus.\n(3) Riigikohtus on 19 riigikohtunikku."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - RIIGIKOHUS",
+      "section": "26",
+      "title": "§ 26. Riigikohtu pädevus",
+      "content": "(1) Riigikohus vaatab kohtulahendeid läbi kassatsiooni korras. Seaduses sätestatud juhtudel ja korras vaatab Riigikohus kohtulahendeid läbi teistmise ja kohtuvigade parandamise menetluses, samuti täidab muid seadusest tulenevaid ülesandeid.\n(2) Riigikohus otsustab tema pädevusse kuuluvate asjade menetlusse võtmise kohtumenetluse seaduses sätestatud alusel vähemalt kolmeliikmelises koosseisus. Asi võetakse menetlusse, kui selle menetlemist nõuab vähemalt üks riigikohtunik.\n(3) Riigikohus on ühtlasi põhiseaduslikkuse järelevalve kohus."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - RIIGIKOHUS",
+      "section": "27",
+      "title": "§ 27. Riigikohtu esimees",
+      "content": "(1) Riigikohtu esimehe nimetab Riigikogu Vabariigi Presidendi ettepanekul üheksaks aastaks.\n(2) Riigikohtu esimees:\n1) juhib ja esindab Riigikohut;\n2) teeb Riigikogule ettepaneku Riigikohtu kohtunike ametisse nimetamiseks;\n3) teostab seaduses ettenähtud järelevalvet;\n4) täidab muid seadusest ja kohtu kodukorrast tulenevaid ülesandeid.\n(3) Riigikohtu esimees esitab kord aastas Riigikogu kevadistungjärgul Riigikogule ülevaate kohtukorralduse, õigusemõistmise ja seaduste ühetaolise kohaldamise kohta.\n(4) Riigikohtu esimehe äraoleku ajal või volituste lõppemisel täidab Riigikohtu esimehe ülesandeid tema määratud riigikohtunik. Kui kohtu esimees ei ole asendajat määranud, asendab teda kõige kauem kohtunikuna teenistuses olnud käesoleva seaduse §-s 28 nimetatud kolleegiumi esimees või teenistusaegade võrdsuse korral vanim kolleegiumi esimees. Kolleegiumi esimeeste äraolekul asendab Riigikohtu esimeest kõige kauem kohtunikuna teenistuses olnud riigikohtunik või teenistusaja võrdsuse korral vanim riigikohtunik.\n(5) Riigikogu võib Vabariigi Presidendi ettepanekul vabastada Riigikohtu esimehe teenistusest tema enda soovil. Ametist tagasiastumisest teatab Riigikohtu esimees Vabariigi Presidendile vähemalt neli kuud ette.\n(5^1) Riigikogu vabastab Vabariigi Presidendi ettepanekul Riigikohtu esimehe teenistusest tema valimisel või nimetamisel rahvusvahelise kohtuinstitutsiooni kohtunikuks (§ 58^4) või Euroopa Prokuratuuri peaprokuröriks, Euroopa prokuröriks või Euroopa delegaatprokuröriks.\n(6) Kui Riigikohtu esimees on haiguse tõttu või muul põhjusel kuus kuud järjest kestvalt võimetu täitma oma ametiülesandeid, esitab Vabariigi President Riigikohtule põhjendatud taotluse tunnistada seda oma otsusega. Riigikohtu üldkogu otsus vabastab Riigikohtu esimehe ametist.\n(7) Kui Riigikohtu esimees vabastatakse kohtunikuametist, vabastatakse ta ka kohtu esimehe ülesannetest.\n(8) Kohtu esimehe ülesannetest vabastatud Riigikohtu esimehel säilivad riigikohtuniku volitused.\n(9) Kedagi ei tohi nimetada kohtu esimeheks kaheks ametiajaks järjestikku."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - RIIGIKOHUS",
+      "section": "28",
+      "title": "§ 28. Riigikohtu tsiviil-, kriminaal- ja halduskolleegium",
+      "content": "(1) Riigikohtus on tsiviilkolleegium, kriminaalkolleegium ja halduskolleegium.\n(2) Iga riigikohtunik kuulub ühte kolleegiumi. Riigikohtu üldkogu otsustab, millisesse kolleegiumi riigikohtunik kuulub, samuti kolleegiumidevahelise roteerumise korra ja tähtajad.\n(3) Riigikohtu esimehel on õigus kaasata Riigikohtu kodukorras ettenähtud korras asja läbivaatavasse kohtukoosseisu eri kolleegiumide kohtunikke.\n(4) Kolleegiumi esimehe nimetab Riigikohtu üldkogu kolleegiumi liikmete seast viieks aastaks.\n(5) Kolleegiumi esimees täidab Riigikohtu kodukorrast tulenevaid ülesandeid."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - RIIGIKOHUS",
+      "section": "29",
+      "title": "§ 29. Põhiseaduslikkuse järelevalve kolleegium",
+      "content": "(1) Riigikohtus on põhiseaduslikkuse järelevalve kolleegium, kuhu kuulub üheksa riigikohtunikku.\n(2) Põhiseaduslikkuse järelevalve kolleegiumi esimees on Riigikohtu esimees. Teised liikmed nimetab Riigikohtu üldkogu.\n(3) Põhiseaduslikkuse järelevalve kolleegiumi liikmete volituste tähtaeg ja nende asendamise kord sätestatakse Riigikohtu kodukorras."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "4. peatükk - RIIGIKOHUS",
+      "section": "30",
+      "title": "§ 30. Riigikohtu üldkogu",
+      "content": "(1) Riigikohtus on üldkogu, kuhu kuuluvad kõik riigikohtunikud.\n(2) Riigikohtu üldkogu:\n1) vaatab seaduses sätestatud alustel läbi kohtulahendeid;\n2) teeb Vabariigi Presidendile ettepaneku kohtuniku ametisse nimetamiseks ja kohtuniku ametist vabastamiseks;\n3) lahendab kohtuniku eksamikomisjoni otsuste peale esitatud kaebused;\n4) lahendab distsiplinaarkolleegiumi otsuste peale esitatud kaebused;\n5) otsustab distsiplinaarasja algatamise Riigikohtu esimehe suhtes ja teavitab sellest Riigikogu;\n6) täidab muid seadusest ja Riigikohtu kodukorrast tulenevaid ülesandeid.\n(3) Riigikohtu üldkogu kutsub kokku ja seda juhatab Riigikohtu esimees. Riigikohtu esimehe distsiplinaarasja algatamiseks kutsub üldkogu kokku ja seda juhatab kõige kauem kohtunikuteenistuses olnud kohtunik või teenistusaegade võrdsuse korral vanim kohtunik.\n(4) Riigikohtu üldkogu on otsustusvõimeline, kui kohal on vähemalt üksteist kohtunikku. Üldkogu otsused võetakse vastu kohalolevate riigikohtunike häälteenamusega. Häälte võrdsuse korral otsustab Riigikohtu esimehe hääl.\n(5) Valdkonna eest vastutaval ministril on õigus osa võtta Riigikohtu üldkogust, kui seal ei vaadata läbi kohtulahendeid. Valdkonna eest vastutaval ministril on üldkogul sõnaõigus. Riigikohtu esimees võib üldkogule kutsuda ka teisi isikuid, kellele üldkogu võib anda sõnaõiguse."
+    },
+    {
+      "provision_ref": "para30^1",
+      "chapter": "4. peatükk - RIIGIKOHUS",
+      "section": "30^1",
+      "title": "§ 30^1. Riigikohtu direktor",
+      "content": "(1) Riigikohtu direktor:\n1) korraldab Riigikohtu asjaajamist ja Riigikohtu vara kasutamist;\n2) vastutab Riigikohtu raamatupidamise korralduse eest;\n3) juhib ja korraldab õigusemõistmist teenindavate struktuuriüksuste ja teenistujate tööd;\n4) nimetab ametisse ja vabastab ametist kohtuteenistujaid, keda Riigikohtu kodukorra järgi ei nimeta ametisse Riigikohtu esimees;\n5) täidab muid Riigikohtu kodukorraga määratud ülesandeid.\n(2) Riigikohtu direktoril peab olema kõrgharidus. Direktori nimetab ametisse Riigikohtu esimees avaliku konkursi alusel viieks aastaks.\n(3) Riigikohtu direktori võib Riigikohtu esimees enne tähtaja lõppemist lisaks muudele avaliku teenistuse seaduses nimetatud alustele teenistusest vabastada ka Riigikohtu esimehega koostöö mittelaabumise tõttu. Kui Riigikohtu direktor vabastatakse teenistusest käesolevas lõikes kehtestatud alusel, makstakse talle hüvitisena põhipalka ametiaja lõpuni jäävate kuude eest, kuid mitte rohkem kui kuue kuu eest."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "4. peatükk - RIIGIKOHUS",
+      "section": "31",
+      "title": "§ 31. Kohtunõunik",
+      "content": "(1) Kohtunõunik on Riigikohtu ametnik, kes üldistab kohtupraktikat ja osaleb kohtuasjade menetluseks ettevalmistamisel.\n(2) Kohtunõuniku täpsemad teenistuskohustused määratakse Riigikohtu kodukorraga.\n(3) Kohtunõunikuks võib nimetada isiku, kes vastab kohtunikule esitatavatele haridusnõuetele.\n(4) Kohtunõunik nimetatakse ametikohale kolmeks aastaks. Poolte kokkuleppel võib kohtunõuniku teenistussuhet pikendada.\n(5) Kui kohtunõuniku teenistussuhet pikendatakse või ta nimetatakse samale ametikohale järjest rohkem kui kaks korda, välja arvatud avaliku teenistuse seaduse § 23 lõike 2 punktis 1 nimetatud juhul, loetakse kohtunõunik ametikohale nimetatuks määramata ajaks.\n(6) Kui kohtunõunik viiakse tähtajaliselt üle asutusse, mis asub teises kohaliku omavalitsuse üksuses, hüvitab Riigikohus tema sõidu- ja majutuskulud Riigikohtu esimehe kehtestatud ulatuses ja korras."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - RIIGIKOHUS",
+      "section": "32",
+      "title": "§ 32. Riigikohtu teenistujate töö tasustamine",
+      "content": "Riigikohtu kohtuteenistujate palgad ning lisatasude, preemiate ja toetuste maksmise korra määrab Riigikohtu eelarve piires kindlaks Riigikohtu esimees."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - RIIGIKOHUS",
+      "section": "33",
+      "title": "§ 33. Riigikohtu kodukord",
+      "content": "(1) Riigikohtu töökorraldus nähakse ette Riigikohtu kodukorras, mille kinnitab Riigikohtu üldkogu.\n(2) Kodukord ei või sisaldada kohtumenetluse korda puudutavaid sätteid.\n(3) Riigikohtu sisekorraeeskirjad kehtestatakse avaliku teenistuse seaduse kohaselt."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - RIIGIKOHUS",
+      "section": "34",
+      "title": "§ 34. Kohtute infosüsteem",
+      "content": "(1) Kohtute infosüsteem on valdkonna eest vastutava ministri asutatav riigiasutuse andmekogu, mille eesmärk on kohtute töö korraldamine, statistika kogumine, kohtulahendite kogumine, süstematiseerimine ning kohtutele ja avalikkusele kättesaadavaks tegemine.\n(2) Andmekogu vastutav töötleja on Justiitsministeerium. Andmekogu volitatud töötlejad on Justiitsministeerium ja Eesti Vabariigi kohtud.\n(3) Registriandmete koosseisu, andmete esitamise korra ja andmetele juurdepääsuõiguse taotlemise täpsema korra kehtestab valdkonna eest vastutav minister kooskõlastatult kohtute haldamise nõukojaga.\n(4) Kohtute infosüsteemi andmetele on juurdepääsuõigus:\n1) riigi- ja kohaliku omavalitsuse asutusel ning juriidilisel või füüsilisel isikul seadusega sätestatud ülesannete täitmiseks;\n2) välisriigi asutusel ja isikul, kui see õigus on sätestatud välislepinguga.\n(5) Kohtute infosüsteemi vastutav töötleja, volitatud töötleja ja käesoleva paragrahvi lõikes 4 nimetatud andmesaaja on kohustatud hoidma saladuses neile tööülesannete täitmisel teatavaks saanud andmeid ka pärast nende töötlemisega seotud tööülesannete täitmist või teenistussuhte lõppemist. Keelatud on saadud andmeid väljastada kolmandatele isikutele, kui see ei ole ette nähtud seadusega. Andmesaaja on kohustatud andmeid kasutama üksnes taotletaval eesmärgil ning järgima käesoleva seaduse ja isikuandmete kaitse seadusega sätestatud ja talle andmete üleandmisel kehtestatud andmete kasutamise piirangutest tulenevaid tingimusi, samuti tagama, et andmed ei satuks isikute kätte, kellel ei ole nende töötlemise õigust.\n(6) Andmesaaja, kes kasutab andmeid seadusega sätestatud ülesande täitmiseks, on kohustatud vastutavale töötlejale ja volitatud töötlejale viivitamata teatama avastatud ebaõigetest, kaheldavatest või mittetäielikest andmetest."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "5. peatükk - KOHTUNIKE OMAVALITSUS JA TÖÖJAOTUS",
+      "section": "35",
+      "title": "§ 35. Kohtu üldkogu",
+      "content": "(1) Igas kohtus on üldkogu, kuhu kuuluvad kõik selle kohtu kohtunikud.\n(2) Üldkogu on otsustusvõimeline, kui selles osaleb enamus kohtunikest.\n(3) Üldkogu kutsub kokku kohtu esimees iseseisvalt või vähemalt 2/3 kohtu kohtunike nõudmisel. Üldkogu eesistujaks on kohtu esimees.\n(4) Üldkogu otsused võetakse vastu kohalolevate kohtunike häälteenamusega. Häälte võrdsuse korral otsustab kohtu esimehe hääl.\n(5) Riigikohtu üldkogu tegevust reguleerib käesoleva seaduse § 30."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "5. peatükk - KOHTUNIKE OMAVALITSUS JA TÖÖJAOTUS",
+      "section": "36",
+      "title": "§ 36. Kohtu üldkogu pädevus",
+      "content": "Kohtu üldkogu:\n1) kinnitab kohtunike tööjaotusplaani;\n2) annab valdkonna eest vastutavale ministrile arvamuse kohtu esimehe ametisse nimetamise ja seaduses sätestatud juhul ka ametist vabastamise kohta;\n3) annab kohtu esimehele soovitusi kohtu töökorralduslikes küsimustes;\n4) täidab muid seadusest või kohtu kodukorrast tulenevaid ülesandeid."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "5. peatükk - KOHTUNIKE OMAVALITSUS JA TÖÖJAOTUS",
+      "section": "37",
+      "title": "§ 37. Kohtunike tööjaotus",
+      "content": "(1) Kohtunike tööjaotus esimese ja teise astme kohtutes nähakse ette tööjaotusplaanis.\n(1^1) Kohtu esimees võib käskkirjaga vähendada enda töökoormust õigusemõistmisel esimehe ülesannete täitmiseks vajalikus määras.\n(1^2) Esimese astme kohtuniku ametisse asumisel on tema töökoormus õigusemõistmisel esimesel kuuel kuul 90%.\n(2) Töö tuleb kohtunike vahel jaotada, lähtudes järgmistest põhimõtetest:\n1) tööjaotusplaani järgi tuleb kohtunike vahel jaotada kõik kohtusse läbivaatamiseks saabuvad asjad;\n2) asjad tuleb jaotada tööjaotusplaanis määratud alustel, lähtudes juhuslikkuse põhimõttest;\n3)\n3^1) asjade jaotamine peab tagama kohtunike spetsialiseerumise;\n4) asjade jaotamine peab tagama kohtunike ühtlase töökoormuse kohtu piires;\n4^1) kohtu esimehele, kolleegiumi esimehele ja osakonnajuhatajale asjade jaotamisel arvestatakse vähendatud töökoormust õigusemõistmisel.\n5)\n(3) Tööjaotusplaanis nähakse ette kohtu koosseisude moodustamise ja kohtunike asendamise kord.\n(4) Tööjaotusplaan kinnitatakse üheks kalendriaastaks. Üldkogu võib tööaasta kestel tööjaotusplaani muuta üksnes mõjuval põhjusel.\n(4^1) Kohtute haldamise nõukoda kehtestab kohtunike tööjaotusplaani koostamise täpsemad alused, sealhulgas kohtunike spetsialiseerumise põhimõtted. Tööjaotusplaaniga tuleb tagada kohtunike spetsialiseerumine alaealistega seotud asjadele ja maksejõuetusasjadele. Kohtud lähtuvad tööjaotusplaani kinnitades käesolevast seadusest ja kohtute haldamise nõukoja kehtestatud alustest.\n(5) Tööjaotusplaan avaldatakse kohtu veebilehel."
+    },
+    {
+      "provision_ref": "para37^1",
+      "chapter": "5. peatükk - KOHTUNIKE OMAVALITSUS JA TÖÖJAOTUS",
+      "section": "37^1",
+      "title": "§ 37^1. Kohtuniku töötamine osalise töökoormusega",
+      "content": "(1) Kohtu esimees võimaldab kohtunikul töötada osalise töökoormusega seoses:\n1) alla kolmeaastase lapse kasvatamise vajadusega;\n2) osalise töövõimega.\n(2) Kohtu esimees võib kohtunikul lubada töötada osalise töökoormusega kuni üks aasta ka käesoleva paragrahvi lõikes 1 nimetamata juhul. Nimetatud üheaastast tähtaega võib pikendada kohtuniku põhjendatud taotluse alusel korraga ühe aasta võrra. Enne kohtuniku töökoormuse vähendamise otsustamist kuulab kohtu esimees ära kohtu üldkogu arvamuse.\n(3) Taotlus osalise töökoormusega töötamiseks esitatakse kohtu esimehele vähemalt kaks nädalat enne soovitavat osalise töökoormusega töötamise algust. Taotluses märgitakse osalise töökoormusega töötamise põhjus ja aeg. Taotlusele lisatakse dokumendid, mis kinnitavad taotluse aluseks olevaid asjaolusid.\n(4) Osalise töökoormusega töötamisel käesolevas paragrahvis nimetatud alusel vähendatakse proportsionaalselt töökoormusega kohtuniku ametipalka.\n(5) Kohtuniku töötamine osalise töökoormusega vormistatakse kohtu esimehe käskkirjaga. Käskkiri peab sisaldama andmeid, millise koormusega kohtunik töötab, millisel perioodil kohtunik osalise töökoormusega töötab ning kui suur on osalise töökoormusega töötamisel tema ametipalk."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "5. peatükk - KOHTUNIKE OMAVALITSUS JA TÖÖJAOTUS",
+      "section": "38",
+      "title": "§ 38. Kohtunike täiskogu",
+      "content": "(1) Kohtunike täiskogusse kuuluvad kõik Eesti kohtunikud.\n(2) Riigikohtu esimees kutsub kohtunike täiskogu kokku vähemalt kord aastas. Erakorralise kohtunike täiskogu võib kokku kutsuda valdkonna eest vastutav minister või Riigikohtu esimees.\n(2^1) Kohtunike täiskogu võib toimuda ka osaliselt või täielikult elektrooniliste vahendite abil.\n(3) Kohtunike täiskogu:\n1) kuulab ära Riigikohtu esimehe ja valdkonna eest vastutava ministri ettekande õigus- ja kohtusüsteemi arengust;\n2) arutab õigusemõistmise probleeme ning muid kohtute ja kohtunikutööga seotud küsimusi;\n3) valib kohtute haldamise nõukoja kohtunikest liikmed ja asendusliikmed kooskõlas käesoleva seaduse § 40 lõikega 1;\n4) valib kolmeks aastaks viis ringkonnakohtunikku ja viis esimese astme kohtunikku, kes osalevad distsiplinaarasjade lahendamisel Riigikohtu juures asuvas distsiplinaarkolleegiumis;\n5) valib kohtunikueksamikomisjoni esimese ja teise astme kohtu kohtunikest liikmed;\n6)\n7) valib koolitusnõukogu kohtunikest liikmed ja asendusliikmed;\n8) valib Eesti Advokatuuri aukohtu ja kutsesobivuskomisjoni, prokuröride konkursi- ja distsiplinaarkomisjoni, Notarite Koja aukohtu ning Kohtutäiturite ja Pankrotihaldurite Koja metoodikakomisjoni kohtunikest liikmed ja asendusliikmed;\n9) kinnitab kohtunike eetikakoodeksi.\n(4) Kohtunike täiskogu juhataja on Riigikohtu esimees, kui kohtunike täiskogu ei otsusta teisiti.\n(4^1) Kohtunike täiskogul võivad hääletamine ja valimised toimuda hääletamissedeliga, elektrooniliselt, kirjalikult või muul kohtunike täiskogu kodukorras sätestatud viisil.\n(5) Kohtunike täiskogu kodukord kehtestatakse täiskogul osalevate kohtunike häälteenamusega.\n(6) Kohtunike täiskogu tehnilise teenindamise tagab Riigikohus.\n(7)\n(8) Kui kohtunike täiskogu valitud omavalitsusorgani kohtunikust liikme ametiaeg lõpeb tähtaja möödumise tõttu enne järgmise täiskogu toimumist, loetakse tema ametiaeg pikenenuks uue liikme valimiseni täiskogu poolt."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "6. peatükk - KOHTUHALDUS, KOOLITUS JA JÄRELEVALVE",
+      "section": "39",
+      "title": "§ 39. Kohtuhaldus",
+      "content": "(1) Esimese ja teise astme kohtuasutusi hallatakse kohtute haldamise nõukoja ja Justiitsministeeriumi koostöös. Kohtud täidavad kohtuhaldusülesandeid, kui see tuleneb seadusest.\n(2) Valdkonna eest vastutav minister võib oma pädevusse kuuluva kohtuhaldusülesande anda üle kohtule.\n(3) Valdkonna eest vastutaval ministril ei ole käsu- ega distsiplinaarvõimu kohtunike suhtes.\n(4) Kohtuhaldus peab tagama:\n1) võimaluse sõltumatult õigust mõista;\n2) õigusemõistmiseks vajalikud töötingimused;\n3) kohtuteenistujate piisava väljaõppe;\n4) õigusemõistmise kättesaadavuse."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "6. peatükk - KOHTUHALDUS, KOOLITUS JA JÄRELEVALVE",
+      "section": "40",
+      "title": "§ 40. Kohtute haldamise nõukoda",
+      "content": "(1) Kohtute haldamise nõukotta (edaspidi nõukoda ) kuuluvad Riigikohtu esimees, viis kohtunike täiskogu poolt kolmeks aastaks valitud kohtunikku, kaks Riigikogu liiget, Advokatuuri juhatuse nimetatud vandeadvokaat, riigi peaprokurör või tema poolt nimetatud riigiprokurör ja õiguskantsler või tema poolt nimetatud esindaja. Valdkonna eest vastutav minister või tema poolt nimetatud esindaja osaleb nõukojas sõnaõigusega.\n(2) Nõukoja istungi kutsub kokku Riigikohtu esimees või valdkonna eest vastutav minister. Istungi kokkukutsuja määrab istungi päevakorra. Nõukoja esimees on Riigikohtu esimees.\n(3) Nõukoda on otsustusvõimeline, kui kohal on üle poole liikmetest. Nõukoda võtab otsuseid vastu kohalolijate häälteenamusega. Nõukoda kinnitab esimesel istungil kodukorra. Nõukoja tehnilise teenindamise tagab Justiitsministeerium."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "6. peatükk - KOHTUHALDUS, KOOLITUS JA JÄRELEVALVE",
+      "section": "41",
+      "title": "§ 41. Kohtute haldamise nõukoja pädevus",
+      "content": "(1) Nõukoda annab nõusoleku:\n1) kohtu tööpiirkonna määramisel (§ 10 lõige 1, § 18 lõige 3);\n2)\n3) kohtu ja kohtumaja täpse asukoha määramisel (§ 9 lõige 3; § 18 lg 3; § 22 lg 6);\n4) kohtu ja kohtumajas alaliselt teenistuses olevate kohtunike arvu määramisel (§ 11; § 19; § 23);\n5) kohtu esimehe nimetamisel ja ennetähtaegsel vabastamisel (§ 12 lõige 1 ja lõike 4 punkt 2, § 20, § 24 lõige 1 ja lõike 4 punkt 2);\n5^1) kohtuniku teenistusvanuse ülemmäära tõstmisel (§ 99^1 lõige 2);\n6) rahvakohtunike arvu määramisel (§ 14);\n7)\n8)\n9)\n10)\n11) Kohtute infosüsteemi registriandmete koosseisu ja nende esitamise korra kehtestamisel (§ 34 lõige 3);\n12)\n13) rahvakohtunikule makstava tasu suuruse ja maksmise korra määramisel (§ 112 lõige 1);\n14) kohtunikule valveaja eest makstava lisatasu arvestamise korra ja valveaja eest lisatasu maksmiseks ettenähtud kohtunike arvu määramisel (§ 76 lg 8).\n(2) Nõukoda annab eelneva seisukoha kohtute aastaeelarvete kujundamise ning muutmise põhimõtete kohta.\n(3) Nõukoda:\n1) annab arvamuse Riigikohtu kohtuniku vabale kohale kandideerivate isikute kohta (§ 55 lg 4);\n2) annab arvamuse kohtuniku vabastamise kohta (§ 99 lõike 1 punktid 5–8);\n3) arutab eelnevalt läbi Riigikohtu esimehe poolt Riigikogule esitatava ülevaate kohtukorralduse, õigusemõistmise ja seaduste ühetaolise kohaldamise kohta (§ 27 lõige 3);\n4) arutab teisi küsimusi Riigikohtu esimehe või valdkonna eest vastutava ministri algatusel.\n(4) Nõukoda kehtestab kohtunike tööjaotusplaani koostamise alused."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "6. peatükk - KOHTUHALDUS, KOOLITUS JA JÄRELEVALVE",
+      "section": "42",
+      "title": "§ 42. Kohtu kodukord",
+      "content": "(1) Esimese ja teise astme kohtu töökorraldus nähakse ette kohtu kodukorras. Kodukorra kehtestab kohtu esimees kooskõlastatult kohtu üldkoguga. Maakohtu kinnistusosakonna, registriosakonna ja maa-, haldus- ja ringkonnakohtu kantselei kodukorra kehtestab valdkonna eest vastutav minister.\n(2) Kohtu kodukorras nähakse ette kohtu esimehe, kolleegiumi esimehe, osakonnajuhataja ja teiste kohtunike kohtu töökorraldusest tulenevad ülesanded ning kohtu esimehele alluvate kohtuteenistujate ülesanded.\n(2^1) Kohtu kantselei kodukorras nähakse ette kohtuteenistujate ülesanded, kohtu asjaajamise kord ja kohtu muu töökorraldus.\n(3) Kodukord ei või sisaldada kohtumenetluse korda puudutavaid sätteid.\n(4) Kohtuasutuse sisekorraeeskirjad ja ametijuhendid kehtestatakse avaliku teenistuse seaduse kohaselt."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "6. peatükk - KOHTUHALDUS, KOOLITUS JA JÄRELEVALVE",
+      "section": "43",
+      "title": "§ 43. Kohtu eelarve",
+      "content": "(1) Esimese ja teise astme kohtute eelarved kinnitab valdkonna eest vastutav minister riigieelarve seadusena jõustumisest alates kahe kuu jooksul, võttes arvesse kohtute haldamise nõukoja kujundatud seisukohta (§ 41 lg 2).\n(2) Kohtu eelarves näidatakse õigusemõistmise funktsiooni teostamiseks vajalikud kulud kinnistusosakonna, registriosakonna, maksekäsuosakonna, eestkoste järelevalve osakonna ning kohtute üleste tugiteenuste kuludest eraldi.\n(3) Eelarveaasta jooksul võib valdkonna eest vastutav minister kohtu eelarvekulusid muuta üksnes mõjuval põhjusel, kuulanud ära kohtu esimehe ja kohtudirektori arvamuse ning lähtudes kohtute haldamise nõukoja kujundatud põhimõtetest.\n(4) Riigikohtu eelarve võetakse vastu riigieelarve seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "6. peatükk - KOHTUHALDUS, KOOLITUS JA JÄRELEVALVE",
+      "section": "44",
+      "title": "§ 44. Kohtunike koolitus",
+      "content": "(1) Kohtunike koolituse eest vastutab koolitusnõukogu. Koolitusnõukogu liikme volituste pikkus on kolm aastat. Koolitusnõukokku kuuluvad kaks esimese astme, kaks teise astme ja kaks Riigikohtu kohtunikku ning prokuratuuri, valdkonna eest vastutava ministri ja Tartu Ülikooli esindaja. Koolitusnõukogu kinnitab oma kodukorra ja valib esimehe. Koolitusnõukogu teenindab Riigikohus.\n(2) Kohtunike koolituse aluseks on kohtunike koolituse strateegia ja iga-aastased koolitusprogrammid ning kohtunikueksami programm. Kohtunike koolituse strateegia ja koolitusprogrammid ning kohtunikueksami programmi koostab Riigikohus ja need kinnitab koolitusnõukogu. Järgmise aasta koolitusprogrammi esitab Riigikohus koolitusnõukogule hiljemalt 15. augustil. Koolitusnõukogu kinnitab kohtunike koolitusvajadust ja riigieelarves kohtunike koolituseks ettenähtud vahendeid arvestades koolitusprogrammi hiljemalt 1. oktoobril. Kohtunike koolituseks vajalikud õppe- ja metoodilised materjalid valmistab ette ning koolitajatega sõlmib kokkulepped Riigikohus.\n(3) Kohtunike koolituse strateegia ja koolitusprogrammide koostamise aluseks on kohtunike koolitusvajadus ja koolituse tulemuste analüüs. Kohtunike koolitusvajaduse selgitab välja ja koolituse tulemusi analüüsib Riigikohus. Kohtunike koolitusvajaduse väljaselgitamise ja koolituse tulemuste analüüsimise metoodika töötab välja Riigikohus ning need kinnitab koolitusnõukogu. Koolitusnõukogu annab Riigikohtu esitatud iga-aastase ülevaate alusel hinnangu kohtunike koolituse tulemustele.\n(4) Riigikohus võib halduslepinguga volitada temale käesolevas paragrahvis pandud ülesandeid täielikult või osaliselt täitma teise isiku või asutuse, kui koolitusnõukogu on selle enne heaks kiitnud.\n(5) Koolitusnõukogu määrab igal aastal koolitusprogrammi osa, milles ettenähtud koolituse läbimine on kohtunikule kohustuslik.\n(6) Kohtunik osaleb koolitusel kohtu iga-aastase koolituskava alusel. Kohtu koolituskava kinnitab kohtu üldkogu. Koolitusel osalemise arvestust peetakse kohtus iga kohtuniku kohta vastavalt kohtu kodukorrale. Koolituskava täitmist kontrollib kohtu esimees.\n(7) Kohtunike koolitusprogrammi koostamiseks ja koolituse korraldamiseks vajalikud sihtotstarbelised vahendid nähakse ette Riigikohtu eelarves."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "6. peatükk - KOHTUHALDUS, KOOLITUS JA JÄRELEVALVE",
+      "section": "45",
+      "title": "§ 45. Järelevalve",
+      "content": "(1) Õigusemõistmise korrakohase toimimise, kohtunike kohustuste täitmise ning kohtute infosüsteemi andmete korrakohase edastamise üle teostab järelevalvet kohtu esimees. Kohtuniku üle, kes lahendab käesoleva seaduse §-s 45^1 sätestatud korras teise kohtusse lahendamiseks suunatud kohtuasja, on §-s 45^2 sätestatud korras ajutiselt kaasatud halduskohtu koosseisu või viibib §-s 58^3 sätestatud korras menetluslähetuses, teostab järelevalvet selle kohtu esimees, kus kohtunik alaliselt töötab. Kohtu esimees võib nõuda kohtunikelt seletusi, kontrollida asjaajamist ja koguda muud vajalikku teavet. Osakonnajuhataja võib esimese astme kohtu esimehe korraldusel või omal algatusel nõuda seletusi osakonna kohtunikelt ja teistelt teenistujatelt ning koguda muud vajalikku teavet õigusemõistmise korrakohase toimimise tagamiseks. Esimese astme kohtu kohtunike üle teostab järelevalvet ka ringkonnakohtu esimees.\n(1^1) Kui kohtunik ei tee mõjuva põhjuseta vajalikku menetlustoimingut, sealhulgas ei määra õigel ajal istungit, et tagada kohtumenetluse läbiviimine mõistliku aja jooksul, või kui on ilmne, et kohtuniku poolt menetlustoimingu tegemiseks planeeritud aeg või muu menetluse korraldus ei taga menetluse läbiviimist mõistliku aja jooksul, otsustab kohtu esimees sellise õigusemõistmist korraldava abinõu rakendamise, mis eelduslikult võimaldab menetluse mõistliku aja jooksul lõpule viia. Kohtu esimees võib muu hulgas:\n1) määrata kohtunikule menetlustoimingu tegemiseks või sõltuvalt asjaoludest menetluse lõpuleviimiseks mõistliku tähtaja;\n2) anda kohtunikule menetluse läbiviimiseks ning töö ja tööaja korraldamiseks muid korralduslikke juhiseid;\n3) jaotada tööjaotusplaani arvestades kohtunike vahel ümber kohtuasju;\n4) erandjuhul kalduda töö jaotamisel kõrvale ka tööjaotusplaanist, eelkõige arvestades kohtuasja eripära, kohtuniku spetsialiseerumist ja kohtunike erinevat tööga koormatust.\n(2) Esimese ja teise astme kohtu esimehe kohustuste täitmise üle teostab järelevalvet valdkonna eest vastutav minister. Valdkonna eest vastutav minister võib nõuda kohtu esimehelt seletusi õigusemõistmise korrakohase toimimise kohta kohtus.\n(3) Kinnistusosakonna, registriosakonna ja maksekäsuosakonna tegevusvaldkonnas teostab järelevalvet kohtudirektor. Tsiviilosakonna, süüteoosakonna ja eestkoste järelevalve osakonna kohtunikuabi üle teostab järelevalvet kohtu esimees."
+    },
+    {
+      "provision_ref": "para45^1",
+      "chapter": "6. peatükk - KOHTUHALDUS, KOOLITUS JA JÄRELEVALVE",
+      "section": "45^1",
+      "title": "§ 45^1. Kohtuasja suunamine lahendamiseks teise kohtusse kohtualluvust muutmata",
+      "content": "(1) Maa- või halduskohtu esimehe taotlusel võivad ringkonnakohtute esimehed oma ühise otsusega suunata üldiste tunnuste alusel kindlaksmääratava kohtuasja lahendamiseks teise sama astme kohtusse, kui see on vajalik õigusemõistmise korrakohaseks toimimiseks, eelkõige kui on ilmne, et kohtus, mille esimees taotluse esitas, ei ole õigusemõistmise korrakohast toimimist võimalik tagada käesoleva seaduse § 45 lõikes 1^1 sätestatud meetmetega. Maakohtust on lubatud kohtuasja suunata ainult teise maakohtusse ja halduskohtust ainult halduskohtusse. Teise kohtusse lahendamiseks suunatud kohtuasjade jaotamine toimub vastavalt teise kohtu tööjaotusplaanile, lähtudes juhuslikkuse põhimõttest.\n(2) Kohtuasja alluvus ega asja arutamise koht kohtuasja teise kohtusse lahendamiseks suunamise tulemusel ei muutu. Kui teise kohtu kohtunik menetleb teise kohtusse lahendamiseks suunatud kohtuasja alluvusjärgse kohtu nimel väljaspool selle kohtu tööpiirkonda, milles asub tema alaline teenistuskoht, hüvitatakse talle sõidu- ja majutuskulud, samuti muud lähetuskulud avaliku teenistuse seaduse § 44 lõike 5 alusel kehtestatud tingimustel ja korras.\n(3) Kohtute haldamise nõukoda võib kehtestada kohtuasja teise kohtusse lahendamiseks suunamise täpsemad põhimõtted."
+    },
+    {
+      "provision_ref": "para45^2",
+      "chapter": "6. peatükk - KOHTUHALDUS, KOOLITUS JA JÄRELEVALVE",
+      "section": "45^2",
+      "title": "§ 45^2. Maakohtu ja ringkonnakohtu kohtuniku ajutine kaasamine halduskohtu koosseisu",
+      "content": "(1) Väljasõidukohustuse ja sissesõidukeelu seaduse § 15^4 lõike 4 või välismaalasele rahvusvahelise kaitse andmise seaduse § 36^6 lõike 4 kohaselt laekunud teabe alusel võivad ringkonnakohtute esimehed ühise otsusega saata maakohtu või ringkonnakohtu kohtuniku tema nõusolekuta välismaalase kinnipidamise loa taotlusi ajutiselt läbi vaatama halduskohtusse, kui see on vajalik õigusemõistmise korrakohaseks toimimiseks.\n(2) Kui halduskohtu koosseisu ajutiselt kaasatud kohtunik menetleb kohtuasja väljaspool selle kohtu tööpiirkonda, milles asub tema alaline teenistuskoht, hüvitatakse talle sõidu- ja majutuskulud, samuti muud lähetuskulud avaliku teenistuse seaduse § 44 lõike 5 alusel kehtestatud tingimustel ja korras.\n(3) Kohtute haldamise nõukoda võib kehtestada maakohtu ja ringkonnakohtu kohtuniku halduskohtu koosseisu ajutise kaasamise täpsemad põhimõtted."
+    },
+    {
+      "provision_ref": "para45^3",
+      "chapter": "6. peatükk - KOHTUHALDUS, KOOLITUS JA JÄRELEVALVE",
+      "section": "45^3",
+      "title": "§ 45^3. Kohtuasja menetlemise jätkamine kohtuniku üleviimisel teise kohtusse",
+      "content": "(1) Kui kohtunik viiakse üle teise sama astme maa- või halduskohtu või ringkonnakohtu kohtunikuks, menetleb ta lõpuni need kohtuasjad, mille lõpuni menetlemise määrab selle kohtu esimees, kuhu kohtunik üle viidi. Ettepaneku kohtuasja lõpuni menetlemiseks teeb selle kohtu esimees, kust kohtunik üle viidi. Kohtuasja alluvus ega asja arutamise koht ei muutu.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud kohtuasjade menetlemiseks võib kohtuniku töökoormust vajalikus määras vähendada selle kohtu esimees, kuhu kohtunik üle viidi."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "6. peatükk - KOHTUHALDUS, KOOLITUS JA JÄRELEVALVE",
+      "section": "46",
+      "title": "§ 46. Kohtute aruandlus",
+      "content": "Esimese ja teise astme kohtud esitavad valdkonna eest vastutavale ministrile kohtuasjade kohta statistilise aruande. Aruande vormi kinnitab ja esitamise tähtaja määrab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "47",
+      "title": "§ 47. Kohtunikule esitatavad nõuded",
+      "content": "(1) Kohtunikuks võib nimetada Eesti Vabariigi kodaniku, kes:\n1) on omandanud õiguse õppesuunal vähemalt riiklikult tunnustatud magistrikraadi, sellele vastava kvalifikatsiooni Eesti Vabariigi haridusseaduse § 28 lõike 2^2 tähenduses või sellele vastava välisriigi kvalifikatsiooni;\n2) oskab eesti keelt keeleseaduses sätestatud C1-tasemel või sellele vastaval tasemel;\n3) on kõrgete kõlbeliste omadustega;\n4) on kohtunikutööks vajalike võimete ja isiksuseomadustega.\n(1^1)\n(2) Kohtunikuks ei või nimetada isikut:\n1) kes on süüdi mõistetud kuriteo toimepanemise eest;\n2) kes on kohtuniku-, notari- või kohtutäituri ametist tagandatud;\n3) kes on advokatuurist välja heidetud;\n4) kes on avalikust teenistusest vabastatud distsiplinaarsüüteo eest;\n5) kes on pankrotivõlgnik;\n6) kelle audiitori kutsetegevus on lõpetatud, välja arvatud lõpetamine audiitori avalduse alusel;\n7) kellelt on patendivoliniku kutse ära võetud, välja arvatud kutse äravõtmine patendivoliniku avalduse alusel;\n8) kellelt on vandetõlgi kutse ära võetud vandetõlgi seaduse § 28 lõike 3 punkti 3 alusel."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "48",
+      "title": "§ 48. Kohtuniku teenistusvanus",
+      "content": "Kohtuniku teenistusvanuse ülemmäär on 67 aastat, kui käesolevas seaduses ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "49",
+      "title": "§ 49. Kohtuniku ametikitsendused",
+      "content": "(1) Kohtunik ei või väljaspool kohtunikuametit töötada mujal kui õppe- või teadustööl. Kohtunik võib täita ka muid kohtute seaduses sätestatud ülesandeid. Kohtunik peab oma ametivälisest töötamisest teatama kohtu esimehele. Ametivälised tööülesanded ei tohi kahjustada kohtuniku ametikohustuste täitmist ega kohtuniku sõltumatust õigusemõistmisel.\n(2) Kohtunik ei või olla:\n1) Riigikogu liige ega valla- või linnavolikogu liige;\n2) erakonna liige;\n3) äriühingu asutaja, juhtimisõiguslik osanik, juhatuse või nõukogu liige ega välismaa äriühingu filiaali juhataja;\n4) pankrotihaldur, pankrotitoimkonna liige ega kinnisasja sundvalitseja;\n5) vaidlevate poolte valitud vahekohtunik."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "50",
+      "title": "§ 50. Esimese astme kohtu kohtunik",
+      "content": "(1) Maa- või halduskohtu kohtunikuks (maa- või halduskohtunikuks) võib nimetada isiku:\n1) kellel on pärast käesoleva seaduse § 47 lõike 1 punktis 1 sätestatud kvalifikatsiooni omandamist vähemalt viieaastane juriidilise töö kogemus või kes on töötanud kohtunõuniku või kohtujuristina vähemalt kolm aastat ja\n2) kes on sooritanud kohtunikueksami või on sellest vabastatud.\n(2) Kohtunikuks kandideerija vastavust käesoleva paragrahvi lõikes 1 nimetatud nõuetele hindab kohtunikueksamikomisjon."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "51",
+      "title": "§ 51. Ringkonnakohtu kohtunik",
+      "content": "(1) Ringkonnakohtu kohtunikuks (ringkonnakohtunikuks) võib nimetada isiku, kes on:\n1) kogenud ja tunnustatud jurist ning\n2) sooritanud kohtunikueksami või on sellest vabastatud.\n(2) Kohtunikuks kandideerija vastavust käesoleva paragrahvi lõikes 1 nimetatud nõuetele hindab kohtunikueksamikomisjon."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "52",
+      "title": "§ 52. Riigikohtu kohtunik",
+      "content": "Riigikohtu kohtunikuks (riigikohtunikuks) võib nimetada isiku, kes on kogenud ja tunnustatud jurist."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "53",
+      "title": "§ 53. Avalik konkurss",
+      "content": "(1) Kohtunikud nimetatakse ametisse avaliku konkursi alusel.\n(2) Avaliku konkursi halduskohtu, maakohtu tsiviil- või süüteoosakonna ning ringkonnakohtu haldus-, kriminaal- või tsiviilkolleegiumi kohtuniku vaba koha täitmiseks kuulutab välja valdkonna eest vastutav minister. Konkursi Riigikohtu kohtuniku vaba koha täitmiseks kuulutab välja Riigikohtu esimees.\n(3) Konkurss vaba kohtunikukoha täitmiseks kuulutatakse välja väljaandes Ametlikud Teadaanded. Avaldus esitatakse Riigikohtu esimehele ühe kuu jooksul pärast konkursiteate avaldamist.\n(3^1) Käesoleva paragrahvi lõikes 3 nimetatud konkursiteates märgitakse ka teenistuskoha alaline asukoht.\n(4) Kui vaba kohtunikukoht täidetakse käesoleva seaduse §-s 57 või 58 sätestatud korras, siis konkurssi välja ei kuulutata."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "54",
+      "title": "§ 54. Kohtunikuks kandideerija isiksuseomaduste sobivuse selgitamine",
+      "content": "(1) Kohtunikuks kandideerija isiksuseomaduste sobivust hindab kohtunikueksamikomisjon. Kohtunikueksamikomisjon arvestab kohtunikuks kandideerija isiksuseomaduste hindamisel kohtuniku ülesannete täitmiseks olulisi andmeid ning võib teha järelepärimisi.\n(1^1) Isiksuseomaduste hindamise vormid ja kord sätestatakse kohtunikueksamikomisjoni töökorras.\n(2) Kohtunikuks kandideerija peab enne kohtunikuks nimetamist läbima julgeolekukontrolli, välja arvatud juhul, kui ta omab kehtivat juurdepääsuluba täiesti salajase taseme riigisaladusele juurdepääsuks või kui ta on kandidaadiks saamise ajal ametikohal, millel on ametikohajärgne õigus juurdepääsuks kõigile riigisaladuse tasemetele.\n(3) Julgeolekukontrolli läbimiseks täidab kohtunikuks kandideerija riigisaladusele juurdepääsu loa taotleja ankeedi ja allkirjastab nõusoleku, millega lubab julgeolekukontrolli teostaval asutusel saada julgeolekukontrolli teostamise ajal enda kohta teavet füüsilistelt ja juriidilistelt isikutelt ning riigi- ja kohaliku omavalitsuse asutustelt ja organitelt, ning esitab need kohtunikueksamikomisjoni kaudu Kaitsepolitseiametile.\n(4) Kohtunikuks kandideerija julgeolekukontrolli teostab Kaitsepolitseiamet julgeolekuasutuste seaduses ettenähtud korras.\n(5) Kaitsepolitseiamet edastab julgeolekukontrolli tulemusena kogutud andmed kohtunikueksamikomisjonile kolme kuu jooksul arvates käesoleva paragrahvi lõikes 3 nimetatud dokumentide saamisest, lisades oma arvamuse, kas taotluse esitanud isik vastab riigisaladusele juurdepääsu loa saamise tingimustele.\n(6) Julgeolekukontrolli käigus kogutud andmetele tuginedes võib kohtunikuks kandideerija kohtunikuks nimetada kolme aasta jooksul alates ajast, kui Kaitsepolitseiamet julgeolekukontrolli käigus kogutud teabe kohtunikueksamikomisjonile edastas. Nimetatud tähtajast hiljem võib isiku kohtunikuks nimetada pärast uue julgeolekukontrolli läbimist.\n(6^1) Eksamikomisjon võib taotleda:\n1) julgeolekukontrolli käigus kogutud andmete täpsustamist ja täiendamist;\n2) käesoleva paragrahvi lõikes 6 märgitud tähtaja jooksul riigisaladuse ja salastatud välisteabe seaduse §-s 32 nimetatud üksikute asjaolude esinemise kontrollimist.\n(6^2) Käesoleva paragrahvi lõikes 6^1 nimetatud andmete täpsustamiseks, täiendamiseks ja riigisaladuse ja salastatud välisteabe seaduse §-s 32 nimetatud asjaolu esinemise kontrollimiseks allkirjastab kohtunikuks kandideerija käesoleva paragrahvi lõikes 3 nimetatud nõusoleku.\n(7) Kohtunikueksamikomisjon edastab oma otsuse ja käesoleva paragrahvi lõigetes 3 ja 5 nimetatud dokumendid Riigikohtu üldkogule ning teeb otsuse teatavaks eksamineeritule."
+    },
+    {
+      "provision_ref": "para54^1",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "54^1",
+      "title": "§ 54^1. Riigikohtu esimehe kandidaadi julgeolekukontroll",
+      "content": "(1) Riigikohtu esimehe kandidaat peab enne Riigikohtu esimeheks nimetamist läbima julgeolekukontrolli, välja arvatud juhul, kui ta omab kehtivat juurdepääsuluba täiesti salajase taseme riigisaladusele juurdepääsuks või kui ta on kandidaadiks saamise ajal ametikohal, millel on ametikohajärgne õigus juurdepääsuks kõigile riigisaladuse tasemetele.\n(2) Riigikohtu esimehe kandidaadi staatuse omandab isik, kellele Vabariigi President on teinud ametisse kandideerimise ettepaneku ja kes on andnud kirjaliku nõusoleku kandideerimiseks.\n(3) Riigikohtu esimehe kandidaadi julgeolekukontrolli teostab Kaitsepolitseiamet julgeolekuasutuste seaduses ettenähtud korras.\n(4) Julgeolekukontrolli läbimiseks esitab Riigikohtu esimehe kandidaat Vabariigi Presidendi Kantselei kaudu Kaitsepolitseiametile riigisaladusele juurdepääsu loa taotleja täidetud ankeedi ja kirjaliku nõusoleku, millega lubatakse julgeolekukontrolli teostaval asutusel saada julgeolekukontrolli teostamise ajal tema kohta teavet füüsilistelt ja juriidilistelt isikutelt ning riigi- ja kohaliku omavalitsuse asutustelt ja organitelt.\n(5) Kaitsepolitseiamet edastab julgeolekukontrolli tulemusena kogutud andmed Vabariigi Presidendile kolme kuu jooksul, arvates käesoleva paragrahvi lõikes 4 nimetatud dokumentide saamisest, lisades oma arvamuse Riigikohtu esimehe kandidaadi vastavuse kohta riigisaladusele juurdepääsu loa saamise tingimustele.\n(6) Kui Riigikohtu esimehe volitused on lõppenud ennetähtaegselt, tuleb julgeolekukontroll Riigikohtu esimehe kandidaadi suhtes teostada ühe kuu jooksul, arvates käesoleva paragrahvi lõikes 4 nimetatud dokumentide saamisest. Vabariigi Valitsuse julgeolekukomisjoni loal võib julgeolekukontrolli teostamise tähtaega pikendada ühe kuu võrra, kui esinevad riigisaladuse seaduse ja salastatud välisteabe seaduse § 33 lõike 4 punktis 1 või 2 nimetatud asjaolu või on ühe kuu jooksul võimalik punktis 3 või 4 nimetatud asjaolu ilmnemine.\n(7) Julgeolekukontrolli käigus kogutud andmetele tuginedes võib Riigikohtu esimehe kandidaadi ametisse nimetada üheksa kuu jooksul alates ajast, kui julgeolekukontrolli teostanud asutus julgeolekukontrolli käigus kogutud teabe Vabariigi Presidendile edastas. Nimetatud tähtajast hiljem võib Riigikohtu esimehe kandidaadi ametisse nimetada pärast uue julgeolekukontrolli läbimist."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "55",
+      "title": "§ 55. Kohtunikuks nimetamine",
+      "content": "(1) Esimese ja teise astme kohtunikud nimetab ametisse Vabariigi President Riigikohtu üldkogu ettepanekul. Riigikohtu üldkogu kuulab enne ära selle kohtu üldkogu arvamuse, kuhu isik kandideerib.\n(2) Kui vabale kohtunikukohale kandideerib mitu isikut, otsustab Riigikohtu üldkogu, kelle kohta teha Vabariigi Presidendile ettepanek kohtuniku ametisse nimetamiseks. Riigikohtu üldkogu otsus tehakse kandideerijale teatavaks.\n(3) Vabariigi Presidendi poolt ametisse nimetatud esimese ja teise astme kohtuniku määrab kohtu teenistusse Riigikohtu üldkogu. Esimese astme kohtuniku teenistusse määramisel määrab Riigikohtu üldkogu ka kohtumaja, mis saab kohtuniku alaliseks teenistuskohaks.\n(3^1) Esimese astme kohtu teenistuses olev kohtunik viiakse üle teise astme kohtu kohtunikuks Riigikohtu üldkogu otsusega. Kohtuniku volitused teise astme kohtus algavad Riigikohtu üldkogu otsuses märgitud kuupäevast.\n(4) Riigikohtu kohtuniku nimetab ametisse Riigikogu Riigikohtu esimehe ettepanekul. Riigikohtu esimees kuulab enne ära Riigikohtu üldkogu ja kohtute haldamise nõukoja arvamuse kandideerija kohta.\n(5) Esimese astme kohtuniku nimetamisel teise astme kohtunikuks ei maksta talle tema kasutamata jäänud aegumata põhipuhkuse eest hüvitist ning puhkuse arvestus jätkub teise astme kohtus."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "56",
+      "title": "§ 56. Kohtunikuvanne",
+      "content": "(1) Ametisse nimetamisel annab kohtunik järgmise vande: «Tõotan jääda ustavaks Eesti Vabariigile ja tema põhiseaduslikule korrale. Tõotan mõista õigust oma südametunnistuse järgi kooskõlas Eesti Vabariigi põhiseaduse ja seadustega.»\n(2) Riigikohtunikud annavad vande Riigikogu ees ja ülejäänud kohtunikud Vabariigi Presidendi ees.\n(3) Kohtunikuvande tekst säilitatakse kohtuniku isikutoimikus Riigikohtus."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "57",
+      "title": "§ 57. Kohtuniku üleviimine",
+      "content": "(1) Riigikohtu üldkogu võib kohtuniku tema nõusolekul ja valdkonna eest vastutava ministri ettepanekul määrata kohtunikuametisse teise sama astme või madalama astme kohtusse. Esimese astme kohtuniku võib kohtu esimees määrata tema nõusolekul alaliselt teenistusse teise kohtumajja, kuulanud ära kohtu üldkogu arvamuse.\n(1^1) Kui kohtu esimehe vaba ametikoht täidetakse käesoleva seaduse §-des 12, 20 ja 24 sätestatud korras, ei kohaldata käesoleva paragrahvi lõiget 1. Kohtuniku üleviimise vormistab valdkonna eest vastutav minister käskkirjaga.\n(2)\n(3) Kohtuniku üleviimisel teise sama astme või madalama astme kohtusse, välja arvatud Riigikohtu kohtuniku üleviimisel madalama astme kohtusse, ei maksta talle tema kasutamata jäänud aegumata põhipuhkuse eest hüvitist ning puhkuse arvestus jätkub kohtus, kuhu kohtunik üle viidi."
+    },
+    {
+      "provision_ref": "para58^2",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "58^2",
+      "title": "§ 58^2. Kohtuniku teenistuslähetus",
+      "content": "Kohtuniku teenistuslähetusse saatmise korral kohaldatakse käesolevas seaduses reguleerimata osas avaliku teenistuse seaduse § 44."
+    },
+    {
+      "provision_ref": "para58^3",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "58^3",
+      "title": "§ 58^3. Kohtuniku menetluslähetus",
+      "content": "(1) Kohtu esimees võib lähetada kohtuniku tema nõusolekul ja teise kohtu esimehe taotlusel arutama kohtuasju teise sama või madalama astme kohtusse, kui see on vajalik korrakohase õigusemõistmise tagamiseks. Kohtunikul säilivad lähetuse ajal õigusemõistmise volitused ka kohtus, mille tööpiirkonnas asub tema alaline teenistuskoht.\n(2) Kui kohtunik arutab asja kohtus, mille tööpiirkonnas ei asu tema alaline teenistuskoht, hüvitatakse talle sõidu- ja majutuskulud, samuti muud lähetuskulud avaliku teenistuse seaduse § 44 lõike 5 alusel kehtestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para58^4",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "58^4",
+      "title": "§ 58^4. Kohtuniku töötamine väljaspool kohut",
+      "content": "(1) Kohtuniku võib tema soovil ja kohtu esimehe nõusolekul tähtajaliselt üle viia juriidilisele tööle riigi ametiasutuses või avalik-õigusliku ülikooli õigusteaduse õppejõuks. Kohtuniku võib nimetada riigi peaprokuröriks, õiguskantsleriks või riigikontrolöriks.\n(2) Kohtunik võib kohtu esimehe nõusolekul töötada tähtajaliselt juriidilisel tööl rahvusvahelises organisatsioonis või Euroopa Liidu liikmesriigi avalik-õigusliku ülikooli õigusteaduse õppejõuna. Kohtunik võib olla valitud või nimetatud ametikohale rahvusvahelises kohtuinstitutsioonis või Euroopa prokuröri ametikohale.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatud korras väljaspool kohut töötamise korral peatuvad kohtuniku volitused, kuid säilivad kohtuniku muud tagatised.\n(4) Kohtuniku üleviimisel käesoleva paragrahvi lõikes 1 nimetatud tööle säilib kohtuniku ametipalk. Kui palk käesoleva paragrahvi lõikes 1 nimetatud töö eest on kõrgem kohtuniku ametipalgast, makstakse kohtunikule kõrgemat palka.\n(5) Kohtunik võib väljaspool kohut töötamise tähtaja jooksul või selle lõppedes pöörduda tagasi maakohtu tsiviil- või süüteoosakonda, halduskohtusse või ringkonnakohtu või Riigikohtu kolleegiumi, teatades sellest vastava kohtu esimehele vähemalt kaks kuud ette.\n(6) Kohtuniku tagasipöördumise järel võib kohtunike arv vastavas kohtus olla ajutiselt, kuni halduskohtus või käesoleva paragrahvi lõikes 5 nimetatud osakonnas või kolleegiumis kohtunikukoha vabanemiseni, suurem käesoleva seaduse §-de 11, 19 ja 23 alusel ning § 25 lõikes 3 nimetatud arvust."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "59",
+      "title": "§ 59. Kohtuniku teenistusleht",
+      "content": "(1) Kohtuniku kohta peetakse teenistuslehte, milles märgitakse:\n1) kohtuniku nimi ja isikukood;\n2) sünniaeg ja -koht;\n3)\n4)\n5) andmed õigushariduse ja akadeemilise kraadi kohta;\n6) ametivande andmise kuupäev;\n7) teenistuskäik;\n8)\n9) distsiplinaarkolleegiumi otsused ja karistuse kustutamise aeg.\n(2) Kohtuniku teenistuslehe pidamist korraldab Riigikohtu esimees.\n(3)\n(4) Teenistusest lahkuvale kohtunikule antakse tema soovil teenistuslehe ärakiri."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "7. peatükk - KOHTUNIKUKS NIMETAMINE",
+      "section": "60",
+      "title": "§ 60. Kohtuniku isikutoimik",
+      "content": "(1) Kohtuniku kohta peetakse isikutoimikut, kuhu võetakse:\n1) õigusharidust ja akadeemilist kraadi tõendava dokumendi ärakiri;\n2) kohtunikueksamikomisjoni otsus;\n3) isikutunnistuse ärakiri;\n4) kohtunikuks nimetamise otsus;\n5) distsiplinaarkolleegiumi otsused;\n6) kohtunikuametist vabastamise või tagandamise otsus.\n(2) Isikutoimikusse võib lisada muid kohtuniku kutsetegevust kajastavaid dokumente.\n(3) Kohtuniku isikutoimiku pidamist korraldab Riigikohtu esimees.\n(4)"
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "8. peatükk - KOHTUNIKUEKSAM",
+      "section": "61",
+      "title": "§ 61.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "8. peatükk - KOHTUNIKUEKSAM",
+      "section": "66",
+      "title": "§ 66. Kohtunikueksam",
+      "content": "(1) Kohtunikueksamiga hinnatakse kohtunikuks kandideerija õigusalaseid teadmisi ja oskust neid kasutada.\n(2) Kohtunikueksam koosneb kirjalikust ja suulisest osast.\n(3) Kohtunikueksam korraldatakse vajaduse järgi, kuid vähemalt üks kord aastas. Kohtunikueksami aja ja koha määrab kohtunikueksamikomisjon.\n(4) Kohtunikueksami täpsem korraldus sätestatakse kohtunikueksamikomisjoni töökorras.\n(5) Kohtunikueksami tulemus kehtib viis aastat sooritamisest arvates.\n(6) Kohtunikueksami sooritamisest on vabastatud isik, kes on töötanud vähemalt kolm aastat vandeadvokaadi või prokurörina, välja arvatud abiprokurörina, ja kandideerib kohtunikuks kolme aasta jooksul pärast vandeadvokaadi või prokurörina tegutsemise lõpetamist. Kohtunikueksamikomisjon võib kohtunikueksamist vabastada ka muul ameti- või töökohal töötanud isiku, kui ameti- või töökoha keerukus ja vastutus vastavad kohtuniku ametikoha keerukusele ja vastutusele."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "8. peatükk - KOHTUNIKUEKSAM",
+      "section": "67",
+      "title": "§ 67. Korduseksam",
+      "content": "(1) Kui kohtunikuks kandideerijal jääb kohtunikueksam sooritamata, võib ta selle uuesti teha kuue kuu möödudes arvates sooritamata jäänud kohtunikueksamist.\n(2) Kolmandat või enamat korda võib kohtunikueksamit teha kolme aasta möödudes arvates viimasest sooritamata jäänud kohtunikueksamist."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "8. peatükk - KOHTUNIKUEKSAM",
+      "section": "69",
+      "title": "§ 69. Kohtunikueksamikomisjon",
+      "content": "(1) Kohtunikueksamikomisjon moodustatakse 16-liikmelisena kolmeks aastaks.\n(2) Kohtunikueksamikomisjoni kuuluvad kohtunike täiskogu valitud neli esimese ja neli teise astme kohtu kohtunikku, Riigikohtu üldkogu valitud neli riigikohtunikku, Tartu Ülikooli õigusteaduskonna nõukogu määratud õigusteadlane, valdkonna eest vastutava ministri määratud Justiitsministeeriumi esindaja, advokatuuri juhatuse määratud vandeadvokaat ja riigi peaprokuröri määratud riigiprokurör. Kohtunikueksamikomisjon valib oma liikmete hulgast esimehe.\n(3) Kohtunikueksamikomisjoni esimees moodustab komisjoni pädevuses olevate küsimuste lahendamiseks vähemalt viieliikmelised komisjonikoosseisud, milles on vähemalt kolm kohtunikku. Koosseisude moodustamise põhimõtted kehtestatakse kohtunikueksamikomisjoni töökorras.\n(3^1) Kohtunikueksamikomisjoni otsuse peale võib isik, keda see puudutab, esitada Riigikohtu üldkogule kaebuse 14 päeva jooksul arvates päevast, millal ta otsuse kätte sai.\n(4) Kohtunikueksamikomisjoni töökorra kinnitab kohtunikueksamikomisjon.\n(5) Kohtunikueksamikomisjoni tehnilise teenindamise tagab Riigikohus."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "9. peatükk - KOHTUNIKU KOHUSTUSED",
+      "section": "70",
+      "title": "§ 70. Üldkohustused",
+      "content": "(1) Kohtunik täidab oma ametikohustusi erapooletult ja omakasupüüdmatult ning järgib teenistushuve ka väljaspool teenistust.\n(2) Kohtunik käitub laitmatult nii teenistuses kui ka väljaspool seda, hoidudes tegudest, mis kahjustavad kohtu mainet.\n(3) Kohtunik lähtub teenistuskohustuste täitmisel avaliku teenistuse seaduse §-dest 55 ja 56, § 58 lõikest 1 ja §-st 59."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "9. peatükk - KOHTUNIKU KOHUSTUSED",
+      "section": "71",
+      "title": "§ 71. Vaikimiskohustus",
+      "content": "(1) Kohtunik ei või avaldada andmeid, mis on talle teatavaks saanud kinniseks kuulutatud kohtuistungil.\n(2) Kohtunik võib avaldada asjaolusid, mille suhtes kehtib vaikimiskohustus, üksnes Riigikohtu üldkogu loal kohtumenetluses või kriminaalasja kohtueelses menetluses.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud loa saamiseks võivad Riigikohtu üldkogu poole pöörduda asja menetlev kohus või uurimisasutus ning vaikimiskohustusega seotud kohtunik.\n(4) Kohtuniku vaikimiskohustus on tähtajatu ja kehtib ka pärast teenistussuhte lõppemist."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "9. peatükk - KOHTUNIKU KOHUSTUSED",
+      "section": "72",
+      "title": "§ 72. Nõupidamissaladuse hoidmise kohustus",
+      "content": "(1) Kohtunik ei või avaldada kohtulahendi tegemisel toimunud arutlusi.\n(2) Nõupidamissaladuse hoidmise kohustus on tähtajatu ja kehtib ka pärast teenistussuhte lõppemist."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "9. peatükk - KOHTUNIKU KOHUSTUSED",
+      "section": "73",
+      "title": "§ 73. Juhendamiskohustus",
+      "content": "(1) Kohtunik peab juhendama alla kolmeaastase staažiga esimese astme kohtunikke ja kohtunikuabi ettevalmistuskava täitjaid. Kohtuniku juhendaja määrab kohtuniku ametisse asumisel üheks aastaks kohtu esimees. Kohtunikul ei või korraga olla üle kahe juhendatava.\n(2) Alla kolmeaastase staažiga kohtunikku juhendav kohtunik esitab kord kvartalis kuni juhendamisaja lõpuni kohtu esimehele aruande juhendatava kohtuniku kohta, hinnates tema sobivust kohtunikuametisse ja menetluse juhtimise oskuste arengut, ning vajaduse korral esitab muid andmeid.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud aruande vormi kehtestab kohtunikueksamikomisjon."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "9. peatükk - KOHTUNIKU KOHUSTUSED",
+      "section": "74",
+      "title": "§ 74. Enesetäiendamine",
+      "content": "(1) Kohtunik peab oma erialateadmisi ja -oskusi pidevalt täiendama ning osalema koolituses.\n(2) Ametisse asuv esimese ja teise astme kohtunik peab koolitusnõukogu määratud ajal läbima koolitusnõukogu kinnitatud ametioskuste koolitusprogrammi."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "10. peatükk - KOHTUNIKU SOTSIAALTAGATISED",
+      "section": "75",
+      "title": "§ 75. Kohtuniku ametipalk",
+      "content": "(1) Kohtuniku ametipalk määratakse kõrgemate riigiteenijate ametipalkade seadusega.\n(2) Alla kolmeaastase staažiga esimese astme kohtuniku ametipalk esimesel kuuel kuul arvates ametisse asumisest on 90% kõrgemate riigiteenijate ametipalkade seadusega määratud ametipalgast.\n(3) Kohtuniku, kolleegiumi esimehe ja osakonnajuhataja ametipalk ning lisatasu makstakse välja kohtu esimehe käskkirja alusel. Kohtu esimehe ametipalk ja lisatasu makstakse välja valdkonna eest vastutava ministri või tema volitatud ametniku käskkirja alusel."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "10. peatükk - KOHTUNIKU SOTSIAALTAGATISED",
+      "section": "76",
+      "title": "§ 76. Kohtuniku lisatasud",
+      "content": "(1) Esimese ja teise astme kohtu esimehele makstakse lisatasu esimehe ülesannete täitmise eest:\n1) 25% tema ametipalgast, kui kohtunike arv kohtus on kuni 29;\n2) 35% tema ametipalgast, kui kohtunike arv kohtus on 30–44;\n3) 45% tema ametipalgast, kui kohtunike arv kohtus on üle 44 kohtuniku.\n(1^1) Viru Maakohtu esimehele makstakse lisatasu käesoleva paragrahvi lõikes 1 sätestatu kahekordses määras.\n(2) Riigikohtu ja ringkonnakohtu kolleegiumi esimehele makstakse kolleegiumi esimehe ülesannete täitmise eest lisatasu 15% tema ametipalgast.\n(3)\n(3^1)\n(3^2) Kohtu esimees määrab maakohtu tsiviilosakonna, süüteoosakonna ja eestkoste järelevalve osakonna juhatajale lisatasu 15% tema ametipalgast.\n(4) Kohtunikku ja katseajal kohtunikuabi juhendavale kohtunikule makstakse juhendamise ajal iga juhendatava eest lisatasu 5% ametipalgast.\n(5) Kohtunikule, kes täidab Eesti Euroopa Liidu Nõukogu eesistumisega seonduvaid teenistusülesandeid Eesti Euroopa Liidu Nõukogu eesistumisperioodil, makstakse lisatasu.\n(6) Kohtunikul, kes täidab tööülesandeid rahvusvahelise institutsiooni juures või kes osaleb eksperdina rahvusvahelises koostööprogrammis või muus rahvusvahelises koostöövormis, on õigus saada selle eest tasu.\n(7) Esimese astme kohtunikule makstakse lisatasu riigipühal ja nädalavahetusel valves oldud aja eest. Valveaja kestuseks loetakse kogu valveaja pikkus tundides. Lisatasu suurus ühe valveaja tunni eest on 10% kohtuniku töötunni tasust.\n(8) Valveaja eest makstava lisatasu arvestamise korra ja valveaja eest lisatasu maksmiseks ettenähtud kohtunike arvu kehtestab kooskõlastatult kohtute haldamise nõukojaga valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para76^1",
+      "chapter": "10. peatükk - KOHTUNIKU SOTSIAALTAGATISED",
+      "section": "76^1",
+      "title": "§ 76^1. Riigikohtu esimehe esinduskulud",
+      "content": "Riigikohtu esimehele makstakse igakuiselt 20% ametipalgast esinduskuludeks."
+    },
+    {
+      "provision_ref": "para77",
+      "chapter": "10. peatükk - KOHTUNIKU SOTSIAALTAGATISED",
+      "section": "77",
+      "title": "§ 77.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para82",
+      "chapter": "10. peatükk - KOHTUNIKU SOTSIAALTAGATISED",
+      "section": "82",
+      "title": "§ 82. Pensioni suuruse muutmine",
+      "content": "(1) Kohtunikupension arvutatakse ümber, kui muutub ametikoha palk, mille järgi kohtunikupension on arvutatud.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud juhul arvutatakse pension ümber kohtuniku ametipalga muutumise ajast alates."
+    },
+    {
+      "provision_ref": "para83",
+      "chapter": "10. peatükk - KOHTUNIKU SOTSIAALTAGATISED",
+      "section": "83",
+      "title": "§ 83. Hüvitis kohtuniku surma ja töövõime vähenemise korral",
+      "content": "Kui kohtunik hukkub või sureb või kohtuniku töövõime väheneb seoses kohtuniku ametiülesannete täitmisega, maksab riik hüvitist avaliku teenistuse seaduse § 49 alusel ja korras."
+    },
+    {
+      "provision_ref": "para84",
+      "chapter": "10. peatükk - KOHTUNIKU SOTSIAALTAGATISED",
+      "section": "84",
+      "title": "§ 84. Kohtuniku puhkus",
+      "content": "(1) Kohtunikul on õigus saada iga-aastast puhkust.\n(2) Kohtuniku põhipuhkus on 35 kalendripäeva. Kohtunikule antakse lisapuhkust kokku kuni seitse kalendripäeva kohtunikuna töötamise aja eest järgmiselt:\n1) kaks kalendripäeva viieaastase kohtunikustaaži täitumisel;\n2) neli kalendripäeva kümneaastase kohtunikustaaži täitumisel;\n3) seitse kalendripäeva viieteistkümneaastase kohtunikustaaži täitumisel.\n(2^1) Käesoleva paragrahvi lõikes 2 sätestatud lisapuhkusele kohaldatakse töölepingu seaduse §-des 68–71 põhipuhkuse kohta sätestatut.\n(3)\n(4) Kohtunike puhkuste ajakava kinnitab kohtu esimees.\n(5) Kuni üheaastast erakorralist tasuta puhkust võib kohtunikule anda Riigikohtu esimees selle kohtu üldkogu nõusolekul, kus kohtunik töötab.\n(6) Käesolevas paragrahvis reguleerimata osas kohaldatakse avaliku teenistuse seaduse § 43 lõikeid 1, 3 ja 4 ning § 48."
+    },
+    {
+      "provision_ref": "para85",
+      "chapter": "10. peatükk - KOHTUNIKU SOTSIAALTAGATISED",
+      "section": "85",
+      "title": "§ 85. Kohtuniku ametiriietus",
+      "content": "(1) Kohtuistungil kannab kohtunik ametiriietusena talaari.\n(2) Talaari annab riik kohtunikule tasuta.\n(3) Talaari kirjelduse kinnitab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para86",
+      "chapter": "10. peatükk - KOHTUNIKU SOTSIAALTAGATISED",
+      "section": "86",
+      "title": "§ 86. Muud sotsiaaltagatised",
+      "content": "(1) Kohtu likvideerimise või kohtumaja sulgemise või kohtunike arvu vähendamise tõttu ametist vabastatud kohtunikule makstakse hüvitisena viimase ametikoha kuue kuu ametipalk.\n(2) Hüvitist ei maksta kohtu esimehele, kes pärast kohtu esimehe ametikohalt vabastamist jätkab töötamist kohtunikuna.\n(3) Kui kõrgema astme kohtu kohtunik nimetatakse tema nõusolekul kohtu likvideerimise või kohtunike arvu vähendamise tõttu madalama astme kohtu kohtunikuks, säilib tal ühe aasta jooksul eelmise ametikoha ametipalk koos lisatasudega.\n(4)"
+    },
+    {
+      "provision_ref": "para87",
+      "chapter": "11. peatükk - KOHTUNIKU DISTSIPLINAARVASTUTUS",
+      "section": "87",
+      "title": "§ 87. Distsiplinaarkaristuse määramise alus",
+      "content": "(1) Kohtunikule võib distsiplinaarsüüteo eest määrata distsiplinaarkaristuse.\n(2) Distsiplinaarsüütegu on kohtuniku süüline tegu, mis seisneb ametikohustuse täitmata jätmises või mittekohases täitmises. Distsiplinaarsüütegu on ka kohtuniku vääritu tegu."
+    },
+    {
+      "provision_ref": "para88",
+      "chapter": "11. peatükk - KOHTUNIKU DISTSIPLINAARVASTUTUS",
+      "section": "88",
+      "title": "§ 88. Distsiplinaarkaristused",
+      "content": "(1) Distsiplinaarkaristused on:\n1) noomitus;\n2) rahatrahv kuni ühe kuu ametipalga ulatuses;\n3) ametipalga vähendamine;\n4) ametist tagandamine.\n(2) Kui pensionil olev kohtunik ei täida vaikimiskohustust või nõupidamissaladuse hoidmise kohustust, võib distsiplinaarkaristusena vähendada tema kohtunikupensioni kuni 25%. Pensioni ei või vähendada kauemaks kui üheks aastaks.\n(3) Ühe ja sama süüteo eest võib kohtunikule määrata ainult ühe distsiplinaarkaristuse. Sama teo eest määratud kriminaalkaristus või karistus väärteo eest ei välista distsiplinaarkaristuse määramist.\n(4) Distsiplinaarkaristust määrates tuleb arvestada distsiplinaarsüüteo laadi, raskust ja tagajärgi ning kohtuniku isiksuseomadusi ja muid süüteo asjaolusid.\n(5) Kohtunikule määratud distsiplinaarkaristus kantakse tema teenistuslehele.\n(6) Distsiplinaarkaristus kustub, kui kohtunik pole aasta jooksul pärast distsiplinaarkolleegiumi otsuse jõustumist toime pannud uut süütegu. Kolleegium võib karistuse kustutada ka ennetähtaegselt."
+    },
+    {
+      "provision_ref": "para89",
+      "chapter": "11. peatükk - KOHTUNIKU DISTSIPLINAARVASTUTUS",
+      "section": "89",
+      "title": "§ 89. Ametipalga vähendamine",
+      "content": "Distsiplinaarkaristusena võib vähendada kohtuniku ametipalka kuni 30%. Ametipalka ei või vähendada kauemaks kui üheks aastaks."
+    },
+    {
+      "provision_ref": "para90",
+      "chapter": "11. peatükk - KOHTUNIKU DISTSIPLINAARVASTUTUS",
+      "section": "90",
+      "title": "§ 90. Distsiplinaarsüüteo aegumine",
+      "content": "(1) Distsiplinaarmenetlust ei algatata, kui distsiplinaarsüüteo toimepanemisest on möödunud kaks aastat või avastamisest kuus kuud.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud tähtaeg peatub:\n1) kohtuniku teo suhtes alustatud kriminaalmenetluse lõppemiseni;\n2) kohtuniku ajutise töövõimetuse ja puhkuse ajaks."
+    },
+    {
+      "provision_ref": "para91",
+      "chapter": "11. peatükk - KOHTUNIKU DISTSIPLINAARVASTUTUS",
+      "section": "91",
+      "title": "§ 91. Distsiplinaarmenetluse algatamine",
+      "content": "(1) Distsiplinaarmenetlus algatatakse, kui ilmnevad distsiplinaarsüüteo tunnused. Distsiplinaarmenetlus algatatakse distsiplinaarsüüdistuse koostamisega.\n(2) Distsiplinaarmenetluse algatamise õigus on:\n1) Riigikohtu esimehel kõigi kohtunike suhtes;\n2) õiguskantsleril kõigi kohtunike suhtes;\n3) ringkonnakohtu esimehel oma tööpiirkonna esimese astme kohtu kohtunike suhtes;\n4) kohtu esimehel sama kohtu kohtunike suhtes;\n5) Riigikohtu üldkogul Riigikohtu esimehe suhtes.\n(3) Distsiplinaarmenetluse algataja võib koguda distsiplinaarasja lahendamiseks vajalikke tõendeid ja nõuda seletusi."
+    },
+    {
+      "provision_ref": "para92",
+      "chapter": "11. peatükk - KOHTUNIKU DISTSIPLINAARVASTUTUS",
+      "section": "92",
+      "title": "§ 92. Distsiplinaarsüüdistus",
+      "content": "(1) Distsiplinaarsüüdistus on kirjalik dokument, milles märgitakse:\n1) süüdistatava nimi ning ametikoht;\n2) süüteo kirjeldus ja toimepanemise aeg;\n3) süüteo toimepanemist kinnitavad tõendid;\n4) distsiplinaarmenetluse algataja nimi ning süüdistuse koostamise aeg ja koht.\n(2) Distsiplinaarmenetluse algataja edastab distsiplinaarsüüdistuse ja selle kohta käiva materjali distsiplinaarkolleegiumile, kes teatab sellest viivitamata kohtunikule, kelle suhtes distsiplinaarmenetlus on algatatud.\n(3) Kohtunikule, kelle vastu distsiplinaarmenetlus on algatatud, antakse distsiplinaarsüüdistus kätte vähemalt kümme päeva enne distsiplinaarkolleegiumi istungit. Kohtunikul või tema esindajal on õigus tutvuda distsiplinaarasja materjalidega."
+    },
+    {
+      "provision_ref": "para93",
+      "chapter": "11. peatükk - KOHTUNIKU DISTSIPLINAARVASTUTUS",
+      "section": "93",
+      "title": "§ 93. Distsiplinaarkolleegium",
+      "content": "(1) Kohtunike distsiplinaarasjade lahendamiseks on Riigikohtu juures distsiplinaarkolleegium, kuhu kuulub viis riigikohtunikku, viis ringkonnakohtunikku ja viis esimese astme kohtu kohtunikku.\n(2) Distsiplinaarkolleegiumi esimehe ja teised riigikohtunikest liikmed nimetab Riigikohtu üldkogu kolmeks aastaks.\n(3) Distsiplinaarkolleegiumi riigikohtunikest liikmete asendamise kord nähakse ette Riigikohtu kodukorras.\n(4) Kodukorra kohaselt kaasab Riigikohus distsiplinaarasjade lahendamisse käesoleva seaduse § 38 lõike 3 punkti 4 alusel valitud esimese ja teise astme kohtu kohtunikke.\n(5) Distsiplinaarkolleegiumi esimees moodustab kohtuniku distsiplinaarasja lahendamiseks viieliikmelise kohtukoosseisu kolmest distsiplinaarkolleegiumi riigikohtunikust liikmest, ühest ringkonnakohtunikust ja ühest esimese astme kohtu kohtunikust."
+    },
+    {
+      "provision_ref": "para94",
+      "chapter": "11. peatükk - KOHTUNIKU DISTSIPLINAARVASTUTUS",
+      "section": "94",
+      "title": "§ 94. Distsiplinaarasja arutamine",
+      "content": "(1) Kohtuniku distsiplinaarsüütegu arutab ja distsiplinaarkaristuse määrab Riigikohtu juures asuv distsiplinaarkolleegium.\n(2) Distsiplinaarkolleegium arutab distsiplinaarasja kohtuistungil viieliikmelises kohtukoosseisus.\n(3) Distsiplinaarasja arutamisel on eesistuja distsiplinaarkolleegiumi esimees. Kui distsiplinaarkolleegiumi esimees asja arutamisel ei osale, nimetab ta eesistujaks kolleegiumi liikme."
+    },
+    {
+      "provision_ref": "para95",
+      "chapter": "11. peatükk - KOHTUNIKU DISTSIPLINAARVASTUTUS",
+      "section": "95",
+      "title": "§ 95. Ajutine teenistusest kõrvaldamine",
+      "content": "(1) Distsiplinaarkolleegium võib kohtuniku distsiplinaarasja menetlemise ajaks teenistusest kõrvaldada oma määrusega, millest teatab viivitamatult kohtunikule ja kohtu esimehele. Teenistusest kõrvaldamist otsustades arvestab kolleegium selle distsiplinaarsüüteo laadi ja raskust, milles kohtunikku süüdistatakse.\n(2) Distsiplinaarkolleegium võib kohtuniku distsiplinaarmenetluse algatamise otsustamiseni ajutiselt teenistusest kõrvaldada, kui kohtunikuga seonduvad asjaolud, mis oluliselt kahjustavad kohtu mainet. Kui selgub, et kohtuniku suhtes distsiplinaarasja algatamiseks alust ei ole, asub kohtunik distsiplinaarkolleegiumi otsusel teenistusse.\n(3) Kohtuniku teenistusest kõrvaldamise võib distsiplinaarkolleegium otsustada kohtuistungit pidamata.\n(4) Kui distsiplinaarkolleegium kõrvaldab kohtuniku distsiplinaarasja menetlemise ajaks teenistusest, võib ta kohtuniku palka samaks ajaks vähendada. Palka ei või vähendada rohkem kui poole võrra.\n(5) Kohtu esimees võib ajutiselt teenistusest kõrvaldatud kohtunikule panna õigusemõistmiseväliseid ülesandeid.\n(6) Määruse peale, millega on kohtunik ajutiselt teenistusest kõrvaldatud või millega on tema palka vähendatud, võib kohtunik esitada kaebuse Riigikohtu üldkogule määrusest teada saamisest alates kümne päeva jooksul."
+    },
+    {
+      "provision_ref": "para96",
+      "chapter": "11. peatükk - KOHTUNIKU DISTSIPLINAARVASTUTUS",
+      "section": "96",
+      "title": "§ 96. Distsiplinaarkolleegiumi istung",
+      "content": "(1) Distsiplinaarkolleegiumi istungile kutsutakse kohtunik, kelle distsiplinaarasja arutatakse. Kohtunikul võib olla esindaja. Vajaduse korral võidakse istungile kutsuda tunnistajaid ja teisi isikuid.\n(2) Distsiplinaarkolleegiumi istungil teeb eesistuja asjast ettekande, milles tutvustab distsiplinaarsüüdistust.\n(3) Kohtunik, kellele distsiplinaarsüüdistus on esitatud, annab asja kohta seletuse ning kuulatakse ära istungile ilmunud tunnistajate ja teiste isikute seletused. Distsiplinaarkolleegiumi liikmed võivad kohtunikku, kellele süüdistus on esitatud, ning tunnistajaid ja teisi istungile kutsutud isikuid küsitleda.\n(4) Kohtunikul, kelle distsiplinaarasja menetletakse, on õigus avaldada pärast tõendite uurimist asja kohta oma arvamus.\n(5) Distsiplinaarkolleegiumi istung protokollitakse."
+    },
+    {
+      "provision_ref": "para97",
+      "chapter": "11. peatükk - KOHTUNIKU DISTSIPLINAARVASTUTUS",
+      "section": "97",
+      "title": "§ 97. Distsiplinaarkolleegiumi otsus",
+      "content": "(1) Kui kohtuniku süü on tõendatud, teeb distsiplinaarkolleegium otsuse, millega mõistab kohtuniku distsiplinaarsüüteo toimepanemises süüdi ja määrab distsiplinaarkaristuse.\n(2) Kui kohtunik ei ole distsiplinaarsüütegu toime pannud, teeb distsiplinaarkolleegium otsuse, millega mõistab kohtuniku distsiplinaarsüüdistuses õigeks.\n(3) Kohtunik, kellele on distsiplinaarkaristus määratud, võib esitada Riigikohtu üldkogule kaebuse otsuse kuulutamisest alates 30 päeva jooksul.\n(3^1) Riigikohtu üldkogu võib distsiplinaarkolleegiumi otsuse:\n1) jätta muutmata;\n2) muuta ja mõista kohtuniku süüdi kergema distsiplinaarsüüteo toimepanemises ning kergendada määratud distsiplinaarkaristust;\n3) jätta sisuliselt muutmata ja kergendada määratud distsiplinaarkaristust;\n4) tühistada ja kohtuniku õigeks mõista.\n(4) Kolleegiumi otsus jõustub pärast käesoleva paragrahvi lõikes 3 nimetatud tähtaja möödumist, kui kohtunik pole esitanud kaebust Riigikohtu üldkogule. Riigikohtu üldkogule edasikaevatud distsiplinaarkolleegiumi otsus jõustub Riigikohtu üldkogu otsusena selle kuulutamisel."
+    },
+    {
+      "provision_ref": "para98",
+      "chapter": "11. peatükk - KOHTUNIKU DISTSIPLINAARVASTUTUS",
+      "section": "98",
+      "title": "§ 98. Vähendatud palgaosa hüvitamine",
+      "content": "(1) Kui kohtunik mõistetakse distsiplinaarsüüdistuses õigeks, makstakse ajutise teenistusest kõrvaldamise tõttu vähendatud palgaosa ning seadusest tulenev intress kohtunikule välja.\n(2) Kui distsiplinaarkolleegium mõistab kohtuniku süüdi sellise distsiplinaarsüüteo toimepanemises, mis on oluliselt kergem teost, milles süüdistatuna kohtunik oli ajutiselt teenistusest kõrvaldatud, võib kolleegium otsustada, et vähendatud palgaosa tuleb kohtunikule osaliselt või täielikult hüvitada.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud alustel tuleb vähendatud palgaosa kohtunikule välja maksta distsiplinaarmenetluse lõpetamisest või distsiplinaarkolleegiumi otsuse jõustumisest alates ühe kuu jooksul."
+    },
+    {
+      "provision_ref": "para99",
+      "chapter": "12. peatükk - KOHTUNIKU AMETIST VABASTAMINE JA TAGANDAMINE",
+      "section": "99",
+      "title": "§ 99. Kohtuniku ametist vabastamine",
+      "content": "(1) Kohtunik vabastatakse ametist:\n1) kohtuniku enda soovil;\n2) vanuse tõttu;\n3) ametisse sobimatuse tõttu – kolme aasta jooksul pärast ametissenimetamist;\n4) tervise tõttu, mis takistab kohtunikuna töötada;\n5) kohtu likvideerimise või kohtumaja sulgemise või kohtunike arvu vähendamise korral;\n6) kui on lõppenud väljaspool kohut töötamise tähtaeg ja kohtunik ei ole esitanud käesoleva seaduse § 58^4 lõikes 5 nimetatud tagasipöördumise teadet;\n7) kui kohtunik nimetatakse või valitakse teenistus- või ametikohale, mis ei ole kooskõlas kohtuniku ametikitsendustega;\n8) kui ilmneb asjaolu, mis seaduse kohaselt välistab isiku kohtunikuks nimetamise.\n(1^1) Kohtunikku ei vabastata käesoleva paragrahvi lõike 1 punktide 1 ja 3 alusel ametist tema suhtes läbiviidava distsiplinaarmenetluse kestel.\n(1^2) Kohtuniku teenistussuhe lõpeb tema surma korral.\n(1^3) Ametist vabastamiseks käesoleva paragrahvi lõike 1 punktis 1 nimetatud alusel esitab kohtunik avalduse vähemalt üheksa kuud enne soovitud vabastamise päeva. Kohtuniku avalduse alusel ja mõjuval põhjusel võib Riigikohtu esimees teha Vabariigi Presidendile või Riigikohtu üldkogule ettepaneku vabastada kohtunik ametist varem kui üheksa kuud pärast avalduse esitamist.\n(2) Esimese ja teise astme kohtuniku vabastab ametist Vabariigi President Riigikohtu esimehe ettepanekul.\n(3) Riigikohtu esimehe vabastab ametist Riigikogu Vabariigi Presidendi ettepanekul, välja arvatud käesoleva seaduse § 27 lõikes 6 sätestatud juhul. Riigikohtu liikmed vabastab ametist Riigikogu Riigikohtu esimehe ettepanekul, välja arvatud käesoleva paragrahvi lõike 1 punktides 1 ja 2 sätestatud juhtudel, kui Riigikohtu liikmed vabastab ametist Riigikohtu üldkogu Riigikohtu esimehe ettepanekul."
+    },
+    {
+      "provision_ref": "para99^1",
+      "chapter": "12. peatükk - KOHTUNIKU AMETIST VABASTAMINE JA TAGANDAMINE",
+      "section": "99^1",
+      "title": "§ 99^1. Ametist vabastamine vanuse tõttu",
+      "content": "(1) Kohtunik vabastatakse ametist 68-aastaseks saamisel, kui käesoleva paragrahvi lõigetes 2 ja 3 sätestatud korras ei tõsteta kohtuniku teenistusvanuse ülemmäära.\n(2) Riigikohtu üldkogu võib kohtute haldamise nõukoja ja kohtuniku nõusolekul ning kohtu esimehe ettepanekul erandjuhul tõsta kohtuniku teenistusvanuse ülemmäära kuni kahe aasta kaupa, kuid mitte rohkem kui kokku neli aastat. Riigikohtu üldkogu otsus võetakse vastu kohalolevate riigikohtunike kahekolmandikulise häälteenamusega salajasel hääletamisel.\n(3) Kohtuniku teenistusvanuse ülemmäära võib tõsta juhul, kui selleks on õigusemõistmise korrakohase toimimise seisukohast kaalukas avalik huvi.\n(4) Teenistusvanuse ülemmäära tõstmine kehtib üksnes selle kohtuniku suhtes, kelle teenistusvanuse ülemmäära tõsteti.\n(5) Kohtuniku teenistusvanuse ülemmäära tõstmise korral vabastatakse kohtunik ametist tõstetud teenistusvanuse ülemmäära saabumisel.\n(6) Riigikohtu üldkogu võib kohtuniku nõusolekul ning kohtu esimehe ettepanekul pikendada enda soovil või vanuse tõttu ametist vabastatud kohtuniku volitusi, kui see on vajalik talle jagatud kohtuasjade lõpuni menetlemiseks. Sellisel juhul ei kaota kohtunik õigust käesoleva seaduse §-s 132^2 või 132^3 sätestatud kohtunikupensionile ning talle makstakse lisaks 25% kohtuniku ametipalgast. Volituste tähtaja määrab kohtu esimehe ettepanekul Riigikohtu üldkogu. Kohtuniku volitusi võib pikendada kuni käesoleva paragrahvi lõikes 2 sätestatud teenistusvanuse viimase ülemmäära saabumiseni. Kui kohtuniku volitusi pikendatakse käesolevas lõikes sätestatud korras, võib kohtunike arv kohtus olla suurem käesoleva seaduse §-de 11, 19 ja 23 alusel määratust."
+    },
+    {
+      "provision_ref": "para100",
+      "chapter": "12. peatükk - KOHTUNIKU AMETIST VABASTAMINE JA TAGANDAMINE",
+      "section": "100",
+      "title": "§ 100. Ametist vabastamine sobimatuse tõttu",
+      "content": "(1) Ametisse sobimatuse tõttu võib kohtuniku ametist vabastada üksnes kolme aasta jooksul ametisse nimetamisest, kui kohtunik on tunnistatud ametisse sobimatuks Riigikohtu üldkogu otsusega. Kui kohtunik viibis esimese kolme aasta jooksul teenistusest eemal rohkem kui kuus kuud, pikeneb ametisse sobimatuse tõttu kohtunikuametist vabastamise aeg eemal oldud aja võrra.\n(2) Kohtu esimees esitab kohtunikueksamikomisjonile üks kord aastas arvamuse ja käesoleva seaduse § 73 lõikes 2 nimetatud aruande kohtus töötava alla kolmeaastase ametistaažiga kohtuniku kohta. Arvamuse esitamise vormi kehtestab kohtunikueksamikomisjon.\n(3) Kohtuniku ametisse sobivuse hindamisel arvestab Riigikohtu üldkogu distsiplinaarasja algatamiseks õigustatud isiku või organi ettepanekut, kohtunikueksamikomisjoni arvamust ja kohtuniku tööd iseloomustavaid muid andmeid.\n(4) Kohtunikueksamikomisjon viib läbi istungi, kus kuulatakse ära kohtunik, kelle sobivust hinnatakse.\n(5) Vähemalt kümme päeva enne kohtuniku mittesobivuse arutamist Riigikohtu üldkogu istungil esitatakse kohtunikule, kelle sobivust ametisse hinnatakse, distsiplinaarasja algatamiseks õigustatud isiku või organi põhistatud ettepanek tema ametist vabastamiseks ja kohtunikueksamikomisjoni arvamus ning võimaldatakse tal tutvuda kogutud materjaliga."
+    },
+    {
+      "provision_ref": "para100^1",
+      "chapter": "12. peatükk - KOHTUNIKU AMETIST VABASTAMINE JA TAGANDAMINE",
+      "section": "100^1",
+      "title": "§ 100^1. Kohtuniku ajutine teenistusest kõrvaldamine kriminaalmenetluse ajaks",
+      "content": "(1) Kui Riigikogu annab oma otsusega nõusoleku Riigikohtu esimehe või riigikohtuniku kohta süüdistusakti koostamiseks, kõrvaldatakse Riigikohtu esimees või riigikohtunik ajutiselt teenistusest kuni kohtuotsuse jõustumiseni ja tema ametipalka vähendatakse 50%.\n(2) Kui Vabariigi President annab nõusoleku kohtuniku kohta süüdistusakti koostamiseks, kõrvaldatakse kohtunik ajutiselt teenistusest kuni kohtuotsuse jõustumiseni ja tema ametipalka vähendatakse 50%.\n(3) Kui ajutiselt teenistusest kõrvaldatud kohtunik mõistetakse õigeks või kriminaalmenetlus lõpetatakse, hüvitatakse kohtunikule ajutise teenistusest kõrvaldamise tõttu vähendatud palgaosa.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud alustel tuleb hüvitamisele kuuluv palgaosa kohtunikule välja maksta kriminaalmenetluse lõpetamisest või kriminaalasjas otsuse jõustumisest alates ühe kuu jooksul."
+    },
+    {
+      "provision_ref": "para101",
+      "chapter": "12. peatükk - KOHTUNIKU AMETIST VABASTAMINE JA TAGANDAMINE",
+      "section": "101",
+      "title": "§ 101. Kohtuniku ametist tagandamine",
+      "content": "Kohtunik, kelle suhtes on kriminaalasjas jõustunud süüdimõistev kohtuotsus või Riigikohtu juures asuva distsiplinaarkolleegiumi otsus ametist tagandamiseks, loetakse tagandatuks otsuse jõustumise päevast."
+    },
+    {
+      "provision_ref": "para102",
+      "chapter": "13. peatükk - RAHVAKOHTUNIK",
+      "section": "102",
+      "title": "§ 102. Rahvakohtuniku osalemine õigusemõistmises",
+      "content": "(1) Rahvakohtunik osaleb õigusemõistmises maakohtus kohtumenetluse seadustes sätestatud alustel ja korras.\n(2) Õigusemõistmisel on rahvakohtunikul võrdsed õigused kohtunikuga."
+    },
+    {
+      "provision_ref": "para103",
+      "chapter": "13. peatükk - RAHVAKOHTUNIK",
+      "section": "103",
+      "title": "§ 103. Rahvakohtunikule esitatavad nõuded",
+      "content": "(1) Rahvakohtunikuks võib nimetada 25–70-aastase teovõimelise Eesti kodaniku, kelle elukoht on Eestis ja kes oskab eesti keelt keeleseaduses sätestatud C1-tasemel või sellele vastaval tasemel ning on rahvakohtuniku tegevuseks sobivate kõlbeliste omadustega.\n(2) Rahvakohtunikuks ei või nimetada isikut, kes on:\n1) süüdi mõistetud kuriteo eest;\n2) pankrotivõlgnik;\n3) tervise tõttu sobimatu;\n4) omanud püsivat elukohta, see tähendab elukohta, mille aadressiandmed on kantud rahvastikuregistrisse, alla ühe aasta selle omavalitsusüksuse territooriumil, kes on esitanud ta rahvakohtunikukandidaadiks;\n5) kohtu, prokuratuuri või politseiteenistuses;\n6) kaitseväeteenistuses;\n7) advokaat, notar või kohtutäitur;\n8) Vabariigi Valitsuse liige;\n9) valla- või linnavalitsuse liige;\n10) Vabariigi President;\n11) Riigikogu liige.\n12)\n(3) Kuriteos süüdistatavat isikut ei või kriminaalmenetluse ajal rahvakohtunikuks nimetada."
+    },
+    {
+      "provision_ref": "para104",
+      "chapter": "13. peatükk - RAHVAKOHTUNIK",
+      "section": "104",
+      "title": "§ 104. Rahvakohtuniku volituste tähtaeg",
+      "content": "(1) Rahvakohtunik nimetatakse neljaks aastaks.\n(2) Isikut ei või nimetada rahvakohtunikuks järjest rohkem kui kaheks perioodiks.\n(3) Rahvakohtuniku volituste tähtaja lõppemisest teatab maakohtu esimees kohaliku omavalitsuse volikogule vähemalt neli kuud ette.\n(4) Kui rahvakohtuniku volitused lõpevad kohtumenetluse ajal, jätkab ta oma ülesannete täitmist kohtuasja lahendamiseni selles kohtus."
+    },
+    {
+      "provision_ref": "para105",
+      "chapter": "13. peatükk - RAHVAKOHTUNIK",
+      "section": "105",
+      "title": "§ 105. Rahvakohtuniku volituste ennetähtaegne lõpetamine",
+      "content": "(1) Rahvakohtuniku volitused lõpetatakse, kui ilmneb käesoleva seaduse § 103 lõikes 2 nimetatud asjaolu. Kui selleks on mõjuv põhjus, võib rahvakohtuniku volitused lõpetada tema avalduse alusel.\n(2) Rahvakohtuniku volituste ennetähtaegse lõpetamise otsustab käesoleva seaduse §-s 108 nimetatud komisjon maakohtu esimehe ettepanekul."
+    },
+    {
+      "provision_ref": "para106",
+      "chapter": "13. peatükk - RAHVAKOHTUNIK",
+      "section": "106",
+      "title": "§ 106. Rahvakohtunikukandidaadi valimise kord",
+      "content": "(1) Kandidaate võib esitada omavalitsusüksuse volikogu iga liige.\n(2) Rahvakohtunikukandidaadid valib kohaliku omavalitsusüksuse volikogu.\n(3) Maakohtu tööpiirkonda kuuluva omavalitsusüksuse volikogu esitatavate kandidaatide arvu määrab kohtu esimees. Rahvakohtunikukandidaatide arv peab olema võrdeline omavalitsusüksuse elanike arvu ja kohtu tööpiirkonna elanike arvu suhtega."
+    },
+    {
+      "provision_ref": "para107",
+      "chapter": "13. peatükk - RAHVAKOHTUNIK",
+      "section": "107",
+      "title": "§ 107. Rahvakohtunikukandidaatide nimekiri",
+      "content": "(1) Rahvakohtunikukandidaatide nimekirja esitab omavalitsusüksuse volikogu maakohtule vähemalt kaks kuud enne rahvakohtunike volituste lõppemist. Nimekirjas märgitakse rahvakohtunikukandidaadi nimi, isikukood, aadress, töökoht ning amet või tegevusala.\n(2) Rahvakohtunikukandidaatide nimekiri avaldatakse väljaandes Ametlikud Teadaanded vähemalt kaks kuud enne varem nimetatud rahvakohtunike volituste lõppemist. Nimekirja esitab avaldamiseks omavalitsusüksuse volikogu.\n(3) Avaldada tuleb rahvakohtunikukandidaadi nimi, isikukood, töökoht ja amet või tegevusala.\n(4) Igaühel on õigus rahvakohtunikukandidaadi rahvakohtunikuks nimetamine vaidlustada maakohtu rahvakohtunike nimetamise komisjonis.\n(5) Teade vaidlustamise õiguse kohta ja vaidlustamise kord avaldatakse koos rahvakohtunikukandidaatide nimekirjaga väljaandes Ametlikud Teadaanded."
+    },
+    {
+      "provision_ref": "para108",
+      "chapter": "13. peatükk - RAHVAKOHTUNIK",
+      "section": "108",
+      "title": "§ 108. Rahvakohtuniku nimetamine",
+      "content": "(1) Rahvakohtunikukandidaatide seast nimetab rahvakohtuniku ametisse kohtu juures asuv rahvakohtunike nimetamise komisjon, mille koosseisu kinnitab kohtu esimees.\n(2) Rahvakohtunike nimetamise komisjoni kuuluvad maakohtu esimees ja kohtu üldkogu valitud kohtunik. Komisjoni esimeheks on kohtu esimees.\n(3) Komisjon on otsustusvõimeline, kui kohal on üle poole komisjoni liikmetest, sealhulgas komisjoni esimees. Komisjon teeb otsuse kohalolevate liikmete häälteenamusega. Kui hääled jagunevad võrdselt, on otsustav komisjoni esimehe hääl.\n(4) Komisjon nimetab rahvakohtunikukandidaatide seast rahvakohtunikuks selle kohtu jaoks kindlaks määratud arvu isikuid.\n(5) Rahvakohtunikku nimetades arvestab komisjon kandidaadi sobivust, kandidaadi kohta esitatud põhjendatud vastuväiteid ning seda, et rahvakohtunike hulgas oleks eri soost ja vanusest, erinevatest sotsiaalsetest rühmadest ning eri tegevusvaldkondades tegutsevaid isikuid."
+    },
+    {
+      "provision_ref": "para109",
+      "chapter": "13. peatükk - RAHVAKOHTUNIK",
+      "section": "109",
+      "title": "§ 109. Rahvakohtuniku vanne",
+      "content": "Rahvakohtunik annab kohtu üldkogu ees järgmise vande: «Tõotan jääda ustavaks Eesti Vabariigile ja tema põhiseaduslikule korrale. Tõotan mõista õigust oma südametunnistuse järgi kooskõlas Eesti Vabariigi põhiseaduse ja seadustega.»"
+    },
+    {
+      "provision_ref": "para110",
+      "chapter": "13. peatükk - RAHVAKOHTUNIK",
+      "section": "110",
+      "title": "§ 110. Rahvakohtuniku osalemine õigusemõistmises",
+      "content": "(1) Rahvakohtunikud kutsutakse kohtusse õigusemõistmises osalema arvestusega, et rahvakohtunikud osaleksid õigusemõistmises võimalikult võrdselt.\n(2) Kui rahvakohtunik ei saa kohtuistungile ilmuda, kutsutakse tema asemel istungile teine rahvakohtunik."
+    },
+    {
+      "provision_ref": "para111",
+      "chapter": "13. peatükk - RAHVAKOHTUNIK",
+      "section": "111",
+      "title": "§ 111. Rahvakohtuniku kohustused",
+      "content": "(1) Õigusemõistmises osalema kutsutud rahvakohtunik on kohustatud ilmuma kohtuistungile.\n(2) Kui rahvakohtunik ei saa kohtuistungil mõjuval põhjusel osaleda, peab ta sellest kohtule viivitamata teatama.\n(3) Rahvakohtuniku kohta kehtivad käesoleva seaduse §-des 70–72 loetletud kohustused.\n(4) Rahvakohtunikule võib ametisoleku ajal kriminaalasjas süüdistuse esitada ainult tema tööpiirkonna maakohtu esimehe nõusolekul."
+    },
+    {
+      "provision_ref": "para112",
+      "chapter": "13. peatükk - RAHVAKOHTUNIK",
+      "section": "112",
+      "title": "§ 112. Rahvakohtunikule tasu maksmine",
+      "content": "(1) Rahvakohtunikule makstava tasu suuruse ja maksmise korra kehtestab valdkonna eest vastutav minister määrusega. Valdkonna eest vastutav minister ei tohi määrusega kehtestatavat rahvakohtuniku tasu suurust vähendada.\n(2) Rahvakohtunikule hüvitatakse õigusemõistmises osalemisega seotud kulud.\n(3) Tööandja peab rahvakohtuniku õigusemõistmises osalemise ajaks tööst vabastama.\n(4)"
+    },
+    {
+      "provision_ref": "para113",
+      "chapter": "13. peatükk - RAHVAKOHTUNIK",
+      "section": "113",
+      "title": "§ 113. Rahvakohtuniku pension",
+      "content": "(1)\n(2) Kui isik sureb rahvakohtuniku kohustuste täitmise ajal tema suhtes toimepandud kuritegeliku ründe tagajärjel, suurendatakse igale tema ülalpidamisel olnud töövõimetule perekonnaliikmele makstavat riiklikku toitjakaotuspensioni 20%.\n(3) Rahvakohtunikupensioni see osa, mis ületab riiklikku pensioni või ei ole sellega kaetud, makstakse riigieelarve täiendavatest vahenditest."
+    },
+    {
+      "provision_ref": "para114",
+      "chapter": "14. peatükk - KOHTUNIKUABI",
+      "section": "114",
+      "title": "§ 114. Kohtunikuabi õiguslik seisund",
+      "content": "(1) Kohtunikuabi on kohtuametnik, kes täidab seaduses nimetatud ülesandeid.\n(2) Kohtunikuabi on oma ülesannete täitmisel sõltumatu, kuid peab seaduses ettenähtud ulatuses järgima kohtuniku juhiseid.\n(3)"
+    },
+    {
+      "provision_ref": "para114^1",
+      "chapter": "14. peatükk - KOHTUNIKUABI",
+      "section": "114^1",
+      "title": "§ 114^1. Kohtunikuabide arv",
+      "content": "Kohtunikuabide arvu määrab valdkonna eest vastutav minister, kuulanud ära maakohtu esimehe arvamuse."
+    },
+    {
+      "provision_ref": "para115",
+      "chapter": "14. peatükk - KOHTUNIKUABI",
+      "section": "115",
+      "title": "§ 115. Kohtunikuabile esitatavad nõuded",
+      "content": "(1) Kohtunikuabiks võib nimetada isiku, kes:\n1) vastab käesoleva seaduse § 47 lõike 1 punktides 1–3 kehtestatud nõuetele ja\n2) on sooritanud kohtunikuabi eksami.\n(2) Kohtunikuabiks võib nimetada ka isiku, kes on sooritanud kohtuniku- või notarieksami.\n(3) Kohtunikuabiks ei või nimetada käesoleva seaduse § 47 lõikes 2 nimetatud isikut."
+    },
+    {
+      "provision_ref": "para116",
+      "chapter": "14. peatükk - KOHTUNIKUABI",
+      "section": "116",
+      "title": "§ 116. Kohtunikuabi ametikitsendused",
+      "content": "Kohtunikuabi kohta kehtivad kohtuniku ametikitsendused."
+    },
+    {
+      "provision_ref": "para119",
+      "chapter": "14. peatükk - KOHTUNIKUABI",
+      "section": "119",
+      "title": "§ 119. Kohtunikuabi konkursi komisjon",
+      "content": "(1) Kohtunikuabi konkursi korraldamiseks moodustab kohtu esimees kohtunikuabi konkursi komisjoni, kuhu kuuluvad:\n1) kohtu esimees või tema nimetatud kohtunik;\n2) vastava ringkonnakohtu esimehe nimetatud ringkonnakohtunik;\n3) kaks kohtunikuabi;\n4) kohtudirektor;\n5) Justiitsministeeriumi esindaja;\n6) Notarite Koja määratud notar.\n(2) Konkursikomisjon on otsustusvõimeline, kui otsuse tegemisest võtab osa vähemalt neli liiget."
+    },
+    {
+      "provision_ref": "para119^1",
+      "chapter": "14. peatükk - KOHTUNIKUABI",
+      "section": "119^1",
+      "title": "§ 119^1. Kohtunikuabiks kandideerija usaldusväärsuse kontrollimine",
+      "content": "(1) Kohtunikuabiks kandideerija esitab kohtunikuabi konkursi komisjonile järgmised andmed:\n1) isikut ja kodakondsust tõendava dokumendi ärakirja;\n2) andmed oma seniste töö- ja teenistuskohtade kohta;\n3) haridust tõendava dokumendi ja akadeemilise õiendi või hinnetelehe ärakirja;\n4) kinnituse, et ta vastab käesolevas seaduses ja avaliku teenistuse seaduses sätestatud nõuetele ning et ei esine käesoleva seaduse § 47 lõikes 2 sätestatud ametisse nimetamist välistavaid asjaolusid.\n(2) Kohtunikuabiks kandideerija esitatud andmete õigsuse kontrollimiseks võib kohtu esimees või tema volitatud ametnik pöörduda riigi- ja kohaliku omavalitsuse asutuse ja ametiisiku, samuti füüsilise ja juriidilise isiku poole järelepärimisega kohtunikuabiks kandideerija andmete saamiseks, et selgitada välja kandideerija kõlbelisi ja teisi isiksuseomadusi ning vajaduse korral ja küsitletava isiku nõusolekul võtta temalt kirjalik seletus.\n(3) Kohtunikuabiks kandideerijat teavitatakse tema suhtes tehtud kontrollist ja tal võimaldatakse tutvuda kontrolli käigus kogutud andmetega.\n(4) Kui kohtunikuabiks kandideerija esitas konkursikomisjonile tahtlikult valeandmeid või varjas olulist teavet, arvatakse ta konkursikomisjoni otsusega konkursilt välja."
+    },
+    {
+      "provision_ref": "para120",
+      "chapter": "14. peatükk - KOHTUNIKUABI",
+      "section": "120",
+      "title": "§ 120. Kohtunikuabi konkurss ja ametisse nimetamine",
+      "content": "(1) Kohtu esimees korraldab kohtunikuabi ametikoha täitmiseks avaliku konkursi ja nimetab selle tulemuste põhjal kohtunikuabi ametisse.\n(2) Kohtunikuabi konkurss koosneb isiksuseomaduste ja usaldusväärsuse hindamisest ning eksamist. Eksam koosneb õigusteadmiste hindamisest ja praktiliste ülesannete lahendamisest.\n(3) Kohtunikuabi ametisse nimetamisel kohaldatakse katseaega kestusega kuni kuus kuud. Kohtunikuabile määrab katseajaks juhendaja kohtu esimees.\n(4) Kohtunikuabi võib tema nõusolekul ilma konkursita viia üle teise osakonda samas või teises kohtus. Üleviimisel katseaega ei kohaldata."
+    },
+    {
+      "provision_ref": "para121",
+      "chapter": "14. peatükk - KOHTUNIKUABI",
+      "section": "121",
+      "title": "§ 121. Kohtunikuabi vanne",
+      "content": "Kohtunikuabi annab ametisse astudes valdkonna eest vastutava ministri ees järgmise vande: «Tõotan olla ustav Eesti Vabariigile ja tema põhiseaduslikule korrale. Tõotan täita oma ametiülesandeid südametunnistuse järgi kooskõlas Eesti Vabariigi põhiseaduse ja seadustega.»"
+    },
+    {
+      "provision_ref": "para122",
+      "chapter": "14. peatükk - KOHTUNIKUABI",
+      "section": "122",
+      "title": "§ 122. Kohtunikuabi ametipalk ja lisatasud",
+      "content": "(1) Kohtunikuabi ametipalk on 65% esimese astme kohtu kohtuniku ametipalgast.\n(2) Katseajal on kohtunikuabi ametipalk 90% kohtunikuabi ametipalgast.\n(3) Kohtunikuabi katseajal juhendavale kohtunikuabile makstakse juhendamise ajal lisatasu 10% kohtunikuabi ametipalgast.\n(3^1) Maakohtu kinnistusosakonna, registriosakonna ja maksekäsuosakonna juhatajale makstakse lisatasu juhatamisega seotud kohustuste täitmise eest 35% kohtunikuabi ametipalgast."
+    },
+    {
+      "provision_ref": "para122^1",
+      "chapter": "14. peatükk - KOHTUNIKUABI",
+      "section": "122^1",
+      "title": "§ 122^1. Kohtunikuabi distsiplinaarkomisjoni moodustamine",
+      "content": "(1) Kinnistusosakonna, registriosakonna ja maksekäsuosakonna kohtunikuabi suhtes võib distsiplinaarmenetluse algatada kohtudirektor või kohtu esimees. Tsiviilosakonna, süüteoosakonna ja eestkoste järelevalve osakonna kohtunikuabi suhtes võib distsiplinaarmenetluse algatada kohtu esimees.\n(2) Distsiplinaarmenetluse algatamise käskkirjaga moodustatakse kohtunikuabi distsiplinaarkomisjon. Komisjoni kuuluvad vastava ringkonnakohtu esimehe nimetatud ringkonnakohtunik, distsiplinaarmenetluse algataja nimetatud kohtunikuabi ja valdkonna eest vastutava ministri määratud ametnik.\n(3) Distsiplinaarkomisjon viib läbi distsiplinaarmenetluse, koostab distsiplinaarmenetluse kokkuvõtte ja esitab selle kohtu esimehele otsustamiseks."
+    },
+    {
+      "provision_ref": "para124",
+      "chapter": "14. peatükk - KOHTUNIKUABI",
+      "section": "124",
+      "title": "§ 124. Kohtunikuabi töötamine Justiitsministeeriumis ja kõrgkoolis",
+      "content": "Kohtunikuabi võib tema soovil ja kohtu esimehe nõusolekul üle viia Justiitsministeeriumi teenistusse või kohtunikuabisid ettevalmistava rakenduskõrgkooli õppejõuks. Muus osas kohaldatakse käesoleva seaduse §-s 58 sätestatut."
+    },
+    {
+      "provision_ref": "para125",
+      "chapter": "15. peatükk - KOHTUTEENISTUJAD",
+      "section": "125",
+      "title": "§ 125. Kohtudirektor",
+      "content": "(1) Kohtudirektor:\n1) korraldab kohtuasutuse asjaajamist;\n2) korraldab kohtuasutuse vara kasutamist;\n3) valmistab kooskõlastatult kohtu esimehega ette kohtuasutuse eelarve eelnõu ja esitab selle valdkonna eest vastutavale ministrile;\n4) käsutab kohtuasutuse eelarvevahendeid;\n5) vastutab kohtuasutuse raamatupidamise korralduse eest;\n6) nimetab ametisse ja vabastab ametist kohtuteenistujad;\n7) täidab muid kohtu ja kohtu kantselei kodukorraga määratud ülesandeid.\n(2) Valdkonna eest vastutav minister võib anda kohtudirektori töövaldkonda kuuluvate küsimuste korraldamiseks käskkirju.\n(3) Kohtudirektoril peab olema kõrgharidus. Esimese ja teise astme kohtu kohtudirektori nimetab ametisse valdkonna eest vastutav minister viieks aastaks. Kohtudirektor nimetatakse ametisse avaliku konkursi alusel, kandideerijate usaldusväärsuse kontrollimisel kohaldatakse käesoleva seaduse § 119^1.\n(4) Valdkonna eest vastutav minister võib otsustada, et mitmel justiitsasutusel on üks kohtudirektor.\n(4^1) Maakohtul, mille struktuuriüksuseks on käesolevas seaduses nimetatud osakond, võib olla ka üksnes vastava osakonna tegevusvaldkonna eest vastutav kohtudirektor.\n(5) Esimese ja teise astme kohtu kohtudirektori põhipalk ja muutuvpalk määratakse avaliku teenistuse seaduse § 63 lõike 2 alusel valdkonna eest vastutava ministri kehtestatud palgajuhendis."
+    },
+    {
+      "provision_ref": "para125^1",
+      "chapter": "15. peatükk - KOHTUTEENISTUJAD",
+      "section": "125^1",
+      "title": "§ 125^1. Kohtujurist",
+      "content": "(1) Kohtujurist on kohtuametnik, kes osaleb kohtuasjade menetlemiseks ettevalmistamisel ja menetlemisel kohtumenetluse seaduses ettenähtud ulatuses iseseisvalt või kohtuniku järelevalve all.\n(2) Kohtujurist on pädev tegema ka neid toiminguid ja lahendeid, mida kohtumenetluse seaduse kohaselt on pädev tegema kohtunikuabi või muu kohtuametnik.\n(3) Kohtujurist on oma ülesannete täitmisel sõltumatu, kuid peab seaduses ettenähtud ulatuses järgima kohtuniku juhiseid.\n(4) Kohtujuristiks võib nimetada isiku, kes vastab käesoleva seaduse § 47 lõike 1 punktides 1–3 kehtestatud nõuetele. Kohtujuristiks ei või nimetada isikut, keda avaliku teenistuse seaduse kohaselt ei või võtta teenistusse ametnikuna.\n(5) Kohtujuristi vaba ametikoht täidetakse avaliku konkursi korras. Konkursi korraldab ning kohtujuristi nimetab ametisse ja vabastab ametist kohtu esimees. Kohtujuristi ametisse nimetamisel kohaldatakse katseaega kestusega kuus kuud. Kohtunikuabi võib tema nõusolekul ilma konkursita viia üle kohtujuristi ametikohale. Sellisel juhul võib katseaega lühendada või mitte kohaldada.\n(5^1) Konkursi avalikust väljakuulutamisest võib loobuda ja korraldada sisekonkursi kohtujuristidele, kui on põhjendatud alus arvata, et vaba ametikoht on otstarbekas täita konkursi väljakuulutamisega ühe või enama kohtuasutuse sees. Kui kohtujurist on nimetatud ametisse sisekonkursi korras, võib käesoleva paragrahvi lõikes 5 nimetatud katseaega lühendada või mitte kohaldada.\n(6) Kohtujuristi palk ei või ületada esimese astme kohtuniku ametipalka ja peale katseaega olla väiksem kui pool esimese astme kohtuniku ametipalgast.\n(7) Vanemkohtujuristiks nimetatakse isik, kes on vähemalt kolm aastat töötanud kohtujuristina ja sooritanud kohtunikueksami."
+    },
+    {
+      "provision_ref": "para125^2",
+      "chapter": "15. peatükk - KOHTUTEENISTUJAD",
+      "section": "125^2",
+      "title": "§ 125^2. Kohtunike järelkasvu kava kohtujuristile",
+      "content": "(1) Kohtunike järelkasvu kava (edaspidi järelkasvukava ) on kohtujuristi ajutine teenistus väljaspool kohut, kuhu ta on ametisse nimetatud, eesmärgiga arendada teadmisi ja oskusi kohtuniku ametikohale kandideerimiseks. Järelkasvukavas osalevale kohtujuristile ei kohaldata avaliku teenistuse seaduse §-s 33 sätestatud korda.\n(2) Järelkasvukavasse valitakse kohtusüsteemisisese konkursiga kuni kümme kohtujuristi. Ringkonnakohtute esimehed korraldavad vähemalt üks kord aastas järelkasvukavasse valimiseks konkursi ja kinnitavad järelkasvukava iga konkursil valituks osutunud kohtujuristi jaoks.\n(3) Järelkasvukavas osalev kohtujurist täidab vähemalt kuus kuud aastas järelkasvukavas nimetatud ülesandeid väljaspool oma teenistuskohta selliselt, et tal tekiks töökogemus mitme kohtuniku juures ning nii esimeses kui ka teises kohtuastmes.\n(4) Järelkasvukavas osalev kohtujurist on vabastatud ametiülesannete täitmisest kohtus, kuhu ta on ametisse nimetatud. Järelkasvukavas osalev kohtujurist võib kohtus, kus ta järelkasvukava täidab, teha samasuguseid toiminguid ja lahendeid, mida ta teeb kohtus, kuhu ta on ametisse nimetatud.\n(5) Järelkasvukava võib ennetähtaegselt lõpetada ringkonnakohtu esimehe otsuse alusel. Ettepaneku ennetähtaegseks lõpetamiseks võib teha kohtujurist või kohus, kus kohtujurist järelkasvukava täidab. Järelkasvukava ennetähtaegsest lõpetamisest teavitatakse kohtujuristi, kohut, kus kohtujurist järelkasvukava täidab, ja kohut, kuhu ta on ametisse nimetatud, vähemalt üks kuu ette."
+    },
+    {
+      "provision_ref": "para126",
+      "chapter": "15. peatükk - KOHTUTEENISTUJAD",
+      "section": "126",
+      "title": "§ 126. Kohtukordnik",
+      "content": "(1) Kohtukordnik on kohtuametnik, kelle ülesanne on hoida kohtus korda, toimetada isikutele kätte teateid ja kohtukutseid ning täita teisi kohtu kodukorras määratud ülesandeid, mis kuuluvad kordnikukohustuste hulka. Kohtukordnikul on samad õigused, mis on abipolitseiniku seaduse § 12 ja 4. peatüki 2. jao kohaselt abipolitseinikul ning korrakaitseseaduse §-de 28 ja 30, § 32 lõigete 1–3, § 34, § 38 lõigete 1 ja 2, § 46, § 47 lõike 1 punktide 1, 2 ja 4 ning § 52 kohaselt politseil või muul korrakaitseorganil.\n(1^1) Valdkonna eest vastutav minister võib määrusega kehtestada kohtukordnikele erivahendi ja relva väljastamise ja tagastamise ning relva kandmise korra.\n(2) Kutsete ja teadete kättetoimetamise eest makstakse kordnikule lisatasu. Lisatasu määrad kehtestab valdkonna eest vastutav minister.\n(3) Kohtukordnikule hüvitatakse ametiülesannete täitmisel ühissõiduki kasutamisest tekkivad sõidukulud.\n(4) Käesoleva paragrahvi lõikes 1 nimetatud ülesannete täitmise võib halduslepingu alusel üle anda äriühingule."
+    },
+    {
+      "provision_ref": "para127",
+      "chapter": "15. peatükk - KOHTUTEENISTUJAD",
+      "section": "127",
+      "title": "§ 127. Muud kohtuteenistujad",
+      "content": "Käesolevas peatükis nimetamata kohtuametnike ja kohtu töötajate teenistuskohustused määratakse kohtu kodukorras ja kohtu kantselei kodukorras."
+    },
+    {
+      "provision_ref": "para127^1",
+      "chapter": "15. peatükk - KOHTUTEENISTUJAD",
+      "section": "127^1",
+      "title": "§ 127^1. Kohtuteenistuja ametiriietus",
+      "content": "Valdkonna eest vastutav minister võib kehtestada kohtuteenistujate ametiriietuse kirjelduse ning kandmise korra. Ametiriietuse kandmise kohustuse korral antakse ametiriietus kohtuteenistujale tasuta."
+    },
+    {
+      "provision_ref": "para128",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "128",
+      "title": "§ 128. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub kümnendal päeval pärast Riigi Teatajas avaldamist.\n(2) Käesoleva seaduse § 61 lõiget 5, § 76 lõikeid 1 ja 5, §-sid 122, 134 ja 146 rakendatakse alates 2002. aasta 1. juulist."
+    },
+    {
+      "provision_ref": "para129",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "129",
+      "title": "§ 129. Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi moodustamine",
+      "content": "Käesoleva seaduse alusel moodustatakse Riigikohtu põhiseaduslikkuse järelevalve kolleegium 2003. aasta 1. jaanuariks."
+    },
+    {
+      "provision_ref": "para129^1",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "129^1",
+      "title": "§ 129^1. Riigikohtu kolleegiumi esimehe volitused",
+      "content": "Enne 2015. aasta 1. jaanuari nimetatud Riigikohtu kolleegiumi esimehe volituste tähtaega arvestatakse 2015. aasta 1. jaanuarist."
+    },
+    {
+      "provision_ref": "para129^2",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "129^2",
+      "title": "§ 129^2. Kohtunõuniku ametisse nimetamine",
+      "content": "Käesoleva seaduse § 31 lõikeid 4 ja 5 kohaldatakse kohtunõunike suhtes, kes nimetatakse ametisse pärast 2016. aasta 1. augustit."
+    },
+    {
+      "provision_ref": "para130",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "130",
+      "title": "§ 130. Distsiplinaarkolleegiumi moodustamine",
+      "content": "(1) Distsiplinaarkolleegiumi moodustamisel valib kohtunike täiskogu distsiplinaarkolleegiumisse kaks ringkonnakohtu kohtunikku ja kaks esimese astme kohtunikku kaheks aastaks ning kolm ringkonnakohtu kohtunikku ja kolm esimese astme kohtunikku kolmeks aastaks.\n(2) Kuni käesoleva seaduse alusel distsiplinaarkolleegiumi moodustamiseni täidab tema ülesandeid senine distsiplinaarkomisjon. Käesoleva seaduse alusel tuleb distsiplinaarkolleegium moodustada hiljemalt 2003. aasta 1. jaanuariks."
+    },
+    {
+      "provision_ref": "para130^1",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "130^1",
+      "title": "§ 130^1. Tsiviilosakonna ja süüteoosakonna moodustamine ning osakonnajuhataja nimetamine",
+      "content": "Käesoleva seaduse § 9^1 alusel moodustatakse igasse maakohtusse vähemalt üks tsiviilosakond ja üks süüteoosakond ning § 12^2 alusel nimetatakse osakonnajuhatajad hiljemalt 2023. aasta 1. maiks."
+    },
+    {
+      "provision_ref": "para130^2",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "130^2",
+      "title": "§ 130^2. Eestkoste järelevalve osakonna moodustamine",
+      "content": "Käesoleva seaduse §-s 16^2 sätestatud eestkoste järelevalve osakond alustab tööd 2023. aasta 1. mail."
+    },
+    {
+      "provision_ref": "para131",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "131",
+      "title": "§ 131. Kohtu esimeeste ja kohtudirektorite volitused",
+      "content": "(1) Seaduse jõustumisel ametisoleva kohtu esimehe volituste tähtaeg algab käesoleva seaduse jõustumisest.\n(2) Kohtu kohtudirektor nimetatakse avaliku konkursi teel hiljemalt 2003. aasta 1. jaanuariks. Avaliku konkursi alusel kohtudirektori nimetamiseni täidab käesoleva seaduse § 15 lõikes 4, § 16 lõikes 4, § 17 lõikes 4 ning § 125 lõikes 1 sätestatud kohtudirektori ülesandeid kohtu esimees."
+    },
+    {
+      "provision_ref": "para131^1",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "131^1",
+      "title": "§ 131^1. Kohtunikuabile esitatavate nõuete erisused",
+      "content": "(1) Kohtunikuabiks võib nimetada ka isiku, kellel on rakenduskõrgkoolis omandatud kohtunikuabi eriharidus.\n(2) Kohtunikuabi eriharidust andva rakenduskõrgkooli lõpetamisel loetakse kohtunikuabi ettevalmistuskava täidetuks."
+    },
+    {
+      "provision_ref": "para131^2",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "131^2",
+      "title": "§ 131^2. Kohtuametniku kohtujuristi ametikohale nimetamine",
+      "content": "Konsultandi või muu kohtuametniku võib kohtujuristi ametikohale nimetada üksnes käesoleva seaduse § 125^1 lõikes 5 nimetatud korras ning juhul, kui ta vastab käesoleva seaduse § 125^1 lõikes 4 kehtestatud nõuetele."
+    },
+    {
+      "provision_ref": "para131^3",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "131^3",
+      "title": "§ 131^3. Kohtunikuabi koondamishüvitis",
+      "content": "Enne 2015. aasta 1. jaanuari ametisse nimetatud kohtunikuabile, kes vabastatakse teenistusest ametikoha koondamise tõttu ja kes on enne koondamist kohtunikuabina töötanud vähemalt ühe aasta, makstakse hüvitisena kohtunikuabi kuue kuu ametipalk."
+    },
+    {
+      "provision_ref": "para131^4",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "131^4",
+      "title": "§ 131^4. Kohtumaja juhi ja maakohtu aseesimehe volituste lõppemine",
+      "content": "(1) Enne 2023. aasta 1. maid ametis oleva maakohtu kohtumaja juhi ja maakohtu aseesimehe volitused kehtivad kuni 2023. aasta 30. aprillini.\n(2) Enne 2023. aasta 1. maid ametis oleva halduskohtu kohtumaja juhi volitused kehtivad kuni 2023. aasta 30. aprillini."
+    },
+    {
+      "provision_ref": "para131^5",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "131^5",
+      "title": "§ 131^5. Ringkonnakohtu kolleegiumi esimehe volitused",
+      "content": "Enne 2023. aasta 1. maid ringkonnakohtu kolleegiumi esimeheks nimetatud kohtuniku volitused kehtivad nende lõppemiseni."
+    },
+    {
+      "provision_ref": "para132",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "132",
+      "title": "§ 132. Kohtunikueksamikomisjoni moodustamine",
+      "content": "(1) Käesoleva seaduse alusel tuleb kohtunikueksamikomisjon moodustada hiljemalt 2003. aasta 1. jaanuariks.\n(1^1) Käesoleva seaduse § 69 lõikeid 1–3 rakendatakse alates 2015. aasta kohtunikueksamikomisjoni liikmete valimisest.\n(2) Kuni käesoleva seaduse alusel kohtunikueksamikomisjoni moodustamiseni täidab komisjoni ülesandeid senine kohtunikueksamikomisjon.\n(3) Seaduse jõustumisel ettevalmistusteenistuses olevate isikute teenistus jätkub senise kava alusel kuni selle vastavusse viimiseni käesoleva seadusega. Seaduse jõustumisel ettevalmistusteenistuses olevate isikute teenistusaega võib lühendada, kuid mitte rohkem kui aasta võrra."
+    },
+    {
+      "provision_ref": "para132^1",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "132^1",
+      "title": "§ 132^1. Kohtunikupension",
+      "content": "Kohtunikupension on: 1 1) kohtuniku vanaduspension;\n2) kohtuniku väljateenitud aastate pension;\n3) kohtuniku töövõimetuspension;\n4) kohtuniku perekonnaliikme toitjakaotuspension."
+    },
+    {
+      "provision_ref": "para132^2",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "132^2",
+      "title": "§ 132^2. Õigus kohtuniku vanaduspensionile",
+      "content": "(1) Õigus kohtuniku vanaduspensionile on vanaduspensionieas oleval isikul, kes on:\n1) olnud kohtunikuametis pärast 1991. aasta 31. detsembrit ja kes on 2013. aasta 1. juuliks töötanud kohtunikuna vähemalt 15 aastat;\n2) 2013. aasta 1. juulil ametis kohtunikuna ja kellel pensionile jäämise ajaks täitub käesoleva paragrahvi lõike 1 punktis 1 sätestatud vanaduspensioni saamiseks vajalik staaž;\n3) olnud kohtunikuametis pärast 1991. aasta 31. detsembrit ja on 2013. aasta 1. juuliks töötanud kohtunikuna vähemalt kümme aastat ning kellel on töövõimetoetuse seaduse alusel tuvastatud puuduv töövõime;\n4) 2013. aasta 1. juulil ametis kohtunikuna ja kellel pensionile jäämise ajaks täitub käesoleva paragrahvi lõike 1 punktis 3 sätestatud vanaduspensioni saamiseks vajalik staaž ning kellel on töövõimetoetuse seaduse alusel tuvastatud puuduv töövõime.\n(2)\n(2^1) Kohtunikul, kellel on tuvastatud 100, 90 või 80%-line püsiv töövõime kaotus riikliku pensionikindlustuse seaduse alusel, on õigus taotleda kohtuniku vanaduspensioni kuni 2016. aasta 1. juulini kehtinud kohtute seaduse § 132^2 lõike 2 alusel.\n(3) Õigus kohtuniku vanaduspensionile on vanaduspensioni eas oleval isikul, kes on:\n1) olnud Riigikohtu esimees pärast 1991. aasta 31. detsembrit ning enne 2013. aasta 1. juulit või\n2) 2013. aasta 1. juulil Riigikohtu esimees või\n3) 2013. aasta 1. juulil ametis kohtunikuna ja nimetatakse Riigikohtu esimeheks pärast 2013. aasta 1. juulit."
+    },
+    {
+      "provision_ref": "para132^3",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "132^3",
+      "title": "§ 132^3. Õigus kohtuniku väljateenitud aastate pensionile",
+      "content": "Õigus kohtuniku väljateenitud aastate pensionile, sõltumata vanusest, on isikul, kes on: 1 1) olnud kohtunikuametis pärast 1991. aasta 31. detsembrit ning kes on 2013. aasta 1. juuliks töötanud kohtunikuna vähemalt 30 aastat;\n2) 2013. aasta 1. juulil ametis kohtunikuna ning kellel pensionile jäämise ajaks täitub käesoleva paragrahvi punktis 1 sätestatud väljateenitud aastate pensioni saamiseks vajalik staaž."
+    },
+    {
+      "provision_ref": "para132^4",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "132^4",
+      "title": "§ 132^4. Õigus kohtuniku töövõimetuspensionile",
+      "content": "(1) Kohtunikul, kellel on tuvastatud püsiv töövõime kaotus riikliku pensionikindlustuse seaduse alusel enne 2016. aasta 1. juulit, on õigus taotleda töövõimetuspensioni, mis määratakse kuni 2016. aasta 1. juulini kehtinud kohtute seaduse redaktsiooni alusel.\n(2) Kohtunikule, kes saab töövõimetuspensioni kuni 2016. aasta 1. juulini kehtinud kohtute seaduse redaktsiooni alusel, jätkatakse pärast püsiva töövõimetuse ekspertiisiga tuvastatud püsiva töövõimetuse kestuse lõppemist töövõimetuspensioni maksmist endises suuruses töövõimet hindamata.\n(3) Kui kohtuniku töövõimetuspensioni saav isik jõuab riikliku pensionikindlustuse seaduse §-s 7 sätestatud vanaduspensioniikka, jätkatakse talle tema soovil vanaduspensioni maksmist senise töövõimetuspensioni suuruses."
+    },
+    {
+      "provision_ref": "para132^5",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "132^5",
+      "title": "§ 132^5. Õigus kohtuniku perekonnaliikme toitjakaotuspensionil",
+      "content": "Kohtuniku perekonnaliikmele, kellel on õigus kohtuniku toitjakaotuspensionile tekkinud enne 2016. aasta 1. juulit, määratakse ja makstakse see lähtudes kuni 2016. aasta 1. juulini kehtinud käesoleva seaduse redaktsioonist."
+    },
+    {
+      "provision_ref": "para132^6",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "132^6",
+      "title": "§ 132^6. Kohtunikupensioni suurus",
+      "content": "(1) Kohtuniku vanaduspensioni ja väljateenitud aastate pensioni suurus on 75% tema viimasele ametikohale vastavast ametipalgast, mis kehtis päeval, millest alates pension määratakse.\n(2) Riigikohtu esimehe või isiku, kes on olnud Riigikohtu esimees, vanaduspensioni suurus on 75% Riigikohtu esimehe ametipalgast, mis kehtis päeval, millest alates pension määratakse, kui ta on Riigikohtu esimehena töötanud vähemalt viis aastat, ja 50%, kui ta on Riigikohtu esimehena töötanud vähem kui viis aastat.\n(3)\n(3^1) Kohtunikule, kes saab kohtuniku vanaduspensioni käesoleva seaduse § 132^2 lõike 1 punktide 3 või 4 alusel, jätkatakse pärast:\n1) püsiva töövõimetuse ekspertiisiga tuvastatud püsiva töövõimetuse kestuse lõppemist vanaduspensioni maksmist endises suuruses töövõimet hindamata;\n2) Töötukassa poolt tuvastatud puuduva töövõime kestuse lõppemist vanaduspensioni maksmist endises suuruses töövõimet uuesti hindamata.\n(3^2) Kohtunikule, kes saab kohtuniku vanaduspensioni kuni 2016. aasta 1. juulini kehtinud kohtute seaduse § 132^2 lõike 2 alusel, jätkatakse pärast püsiva töövõimetuse ekspertiisiga tuvastatud püsiva töövõimetuse kestuse lõppemist kohtuniku vanaduspensioni maksmist endises suuruses töövõimet hindamata.\n(4)"
+    },
+    {
+      "provision_ref": "para132^7",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "132^7",
+      "title": "§ 132^7. Kohtunikupensioni määramine ning maksmine",
+      "content": "(1) Kohtunikupensionile kohaldatakse riikliku pensionikindlustuse seaduse sätteid, arvestades käesoleva seaduse erisusi.\n(2) Kohtunikupension indekseeritakse iga aasta 1. aprilliks kõrgemate riigiteenijate ametipalkade seaduse §-s 2^1 nimetatud kõrgeima palgamäära indeksiga.\n(3) Kohtuniku vanaduspensioni, väljateenitud aastate pensioni ja toitjakaotuspensioni see osa, mis ületab riikliku pensionikindlustuse seaduse alusel arvutatava vanaduspensioni, ning töövõimetuspension makstakse riigieelarvest.\n(4) Kohtunikupensioni ei suurendata avaliku teenistuse seaduses sätestatud alustel. Kui isikul on õigus saada mitut liiki riiklikku pensioni, määratakse talle üks pension tema valikul.\n(5) Kohtunikupensioni ei maksta kohtunikuna töötamise ajal. Kui pensionile läinud kohtunik teeb muud tööd, makstakse talle kohtunikupensioni täies ulatuses, sõltumata töötasu suurusest.\n(6) Kohtunikupensioni ei määrata isikule, kes on ametist tagandatud distsiplinaarsüüteo eest või kes on süüdi mõistetud tahtliku kuriteo eest. Nimetatud pension võetakse ära isikult, kes on süüdi mõistetud õigusemõistmise vastases kuriteos.\n(7) Isik, kes on süüdi mõistetud karistusseadustiku 15. peatükis või 17. peatüki 2. jaos sätestatud süüteo eest, mille eest karistusseadustik näeb ette vähemalt kuni viieaastase vangistuse, kaotab õiguse kohtuniku vanaduspensionile ja kohtuniku väljateenitud aastate pensionile.\n(8) Kui isikule maksti käesolevas seaduses sätestatud kohtuniku vanaduspensioni või kohtuniku väljateenitud aastate pensioni, siis lõpetatakse pensioni maksmine kohtuotsuse jõustumise kuule järgnevast kuust. Käesolevas seaduses sätestatud pensionile õiguse kaotamise korral säilib isikul õigus taotleda pensioni üldistel alustel.\n(9) Kohus on kohustatud 10 tööpäeva jooksul kohtuotsuse jõustumisest arvates kirjalikult teatama Sotsiaalkindlustusametile asjaolust, millega seoses kaob isikul õigus käesolevas seaduses sätestatud kohtuniku vanaduspensionile ja kohtuniku väljateenitud aastate pensionile.\n(10) Käesoleva paragrahvi lõikes 7 sätestatut kohaldatakse isikule, kelle suhtes jõustus süüdimõistev kohtuotsus pärast 2009. aasta 10. märtsi."
+    },
+    {
+      "provision_ref": "para132^8",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "132^8",
+      "title": "§ 132^8. Püsiva töövõimetusega kohtunik",
+      "content": "Kohtunikul, kellel on tuvastatud püsiv töövõime kaotus 100, 90 või 80% riikliku pensionikindlustuse seaduse alusel, loetakse käesoleva seaduse § 132^2 lõikes 1 sätestatud puuduva töövõime tingimus täidetuks."
+    },
+    {
+      "provision_ref": "para133",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "133",
+      "title": "§ 133. Kohtunikupensioni maksmine",
+      "content": "(1) Kohtuniku vanaduspensioni saamiseks vajaliku kohtunikustaaži hulka arvatakse ka enne käesoleva seaduse jõustumist kohtunikuna töötatud aeg.\n(2) Seaduse jõustumiseni ametissenimetatud kohtunike pensioniõigusliku staaži hulka arvatakse töötamine kodumaise kõrgkooli teaduskraadiga õigusteaduse õppejõuna, vandeadvokaadina, prokurörina või õiguskantslerina või mõnel teisel juriidilist kõrgkvalifikatsiooni nõudval ametikohal. Käesolevas lõikes sätestatu ei laiene väljateenitud aastate pensioni (§ 132^2) staaži arvestamisele.\n(3) Kohtunikueksamikomisjon teeb otsused kõigi kohtunike pensioniõigusliku staaži kindlaksmääramiseks, pidades silmas käesolevas paragrahvis sätestatut, ühe aasta jooksul käesoleva seaduse jõustumisest.\n(4) Käesoleva seaduse §-sid 132^1–132^6 kohaldatakse ka isikutele, kes seaduse jõustumise ajal kohtunikuna ei tööta, kuid on olnud kohtunikuametis pärast 1991. aasta 31. detsembritt.\n(5) Seaduse jõustumisest alates viie aasta jooksul tekib kohtuniku vanaduspensioni saamise õigus pärast viieaastast kohtunikuna töötamist ka isikul, kes pärast 1991. aasta 31. detsembrit on kohtunikuametis, on jõudnud vanaduspensioniikka ja on vähemalt kümme aastat töötanud ametikohal, mille kohtunikueksamikomisjon on võrdsustanud töötamisega kohtunikuametis.\n(6) Seaduse jõustumisest alates viie aasta jooksul pensioniikka jõudval kohtunikul, kellel puudub viieaastane kohtunikustaaž, on õigus jääda kohtunikuametisse kuni staaži täitumiseni tingimusel, et ta käesoleva seaduse jõustumise ajal oli kohtunikuametis ja on vähemalt kümme aastat töötanud ametikohal, mille kohtunikueksamikomisjon on võrdsustanud töötamisega kohtunikuametis.\n(7) Kohtunikul, kes on seaduse jõustumisel vähemalt 55-aastane ja töötanud vähemalt viimased 10 aastat kohtunikuna, tekib kohtuniku ametist lahkudes õigus kohtuniku vanaduspensionile. Ametist lahkumise otsus selle õiguse kasutamiseks tuleb teha 2003. aasta 1. jaanuariks. Kui kohtunik jätkab töötamist avalikus teenistuses, ei tohi tema pensioni ja avalikus teenistuses teenitava töötasu suurus ületada tema kohtunikuna teenitud ametipalka.\n(8) Kohtunikul, kes on 2013. aasta 1. juuli seisuga üle viidud Riigikohtu või Justiitsministeeriumi teenistusse (§ 58 lõige 1), valitud või nimetatud rahvusvahelise kohtuinstitutsiooni kohtunikuks või osaleb eksperdina rahvusvahelisel tsiviilmissioonil (§ 58^1 lõiked 1 ja 5), säilib õigus §-des 132^1–132^6 sätestatud pensionile."
+    },
+    {
+      "provision_ref": "para135",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "135",
+      "title": "§ 135. Kohtukaasistujate pädevus",
+      "content": "Enne käesoleva seaduse jõustumist valitud kohtukaasistujal on volituste tähtaja lõppemiseni rahvakohtuniku pädevus."
+    },
+    {
+      "provision_ref": "para136",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "136",
+      "title": "§ 136. Kohtunikuabieksami komisjoni volitused",
+      "content": "(1)\n(2)\n(3) Kuni konkursikomisjoni moodustamiseni täidab selle komisjoni ülesandeid senine kohtunikuabieksami komisjon."
+    },
+    {
+      "provision_ref": "para137",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "137",
+      "title": "§ 137. Kohtunike koolituse korralduse üleminekusätted",
+      "content": "(1) Kuni 2004. aastani sisaldub kohtunike koolituse programmis ka järelkoolitus.\n(2) Justiitsministeerium annab ministri kinnitatud korras kohtunike koolituse programmide koostamiseks vajaliku teabe ja lepingud sihtasutusele üle ja sihtasutus alustab 2003. aasta koolituse programmi koostamist hiljemalt 2002. aasta 1. septembril.\n(3) Käesoleva seaduse alusel koolitusnõukogu moodustamiseni täidab koolitusnõukogu ülesandeid senine koolitusnõukogu."
+    },
+    {
+      "provision_ref": "para137^1",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "137^1",
+      "title": "§ 137^1. Rahvusvahelises kohtuinstitutsioonis töötamine",
+      "content": "Käesoleva seaduse § 58^1 kohaldatakse ka enne nimetatud sätte jõustumist rahvusvahelise kohtuinstitutsiooni valitud või nimetatud kohtuniku suhtes."
+    },
+    {
+      "provision_ref": "para137^2",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "137^2",
+      "title": "§ 137^2. Käesoleva seaduse § 50 lõike 2 kohaldamise erisus",
+      "content": "Käesoleva seaduse § 50 lõike 2 tähenduses võrdsustatakse enne 2015. aasta 1. aprilli prokuröri abina töötamine abiprokurörina töötamisega."
+    },
+    {
+      "provision_ref": "para137^3",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "137^3",
+      "title": "§ 137^3. Kohtunikukonkursi korraldamine",
+      "content": "Enne 2016. aasta 1. augustit väljakuulutatud konkursid vabade kohtunikukohtade täitmiseks korraldatakse kuni 2016. aasta 31. juulini kehtinud seaduse alusel."
+    },
+    {
+      "provision_ref": "para137^4",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "137^4",
+      "title": "§ 137^4. Esimese ja teise astme kohtu esimeeste nimetamine",
+      "content": "2016. aasta 1. augustil ametis oleva esimese või teise astme kohtu esimehe ametiaeg lõpeb tema nimetamise ajal kehtinud seaduses sätestatud tähtaja saabumisel ja tema suhtes ei kohaldata ühekordselt järgmiseks perioodiks kohtu esimeheks nimetamisel käesoleva seaduse § 12 lõikes 10 sätestatud piirangut."
+    },
+    {
+      "provision_ref": "para137^5",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "137^5",
+      "title": "§ 137^5. Kohtuniku töötamine väljaspool kohut",
+      "content": "Käesoleva seaduse § 58^4 kohaldatakse ka nendele kohtunikele, kes 2023. aasta 1. mail töötavad riigi ametiasutuses, avalik-õiguslikus ülikoolis, rahvusvahelises organisatsioonis, rahvusvahelises kohtuinstitutsioonis või Euroopa Prokuratuuris."
+    },
+    {
+      "provision_ref": "para138",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "138",
+      "title": "§ 138. Kohtute ühendamine",
+      "content": "(1) Kohtla-Järve Linnakohus ja Ida-Viru Maakohus ühendatakse hiljemalt 2003. aasta 1. jaanuariks. Selle ajani tegutseb Kohtla-Järve Linnakohus eraldi kohtuasutusena.\n(2) Hiiu Maakohus ja Lääne Maakohus ühendatakse hiljemalt 2003. aasta 1. jaanuariks. Selle ajani tegutseb Hiiu Maakohus eraldi kohtuasutusena. Pärast kohtute ühendamist jääb Hiiumaale püsivalt tööle vähemalt üks Lääne Maakohtu kohtunik."
+    },
+    {
+      "provision_ref": "para138^1",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "138^1",
+      "title": "§ 138^1. Kohtu esimehe ja kohtudirektori volitused",
+      "content": "(1) Justiitsminister nimetab maa- ja halduskohtu esimehe hiljemalt 2006. aasta 1. maiks. Justiitsminister võib kohtu esimehe nimetamiseni ajutiselt panna esimehe kohustused maa- või halduskohtu kohtunikule viimase nõusolekul. Kohtu esimehe ajutisele kohusetäitjale makstakse käesoleva seaduse § 76 lõikes 2 sätestatud lisatasu.\n(2) Justiitsminister nimetab kohtudirektori avaliku konkursi alusel ametisse hiljemalt 2006. aasta 1. märtsiks. Kohtudirektori nimetamiseni täidab käesoleva seaduse § 15 lõikes 4, § 16 lõikes 4, § 17 lõikes 4 ning § 125 lõikes 1 sätestatud kohtudirektori ülesandeid kohtu esimees või käesoleva paragrahvi lõikes 1 nimetatud kohtunik.\n(3) Enne 2013. aasta 1. aprilli teenistusse nimetatud kohtudirektor loetakse automaatselt selle kohtu kohtudirektori konkursil osalejaks, kus ta teenistuses on, kui ta ei esita kirjalikku teadet konkursil osalemisest loobumise kohta. Konkursil osalemisest loobumise teade esitatakse hiljemalt enne konkursiteates märgitud tähtaja lõppu.\n(4) Justiitsminister võib Tartu Maakohtu kinnistusosakonna ja registriosakonna valdkonna eest vastutava kohtudirektori ametisse nimetada 2014. aastal. Kinnistusosakonna ja registriosakonna tegevusvaldkonna eest vastutava kohtudirektori võib ametisse nimetada avaliku konkursita olemasolevate kohtudirektorite hulgast.\n(5) Maakohtute kinnistusosakondade ja registriosakondade koosseisus olevad kohtuteenistujad loetakse alates 2015. aasta 1. jaanuarist Tartu Maakohtu kinnistusosakonna ja registriosakonna kohtuteenistujateks ning nad jätkavad teenistust Tartu Maakohtu koosseisus."
+    },
+    {
+      "provision_ref": "para138^2",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "138^2",
+      "title": "§ 138^2. Maa-, linna- ja halduskohtu esimehe volituste lõppemine",
+      "content": "(1) Enne 2006. aasta 1. jaanuari nimetatud maa-, linna- ja halduskohtute esimeeste volitused lõpevad käesoleva seaduse jõustumisel.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud kohtunikele makstakse kuni 2006. aasta 31. detsembrini lisatasu 15% tema ametipalgast, kui maa-, linna- või halduskohtus, mille esimees ta oli, töötas kuni 14 kohtunikku, või 25% tema ametipalgast, kui maa-, linna- või halduskohtus, mille esimees ta oli, töötas vähemalt 15 kohtunikku. Lisatasu ei maksta, kui lõikes 1 nimetatud kohtunik nimetatakse maa- või halduskohtu esimeheks vastavalt käesoleva seaduse § 138^1 lõikes 1 sätestatule."
+    },
+    {
+      "provision_ref": "para138^3",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "138^3",
+      "title": "§ 138^3. Kohtumajade täpsete asukohtade, teeninduspiirkondade ja kohtunike arvu ning jagunemise määramine",
+      "content": "Justiitsminister määrab maakohtute ja halduskohtute kohtumajade täpse asukoha ning teeninduspiirkonnad (§ 9 lõige 3 ja § 18 lõige 3) ning maa- ja halduskohtunike arvu ja jagunemise kohtumajade vahel (§-d 11 ja 19) hiljemalt 2005. aasta 1. oktoobriks."
+    },
+    {
+      "provision_ref": "para138^4",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "138^4",
+      "title": "§ 138^4. Maa-, linna- ja halduskohtunike teenistus",
+      "content": "(1) 2006. aasta 1. jaanuaril loetakse ametis olevad maa-, linna- ja halduskohtunikud teenistusse määratuks järgmiselt:\n1) Tallinna Linnakohtu ja Harju Maakohtu kohtunikud loetakse Harju Maakohtu kohtunikeks;\n2) Ida-Viru Maakohtu, Narva Linnakohtu ja Lääne-Viru Maakohtu kohtunikud loetakse Viru Maakohtu kohtunikeks;\n3) Pärnu Maakohtu, Saare Maakohtu, Lääne Maakohtu, Järva Maakohtu ja Rapla Maakohtu kohtunikud loetakse Pärnu Maakohtu kohtunikeks;\n4) Tartu Maakohtu, Jõgeva Maakohtu, Viljandi Maakohtu, Valga Maakohtu, Põlva Maakohtu ja Võru Maakohtu kohtunikud loetakse Tartu Maakohtu kohtunikeks;\n5) Tallinna Halduskohtu ja Pärnu Halduskohtu kohtunikud loetakse Tallinna Halduskohtu kohtunikeks;\n6) Tartu Halduskohtu ja Jõhvi Halduskohtu kohtunikud loetakse Tartu Halduskohtu kohtunikeks.\n(2) 2006. aasta 1. jaanuaril loetakse ametis oleva maa- või halduskohtuniku alaliseks teenistuskohaks kohtumaja, mis asub asulas, kus asus maa-, linna- või halduskohus, mille kohtunik ta enne selle seaduse jõustumist oli."
+    },
+    {
+      "provision_ref": "para138^5",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "138^5",
+      "title": "§ 138^5. Tööjaotusplaani kehtivus",
+      "content": "Pärast kohtute seaduse muutmise seaduse kohtute tööpiirkondade ühendamiseks jõustumist määratakse kuni uue tööjaotusplaani kinnitamiseni kohtunike tööjaotus kohtumajade kaupa, lähtudes vahetult enne nimetatud seaduse jõustumist kehtinud tööjaotusplaanidest. Kohtu üldkogu kinnitab uue tööjaotusplaani hiljemalt 2006. aasta 1. märtsiks."
+    },
+    {
+      "provision_ref": "para138^6",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "138^6",
+      "title": "§ 138^6. Rahvakohtunike volitused",
+      "content": "(1) Enne 2006. aasta 1. jaanuari ametisse nimetatud rahvakohtunikud, kelle volitused ei ole lõppenud, loetakse ametisse nimetatuks järgmiste kohtute juurde:\n1) Tallinna Linnakohtu ja Harju Maakohtu rahvakohtunikud loetakse Harju Maakohtu rahvakohtunikeks;\n2) Ida-Viru Maakohtu, Narva Linnakohtu ja Lääne-Viru Maakohtu rahvakohtunikud loetakse Viru Maakohtu rahvakohtunikeks;\n3) Pärnu Maakohtu, Saare Maakohtu, Lääne Maakohtu, Järva Maakohtu ja Rapla Maakohtu rahvakohtunikud loetakse Pärnu Maakohtu rahvakohtunikeks;\n4) Tartu Maakohtu, Jõgeva Maakohtu, Viljandi Maakohtu, Valga Maakohtu, Põlva Maakohtu ja Võru Maakohtu rahvakohtunikud loetakse Tartu Maakohtu rahvakohtunikeks;\n(2) Enne 2006. aasta 1. jaanuari nimetatud rahvakohtunike volitused lõpevad käesoleva seaduse § 104 lõigetes 1 või 4 nimetatud tähtaja möödumisel."
+    },
+    {
+      "provision_ref": "para138^7",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "138^7",
+      "title": "§ 138^7. Viru Ringkonnakohtu likvideerimine",
+      "content": "(1) Alates 2008. aasta 1. oktoobrist edastatakse Viru Ringkonnakohtusse saabuvad apellatsioonkaebused lahendamiseks Tartu Ringkonnakohtule. Viru Ringkonnakohtusse saabuvad määruskaebused lahendatakse kuni kohtu sulgemiseni Viru Ringkonnakohtus. 2008. aasta 31. detsembril edastatakse Viru Ringkonnakohtu menetluses olevad kohtuasjad lahendamiseks Tartu Ringkonnakohtule.\n(2) Viru Ringkonnakohtu kohtunikul, kes kohtu likvideerimisel lahkub ametist käesoleva seaduse § 99 lõike 1 punkti 5 alusel ja kellel selleks ajaks on kohtuniku vanaduspensioniõiguslikku staaži koos käesoleva seaduse § 133 lõikes 2 nimetatud staažiga vähemalt 20 aastat, tekib õigus saada kohtuniku vanaduspensioni. Kui kohtunik jätkab töötamist avalikus teenistuses, ei tohi tema pension koos avalikus teenistuses teenitava töötasuga ületada tema kohtunikuna teenitud ametipalka.\n(3) Viru Ringkonnakohtu kohtunikud on kohustatud hiljemalt 2008. aasta 1. aprilliks teavitama Justiitsministeeriumi soovist kasutada käesoleva paragrahvi lõikest 2 tulenevat õigust jääda kohtuniku vanaduspensionile või soovist asuda alates 2009. aasta 1. jaanuarist tööle kas Viru Maakohtus või Tartu Ringkonnakohtus või nõustumisest ametist vabastamisega käesoleva seaduse § 99 lõike 1 punkti 5 alusel. Teate esitamata jätmist käsitatakse Viru Ringkonnakohtu kohtuniku soovina asuda tööle Tartu Ringkonnakohtus.\n(4) Kui Viru Ringkonnakohtu kohtunik asub käesoleva paragrahvi lõike 3 alusel alates 2009. aasta 1. jaanuarist tööle Viru Maakohtusse kohtunikuna, arvutatakse tema vanaduspension selle määramise ajal kehtivast ringkonnakohtu kohtuniku ametipalgast, arvestades käesoleva seaduse § 132^2 lõigetes 1 ja 2 ning § 132^6 lõikes 1 sätestatut, juhul kui tal ei ole õigust soodsamale kohtuniku vanaduspensionile.\n(5) Viru Ringkonnakohtu kohtunikule, kes kasutab käesoleva paragrahvi lõikest 2 tulenevat õigust jääda kohtuniku vanaduspensionile, ei maksta käesoleva seaduse § 86 lõikest 1 tulenevat hüvitist."
+    },
+    {
+      "provision_ref": "para138^8",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "138^8",
+      "title": "§ 138^8. Kohtunikule teenistusaastate eest makstava lisatasu maksmise lõpetamine",
+      "content": "Käesolevas seaduses sätestatud kohtunikule teenistusaastate eest makstava lisatasu maksmise lõpetamisel ei tohi kohtuniku palk väheneda. Kui kohtuniku palk pärast käesoleva seaduse jõustumist on väiksem kui kohtuniku senine palk, makstakse kohtunikule senist palka niikaua, kuni kohtuniku palk käesoleva seaduse ning kõrgemate riigiteenijate ametipalkade seaduse järgi ületab senist palka."
+    },
+    {
+      "provision_ref": "para138^9",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "138^9",
+      "title": "§ 138^9. Esimese ja teise astme kohtu kohtudirektori ametiaeg",
+      "content": "Käesoleva seaduse § 125 lõike 3 jõustumisel ametisoleva esimese ja teise astme kohtu kohtudirektori volitused kehtivad viis aastat seaduse jõustumisest arvates."
+    },
+    {
+      "provision_ref": "para138^10",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "138^10",
+      "title": "§ 138^10. Käesoleva seaduse § 84 lõike 2 kohaldamise erisus",
+      "content": "Esimese ja teise astme kohtunikule säilitatakse 49-kalendripäevane ning Riigikohtu kohtunikule 56-kalendripäevane puhkus kaheks aastaks alates 2013. aasta 1. aprillist juhul, kui ta on 2013. aasta 1. aprilli seisuga kohtunikuna teenistuses."
+    },
+    {
+      "provision_ref": "para138^11",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "138^11",
+      "title": "§ 138^11. Rahvakohtuniku töövõimetuspension",
+      "content": "(1) Rahvakohtunikul, kellel on tuvastatud püsiv töövõime kaotus riikliku pensionikindlustuse seaduse alusel, on õigus rahvakohtuniku töövõimetuspensioni suurendusele, lähtudes kuni 2016. aasta 1. juulini kehtinud käesoleva seaduse § 113 redaktsioonist.\n(2) Rahvakohtunikule, kes oli riikliku pensionikindlustuse seaduse alusel tunnistatud viimase püsiva töövõimetuse ekspertiisiga püsivalt töövõimetuks kestusega vähemalt kaks aastat ja kes esitab hiljemalt püsiva töövõimetuse ekspertiisi otsuses märgitud korduvekspertiisi tähtajal töövõime hindamise taotluse ning kellel tuvastatakse osaline või puuduv töövõime, makstakse töövõimetoetust suuruses, mis on võrdne talle viimati riikliku pensionikindlustuse seaduse ja käesoleva seaduse alusel makstud töövõimetuspensioni üldsummaga, kui see on suurem talle töövõimetoetuse seaduse alusel määratud töövõimetoetusest. Käesoleva lõike alusel rahvakohtunikule töövõimetoetuse maksmisel kohaldatakse töövõimetoetuse seaduses töövõimetoetusele sätestatut, sealhulgas töövõimetoetuse seaduse § 27 lõikeid 4 ja 5."
+    },
+    {
+      "provision_ref": "para139",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "139",
+      "title": "§ 139.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para151",
+      "chapter": "16. peatükk - RAKENDUSSÄTTED",
+      "section": "151",
+      "title": "§ 151.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    }
+  ],
+  "definitions": []
+}

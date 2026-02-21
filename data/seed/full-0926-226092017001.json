@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-226092017001",
+  "type": "statute",
+  "title": "Naistevastase vägivalla ja perevägivalla ennetamise ja tõkestamise Euroopa Nõukogu konventsiooni ratifitseerimise seadus",
+  "title_en": "Naistevastase vägivalla ja perevägivalla ennetamise ja tõkestamise Euroopa Nõukogu konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-226092017001",
+  "status": "in_force",
+  "issued_date": "2017-09-20",
+  "in_force_date": "2017-10-06",
+  "url": "https://www.riigiteataja.ee/akt/226092017001.xml",
+  "description": "Official consolidated statute text (Naistevastase vägivalla ja perevägivalla ennetamise ja tõkestamise Euroopa Nõukogu konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurde lisatud naistevastase vägivalla ja perevägivalla ennetamise ja tõkestamise Euroopa Nõukogu konventsioon, mis avati allakirjutamiseks 2011. aasta 11. mail Istanbulis ja millele Eesti Vabariik on alla kirjutanud 2014. aasta 2. detsembril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Kooskõlas konventsiooni artikli 10 lõikega 1 deklareerib Eesti Vabariik, et konventsiooni täitmist koordineeriv organ on Justiitsministeerium."
+    }
+  ],
+  "definitions": []
+}

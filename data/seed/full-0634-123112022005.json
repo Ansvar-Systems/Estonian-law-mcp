@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-123112022005",
+  "type": "statute",
+  "title": "Kalandusturu korraldamise seadus",
+  "title_en": "Kalandusturu korraldamise seadus",
+  "short_name": "ee-law-123112022005",
+  "status": "in_force",
+  "issued_date": "2014-11-19",
+  "in_force_date": "2023-01-01",
+  "url": "https://www.riigiteataja.ee/akt/123112022005.xml",
+  "description": "Official consolidated statute text (Kalandusturu korraldamise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

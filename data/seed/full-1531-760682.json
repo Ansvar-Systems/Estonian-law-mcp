@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-760682",
+  "type": "statute",
+  "title": "Ühinenud Rahvaste Organisatsiooni kliimamuutuste raamkonventsiooni Kyoto protokolli ratifitseerimise seadus",
+  "title_en": "Ühinenud Rahvaste Organisatsiooni kliimamuutuste raamkonventsiooni Kyoto protokolli ratifitseerimise seadus",
+  "short_name": "ee-law-760682",
+  "status": "in_force",
+  "issued_date": "2002-09-03",
+  "in_force_date": "2004-09-30",
+  "url": "https://www.riigiteataja.ee/akt/760682.xml",
+  "description": "Official consolidated statute text (Ühinenud Rahvaste Organisatsiooni kliimamuutuste raamkonventsiooni Kyoto protokolli ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud Ühinenud Rahvaste Organisatsiooni kliimamuutuste raamkonventsiooni Kyoto protokoll, mis on vastu võetud 1997. aasta 11. detsembril Kyotos ja millele Eesti Vabariik on alla kirjutanud 1998. aasta 3. detsembril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Kyoto protokolli artiklites 6, 12 ja 17 sätestatu rakendamiseks volitab Vabariigi Valitsus korraldusega valdkonna eest vastutavat ministrit sõlmima heitkoguste vähendamise ühikute üleandmise rahvusvahelisi lepinguid."
+    }
+  ],
+  "definitions": []
+}

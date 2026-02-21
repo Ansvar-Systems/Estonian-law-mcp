@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-24219",
+  "type": "statute",
+  "title": "Eesti Vabariigi seadus vara võõrandamise õigusvastasuse tõendamise lihtsustatud korra kehtestamise kohta",
+  "title_en": "Eesti Vabariigi seadus vara võõrandamise õigusvastasuse tõendamise lihtsustatud korra kehtestamise kohta",
+  "short_name": "VVÕTS",
+  "status": "in_force",
+  "issued_date": "1991-12-05",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/24219.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi seadus vara võõrandamise õigusvastasuse tõendamise lihtsustatud korra kehtestamise kohta) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Kui vara omanikuks olnud füüsiline isik oli ajavahemikus 1940. aasta 16. juunist kuni 1954. aasta 1.jaanuarini sunnitud oma vara maha jätma oma elukohast või vara asukohast pagemise tõttu või seoses sellega, et välismaal viibides ta keeldus Eestisse tagasi tulemast, lugeda vara mahajätmine toimunuks reaalse repressiooniohu tõttu."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Kui isik on vara maha jätnud paragrahvis 1 nimetatud viisil või kui vara võõrandamise või peremehetuks tunnistamise otsuse on Eesti Vabariigi pädev riigi- või omavalitsusorgan tühistanud, ei vaja vara võõrandamise õigusvastasus kohtulikku tõendamist. Kui vara võõrandamine on toimunud tsiviilasjas tehtud kohtulahendi alusel, on vaja taotleda kõrgemalseisvalt kohtult kohtulahendi tühistamist järelevalve korras."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Käesolev seadus jõustub vastuvõtmise päevast. Eesti Vabariigi Ülemnõukogu juhataja Eesti Vabariigi Ülemnõukogu esimehe kohustes Ü. NUGIS Tallinn, 5. detsembril 1991."
+    }
+  ],
+  "definitions": []
+}

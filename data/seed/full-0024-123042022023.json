@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-123042022023",
+  "type": "statute",
+  "title": "2014. aasta riigieelarve seadus",
+  "title_en": "2014. aasta riigieelarve seadus",
+  "short_name": "RES2014",
+  "status": "in_force",
+  "issued_date": "2013-12-11",
+  "in_force_date": "2015-01-01",
+  "url": "https://www.riigiteataja.ee/akt/123042022023.xml",
+  "description": "Official consolidated statute text (2014. aasta riigieelarve seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

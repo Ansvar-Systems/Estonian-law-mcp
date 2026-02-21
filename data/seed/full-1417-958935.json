@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-958935",
+  "type": "statute",
+  "title": "Tööturuteenuse seadus",
+  "title_en": "Tööturuteenuse seadus",
+  "short_name": "TTTS",
+  "status": "in_force",
+  "issued_date": "2000-06-14",
+  "in_force_date": "2006-01-01",
+  "url": "https://www.riigiteataja.ee/akt/958935.xml",
+  "description": "Official consolidated statute text (Tööturuteenuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-259668",
+  "type": "statute",
+  "title": "Ettevõtluse riikliku toetamise seadus",
+  "title_en": "Ettevõtluse riikliku toetamise seadus",
+  "short_name": "ee-law-259668",
+  "status": "in_force",
+  "issued_date": "1994-05-10",
+  "in_force_date": "2003-05-01",
+  "url": "https://www.riigiteataja.ee/akt/259668.xml",
+  "description": "Official consolidated statute text (Ettevõtluse riikliku toetamise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

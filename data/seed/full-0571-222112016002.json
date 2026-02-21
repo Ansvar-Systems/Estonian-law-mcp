@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-222112016002",
+  "type": "statute",
+  "title": "Horvaatia Vabariigi Euroopa Majanduspiirkonnas osalemise lepingu ratifitseerimise seadus",
+  "title_en": "Horvaatia Vabariigi Euroopa Majanduspiirkonnas osalemise lepingu ratifitseerimise seadus",
+  "short_name": "ee-law-222112016002",
+  "status": "in_force",
+  "issued_date": "2016-11-17",
+  "in_force_date": "2016-12-02",
+  "url": "https://www.riigiteataja.ee/akt/222112016002.xml",
+  "description": "Official consolidated statute text (Horvaatia Vabariigi Euroopa Majanduspiirkonnas osalemise lepingu ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Lepingu ratifitseerimine",
+      "content": "Ratifitseerida Horvaatia Vabariigi Euroopa Majanduspiirkonnas osalemise leping (ELT L 170, 11.06.2014, lk 5–48), mis on alla kirjutatud 2014. aasta 11. aprillil Brüsselis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Ühisdeklaratsioonide ja -avalduste kinnitamine",
+      "content": "Horvaatia Vabariigi Euroopa Majanduspiirkonnas osalemise lepingu ratifitseerimisel kinnitab Eesti Vabariik lepingu lõppaktile lisatud ühisdeklaratsioonid ja -avaldused."
+    }
+  ],
+  "definitions": []
+}

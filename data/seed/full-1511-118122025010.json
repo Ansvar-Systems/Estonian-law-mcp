@@ -1,0 +1,111 @@
+{
+  "id": "ee-law-118122025010",
+  "type": "statute",
+  "title": "Õigusvastaselt võõrandatud vara maksumuse määramise ja kompenseerimise seadus",
+  "title_en": "Õigusvastaselt võõrandatud vara maksumuse määramise ja kompenseerimise seadus",
+  "short_name": "ÕVVS",
+  "status": "in_force",
+  "issued_date": "1993-05-19",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.riigiteataja.ee/akt/118122025010.xml",
+  "description": "Official consolidated statute text (Õigusvastaselt võõrandatud vara maksumuse määramise ja kompenseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Seaduse ülesanne",
+      "content": "(1) Käesolev seadus määrab kindlaks omandireformi objektiks oleva õigusvastaselt võõrandatud vara (edaspidi vara ) maksumuse määramise alused ja korra ning kompenseerimise viisi ja ulatuse.\n(2) Õigusvastaselt võõrandatud maa ja sellega seotud loodusobjektide ning ühistatud vara maksumuse määramise alused ja kord ning kompenseerimise viis ja ulatus määratakse kindlaks eraldi seadustega."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Vara võõrandamisaegse maksumuse määramise vajadus",
+      "content": "Vara võõrandamisaegne maksumus määratakse kindlaks vara kompenseerimise korral, kui:\n1) vara vastavalt Eesti Vabariigi omandireformi aluste seaduse (edaspidi Alused ) § 12 3. lõikele ei kuulu tagastamisele;\n2)\n2^1) vara on hävinud;\n3) vara tagasi saanud isik peab Aluste § 12 2. lõike alusel maksma kompensatsiooni teistele õigustatud subjektidele ja kompensatsiooni suuruse, tasumise viisi, korra ja muude tingimuste suhtes ei ole saavutatud käesoleva seaduse § 11 1. lõikes märgitud kokkulepet;\n4) varaks on aktsia või osatäht."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Vara võõrandamisaegse maksumuse tõendamine dokumentidega",
+      "content": "Vara võõrandamisaegset maksumust võib tõendada dokumendiga, mis on välja antud mitte varem kui kolm aastat ja mitte hiljem kui kuus kuud õigusvastase võõrandamise hetkest arvates. Mitme näidatud ajavahemikul väljaantud dokumendi korral eelistatakse muudel võrdsetel asjaoludel dokumenti, mis on välja antud kõige lähemal vara õigusvastase võõrandamise hetkele."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4. Ehitiste, laevade ja tootmishoonete sisseseade võõrandamisaegse maksumuse määramine ekspertkomisjoni poolt",
+      "content": "(1) Kui ehitiste, laevade ja tootmishoonete sisseseade võõrandamisaegse maksumuse kohta puuduvad käesoleva seaduse §-s 3 nimetatud dokumendid, kuid on olemas dokumendid, mis kirjeldavad vara suurust, koosseisu ja kasutusotstarvet, määravad vara võõrandamisaegse maksumuse õigustatud subjekti taotlusel ja kulul kolmeliikmelised ekspertkomisjonid, mis on moodustatud Rahandusministeeriumi poolt.\n(2) Valla- või linnavalitsus otsustab õigustatud subjekti taotlusel ekspertiisi määramise ja nimetab ekspertkomisjoni Rahandusministeeriumi poolt moodustatud ekspertkomisjonide hulgast.\n(3) Ekspertkomisjon määrab ehitiste, laevade ja tootmishoonete sisseseade võõrandamisaegse maksumuse valdkonna eest vastutava ministri kehtestatud korras, lähtudes analoogilise vara võõrandamisaegsest maksumusest.\n(4) Ekspertkomisjon koostab ekspertiisiakti, milles märgib vara võõrandamisaegse maksumuse, selle määramise aluseks olnud ja määramist põhjendavad andmed, vara iseloomustavad ja muud vajalikud andmed ning arvutused.\n(5) Ekspertkomisjoni koosseisus peab olema vähemalt üks isik, kellel on vastavalt ehitusseadustikule õigus ehitisi kontrollida."
+    },
+    {
+      "provision_ref": "para4^1",
+      "section": "4^1",
+      "title": "§ 4^1. Ehitiste, laevade ja tootmishoonete sisseseade võõrandamisaegse maksumuse määramine dokumentide puudumisel",
+      "content": "Kui ehitiste, laevade ja tootmishoonete sisseseade võõrandamisaegset maksumust ei ole võimalik määrata käesoleva seaduse §-s 4 sätestatud korras või kui õigustatud subjekt ei taotle ekspertiisi, määratakse vara võõrandamisaegne maksumus Vabariigi Valitsuse määratud summa ulatuses."
+    },
+    {
+      "provision_ref": "para5",
+      "section": "5",
+      "title": "§ 5. Vara võõrandamisaegse maksumuse määramine kohtu korras",
+      "content": "Kui vara võõrandamisaegset maksumust ei ole võimalik määrata käesoleva seaduse §-s 4 sätestatud korras ja õigustatud subjekt ei ole nõus §-s 4^1 sätestatud kindlasummalise kompensatsiooniga, on tal õigus pöörduda vara võõrandamisaegse maksumuse kindlaksmääramiseks kohtusse."
+    },
+    {
+      "provision_ref": "para6",
+      "section": "6",
+      "title": "§ 6. Põllumajandusinventari võõrandamisaegse maksumuse määramine dokumentide puudumisel",
+      "content": "(1) Põllumajandusinventari võõrandamisaegset maksumust tõendavate dokumentide puudumisel määratakse maksumus põllumajandusinventari koosseisu, lehma arvestusliku hinna ja valdkonna eest vastutava ministri määratud koefitsientide alusel. Lehma arvestuslikuks hinnaks on viiskümmend 1940. aastal kehtinud Eesti krooni (Ekr).\n(2) Kui põllumajandusinventari koosseisu ei ole võimalik tõendada, loetakse põllumajandusinventari võõrandamisaegne maksumus võrdseks ühe lehma arvestusliku hinnaga talumaa iga nelja hektari kohta."
+    },
+    {
+      "provision_ref": "para7",
+      "section": "7",
+      "title": "§ 7. Vara võõrandamisaegse maksumuse ümberarvutamine eurodesse",
+      "content": "(1) Vara võõrandamisaegne maksumus 1940. aastal kehtinud kroonides arvutatakse ümber eurodesse vahekorras 1 Ekr = 0,64 eurot. Välisvaluutas väljendatud vara võõrandamisaegne maksumus arvutatakse ümber 1940. aastal kehtinud kroonidesse valdkonna eest vastutava ministri poolt kehtestatud koefitsientide alusel.\n(2) Vara võõrandamisaegne maksumus NSV Liidu rahas (rublades) arvutatakse eurodesse koefitsientide alusel, mille määrab kindlaks valdkonna eest vastutav minister.\n(3) Ümberarvutatud maksumus väljendatakse ühe euro täpsusega."
+    },
+    {
+      "provision_ref": "para8",
+      "section": "8",
+      "title": "§ 8. Vara maksumuse määramist korraldavad organid",
+      "content": "(1) Vara maksumuse määramist korraldab ja vara kindlaksmääratud maksumuse kinnitab vara tagastamist ja kompenseerimist otsustav valla- või linnavalitsus.\n(2) Ida-Petserimaal ja Narva jõe tagusel Virumaal õigusvastaselt võõrandatud vara tagastamisnõude õiguse püsimise seaduses nimetatud vara maksumuse määramist korraldab ja vara kindlaksmääratud maksumuse kinnitab õigusvastaselt võõrandatud vara tagastamise ja kompenseerimise keskkomisjon.\n(3) Valdkonna eest vastutav minister kehtestab vara maksumuse määramise metoodika."
+    },
+    {
+      "provision_ref": "para10",
+      "section": "10",
+      "title": "§ 10. Tagastamisele mittekuuluva vara kompenseerimine",
+      "content": "(1) Vara, mis Aluste § 12 3. lõike alusel ei kuulu tagastamisele, kompenseeritakse käesoleva seaduse § 7 alusel ümberarvutatud võõrandamisaegse maksumuse ulatuses.\n(2) Tagastatava vara väärtuse vähenemist ega suurenemist ei kompenseerita."
+    },
+    {
+      "provision_ref": "para11",
+      "section": "11",
+      "title": "§ 11. Õigustatud subjektide poolt teistele õigustatud subjektidele vara kompenseerimine",
+      "content": "(1) Aluste § 12 lõikes 2 sätestatud juhul sõlmitakse õigustatud subjektide vahel notariaalselt kinnitatud kokkulepe, milles määratakse kindlaks igale kompensatsiooni taotlevale õigustatud subjektile makstava kompensatsiooni suurus, tasumise viis ja kord ning muud tingimused.\n(2) Kui õigustatud subjektid käesoleva paragrahvi 1. lõikes märgitud kokkulepet ei saavuta, määratakse vastavalt käesolevale seadusele kindlaks vara võõrandamisaegne maksumus. Vara tagasi saanud isikud peavad kompenseerima teistele õigustatud subjektidele nende osa viie aasta jooksul, arvates vara tagastamise otsuse tegemise päevast. Makstava kompensatsiooni suurus, tasumise viis ja tähtajad ning muud tingimused määratakse kindlaks vara tagastamise otsuses."
+    },
+    {
+      "provision_ref": "para12",
+      "section": "12",
+      "title": "§ 12. Vara maksumuse kompenseerimine õigusvastaselt represseeritud isikutele",
+      "content": "Õigusvastaselt represseeritud isikutele kompenseeritakse Aluste § 13 3. lõikes nimetatud vara 192 euro ulatuses vastavalt käesoleva seaduse §-le 14. Kompensatsiooni ei maksta isikutele, kellele õigusvastaselt võõrandatud vara on tagastatud või kompenseeritud Eesti NSV Ministrite Nõukogu 1989. aasta 20. veebruari määruse nr 81 «Massirepressioonide läbi kannatanutele vara tagastamise ja kahjude hüvitamise korra kohta» (ENSV Teataja 1989, 10, 118) alusel."
+    },
+    {
+      "provision_ref": "para13",
+      "section": "13",
+      "title": "§ 13. Aktsiate ja osatähtede kompenseerimine",
+      "content": "(1) Aktsia või osatäht kompenseeritakse nominaalväärtuse ulatuses vastavalt käesoleva seaduse §-dele 7 ja 14.\n(2) Aktsia või osatähe nominaalväärtus tõendatakse Aluste § 11 3. lõikes nimetatud seaduste alusel koostatud nimekirjadega. Kui nimekirjades puuduvad andmed nominaalväärtuse kohta, tõendatakse see käesoleva seaduse §-s 3 nimetatud dokumentidega.\n(3) Kui käesoleva paragrahvi 2. lõikes nimetatud dokumentides andmed nominaalväärtuse kohta puuduvad, kompenseeritakse aktsia või osatäht 6,40 euro ulatuses vastavalt käesoleva seaduse §-le 14."
+    },
+    {
+      "provision_ref": "para14",
+      "section": "14",
+      "title": "§ 14. Vara kompenseerimise viis",
+      "content": "(1) Vastavalt Aluste §-le 17 antakse igale õigustatud subjektile temal saada oleva kompensatsiooni ulatuses nimeline ja pärandatav väärtpaber (edaspidi hüvitusväärtpaber ), mille eest saab osta erastatavat riigi- ja munitsipaalvara, sealhulgas maad ja eluruume ning hüvitusfondi obligatsioone. Hüvitusfondi obligatsioonide omanikel on õigus saada fondi iga majandusaasta töötulemuste alusel intresse. Hüvitusväärtpabereid antakse välja 2005. aasta 31. detsembrini.\n(1^1) Kui õigustatud subjektile ei ole käesoleva paragrahvi lõikes 1 nimetatud tähtpäevaks hüvitusväärtpaberit välja antud, makstakse talle määratud kompensatsioon välja rahas riigieelarve vahenditest.\n(2)\n(3)\n(4) Valdkonna eest vastutav minister võib kehtestada määrusega kompensatsiooni väljamaksmise korraldamiseks juhendeid ja vorme."
+    },
+    {
+      "provision_ref": "para15",
+      "section": "15",
+      "title": "§ 15. Vara kompenseerimist korraldavad organid",
+      "content": "(1) Vara eest saadava kompensatsiooni suuruse kindlaksmääramist korraldab vara tagastamist ja kompenseerimist otsustav valla- või linnavalitsus, kes kinnitab kindlaksmääratud kompensatsiooni suuruse.\n(2) Ida-Petserimaal ja Narva jõe tagusel Virumaal õigusvastaselt võõrandatud vara tagastamisnõude õiguse püsimise seaduses nimetatud vara eest määrab kompensatsiooni õigusvastaselt võõrandatud vara tagastamise ja kompenseerimise keskkomisjon.\n(3) Järelevalvet vara maksumuse ja kompensatsiooni määramise üle teostab Vabariigi Valitsuse kehtestatud korras Rahandusministeerium, kellel on õigus rakendada Vabariigi Valitsuse seaduses sätestatud abinõusid. Järelevalvemenetluses on Rahandusministeeriumil õigus otsustada ekspertiisi määramine ja nimetada ekspertkomisjon vara võõrandamisaegse maksumuse kindlakstegemiseks. Sellisel juhul tehakse ekspertiis riigi kulul.\n(4)"
+    },
+    {
+      "provision_ref": "para16",
+      "section": "16",
+      "title": "§ 16.",
+      "content": "(1) Käesolev seadus jõustub Riigi Teatajas avaldamise päevast.\n(2) Õigusvastaselt võõrandatud vara eest kompensatsiooni määramine toimub Vabariigi Valitsuse kehtestatud korras.\n(3) Enne 2005. aasta 1. jaanuari käesoleva seaduse § 4 lõike 5 kohaselt atesteeritud isikule väljastatud atesteerimistunnistus loetakse kehtivaks kuni isik on omandanud ehitiste ekspertiisi tegemise õiguse ehitusseaduses sätestatud korras, kuid mitte kauemaks kui 2005. aasta 31. detsembrini."
+    }
+  ],
+  "definitions": []
+}

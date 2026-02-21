@@ -1,0 +1,409 @@
+{
+  "id": "ee-law-12814137",
+  "type": "statute",
+  "title": "Andmekogude seadus",
+  "title_en": "Andmekogude seadus",
+  "short_name": "ee-law-12814137",
+  "status": "in_force",
+  "issued_date": "1997-03-12",
+  "in_force_date": "2008-01-01",
+  "url": "https://www.riigiteataja.ee/akt/12814137.xml",
+  "description": "Official consolidated statute text (Andmekogude seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab riigi ja kohaliku omavalitsuse andmekogu valdamise, kasutamise ja käsutamise korra ning riigi, kohaliku omavalitsuse ja eraõigusliku isiku andmekogu pidamise, andmete väljastamise ja andmete kasutamise üldalused.\n(2) Seadusega võib ette näha registreid, mis ei ole andmekogud käesoleva seaduse tähenduses ja millele kohaldatakse käesolevat seadust nendes seadustes sätestatud ulatuses.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse (RT I 2001, 58, 354) sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Mõisted",
+      "content": "(1) Andmekogu käesoleva seaduse mõistes on riigi, kohaliku omavalitsuse, avalik-õigusliku või eraõigusliku isiku peetav korrastatud andmete kogum, mille pidamisel kasutatakse automatiseeritud andmetöötlust või mida peetakse käsitsi ja korrastatud vormidel, mis võimaldavad andmetega lihtsat tutvumist või nende mehhaanilist töötlemist. Käesolev seadus ei käsitle andmekogusid, mida peetakse:\n1) raamatupidamise seaduse (RT I 2002, 102, 600) alusel;\n2) teaduslikul, pedagoogilisel ja kodu-uurimislikul eesmärgil, kui neid andmekogusid kasutatakse ainult sellel otstarbel;\n3) organisatsiooni õigusaktidest tulenevate või põhikirjaliste ülesannete täitmisel, kui neist andmekogudest ei väljastata andmeid muudeks vajadusteks;\n4) Statistikaametis riiklike statistiliste vaatluste korraldamise eesmärgil.\n(2) Andmeteks käesoleva seaduse mõttes loetakse igasuguseid üksteisest eraldatavaid informatsiooniühikuid.\n(3) Andmete töötlemine käesoleva seaduse tähenduses on andmete kogumine, salvestamine, korrastamine, säilitamine, muutmine, nende kohta päringute teostamine, nendest väljavõtete tegemine, andmete kasutamine, üleandmine, ühendamine, sulgemine, kustutamine või hävitamine või mitu eeltoodud toimingut, sõltumata toimingute teostamise viisist või kasutatavatest vahenditest.\n(4) Automatiseeritud andmetöötlus on andmete töötlemine arvuti või arvutisüsteemi ja andmete töötlemiseks ettenähtud tarkvara abil.\n(5) Andmekogu pidamine on andmete töötlemine, andmete töötlemise arvestuse pidamine, andmete kaitsmine ja nimetatud tegevuste korraldamine.\n(6) Andmekogu laiendamine on andmekogusse kogutavate andmete loetelu täiendamine.\n(7) Andmete ristkasutus on andmete ülekandmine ühest andmekogust teise või mitmes andmekogus sisalduvate andmete ühine infotehnoloogiline töötlemine."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Andmete töötlemise alused",
+      "content": "(1) Eraõiguslikul isikul on õigus koguda tema peetavasse andmekogusse kõiki avalikult kättesaadavaid või isiku poolt vabatahtlikult andmekogusse kandmiseks esitatavaid andmeid. Eraõiguslik isik võib nõuda oma klientidelt ainult neid andmeid, mis on otseselt vajalikud kliendi poolt soovitava toimingu sooritamiseks.\n(2) Avalik-õiguslikul isikul on õigus tema peetavasse andmekogusse koguda ainult tema asutamise seaduses nimetatud ülesannete täitmiseks vajalikke andmeid.\n(3) Riik ja kohalik omavalitsus võivad töödelda nende peetavates andmekogudes oma seadusekohaste ülesannete täitmiseks vajalikke andmeid, mille töötlemine on ette nähtud seadustes või seaduse alusel vastuvõetud õigusaktides.\n(4) Andmete kogumisel andmekogusse peab andmekogu omanik arvestama käesolevas seaduses, isikuandmete kaitse seaduses (RT I 1996, 48, 944), riigisaladuse ja salastatud välisteabe seaduses, muudes seadustes ja nende alusel vastuvõetud õigusaktides sätestatud piiranguid ja seaduses ettenähtud juhul saama andmete kogumiseks loa andmekaitse järelevalveasutuselt."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Andmekogu omanik",
+      "content": "Andmekogu omanikuks võib olla eraõiguslik isik, avalik-õiguslik isik, riik või kohalik omavalitsus."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Andmekogu asutamine",
+      "content": "(1) Eraõiguslik isik ja avalik-õiguslik isik peavad seaduses sätestatud juhtudel andmekogu asutamiseks taotlema loa andmekaitse järelevalveasutuselt.\n(2) Riik ja kohalik omavalitsusüksus asutavad andmekogu käesolevas seaduses ettenähtud korras."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Vastutav ja volitatud töötleja",
+      "content": "(1) Andmekogu vastutavaks töötlejaks on andmekogu omanik. Riigi või kohaliku omavalitsuse andmekogu vastutava töötleja õiguste teostaja määratakse seaduses või seaduse alusel vastuvõetud õigusaktis sätestatud korras.\n(2) Volitatud töötleja on isik, kes peab andmekogu või töötleb andmeid andmekogu vastutava töötleja tellimusel."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "7",
+      "title": "§ 7. Vastutava ja volitatud töötleja kohustused andmekogu pidamisel",
+      "content": "(1) Vastutav töötleja on kohustatud tagama andmekogu pidamise ja selles sisalduvate andmete töötlemise täies vastavuses seaduse ja seaduse alusel vastuvõetud õigusaktidega.\n(2) Volitatud töötleja on kohustatud täitma kõiki temale andmekogu vastutava töötleja poolt antud ülesandeid andmekogu pidamisel ja andmete töötlemisel täies vastavuses seaduse ja seaduse alusel vastuvõetud õigusaktidega ning neid järgides sõlmitud lepingutega. Volitatud töötleja võib teostada andmekogus säilitatavate andmete töötlust ainult juhul, kui ta on saanud selleks otsese käsu andmekogu vastutavalt töötlejalt või ta täidab seaduse, muu õigusakti või andmekogu vastutava töötlejaga sõlmitud lepinguga talle pandud ülesandeid.\n(3) Volitatud töötleja peab hoolitsema selle eest, et andmekogu oleks halduslike, füüsiliste ning tark- ja riistvaraliste meetmetega asjakohaselt kaitstud loata töötluse, sealhulgas kasutamise, hävitamise ning muutmise eest.\n(4) Volitatud töötleja peab tagama andmekogu kaitsmise abinõud selliselt, et oleks välditud:\n1) kõrvaliste isikute juurdepääs andmete töötlemiseks kasutatavatele seadmetele;\n2) andmekandjate omavoliline lugemine, kopeerimine või kustutamine;\n3) andmete omavoliline salvestamine ja nende muutmine või kustutamine;\n4) andmetöötlussüsteemi omavoliline kasutamine andmete ülekandmiseks andmesidevahendite abil;\n5) andmesaajate juurdepääs neile mittelubatud (väljaandmiseks ja kasutamiseks mitteettenähtud) andmetele;\n6) andmete töötlemine mittesihipäraselt (mitte tööülesande kohaselt);\n7) andmete edastamisel andmesidevahenditega ja andmekandjate transportimisel andmete omavoliline lugemine, kopeerimine, muutmine ning kustutamine.\n(5) Andmekogu volitatud töötleja on kohustatud koostama ja pidama andmete töötlemisel kasutatavate vahendite loetelu ja dokumentatsiooni ning andmete töötlemise arvestust.\n(6) Andmete töötlemises ja väljastamises osalevad isikud on kohustatud hoidma saladuses neile tööülesannete täitmisel teatavaks saanud andmeid, mida pole antud avalikuks kasutamiseks. See kohustus jätkub pärast töösuhte lõppemist."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "8",
+      "title": "§ 8. Vastutava ja volitatud töötleja vastutus andmekogu pidamisel",
+      "content": "(1) Andmekogu vastutav töötleja vastutab kõigi andmekogu pidamisel toimunud õiguserikkumiste eest, välja arvatud juhul, kui tema poolt seaduse või muu õigusakti täpseks täitmiseks antud korraldused on jäetud täitmata või on täidetud pahatahtlikult või on volitatud töötleja rikkunud vastutava töötlejaga sõlmitud lepingut ja vastutav töötleja on alustanud ise menetlust või pöördunud vastavasisulise avaldusega pädeva organi poole õiguserikkuja vastutusele võtmiseks seaduses ettenähtud korras.\n(2) Volitatud töötleja vastutab ainult nende rikkumiste eest, mis on seotud tema lepinguliste ülesannete täitmisega, või ta enda lepinguvälise seadusvastase tegevuse eest."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "9",
+      "title": "§ 9. Andmekogu asutamise ja kasutuselevõtmise dokumentidega tutvumine",
+      "content": "Andmekogu vastutava töötleja ja andmekogu volitatud töötleja juures peab olema võimalik tutvuda andmekogu asutamise ja muude andmekogu kohta käivate dokumentidega."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "10",
+      "title": "§ 10. Andmekogus olevate andmetega tutvumine ja neist ärakirjade saamine",
+      "content": "(1) Eraõiguslikule isikule kuuluvas andmekogus olevate andmetega tutvumiseks loa andmise või sellest keeldumise ja andmetest ärakirjade väljastamise otsustab andmekogu omanik, kui seaduses ei ole sätestatud teisiti.\n(2) Riigi ja kohaliku omavalitsuse andmekogudes peetavad andmed on avalikud ning igal Eesti kodanikul on õigus nendega seaduses sätestatud korras tutvuda ja neist ärakirju saada, välja arvatud juhul, kui seadusega on andmetega tutvumine või andmete väljastamine keelatud või need on ette nähtud ainult ametialaseks kasutamiseks. Kui seadus ei sätesta teisiti, siis on käesolevas lõikes nimetatud õigus võrdselt Eesti kodanikuga ka Eestis viibival välisriigi kodanikul ja kodakondsuseta isikul.\n(3) Seaduses sätestatud juhtudel on riigi või kohaliku omavalitsuse andmekogus olevate andmetega tutvumine, andmete väljastamine ja neist ärakirjade saamine tasuline."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "11",
+      "title": "§ 11. Isiku õigus tutvuda tema kohta kogutud andmetega",
+      "content": "Igal isikul on õigus tutvuda tema kohta andmekogusse kogutud andmetega, kui seda õigust ei ole piiratud seadusega."
+    },
+    {
+      "provision_ref": "para11^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "11^1",
+      "title": "§ 11^1. Piirangud julgeolekuasutust puudutavate andmete kajastamisel riigi andmekogudes",
+      "content": "(1) Julgeolekuasutust puudutavaid riigisaladuseks või salastatud välisteabeks tunnistatud või ametialaseks kasutamiseks ettenähtud andmeid kajastatakse üksnes julgeolekuasutuste andmekogudes.\n(2) Julgeolekuasutust puudutavate muude andmete kajastamisel riigi andmekogudes võib vajaduse korral kasutada variandmeid.\n(3) Variandmete kasutamine toimub julgeolekuasutuse juhi salajase käskkirja alusel, milles näidatakse ära julgeolekuasutust puudutavad tegelikud andmed ja nende kajastamisel riigi andmekogudes kasutatavad variandmed."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "12",
+      "title": "§ 12. Andmete ristkasutus",
+      "content": "(1) Riigi või kohaliku omavalitsuse eri andmekogudes säilitatavate andmete ristkasutus on lubatud ainult seaduses või seaduse alusel vastuvõetud õigusaktis sätestatud juhtudel ja ainult riigile või kohalikule omavalitsusüksusele seadusega pandud ülesannete täitmiseks.\n(2)"
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "13",
+      "title": "§ 13. Andmekogude laiendamine ja ühendamine",
+      "content": "(1) Riigi ja kohaliku omavalitsuse andmekogude laiendamine või nende ühendamine on lubatud ainult seaduses sätestatud alustel ja korras, kusjuures see peab toimuma riigile ja kohalikule omavalitsusele seadusega pandud ülesandeid arvestades.\n(2) Delikaatseid isikuandmeid sisaldava andmekogu laiendamiseks või ühendamiseks teise andmekoguga on vaja andmekaitse järelevalveasutuse luba."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "14",
+      "title": "§ 14. Andmekogu pidamine volitatud töötleja poolt halduslepingu alusel",
+      "content": "(1) Kui riigi või kohaliku omavalitsuse andmekogu volitatud töötlejaks on andmekogu asutamise õigusaktis määratud eraõiguslik isik, peetakse andmekogu halduslepingu alusel.\n(2) Riigi põhiregistri ja riikliku registri pidamise haldusleping sõlmitakse kuni neljaks aastaks.\n(3) Riigiasutuse andmekogu ja kohaliku omavalitsuse registri või muu andmekogu pidamise haldusleping sõlmitakse kuni kolmeks aastaks."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "15",
+      "title": "§ 15. Andmekogu andmete töötlemise vahendite dokumenteerimine",
+      "content": "Andmete töötlemisel kasutatavate vahendite loetelu peab sisaldama järgmisi andmeid:\n1) seadme nimetus, tüüp, number ning selle seadme valmistanud ettevõtte nimi;\n2) kasutatava tarkvara nimetus, litsentsi number ning selle valmistanud ettevõtte nimi;\n3) kasutatava tarkvara dokumentide asukoht."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "16",
+      "title": "§ 16. Andmekogude riiklik register",
+      "content": "(1) Vabariigi Valitsus asutab riigi ja kohalike omavalitsuste andmekogude riikliku registri nimetusega «Andmekogude riiklik register.\n(2) Andmekogude riiklikus registris on andmed järgmiste riigi ja kohalike omavalitsuste andmekogude kohta:\n1) riigi põhiregistrid ja nendega andmete vahetamises osalevad andmekogud;\n2) riiklikud registrid;\n3) Vabariigi Valitsuse kehtestatud tunnustega riigiasutuste muud andmekogud ja kohalike omavalitsuste andmekogud.\n(3) Andmekogude riikliku registri vastutavaks töötlejaks määratud valitsusasutus annab Vabariigi Valitsuse ja valitsusasutuste poolt asutatavate andmekogude asutamise dokumentide projektide kohta arvamuse.\n(4) Andmekogude riikliku registri vastutaval töötlejal on õigus teha Vabariigi Valitsusele ja andmekogude vastutavatele töötlejatele ning riigi infosüsteemide alaseid töid koordineerivale asutusele sarnaste ja teineteist sisuliselt kordavate andmekogude pidamise vältimiseks ettepanekuid andmekogu laiendamiseks, ühendamiseks või likvideerimiseks, andmete ristkasutuseks, andmetöötluse või andmehõive korrastamiseks."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "17",
+      "title": "§ 17. Järelevalve teostamine andmekogude üle",
+      "content": "(1) Järelevalvet andmekogude pidamise seaduslikkuse üle teostab andmekaitse järelevalveasutus. Andmekaitse järelevalveasutuse ülesanded, õigused ja kohustused on sätestatud isikuandmete kaitse seaduses, käesolevas seaduses ning muudes seadustes.\n(2)"
+    },
+    {
+      "provision_ref": "para18",
+      "section": "18",
+      "title": "§ 18. Riigi andmekogu mõiste ja liigid",
+      "content": "(1) Riigi andmekogu on käesolevas seaduses sätestatud korras asutatud ja riigi omandis olev andmekogu.\n(2) Riigi andmekogude liigid on:\n1) riigi põhiregister;\n2) riiklik register;\n3) riigiasutuste peetavad muud andmekogud."
+    },
+    {
+      "provision_ref": "para19",
+      "section": "19",
+      "title": "§ 19. Kohaliku omavalitsuse andmekogu mõiste ja liigid",
+      "content": "(1) Kohaliku omavalitsuse andmekogu on käesolevas seaduses sätestatud korras asutatud ja kohaliku omavalitsuse omandis olev andmekogu.\n(2) Kohaliku omavalitsuse andmekogud jagunevad järgmiselt:\n1) kohaliku omavalitsuse registrid;\n2) kohaliku omavalitsuse muud andmekogud.\n(3) Mitu kohalikku omavalitsust võivad pidada oma ülesannete täitmiseks vajalikku ühist andmekogu."
+    },
+    {
+      "provision_ref": "para20",
+      "section": "20",
+      "title": "§ 20. Riigi ja kohaliku omavalitsuse andmekogude pidamise viisid ja ülesehituse printsiibid",
+      "content": "(1) Riigi ja kohaliku omavalitsuse andmekogusid peetakse infotehnoloogiliste andmebaasidena. Andmekogu pidamisel tuleb andmed klassifitseerida ja kodeerida vastavalt riiklikele klassifikaatoritele ja standarditele.\n(2) Tulenevalt andmekogu eesmärgist ja selle pidamise otstarbekusest võib riigi ja kohaliku omavalitsuse andmekogusid pidada ka:\n1) kartoteekide või kanderaamatutena;\n2) andmekogu toimikute või objekti toimikutena;\n3) heli-, pildi- või esemekoguna;\n4) muul andmekogu asutavas õigusaktis määratud viisil.\n(3) Andmekogu ülesehitus määratakse teda asutava õigusaktiga, lähtudes andmekogu koostamise eesmärgist ja kasutamise lihtsusest.\n(4) Riigiasutustel on keelatud pidada sarnaseid ja teineteist sisuliselt kordavaid andmekogusid."
+    },
+    {
+      "provision_ref": "para21",
+      "section": "21",
+      "title": "§ 21. Riigi ja kohaliku omavalitsuse andmekogu vastutav töötleja ja volitatud töötleja",
+      "content": "(1) Riigi või kohaliku omavalitsuse andmekogu vastutav töötleja on andmekogu omaniku esindaja, kes vastutab andmekogu pidamise seaduslikkuse eest, korraldab andmekogu ja tema osade projekteerimiseks ja kasutuselevõtmiseks vajalike tööde läbiviimise ja vastuvõtmise, juhib andmekogu pidamist, teostab andmekogu pidamise üle järelevalvet ning lahendab seaduses sätestatud ulatuses ja korras vaidlusi andmekogu pidamisel tekkinud küsimustes.\n(2) Riigi või kohaliku omavalitsuse andmekogu volitatud töötleja on käesoleva seaduse või muu õigusakti alusel määratud või andmekogu vastutava töötlejaga sõlmitud lepingu alusel tegutsev riigi- või kohaliku omavalitsuse asutus või isik, kes teostab õigusaktis või lepingus ja õigusaktis ettenähtud ulatuses andmete töötlemist.\n(3) Andmekogu vastutav töötleja annab andmekogu volitatud töötlejale ülesandeid ja juhendeid andmekogu pidamise ja töötlemisega seotud asjades ning teostab kontrolli volitatud töötleja tegevuse üle andmekogu pidamisel."
+    },
+    {
+      "provision_ref": "para21^1",
+      "section": "21^1",
+      "title": "§ 21^1. Juurdepääs riigi ja kohaliku omavalitsuse andmekogus peetavatele andmetele",
+      "content": "(1) Igaühel on õigus saada riigi ja kohaliku omavalitsuse andmekogust andmeid, millele juurdepääs ei ole seadusega piiratud. (2) Riigi ja kohaliku omavalitsuse andmekogu volitatud töötleja on kohustatud isiku nõudel andmed väljastama sellekohase taotluse saamisest alates viie tööpäeva jooksul, kui seadusega ei ole sätestatud teist tähtaega. (3) Riigi ja kohaliku omavalitsuse andmekogust või andmekogu kohta ei väljastata andmeid, mis käsitlevad andmekaitset ja andmete tehnilist töötlemist. Sellistele andmetele on juurdepääsuõigus üksnes andmete töötlejal ja andmekogu pidamise järele valvaval isikul või uurimisorganil. (4) Riigi ja kohaliku omavalitsuse andmekogus töödeldavatele andmetele tagatakse juurdepääs avaliku teabe seaduses sätestatud korras, viisil, tingimustel ja tähtaegadel, kui seadusega ei ole sätestatud teistsugust korda, viisi, muid tingimusi või tähtaegu. Juurdepääs isikuandmetele võimaldatakse kooskõlas isikuandmete kaitse seaduse ja avaliku teabe seadusega. (5) Avalikkusele olulist teavet sisaldavale andmekogule peab olema võimalik juurde pääseda üldkasutatava andmesidevõrgu kaudu. Andmekogud või nende osad, mis tuleb sel viisil avalikustada, sätestatakse andmekogude asutamise aluseks olevas seaduses või muus õigusaktis."
+    },
+    {
+      "provision_ref": "para22",
+      "section": "22",
+      "title": "§ 22. Riigi ja kohaliku omavalitsuse andmekoguga seotud kulude katmine",
+      "content": "(1) Riigi ja kohaliku omavalitsuse andmekogu pidamiseks vajalikud kulud sisaldavad andmekogu asutamise, kasutuselevõtmise, pidamise ja arendamisega, andmete kogumise, registreerimise, töötlemise ja väljastamisega seotud kulusid.\n(2) Riigi andmekogude pidamiseks vajalikud kulud kaetakse riigieelarvest ja andmekogude pidamisel osutatavate teenuste eest võetavate tasude arvel, kui tasuliste teenuste osutamine on sätestatud seadusega.\n(3)\n(3^1) Kui andmekogu pidamisel on seadusega sätestatud tasuliste teenuste osutamine, esitatakse andmekogu pidamise eelarve koostamisel andmed vastavate tasude suuruse ja laekumise kohta eelmisel eelarveaastal.\n(4) Kohaliku omavalitsuse andmekogudega seotud kulud kaetakse kohalikust eelarvest."
+    },
+    {
+      "provision_ref": "para23",
+      "section": "23",
+      "title": "§ 23. Riigi ja kohaliku omavalitsuse andmekogude laiendamine ja ühendamine",
+      "content": "Riigi ja kohaliku omavalitsuse andmekogude laiendamine või ühendamine võib toimuda ainult seaduses ettenähtud juhtudel ja andmekaitse järelevalveasutuse loal, kui:\n1) laiendamine või ühendamine on vajalik riigiasutusele või kohalikule omavalitsusele pandud ülesannete otstarbekamaks täitmiseks ja laiendatud või ühendatud andmekogus sisalduvad andmed ei riku isikuandmete kaitse seaduse ja muude seadustega sätestatud piiranguid või\n2) riigiasutusele või kohalikule omavalitsusele on seadusega pandud uusi ülesandeid, mille nõuetekohane täitmine toob kaasa vajaduse olemasolevat andmekogu laiendada või ühendada see mõne teise olemasoleva andmekoguga."
+    },
+    {
+      "provision_ref": "para24",
+      "section": "24",
+      "title": "§ 24. Riigi ja kohaliku omavalitsuse andmekogu likvideerimine",
+      "content": "(1) Riigi ja kohaliku omavalitsuse andmekogu likvideerimise otsustab seaduses sätestatud korras andmekogu asutaja.\n(2)"
+    },
+    {
+      "provision_ref": "para25",
+      "section": "25",
+      "title": "§ 25. Riigi põhiregistri mõiste",
+      "content": "(1) Riigi põhiregister on seadusega asutatud avalikuks kasutamiseks määratud andmekogu, mida peetakse üldistes huvides riigi kõige olulisemate ülesannete täitmiseks.\n(2) Riigi põhiregistreid peetakse:\n1) riigi rahvastiku (elanikud),\n2) riigis registreeritud juriidiliste isikute,\n3) kinnisvara,\n4)\n5) riigivara,\n6) muude seadusega määratud oluliste objektide kohta."
+    },
+    {
+      "provision_ref": "para26",
+      "section": "26",
+      "title": "§ 26. Riigi põhiregistri asutamine",
+      "content": "(1) Riigi põhiregister asutatakse tema kohta käiva seadusega või antakse mõne muu seadusega loodud registrile riigi põhiregistri staatus.\n(2) Riigi põhiregistrit käsitlevas seaduses sätestatakse:\n1) registri asutamise ja kasutuselevõtmise eesmärk;\n2) registri ametlik nimi ning selle kuuluvus põhiregistrite hulka;\n3) registri vastutav töötleja – ministeerium (minister) või Riigikantselei;\n4) registri volitatud töötlejate määramise kord;\n5) registri ülesehitus ja registri pidamise organisatsiooniline struktuur, volitatud töötlejate õigused ja kohustused;\n6) registri objekt, registriandmete koosseis, registri objekti kohta registrisse kantavad andmed, registrisse kantud andmete õiguslik tähendus, andmete registris säilitamise tähtaeg ja juhud, mil on lubatud registrisse kantud andmete ristkasutus;\n7) andmete registrisse vastuvõtmise ja registrist väljastamise üle arvestuse pidamise kord;\n8) andmete esitaja ja tema poolt andmete registrisse üleandmise kord ja tähtajad ning andmete õigeaegse esitamata jätmise või teadlikult valeandmete esitamise korral tema suhtes kohaldatavad sanktsioonid;\n9) registrile esitatud andmete registreerimise aluseks olevate alusdokumentide loetelu, juhul kui see ei ole sätestatud muus seaduses;\n10) registriandmetele juurdepääsu õigus ja kord;\n11) andmete, millele on tulenevalt isikuandmete kaitse seadusest, riigisaladuse ja salastatud välisteabe seadusest ja muudest seadustest kehtestatud juurdepääsupiirangud, loetelu ning vastavate juurdepääsupiirangute kehtestamise ja juurdepääsupiirangutega andmetele juurdepääsu võimaldamise kord;\n12) ebaõigete andmete parandamise ja sellest informeerimise kord;\n13) andmetele juurdepääsu sulgemise tingimused ja kord;\n14) registrist andmete saamise eest tasumise kord ning andmeid tasuta saavate isikute ja asutuste loetelu;\n15) registri pidamise finantseerimise kord;\n16) registri laiendamise, teise registriga ühendamise ja likvideerimise alused ja kord.\n(3) Seaduses võib sätestada ka teisi riigi põhiregistri kohta käivaid tingimusi."
+    },
+    {
+      "provision_ref": "para27",
+      "section": "27",
+      "title": "§ 27. Riigi põhiregistri vastutav töötleja",
+      "content": "(1) Riigi põhiregistri vastutavaks töötlejaks määratakse üks ministeeriumidest (ministritest) või Riigikantselei.\n(2) Registri pidamise täpsemaks korraldamiseks on Vabariigi Valitsusel ja vastutaval töötlejal õigus anda (seaduses sätestatud juhtudel ja ulatuses) välja õigusakte."
+    },
+    {
+      "provision_ref": "para28",
+      "section": "28",
+      "title": "§ 28. Riigi põhiregistri volitatud töötleja",
+      "content": "(1) Riigi põhiregistri volitatud töötlejaks võib olla:\n1) riigiasutus;\n2) avatud hankemenetluse teel korraldatud riigihanke eduka pakkumise esitanud isik.\n(2) Riigiasutuse määrab riigi põhiregistri volitatud töötlejaks vastutava töötleja ettepanekul Vabariigi Valitsus, kui seadusega ei ole ette nähtud teisiti."
+    },
+    {
+      "provision_ref": "para29",
+      "section": "29",
+      "title": "§ 29. Põhiregistri laiendamine ja ühendamine",
+      "content": "Riigi põhiregistri laiendamine või sellega muu andmekogu ühendamine toimub põhiregistri kohta käiva seaduse vastavasisulise muutmise teel."
+    },
+    {
+      "provision_ref": "para30",
+      "section": "30",
+      "title": "§ 30. Põhiregistri likvideerimine",
+      "content": "Riigi põhiregistri võib likvideerida ainult seaduses sätestatud juhtudel eraldi seaduse alusel."
+    },
+    {
+      "provision_ref": "para31",
+      "section": "31",
+      "title": "§ 31. Riikliku registri mõiste",
+      "content": "Riiklik register käesoleva seaduse mõistes on Vabariigi Valitsuse poolt seaduse või välislepingu alusel asutatud ühe või mitme ministeeriumi või Riigikantselei seadusekohaste ülesannete täitmiseks vajalik andmekogu."
+    },
+    {
+      "provision_ref": "para32",
+      "section": "32",
+      "title": "§ 32. Riikliku registri asutamine",
+      "content": "(1) Riikliku registri asutab Vabariigi Valitsus määrusega.\n(2) Riikliku registri asutamise ettepaneku Vabariigi Valitsusele teeb minister, kelle valitsemisala ülesannete täitmiseks on register vajalik.\n(3) Minister esitab riikliku registri asutamise ettepaneku Vabariigi Valitsuse määruse eelnõuna koos seletuskirja ja riikliku registri põhimääruse eelnõuga.\n(4) Juhul kui asutatav riiklik register hõlmab mitme ministeeriumi valitsemisala, esitab minister ettepaneku riikliku registri asutamiseks kooskõlastatult vastavate ministritega.\n(5) Riikliku registri asutamise kohta annab arvamuse riigi infosüsteemide alaseid töid koordineeriv asutus, andmekaitse järelevalveasutus, Statistikaamet ja andmekogude riikliku registri vastutav töötleja."
+    },
+    {
+      "provision_ref": "para33",
+      "section": "33",
+      "title": "§ 33. Riikliku registri asutamise ettepanekule lisatav seletuskiri",
+      "content": "Riikliku registri asutamise ettepanekule lisatavas seletuskirjas peab sisalduma:\n1) registri asutamise ja kasutuselevõtmise eesmärk;\n2) registriobjekt ja selle andmete koosseis;\n3) andmeandjate loetelu - füüsilised ja juriidilised isikud, kohaliku omavalitsuse organid ja asutused ning riigiasutused, kellel on registrisse andmete andmise kohustus;\n4) andmesaajate loetelu - füüsilised ja juriidilised isikud, kohaliku omavalitsuse organid ja asutused ning riigiasutused, kellel on registrist andmete saamise õigus;\n5) registri projekteerimiseks ja kasutuselevõtmiseks vajalike tööde eelarve;\n6) registri pidamise kulude arvestus;\n7) ettepanek registri vastutava töötleja ja volitatud töötleja kohta."
+    },
+    {
+      "provision_ref": "para34",
+      "section": "34",
+      "title": "§ 34. Riikliku registri asutamise määrus",
+      "content": "(1) Riikliku registri asutamise määruses peab sisalduma:\n1) registri nimi;\n2) registri asutamise aluseks olev õigusakt;\n3) registri projekteerimiseks ja kasutuselevõtmiseks vajalike tööde tegemise tähtajad, nende tööde finantseerimise maht ja allikad;\n4) registri vastutav töötleja - ministeerium või muu valitsusasutus, kelle juhtimisel registrit peetakse ja kes samaaegselt võib olla volitatud töötleja;\n5) registri volitatud töötleja(te) nimi (nimed) või nimetus(ed).\n(2) Riikliku registri asutamise määrusega kinnitatakse riikliku registri pidamise põhimäärus."
+    },
+    {
+      "provision_ref": "para35",
+      "section": "35",
+      "title": "§ 35. Riikliku registri pidamise põhimäärus",
+      "content": "Riikliku registri pidamise põhimääruses sätestatakse:\n1) registri asutamise ja kasutuselevõtmise eesmärk;\n2) registri ametlik nimi;\n3) registri ülesehitus ja registri pidamise organisatsiooniline struktuur, andmete töötlemise kord eri tasanditel, andmete vahetamine ja võrdlemine eri tasandite vahel;\n4) registrisse kantavad andmed ja nende õiguslik režiim;\n5) registriandmete esitaja;\n6) registrisse andmete esitaja poolt kogutud andmete registreerimise aluseks olevate alusdokumentide loetelu, kui see ei ole sätestatud muus seaduses;\n7) andmete registrisse üleandmise kord ja tähtajad;\n8) registrist andmete väljastamise kord ja viis ning registrist andmete saamiseks õigustatud isikute ring;\n9) isikud, kellel on õigus saada andmeid tasuta ning registrist andmete saamise eest tasumise kord;\n10) andmete registrist väljastamise kord;\n11) vastavalt seadusele piiratult kättesaadavate andmete ja salastatavate andmete loetelu ning nendega tutvumise kord;\n12) andmetele juurdepääsu sulgemise tingimused ja kord;\n13) ebaõigete andmete parandamise ja sellest informeerimise kord;\n14) andmete registrisse vastuvõtmise ja registrist väljastamise üle arvestuse pidamise kord;\n15) registri pidamise üle järelevalvet teostama õigustatud isikud ja järelevalve teostamise kord;\n16) registri pidamise finantseerimise kord;\n17) registri likvideerimise kord."
+    },
+    {
+      "provision_ref": "para36",
+      "section": "36",
+      "title": "§ 36. Riikliku registri laiendamine",
+      "content": "Riikliku registri laiendamine toimub seaduses sätestatud aluste olemasolul riikliku registri pidamise põhimääruses vastavasisuliste muudatuste tegemise järel."
+    },
+    {
+      "provision_ref": "para37",
+      "section": "37",
+      "title": "§ 37. Riikliku registri likvideerimine",
+      "content": "(1) Riikliku registri likvideerimise otsustab Vabariigi Valitsus.\n(2) Registri likvideerimisel otsustab Vabariigi Valitsus andmete üleandmise teise registrisse, riiklikku arhiivi või nende kuulumise hävitamisele ja üleandmise või hävitamise tähtaja.\n(3) Andmete üleandmine toimub volitatud töötleja poolt vastutava töötleja vastutusel ning riikliku andmekaitse järelevalveasutuse volitatud ametiisiku ja riiklike infosüsteemide alaseid töid koordineeriva asutuse volitatud ametiisiku juuresolekul. Andmete üleandmisel või hävitamisel koostatakse vastav akt."
+    },
+    {
+      "provision_ref": "para38",
+      "section": "38",
+      "title": "§ 38. Riigiasutuse andmekogu",
+      "content": "Riigiasutuse andmekogu käesoleva seaduse mõistes on riigiasutusele seaduse või muu õigusaktiga pandud ülesannete täitmiseks või riigiasutuse töö korraldamise tagamiseks vajalik andmekogu."
+    },
+    {
+      "provision_ref": "para39",
+      "section": "39",
+      "title": "§ 39. Riigiasutuse andmekogu asutamine",
+      "content": "(1) Riigiasutusele seaduse või muu õigusaktiga pandud ülesannete täitmiseks vajaliku andmekogu asutamise otsustab riigiasutuse juht.\n(2) Riigiasutuse andmekogu asutab riigiasutuse juht või tema poolt volitatud ametiisik."
+    },
+    {
+      "provision_ref": "para40",
+      "section": "40",
+      "title": "§ 40. Riigiasutuse andmekogu asutamise kord",
+      "content": "(1) Andmekogu asutamise õigusaktis määrab asutaja kindlaks:\n1) andmekogu asutamise ja kasutuselevõtmise eesmärgi;\n2) andmekogu nime;\n3) andmekogu ülesehituse;\n4) andmekogu vastutava ja volitatud töötleja;\n5) andmekogusse kantavad andmed;\n6) [kehtetu]\n7) vastavalt riigisaladuse ja salastatud välisteabe seadusele ja isikuandmete kaitse seadusele avalikuks kasutamiseks mitteettenähtud andmete loetelu;\n8) andmekogu pidamise üle järelevalve teostamise korra.\n(2) Andmekogu asutamisest informeeritakse kirjalikult andmekaitse järelevalveasutust.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud andmekogu asutamise õigusakti kohta annavad arvamuse andmekogude riikliku registri vastutav töötleja ja Statistikaamet."
+    },
+    {
+      "provision_ref": "para41",
+      "section": "41",
+      "title": "§ 41. Riigiasutuse andmekogu likvideerimine",
+      "content": "(1) Andmekogu likvideerimise otsustab andmekogu asutaja.\n(2) Andmekogu likvideerimisel otsustatakse andmete üleandmine teise andmekogusse, riiklikku või riigiasutuse arhiivi või nende kuulumine hävitamisele ja üleandmise või hävitamise tähtaeg.\n(3) Andmete üleandmine toimub andmekogu volitatud töötleja poolt andmekogu vastutava töötleja vastutusel ja riikliku andmekaitse järelevalveasutuse volitatud ametiisiku juuresolekul. Andmete üleandmisel või hävitamisel koostatakse vastav akt."
+    },
+    {
+      "provision_ref": "para42",
+      "section": "42",
+      "title": "§ 42. Kohaliku omavalitsuse register",
+      "content": "Kohaliku omavalitsuse register käesoleva seaduse mõistes on kohalikule omavalitsusele seaduse või muu õigusaktiga pandud ülesannete täitmiseks või kohaliku omavalitsuse töö korraldamise tagamiseks vajalik register."
+    },
+    {
+      "provision_ref": "para43",
+      "section": "43",
+      "title": "§ 43. Kohaliku omavalitsuse registri asutamine",
+      "content": "(1) Kohaliku omavalitsuse registri asutab kohaliku omavalitsuse volikogu käesoleva seaduse alusel ja kohaliku omavalitsuse kehtestatud korras.\n(2) Kohaliku omavalitsuse registri asutamise aluseks on seadus või kohaliku omavalitsuse volikogu otsus.\n(3) Mitme kohaliku omavalitsuse ülesannete täitmiseks ühiselt peetav register asutatakse vastavate volikogude otsusega ning informeeritakse sellest kirjalikult vastavaid maavanemaid ja andmekaitse järelevalveasutust.\n(4) Kohaliku omavalitsuse registri asutamise ettepanekule lisatavas seletuskirjas peab sisalduma:\n1) registri asutamise ja kasutuselevõtmise eesmärk;\n2) registrisse kogutavate andmete loetelu;\n3) andmete esitajate loetelu - kes ja milliseid andmeid on kohaliku omavalitsuse volikogu otsuse või muu õigusaktiga kohustatud registrisse andma;\n4) tasuta andmesaajate loetelu - kellel ja milliseid andmeid on õigus õigusaktide alusel saada;\n5) registri kasutuselevõtmiseks vajalike tööde eelarve;\n6) registri pidamise kulude arvestus;\n7) ettepanek registri volitatud töötlejate kohta.\n(5) Registri asutaja määrab:\n1) registri nime;\n2) registri vastutava töötleja - kohaliku omavalitsuse organi, kelle juhtimisel andmekogu peetakse ja kes samaaegselt võib olla andmekogu pidaja;\n3) registri volitatud töötleja(d);\n4) registri kasutuselevõtmiseks vajalike tööde tegemise tähtajad, nende tööde finantseerimise mahu ja allikad;\n5) registri pidamise põhimääruse esitamise tähtaja.\n(6) Andmekogu asutamise dokumentidele annab arvamuse andmekogude riikliku registri vastutav töötleja."
+    },
+    {
+      "provision_ref": "para44",
+      "section": "44",
+      "title": "§ 44. Kohaliku omavalitsuse registri pidamise põhimäärus",
+      "content": "(1) Kohaliku omavalitsuse registri pidamise põhimääruse kinnitab volikogu ja selles sätestatakse:\n1) registri asutamise ja kasutuselevõtmise eesmärk;\n2) registri ametlik nimi;\n3) registri ülesehitus ja registri pidamise organisatsiooniline struktuur, andmete töötlemise kord eri tasanditel, andmete vahetamine ja võrdlemine eri tasandite vahel;\n4) registrisse kantavad andmed ja nende õiguslik režiim;\n5) registriandmete esitaja;\n6) registrisse andmete esitaja kogutud andmete registreerimise aluseks olevate alusdokumentide loetelu, kui see ei ole sätestatud muus seaduses;\n7) andmete registrisse üleandmise kord ja tähtajad;\n8) [kehtetu]\n9) isikud, kellel on õigus saada andmeid tasuta ning registrist andmete saamise eest tasumise kord;\n10) andmete registrist väljastamise kord;\n11) vastavalt seadusele piiratult kättesaadavate andmete ja salastatavate andmete loetelu ning nendega tutvumise kord;\n12) andmetele juurdepääsu sulgemise tingimused ja kord;\n13) ebaõigete andmete parandamise ja sellest informeerimise kord;\n14) andmete registrisse vastuvõtmise ja registrist väljastamise üle arvestuse pidamise kord;\n15) registri pidamise üle järelevalvet teostama õigustatud isikud ja järelevalve teostamise kord;\n16) registri pidamise finantseerimise kord;\n17) registri likvideerimise kord."
+    },
+    {
+      "provision_ref": "para45",
+      "section": "45",
+      "title": "§ 45. Kohaliku omavalitsuse muu andmekogu",
+      "content": "Kohaliku omavalitsuse andmekogu käesoleva seaduse mõistes on kohalikule omavalitsusele seaduse või muu õigusaktiga pandud ülesannete täitmiseks või töö korraldamise tagamiseks vajalik andmekogu."
+    },
+    {
+      "provision_ref": "para46",
+      "section": "46",
+      "title": "§ 46. Kohaliku omavalitsuse andmekogu asutamine",
+      "content": "(1) Kohalikule omavalitsusele seaduse või muu õigusaktiga pandud ülesannete täitmiseks vajaliku andmekogu asutamise otsustab kohaliku omavalitsusasutuse juht.\n(2) Kohaliku omavalitsuse andmekogu asutab kohaliku omavalitsusasutuse juht või tema poolt volitatud ametiisik."
+    },
+    {
+      "provision_ref": "para47",
+      "section": "47",
+      "title": "§ 47. Kohaliku omavalitsuse andmekogu asutamise kord",
+      "content": "(1) Andmekogu asutamise õigusaktis määrab asutaja kindlaks:\n1) andmekogu asutamise ja kasutuselevõtmise eesmärgi;\n2) andmekogu nime;\n3) andmekogu ülesehituse;\n4) andmekogu vastutava ja volitatud töötleja;\n5) andmekogusse kantavad andmed;\n6) [kehtetu]\n7) vastavalt riigisaladuse ja salastatud välisteabe seadusele ja isikuandmete kaitse seadusele avalikuks kasutamiseks mitteettenähtud andmete loetelu;\n8) andmekogu pidamise üle järelevalve teostamise korra.\n(2) Andmekogu asutamisest informeeritakse kirjalikult andmekaitse järelevalveasutust."
+    },
+    {
+      "provision_ref": "para48",
+      "section": "48",
+      "title": "§ 48. Kohaliku omavalitsuse andmekogu likvideerimine",
+      "content": "(1) Andmekogu likvideerimise otsustab andmekogu asutaja.\n(2) Andmekogu likvideerimisel otsustatakse andmete üleandmine teise andmekogusse, riiklikku või kohaliku omavalitsuse arhiivi või nende kuulumine hävitamisele ja üleandmise või hävitamise tähtaeg.\n(3) Andmete üleandmine toimub andmekogu volitatud töötleja poolt andmekogu vastutava töötleja vastutusel ja isikuandmete korral riikliku andmekaitse järelevalveasutuse volitatud ametiisiku juuresolekul. Andmete üleandmisel või hävitamisel koostatakse vastav akt."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "3. peatükk - JÄRELEVALVE ANDMEKOGUDE PIDAMISE ÜLE",
+      "section": "49",
+      "title": "§ 49. Andmekaitse järelevalveasutus",
+      "content": "Andmekaitsealast järelevalvet teostab isikuandmete kaitse seaduse § 34 alusel määratud riigiasutus."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "3. peatükk - JÄRELEVALVE ANDMEKOGUDE PIDAMISE ÜLE",
+      "section": "50",
+      "title": "§ 50. Andmekaitse järelevalveasutuse õigused",
+      "content": "Andmekaitse järelevalveasutusel on lisaks isikuandmete kaitse seaduses sätestatud õigustele õigus igal ajal kontrollida riigi ja kohalike omavalitsuste andmekogude pidamise vastavust seadustele ja muudele õigusaktidele, anda seaduses sätestatud juhtudel lubasid andmete töötlemiseks ja ristkasutuseks, andmekogude ühendamiseks, laiendamiseks ja likvideerimiseks, lahendada andmete töötlemisel tekkivaid vaidlusi ning määrata seaduses sätestatud korras karistusi andmete ebaseadusliku töötlemise ja andmekogude pidamise korra rikkumise puhul."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "3. peatükk - JÄRELEVALVE ANDMEKOGUDE PIDAMISE ÜLE",
+      "section": "51",
+      "title": "§ 51. Vaide esitamine",
+      "content": "Vastutav või volitatud töötleja haldusakti või toimingu peale võib esitada vaide andmekaitse järelevalveasutusele."
+    },
+    {
+      "provision_ref": "para51^1",
+      "chapter": "3. peatükk - VASTUTUS",
+      "section": "51^1",
+      "title": "§ 51^1. Riigi või kohaliku omavalitsuse andmekogusse andmete esitamata jätmine ja valeandmete esitamine",
+      "content": "(1) Riigi või kohaliku omavalitsuse andmekogusse kohustuslike andmete esitamata jätmise või valeandmete esitamise eest – karistatakse rahatrahviga kuni 100 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 30 000 krooni."
+    },
+    {
+      "provision_ref": "para51^2",
+      "chapter": "3. peatükk - VASTUTUS",
+      "section": "51^2",
+      "title": "§ 51^2. Riigi- või kohaliku omavalitsuse andmekogu pidamise korra rikkumine",
+      "content": "Riigi- või kohaliku omavalitsuse andmekogu vastutava või volitatud töötleja kohustuste rikkumise eest andmekogu pidamisel – karistatakse rahatrahviga kuni 300 trahviühikut."
+    },
+    {
+      "provision_ref": "para51^3",
+      "chapter": "3. peatükk - VASTUTUS",
+      "section": "51^3",
+      "title": "§ 51^3. Menetlus",
+      "content": "(1) Käesoleva seaduse § -des 51^1 ja 51^2 sätestatud väärtegudele kohaldatakse karistusseadustiku (RT I 2001, 61, 364) üldosa ja väärteomenetluse seadustiku (RT I 2002, 50, 313) sätteid.\n(2) Käesoleva seaduse § -des 51^1 ja 51^2 sätestatud väärtegude kohtuväline menetleja on Andmekaitseinspektsioon."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "52",
+      "title": "§ 52. Varem asutatud riiklike registrite ja andmebaaside vastavusse viimine käesoleva seadusega",
+      "content": "(1) Riikliku registri või andmebaasi põhimäärus, mis on vastu võetud enne käesoleva seaduse jõustumist, tuleb viia vastavusse käesoleva seadusega kahe aasta jooksul pärast seaduse jõustumist.\n(2) Andmekogusse andmete kogumise, andmekogu pidamise ja andmekogust andmete saamise finantseerimine tuleb viia vastavusse käesoleva seadusega seaduse jõustumisele järgneval riigieelarve koostamisel."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "53",
+      "title": "§ 53. Andmekogude pidamist kindlustavad süsteemid",
+      "content": "(1) Andmekogude pidamist kindlustavad süsteemid on:\n1) klassifikaatorite süsteem;\n2) geodeetiline süsteem;\n3) aadressandmete süsteem;\n4) infosüsteemide turvameetmete süsteem;\n5) infosüsteemide andmevahetuskiht.\n(2) Klassifikaator käesoleva seaduse mõistes on riigi või kohaliku omavalitsuse andmekogus kasutatav ühetüübilisi objekte teatud tunnuse või tunnuste hulga alusel liigitav ja üheselt identifitseeriv tähistuseeskiri. Klassifikaatorite süsteem koosneb:\n1) klassifikaatoritele esitatavatest nõuetest;\n2) klassifikaatoritest;\n3) klassifikaatorite haldajatest;\n4) klassifikaatorite kasutajatest;\n5) klassifikaatorite ja nende haldajate loetelust.\n(3) Geodeetiline süsteem käesoleva seaduse mõistes koosneb:\n1) geodeetilisest referentssüsteemist;\n2) tasapinnaliste ristkoordinaatide süsteemist;\n3) kõrgussüsteemist;\n4) gravimeetrilisest süsteemist.\n(4) Aadressandmete süsteem käesoleva seaduse mõistes on ühtsete põhimõtete kogum, mis tagab aadressobjektide ühest identifitseerimist nii nende asukohas kui erinevates andmekogudes ning muudab võrreldavaks erineval ajal ja eri põhimõtetel esitatud aadressid.\n(5) Infosüsteemide turvameetmete süsteem käesoleva seaduse mõistes koosneb:\n1) turvanõuete spetsifitseerimise korrast;\n2) andmete organisatsioonilistest, füüsilistest ja infotehnilistest turvameetmetest.\n(6) Infosüsteemide andmevahetuskiht käesoleva seaduse mõistes on nõuetele vastav turvalist internetipõhist andmevahetust võimaldav tehniline ja tehnoloogiline keskkond.\n(7) Andmekogude pidamist kindlustavad süsteemid kehtestab Vabariigi Valitsus. Vabariigi Valitsus võib käesoleva paragrahvi lõike 1 punktides 2 ja 4 sätestatud süsteemide kehtestamise delegeerida asjaomasele ministrile. Andmekogude pidamist kindlustavate süsteemide kohta käivate eelnõude kohta annavad arvamuse asjaomased ministeeriumid."
+    },
+    {
+      "provision_ref": "para53^1",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "53^1",
+      "title": "§ 53^1. Andmekogude pidamist kindlustavate süsteemide kasutamine",
+      "content": "Asjaomaste andmekogude pidamist kindlustavate süsteemide kasutamine on kohustuslik kõigi riigi ja kohaliku omavalitsuse andmekogude pidamisel."
+    },
+    {
+      "provision_ref": "para5557",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "55–57",
+      "title": "§ 55–57.",
+      "content": "[Käesolevast tekstist välja jäetud]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "teaduslikul, pedagoogilisel ja kodu",
+      "definition": "uurimislikul eesmärgil, kui neid andmekogusid kasutatakse ainult sellel otstarbel",
+      "source_provision": "para2"
+    }
+  ]
+}

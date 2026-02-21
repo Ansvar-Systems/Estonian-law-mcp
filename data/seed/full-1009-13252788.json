@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-13252788",
+  "type": "statute",
+  "title": "Politseiseadus",
+  "title_en": "Politseiseadus",
+  "short_name": "PolS",
+  "status": "in_force",
+  "issued_date": "1990-09-20",
+  "in_force_date": "2010-01-01",
+  "url": "https://www.riigiteataja.ee/akt/13252788.xml",
+  "description": "Official consolidated statute text (Politseiseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

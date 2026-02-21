@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-12814691",
+  "type": "statute",
+  "title": "Andmekogude seadus",
+  "title_en": "Andmekogude seadus",
+  "short_name": "AKS",
+  "status": "in_force",
+  "issued_date": "1997-03-12",
+  "in_force_date": "2008-01-01",
+  "url": "https://www.riigiteataja.ee/akt/12814691.xml",
+  "description": "Official consolidated statute text (Andmekogude seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

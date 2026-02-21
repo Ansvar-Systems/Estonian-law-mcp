@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-225062012001",
+  "type": "statute",
+  "title": "Rahvusvahelise Valuutafondi põhikirja muudatuste heakskiitmise seadus",
+  "title_en": "Rahvusvahelise Valuutafondi põhikirja muudatuste heakskiitmise seadus",
+  "short_name": "ee-law-225062012001",
+  "status": "in_force",
+  "issued_date": "2012-06-06",
+  "in_force_date": "2012-07-05",
+  "url": "https://www.riigiteataja.ee/akt/225062012001.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise Valuutafondi põhikirja muudatuste heakskiitmise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Preambul",
+      "content": "Kiita heaks juurdelisatud Rahvusvahelise Valuutafondi põhikirja muudatused, mille on kinnitanud aktsionäride nõukogu 2010. aasta 15. detsembril jõustunud resolutsiooniga nr 66-2."
+    }
+  ],
+  "definitions": []
+}

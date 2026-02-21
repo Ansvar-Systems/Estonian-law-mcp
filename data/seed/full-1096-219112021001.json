@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-219112021001",
+  "type": "statute",
+  "title": "Rahvusvahelise raudteeveo konventsiooni ja selle lisade muudatuste heakskiitmise seadus",
+  "title_en": "Rahvusvahelise raudteeveo konventsiooni ja selle lisade muudatuste heakskiitmise seadus",
+  "short_name": "ee-law-219112021001",
+  "status": "in_force",
+  "issued_date": "2021-11-10",
+  "in_force_date": "2021-11-29",
+  "url": "https://www.riigiteataja.ee/akt/219112021001.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise raudteeveo konventsiooni ja selle lisade muudatuste heakskiitmise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Kiita heaks juurde lisatud 1980. aasta 9. mail Bernis koostatud rahvusvahelise raudteeveo konventsiooni (COTIF) ja selle lisade muudatused, mis on vastu võetud Rahvusvahelise Raudteeveo Valitsustevahelise Organisatsiooni (OTIF) üldkogu 2018. aasta 26. septembri otsusega."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Rahvusvahelise raudteeveo konventsiooniga ühinemise seaduse § 3 tunnistatakse kehtetuks."
+    }
+  ],
+  "definitions": []
+}

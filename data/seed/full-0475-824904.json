@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-824904",
+  "type": "statute",
+  "title": "Euroopa Liidu liikmesriikide vahelise väljaandmise konventsiooniga ühinemise seadus",
+  "title_en": "Euroopa Liidu liikmesriikide vahelise väljaandmise konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-824904",
+  "status": "in_force",
+  "issued_date": "2004-11-23",
+  "in_force_date": "2004-12-15",
+  "url": "https://www.riigiteataja.ee/akt/824904.xml",
+  "description": "Official consolidated statute text (Euroopa Liidu liikmesriikide vahelise väljaandmise konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Ühinemine",
+      "content": "Ühineda juurdelisatud Euroopa Liidu liikmesriikide vahelise väljaandmise konventsiooniga, mis on koostatud 1996. aasta 27. septembril Brüsselis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Deklaratsioonid",
+      "content": "(1) Eesti Vabariik deklareerib, et artikli 13 tähenduses on keskasutus Justiitsministeerium.\n(2) Eesti Vabariik deklareerib, et artikli 12 alusel kohaldab Eesti ka edaspidi väljaandmise Euroopa konventsiooni (RT II 1997, 8/9, 38) artiklit 15."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Jõustumine",
+      "content": "Käesolev seadus jõustub Riigi Teatajas avaldamisele järgneval päeval. Riigikogu esimees Ene ERGMA Välisministeeriumi teadaanne Euroopa Liidu liikmesriikide vahelise väljaandmise konventsiooni (ELT 2004 eestikeelne eriväljaanne, ptk 19, kd 8, lk 96-107) jõustumise kohta 05.11.2019"
+    }
+  ],
+  "definitions": []
+}

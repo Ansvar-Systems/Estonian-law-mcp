@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-129062012042",
+  "type": "statute",
+  "title": "Jälitustegevuse seadus",
+  "title_en": "Jälitustegevuse seadus",
+  "short_name": "JTS",
+  "status": "in_force",
+  "issued_date": "1994-02-22",
+  "in_force_date": "2013-01-01",
+  "url": "https://www.riigiteataja.ee/akt/129062012042.xml",
+  "description": "Official consolidated statute text (Jälitustegevuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu Kehtetu [RT I, 29.06.2012, 2]\nKehtetu [RT I, 29.06.2012, 2]\nKehtetu"
+    }
+  ],
+  "definitions": []
+}

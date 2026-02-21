@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-104012021005",
+  "type": "statute",
+  "title": "Kaubandustegevuse seadus",
+  "title_en": "Kaubandustegevuse seadus",
+  "short_name": "KaubTS",
+  "status": "in_force",
+  "issued_date": "2004-02-11",
+  "in_force_date": "2021-05-01",
+  "url": "https://www.riigiteataja.ee/akt/104012021005.xml",
+  "description": "Official consolidated statute text (Kaubandustegevuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

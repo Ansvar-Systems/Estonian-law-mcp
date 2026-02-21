@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-176015",
+  "type": "statute",
+  "title": "Kindlustusseadus",
+  "title_en": "Kindlustusseadus",
+  "short_name": "KindlS",
+  "status": "in_force",
+  "issued_date": "1992-11-05",
+  "in_force_date": "2002-07-01",
+  "url": "https://www.riigiteataja.ee/akt/176015.xml",
+  "description": "Official consolidated statute text (Kindlustusseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

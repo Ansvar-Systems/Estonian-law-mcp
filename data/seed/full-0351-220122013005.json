@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-220122013005",
+  "type": "statute",
+  "title": "Eesti Vabariigi valitsuse ja Tai Kuningriigi valitsuse vahelise tulumaksudega topeltmaksustamise vältimise ning maksudest hoidumise tõkestamise lepingu ratifitseerimise seadus",
+  "title_en": "Eesti Vabariigi valitsuse ja Tai Kuningriigi valitsuse vahelise tulumaksudega topeltmaksustamise vältimise ning maksudest hoidumise tõkestamise lepingu ratifitseerimise seadus",
+  "short_name": "ee-law-220122013005",
+  "status": "in_force",
+  "issued_date": "2013-12-11",
+  "in_force_date": "2013-12-21",
+  "url": "https://www.riigiteataja.ee/akt/220122013005.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi valitsuse ja Tai Kuningriigi valitsuse vahelise tulumaksudega topeltmaksustamise vältimise ning maksudest hoidumise tõkestamise lepingu ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud Eesti Vabariigi valitsuse ja Tai Kuningriigi valitsuse vaheline tulumaksudega topeltmaksustamise vältimise ning maksudest hoidumise tõkestamise leping, mis on alla kirjutatud 2012. aasta 25. septembril New Yorgis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Käesolev seadus jõustub Riigi Teatajas avaldamisele järgneval päeval."
+    }
+  ],
+  "definitions": []
+}

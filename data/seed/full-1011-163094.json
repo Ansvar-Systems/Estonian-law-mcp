@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-163094",
+  "type": "statute",
+  "title": "Pommiterrorismi vastase konventsiooni ratifitseerimise seadus",
+  "title_en": "Pommiterrorismi vastase konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-163094",
+  "status": "in_force",
+  "issued_date": "2002-01-30",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/163094.xml",
+  "description": "Official consolidated statute text (Pommiterrorismi vastase konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud pommiterrorismi vastane konventsioon, mis on ÜRO Peaassamblee poolt vastu võetud 1997. aasta 15. detsembril ning millele Eesti Vabariik on alla kirjutanud 1999. aasta 27. detsembril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Konventsiooni artikli 6 lõike 3 alusel Eesti Vabariik deklareerib, et ta kohaldab artiklis 2 nimetatud kuritegude suhtes artikli 6 lõikes 2 käsitletud jurisdiktsiooni oma siseriiklikus õiguses. Riigikogu esimees Toomas SAVI"
+    }
+  ],
+  "definitions": []
+}

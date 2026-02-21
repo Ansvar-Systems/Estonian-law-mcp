@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-228112025003",
+  "type": "statute",
+  "title": "Ülemaailmse Postiliidu Ar-Riyāḑi erakorralise kongressi lõppaktide ratifitseerimise seadus",
+  "title_en": "Ülemaailmse Postiliidu Ar-Riyāḑi erakorralise kongressi lõppaktide ratifitseerimise seadus",
+  "short_name": "ee-law-228112025003",
+  "status": "in_force",
+  "issued_date": "2025-11-18",
+  "in_force_date": "2025-12-08",
+  "url": "https://www.riigiteataja.ee/akt/228112025003.xml",
+  "description": "Official consolidated statute text (Ülemaailmse Postiliidu Ar-Riyāḑi erakorralise kongressi lõppaktide ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud Ülemaailmse Postiliidu üldeeskirjade neljas lisaprotokoll, mis on koostatud 2023. aasta 5. oktoobril Ar-Riyāḑis ja millele Eesti Vabariik on samas alla kirjutanud."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ratifitseerida juurdelisatud Ülemaailmse Postiliidu postikonventsiooni esimene lisaprotokoll, mis on koostatud 2023. aasta 5. oktoobril Ar-Riyāḑis ja millele Eesti Vabariik on samas alla kirjutanud."
+    }
+  ],
+  "definitions": []
+}

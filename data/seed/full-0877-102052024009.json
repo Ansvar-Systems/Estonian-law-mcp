@@ -1,0 +1,526 @@
+{
+  "id": "ee-law-102052024009",
+  "type": "statute",
+  "title": "Maksualase teabevahetuse seadus",
+  "title_en": "Maksualase teabevahetuse seadus",
+  "short_name": "MTVS",
+  "status": "in_force",
+  "issued_date": "2014-12-18",
+  "in_force_date": "2024-05-12",
+  "url": "https://www.riigiteataja.ee/akt/102052024009.xml",
+  "description": "Official consolidated statute text (Maksualase teabevahetuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab otseste maksudega seotud maksukohustuse suuruse kindlaksmääramiseks vajalikud rahvusvahelise automaatse teabevahetusega seotud õigused ja kohustused.\n(2) Seaduse reguleerimisalasse jäävates, kuid käesolevas seaduses reguleerimata küsimustes kohaldatakse esmajärjekorras maksukorralduse seadust ja maksuseadusi.\n(3) Kui käesoleva seaduse regulatsioon erineb välislepingus sätestatust, kohaldatakse välislepingu sätteid."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Terminid",
+      "content": "Käesolevas seaduses kasutatakse termineid järgmises tähenduses: 1 1) maksuhaldur on Maksu- ja Tolliamet;\n2) õiguslik moodustis on juriidilise isiku staatuseta isikuteühendus või varakogum ning isiku või juriidilise isiku staatuseta isikuteühenduse või varakogumi filiaal;\n3) teabeandjale andmete esitaja on isik või õiguslik moodustis, kes käesoleva seaduse või muu õigusakti alusel esitab teabeandjale käesoleva seaduse täitmiseks kasutatavaid andmeid;\n4) andmesubjekt on andmesubjekt isikuandmete kaitse seaduse tähenduses;\n5) teabeandja on isik või õiguslik moodustis, kellele antakse käesoleva seadusega õigusi ja pannakse kohustusi; teabeandja ei ole maksuhaldur, teabeandjale andmete esitaja ega andmesubjekt;\n6) välisriigi pädev ametiasutus on välisriigi isik või organ, kes on pädev ametiasutus välislepingu või Euroopa Liidu asjaomase õigusakti kohaselt;\n7) teabevahetus on otseste maksudega seotud maksukohustuse suuruse kindlaksmääramiseks vajaliku teabe automaatne edastamine välislepingu alusel või Euroopa Liidu asjaomase õigusakti kohaselt maksuhaldurilt välisriigi pädevale ametiasutusele ja vastupidi;\n8) teabe automaatne edastamine on teabe edastamine korrapäraselt, ilma taotluseta, kindlaksmääratud viisil ja mahus;\n9) teabe kogumine on teabeandjalt teabevahetuseks vajaliku teabe saamine ja maksuhalduri poolt teabeandjalt teabevahetuseks vajaliku teabe nõudmine."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Teabe kogumine",
+      "content": "(1) Käesoleva seaduse ning Eesti Vabariigi valitsuse ja Ameerika Ühendriikide valitsuse vahelise rahvusvahelise maksukuulekuse parandamise ja FATCA rakendamise kokkuleppe (edaspidi FATCA kokkulepe ) täitmisega seotud maksuhalduri tegevustele kohaldatakse maksukorralduse seadust.\n(2) Käesoleva seaduse alusel kehtestatud deklaratsioonidele kohaldatakse maksukorralduse seaduses maksudeklaratsiooni kohta sätestatut, arvestades käesolevas seaduses sätestatut.\n(3) Maksuhaldur kogub teavet jooksva ja viie eelneva kalendriaasta kohta."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Teabevahetus",
+      "content": "(1) Maksuhalduril on teabevahetuse õigus.\n(2) Teabevahetus ei pea olema vastastikune.\n(3) Teabevahetusega võib olla hõlmatud jooksva ja viie eelneva kalendriaasta kohta maksuhalduri valduses olev kogu teave, mille vahetamist välisleping või asjaomane Euroopa Liidu õigusakt ette näeb, sealhulgas:\n1) töösuhtest saadud tasu ning töövõtu- või käsunduslepingu või muu võlaõigusliku lepingu alusel makstud töö- või teenustasu;\n2) juriidilise isiku juhtimis- või kontrollorgani liikmetele makstud tasu;\n3) elukindlustuslepingu alusel makstud kindlustussumma ja -hüvitis;\n4) makstud pension;\n5) kinnisvaratulu;\n6) litsentsitasu.\n(4) Maksuhaldur võib teabevahetuse toimimise täpsustamiseks sõlmida välisriigi pädeva ametiasutusega ametkondliku välislepingu."
+    },
+    {
+      "provision_ref": "para4^1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4^1",
+      "title": "§ 4^1. Euroopa Liidu väline finantskontode alane ning riikidepõhise aruande alane teabevahetus",
+      "content": "(1) Käesoleva seaduse 1., 1^1. ja 3. peatükis sätestatut kohaldatakse ka maksuasjades vastastikuse haldusabi konventsiooni (edaspidi konventsioon ) artikli 6 alusel toimuvale finantskontode maksualasele automaatsele teabevahetusele.\n(1^1) Käesoleva seaduse 1., 2^2. ja 3. peatükis sätestatut kohaldatakse ka välislepingu kohasele ja konventsiooni artikli 6 alusel toimuvale riikidepõhise aruande alasele automaatsele teabevahetusele.\n(1^2) Käesoleva seaduse 2^4. peatükis sätestatut kohaldatakse ka välislepingukohasele ja konventsiooni artikli 6 alusel toimuvale platvormialase teabe automaatsele vahetusele.\n(2) Konventsiooni artikli 6 alusel toimuva finantskontode maksualase teabevahetusega seonduv teavitamis- ja järelevalvekohustus on maksuhalduril."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5",
+      "title": "§ 5. Teabe kasutamise piirang",
+      "content": "(1) Teabe kogumise ja teabevahetuse teel saadud teavet käsitatakse maksukorralduse seaduse tähenduses maksusaladusena.\n(2) Välislepingu alusel saadud teavet võib maksuhaldur avaldada maksukorralduse seaduse §-des 26–30 sätestatud tingimustel, arvestades välislepingus sätestatut.\n(3) Euroopa Liidu asjaomase õigusakti kohaselt saadud teavet võib maksuhaldur avaldada maksukorralduse seaduse §-des 26–30 sätestatud tingimustel, arvestades Euroopa Liidu asjaomases õigusaktis sätestatut."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "6",
+      "title": "§ 6. Teabe kaitse ja töötlus",
+      "content": "(1) Käesoleva seaduse alusel toimuva andmete töötlemise eesmärk on:\n1) võimaldada maksuhalduril ja välisriigi pädeval ametiasutusel õigesti ja kahtluseta kindlaks teha asjaomased maksukohustuslased, hallata ja jõustada maksualaseid õigusakte piiriülestes olukordades, hinnata maksudest kõrvalehoidumise toimepanemise tõenäosust ja vältida tarbetuid edasisi uurimisi;\n2) täita FATCA kokkuleppega võetud käesoleva lõike punktis 1 nimetamata kohustusi.\n(1^1) Maksuhalduril ei ole lubatud kasutada riikidepõhise aruande alase teabevahetuse käigus saadavaid andmeid ainsa või peamise alusena tulumaksuseaduse § 8 lõikes 2 nimetatud siirdehinna korrigeerimisel.\n(2) Teabeandja teavitab kirjalikku taasesitamist võimaldavas vormis klienti ärisuhte loomisel rahapesu ja terrorismi rahastamise tõkestamise seaduse tähenduses käesoleva seaduse alusel toimuvast teabe kogumisest, teabevahetusest ning teabe automaatsest edastamisest. Käesoleva lõike esimeses lauses sätestatut ei kohaldata teabeandja suhtes, kellel puudub teabevahetuseks kogutava teabe maksuhaldurile esitamise kohustus.\n(3) Lisaks isikuandmete kaitse seaduses sätestatud kohustustele peab maksuhaldur esitama andmesubjekti taotluse alusel väljavõtte jooksva ja viie eelneva kalendriaasta kohta teabe kogumise käigus saadud ning teabevahetuse käigus edastatud temaga seotud teabest ja seda teavet puudutavatest maksukorralduse seaduse § 51^7 lõike 2 alusel antud lubadest.\n(4) Kui andmesubjekt tõendab, et jooksva või viie eelneva kalendriaasta kohta maksuhaldurile teabe kogumise käigus edastatud teave ei ole teabeandjast tingituna õige, esitab teabeandja esimesel võimalusel maksuhaldurile parandatud teabe.\n(5) Maksuhaldur edastab käesoleva paragrahvi lõike 4 kohaselt parandatud teabe asjaomasele välisriigi pädevale ametiasutusele ning taotleb eelnevalt edastatud teabe kustutamist.\n(6) Kui andmesubjekt tõendab, et maksuhaldur on jooksva või viie eelneva kalendriaasta kohta teabevahetuse käigus edastanud teavet sellise riigi pädevale ametiasutusele, mille maksuresident andmesubjekt ei olnud sellel perioodil, mille kohta teave käib, taotleb maksuhaldur asjaomase välisriigi pädevalt ametiasutuselt asjakohase teabe kustutamist."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "7",
+      "title": "§ 7. Kulude kandmine",
+      "content": "Maksuhaldur ja teabeandja kannavad käesoleva seaduse täitmisega seonduvad oma kulud ise."
+    },
+    {
+      "provision_ref": "para7^1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "7^1",
+      "title": "§ 7^1. Teabe kogumise vältimise eesmärgil tehtavad tehingud ja toimingud",
+      "content": "Kui tehingu või toimingu sisust järeldub, et see on tehtud teabe kogumise vältimise eesmärgil, ei võeta seda käesoleva seaduse kohaldamisel arvesse."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "8",
+      "title": "§ 8. Teabe kogumise ja teabevahetuse kohustuste täitmine",
+      "content": "(1) Teabeandjale andmete esitaja esitab nõude saamisel teabeandjale andmed, milleta ei ole teabeandjal võimalik käesolevat seadust täita. Andmed esitatakse 30 kalendripäeva jooksul, kui käesolevast seadusest tulenevalt ei ole ette nähtud lühemat tähtaega.\n(1^1) Kui müüja ei ole esitanud nõutud teavet platvormihaldurile vaatamata kahele meeldetuletusele, sulgeb platvormihaldur müüja konto ja takistab tal seda uuesti registreerida või jätab müüjale tasu üle andmata, kuni müüja esitab nõutud teabe. Neid meetmeid on lubatud rakendada pärast teise meeldetuletuse esitamist, kuid mitte enne 60 päeva möödumist teabe esmasest nõudmisest.\n(2) Teabeandjale andmete esitaja tagab käesoleva seaduse täitmisel kasutatavate andmete õigsuse nende esitamisel teabeandjale.\n(3) Teabeandja säilitab kõiki teabe kogumise ja FATCA kokkuleppega seotud teiste kohustuste täitmist kinnitavaid tõendeid vähemalt jooksva ja kuue eelneva kalendriaasta kohta, kuid mitte rohkem kui kümme aastat, arvestades Euroopa Parlamendi ja nõukogu määruses (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus) (ELT L 119, 04.05.2016, lk 1–88) sätestatud eesmärgipärasuse põhimõtet.\n(4) Kui teabeandja leiab, et jooksva või eelneva viie kalendriaasta kohta maksuhaldurile edastatud teave ei ole teabeandjast tingituna õige, esitab teabeandja esimesel võimalusel maksuhaldurile uuendatud teabe."
+    },
+    {
+      "provision_ref": "para8^1",
+      "chapter": "1. peatükk - Finantskontode maksualase teabe automaatne vahetus Euroopa Liidus",
+      "section": "8^1",
+      "title": "§ 8^1. Finantskonto",
+      "content": "(1) Finantskonto käesoleva peatüki tähenduses on Eesti finantsasutuse peetav konto, mis vastab nõukogu direktiivi 2011/16/EL maksustamisalase halduskoostöö kohta ja direktiivi 77/799/EMÜ kehtetuks tunnistamise kohta (ELT L 64, 11.03.2011, lk 1–12) (edaspidi direktiiv ) lisa 1 8. jao C jaotises sätestatud tingimustele.\n(2) Väärtpaberite keskdepositooriumi peetav finantskonto on konto, mis on avatud väärtpaberite registri pidamise seaduse § 6^1 või § 11 lõike 4 alusel või mille kontohaldur väärtpaberite registri pidamise seaduse tähenduses on mittearuandekohustuslik finantsasutus.\n(3) Käesoleva paragrahvi lõikes 2 nimetamata finantskonto loetakse väärtpaberite registri pidamise seaduse tähenduses kontohalduri peetavaks.\n(4) Teabevahetusest välistatud finantskonto käesoleva peatüki tähenduses on direktiivi lisa 1 8. jao C jaotise punktis 17 sätestatud tingimustele vastav konto, millele aruandlus- ja hoolsusmeetmeid ei kohaldata.\n(5) Direktiivi lisa 1 8. jao C jaotise punkti 17 alapunktis g sätestatud tingimustele vastav teabevahetusest välistatud muu kui direktiivis nimetatud finantskonto on:\n1) pensionileping kogumispensionide seaduse § 45 lõike 1 tähenduses;\n2)\n3) väärtpaberikonto, kus ei ole registreeritud muid osakuid peale kogumispensionide seaduses nimetatud kohustusliku ja vabatahtliku pensionifondi osakute."
+    },
+    {
+      "provision_ref": "para8^2",
+      "chapter": "1. peatükk - Finantskontode maksualase teabe automaatne vahetus Euroopa Liidus",
+      "section": "8^2",
+      "title": "§ 8^2. Finantskontode maksualane teave",
+      "content": "(1) Finantskontode maksualane teave käesoleva peatüki tähenduses on finantskonto pidamisega seonduv aruandekohustusliku Eesti finantsasutuse poolt maksuhaldurile esitatav direktiivi artikli 8 lõikes 3a nimetatud teave.\n(2) Aruandlus- ja hoolsusmeetmed käesoleva peatüki tähenduses on direktiivi lisades 1 ja 2 sätestatud finantskontode maksualase teabe väljaselgitamiseks kohaldatavad aruandlus- ja hoolsusmeetmed.\n(3) Finantskontode maksualane teave võib olla hõlmatud teabevahetusega.\n(4) Finantskontode maksualase teabe hulka kuuluva tulu liik määratakse kindlaks ja nimetatud tulu liigi, kontojäägi ja kontoväärtuse suurus leitakse eurodes, arvestades tulumaksuseaduses sätestatut.\n(5) Finantskontode maksualase teabe deklaratsioonide vormid ning deklaratsioonide esitamise ja täitmise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para8^3",
+      "chapter": "1. peatükk - Finantskontode maksualase teabe automaatne vahetus Euroopa Liidus",
+      "section": "8^3",
+      "title": "§ 8^3. Teabeandja",
+      "content": "(1) Teabeandja käesoleva peatüki tähenduses on Eesti finantsasutus.\n(2) Aruandekohustuslik Eesti finantsasutus käesoleva peatüki tähenduses on direktiivi lisa 1 8. jao A jaotises sätestatud tingimustele vastav Eestis asutatud või moodustatud asutus või välisriigi asutuse Eesti filiaal.\n(3) Mittearuandekohustuslik Eesti finantsasutus käesoleva peatüki tähenduses on direktiivi lisa 1 8. jao B jaotises sätestatud tingimustele vastav Eesti finantsasutus, kes on vabastatud aruandlus- ja hoolsusmeetmete kohaldamisest.\n(4) Direktiivi lisa 1 8. jao B jaotise punkti 1 alapunktis c sätestatud tingimustele vastav muu kui direktiivis nimetatud mittearuandekohustuslik Eesti finantsasutus on kohustuslik pensionifond ja vabatahtlik pensionifond kogumispensionide seaduse § 3 tähenduses."
+    },
+    {
+      "provision_ref": "para8^4",
+      "chapter": "1. peatükk - Finantskontode maksualase teabe automaatne vahetus Euroopa Liidus",
+      "section": "8^4",
+      "title": "§ 8^4. Kontrolliv isik",
+      "content": "Ettevõtet kontrolliva isiku kindlakstegemisel käesoleva peatüki tähenduses lähtutakse tegeliku kasusaaja määratlusest rahapesu ja terrorismi rahastamise tõkestamise seaduses."
+    },
+    {
+      "provision_ref": "para8^5",
+      "chapter": "1. peatükk - Finantskontode maksualase teabe automaatne vahetus Euroopa Liidus",
+      "section": "8^5",
+      "title": "§ 8^5. Kontoomaniku ja kontrolliva isiku kinnitus",
+      "content": "(1) Füüsilisest isikust kontoomaniku ja ettevõtet kontrolliva füüsilise isiku kinnitus on kirjalikus või kirjalikku taasesitamist võimaldavas vormis kinnitus isiku maksuresidentsuse kohta, mis sisaldab vähemalt järgmisi andmeid:\n1) kontoomaniku või ettevõtet kontrolliva isiku nimi;\n2) elukoha aadress;\n3) maksuresidentsused;\n4) maksukohustuslase identifitseerimisnumber või -numbrid;\n5) sünniaeg;\n6) sünnikoht riigi või jurisdiktsiooni täpsusega;\n7) kinnituse esitamise aeg.\n(2) Ettevõtet kontrolliva füüsilise isiku eest võib kinnituse esitada kontoomanik."
+    },
+    {
+      "provision_ref": "para8^6",
+      "chapter": "1. peatükk - Finantskontode maksualase teabe automaatne vahetus Euroopa Liidus",
+      "section": "8^6",
+      "title": "§ 8^6. Teabeandja kohustused",
+      "content": "(1) Teabeandja hoidub tegevusest, mille eesmärk on finantskontode maksualase teabe kogumisest kõrvalehoidumine.\n(2) Aruandekohustuslik Eesti finantsasutus kohaldab käesoleva seaduse § 8^2 lõikes 2 nimetatud aruandlus- ja hoolsusmeetmeid ning tuvastab igal aastal enda peetavate finantskontode maksualase teabe. Mitteresidendist kontoomaniku ning ettevõtte mitteresidendist kontrolliva isiku andmeid ja sellise ettevõtte andmeid kogutakse sõltumata sellest, kas maksualane teave on hõlmatud teabevahetusega.\n(3) Aruandekohustuslik Eesti finantsasutus esitab maksuhaldurile käesoleva paragrahvi lõike 2 kohaselt tuvastatud finantskontode maksualase teabe eelmise kalendriaasta kohta elektroonse deklaratsiooniga iga aasta 30. juuniks."
+    },
+    {
+      "provision_ref": "para8^7",
+      "chapter": "1. peatükk - Finantskontode maksualase teabe automaatne vahetus Euroopa Liidus",
+      "section": "8^7",
+      "title": "§ 8^7. Kohustuste täitmine kolmanda isiku kaudu",
+      "content": "Aruandekohustuslik Eesti finantsasutus võib käesolevas peatükis sätestatud kohustusi täita kolmanda isiku kaudu. Vastutus kohustuste täitmise eest lasub aruandekohustuslikul Eesti finantsasutusel."
+    },
+    {
+      "provision_ref": "para8^8",
+      "chapter": "1. peatükk - Finantskontode maksualase teabe automaatne vahetus Euroopa Liidus",
+      "section": "8^8",
+      "title": "§ 8^8. Maksuhalduri kohustused",
+      "content": "(1) Direktiivi artikli 8 lõikes 7a sätestatud teavitamis- ja järelevalvekohustus on maksuhalduril.\n(2) Maksuhaldur kustutab talle edastatud finantskontode maksualase teabe, mis ei ole teabevahetusega hõlmatud."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - FATCA kokkuleppe täitmine",
+      "section": "9",
+      "title": "§ 9. FATCA kokkuleppe kohaldamine",
+      "content": "FATCA kokkuleppe täitmisel lähtutakse eelkõige FATCA kokkuleppest, arvestades käesolevas seaduses sätestatut."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - FATCA kokkuleppe täitmine",
+      "section": "10",
+      "title": "§ 10. Teabeandja",
+      "content": "(1) Teabeandja käesoleva peatüki tähenduses on Eesti finantsasutus.\n(2) Eesti finantsasutus on FATCA kokkuleppe artikli 1 lõike 1 punkti g tingimustele vastav Eestis asutatud või moodustatud asutus, sealhulgas:\n1) krediidiasutus ja välisriigi krediidiasutuse Eesti filiaal;\n2) hoiu-laenuühistu;\n3) investeerimisühing ja välisriigi investeerimisühingu Eesti filiaal;\n4) fondivalitseja ja välisriigi fondivalitseja Eesti filiaal;\n5) investeerimisfond;\n6) elukindlustusega tegelev kindlustusandja ja välisriigi kindlustusandja Eesti filiaal;\n7) väärtpaberite keskdepositoorium.\n(3) Väärtpaberite keskdepositooriumi peetavad finantskontod on finantskontod, mis on avatud väärtpaberite registri pidamise seaduse § 11 lõike 4 alusel või mille kontohaldur väärtpaberite registri pidamise seaduse tähenduses on mitteosalev finantsasutus.\n(4) Käesoleva paragrahvi lõikes 3 nimetamata finantskontosid loetakse väärtpaberite registri pidamise seaduse tähenduses kontohalduri peetavateks."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - FATCA kokkuleppe täitmine",
+      "section": "11",
+      "title": "§ 11. FATCA kokkuleppe täitmisega seotud täiendavad terminid",
+      "content": "(1) Eesti rahandusministri esindaja FATCA kokkuleppe artikli 1 lõike 1 punkti f alapunkti 2 tähenduses on maksuhaldur.\n(2) Kontrolliv isik FATCA kokkuleppe artikli 1 lõike 1 punkti mm tähenduses on tegelik kasusaaja rahapesu ja terrorismi rahastamise tõkestamise seaduse tähenduses.\n(3) Füüsilisest isikust kontoomaniku ja ettevõtet kontrolliva füüsilise isiku kinnitus on kirjalikus või kirjalikku taasesitamist võimaldavas vormis kinnitus isiku maksuresidentsuse kohta, mis sisaldab vähemalt järgmisi andmeid:\n1) kontoomaniku või ettevõtet kontrolliva isiku nimi;\n2) elukoha aadress;\n3) maksuresidentsused;\n4) maksukohustuslase identifitseerimisnumber või -numbrid;\n5) sünniaeg;\n6) sünnikoht riigi või jurisdiktsiooni täpsusega;\n7) kinnituse esitamise aeg.\n(4) Ettevõtet kontrolliva füüsilise isiku eest võib kinnituse esitada kontoomanik.\n(5) Hoolsusmeetmed on FATCA kokkuleppe I lisas kirjeldatud meetmed."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - FATCA kokkuleppe täitmine",
+      "section": "12",
+      "title": "§ 12. Kohustuste täitmine kolmanda isiku kaudu",
+      "content": "Aruandekohustuslik Eesti finantsasutus võib käesolevas peatükis sätestatud kohustusi, sealhulgas deklaratsiooni esitamise kohustust, täita kolmanda isiku kaudu FATCA kokkuleppe I lisa VI osa punktis F nimetatud ulatuses. Kohustuste täitmisega seotud vastutus on aruandekohustuslikul Eesti finantsasutusel."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - FATCA kokkuleppe täitmine",
+      "section": "13",
+      "title": "§ 13. FATCA kokkuleppe kohaldamise erisus",
+      "content": "(1) Eesti finantsasutusel ei ole FATCA kokkuleppe artikli 4 lõikes 7 nimetatud õigust.\n(2) Perioodil 2014. aasta 1. juulist kuni 31. detsembrini avatud ettevõtte kontosid võib Eesti finantsasutus käsitada ettevõtte olemasolevate kontodena. Nimetatud kontode käsitamisel ettevõtte olemasolevate kontodena ei kohaldata neile FATCA kokkuleppe I lisa IV osa punktis A sätestatud hoolsusmeetmete võtmise edasilükkamise võimalust."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - FATCA kokkuleppe täitmine",
+      "section": "14",
+      "title": "§ 14. Hoolsusmeetmete kohaldamise erisus",
+      "content": "(1) Hoolsusmeetmete võtmisel ei kohaldata FATCA kokkuleppe I lisa:\n1) I osa punkti C;\n2) II osa punkti A alapunkti 3;\n3)\n4) V osa punkti A.\n(2) Aruandekohustuslik Eesti finantsasutus võib hoolsusmeetmete võtmisel kohaldada FATCA kokkuleppe I lisa II osa punkti A alapunktides 1, 2 ja 4 ning IV osa punktis A sätestatud erisusi. Erisusi kohaldatakse Eesti aruandekohustusliku finantsasutuse kõigile finantskontodele ühetaoliselt."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - FATCA kokkuleppe täitmine",
+      "section": "15",
+      "title": "§ 15. Eesti finantsasutuse üldised kohustused",
+      "content": "(1) Eesti finantsasutus hoidub tegevusest, mille eesmärk on FATCA kokkuleppega seotud teabe kogumisest kõrvalehoidumine.\n(2) Kui Eesti finantsasutusel on FATCA kokkuleppe artikli 4 lõikes 5 kirjeldatud tingimustele vastav seotud ettevõte või filiaal, täidab Eesti finantsasutus FATCA kokkuleppe artikli 4 lõike 5 alapunktides a–c sätestatud tingimusi."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - FATCA kokkuleppe täitmine",
+      "section": "16",
+      "title": "§ 16. Aruandekohustusliku Eesti finantsasutuse andmete kogumise kohustus",
+      "content": "(1) Aruandekohustuslik Eesti finantsasutus kogub:\n1) 2014. ja järgnevate aastate kohta FATCA kokkuleppe artikli 2 lõike 2 punktis a nimetatud andmeid samas punktis nimetatud tingimustel artikli 3 lõike 3 punktis a, artikli 3 lõikes 4, artikli 6 lõikes 4 ja FATCA kokkuleppe II lisas toodud erisustega;\n2) 2015. ja 2016. aastal mitteosalevatele finantsasutustele tehtud maksete andmeid.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud andmete kogumisel kohaldab aruandekohustuslik Eesti finantsasutus FATCA kokkuleppe I lisas toodud hoolsusmeetmeid, arvestades käesoleva seaduse §-des 13 ja 14 sätestatut.\n(3) Käesoleva paragrahvi lõike 1 punktis 1 nimetatud andmete hulka kuuluvate summade liik ja suurus eurodes määratakse kindlaks, arvestades tulumaksuseaduses sätestatut.\n(4) Käesoleva paragrahvi lõike 1 punktis 2 nimetatud andmete hulka kuuluvate summade suurus määratakse kindlaks eurodes, arvestades tulumaksuseaduse § 36 lõikes 5 sätestatut.\n(5) Käesoleva paragrahvi lõikes 1 nimetatud andmed eelmise kalendriaasta kohta kogutakse hiljemalt 30. juuniks."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - FATCA kokkuleppe täitmine",
+      "section": "17",
+      "title": "§ 17. Aruandekohustusliku Eesti finantsasutuse täiendavad kohustused",
+      "content": "(1) Lisaks käesoleva seaduse §-des 15 ja 16 nimetatud kohustustele täidab aruandekohustuslik Eesti finantsasutus FATCA kokkuleppe artikli 4 lõike 1:\n1) punktis c nimetatud registreerimisnõudeid;\n2) punktis d nimetatud nõudeid, kui ta vastab samas punktis toodud Eesti finantsasutuse tingimustele;\n3) punktis e nimetatud nõudeid, kui ta vastab samas punktis toodud Eesti finantsasutuse tingimustele.\n(2) Aruandekohustuslik Eesti finantsasutus registreerib end viivitamata Ameerika Ühendriikide Riigitulude Ametis."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - FATCA kokkuleppe täitmine",
+      "section": "18",
+      "title": "§ 18. Teabe kogumine ja teabevahetus",
+      "content": "(1) Aruandekohustuslik Eesti finantsasutus esitab maksuhaldurile elektroonselt deklaratsiooni käesoleva seaduse § 16 lõike 1:\n1) punkti 1 kohaselt kalendriaasta kohta kogutud andmetega järgmise aasta 30. juuniks;\n2) punkti 2 kohaselt kogutud andmetega vastavalt 2016. aasta 30. juuniks ja 2017. aasta 30. juuniks.\n(2) Maksuhaldur edastab käesoleva paragrahvi lõike 1 alusel saadud teabe Ameerika Ühendriikide pädevale ametiasutusele elektroonselt hiljemalt sama aasta 30. septembril.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud deklaratsioonide vormid ning nende esitamise ja täitmise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - FATCA kokkuleppe täitmine",
+      "section": "19",
+      "title": "§ 19. Maksuhalduri õigused ja kohustused",
+      "content": "(1) Maksuhaldur täidab Eesti pädevale ametiisikule FATCA kokkuleppest tulenevaid ülesandeid, kui valdkonna eest vastutav minister ei otsusta teisiti, arvestades käesolevas seaduses sätestatut.\n(2) Maksuhaldur võtab viivitamata meetmed Eesti või Eesti finantsasutuse poolt toime pandud FATCA kokkuleppe artiklis 5 kirjeldatud rikkumise kõrvaldamiseks ja pöördub Ameerika Ühendriikide pädeva ametiisiku poole, kui tekib kahtlus, et Ameerika Ühendriigid või Ameerika Ühendriikide finantsasutus on toime pannud FATCA kokkuleppe artiklis 5 kirjeldatud rikkumise.\n(3) Maksuhalduril on õigus sõlmida Ameerika Ühendriikidega FATCA kokkuleppe II lisa muutmise kokkuleppeid samas sätestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - FATCA kokkuleppe täitmine",
+      "section": "20",
+      "title": "§ 20. Soodsamate tingimuste kohaldamine",
+      "content": "FATCA kokkuleppe artikli 7 lõikes 2 nimetatud soodsamate tingimuste kohaldamise heakskiitmise või sellest keeldumise otsustab valdkonna eest vastutav minister ning teavitab sellest Ameerika Ühendriikide Rahandusministeeriumit."
+    },
+    {
+      "provision_ref": "para20^1",
+      "chapter": "2. peatükk - Eelotsuste alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^1",
+      "title": "§ 20^1. Teabevahetuse objekt",
+      "content": "(1) Eelotsuste alase automaatse teabevahetusega võivad olla hõlmatud andmed sellise maksukorralduse seaduse §-s 91^1 sätestatud maksuhalduri siduva eelotsuse kohta, mis käsitleb piiriülese toimingu maksustamist või välisriigis või muus jurisdiktsioonis püsiva tegevuskoha tekkimisega seotud küsimust (edaspidi eelotsus ).\n(2) Käesoleva paragrahvi lõike 1 tähenduses käsitatakse piiriülesena sellist toimingut või toimingute kogumit, mille:\n1) osalistest vähemalt üks on muu riigi või jurisdiktsiooni maksuresident;\n2) osalistest vähemalt üks on samal ajal mitme riigi või jurisdiktsiooni maksuresident;\n3) osalistest vähemalt üks tegeleb majandustegevusega mõnes teises riigis või jurisdiktsioonis püsiva tegevuskoha kaudu ning toiming või toimingute kogum moodustab osa või terviku selle püsiva tegevuskoha majandustegevusest;\n4) mõju on piiriülene.\n(3) Automaatse teabevahetusega ei ole hõlmatud andmed sellise eelotsuse kohta, mis käsitleb üksnes füüsiliste isikute vaheliste toimingute maksustamist."
+    },
+    {
+      "provision_ref": "para20^2",
+      "chapter": "2. peatükk - Eelotsuste alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^2",
+      "title": "§ 20^2. Eelotsuse kohta edastatav teave",
+      "content": "(1) Maksuhaldur võib edastada kõikidele Euroopa Liidu liikmesriikide pädevatele ametiasutustele eelotsuse kohta järgmist teavet:\n1) maksukohustuslast tuvastada võimaldavad andmed ning vajaduse korral andmed isikute grupi kohta, millesse isik kuulub;\n2) sisukokkuvõte, sealhulgas asjakohase äritegevuse või tehingu või tehingute kogumi kirjeldus ja muu maksuriski hindamiseks oluline teave, juhindudes ärisaladuse hoidmise kohustusest;\n3) eelotsuse andmise kuupäev;\n4) eelotsuse võimaliku kehtivuse alguse ja lõpu kuupäev;\n5) eelotsuse liik;\n6) asjassepuutuva toimingu või toimingute kogumi rahaline väärtus, kui sellele on eelotsuses või kokkuleppes viidatud;\n7) viide Euroopa Liidu teisele liikmesriigile, keda eelotsus tõenäoliselt mõjutab;\n8) viide Euroopa Liidu teises liikmesriigis asuvale või tegutsevale isikule, keda eelotsus tõenäoliselt puudutab.\n(2) Eelotsuses käsitletud toimingutega seotud füüsiliste isikute kohta automaatselt teavet ei vahetata.\n(3) Euroopa Komisjonile võib maksuhaldur eelotsuse kohta edastada käesoleva paragrahvi lõike 1 punktides 3–7 märgitud teavet."
+    },
+    {
+      "provision_ref": "para20^3",
+      "chapter": "2. peatükk - Riikidepõhise aruande alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^3",
+      "title": "§ 20^3. Riikidepõhine aruanne",
+      "content": "(1) Käesoleva seaduse tähenduses on riikidepõhine aruanne selline hargmaiste ettevõtete kontserni puudutav aruanne, mis sisaldab:\n1) koondteavet hargmaiste ettevõtete kontserni tulude summa, tulumaksueelse kasumi või kahjumi, tasutud ja kogunenud tulumaksu, osa- või aktsiakapitali, jaotamata kasumi, töötajate arvu ning materiaalse vara, välja arvatud raha või raha ekvivalentide kohta iga sellise riigi ja jurisdiktsiooni kaupa, kus hargmaiste ettevõtete kontsern tegutseb, ning\n2) hargmaiste ettevõtete kontserni liikmete tuvastamist võimaldavat teavet, sealhulgas teavet riigi või jurisdiktsiooni kohta, mille maksuresident kontserni liige on või mille õigusaktide alusel ta on moodustatud, kui see erineb maksuresidentsuse jurisdiktsioonist, ja teavet kontserni liikmete põhitegevusalade kohta.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud hargmaiste ettevõtete kontsern on direktiivi lisa 3 1. jao punktis 3 määratletud kontsern, mille liikmetest vähemalt üks on muu jurisdiktsiooni maksuresident, sealhulgas püsiva tegevuskoha kaudu (edaspidi kontsern ).\n(3) Riikidepõhine aruanne võib olla hõlmatud teabevahetusega.\n(4) Riikidepõhise aruande vormi ning selle esitamise ja täitmise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para20^4",
+      "chapter": "2. peatükk - Riikidepõhise aruande alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^4",
+      "title": "§ 20^4. Teabeandja",
+      "content": "Teabeandja käesoleva peatüki tähenduses on direktiivi lisa 3 1. jao punkti 6 määratlusele vastav Eesti maksuresidendist aruandekohustuslik üksus, kelleks võib olla: 1 1) Eesti maksuresidendist lõplik emaüksus, nagu see on määratletud direktiivi lisa 3 1. jao punktis 7;\n2) Eesti maksuresidendist asendusemaüksus, nagu see on määratletud direktiivi lisa 3 1. jao punktis 8 või\n3) direktiivi lisa 3 2. jao punktis 1 nimetatud asjaolude esinemise korral Eesti maksuresidendist muu aruandekohustuslik üksus, kes ei ole kontserni emaüksus."
+    },
+    {
+      "provision_ref": "para20^5",
+      "chapter": "2. peatükk - Riikidepõhise aruande alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^5",
+      "title": "§ 20^5. Teabeandja kohustused",
+      "content": "(1) Eesti maksuresidendist aruandekohustuslik üksus kogub käesoleva seaduse § 20^3 lõikes 1 nimetatud riikidepõhise aruande esitamiseks vajaliku teabe ning esitab maksuhaldurile riikidepõhise aruande aruandeaastaks olevale majandusaastale järgneva kalendriaasta 31. detsembriks.\n(2) Eesti maksuresidendist muu aruandekohustuslik üksus, kes ei ole kontserni emaüksus:\n1) taotleb kontserni lõplikult emaüksuselt kogu käesoleva paragrahvi lõikes 1 sätestatud aruandekohustuse täitmiseks vajaliku teabe edastamist;\n2) esitab riikidepõhise aruande ka juhul, kui tal ei ole kogu aruandekohustuse täitmiseks vajalikku teavet;\n3) teavitab maksuhaldurit kontserni lõpliku emaüksuse keeldumisest edastada mis tahes aruandekohustuse täitmiseks vajalikku teavet.\n(3) Kui kontserni nimel esitab riikidepõhise aruande kontserni lõplik emaüksus või direktiivi lisa 3 2. jao punkti 2 kohaselt kontserni asendusemaüksus oma maksuresidentsuse riigi või jurisdiktsiooni maksuhaldurile, ei teki Eesti maksuresidendist kontserni liikmel aruandekohustust."
+    },
+    {
+      "provision_ref": "para20^6",
+      "chapter": "2. peatükk - Riikidepõhise aruande alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^6",
+      "title": "§ 20^6. Kontserni liikme teavitamiskohustus",
+      "content": "(1) Direktiivi lisa 3 2. jao punktis 1 nimetatud asjaolude esinemise korral ning juhul, kui kontsernil on rohkem kui üks liige, kes vastab aruandekohustusliku üksuse määratlusele, võib kontsern teatada maksuhaldurile ühe kontserni liikme määramisest kontserni nimel riikidepõhise aruande esitajaks. Sellisele kontserni liikmele peab olema kontsernisiseselt tagatud juurdepääs kogu teabele, mis on vajalik riikidepõhise aruande esitamiseks.\n(2) Iga Eesti maksuresidendist kontserni liige teatab maksuhaldurile, kas ta on käesoleva seaduse §-s 20^4 nimetatud aruandekohustuslik üksus. Käesolevas lõikes sätestatud kohustus ei ole kohustus käesoleva seaduse § 2 punkti 5 tähenduses.\n(3) Kui Eesti maksuresidendist kontserni liige ei ole aruandekohustuslik üksus, teatab ta maksuhaldurile, kes kontserni liikmetest on aruandekohustuslik üksus ning sellise üksuse maksuresidentsuse.\n(4) Käesolevas paragrahvis sätestatud teavitamiskohustus tuleb täita kuue kuu jooksul kontserni aruandeaastaks oleva majandusaasta lõppemisest arvates.\n(5) Käesolevas paragrahvis sätestatud teavitamiskohustuse täitmata jätmisel võib maksuhaldur nõuda käesoleva seaduse § 20^5 lõikes 1 sätestatud kohustuse täitmist ükskõik milliselt Eesti maksuresidendist kontserni liikmelt."
+    },
+    {
+      "provision_ref": "para20^7",
+      "chapter": "2. peatükk - Riikidepõhise aruande alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^7",
+      "title": "§ 20^7. Maksuhalduri kohustused",
+      "content": "(1) Maksuhaldur teavitab kõiki teisi Euroopa Liidu liikmesriike kontserni lõpliku emaüksuse keeldumisest edastada Eesti maksuresidendist aruandekohustuslikule üksusele riikidepõhise aruande esitamiseks vajalikku teavet.\n(2) Maksuhaldur avaldab oma veebilehel käesoleva seaduse §-de 20^5 ja 20^6 kohaselt esitatud andmed maksukorralduse seaduse § 27 lõikes 8 sätestatud korras."
+    },
+    {
+      "provision_ref": "para20^8",
+      "chapter": "2. peatükk - Piiriüleste skeemide alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^8",
+      "title": "§ 20^8. Piiriülene skeem",
+      "content": "(1) Piiriülene skeem käesoleva peatüki tähenduses on tehing või tehingute ahel, millel on seos Euroopa Liidu liikmesriigi (edaspidi käesolevas peatükis liikmesriik ) või kolmanda riigiga ning mis võib mõjutada maksustamist, finantskontodealast teabevahetust või tegeliku kasusaaja tuvastamist.\n(2) Maksustamist võib mõjutada piiriülene skeem, mille puhul on täidetud vähemalt üks järgmistest tingimustest:\n1) skeemis osalevad isikud on erinevate riikide või jurisdiktsioonide residendid;\n2) vähemalt üks skeemis osalevatest isikutest on samal ajal rohkem kui ühe riigi või jurisdiktsiooni resident;\n3) vähemalt üks skeemis osalevatest isikutest tegutseb riigis või jurisdiktsioonis, mille resident ta ei ole.\n(3) Finantskontodealast teabevahetust võib mõjutada piiriülene skeem, mis häirib või takistab käesoleva seaduse §-s 4^1 ning 1^1. ja 2. peatükis sätestatud finantskontode maksualase teabe kogumist või vahetamist.\n(4) Tegeliku kasusaaja tuvastamist võib mõjutada piiriülene skeem, millega on raskendatud või muudetud võimatuks rahapesu ja terrorismi rahastamise tõkestamise seaduse kohaselt määratletava tegeliku kasusaaja tuvastamine.\n(5) Loetelu piiriüleste skeemide kriteeriumidest, mis viitavad maksustamise, finantskontodealase teabevahetuse või tegeliku kasusaaja tuvastamise vältimise ohule, kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para20^9",
+      "chapter": "2. peatükk - Piiriüleste skeemide alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^9",
+      "title": "§ 20^9. Aruandekohustusega skeem",
+      "content": "Aruandekohustusega skeem on teabevahetusega hõlmatud skeem, mis puudutab ka teist liikmesriiki või kolmandat riiki ja mille puhul esineb vähemalt üks käesoleva seaduse § 20^8 lõike 5 alusel antavas valdkonna eest vastutava ministri määruses nimetatud kriteerium."
+    },
+    {
+      "provision_ref": "para20^10",
+      "chapter": "2. peatükk - Piiriüleste skeemide alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^10",
+      "title": "§ 20^10. Teabeandja",
+      "content": "(1) Teabeandja käesoleva peatüki tähenduses on aruandekohustusega skeemi väljatöötamise, turustamise, kättesaadavaks tegemise või selle rakendamise korraldamise või juhtimise teenust osutanud isik.\n(1^1) Teabeandja käesoleva peatüki tähenduses on ka isik, kes on aruandekohustusega skeemi väljatöötamise, turustamise, kättesaadavaks tegemise või selle rakendamise korraldamise või juhtimisega seoses isiklikult või teiste isikute kaudu abi, tuge või nõu andnud.\n(2) Teabeandjaks ei ole isik, kelle puhul saab eeldada, et ta ei teadnud ega pidanud teadma, et osutatud teenus või teenuse osutamisel antud abi või nõu oli seotud aruandekohustusega skeemiga.\n(3) Aruandekohustuslik on teabeandja, kes vastab vähemalt ühele järgmistest tingimustest:\n1) ta on Eesti resident tulumaksuseaduse § 6 tähenduses;\n2) temale kuuluva Eestis asuva püsiva tegevuskoha kaudu osutatakse aruandekohustusega skeemiga seonduvaid teenuseid;\n3) ta on Eestis asutatud või tema tegevus on reguleeritud Eesti õigusaktidega;\n4) ta on sellise Eesti kutseühenduse liige, mis ühendab õigus- või maksunõustamisteenust osutavaid isikuid."
+    },
+    {
+      "provision_ref": "para20^11",
+      "chapter": "2. peatükk - Piiriüleste skeemide alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^11",
+      "title": "§ 20^11. Asjaomane maksukohustuslane",
+      "content": "Asjaomane maksukohustuslane käesoleva peatüki tähenduses on isik, kellele aruandekohustusega skeem on tehtud rakendamiseks kättesaadavaks või kes on valmis seda rakendama või on rakendanud selle esimese etapi."
+    },
+    {
+      "provision_ref": "para20^12",
+      "chapter": "2. peatükk - Piiriüleste skeemide alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^12",
+      "title": "§ 20^12. Seotud isikud",
+      "content": "(1) Seotud isik käesoleva peatüki tähenduses on isik, kes osaleb teise isiku juhtimises sellises positsioonis, mis annab võimaluse teise isiku tegevust olulisel määral mõjutada, ning isik, kellele kuulub kas üle 25 protsendi ühe juriidilise isiku aktsia- või osakapitalist või häälte koguarvust või vähemalt 25 protsenti kasumi saamise õigusest.\n(2) Seotud isikutena käsitatakse kõiki isikuid, kes on samal ajal sama isikuga seotud käesoleva paragrahvi lõikes 1 nimetatud mis tahes viisil.\n(3) Isikule, kes tegutseb hääleõigusest või osaluse omamisest tulenevate õiguste teostamisel ühiselt teise isikuga, omistatakse ka selle teise isiku eelnimetatud õigused.\n(4) Kaudse osaluse suurus määratakse kindlaks, korrutades osaluse suuruse ettevõtjas osaluse suurusega iga järgneva astme tütarettevõtjas. Isikut, kelle omandis on üle 50 protsendi hääleõigustest, käsitatakse 100 protsendi hääleõiguste omanikuna.\n(5) Käesolevas peatükis käsitatakse füüsilist isikut, tema abikaasat või elukaaslast ning tema otseseid alanejaid ja ülenejaid sugulasi ühe isikuna."
+    },
+    {
+      "provision_ref": "para20^13",
+      "chapter": "2. peatükk - Piiriüleste skeemide alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^13",
+      "title": "§ 20^13. Teabeandja kohustused",
+      "content": "(1) Teabeandja esitab aruandekohustusega skeemi kohta järgmise talle teadaoleva teabe:\n1) teabeandjaid ja asjaomaseid maksukohustuslasi tuvastada võimaldavad andmed, sealhulgas nimi, füüsilise isiku puhul sünniaeg ja -koht, residentsus, isiku- või registrikood ning maksukohustuslasena registreerimise number, kui see on olemas;\n2) käesoleva lõike punktis 1 nimetatud isikutega seotud isikuid tuvastada võimaldavad andmed;\n3) kriteeriumid, mis muudavad piiriülese skeemi aruandekohustusega skeemiks;\n4) skeemi nimetus, kui see on olemas;\n5) skeemi sisu kokkuvõte, sealhulgas asjassepuutuvate majandustoimingute või -tehingute kirjeldus, ilma et avaldataks äri-, tööstus- või kutsesaladust, turundusprotsessi ega teavet, mille esitamine oleks vastuolus avaliku korraga;\n6) skeemi rakendamise alguse kuupäev;\n7) skeemi õiguslikud üksikasjad;\n8) skeemi rahaliselt hinnatav väärtus;\n9) liikmesriik, millega asjaomane maksukohustuslane on seotud või mida aruandekohustusega skeem tõenäoliselt puudutab;\n10) muu isik, keda aruandekohustusega skeem tõenäoliselt mõjutab, ning liikmesriik, millega isik on seotud;\n11) täiendava teabe esitamise korral skeemi või skeemiosa viitenumber.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud teabe esitab teabeandja maksuhaldurile 30 kalendripäeva jooksul alates aruandekohustusega skeemi rakendamiseks kättesaadavaks tegemise päevale järgnevast päevast, aruandekohustusega skeemi rakendamiseks valmisoleku päevale järgnevast päevast või päevast, kui tehti esimene toiming aruandekohustusega skeemi rakendamiseks, sõltuvalt sellest, milline päev saabub varem. Käesoleva seaduse § 20^10 lõikes 1^1 nimetatud teabeandja esitab maksuhaldurile teabe 30 päeva jooksul alates päevast, kui ta andis piiriülese skeemiga seoses otse või teiste isikute kaudu abi, tuge või nõu.\n(3) Sellise aruandekohustusega skeemi kohta, mis on välja töötatud, turustatud, rakendamiseks valmis või kättesaadav kujul, mida ei ole rakendamiseks vaja olulisel määral kohandada, esitab teabeandja käesoleva paragrahvi lõike 1 punktides 1, 2, 6, 9 ja 10 nimetatud uut või täiendavat teavet iga kolme kuu tagant.\n(4) Teabeandjal on õigus jätta aruandekohustusega skeemi kohta teave esitamata, kui see süüstaks teda ennast või maksukorralduse seaduse § 64 lõike 1 punktis 5 nimetatud isikut väärteo või kuriteo toimepanemises.\n(5) Maksuhaldur annab igale esmakordselt esitatud skeemile või skeemiosale unikaalse viitenumbri. Teabeandja teatab eelnimetatud viitenumbri kõigile teistele sama skeemi või skeemiosaga seotud teenust, abi või nõu pakkunud isikutele.\n(6) Aruandekohustusega skeemi kohta esitatavate andmete koosseisu kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para20^14",
+      "chapter": "2. peatükk - Piiriüleste skeemide alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^14",
+      "title": "§ 20^14. Teabeandja kohustuste üleminek",
+      "content": "(1) Teabeandjal on õigus jätta käesoleva seaduse §-s 20^13 sätestatud kohustused täitmata, kui nende täitmine tähendaks seadusest tuleneva kutsesaladuse hoidmise kohustuse rikkumist.\n(2) Käesoleva seaduse §-s 20^13 sätestatud kohustuste täitmata jätmisest teavitab teabeandja teist aruandekohustusega skeemiga seotud teabeandjat või sellise teabeandja puudumisel asjaomast maksukohustuslast.\n(3) Käesoleva seaduse §-s 20^13 sätestatud kohustuste täitmata jätmise korral lähevad teabeandja kohustused üle sellest teavitatud teisele asjaomasele teabeandjale või sellise teabeandja puudumise korral asjaomasele maksukohustuslasele."
+    },
+    {
+      "provision_ref": "para20^15",
+      "chapter": "2. peatükk - Piiriüleste skeemide alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^15",
+      "title": "§ 20^15. Teabeandja aruande esitamise riik",
+      "content": "(1) Kui teabeandjal tekib aruandekohustus rohkem kui ühes liikmesriigis, millest üks on Eesti, ja seos Eestiga esineb allolevas loetelus esimesena, esitab ta käesoleva seaduse § 20^13 kohase teabe Maksu- ja Tolliametile. Teabeandja seos liikmesriigiga võib olla järgmine:\n1) ta on selle resident;\n2) tal on seal püsiv tegevuskoht, mille kaudu ta osutab aruandekohustusega skeemiga seotud teenuseid;\n3) ta on seal asutatud või tema tegevus on reguleeritud selle riigi õigusaktidega;\n4) ta on selle riigi õigus- või maksunõustamisteenust osutavaid isikuid ühendava kutseühenduse liige.\n(2) Kui teabeandjal tekib käesoleva paragrahvi lõike 1 kohaselt aruandekohustus rohkem kui ühes liikmesriigis, on tal õigus jätta käesoleva seaduse §-s 20^13 sätestatud kohustused täitmata, kui tal on tõendid selle kohta, et kohustused on täidetud teises liikmesriigis."
+    },
+    {
+      "provision_ref": "para20^16",
+      "chapter": "2. peatükk - Piiriüleste skeemide alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^16",
+      "title": "§ 20^16. Teabeandjate paljusus",
+      "content": "Kui käesoleva peatüki kohaselt on sama aruandekohustusega skeemi kohta aruandekohustuslikke teabeandjaid rohkem kui üks, on teabeandjal õigus jätta käesoleva seaduse §-s 20^13 sätestatud kohustused täitmata, kui tal on tõendid selle kohta, et kohustused on täitnud teine aruandekohustuslik teabeandja."
+    },
+    {
+      "provision_ref": "para20^17",
+      "chapter": "2. peatükk - Piiriüleste skeemide alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^17",
+      "title": "§ 20^17. Asjaomase maksukohustuslase aruandekohustus",
+      "content": "Käesolevas peatükis sätestatud teabeandjaks on asjaomane maksukohustuslane, kui aruandekohustusega skeemi väljatöötamisega, turustamisega, kättesaadavaks tegemisega või selle rakendamise korraldamise või juhtimisega seotud teenust osutaval isikul ei ole üheski liikmesriigis kohustust selle skeemi kohta teavet esitada või kui selline isik puudub. Asjaomasele maksukohustuslasele ei lähe üle käesoleva seaduse § 20^13 lõikes 3 sätestatud kohustus."
+    },
+    {
+      "provision_ref": "para20^18",
+      "chapter": "2. peatükk - Piiriüleste skeemide alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^18",
+      "title": "§ 20^18. Asjaomase maksukohustuslase aruande esitamise riik",
+      "content": "(1) Kui maksukohustuslane on aruandekohustuslik rohkem kui ühes liikmesriigis, millest üks on Eesti, ja seos Eestiga esineb allolevas loetelus esimesena, esitab ta käesoleva seaduse § 20^13 lõike 1 kohase teabe Maksu- ja Tolliametile. Maksukohustuslase seos liikmesriigiga võib olla järgmine:\n1) ta on selle resident;\n2) tal on seal püsiv tegevuskoht, mis saab aruandekohustusega skeemist kasu;\n3) ta saab seal tulu või teenib kasumit, kuid ta ei ole selle resident ning tal ei ole seal püsivat tegevuskohta;\n4) ta tegutseb seal, kuid ta ei ole selle resident ning tal ei ole seal püsivat tegevuskohta.\n(2) Kui asjaomasel maksukohustuslasel on käesoleva paragrahvi lõike 1 alusel aruandekohustus rohkem kui ühes liikmesriigis, on tal õigus jätta käesoleva seaduse §-s 20^13 sätestatud kohustused täitmata, kui tal on tõendid selle kohta, et kohustused on täidetud teises liikmesriigis."
+    },
+    {
+      "provision_ref": "para20^19",
+      "chapter": "2. peatükk - Piiriüleste skeemide alane automaatne teabevahetus Euroopa Liidus",
+      "section": "20^19",
+      "title": "§ 20^19. Asjaomaste maksukohustuslaste paljusus",
+      "content": "(1) Kui käesoleva peatüki kohaselt on aruandekohustuslikke asjaomaseid maksukohustuslasi rohkem kui üks, esitab käesoleva seaduse § 20^13 lõike 1 kohase teabe maksuhaldurile see asjaomane maksukohustuslane, kes on aruandekohustusega skeemi väljatöötamises teabeandjaga kokku leppinud, või kui sellist isikut ei ole, siis see asjaomane maksukohustuslane, kes juhib skeemi rakendamist.\n(2) Asjaomasel maksukohustuslasel on õigus jätta käesoleva seaduse §-s 20^13 sätestatud kohustused täitmata, kui tal on tõendid selle kohta, et kohustused on täitnud teine asjaomane maksukohustuslane."
+    },
+    {
+      "provision_ref": "para20^20",
+      "chapter": "2. peatükk - Platvormialase teabe automaatne vahetus",
+      "section": "20^20",
+      "title": "§ 20^20. Platvorm",
+      "content": "(1) Platvorm käesoleva peatüki tähenduses on tarkvara, mis võimaldab müüjal olla ühenduses teiste kasutajatega aruandekohustusega hõlmatud tegevusega tegelemiseks, samuti moodustis sellise tegevusega seonduva tasu kogumiseks ja maksmiseks.\n(2) Platvormina ei käsitata sellist tarkvara, mis võimaldab kasutajatele üksnes:\n1) maksete töötlemist;\n2) kaupade või teenuste loetlemist või reklaamimist;\n3) nende ümbersuunamist või üleviimist platvormile."
+    },
+    {
+      "provision_ref": "para20^21",
+      "chapter": "2. peatükk - Platvormialase teabe automaatne vahetus",
+      "section": "20^21",
+      "title": "§ 20^21. Aruandekohustusega hõlmatud tegevus",
+      "content": "(1) Aruandekohustusega hõlmatud tegevus käesoleva peatüki tähenduses on tasu eest tehtav järgmine tegevus:\n1) kinnisasja või selle osa rendile või üürile andmine;\n2) aja- või ülesandepõhise teenuse osutamine;\n3) asja võõrandamine;\n4) transpordivahendi rendile või üürile andmine.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud tasu tähendab mis tahes vormis tasu, mis on aruandekohustusega hõlmatud tegevusega seoses müüjale makstud või krediteeritud ja millest on maha arvatud kõik platvormihalduri kinni peetud või sisse nõutud platvormil tegutsemisega seotud teenustasud, vahendustasud või maksud ning mille suurus on platvormihaldurile teada või peaks talle mõistlikult eeldades teada olema.\n(3) Aruandekohustusega hõlmatud tegevuseks ei loeta sellist käesoleva paragrahvi lõikes 1 sätestatud tegevust, mida teeb müüja, kes on platvormihalduriga seotud üksus direktiivi lisa 5 1. jao C jaotise punkti 1 tähenduses (edaspidi seotud üksus ) või platvormihalduri töötaja."
+    },
+    {
+      "provision_ref": "para20^22",
+      "chapter": "2. peatükk - Platvormialase teabe automaatne vahetus",
+      "section": "20^22",
+      "title": "§ 20^22. Müüja",
+      "content": "(1) Müüja käesoleva seaduse tähenduses on isik või õiguslik moodustis, kes on platvormil registreeritud ja tegeleb aruandekohustusega hõlmatud tegevusega või kellele makstakse või krediteeritakse selle tegevusega seonduvalt tasu.\n(2) Aruandlusega hõlmatud müüja on liikmesriigi residendist müüja või müüja, kes annab rendile või üürile liikmesriigis asuvat kinnisasja või selle osa. Samuti on aruandlusega hõlmatud müüja Maksu- ja Tolliameti veebilehel avaldatud loetelus oleva Euroopa Liidu välise riigi või jurisdiktsiooni residendist müüja või müüja, kes annab rendile või üürile sellises riigis või jurisdiktsioonis asuvat kinnisasja või selle osa.\n(3) Aruandlusest välistatud müüja on:\n1) valitsusüksus direktiivi lisa 5 1. jao C jaotise punkti 2 tähenduses;\n2) äriühing, kelle aktsiatega kaubeldakse reguleeritud väärtpaberiturul korrapäraselt, samuti temaga seotud üksus, mille aktsiatega kaubeldakse reguleeritud väärtpaberiturul korrapäraselt;\n3) juriidiline isik või õiguslik moodustis, kes on jooksval kalendriaastal osutanud enam kui 2000 korral rendi- või üüriteenust seoses kinnisasjade või nende osadega, mis asuvad samal aadressil ning mis kuuluvad samale omanikule;\n4) isik või õiguslik moodustis, kes on jooksval kalendriaastal sõlminud platvormi kaudu vähem kui 30 tehingut asja müügiks ja kellele makstud või krediteeritud tasu kogusumma ei ületa 2000 eurot."
+    },
+    {
+      "provision_ref": "para20^23",
+      "chapter": "2. peatükk - Platvormialase teabe automaatne vahetus",
+      "section": "20^23",
+      "title": "§ 20^23. Platvormihaldur",
+      "content": "(1) Platvormihaldur käesoleva peatüki tähenduses on juriidiline isik või õiguslik moodustis, kes sõlmib müüjaga lepingu platvormi või selle osa müüjale kättesaadavaks tegemiseks.\n(2) Teabeandja käesoleva peatüki tähenduses on Eesti residendist platvormihaldur. Kui platvormihaldur ei ole Eesti resident, käsitatakse teda teabeandjana, kui tema juhtimise koht on Eestis või kui tal on Eestis püsiv tegevuskoht või kui ta on õiguslik moodustis, mis on asutatud Eesti õiguse alusel.\n(3) Teabeandjana käsitatakse ka sellist platvormihaldurit, kes ei ole ühegi liikmesriigi resident, kes ei ole loodud ühegi liikmesriigi õiguse kohaselt, kellel ei ole üheski liikmesriigis juhtimise kohta ega püsivat tegevuskohta, kuid kes vahendab käesoleva seaduse § 20^22 lõike 2 esimeses lauses sätestatud müüja tegevust (edaspidi ka liiduväline platvormihaldur ) ja kes on Eestis § 20^28 lõike 1 kohaselt registreeritud."
+    },
+    {
+      "provision_ref": "para20^24",
+      "chapter": "2. peatükk - Platvormialase teabe automaatne vahetus",
+      "section": "20^24",
+      "title": "§ 20^24. Hoolsusmeetmete rakendamine",
+      "content": "(1) Platvormihaldur tuvastab hoolsusmeetmeid rakendades jooksva kalendriaasta 31. detsembriks tema platvormil tegutsevad aruandlusega hõlmatud müüjad.\n(2) Juriidiline isik või õiguslik moodustis rakendab platvormihaldurina tegevuse alustamise kalendriaasta kohta käivad hoolsusmeetmed sellele järgneva kalendriaasta 31. detsembriks.\n(3) Platvormihaldur võib hoolsusmeetmete rakendamisel tugineda eelmiste kalendriaastate hoolsusmeetmetele, kui:\n1) müüja kohta käiv teave on kogutud ja kontrollitud või kinnitatud viimase 36 kuu jooksul ning\n2) platvormihalduril ei ole põhjust arvata, et müüja kohta või tema poolt rendile või üürile antud kinnisasja või selle osa kohta kogutud teave on ebausaldusväärne.\n(4) Platvormihaldur võib hoolsusmeetmeid rakendada kolmanda isiku kaudu, kuid vastutus nende nõuetekohasuse eest lasub platvormihalduril.\n(5) Platvormihaldur ei ole kohustatud koguma teavet ega rakendama muid hoolsusmeetmeid sellise müüja suhtes, kes ei ole jooksval kalendriaastal tegelenud aruandekohustusega hõlmatud tegevusega ega saanud tasu selle tegevusega seoses."
+    },
+    {
+      "provision_ref": "para20^25",
+      "chapter": "2. peatükk - Platvormialase teabe automaatne vahetus",
+      "section": "20^25",
+      "title": "§ 20^25. Aruandlusega hõlmatud müüja ja kinnisasja või selle osa kohta teabe esitamine",
+      "content": "(1) Teabeandja esitab aruandlusega hõlmatud müüja kohta ja asjakohasel juhul tema poolt rendile või üürile antud kinnisasja või selle osa kohta käiva teabe maksuhaldurile hiljemalt hoolsusmeetmete rakendamisele järgneva kalendriaasta 31. jaanuaril.\n(2) Käesoleva seaduse § 20^24 lõikes 2 sätestatud juhul esitab teabeandja platvormihaldurina tegevuse alustamise kalendriaasta kohta käiva teabe maksuhaldurile hiljemalt ülejärgmise kalendriaasta 31. jaanuaril.\n(3) Teabeandja ei pea maksuhaldurile teavet esitama, kui:\n1) ta hoolsusmeetmete rakendamisel ei tuvastanud oma platvormil aruandlusega hõlmatud müüjaid ja teavitab sellest maksuhaldurit hiljemalt 31. jaanuaril;\n2) ta esitab või on esitanud teabe nõuetekohaselt teise liikmesriigi pädevale ametiasutusele ja teavitab sellest maksuhaldurit hiljemalt 31. jaanuaril;\n3) sama teave on teise platvormihalduri poolt maksuhaldurile, teise liikmesriigi või käesoleva seaduse § 20^30 lõikes 1 sätestatud Euroopa Liidu välise riigi või jurisdiktsiooni pädevale ametiasutusele juba esitatud ja teabeandjal on tõendeid selle kohta.\n(4) Käesoleva paragrahvi lõike 3 punktis 2 sätestatud alusele ei saa tugineda liiduväline platvormihaldur, kes on ennast käesoleva seaduse § 20^28 lõike 1 kohaselt Eestis registreerinud.\n(5) Teabeandja esitab teabe enne maksuhaldurile esitamist aruandlusega hõlmatud müüjale, kelle kohta see käib."
+    },
+    {
+      "provision_ref": "para20^26",
+      "chapter": "2. peatükk - Platvormialase teabe automaatne vahetus",
+      "section": "20^26",
+      "title": "§ 20^26. Hoolsusmeetmed ja esitatava teabe loetelu",
+      "content": "Käesoleva seaduse § 20^24 kohased hoolsusmeetmed, samuti § 20^25 kohaselt maksuhaldurile esitatava teabe loetelu kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para20^27",
+      "chapter": "2. peatükk - Platvormialase teabe automaatne vahetus",
+      "section": "20^27",
+      "title": "§ 20^27. Platvormihalduri vabastamine käesolevas peatükis sätestatud kohustustest",
+      "content": "(1) Kui platvormi ärimudelist tulenevalt ei saa sellel tegutseda käesoleva seaduse § 20^22 lõike 2 esimeses lauses sätestatud müüjad, võib maksuhaldur platvormihalduri tema taotlusel vabastada jooksva kalendriaasta suhtes käesolevas peatükis sätestatud kohustuste täitmisest eelnimetatud müüjatega seoses.\n(2) Maksuhaldur teavitab teiste liikmesriikide pädevaid ametiasutusi igast platvormihaldurist, kes on käesoleva paragrahvi lõike 1 kohaselt vabastatud käesolevas peatükis sätestatud kohustuste täitmisest.\n(3) Platvormihaldur loetakse jooksva kalendriaasta suhtes käesolevas peatükis sätestatud kohustuste täitmisest vabastatuks ilma käesoleva paragrahvi lõike 1 kohase taotluseta, kui teise liikmesriigi pädev ametiasutus, kellele ta oleks pidanud teavet esitama, on ta samaväärsel viisil juba vabastanud."
+    },
+    {
+      "provision_ref": "para20^28",
+      "chapter": "2. peatükk - Platvormialase teabe automaatne vahetus",
+      "section": "20^28",
+      "title": "§ 20^28. Liiduvälise platvormihalduri registreerimiskohustus",
+      "content": "(1) Liiduväline platvormihaldur on kohustatud ennast viivitamata registreerima maksuhalduri juures, kui ta tuvastab hoolsusmeetmete rakendamisel, et tema platvormil tegutsevad käesoleva seaduse § 20^22 lõike 2 esimeses lauses sätestatud aruandlusega hõlmatud müüjad. Liiduväline platvormihaldur ei saa taotleda maksuhalduri juures registreerimist, kui ta:\n1) on samaväärselt juba registreeritud teises liikmesriigis;\n2) taotleb samaväärset registreerimist teises liikmesriigis.\n(2) Maksuhaldur teavitab teiste liikmesriikide pädevaid ametiasutusi liiduvälise platvormihalduri registreerimisest.\n(3) Liiduvälist platvormihaldurit ei registreerita maksuhalduri juures, kui ta varasem registreering maksuhalduri või teise liikmesriigi pädeva ametiasutuse juures on tunnistatud kehtetuks platvormialase teabe nõuetekohaselt esitamata jätmise tõttu ja kõnealune teave on jätkuvalt nõuetekohaselt esitamata.\n(4) Liiduvälise platvormihalduri registreerimise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para20^29",
+      "chapter": "2. peatükk - Platvormialase teabe automaatne vahetus",
+      "section": "20^29",
+      "title": "§ 20^29. Liiduvälise platvormihalduri registreeringu kehtetuks tunnistamine",
+      "content": "(1) Maksuhaldur tunnistab liiduvälise platvormihalduri registreeringu kehtetuks, kui:\n1) liiduväline platvormihaldur ei täida nõuetekohaselt maksuhaldurile teabe esitamise kohustust vaatamata maksuhalduri korduvatele meeldetuletustele;\n2) liiduväline platvormihaldur teavitab maksuhaldurit, et ta ei vahenda oma platvormil enam aruandlusega hõlmatud müüjaid;\n3) maksuhalduril on alust arvata, et liiduväline platvormihaldur on lõpetanud oma tegevuse platvormihaldurina või ei ole enam käsitatav liiduvälise platvormihaldurina;\n4) liiduväline platvormihaldur vabaneb registreerimise kohustusest käesoleva seaduse § 20^30 lõike 1 kohaselt;\n5) liiduväline platvormihaldur esitab selleks taotluse ning taotluse esitamisele eelnevate kalendriaastate kohta käiv platvormialane teave on nõuetekohaselt maksuhaldurile esitatud.\n(2) Käesoleva paragrahvi lõike 1 punktis 1 nimetatud juhul tunnistatakse registreering kehtetuks hiljemalt 90 päeva möödumisel teabe esitamise tähtpäevast, kuid mitte enne 30 päeva möödumist viimasest meeldetuletusest.\n(3) Käesoleva paragrahvi lõike 1 punktis 5 nimetatud juhul peab platvormihaldur taotlusele lisama käesoleva seaduse alusel esitamisele kuuluva jooksva kalendriaasta kohta käiva olemasoleva platvormialase teabe."
+    },
+    {
+      "provision_ref": "para20^30",
+      "chapter": "2. peatükk - Platvormialase teabe automaatne vahetus",
+      "section": "20^30",
+      "title": "§ 20^30. Liiduvälise platvormihalduri vabastamine registreerimis- ja teabe esitamise kohustusest",
+      "content": "(1) Liiduväliselt platvormihaldurilt ei nõuta teabe esitamist selle aruandlusega hõlmatud müüja kohta, kelle suhtes on juba ette nähtud samaväärse teabe automaatne vahetamine liikmesriigiga selle riigi või jurisdiktsiooni poolt, kus liiduväline platvormihaldur on resident või kus ta on asutatud või kus on tema juhtimise koht, ega selle müüja puhul enda registreerimist.\n(2) Teabe samaväärsust kinnitab Euroopa Komisjon direktiivis sätestatud alusel ja korras rakendusmäärusega."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - Järelevalve",
+      "section": "21",
+      "title": "§ 21. Järelevalveasutus",
+      "content": "Käesoleva seaduse ja selle alusel antud õigusaktide täitmise üle teostab järelevalvet maksuhaldur maksukorralduse seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - Järelevalve",
+      "section": "22",
+      "title": "§ 22. Sunniraha",
+      "content": "(1) Käesolevast seadusest tulenevate teabeandja kohustuste täitmata jätmise korral võib maksuhaldur määrata kohustuste täitmiseks täiendava tähtaja ja teha maksukorralduse seaduse § 136 kohase sunniraha rakendamise hoiatuse.\n(2) Kui teabeandja või seaduses sätestatud juhul asjaomane maksukohustuslane ei ole hoiatuses märgitud tähtpäevaks kohustusi täitnud, peab ta tasuma hoiatuses märgitud sunniraha. Maksuhaldur esitab kohustatud isikule sunniraha tasumise nõude korraldusega, määrab selle tasumise tähtaja ning teeb hoiatuse, et sunniraha tähtaja jooksul tasumata jätmise korral nõue sundtäidetakse vastavalt maksukorralduse seaduse §-dele 128–132.\n(3) Kohustuse täitmisele sundimiseks ei tohi sunniraha kokku ületada 3300 eurot, sealjuures ei tohi see esimesel korral ületada 1300 eurot ja teisel korral 2000 eurot.\n(4) Käesolevas paragrahvis sätestatut kohaldatakse ka Eesti maksuresidendist kontserni liikme suhtes käesoleva seaduse §-s 20^6 sätestatud teavitamiskohustuse täitmata jätmise korral."
+    },
+    {
+      "provision_ref": "para22^1",
+      "chapter": "3. peatükk - Järelevalve",
+      "section": "22^1",
+      "title": "§ 22^1. Platvormile juurdepääsul hoiatuse kuvamine ja juurdepääsu piiramine teabe esitamata jätmise tõttu",
+      "content": "(1) Maksuhaldur võib infoühiskonna teenuse osutajalt ettekirjutusega nõuda platvormile juurdepääsul kasutajatele hoiatuse kuvamist, kui teabeandja ei ole maksuhalduri määratud täiendava tähtaja jooksul teavet esitanud.\n(2) Maksuhaldur võib internetiteenust osutavalt üldkasutatava elektroonilise sideteenuse osutajalt nõuda platvormile juurdepääsu piiramist ja ettekirjutuses nimetatud domeeninime blokeerimist talle kuuluvates nimeserverites, kui rikkumise kõrvaldamiseks puuduvad muud tõhusad võimalused.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatut kohaldatakse ka liiduvälisele platvormihaldurile, kes ei ole täitnud käesoleva seaduse § 20^28 lõike 1 kohast registreerimiskohustust või on sama paragrahvi lõikes 3 sätestatud põhjusel registreerimata.\n(4) Maksuhalduril on õigus teha käesoleva paragrahvi lõikes 2 nimetatud ettekirjutus, kui ta on teabeandjat blokeerimise hoiatusel kohustanud teavet esitama täiendava tähtaja jooksul, mis peab olema vähemalt 90 päeva.\n(5) Maksuhaldur teavitab infoühiskonna teenuse osutajat hoiatuse kuvamise ja üldkasutatava elektroonilise sideteenuse osutajat blokeeringu põhjuse äralangemisest, misjärel hoiatus või blokeering kõrvaldatakse teavitamisele järgneval tööpäeval."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - Rakendussätted",
+      "section": "23",
+      "title": "§ 23. Teabe töötlusest teavitamine ja maksukohustuslaste identifitseerimisnumbrite kogumine",
+      "content": "(1) Teabeandja teavitab kirjalikku taasesitamist võimaldavas vormis kõiki kliente, kellega ärisuhe rahapesu ja terrorismi rahastamise tõkestamise seaduse tähenduses on loodud enne käesoleva seaduse jõustumist, käesoleva seaduse alusel toimuvast teabe kogumisest, teabevahetusest ning teabe automaatsest edastamisest hiljemalt 2015. aasta 30. märtsil. Käesoleva lõike esimeses lauses sätestatut ei kohaldata teabeandja suhtes, kellel puudub teabevahetuseks kogutava teabe maksuhaldurile esitamise kohustus käesoleva seaduse 2. peatüki alusel.\n(1^1) Käesoleva paragrahvi lõikes 1 nimetamata teabeandja, kes on klientidega loonud rahapesu ja terrorismi rahastamise tõkestamise seaduse tähenduses ärisuhteid ajal, kui talle ei kohaldunud käesoleva seaduse § 6 lõige 2, teavitab kirjalikku taasesitamist võimaldavas vormis neid kliente käesoleva seaduse alusel toimuvast teabe kogumisest, teabevahetusest ning teabe automaatsest edastamisest kolme kalendrikuu jooksul alates ajast, kui teabeandjale kohaldub käesoleva seaduse § 6 lõige 2.\n(2) Käesoleva seaduse § 16 lõike 1 punktis 1 sätestatud nõuete täitmiseks teavitab aruandekohustuslik Eesti finantsasutus hiljemalt 2016. aasta 30. juunil kliendiandmete puudulikkusest kontoomanikku, kes on või keda kontrolliv isik on hoolsusmeetmete võtmise tulemusena tuvastatud kindlaksmääratud USA isikuna, kelle Ameerika Ühendriikide maksukohustuslase identifitseerimisnumber ei ole teada. Nimetatud kontoomanik esitab aruandekohustuslikule Eesti finantsasutusele Ameerika Ühendriikide maksukohustuslase identifitseerimisnumbri hiljemalt 2016. aasta 31. detsembril."
+    },
+    {
+      "provision_ref": "para23^1",
+      "chapter": "4. peatükk - Rakendussätted",
+      "section": "23^1",
+      "title": "§ 23^1. Käesoleva seaduse 1^1. peatüki rakendamine",
+      "content": "(1) Aruandekohustuslik Eesti finantsasutus kohaldab käesoleva seaduse 1^1. peatükis nimetatud aruandlus- ja hoolsusmeetmeid ning kogub esmakordselt teabe 2016. aastal avatud finantskontode kohta 2016. aasta 31. detsembriks.\n(2) Aruandekohustuslik Eesti finantsasutus kohaldab aruandlus- ja hoolsusmeetmeid ning kogub teabe olemasolevate finantskontode kohta esmakordselt järgmiselt:\n1) füüsilise isiku olemasolevate kõrge väärtusega, direktiivi lisa 1 8. jao C jaotise punktis 15 sätestatud tingimustele vastavate finantskontode kohta 2016. aasta 31. detsembriks;\n2) füüsilise isiku olemasolevate madalama väärtusega, direktiivi lisa 1 8. jao C jaotise punktis 14 sätestatud tingimustele vastavate finantskontode kohta 2017. aasta 31. detsembriks;\n3) direktiivi lisa 1 5. jao E jaotise punktis 1 sätestatud tingimustele vastavate ettevõtte olemasolevate finantskontode kohta 2017. aasta 31. detsembriks.\n(3) Direktiivi lisades 1 ja 2 sätestatud aruandlus- ja hoolsusmeetmete kohaldamisel võib aruandekohustuslik Eesti finantsasutus:\n1) kohaldada uutele finantskontodele ette nähtud hoolsusmeetmeid kõigi olemasolevate finantskontode suhtes, samuti kõrge väärtusega finantskontodele ette nähtud hoolsusmeetmeid kõigi madalama väärtusega finantskontode suhtes;\n2) tugineda olemasoleva madalama väärtusega finantskonto füüsilisest isikust omaniku maksuresidentsuse tuvastamiseks tema kehtivale elukoha aadressile, kui aruandekohustuslikul Eesti finantsasutusel ei ole alust kahelda andmete õigsuses;\n3) kohaldada ettevõtte olemasolevate finantskontode suhtes hoolsusmeetmeid ja edastada nende kohta teavet pärast seda, kui finantskontode kogujääk või -väärtus ületab direktiivi lisa 1 5. jao E jaotise punktis 1 nimetatud piirmäära;\n4) käsitada olemasolevana sellist finantskontot, mille avab mis tahes ajal samas finantsasutuses olemas oleva konto omanik ning mida finantsasutus käsitab koos selle isiku teiste finantskontodega ühe finantskontona, millele laienevad rahapesu ja terrorismi rahastamise tõkestamise seaduse alusel kohaldatavad hoolsusmeetmed ning mille avamisel peab konto omanik esitama vaid direktiivis nimetatud teavet;\n5) koguda esmakordselt finantsvara müügist või lunastamisest saadud brutotulu kohta teabe käesolevas paragrahvis sätestatud vastavast tähtajast ühe aasta võrra hiljem.\n(4) Finantskonto kindlaksmääramisel käesoleva paragrahvi lõike 3 tähenduses kohaldab aruandekohustuslik Eesti finantsasutus direktiivi lisa 1 7. jao C jaotises sätestatud kontojääkide liitmise ja vääringutega seotud eeskirju. Nimetatud eeskirjade kohaldamise tulemusena saadud negatiivne konto kogujääk või -väärtus loetakse nullväärtuseks.\n(5) Käesoleva paragrahvi lõikes 3 sätestatud erisusi kohaldatakse kõigile aruandekohustusliku Eesti finantsasutuse peetavatele finantskontodele ühetaoliselt.\n(6) Käesoleva seaduse § 8^1 lõike 5 punktis 2 sätestatud teabevahetusest välistamata jäetud täiendava kogumispensioni kindlustuslepingu suhtes kohaldab aruandekohustuslik Eesti finantsasutus käesoleva seaduse 1^1. peatükis nimetatud aruandlus- ja hoolsusmeetmeid ning kogub teabe esmakordselt 2020. aasta 31. detsembriks."
+    },
+    {
+      "provision_ref": "para23^2",
+      "chapter": "4. peatükk - Rakendussätted",
+      "section": "23^2",
+      "title": "§ 23^2. Käesoleva seaduse 2. peatüki rakendamine",
+      "content": "(1) Aruandekohustuslikul Eesti finantsasutusel on käesoleva seaduse § 23^1 lõike 3 punktis 4 nimetatud õigus ka käesoleva seaduse 2. peatükist tulenevate kohustuste täitmisel kooskõlas FATCA kokkuleppega.\n(2) Käesoleva seaduse § 8^1 lõikes 5 ja § 23^1 lõikes 6 sätestatut kohaldatakse ka käesoleva seaduse 2. peatükist tulenevate kohustuste täitmisel."
+    },
+    {
+      "provision_ref": "para23^3",
+      "chapter": "4. peatükk - Rakendussätted",
+      "section": "23^3",
+      "title": "§ 23^3. Käesoleva seaduse 2^1. peatüki rakendamine",
+      "content": "(1) Maksuhaldur võib edastada Euroopa Liidu liikmesriigi pädevale ametiasutusele ja Euroopa Komisjonile teavet selliste eelotsuste kohta, mis on antud alates 2012. aasta 1. jaanuarist.\n(2) Ajavahemikul 2012. aasta 1. jaanuarist kuni 2013. aasta 31. detsembrini antud eelotsus on hõlmatud automaatse teabevahetusega juhul, kui see on 2017. aasta 1. jaanuari seisuga kehtiv.\n(3) Andmed käesoleva paragrahvi lõikes 1 nimetatud eelotsuste kohta, mis on antud enne 2017. aasta 1. jaanuari, edastab maksuhaldur igale Euroopa Liidu liikmesriigile ning Euroopa Komisjonile 2017. aasta 31. detsembriks."
+    },
+    {
+      "provision_ref": "para23^4",
+      "chapter": "4. peatükk - Rakendussätted",
+      "section": "23^4",
+      "title": "§ 23^4. Käesoleva seaduse 2^2. peatüki rakendamine",
+      "content": "(1) Käesoleva seaduse 2^2. peatükis sätestatut kohaldatakse sellist majandusaastat puudutavate andmete kohta, mis algab 2016. aasta 1. jaanuaril või sellest hilisemal kuupäeval.\n(2) Aruandekohustuslik üksus, kes ei ole kontserni emaüksus, esitab riikidepõhise aruande esimest korda majandusaasta kohta, mis algab 2017. aasta 1. jaanuaril või sellest hilisemal kuupäeval.\n(3) Käesoleva seaduse § 20^7 lõiget 2 kohaldatakse andmete kohta, mis puudutavad majandusaastat, mis algab 2024. aasta 22. juulil või sellest hilisemal kuupäeval."
+    },
+    {
+      "provision_ref": "para23^5",
+      "chapter": "4. peatükk - Rakendussätted",
+      "section": "23^5",
+      "title": "§ 23^5. Käesoleva seaduse 2^3. peatüki rakendamine",
+      "content": "(1) Käesoleva seaduse 2^3. peatükis sätestatut kohaldatakse selliste aruandekohustusega skeemide suhtes, mis tehakse rakendamiseks kättesaadavaks, mis on rakendamiseks valmis või mille rakendamiseks tehakse esimene toiming 2021. aasta 1. jaanuaril või sellest hilisemal kuupäeval.\n(2) Teabeandja esitab maksuhaldurile käesoleva seaduse § 20^13 lõikes 1 nimetatud teabe esmakordselt 2021. aasta 28. veebruariks selliste aruandekohustusega skeemide kohta, mille rakendamisega alustati ajavahemikul 2018. aasta 25. juunist kuni 2020. aasta 30. juunini.\n(3) Selliste aruandekohustusega skeemide puhul, mis olid rakendamiseks valmis või mille rakendamisega alustati ajavahemikul 2020. aasta 1. juulist kuni 31. detsembrini, hakatakse käesoleva seaduse § 20^13 lõikes 2 sätestatud teabe esitamise tähtaja kulgemist lugema 2021. aasta 1. jaanuarist. Käesoleva seaduse § 20^13 lõikes 3 nimetatud skeemide puhul esitab teabeandja esimest korda uut või täiendavat teavet 2021. aasta 30. aprilliks."
+    },
+    {
+      "provision_ref": "para23^6",
+      "chapter": "4. peatükk - Rakendussätted",
+      "section": "23^6",
+      "title": "§ 23^6. Käesoleva seaduse 2^4. peatüki rakendamine",
+      "content": "Platvormihaldur rakendab käesoleva seaduse 2^4. peatükis nimetatud hoolsusmeetmeid nende müüjate suhtes, kes on platvormil 2023. aasta 1. jaanuari seisuga registreeritud, hiljemalt 2024. aasta 31. detsembriks ning esitab nende ja asjakohasel juhul nende poolt rendile või üürile antud kinnisasja või selle osa kohta käiva 2023. aasta teabe hiljemalt 2025. aasta 31. jaanuaril."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - Rakendussätted",
+      "section": "24",
+      "title": "§ 24.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - Rakendussätted",
+      "section": "28",
+      "title": "§ 28.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - Rakendussätted",
+      "section": "29",
+      "title": "§ 29. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2015. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": []
+}

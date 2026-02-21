@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-224112010001",
+  "type": "statute",
+  "title": "Euroopa Liidu lepingu, Euroopa Liidu toimimise lepingu ja Euroopa Aatomienergiaühenduse asutamislepingu üleminekusätteid käsitleva protokolli muutmise protokolli ratifitseerimise seadus",
+  "title_en": "Euroopa Liidu lepingu, Euroopa Liidu toimimise lepingu ja Euroopa Aatomienergiaühenduse asutamislepingu üleminekusätteid käsitleva protokolli muutmise protokolli ratifitseerimise seadus",
+  "short_name": "ee-law-224112010001",
+  "status": "in_force",
+  "issued_date": "2010-11-16",
+  "in_force_date": "2010-11-25",
+  "url": "https://www.riigiteataja.ee/akt/224112010001.xml",
+  "description": "Official consolidated statute text (Euroopa Liidu lepingu, Euroopa Liidu toimimise lepingu ja Euroopa Aatomienergiaühenduse asutamislepingu üleminekusätteid käsitleva protokolli muutmise protokolli ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida protokoll, millega muudetakse Euroopa Liidu lepingule, Euroopa Liidu toimimise lepingule ja Euroopa Aatomienergiaühenduse asutamislepingule lisatud protokolli üleminekusätete kohta¹, millele Eesti Vabariik on alla kirjutanud 2010. aasta 23. juunil Brüsselis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Käesolev seadus jõustub Riigi Teatajas avaldamisele järgneval päeval."
+    }
+  ],
+  "definitions": []
+}

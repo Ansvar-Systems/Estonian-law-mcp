@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-108072016021",
+  "type": "statute",
+  "title": "Riiklike peretoetuste seadus",
+  "title_en": "Riiklike peretoetuste seadus",
+  "short_name": "RPTS",
+  "status": "in_force",
+  "issued_date": "2001-11-14",
+  "in_force_date": "2017-01-01",
+  "url": "https://www.riigiteataja.ee/akt/108072016021.xml",
+  "description": "Official consolidated statute text (Riiklike peretoetuste seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

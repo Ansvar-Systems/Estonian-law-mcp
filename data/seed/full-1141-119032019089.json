@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-119032019089",
+  "type": "statute",
+  "title": "Rakenduskõrgkooli seadus",
+  "title_en": "Rakenduskõrgkooli seadus",
+  "short_name": "RakKKS",
+  "status": "in_force",
+  "issued_date": "1998-06-10",
+  "in_force_date": "2019-09-01",
+  "url": "https://www.riigiteataja.ee/akt/119032019089.xml",
+  "description": "Official consolidated statute text (Rakenduskõrgkooli seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ee-law-215112010001",
+  "type": "statute",
+  "title": "Täiskasvanute rahvusvahelise kaitse konventsiooniga ühinemise seadus",
+  "title_en": "Täiskasvanute rahvusvahelise kaitse konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-215112010001",
+  "status": "in_force",
+  "issued_date": "2010-10-27",
+  "in_force_date": "2010-11-25",
+  "url": "https://www.riigiteataja.ee/akt/215112010001.xml",
+  "description": "Official consolidated statute text (Täiskasvanute rahvusvahelise kaitse konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Konventsiooniga ühinemine",
+      "content": "Ühineda juurdelisatud täiskasvanute rahvusvahelise kaitse konventsiooniga, mille Haagi Rahvusvahelise Eraõiguse Konverents on vastu võtnud 2000. aasta 13. jaanuaril Haagis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Keskasutus",
+      "content": "Konventsiooni artikli 28 lõike 1 alusel määratakse keskasutuseks Justiitsministeerium."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Reservatsioon",
+      "content": "Ühinemisel teha artikli 56 alusel artikli 51 lõike 2 suhtes reservatsioon, et Eesti Vabariigi keskasutusele või muule ametiasutusele originaalkeeles saadetud materjalidele peab olema lisatud tõlge inglise keelde, kui tõlge eesti keelde ei ole võimalik."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4. Deklaratsioon",
+      "content": "Deklareerida konventsiooni artikli 32 lõike 2 alusel, et sama artikli lõike 1 alusel esitatud teabetaotlused tuleb edastada keskasutuse kaudu."
+    }
+  ],
+  "definitions": []
+}

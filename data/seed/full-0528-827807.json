@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-827807",
+  "type": "statute",
+  "title": "Euroopa ühenduste finantshuvide kaitse konventsiooniga ja selle protokollidega ühinemise seadus",
+  "title_en": "Euroopa ühenduste finantshuvide kaitse konventsiooniga ja selle protokollidega ühinemise seadus",
+  "short_name": "ee-law-827807",
+  "status": "in_force",
+  "issued_date": "2004-11-23",
+  "in_force_date": "2005-01-16",
+  "url": "https://www.riigiteataja.ee/akt/827807.xml",
+  "description": "Official consolidated statute text (Euroopa ühenduste finantshuvide kaitse konventsiooniga ja selle protokollidega ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Euroopa ühenduste finantshuvide kaitse konventsiooniga ühinemine",
+      "content": "Ühineda juurdelisatud Euroopa ühenduste finantshuvide kaitse konventsiooniga, mis on koostatud 1995. aasta 26. juulil Brüsselis ja mis on välja töötatud Euroopa ühenduste finantshuve kahjustava kelmuse kriminaliseerimiseks kõikides Euroopa Liidu liikmesriikides."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Euroopa ühenduste finantshuvide kaitse konventsiooni protokolliga ühinemine",
+      "content": "Ühineda juurdelisatud Euroopa ühenduste finantshuvide kaitse konventsiooni protokolliga, mis on koostatud 1996. aasta 27. septembril Brüsselis ja mis on suunatud riigi ja ühenduse ametnikega seotud Euroopa ühenduste finantshuve kahjustavate või kahjustada võivate korruptiivsete tegude vastu."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Euroopa ühenduste finantshuvide kaitse konventsiooni teise protokolliga ühinemine",
+      "content": "Ühineda juurdelisatud Euroopa ühenduste finantshuvide kaitse konventsiooni teise protokolliga, mis on koostatud 1997. aasta 19. juunil Luxembourgis ja mis on suunatud juriidiliste isikute vastutuse ning konfiskeerimise ja rahapesu küsimustele ning liikmesriikide ja komisjoni koostööle Euroopa ühenduste finantshuvide ja nendega seotud isikuandmete kaitsmiseks. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

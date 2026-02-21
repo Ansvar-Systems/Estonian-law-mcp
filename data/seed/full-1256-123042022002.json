@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-123042022002",
+  "type": "statute",
+  "title": "Seadus «Riigi 2002. aasta teine lisaeelarve»",
+  "title_en": "Seadus «Riigi 2002. aasta teine lisaeelarve»",
+  "short_name": "RES2L2002",
+  "status": "in_force",
+  "issued_date": "2002-09-25",
+  "in_force_date": "2003-01-01",
+  "url": "https://www.riigiteataja.ee/akt/123042022002.xml",
+  "description": "Official consolidated statute text (Seadus «Riigi 2002. aasta teine lisaeelarve») from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

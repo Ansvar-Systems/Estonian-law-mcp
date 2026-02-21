@@ -1,0 +1,51 @@
+{
+  "id": "ee-law-22270",
+  "type": "statute",
+  "title": "NSV Liidu sõjaväebaaside jaoks sundvõõrandatud maa tagastamise ja kompenseerimise seadus",
+  "title_en": "NSV Liidu sõjaväebaaside jaoks sundvõõrandatud maa tagastamise ja kompenseerimise seadus",
+  "short_name": "SbMTS",
+  "status": "in_force",
+  "issued_date": "1993-12-15",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/22270.xml",
+  "description": "Official consolidated statute text (NSV Liidu sõjaväebaaside jaoks sundvõõrandatud maa tagastamise ja kompenseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Eesti Vabariigi poolt ajavahemikus 1939. aasta septembrist kuni 1940. aasta 23. juulini NSV Liidu sõjaväebaaside jaoks sundvõõrandatud maa tagastatakse või kompenseeritakse isikutele, kellelt maa sundvõõrandati, või nende pärijatele, sõltumata maa sundvõõrandamise viisist.\n(2) Käesoleva paragrahvi 1. lõikes nimetatud maa tagastamise korral tagastatakse ka sellel maal sundvõõrandamise ajal asunud hooned ja rajatised, kui need on säilinud."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Kui isik, kellelt sundvõõrandati käesoleva seaduse §-s 1 nimetatud maa, omandas selle maa arvel Eesti Vabariigilt muu maa, mis 1940. aasta 23. juulil natsionaliseeriti, tagastatakse või kompenseeritakse talle või tema pärijatele natsionaliseeritud maa nende taotlusel. Sel juhul ei ole neil õigust käesoleva seaduse §-s 1 nimetatud maa tagastamisele või kompenseerimisele."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Käesoleva seaduse alusel maa ja hoonete tagastamine ning kompenseerimine toimub omandireformi aluste seaduses (RT 1991, 21, 257; 1991, 45, 565; 1992, 19, 275; 1992, 33, 420; 1993, 15, 253 ja 254; RT I 1993, 35, 545; 1993, 45, 639) ja maareformi seaduses (RT 1991, 34, 426; 1992, 10, 145; RT I 1993, 20, 354) ning nende alusel vastuvõetud muudes õigusaktides ettenähtud korras, kuivõrd seda ei muuda käesolev seadus."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Käesoleva seaduse §-s 1 nimetatud maa tagastamise ja kompenseerimise avaldusi võib esitada õigusvastaselt võõrandatud vara tagastamise ja kompenseerimise maakonna- ja linnakomisjonidele kolme kuu jooksul käesoleva seaduse jõustumise päevast, kui need pole varem juba esitatud."
+    },
+    {
+      "provision_ref": "para5",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Vabariigi Valitsusel on õigus anda käesoleva seaduse rakendamise korra kohta määrusi."
+    },
+    {
+      "provision_ref": "para6",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Käesolev seadus jõustub selle väljakuulutamise päeval."
+    }
+  ],
+  "definitions": []
+}

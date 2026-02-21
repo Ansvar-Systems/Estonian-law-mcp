@@ -1,0 +1,288 @@
+{
+  "id": "ee-law-122022019026",
+  "type": "statute",
+  "title": "Rahvatervise seadus",
+  "title_en": "Rahvatervise seadus",
+  "short_name": "ee-law-122022019026",
+  "status": "in_force",
+  "issued_date": "1995-06-14",
+  "in_force_date": "2019-10-01",
+  "url": "https://www.riigiteataja.ee/akt/122022019026.xml",
+  "description": "Official consolidated statute text (Rahvatervise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse eesmärk",
+      "content": "(1) Käesoleva seaduse eesmärk on inimese tervise kaitsmine, haiguste ennetamine ja tervise edendamine, mis saavutatakse riigi, omavalitsuse, avalik- ja eraõigusliku juriidilise isiku ning füüsilise isiku kohustustega ning riiklike ja omavalitsuslike abinõude süsteemiga.\n(2) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Seaduses kasutatavad mõisted",
+      "content": "Käesolevas seaduses kasutatakse mõisteid järgmises tähenduses:\n1) rahvatervis – sektoritevaheline valdkond, mis hõlmab kõiki rahvastiku tervist parandavaid ja ebasoovitavat tervisemõju ennetavaid ja vähendavaid organiseeritud tegevusi eesmärgiga pikendada elanike eluiga, parandada nende elukvaliteeti ning vähendada tervisealast ebavõrdsust;\n2) tervis – inimese füüsilise, vaimse ja sotsiaalse heaolu seisund, mitte ainult puuete ja haiguste puudumine;\n2^1) rahvastiku tervis – kindla territooriumi elanike füüsilise, vaimse ja sotsiaalse heaolu seisund ning selle jagunemine erinevate rahvastikurühmade vahel;\n3) tervisekaitse – inimese tervisele ohutu elukeskkonna tagamisele ning elukeskkonnaga seonduvate tervisehäirete ja haiguste vältimisele suunatud tegevus;\n4) tervise edendamine – inimese tervist väärtustava ja soodustava käitumise ja elulaadi kujundamine ning tervist toetava elukeskkonna sihipärane arendamine;\n5) haiguste ennetamine – inimese haiguseelsete seisundite varasele avastamisele suunatud tegevus ja meetmed haigestumise vältimiseks;\n6) tervisekasvatus – teabe sihipärane levitamine ja inimese harjumuste kujundamine tervise säilitamiseks ja tugevdamiseks;\n7) elukeskkond – inimesega kokkupuutuva loodusliku, tehisliku ja sotsiaalse keskkonna tegurite kogum, mis mõjutab või võib mõjutada inimese tervist;\n8) rahvusvahelise tähtsusega rahvatervise hädaolukord – käesoleva seaduse tähenduses erakorraline sündmus, mis kujutab ohtu rahva tervisele ja teistele riikidele haiguse rahvusvahelisest levikust tingituna ja mis potentsiaalselt vajab rahvusvaheliselt koordineeritud tõrjemeetmeid;\n9) tervise- ja heaoluprofiil – strateegilise planeerimise alusdokument, milles on kirjeldatud ja analüüsitud kindla territooriumi elanike tervise ja heaolu seisundit ning neid mõjutavaid tegureid;\n10) tervisemõjur – sotsiaal-majanduslik, käitumuslik, psühhosotsiaalne või keskkondlik tegur, mis võib omada rahvastiku tervisele soovitavat või ebasoovitavat mõju;\n11) tervist toetav teenus – iga teenus, millel on rahvastiku tervisele otsene või kaudne positiivne mõju või mis on vajalik rahvastiku tervise seisundi säilitamiseks."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Tervisekaitse, haiguste ennetamise ja tervise edendamise põhiülesanded",
+      "content": "Tervisekaitse, haiguste ennetamise ja tervise edendamise põhiülesanded on:\n1) üksikisiku, perekonna ja rahva tervise väärtustamine;\n2) abinõude süsteemi väljatöötamine, seadustamine ja rakendamine laste tervisliku arengu tagamiseks, nakkuslike ja mittenakkuslike, kutse- ja muude haiguste ärahoidmiseks ja vähendamiseks, varajase suremuse ja invaliidistumise vähendamiseks, elukvaliteedi paranemiseks ja töövõimelise ea pikenemiseks;\n3) elukeskkonna uurimine ja selle ohutegurite hindamine, inimese terviseseisundi jälgimine ning prognoosimine sõltuvalt elukeskkonna seisundist;\n4) avalikkuse teavitamine elukeskkonna seisundi halvenemisest või halvenemise ohust;\n5) erinevuste vähendamine riigi eri piirkondade ja inimeste eri rühmade terviseseisundis;\n6) tervisekaitse õigusaktide väljatöötamine, kehtestamine ja riiklik järelevalve nende täitmise üle."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Elukeskkonna- ja tervisekaitse põhinõuded",
+      "content": "Elukeskkonna- ja tervisekaitse põhinõuded on:\n1) inimene ei tohi ohustada teise inimese tervist oma otsese tegevusega või elukeskkonna halvendamise kaudu;\n2) müügiks ette nähtud toiduainete tootmisel, valmistamisel, vedamisel, säilitamisel ja müümisel peab olema välditud nakkus- või muu terviseohu tekkimine ja levik;\n3) joogi- ja suplusvesi peab olema tervisele ohutu;\n3^1) pakendatud looduslik mineraalvesi ja allikavesi peavad olema tervisele ohutud;\n4) tarbekaubad, eelkõige lastekaubad peavad olema valmistatud sellistest materjalidest ja niisugusel viisil, et nende tavapärane kasutamine oleks ohutu inimese tervisele;\n4^1) kosmeetikatooted peavad olema sellise koostisega ning käideldud niisugusel viisil, et nad ettenähtud kasutamise korral oleksid ohutud inimese tervisele;\n5)\n6) Eestis valmistatud ja imporditud kaupadele esitatakse ühesuguseid nõudeid;\n7) ehitised, rajatised ja transpordivahendid peavad olema projekteeritud ning ehitatud nii, et nende sihipärane kasutamine soodustaks tervise säilimist ning arvestaks liikumispuuetega inimeste vajadusi;\n8) õppe- ja töötingimused ning õppe- ja töövahendid peavad olema tervisele kahjutud ning nendes tegevusvaldkondades, kus võivad esineda tervist kahjustavad tegurid, peab inimene enne õppima või tööle asumist ja edaspidi perioodiliselt läbima tervisekontrolli;\n9) eluaseme- ja puhketingimused peavad soodustama tervise säilimist;\n10) teenuste osutamine majutus-, spordi-, puhke-, laste-, õppe-, tervishoiu-, isikuteenindus- ja hoolekandeasutustes ei tohi kahjustada tervist;\n11) ruumide valgustus ei tohi kahjustada nägemist ning peab võimaldama töö- ja õppeülesannete täitmist;\n12) ultraviolettkiirguse, infrapunakiirguse, raadiosagedusega kiirguse, madalsagedusliku kiirguse, staatilise elektri- ja magnetvälja (mitteioniseeriva kiirguse) ning nähtava valguse allikate kasutamine peab olema nõuetekohane, inimese tervisele ohutu ning vastama kehtestatud piirväärtustele;\n13) müra-, vibratsiooni-, ultraheli- ja infrahelitase ei tohi esile kutsuda tervisehäireid ning peab vastama puhke- ja olmetingimustele kehtestatud nõuetele;\n14)\n15) surnute hoidmine, vedamine, matmine ja ümbermatmine peab olema korraldatud nii, et see ei ohustaks inimeste tervist."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5",
+      "title": "§ 5. Haiguste ennetamise vahendid",
+      "content": "Haiguste ennetamise vahendid on:\n1) laste tervisliku arengu tagamiseks ja tervisehäirete varajaseks avastamiseks laste ennetav arstlik tervisekontroll;\n2) nakkushaiguste levikut tõkestavate abinõude rakendamine ja kaitsepookimine nakkushaiguste vältimiseks;\n3) tervistkahjustaval tööl töötavate inimeste tervise eelnev ja perioodiline arstlik kontrollimine töötingimuste tõttu tekkida võivate tervisehäirete ja kutsehaiguste ärahoidmiseks ja varajaseks avastamiseks;\n4) krooniliste mittenakkuslike haiguste ennetamiseks riskitegurite kontrollimine ja neid vältivate programmide väljatöötamine ning elluviimine;\n5) haiguste varase avastamise programmide väljatöötamine ja riskirühmade uurimine."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "6",
+      "title": "§ 6. Tervise edendamise vahendid",
+      "content": "Tervise edendamise vahendid on:\n1) tervisekasvatus ja terviseõpetus haridusprogrammide osana;\n2) terviseteabe levitamine ja tervislike eluviiside motiveerimine;\n3) tervistavate teenuste arendamine;\n4) eluviisi mõjutamine ja käitumisriski vähendamine;\n5) tervistsoodustava elukeskkonna kujundamine."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - Riigi, kohaliku omavalitsuse ning avalik- ja eraõigusliku juriidilise isiku ning füüsilise isiku ülesanded",
+      "section": "7",
+      "title": "§ 7. Vabariigi Valitsuse ülesanded",
+      "content": "(1) Vabariigi Valitsuse ülesanded on:\n1) riigi tervisekaitse ja tervise edendamise poliitika üldine juhtimine;\n2) tervisekaitse riikliku järelevalve tagamine;\n3) tervisele ohutu elukeskkonna loomisele, tervisehäirete ja haiguste ennetamisele ning tervise edendamisele suunatud riiklike programmide kinnitamine.\n(2) Vabariigi Valitsus kehtestab tervisekaitse õigusaktid:\n1)\n2)\n3)\n4)\n5)\n6)\n7) olmeteenuste osutamiseks elanikele;\n8)\n9)\n10) ujulatele, basseinidele ja veekeskustele, nende ruumidele, ohutusele, basseiniveele ning teenuse osutamisele;\n11) koolieelsete lasteasutuste, põhikoolide ja gümnaasiumide maa-alale, hoonetele, ruumidele, sisustusele, sisekliimale ja korrashoiule."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - Riigi, kohaliku omavalitsuse ning avalik- ja eraõigusliku juriidilise isiku ning füüsilise isiku ülesanded",
+      "section": "8",
+      "title": "§ 8. Sotsiaalministeeriumi ülesanded",
+      "content": "(1) Sotsiaalministeeriumi ülesandeks on:\n1) tervisekaitse, haiguste ennetamise ja tervise edendamise kavandamine ja kavandatu elluviimine;\n2) tervisekaitse, haiguste ennetamise ja tervise edendamise alaste seaduste ja muude õigusaktide eelnõude väljatöötamine;\n3) teiste ministeeriumide poolt ettevalmistatud tervisekaitse, haiguste ennetamise ja tervise edendamisega seonduvate õigusaktide eelnõude kooskõlastamine;\n4) Vabariigi Valitsusele ettepanekute tegemine eriolukorra kehtestamiseks riigis või selle osas nakkushaiguste, mürgistuste ning kiirguskahjustuste likvideerimiseks;\n5) teiste ministeeriumide, ametite ja inspektsioonide tegevuse koordineerimine ning tulemuslikkuse analüüsimine tervisekaitse ja tervise edendamise alal;\n6) tervisele ohutu elukeskkonna loomisele, tervisehäirete ja haiguste ennetamisele ning tervise edendamisele suunatud riiklike programmide ja projektide ning muude abinõude kavandamine ja elluviimise korraldamine;\n7) tervisekasvatuse ja tervisliku eluviisi kujundamisele ning tervise väärtustamisele suunatud tegevuse korraldamine, samuti koostöös Haridus- ja Teadusministeeriumiga terviseõpetuse korraldamine õppeasutustes;\n8) tervisekaitse, haiguste ennetamise ja tervise edendamise alaste teadusuuringute koordineerimine;\n9) tervisekaitse riikliku järelevalve koordineerimine Terviseameti kaudu;\n10) keskkonnast tingitud terviseohtude seire korraldamine;\n11)\n12) rahvastiku tervisega seonduvate andmete kogumine ja isikuandmete töötlemine riikliku tervise- ja tervishoiupoliitika väljatöötamiseks ning elluviimiseks kooskõlas isikuandmete kaitse seaduse ja avaliku teabe seadusega.\n(2) Valdkonna eest vastutav minister kehtestab tervisekaitse õigusaktid järgmiste valdkondade kohta:\n1)\n2)\n3) põhikoolide ja gümnaasiumide päevakavad ja õppekorraldus;\n4) toitlustamine koolieelsetes lasteasutustes, põhikoolides ja gümnaasiumides, tervishoiu- ja hoolekandeasutustes;\n5) lastelutid;\n6) koolieelsete lasteasutuste tervise edendamine ja päevakava;\n7)\n8) noorte püsilaagrid;\n8^1) lapsehoiuteenus ja asendushooldusteenus asenduskodus ja perekodus;\n8^2) igapäevaelu toetamise teenus, toetatud elamise teenus, kogukonnas elamise teenus ja ööpäevaringne erihooldusteenus ning nimetatud teenuste osutamise ruumid, ruumide sisustus ja nende korrashoid ning maa-ala;\n9) laste ja täiskasvanute hoolekandeasutused, välja arvatud asenduskodu, perekodu ja erihoolekandeteenust osutav asutus;\n10)\n11)\n12) ilu- ja isikuteenuste osutamine;\n13) kosmeetikatoodete terviseohutuse kontrollimine;\n14)\n15)\n16) ühissõidukid ja reisiteenused;\n17) mitteioniseeriva kiirguse, müra-, vibratsiooni-, ultra- ja infraheli taseme piirväärtused elu- ja puhkealal, elamutes ja ühiskasutusega hoonetes, paikse saasteallika sanitaarkaitsealal, õpperuumides ja muudes kohtades, kus inimene viibib pikemat aega, samuti käesolevas punktis loetletud füüsikaliste suuruste taseme mõõtmise meetodid;\n18)\n19)\n20)\n21)\n22) toidunormid kinnipidamisasutustes;\n23) ravimuda turustamine, säilitamine ja kasutamine.\n24)\n(3)"
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - Riigi, kohaliku omavalitsuse ning avalik- ja eraõigusliku juriidilise isiku ning füüsilise isiku ülesanded",
+      "section": "10",
+      "title": "§ 10. Kohaliku omavalitsuse üksuse ülesanded",
+      "content": "(1) Kohaliku omavalitsuse üksuste ühiselt täidetavad ülesanded on:\n1) elanike tervist, heaolu ja turvalisust toetava elukeskkonna kujundamine;\n2) maakonna või piirkonna tervise- ja heaoluprofiili koostamine ning selles sisalduva teabega arvestamine maakonna või piirkondliku arengustrateegia koostamisel;\n3) rahvastiku tervist toetavate tegevuste elluviimine ja tervist toetavate teenuste pakkumine maakonnas või piirkonnas vähemalt tervise- ja heaoluprofiilis kajastatud prioriteetsete tervisemõjurite ohjamiseks;\n4) riiklike rahvatervisealaste tegevuste toetamine maakonnas või piirkonnas;\n5) maakondlikul või piirkondlikul tasandil rahvatervise ja sellega tihedalt seotud valdkondade juhtimiseks vajalike võrgustike loomine ja nende töö korraldamine.\n(2) Kohaliku omavalitsuse üksuse ülesanded on:\n1) tervisekaitsealaste õigusaktide täitmise korraldamine ja nende järgimise kontrollimine kohaliku omavalitsuse maa-alal;\n2) elanikkonna haiguste ennetamisele ja tervise edendamisele suunatud tegevuse korraldamine kohaliku omavalitsuse maa-alal."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - Riigi, kohaliku omavalitsuse ning avalik- ja eraõigusliku juriidilise isiku ning füüsilise isiku ülesanded",
+      "section": "11",
+      "title": "§ 11. Tervise- ja heaoluprofiil",
+      "content": "(1) Tervise- ja heaoluprofiilis esitatakse järgmine teave:\n1) haldusüksuse või piirkonna elanike üldandmed ning ülevaade haldusüksuse või piirkonna rahvastiku tervise ja heaolu seisundist ning tervisemõjuritest;\n2) käesoleva lõike punktis 1 nimetatud andmete analüüs;\n3) kokkuvõte haldusüksuse või piirkonna prioriteetsetest tervise- ja heaolunäitajatest ning peamistest tervisemõjuritest.\n(2) Tervise- ja heaoluprofiili koostaja uuendab tervise- ja heaoluprofiili vähemalt kord nelja aasta jooksul."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - Riigi, kohaliku omavalitsuse ning avalik- ja eraõigusliku juriidilise isiku ning füüsilise isiku ülesanded",
+      "section": "12",
+      "title": "§ 12. Avalik- ja eraõigusliku juriidilise isiku ning füüsilise isiku ülesanded",
+      "content": "(1) Avalik- ja eraõiguslik juriidiline isik ning füüsiline isik tagab enne tootmise alustamist tootmistingimuste ja toote terviseohutuse uurimise, kahjulike tegurite määramise meetodite puudumisel nende väljatöötamise, toote tehnilise normdokumendi puudumisel selle vormistamise järgmistes tootmisvaldkondades:\n1) mineraal- ja joogiveega kokkupuutumiseks ettenähtud materjalide ja esemete tootmine;\n2) tehismaterjalide ja neid sisaldavate esemete, valmistamine;\n3) lastekaupade, kosmeetikatoodete ja inimesega vahetult kokkupuutuvate või ruumides kasutatavate muude tarbekaupade valmistamine;\n4) tervist kahjustada võivate kiirgus-, müra- vibratsiooniallikate valmistamine.\n(2)\n(3) Avalik- ja eraõiguslik juriidiline isik ning füüsiline isik esitab kohaliku omavalitsuse nõudel tervisekaitse riiklikule järelevalveasutusele kooli, lasteasutuse, hoolekandeasutuse, lapsehoiuteenuseid osutava ettevõtte ning ilu- ja isikuteenuseid osutava ettevõtte ehitusprojekti, sealhulgas hooldusjuhendi koopia, ehitise tervisekaitsenõuetele vastavuse kontrollimiseks ja terviseohutuse hinnangu andmiseks.\n(3^1)\n(4)\n(5) Avalik- ja eraõiguslik juriidiline isik ning füüsiline isik informeerib viivitamatult tervisekaitse riikliku järelevalve asutust ja kohalikku omavalitsust avariidest ja olukordadest, mis võivad halvendada inimeste tervist ja elukeskkonda.\n(6) Avalik- ja eraõiguslik juriidiline isik ning füüsiline isik ei tohi levitada inimese tervist ja elukeskkonda kahjustada võivaid ideid, arvamusi, veendumusi ja muud teavet sõnas, trükis või muul viisil.\n(7) Avalik- ja eraõiguslik juriidiline isik ning füüsiline isik, kes on ehitise, selle osa või ümbritseva maa-ala omanik või valdaja, rakendab ennetavaid meetmeid ja tagab desinsektsiooni, deratisatsiooni ja desinfektsiooni kahjurputukate, -näriliste ja teiste kahjulike organismide arvukuse vähendamiseks ning kahjustava toime ärahoidmiseks.\n(8)\n(9)\n(10) Avalik- ja eraõiguslik juriidiline isik ning füüsiline isik, kes on ujulas, basseinis või veekeskuses ujumis- või suplemisteenuse osutaja:\n1) tagab ohutud kasutustingimused, kasutatava vee nõuetekohasuse ning vee kontrolli ja uuringud akrediteeritud laboris käesoleva seaduse ning selle alusel kehtestatud õigusaktide nõuete kohaselt;\n2) avaldab teabe ujulas, basseinis ja veekeskuses kasutatava vee kvaliteedinäitajate kohta vastavalt keskkonnainfo kättesaadavuse ja keskkonnaasjade otsustamises üldsuse osalemise ning neis asjus kohtu poole pöördumise konventsiooni nõuetele avaliku teabe seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para12^2",
+      "chapter": "2. peatükk - Riigi, kohaliku omavalitsuse ning avalik- ja eraõigusliku juriidilise isiku ning füüsilise isiku ülesanded",
+      "section": "12^2",
+      "title": "§ 12^2. Avalik- ja eraõigusliku juriidilise isiku ning füüsilise isiku ülesanded kosmeetikatoodete tootmisel, kättesaadavaks tegemisel ja kasutamisel",
+      "content": "(1) Isik, kes vastutab kosmeetikatoote tootmise, turule laskmise või kättesaadavaks tegemise eest, peab tagama, et on täidetud Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 1223/2009 kosmeetikatoodete kohta (ELT L 342, 22.12.2009, lk 59–209) (edaspidi kosmeetikamäärus ) sätestatud asjakohased nõuded.\n(2)\n(3)\n(4)\n(5)\n(6)\n(7) Kosmeetikamääruse artikli 19 lõikes 4 nimetatud kosmeetikatoodete kohta esitab toote kättesaadavaks tegemise eest vastutav isik sama määruse artikli 19 lõikes 1 nõutud teabe tootemahutil või -pakendil või tootega kaasa antaval teabelehel.\n(8) Kosmeetikatoodete tootjad, importijad, levitajad ja kutsealases tegevuses kasutajad ning tervishoiuteenuse osutajad peavad kosmeetikamääruse artikli 23 kohaselt viivitamata teavitama Terviseametit kosmeetikatoote kasutamisel ilmnenud tõsisest soovimatust mõjust.\n(9) Kosmeetikatooteid, mis on ette nähtud hammaste valgendamiseks või pleegitamiseks ja mis sisaldavad vesinikperoksiidi või millest vabaneb vesinikperoksiidi vahemikus > 0,1% ≤ 6% (edaspidi hambavalgendustooted ), on lubatud müüa üksnes hambaarstidele hulgikaubanduse korras.\n(10) Ettevõtja, kes soovib müüa hambavalgendustooteid, peab esitama majandustegevuse seadustiku üldosa seaduse kohase majandustegevusteate.\n(11) Majandustegevusteates märgitakse lisaks majandustegevuse seadustiku üldosa seaduses sätestatud andmetele:\n1) tegevuskoht või tegevuskohad;\n2) e-kaubanduse korral veebilehe aadress;\n3) tegevusala kaubandustegevuse seaduse § 3 lõike 2 punkti 1 kohaselt."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - Riigi, kohaliku omavalitsuse ning avalik- ja eraõigusliku juriidilise isiku ning füüsilise isiku ülesanded",
+      "section": "13",
+      "title": "§ 13. Tervisekaitse, haiguste ennetamise ja tervise edendamise ülesandeid täitvad asutused",
+      "content": "(1) Tervisekaitse, haiguste ennetamise ja tervise edendamise põhiülesandeid täidavad tervishoiuasutused vastavalt oma põhitegevuse suunale.\n(2) Tervisekaitsenõuete elluviimist korraldavad täidesaatva riigivõimu asutused, avalik- ja eraõiguslikud juriidilised isikud ning füüsilised isikud vastavalt oma pädevusele.\n(3) Elukeskkonna objektide terviseohutust hindavad Terviseameti järelevalveametnikud."
+    },
+    {
+      "provision_ref": "para13^1",
+      "chapter": "2. peatükk - Riigi, kohaliku omavalitsuse ning avalik- ja eraõigusliku juriidilise isiku ning füüsilise isiku ülesanded",
+      "section": "13^1",
+      "title": "§ 13^1. Terviseameti ülesanded",
+      "content": "(1)\n(2)\n(3) Kosmeetikatoodete valdkonnas on pädev asutus Terviseamet, kes:\n1) haldab ja kasutab kosmeetikamääruse artikli 13 kohaselt Euroopa Komisjoni poolt kättesaadavaks tehtud teavet;\n2) kontrollib vajaduse korral toote andmiku vastavust kosmeetikamääruse artikli 11 lõikes 2 sätestatud nõuetele;\n3) kogub ja menetleb andmeid kosmeetikatoote kasutamisel ilmnenud tõsise soovimatu mõju kohta kosmeetikamääruse artikli 23 kohaselt;\n4) vahetab teavet ja teeb koostööd teiste riikide pädevate asutuste, Euroopa Komisjoni ja rahvusvaheliste organisatsioonidega;\n5) hindab regulaarselt vähemalt iga nelja aasta tagant järelevalve toimimist, edastab tulemused kosmeetikamääruse artikli 22 kohaselt teistele liikmesriikidele ja Euroopa Komisjonile ning teeb need kättesaadavaks üldsusele.\n(4) Nakkushaiguste ennetamise, seire ja tõrje ning nakkushaiguste epidemioloogilise riskianalüüsi ja riskihindamise valdkonnas on pädev asutus Terviseamet nakkushaiguste ennetamise ja tõrje seaduses sätestatud alustel.\n(5) Kemikaaliohutuse valdkonnas on Terviseamet pädev asutus kemikaaliseaduses sätestatud alustel.\n(6) Biotsiidi valdkonnas on Terviseamet pädev asutus biotsiidiseaduses sätestatud alustel.\n(7) Terviseametile seadusega pandud ülesannete täitmiseks amet:\n1) korraldab ja teostab oma tegevusvaldkonnas terviseohtude riskianalüüsi;\n2) teavitab Euroopa Komisjoni ja Maailma Terviseorganisatsiooni rahva tervise rahvusvahelise tähtsusega hädaolukorrast."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - Riigi, kohaliku omavalitsuse ning avalik- ja eraõigusliku juriidilise isiku ning füüsilise isiku ülesanded",
+      "section": "14",
+      "title": "§ 14. Inimese tervise ja elukeskkonna seisundi alase teabe kättesaadavus",
+      "content": "Tervisekaitse, haiguste ennetamise ja tervise edendamisega tegelevad asutused tagavad elanikkonna teavitamise elukeskkonna terviseriskidest ja nende vältimise viisidest ning elukeskkonna üldiseks kasutamiseks määratud andmete kättesaadavuse."
+    },
+    {
+      "provision_ref": "para14^1",
+      "chapter": "2. peatükk - ANDMEKOGUD",
+      "section": "14^1",
+      "title": "§ 14^1. Rahvastiku tervisega seonduvad riiklikud andmekogud",
+      "content": "(1) Rahvastiku tervisega seonduvad riiklikud andmekogud on tervisepoliitika väljatöötamise, tervishoiuteenuste korraldamise, haiguste ennetamise, tõrjemeetmete kavandamise ja nende tõhususe analüüsi eesmärgil, samuti tervisestatistika korraldamiseks ja rahvastiku tervist käsitlevaks uurimistööks peetavad andmekogud.\n(2) Käesoleva seaduse §-des 14^2–14^5 ja 14^7 nimetatud andmekogudesse edastatakse terviseandmeid digitaalselt tervise infosüsteemi või muu andmevahetuskanali vahendusel või paberil."
+    },
+    {
+      "provision_ref": "para14^2",
+      "chapter": "2. peatükk - ANDMEKOGUD",
+      "section": "14^2",
+      "title": "§ 14^2. Vähiregister",
+      "content": "(1) Vähiregister on riigi infosüsteemi kuuluv andmekogu, mida peetakse vähi esinemise ja vähihaigete elumuse analüüsiks, tervishoiuteenuse korraldamiseks, vähitõrjemeetmete kavandamiseks ja nende tõhususe hindamiseks, samuti haigestumuse statistika korraldamiseks ning epidemioloogiliseks uurimistööks.\n(2) Vähijuhte nii elupuhuselt kui ka pärast surma diagnoosival ja vähihaigele ravi osutaval tervishoiuteenuse osutajal ja riikliku ekspertiisiasutuse kohtuarstlikul eksperdil on kohustus esitada andmeid vähiregistrile.\n(3) Vähiregistris töödeldakse järgmisi andmeid:\n1) isikuandmed – isikukood, sugu, perekonna- ja eesnimi, sünniaeg, perekonnaseis, rahvus, sünnikoht, elukoht;\n2) andmed varem diagnoositud pahaloomulise kasvaja kohta;\n3) andmed uuringu tulemuste kohta;\n4) andmed pahaloomulise kasvaja diagnoosi ja leviku kohta;\n5) andmed ravi kohta;\n6) andmed registrisse kantud isiku Eestist alaliselt lahkumise kohta;\n7) andmed surma ja surma põhjuse kohta;\n8) andmed andmete esitaja kohta.\n(4) Vähiregistri pidamise põhimääruse kehtestab Vabariigi Valitsus määrusega.\n(5) Vähiregistri vastutav töötleja on Sotsiaalministeerium."
+    },
+    {
+      "provision_ref": "para14^3",
+      "chapter": "2. peatükk - ANDMEKOGUD",
+      "section": "14^3",
+      "title": "§ 14^3. Meditsiiniline sünniregister",
+      "content": "(1) Meditsiiniline sünniregister (edaspidi sünniregister ) on riigi infosüsteemi kuuluv andmekogu, mida peetakse elus- ja surnultsündide, perinataalse haigestumuse ja suremuse epidemioloogiliseks uurimistööks, rasedusaegse ja sünnitusjärgse tervishoiuteenuse ning sündimusstatistika korraldamiseks.\n(2) Sünnitusabi andval tervishoiuteenuse osutajal on kohustus esitada andmeid sünniregistrisse.\n(3) Sünniregistris töödeldakse järgmisi andmeid:\n1) andmed sündinud lapse kohta – lapse isikukood või sünniaeg, sugu;\n2) andmed sünnituse kohta;\n3) andmed vastsündinu vanemate kohta – lapse vanemate isikukood või sünniaeg, perekonna- ja eesnimi, elukoht, rahvus, haridus, tegevusala ja perekonnaseis;\n4) andmed viimase raseduse kulgemise kohta;\n5) andmed varasema raseduse ja sünnituse kohta;\n6) andmed kuni seitsme päeva vanuse lapse kohta;\n7) andmed andmete esitaja kohta.\n(4) Sünniregistri pidamise põhimääruse kehtestab Vabariigi Valitsus määrusega.\n(5) Sünniregistri vastutav töötleja on Sotsiaalministeerium."
+    },
+    {
+      "provision_ref": "para14^4",
+      "chapter": "2. peatükk - ANDMEKOGUD",
+      "section": "14^4",
+      "title": "§ 14^4. Müokardiinfarktiregister",
+      "content": "(1) Müokardiinfarktiregister on riigi infosüsteemi kuuluv andmekogu, mida peetakse müokardiinfarkti diagnostika ja ravikvaliteedi parandamiseks, tervishoiuteenuse ja müokardiinfarktijuhtude statistika korraldamiseks ning epidemioloogiliseks uurimistööks.\n(2) Müokardiinfarktijuhte nii elupuhuselt kui ka pärast surma diagnoosival ja müokardiinfarktihaigele ravi osutaval tervishoiuteenuse osutajal on kohustus esitada andmeid müokardiinfarktiregistrile.\n(3) Müokardiinfarktiregistris töödeldakse järgmisi andmeid:\n1) isikuandmed – isikukood või sünniaeg, sugu, perekonna- ja eesnimi;\n2) andmed südame-veresoonkonnahaiguse ja selle riskitegurite kohta;\n3) andmed patsiendi seisundi kohta haiglasse saabumisel;\n4) andmed ravimi, uuringu ja tüsistuse kohta haiglaperioodil;\n5) andmed müokardiinfarkti diagnoosi kohta;\n6) andmed ambulatoorse ravisoovituse kohta patsiendi väljakirjutamisel haiglast;\n7) andmed haiglast lahkumise kohta;\n8) andmed andmete esitaja kohta;\n9) andmed jälgimisperioodi kohta.\n(4) Müokardiinfarktiregistri asutab ja selle pidamise põhimääruse kehtestab Vabariigi Valitsus määrusega.\n(5) Müokardiinfarktiregistri vastutav töötleja on Sotsiaalministeerium."
+    },
+    {
+      "provision_ref": "para14^5",
+      "chapter": "2. peatükk - ANDMEKOGUD",
+      "section": "14^5",
+      "title": "§ 14^5. Tuberkuloosiregister",
+      "content": "(1) Tuberkuloosiregister on riigi infosüsteemi kuuluv andmekogu, mida peetakse tuberkuloosijuhtude registreerimiseks, ravi kulgemise ja tõhususe analüüsiks, tuberkuloositõrjemeetmete väljatöötamiseks, tervishoiuteenuse ja tuberkuloosihaigestumuse statistika korraldamiseks ning epidemioloogiliseks uurimistööks.\n(2) Tuberkuloosijuhte nii elupuhuselt kui ka pärast surma diagnoosival ja tuberkuloosihaigele ravi osutaval tervishoiuteenuse osutajal ja riikliku ekspertiisiasutuse kohtuarstlikul eksperdil on kohustus esitada andmeid tuberkuloosiregistrile.\n(3) Tuberkuloosiregistris töödeldakse järgmisi andmeid:\n1) isikuandmed – isikukood, sugu, sünniaeg, perekonna- ja eesnimi, sünnimaa ja Eestis elamise aeg, rahvus, perekonnaseis, haridus, tegevusala;\n2) andmed riskitegurite kohta;\n3) andmed tuberkuloosi diagnoosi, paikme ning kaasuvate diagnooside kohta;\n4) andmed uuringute, ravi, ravimite ja ravitulemuste kohta;\n5) andmed jälgimisperioodi kohta;\n6) andmed surma ja surma põhjuste kohta;\n7) andmed andmete esitaja kohta.\n(4) Tuberkuloosiregistri pidamise põhimääruse kehtestab Vabariigi Valitsus määrusega.\n(5) Tuberkuloosiregistri vastutav töötleja on Sotsiaalministeerium."
+    },
+    {
+      "provision_ref": "para14^6",
+      "chapter": "2. peatükk - ANDMEKOGUD",
+      "section": "14^6",
+      "title": "§ 14^6. Vee terviseohutuse infosüsteem",
+      "content": "(1) Vee terviseohutuse infosüsteem on riigi infosüsteemi kuuluv andmekogu, mida peetakse joogi-, suplus- ja basseinivee, loodusliku mineraalvee ning allikavee kvaliteedi kohta andmete kogumiseks ja töötlemiseks.\n(2) Joogivee käitlejal, loodusliku mineraalvee ja allikavee käitlejal, supluskoha ja ujula valdajal on kohustus esitada andmed vee terviseohutuse infosüsteemi või edastada andmed Terviseameti piirkondliku talituse kaudu.\n(3) Vee terviseohutuse infosüsteemi kogutakse andmed:\n1) joogivee käitleja, veevärgi ja joogivee kvaliteedi kohta;\n2) ujula valdaja ja basseinivee kvaliteedi kohta;\n3) supluskoha valdaja ja suplusvee kvaliteedi kohta;\n4) loodusliku mineraalvee ja allikavee käitleja ning loodusliku mineraalvee ja allikavee kvaliteedi kohta.\n(4) Vee terviseohutuse infosüsteemi asutab ja selle pidamise põhimääruse kehtestab Vabariigi Valitsus määrusega.\n(5) Vee terviseohutuse infosüsteemi vastutav töötleja on Sotsiaalministeerium."
+    },
+    {
+      "provision_ref": "para14^7",
+      "chapter": "2. peatükk - ANDMEKOGUD",
+      "section": "14^7",
+      "title": "§ 14^7. Vähi sõeluuringute register",
+      "content": "(1) Vähi sõeluuringute register on riigi infosüsteemi kuuluv andmekogu, mida peetakse vähi sõeluuringute korraldamiseks, uuringukutsete edastamiseks ning sõeluuringute käigus tehtud analüüside, saadud uuringuandmete ja raviandmete analüüsimiseks, et tagada sõeluuringute kvaliteet, tõhususe hindamine ja vähi varajane avastamine ning luua võimalus epidemioloogiliseks uurimistööks.\n(2) Kõigil vähi sõeluuringuid tegevatel tervishoiuteenuse osutajatel ning sõeluuringus osalejatele uuringuid teinud ja neid ravinud tervishoiuteenuse osutajatel on kohustus esitada tervise infosüsteemi vahendusel andmeid vähi sõeluuringute registrile.\n(3) Vähi sõeluuringute registris töödeldakse järgmisi andmeid:\n1) isikuandmed – isikukood, sugu, perekonna- ja eesnimi, varasem perekonnanimi, sünniaeg, kodakondsus, elukoht, kontaktandmed, Eestist alaliselt lahkumise aeg;\n2) andmed sõeluuringu kutse ja korduskutse saatmise kohta;\n3) andmed sõeluuringu põhiuuringu, -analüüsi või -protseduuri toimumise, tulemuste, tegija ja hindaja kohta;\n4) andmed sõeluuringu lisauuringu, -analüüsi või -protseduuri toimumise, tulemuste, tegija ja hindaja kohta;\n5) andmed sõeluuringuväliselt sõeluuringu sihtrühma kuuluvatele isikutele tehtud sõeluuringu põhiuuringu, -analüüsi või -protseduuri kohta;\n6) andmed sõeluuringujärgse ravi kohta;\n7) andmed pahaloomulise kasvaja diagnoosi ja leviku kohta;\n8) andmed surma ja surma põhjuse kohta;\n9) andmed andmete esitaja kohta.\n(4) Vähi sõeluuringute registri asutab ja selle põhimääruse kehtestab Vabariigi Valitsus määrusega.\n(5) Vähi sõeluuringute registri vastutav töötleja on Sotsiaalministeerium."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - Tervisekaitse riiklik järelevalve",
+      "section": "15",
+      "title": "§ 15. Riiklik järelevalve",
+      "content": "(1) Riiklikku järelevalvet asjakohastes Euroopa Liidu õigusaktides, käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle ning toote nõuetele vastavuse seaduse § 6 lõikes 3 ja tarbijakaitseseaduse § 10 lõikes 2 nimetatud juhtudel terviseohutuse üle teostab Terviseamet.\n(2) Riiklikku järelevalvet käesolevas seaduses kosmeetikatoodete kättesaadavaks tegemisele kehtestatud nõuete ja kosmeetikamääruse artiklis 25 loetletud nõuete täitmise üle artikli 22 kohaselt teostavad Terviseamet ja Tarbijakaitse ja Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - Tervisekaitse riiklik järelevalve",
+      "section": "16",
+      "title": "§ 16. Riikliku järelevalve erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - Tervisekaitse riiklik järelevalve",
+      "section": "17",
+      "title": "§ 17. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral võib korrakaitseorgan rakendada sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 640 eurot."
+    },
+    {
+      "provision_ref": "para18^2",
+      "chapter": "3. peatükk - VASTUTUS",
+      "section": "18^2",
+      "title": "§ 18^2. Vastutus kosmeetikatootele, selle tootmisele ja kättesaadavaks tegemisele kehtestatud nõuete rikkumise eest",
+      "content": "(1) Käesoleva seaduse §-s 12^2 ja kosmeetikamääruse artiklis 25 loetletud nõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para18^3",
+      "chapter": "3. peatükk - VASTUTUS",
+      "section": "18^3",
+      "title": "§ 18^3. Menetlus",
+      "content": "(1)\n(2) Kohus võib kohaldada käesoleva seaduse §-s 18^2 sätestatud väärteo toimepanemise vahetuks objektiks olnud aine või eseme konfiskeerimist vastavalt karistusseadustiku §-le 83.\n(3)\n(4) Käesoleva seaduse §-s 18^2 sätestatud väärteo kohtuvälised menetlejad on Terviseamet ja Tarbijakaitse ja Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - Lõppsätted",
+      "section": "21",
+      "title": "§ 21. Finantseerimine",
+      "content": "(1) Tervisekaitse riikliku järelevalve asutuste tegevust finantseeritakse riigieelarvest.\n(2) Tervisekaitse, haiguste ennetamise ja tervise edendamisega seotud riiklikke programme finantseeritakse riigieelarvest.\n(3) Tervisekaitse, haiguste ennetamise ja tervise edendamisega seotud kohalikke programme võib osaliselt või täielikult finantseerida riigieelarvest.\n(4) Tervisekaitse, haiguste ennetamise ja tervise edendamisega seotud programme võib osaliselt või täielikult finantseerida ravikindlustuse eelarvest.\n(5) Terviseamet osutab tellija taotlusel tasulisi tervisekaitseteenuseid keemiliste, bioloogiliste ja füüsikaliste ohutegurite määramiseks ning riskihindamiseks valdkonna eest vastutava ministri määrusega kehtestatud korra ja hinnakirja kohaselt. Tasulise teenusena ei tohi osutada tervisekaitse riikliku järelevalvega otseselt seotud toiminguid.\n(6) Avalik- ja eraõiguslikud juriidilised isikud ning füüsilised isikud kannavad käesoleva seadusega neile pandud ülesannete ja kohustuste täitmise kulud."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - Lõppsätted",
+      "section": "22",
+      "title": "§ 22. Muudatused varasemates õigusaktides",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - Lõppsätted",
+      "section": "23",
+      "title": "§ 23. Tervisekaitsenõuded koolidele ja koolieelsetele lasteasutustele",
+      "content": "Vabariigi Valitsus kehtestab tervisekaitsenõuded koolidele ja koolieelsetele lasteasutustele, nende maa-alale, hoonetele, ruumidele, sisustusele ja sisekliimale ning korrashoiule hiljemalt 2010. aasta 31. detsembriks. Kuni nimetatud tervisekaitsenõuete kehtestamiseni Vabariigi Valitsuse poolt kohaldatakse enne 2010. aasta 1. septembrit kehtinud rahvatervise seaduse § 8 lõike 2 punkti 6 alusel sotsiaalministri kehtestatud tervisekaitsenõudeid koolidele ja koolieelsetele lasteasutustele."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - Lõppsätted",
+      "section": "24",
+      "title": "§ 24. Seaduse rakendamine",
+      "content": "(1) Käesoleva seaduse §-d 14^2, 14^3 ja 14^5 jõustuvad 2011. aasta 1. juunil.\n(2) Käesoleva seaduse §-d 14^4 ja 14^6 jõustuvad 2012. aasta 1. jaanuaril.\n(3) Käesoleva seaduse § 14^1 lõige 2 jõustub 2013. aasta 1. jaanuaril.\n(4) Sihtasutus Tartu Ülikooli Kliinikum annab kogutud müokardiinfarktiandmed käesoleva seaduse § 14^4 lõike 4 alusel asutatud müokardiinfarktiregistrile üle hiljemalt 2012. aasta 1. jaanuariks.\n(5) Käesoleva seaduse § 10 lõike 1 punktis 2 nimetatud tervise- ja heaoluprofiil tuleb kohaliku omavalitsuse üksustel koostada hiljemalt 2019. aasta 15. jaanuariks."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "rahvatervis",
+      "definition": "sektoritevaheline valdkond, mis hõlmab kõiki rahvastiku tervist parandavaid ja ebasoovitavat tervisemõju ennetavaid ja vähendavaid organiseeritud tegevusi eesmärgiga pikendada elanike eluiga, parandada nende elukvaliteeti ning vähendada tervisealast ebavõrdsust",
+      "source_provision": "para2"
+    },
+    {
+      "term": "tervis",
+      "definition": "inimese füüsilise, vaimse ja sotsiaalse heaolu seisund, mitte ainult puuete ja haiguste puudumine",
+      "source_provision": "para2"
+    },
+    {
+      "term": "tervisekaitse",
+      "definition": "inimese tervisele ohutu elukeskkonna tagamisele ning elukeskkonnaga seonduvate tervisehäirete ja haiguste vältimisele suunatud tegevus",
+      "source_provision": "para2"
+    },
+    {
+      "term": "tervise edendamine",
+      "definition": "inimese tervist väärtustava ja soodustava käitumise ja elulaadi kujundamine ning tervist toetava elukeskkonna sihipärane arendamine",
+      "source_provision": "para2"
+    },
+    {
+      "term": "haiguste ennetamine",
+      "definition": "inimese haiguseelsete seisundite varasele avastamisele suunatud tegevus ja meetmed haigestumise vältimiseks",
+      "source_provision": "para2"
+    },
+    {
+      "term": "tervisekasvatus",
+      "definition": "teabe sihipärane levitamine ja inimese harjumuste kujundamine tervise säilitamiseks ja tugevdamiseks",
+      "source_provision": "para2"
+    },
+    {
+      "term": "elukeskkond",
+      "definition": "inimesega kokkupuutuva loodusliku, tehisliku ja sotsiaalse keskkonna tegurite kogum, mis mõjutab või võib mõjutada inimese tervist",
+      "source_provision": "para2"
+    },
+    {
+      "term": "rahvusvahelise tähtsusega rahvatervise hädaolukord",
+      "definition": "käesoleva seaduse tähenduses erakorraline sündmus, mis kujutab ohtu rahva tervisele ja teistele riikidele haiguse rahvusvahelisest levikust tingituna ja mis potentsiaalselt vajab rahvusvaheliselt koordineeritud tõrjemeetmeid",
+      "source_provision": "para2"
+    },
+    {
+      "term": "tervise",
+      "definition": "ja heaoluprofiil – strateegilise planeerimise alusdokument, milles on kirjeldatud ja analüüsitud kindla territooriumi elanike tervise ja heaolu seisundit ning neid mõjutavaid tegureid",
+      "source_provision": "para2"
+    },
+    {
+      "term": "tervisemõjur",
+      "definition": "sotsiaal-majanduslik, käitumuslik, psühhosotsiaalne või keskkondlik tegur, mis võib omada rahvastiku tervisele soovitavat või ebasoovitavat mõju",
+      "source_provision": "para2"
+    },
+    {
+      "term": "tervist toetav teenus",
+      "definition": "iga teenus, millel on rahvastiku tervisele otsene või kaudne positiivne mõju või mis on vajalik rahvastiku tervise seisundi säilitamiseks",
+      "source_provision": "para2"
+    }
+  ]
+}

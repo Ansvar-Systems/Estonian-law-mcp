@@ -1,0 +1,652 @@
+{
+  "id": "ee-law-117112017009",
+  "type": "statute",
+  "title": "Liikluskindlustuse seadus",
+  "title_en": "Liikluskindlustuse seadus",
+  "short_name": "ee-law-117112017009",
+  "status": "in_force",
+  "issued_date": "2014-03-26",
+  "in_force_date": "2019-01-01",
+  "url": "https://www.riigiteataja.ee/akt/117112017009.xml",
+  "description": "Official consolidated statute text (Liikluskindlustuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Reguleerimisala",
+      "content": "(1) Käesoleva seadusega reguleeritakse sõidukiga kahju tekitamisest tuleneva tsiviilvastutuse kohustuslikku kindlustust (edaspidi kohustuslik liikluskindlustus ), kindlustamata sõidukile rakenduvat sundkindlustust (edaspidi automaatne liikluskindlustus ) ja vastutust kindlustamata sõiduki juhtimise eest.\n(2) Kohustuslikule liikluskindlustusele kohaldatakse võlaõigusseaduse ja automaatsele liikluskindlustusele haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Sätete kohustuslikkus",
+      "content": "Kindlustusvõtja, kindlustatud isiku või kahjustatud isiku kahjuks käesolevast seadusest või võlaõigusseadusest kõrvalekalduv kokkulepe on tühine, välja arvatud juhul, kui kõrvalekalduva kokkuleppe lubatavus on seaduses sätestatud."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Kindlustuskohustus",
+      "content": "(1) Kindlustuskohustus käesoleva seaduse tähenduses on kohustus sõlmida kohustusliku liikluskindlustuse leping (edaspidi leping ) kolmandale isikule sõidukiga kahju tekitamisest tuleneva vastutuse kindlustamiseks käesolevas seaduses sätestatud korras ja ulatuses.\n(2) Liikluses ei tohi kasutada kindlustuskohustusega hõlmatud sõidukit, millel ei ole kohustuslikku liikluskindlustust või automaatset liikluskindlustust (edaspidi koos liikluskindlustus ).\n(3) Välisriigis põhiasukohta omava sõiduki juhil peab liikluses osalemise korral kaasas olema poliis, roheline kaart või muu kohustusliku lepingu olemasolu tõendav dokument."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Kindlustuskohustusega hõlmatud sõiduk",
+      "content": "Leping tuleb sõlmida järgmise mootorsõiduki ja selle haagise (edaspidi koos sõiduk ) suhtes: 1 1) sõiduk, mis on registreeritud või tuleb registreerida liiklusseaduse alusel loodud liiklusregistris (edaspidi liiklusregister ), välja arvatud vanasõiduk ja võistlusauto, mida ei kasutata liikluses;\n2) tramm ja troll;\n3) Eestis väljastatud teisaldatava riikliku registreerimismärgiga sõiduk;\n4) Eestis väljastatud transiitmärgiga sõiduk;\n5) välisriigis, välja arvatud Euroopa Majanduspiirkonna lepinguriigis ja Šveitsi Konföderatsioonis, (edaspidi kolmas riik ) põhiasukohta omav sõiduk, millega kahju tekitamisest tulenev vastutus ei ole kindlustatud."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5",
+      "title": "§ 5. Kindlustuskohustusest vabastatud sõiduk",
+      "content": "Käesoleva seaduse alusel ei ole kohustuslik kindlustada Kaitseväe, Kaitsepolitseiameti, Kaitseliidu ning Politsei- ja Piirivalveameti valduses olevat sõidukit, mille omanik või vastutav kasutaja on eelnimetatud asutus. Kui nimetatud sõidukiga sõidetakse Eestist välja, tuleb sõidukiga kahju tekitamisest tulenev vastutus käesolevas seaduses sätestatud korras kindlustada."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "6",
+      "title": "§ 6. Kindlustuskohustuse erisus",
+      "content": "(1) Kindlustuskohustust ei ole lepingu lõppemisele järgneva 12 kalendrikuu jooksul tingimusel, et sellel ajavahemikul ei osaleta sõidukiga liikluses ega kasutata sõidukit muul viisil, mis võib põhjustada kindlustusjuhtumi. Eelnimetatud tähtaja jooksul ei rakendata sõidukile automaatset liikluskindlustust.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud kindlustuskohustuse erisust ei kohaldata käesoleva seaduse § 4 punktides 3–5 nimetatud sõidukite suhtes."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "7",
+      "title": "§ 7. Kindlustuskohustusega isik",
+      "content": "(1) Kindlustuskohustus on sõiduki omanikuna liiklusregistrisse kantud isikul.\n(2) Kui liiklusregistris registreeritud sõidukil on vastutav kasutaja, on kindlustuskohustus käesoleva paragrahvi lõikes 1 nimetatud isiku asemel vastutava kasutajana liiklusregistrisse kantud isikul.\n(3) Muudel juhtudel vastutab kindlustuskohustuse täitmise eest sõiduki omanik omandiõiguse tekkimisest arvates."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "8",
+      "title": "§ 8. Kindlustusjuhtum ja kindlustusjuhtumile kohaldatav õigus",
+      "content": "(1) Kindlustusjuhtum on kolmandale isikule kahju tekitamine juhul, kui samal ajal esinevad järgmised tingimused:\n1) kahju on tekitatud sõidukiga, mille suhtes kehtib käesolevast seadusest või sõiduki põhiasukoha riigi õigusaktist tulenev kindlustuskohustus;\n2) kahju on tekitatud sõiduki liikluses käitamisele iseloomuliku riski realiseerumisega ja esineb põhjuslik seos sõiduki liikumise või paiknemise ning tekitatud kahju vahel;\n3) kahju on tekitatud teel või muul sõidukite tavapäraseks liikluseks kasutataval alal.\n(2) Kindlustusjuhtumiks ei ole kahju põhjustamine:\n1) sõidukis, sealhulgas õhu- ja veesõidukis, välja arvatud liinivedu tegevale parvlaevale peale- või mahasõidul;\n2) paigas, mis on suletud ja eraldatud võistluseks, treeninguks või muuks samalaadseks ürituseks;\n3) avalikuks liikluseks suletud lennuvälja territooriumil;\n4) teel või muul sõidukite tavapäraseks liikluseks kasutataval alal ajal, mil see ala on avalikule liiklusele suletud, ning kui sõidukit, millega kahju põhjustati, kasutatakse metsa-, põllu- või ehitustöödel või muul samalaadsel eesmärgil ja kahju põhjustatakse vahetult töösoorituse käigus.\n(3) Kui Euroopa Parlamendi ja nõukogu määrusest (EÜ) nr 864/2007 lepinguväliste võlasuhete suhtes kohaldatava õiguse kohta (ELT L 199, 11.07.2007, lk 40–49) ei tulene teisiti, kohaldatakse õigusvastaselt tekitatud kahju hüvitamisele selle riigi õigust, kus kindlustusjuhtum aset leidis."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "9",
+      "title": "§ 9. Sõiduki põhiasukoht",
+      "content": "(1) Sõiduki põhiasukoht on riigis, mille liiklusregistrisse sõiduk ajutiselt või alaliselt on kantud. Kui registreerimist ei nõuta, on sõiduki põhiasukohaks sõiduki valdaja elu- või asukohariik.\n(2) Kui kindlustusjuhtum põhjustatakse sõidukiga, millele ei ole kinnitatud registreerimismärki või millele on kinnitatud sellele sõidukile mittekuuluv registreerimismärk, loetakse sõiduki põhiasukohaks kindlustusjuhtumi toimumiskoha riik."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "10",
+      "title": "§ 10. Liikluskindlustuse fond",
+      "content": "(1) Liikluskindlustuse fond (edaspidi fond ) on mittetulundusühing, kes täidab ülesandeid, mis tulenevad käesolevast seadusest ja valdkonna eest vastutava ministriga sõlmitud halduslepingust.\n(2) Fond on Rohelise Kaardi Büroode Nõukogu (inglise keeles Council of Bureaux’ ) liige ja rohelise kaardi büroo Eestis."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "11",
+      "title": "§ 11. Kindlustuskohustuse täitmise kontrollimine",
+      "content": "(1) Fond kontrollib pidevalt ja süsteemselt kindlustuskohustuse täitmist liiklusregistri ja liikluskindlustuse registri andmete võrdlemise teel käesoleva seaduse 5. peatükis sätestatud automaatse liikluskindlustuse rakendamiseks.\n(2) Liikluses osalevate sõidukite, sealhulgas riigipiiri või ajutist kontrolljoont ületavate sõidukite puhul kontrollib kindlustuskohustuse täitmist politseiametnik ja abipolitseinik.\n(3) Euroopa Majanduspiirkonna lepinguriigis või Šveitsi Konföderatsioonis (edaspidi lepinguriik ) põhiasukohta omava sõiduki puhul loetakse kindlustuskohustus täidetuks, kui selle ulatus vastab sõiduki põhiasukoha lepinguriigi nõuetele."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - Liikluskindlustuse leping",
+      "section": "12",
+      "title": "§ 12. Leping",
+      "content": "Lepinguga kohustub üks isik (edaspidi kindlustusandja ) hüvitama sõiduki valdaja (edaspidi kindlustatud isik ) asemel kahjustatud isikule käesolevas seaduses sätestatud ulatuses ja tingimustel kahju, mis on tekkinud kindlustusjuhtumi tagajärjel. Teine isik (edaspidi kindlustusvõtja ) kohustub tasuma kindlustusandjale kindlustusmakseid."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - Liikluskindlustuse leping",
+      "section": "13",
+      "title": "§ 13. Lepingu sõlmimine",
+      "content": "(1) Lepingu võib kindlustusvõtjana sõlmida iga isik, kellel on kindlustushuvi.\n(2) Kindlustusandja on kohustatud lepingu sõlmima, kui kindlustusvõtja on kindlustuskohustusega isik või kindlustusvõtjal on kindlustushuvi sõiduki kindlustamiseks.\n(3) Käesoleva seaduse § 4 punktis 5 nimetatud sõiduki suhtes võib lepingu sõlmida fond või temaga kokkulepet omav kindlustusandja.\n(4) Käesoleva seaduse § 4 punktis 5 nimetatud sõiduki puhul võimaldab fond lepingu sõlmimist vähemalt valdkonna eest vastutava ministriga sõlmitud halduslepingus nimetatud piiripunktides."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - Liikluskindlustuse leping",
+      "section": "14",
+      "title": "§ 14. Lepingu sõlmimise piirangud",
+      "content": "(1) Sõiduki suhtes ei ole lubatud sõlmida mitut kattuva kindlustusperioodiga lepingut. Kui on sõlmitud mitu kattuva kindlustusperioodiga lepingut, on hiljem sõlmitud leping tühine ulatuses, milles see kattub varem sõlmitud lepinguga.\n(2) Kindlustusandjal on õigus keelduda lepingu sõlmimisest, kui sõidukit ei ole registreeritud ettenähtud korras.\n(3) Kindlustusandjal ei ole õigust keelduda kuni 30-päevase kindlustusperioodiga lepingu sõlmimisest sõiduki suhtes, mille registrikanne on liiklusseaduse § 77 lõikes 8^1 sätestatud korras peatatud. Lepingujärgne kindlustuskaitse kindlustatu suhtes kehtib tingimusel, et enne tehnonõuetele vastavuse kontrolli läbimist kasutatakse sõidukit üksnes erandkorras, järgides liiklusseaduse § 73 lõike 7^4 nõudeid.\n(4) Kindlustusandja võib sõlmida lepingu lepinguriigis omandatud ja Eestisse toimetatava sõiduki suhtes enne selle liiklusregistris registreerimist tingimusel, et sõiduki Eestisse toimetamise algusest ei ole möödunud rohkem kui 30 kalendripäeva. Sõiduki Eestisse toimetamise algust arvestatakse sõidukile transiitmärgi väljastamisest. Kui sõidukile transiitmärki ei väljastata, arvestatakse sõiduki Eestisse toimetamise algust ajast, mil sõiduk anti omandajale üle."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - Liikluskindlustuse leping",
+      "section": "15",
+      "title": "§ 15. Kindlustuskaitse territoriaalne kehtivus",
+      "content": "(1) Lepingu alusel antav kindlustuskaitse kehtib kõigis lepinguriikides, ilma et pooled peaksid selles eraldi kokku leppima. Kolmandas riigis kehtib kindlustuskaitse siis, kui see riik on ära märgitud lepingu sõlmimist kinnitaval poliisil või rohelisel kaardil.\n(2) Kindlustusandja ei võta lisakindlustusmakset ega muud tasu teises lepinguriigis kehtiva kindlustuskaitse eest. Kindlustusandjal on õigus võtta lisakindlustusmakset või muud tasu kolmandas riigis kehtiva kindlustuskaitse eest."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - Liikluskindlustuse leping",
+      "section": "16",
+      "title": "§ 16. Lepingutingimuste piirangud",
+      "content": "(1) Lepingu võib sõlmida tähtajaga kuni üks aasta.\n(2) Kokkulepe, mis näeb ette omavastutuse kohaldamise tarbijast kindlustusvõtjale, on tühine, kui käesolevas seaduses ei ole sätestatud teisiti.\n(3) Kokkulepe, mille kohaselt lepingu kehtivusajal ei ole teatud ajavahemikul kindlustusandjal kahju hüvitamise kohustust ja kindlustusvõtjal kindlustusmakse tasumise kohustust, on tühine.\n(4) Kokkulepe kindlustuskaitse tagasiulatuva alguse või lõppemise kohta on tühine.\n(5) Lepingule ei kohaldata võlaõigusseaduse §-s 432 teavitamise kohustuse rikkumise tagajärgede kohta sätestatut.\n(6) Lepingule ei kohaldata võlaõigusseaduse §-s 445 kindlustusriski võimalikkuse suurendamise tagajärgede kohta sätestatut.\n(7) Lepingule ei kohaldata võlaõigusseaduse §-s 493 sätestatut."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - Liikluskindlustuse leping",
+      "section": "17",
+      "title": "§ 17. Poliis",
+      "content": "(1) Kindlustusandja väljastab kindlustusvõtjale poliisi kirjalikku taasesitamist võimaldavas vormis. Sõidukit kasutava kindlustatud isiku taotlusel väljastab kindlustusandja poliisi ärakirja kirjalikku taasesitamist võimaldavas vormis ka talle.\n(2) Kui leping pikeneb käesolevas seaduses sätestatud korras automaatselt järgmiseks kindlustusperioodiks, on kindlustusandja kohustatud väljastama kindlustusperioodi alguseks uue poliisi."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - Liikluskindlustuse leping",
+      "section": "18",
+      "title": "§ 18. Roheline kaart",
+      "content": "(1) Roheline kaart on poliisi eriliik, mis tõendab lepingus kokku lepitud kindlustuskaitse kehtimist peale Eesti ja lepinguriikide ka rohelisel kaardil märgitud kolmandas riigis.\n(2) Kindlustusvõtja taotlusel väljastab kindlustusandja rohelise kaardi kindlustusvõtjale või kindlustusvõtja nimetatud kindlustatud isikule.\n(3) Rohelise kaardi väljastamisele ei kohaldata võlaõigusseaduse § 434 lõikes 2 sätestatut."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - Liikluskindlustuse leping",
+      "section": "19",
+      "title": "§ 19. Kindlustusmakse tasumine ja tasumisega hilinemine",
+      "content": "(1) Kindlustusmakse tasumisele kohaldatakse võlaõigusseaduse §-des 457 ja 458 sätestatut käesolevast paragrahvist tulenevate erisustega.\n(2) Võlaõigusseaduse § 457 lõikes 2 nimetatud kindlustusandja kohustuse täitmisest vabanemist ei kohaldata juhul, kui kindlustusvõtja ei tasunud esimest kindlustusmakset ja kindlustusjuhtum toimus 14 kalendripäeva jooksul lepingu sõlmimisest arvates.\n(3) Kindlustusmakse tasumisele ei kohaldata võlaõigusseaduse § 458 lõikes 4 sätestatut."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - Liikluskindlustuse leping",
+      "section": "20",
+      "title": "§ 20. Lepingu pikenemine",
+      "content": "(1) Kui sõlmitakse automaatselt pikenev leping, pikeneb leping järgmiseks kindlustusperioodiks üksnes juhul, kui kindlustusvõtja ei väljenda hiljemalt kaks tööpäeva enne kindlustusperioodi lõppu teistsugust tahet või ei sõlmi lepingut teise kindlustusandjaga.\n(2) Lepingu pikenemise kokkuleppe korral on kindlustusandja kohustatud vähemalt 14 kalendripäeva enne kindlustusperioodi lõppu teavitama kindlustusvõtjat kindlustusmakse suurusest, mis kindlustusvõtjal tuleb lepingu automaatse pikenemise korral tasuda. Kindlustusandja pakkumus ei või olla tingimuslik.\n(3) Automaatselt pikeneva lepingu korral loetakse kindlustusmakse teiseks või järgnevaks kindlustusmakseks.\n(4) Kindlustusandjal on keelatud pakkuda üksnes automaatselt pikenevaid lepinguid."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "2. peatükk - Liikluskindlustuse leping",
+      "section": "21",
+      "title": "§ 21. Lepingu lõppemise alused ja lepingu üleminek",
+      "content": "(1) Leping lõpeb:\n1) sõiduki liiklusregistrist kustutamisel, sealhulgas ajutiselt liiklusregistrist kustutamisel;\n2) arvates ajast, millal sõiduki omandajale üleandmisest lepinguriigis on möödunud 30 kalendripäeva ja sõidukit ei ole Eesti liiklusregistris registreeritud, või arvates sellise sõiduki Eesti liiklusregistris registreerimisest;\n3) arvates transiitmärgi kehtivuse lõppemisest, kui leping oli sõlmitud käesoleva seaduse § 4 punktis 4 nimetatud sõidukiga kahju tekitamisest tuleneva vastutuse kindlustamiseks;\n4) lepingu ülesütlemisel või lepingust taganemisel;\n5) muul seaduses ettenähtud juhul.\n(2) Lepingu ülesütlemine või lepingust taganemine on lubatud üksnes käesolevas seaduses või võlaõigusseaduses sätestatud juhtudel.\n(3) Kui kindlustusjuhtum toimub enne lepingu ülesütlemist või lepingust taganemist, peab kindlustusandja täitma oma lepingust tuleneva kahju hüvitamise kohustuse.\n(4) Liiklusregistris registreeritud sõidukite puhul lähevad lepingust tulenevad kindlustusvõtja õigused ja kohustused üle kindlustuskohustusega isikule liiklusregistris kindlustuskohustusega isiku kohta kande tegemisest arvates. Vastavalt kohaldatakse võlaõigusseaduse §-des 495–498 ja §-s 524 sätestatut."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "2. peatükk - Liikluskindlustuse leping",
+      "section": "22",
+      "title": "§ 22. Lepingu erakorraline ülesütlemine",
+      "content": "(1) Kindlustusvõtjal on õigus leping mõjuval põhjusel üles öelda. Erakorraline ülesütlemine on lubatud muu hulgas järgmistel juhtudel:\n1) sõiduk on väljunud kindlustatud isiku või kindlustusvõtja valdusest tema tahte vastaselt;\n2) sõiduk on hävinud või seda ei saa tehnilistel põhjustel kasutada enam kui üks kuu;\n3) lõpeb leping, mille alusel kindlustusvõtja sõidukit kasutas.\n(2) Kokkulepe lepingu mõjuval põhjusel ülesütlemise õiguse välistamise või piiramise kohta on tühine."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - Hüvitatav kahju",
+      "section": "23",
+      "title": "§ 23. Kahju hüvitamise õiguslikud alused",
+      "content": "(1) Kahjustatud isik võib kindlustusjuhtumi toimumise korral esitada kahju hüvitamise nõude kindlustusandja vastu, kui kindlustatud isik vastutab kahjustatud isiku ees:\n1) võlaõigusseaduse § 1057 alusel;\n2) võlaõigusseaduse õigusvastaselt ja süüliselt tekitatud kahju hüvitamise sätete alusel või\n3) reisijaveolepingu alusel.\n(2) Matusekulud kandnud isik võib kindlustusandja vastu esitada nõude võlaõigusseaduse § 129 alusel."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - Hüvitatav kahju",
+      "section": "24",
+      "title": "§ 24. Hüvitatava kahju ulatus",
+      "content": "Kindlustusandja hüvitab kindlustatud isiku asemel kahjustatud isikule kindlustusjuhtumi tagajärjel tekitatud kahju üksnes käesolevas seaduses sätestatud alustel ja ulatuses. Käesolevas peatükis sätestatu ei piira kahjustatud isiku õigust esitada nõue kahju põhjustaja vastu teises seaduses sätestatud alusel."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "3. peatükk - Hüvitatav kahju",
+      "section": "25",
+      "title": "§ 25. Kindlustussumma",
+      "content": "(1) Kui lepingus ei ole kokku lepitud suuremas kindlustussummas, on kindlustussumma ühe kindlustusjuhtumi kohta, olenemata kahjustatud isikute arvust, asja hävimise või kahjustamise korral 1 200 000 eurot ja surma põhjustamise, tervise kahjustamise või kehavigastuse tekitamise korral 5 600 000 eurot.\n(2) Kui kahjustatud isikuid kindlustusjuhtumi kohta on rohkem kui üks ja kindlustusandjale esitatud nõuete kogusumma või kindlustusandja esialgu hinnatud kindlustushüvitise summa ületab käesoleva paragrahvi lõikes 1 sätestatud kindlustussumma, jagab kindlustusandja kindlustushüvitise kahjustatud isikute vahel proportsionaalselt iga kahjustatud isiku kahju suuruse järgi.\n(3) Mittevaralise kahju hüvitis loetakse käesoleva paragrahvi lõikes 1 sätestatud kindlustussumma hulka."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "3. peatükk - Hüvitatav kahju",
+      "section": "26",
+      "title": "§ 26. Asja kahjustamisest või hävimisest põhjustatud kahju",
+      "content": "(1) Asja kahjustamise või hävimise korral kohaldatakse võlaõigusseaduse § 132 lõigetes 1–3 sätestatut käesolevast paragrahvist tulenevate erisustega.\n(2) Sõiduki kahjustamise korral on kahjustatud isikul õigus valida talle sobiv sõiduki taastusremonti teostav remondiettevõtja. Sellisel juhul peab kahjustatud isik esitama kindlustusandjale täitmise kohustuse ulatuse kindlakstegemiseks taastusremondi teostaja koostatud kalkulatsiooni. Kindlustusandja hüvitamiskohustus piirdub mõistlike kulutustega kindlustusjuhtumieelse olukorra taastamiseks. Kahjustatud isiku nõudmisel väljastab kindlustusandja taastusremondi teostajale garantiikirja taastusremondi maksumuse tasumise kohta kahjustatud isiku eest garantiikirjas sätestatud ulatuses ja tingimustel.\n(3) Kahjustatud isiku nõudmisel on kindlustusandja kohustatud abistama sõiduki taastusremondi korraldamisel.\n(4) Kindlustushüvitise maksmine rahas on lubatud üksnes siis, kui sõidukit ei ole võimalik taastada, sõidukile taastusremondi tegemine on ebamõistlik või kui pooled on kokku leppinud, et kindlustushüvitis makstakse rahas.\n(5) Kui kindlustusandja selgitab välja, et kahjustatud isikul on õigus oma maksustatavalt käibelt arvestatud käibemaksust maha arvestada kahjustatud asja taastamise või asendamise maksumusele lisanduv käibemaks, on tal õigus kahju hüvitamisel seda arvestada.\n(6) Kui kahjustatud isik, kellel on õigus sisendkäibemaks osaliselt või täielikult oma maksustatavalt käibelt arvestatud käibemaksust maha arvata, esitab kindlustusandjale taotluse kahju hüvitamiseks koos käibemaksuga, peab kindlustusandja kahju hüvitama koos käibemaksu osaga.\n(7) Käesoleva paragrahvi lõikes 6 sätestatud juhul tekib kindlustusandjal tagasinõudeõigus hüvitise selles osas, mille kahjustatud isik sai või oleks saanud oma maksustatavalt käibelt arvestatud käibemaksust tagasi või tasaarvestatud.\n(8) Kui kindlustusandja on kahjustatud isikule täies ulatuses hüvitanud asja kindlustusjuhtumieelse väärtuse, läheb asja omandiõigus üle kindlustusandjale. Kui kahjustatud isik asja valdust kindlustusandjale üle ei anna, on kindlustusandjal õigus vähendada väljamakstavat kindlustushüvitist hüvitatud asja kindlustusjuhtumijärgse väärtuse võrra.\n(9) Sõiduki väärtuse vähenemisest tekkinud kahju hüvitatakse juhul, kui sõiduk sai kindlustusjuhtumis raskelt kahjustada ja kahjustatud isik nõuab sõiduki taastamise mõistlike kulutuste hüvitamist. Sõiduk on raskelt kahjustatud, kui selle taastamise kulud ületavad 50 protsenti sõiduki turuhinnast ja taastusremont hõlmab kandevkere või raami kuju taastamist olulises ulatuses."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "3. peatükk - Hüvitatav kahju",
+      "section": "27",
+      "title": "§ 27. Ülalpidamishüvitise maksmise põhimõtted",
+      "content": "(1) Kahjustatud isiku surma korral maksab kindlustusandja võlaõigusseaduse § 129 lõigetes 3–6 nimetatud isikutele hüvitist (edaspidi ülalpidamishüvitis ) käesolevas seaduses sätestatud ulatuses.\n(2) Ülalpidamishüvitise arvutamisel lähtub kindlustusandja järgmisest:\n1) käesoleva seaduse § 29 alusel arvutatud kahjustatud isiku netotulust arvatakse maha kahe viiendiku suurune osa, mida kahjustatud isik eeldatavalt kasutas oma tarbeks;\n2) käesoleva seaduse § 29 alusel arvutatud kahjustatud isiku netotulust kolme viiendiku suurune osa jaotatakse hüvitise saamiseks õigustatud isikute vahel võrdseteks osadeks.\n(3) Õigustatud isikul on õigus saada ülalpidamishüvitist käesoleva paragrahvi lõikes 2 sätestatud põhimõtetest erinevalt, kui ta tõendab, et kahjustatud isik oleks andnud talle ülalpidamist teistsuguses ulatuses või ülalpidamishüvitis tuleks õigustatud isikute vahel jaotada teisiti.\n(4) Kindlustusandjal on õigus maksta õigustatud isikule ülalpidamishüvitist käesoleva paragrahvi lõikes 2 sätestatud põhimõtetest erinevalt, kui ta tõendab, et kahjustatud isik oleks andnud õigustatud isikule ülalpidamist teistsuguses ulatuses.\n(5) Kui õigustatud isikute arv ülalpidamishüvitise maksmise perioodil suureneb, arvutatakse ülalpidamishüvitis käesoleva paragrahvi lõike 2 punktis 2 sätestatut arvestades ümber.\n(6) Kui õigustatud isikute arv ülalpidamishüvitise maksmise perioodil väheneb, siis käesoleva paragrahvi lõike 2 punktis 2 sätestatut ei arvestata ja ülalpidamishüvitist ümber ei arvutata."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "3. peatükk - Hüvitatav kahju",
+      "section": "28",
+      "title": "§ 28. Töövõimetushüvitise maksmise põhimõtted",
+      "content": "(1) Kindlustusandja hüvitab kahjustatud isikule kindlustusjuhtumi tagajärjel tekkinud osalise või puuduva töövõime või ajutise töövõimetuse tõttu saamata jääva sotsiaalmaksuga maksustatava tulu, arvestades kahjustatud isiku töövõime vähenemise ulatust (edaspidi töövõimetushüvitis ). Eeldatakse, et töövõime ajutise kaotamise korral on kahjustatud isiku töövõime täielikult kadunud.\n(2) Töövõimetushüvitist makstakse isikule alates 16-aastaseks saamisest.\n(3) Kindlustusandja hüvitab kahjustatud isiku tööandjale töötervishoiu ja tööohutuse seaduse § 12^2 lõike 1 alusel välja makstud haigushüvitise.\n(4) Töövõimetushüvitist võib ajutise töövõimetuse korral maksta ühekordse maksena tagasiulatuvalt.\n(5) Osalise või puuduva töövõime korral on õigus töövõimetushüvitisele järgmistel isikutel:\n1) töövõimetoetuse seaduse §-s 2 nimetatud isik, kui tal on tuvastatud osaline või puuduv töövõime töövõimetoetuse seaduses sätestatud korras;\n2) muu kahjustatud isik, kui tal on tuvastatud osaline või puuduv töövõime käesolevas seaduses sätestatud korras.\n(6) Töövõimetoetuse seaduse alusel tuvastatud osalise töövõimega kahjustatud isikul on õigus töövõimetushüvitisele, kui ta vastab vähemalt ühele töövõimetoetuse seaduse § 12 lõikes 1 sätestatud tingimustest.\n(7) Kui kahjustatud isikul ei ole õigust töövõime hindamisele töövõimetoetuse seaduse alusel, hindab töövõimetushüvitise maksmise kohustuse olemasolu ja ulatuse väljaselgitamise raames töövõime ulatust kindlustusandja, kaasates töövõime vähenemise ulatuse tuvastamiseks vajaduse korral arstiõppe läbinud isiku."
+    },
+    {
+      "provision_ref": "para28^1",
+      "chapter": "3. peatükk - Hüvitatav kahju",
+      "section": "28^1",
+      "title": "§ 28^1. Püsiva töövõime vähenemise ulatuse määramine",
+      "content": "(1) Kindlustusandja tuvastab terviseseisundit arvesse võttes isikul üldise töövõime vähenemise protsentides skaalal 10–100 ja eraldi kindlustusjuhtumist tingitud töövõime vähenemise protsentides skaalal 10–100, kaasates töövõime vähenemise ulatuse tuvastamiseks vajaduse korral arstiõppe läbinud isiku. Töötamist osaliselt takistavaks loetakse üldise töövõime vähenemist alates 40 protsendist.\n(2) Kindlustusandja tuvastab kahjustatud isikul üldise töövõime vähenemise 100 protsenti, kui:\n1) Eesti Töötukassas töövõime hindamise tulemusena on kahjustatud isikul tuvastatud puuduv töövõime või\n2) Eesti Töötukassa kahjustatud isiku töövõimet ei hinda ning kahjustatud isik ei ole terviseseisundit ning sellest tulenevaid tegutsemise ja osalemise piiranguid, nende prognoosi ja eeldatavat kestust arvesse võttes võimeline töötama.\n(3) Kindlustusandja tuvastab kahjustatud isikul üldise töövõime vähenemise 40–90 protsenti, kui:\n1) Eesti Töötukassas töövõime hindamise tulemusena on isikul tuvastatud osaline töövõime või\n2) Eesti Töötukassa kahjustatud isiku töövõimet ei hinda ning kahjustatud isiku terviseseisundit ning sellest tulenevaid tegutsemise ja osalemise piiranguid, nende prognoosi ja eeldatavat kestust arvesse võttes on kahjustatud isiku töötamine osaliselt takistatud.\n(4) Käesoleva paragrahvi lõike 2 punktis 2 ja lõike 3 punktis 2 sätestatud juhul kohaldab kindlustusandja töövõime hindamisel vastavalt töövõimetoetuse seaduse § 5 lõike 4 ja § 6 lõike 3 alusel kehtestatud töövõime hindamise tingimuste ja töövõimet välistavate seisundite loetelu.\n(5) Üldise töövõime vähenemise ulatust ja kindlustusjuhtumist tingitud töövõime vähenemise ulatust väljendavad protsendimäärad ja protsendi määramise korra kehtestab valdkonna eest vastutav minister määrusega.\n(6) Üldise töövõime vähenemise ja kindlustusjuhtumist tingitud töövõime vähenemise protsendi määramiseks on kahjustatud isik kohustatud kindlustusandja nõudel läbima arstliku läbivaatuse. Kui kahjustatud isiku töövõime vähenes pärast töövõimetushüvitise vähendamist, on tal õigus nõuda enda arstlikule läbivaatusele saatmist. Arstliku läbivaatuse kulud kannab kindlustusandja."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "3. peatükk - Hüvitatav kahju",
+      "section": "29",
+      "title": "§ 29. Ülalpidamishüvitise ja töövõimetushüvitise arvutamine",
+      "content": "(1) Ülalpidamishüvitise ja töövõimetushüvitise (edaspidi käesolevas paragrahvis hüvitis ) arvutamise aluseks on kahjustatud isiku ühe kalendripäeva netotulu, mis leitakse kahjustatud isiku sotsiaalmaksuga maksustatud tulust, millest arvatakse maha tulumaks ja isiku töötuskindlustusmakse, ning seejärel jagatakse käesoleva paragrahvi lõigetes 2–7 sätestatud perioodi pikkusega kalendripäevades (edaspidi netotulu ). Arvestusest jäetakse välja kalendripäevad, millal kahjustatud isik oli ajutiselt töövõimetu.\n(2) Kui kahjustatud isik sai kindlustusjuhtumi ajal sotsiaalmaksuga maksustatud tulu, võetakse netotulu arvutamisel aluseks kindlustusjuhtumile eelnenud ajavahemik, mille jooksul kahjustatud isik sai katkematult sotsiaalmaksuga maksustatud tulu, kuid mitte rohkem kui 12 kalendrikuud.\n(3) Kui kahjustatud isik ei saanud kindlustusjuhtumi ajal sotsiaalmaksuga maksustatavat tulu, võetakse netotulu arvutamisel aluseks kindlustusjuhtumile vahetult eelnenud 12 kalendrikuu jooksul sotsiaalmaksuga maksustatud tulu.\n(4) Kui kahjustatud isik tegutses kindlustusjuhtumi ajal füüsilisest isikust ettevõtjana, võetakse netotulu arvutamisel aluseks kindlustusjuhtumile vahetult eelnenud kahe kalendriaasta tuludeklaratsioonis deklareeritud tulu.\n(5) Kui kahjustatud isik teenis kindlustusjuhtumile vahetult eelnenud 12 kalendrikuu jooksul tulu välismaal, võetakse netotulu arvutamisel aluseks välismaal teenitud tulu selline osa, mis Eestis teenituna kuuluks Eestis sotsiaalmaksuga maksustamisele.\n(6) Kui kahjustatud isik oli kindlustusjuhtumi toimumise ajal ajateenistuses, võetakse netotulu arvutamisel aluseks kahjustatud isiku ajateenistuse algusele vahetult eelnenud 12 kalendrikuu jooksul sotsiaalmaksuga maksustatud tulu.\n(7) Kui kahjustatud isik oli kindlustusjuhtumi toimumise ajal lapsehoolduspuhkusel, võetakse netotulu arvutamisel aluseks kahjustatud isiku lapsehoolduspuhkuse algusele vahetult eelnenud 12 kalendrikuu jooksul sotsiaalmaksuga maksustatud tulu.\n(8) Kui käesoleva paragrahvi lõigete 1–7 alusel arvutatud netotulu on väiksem kui Vabariigi Valitsuse kehtestatud töötasu alammäära ja arvu 30 jagatis, loetakse kahjustatud isiku sotsiaalmaksuga maksustatavaks tuluks Vabariigi Valitsuse kehtestatud töötasu alammäära ja arvu 30 jagatis.\n(9) Hüvitise arvutamisel kahjustatud isiku netotulu indekseeritakse. Indekseerimisel korrutatakse netotulu Statistikaameti viimase avaldatud tarbijahinnaindeksi ja kindlustusjuhtumi toimumise kalendrikuule järgnenud kalendrikuul avaldatud tarbijahinnaindeksi jagatisega.\n(10) Ühe kalendrikuu hüvitis on käesoleva paragrahvi lõike 9 kohaselt indekseeritud kalendripäeva netotulu ja arvu 30 korrutis, millest arvestatakse maha kahjustatud isikule muu kohustusliku kindlustuse või seaduse alusel määratud hüvitise või kompensatsiooni summa kalendrikuu kohta.\n(11) Hüvitise arvutamisel arvestatakse kindlustusandja vastutuse ulatust.\n(12) Töövõimetushüvitise puhul arvestatakse kahjustatud isiku sotsiaalmaksuga maksustatavat tulu perioodil, mille kohta töövõimetushüvitis on arvestatud.\n(13) Hüvitis arvutatakse ümber, kui kahjustatud isikul tekib või oleks tekkinud õigus vanaduspensionile. Hüvitise ümberarvutamisel võetakse kahjustatud isiku netotulust enne kindlustusjuhtumit arvesse 60 protsenti."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "3. peatükk - Hüvitatav kahju",
+      "section": "30",
+      "title": "§ 30. Ülalpidamishüvitise ja töövõimetushüvitise muutmine",
+      "content": "(1) Kindlustusandja arvutab töövõimetushüvitise ümber, kui muutuvad töövõimetushüvitise arvutamise aluseks olnud asjaolud või ilmnevad uued asjaolud, mida tuleb töövõimetushüvitise arvutamisel arvestada. Kui kindlustusandja arvutab töövõimetushüvitise ümber, siis netotulu uuesti ei indekseerita.\n(2) Kui ümberarvutamise tulemusel selgub, et kindlustusandja on maksnud töövõimetushüvitist väiksemas summas, kui ta muutunud või ilmnenud uusi asjaolusid arvestades peaks maksma, makstakse puuduv osa töövõimetushüvitisest välja koos järgmise perioodi eest tasumisele kuuluva kindlustushüvitisega.\n(3) Kui ümberarvestamise tulemusel selgub, et kindlustusandja on maksnud töövõimetushüvitist suuremas summas, kui ta muutunud või ilmnenud uusi asjaolusid arvestades oleks pidanud maksma, on kindlustusandjal õigus enammakstud summa järgmise perioodi eest tasumisele kuuluvast kindlustushüvitisest maha arvata.\n(4) Kindlustusandjal ei ole kohustust muuta ülalpidamishüvitise suurust tagasiulatuvalt.\n(5) Töövõimetoetuse seaduse § 18 alusel töövõimetoetuse maksmise peatamise aja eest ei maksta kahjustatud isikule ka töövõimetushüvitist selle ajavahemiku eest."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "3. peatükk - Hüvitatav kahju",
+      "section": "31",
+      "title": "§ 31. Ülalpidamishüvitise ja töövõimetushüvitise maksmise lõpetamine",
+      "content": "(1) Kindlustusandja lõpetab ülalpidamishüvitise maksmise ajal, millal lõpeks kahjustatud isiku kohustus hüvitise saamiseks õigustatud isikut ülal pidada.\n(2) Kindlustusandja lõpetab ülalpidamishüvitise ja töövõimetushüvitise maksmise kindlustushüvitise saamiseks õigustatud isiku surma korral.\n(3) Kindlustusandja lõpetab töövõimetushüvitise maksmise, kui kahjustatud isiku töövõime taastub kindlustusjuhtumile eelnenud ulatuses.\n(4) Kindlustusandja lõpetab töövõimetushüvitise maksmise, kui kahjustatud isiku sotsiaalmaksuga maksustatav tulu suureneb vähemalt kindlustusjuhtumi eelse tasemeni. Kindlustusandja võtab seejuures arvesse Statistikaameti avaldatud tarbijahinnaindeksi muutust.\n(5) Kindlustusandja lõpetab ülalpidamishüvitise või töövõimetushüvitise maksmise, kui selleks esineb seadusest tulenev alus.\n(6) Osalise töövõimega isikule lõpetatakse töövõimetushüvitise maksmine enne tuvastatud osalise töövõime perioodi lõppemist, kui Eesti Töötukassa lõpetab talle töövõimetoetuse seaduse § 19 lõike 1 alusel töövõimetoetuse maksmise.\n(7) Töövõimetushüvitist ei maksta isikule ajavahemikul, kui ta kannab karistust vanglas või arestimajas või viibib vahi all."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "3. peatükk - Hüvitatav kahju",
+      "section": "32",
+      "title": "§ 32. Mittevaralise kahju hüvitamine tervise kahjustamise ja kehavigastuse tekitamise korral",
+      "content": "(1) Kindlustusandja maksab kahjustatud isikule tema tervise kahjustamisest või talle kehavigastuse tekitamisest tuleneva mittevaralise kahju hüvitist ühekordse maksena olenevalt tervisekahjustuse või kehavigastuse raskusastmest ja muudest asjaoludest. Kui kahjustatud isikul on erineva raskusastmega tervisekahjustused või kehavigastused, makstakse mittevaralise kahju hüvitis vastavalt raskeimale tervisekahjustuse või kehavigastuse liigile.\n(2) Isikule kehavigastuse tekitamisest või tema tervise kahjustamisest tekkinud mittevaralise kahju hüvitamisel võetakse arvesse muu hulgas tervisekahjustuse ja kehavigastuse raskusastet, tekkinud funktsioonihäire sügavust ning ravi ja töövõime kaotuse kestust.\n(3) Isikule tervise kahjustamisest või talle kehavigastuse tekitamisest tuleneva mittevaralise kahju nõude korral eeldatakse, et mittevaralise kahju suurus on:\n1) kerge tervisekahjustuse või kehavigastuse korral 100 eurot;\n2) keskmise raskusega kergema tervisekahjustuse või kehavigastuse korral 350 eurot;\n3) keskmise raskusega raskema tervisekahjustuse või kehavigastuse korral 1500 eurot;\n4) raske tervisekahjustuse või kehavigastuse korral 2600 eurot;\n5) väga raske tervisekahjustuse või kehavigastuse korral 3000 eurot;\n6) eriti raske tervisekahjustuse või kehavigastuse korral 3200 eurot.\n(4) Tervisekahjustuste ja kehavigastuste täpne liigitus sätestatakse käesoleva seaduse lisas."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "3. peatükk - Hüvitatav kahju",
+      "section": "33",
+      "title": "§ 33. Kahju, mis ei kuulu hüvitamisele",
+      "content": "Käesoleva seaduse alusel ei hüvitata: 1 1) käesoleva seaduse §-s 25 sätestatud kindlustussummat ületavat kahju;\n2) kahju, mis tekkis teel olnud kivi või muu eseme paiskumisega vastu sõidukit või muud asja;\n3) raha, väärtpaberite, kunstiväärtuste ja väärismetallist esemete, välja arvatud isiklikud tarbeesemed, kahjustamisest või hävimisest tulenevat kahju;\n4) keskkonnakvaliteedi halvenemisest tulenevat kahju, välja arvatud esmaste päästetoimingutega seotud mõistlikud kulutused esmase kahju likvideerimiseks ja kahju suurenemise ärahoidmiseks;\n5) saamata jäänud tulu, välja arvatud surma põhjustamise, tervise kahjustamise või kehavigastuse põhjustamise tõttu saamata jäänud tulu käesolevas seaduses sätestatud ulatuses;\n6) võlaõigusseaduse § 132 lõikes 4 nimetatud kahju;\n7) iseendale tekitatud kahju, välja arvatud käesoleva seaduse § 44 lõikes 1 sätestatud kindlustusjuhtumi põhjustanud sõidukijuhi ravikulud;\n8) sõiduki valdaja juhitud sõiduki omanikule tekitatud käesoleva seaduse §-s 26 nimetatud kahju;\n9) kahju, mille puhul ei ole tegemist sõiduki kui suurema ohu allika tekitatud kahjule iseloomuliku kahjuga, välja arvatud sõiduki uksega teisele sõidukile tekitatud kahju;\n10) edasiste majanduslike võimaluste halvenemisest tekkinud kahju, välja arvatud käesoleva seaduse §-s 28 sätestatud töövõimetushüvitis osalise või puuduva töövõime korral;\n11) kahjustatud asja väärtuse vähenemisest tekkinud kahju, välja arvatud käesoleva seaduse § 26 lõikes 9 nimetatud juhul;\n12) kahju, mille ärahoidmine ei ole liiklusreeglite täitmise eesmärgiks, näiteks kahju, mis tuleneb sellest, et kahjustatud isikul jääb kindlustusjuhtumi tagajärjel täitmata kindlustusjuhtumis mitteosalenud isikuga sõlmitud leping."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "34",
+      "title": "§ 34. Kahjustatud isiku nõudeõigus",
+      "content": "(1) Kui kahjustatud isikul on sama kindlustusjuhtumi korral õigus kahju hüvitamisele nii käesoleva seaduse kui ka vabatahtliku kindlustuslepingu alusel, on tal õigus valida, kummal alusel kahju hüvitamist nõuda, välja arvatud juhul, kui vabatahtlikus kindlustuslepingus ei ole kokku lepitud teisiti.\n(2) Käesolevas jaos sätestatu ei piira kahjustatud isiku õigust esitada kahju hüvitamise nõue kahju põhjustaja kui solidaarvõlgniku vastu."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "35",
+      "title": "§ 35. Hüvitamiseks kohustatud kindlustusandja ja fondi hüvitamiskohustus",
+      "content": "(1) Kahjustatud isikul on võimalik kahju hüvitamist nõuda:\n1) kindlustusandjalt, kes on kindlustanud sõidukiga, millega kindlustusjuhtum põhjustati, kahju tekitamisest tuleneva vastutuse (käesolevas peatükis edaspidi kahju põhjustaja kindlustusandja ) või\n2) kindlustusandjalt, kes on kindlustanud kahjustatud isiku sõidukiga kahju tekitamisest tuleneva vastutuse (käesolevas peatükis edaspidi kahjustatud isiku kindlustusandja ).\n(2) Kahjustatud isiku kindlustusandja vastu on kahjustatud isikul õigus esitada kahju hüvitamise nõue 30 kalendripäeva jooksul kindlustusjuhtumi toimumisest arvates.\n(3) Kui käesolevast seadusest ei tulene teisiti, on kahjustatud isiku kindlustusandjal kindlustusjuhtumiga seotud asjaolude väljaselgitamisel suhetes kahjustatud isiku, kindlustusvõtja ja kindlustatud isikuga samad õigused ja kohustused, nagu on kahju põhjustaja kindlustusandjal.\n(4) Käesolevas seaduses sätestatud juhtudel hüvitab kahjustatud isikule tekitatud kahju fond. Kui käesolevast seadusest ei tulene teisiti, hüvitab fond kahju samas ulatuses ja korras kui kahju põhjustaja kindlustusandja."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "36",
+      "title": "§ 36. Kahju hüvitamise kohustuse kestus",
+      "content": "(1) Kahju põhjustaja kindlustusandja või kahjustatud isiku kindlustusandja peab kindlustatud isiku eest kahjustatud isikule kahju hüvitama, kui kindlustusjuhtum leidis aset lepingu kehtivuse ajal.\n(2) Kaheteistkümne kalendrikuu jooksul pärast lepingu lõppemist peab kahju põhjustaja viimase lepingu järgne kindlustusandja või kahjustatud isiku kindlustusandja kahjustatud isikule kahju hüvitama, kui kahju põhjustaja ei pidanud kinni käesoleva seaduse § 3 lõikes 2 sätestatud sõidukiga liikluses osalemise keelust ja sõidukiga põhjustati kahju.\n(3) Kindlustusandjal ei ole käesoleva paragrahvi lõike 2 alusel kahju hüvitamise kohustust, kui:\n1) tegemist on käesoleva seaduse § 4 punktides 3–5 nimetatud sõidukiga;\n2) kindlustusjuhtumi toimumise ajaks oli sõiduk liiklusregistrist kustutatud, sealhulgas ajutiselt kustutatud, või sõiduki registrikanne oli peatatud."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "37",
+      "title": "§ 37. Kindlustusjuhtumist teatamine",
+      "content": "(1) Kahju põhjustaja ja kahjustatud isik peavad kindlustusjuhtumist viivitamata teavitama kas kahju põhjustaja kindlustusandjat või kahjustatud isiku kindlustusandjat.\n(2) Kui kahjustatud isik on kindlustusjuhtumist kirjalikku taasesitamist võimaldavas vormis teatanud, loetakse, et ta on ühtlasi esitanud kahju hüvitamise nõude."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "38",
+      "title": "§ 38. Kahjustatud asja ettenäitamine ja täiendava kahju ärahoidmine",
+      "content": "(1) Kahju põhjustaja ja kahjustatud isik on kohustatud säilitama sõiduki või muu kindlustusjuhtumi toimumise tagajärjel kahjustatud asja võimalikult kindlustusjuhtumijärgses seisundis ja selle kindlustusandjale ette näitama.\n(2) Kahjustatud asja ei pea säilitama kindlustusjuhtumijärgses seisundis pärast seda, kui kindlustusandja on selle üle vaadanud, ega kauem kui seitse kalendripäeva pärast kindlustusjuhtumi toimumisest teatamist. Kui kindlustusandja on kirjalikku taasesitamist võimaldavas vormis palunud kahjustatud asja kauem säilitada, tuleb seda säilitada 15 kalendripäeva kindlustusandja vastava teate saamisest arvates.\n(3) Kahjustatud asja suhtes võib teha muudatusi, kui see on vajalik kahju vähendamise eesmärgil või avalikes huvides.\n(4) Võlaõigusseaduse §-s 488 sätestatud kahju ärahoidmise ja vähendamise ning kahju kindlakstegemise võimalikkuse tagamise kohustust kohaldatakse sõiduki omaniku, sõiduki vastutava kasutaja, kindlustusvõtja, sõiduki juhi ja kahjustatud isiku suhtes."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "39",
+      "title": "§ 39. Kindlustusandja kahju hüvitamise kohustus kindlustusjuhtumi toimumisel",
+      "content": "(1) Kahju hüvitamise kohustus muutub sissenõutavaks kindlustusjuhtumi toimumise ning kindlustusandja kahju hüvitamise kohustuse olemasolu ja ulatuse kindlaksmääramiseks vajalike toimingute lõpetamisega. Kindlustusandja on kohustatud kõik vajalikud toimingud tegema mõistliku aja jooksul, kuid kõige hiljem 30. kalendripäeval kindlustusjuhtumist teatamisest arvates.\n(2) Kui kindlustusandjal ei ole mõjuval ja temast mitteoleneval põhjusel võimalik kõiki vajalikke toiminguid teha käesoleva paragrahvi lõikes 1 nimetatud tähtajaks, peab ta sellest kahjustatud isikut eelnevalt teavitama ja selgitama, milles mõjuv põhjus seisneb, ning näitama ära vajalike toimingute lõpetamise eeldatava tähtaja.\n(3) Kindlustusandja peab kahju hüvitama või teavitama kahjustatud isikut kahju hüvitamisest keeldumisest viivitamata pärast käesoleva paragrahvi lõikes 1 nimetatud toimingute lõpetamist.\n(4) Kui kindlustusjuhtumi kohta on algatatud tsiviilkohtu-, kriminaal-, väärteo- või lepitusmenetlus ja menetluses tuvastatavatel asjaoludel on oluline tähtsus kahju hüvitamise kohustuse olemasolu või ulatuse seisukohalt, pikeneb käesoleva paragrahvi lõikes 1 nimetatud toimingute tegemise tähtaeg nende asjaolude selgitamise aja võrra. Eeldatakse, et menetluses tuvastatavatel asjaoludel ei ole kahju hüvitamise kohustuse olemasolu ega ulatuse seisukohalt olulist tähtsust."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "40",
+      "title": "§ 40. Nõude rahuldamata jätmisest teavitamine",
+      "content": "(1) Kindlustusandja teavitab kahjustatud isikut kahju hüvitamise täielikust või osalisest keeldumisest kirjalikku taasesitamist võimaldavas vormis.\n(2) Kui kindlustusandja tugineb kahju hüvitamisel käesoleva seaduse § 39 lõikes 4 nimetatud menetluse algatamisele, peab ta kahjustatud isikule kirjalikku taasesitamist võimaldavas vormis ja käesoleva seaduse § 39 lõikes 1 sätestatud tähtaja jooksul põhjendama, miks on menetluses selgitatavatel asjaoludel kahju hüvitamise kohustuse olemasolu või ulatuse seisukohalt oluline tähtsus, ja näitama ära kahju hüvitamise eeldatava tähtaja."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "41",
+      "title": "§ 41. Nõudeõigus kahjustatud isiku kindlustusandja vastu",
+      "content": "(1) Kahjustatud isiku kindlustusandjalt saab kahjustatud isik nõuda sõiduki hävimisest või kahjustamisest põhjustatud kahju, samuti sama kindlustusjuhtumi tagajärjel muu asja hävimisest või kahjustamisest põhjustatud kahju hüvitamist.\n(2) Kahjustatud isiku kindlustusandja ei hüvita kahju, kui:\n1) kindlustusjuhtumi tagajärjel on tekitatud kahjustatud isikule kehavigastus või tervisekahjustus või põhjustatud kahjustatud isiku surm;\n2) kahjustatud sõiduki või sõiduki, millega kahju põhjustati, põhiasukoht on välisriigis.\n(3) Kahjustatud isiku kindlustusandjal on õigus kahju hüvitamisest keelduda, kui:\n1) kindlustushüvitise summa ületab eeldatavalt 10 000 eurot;\n2) kindlustusjuhtumi asjaolud ei ole selged, muu hulgas juhul, kui kahjustatud isik, kindlustusvõtja, kindlustatud isik või kindlustusandjad ei saavuta kokkulepet selles, kes vastutab kahju põhjustamise eest."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "42",
+      "title": "§ 42. Kahjustatud isiku kindlustusandja teavitamiskohustus",
+      "content": "(1) Kui kahjustatud isiku kindlustusandja leiab, et tal ei ole käesoleva seaduse § 41 lõike 3 kohaselt kahju hüvitamise kohustust, teavitab ta kahjustatud isikut sellest viivitamata, kuid kõige hiljem 14. kalendripäeval kahju hüvitamise nõude esitamisest arvates. Pärast nimetatud tähtaja möödumist ei või kindlustusandja käesoleva seaduse § 41 lõikes 3 sätestatud kahju hüvitamisest keeldumise alustele tugineda.\n(2) Käesoleva paragrahvi lõike 1 esimeses lauses sätestatud juhul võib kahjustatud isik esitada kahju hüvitamise nõude kahju põhjustaja kindlustusandja vastu."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "43",
+      "title": "§ 43. Nõudeõigus fondi vastu",
+      "content": "Kahjustatud isik võib nõuda kahju hüvitamist käesolevas seaduses sätestatud ulatuses fondilt, kui: 1 1) kindlustusjuhtum toimus Eesti territooriumil, kahjustatud isiku nõue hüvitamisele kuuluva kahju osas on selge ning vaidlus on üksnes selle üle, millisel Eestis tegutseval kindlustusandjal lasub kahju hüvitamise kohustus;\n2) kindlustusjuhtum põhjustati sõidukiga, mille kohta on Eestis tegutseva kindlustusandja ja fondi vahel vaidlus sõiduki tuvastamise, kindlustuslepingu kehtivuse või kindlustusandja kahju hüvitamise kohustuse kehtivuse üle."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "44",
+      "title": "§ 44. Kindlustusjuhtumi põhjustanud sõidukijuhi ravikulude hüvitamine",
+      "content": "(1) Kahju põhjustaja kindlustusandja hüvitab Eestis toimunud kindlustusjuhtumi põhjustanud sõidukijuhi ravikulud raviasutusele, välja arvatud juhul, kui kindlustuskaitse andnud kindlustusandja asukohariigi seaduse või kindlustuslepingu tingimuste kohaselt selliseid kulusid ei hüvitata.\n(2) Kindlustusandja ei hüvita kindlustusjuhtumi põhjustanud sõidukijuhi ravikulusid, kui sõidukijuht põhjustas kindlustusjuhtumi tahtlikult või kui sõidukijuht oli kindlustusjuhtumi toimumise ajal joobeseisundis või liiklusseaduse § 69 lõikes 3 nimetatud seisundis."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "45",
+      "title": "§ 45. Kindlustamata sõidukiga põhjustatud kindlustusjuhtum",
+      "content": "(1) Kindlustamata sõidukiga põhjustatud kindlustusjuhtumi korral või kui ühelgi kindlustusandjal ei ole käesoleva seaduse § 36 lõike 2 kohaselt hüvitamiskohustust, hüvitab kahju fond.\n(2) Kui kindlustusjuhtum põhjustati käesoleva seaduse §-s 5 nimetatud kindlustamata sõidukiga, hüvitab kahju fond."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "46",
+      "title": "§ 46. Tuvastamata jäänud sõidukiga põhjustatud kindlustusjuhtum",
+      "content": "(1) Tuvastamata jäänud sõidukiga põhjustatud kahju hüvitab käesolevas paragrahvis sätestatud piiranguid arvestades fond.\n(2) Kindlustusjuhtum loetakse põhjustatuks tuvastamata jäänud sõidukiga, kui kindlustusjuhtumi tõttu tekitatud kahju iseloomu arvestades võib eeldada, et kindlustusjuhtum põhjustati sõidukiga, kuid kindlustusjuhtumi põhjustanud sõiduki kindlustusandjat ei ole võimalik välja selgitada.\n(3) Fond ei hüvita tuvastamata jäänud sõidukiga põhjustatud kahju, mis seisneb sõiduki hävimises või kahjustumises, välja arvatud juhul, kui sama kindlustusjuhtumi tagajärjel tekitati ühele või mitmele isikule käesoleva seaduse lisas sätestatud vähemalt raske kehavigastus või raske tervisekahjustus või põhjustati isiku surm.\n(4) Sõiduki hävimisest või kahjustumisest tuleneva kahju hüvitamisel käesoleva paragrahvi lõikes 3 sätestatud juhul kohaldab fond hüvitise sellele osale 250 euro suurust omavastutust.\n(5) Kui kahjustada saab või hävib muu asi kui sõiduk, kohaldab fond kahju hüvitamisel kahjustatud isikule kuni 150 euro suurust omavastutust ühe kindlustusjuhtumi kohta."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "47",
+      "title": "§ 47. Haagisega põhjustatud kindlustusjuhtum",
+      "content": "(1) Kui sõiduki juht põhjustab kindlustusjuhtumi sõidukiga, mis on kindlustusjuhtumi toimumise hetkel jäiga ühenduslüliga haakes teise sõiduki või haagisega, loetakse, et kahju põhjustas veduk. Samuti loetakse kahju põhjustatuks vedukiga, kui kindlustusjuhtumi põhjustas haakeseadme katkemine või muul viisil vedukist eraldumine.\n(2) Kui kindlustusjuhtumi põhjustab ilma vedukita iseeneslikult liikuma hakanud, vedukita pargitud, peatatud või muul põhjusel seismajäetud haagis, loetakse, et kahju põhjustati haagisega.\n(3) Kui veduk jääb tuvastamata, hüvitatakse kahju haagise suhtes sõlmitud lepingu alusel."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "48",
+      "title": "§ 48. Välisriigis toimunud kindlustusjuhtum",
+      "content": "(1) Kui lepinguriigis põhiasukohta omava ja seal kindlustatud sõidukiga põhjustati kindlustusjuhtum lepinguriigi või rahvusvahelise rohelise kaardi süsteemiga ühinenud riigi territooriumil ning kindlustusandja on teada, on kahjustatud isikul, kelle elu- või asukoht on Eestis, õigus esitada kahju hüvitamise nõue kindlustusandja vastu tema Eesti esindaja kaudu.\n(2) Nõude saanud esindaja peab välja selgitama kindlustusandja täitmise kohustuse olemasolu ja selle ulatuse ning tegema otsuse kahju hüvitamise või sellest keeldumise kohta. Otsus tuleb teha kohe, kui selleks on olemas vajalik teave, kuid kõige hiljem kolme kuu jooksul nõude kättesaamisest arvates.\n(3) Käesoleva paragrahvi lõikes 1 sätestatud kindlustusjuhtumi toimumise korral võib kahjustatud isik esitada kahju hüvitamise nõude fondile, kui:\n1) kindlustusandjal ei ole Eestis esindajat;\n2) kolme kalendrikuu möödudes arvates nõude esitamisest kindlustusandjale või tema Eesti esindajale ei ole kahju hüvitatud ega selle täielikust või osalisest hüvitamisest keeldumist põhjendatud.\n(4) Kahjustatud isikul puudub käesoleva paragrahvi lõikes 3 nimetatud nõude esitamise õigus, kui ta on esitanud kahju põhjustaja kindlustusandja vastu kohtusse sama nõudega hagi.\n(5) Fond teavitab käesoleva paragrahvi lõikes 3 nimetatud nõude saamisest viivitamata kahju põhjustajat ja tema kindlustusandjat või kindlustusandja Eestisse nimetatud esindajat, samuti asutust, mis vastutab kindlustusandjale tegevusloa väljastanud lepinguriigis käesoleva paragrahvi lõikes 1 sätestatud kindlustusjuhtumi tagajärjel põhjustatud kahju hüvitamise eest. Kui kindlustusjuhtum põhjustati sõidukiga, mille põhiasukoht ei ole kindlustusjuhtumi toimumise riigis, teavitab fond ka selle riigi pädevat asutust, kus kindlustusjuhtum toimus.\n(6) Kui kahju põhjustaja kindlustusandja või tema Eestisse nimetatud esindaja ei tee kahe kalendrikuu jooksul käesoleva paragrahvi lõikes 3 nimetatud nõude esitamisest arvates kahju hüvitamise või sellest keeldumise kohta põhjendatud otsust, on fondil kohustus teha kindlustusjuhtumi toimumise asjaolude ja nõude täitmise ulatuse kindlaksmääramiseks vajalikud toimingud ning põhjendatud otsus kahju hüvitamise või sellest keeldumise kohta.\n(7) Käesolevas paragrahvis sätestatud fondi kohustuste suhtes kohaldatakse Euroopa Parlamendi ja nõukogu direktiivi 2009/103/EÜ mootorsõidukite kasutamise tsiviilvastutuskindlustuse ja sellise vastutuse kindlustamise kohustuse täitmise kohta kodifitseeritud versiooni (ELT L 263, 07.10.2009, lk 11–31) artikli 24 lõike 3 punkti a alusel 2002. aasta 29. aprillil lepinguriikide fondi ülesandeid täitvate asutuste vahel sõlmitud lepingut."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "49",
+      "title": "§ 49. Välisriigis toimunud kindlustusjuhtum, mille põhjustanud sõidukit või kahju põhjustaja kindlustusandjat ei ole võimalik tuvastada",
+      "content": "(1) Kui kindlustusjuhtum toimus teise lepinguriigi territooriumil ning kindlustusjuhtumi põhjustanud sõidukit või kahju põhjustaja kindlustusandjat ei ole tuvastatud kahe kalendrikuu jooksul kindlustusjuhtumi toimumisest arvates, on kahjustatud isikul, kelle elu- või asukoht on Eestis, õigus esitada kahju hüvitamise nõue fondi vastu.\n(2) Fond on käesoleva paragrahvi lõikes 1 sätestatud nõude saamisest arvates kahe kalendrikuu jooksul kohustatud kahju hüvitama või põhjendama kahju hüvitamisest keeldumist."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "50",
+      "title": "§ 50. Välisriigis kindlustatud sõidukiga Eestis põhjustatud kindlustusjuhtum",
+      "content": "(1) Kui Eestis toimunud kindlustusjuhtum põhjustati sõidukiga, millest tuleneva vastutuse on kindlustanud välisriigi kindlustusandja, hüvitab kahjustatud isikule kahju kindlustusandja nimel tema esindaja Eestis (edaspidi korrespondent ).\n(2) Kui välisriigi kindlustusandjal ei ole korrespondenti, hüvitab kahju fond.\n(3) Kui Eestis toimunud kindlustusjuhtum põhjustati teises lepinguriigis põhiasukohta omava sõidukiga, hüvitatakse kahju sõiduki põhiasukohariigi õiguses sätestatud kindlustussumma ulatuses, kui see ületab käesoleva seadusega sätestatud kindlustussummat.\n(4) Korrespondentide nimekirja ja nende kontaktandmed avaldab fond oma veebilehel."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "51",
+      "title": "§ 51. Eesti kindlustusandja piiriüleste nõuete lahendajad",
+      "content": "(1) Kindlustusandja määrab igasse lepinguriikipiiriüleste nõuete lahendaja, kelle ülesanne on vastavas riigis elu- või asukohta omavale kahjustatud isikule kindlustusjuhtumi tagajärjel tekitatud kahju hüvitamine, kui kahju on tekitatud lepinguriigis ja see riik ei ole kahjustatud isiku elu- või asukohariik.\n(2) Kindlustusandja teavitab fondi viivitamata käesoleva paragrahvi lõikes 1 nimetatud isiku määramisest. Kindlustusandja teavitab fondi viivitamata piiriüleste nõuete lahendaja isiku või tema kontaktandmete muutumisest."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "52",
+      "title": "§ 52. Tagasinõude ulatus",
+      "content": "Kindlustusandjal või fondil on õigus välja nõuda kindlustusjuhtumi toimumise tõttu hüvitatud kahju üksnes käesolevas jaos sätestatud alustel ja tingimustel. Fondil on õigus välja nõuda ka kindlustusjuhtumi asjaolude väljaselgitamiseks tehtud mõistlikud kulutused, välja arvatud käesoleva seaduse § 57 punktides 2–5 sätestatud juhtudel. Käesolevas jaos sätestatu ei piira kindlustusandja ja fondi õigust esitada tagasinõue käesolevas jaos nimetamata isiku vastu mõnel muul seadusest tuleneval alusel."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "53",
+      "title": "§ 53. Tagasinõue kindlustusjuhtumi põhjustanud sõidukijuhi vastu",
+      "content": "(1) Kindlustusandjal on õigus esitada tagasinõue sõidukijuhi vastu, kui sõidukijuht:\n1) põhjustas kindlustusjuhtumi tahtlikult;\n2) põhjustas kindlustusjuhtumi ning lahkus pärast kindlustusjuhtumit õigusvastaselt ja süüliselt kindlustusjuhtumi toimumise kohalt;\n3) juhtis sõidukit, mille valdamine oli ebaseaduslik;\n4) juhtis sõidukit joobeseisundis või liiklusseaduse § 69 lõikes 3 nimetatud seisundis või tarbis alkoholi, narkootilist või psühhotroopset ainet vahetult pärast kindlustusjuhtumi toimumist või\n5) sõiduki suhtes oli sõlmitud käesoleva seaduse § 14 lõikes 3 nimetatud leping ja sõidukijuht rikkus sõiduki kindlustuskaitse kehtivuse tingimusi.\n(2) Kindlustusandjal on õigus esitada tagasinõue sõidukijuhi vastu, kui sõidukijuht põhjustas kindlustusjuhtumi seetõttu, et ta:\n1) ületas lubatud sõidukiirust 41 kilomeetrit tunnis või rohkem;\n2) eiras tahtlikult liiklusseaduse § 200 lõikes 1 nimetatud liiklusjärelevalve teostaja peatamise märguannet;\n3) juhtis sõidukit liiklusseaduse § 90 lõike 1 punktides 1 või 2 nimetatud mootorsõiduki juhtimise keeldu eirates või\n4) oli kõrvaldatud sõiduki juhtimiselt vastavalt liiklusseaduse § 91 lõike 2 punktidele 5, 7 või 9 ja juhtimiselt kõrvaldamise alus ei olnud kindlustusjuhtumi toimumise ajaks ära langenud.\n(3) Eeldatakse, et sõidukijuht põhjustas kindlustusjuhtumi käesoleva paragrahvi lõikes 2 nimetatud asjaolu tõttu.\n(4) Kindlustusandjal on õigus esitada tagasinõue sõidukijuhi vastu 30 protsendi ulatuses väljamakstavast kindlustushüvitisest, kuid mitte enam kui 640 eurot, kui sõidukijuht ei esitanud sõidukit kindlustusandja nõudel ülevaatamiseks või ei andnud kindlustusjuhtumi asjaolude kohta selgitusi."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "54",
+      "title": "§ 54. Tagasinõue kindlustusjuhtumi põhjustanud sõidukijuhi tööandja vastu",
+      "content": "Kindlustusandjal on õigus esitada tagasinõue kindlustusjuhtumi põhjustanud sõidukijuhi tööandja vastu, kui kindlustusjuhtum põhjustati seetõttu, et sõidukijuht rikkus seaduses sätestatud töö- ja puhkeaja nõudeid. Eeldatakse, et kindlustusjuhtum põhjustati töö- ja puhkeaja nõuete rikkumise tõttu, kui sõidukijuht ületas kindlustusjuhtumile eelnenud nädala arvestuses iganädalast maksimaalset sõiduaega või maksimaalset igapäevast sõiduaega kindlustusjuhtumile eelnenud 24-tunnise ajavahemiku kohta vähemalt 25 protsendi võrra."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "55",
+      "title": "§ 55. Tagasinõue kindlustuskohustuse täitmise eest vastutava isiku vastu",
+      "content": "Kindlustusandjal on õigus esitada tagasinõue isiku vastu, kes käesoleva seaduse alusel vastutab kindlustuskohustuse täitmise eest, kui kindlustusjuhtum toimus 12 kalendrikuu jooksul pärast lepingu lõppemist ning ei peetud kinni käesoleva seaduse § 3 lõikes 2 sätestatud sõidukiga liikluses osalemise keelust."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "56",
+      "title": "§ 56. Tagasinõue kindlustusvõtja vastu kindlustusmakse tasumisega hilinemise korral",
+      "content": "Kui kindlustusvõtja ei täida kindlustusmakse tasumise kohustust ja kindlustusandja vabaneb võlaõigusseaduse § 457 või 458 alusel kahju hüvitamise kohustusest kindlustusvõtja ees, on kindlustusandjal võlaõigusseaduse § 521 lõike 2 alusel õigus esitada tagasinõue kindlustusvõtja vastu 30 protsendi ulatuses väljamakstavast kindlustushüvitisest, kuid mitte enam kui 640 eurot."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "57",
+      "title": "§ 57. Fondi tagasinõuded",
+      "content": "Fondil on õigus esitada tagasinõue: 1 1) kindlustuskohustusega isiku või sõiduki valdaja vastu, kui kindlustusjuhtum põhjustati sõidukiga, mille suhtes kindlustuskohustus oli täitmata, välja arvatud juhul, kui kindlustusjuhtum põhjustati automaatse liikluskindlustusega sõidukiga;\n2) kindlustusjuhtumi põhjustanud sõidukijuhi vastu, kui kindlustusjuhtum põhjustati automaatse liikluskindlustusega sõidukiga käesoleva seaduse § 53 lõigetes 1 ja 2 sätestatud alustel;\n3) kindlustusjuhtumi põhjustanud sõidukijuhi vastu 30 protsendi ulatuses väljamakstavast kindlustushüvitisest, kuid mitte enam kui 640 eurot, kui kindlustusjuhtum põhjustati automaatse liikluskindlustusega sõidukiga ja sõidukijuht ei esitanud sõidukit fondi nõudel ülevaatamiseks või ei andnud kindlustusjuhtumi asjaolude kohta selgitusi;\n4) kindlustusjuhtumi põhjustanud sõidukijuhi tööandja vastu, kui kindlustusjuhtum põhjustati automaatse liikluskindlustusega sõidukiga käesoleva seaduse §-s 54 sätestatud alusel;\n5) kindlustusandja vastu, kui fond hüvitas kahju kindlustusandja eest;\n6) teise lepinguriigi fondi ülesandeid täitva asutuse vastu, kui kindlustusjuhtum põhjustati Eesti liiklusregistris registreeritud sõidukiga ajal, millal sõidukit toimetati Eestist lepinguriiki, tingimusel, et sõidukile transiitmärgi väljastamisest või sõiduki omandajale üleandmisest ei olnud kindlustusjuhtumi toimumise ajaks möödunud rohkem kui 30 kalendripäeva;\n7) vastavalt Kaitseväe, Kaitsepolitseiameti, Kaitseliidu või Politsei- ja Piirivalveameti vastu, kui kindlustusjuhtum põhjustati sõidukiga, mille omanikuks või vastutavaks kasutajaks oli eelnimetatud asutus ja sõidukiga kahju tekitamisest tulenev vastutus ei olnud kindlustatud."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "58",
+      "title": "§ 58. Tagasinõue kahju põhjustaja kindlustusandja vastu",
+      "content": "(1) Kui kahju hüvitamise nõue esitatakse kahjustatud isiku kindlustusandja vastu, teavitab viimane nõude esitamisest viivitamata kahju põhjustaja kindlustusandjat.\n(2) Kahju põhjustaja kindlustusandja on kohustatud hüvitama kahjustatud isiku kindlustusandjale välja makstud kindlustushüvitise ning kindlustusjuhtumi asjaolude väljaselgitamiseks ja hüvitise väljamaksmiseks tehtud mõistlikud kulutused.\n(3) Käesoleva paragrahvi lõikes 2 sätestatud kohustus tuleb täita viivitamata, kuid hiljemalt 30. kalendripäeval vastava nõude esitamisest arvates, välja arvatud juhul, kui kindlustusandjad on kokku leppinud teisiti.\n(4) Kahjustatud isiku kindlustusandja esitab kahju põhjustaja kindlustusandjale koos kindlustushüvitise hüvitamise nõudega kirjalikku taasesitamist võimaldavas vormis kogu temal olemasoleva teabe kindlustusjuhtumi kohta, välja arvatud juhul, kui kindlustusandjad on kokku leppinud teisiti."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "4. peatükk - Kahju hüvitamine",
+      "section": "59",
+      "title": "§ 59. Tagasinõude esitamise tingimused",
+      "content": "(1) Kui kindlustusandjal või fondil on käesoleva jao kohaselt tagasinõudeõigus mitme isiku vastu, vastutavad need isikud kindlustusandja või fondi ees solidaarselt.\n(2) Kui kindlustushüvitise on kahjustatud isikule välja maksnud kahjustatud isiku kindlustusandja, esitab käesolevas jaos sätestatud tagasinõude kahju põhjustaja kindlustusandja pärast käesoleva seaduse § 58 lõikes 2 sätestatud kohustuse täitmist kahjustatud isiku kindlustusandja ees.\n(3) Käesolevas jaos sätestatud tagasinõudeõiguse aegumistähtaeg on kolm aastat kahju hüvitamisest arvates."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "5. peatükk - Automaatne liikluskindlustus",
+      "section": "60",
+      "title": "§ 60. Automaatne liikluskindlustus",
+      "content": "(1) Automaatne liikluskindlustus on sundkindlustuse liik, mille eesmärk on:\n1) anda liiklusregistris registreeritud lepinguta sõidukile, välja arvatud vanasõiduk ja võistlusauto, automaatne kindlustuskaitse;\n2) vähendada lepinguta sõidukite osakaalu liikluses;\n3) koguda rahalisi vahendeid lepinguta sõidukitega ja automaatse kindlustuskaitsega sõidukitega tekitatud kahjude hüvitamiseks.\n(2) Automaatse liikluskindlustuse kindlustussuhe tekib fondi ja kindlustuskohustusega isiku vahel, kui liiklusregistris registreeritud sõiduki puhul, välja arvatud vanasõiduki ja võistlusauto, on kindlustuskohustus täitmata.\n(3) Sõiduki automaatne kindlustuskaitse lõpeb, kui:\n1) jõustub sõiduki suhtes sõlmitud leping;\n2) sõiduk kustutatakse liiklusregistrist või sõiduk loetakse registreerimata sõidukiks.\n(4) Automaatsele liikluskindlustusele kohaldatakse kohustusliku liikluskindlustuse kohta sätestatut, kui käesolevast peatükist ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "5. peatükk - Automaatne liikluskindlustus",
+      "section": "61",
+      "title": "§ 61. Automaatse liikluskindlustuse kindlustusjuhtum ja fondi kahju hüvitamise kohustus",
+      "content": "(1) Automaatse liikluskindlustuse kindlustusjuhtumi korral hüvitab fond automaatse kindlustuskaitsega sõidukiga kolmandale isikule põhjustatud kahju käesolevas seaduses sätestatud ulatuses.\n(2) Automaatse liikluskindlustuse kindlustusjuhtumi korral on fondil, kindlustuskohustusega isikul, kindlustatud isikul ning kahjustatud isikul samad õigused ja kohustused, mis neil oleks kohustusliku liikluskindlustuse kindlustusjuhtumi korral, kui käesolevas peatükis ei ole sätestatud teisiti.\n(3) Automaatse liikluskindlustuse kindlustusjuhtumist tuleneva fondi kahju hüvitamise kohustuse olemasolu ja selle ulatuse väljaselgitamiseks tehtavatele toimingutele ning automaatse liikluskindlustuse kindlustusjuhtumit puudutavate otsuste tegemisele ei kohaldata haldusmenetluse seadust.\n(4) Vaidlused, mis puudutavad automaatse liikluskindlustuse kindlustusjuhtumist tulenevat fondi kahju hüvitamise kohustust ja selle ulatust ning fondi tagasinõudeid, lahendatakse tsiviilkohtumenetluse seadustikus sätestatud korras."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "5. peatükk - Automaatne liikluskindlustus",
+      "section": "62",
+      "title": "§ 62. Automaatse liikluskindlustuse kindlustusmakse",
+      "content": "(1) Automaatse liikluskindlustuse kindlustusmakse on sundkindlustusmakse kindlustamata sõidukitega ja automaatse kindlustuskaitsega sõidukitega tekitatud kahjude hüvitamiseks.\n(2) Kindlustuskohustusega isik on kohustatud maksma fondile automaatse liikluskindlustuse kindlustusmakset ajavahemiku eest, mil sõidukil on automaatne kindlustuskaitse."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "5. peatükk - Automaatne liikluskindlustus",
+      "section": "63",
+      "title": "§ 63. Automaatse liikluskindlustuse kindlustusmakse määrad",
+      "content": "(1) Automaatse liikluskindlustuse kindlustusmakse arvutamise aluseks olevad kindlustusmakse määrad kehtestab valdkonna eest vastutav minister määrusega.\n(2) Automaatse liikluskindlustuse kindlustusmakse määrad arvutatakse kindlustusmatemaatika tunnustatud reeglite järgi, arvestades liikluskindlustuse statistikat, sealhulgas kindlustamata ja automaatse kindlustuskaitsega sõidukite põhjustatud kahjusid, ning muid kindlustusmakse määra suurust mõjutavaid tegureid. Automaatse liikluskindlustuse kindlustusmakse määrad peavad olema piisavad automaatse liikluskindlustuse kindlustusjuhtumite ja nende asjaolude väljaselgitamiseks tehtavate mõistlike kulutuste hüvitamiseks ning sundkindlustusega seotud fondi tegevuskulude katteks."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "5. peatükk - Automaatne liikluskindlustus",
+      "section": "64",
+      "title": "§ 64. Omavastutuse kohaldamine",
+      "content": "(1) Automaatse liikluskindlustuse kindlustusjuhtumi korral rakendatakse kindlustuskohustusega isikule omavastutust 640 eurot ühe kindlustusjuhtumi kohta.\n(2) Automaatse liikluskindlustuse kindlustusjuhtumi korral hüvitab fond kolmandale isikule kogu hüvitamisele kuuluva kahju. Kindlustuskohustusega isik on kohustatud tasuma omavastutuse summa fondile."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "5. peatükk - Automaatne liikluskindlustus",
+      "section": "65",
+      "title": "§ 65. Makseteatis automaatse liikluskindlustuse kindlustusmakse ja omavastutuse summa tasumiseks",
+      "content": "(1) Fond esitab kindlustuskohustusega isikule makseteatise tasumisele kuuluva automaatse liikluskindlustuse kindlustusmakse või omavastutuse summa kohta.\n(2) Esimese automaatse liikluskindlustuse kindlustusmakse makseteatise esitab fond kindlustusperioodi eest, mille kestus on 30 kalendripäeva alates automaatse kindlustuskaitse algusest.\n(3) Teise või järgneva automaatse liikluskindlustuse kindlustusmakse makseteatise esitab fond kindlustusperioodi eest, mille kestus on 90 kalendripäeva.\n(4) Kui automaatne kindlustuskaitse lõpeb kindlustusperioodi jooksul, on fondil õigus automaatse liikluskindlustuse kindlustusmaksele üksnes kalendripäevade eest, millal sõidukil oli automaatne kindlustuskaitse.\n(5) Makseteatisel näidatakse:\n1) makseteatise koostanud isiku ees- ja perekonnanimi ning ametikoht;\n2) makseteatise koostamise kuupäev;\n3) maksja nimi ja aadress;\n4) sõiduki mark, mudel ja registreerimismärk;\n5) tasumisele kuuluv automaatse liikluskindlustuse kindlustusmakse või omavastutuse summa, eelmisest kindlustusperioodist tuleneva võlgnevuse korral koos tasumata automaatse liikluskindlustuse kindlustusmakse või omavastutuse summa ja viivisega;\n6) makseteatise õiguslik alus ja automaatse liikluskindlustuse kindlustusmakse makseteatise korral viide käesoleva seaduse § 63 lõikes 1 sätestatud valdkonna eest vastutava ministri määrusele;\n7) fondi arvelduskonto number;\n8) maksetähtpäev;\n9) hoiatus viivise maksmise kohustuse ja sundtäitmise rakendamise kohta automaatse liikluskindlustuse kindlustusmakse või omavastutuse summa tähtaegselt tasumata jätmise korral;\n10) makseteatise vaidlustamise võimalus, tähtaeg ja kord;\n11) makseteatise koostanud isiku allkiri, millega loetakse võrdseks mehhaanilisel teel jäljendatud allkiri.\n(6) Makseteatise kohaselt tasumisele kuuluv summa tasutakse maksetähtpäevaks fondi arvelduskontole. Maksetähtaeg peab olema vähemalt 30 kalendripäeva makseteatise kättetoimetamisest arvates.\n(7) Makseteatise kohaselt tasumisele kuuluva summa maksetähtpäevaks tasumata jätmise korral on õigus nõuda tasumata summalt viivist 0,019 protsenti kalendripäeva eest. Viivise kogusumma ei tohi ületada makseteatises märgitud automaatse liikluskindlustuse kindlustusmakse või omavastutuse summat.\n(8) Automaatse liikluskindlustuse kindlustusmaksed ning omavastutuse summad laekuvad fondi arvelduskontole ja seda käsitatakse fondi tuluna."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "5. peatükk - Automaatne liikluskindlustus",
+      "section": "66",
+      "title": "§ 66. Automaatse liikluskindlustuse kindlustusmakse ja omavastutuse summa makseteatise kättetoimetamine",
+      "content": "(1) Automaatse liikluskindlustuse kindlustusmakse ja omavastutuse summa makseteatise kättetoimetamisele kohaldatakse haldusmenetluse seaduses sätestatud korda käesolevast paragrahvist tulenevate erisustega.\n(2) Juriidilisele isikule või asutusele võib automaatse liikluskindlustuse kindlustusmakse ja omavastutuse summa makseteatise saata ka:\n1) registrisse kantud aadressil lihtkirjaga;\n2) registrisse kantud elektronposti aadressil.\n(3) Käesoleva paragrahvi lõike 2 punktis 1 nimetatud viisil kätte toimetatud automaatse liikluskindlustuse kindlustusmakse ja omavastutuse summa makseteatis loetakse kättetoimetatuks, kui on möödunud viis kalendripäeva nende saatmisest Eesti piires või 30 kalendripäeva välismaale saatmisest."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "5. peatükk - Automaatne liikluskindlustus",
+      "section": "67",
+      "title": "§ 67. Vaide esitamise tähtaeg automaatse liikluskindlustuse kindlustusmakse ja omavastutuse summa makseteatise peale",
+      "content": "Vaie automaatse liikluskindlustuse kindlustusmakse ja omavastutuse summa makseteatise peale tuleb esitada 30 kalendripäeva jooksul arvates päevast, millal kindlustuskohustusega isik vaidlustatavast automaatse liikluskindlustuse kindlustusmakse ja omavastutuse summa makseteatisest teada sai või oleks pidanud teada saama."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "5. peatükk - Automaatne liikluskindlustus",
+      "section": "68",
+      "title": "§ 68. Automaatse liikluskindlustuse kindlustusmakse ja omavastutuse summa sundtäitmine",
+      "content": "Automaatse liikluskindlustuse kindlustusmakse ja omavastutuse summa makseteatis on haldusaktid avalik-õigusliku rahalise kohustuse täitmiseks täitemenetluse seadustiku § 2 lõike 1 punkti 21 tähenduses."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "6. peatükk - Liikluskindlustuse fond",
+      "section": "69",
+      "title": "§ 69. Haldusleping",
+      "content": "(1) Valdkonna eest vastutav minister sõlmib Eesti Vabariigi nimel fondiga halduslepingu, milles lepitakse kokku poolte õigused ja kohustused järgmiste käesolevas seaduses sätestatud ülesannete täitmiseks:\n1) käesoleva seaduse § 11 lõikes 1 sätestatud kindlustuskohustuse täitmise kontrollimine ja 5. peatükis sätestatud automaatse liikluskindlustuse rakendamine;\n2) Rohelise Kaardi Büroode Nõukogu liikme ja rohelise kaardi Eesti büroo kohustuste täitmine, sealhulgas käesoleva seaduse § 13 lõikes 3 nimetatud lepingu sõlmimise võimaluse tagamine;\n3) käesoleva seaduse §-des 45 ja 46 sätestatud juhtudel ja korras kahjustatud isikule kahju hüvitamise kohustuse täitmine;\n4) käesoleva seaduse §-des 48–50 sätestatud juhtudel kahjustatud isikute ees kahju hüvitamisega seotud ülesannete täitmine;\n5) käesoleva seaduse §-s 57 sätestatud tagasinõudeõiguste rakendamine;\n6) käesoleva seaduse 7. peatükis sätestatud liikluskindlustuse registriga seotud ülesannete täitmine;\n7) kohustusliku liikluskindlustuse alaste vaidluste kohtueelse lahendamise tagamine;\n8) muude ülesannete täitmine, mis tagab käesolevas seaduses sätestatud kohustusliku liikluskindlustuse süsteemi toimimise.\n(2) Haldusleping sõlmitakse tähtajaga kuni 20 aastat.\n(3) Halduslepingu lõppemise või ennetähtaegse lõpetamise korral otsustab valdkonna eest vastutav minister lepingu pikendamise, fondi kohustuste uue täitja määramise või nende kohustuste täitmise korraldamise muul viisil."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "6. peatükk - Liikluskindlustuse fond",
+      "section": "70",
+      "title": "§ 70. Fondi liikmesus",
+      "content": "(1) Fondi liikmeks on iga kindlustusandja, kellel on õigus tegutseda Eestis kohustusliku liikluskindlustuse kindlustusandjana.\n(2) Käesolevas seaduses sätestatud kahjustatud isiku kindlustusandja vastu esitatud nõuete käsitlemise ja täitmise käigus tekkivad fondi liikmete omavahelised õigused ja kohustused ning koostöö põhimõtted ja vaidluste lahendamise kord nähakse ette fondi põhikirja või üldkoosoleku otsusega.\n(3) Fond võtab pankrotistunud liikme kohustusliku liikluskindlustuse lepingutest tulenevad kohustused üle, välja arvatud juhul, kui see halvendab oluliselt fondi või fondi liikme finantsseisundit. Fond omandab nõudeõiguse pankrotistunud liikme vastu ülevõetud kohustuse suuruse järgi, millest on lahutatud kohustuste täitmiseks üle antud vara väärtus."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "6. peatükk - Liikluskindlustuse fond",
+      "section": "71",
+      "title": "§ 71. Kindlustustegevust puudutavate nõuete kohaldamine fondile",
+      "content": "(1) Fondile kohaldatakse kindlustustegevuse seaduse §-s 52, § 83 lõigetes 1 ja 3, § 96 lõigetes 1 ja 7, § 99 lõike 1 punktides 1–5, 7 ja 8 ning lõikes 2, § 106 lõigetes 2 ja 5, § 108 lõigetes 1 ja 2 ning §-des 129, 217–220, 253 ja 264 kindlustusandja kohta sätestatut.\n(2) Fond peab regulaarselt hindama oma riske ja maksevõimet vastavalt kindlustustegevuse seaduse § 100 lõike 1 punktis 1 sätestatule ning võtma hindamise järeldusi arvesse oma tegevuse korraldamisel.\n(3) Fond kehtestab sise-eeskirjad, millega määratakse muu hulgas fondi oma riskide ja maksevõime hindamise, aktuaarifunktsiooni rakendamise, investeeringute juhtimise ning kahjude käsitlemise ja hüvitamise kord. Fond peab hindama sise-eeskirjade ajakohasust vähemalt kord aastas ning vajaduse korral neid muutma. Sise-eeskirjad peavad olema kirjalikku taasesitamist võimaldavas vormis.\n(4) Fondi auditeeriva audiitorettevõtja suhtes kohaldatakse kindlustustegevuse seaduse §-s 253 sätestatut.\n(5) Käesoleva paragrahvi lõigetes 1–4 ja käesoleva seaduse §-s 71^1 sätestatu üle teostab järelevalvet Finantsinspektsioon kindlustustegevuse seaduse 12. peatükis sätestatud ulatuses ja korras.\n(6) Fondi raamatupidamise aruande koostamisel kasutatav arvestuspõhimõte ja informatsiooni esitlusviis peavad olema kooskõlas raamatupidamise seaduse § 17 lõike 1 punktis 2 sätestatud rahvusvahelise finantsaruandluse standarditega.\n(7) Fond on kohustatud avalikustama majandusaasta aruande kahe nädala jooksul pärast selle kinnitamist, kuid mitte hiljem kui neli kuud pärast majandusaasta lõppu ning koostama ja avalikustama raamatupidamise vahearuanded majandusaasta 3, 6, 9 ja 12 kuu kohta kahe kuu jooksul pärast vastava aruandeperioodi lõppu. Majandusaasta aruanne ja raamatupidamise vahearuanded avaldatakse fondi veebilehel ning tehakse kättesaadavaks fondi asukohas."
+    },
+    {
+      "provision_ref": "para71^1",
+      "chapter": "6. peatükk - Liikluskindlustuse fond",
+      "section": "71^1",
+      "title": "§ 71^1. Fondi omavahendid",
+      "content": "(1) Fondil peavad käesolevast seadusest tulenevate kohustuste täitmiseks pidevalt olema piisavad omavahendid. Fondi omavahendite miinimum on kümme protsenti fondi liikmete kohustusliku liikluskindlustuse tehniliste eraldiste summast koos edasikindlustusandja osaga.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud fondi omavahendite suurus võrdub fondi netovara ja allutatud kohustiste summaga.\n(3) Fondi kohustis loetakse allutatuks ning selle võib arvata fondi omavahendite hulka, kui on täidetud järgmised tingimused:\n1) vahendid on fondile laekunud;\n2) fond ei taga nõude täitmist;\n3) nõude täitmise tähtaeg on vähemalt viis aastat või nõude täitmisest tuleb ette teatada vähemalt viis aastat;\n4) fondil ei ole mingil tingimusel kohustust täita nõue ennetähtaegselt, välja arvatud fondi lõpetamise korral;\n5) nõue rahuldatakse fondi lõpetamise või pankroti korral pärast kõigi teiste võlausaldajate tunnustatud nõuete rahuldamist.\n(4) Fond on kohustatud viivitamata pärast allutatud kohustise arvamist omavahendite hulka esitama allutatud kohustise aluseks olevad dokumendid Finantsinspektsioonile.\n(5) Selle lepingu, millega fond võtab endale allutatud kohustise, tingimusi võib muuta üksnes Finantsinspektsiooni eelneval loal, kui Finantsinspektsioonile on esitatud allutatud kohustise tingimuste muutumise aluseks olevad andmed ja dokumendid koos erapooletu õigusliku hinnanguga tehingu tingimuste vastavuse kohta käesolevas paragrahvis sätestatud nõuetele.\n(6) Fikseeritud tähtajaga allutatud kohustise korral esitab fond 12 kuud enne allutatud kohustisest tuleneva nõude täitmise tähtaega Finantsinspektsioonile omavahendite loetelu ja suuruse jooksva seisuga ning eeldatavate omavahendite loetelu ja suuruse allutatud kohustisest tuleneva nõude täitmise tähtpäeva seisuga.\n(7) Fikseerimata tähtajaga allutatud kohustise korral esitab fond Finantsinspektsioonile kuus kuud enne allutatud kohustisest tuleneva nõude täitmist käesoleva paragrahvi lõikes 6 nimetatud andmed.\n(8) Fondi omavahendite hulka arvatud allutatud kohustisest tuleneva nõude ennetähtaegne täitmine on lubatud üksnes fondi algatusel ja Finantsinspektsiooni eelneval loal.\n(9) Kui fondi omavahendite suurus langeb alla käesoleva paragrahvi lõikes 1 nimetatud protsendimäära ja see ei taastu normaalse majandustegevuse käigus ühe aasta jooksul, peab fond esitama Finantsinspektsioonile kava, milles tuleb esitada omavahendite suuruse taastamise tähtaeg ja finantseerimisallikad. Nõutava omavahendite suuruse taastamise tähtaeg ei tohi olla pikem kui kolm aastat."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "7. peatükk - Liikluskindlustuse register ja andmevahetus",
+      "section": "72",
+      "title": "§ 72. Liikluskindlustuse register",
+      "content": "(1) Liikluskindlustuse register (edaspidi käesolevas peatükis register ) on riigi infosüsteemi kuuluv andmekogu, milles töödeldakse andmeid järgmistel eesmärkidel:\n1) lepingute sõlmimine ja nende täitmise tagamine, sealhulgas kindlustusjuhtumite lahendamine;\n2) kindlustusjuhtumite tõttu kahjustatud isikute õiguste tagamine;\n3) liikluskindlustuse süsteemi toimimise ja kindlustuskohustuse täitmise tagamine;\n4) kindlustuskohustuse täitmise kontrollimine;\n5) liikluskindlustuse statistika kogumine, muu hulgas kindlustusriski hindamise, liikluskahju ennetamise ja liiklusohutuse uuringute tegemise eesmärgil.\n(2) Registri asutab ja selle pidamise põhimääruse kehtestab valdkonna eest vastutav minister määrusega.\n(3) Registri vastutav töötleja on fond.\n(4) Eeldatakse, et registrisse kantud kindlustuskaitset kajastavad andmed on õiged."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "7. peatükk - Liikluskindlustuse register ja andmevahetus",
+      "section": "73",
+      "title": "§ 73. Registri põhiandmed",
+      "content": "(1) Registri põhiandmed avaliku teabe seaduse § 43^6 lõike 1 tähenduses on andmed:\n1) käesoleva seaduse alusel sõlmitud lepingute kohta;\n2) Eestis toimunud kindlustusjuhtumite kohta;\n3) välisriigis toimunud kindlustusjuhtumite kohta, mis on põhjustatud Eestis põhiasukohta omava sõidukiga.\n(2) Registris olevate andmete andmekoosseisud, andmekogust andmete saajad, andmete esitamise, väljastamise ja säilitamise tingimused ning kord sätestatakse registri pidamise põhimääruses."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "7. peatükk - Liikluskindlustuse register ja andmevahetus",
+      "section": "74",
+      "title": "§ 74. Kindlustusandja kohustus esitada andmeid",
+      "content": "(1) Kindlustusandja on kohustatud esitama registrisse andmed:\n1) sõlmitud lepingu ja selle kinnituseks väljastatud poliisi kohta;\n2) lepingust taganemise, lepingu ülesütlemise või lepingu muutmise kohta;\n3) kindlustusandja poolt kindlustusjuhtumi teate vastuvõtmise ja kindlustusjuhtumi registreerimise kohta;\n4) kindlustusandja kahju hüvitamise või hüvitamisest keeldumise otsuse kohta;\n5) kindlustusandja esitatud tagasinõude kohta;\n6) kindlustusjuhtumi tõttu hävinud sõiduki kohta.\n(2) Korrespondent on kohustatud esitama registrisse andmed Eestis toimunud kindlustusjuhtumite kohta, millest tulenev kahju hüvitamise kohustus on tema esindataval kindlustusandjal.\n(3) Välisriigi kindlustusandja esindaja on kohustatud esitama registrisse andmed välisriigis toimunud kindlustusjuhtumite kohta, millest tuleneva kahju väljaselgitamise ja hüvitamisega ta oma esindatava nimel Eestis tegeleb.\n(4) Käesoleva paragrahvi alusel registrisse esitatavate andmete andmekoosseisud ning andmete esitamise tingimused ja kord sätestatakse registri pidamise põhimääruses.\n(5) Registri ja käesolevas paragrahvis sätestatud andmeandjate vahelist andmevahetust ei korraldata riigi infosüsteemi andmevahetuskihi kaudu."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "7. peatükk - Liikluskindlustuse register ja andmevahetus",
+      "section": "75",
+      "title": "§ 75. Andmevahetus teiste registritega",
+      "content": "(1) Liiklusregistri volitatud töötleja esitab registrisse liiklusseaduse § 174 lõike 1 punktides 1 ja 3 nimetatud liiklusregistri andmebaasides olevad andmed.\n(2) Politsei infosüsteemi volitatud töötleja esitab registrisse andmed liikluses osalenud kindlustamata sõidukite, tagaotsitavate sõidukite ja politsei registreeritud liiklusõnnetuste ning liiklusõnnetuste teadete kohta.\n(3) Eesti rahvastikuregistri volitatud töötleja esitab registrisse kindlustusvõtjate, sõidukiomanike, vastutavate kasutajate, kahjustatud isikute ja kindlustusjuhtumi põhjustanud sõidukijuhtide rahvastikuregistri seaduse § 21 lõike 1 punktides 1–4, 6–9 ja 14 nimetatud andmed.\n(4) Kaitseväe ja Kaitseliidu sõidukite registri volitatud töötleja esitab registrisse andmed liiklusseaduse § 185 lõike 2 alusel kehtestatud korra kohaselt.\n(5) Äriregistri ning mittetulundusühingute ja sihtasutuste registri volitatud töötlejad esitavad registrisse üldandmed äriregistrisse või mittetulundusühingute ja sihtasutuste registrisse kantud juriidilise isiku kohta.\n(6) Riigi- ja kohaliku omavalitsuse asutuste riikliku registri pidaja esitab registrisse asutuse nime, registrikoodi ja asukoha.\n(7) Tervishoiuteenuse osutaja esitab registrisse registri vastutava töötleja kehtestatud korras andmed tema registreeritud liiklusõnnetuse kohta.\n(7^1) Kindlustusandjal on õigus saada töövõime hindamise ja töövõimetoetuse andmekogust kindlustusandja töövõimetushüvitisega seotud täitmise kohustuse olemasolu ja ulatuse kindlakstegemiseks järgmisi andmeid:\n1) töövõime hindamist ja töövõimetoetust taotleva isiku andmed;\n2) töövõime hindamisel antud eksperdiarvamuse andmed;\n3) töövõime hindamise otsuse andmed;\n4) töövõime hindamise taotluse andmed;\n5) määratud ja makstud töövõimetoetuse ning teisest riigist töövõimetoetusega samal eesmärgil makstava toetuse, pensioni või muu rahalise hüvitise andmed.\n(7^2) Käesoleva paragrahvi lõike 7^1 punktis 2 nimetatud töövõime hindamisel antud eksperdiarvamuses sisalduvate töövõimetoetuse seaduse § 7 lõikes 4 nimetatud tervise infosüsteemi andmete töötlemise õigus on arstiõppe läbinud isikul.\n(8) Käesoleva paragrahvi lõigetes 1–3 ning 5, 6 ja 7^1 sätestatud registrite volitatud töötlejad ja registri pidaja esitavad registrisse andmed avaliku teabe seaduse § 43^9 lõike 1 punkti 5 alusel kehtestatud infosüsteemide andmevahetuskihi kaudu.\n(9) Käesoleva paragrahvi lõike 2 alusel registrisse esitatavate andmete andmekoosseisud ning andmete esitamise tingimused ja kord sätestatakse registri pidamise põhimääruses."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "7. peatükk - Liikluskindlustuse register ja andmevahetus",
+      "section": "76",
+      "title": "§ 76. Andmete väljastamine kahjustatud isikule ja kindlustusvõtjale",
+      "content": "(1) Registri vastutav töötleja peab seitsme aasta jooksul kindlustusjuhtumi toimumisest arvates väljastama kahjustatud isikule viimase taotlusel järgmised registriandmed:\n1) kahju põhjustaja kindlustusandja nimi;\n2) kahju põhjustaja kindlustusandja sõlmitud lepingu kinnituseks väljastatud poliisi number ja kindlustuskaitse kehtivuse aeg;\n3) kindlustusandja piiriüleste nõuete lahendaja nimi ja aadress, kelle ta on nimetanud kahjustatud isiku elu- või asukohariiki;\n4) käesoleva seaduse §-s 5 nimetatud sõiduki tekitatud kahju korral hüvitise maksmise eest vastutava asutuse või isiku nimi, kui sõidukiga kahju tekitamisest tulenev vastutus ei olnud kindlustatud.\n(2) Peale käesoleva paragrahvi lõikes 1 nimetatud andmete peab registri vastutav töötleja seitsme aasta jooksul kindlustusjuhtumi toimumisest arvates väljastama kahjustatud isikule või muule kindlustusjuhtumis osalenud isikule tema taotlusel ja õigustatud huvi olemasolul registris olemasolevad andmed kindlustusjuhtumi põhjustanud sõiduki omanikuna või vastutava kasutajana registrisse kantud isiku kohta.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatud juhtudel väljastab registri vastutav töötleja kahjustatud isikule või muule kindlustusjuhtumis osalenud isikule teabe viivitamata.\n(4) Kindlustusvõtja taotlusel väljastab registri vastutav töötleja talle kirjalikku taasesitamist võimaldavas vormis tõendi tema põhjustatud või temaga seotud sõidukiga põhjustatud kindlustusjuhtumite või nende puudumise kohta. Tõendil kajastatav kindlustusjuhtumi andmete koosseis sätestatakse registri pidamise põhimääruses.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud tõend peab kajastama andmeid vähemalt taotluse esitamisele eelnenud viie aasta kohta.\n(6) Registri vastutav töötleja väljastab käesoleva paragrahvi lõikes 4 nimetatud tõendi seitsme kalendripäeva jooksul taotluse saamisest arvates."
+    },
+    {
+      "provision_ref": "para77",
+      "chapter": "7. peatükk - Liikluskindlustuse register ja andmevahetus",
+      "section": "77",
+      "title": "§ 77. Kindlustusandja ja teiste isikute ligipääs registriandmetele",
+      "content": "(1) Registri vastutav töötleja peab tagama kindlustusandjale juurdepääsu andmetele, mis on vajalikud kindlustusriski hindamiseks, lepingu sõlmimiseks, lepingu täitmiseks ja selle täitmise tagamiseks ning kahju hüvitamise kohustuse olemasolu ja ulatuse, muu hulgas kindlustuskelmuse kindlakstegemiseks. Sellisteks andmeteks on muu hulgas:\n1) andmed lepingute ja nende kinnituseks väljastatud poliiside kohta;\n2) andmed kindlustusjuhtumite ja esitatud kahjunõuete kohta;\n3) andmed, mis on esitatud registrisse käesoleva seaduse § 75 alusel;\n4) andmed, mille abil tuvastatakse kahjustatud isiku ja kindlustatud isiku omavahelist seotust läbi kolmandate isikute ning nendega seotud kindlustusjuhtumite, sõidukite ja sõidukite suhtes sõlmitud lepingute.\n(2) Kindlustusandja on kohustatud tagama, et kõiki andmeid, millele tal on ligipääs, töödeldakse üksnes käesoleva paragrahvi lõikes 1 toodud eesmärgil.\n(3) Registri vastutav töötleja tagab oma veebilehel võimaluse teha avalik päring, mille kaudu saab sõiduki registreerimismärgi või tehasetähise alusel kontrollida registrist andmeid:\n1) sõiduki suhtes sõlmitud lepingu ja selle kinnituseks väljastatud poliisi olemasolu kohta;\n2) sõidukiga toimunud kindlustusjuhtumi kohta."
+    },
+    {
+      "provision_ref": "para78",
+      "chapter": "8. peatükk - Riiklik järelevalve ja vastutus",
+      "section": "78",
+      "title": "§ 78. Riikliku järelevalve teostajad",
+      "content": "Käesolevas seaduses sätestatud kindlustuskohustuse täitmise üle teostavad riiklikku järelevalvet politseiametnik ja abipolitseinik ning fond."
+    },
+    {
+      "provision_ref": "para79",
+      "chapter": "8. peatükk - Riiklik järelevalve ja vastutus",
+      "section": "79",
+      "title": "§ 79. Riikliku järelevalve erimeetmed",
+      "content": "Käesolevas seaduses sätestatud riikliku järelevalve teostamiseks võivad politseiametnik ja abipolitseinik ning fond kohaldada korrakaitseseaduse §-s 30 sätestatud riikliku järelevalve erimeedet korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para80",
+      "chapter": "8. peatükk - Riiklik järelevalve ja vastutus",
+      "section": "80",
+      "title": "§ 80. Riikliku järelevalve erisused",
+      "content": "(1) Politseiametnik või abipolitseinik kontrollib välispiiri ületamisel kindlustuskohustuse täitmist üksnes nende Eestisse sisenevate sõidukite puhul, mille põhiasukoht ei ole lepinguriigis.\n(2) Politseiametnik või abipolitseinik ei luba Eestisse siseneda sõidukiga, mille puhul ei ole kindlustuskohustus käesolevas seaduses sätestatud korras täidetud.\n(3) Lepinguriigis põhiasukohta omava, samuti lepinguriigi kaudu Eestisse siseneva või Eestist lepinguriiki väljuva kolmanda riigi sõiduki kontrollimine üksnes kindlustuskohustuse täitmise kindlakstegemise eesmärgil ei ole lubatud."
+    },
+    {
+      "provision_ref": "para81",
+      "chapter": "8. peatükk - Riiklik järelevalve ja vastutus",
+      "section": "81",
+      "title": "§ 81. Liikluskindlustuseta sõiduki juhtimine",
+      "content": "Liikluskindlustuseta sõiduki juhtimise eest või välisriigis põhiasukohta omava sõiduki juhi poolt riiklikku järelevalvet teostavale politseiametnikule või abipolitseinikule liikluskindlustuse olemasolu tõendava dokumendi esitamata jätmise eest – karistatakse rahatrahviga kuni 100 trahviühikut."
+    },
+    {
+      "provision_ref": "para82",
+      "chapter": "8. peatükk - Riiklik järelevalve ja vastutus",
+      "section": "82",
+      "title": "§ 82. Menetlus",
+      "content": "(1)\n(2) Käesoleva seaduse §-s 81 nimetatud väärteo menetleja on Politsei- ja Piirivalveamet."
+    },
+    {
+      "provision_ref": "para83",
+      "chapter": "9. peatükk - Rakendussätted",
+      "section": "83",
+      "title": "§ 83. Kindlustusjuhtumile kohaldatav seadus",
+      "content": "(1) Kindlustusjuhtumile kohaldatakse kindlustusjuhtumi toimumise ajal kehtinud liikluskindlustuse seadust, arvestades käesolevas paragrahvis sätestatud erisusi.\n(2) Kui kindlustusjuhtum toimus enne 2016. aasta 1. juulit ja isik esitab esmakordse töövõimetushüvitise taotluse 2016. aasta 1. juulil või hiljem või kindlustusjuhtum toimus enne 2016. aasta 1. juulit ja isik esitab esmakordse töövõimetushüvitise taotluse enne 2016. aasta 1. juulit, kuid 1. juuli seisuga ei ole töövõime kaotust tuvastatud, kohaldatakse käesoleva seaduse 2016. aasta 1. juulil jõustuva redaktsiooni § 28 lõigetes 5–7, §-des 28^1 ja 30, § 31 lõigetes 6 ja 7 ning §-s 75 sätestatut.\n(3) Kui kindlustusjuhtum toimus enne 2016. aasta 1. juulit, kohaldatakse pärast 2016. aasta 1. juulit makstavatele perioodilistele töövõimetushüvitise maksetele ja püsiva töövõime kaotuse ulatuse korduvale tuvastamisele 2016. aasta 1. juulil jõustuva liikluskindlustuse seaduse redaktsiooni § 28 lõigetes 5–7, §-des 28^1 ja 30, § 31 lõigetes 6 ja 7 ning §-s 75 sätestatut, arvestades käesoleva paragrahvi lõikes 4 sätestatut.\n(4) Enne 2016. aasta 1. juulit määratud töövõimetushüvitist makstakse kindlustusjuhtumi toimumise ajal kehtinud liikluskindlustuse seaduse alusel kuni Sotsiaalkindlustusameti tuvastatud püsiva töövõimetuse kestuse lõpuni."
+    },
+    {
+      "provision_ref": "para84",
+      "chapter": "9. peatükk - Rakendussätted",
+      "section": "84",
+      "title": "§ 84. Lepingule kohaldatav seadus",
+      "content": "(1) Enne käesoleva seaduse jõustumist sõlmitud lepingud kehtivad kuni lepingu kinnituseks väljastatud poliisil märgitud poliisi kehtivuse lõpuni.\n(2) Lepingud, mille alusel ei ole väljastatud kehtivat poliisi, lõpevad käesoleva seaduse jõustumisel. Kindlustusjuhtumi põhjustamise korral 12 kalendrikuu jooksul pärast käesoleva seaduse jõustumist on viimase lepingu kindlustusandja kohustatud kindlustusvõtja eest kahjustatud isikule kahju hüvitama.\n(3) Enne käesoleva seaduse jõustumist liiklusregistrist ajutiselt kustutatud sõidukite suhtes sõlmitud lepingud ei lõpe käesoleva seaduse § 21 lõike 1 punktis 1 sätestatud alusel.\n(4) Enne käesoleva seaduse jõustumist sõlmitud lepingut on pärast käesoleva seaduse jõustumist võimalik lõpetada ja muuta üksnes käesolevas seaduses ette nähtud korras."
+    },
+    {
+      "provision_ref": "para85",
+      "chapter": "9. peatükk - Rakendussätted",
+      "section": "85",
+      "title": "§ 85. Kindlustuse vaidluskomisjonile esitatud kaebuste lahendamise erisus",
+      "content": "Kindlustuse vaidluskomisjonile esitatud kaebused, mis esitati enne käesoleva seaduse jõustumist, vaatab komisjon läbi, lähtudes enne käesoleva seaduse jõustumist kehtinud liikluskindlustuse seaduses sätestatud vaidluste lahendamise korrast."
+    },
+    {
+      "provision_ref": "para85^1",
+      "chapter": "9. peatükk - Rakendussätted",
+      "section": "85^1",
+      "title": "§ 85^1. Püsiva töövõimetusega isik",
+      "content": "Isikul, kellel on tuvastatud püsiv töövõimetus riikliku pensionikindlustuse seaduse alusel, loetakse käesoleva seaduse §-s 28 sätestatud osalise või puuduva töövõime tingimus täidetuks."
+    },
+    {
+      "provision_ref": "para86",
+      "chapter": "9. peatükk - Rakendussätted",
+      "section": "86",
+      "title": "§ 86.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para94",
+      "chapter": "9. peatükk - Rakendussätted",
+      "section": "94",
+      "title": "§ 94.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para95",
+      "chapter": "9. peatükk - Rakendussätted",
+      "section": "95",
+      "title": "§ 95. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2014. aasta 1. oktoobril.\n(2) Käesoleva seaduse § 35 lõike 1 punkt 2, § 35 lõiked 2 ja 3 ning §-d 41, 42 ja 58 jõustuvad 2015. aasta 1. jaanuaril.\n(3) Käesoleva seaduse § 88 jõustub 2014. aasta 1. juulil."
+    }
+  ],
+  "definitions": []
+}

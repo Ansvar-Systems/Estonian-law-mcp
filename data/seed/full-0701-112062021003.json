@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-112062021003",
+  "type": "statute",
+  "title": "Kirikute ja koguduste seadus",
+  "title_en": "Kirikute ja koguduste seadus",
+  "short_name": "ee-law-112062021003",
+  "status": "in_force",
+  "issued_date": "1993-05-20",
+  "in_force_date": "2002-07-01",
+  "url": "https://www.riigiteataja.ee/akt/112062021003.xml",
+  "description": "Official consolidated statute text (Kirikute ja koguduste seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

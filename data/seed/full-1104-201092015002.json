@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-201092015002",
+  "type": "statute",
+  "title": "Rahvusvahelise taimekaitsekonventsiooniga ühinemise seadus",
+  "title_en": "Rahvusvahelise taimekaitsekonventsiooniga ühinemise seadus",
+  "short_name": "ee-law-201092015002",
+  "status": "in_force",
+  "issued_date": "2000-10-25",
+  "in_force_date": "2015-09-01",
+  "url": "https://www.riigiteataja.ee/akt/201092015002.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise taimekaitsekonventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud rahvusvahelise taimekaitsekonventsiooniga, mis on koostatud 1951. aasta 6. detsembril Roomas ning mille muudetud tekst võeti vastu ÜRO Toidu- ja Põllumajandusorganisatsiooni (FAO) konverentsil 1997. aasta 17. novembril Roomas."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Maaeluministeeriumil tagada rahvusvahelises taimekaitsekonventsioonis sätestatud nõuete järgimine."
+    }
+  ],
+  "definitions": []
+}

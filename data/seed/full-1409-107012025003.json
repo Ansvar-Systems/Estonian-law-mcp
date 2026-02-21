@@ -1,0 +1,239 @@
+{
+  "id": "ee-law-107012025003",
+  "type": "statute",
+  "title": "Töötajate usaldusisiku seadus",
+  "title_en": "Töötajate usaldusisiku seadus",
+  "short_name": "TUIS",
+  "status": "in_force",
+  "issued_date": "2006-12-13",
+  "in_force_date": "2025-01-17",
+  "url": "https://www.riigiteataja.ee/akt/107012025003.xml",
+  "description": "Official consolidated statute text (Töötajate usaldusisiku seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus reguleerib töötajate usaldusisiku (edaspidi usaldusisik ) tegevust teda volitanud töötajate ja ametnike (edaspidi töötaja ) esindamisel suhetes tööandjaga ja töötajatega.\n(2) Käesoleva seaduse tähenduses on tööandjaks avalikus teenistuses riigi- või kohaliku omavalitsuse üksuse asutus."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Usaldusisik",
+      "content": "(1) Usaldusisik on tööandja töötaja, kelle on valinud tööandja töötajate üldkoosolek (edaspidi üldkoosolek ) oma esindajaks seadusest tulenevate ülesannete täitmisel suhetes tööandjaga.\n(2) Usaldusisikut käsitletakse töötajate esindajana Eesti Vabariigi töölepingu seaduse tähenduses."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Usaldusisiku esindusõigus",
+      "content": "Mitme usaldusisiku korral võib iga usaldusisik esindada töötajaid kõigi seadusest tulenevate ülesannete täitmisel, kui üldkoosolek ei ole otsustanud, et usaldusisikud või mõned neist võivad töötajaid esindada ühiselt."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Usaldusisiku ja tööandja koostöö",
+      "content": "Usaldusisik ja tööandja peavad tegema koostööd vastastikuse usalduse alusel ja heas usus, võttes arvesse töötajate ja tööandja õigusi, kohustusi ja huve."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - USALDUSISIKU VALIMINE JA VOLITUSED",
+      "section": "5",
+      "title": "§ 5. Üldkoosoleku kokkukutsumine",
+      "content": "(1) Üldkoosoleku võib kokku kutsuda:\n1) tööandja juures tegutsev ametiühing,\n2) enamus tööandja juures töötavatest ametiühingu liikmetest, kui ametiühing ei ole loodud tööandja juures või\n3) vähemalt 10 protsenti tööandja töötajatest.\n(2) Üldkoosoleku kokkukutsuja teatab töötajatele üldkoosoleku kokkukutsumise põhjusest ja toimumise ajast vähemalt kaks nädalat ette."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - USALDUSISIKU VALIMINE JA VOLITUSED",
+      "section": "6",
+      "title": "§ 6. Üldkoosoleku otsustusvõime",
+      "content": "Üldkoosolek on otsustusvõimeline, kui sellel osalevad vähemalt pooled tööandja töötajatest."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - USALDUSISIKU VALIMINE JA VOLITUSED",
+      "section": "7",
+      "title": "§ 7. Usaldusisiku valimine ja tagasikutsumine",
+      "content": "(1) Üldkoosolek otsustab usaldusisiku valimise ja tagasikutsumise tingimused ning korra.\n(2) Usaldusisiku valimise ja tagasikutsumise tingimused ning kord peavad tagama kõigile töötajatele võimaluse osaleda usaldusisiku valimisel ja tagasikutsumisel.\n(3) Usaldusisik valitakse salajasel hääletusel. Usaldusisiku kandidaate võivad esitada kõik töötajad ja tööandja juures tegutsev ametiühing.\n(4) Üldkoosolek võib kokkuleppel tööandjaga valida mitu usaldusisikut.\n(5) Usaldusisikud võivad endi hulgast valida peausaldusisiku, kes korraldab usaldusisikute tegevust.\n(6) Üldkoosolek teatab tööandjale viivitamatult kirjalikult või kirjalikku taasesitamist võimaldavas vormis usaldusisiku valimisest ja tema volituste kestusest ning usaldusisiku tagasikutsumisest.\n(7) Üldkoosolek teatab tööandjale kirjalikult või kirjalikku taasesitamist võimaldavas vormis usaldusisikute õigusest töötajaid ühiselt esindada."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - USALDUSISIKU VALIMINE JA VOLITUSED",
+      "section": "8",
+      "title": "§ 8. Usaldusisiku volituse kestus",
+      "content": "(1) Usaldusisiku volitused kehtivad kolm aastat, kui üldkoosolek ei ole otsustanud teisiti.\n(2) Ettevõtte üleminekul kehtivad usaldusisiku volitused nende lõppemiseni, kuid mitte kauem kui üks aasta üleminekust arvates.\n(3) Võlaõigusseaduse §-s 181 sätestatud piiranguid usaldusisiku volituste üleminekul ei kohaldata."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "3. peatükk - USALDUSISIKU ÕIGUSED JA KOHUSTUSED",
+      "section": "9",
+      "title": "§ 9. Usaldusisiku õigused",
+      "content": "Usaldusisikul on õigus:\n1) tutvuda takistamatult töötingimuste, sealhulgas töökorraldusega;\n2) saada tööandjalt oma ülesannete täitmiseks vajalikku teavet ning konsulteerida selle teabe alusel tööandjaga;\n3)\n4) pidada tööandjaga läbirääkimisi kollektiivlepingu sõlmimiseks kollektiivlepingu seaduses sätestatud tingimustel ja korras, kui tööandja juures ei ole ametiühingut või ei tööta ametiühingusse kuuluvaid töötajaid;\n5) esindada töötajaid kollektiivse töötüli lahendamisel kollektiivse töötüli lahendamise seaduses sätestatud tingimustel ja korras, kui tööandja juures ei ole ametiühingut või ei tööta ametiühingusse kuuluvaid töötajaid;\n6) teavitada huvitatud ametiühingut ning tööandjate ja ametiühingute liitu või keskliitu tööandjapoolsest töötingimuste rikkumisest;\n7) pöörduda saadud teabe konfidentsiaalsusest või teabe andmisest keeldumisest tuleneva vaidluse lahendamiseks töövaidlusi lahendavasse organisse;\n8) saada koolitust oma ülesannete täitmiseks käesoleva seaduse §-s 14 sätestatud korras;\n9) kaasata oma ülesannete täitmiseks eksperte;\n10) kokkuleppel tööandjaga kasutada usaldusisiku ülesannete täitmiseks vajalikke tööandja ruume ja muid vahendeid."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "3. peatükk - USALDUSISIKU ÕIGUSED JA KOHUSTUSED",
+      "section": "10",
+      "title": "§ 10. Usaldusisiku kohustused",
+      "content": "Usaldusisik on kohustatud:\n1) osalema informeerimisel ja konsulteerimisel;\n2) vahendama teavet tööandjale ja töötajatele;\n3) jälgima töötingimuste täitmist ning teatama rikkumisest tööandjale ja vajadusel tööandja tegevuskohajärgsele tööinspektorile;\n4) töötaja taotlusel esindama töötajat töövaidluses tööandjaga enne töövaidlusi lahendavasse organisse pöördumist;\n5) aitama kaasa töörahu hoidmisele, kui kollektiivlepingu on kollektiivlepingu seaduses sätestatud tingimustel ja korras sõlminud usaldusisik;\n6) tegema koostööd ametiühingu usaldusisiku, töökeskkonna voliniku ja töökeskkonna nõukoguga."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "3. peatükk - USALDUSISIKU ÕIGUSED JA KOHUSTUSED",
+      "section": "11",
+      "title": "§ 11. Usaldusisiku kohustus hoida konfidentsiaalset teavet",
+      "content": "(1) Usaldusisik ei tohi avaldada kolmandatele isikutele volituste ajal ega pärast volituste lõppemist oma kohustuste täitmisel teatavaks saanud isikuandmeid või tööandja selgelt konfidentsiaalsena antud teavet.\n(2) Usaldusisik ei tohi kasutada seaduse vastaselt volituste ajal ega pärast volituste lõppemist oma kohustuste täitmisel teatavaks saanud isikuandmeid või tööandja selgelt konfidentsiaalsena antud teavet.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud kohustusi ei kohaldata usaldusisiku suhtlemisele sama tööandja juures valitud teise usaldusisikuga ja konsulteerimisse kaasatud eksperdiga.\n(4) Usaldusisik edastab konfidentsiaalsena saadud teabe teisele usaldusisikule või eksperdile selgelt konfidentsiaalsena."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - USALDUSISIKU ÕIGUSED JA KOHUSTUSED",
+      "section": "12",
+      "title": "§ 12. Eksperdi kohustus hoida konfidentsiaalset teavet",
+      "content": "(1) Käesoleva seaduse § 11 lõigetes 1 ja 2 nimetatud kohustustega on seotud konsulteerimisse kaasatud ekspert.\n(2) Käesoleva seaduse § 11 lõigetes 1 ja 2 nimetatud kohustusi ei kohaldata eksperdi suhtlemisele sama tööandja juures valitud teise usaldusisikuga.\n(3) Ekspert peab edastama konfidentsiaalsena saadud teabe teisele usaldusisikule selgelt konfidentsiaalsena."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - USALDUSISIKU ÕIGUSED JA KOHUSTUSED",
+      "section": "13",
+      "title": "§ 13. Usaldusisiku ülesannete täitmise aeg",
+      "content": "(1) Usaldusisiku ülesandeid täidab töötaja kokkuleppel tööandjaga tööajal või väljaspool tööaega.\n(2) Usaldusisiku ülesannete täitmise tingimused ja kord lepitakse kokku tööandja ja usaldusisiku vahel.\n(3) Tööandja tagab vähemalt ühele usaldusisikule tema ülesannete täitmiseks tööajal:\n1) 5 kuni 100 töötaja esindamise korral vähemalt 4 tundi töönädalas;\n2) 101 kuni 300 töötaja esindamise korral vähemalt 8 tundi töönädalas;\n3) 301 kuni 500 töötaja esindamise korral vähemalt 16 tundi töönädalas;\n4) üle 500 töötaja esindamise korral vähemalt 40 tundi töönädalas.\n(4) Kahe või enama usaldusisiku korral tagab tööandja usaldusisikutele ülesannete täitmiseks aja kahele usaldusisikule ettenähtud ulatuses. Usaldusisikud lepivad kokku aja omavahelise jaotamise."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - USALDUSISIKU ÕIGUSED JA KOHUSTUSED",
+      "section": "14",
+      "title": "§ 14. Usaldusisiku koolitus",
+      "content": "(1) Tööandja võimaldab usaldusisikul osaleda tema ülesannete täitmiseks vajalikul koolitusel mõistlikus ulatuses.\n(2) Pooled võivad kokku leppida, et koolituse kulud kannab tööandja."
+    },
+    {
+      "provision_ref": "para14^1",
+      "chapter": "3. peatükk - USALDUSISIKU ÕIGUSED JA KOHUSTUSED",
+      "section": "14^1",
+      "title": "§ 14^1. Tagatis usaldusisiku ülesannete täitmise ja koolituse ajaks",
+      "content": "Usaldusisikule säilitatakse tema ülesannete täitmise aja eest vastavalt käesoleva seaduse § 13 lõikele 3 ja koolitusel osalemise aja eest keskmine töötasu."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "4. peatükk - TÖÖANDJA ÕIGUSED JA KOHUSTUSED TEABE ANDMISEL",
+      "section": "15",
+      "title": "§ 15. Tööandja õigused ja kohustused konfidentsiaalse teabe andmisel",
+      "content": "(1) Konfidentsiaalne on teave, mille tööandja annab usaldusisikule selgelt konfidentsiaalsena.\n(2) Tööandja peab teabe konfidentsiaalsust põhjendama, kui usaldusisik ei nõustu teabe konfidentsiaalsusega."
+    },
+    {
+      "provision_ref": "para15^1",
+      "chapter": "4. peatükk - TÖÖANDJA ÕIGUSED JA KOHUSTUSED TEABE ANDMISEL",
+      "section": "15^1",
+      "title": "§ 15^1. Tööandja õigused ja kohustused kestlikkusteabe andmisel",
+      "content": "Tööandja, kes on raamatupidamise seaduse § 24 lõikes 2 nimetatud kestlikkusaruande koostaja, teavitab usaldusisikut või töötajate esindajat, kes ei ole usaldusisik, kestlikkusaruande sisust ning selle koostamise protsessist ja kontrollimise vahenditest käesoleva seaduse §-s 19, § 20 lõikes 2 ja §-s 21 sätestatud viisil ning vajaduse korral esitab töötajate arvamuse kestlikkusaruande kohta raamatupidamise seaduse § 3 punktis 12 nimetatud kõrgemale juhtorganile."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "4. peatükk - TÖÖANDJA ÕIGUSED JA KOHUSTUSED TEABE ANDMISEL",
+      "section": "16",
+      "title": "§ 16. Teabe andmisest keeldumine",
+      "content": "(1) Tööandja võib keelduda teabe andmisest, kui selle teabe avalikustamine oluliselt kahjustab või võib kahjustada tööandja tegevust.\n(2) Teabe andmisest keeldumisel esitab tööandja objektiivsetele kriteeriumitele tugineva põhjenduse, miks teabe avaldamine oluliselt kahjustab või võib kahjustada tööandja tegevust.\n(3) Tööandja ei või keelduda teabe andmisest töötajate arvu kohta."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "5. peatükk - INFORMEERIMINE JA KONSULTEERIMINE",
+      "section": "17",
+      "title": "§ 17. Informeerimise ja konsulteerimise kohaldamine",
+      "content": "(1) Tööandja, kelle juures töötab vähemalt 30 töötajat, on kohustatud rakendama käesolevas peatükis sätestatud informeerimist ja konsulteerimist.\n(2) Käesolevas peatükis sätestatut ei kohaldata informeerimisele ja konsulteerimisele avalikus teenistuses."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "5. peatükk - INFORMEERIMINE JA KONSULTEERIMINE",
+      "section": "18",
+      "title": "§ 18. Töötajate arvu määramine",
+      "content": "(1) Tööandja määrab töötajate arvu:\n1) majandusaasta aruande kinnitamisel;\n2) käesoleva seaduse § 20 lõikes 1 nimetatud informeerimise ja konsulteerimise kohustuse tekkimisel.\n(2) Töötajate arvu määramisel võtab tööandja arvesse kuue kuu keskmise töötajate arvu informeerimise ja konsulteerimise kohustuse tekkimise päevast arvates."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "5. peatükk - INFORMEERIMINE JA KONSULTEERIMINE",
+      "section": "19",
+      "title": "§ 19. Informeerimise ja konsulteerimise mõiste",
+      "content": "(1) Informeerimine tähendab usaldusisikule või tema puudumisel töötajatele asjakohasel tasandil teabe edastamist, mis võimaldab töötajatel saada õigeaegselt selget ja piisavalt põhjalikku ülevaadet tööandja struktuurist, majanduslikust ja tööhõive olukorrast ning nende võimalikust arengust ja muudest töötajate huve puudutavatest asjaoludest, samuti saada aru olukorra ja muude asjaolude mõjust töötajatele.\n(2) Konsulteerimine tähendab usaldusisiku või tema puudumisel töötajate ja tööandja vahelist seisukohtade vahetamist ning dialoogi pidamist asjakohasel tasandil, mis võimaldab usaldusisikul või töötajatel avaldada arvamusi ning saada tööandjalt põhjendatud vastuseid avaldatud arvamustele eesmärgiga jõuda kokkuleppele käesoleva seaduse § 20 lõike 1 punktides 2 ja 3 sätestatu osas."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "5. peatükk - INFORMEERIMINE JA KONSULTEERIMINE",
+      "section": "20",
+      "title": "§ 20. Informeerimise ja konsulteerimise sisu",
+      "content": "(1) Tööandja informeerib ja konsulteerib vähemalt järgmistest töötajaid puudutavatest asjaoludest:\n1) tööandja struktuur, töötajate, sealhulgas tööülesandeid renditööna täitvate töötajate koosseis, nende muudatused ja kavandatavad otsused, mis avaldavad olulist mõju tööandja struktuurile ja töötajate koosseisule;\n2) kavandatavad otsused, millega tõenäoliselt kaasnevad olulised muudatused töökorralduses;\n3) kavandatavad otsused, millega tõenäoliselt kaasnevad olulised muudatused töötajate töölepingulistes suhetes, sealhulgas töösuhete lõpetamine.\n(2) Tööandja informeerib vastavalt raamatupidamise seadusele koostatud majandusaasta aruandest hiljemalt 14 päeva jooksul pärast majandusaasta aruande kinnitamist."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "5. peatükk - INFORMEERIMINE JA KONSULTEERIMINE",
+      "section": "21",
+      "title": "§ 21. Informeerimise ja konsulteerimise viis",
+      "content": "(1) Tööandja annab teavet viisil, mis võimaldab teabega põhjalikult tutvuda ja vajaduse korral valmistuda tööandjaga peetavateks konsultatsioonideks. Tööandja annab teavet kirjalikult või kirjalikku taasesitamist võimaldavas vormis, kui poolte vahel ei ole kokku lepitud teisiti.\n(2) Usaldusisikul või tema puudumisel töötajatel on õigus esitada kirjalik arvamus või teha ettepanek tööandjalt saadud teabe kohta või teatada soovist alustada konsulteerimist 15 tööpäeva jooksul teabe kättesaamisest arvates. Kui tööandja ei arvesta tehtud ettepanekuid, põhjendab ta seda esimesel võimalusel kirjalikult või kirjalikku taasesitamist võimaldavas vormis.\n(3) Tööandja algatab konsulteerimise seitsme tööpäeva jooksul konsulteerimise sooviavalduse kättesaamisest arvates.\n(4) Tööandja selgitab konsulteerimisel kavandatavat tegevust ja selle tagajärgi töötajatele. Pooled püüavad jõuda kokkuleppele kavandatavas tegevuses.\n(5) Usaldusisik või tema puudumisel töötajad võivad konsulteerimisse kaasata eksperte."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "6. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "22",
+      "title": "§ 22. Riikliku ja haldusjärelevalve teostamine",
+      "content": "(1) Riiklikku ja haldusjärelevalvet käesoleva seaduse § 9 punktides 1 ja 2 ning § 13 lõigetes 3 ja 4 sätestatud nõuete täitmise üle teostab Tööinspektsioon.\n(2) Riiklikku järelevalvet käesoleva seaduse §-des 17, 18 ja 20 sätestatud nõuete täitmise üle teostab Tööinspektsioon.\n(3) Tööinspektsioon võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30–32 ja 49–51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "7. peatükk - VASTUTUS",
+      "section": "24",
+      "title": "§ 24. Informeerimise ja konsulteerimise kohustuse rikkumine",
+      "content": "(1) Informeerimise või konsulteerimise kohustuse täitmata jätmise eest tööandja, tema juhatuse liikme või muu esindaja poolt, kellele oli vastava kohustuse täitmine delegeeritud, – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "7. peatükk - VASTUTUS",
+      "section": "25",
+      "title": "§ 25. Konfidentsiaalse teabe hoidmise kohustuse rikkumine",
+      "content": "Konfidentsiaalse teabe hoidmise kohustuse rikkumise eest usaldusisiku või konsulteerimisse kaasatud eksperdi poolt – karistatakse rahatrahviga kuni 300 trahviühikut."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "7. peatükk - VASTUTUS",
+      "section": "26",
+      "title": "§ 26. Menetlus",
+      "content": "(1)\n(2) Käesoleva seaduse §-des 24 ja 25 sätestatud väärtegude kohtuväline menetleja on Tööinspektsioon."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "8. peatükk - SEADUSE RAKENDAMINE",
+      "section": "27",
+      "title": "§ 27. Valitud usaldusisikute volituste kehtivus",
+      "content": "Valitud usaldusisikute volitused kehtivad kuni nende tähtaja lõppemiseni, kuid mitte kauem kui üks aasta käesoleva seaduse jõustumisest arvates."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "8. peatükk - SEADUSE RAKENDAMINE",
+      "section": "28",
+      "title": "§ 28.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "8. peatükk - SEADUSE RAKENDAMINE",
+      "section": "30",
+      "title": "§ 30.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "8. peatükk - SEADUSE RAKENDAMINE",
+      "section": "31",
+      "title": "§ 31. Töötajate usaldusisiku seaduse kehtetuks tunnistamine",
+      "content": "Töötajate usaldusisiku seadus tunnistatakse kehtetuks."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "8. peatükk - SEADUSE RAKENDAMINE",
+      "section": "32",
+      "title": "§ 32. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2007. aasta 1. veebruaril."
+    }
+  ],
+  "definitions": []
+}

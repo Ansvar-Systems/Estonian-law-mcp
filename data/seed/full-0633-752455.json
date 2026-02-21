@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-752455",
+  "type": "statute",
+  "title": "Kaitstavate loodusobjektide seadus",
+  "title_en": "Kaitstavate loodusobjektide seadus",
+  "short_name": "KLOS",
+  "status": "in_force",
+  "issued_date": "1994-06-01",
+  "in_force_date": "2004-05-10",
+  "url": "https://www.riigiteataja.ee/akt/752455.xml",
+  "description": "Official consolidated statute text (Kaitstavate loodusobjektide seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

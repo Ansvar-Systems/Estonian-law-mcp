@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-208012014001",
+  "type": "statute",
+  "title": "Laste kaasamist relvakonfliktidesse käsitleva lapse õiguste konventsiooni fakultatiivprotokolli ratifitseerimise seadus",
+  "title_en": "Laste kaasamist relvakonfliktidesse käsitleva lapse õiguste konventsiooni fakultatiivprotokolli ratifitseerimise seadus",
+  "short_name": "ee-law-208012014001",
+  "status": "in_force",
+  "issued_date": "2013-12-18",
+  "in_force_date": "2014-01-18",
+  "url": "https://www.riigiteataja.ee/akt/208012014001.xml",
+  "description": "Official consolidated statute text (Laste kaasamist relvakonfliktidesse käsitleva lapse õiguste konventsiooni fakultatiivprotokolli ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud laste kaasamist relvakonfliktidesse käsitlev lapse õiguste konventsiooni fakultatiivprotokoll, mis on vastu võetud Ühinenud Rahvaste Organisatsiooni Peaassamblee 2000. aasta 25. mai resolutsiooniga A/RES/54/263 ja millele Eesti Vabariik kirjutas alla 2003. aasta 24. septembril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vastavalt laste kaasamist relvakonfliktidesse käsitleva lapse õiguste konventsiooni fakultatiivprotokolli artikli 3 lõikele 2 deklareerib Eesti Vabariik, et vanuse alampiir isikute vabatahtlikul värbamisel riiklikesse relvajõududesse on 18 eluaastat."
+    }
+  ],
+  "definitions": []
+}

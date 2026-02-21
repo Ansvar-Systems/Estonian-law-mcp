@@ -1,0 +1,610 @@
+{
+  "id": "ee-law-103032023004",
+  "type": "statute",
+  "title": "Konkurentsiseadus",
+  "title_en": "Konkurentsiseadus",
+  "short_name": "ee-law-103032023004",
+  "status": "in_force",
+  "issued_date": "2001-06-05",
+  "in_force_date": "2024-01-01",
+  "url": "https://www.riigiteataja.ee/akt/103032023004.xml",
+  "description": "Official consolidated statute text (Konkurentsiseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesoleva seaduse reguleerimisala on vaba ettevõtluse huvidest lähtuva konkurentsi kaitsmine loodusvarade kaevandamisel, toodete valmistamisel ja teenuste osutamisel ning toodete ja teenuste (edaspidi kaubad ) ostmisel ja müümisel ning muus äritegevuses konkurentsi takistamise, piiramise või kahjustamise (edaspidi kahjustamine ) ärahoidmine ja kõrvaldamine ning kahjustamisest tekkinud nõuete menetlemine ja vastutus.\n(2) Käesolevat seadust kohaldatakse ka juhul, kui konkurentsi kahjustamisele suunatud tegevus või tegevusetus toimub väljaspool Eesti territooriumi, kuid kahjustab konkurentsi Eesti territooriumil.\n(2^1) Käesoleva seaduse 7^1. peatükk sätestab eriseadustega reguleeritud turgudel tegutsevatele ettevõtjatele järelevalvetasu maksmise kohustuse.\n(3) Käesolev seadus ei reguleeri suhteid tööjõuturul.\n(3^1) Käesolevas seaduses ettenähtud tsiviilkohtumenetlusele kohaldatakse tsiviilkohtumenetluse seadustiku sätteid, arvestades käesoleva seaduse erisusi.\n(4) Käesolevas seaduses haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Ettevõtja",
+      "content": "(1) Ettevõtja käesoleva seaduse tähenduses on äriühing, füüsilisest isikust ettevõtja või muu majandus- või kutsetegevuses osalev isik või juriidiliseks isikuks mitteolev ühendus või ettevõtja huvides tegutsev isik.\n(2) Kui riik, kohaliku omavalitsuse üksus, avalik-õiguslik juriidiline isik või muu haldusülesandeid täitev isik osaleb kaubaturul, kohaldatakse talle ettevõtja kohta käivaid sätteid.\n(3) Käesoleva seaduse tähenduses võib lugeda üheks ettevõtjaks üksteisega valitseva mõju kaudu seotud ettevõtjad.\n(4) Valitsev mõju on võimalus ühe või mitme ettevõtja poolt ühiselt või ühe või mitme füüsilise isiku poolt ühiselt teise ettevõtja aktsiate või osade omamise kaudu, tehingu või põhikirja alusel või muul viisil otseselt või kaudselt mõjutada teist ettevõtjat, mis võib seisneda õiguses:\n1) oluliselt mõjutada teise ettevõtja juhtorganite koosseisu, hääletamist või otsuseid või\n2) kasutada või käsutada teise ettevõtja kogu vara või olulist osa sellest."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Kaubaturg",
+      "content": "(1) Kaubaturg on hinna, kvaliteedi, tehniliste omaduste, realiseerimis- ja kasutustingimuste ning tarbimis- ja muude omaduste poolest ostja seisukohalt omavahel vahetatavate või asendatavate (edaspidi asendatavate ) kaupade käibimise ala, mis hõlmab muu hulgas kogu Eesti territooriumi või selle osa.\n(2) Kaubaturu piiritlemisel arvestatakse asendatavate kaupade käivet üldjuhul rahalises väljenduses. Kui see ei ole võimalik või otstarbekas, võib kaubaturu mahtu ja sellel tegutseva ettevõtja turuosa arvestada mõne muu võrreldava näitaja alusel."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - KOKKULEPPE, KOOSKÕLASTATUD TEGEVUSE JA ETTEVÕTJATE ÜHENDUSE OTSUSE KEELD",
+      "section": "4",
+      "title": "§ 4. Konkurentsi kahjustava kokkuleppe, kooskõlastatud tegevuse ja ettevõtjate ühenduse otsuse keeld",
+      "content": "(1) Keelatud on konkurentsi kahjustava eesmärgi või tagajärjega ettevõtjatevaheline kokkulepe, kooskõlastatud tegevus ja ettevõtjate ühenduse otsus (edaspidi kokkulepe, tegevus ja otsus ), sealhulgas:\n1) otsene või kaudne kolmandate isikute suhtes hinna- ja muude kauplemistingimuste kindlaksmääramine, sealhulgas kauba hinna, tariifi, tasu, juurde-, alla- või mahahindluse, abonement-, lisa- või täiendava tasu, intressimäära, rendi või üüri määramine;\n2) tootmise, teenindamise, kaubaturu, tehnilise arengu või investeerimise piiramine;\n3) kaubaturu või varustusallika jagamine, sealhulgas kolmandale isikule kaubaturule pääsu piiramine või püüd teda sealt välja tõrjuda;\n4) konkurentsi kahjustava teabe vahetamine;\n5) võrdväärsete kokkulepete puhul erinevate tingimuste rakendamises kokkuleppimine, millega äripartnerid pannakse ebasoodsasse konkurentsiolukorda;\n6) kolmandale isikule kokkuleppe sõlmimiseks tingimuse seadmine kokkuleppe objektiga mitteseotud lisakohustuse võtmiseks.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud keeldu kohaldatakse põllumajandustootjate, nende ühenduste ja selliste ühenduste liitude kokkuleppele, tegevusele ja otsusele, mis käsitlevad põllumajandussaaduse tootmist, müüki või ühiste vahendite kasutamist, üksnes ulatuses, mis on kindlaks määratud Euroopa Liidu toimimise lepingu artiklis 42 sätestatu alusel."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - KOKKULEPPE, KOOSKÕLASTATUD TEGEVUSE JA ETTEVÕTJATE ÜHENDUSE OTSUSE KEELD",
+      "section": "5",
+      "title": "§ 5. Vähese tähtsusega kokkulepe, tegevus või otsus",
+      "content": "(1) Käesoleva seaduse § 4 lõike 1 punktides 4–6 sätestatut ei kohaldata vähese tähtsusega kokkuleppele, tegevusele ja otsusele.\n(2) Vähese tähtsusega on käesoleva seaduse tähenduses kokkulepe, tegevus ja otsus, kui kokkulepet sõlmivate, kooskõlastatult tegutsevate või otsust vastuvõtvate ettevõtjate käivete osatähtsus kaubaturul ei ole suurem kui:\n1) 15 protsenti vertikaalse kokkuleppe, tegevuse ja otsuse igal osalisel;\n2) 10 protsenti horisontaalse kokkuleppe, tegevuse ja otsuse kõigil osalistel kokku;\n3) 10 protsenti kokkuleppe, tegevuse ja otsuse, milles esinevad üheaegselt nii vertikaalse kui ka horisontaalse kokkuleppe, tegevuse või otsuse tunnused, igal osalisel.\n(3) Vertikaalne on ettevõtjate kokkulepe, nende kooskõlastatud tegevus ja ettevõtjate ühenduse otsus siis, kui nimetatud ettevõtjad tegutsevad tootmise või turustamise erinevatel tasanditel (näiteks tooraine või valmiskauba tootmine, jae- või hulgiturustus). Horisontaalne on ettevõtjate kokkulepe, nende kooskõlastatud tegevus ja ettevõtjate ühenduse otsus siis, kui nimetatud ettevõtjad tegutsevad tootmise või turustamise samal tasandil konkurentidena.\n(4) Vähese tähtsusega on kokkulepe, tegevus või otsus siis, kui käesoleva paragrahvi lõikes 2 sätestatud tingimused on täidetud selle kokkuleppe, tegevuse või otsuse kogu toimimise aja jooksul."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - KOKKULEPPE, KOOSKÕLASTATUD TEGEVUSE JA ETTEVÕTJATE ÜHENDUSE OTSUSE KEELD",
+      "section": "6",
+      "title": "§ 6. Kokkuleppe, tegevuse ja otsuse lubatavus",
+      "content": "(1) Käesoleva seaduse § 4 lõikes 1 sätestatud keeldu ei kohaldata kokkuleppe, tegevuse või otsuse suhtes, mis:\n1) aitab parandada kaupade tootmist või turustamist või edendada tehnilist või majanduslikku progressi või kaitsta keskkonda, võimaldades tarbijatel saada sellest tulenevast kasust õiglase osa;\n2) ei kehtesta kokkulepet sõlmivatele, kooskõlastatult tegutsevatele või otsust vastuvõtvatele ettevõtjatele piiranguid, mis ei ole hädavajalikud käesoleva lõike punktis 1 nimetatud eesmärkide saavutamiseks;\n3) ei anna kokkulepet sõlmivatele, kooskõlastatult tegutsevatele või otsust vastuvõtvatele ettevõtjatele võimalust kõrvaldada konkurentsi kaubaturu olulise osa suhtes.\n(2) Käesolevast paragrahvist tulenevaid tingimusi kasutav ettevõtja on kohustatud tõendama, et lõike 1 kõik tingimused on täidetud."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - KOKKULEPPE, KOOSKÕLASTATUD TEGEVUSE JA ETTEVÕTJATE ÜHENDUSE OTSUSE KEELD",
+      "section": "7",
+      "title": "§ 7. Grupierand",
+      "content": "(1) Grupierand on valdkonna eest vastutava ministri ettepanekul Vabariigi Valitsuse määrusega antud üldine luba käesoleva seaduse §-s 6 sätestatud tingimustele vastavate teatud liiki konkurentsi kahjustavate või kahjustada võivate kokkulepete sõlmimiseks, kooskõlastatud tegevuseks või otsuse vastuvõtmiseks.\n(2) Grupierand kehtestatakse tähtajalisena ja selles võidakse määrata:\n1) kokkuleppe, tegevuse või otsuse liigi nimetus, mille suhtes grupierand kohaldub;\n2) piirangud või tingimused, mis sellises kokkuleppes, tegevuses või otsuses ei tohi sisalduda;\n3) tingimused, mis peavad sellises kokkuleppes, tegevuses või otsuses sisalduma, ning piirangud ja tingimused, mis võivad sellises kokkuleppes, tegevuses või otsuses sisalduda;\n4) muud tingimused, millele kokkulepe, tegevus või otsus peab vastama.\n(3)"
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - KOKKULEPPE, KOOSKÕLASTATUD TEGEVUSE JA ETTEVÕTJATE ÜHENDUSE OTSUSE KEELD",
+      "section": "8",
+      "title": "§ 8. Kokkuleppe ja otsuse tühisus",
+      "content": "Kokkulepe ja otsus või nende osa, millel on käesoleva seaduse §-s 4 nimetatud eesmärk või tagajärg, on tühine, välja arvatud käesoleva seaduse §-de 5–7 alusel lubatud kokkulepe ja otsus."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "3. peatükk - ERANDI ANDMISE MENETLUS",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "4. peatükk - TURGU VALITSEVAT SEISUNDIT OMAV ETTEVÕTJA",
+      "section": "13",
+      "title": "§ 13. Turgu valitsevat seisundit omav ettevõtja",
+      "content": "(1) Turgu valitsevat seisundit omab käesoleva seaduse tähenduses ettevõtja või mitu samal kaubaturul tegutsevat ettevõtjat, kelle positsioon võimaldab tal/neil sellel kaubaturul tegutseda arvestataval määral sõltumatult konkurentidest, varustajatest ja ostjatest. Turgu valitseva seisundi omamist eeldatakse, kui ettevõtjale või mitmele samal kaubaturul tegutsevale ettevõtjale kuulub kaubaturul vähemalt 40 protsenti käibest.\n(2) Turgu valitsev seisund on ka käesoleva seaduse §-s 15 sätestatud olulist vahendit omaval ettevõtjal."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "4. peatükk - TURGU VALITSEVAT SEISUNDIT OMAV ETTEVÕTJA",
+      "section": "14",
+      "title": "§ 14. Eri- või ainuõigus",
+      "content": "Eri- või ainuõigus on käesoleva seaduse tähenduses riigi või kohaliku omavalitsuse üksuse poolt ühele või mitmele ettevõtjale antud õigus, millega piiratakse nende ettevõtjate arvu, kellele on antud luba tegutseda teatavas geograafilises piirkonnas, või mis annab ühele või mitmele ettevõtjale eeliseid, mis oluliselt mõjutavad teiste ettevõtjate võimalusi tegutseda samas geograafilises piirkonnas."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "4. peatükk - TURGU VALITSEVAT SEISUNDIT OMAV ETTEVÕTJA",
+      "section": "15",
+      "title": "§ 15. Olulist vahendit omav ettevõtja",
+      "content": "Olulist vahendit, sealhulgas loomulikku monopoli omavaks loetakse ettevõtja, kelle omandis, valduses või opereerimisel on võrgustik, infrastruktuur või muu oluline vahend, mida teisel isikul ei ole võimalik või ei ole majanduslikult otstarbekas dubleerida, kuid millele juurdepääsuta või mille olemasoluta ei ole võimalik kaubaturul tegutseda."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "4. peatükk - TURGU VALITSEVAT SEISUNDIT OMAV ETTEVÕTJA",
+      "section": "16",
+      "title": "§ 16. Turgu valitseva seisundi kuritarvitamine",
+      "content": "Keelatud on ühe või mitme ettevõtja poolt turgu valitseva seisundi otsene või kaudne kuritarvitamine kaubaturul, sealhulgas:\n1) otsene või kaudne ebaõiglaste ostu- või müügihindade või muude ebaõiglaste äritingimuste kehtestamine või rakendamine;\n2) tootmise, teenindamise, kaubaturu, tehnilise arengu või investeerimise piiramine;\n3) võrdväärsete kokkulepete korral erinevate tingimuste pakkumine või rakendamine erinevatele äripartneritele, pannes mõne neist sellega ebasoodsasse konkurentsiolukorda;\n4) teisele poolele kokkuleppe objektiga mitteseotud lisakohustuse seadmine;\n5) ettevõtja sundimine endaga või teise ettevõtjaga koondumiseks, konkurentsi kahjustava kokkuleppe sõlmimiseks, kooskõlastatud tegevuseks või otsuse vastuvõtmiseks;\n6) põhjendamatu keeldumine kauba müümisest või ostmisest."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "4. peatükk - TURGU VALITSEVAT SEISUNDIT OMAV ETTEVÕTJA",
+      "section": "18",
+      "title": "§ 18. Olulist vahendit omava ettevõtja kohustused",
+      "content": "(1) Olulist vahendit omav ettevõtja on kohustatud lubama teisele ettevõtjale mõistlikel ja mittediskrimineerivatel tingimustel juurdepääsu võrgustikule, infrastruktuurile või muule olulisele vahendile kaupadega varustamise või nende müügi eesmärgil:\n(2) Olulist vahendit omav ettevõtja võib keelduda lubamast teisele ettevõtjale juurdepääsu võrgustikule, infrastruktuurile või muule olulisele vahendile, kui keeldumiseks on objektiivsed alused, sealhulgas:\n1) on ohustatud selle võrgustiku, infrastruktuuri või muu olulise vahendiga ühendatud seadme ohutus ja turvalisus ning võrgustiku, infrastruktuuri või muu olulise vahendi töö efektiivsus ja turvalisus;\n2) on ohustatud võrgustiku, infrastruktuuri või muu olulise vahendi terviklikkuse hoidmine või vastastikuses seoses toimimine;\n3) seade, mida soovitakse ühendada võrgustiku, infrastruktuuri või muu olulise vahendiga, ei vasta kehtivale tehnilisele standardile või reeglile;\n4) juurdepääsu taotleval ettevõtjal puuduvad tehnilised ja finantsilised võimalused ning vahendid, et vajalikul määral efektiivselt ja turvaliselt teenindada vastava võrgustiku, infrastruktuuri või muu olulise vahendi kaudu või abil;\n5) juurdepääsu taotleval ettevõtjal puudub seadusega ettenähtud luba vastavaks tegevuseks;\n6) juurdepääsu tagajärjel ei ole tagatud seadusega ettenähtud andmete kaitse."
+    },
+    {
+      "provision_ref": "para18^1",
+      "chapter": "4. peatükk - TURGU VALITSEVAT SEISUNDIT OMAV ETTEVÕTJA",
+      "section": "18^1",
+      "title": "§ 18^1. Raamatupidamise erinõue",
+      "content": "Eri- või ainuõigust või olulist vahendit omav ettevõtja on kohustatud pidama eraldi arvestust iga toote või teenusega seotud tulude ja kulude kohta, lähtudes järjepidevalt kohaldatavatest ja objektiivselt põhjendatud arvestuspõhimõtetest, mis tuleb selgelt kindlaks määrata ettevõtja sise-eeskirjades. Tulude ja kulude arvestus peab võimaldama hinnata, kas ettevõtja toote või teenuse hind on mõistlikus vahekorras toote või teenuse väärtusega."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "5. peatükk - KOONDUMISE KONTROLLIMINE",
+      "section": "19",
+      "title": "§ 19. Koondumine",
+      "content": "(1) Koondumine on:\n1) eelnevalt iseseisvalt tegutsenud ettevõtjate ühinemine äriseadustiku tähenduses või ettevõtjate osade ühendamine;\n2) ettevõtja poolt valitseva mõju omandamine teise ettevõtja või tema osa või mitme ettevõtja või nende osade üle;\n3) ettevõtjate poolt ühiselt valitseva mõju omandamine teise ettevõtja või tema osa või mitme ettevõtja või nende osade üle;\n4) füüsilise isiku poolt, kes juba omab vähemalt ühe ettevõtja üle valitsevat mõju, valitseva mõju omandamine teise ettevõtja või tema osa või mitme ettevõtja või nende osade üle;\n5) mitme füüsilise isiku poolt, kes juba omavad vähemalt ühe ettevõtja üle valitsevat mõju, ühiselt valitseva mõju omandamine teise ettevõtja või tema osa või mitme ettevõtja või nende osade üle.\n(2) Ettevõtja üle valitseva mõju omandamine käesoleva paragrahvi lõike 1 punktide 3 ja 5 tähenduses on ka neis nimetatud isikute poolt ühiselt uue ettevõtja moodustamine, kelle äritegevus on kavandatud pikaajaliseks ja iseseisvaks.\n(3) Ettevõtja osa käesoleva peatüki tähenduses on ettevõtja vara või ettevõtja organisatsiooniliselt iseseisev osa, sealhulgas ettevõte või käitis, mis on äritegevuse aluseks ja millele on selgelt omistatav käive kaubaturul.\n(4) Koondumiseks ei loeta:\n1) käesoleva paragrahvi lõikes 1 nimetatud tehinguid, kui need toimuvad kontsernisiseste ümberkorraldustena;\n2) kui krediidiasutus, finantseerimisasutus või kindlustusandja kas enda või teiste isikute nimel omandab edasimüümise eesmärgil ajutiselt teise ettevõtja väärtpabereid tingimusel, et ta ei kasuta nende väärtpaberitega seotud hääleõigust väärtpaberid käibele lasknud ettevõtja käitumise mõjutamiseks, vaid ainult nimetatud väärtpaberite või ettevõtja või tema osamüügi ettevalmistamisel, ning nende väärtpaberite edasimüümine toimub ühe aasta jooksul väärtpaberite omandamisest arvates;\n3) kui valitseva mõju omandab vastavate volitustega isik kooskõlas seadustega, mis käsitlevad likvideerimist, sundlõpetamist, maksejõuetust või muid samalaadseid menetlusi;\n4) kui käesoleva paragrahvi lõike 1 punktides 2 ja 3 osutatud toiminguid teevad ettevõtjad, kelle äritegevuse ainus eesmärk on omandada ja vallata osalusi teistes ettevõtjates investeeringu väärtuse säilitamise eesmärgil, tingimusel, et osalusega seotud hääleõigust kasutatakse eelkõige küsimustes, mis puudutavad selliste ettevõtjate juht- ja järelevalveorganite liikmete määramist, mitte selleks, et otseselt või kaudselt mõjutada nende ettevõtjate käitumist, mis mõjutab konkurentsi.\n(5) Kui käesoleva paragrahvi lõike 4 punktis 2 nimetatud müük ei ole ühe aasta jooksul mõistlikkuse põhimõttest lähtuvalt võimalik, võib Konkurentsiamet oma otsusega pikendada seda tähtaega isiku põhjendatud taotluse alusel."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "5. peatükk - KOONDUMISE KONTROLLIMINE",
+      "section": "20",
+      "title": "§ 20. Koondumise osalised",
+      "content": "Koondumise osaline on:\n1) ühinev ettevõtja või ettevõtja, kelle osa ühendatakse;\n2) füüsiline isik või ettevõtja, kes omandab valitseva mõju ühe ettevõtja või tema osa või mitme ettevõtja või nende osade üle;\n3) füüsilised isikud või ettevõtjad, kes ühiselt omandavad valitseva mõju ühe ettevõtja või tema osa või mitme ettevõtja või nende osade üle;\n4) ettevõtja, kelle üle või kelle osa üle omandatakse valitsev mõju."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "5. peatükk - KOONDUMISE KONTROLLIMINE",
+      "section": "21",
+      "title": "§ 21. Koondumise kontrollimise kohaldamine",
+      "content": "(1) Konkurentsiamet kontrollib koondumist, kui koondumise osaliste eelnenud majandusaasta käibed Eestis kokku ületavad 6 000 000 eurot ja vähemalt kahe koondumise osalise käibed Eestis ületavad kummalgi 2 000 000 eurot.\n(2) Konkurentsiamet ei kontrolli koondumist, kui koondumine kuulub kontrollimisele vastavalt EL Nõukogu määrusele 139/2004/EÜ kontrolli kehtestamise kohta ettevõtjate koondumiste üle (ELT L 24, 29.01.2004, lk 1–22), välja arvatud juhul, kui Euroopa Komisjon suunab koondumise vastavalt nimetatud määruse artiklile 9 menetlemiseks Konkurentsiametile."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "5. peatükk - KOONDUMISE KONTROLLIMINE",
+      "section": "22",
+      "title": "§ 22. Koondumisele hinnangu andmine",
+      "content": "(1) Koondumisele hinnangu andmisel lähtutakse vajadusest säilitada ja arendada konkurentsi, võttes seejuures arvesse kaubaturgude struktuuri ning tegelikku ja potentsiaalset konkurentsi kaubaturul, sealhulgas:\n1) koondumise osaliste turupositsiooni, nende majanduslikku ja finantsjõudu ning konkurentide juurdepääsu kaubaturule;\n2) juriidilisi või muid kaubaturule sisenemise tõkkeid;\n3) kaupade nõudlust ja pakkumist;\n4) ostjate, müüjate ja tarbijate huvisid.\n(2) Kui käesoleva seaduse § 19 lõike 1 punktides 1, 3 ja 5 ning lõikes 2 nimetatud koondumise eesmärgiks või tagajärjeks on ettevõtjate käitumise kooskõlastamine, mis mõjutab või võib mõjutada konkurentsi, hinnatakse sellise käitumise vastavust ka § 4 lõikes 1 ja § 6 lõikes 1 sätestatud tingimustele. Hindamisel võetakse eelkõige arvesse:\n1) kas kaks või enam ühise ettevõtja moodustanud ettevõtjat jätkavad olulisel määral tegevust ühise ettevõtjaga samal kaubaturul või sellele kaubaturule eelneval või järgneval või muul sellega seotud kaubaturul;\n2) kas käitumise kooskõlastamine, mis on ühise ettevõtja moodustamise otsene tagajärg, annab ühise ettevõtja moodustanud ettevõtjatele võimaluse kõrvaldada konkurents kaubaturul või selle olulisel osal.\n(3) Konkurentsiamet keelab koondumise, kui see oluliselt kahjustab konkurentsi kaubaturul, eelkõige turgu valitseva seisundi tekkimise või tugevnemise kaudu.\n(4) Konkurentsiamet keelab käesoleva paragrahvi lõikes 2 nimetatud koondumise lõike 3 alusel või kui koondumine ei vasta käesoleva seaduse § 6 lõikes 1 sätestatud tingimustele."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "5. peatükk - KOONDUMISE KONTROLLIMINE",
+      "section": "23",
+      "title": "§ 23. Koondumise osaliste käive",
+      "content": "(1) Koondumise osalise käive on koondumisele eelnenud majandusaastal koondumise osalise poolt müüdud kaupade müügitulu, mis on arvutatud vastavalt käesoleva seaduse § 24 lõike 8 alusel kehtestatud käibe arvutamise juhendile.\n(2) Koondumise osalise käive Eestis saadakse kaupade müügist Eesti territooriumil asuvale ostjale.\n(3) Krediidi- ja finantseerimisasutuste käibeks loetakse järgmiste tulude summa, millest on maha arvatud käibemaks ja tulumaks:\n1) intressitulu;\n2) tulu finantsinvesteeringutelt;\n3) teenustasutulu;\n4) tulu finantstehingutelt;\n5) muud põhitegevusega seotud tulud.\n(4) Krediidi- ja finantseerimisasutuse käive Eestis hõlmab sissetulekuid, mis on teenitud Eestis asutatud krediidi- ja finantseerimisasutuse ning välisriigi krediidi- ja finantseerimisasutuse Eesti filiaali poolt.\n(5) Kindlustusandja käibeks loetakse tema majandusaasta brutopreemiad, mis sisaldavad nii kindlustusandja enda kui ka tema nimel sõlmitud kindlustuslepingute alusel saadud ja saadavaid kindlustuspreemiaid, sealhulgas edasikindlustuspreemiaid, ning millest on maha arvatud maksud ja muud lõivud ja maksed, mida võetakse üksikute kindlustuspreemiate või kõigi kindlustuspreemiate kogumahu pealt."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "5. peatükk - KOONDUMISE KONTROLLIMINE",
+      "section": "24",
+      "title": "§ 24. Käibe arvutamine",
+      "content": "(1) Käesoleva seaduse § 21 lõikes 1 nimetatud koondumise osalise käibe arvutamisel liidetakse kokku järgmiste ettevõtjate käive:\n1) koondumise osaline;\n2) ettevõtja või ettevõtjad, kelle üle koondumise osaline omab valitsevat mõju;\n3) ettevõtja või ettevõtjad, kes omab või kes omavad koondumise osalise üle valitsevat mõju;\n4) ettevõtja või ettevõtjad, kelle üle käesoleva lõike punktis 3 nimetatud ettevõtja omab valitsevat mõju;\n5) ettevõtja või ettevõtjad, kelle üle käesoleva lõike punktides 1–4 nimetatud ettevõtjatest kaks või enam ühiselt omavad valitsevat mõju.\n(2) Kui ettevõtja üle omandatakse valitsev mõju käesoleva seaduse § 19 lõike 1 punktides 2–5 sätestatud viisil, võetakse tema käibe arvutamisel arvesse ainult selle ettevõtja ja tema valitseva mõju all olevate ettevõtjate käibed.\n(3) Kui ettevõtja osa üle omandatakse valitsev mõju käesoleva seaduse § 19 lõike 1 punktides 2–5 sätestatud viisil, võetakse tema käibe arvutamisel arvesse ainult ettevõtja selle osa käive, mille suhtes tehing tehti.\n(4) Kui ettevõtja üle omandatakse valitsev mõju käesoleva seaduse § 19 lõikes 2 sätestatud viisil, võetakse käibe arvutamisel arvesse ühiselt uut ettevõtjat moodustavate ettevõtjate käibed.\n(5) Koondumise osalise käive ei sisalda kaupade müüki ettevõtjate vahel, kes kuuluvad ühte kontserni.\n(6) Kui koondumine kujutab endast ühe või mitme ettevõtja osade üle valitseva mõju omandamist samade füüsiliste isikute või ettevõtjate poolt kahe või enama tehingu teel kaheaastase ajavahemiku jooksul, loetakse need tehingud üheks ja samaks koondumiseks, mille toimumise ajaks loetakse viimase tehingu toimumise kuupäev. Sellise koondumise korral võetakse nende osade, mille üle valitsev mõju omandatakse, käibe arvutamisel arvesse kõigi nende osade käive, mis olid eelneva kahe aasta jooksul vastavate tehingute esemeks, kuid vastavate osade käivet ei võeta samaaegselt arvesse valitsevat mõju omandavate füüsiliste isikute või ettevõtjate käibe arvutamisel.\n(7) Kui eelneva kahe aasta jooksul on üks ja sama ettevõtja või samasse kontserni kuuluv ettevõtja omandanud valitseva mõju ettevõtjate või ettevõtja osade üle, kes tegutsevad Eestis ühes ja samas majandusharus, peab selle ettevõtja käive, kelle üle omandatakse valitsev mõju, sisaldama ka nende ettevõtjate käivet, kelle üle on valitsev mõju omandatud koondumisele eelneva kahe aasta jooksul.\n(8) Käibe arvutamise juhendi kehtestab valdkonna eest vastutav minister määrusega. Määruses sätestatakse käibe arvutamise kord, kusjuures eri majandusharudes tegutsevate koondumise osaliste käibe arvutamisel võib ette näha erinevaid metoodikaid."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "5. peatükk - KOONDUMISE KONTROLLIMINE",
+      "section": "25",
+      "title": "§ 25. Koondumisest teatamine",
+      "content": "(1) Kontrollimisele kuuluvast koondumisest teatatakse Konkurentsiametile enne koondumise jõustumist, arvestades käesoleva seaduse §-des 26 ja 27 sätestatud tähtaegu, ning pärast:\n1) ühinemislepingu sõlmimist või ettevõtjate osade ühendamiseks tehingu või muu toimingu tegemist;\n2) valitseva mõju omandamiseks tehingu või muu toimingu tegemist;\n3) ühise valitseva mõju omandamiseks tehingu või muu toimingu tegemist;\n4) väärtpaberite avaliku pakkumise väljakuulutamist.\n(2) Kavandatavast käesoleva seaduse § 21 lõike 1 kohaselt kontrollimisele kuuluvast koondumisest võib Konkurentsiametile teatada enne käesoleva paragrahvi lõikes 1 ühinemiseks või valitseva mõju omandamiseks tehingu või muu toimingu tegemist või avaliku pakkumise väljakuulutamist tingimusel, et koondumise osalised tõendavad oma tehingu või muu toimingu tegemise kavatsust või avaliku pakkumise korral on koondumise osalised teatanud avalikult oma kavatsusest korraldada selline pakkumine.\n(3) Koondumisest teatab või teatavad käesoleva seaduse § 19 lõike 1 alusel:\n1) ettevõtjad ühiselt, kui eelnevalt iseseisvalt tegutsenud ettevõtjad ühinevad äriseadustiku tähenduses või ettevõtjate osad ühendatakse;\n2) ettevõtja, kes omandab valitseva mõju ühe ettevõtja või tema osa või mitme ettevõtja või nende osade üle;\n3) ettevõtjad ühiselt, kui nende poolt omandatakse ühiselt valitsev mõju ühe ettevõtja või tema osa või mitme ettevõtja või nende osade üle;\n4) füüsiline isik, kes omandab valitseva mõju ühe ettevõtja või tema osa või mitme ettevõtja või nende osade üle, kui ta eelnevalt juba omab vähemalt ühe ettevõtja üle valitsevat mõju;\n5) füüsilised isikud ühiselt, kes omandavad ühise valitseva mõju ühe ettevõtja või tema osa või mitme ettevõtja või nende osade üle, kui nad eelnevalt juba omavad vähemalt ühe ettevõtja üle valitsevat mõju.\n(4) Krediidiasutused, finantseerimisasutused ja kindlustusandjad teatavad koondumisest pärast vastava ala riikliku järelevalve asutuselt loa saamist.\n(5) Enne koondumisest teatamist tuleb tasuda riigilõiv koondumise teate menetlemise eest riigilõivuseaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "5. peatükk - KOONDUMISE KONTROLLIMINE",
+      "section": "26",
+      "title": "§ 26. Koondumise teade",
+      "content": "(1) Koondumise teade esitatakse Konkurentsiametile kirjalikult ja selles peavad sisalduma:\n1) andmed iga koondumise osalise kohta, sealhulgas ärinimi, registrikood, kontaktandmed, tegevusala;\n2) koondumise kirjeldus;\n3) andmed iga koondumise osalise eelmise majandusaasta käibe kohta;\n4) andmed koondumise osalistega samasse kontserni kuuluvate ja käesoleva seaduse § 24 lõike 1 punktides 1–5 nimetatud ettevõtjate valitseva mõju ja osaluse kohta teistes ettevõtjates;\n5) andmed kaubaturgude kohta, sealhulgas andmed koondumise osaliste turuosade, peamiste konkurentide, ostjate ja nende turuosade ning kaubaturule sisenemise või sealt lahkumise tõkete kohta;\n6) teate esitaja kirjeldus koondumise mõjust kaubaturule;\n7) andmed ettevõtjate ühenduste kohta, kuhu kuulub vähemalt üks koondumise osaline;\n8) koondumisega otseselt seotud ja selle jõustamiseks vajalikud konkurentsipiirangud, kui neid esineb, ja põhjendus nende vajalikkuse kohta;\n9) andmed muude koondumisega seotud asjaolude kohta, kui neid esineb, sealhulgas ettepanekud koondumisega otseselt seotud kohustuste osas;\n10) nimekiri teiste riikide konkurentsiasutuste kohta, kellele on koondumisest teatatud või kavatsetakse teatada.\n(2) Koondumise teate võib Konkurentsiametile esitada lühendatud kujul, jättes käesoleva paragrahvi lõikes 1 toodud andmetest täpsustamata punktis 5 nõutud lisateabe kaubaturgude kohta, kui on täidetud üks järgmistest tingimustest:\n1) koondumise osaline ja temaga samasse kontserni kuuluv ettevõtja ei tegutse ühel ja samal kaubaturul teise koondumise osalise või temaga samasse kontserni kuuluva ettevõtjaga (puudub kaubaturgude horisontaalne kattuvus) või kaubaturul, mis eelneb või järgneb kaubaturule, kus tegutseb teine koondumise osaline või temaga samasse kontserni kuuluv ettevõtja (puudub kaubaturgude vertikaalne seotus);\n2) vähemalt kaks koondumise osalist või nendega samasse kontserni kuuluvat ettevõtjat tegutsevad ühel ja samal kaubaturul ning koondumise järel ei ole nende ühine turuosa suurem kui 15 protsenti või üks või mitu koondumise osalist või nendega samasse kontserni kuuluvat ettevõtjat tegutsevad kaubaturul, mis eelneb või järgneb kaubaturule, kus tegutseb mõni teine koondumise osaline või temaga samasse kontserni kuuluv ettevõtja, ning kui mõne koondumise osalise individuaalne turuosa või koondumise osaliste ühine turuosa ei ületa 25 protsenti;\n3) koondumise osalised moodustavad ühiselt uue ettevõtja käesoleva seaduse § 19 lõike 2 tähenduses, kes ei tegutse ega kavatse tegutseda Eestis;\n4) koondumise osaline omandab valitseva mõju ettevõtja üle, kelle üle tal on juba koos teise ettevõtjaga ühine valitsev mõju.\n(3) Koondumise teatele lisatakse järgmised dokumendid või nende kinnitatud ärakirjad:\n1) registriväljavõtted teiste riikide registritesse kantud koondumise osaliste kohta;\n2) dokumendid, mille alusel koondumine jõustatakse;\n3) koondumise osaliste koondumisele eelnenud majandusaasta aruanded;\n4) teate esitaja volitusi tõendav dokument;\n5) dokument riigilõivu tasumise kohta;\n6) analüüsid, aruanded, uuringud, ülevaated ja muud dokumendid, et hinnata või analüüsida koondumist seoses turuosade, konkurentsitingimuste, müügi võimaliku kasvu või laienemisega muudele turgudele või üldiste turutingimustega;\n7) koondumise teatele lisatud dokumentide loetelu.\n(4) Teatel peavad olema selle esitamise kuupäev ja esitaja allkiri.\n(5) Koondumise teate esitamise juhendi kehtestab valdkonna eest vastutav minister määrusega.\n(6) Kui teade ei vasta käesoleva paragrahvi lõigetes 1–4 sätestatud nõuetele või lõikes 5 nimetatud juhendile, määrab Konkurentsiamet tähtaja koondumise teate puuduste kõrvaldamiseks.\n(7) Kui Konkurentsiamet on määranud tähtaja koondumise teates puuduste kõrvaldamiseks, hakkab käesoleva seaduse § 27 lõikes 1 sätestatud tähtaeg kulgema alates puuduste kõrvaldamisest.\n(8) Kui koondumise osalised ei kõrvalda puudusi määratud tähtajaks, loetakse teade mitteesitatuks.\n(9) Konkurentsiamet võib vabastada koondumise osalise mõnede käesoleva paragrahvi lõigetes 1 ja 3 nimetatud andmete ja dokumentide esitamise kohustusest, kui need ei ole vajalikud antud koondumise menetlemisel.\n(10) Koondumise teates sisalduva teabe juurde, mida koondumisest teataja peab ärisaladuseks, teeb ta vastava märke. Ärisaladuseks ei saa lugeda koondumist ennast ning käesoleva paragrahvi lõike 1 punktides 1 ja 4 sätestatud teavet."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "5. peatükk - KOONDUMISE KONTROLLIMINE",
+      "section": "27",
+      "title": "§ 27. Koondumise menetlemine",
+      "content": "(1) Koondumise teate esitamisest arvates 30 kalendripäeva jooksul Konkurentsiamet:\n1) teeb koondumiseks loa andmise otsuse, kui kontrollitava koondumise korral ei esine käesoleva seaduse § 22 lõigetes 3 ja 4 nimetatud asjaolusid;\n2) teeb täiendava menetluse alustamise otsuse, et selgitada käesoleva seaduse § 22 lõigetes 3 ja 4 nimetatud asjaolude olemasolu või puudumine kontrollitava koondumise korral;\n3) teeb otsuse, kui tegemist ei ole koondumisega käesoleva seaduse § 19 lõike 1 või 2 tähenduses või koondumist ei kontrollita § 21 kohaselt;\n4) lõpetab menetluse otsusega, kui koondumise osalised loobuvad koondumisest.\n(2) Täiendava menetluse käigus teeb Konkurentsiamet nelja kuu jooksul täiendava menetluse algusest arvates ühe järgmistest otsustest:\n1) annab koondumiseks loa, kui kontrollitava koondumise korral ei esine käesoleva seaduse § 22 lõigetes 3 ja 4 nimetatud asjaolusid;\n2) keelab koondumise, kui kontrollitava koondumise korral esinevad käesoleva seaduse § 22 lõigetes 3 ja 4 nimetatud asjaolud;\n3) lõpetab menetluse, kui koondumise osalised loobuvad koondumisest.\n(3) Konkurentsi kahjustamise vältimiseks võib Konkurentsiamet anda koondumiseks loa tingimusel, et koondumise osalised täidavad endale võetud kohustused.\n(4) Koondumise osalise põhjendatud kirjaliku taotluse alusel võib Konkurentsiamet muuta koondumiseks loa andmise otsuses sisalduvaid käesoleva paragrahvi lõikes 3 nimetatud kohustuste täitmise tingimusi või tunnistada need kehtetuks, kui olukord koondumisega mõjutatud kaubaturul on oluliselt muutunud või kui esineb muu mõjuv põhjus.\n(5) Koondumine on lubatud, kui Konkurentsiamet ei ole käesoleva paragrahvi lõigetes 1 ja 2 sätestatud tähtaegade jooksul teinud ühte nendes lõigetes sätestatud otsustest.\n(6) Koondumist, mis kuulub kontrollimisele vastavalt käesoleva seaduse §-le 21, ei või jõustada enne, kui on tehtud koondumist lubav otsus või kui koondumine on lubatud vastavalt käesoleva paragrahvi lõikele 5.\n(6^1) Koondumise osalised peavad koondumise jõustama kuue kuu jooksul koondumiseks loa andmise otsuse kehtima hakkamisest arvates. Konkurentsiamet võib koondumise osalise põhjendatud taotluse alusel seda tähtaega ühe korra pikendada kuni ühe aastani.\n(6^2) Koondumiseks loa andmise otsusega loetakse lubatuks ka koondumisega otseselt seotud ja selle jõustamiseks vajalikud konkurentsipiirangud.\n(7) Käesoleva paragrahvi lõikes 6 sätestatu ei keela läbi viimast väärtpaberite avalikku pakkumist või seeriatena tehingute tegemist väärtpaberitega, sealhulgas selliste väärtpaberitega, mis on vahetatavad teisteks väärtpaberiturul kauplemiseks lubatud väärtpaberiteks, mille kaudu omandatakse valitsev mõju käesoleva seaduse § 19 tähenduses erinevatelt müüjatelt, tingimusel, et:\n1) Konkurentsiametile teatatakse koondumisest vastavalt käesoleva seaduse §-le 25 viivitamata;\n2) väärtpaberite omandaja ei kasuta omandatud väärtpaberitega kaasnevat hääleõigust või teeb seda üksnes eesmärgiga säilitada investeeringute väärtus.\n(8) Koondumise osaliste põhjendatud taotluse alusel võib Konkurentsiamet teha erandi käesoleva paragrahvi lõigetes 6 ja 7 kehtestatud nõuetest ning anda loa toimingute tegemiseks. Taotluse läbivaatamisel võtab Konkurentsiamet muu hulgas arvesse taotletud toimingute tegemise mõju ühele või mitmele koondumise osalisele või kolmandale osapoolele ning koondumisest konkurentsile tekkivat ohtu. Loa andmisel võib Konkurentsiamet koondumise osalistele panna toimingute tegemisega seotud kohustusi.\n(9) Käesolev paragrahv ei mõjuta väärtpaberitehingute kehtivust, kaasa arvatud selliste väärtpaberitega, mis on vahetatavad teisteks väärtpaberiturul kauplemiseks lubatud väärtpaberiteks, tehtavaid tehinguid, välja arvatud juhul, kui ostja ja müüja teadsid või oleksid pidanud teadma, et tehing tehti käesoleva paragrahvi lõikes 6 sätestatut rikkudes.\n(10) Kui käesoleva paragrahvi lõikes 1 või 2 sätestatud tähtaja jooksul selgub, et koondumise teates on puudused, teavitab Konkurentsiamet sellest koondumise teate esitajat kirjalikult. Lõikes 1 või 2 sätestatud tähtaja kulgemine peatub Konkurentsiameti kirja saatmise kuupäevale järgnevast päevast kuni puuduste kõrvaldamiseni.\n(11) Kui koondumise osalised ei esita Konkurentsiameti määratud tähtaja jooksul vajalikku või täiendavat teavet või materjale, peatub käesoleva paragrahvi lõikes 1 või 2 sätestatud tähtaja kulgemine Konkurentsiameti kirja saatmise kuupäevale järgnevast päevast kuni teabe või materjalide esitamiseni.\n(12) Koondumise teate saamise ning käesoleva paragrahvi lõigete 1 ja 2 alusel tehtud otsuste kohta avaldab Konkurentsiamet teadaande väljaandes Ametlikud Teadaanded. Avaldatav teadaanne sisaldab koondumise osaliste nimesid ja ärinimesid, elu- või asukohariike ja koondumise viisi viitega käesoleva seaduse § 19 lõike 1 vastavale punktile.\n(13) Asjast huvitatud isikutel on õigus seitsme kalendripäevajooksul käesoleva paragrahvi lõikes 12 nimetatud koondumise teate saamise kohta teadaande avaldamisest arvates esitada Konkurentsiametile oma arvamus ja vastuväited."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "5. peatükk - KOONDUMISE KONTROLLIMINE",
+      "section": "28",
+      "title": "§ 28. Kohustuse võtmine koondumise osalise poolt",
+      "content": "(1) Kui Konkurentsiamet leiab, et menetletava koondumise korral esinevad käesoleva seaduse § 22 lõigetes 3 ja 4 nimetatud asjaolud, teatatakse sellest viivitamata koondumise osalistele kirjalikult, kuid mitte hiljem kui üks kuu enne täiendava menetluse tähtaja lõppemist. Teates märgitakse tähtaeg vastuväidete esitamiseks või ettepaneku tegemiseks § 27 lõikes 3 sätestatud kohustuste võtmiseks.\n(2) Koondumise osalised peavad piisava põhjalikkusega kirjeldama endale võetavaid kohustusi, et Konkurentsiametil oleks võimalik hinnata võetavate kohustuste sobivust konkurentsi kahjustamise vältimiseks kaubaturul.\n(3) Kui võetavad kohustused Konkurentsiameti hinnangul ei ole sobivad konkurentsi kahjustamise vältimiseks kaubaturul ja koondumise osalised ei ole nõus võetavaid kohustusi muutma või koondumise osalised ei ole käesoleva paragrahvi lõikes 1 sätestatud tähtaja jooksul teinud ettepanekut kohustuste võtmise kohta, keelab Konkurentsiamet koondumise, lähtudes käesoleva seaduse § 22 lõikest 3.\n(3^1) Kui käesoleva paragrahvi lõike 3 alusel võetavad kohustused vajavad lisaanalüüsi või kui koondumise osalised on nõus võetavaid kohustusi muutma või täiendama, peatub käesoleva seaduse § 27 lõikes 2 sätestatud tähtaja kulgemine. Menetlus peatatakse alates kuupäevast, mis järgneb Konkurentsiameti vastavasisulise teate saatmise kuupäevale, ning § 27 lõikes 2 sätestatud tähtaja kulgemine jätkub kohustuse võtmise ettepaneku kättesaamise päevast.\n(3^2) Käesoleva paragrahvi lõikes 3^1 sätestatud alusel võib menetluse peatada ühe korra kuni kaheks kuuks\n(4) Koondumise osalised on kohustatud teavitama Konkurentsiametit võetud kohustuste täitmisest 10 kalendripäeva jooksul pärast kohustuse täitmist või pärast koondumiseks loa andmise otsuses viidatud kohustuse täitmise tähtaja saabumist.\n(5)"
+    },
+    {
+      "provision_ref": "para28^1",
+      "chapter": "5. peatükk - KOONDUMISE KONTROLLIMINE",
+      "section": "28^1",
+      "title": "§ 28^1. Suuline ärakuulamine",
+      "content": "Koondumise osalise taotlusel või Konkurentsiameti soovil viiakse koondumise osalise suuliseks ärakuulamiseks läbi istung Konkurentsiameti määratud ajal ja kohas. Istungist teatatakse ärakuulamisele kutsutavale isikule vähemalt kümme kalendripäeva enne ärakuulamist. Istungile kutsutud isiku kirjaliku põhjendatud taotluse alusel võib Konkurentsiamet ettenähtud tähtaega või kohta muuta. Konkurentsiameti ja ärakuulamisele kutsutud isiku kokkuleppel võib istungi läbiviimisest teatada suuliselt."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "5. peatükk - KOONDUMISE KONTROLLIMINE",
+      "section": "29",
+      "title": "§ 29. Koondumise kehtetus",
+      "content": "(1) Konkurentsiamet võib teha otsuse koondumiseks loa andmise otsuse kehtetuks tunnistamise kohta, kui:\n1) koondumise osalised on esitanud valeandmeid või eksitavat või mittetäielikku teavet, mis oli otsuse tegemisel määrav;\n2) koondumisel on rikutud käesolevas seaduses või koondumiseks loa andmise otsuses määratud tähtaegu, muid tingimusi või kohustusi.\n(2) Koondumise loa kehtetuks tunnistamine ei võta koondumise osalistelt õigust taotleda koondumiseks uut luba."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "6. peatükk - RIIGIABI",
+      "section": "30",
+      "title": "§ 30. Riigiabi",
+      "content": "(1) Riigiabiks loetakse Euroopa Liidu toimimise lepingu artikli 107 lõikes 1 sätestatud abi.\n(2) Riigiabi antakse turutõrke kõrvaldamiseks kindlaks määratud perioodil ja ulatuses, mis on vajalik Euroopa Liidu toimimise lepingu artikli 107 lõigetes 2 ja 3 nimetatud eesmärgi saavutamiseks. Riigiabi peab olema ergutava mõjuga.\n(3) Käesolevas peatükis sätestatut ei kohaldata transpordisektorile antava abi suhtes, põllumajandustoodete tootmise, töötlemise ja turustamise ning metsandusega seotud abi suhtes ega kalandustoodete tootmise, töötlemise ja turustamisega seotud abi suhtes, arvestades järgmisi erisusi:\n1) transpordisektorile antava abi suhtes kohaldatakse käesoleva seaduse §-s 42, § 49 lõikes 5 ja §-s 49^2 sätestatut;\n2) maaelu ja põllumajandusturu korraldamise seadusega reguleeritud põllumajandustoodete tootmise, töötlemise ja turustamisega ning metsandusega seotud abi suhtes kohaldatakse käesoleva seaduse § 49 lõikes 5 ja §-s 49^2 sätestatut, ebaseadusliku ja väärkasutatud põllumajandusliku riigiabi ning maaelu ja põllumajandusturu korraldamise seaduse alusel antava muu riigiabi suhtes kohaldatakse ka käesoleva seaduse §-s 42 sätestatut;\n3) Euroopa Liidu ühise põllumajanduspoliitika rakendamise seadusega reguleeritud põllumajandustoodete tootmise, töötlemise ja turustamisega ning metsandusega seotud abi suhtes kohaldatakse käesoleva seaduse § 49 lõikes 5 ning §-des 42 ja 49^2 sätestatut;\n4) kalandusturu korraldamise seadusega reguleeritud kalandustoodete tootmise, töötlemise ja turustamisega seotud abi suhtes kohaldatakse käesoleva seaduse § 49 lõikes 5 ja §-s 49^2 sätestatut ning ebaseadusliku ja väärkasutatud kalamajandusliku riigiabi suhtes kohaldatakse ka §-s 42 sätestatut."
+    },
+    {
+      "provision_ref": "para30^1",
+      "chapter": "6. peatükk - RIIGIABI",
+      "section": "30^1",
+      "title": "§ 30^1. Riigiabi andja",
+      "content": "(1) Riigiabi andja on riik, kohaliku omavalitsuse üksus või muu isik, sealhulgas sihtasutus, mittetulundusühing, avalik-õiguslik juriidiline isik või käesoleva seaduse § 31 lõikes 3^1 nimetatud avalik ettevõtja, kes otseselt või kaudselt kasutab riigi või kohaliku omavalitsuse üksuse vahendeid riigiabi andmiseks.\n(1^1) Kui riigiabi andjat ei ole võimalik üheselt kindlaks teha või abi andvad institutsioonid ei jõua kokkuleppele riigiabi andmisega seotud kohustuste täitmises, määrab riigiabi andja Vabariigi Valitsus oma korraldusega, lähtudes abi eesmärgist, abi andmise valdkonnast või muudest asjaoludest, mis mõjutavad abi andmisega seotud kohustuste täitmist.\n(2) Riigiabi andja on kohustatud tagama riigiabi andmise läbipaistvuse ja efektiivsuse ning pärast riigiabi andmist kontrollima selle kasutamise sihipärasust.\n(2^1) Riigiabi andjal ei ole õigust alustada riigiabi andmist enne, kui Euroopa Komisjon on teinud või kui loetakse, et ta on teinud käesoleva seaduse §-s 34^1 nimetatud riigiabi teatise kohta lubava otsuse. Nimetatud keeld ei kehti, kui antakse grupierandiga hõlmatud riigiabi vastavalt §-s 34^2 sätestatule.\n(2^2) Kui riigiabi andja on esitanud Euroopa Komisjonile teatise õiguskindluse saamiseks, ei tohi ta alustada abi andmist enne, kui Euroopa Komisjon on teinud või kui loetakse, et ta on teinud teatise kohta lubava otsuse vastavalt käesoleva seaduse § 30^1 lõikele 2^1 või otsuse, et tegemist ei ole riigiabiga. Teatisele kohaldatakse käesoleva seaduse §-s 34^1 sätestatut.\n(3) Rahandusministeeriumil on õigus riigiabi andjalt nõuda teavet käesoleva paragrahvi lõikes 2 nimetatud kohustuse täitmise kohta."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "6. peatükk - RIIGIABI",
+      "section": "31",
+      "title": "§ 31. Avalik ettevõtja ja üldist majandushuvi pakkuvat teenust osutav ettevõtja",
+      "content": "(1)\n(2)\n(3)\n(3^1) Avalik ettevõtja on ettevõtja, kelle üle riigil, kohaliku omavalitsuse üksusel või avalik-õiguslikul juriidilisel isikul on otseselt või kaudselt valitsev mõju omandiõiguse või finantsosaluse kaudu, isiku suhtes kehtivate õigusaktide alusel või muul viisil.\n(3^2) Üldist majandushuvi pakkuvat teenust osutav ettevõtja on ettevõtja, kellele riik või kohaliku omavalitsuse üksus on teinud ülesandeks üldist majandushuvi pakkuva teenuse osutamise, mida turg ei ole võimeline pakkuma ning mille pakkumist peab riik või kohalik omavalitsus vajalikuks. Üldist majandushuvi pakkuv teenus määratletakse ning selle osutamise kohustus kehtestatakse õigusakti või lepinguga.\n(4)\n(5)\n(6)"
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "6. peatükk - RIIGIABI",
+      "section": "33",
+      "title": "§ 33. Vähese tähtsusega abi",
+      "content": "(1) Vähese tähtsusega abiks loetakse komisjoni määruse (EL) nr 1407/2013, milles käsitletakse Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamist vähese tähtsusega abi suhtes (ELT L 352, 24.12.2013, lk 1–8), artiklis 3 ja komisjoni määruse (EL) nr 360/2012 Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamise kohta üldist majandushuvi pakkuvaid teenuseid osutavatele ettevõtjatele antava vähese tähtsusega abi suhtes (ELT L 114, 26.04.2012, lk 8–13) artiklis 2 nimetatud abi.\n(2) Vähese tähtsusega abi andmiseks ei ole vaja käesoleva seaduse §-s 34^1 nimetatud riigiabi teatist Euroopa Komisjonile esitada.\n(3) Vähese tähtsusega abi antakse komisjoni määrustes (EL) nr 1407/2013 ja (EL) nr 360/2012 sätestatud korras.\n(4)\n(4^1) Vähese tähtsusega abi andmise korral on abi andja enne vähese tähtsusega abi andmise otsuse tegemist kohustatud abi saajat teavitama kavandatavast vähese tähtsusega abi andmisest ning komisjoni määruses (EL) nr 1407/2013 või (EL) nr 360/2012 sätestatud üldpõhimõtetest. Kui vähese tähtsusega abi antakse abikava raames, peab abi andja viitama vastavale Euroopa Komisjoni määrusele ja sätestama abikavas muud komisjoni määruses (EL) nr 1407/2013 või (EL) nr 360/2012 sätestatud üldpõhimõtted.\n(4^2)\n(4^3)\n(4^4) Vähese tähtsusega abi andmise korral on abi andja kohustatud abi andmise otsuses, mis annab abi saajale õigusliku aluse abi saada, märkima, et antav abi on vähese tähtsusega abi komisjoni määruse (EL) nr 1407/2013 artikli 3 või (EL) nr 360/2012 artikli 2 tähenduses, välja arvatud maksualase abi puhul, kui abi andmise otsust ei tehta.\n(5) Abi andja on kohustatud jälgima, et uue vähese tähtsusega abi andmisel ei ületataks vähese tähtsusega abi ülemmäära."
+    },
+    {
+      "provision_ref": "para34^1",
+      "chapter": "6. peatükk - RIIGIABI",
+      "section": "34^1",
+      "title": "§ 34^1. Riigiabi teatise esitamine Euroopa Komisjonile",
+      "content": "(1) Riigiabi andja esitab komisjoni määrusele (EÜ) nr 794/2004, millega rakendatakse nõukogu määrust (EL) 2015/1589, millega kehtestatakse üksikasjalikud eeskirjad Euroopa Liidu toimimise lepingu artikli 108 kohaldamiseks (ELT L 140, 30.04.2004, lk 1–134), vastava riigiabi teatise koos kogu vajaliku teabega kirjalikult ja Euroopa Komisjoni ettenähtud veebirakenduse kaudu elektrooniliselt Rahandusministeeriumile läbivaatamiseks.\n(2) Kui riigiabi teatis vastab nõuetele, edastab riigiabi andja selle koos kogu vajaliku teabega Euroopa Komisjoni poolt ettenähtud veebirakenduse kaudu elektrooniliselt Eesti Vabariigi Alalisele Esindusele Euroopa Liidu juures, kes edastab selle Euroopa Komisjonile.\n(3) Rahandusministeeriumil on 10 tööpäeva jooksul riigiabi teatise kättesaamisest arvates õigus küsida riigiabi andjalt lisateavet või teha ettepanek teatist täiendada, kui:\n1) riigiabi teatis ei vasta Rahandusministeeriumi hinnangul nõuetele;\n2) riigiabi andja on jätnud nõutud andmed riigiabi teatises esitamata või\n3) esitatud teabes esineb puudusi.\n(4) Euroopa Komisjoni poolt riigiabi teatise menetlemise käigus nõutud lisateabe esitab riigiabi andja elektrooniliselt Rahandusministeeriumi kaudu Eesti Vabariigi Alalisele Esindusele Euroopa Liidu juures, kes edastab selle Euroopa Komisjonile.\n(5) Kui riigiabi andja otsustab Euroopa Komisjonile esitatud riigiabi teatise tagasi võtta, esitab ta taotluse Rahandusministeeriumile, kes edastab selle Eesti Vabariigi Alalisele Esindusele Euroopa Liidu juures, kes edastab selle Euroopa Komisjonile."
+    },
+    {
+      "provision_ref": "para34^2",
+      "chapter": "6. peatükk - RIIGIABI",
+      "section": "34^2",
+      "title": "§ 34^2. Grupierandiga hõlmatud riigiabi",
+      "content": "(1) Grupierandiga hõlmatud riigiabiks loetakse nõukogu määruse (EL) nr 2015/1588, milles käsitletakse Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamist teatavate horisontaalse riigiabi liikide suhtes (kodifitseeritud tekst) (ELT L 248, 24.09.2015, lk 1–8), artiklis 1 nimetatud abi, mille kohta Euroopa Komisjon on kehtestanud vastava grupierandi määruse.\n(2) Grupierandiga hõlmatud riigiabi andmiseks ei ole vaja käesoleva seaduse §-s 34^1 nimetatud riigiabi teatist Euroopa Komisjonile esitada.\n(2^1) Grupierandiga hõlmatud riigiabi andmise korral on abi andja kohustatud abi andmise otsuses, mis annab abi saajale õigusliku aluse abi saada, märkima, et antav abi on grupierandiga hõlmatud riigiabi Euroopa Komisjoni grupierandi määruse tähenduses, välja arvatud maksualase abi puhul, kui abi andmise otsust ei tehta.\n(2^2) Grupierandiga hõlmatud riigiabi andmise korral on abi andja enne grupierandiga hõlmatud riigiabi andmise otsuse tegemist kohustatud abi saajat teavitama grupierandi määruses sätestatud üldpõhimõtetest, mis kohalduvad abi saajale antava abi suhtes. Kui grupierandiga hõlmatud riigiabi antakse abikava raames, peab abi andja viitama vastavale Euroopa Komisjoni grupierandi määrusele ja määruse asjakohasele artiklile ning sätestama abikavas muud grupierandi määruses sätestatud asjakohased üldpõhimõtted.\n(3) Grupierandiga hõlmatud riigiabi andmise korral esitab riigiabi andja hiljemalt 10 tööpäeva enne kavandatava individuaalse riigiabi andmist või abikava rakendamist Euroopa Komisjoni kehtestatud nõuetele vastava grupierandiga hõlmatud riigiabi andmise kokkuvõtliku teabelehe (edaspidi grupierandi teatis ) kirjalikult ja Euroopa Komisjoni poolt ettenähtud veebirakenduse kaudu elektrooniliselt Rahandusministeeriumile läbivaatamiseks. Koos grupierandi teatisega esitatakse Rahandusministeeriumile individuaalse riigiabi või abikava andmise aluseks olev õigusakt või selle eelnõu ja vajaduse korral abi kirjeldus, mis tõendab kavandatava riigiabi kokkusobivust Euroopa Komisjoni grupierandi määruses sätestatud tingimustega.\n(4)\n(5)\n(6)\n(7) Kui grupierandi teatis vastab nõuetele, edastab riigiabi andja selle Euroopa Komisjoni poolt ettenähtud veebirakenduse kaudu elektrooniliselt Eesti Vabariigi Alalisele Esindusele Euroopa Liidu juures, kes edastab selle Euroopa Komisjonile.\n(7^1) Rahandusministeeriumil on 10 tööpäeva jooksul grupierandi teatise kättesaamisest arvates õigus küsida riigiabi andjalt lisateavet või teha ettepanek grupierandi teatist täiendada, kui:\n1) grupierandi teatis ei vasta Rahandusministeeriumi hinnangul nõuetele;\n2) riigiabi andja on jätnud nõutud andmed grupierandi teatises esitamata või\n3) esitatud teabes esineb puudusi.\n(8) Grupierandi teatis peab olema Euroopa Komisjonile edastatud 20 tööpäeva jooksul individuaalse riigiabi andmisest või abikava rakendamisest arvates.\n(9) Käesoleva paragrahvi lõigetes 2^1, 3 ja 7–8 sätestatut ei kohaldata grupierandiga hõlmatud riigiabile, mis on vastavalt lõikes 1 nimetatud grupierandi määrusele grupierandi teatise esitamise kohustusest vabastatud."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "6. peatükk - RIIGIABI",
+      "section": "35",
+      "title": "§ 35.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "6. peatükk - RIIGIABI",
+      "section": "42",
+      "title": "§ 42. Ebaseadusliku riigiabi ja väärkasutatud riigiabi tagastamine",
+      "content": "(1) Ebaseaduslikuks riigiabiks loetakse nõukogu määruse (EL) nr 2015/1589, millega kehtestatakse üksikasjalikud eeskirjad Euroopa Liidu toimimise lepingu artikli 108 kohaldamiseks (kodifitseeritud tekst) (ELT L 248, 24.09.2015, lk 9–29), artikli 1 punktis f nimetatud abi.\n(2) Riigiabi väärkasutamiseks loetakse nõukogu määruse (EL) nr 2015/1589 artikli 1 punktis g sätestatut.\n(3) Kui Euroopa Komisjon või Euroopa Liidu Kohus on Eesti Vabariigile esitanud otsuse, et ebaseaduslik riigiabi või väärkasutatud riigiabi tuleb riigiabi saajal tagastada, edastatakse nimetatud otsus vastavale ebaseadusliku riigiabi või väärkasutatud riigiabi andjale. Riigiabi andja on kohustatud riigiabi saajalt vastavalt Euroopa Komisjoni või Euroopa Liidu Kohtu otsusele riigiabi tagasi nõudma koos intressidega.\n(4) Kui riigiabi andja on ise tuvastanud, et antud riigiabi on ebaseaduslik või väärkasutatud, peab riigiabi andja selle omal algatusel riigiabi saajalt tagasi nõudma. Riigiabi andja nõuab ebaseadusliku või väärkasutatud riigiabi tagasi koos intressidega.\n(5) Ebaseadusliku riigiabi tagasinõudmise kohustust ei ole riigiabi andjal juhul, kui Euroopa Komisjon on oma vastavasisulise otsusega tunnistanud ebaseaduslikult antud riigiabi tagantjärele siseturuga kokkusobivaks.\n(6) Intressi arvutatakse riigiabi väljamaksmisest või muul viisil riigiabi saajale kättesaadavaks tegemisest arvates kuni riigiabi tegeliku tagastamise kuupäevani vastavalt komisjoni määruse (EÜ) nr 794/2004 artiklile 9, sama määruse artikli 10 alusel liikmesriikidele teatavaks tehtud intressimäärale ja artiklis 11 nimetatud intressi kohaldamise meetodile.\n(7) Käesoleva paragrahvi lõikes 4 nimetatud juhul tuleb riigiabi saajal tagasimaksmisele kuuluv riigiabi koos intressiga tagastada riigiabi andjale viivitamata, kuid mitte hiljem kui neli kuud tagasinõude kättesaamisest arvates. Erandlikel ja põhjendatud juhtudel võib riigiabi andja tagasimakse tähtaega pikendada.\n(8) Riigiabi andjal on õigus ebaseaduslik või väärkasutatud riigiabi tagasi nõuda kümne aasta jooksul. Tähtaeg hakkab kulgema päevast, kui riigiabi saajale anti ebaseaduslikku või väärkasutatud riigiabi kas üksikabina või abikava raames.\n(9) Käesoleva paragrahvi lõikes 5 nimetatud juhul peab riigiabi andja nõudma riigiabi saajalt intressi ebaseaduslikult riigiabilt ajavahemiku eest, mis algab ebaseadusliku riigiabi väljamaksmisest või muul viisil riigiabi saajale kättesaadavaks tegemisest ja lõpeb selle siseturuga kokkusobivaks tunnistamisega.\n(10) Käesoleva paragrahvi lõikes 5 nimetatud juhul tuleb riigiabi saajal tasuda intressi vastavalt lõike 6 alusel arvutatud intressimäärale ja samas lõikes nimetatud kohaldamismeetodile lõikes 7 sätestatud tähtaja jooksul.\n(11) Ebaseadusliku või väärkasutatud riigiabi tagasinõue on täitedokument täitemenetluse seadustiku § 2 lõike 1 punkti 21 tähenduses. Kui tagasimaksmisele kuuluvat riigiabi ei maksta tagasi tähtaja jooksul, annab riigiabi andja ebaseadusliku või väärkasutatud riigiabi tagastamise nõude sundtäitmisele täitemenetluse seadustikus sätestatud korras."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "6. peatükk - RIIGIABI",
+      "section": "43",
+      "title": "§ 43.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "6. peatükk - RIIGIABI",
+      "section": "49",
+      "title": "§ 49. Riigiabi aruandlus",
+      "content": "(1) Rahandusministeerium koostab komisjoni määruse (EÜ) nr 794/2004 III peatükis sätestatud riigiabi aruanded Euroopa Komisjoni ettenähtud veebirakenduses ja esitab need igal aastal hiljemalt 30. juunil veebirakenduse kaudu Eesti Vabariigi Alalisele Esindusele Euroopa Liidu juures, kes edastab need Euroopa Komisjonile. Aruannete koostamiseks kasutab Rahandusministeerium käesoleva seaduse §-s 49^2 nimetatud registri andmeid.\n(2) Kui Euroopa Komisjon on oma otsusega kehtestanud riigiabi andjale kohustuse esitada komisjonile vastava riigiabi kohta täiendav aruanne või kui komisjon nõuab riigiabi andjalt täiendavat aruandlust antud riigiabi kohta, esitab riigiabi andja selle Rahandusministeeriumile iga aasta 30. aprilliks või hiljemalt 10 tööpäeva enne Euroopa Komisjoni otsuses nimetatud tähtpäeva.\n(3)\n(3^1)\n(4) Rahandusministeerium edastab käesoleva paragrahvi lõikes 2 nimetatud aruanded elektrooniliselt Eesti Vabariigi Alalisele Esindusele Euroopa Liidu juures, kes edastab need Euroopa Komisjonile hiljemalt 30. juunil või komisjoni määratud tähtpäevaks.\n(5) Rahandusministeerium esitab Eestis antud riigiabi ja vähese tähtsusega abi kohta ülevaate Vabariigi Valitsusele üks kord aastas. Ülevaates ei kajastata riigiabi, mis on vastavalt käesoleva seaduse § 34^2 lõikes 1 nimetatud grupierandi määrusele grupierandi teatise esitamise kohustusest vabastatud."
+    },
+    {
+      "provision_ref": "para49^1",
+      "chapter": "6. peatükk - RIIGIABI",
+      "section": "49^1",
+      "title": "§ 49^1. Koostöö Euroopa Komisjoniga järelevalve ja kohapealse kontrolli teostamisel",
+      "content": "(1) Rahandusministeerium osutab Euroopa Komisjonile riigiabi järelevalve ja kohapealse kontrolli teostamiseks vajaduse korral abi.\n(2) Nõukogu määruse (EL) nr 2015/1589 artikli 27 lõikes 6 nimetatud juhul esitab valdkonna eest vastutav minister või tema volitatud isik kirjaliku taotluse Tallinna Halduskohtule anda Euroopa Komisjoni volitatud ametnikele ja ekspertidele kontrolli teostamiseks luba. Koos taotlusega esitatakse Tallinna Halduskohtule kirjalik volitus, milles on täpsustatud kontrollimise põhjus ja eesmärk.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud loa andmine otsustatakse halduskohtumenetluse seadustiku haldustoiminguks loa andmise sätete järgi."
+    },
+    {
+      "provision_ref": "para49^2",
+      "chapter": "6. peatükk - RIIGIABI",
+      "section": "49^2",
+      "title": "§ 49^2. Riigiabi ja vähese tähtsusega abi register",
+      "content": "(1) Riigiabi ja vähese tähtsusega abi register (edaspidi register ) on Vabariigi Valitsuse poolt asutatud riiklik register, kus peetakse arvestust riigiabi ja vähese tähtsusega abi andmise ja kasutamise üle.\n(2) Registri asutab, selle põhimääruse kehtestab ja volitatud töötleja määrab valdkonna eest vastutava ministri ettepanekul Vabariigi Valitsus määrusega.\n(2^1) Registri vastutav töötleja on Rahandusministeerium.\n(2^2) Registris töödeldakse järgmisi isikuandmeid: nimi, isikukood ja elukoht (linn, vald).\n(2^3) Registri andmete alusdokumente ja registri andmeid säilitatakse kümme aastat alates üksikabi andmisest või abikava raames viimase abi andmisest. Tähtaja möödumisel andmed kustutatakse.\n(3) Riigiabi ja vähese tähtsusega abi andjad on kohustatud registrile esitama andmed kogu nende poolt antava riigiabi ja vähese tähtsusega abi kohta.\n(3^1) Maaeluministeerium esitab registrile maaelu ja põllumajandusturu korraldamise seaduse § 20 lõikes 1^3 ning kalandusturu korraldamise seaduse § 64 lõikes 4 nimetatud abi andjate kavandatava vähese tähtsusega abi summa nimetatud seadustes sätestatud korras.\n(3^2) Rahandusministeerium esitab registri alusel andmed antud riigiabi kohta Euroopa Komisjoni loodud läbipaistvusmoodulisse (Transparency Award Module) komisjoni nõutud ulatuses.\n(4) Käesoleva paragrahvi lõigetes 3 ja 3^2 sätestatut ei kohaldata käesoleva seaduse § 30 lõike 3 punktides 2 ja 3 nimetatud riigiabi suhtes, välja arvatud juhul, kui seda abi antakse käesoleva seaduse §-des 34^1 ja 34^2 sätestatud juhtudel.\n(5) Käesoleva paragrahvi lõikes 3 sätestatut ei kohaldata grupierandiga hõlmatud riigiabile, mis on vastavalt käesoleva seaduse § 34^2 lõikes 1 nimetatud grupierandi määrusele grupierandi teatise esitamise kohustusest vabastatud."
+    },
+    {
+      "provision_ref": "para53^1",
+      "chapter": "7. peatükk - JÄRELEVALVETASU",
+      "section": "53^1",
+      "title": "§ 53^1. Järelevalvetasu ja selle arvutamine",
+      "content": "(1) Eriseadustega reguleeritud turgudel tegutsevad ettevõtjad tasuvad Konkurentsiametile käesolevas peatükis ettenähtud järelevalvetasu.\n(2) Eriseadusteks käesoleva peatüki tähenduses on elektrituruseadus, kaugkütteseadus, lennundusseadus, maagaasiseadus, postiseadus, sadamaseadus ning ühisveevärgi ja -kanalisatsiooni seadus.\n(3) Järelevalvetasu laekumisest rahastatakse Konkurentsiameti järelevalvetööd eriseadustega reguleeritud turgude üle, et tagada tarbijatele katkematu, turvaline ja kvaliteetne teenus majanduslikult põhjendatud hinna eest, edendades samas nende turgude jätkusuutlikku arengut. Konkurentsiamet tagab oma tegevusalade kulude lahususe.\n(4) Ettevõtjad, kelle teenuste hindasid ja tasusid kooskõlastab Konkurentsiamet, maksavad järelevalvetasu vastavalt iga võrgu- või tegevuspiirkonna või elektritootmise kohta antud haldusaktis märgitud müügitulule vastavalt käesoleva seaduse §-s 53^2 sätestatud järelevalvetasu määrale.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud ettevõtjaks loetakse:\n1) võrguettevõtja ja soojuse tootja kaugkütteseaduse tähenduses, kellel on hinna kooskõlastamise kohustus;\n2) võrguettevõtja elektrituruseaduse tähenduses, kellel on võrgutasu kooskõlastamise kohustus;\n3) võrguettevõtja maagaasiseaduse tähenduses, kellel on võrguteenuse hinna kooskõlastamise kohustus;\n4) vee-ettevõtja ning isik, kelle suhtes kohalduvad ühisveevärgi ja -kanalisatsiooni seaduses vee-ettevõtja kohta sätestatud nõuded ja kohustused, kellel on veeteenuse hinna kooskõlastamise kohustus;\n5) elektrienergia tootja elektrituruseaduse tähenduses, kellel on elektrienergia tootmishinna kooskõlastamise kohustus.\n(6) Kui käesoleva paragrahvi lõike 5 punktis 1 nimetatud ettevõtja on hinna kooskõlastanud hinnavalemi alusel, arvutatakse järelevalvetasu aluseks olev müügitulu vastavalt eelmise kalendriaasta 15. juuli seisuga antud hinna kooskõlastamise haldusaktile.\n(7) Ettevõtjad, kelle tegevuse üle teostab Konkurentsiamet seaduses sätestatud ulatuses järelevalvet ilma teenuste hindasid ja tasusid kooskõlastamata, maksavad järelevalvetasu vastavalt teenuste müügitulule eriseadusega reguleeritud turul.\n(8) Käesoleva paragrahvi lõikes 7 nimetatud ettevõtjaks loetakse:\n1) universaalse postiteenuse osutaja;\n2) lennujaama haldaja;\n3) sadama pidaja;\n4) veeldatud gaasi terminali haldur.\n(9) Kui käesoleva paragrahvi lõigetes 5 ja 8 nimetatud järelevalvetasu maksmise kohustusega (edaspidi rahastamiskohustus ) ettevõtja on teenuse osutamise lõpetanud, on ta rahastamiskohustusest vabastatud.\n(10) Kui käesoleva paragrahvi lõigetes 5 ja 8 nimetatud rahastamiskohustusega ettevõtja on teenuse osutamise andnud üle teisele ettevõtjale, läheb rahastamiskohustus üle sellele ettevõtjale, kes teenuse osutamise üle võttis.\n(11) Konkurentsiametil on õigus nõuda rahastamiskohustusega isikult vajaduse korral täiendavaid andmeid, dokumente ja kirjalikke selgitusi järelevalvetasu arvutamiseks."
+    },
+    {
+      "provision_ref": "para53^2",
+      "chapter": "7. peatükk - JÄRELEVALVETASU",
+      "section": "53^2",
+      "title": "§ 53^2. Järelevalvetasu määr",
+      "content": "(1) Käesoleva seaduse § 53^1 lõikes 5 ja lõike 8 punktis 1 nimetatud rahastamiskohustusega ettevõtja järelevalvetasu määr on 0,2 protsenti talle antud haldusaktis märgitud müügitulust.\n(2) Käesoleva seaduse § 53^1 lõike 8 punktides 2–4 nimetatud rahastamiskohustusega ettevõtja järelevalvetasu määr on 0,02 protsenti vastavalt teenuste müügitulule eriseadusega reguleeritud turul."
+    },
+    {
+      "provision_ref": "para53^3",
+      "chapter": "7. peatükk - JÄRELEVALVETASU",
+      "section": "53^3",
+      "title": "§ 53^3. Järelevalvetasu tasumine ja tasumise tähtaeg",
+      "content": "(1) Järelevalvetasu makstakse üks kord kalendriaastas.\n(2) Käesoleva seaduse § 53^1 lõikes 5 nimetatud ettevõtja puhul on järelevalvetasu arvutamise aluseks eelneva kalendriaasta 15. juuli seisuga antud haldusakt.\n(3) Käesoleva seaduse § 53^1 lõike 8 punktis 1 nimetatud universaalse postiteenuse osutaja puhul võtab Konkurentsiamet järelevalvetasu väljaarvutamisel ja vastavasisulise korralduse andmisel aluseks postiteenuse osutaja poolt postiseaduse alusel üks kord kvartalis esitatava tulu- ja kuluarvestuse deklaratsiooni.\n(4) Käesoleva seaduse § 53^1 lõike 8 punktis 2 nimetatud lennujaama haldaja, punktis 3 nimetatud sadama pidaja ja punktis 4 nimetatud veeldatud gaasi terminali haldur esitavad pärast majandusaasta aruande esitamise tähtaja möödumist kahe nädala jooksul Konkurentsiametile deklaratsiooni vastavalt teenuste müügitulule eriseadustega reguleeritud turul. Kui majandusaasta ei ühti kalendriaastaga, esitatakse deklaratsioon hiljemalt iga kalendriaasta 15. juulil.\n(5) Järelevalvetasu saamiseks teeb Konkurentsiamet igal kalendriaastal hiljemalt 31. augustil ettevõtjatele teatavaks vastavasisulise korralduse, märkides kohaldatava järelevalvetasu määra, maksmisele kuuluva järelevalvetasu summa ja maksmise tähtaja.\n(6) Järelevalvetasu makstakse igal kalendriaastal hiljemalt 30. septembril.\n(7) Järelevalvetasu laekub riigieelarvesse.\n(8) Rahastamiskohustuse lõppemisel järelevalvetasu ei tagastata."
+    },
+    {
+      "provision_ref": "para53^4",
+      "chapter": "7. peatükk - JÄRELEVALVETASU",
+      "section": "53^4",
+      "title": "§ 53^4. Järelevalvetasu tasumata jätmise tagajärg",
+      "content": "Käesoleva seaduse § 53^3 lõikes 5 nimetatud korraldus on täitedokument täitemenetluse seadustiku § 2 lõike 1 punkti 21 tähenduses. Kui järelevalvetasu maksma kohustatud isik ei tasu seda korralduses ettenähtud tähtaja jooksul, võib Konkurentsiamet anda korralduse sundtäitmisele täitemenetluse seadustikus sätestatud korras."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "54",
+      "title": "§ 54. Riikliku ja haldusjärelevalve korraldus",
+      "content": "Konkurentsiamet teostab riiklikku ja haldusjärelevalvet käesoleva seaduse täitmise üle, välja arvatud 6. peatükis sätestatu täitmise üle."
+    },
+    {
+      "provision_ref": "para54^1",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "54^1",
+      "title": "§ 54^1. Riikliku järelevalve erimeetmed",
+      "content": "Konkurentsiamet võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "55",
+      "title": "§ 55. Konkurentsiameti pädevus",
+      "content": "(1) Konkurentsiamet on pädev teostama kõiki käesoleva seaduse alusel temale pandud toiminguid ja võtma tarvitusele meetmeid konkurentsi kaitsmiseks.\n(2) Konkurentsiamet analüüsib konkurentsiolukorda, kavandab konkurentsi soodustavaid meetmeid, annab soovitusi konkurentsiolukorra parandamiseks ja teeb ettepanekuid õigusaktide vastuvõtmiseks või muutmiseks ning arendab koostööd teiste riikide ja riikide ühenduste konkurentsialase järelevalve asutustega."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "56",
+      "title": "§ 56. Konkurentsiameti koostöö Euroopa Liidus",
+      "content": "(1) Konkurentsiamet on konkurentsiasutus, kes vastutab Euroopa Liidu toimimise lepingu artiklite 101 ja 102 kohaldamise eest EL Nõukogu määruse 1/2003/EÜ asutamislepingu artiklites 81 ja 82 sätestatud konkurentsieeskirjade rakendamise kohta (ELT L 1, 04.01.2003, lk 1–25) artikli 35 tähenduses ja osutab vajaduse korral Euroopa Komisjonile abi konkurentsialase järelevalve ja kohapealse kontrolli teostamisel.\n(2) Konkurentsiamet teeb koostööd Euroopa Liidu liikmesriikide (edaspidi liikmesriik ) konkurentsiasutustega ja Euroopa Komisjoniga Euroopa Liidu konkurentsieeskirjade kohaldamisel Euroopa Liidu õigusaktidega sätestatud tingimustel ja korras.\n(3) Euroopa Liidu toimimise lepingu artiklite 101 ja 102 kohaldamisega seotud asja läbivaatamisel kaasab kohus protsessi arvamuse andmiseks Konkurentsiameti.\n(4) Teise liikmesriigi konkurentsiasutuse kirjaliku ja põhjendatud taotluse alusel ning huvides viib Konkurentsiamet Euroopa Liidu toimimise lepingu artiklites 101 ja 102 sätestatu võimaliku rikkumise tuvastamiseks läbi käesolevas seaduses ja haldusmenetluse seaduses ettenähtud menetlustoimingud ning kohaldab korrakaitseseaduses sätestatud riikliku järelevalve meetmeid. Teise liikmesriigi konkurentsiasutuse ametnik võib vajaduse korral osaleda Konkurentsiameti läbiviidavas menetlustoimingus."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "57",
+      "title": "§ 57. Konkurentsiameti õigus nõuda teavet",
+      "content": "(1) Konkurentsiametil on õigus nõuda kõigilt füüsilistelt ja juriidilistelt isikutelt ning nende esindajatelt, samuti riigiasutustelt ja kohaliku omavalitsuse üksustelt ning nende ametiisikutelt teavet:\n1) konkurentsiolukorra analüüsimiseks;\n2) kaubaturu piiritlemiseks;\n3) kokkuleppe, tegevuse või otsuse kontrollimiseks;\n4)\n5) turgu valitsevat seisundit omava ettevõtja tegevuse kontrollimiseks;\n6) koondumise või koondumise loa tingimuste täitmise kontrollimiseks;\n7)\n8)\n9) käesoleva seaduse täitmise üle riikliku järelevalve teostamiseks.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud teavet nõutakse kirjalikus või kirjalikku taasesitamist võimaldavas taotluses, milles nimetatakse teabenõude eesmärk ja õiguslik alus ning viidatakse ettekirjutuse tegemise võimalusele teabe esitamata jätmise või mittetäieliku, ebaõige või eksitava teabe esitamise korral. Teabe esitamise tähtajaks määratakse vähemalt kümme kalendripäeva.\n(3)"
+    },
+    {
+      "provision_ref": "para57^1",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "57^1",
+      "title": "§ 57^1. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär füüsilisele isikule kuni 6400 eurot ja juriidilisele isikule kuni 9600 eurot."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "59",
+      "title": "§ 59. Konkurentsiameti õigus nõuda materjale",
+      "content": "(1) Konkurentsiametil on õigus nõuda kõigilt füüsilistelt ja juriidilistelt isikutelt ning nende esindajatelt, samuti riigiasutustelt ja kohaliku omavalitsuse üksustelt ning nende ametiisikutelt ja esindajatelt dokumentide, nende kavandite ja muude materjalide originaale või nende ärakirju, mille vastavust originaalile kinnitab nende esitaja oma allkirjaga. Ärakirja esitamise korral on Konkurentsiametil õigus nõuda algdokumenti ärakirja õigsuse kontrollimiseks.\n(2) Materjali üle andnud isiku või tema esindaja nõudel väljastatakse talle Konkurentsiameti kinnitus vastava materjali vastuvõtmise kohta ning neil on õigus Konkurentsiametilt pärast järelevalvetoimingute lõppu nende poolt esitatud dokumentide, kavandite ja muude materjalide originaalid tagasi saada."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "61",
+      "title": "§ 61. Soovituste andmine",
+      "content": "(1) Konkurentsiamet võib anda riigiasutusele ja kohaliku omavalitsuse üksusele, füüsilisele ja juriidilisele isikule soovitusi konkurentsiolukorra parandamiseks.\n(2) Isik, kellele on Konkurentsiamet teinud soovituse, peab Konkurentsiameti nõudel teavitama Konkurentsiametit soovituse täitmiseks rakendatavatest meetmetest või põhjustest, miks meetmeid ei rakendata."
+    },
+    {
+      "provision_ref": "para61^1",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "61^1",
+      "title": "§ 61^1. Keelatud teo toimepanemise tuvastamine ja ettekirjutus",
+      "content": "Kui Konkurentsiamet on riikliku või haldusjärelevalve käigus tuvastanud käesoleva seaduse 2. või 4. peatükiga või Euroopa Liidu toimimise lepingu artikliga 101 või 102 keelatud teo (edaspidi keelatud tegu ) toimepanemise, peab keelatud teo tuvastamine sisalduma keelatud teo toime pannud ettevõtjale tehtud ettekirjutuse resolutiivosas."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "63",
+      "title": "§ 63. Ärisaladuse hoidmise kohustus",
+      "content": "(1)\n(2) Konkurentsiameti ametnikul ei ole õigust avaldada teistele isikutele ega avalikustada ettevõtja nõusolekuta ärisaladusi, sealhulgas pangasaladusi, mida ta on teada saanud oma teenistuskohustuste täitmise käigus, kui käesoleva seadusega ei ole ette nähtud teisiti. Ettevõtja määrab kindlaks ja märgib ära teabe, mida ta põhjendatult loeb oma ärisaladuseks. Konkurentsiameti nõudmisel peab ettevõtja ärisaladuseks peetava teabe ära märkima ja põhjendama teabe määramist ärisaladuseks. Muud teavet ei loeta ärisaladuseks, välja arvatud teave, mis õigusaktide kohaselt avaldamisele ei kuulu. Konkurentsiameti nõudel on ettevõtja kohustatud koostama dokumendist ärisaladust mittesisaldava kokkuvõtte.\n(3) Konkurentsiameti ametnik võib avaldada ja kasutada ettevõtja ärisaladust, mis on vajalik konkurentsialase süüteo toimepanemise, käesoleva seaduse või Euroopa Liidu toimimise lepingu artiklite 101 ja 102 rikkumise tõendamiseks. Konkurentsiameti ametnik võib esitada ärisaladust sisaldavad dokumendid üksnes kohtule kriminaal-, tsiviil- või haldusasja või väärteo arutamise ettevalmistamiseks, arutamiseks ja kohtulahendi tegemiseks.\n(4) Konkurentsiametil on Euroopa Liidu toimimise lepingu artiklite 101 ja 102 kohaldamisel õigus vahetada Euroopa Komisjoni ja liikmesriikide konkurentsiasutustega sisulist või õiguslikku teavet, sealhulgas ettevõtjate ärisaladusi ja muud konfidentsiaalset teavet, ning kasutada Euroopa Komisjonilt ja liikmesriikide konkurentsiasutustelt saadud teavet tõendusmaterjalina EL Nõukogu määruse 1/2003/EÜ artiklis 12 sätestatud tingimustel.\n(5) Konkurentsiamet jätab avalikustamisele kuuluvate otsuste ja ettekirjutuste tekstist välja ärisaladused ja muu konfidentsiaalse teabe."
+    },
+    {
+      "provision_ref": "para63^1",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "63^1",
+      "title": "§ 63^1. Taotlus",
+      "content": "(1) Haldusmenetluse algatamiseks või haldusmenetluse käigus Konkurentsiametile esitatav avaldus (edaspidi taotlus ) peab olema kirjalik ja selles märgitakse haldusmenetluse seaduse § 14 lõikes 3 nimetatud andmed.\n(2) Taotlusele kirjutab alla selle esitaja või tema esindaja. Juriidilise isiku ja juriidiliseks isikuks mitteoleva ühenduse nimel esitatud taotlusele kirjutab alla selleks volitatud isik. Taotluse esitaja esindaja lisab taotlusele volitust tõendava dokumendi. Taotlusele lisatakse taotluse esitajale kättesaadavad tõendid.\n(3) Konkurentsiamet võib taotluse esitaja nime tema põhjendatud taotluse alusel tunnistada teistele isikutele avaldamisele mittekuuluvaks."
+    },
+    {
+      "provision_ref": "para63^2",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "63^2",
+      "title": "§ 63^2. Taotluse läbi vaatamata jätmine",
+      "content": "(1) Konkurentsiamet jätab taotluse läbi vaatamata, kui:\n1) taotlus on ilmselgelt põhjendamatu;\n2) sama asi on Euroopa Komisjoni menetluses või samas asjas on Euroopa Komisjoni otsus;\n3) taotlejat ei ole võimalik taotluses sisalduva teabe põhjal tuvastada;\n4) taotluses on puudused ning taotleja on jätnud need Konkurentsiameti antud tähtajaks kõrvaldamata.\n(2) Konkurentsiamet võib jätta taotluse läbi vaatamata, kui sama asi on teise liikmesriigi konkurentsiasutuse menetluses või samas asjas on teise liikmesriigi konkurentsiasutuse otsus."
+    },
+    {
+      "provision_ref": "para63^3",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "63^3",
+      "title": "§ 63^3. Menetluse peatamine",
+      "content": "(1) Konkurentsiamet võib menetluse oma otsusega peatada, kui asja kohta seisukoha võtmisel olulist tähtsust omav ja selle asjaga seotud haldus-, halduskohtu-, tsiviil-, väärteo- või kriminaalmenetlus on pooleli.\n(2) Konkurentsiamet taastab menetluse oma otsusega käesoleva paragrahvi lõikes 1 nimetatud menetluses kohtulahendi või haldusakti jõustumisel."
+    },
+    {
+      "provision_ref": "para63^4",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "63^4",
+      "title": "§ 63^4. Menetluse lõpetamine",
+      "content": "(1) Konkurentsiamet võib menetluse lõpetada, kui:\n1) ettevõtja tegevuses puuduvad käesoleva seaduse rikkumise tunnused;\n2) konkurentsi ei ole oluliselt kahjustatud;\n3) ettevõtja on oluliselt parandanud konkurentsiolukorda kaubaturul;\n4) samas asjas on alustatud väärteo- või kriminaalmenetlus;\n5) taotluse esitaja on oma taotluse tagasi võtnud ning menetluse lõpetamine ei kahjusta kolmanda isiku õigusi;\n6) sama asi on teise liikmesriigi konkurentsiasutuse menetluses või samas asjas on teise liikmesriigi konkurentsiasutuse otsus;\n7) haldusakti adressaat on surnud või lõppenud;\n8) Konkurentsiamet on kiitnud heaks ettevõtja käesoleva seaduse § 63^7 alusel võetud kohustuse;\n9) ettevõtja on lõpetanud menetluse esemeks oleva tegevuse ning puudub vajadus ettekirjutuse tegemiseks;\n10) taotluses kirjeldatud asjaolud viitavad sisult tsiviilõiguslikule vaidlusele ning puudub ilmselge oht konkurentsi kahjustamiseks.\n(2) Konkurentsiamet lõpetab menetluse, kui sama asi on Euroopa Komisjoni menetluses või samas asjas on Euroopa Komisjoni otsus."
+    },
+    {
+      "provision_ref": "para63^5",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "63^5",
+      "title": "§ 63^5. Kohtu luba kontrolli teostamiseks",
+      "content": "(1) Kirjaliku ja põhjendatud taotluse anda luba Euroopa Komisjonile kontrolli teostamiseks EL Nõukogu määruse 1/2003/EÜ asutamislepingu artiklites 81 ja 82 sätestatud konkurentsieeskirjade rakendamise kohta (EÜT L 1, 04.01.2003, lk 1–25) artiklites 20 ja 21 ning EL Nõukogu määruse 139/2004/EÜ artiklis 13 sätestatud tingimustel ja korras esitab Tallinna Halduskohtu esimehele või tema määratud sama kohtu halduskohtunikule Konkurentsiamet.\n(2) Enne loa andmist kontrollib kohtunik Euroopa Komisjoni otsuse autentsust ning proportsionaalsust selles osas, et kavandatud sunnimeetmed ei oleks kontrolli sisu seisukohalt meelevaldsed ega liigsed, võttes eelkõige arvesse kahtlustatava rikkumise tõsidust, otsitava tõendusmaterjali tähtsust, asjaomase ettevõtja osalust ning tõenäosust, et kontrolli sisuga seotud raamatupidamis- ja äridokumente hoitakse ruumides, millega seoses luba taotletakse. Loa andmisel ei hinda kohtunik kontrolli teostamise vajalikkust.\n(3) Sunnimeetmete proportsionaalsuse kontrollimisel võib kohtunik nõuda Euroopa Komisjonilt otse või Konkurentsiameti kaudu selgitusi kavandatavate sunnimeetmete proportsionaalsuse kontrollimiseks. Kohtunikul ei ole õigust nõuda Euroopa Komisjoni toimikus sisalduva teabe esitamist.\n(4) Käesolevas paragrahvis nimetatud loa andmine otsustatakse halduskohtumenetluse seadustiku haldustoiminguks loa andmise sätete järgi."
+    },
+    {
+      "provision_ref": "para63^6",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "63^6",
+      "title": "§ 63^6. Ettekirjutus konkurentsi kahjustamise ohu korral",
+      "content": "(1) Konkurentsiamet võib edasilükkamatutel juhtudel omal algatusel kehtestada ettekirjutusega füüsilisele või juriidilisele isikule kohustuse teha ettekirjutuses nõutav tegu või hoiduda keelatud teost, kui Konkurentsiametile teadaolevalt esineb konkurentsile tõsise ja korvamatu kahju tekkimise oht Euroopa Liidu toimimise lepingu artiklis 101 või 102 sätestatu rikkumise tõttu.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud ettekirjutuse kehtivuse tähtaeg on kuni kolm kuud. Vajaduse korral võib Konkurentsiamet ettekirjutuse kehtivuse tähtaega pikendada, kuid kokku kõige rohkem ühe aastani."
+    },
+    {
+      "provision_ref": "para63^7",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "63^7",
+      "title": "§ 63^7. Kohustuse võtmine, kohustuse võtmise taotlus ja kohustuse võtmise heakskiitmine",
+      "content": "(1) Ettevõtja, kelle tegevus võib seisneda keelatud teo toimepanemises ning kelle puhul Konkurentsiamet kaalub ettekirjutusega korrarikkumise kõrvaldamise kohustuse panemist, võib esitada kirjalikult Konkurentsiametile taotluse omapoolse kohustuse võtmiseks (edaspidi kohustuse võtmise taotlus ).\n(2) Kohustus peab olema suunatud konkurentsiolukorra parandamisele ja sobiv rikkumise kahjulike mõjude lõpetamiseks.\n(3) Kohustuse võtmise taotlus peab olema piisavalt põhjalik, et võimaldada Konkurentsiametil hinnata pakutavate kohustuste sobivust ja parandavat mõju konkurentsiolukorrale.\n(4) Kui Konkurentsiamet kiidab kohustuse heaks, võib ta oma otsusega muuta heakskiidetud kohustuse ettevõtjale siduvaks ja lõpetada menetluse.\n(5) Kohustus on tähtajaline. Ettevõtja on kohustatud Konkurentsiameti poolt varem määratud ajal teavitama Konkurentsiametit kohustuse täitmisest.\n(6) Konkurentsiamet võib omal algatusel või isiku taotluse alusel uuendada käesoleva paragrahvi lõike 4 alusel lõpetatud menetluse, kui:\n1) asjaolud, millel menetluse lõpetamine põhineb, on olulisel määral muutunud;\n2) ettevõtja ei täida võetud kohustust;\n3) kohustus kiideti heaks või menetlus lõpetati ettevõtja esitatud ebatäieliku, ebaõige või eksitava teabe alusel."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "64",
+      "title": "§ 64.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para73^5",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "73^5",
+      "title": "§ 73^5. Turgu valitseva seisundi kuritarvitamine",
+      "content": "(1) Ebaõiglaste äritingimuste kehtestamise, tootmise või teenindamise või kaubaturu, tehnilise arengu või investeeringute piiramise, samuti muu tegevuse eest, millega on kaasnenud ettevõtja turgu valitseva seisundi kuritarvitamine kaubaturul, – karistatakse rahatrahviga kuni 300 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 400 000 eurot."
+    },
+    {
+      "provision_ref": "para73^6",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "73^6",
+      "title": "§ 73^6. Koondumise jõustamine koondumiseks loa puudumisel ja konkurentsi kahjustav koondumine",
+      "content": "(1) Koondumise jõustamise eest, kui koondumiseks puudub luba, samuti koondumise keelu või koondumise loa tingimuste rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 400 000 eurot."
+    },
+    {
+      "provision_ref": "para73^7",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "73^7",
+      "title": "§ 73^7. Olulist vahendit omava ettevõtja kohustuste täitmata jätmine",
+      "content": "(1) Teisele ettevõtjale mõistlikel ja mittediskrimineerivatel tingimustel võrgustikule, infrastruktuurile või muule olulisele vahendile juurdepääsu mittelubamise eest, samuti muu tegevuse eest, millega on kaasnenud olulist vahendit omava ettevõtja seaduses sätestatud kohustuste rikkumine, – karistatakse rahatrahviga kuni 300 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 400 000 eurot."
+    },
+    {
+      "provision_ref": "para73^8",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "73^8",
+      "title": "§ 73^8. Raamatupidamise erinõude täitmata jätmine",
+      "content": "(1) Käesolevas seaduses sätestatud raamatupidamise erinõude täitmata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para73^9",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "73^9",
+      "title": "§ 73^9. Menetlus",
+      "content": "(1) Käesoleva seaduse §-des 73^5–73^8 sätestatud väärtegude aegumistähtaeg on kolm aastat.\n(2) Käesoleva seaduse §-des 73^5–73^8 sätestatud väärtegude kohtuväline menetleja on Konkurentsiamet."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "74",
+      "title": "§ 74.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para78",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "78",
+      "title": "§ 78. Keelatud teo toimepanemisega tekitatud kahju hüvitamine",
+      "content": "(1) Igaühel on õigus talle keelatud teo toimepanemisega tekitatud varalise kahju hüvitamisele.\n(2) Eeldatakse, et konkurentidevaheline kokkulepe või kooskõlastatud tegevus, mille eesmärk on koordineerida turul oma konkureerivat käitumist või mõjutada asjakohaseid konkurentsiparameetreid, või konkurentsivastane tegevus teiste konkurentide suhtes tekitab kahju."
+    },
+    {
+      "provision_ref": "para78^1",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "78^1",
+      "title": "§ 78^1. Leebuse kohaldamise taotlus",
+      "content": "(1) Kriminaalmenetluse seadustiku § 205^1 kohaldamiseks võib karistusseadustiku §-s 400 sätestatud kuriteo osaline esitada leebuse kohaldamise taotluse Konkurentsiametile viisil, mis võimaldab kirjalikku taasesitamist ning taotluse Konkurentsiametile laekumise kuupäeva ja kellaaja fikseerimist.\n(2) Leebuse kohaldamise taotlus peab sisaldama järgmisi andmeid:\n1) taotleja nimi, isikukood, sünniaeg või registreerimisnumber, aadress ja muud kontaktandmed;\n2) identifitseerimist võimaldavad andmed teiste isikute kohta, kes osalevad karistusseadustiku §-s 400 sätestatud kuriteos;\n3) karistusseadustiku §-s 400 sätestatud kuriteo põhjalik kirjeldus, sealhulgas andmed mõjutatud kaupade kohta, rikkumise geograafiline ulatus ning rikkumise aeg ja viis;\n4) kõik leebusetaotlejale kättesaadavad ja teadaolevad tõendid karistusseadustiku §-s 400 sätestatud kuriteo kohta. Kui tõendite esitamine koos taotlusega ei ole tehniliselt võimalik, võib need esitada viivituseta muul viisil. Kui tõendite kohene esitamine ei ole võimalik, loetakse küllaldaseks tõendite kirjelduse esitamine koos tõendite asukoha teatamisega;\n5) andmed teiste konkurentsiasutuste või muude asutuste kohta, kellele leebusetaotleja on esitanud leebuse kohaldamise taotluse või kellele ta kavatseb selle esitada.\n(3) Kui leebust taotleb füüsiline isik oma nimel, loetakse leebusetaotlejaks see isik. Kui leebust taotleb juriidilise isiku esindaja juriidilise isiku nimel, loetakse leebusetaotlejaks juriidiline isik koos selle isikuga seotud füüsiliste isikutega. Juriidilise isikuga seotud füüsiline isik käesoleva paragrahvi tähenduses on juriidilise isiku esindaja, liige, osanik, aktsionär, juhtimis- või järelevalveorgani liige ja töötaja, sealhulgas juhul, kui füüsilise isiku suhe juriidilise isikuga on lõppenud. Leebust ei kohaldata juriidilise isikuga seotud füüsilisele isikule, kes ei täida käesoleva paragrahvi lõike 5 punktides 2–6 sätestatud tingimusi või kellele leebuse kohaldamise on leebusetaotlejaks olev juriidiline isik põhjendatult välistanud leebuse kohaldamise taotluses.\n(4) Konkurentsiamet kinnitab leebusetaotlejale viivituseta leebuse kohaldamise taotluse kättesaamist, märkides selle Konkurentsiametile laekumise täpse aja, ning edastab taotluse koos lisadega prokuratuurile.\n(5) Leebuse kohaldamiseks peavad olema täidetud järgmised tingimused:\n1) leebuse kohaldamise taotlus on esitatud taotleja enda algatusel ning vastab käesoleva paragrahvi lõigetes 1 ja 2 sätestatud nõuetele;\n2) leebusetaotleja lõpetab prokuratuuriga kooskõlastatult osalemise karistusseadustiku §-s 400 sätestatud kuriteotunnustele vastava teo toimepanemises, välja arvatud juhul, kui ta kaasatakse jälitustoimingusse;\n3) prokuratuuri antud tingimustel avaldab leebusetaotleja ja teeb võimaluse korral täielikult, avameelselt ja moonutusteta kättesaadavaks kõik talle teada olevad tõendid karistusseadustiku §-s 400 sätestatud kuriteo kohta;\n4) leebusetaotleja teeb oma kulul täielikku ja heauskset koostööd uurimisasutuste ja prokuratuuriga kuni karistusseadustiku §-s 400 sätestatud kuriteo menetluse lõpuni;\n5) leebusetaotleja ei ole kallutanud teisi isikuid karistusseadustiku §-s 400 sätestatud kuritegu toime panema ega juhtinud kuriteo ettevalmistamist või toimepanemist;\n6) leebusetaotleja ei ole enne ega pärast leebuse kohaldamise taotluse esitamist pahauskselt hävitanud ega kõrvale toimetanud karistusseadustiku §-s 400 sätestatud kuriteo menetluses asjakohaseid tõendeid ega avaldanud prokuratuuri loata leebuse kohaldamise taotluse või kriminaalmenetluse asjaolusid."
+    },
+    {
+      "provision_ref": "para78^2",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "78^2",
+      "title": "§ 78^2. Keelatud teo toimepanemisega tekitatud otsese varalise kahju edasisuunamine kaudsele ostjale",
+      "content": "(1) Eeldatakse, et kaudne ostja on tõendanud otsese ostja poolt keelatud teo toimepanemisega talle tekitatud otsese varalise kahju edasisuunamist kaudsele ostjale, kui kaudne ostja on tõendanud, et ta on omandanud keelatud teo esemeks olevaid kaupu või selliseid kaupu sisaldavaid või neist saadud kaupu.\n(2) Otsene ostja on isik, kes omandab keelatud teo toime pannud ettevõtjalt keelatud teo esemeks olevaid kaupu.\n(3) Kaudne ostja on isik, kes omandab keelatud teo esemeks olevaid kaupu või selliseid kaupu sisaldavaid või neist saadud kaupu käesoleva paragrahvi lõikes 2 nimetatud otseselt või järgnevalt ostjalt."
+    },
+    {
+      "provision_ref": "para78^3",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "78^3",
+      "title": "§ 78^3. Keelatud teo toimepanemisega tekitatud otsese varalise kahju edasisuunamine kaudsele tarnijale",
+      "content": "(1) Eeldatakse, et kaudne tarnija on tõendanud otsese tarnija poolt keelatud teo toimepanemisega talle tekitatud otsese varalise kahju edasisuunamist kaudsele tarnijale, kui kaudne tarnija on tõendanud, et ta on võõrandanud keelatud teo esemeks olevaid kaupu või selliseid kaupu sisaldavaid kaupu.\n(2) Otsene tarnija on isik, kes võõrandab keelatud teo toime pannud ettevõtjale keelatud teo esemeks olevaid kaupu.\n(3) Kaudne tarnija on isik, kes võõrandab keelatud teo esemeks olevaid kaupu või selliseid kaupu sisaldavaid kaupu käesoleva paragrahvi lõikes 2 nimetatud otsesele või eelnevale tarnijale."
+    },
+    {
+      "provision_ref": "para78^4",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "78^4",
+      "title": "§ 78^4. Keelatud teo toime pannud solidaarvõlgnike vastuväited ning omavahelised suhted",
+      "content": "(1) Kui keelatud teo toime pannud solidaarvõlgnik on väikese või keskmise suurusega ettevõtja, peab ta kohustuse täitma üksnes oma otsese ja kaudse ostja ning otsese ja kaudse tarnija ees, kui:\n1) tema turuosa asjaomasel kaubaturul oli keelatud teo toimepanemise ajal väiksem kui 5 protsenti ja\n2) võlaõigusseaduse § 65 lõike 1 kohaldamine muudaks ta püsivalt maksejõuetuks.\n(2) Väikese või keskmise suurusega ettevõtja käesoleva paragrahvi tähenduses on vähem kui 250 töötajaga majandus- või kutsetegevuses tegutsev isik, kelle aastane käive on kuni 50 miljonit eurot või aastane bilansimaht on kuni 43 miljonit eurot.\n(3) Käesoleva paragrahvi lõikes 1 sätestatud erandit ei kohaldata, kui:\n1) väikese või keskmise suurusega ettevõtja on juhtinud keelatud teo toimepanemist või kallutanud teisi ettevõtjaid selles osalema;\n2) varem on tuvastatud keelatud teo toimepanemine väikese või keskmise suurusega ettevõtja poolt või\n3) võlausaldajad, kes ei ole väikese või keskmise suurusega ettevõtja otsesed või kaudsed ostjad ega otsesed või kaudsed tarnijad, ei saa nõuet teiste solidaarvõlgnike vastu rahuldada.\n(4) Kui keelatud teo toime pannud solidaarvõlgniku suhtes on Riigiprokuratuur kriminaalmenetluse seadustiku § 205^1 lõike 1 või 2 alusel või teise liikmesriigi konkurentsiasutus või Euroopa Komisjon kohaldanud leebust (edaspidi karistusest vabastatud solidaarvõlgnik ), peab karistusest vabastatud solidaarvõlgnik kohustuse täitma üksnes oma otsese ja kaudse ostja ning otsese ja kaudse tarnija ees. Teiste võlausaldajate ees peab karistusest vabastatud solidaarvõlgnik kohustuse täitma üksnes juhul, kui võlausaldajad ei saa nõuet teiste võlgnike vastu rahuldada.\n(5) Solidaarvõlgnike omavahelises suhtes peab karistusest vabastatud solidaarvõlgnik kohustuse täitma üksnes ulatuses, milles ta vastutab oma otsese ja kaudse ostja ning otsese ja kaudse tarnija ees. Kui keelatud teo toimepanemine tekitab lisaks solidaarvõlgnike otsestele ja kaudsetele ostjatele ning otsestele ja kaudsetele tarnijatele kahju ka teistele turuosalistele, vastutab omavahelises suhtes karistusest vabastatud solidaarvõlgnik teistele turuosalistele tekitatud kahju eest võlaõigusseaduse § 69 lõikes 1 sätestatud korras."
+    },
+    {
+      "provision_ref": "para78^5",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "78^5",
+      "title": "§ 78^5. Keelatud teo toime pannud solidaarvõlgniku ja võlausaldaja vaheline kompromissleping",
+      "content": "(1) Keelatud teo toime pannud solidaarvõlgniku ja võlausaldaja vahelise kompromisslepingu tagajärjel jääb kehtima solidaarvõlgniku solidaarkohustus võlausaldaja ees, välja arvatud juhul, kui kompromisslepingu pooled on sõnaselgelt kokku leppinud solidaarkohustuse lõppemises.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud sõnaselget kokkulepet ei ole, peab solidaarvõlgnikust kompromisslepingu pool ülejäänud võlgnike kohustuse täitma üksnes juhul, kui võlausaldajast kompromisslepingu pool ei saa nõuet teiste võlgnike vastu rahuldada."
+    },
+    {
+      "provision_ref": "para78^6",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "78^6",
+      "title": "§ 78^6. Keelatud teo toimepanemisest tekkinud nõude korral viivise arvestamise algus",
+      "content": "Keelatud teo toimepanemisest tekkinud nõude korral arvestatakse võlgnetavalt rahalt viivist alates nõude sissenõutavaks muutumisest."
+    },
+    {
+      "provision_ref": "para78^7",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "78^7",
+      "title": "§ 78^7. Keelatud teo toimepanemisest tekkinud nõude aegumine",
+      "content": "(1) Keelatud teo toimepanemisest tekkinud nõude aegumistähtaeg on viis aastat arvates ajast, kui õigustatud isik kahjust ja kahju hüvitama kohustatud isikust teada sai või pidi teada saama, kuid mitte enne keelatud teo toimepanemise lõppemist.\n(2) Keelatud teo toimepanemisest tekkinud nõude aegumistähtaeg peatub keelatud teo riikliku või haldusjärelevalve teostaja või keelatud teo kohtuvälise või -eelse menetleja poolt esimese keelatud teo toimepanemist puudutava menetlustoimingu tegemisega. Aegumistähtaja peatumine lõpeb aasta pärast peatumise aluseks olevat menetlust lõpetava ettekirjutuse vaidlustamise tähtaja möödumist, kui kaebust ei ole esitatud, või peatumise aluseks oleva menetluse jõustunud otsusega lõppemist või muul viisil lõpetamist."
+    },
+    {
+      "provision_ref": "para78^8",
+      "chapter": "9. peatükk - MENETLUSNORMID",
+      "section": "78^8",
+      "title": "§ 78^8. Keelatud teo toimepanemisest tekkinud nõude menetluses tõendite kogumine",
+      "content": "(1) Kohus võib keelduda tõendite kogumisest keelatud teo toimepanemisest tekkinud nõude menetluses, kui tõend sisaldab ärisaladust või muud konfidentsiaalset teavet, eelkõige kolmandaid isikuid puudutavat teavet, mis kohtu hinnangul ei ole nõude asjaolude tõendamiseks proportsionaalne.\n(2) Kohus võib keelatud teo toimepanemisest tekkinud nõude menetluses koguda järgmisi tõendeid üksnes juhul, kui keelatud teo riikliku või haldusjärelevalve teostaja, kohtuväline või -eelne menetleja või keelatud tegu menetlev kohus (edaspidi menetleja ) on oma menetluse lõpetanud:\n1) tõend, mille isik on keelatud teo menetluse jaoks koostanud;\n2) tõend, mille menetleja on keelatud teo menetluses koostanud ja menetlusosalisele saatnud;\n3) keelatud teo menetluses esitatud kokkuleppe sõlmimise taotlus, mis on tagasi võetud.\n(3) Kokkuleppe sõlmimise taotlus käesoleva seaduse tähenduses on ettevõtja poolt või tema nimel Euroopa Komisjonile või liikmesriigi konkurentsiasutusele tehtud vabatahtlik avaldus, milles ettevõtja tunnistab oma osalemist Euroopa Liidu toimimise lepingu artiklis 101 või 102 sätestatu rikkumises või liikmesriigi õiguse sellise sätte rikkumises, mille põhieesmärk on sama mis Euroopa Liidu toimimise lepingu artiklitel 101 ja 102 ning mida kohaldatakse sama juhtumi suhtes paralleelselt artikliga 101 või 102, nagu on ette nähtud EL Nõukogu määruse 1/2003/EÜ artikli 3 lõikes 1, või loobub oma osalemise vaidlustamisest ja tunnistab oma vastutust kõnealuse rikkumise eest ning mis on koostatud spetsiaalselt selleks, et Euroopa Komisjonil või liikmesriigi konkurentsiasutusel oleks võimalik kohaldada lihtsustatud või kiirmenetlust.\n(4) Kohus ei korralda keelatud teo toimepanemisest tekkinud nõude menetluses järgmiste tõendite kogumist:\n1) keelatud teo menetluses Konkurentsiametile esitatud käesoleva seaduse §-s 78^1 sätestatud leebuse kohaldamise taotlus, sealhulgas leebuse kohaldamise taotleja ülekuulamise protokoll, või teise liikmesriigi konkurentsiasutusele või Euroopa Komisjonile keelatud teo menetluses esitatud leebuse kohaldamise taotlus;\n2) keelatud teo menetluses esitatud käesoleva paragrahvi lõikes 3 sätestatud kokkuleppe sõlmimise taotlus, välja arvatud käesoleva paragrahvi lõike 2 punktis 3 sätestatud juhul."
+    },
+    {
+      "provision_ref": "para78^9",
+      "chapter": "9. peatükk - MENETLUSNORMID",
+      "section": "78^9",
+      "title": "§ 78^9. Keelatud teo toimepanemisest tekkinud nõude menetluses tõendi lubatavus",
+      "content": "(1) Kohus keeldub seni, kuni menetleja on keelatud teo menetluse lõpetanud, keelatud teo toimepanemisest tekkinud nõude menetluses tõendi vastuvõtmisest ja tagastab selle, kui tegemist on käesoleva seaduse § 78^8 lõikes 2 nimetatud tõendiga, mille esitaja on saanud menetleja keelatud teo toimikus sisalduvate tõenditega isikliku või kolmanda isiku kaudu tutvumise käigus.\n(2) Kohus keeldub keelatud teo toimepanemisest tekkinud nõude menetluses tõendi vastuvõtmisest ja tagastab selle, kui tegemist on käesoleva seaduse § 78^8 lõikes 4 sätestatud tõendiga, mille esitaja on saanud menetleja keelatud teo toimikus sisalduvate tõenditega isikliku või kolmanda isiku kaudu tutvumise käigus.\n(3) Kui menetlusosaline esitab keelatud teo toimepanemisest tekkinud nõude menetluses kohtule tõendi, mille ta on saanud menetleja keelatud teo toimikus sisalduvate tõenditega isikliku tutvumise käigus ning mis ei kuulu käesoleva paragrahvi lõigetes 1 ja 2 sätestatud tõendite hulka, on kohtul õigus see vastu võtta. Kohtul on õigus käesoleva lõike esimeses lauses nimetatud tõend vastu võtta ka juhul, kui selle esitab menetleja keelatud teo toimikus sisalduvate tõenditega isiklikult tutvunud menetlusosalise õigusjärglane, sealhulgas tema nõude üle võtnud isik."
+    },
+    {
+      "provision_ref": "para78^10",
+      "chapter": "9. peatükk - MENETLUSNORMID",
+      "section": "78^10",
+      "title": "§ 78^10. Keelatud teo toimepanemisest tekkinud nõude menetluses tõendite kogumise korraldamine",
+      "content": "(1) Kohus edastab keelatud teo toimepanemisest tekkinud nõude menetluses esitatud tõendite kogumise taotluse keelatud teo menetlejale juhul, kui tõend sisaldub ühtlasi menetleja keelatud teo toimikus. Menetleja võib kohtu määratud tähtaja jooksul esitada käesoleva lõike esimeses lauses nimetatud tõendite kogumise taotluse kohta oma seisukoha.\n(2) Kui keelatud teo toimepanemisest tekkinud nõude menetluses on tõendi uurimiseks vaja tõendeid koguda, korraldab kohus tõendite kogumise keelatud teo menetlejalt üksnes juhul, kui seda ei ole mõistlikult võimalik korraldada üheltki menetlusosaliselt ega kolmandalt isikult."
+    },
+    {
+      "provision_ref": "para78^11",
+      "chapter": "9. peatükk - MENETLUSNORMID",
+      "section": "78^11",
+      "title": "§ 78^11. Keelatud teo toimepanemisest tekkinud nõude menetluse peatamine poolte ühisel taotlusel",
+      "content": "Kohus võib keelatud teo toimepanemisest tekkinud nõude menetluse peatada poolte ühisel taotlusel kuni kaheks aastaks, kui võib eeldada, et see on otstarbekas pooleliolevate kompromissläbirääkimiste tõttu."
+    },
+    {
+      "provision_ref": "para78^12",
+      "chapter": "9. peatükk - MENETLUSNORMID",
+      "section": "78^12",
+      "title": "§ 78^12. Keelatud tegu tuvastava jõustunud otsuse ja ettekirjutuse tagajärjed",
+      "content": "(1) Konkurentsiameti jõustunud väärteootsuses või jõustunud kohtuotsuses tuvastatud keelatud teo toimepanemine on siduv keelatud teo toimepanemisest tekkinud nõuet menetlevale kohtule.\n(2) Konkurentsiameti ettekirjutuse resolutiivosas tuvastatud keelatud teo toimepanemine on siduv keelatud teo toimepanemisest tekkinud nõuet menetlevale kohtule, kui kaebuse esitamise tähtaeg nimetatud ettekirjutuse vaidlustamiseks on möödunud ja ettekirjutust ei ole vaidlustatud või jõustunud on kohtulahend, mille alusel jääb ettekirjutus kehtima."
+    },
+    {
+      "provision_ref": "para79",
+      "chapter": "10. peatükk - RAKENDUSSÄTTED",
+      "section": "79",
+      "title": "§ 79.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para86",
+      "chapter": "10. peatükk - RAKENDUSSÄTTED",
+      "section": "86",
+      "title": "§ 86.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para87",
+      "chapter": "10. peatükk - RAKENDUSSÄTTED",
+      "section": "87",
+      "title": "§ 87. Seaduse rakendamine",
+      "content": "(1) Käesolevat seadust kohaldatakse kõigi konkurentsi kahjustavate kokkulepete, kooskõlastatud tegevuste ja otsuste suhtes, mis kehtivad käesoleva seaduse jõustumise hetkel ja mis teostatakse pärast seda.\n(2) Juhtumeid, mille menetlemine on alustatud enne käesoleva seaduse jõustumist, menetletakse juhtumi menetluse alustamise ajal kehtinud seaduse järgi.\n(3) Eri- ja ainuõiguseks loetakse ka enne 1998. aasta 1. oktoobrit ettevõtjale riigi või kohaliku omavalitsuse üksuse poolt ükskõik millises vormis ja korras antud luba, mis võimaldab ettevõtjal olla kaubaturul teiste ettevõtjatega võrreldes eelisseisundis või ainsaks ettevõtjaks antud kaubaturul.\n(4) Vabariigi Valitsus ja ministrid viivad konkurentsiseaduse alusel vastuvõetud määrused käesoleva seadusega kooskõlla kolme kuu jooksul pärast käesoleva seaduse jõustumist.\n(5) Käesoleva seaduse § 33 lõige 4 ja § 49 lõige 3 kehtivad 2011. aasta 31. detsembrini.\n(6) Käesoleva seaduse § 33 lõiked 4^2 ja 4^3 kehtivad 2012. aasta 31. detsembrini.\n(7) Käesoleva seaduse §-des 78^8–78^12 sätestatut kohaldatakse tsiviilasja suhtes, mis on kohtumenetlusse võetud pärast nimetatud paragrahvide jõustumist.\n(8) Käesoleva seaduse § 42 lõikeid 4, 5 ja 9 rakendatakse tagasiulatuvalt kõigil ebaseaduslikult antud või väärkasutatud riigiabi tuvastamise juhtudel.\n(9) Käesoleva seaduse § 42 lõikeid 6–8 ja 10 rakendatakse ebaseaduslikult antud või väärkasutatud riigiabi tuvastamise juhtudel, kui riigiabi on antud alates 2021. aasta 1. juulist."
+    },
+    {
+      "provision_ref": "para89",
+      "chapter": "10. peatükk - RAKENDUSSÄTTED",
+      "section": "89",
+      "title": "§ 89. Seaduse kehtetuks tunnistamine",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para90",
+      "chapter": "10. peatükk - RAKENDUSSÄTTED",
+      "section": "90",
+      "title": "§ 90. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2001. aasta 1. oktoobril.\n(2) Käesoleva seaduse § 49^2 jõustub 2009. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": []
+}

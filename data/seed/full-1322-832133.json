@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-832133",
+  "type": "statute",
+  "title": "Telekommunikatsiooniseadus",
+  "title_en": "Telekommunikatsiooniseadus",
+  "short_name": "TeleKS",
+  "status": "in_force",
+  "issued_date": "2000-02-09",
+  "in_force_date": "2005-01-01",
+  "url": "https://www.riigiteataja.ee/akt/832133.xml",
+  "description": "Official consolidated statute text (Telekommunikatsiooniseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

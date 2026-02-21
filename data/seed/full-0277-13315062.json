@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-13315062",
+  "type": "statute",
+  "title": "Eesti Vabariigi pankrotiseaduse muutmise seadus",
+  "title_en": "Eesti Vabariigi pankrotiseaduse muutmise seadus",
+  "short_name": "ee-law-13315062",
+  "status": "in_force",
+  "issued_date": "1996-12-18",
+  "in_force_date": "2011-01-01",
+  "url": "https://www.riigiteataja.ee/akt/13315062.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi pankrotiseaduse muutmise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu, jõustub päeval, mis on kindlaks määratud Euroopa Liidu Nõukogu otsuses Eesti Vabariigi suhtes kehtestatud erandi kehtetuks tunnistamise kohta Euroopa Liidu toimimise lepingu artikli 140 lõikes 2 sätestatud alusel, Euroopa Nõukogu 13.07.2010. a otsus Nr 10889/10 ECOFIN 360 UEM 209/10 (ELT L 197, 28.07.2010, lk 24–26)."
+    }
+  ],
+  "definitions": []
+}

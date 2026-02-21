@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-122122013069",
+  "type": "statute",
+  "title": "Majandustegevuse registri seadus",
+  "title_en": "Majandustegevuse registri seadus",
+  "short_name": "MTRS",
+  "status": "in_force",
+  "issued_date": "2004-02-11",
+  "in_force_date": "2014-07-01",
+  "url": "https://www.riigiteataja.ee/akt/122122013069.xml",
+  "description": "Official consolidated statute text (Majandustegevuse registri seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu; jõustumisaeg muudetud 01.07.2014 [RT I, 22.12.2013, 1]"
+    }
+  ],
+  "definitions": []
+}

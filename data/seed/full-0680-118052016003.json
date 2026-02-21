@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-118052016003",
+  "type": "statute",
+  "title": "Keskkonnaseire seadus",
+  "title_en": "Keskkonnaseire seadus",
+  "short_name": "ee-law-118052016003",
+  "status": "in_force",
+  "issued_date": "1999-01-20",
+  "in_force_date": "2017-01-01",
+  "url": "https://www.riigiteataja.ee/akt/118052016003.xml",
+  "description": "Official consolidated statute text (Keskkonnaseire seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

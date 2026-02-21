@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-109032011009",
+  "type": "statute",
+  "title": "Eesti Rahvusraamatukogu seadus",
+  "title_en": "Eesti Rahvusraamatukogu seadus",
+  "short_name": "ee-law-109032011009",
+  "status": "in_force",
+  "issued_date": "1998-03-19",
+  "in_force_date": "2011-04-01",
+  "url": "https://www.riigiteataja.ee/akt/109032011009.xml",
+  "description": "Official consolidated statute text (Eesti Rahvusraamatukogu seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

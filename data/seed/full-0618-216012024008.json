@@ -1,0 +1,39 @@
+{
+  "id": "ee-law-216012024008",
+  "type": "statute",
+  "title": "Jäätmete ja muude ainete kaadamisest põhjustatud merereostuse vältimise 1972. aasta konventsiooni 1996. aasta protokolliga ühinemise seadus",
+  "title_en": "Jäätmete ja muude ainete kaadamisest põhjustatud merereostuse vältimise 1972. aasta konventsiooni 1996. aasta protokolliga ühinemise seadus",
+  "short_name": "ee-law-216012024008",
+  "status": "in_force",
+  "issued_date": "2013-04-16",
+  "in_force_date": "2023-07-01",
+  "url": "https://www.riigiteataja.ee/akt/216012024008.xml",
+  "description": "Official consolidated statute text (Jäätmete ja muude ainete kaadamisest põhjustatud merereostuse vältimise 1972. aasta konventsiooni 1996. aasta protokolliga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Protokolliga ühinemine",
+      "content": "Ühineda juurdelisatud jäätmete ja muude ainete kaadamisest põhjustatud merereostuse vältimise 1972. aasta konventsiooni 1996. aasta protokolliga, mis on koostatud 1996. aasta 7. novembril Londonis (edaspidi 1996. aasta protokoll )."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Deklaratsioon",
+      "content": "Teha 1996. aasta protokolliga ühinemisel protokolli artikli 16 lõike 5 alusel deklaratsioon, et artikli 3 lõike 1 või 2 tõlgendamist või kohaldamist käsitleva vaidluse lahendamiseks lisas 3 sätestatud vahekohtumenetluse kohaselt on iga kord vajalik Eesti Vabariigi nõusolek."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Lubade andmine ja aruannete esitamine",
+      "content": "1996. aasta protokolli kohaste lubade andmist ja artikli 9 lõikes 4 nimetatud andmete esitamist Läänemere Merekeskkonna Kaitse Komisjonile või Rahvusvahelisele Mereorganisatsioonile korraldab Kliimaministeerium."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4. Järelevalve",
+      "content": "Järelevalvet 1996. aasta protokolli kohaselt keelatud tegevuse tuvastamiseks teostab Keskkonnainspektsioon."
+    }
+  ],
+  "definitions": []
+}

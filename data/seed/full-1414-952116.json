@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-952116",
+  "type": "statute",
+  "title": "Töötu sotsiaalse kaitse seadus",
+  "title_en": "Töötu sotsiaalse kaitse seadus",
+  "short_name": "TSKS",
+  "status": "in_force",
+  "issued_date": "2000-06-14",
+  "in_force_date": "2006-01-01",
+  "url": "https://www.riigiteataja.ee/akt/952116.xml",
+  "description": "Official consolidated statute text (Töötu sotsiaalse kaitse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

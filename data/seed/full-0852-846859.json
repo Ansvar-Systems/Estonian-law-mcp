@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-846859",
+  "type": "statute",
+  "title": "Maailma Terviseorganisatsiooni põhikirja ja selle muudatuste heakskiitmise seadus",
+  "title_en": "Maailma Terviseorganisatsiooni põhikirja ja selle muudatuste heakskiitmise seadus",
+  "short_name": "ee-law-846859",
+  "status": "in_force",
+  "issued_date": "2005-01-19",
+  "in_force_date": "2005-02-20",
+  "url": "https://www.riigiteataja.ee/akt/846859.xml",
+  "description": "Official consolidated statute text (Maailma Terviseorganisatsiooni põhikirja ja selle muudatuste heakskiitmise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Kiita heaks Eesti Vabariigi ühinemine Maailma Terviseorganisatsiooniga 1993. aasta 31. märtsil."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Kiita heaks juurdelisatud Maailma Terviseorganisatsiooni põhikiri, mis on koostatud 1946. aasta 22. juulil New Yorgis."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Kiita heaks juurdelisatud Maailma Terviseorganisatsiooni põhikirja muudatused, mis on vastu võetud kaheksateistkümnenda maailma terviseassamblee 1965. aasta 26. mai otsusega nr WHA 18.48, kolmekümne esimese maailma terviseassamblee 1978. aasta 18. mai otsusega nr WHA 31.18 ning viiekümne esimese maailma terviseassamblee 1998. aasta 16. mai otsusega nr WHA 51.23."
+    }
+  ],
+  "definitions": []
+}

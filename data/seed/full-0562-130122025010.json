@@ -1,0 +1,75 @@
+{
+  "id": "ee-law-130122025010",
+  "type": "statute",
+  "title": "Hasartmängumaksu seadus",
+  "title_en": "Hasartmängumaksu seadus",
+  "short_name": "HasMMS",
+  "status": "in_force",
+  "issued_date": "2009-04-22",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.riigiteataja.ee/akt/130122025010.xml",
+  "description": "Official consolidated statute text (Hasartmängumaksu seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Hasartmängumaksu objekt",
+      "content": "(1) Hasartmängumaksuga maksustatakse:\n1) õnnemängu korraldamiseks kasutatav mängulaud, välja arvatud mängulaud, mida kasutatakse õnnemänguturniiri korraldamiseks, ning osavusmängu korraldamiseks kasutatav mänguautomaat;\n1^1) õnnemängu korraldamiseks kasutatavad hasartmängukorraldaja mänguautomaadid ning nendel tehtud panustest laekunud summa, millest on maha arvatud võidud;\n2) loterii korraldamisel loteriipiletite müügist saadud summa;\n3) kaubandusliku loterii korraldamisel võidufond, kui võidufondi väärtus ületab 10 000 eurot;\n4) toto korraldamisel tehtud panustest laekunud summa, millest on maha arvatud võidud;\n5) õnnemängu ja osavusmängu kaughasartmänguna korraldamisel tehtud panustest laekunud summa, millest on maha arvatud võidud;\n6) hasartmänguseaduse § 7 lõike 1 punktis 1 nimetatud õnnemänguturniiri korraldamisel osalustasude summa, millest on maha arvatud võidufondi laekuv osa;\n7) hasartmänguseaduse § 7 lõike 1 punktis 1 nimetatud õnnemänguturniiri korraldamisel kaughasartmänguna osalustasude summa, millest on maha arvatud võidufondi laekuv osa;\n8) hasartmänguseaduse § 7 lõike 1 punktis 2 nimetatud õnnemänguturniiri korraldamisel osalustasude summa;\n9) hasartmänguseaduse § 7 lõike 1 punktis 2 nimetatud õnnemänguturniiri korraldamisel kaughasartmänguna osalustasude summa.\n(2) Käesolevas seaduses lähtutakse hasartmängude ja nende liikide määratlemisel hasartmänguseadusest."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Hasartmängumaksu maksja",
+      "content": "Hasartmängumaksu maksab hasartmängukorraldaja."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Maksustamisperiood",
+      "content": "(1) Hasartmängumaksuga maksustamise periood on kalendrikuu.\n(2) Kaubandusliku loterii korraldamisel on maksustamisperiood kaubandusliku loterii korraldamise periood, mis algab mängureeglites märgitud panuste tegemise esimesel päeval ja lõpeb mängureeglites märgitud võitude väljaandmise viimasel päeval.\n(3) Õnnemänguturniiri korraldamisel on maksustamisperiood ühe õnnemänguturniiri korraldamise periood, mis algab õnnemänguturniiri reeglites märgitud osavõtutasude vastuvõtmise esimesel päeval ja lõpeb õnnemänguturniiri reeglites märgitud osavõtutasude vastuvõtmise lõpetamise päeval."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4. Hasartmängumaksu deklareerimine ja tasumine",
+      "content": "(1) Hasartmängukorraldaja esitab Maksu- ja Tolliametile hasartmängumaksu deklaratsiooni ja tasub hasartmängumaksu maksustamisperioodile järgneva kalendrikuu 15. kuupäevaks.\n(2)\n(3) Hasartmängumaksu deklaratsioon tuleb esitada ka käesoleva seaduse § 1 lõike 1 punktides 2 ja 4–9 sätestatud summade puudumisel.\n(4) Hasartmängumaksu deklaratsioonide vormid ja nende täitmise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para6",
+      "section": "6",
+      "title": "§ 6. Maksumäär",
+      "content": "Hasartmängumaksu määr on:\n1) 1406 eurot ühe mängulaua kohta;\n2) 300 eurot õnnemängu korraldamiseks kasutatava ühe mänguautomaadi kohta ja 10 protsenti hasartmängukorraldaja õnnemängu korraldamiseks kasutatavatel mänguautomaatidel tehtud panustest laekunud summast, millest on maha arvatud võidud;\n3) 32 eurot ühe osavusmängu mänguautomaadi kohta;\n4) 22 protsenti käesoleva seaduse § 1 lõike 1 punktis 2 sätestatud summast;\n5) 22 protsenti käesoleva seaduse § 1 lõike 1 punktis 3 sätestatud summast;\n6) 5,5 protsenti käesoleva seaduse § 1 lõike 1 punktis 4 sätestatud summast;\n7) 5,5 protsenti käesoleva seaduse § 1 lõike 1 punktis 5 sätestatud osavusmängu summast;\n8) 5,5 protsenti käesoleva seaduse § 1 lõike 1 punktide 6–9 alusel arvestatud summast."
+    },
+    {
+      "provision_ref": "para7",
+      "section": "7",
+      "title": "§ 7. Hasartmängumaksu laekumine ja kasutamine",
+      "content": "(1) Hasartmängumaks laekub riigieelarvesse.\n(2) Riigieelarves nähakse ette järgmised kulud:\n1) Eesti Kultuurkapitalile – summas, mille suurus vastab 47,8 protsendile hasartmängumaksu kavandatavast laekumisest ning millest 52 protsenti eraldatakse kultuuriehitistele ja 2 protsenti kunstide ja rahvakultuuri valdkondade õppejõudude loometöö edendamiseks.\n2)\n3)\n4)\n5)\n(2^1)\n(3)\n(3^1)\n(4)\n(5)\n(6)\n(7)\n(8)\n(9)\n(10) Kui käesoleva seaduse § 1 lõike 1 punktide 4–9 alusel laekunud hasartmängumaksu ühes kalendriaastas on rohkem kui 27 miljonit eurot, eraldatakse enam laekunud summast:\n1) 8 protsenti vastavalt käesoleva paragrahvi lõikele 1 riigieelarvesse;\n2) 12 protsenti Eesti Kultuurkapitalile, millest 60,6 protsenti eraldatakse kultuuriehitistele ning 2 protsenti kunstide ja rahvakultuuri valdkonda õppejõudude loometöö edendamiseks;\n3) 80 protsenti Eesti Kultuurkapitalile, millest 75 protsenti eraldatakse spordiehitiste fondile ning 25 protsenti kultuuri- ja spordivaldkondadele eraraha kaasamise fondile."
+    },
+    {
+      "provision_ref": "para8",
+      "section": "8",
+      "title": "§ 8. Rakendussätted",
+      "content": "(1) Enne käesoleva seaduse jõustumist Maksu- ja Tolliameti poolt hasartmängukorraldajale väljastatud maksumärgid kehtivad maksustamisperioodi lõpuni.\n(2) Kuni 2009. aasta 31. detsembrini on hasartmänguseaduse § 36 lõikes 6 nimetatud õnnemängu korraldamiseks kasutatava mänguautomaadi maksumäär 50 protsenti käesoleva seaduse § 6 punktis 2 sätestatud määrast.\n(3) Hasartmängukorraldaja, kes korraldab osavusmänge mänguautomaadil, esitab Maksu- ja Tolliametile hasartmängumaksu deklaratsiooni ning tasub hasartmängumaksu käesoleva seaduse jõustumisele järgneva kalendrikuu 15. kuupäevaks.\n(4) Enne käesoleva seaduse jõustumist antud korraldusloa alusel korraldatava arvloterii hasartmängumaksu määr on kuni 2009. aasta 31. detsembrini 10 protsenti arvloterii loteriipiletite müügist saadud summast.\n(5)\n(6) Käesoleva seaduse enne 2022. aasta 1. jaanuari kehtinud redaktsiooni § 7 lõike 2 punktides 2–5 nimetatud sihtotstarbeks ettenähtud ja laekunud vahendeid võib kasutada kuni nende vahendite lõppemiseni.\n(7) Rahandusministeerium analüüsib hiljemalt 2029. aasta 1. veebruariks 2026. aasta 1. jaanuaril jõustunud hasartmänguseaduse ja teiste seaduste muutmise seaduse rakendamise eesmärgi saavutamist, kaasnenud mõju ja regulatsiooni tulemuslikkust."
+    },
+    {
+      "provision_ref": "para9",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para13",
+      "section": "13",
+      "title": "§ 13.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para14",
+      "section": "14",
+      "title": "§ 14. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2009. aasta 1. juunil.\n(2) Käesoleva seaduse § 1 lõike 1 punkt 5 ning § 6 punkt 7 jõustuvad 2010. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": []
+}

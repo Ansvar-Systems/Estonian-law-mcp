@@ -1,0 +1,796 @@
+{
+  "id": "ee-law-106072023031",
+  "type": "statute",
+  "title": "Haldusmenetluse seadus",
+  "title_en": "Haldusmenetluse seadus",
+  "short_name": "HMS",
+  "status": "in_force",
+  "issued_date": "2001-06-06",
+  "in_force_date": "2024-01-01",
+  "url": "https://www.riigiteataja.ee/akt/106072023031.xml",
+  "description": "Official consolidated statute text (Haldusmenetluse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse ülesanne",
+      "content": "Käesolev seadus on suunatud isiku õiguste kaitse tagamisele ühtlase, isiku osalust ja kohtulikku kontrolli võimaldava haldusmenetluse korra loomise teel."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Haldusmenetluse mõiste",
+      "content": "(1) Haldusmenetlus on haldusorgani (§ 8) tegevus määruse (§ 88) või haldusakti (§-d 51 ja 52) andmisel, toimingu (§ 106) sooritamisel või halduslepingu (§ 95) sõlmimisel.\n(2) Tööstusomandi esemele õiguskaitse andmise menetlus, riigihangete teostamine ja vaidlustuste lahendamine riigihangete seaduse tähenduses ning väärteomenetlus ja süütegude kohtueelne uurimine ei ole haldusmenetlus käesoleva seaduse tähenduses."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Õiguste kaitse",
+      "content": "(1) Haldusmenetluses võib piirata isiku põhiõigusi ja -vabadusi ning tema muid subjektiivseid õigusi ainult seaduse alusel.\n(2) Halduse õigusakt ja toiming peab olema kohane, vajalik ning proportsionaalne seatud eesmärgi suhtes."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Kaalutlusõigus",
+      "content": "(1) Kaalutlusõigus (diskretsioon) on haldusorganile seadusega antud volitus kaaluda otsustuse tegemist või valida erinevate otsustuste vahel.\n(2) Kaalutlusõigust tuleb teostada kooskõlas volituse piiride, kaalutlusõiguse eesmärgi ning õiguse üldpõhimõtetega, arvestades olulisi asjaolusid ning kaaludes põhjendatud huve."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Vormivabadus ja eesmärgipärasus",
+      "content": "(1) Menetlustoimingu vormi ja muud haldusmenetluse üksikasjad määrab haldusorgan kaalutlusõiguse alusel, kui seaduse või määrusega ei ole sätestatud teisiti.\n(2) Haldusmenetlus viiakse läbi eesmärgipäraselt ja efektiivselt, samuti võimalikult lihtsalt ja kiirelt, vältides üleliigseid kulutusi ja ebameeldivusi isikutele.\n(3) Menetlustoimingute sooritamise eest võib haldusorgan tasu võtta üksnes seaduses sätestatud juhtudel ja suuruses.\n(4) Menetlustoimingud viiakse läbi viivituseta, kuid mitte hiljem kui seaduses või määruses sätestatud tähtaja jooksul.\n(5) Kui haldusmenetlust reguleerivad õigusnormid muutuvad menetluse ajal, kohaldatakse menetluse alguses kehtinud õigusnorme.\n(6) Elektrooniline asjaajamine on haldusmenetluses võrdsustatud kirjaliku asjaajamisega, võttes arvesse elektroonilisest asjaajamisest tulenevaid erisusi. Digitaalallkirja ja e-templit kasutatakse haldusmenetluses e-identimise ja e-tehingute usaldusteenuste seaduses ning teistes õigusaktides sätestatud korras."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Uurimispõhimõte",
+      "content": "Haldusorgan on kohustatud välja selgitama menetletavas asjas olulise tähendusega asjaolud ja vajaduse korral koguma selleks tõendeid oma algatusel."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "7",
+      "title": "§ 7. Avalikkus ja andmekaitse",
+      "content": "(1) Haldusmenetlus on avalik.\n(2) Haldusorgan hoolitseb haldusmenetlust käsitleva olulise teabe (dokumentide esitamise juhendid, näidisvormide täitmise juhendid, blanketid, käesoleva seaduse §-s 36 sätestatud selgitused jms) väljapaneku eest oma asukohas ning avaldab selle teabe oma ametlikul veebilehel, kui see on haldusorganil olemas.\n(3) Haldusorgan on kohustatud hoidma riigi- ja ärisaladust ning hoidma saladuses salastatud välisteabe ja asutusesiseseks kasutamiseks tunnistatud andmed.\n(4) Haldusmenetluses tuleb järgida Euroopa Parlamendi ja nõukogu määrusest (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus) (ELT L 119, 04.05.2016, lk 1–88) ja isikuandmete kaitse seadusest tulenevat isikuandmete töötlemise korda, arvestades seaduses sätestatud erisusi.\n(5) Haldusorgan võib haldusmenetluses haldusakti andmise, toimingu tegemise või halduslepingu sõlmimise eesmärgil töödelda isikuandmeid menetletavas asjas vajalike asjaolude kohta, kui seadusega või selle alusel antud õigusaktidega ei ole ette nähtud teisiti."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "8",
+      "title": "§ 8. Haldusorgan",
+      "content": "(1) Haldusorgan on seadusega, selle alusel antud määrusega või halduslepinguga avaliku halduse ülesandeid täitma volitatud asutus, kogu või isik.\n(2) Haldusorganisiseselt määratakse isikud, kes tegutsevad haldusmenetluses haldusorgani nimel, kui seaduses või määruses ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "9",
+      "title": "§ 9. Asja alluvuse määramine",
+      "content": "(1) Kui sama haldusmenetluse asi on mitme haldusorgani pädevuses, viib:\n1) haldusorganile taotluse esitamisega algava haldusmenetluse läbi haldusorgan, kellele on esimesena esitatud taotlus haldusmenetluse algatamiseks;\n2) haldusorgani initsiatiivil algava haldusmenetluse läbi haldusorgan, kes on esimesena saanud teada asjaoludest, mis on tinginud või tingivad haldusmenetluse algatamise.\n(2) Asja alluvuse määratlemisel erinevate tööpiirkondadega haldusorganite vahel viib haldusmenetluse seoses:\n1) isikuga või tema vallasvaraga läbi haldusorgan, kelle tööpiirkonnas on või viimati oli isiku elu- või asukoht;\n2) kinnisvaraga läbi haldusorgan, kelle tööpiirkonnas vara asub.\n(3) Haldusorgani pädevuse muutumisel peab asja menetlusse võtnud haldusorgan viima menetluse lõpule. Kui haldusorgani tegevus lõpetatakse, läheb asja lahendamine üle pädevale haldusorganile."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "10",
+      "title": "§ 10. Taandamine",
+      "content": "(1) Haldusorgani nimel tegutsev isik ei või haldusmenetlusest osa võtta, kui:\n1) ta on asjas menetlusosaline või menetlusosalise esindaja;\n2) ta on asjas menetlusosalise või menetlusosalise esindaja sugulane (vanem, laps, lapsendaja, lapsendatu, vend, õde, vanavanem, lapselaps), abikaasa, registreeritud elukaaslane, hõimlane (abikaasa või registreeritud elukaaslase vanem, laps, lapsendaja, lapsendatu, vend, õde, vanavanem, lapselaps) või perekonnaliige;\n3) ta on menetlusosalisest või selle esindajast tööalases, teenistuslikus või muus sõltuvuses;\n4) ta on muul viisil isiklikult huvitatud asja lahendist või kui muud asjaolud tekitavad kahtlust tema erapooletuses.\n(2) Perekonnaliige käesoleva seaduse tähenduses on isik, kes elab menetlusosalisega koos ja neil on ühine majapidamine.\n(3) Käesoleva paragrahvi lõike 1 punktides 1–3 nimetatud menetlusosalisena ei käsitata haldusorganit, kes peab esitama menetlevale haldusorganile arvamuse või kooskõlastuse haldusakti andmiseks, halduslepingu sõlmimiseks või toimingu sooritamiseks.\n(4) Kui ilmnevad käesoleva paragrahvi lõikes 1 nimetatud asjaolud või kui menetlusosaline on käesoleva paragrahvi lõikes 1 loetletud alustel esitanud ametiisiku taandamise taotluse, on ametiisik kohustatud sellest teatama tema ametisse nimetamise või valimise õigusega ametiisikule. Nimetatud isik peab otsustama taanduse esitamisest kolme tööpäeva jooksul taandamise vajalikkuse.\n(5) Isikut ei taandata, kui teda ei ole võimalik asendada.\n(6) Käesolevat paragrahvi ei rakendata Vabariigi Valitsuse ning kohaliku omavalitsuse volikogu ja valitsuse liikmete suhtes."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "11",
+      "title": "§ 11. Menetlusosalised",
+      "content": "(1) Haldusmenetluses on menetlusosalised:\n1) haldusakti andmist või toimingu sooritamist taotlev või halduslepingu sõlmimiseks ettepaneku teinud isik (taotleja);\n2) isik, kellele haldusakt või toiming on suunatud või kellele haldusorgan on teinud ettepaneku halduslepingu sõlmimiseks (adressaat);\n3) isik, kelle õigusi või kohustusi haldusakt, haldusleping või toiming võib puudutada (kolmas isik);\n4) haldusorgan, kes peab seaduse või määruse kohaselt esitama menetlevale haldusorganile arvamuse või kooskõlastuse õigusakti andmiseks või toimingu sooritamiseks.\n(2) Haldusorgan võib menetlusosalisena kaasata muid isikuid ja organeid, kelle huve haldusakt, haldusleping või toiming võib puudutada."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "12",
+      "title": "§ 12. Õigus- ja teovõime haldusmenetluses",
+      "content": "(1) Haldusmenetluses kohaldatakse õigus- ja teovõimele tsiviilseadustiku üldosa seaduse sätteid.\n(2) Alaealine ja muu piiratud teovõimega isik ei või haldusmenetluses iseseisvalt menetlustoiminguid teha, kui seadusega ei ole ette nähtud teisiti. Seadusjärgse esinduse haldusmenetluses tagab haldusorgan."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "13",
+      "title": "§ 13. Esindus ja volitus haldusmenetluses",
+      "content": "(1) Menetlusosalisel on õigus kasutada haldusmenetluses esindajat. Esindaja võib esindada menetlusosalist kõigis menetlustoimingutes, mida seadusest tulenevalt ei pea menetlusosaline tegema isiklikult.\n(2) Esindusõigus antakse haldusmenetluses kirjaliku volitusega.\n(3) Haldusmenetluses kohaldatakse esindusele tsiviilseadustiku üldosa seaduse sätteid."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "14",
+      "title": "§ 14. Taotlus",
+      "content": "(1) Haldusmenetluse algatamiseks või haldusmenetluse käigus esitatakse haldusorganile avaldus (taotlus) vabas vormis. Seadusega või selle alusel võib taotlusele ette näha kohustusliku vormi. Isik on kohustatud taotluse esitamiseks ilmuma haldusorgani asukohta üksnes seaduses sätestatud juhtudel.\n(2) Suulise taotluse protokollib haldusorgan.\n(3) Kirjalik taotlus peab sisaldama:\n1) esitaja nime;\n2) taotluse selgelt sõnastatud sisu;\n3) taotluse esitamise kuupäeva ja taotleja allkirja;\n4) haldusakti või muu dokumendi kättetoimetamise soovitavat viisi ning selleks vajalikke kontaktandmeid;\n5) muid õigusaktidega ettenähtud andmeid.\n(4) Elektrooniliselt edastatud taotlusele lisatakse digitaalallkiri ning vajaduse korral e-tempel. Digitaalallkirja ja e-templit ei pea lisama, kui taotlus on esitatud elektroonilise kanali kaudu ning haldusorgan on taotluse esitaja turvalisel viisil tuvastanud.\n(5) Taotluse esitamise tähtaeg kehtestatakse seadusega või selle alusel.\n(6) Haldusorgan tagastab taotluse läbi vaatamata:\n1) kui taotluse esitamise tähtaeg on möödunud ja seda ei ennistata;\n2) teistel seadusega ettenähtud juhtudel.\n(7) Taotluse läbi vaatamata jätmisest teavitatakse taotlejat. Haldusakti andmise taotluse läbi vaatamata jätmist peab kirjalikult põhjendama.\n(8) Taotleja võib enne haldusmenetluse lõppemist oma taotluse igal ajal tagasi võtta."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "15",
+      "title": "§ 15. Puudused taotluses",
+      "content": "(1) Haldusorgan on kohustatud talle esitatud taotluse vastu võtma, sõltumata selle puudustest, kui seadusega ei ole sätestatud teisiti.\n(2) Kui isik jätab koos taotlusega esitamata nõutud andmed või dokumendid või kui taotluses on muid puudusi, määrab haldusorgan taotluse esitajale esimesel võimalusel tähtaja puuduste kõrvaldamiseks, selgitades, et tähtpäevaks puuduste kõrvaldamata jätmisel võib haldusorgan jätta taotluse läbi vaatamata.\n(3) Kui puudus kõrvaldatakse määratud tähtaja jooksul, loetakse taotlus tähtaegselt esitatuks. Kui puudust ei kõrvaldata tähtaegselt, võib haldusorgan jätta taotluse läbi vaatamata.\n(4) Kui taotluse lahendamine ei kuulu haldusorgani pädevusse, jätab haldusorgan taotluse läbi vaatamata, selgitades taotlejale, millise haldusorgani pädevusse asi kuulub, või edastab taotluse pädevale haldusorganile, teatades sellest taotlejale. Taotluse edastamisel pädevale haldusorganile hakkab asja lahendamise tähtaeg kulgema taotluse pädevasse haldusorganisse saabumise hetkest."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "16",
+      "title": "§ 16. Kooskõlastus ja arvamus",
+      "content": "(1) Kui taotluse lahendamiseks on vaja teise haldusorgani kooskõlastust või arvamust ja seda ei ole antud, edastab haldusorgan taotluse koopia koos dokumentidega teisele haldusorganile, näidates ära tähtaja, mille jooksul tuleb teha otsus kooskõlastuse andmise kohta või esitada arvamus. Taotleja võib ise korraldada kooskõlastuse või arvamuse saamise, kui see on menetluse kiiruse ja ökonoomia huvides vajalik.\n(2) Kui teine haldusorgan ei ole kooskõlastamisest määratud tähtajaks keeldunud ega tähtaega pikendanud, loetakse kooskõlastus antuks. Kui teine haldusorgan ei ole arvamust määratud tähtajaks andnud ega tähtaega pikendanud, võib taotluse lahendada teise haldusorgani arvamuseta."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "17",
+      "title": "§ 17. Kutse",
+      "content": "(1) Haldusorganil on õigus kutsuda isik välja menetlusosalise, tunnistaja, eksperdi või tõlgina.\n(2) Kutse on kirjalik ja selles peavad olema märgitud:\n1) haldusorgani nimetus;\n2) kutsutava isiku nimi;\n3) ilmumise koht ja aeg;\n4) selgitus, mis asjas, kellena ja millise eesmärgiga isik välja kutsutakse;\n5) ilmumata jäämise tagajärjed."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "18",
+      "title": "§ 18. Protokoll",
+      "content": "(1) Menetlustoiming protokollitakse, kui:\n1) menetlusosaline esitab selleks põhjendatud taotluse;\n2) seda peab vajalikuks asja menetlev haldusorgan;\n3) toimingu sisu on ütluse, arvamuse või seletuse andmine haldusorganile;\n4) protokollimise kohustus tuleneb seadusest või määrusest.\n(2) Protokoll peab sisaldama:\n1) menetlustoimingu teostamise aega ja kohta;\n2) menetlustoimingut läbiviiva haldusorgani nime ning kohalviibivate menetlusosaliste, tõlkide, ekspertide ja tunnistajate nimesid;\n3) menetlustoimingu eesmärki;\n4) menetlustoimingu käigus esitatud taotlusi;\n5) menetlusosalise seletuste, eksperdi või tunnistaja ütluste sisu või paikvaatluse tulemust.\n(3) Protokollile kirjutab alla selle koostanud isik. Digitaalsele protokollile ei pea digitaalallkirja lisama, kui selle koostanud isik on turvalisel viisil tuvastatud."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "19",
+      "title": "§ 19. Haldusmenetluses tähtsust omavate dokumentide säilitamine",
+      "content": "(1) Haldusorgan säilitab avaldused, taotlused, tõendid, protokollid, andmed kutsete saatmise ja dokumentide kättetoimetamise kohta ning muud haldusmenetluses tähtsust omavad dokumendid, luues vajadusel toimiku.\n(2) Haldusmenetluses tähtsust omavate asjaolude kohta, mida toimikus olevatest dokumentidest ei nähtu, teeb haldusorgan märkused toimikusse.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud dokumente säilitatakse arhiiviseaduses ja selle alusel antud arhiivieeskirjas ettenähtud korras."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "20",
+      "title": "§ 20. Haldusmenetluse keel",
+      "content": "(1) Haldusmenetluse keel on eesti keel.\n(2) Haldusmenetluses kasutatakse võõrkeeli keeleseaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "21",
+      "title": "§ 21. Tõlk",
+      "content": "(1) Kui menetlusosaline või tema esindaja ei valda keelt, milles asja menetletakse, kaasatakse menetlusosalise taotlusel asja menetlemisele tõlk.\n(2) Tõlgi kaasamise kulud katab tõlgi kaasamist taotlenud menetlusosaline, kui seaduse või määrusega ei ole sätestatud teisiti või kui haldusorgan ei otsusta teisiti. Haldusorgan võib kehtestada tingimuse, et haldusaktiga isikule antav õigus ei teki enne tõlgi kaasamise kulude katmist."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "22",
+      "title": "§ 22. Ametlik kinnitamine",
+      "content": "(1) Ametlik kinnitamine on allkirja, ärakirja, väljatrüki või väljavõtte õigsuse kinnitamine haldusorgani poolt.\n(2) Ametliku kinnitamise tõendusjõud on piiratud kinnitusmärkes nimetatud asjaoludega.\n(3) Ametlik kinnitamine ei asenda notariaalset kinnitamist.\n(4) Notariaalne kinnitamine asendab ametlikku kinnitamist."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "23",
+      "title": "§ 23. Allkirja ametlik kinnitamine",
+      "content": "(1) Allkirja õigsuse ametliku kinnitamise õigus on Vabariigi Valitsuse määratud haldusorganitel. Ametlikult ei või kinnitada:\n1) juurdekuuluva tekstita allkirja;\n2) allkirja, mille õigsust tuleb notariaalselt kinnitada.\n(2) Allkirja õigsust kinnitatakse üksnes juhul, kui allkiri on antud või omaks võetud kinnitava isiku juuresolekul.\n(3) Allkirja õigsust kinnitatakse vahetult allkirja järele lisatava kinnitusmärkega, mis peab sisaldama:\n1) kinnitust, et allkiri on õige;\n2) selle isiku nime ja isikukoodi, kelle allkirja kinnitatakse; isikukoodi puudumisel sünniaastat, -kuud ja -päeva;\n3) kinnitust, et allakirjutanu isikusamasus on tuvastatud ja et allkiri on antud või omaks võetud kinnitava isiku juuresolekul;\n4) kinnitamise kohta ja aega, kinnituse andnud isiku nime ja allkirja ning asutuse pitsati jäljendit."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "24",
+      "title": "§ 24. Ärakirja, väljavõtte ja väljatrüki ametlik kinnitamine",
+      "content": "(1) Haldusorgan, kellel on õigus väljastada ametlik dokument või kes säilitab dokumenti arhivaalina, võib väljastada ka sellise dokumendi ärakirja või väljavõtte ning selle õigsust ametlikult kinnitada.\n(2) Haldusorgan, kes võtab isikult vastu dokumendi, võib teha sellest ärakirja või väljavõtte ning selle õigsust ametlikult kinnitada. Kui haldusorganile esitatakse koos ärakirjaga dokumendi originaal, ei või haldusorgan nõuda ärakirja ametlikku ega notariaalset kinnitamist.\n(3) Haldusorgan võib ametlikult kinnitada enda peetava automatiseeritud andmekogu väljatrüki õigsust.\n(4) Haldusorgan võib seaduse või määrusega sätestatud juhtudel ametlikult kinnitada teise haldusorgani väljastatud dokumendi ärakirja või väljavõtte õigsust või teise haldusorgani peetava automatiseeritud andmekogu väljatrüki õigsust.\n(5) Ärakirja õigsuse ametlikuks kinnitamiseks tuleb sellel oleva teksti lõppu lisada kinnitusmärge, mis peab sisaldama:\n1) selle dokumendi väljaandjat, väljaandmise kuupäeva ja asukohaviita dokumendiregistris;\n2) kinnitust, et ärakiri on originaaliga samane;\n3) kui originaali ei ole väljastanud ärakirja õigsust kinnitav haldusorgan, siis märkust, et ärakiri on väljastatud esitamiseks üksnes märkuses nimetatud haldusorganitele;\n4) andmeid dokumendis sisalduvate lünkade, läbikriipsutuste, vahelekirjutuste, loetamatute tekstiosade, kustutamisjälgede, muude dokumendi esialgse sisu muutmisele viitavate asjaolude või mitmelehelise dokumendi lahtiköitmise kohta;\n5) kinnitamise kohta ja aega, kinnituse andnud isiku nime ja allkirja ning asutuse pitsati jäljendit.\n(6) Käesoleva paragrahvi lõiget 5 kohaldatakse ka väljavõtte ja väljatrüki ametlikule kinnitamisele."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "25",
+      "title": "§ 25. Kättetoimetamise viisid",
+      "content": "(1) Haldusakt, kutse, teade või muu dokument toimetatakse menetlusosalisele kätte postiga, dokumendi väljastanud haldusorgani poolt või elektrooniliselt.\n(2) Seaduses sätestatud juhtudel antakse dokument allkirja vastu kätte väljakutsutud menetlusosalisele või avaldatakse ajalehes.\n(2^1) Kui menetlusosalisel on esindaja või menetlusosaline on määranud dokumentide vastuvõtmiseks isiku, võib dokumendi kätte toimetada üksnes esindajale või dokumentide vastuvõtmiseks määratud isikule ning dokument loetakse ka menetlusosalisele kättetoimetatuks. Mitme esindaja või määratud isiku olemasolu korral piisab kättetoimetamisest neist ühele.\n(3) Dokument toimetatakse kätte juhul, kui see on seaduse või määrusega ette nähtud. Muudel juhtudel piisab dokumendi teatavakstegemisest vabas vormis."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "26",
+      "title": "§ 26. Kättetoimetamine postiga",
+      "content": "(1) Dokumendi postiga kättetoimetamise korral saadetakse dokument menetlusosalisele taotluses märgitud aadressil tähtkirjaga. Seaduses või määruses sätestatud juhtudel võib dokumendi kätte toimetada lihtkirjaga või väljastusteatega tähtkirjaga.\n(2)\n(3) Dokument loetakse menetlusosalisele kättetoimetatuks, kui see on kohale toimetatud menetlusosalise elu- või asukoha aadressil või kui see on menetlusosalisele postiasutuses allkirja vastu üle antud.\n(4) Kui menetlusosaline ei ole haldusorganile oma aadressi muutmisest teatanud, saadetakse dokument viimasel haldusorganile teadaoleval aadressil ja sellega loetakse dokument kättetoimetatuks."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "27",
+      "title": "§ 27. Elektrooniline kättetoimetamine",
+      "content": "(1) Dokumendi elektroonilise kättetoimetamise korral tehakse dokument kättesaadavaks asjakohases infosüsteemis või Eesti teabeväravas või saadetakse menetlusosalise elektronposti aadressil. Dokumendile peab olema lisatud digitaalallkiri ja vajaduse korral e-tempel või põhjendatud juhul üksnes e-tempel.\n(2) Elektrooniliselt kättesaadavaks tehtud või edastatud dokument loetakse kättetoimetatuks järgmistel juhtudel:\n1) asjakohane infosüsteem on registreerinud dokumendi avamise või vastuvõtmise;\n2) adressaat on kinnitanud elektrooniliselt edastatud dokumendi kättesaamist;\n3) dokument või teade dokumendi kättesaadavaks tegemise kohta on edastatud äriühingu äriregistrisse kantud elektronposti aadressil;\n4) dokument või teade dokumendi kättesaadavaks tegemise kohta on edastatud avalik-õigusliku juriidilise isiku, advokaadi, audiitori, notari, kohtutäituri, pankrotihalduri, patendivoliniku või vandetõlgi äriregistrisse kantud või nimetatud isiku poolt avaldatud elektronposti aadressil."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "28",
+      "title": "§ 28. Kättetoimetamine haldusorgani poolt",
+      "content": "(1) Dokumendi kättetoimetamisel menetlusosalisele dokumendi väljastanud haldusorgani poolt antakse dokument menetlusosalisele kätte allkirja vastu teatisel, millel märgitakse dokumendi üleandmise aeg. Teatist säilitatakse vastavalt käesoleva seaduse §-le 19.\n(2) Dokument loetakse dokumendi väljastanud haldusorgani poolt menetlusosalisele kättetoimetatuks ka juhul, kui selle toimetab ametiabi korras kätte teine haldusorgan.\n(3)\n(4) Dokument loetakse menetlusosalisele kättetoimetatuks ka siis, kui see on allkirja vastu kätte antud menetlusosalisega koos elavale vähemalt 10-aastasele perekonnaliikmele.\n(5) Menetlusosalise ajutise äraoleku korral, kui dokumenti ei olnud võimalik kätte anda ka käesoleva paragrahvi lõikes 4 märgitud isikule, märgib dokumenti kättetoimetav haldusorgan dokumendile lisatud teatisele kellaaja ja kuupäeva, millal dokumendi kättetoimetamine ebaõnnestus. Kirjeldatud juhul võib menetlusosalise dokumendi kätteandmiseks välja kutsuda."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "29",
+      "title": "§ 29. Haldusorgani poolt kättetoimetamise aeg",
+      "content": "(1) Haldusorgan võib dokumendi kätte toimetada tööpäeviti ajavahemikul kella 8.00-st 20.00-ni.\n(2) Ajavahemikul kella 20.00-st 8.00-ni või puhkepäevadel võib dokumendi kätte toimetada adressaadi nõusolekul või viivitusest tuleneva kahju vältimiseks haldusorgani juhi loal.\n(3) Dokumendi kättetoimetamisel ajavahemikul kella 20.00-st 8.00-ni või puhkepäevadel tuleb esitada käesoleva paragrahvi lõikes 2 nimetatud luba.\n(4) Kui dokument toimetati kätte käesoleva paragrahvi sätteid rikkudes, kuid dokumendi vastuvõtja ei keeldunud dokumendi vastuvõtmisest, loetakse dokument kättetoimetatuks."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "30",
+      "title": "§ 30. Dokumendi vastuvõtmisest keeldumise tagajärjed",
+      "content": "Kui menetlusosaline keeldub dokumenti vastu võtmast, teeb dokumendi kättetoimetaja kindlaks keelduja isiku ning teeb dokumendile märke, mille kinnitab oma allkirjaga. Märkega dokumendi tagastab ta haldusorganile. Sel juhul loetakse dokument menetlusosalisele kätte toimetatuks, välja arvatud juhul, kui dokumendi vastuvõtmisest keelduti käesoleva seaduse § 29 lõigete 1–3 rikkumise tõttu."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "31",
+      "title": "§ 31. Dokumendi avaldamine ajalehes",
+      "content": "(1) Dokumendi resolutiivosa avaldatakse üleriigilise levikuga ajalehes või seaduses sätestatud juhtudel ametlikus väljaandes Ametlikud Teadaanded, kui:\n1) dokument on vaja kätte toimetada enam kui sajale isikule;\n2) puuduvad andmed menetlusosalise aadressi või elektronposti aadressi kohta või kui menetlusosaline ei ela teadaoleval aadressil ja tema tegelik viibimiskoht ei ole teada või kui füüsiline isik ei kinnita elektrooniliselt edastatud dokumendi kättesaamist ning dokumenti ei ole muul viisil võimalik kätte toimetada;\n3) haldusakt on vaja avalikult teatavaks teha ja haldusakt ei kuulu avaldamisele Riigi Teatajas.\n(2) Kui dokument puudutab ainult kohaliku elu küsimusi, võib dokumendi resolutiivosa avaldada kohalikus lehes.\n(3) Dokumendi resolutiivosa loetakse avaldatuks pärast esimest avaldamise korda.\n(4) Dokumendi avaldamise kulud kannab kättetoimetaja.\n(5) Avaldamisega loetakse dokument kättetoimetatuks.\n(6) Dokument avaldatakse ulatuses, mis ei sisalda käesoleva seaduse § 7 lõikes 3 nimetatud andmeid."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "32",
+      "title": "§ 32. Kättetoimetamine välisriigis",
+      "content": "(1) Dokumendi kättetoimetamine välisriigis toimub välislepingus sätestatud korras.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud lepingut ei ole sõlmitud, toimub dokumendi kättetoimetamine diplomaatilisi kanaleid kaudu. Pädev asutus edastab dokumendi vastava taotlusega Välisministeeriumile, kes edastab dokumendi välisesindusele.\n(3) Kui käesoleva paragrahvi lõikes 1 nimetatud lepingut ei ole sõlmitud ja seadus või määrus näeb ette dokumendi kättetoimetamise posti teel või elektrooniliselt, toimetatakse dokument kätte vastavalt käesoleva seaduse §-s 26 või 27 sätestatud korras."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "33",
+      "title": "§ 33. Menetlustähtaja algus ja lõpp",
+      "content": "(1) Tähtaegade arvutamisel haldusmenetluses kohaldatakse tsiviilkohtumenetluse seadustiku sätteid.\n(2) Tähtaeg algab järgmisel päeval pärast selle kalendripäeva või sündmuse saabumist, millega määrati kindlaks tähtaja algus. Päevadega määratud tähtaeg lõpeb tähtaja viimasel päeval.\n(3) Kui menetlustähtaja lõpp ei lange tööpäevale, lõpeb tähtaeg esimesel tähtpäevale järgneval tööpäeval.\n(4) Kui haldusorganile esitatav taotlus on võõrkeelne ning haldusorgan nõuab tõlke esitamist, algab menetlustähtaeg taotluse tõlke haldusorganisse saabumise päevale järgneval päeval.\n(5) Haldusorgan võib enda määratud menetlustähtaegu oma algatusel pikendada.\n(6) Haldusorgan võib menetlustähtaja pikendamise siduda käesoleva seaduse § 53 lõikes 1 loetletud kõrvaltingimustega."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "34",
+      "title": "§ 34. Menetlustähtaja ennistamine",
+      "content": "(1) Kui menetlustähtaeg on mööda lastud mõjuval põhjusel, võib haldusorgan oma algatusel või menetlusosalise taotlusel tähtaja ennistada.\n(2) Menetlustähtaja ennistamise põhjendatud taotlus tuleb esitada kahe nädala jooksul pärast menetlustoimingu sooritamist takistava asjaolu äralangemist. Haldusorgan võib menetlusosaliselt ennistamise taotluse esitamisega üheaegselt nõuda menetlustoimingu sooritamist, mille tähtaja ennistamist taotletakse.\n(3) Menetlustähtaega ei ennistata, kui esialgsest menetlustoimingu teostamiseks ettenähtud tähtpäevast on möödunud rohkem kui üks aasta.\n(4) Menetlustähtaja ennistamise üle otsustab menetlustoimingut läbiviiva haldusorgani juht või tema poolt volitatud isik.\n(5) Seaduses võib ette näha juhud, millal ei saa menetlustähtaega ennistada."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "2. peatükk - HALDUSMENETLUSE LÄBIVIIMINE",
+      "section": "35",
+      "title": "§ 35. Menetluse algus",
+      "content": "(1) Haldusmenetlus haldusakti andmiseks või toimingu sooritamiseks algab:\n1) taotluse esitamisega haldusorganile;\n2) haldusorgani initsiatiivil algatatud haldusmenetluses menetlusosalise teavitamisega menetlusest;\n3) haldusorgani initsiatiivil algatatud haldusmenetluses menetlusosalise suhtes esimese menetlustoimingu sooritamisega.\n(2) Haldusorgan teatab menetlusosalistele haldusakti andmiseks või toimingu sooritamiseks taotluse esitamisest.\n(3) Haldusmenetlus halduslepingu sõlmimiseks algab halduslepingu sõlmimise ettepaneku tegemisega.\n(4) Menetlustähtaja arvutamine taotluse esitamisega algavas haldusmenetluses toimub saabunud dokumendi registreerimise hetkest alates."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "2. peatükk - HALDUSMENETLUSE LÄBIVIIMINE",
+      "section": "36",
+      "title": "§ 36. Haldusorgani selgitamiskohustus",
+      "content": "(1) Haldusorgan selgitab menetlusosalisele või taotluse esitamist kaaluvale isikule nende soovil:\n1) millised õigused ja kohustused on menetlusosalisel haldusmenetluses;\n1^1) millised on haldusmenetluses töödeldavad isikuandmed ning andmesubjekti õigused;\n2) millise tähtaja jooksul haldusmenetlus eeldatavasti läbi viiakse ja millised on võimalused haldusmenetluse kiirendamiseks;\n3) millised taotlused, tõendid ja muud dokumendid tuleb haldusmenetluses esitada;\n4) milliseid menetlustoiminguid peavad menetlusosalised sooritama.\n(2) Kui taotletava haldusakti andmiseks või toimingu sooritamiseks on vajalik eelnevalt mõne muu haldusakti andmine, selgitab haldusorgan viivitamatult vajaliku haldusakti taotlemise ja taotluse läbivaatamise korda ning muu haldusakti andmise tingimusi."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "2. peatükk - HALDUSMENETLUSE LÄBIVIIMINE",
+      "section": "37",
+      "title": "§ 37. Dokumentidega tutvumine",
+      "content": "(1) Igaühel on õigus igas menetlusstaadiumis tutvuda haldusorganis säilitatavate asjas tähtsust omavate dokumentide ja toimikuga, kui see on olemas.\n(2) Haldusorgan keelab toimiku, dokumendi või selle osaga tutvumise, kui selles sisalduvate andmete avaldamine on seadusega või selle alusel keelatud.\n(3) Toimikuga ja dokumentidega tutvumine toimub üldjuhul haldusorgani tööruumides ametiisiku juuresolekul. Haldusorgan võib teha sellest korrast erandeid.\n(4) Dokumentidest väljavõtete või koopiate tegemine ning kulude hüvitamine toimub avaliku teabe seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "2. peatükk - HALDUSMENETLUSE LÄBIVIIMINE",
+      "section": "38",
+      "title": "§ 38. Tõendid",
+      "content": "(1) Haldusorganil on õigus nõuda haldusmenetluse käigus menetlusosalistelt ning muudelt isikutelt nende käsutuses olevate tõendite ja andmete esitamist, mille alusel haldusorgan teeb kindlaks asja lahendamiseks olulised asjaolud.\n(2) Tõendiks võib olla menetlusosalise seletus, dokumentaalne tõend, asitõend, paikvaatlus, tunnistaja ütlus ning eksperdi arvamus.\n(3) Menetlusosaline on kohustatud haldusorganile esitama ja teatavaks tegema talle teada olevad menetluses tähtsust omavad asjaolud ja tõendid. Selle kohustuse täitmata jätmisel võib haldusorgan soodustava haldusakti andmisel jätta taotluse läbi vaatamata."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "2. peatükk - HALDUSMENETLUSE LÄBIVIIMINE",
+      "section": "39",
+      "title": "§ 39. Ekspert ja tunnistaja haldusmenetluses",
+      "content": "(1) Haldusorgan kaasab eksperdi või tunnistaja haldusmenetlusse tema nõusolekul, kui seadus ei näe ette tema menetluses osalemise kohustust. Tunnistajana ei või menetlusse kaasata isikuid, keda keelab tunnistajana üle kuulata tsiviilkohtumenetluse seadustik.\n(2) Kui eksperdi osavõtt haldusmenetlusest on ette nähtud seadusega, võib ekspert arvamuse andmisest keelduda tsiviilkohtumenetluse seadustikus sätestatud alustel.\n(3) Tunnistaja kuulatakse üle tsiviilkohtumenetluse seadustikuga sätestatud korras.\n(4) Eksperdil ja tunnistajal on õigus oma ülesannete täitmise eest saada tasu või hüvitist tsiviilkohtumenetluse seadustikus sätestatud alustel.\n(5) Tunnistajale ja eksperdile raha väljamaksmise korra määrab Vabariigi Valitsus. Väljaspool oma elukohta haldusmenetluses osalevale eksperdile või tunnistajale makstakse sõidu-, korteri- ja päevaraha Vabariigi Valitsuse määrusega kehtestatud suuruses.\n(6) Eksperdi või tunnistaja kaasamise kulud kannab isik või haldusorgan, kelle taotlusel tunnistaja või ekspert kaasati."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "2. peatükk - HALDUSMENETLUSE LÄBIVIIMINE",
+      "section": "40",
+      "title": "§ 40. Menetlusosalise arvamuse ja vastuväidete ärakuulamine",
+      "content": "(1) Enne haldusakti andmist peab haldusorgan andma menetlusosalisele võimaluse esitada kirjalikus, suulises või muus sobivas vormis asja kohta oma arvamus ja vastuväited.\n(2) Enne menetlusosalise suhtes sellise toimingu sooritamist, mis võib kahjustada tema õigusi, peab haldusorgan andma talle võimaluse arvamuse ja vastuväidete esitamiseks.\n(3) Haldusmenetluse võib läbi viia menetlusosalise arvamust ja vastuväiteid ära kuulamata, kui:\n1) viivitusest tuleneva kahju ärahoidmiseks või avalike huvide kaitseks on vaja viivitamatult tegutseda;\n2) menetlusosalise poolt taotluses või seletuses esitatud andmetest ei kalduta kõrvale ning puudub vajadus lisaandmete saamiseks;\n3) asja ei otsustata selle menetlusosalise kahjuks;\n4) arvamuse või vastuväidete esitamise võimaldamisega kaasnev haldusaktist või toimingust teavitamine ei võimalda saavutada haldusakti või toimingu eesmärki;\n5) menetlusosaline ei ole teada või kui sooritatav toiming puudutab määratlemata hulka isikuid ja nende kindlakstegemine ei ole mõistliku aja jooksul võimalik;\n6) haldusakt antakse üldkorraldusena või menetlusosaliste arv on suurem kui 50;\n7) muudel seaduses sätestatud juhtudel."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "2. peatükk - HALDUSMENETLUSE LÄBIVIIMINE",
+      "section": "41",
+      "title": "§ 41. Haldusmenetluse läbiviimise tähtaeg",
+      "content": "Kui haldusakti või toimingut ei ole võimalik anda või sooritada ettenähtud tähtaja jooksul, peab haldusorgan viivituseta tegema teatavaks haldusakti andmise või toimingu sooritamise tõenäolise aja ning näitama ettenähtud tähtajast mittekinnipidamise põhjuse."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "2. peatükk - HALDUSMENETLUSE LÄBIVIIMINE",
+      "section": "42",
+      "title": "§ 42. Menetlustoimingule ilmumata jäämine",
+      "content": "(1) Haldusorgani kutse peale on isik kohustatud ilmuma kutses märgitud ajal kutses ettenähtud kohta.\n(2) Kui menetlusosalisel ei ole mõjuval põhjusel võimalik kutse peale ilmuda, peab ta sellest viivitamata teatama haldusorganile. Põhjuse mõjuvuse üle otsustab haldusorgan, teatades sellest viivitamata menetlusosalisele.\n(3) Kui menetlusosaline jääb menetlustoimingule mõjuva põhjuseta ilmumata, lahendab haldusorgan asja tema kohalolekuta.\n(4) Kui haldusakti andmiseks või toimingu sooritamiseks taotluse esitanud isik jääb menetlustoimingule mõjuva põhjuseta ilmumata, võib haldusorgan jätta taotluse läbi vaatamata ja lõpetada haldusmenetluse."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "2. peatükk - HALDUSMENETLUSE LÄBIVIIMINE",
+      "section": "43",
+      "title": "§ 43. Menetluse lõppemine",
+      "content": "(1) Haldusakti andmise menetlus lõpeb:\n1) haldusakti teatavakstegemisega;\n2) taotleja poolt taotluse tagasivõtmisega;\n3) haldusorgani poolt taotluse läbi vaatamata jätmisega;\n4) haldusakti adressaadi surma või lõppemise korral, kui haldusakt on seotud adressaadi isikuga.\n(2) Kui taotletud haldusakt otsustatakse jätta andmata, antakse selle kohta haldusakt. Kui haldusorgani initsiatiivil algatatud haldusmenetluses otsustatakse jätta haldusakt andmata, teavitatakse sellest adressaati ja haldusmenetlus lõpeb.\n(3) Halduslepingu sõlmimise menetlus lõpeb:\n1) halduslepingu sõlmimisega;\n2) kokkuleppega või ühe poole otsusega jätta haldusleping sõlmimata;\n3) halduslepingu poole surma või lõppemise korral.\n(4) Toimingu menetlus lõpeb:\n1) toimingu sooritamisega;\n2) põhjendatud otsusega toimingut mitte sooritada;\n3) taotleja poolt taotluse tagasivõtmisega;\n4) haldusorgani poolt taotluse läbi vaatamata jätmisega;\n5) toimingu adressaadi surma või lõppemise korral, kui toiming on seotud adressaadi isikuga."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "2. peatükk - HALDUSMENETLUSE LÄBIVIIMINE",
+      "section": "44",
+      "title": "§ 44. Menetluse uuendamine",
+      "content": "(1) Haldusorgan uuendab menetlusosalise taotlusel haldusmenetluse, kui:\n1) taotluse esitaja õigusi kestvalt piirava haldusakti andmise aluseks olnud asjaolu või õigusnorm on ära langenud;\n2) asjas ilmnevad uued olulised tõendid, mis ei olnud isikule haldusmenetluse ajal teada;\n3) jõustunud kohtuotsusega on tuvastatud, et haldusakt on antud või toiming on sooritatud pettuse või ähvardusega või muul viisil haldusorgani õigusvastase mõjutamise tulemusena või et haldusorgani nimel tegutsenud isik on haldusmenetluse käigus pannud toime kuriteo;\n4) jõustunud kohtuotsusega on tühistatud kohtuotsus, millel haldusakt põhines.\n(2) Haldusorgan vaatab uuendatud menetluses asja läbi, arvestades käesoleva seaduse 4. peatüki 3. ja 4. jaos sätestatut.\n(3) Haldusmenetluse uuendamise taotlus tuleb esitada haldusmenetluse läbiviinud haldusorganile ühe kuu jooksul haldusmenetluse uuendamise asjaolude teadasaamisest alates.\n(4) Menetlustoiminguid, mida menetluse uuendamise põhjused ei puuduta, ei korrata."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "2. peatükk - HALDUSMENETLUSE LÄBIVIIMINE",
+      "section": "45",
+      "title": "§ 45. Asja arutamine istungil",
+      "content": "(1) Haldusmenetluse asja arutatakse istungil:\n1) menetlusosaliste vastanduvate huvide korral, kui see ei põhjusta menetluse ülemäärast venimist;\n2) seaduse või määrusega ettenähtud juhtudel;\n3) juhtudel, kui see on haldusorgani otsusel vajalik asja kiireks ja õigeks lahendamiseks.\n(2) Istungi viib haldusorgan läbi võimalikult kiiresti ja lihtsalt, tagades sealjuures menetlusosaliste õigused.\n(3) Istungil võivad peale haldusorgani esindajate ja menetlusosaliste viibida ka haldusorgani üle järelevalvet teostava haldusorgani esindajad. Haldusorgan võib lubada istungist osa võtta ka muudel isikutel, kui sellele ei ole vastu ükski menetlusosaline.\n(4) Istungi juhataja võib istungilt kõrvaldada isiku, kes ei allu istungi juhataja poolt kindlaksmääratud istungi läbiviimise korrale.\n(5) Istung protokollitakse."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "3. peatükk - AVATUD MENETLUS",
+      "section": "46",
+      "title": "§ 46. Avatud menetluse läbiviimine",
+      "content": "(1) Seaduses sätestatud juhtudel viiakse haldusmenetlus õigusakti andmiseks läbi avatud menetlusena. Kui see on vajalik asja lahendamiseks ega kahjusta oluliselt menetlusosaliste huve, võib haldusorgan viia avatud menetluse läbi ka muudel juhtudel.\n(2) Kui avatud menetluse läbiviimine on kohustuslik õigusakti andmiseks, viiakse avatud menetlus läbi ka õigusakti muutmiseks ja kehtetuks tunnistamiseks.\n(3) Ilmselgelt põhjendamatu taotluse võib haldusorgan jätta rahuldamata avatud menetlust läbi viimata. Taotluse esitaja arvamus ja vastuväited tuleb sel juhul ära kuulata.\n(4) Peale käesoleva peatüki sätete kohaldatakse avatud menetluse suhtes ka muid haldusmenetlust reguleerivaid sätteid vastavalt avatud menetluse eesmärgile ja olemusele."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "3. peatükk - AVATUD MENETLUS",
+      "section": "47",
+      "title": "§ 47. Avatud menetluse algatamine ja sellest teatamine",
+      "content": "(1) Taotlus avatud menetluses antava õigusakti andmiseks esitatakse kirjalikult.\n(2) Avatud menetluse algatamisest teatab haldusorgan:\n1) avatud menetluses antava haldusakti adressaadile;\n2) isikule, kelle õigusi haldusakt võib piirata;\n3) haldusorganile, kes peab õigusakti andmise kooskõlastama või selle eelnõu kohta arvamust avaldama, samuti haldusorganile, kelle haldusakti eeldab avatud menetluse korras õigusakti andmine.\n(3) Haldusorgan avaldab menetluse algatamise kohta teate vähemalt ühes üleriigilise levikuga ajalehes. Kohalikku elu puudutavas küsimuses avatud menetluse algatamise teate võib avaldada kohalikus või maakondlikus ajalehes.\n(4) Teates märgitakse lühidalt taotluse sisu, avatud menetluse korras antava õigusakti eelnõu ja taotluse väljapaneku aeg ja koht ning ettepanekute ja vastuväidete esitamise tähtaeg.\n(5) Teate avaldamise kulud kannab taotleja."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "3. peatükk - AVATUD MENETLUS",
+      "section": "48",
+      "title": "§ 48. Õigusakti eelnõu ja taotluse väljapanek",
+      "content": "(1) Taotlus õigusakti andmiseks ja õigusakti eelnõu koos seletuskirjaga pannakse avalikkusele tutvumiseks välja, tagades avalikkusele nimetatud dokumentidega tutvumise võimaluse vähemalt kuni ettepanekute ja vastuväidete esitamise tähtaja lõpuni.\n(2) Lisaks käesoleva paragrahvi lõikes 1 märgitud dokumentidele pannakse avalikkusele tutvumiseks välja ka taotlusele lisatud ning menetluse käigus haldusorganile esitatud või tema poolt koostatud muud asjassepuutuvad olulised dokumendid.\n(3) Avalikkusele tutvumiseks ei panda välja andmeid, mille avaldamine on seadusega või selle alusel keelatud.\n(4) Eelnõu või taotluse väljapaneku eest vastutab avatud menetlust läbiviiv haldusorgan."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "3. peatükk - AVATUD MENETLUS",
+      "section": "49",
+      "title": "§ 49. Ettepanekute ja vastuväidete esitamine avatud menetluses",
+      "content": "(1) Huvitatud isikul ja isikul, kelle õigusi võib avatud menetluse korras antav õigusakt puudutada, on õigus määratud tähtaja jooksul esitada menetlust läbiviivale haldusorganile eelnõu või taotluse kohta ettepanekuid ja vastuväiteid.\n(2) Haldusorgan määrab ettepanekute ja vastuväidete esitamiseks tähtaja, mis ei või olla lühem kui kaks nädalat väljapaneku algusest arvates. Kui menetluse algatamisest teatatakse pärast väljapaneku algust, ei või tähtaeg olla lühem kui kaks nädalat teatamisest arvates.\n(3) Taotluse esitajale tuleb anda võimalus enne asja otsustamist ettepanekute ja vastuväidetega tutvumiseks ning nende kohta arvamuse avaldamiseks.\n(4) Kui eelnõu või taotlust muudetakse pärast väljapanekut isiku kahjuks, kelle õigusi eelnõu või taotlus puudutab, teavitab haldusorgan teda sellest ning annab talle võimaluse tutvuda eelnõu või taotlusega ja esitada selle kohta ettepanekuid ja vastuväiteid.\n(5) Suuliselt esitatud arvamused, ettepanekud ja vastuväited protokollitakse."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "3. peatükk - AVATUD MENETLUS",
+      "section": "50",
+      "title": "§ 50. Asja arutamine avalikul istungil",
+      "content": "(1) Avatud menetluse korral otsustab haldusorgan õigusakti andmise pärast asja arutamist avalikul istungil. Istungist teatab haldusorgan käesoleva seaduse §-s 47 ettenähtud korras. Menetlusosalisel on õigus avaldada istungil asja kohta suuliselt arvamust.\n(2) Õigusakti andmise võib otsustada ilma avalikul istungil arutamiseta, kui:\n1) tähtaja jooksul ettepanekuid või vastuväiteid ei esitatud ja menetlusosalised loobusid asja arutamisest avalikul istungil;\n2) see võimalus on ette nähtud seadusega.\n(3) Menetlusosaline loetakse asja arutamisest avalikul istungil loobunuks, kui haldusorgan on väljapaneku alguses või menetlusest teatamisel teinud ettepaneku asja arutamiseks ilma avalikku istungit läbi viimata ja menetlusosaline ei ole ettepanekute ja vastuväidete esitamise tähtajaks esitanud selle suhtes vastuväiteid.\n(4) Kui avaliku istungi toimumise aega ei ole teatavaks tehtud menetluse algatamise teates, saadetakse menetlusosalisele kutse käesoleva seaduse 1. peatüki 7. jaos sätestatud korras vähemalt 10 päeva enne istungit. Kui avatud menetlus on ette nähtud seaduse või määrusega, võib haldusorgan kohustada istungil osalema tunnistajaid."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "51",
+      "title": "§ 51. Haldusakti mõiste",
+      "content": "(1) Haldusakt on haldusorgani poolt haldusülesannete täitmisel avalikõiguslikus suhtes üksikjuhtumi reguleerimiseks antud, isiku õiguste või kohustuste tekitamisele, muutmisele või lõpetamisele suunatud korraldus, otsus, ettekirjutus, käskkiri või muu õigusakt.\n(2) Üldkorraldus on haldusakt, mis on suunatud üldiste tunnuste alusel kindlaksmääratud isikutele või asja avalik-õigusliku seisundi muutmisele."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "52",
+      "title": "§ 52. Osahaldusakt ja eelhaldusakt",
+      "content": "(1) Haldusorgan võib enne asja lõplikku lahendamist:\n1) lahendada asja osaliselt (osahaldusakt);\n2) teha õiguslikult siduvalt kindlaks asja lõplikul lahendamisel tähtsust omava asjaolu (eelhaldusakt).\n(2) Osahaldusakti ja eelhaldusakti suhtes kohaldatakse haldusakti sätteid."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "53",
+      "title": "§ 53. Haldusakti kõrvaltingimus",
+      "content": "(1) Haldusakti kõrvaltingimus on:\n1) haldusakti kehtivusaja piiramine kindlaksmääratud tähtpäevast või tulevikus aset leida võivast sündmusest lähtudes;\n2) haldusakti põhiregulatsiooniga seotud lisakohustus;\n3) lisatingimus haldusakti põhiregulatsioonist tuleneva õiguse tekkimiseks;\n4) haldusakti hilisema muutmise, kehtetuks tunnistamise või kõrvaltingimuse kehtestamise võimaluse jätmine.\n(2) Haldusaktile võib kehtestada kõrvaltingimuse:\n1) seaduses või määruses sätestatud juhul;\n2) kui kõrvaltingimuseta tuleks haldusakt jätta andmata;\n3) kui haldusakti andmine tuleb otsustada halduse kaalutlusõiguse alusel.\n(3) Kui kõrvaltingimuse kehtivuse lõppemisel muutub haldusakt õigusvastaseks, tunnistab haldusorgan haldusakti viivitamatult kehtetuks või kehtestab uue kõrvaltingimuse."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "54",
+      "title": "§ 54. Haldusakti õiguspärasuse eeldused",
+      "content": "Haldusakt on õiguspärane, kui ta on antud pädeva haldusorgani poolt andmise hetkel kehtiva õiguse alusel ja sellega kooskõlas, proportsionaalne, kaalutlusvigadeta ning vastab vorminõuetele."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "55",
+      "title": "§ 55. Haldusakti vorm",
+      "content": "(1) Haldusakt peab olema selge ja üheselt mõistetav.\n(2) Haldusakt antakse kirjalikus vormis, kui seaduse või määrusega ei ole sätestatud teisiti. Haldusakti võib anda muus vormis edasilükkamatu korralduse tegemiseks. Isiku taotlusel, kellel on selleks põhjendatud huvi, tuleb muus vormis antud haldusakt tagantjärele viivituseta kirjalikult vormistada.\n(3) Kirjalikus vormis haldusakti võib anda elektrooniliselt. Elektroonilise haldusakti suhtes kohaldatakse kirjalikule haldusaktile esitatavaid nõudeid, arvestades dokumendi elektroonilisest vormist tingitud erisusi.\n(4) Kirjalikus haldusaktis märgitakse selle andnud haldusorgani nimetus, haldusorgani juhi või tema volitatud isiku nimi ja allkiri, haldusakti väljaandmise aeg ning muud õigusaktiga ettenähtud andmed. Elektroonilisele haldusaktile ei pea lisama digitaalallkirja, kui haldusorgani juht või tema volitatud isik on turvalisel viisil tuvastatav.\n(5) Haldusakti andmise kohta väljastatud tõend ei ole haldusakt."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "56",
+      "title": "§ 56. Haldusakti põhjendamine",
+      "content": "(1) Kirjalik haldusakt ja soodustava haldusakti andmisest keeldumine peab olema kirjalikult põhjendatud. Haldusakti põhjendus esitatakse haldusaktis või menetlusosalisele kättesaadavas dokumendis, millele on haldusaktis viidatud.\n(2) Haldusakti põhjenduses tuleb märkida haldusakti andmise faktiline ja õiguslik alus.\n(3) Kaalutlusõiguse alusel antud haldusakti põhjenduses tuleb märkida kaalutlused, millest haldusorgan on haldusakti andmisel lähtunud.\n(4) Haldusakti andmise faktilist alust ei pea põhjenduses näitama, kui haldusakti adressaadi taotlus rahuldati ja kolmanda isiku õigusi ega vabadusi ei piirata."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "57",
+      "title": "§ 57. Vaidlustamisviide",
+      "content": "(1) Haldusaktis peab olema viide haldusakti vaidlustamise võimaluste, koha, tähtaja ja korra kohta.\n(2) Vaidlustamisviite puudumine ei mõjuta haldusakti kehtivust, vaidlustamise tähtaega ega too kaasa muid õiguslikke tagajärgi.\n(3) Vaidlustamisviite puudumist võib pidada haldusakti vaidlustamise tähtaja möödalaskmise mõjuvaks põhjuseks, kui tähtaja möödalaskmine on tingitud vaidlustamisviite puudumisest."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "58",
+      "title": "§ 58. Menetlus- ja vorminõuete rikkumise tagajärjed",
+      "content": "Haldusakti kehtetuks tunnistamist ei saa nõuda üksnes põhjusel, et haldusakti andmisel rikuti menetlusnõudeid või et haldusakt ei vasta vorminõuetele, kui eelnimetatud rikkumised ei võinud mõjutada asja otsustamist."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "59",
+      "title": "§ 59. Ilmse ebatäpsuse parandamine haldusaktis",
+      "content": "Haldusorgan parandab seadusega haldusakti muutmiseks ettenähtud menetluskorda järgimata haldusaktis kirjavea ja muu ilmse ebatäpsuse, mis ei mõjuta haldusakti sisu. Haldusorgan teeb haldusakti parandamise teatavaks haldusakti adressaadile."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "60",
+      "title": "§ 60. Kehtivuse sisu",
+      "content": "(1) Õiguslikke tagajärgi loob ja täitmiseks on kohustuslik ainult kehtiv haldusakt.\n(2) Kehtiva haldusakti resolutiivosa on kohustuslik igaühele, sealhulgas haldus- ja riigiorganitele. Haldusakti resolutiivosa on haldusaktiga kindlaksmääratavaid õigusi ja kohustusi sisaldav osa. Haldusakti muudel osadel, sealhulgas haldusakti põhjenduses tuvastatud asjaoludel on iseseisev õiguslik tähendus ainult seaduses sätestatud juhtudel."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "61",
+      "title": "§ 61. Kehtivuse eeldused",
+      "content": "(1) Haldusakt kehtib adressaadile teatavaks tegemisest või kättetoimetamisest alates, kui haldusaktis ei ole ette nähtud hilisemat kehtima hakkamist. Kui seaduses ei ole sätestatud teisiti, hakkab avalikult teatavaks tehtud haldusakt kehtima 10. päeval pärast avaldamist.\n(2) Haldusakt kehtib kuni kehtetuks tunnistamiseni, kehtivusaja lõppemiseni, haldusaktiga antud õiguse lõpliku realiseerimiseni või kohustuse täitmiseni, kui seadus ei sätesta teisiti."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "62",
+      "title": "§ 62. Haldusakti või selle andmisest keeldumise teatavakstegemine",
+      "content": "(1) Haldusakt tehakse menetlusosalisele teatavaks vabas vormis, kui seaduses või määruses ei ole sätestatud teisiti.\n(2) Haldusakt tehakse kättetoimetamisega teatavaks käesoleva seaduse 1. peatüki 7. jaos sätestatud korras isikule:\n1) kelle õigusi haldusaktiga piiratakse või kellele pannakse haldusaktiga täiendavaid kohustusi;\n2) kelle kahjuks tunnistatakse kehtetuks või muudetakse varasem haldusakt.\n(3) Haldusorgan teeb haldusakti avalikult teatavaks:\n1) käesoleva seaduse § 31 lõike 1 punktides 1 ja 2 sätestatud juhtudel;\n2) kui seda nõuab isik, kellel on selleks põhjendatud huvi;\n3) kui haldusakti avalik teatavakstegemine on ette nähtud seaduse või määrusega.\n(4) Käesoleva paragrahvi lõike 3 punktis 2 sätestatud juhul kannab haldusakti avalikult teatavaks tegemise kulud isik, kes avalikult teatavakstegemist nõudis.\n(5) Isikule, kelle taotlus haldusakti andmiseks jäetakse rahuldamata, tehakse kättetoimetamisega teatavaks haldusakti andmisest keeldumine.\n(6) Haldusakti avalikul teatavakstegemisel avaldatakse haldusakti andnud haldusorgani nimetus, haldusakti adressaadi nimi, haldusakti resolutiivosa ja viide kogu haldusaktiga tutvumise võimalustele."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "63",
+      "title": "§ 63. Tühine haldusakt",
+      "content": "(1) Tühine haldusakt on kehtetu algusest peale.\n(2) Haldusakt on tühine, kui:\n1) sellest ei selgu haldusakti andnud haldusorgan;\n2) sellest ei selgu haldusakti adressaat;\n3) seda ei ole andnud pädev haldusorgan;\n4) see kohustab toime panema õigusrikkumise;\n5) sellest ei selgu õigused ja kohustused, kohustused on vastukäivad või seda ei ole muul objektiivsel põhjusel kellelgi võimalik täita.\n(3) Haldusakti osa tühisus toob kaasa kogu haldusakti tühisuse, kui tühise osata ei oleks haldusakti antud.\n(4) Haldusakti andnud organ võib haldusakti tühisuse igal ajal kindlaks teha. Isik, kellel on selleks põhjendatud huvi, võib nõuda haldusorganilt ja halduskohtult haldusakti tühisuse kindlakstegemist."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "64",
+      "title": "§ 64. Kehtetuks tunnistamise lubatavus",
+      "content": "(1) Käesoleva jao sätteid kohaldatakse haldusakti kehtetuks tunnistamisele haldusorgani poolt. Kehtetuks tunnistamise kohta sätestatut kohaldatakse ka haldusorgani poolt haldusakti muutmise ja haldusakti kehtivuse peatamise suhtes.\n(2) Haldusorgan otsustab haldusakti kehtetuks tunnistamise kaalutlusõiguse kohaselt, kui seadus ei keela haldusakti kehtetuks tunnistada või ei kohusta haldusakti kehtetuks tunnistama.\n(3) Kaalutlusõiguse teostamisel tuleb arvestada haldusakti andmise ja haldusakti kehtetuks tunnistamise tagajärgi isikule, haldusakti andmise menetluse põhjalikkust, haldusakti kehtetuks tunnistamise põhjuste olulisust ning nende seost isiku osalemisega haldusakti andmise menetluses ja isiku muu tegevusega, haldusakti andmisest möödunud aega ning muid tähtsust omavaid asjaolusid.\n(4) Kui kehtetuks tunnistamine toimub ühe isiku kasuks ja teise isiku kahjuks, lähtutakse sätetest, mis reguleerivad haldusakti kehtetuks tunnistamist isiku kahjuks."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "65",
+      "title": "§ 65. Kehtetuks tunnistamine isiku kasuks",
+      "content": "(1) Haldusakti, mis andmise ajal oli õigusvastane, võib isiku kasuks tunnistada kehtetuks nii edasiulatuvalt kui ka tagasiulatuvalt.\n(2) Õiguspärase haldusakti võib edasiulatuvalt kehtetuks tunnistada isiku kasuks, välja arvatud juhul, kui sama sisuga haldusakt tuleks uuesti välja anda või kui kehtetuks tunnistamine oleks vastuolus seadusega.\n(3) Kui langeb ära kestvalt õigusi piirava haldusakti andmise alus õiguslike või faktiliste asjaolude muutumise tõttu, tuleb haldusakt isiku taotlusel tunnistada kehtetuks asjaolude muutumisest alates."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "66",
+      "title": "§ 66. Kehtetuks tunnistamine isiku kahjuks",
+      "content": "(1) Õigusvastase haldusakti võib, arvestades käesoleva seaduse §-s 67 sätestatut, isiku kahjuks kehtetuks tunnistada nii edasiulatuvalt kui ka tagasiulatuvalt, kui seadus ei sätesta teisiti.\n(2) Haldusakti, mis andmise ajal oli õiguspärane, võib tunnistada isiku kahjuks edasiulatuvalt kehtetuks, kui:\n1) see on lubatud seadusega või kui selleks on jäetud võimalus haldusaktis;\n2) haldusorganil oleks olnud õigus jätta haldusakt hiljem muutunud faktiliste asjaolude tõttu või hiljem muudetud õigusnormi alusel välja andmata ja avalik huvi haldusakti kehtetuks tunnistamiseks kaalub üles isiku usalduse, et haldusakt jääb kehtima;\n3) haldusaktiga on seotud lisakohustus ja isik ei ole seda täitnud;\n4) isik ei kasuta haldusakti alusel üleantud raha või asja eesmärgipäraselt.\n(3) Haldusakti, mis andmise ajal oli õiguspärane, võib tunnistada isiku kahjuks tagasiulatuvalt kehtetuks käesoleva paragrahvi lõike 2 punktides 1, 3 ja 4 sätestatud juhtudel.\n(4) Haldusakti võib käesoleva paragrahvi lõike 2 punktis 2 sätestatud juhul tunnistada kehtetuks asjaolude muutumisest alates, kui isik, kelle kahjuks haldusakt kehtetuks tunnistatakse, on jätnud süüliselt täitmata kohustuse teatada asjaolude olulisest muutumisest."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "67",
+      "title": "§ 67. Usalduse arvestamine",
+      "content": "(1) Isiku kahjuks haldusakti kehtetuks tunnistamist otsustades arvestab haldusorgan peale käesoleva seaduse § 64 lõikes 3 sätestatu ka isiku usaldust, et haldusakt jääb kehtima, avalikku huvi ja haldusaktiga koormatud isiku huvi, et haldusakt tunnistataks kehtetuks.\n(2) Haldusakti ei tohi tunnistada kehtetuks isiku kahjuks, kui isik on haldusakti kehtima jäämist usaldades kasutanud ära haldusakti alusel saadud vara, teinud tehingu oma vara käsutamiseks või on muul viisil muutnud oma elukorraldust ja tema huvi haldusakti kehtima jäämiseks kaalub üles avaliku huvi haldusakti kehtetuks tunnistamiseks.\n(3) Kui ülekaalukast avalikust huvist tulenevalt tunnistatakse haldusakt isiku kahjuks kehtetuks, hüvitatakse isikule varaline kahju, mis tal haldusakti kehtima jäämise usaldamise tõttu on tekkinud või kindlasti tekib.\n(4) Isik ei saa haldusakti kehtetuks tunnistamisel tugineda usaldusele, kui:\n1) halduskohtule haldusakti kehtetuks tunnistamiseks kaebuse esitamise tähtaeg ei ole veel möödunud, samuti haldusakti kehtetuks tunnistamise kaebuse läbivaatamise ajal;\n2) kehtetuks tunnistamise võimalus on ette nähtud seaduses või selleks on jäetud võimalus haldusaktis;\n3) isik ei ole täitnud haldusaktiga seotud lisakohustust;\n4) isik ei ole kasutanud haldusakti alusel üle antud raha või asja eesmärgipäraselt;\n5) isik oli haldusakti õigusvastasusest teadlik või ei olnud sellest oma süü tõttu teadlik;\n6) haldusakt on antud isiku esitatud ebaõigete või mittetäielike andmete alusel või pettuse või ähvardusega või muul viisil haldusorgani õigusvastase mõjutamise tulemusena.\n(5) Ebaõigete andmete esitamine ei välista usalduse arvestamist, kui ebaõigete või mittetäielike andmete esitamise on põhjustanud haldusorgan ja isik ei olnud ega pidanud olema haldusakti õigusvastasusest teadlik."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "68",
+      "title": "§ 68. Kehtetuks tunnistamise taotlemine ja otsustamine",
+      "content": "(1) Isikul on õigus taotleda haldusakti kehtetuks tunnistamist üksnes juhul, kui ta võib taotleda käesoleva seaduse § 44 alusel haldusmenetluse uuendamist.\n(2) Haldusakti kehtetuks tunnistamise otsustab haldusorgan, kelle pädevuses oleks haldusakti andmine kehtetuks tunnistamise ajal. Muu haldusorgan võib haldusakti kehtetuks tunnistada ainult seaduses sätestatud juhul. Pädevust ületades antud haldusakti võib tunnistada kehtetuks ka haldusakti andnud haldusorgan.\n(3) Haldusakt loetakse kehtetuks kehtetuks tunnistamise jõustumise hetkest, kui haldusorgan ei kehtesta teist ajamomenti."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "69",
+      "title": "§ 69. Kehtetuks tunnistamisest tulenev tagastamine ja hüvitamine",
+      "content": "(1) Tagasiulatuvalt kehtetuks tunnistatud haldusakti alusel isikule üle antud asi, raha või muu soodustus tagastatakse või hüvitatakse eraõiguses alusetu rikastumise kohta kehtivate sätete kohaselt.\n(2) Tagasiulatuvalt kehtetuks tunnistatud haldusakti alusel isiku poolt haldusorganile üle antud asjade või raha tagastamise või hüvitamise osas kohaldatakse riigivastutuse seadust."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "4. peatükk - HALDUSAKT",
+      "section": "70",
+      "title": "§ 70. Muud nõuded",
+      "content": "(1) Haldusakt tunnistatakse kehtetuks iseseisva haldusaktiga, mille suhtes kohaldatakse peale käesoleva jao sätete ka muid haldusakti kohta kehtivaid nõudeid.\n(2) Seadusega võib haldusakti kehtetuks tunnistamise aluseid, võrreldes käesoleva jao sätetega, piirata või laiendada."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "71",
+      "title": "§ 71. Vaidemenetluse algatamise õigus",
+      "content": "(1) Isik, kes leiab, et haldusaktiga või haldusmenetluse käigus on rikutud tema õigusi või piiratud tema vabadusi, võib esitada vaide.\n(2) Vaiet ei saa esitada haldusorgani, kelle üle teostab teenistuslikku järelevalvet Vabariigi Valitsus, akti või toimingu peale."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "72",
+      "title": "§ 72. Vaidemenetluse ese",
+      "content": "(1) Vaidemenetluse korras võib nõuda:\n1) haldusakti kehtetuks tunnistamist;\n2) haldusakti osa kehtetuks tunnistamist, kui seadus ei piira haldusakti osalist vaidlustamist;\n3) ettekirjutuse tegemist haldusakti andmiseks, asja uueks otsustamiseks või toimingu sooritamiseks.\n(2) Haldusmenetluse toiming vaidlustatakse koos haldusaktiga (sisulise otsusega).\n(3) Haldusaktist eraldi võib vaidlustada:\n1) viivituse;\n2) tegevusetuse;\n3) ametiisiku taandamisest keeldumise;\n4) haldusakti andmise taotluse tagastamise;\n5) muu seaduses sätestatud toimingu."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "73",
+      "title": "§ 73. Vaidealluvus",
+      "content": "(1) Kui seadusega ei ole sätestatud teistsugust vaidealluvust, esitatakse vaie haldusakti andnud või toimingu sooritanud haldusorgani kaudu haldusorganile, kes teostab haldusakti andnud või toimingu sooritanud haldusorgani üle teenistuslikku järelevalvet.\n(2) Kui haldusakti andnud või toimingu sooritanud haldusorgani üle teenistuslikku järelevalvet teostavat organit ei ole, lahendab vaide haldusakti andnud või toimingu sooritanud haldusorgan.\n(3) Kui haldusorgani üle teostab teenistuslikku järelevalvet minister, lahendab vaide haldusakti andnud või toimingu sooritanud haldusorgan, kui seadusega ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "74",
+      "title": "§ 74. Vaidemenetluse algus",
+      "content": "Vaidemenetlus algab vaide esitamisega haldusorganile."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "75",
+      "title": "§ 75. Vaide esitamise tähtaeg",
+      "content": "Vaie haldusaktile või toimingule tuleb esitada 30 päeva jooksul, kui seadus ei sätesta teisiti, arvates päevast, millal isik vaidlustatavast haldusaktist või toimingust teada sai või oleks pidanud teada saama."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "76",
+      "title": "§ 76. Vaidele esitatavad nõuded",
+      "content": "(1) Vaie esitatakse kirjalikult või suuliselt. Suuline vaie protokollitakse haldusorganis ning sellele võetakse esitaja allkiri.\n(2) Vaides märgitakse:\n1) haldusorgani nimetus, kellele vaie on esitatud;\n2) vaide esitaja nimi või nimetus, postiaadress ja sidevahendite numbrid;\n3) vaidlustatava haldusakti või toimingu sisu;\n4) põhjused, miks vaide esitaja leiab, et haldusakt või toiming rikub tema õigusi;\n5) vaide esitaja selgelt väljendatud nõue;\n6) vaide esitaja kinnitus selle kohta, et vaieldavas asjas ei ole jõustunud kohtuotsust ega toimu kohtumenetlust;\n7) vaidele lisatud dokumentide loetelu.\n(3) Vaidele kirjutab alla selle esitaja või tema esindaja. Vaide esitaja esindaja lisab volikirja või muu volitust tõendava dokumendi, kui seda ei ole esitatud varem. Vaidele ei pea lisama digitaalallkirja, kui vaie on esitatud elektroonilise kanali kaudu ja haldusorgan on vaide esitaja turvalisel viisil tuvastanud."
+    },
+    {
+      "provision_ref": "para77",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "77",
+      "title": "§ 77. Vaide tähtaja ennistamine",
+      "content": "Vaide esitamise tähtaja võib ennistada käesoleva seaduse §-s 34 sätestatud tingimustel."
+    },
+    {
+      "provision_ref": "para78",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "78",
+      "title": "§ 78. Puudused vaides",
+      "content": "Kui vaie ei vasta käesoleva seaduse §-s 76 sätestatud nõuetele, aitab haldusorgan puudused kõrvaldada või annab isikule 10-päevase tähtaja puuduste kõrvaldamiseks."
+    },
+    {
+      "provision_ref": "para79",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "79",
+      "title": "§ 79. Vaide tagastamine",
+      "content": "(1) Vaie tagastatakse, kui:\n1) isikul puudub õigus vaie esitada;\n2) vaide esitaja ei ole määratud tähtajaks vaide puudusi kõrvaldanud;\n3) mööda on lastud vaide esitamise tähtaeg ning seda ei ennistata;\n4) samas asjas on olemas jõustunud kohtuotsus;\n5) samas asjas toimub kohtumenetlus.\n(2) Kui vaie ei kuulu haldusorgani pädevusse, tagastab haldusorgan vaide, selgitades, kuhu isik peab pöörduma, või edastab vaide pädevale haldusorganile, teatades sellest vaide esitajale.\n(3) Vaide tagastamisest teatatakse isikule vaide esitamisest alates seitsme päeva jooksul. Teates tuleb vaide tagastamist põhjendada ning selgitada edasikaebamise korda."
+    },
+    {
+      "provision_ref": "para80",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "80",
+      "title": "§ 80. Vaide edastamine",
+      "content": "(1) Kui vaie vastab käesolevas seaduses sätestatud nõuetele, edastab haldusorgan vaide koos vajalike dokumentidega vaide saamisest alates seitsme päeva jooksul haldusorganile, kes teostab haldusakti andnud või toimingu sooritanud haldusorgani üle teenistuslikku järelevalvet.\n(2) Kui haldusakti andnud või toimingu sooritanud haldusorgan leiab, et vaie on põhjendatud, võib ta ise selle rahuldada."
+    },
+    {
+      "provision_ref": "para81",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "81",
+      "title": "§ 81. Haldusakti täitmise peatumine",
+      "content": "Vaiet lahendav haldusorgan võib haldusakti täitmise peatada, kui see on vajalik avaliku huvi, haldusakti adressaadi või kolmanda isiku õiguste kaitseks."
+    },
+    {
+      "provision_ref": "para82",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "82",
+      "title": "§ 82. Vaide läbivaatamise ettevalmistamine",
+      "content": "Vaiet läbivaatav haldusorgan:\n1) nõuab vajaduse korral asjaomaselt haldusorganilt välja haldusakti kohta käivad dokumendid;\n2) teostab vajaduse korral paikvaatlust;\n3) kasutab vajaduse korral eksperti;\n4) nõuab vajaduse korral haldusakti andnud haldusorganilt kirjalikke selgitusi;\n5) kuulab ära asjast huvitatud isikute seletused;\n6) lahendab haldusakti täitmise peatamise küsimusi;\n7) teeb vaide esitanud isikule ja teistele asjast huvitatud isikutele teatavaks asja arutamise aja ja koha;\n8) sooritab teisi seaduses sätestatud toiminguid."
+    },
+    {
+      "provision_ref": "para83",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "83",
+      "title": "§ 83. Vaide läbivaatamine",
+      "content": "(1) Vaiet läbi vaadates kontrollitakse haldusakti andmise õiguspärasust ja otstarbekust.\n(2) Vaiet läbi vaadates uuritakse dokumentaalseid tõendeid, kuulatakse ära asjast huvitatud isikute seletused ja ekspertide arvamused ning tunnistajate ütlused, vaadeldakse asitõendeid ja teostatakse paikvaatlusi."
+    },
+    {
+      "provision_ref": "para84",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "84",
+      "title": "§ 84. Vaide läbivaatamise tähtaeg",
+      "content": "(1) Kui seadus ei sätesta teisiti, lahendatakse vaie 10 päeva jooksul, arvates vaide edastamisest vaiet läbivaatavale haldusorganile.\n(2) Kui vaiet on vaja täiendavalt uurida, võib vaiet läbivaatav haldusorgan vaide läbivaatamise tähtaega pikendada kuni 30 päeva võrra. Tähtaja pikendamise teade edastatakse vaide esitajale."
+    },
+    {
+      "provision_ref": "para85",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "85",
+      "title": "§ 85. Haldusorgani volitused vaide läbivaatamisel",
+      "content": "Vaiet sisuliselt lahendades on haldusorganil õigus vaideotsusega:\n1) rahuldada vaie ja tunnistada haldusakt kas täielikult või osaliselt kehtetuks ning kõrvaldada haldusakti faktilised tagajärjed;\n2) teha ettekirjutus haldusakti andmiseks, toimingu sooritamiseks või asja uueks otsustamiseks;\n3) teha ettekirjutus toimingu tagasitäitmiseks;\n4) jätta vaie rahuldamata."
+    },
+    {
+      "provision_ref": "para86",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "86",
+      "title": "§ 86. Vaideotsus",
+      "content": "(1) Vaideotsus vormistatakse kirjalikult ja selles märgitakse resolutsioon vaide lahendamise kohta. Vaideotsus toimetatakse vaide esitajale ja kolmandale isikule kätte.\n(2) Vaide rahuldamata jätmisel peab vaideotsus lisaks käesoleva paragrahvi lõikes 1 sätestatud nõuetele olema põhjendatud ja sisaldama selgitust halduskohtule kaebuse esitamise kohta.\n(3) Käesoleva paragrahvi lõigete 1 ja 2 kohaselt vormistatakse ka vaide tagastamine haldusorgani poolt."
+    },
+    {
+      "provision_ref": "para87",
+      "chapter": "5. peatükk - VAIDEMENETLUS",
+      "section": "87",
+      "title": "§ 87. Edasikaebamise õigus",
+      "content": "(1) Isikul, kelle vaie jäi rahuldamata või kelle õigusi vaidemenetluses rikuti, on õigus pöörduda halduskohtumenetluse seadustikus sätestatud tingimustel ja korras kaebusega halduskohtusse.\n(2) Vaideotsuse tühistamist võib halduskohtule esitatavas kaebuses nõuda:\n1) koos nõudega, mis jäeti vaideotsusega osaliselt või täielikult rahuldamata, või\n2) sõltumata käesoleva lõike punktis 1 nimetatud nõude esitamisest, kui vaideotsusega on isiku õigusi rikutud muul viisil kui vaide osaline või täielik rahuldamata jätmine."
+    },
+    {
+      "provision_ref": "para88",
+      "chapter": "6. peatükk - MÄÄRUS",
+      "section": "88",
+      "title": "§ 88. Määrus",
+      "content": "Määrus on õigusakt, mille haldusorgan annab piiritlemata arvu juhtude reguleerimiseks."
+    },
+    {
+      "provision_ref": "para89",
+      "chapter": "6. peatükk - MÄÄRUS",
+      "section": "89",
+      "title": "§ 89. Määruse õiguspärasus",
+      "content": "(1) Määrus on õiguspärane, kui see on kooskõlas kehtiva õigusega, vastab vorminõuetele ja kui selle on seaduses ettenähtud korras volitusnormi alusel andnud volitusnormis nimetatud haldusorgan.\n(2) Määruse andmisele ei kohaldata käesoleva seaduse 1. osas sätestatut, välja arvatud 1. peatüki 1. ja 2. jao ning 3. peatüki sätted."
+    },
+    {
+      "provision_ref": "para90",
+      "chapter": "6. peatükk - MÄÄRUS",
+      "section": "90",
+      "title": "§ 90. Volitusnorm",
+      "content": "(1) Määruse võib anda ainult seaduses sisalduva volitusnormi olemasolul ja kooskõlas volitusnormi piiride, mõtte ja eesmärgiga.\n(2) Kohaliku elu küsimuse korraldamiseks võib kohaliku omavalitsuse organ anda määruse volitusnormita, välja arvatud juhul, kui seaduses on volitusnorm olemas.\n(3) Käesoleva paragrahvi lõiget 1 ei kohaldata volitusnormita antud määruse kehtetuks tunnistamisel haldusorgani poolt."
+    },
+    {
+      "provision_ref": "para91",
+      "chapter": "6. peatükk - MÄÄRUS",
+      "section": "91",
+      "title": "§ 91. Edasivolitus",
+      "content": "(1) Haldusorgan, keda on volitatud määrust andma, võib määruse andmise teisele haldusorganile edasi volitada ainult juhul, kui see võimalus on volitusnormis ette nähtud.\n(2) Kui küsimuse otsustamine on seadusega antud kohaliku omavalitsuse pädevusse, siis igal konkreetsel juhul, kui küsimus ei ole seadusega antud valla- või linnavolikogu ainupädevusse, võib valla- või linnavolikogu määruse andmise edasi volitada valla- või linnavalitsusele."
+    },
+    {
+      "provision_ref": "para92",
+      "chapter": "6. peatükk - MÄÄRUS",
+      "section": "92",
+      "title": "§ 92. Määruse vorm",
+      "content": "(1) Määrus antakse kirjalikult. Kirjalikus vormis määruse võib anda elektrooniliselt. Elektroonilise määruse suhtes kohaldatakse kirjalikule määrusele esitatavaid nõudeid, arvestades dokumendi elektroonilisest vormist tingitud erisusi.\n(2) Määruses tuleb viidata määruse andmise aluseks olevale volitusnormile. Kui määruse annab haldusorgan edasivolituse alusel, tuleb viidata ka edasivolitusele. Seda nõuet ei kohaldata volitusnormita antud määruse kehtetuks tunnistamise suhtes.\n(3) Määruses märgitakse selle andnud haldusorgani nimetus ning määruse andmise kuupäev ja number. Määrus pealkirjastatakse.\n(4) Määrust muutvas või kehtetuks tunnistavas määruses tuleb nimetada ka muudetava või kehtetuks tunnistatava määruse pealkiri ja number ning määruse andmise kuupäev ja määruse avaldamismärge.\n(5) Määrusele kirjutatakse alla ja määrus avaldatakse seaduses ettenähtud korras."
+    },
+    {
+      "provision_ref": "para93",
+      "chapter": "6. peatükk - MÄÄRUS",
+      "section": "93",
+      "title": "§ 93. Määruse kehtivuse tingimused",
+      "content": "(1) Määrus kehtib, kuni selle tunnistab kehtetuks haldusorgan või Riigikohus või kehtivusaja lõppemiseni või volitusnormi kehtetuks tunnistamiseni.\n(2) Määrus hakkab kehtima (jõustub) kolmandal päeval pärast kehtivas korras avaldamist, kui seaduses või määruses endas ei ole sätestatud hilisemat tähtpäeva. Seaduses ettenähtud juhul jõustub määrus käesolevas lõikes sätestatust varem.\n(3) Kui määrus on antud volitusnormi alusel, mis sisaldub Vabariigi Presidendi poolt väljakuulutatud, kuid veel jõustumata seaduses, ei jõustu määrus enne seaduse jõustumist."
+    },
+    {
+      "provision_ref": "para94",
+      "chapter": "6. peatükk - MÄÄRUS",
+      "section": "94",
+      "title": "§ 94. Määruse tühisus",
+      "content": "(1) Kui määrus on tühine, siis loetakse, et ta ei ole kunagi kehtinud.\n(2) Määrus on tühine, kui:\n1) seda ei ole kehtivas korras avaldatud;\n2) määrusest ei nähtu selle andnud haldusorgan.\n(3) Tühist määrust ei rakendata."
+    },
+    {
+      "provision_ref": "para95",
+      "chapter": "7. peatükk - HALDUSLEPING",
+      "section": "95",
+      "title": "§ 95. Halduslepingu mõiste",
+      "content": "Haldusleping on kokkulepe, mis reguleerib haldusõigussuhteid. Halduslepingu võib sõlmida kas üksikjuhtumi või piiritlemata arvu juhtumite reguleerimiseks."
+    },
+    {
+      "provision_ref": "para96",
+      "chapter": "7. peatükk - HALDUSLEPING",
+      "section": "96",
+      "title": "§ 96. Halduslepingu pooled",
+      "content": "(1) Vähemalt üks halduslepingu pool on riik, kohaliku omavalitsuse üksus, muu avalik-õiguslik juriidiline isik, eraõiguslik juriidiline isik või füüsiline isik, kes seaduse alusel täidab avaliku halduse ülesandeid.\n(2) Riigi või kohaliku omavalitsuse üksuse nimel sõlmib halduslepingu haldusorgan, kelle pädevuses on täita halduslepingu esemeks olev ülesanne."
+    },
+    {
+      "provision_ref": "para97",
+      "chapter": "7. peatükk - HALDUSLEPING",
+      "section": "97",
+      "title": "§ 97. Halduslepingu sõlmimise lubatavus",
+      "content": "(1) Piiritlemata arvu juhtumite reguleerimiseks võib sõlmida halduslepingu vaid seaduses sisalduva volitusnormi alusel.\n(2) Haldusorgan võib sõlmida halduslepingu üksnes oma pädevuse piirides. Haldusorgan ei või võtta endale halduslepinguga kohustusi, mis ületavad tema pädevuse."
+    },
+    {
+      "provision_ref": "para98",
+      "chapter": "7. peatükk - HALDUSLEPING",
+      "section": "98",
+      "title": "§ 98. Halduslepingu sõlmimine haldusakti andmise asemel",
+      "content": "(1) Haldusorgan võib haldusakti andmise asemel sõlmida üksikjuhtumi reguleerimiseks halduslepingu isikuga, kellele haldusakt oleks muidu suunatud, kui seadus või määrus ei näe otseselt ette üksnes haldusakti andmist.\n(2) Haldusakti andmise asemel sõlmitud halduslepinguga isikule pandavad kohustused peavad olema vastavuses lepingu eesmärgiga ja lepingust tulenevate haldusorgani kohustustega."
+    },
+    {
+      "provision_ref": "para99",
+      "chapter": "7. peatükk - HALDUSLEPING",
+      "section": "99",
+      "title": "§ 99. Halduslepingu sõlmimine",
+      "content": "(1) Üksikjuhtumi reguleerimiseks halduslepingu sõlmimisele kohaldatakse käesoleva seaduse 1. osas sätestatut niivõrd, kuivõrd see ei ole vastuolus halduslepingu olemusega.\n(2) Piiritlemata arvu juhtumite reguleerimiseks sõlmitakse haldusleping tsiviilõiguslike lepingute sõlmimiseks ettenähtud korras.\n(3) Haldusleping sõlmitakse kirjalikult."
+    },
+    {
+      "provision_ref": "para100",
+      "chapter": "7. peatükk - HALDUSLEPING",
+      "section": "100",
+      "title": "§ 100. Halduslepingu õiguspärasus",
+      "content": "Haldusleping on õiguspärane, kui ta vastab käesoleva seaduse §-des 54–57 või §-des 89–91 ja § 92 lõikes 2 sätestatud nõuetele. Nimetatud nõudeid kohaldatakse halduslepingule niivõrd, kuivõrd need ei ole vastuolus halduslepingu olemusega."
+    },
+    {
+      "provision_ref": "para101",
+      "chapter": "7. peatükk - HALDUSLEPING",
+      "section": "101",
+      "title": "§ 101. Halduslepingu jõustumine",
+      "content": "(1) Üksikjuhtumit reguleeriv haldusleping jõustub tsiviilõiguslike lepingute jõustumiseks ettenähtud korras.\n(2) Kui käesoleva paragrahvi lõikes 1 sätestatud haldusleping piirab kolmanda isiku õigusi, jõustub leping alates kolmanda isiku poolt sellekohase kirjaliku nõusoleku andmisest.\n(3) Kui teise haldusorgani nõusolekul antava haldusakti andmise asemel sõlmitakse haldusleping, ei jõustu see enne teise haldusorgani nõusoleku saamist.\n(4) Piiritlemata arvu juhtumeid reguleeriv haldusleping jõustub määruse jõustumiseks ettenähtud korras."
+    },
+    {
+      "provision_ref": "para102",
+      "chapter": "7. peatükk - HALDUSLEPING",
+      "section": "102",
+      "title": "§ 102. Halduslepingu muutmine ja lõpetamine",
+      "content": "(1) Halduslepingut muudetakse ja see lõpetatakse tsiviilseadustes sätestatud korras, arvestades käesolevas paragrahvis kehtestatud erisusi.\n(2) Haldusorgan võib halduslepingut ühepoolselt muuta või halduslepingu lõpetada, kui see on tingimata vajalik, et vältida ülekaaluka avaliku huvi rasket kahjustamist.\n(3) Halduslepingu muutmise või lõpetamise korral käesoleva paragrahvi lõikes 2 nimetatud juhul peab haldusorgan halduslepingu muutmist või lõpetamist põhjendama. Halduslepingu muutmise või lõpetamise korral peab haldusorgan hüvitama lepingu teisele poolele sellega tekitatud varalise kahju.\n(4) Kui halduslepingu täitmine on pärast selle sõlmimist muutunud oluliselt raskemaks, võib raskustesse sattunud pool, keda ei ole käesoleva paragrahvi lõikes 2 nimetatud, nõuda halduslepingu muutmist vastavalt uutele oludele. Kui see ei ole võimalik või kui teine pool sellest keeldub, võib raskustesse sattunud pool pöörduda kohtusse halduslepingu lõpetamise taotlusega."
+    },
+    {
+      "provision_ref": "para103",
+      "chapter": "7. peatükk - HALDUSLEPING",
+      "section": "103",
+      "title": "§ 103. Halduslepingu tühisus",
+      "content": "(1) Haldusleping on tühine:\n1) kui tühine oleks sama sisuga haldusakt;\n2) kui esinevad asjaolud, mis tingivad tsiviilõigusliku lepingu tühisuse.\n(2) Tühisele halduslepingule kohaldatakse tsiviilõiguslike lepingute tühisuse kohta sätestatut."
+    },
+    {
+      "provision_ref": "para104",
+      "chapter": "7. peatükk - HALDUSLEPING",
+      "section": "104",
+      "title": "§ 104. Õigusvastane haldusleping",
+      "content": "(1) Halduslepingu õiguspärasuse nõuetele mittevastav, kuid mitte tühine haldusleping kehtib ja seda tuleb täita, välja arvatud juhul, kui üksikisikust lepingupool oli halduslepingu sõlmimisel halduslepingu õigusvastasusest teadlik või kui haldusleping sõlmiti tema poolt esitatud vale- või mittetäielike andmete alusel või haldusorgani ähvardamise, petmise või muul viisil õigusvastase mõjutamise tulemusel.\n(2) Kui haldusleping ei kuulu käesoleva paragrahvi lõikes 1 loetletud põhjustel täitmisele, muudetakse haldusleping õiguspäraseks või lõpetatakse haldusorgani otsusel. Halduslepingu lõpetamisel tagastavad pooled lepingu järgi saadu, tagastamise võimatuse korral hüvitavad saadu rahas."
+    },
+    {
+      "provision_ref": "para105",
+      "chapter": "7. peatükk - HALDUSLEPING",
+      "section": "105",
+      "title": "§ 105. Muud halduslepingutele kohaldatavad sätted",
+      "content": "(1) Halduslepingutele kohaldatakse tsiviilõiguslike lepingute kohta käivaid sätteid, arvestades käesoleva seadusega kehtestatud erisusi.\n(2) Lisaks käesoleva paragrahvi lõikes 1 sätestatule kohaldatakse riigi või kohaliku omavalitsuse haldusülesannete täitmiseks volitamise halduslepingutele halduskoostöö seaduse nõudeid."
+    },
+    {
+      "provision_ref": "para106",
+      "chapter": "8. peatükk - TOIMING",
+      "section": "106",
+      "title": "§ 106. Toimingu mõiste",
+      "content": "(1) Toiming on haldusorgani tegevus, mis ei ole õigusakti andmine ja mida ei sooritata tsiviilõigussuhtes.\n(2) Käesoleva peatüki sätteid ei kohaldata menetlustoimingule."
+    },
+    {
+      "provision_ref": "para107",
+      "chapter": "8. peatükk - TOIMING",
+      "section": "107",
+      "title": "§ 107. Toimingu õiguslik siduvus ja kaalutlusõigus",
+      "content": "(1) Toiming peab olema kooskõlas õigusaktidega. Toiming võib piirata õigusi või vabadusi ainult siis, kui selleks on seaduslik alus.\n(2) Toimingu sooritamise viisi, ulatuse ja aja ning menetlemise korra määrab haldusorgan oma äranägemisel, järgides kaalutlusõiguse piire ja võrdse kohtlemise ning proportsionaalsuse põhimõtteid."
+    },
+    {
+      "provision_ref": "para108",
+      "chapter": "8. peatükk - TOIMING",
+      "section": "108",
+      "title": "§ 108. Toimingu põhjendamine",
+      "content": "(1) Kui toiminguga piiratakse isiku õigusi, on isikul õigus nõuda toimingu kirjalikku põhjendamist.\n(2) Toimingu põhjendamise nõue tuleb esitada haldusorganile kirjalikult viivitamata pärast toimingust teadasaamist."
+    },
+    {
+      "provision_ref": "para109",
+      "chapter": "8. peatükk - TOIMING",
+      "section": "109",
+      "title": "§ 109. Õiguste kaitse",
+      "content": "Kui toiminguga rikutakse isiku õigusi, võib isik nõuda haldusorganilt või kohtult toimingu ärajätmist või lõpetamist ning toimingu tagajärgede kõrvaldamist ja kahju hüvitamist vastavalt riigivastutuse seadusele ning pöörduda selleks halduskohtusse halduskohtumenetluse seadustikus ettenähtud korras."
+    },
+    {
+      "provision_ref": "para110",
+      "section": "110",
+      "title": "§ 110.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para111",
+      "section": "111",
+      "title": "§ 111.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para112",
+      "section": "112",
+      "title": "§ 112. Seaduse jõustumine ja rakendamine",
+      "content": "(1) Käesolev seadus jõustub 2002. aasta 1. jaanuaril.\n(2) Eriseadusega reguleeritud haldusmenetlusele kohaldatakse käesolevat seadust juhul, kui seda näeb ette eriseadus."
+    }
+  ],
+  "definitions": []
+}

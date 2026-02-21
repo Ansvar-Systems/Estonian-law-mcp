@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-112062021033",
+  "type": "statute",
+  "title": "Etendusasutuse seadus",
+  "title_en": "Etendusasutuse seadus",
+  "short_name": "ee-law-112062021033",
+  "status": "in_force",
+  "issued_date": "1997-01-15",
+  "in_force_date": "2003-07-19",
+  "url": "https://www.riigiteataja.ee/akt/112062021033.xml",
+  "description": "Official consolidated statute text (Etendusasutuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

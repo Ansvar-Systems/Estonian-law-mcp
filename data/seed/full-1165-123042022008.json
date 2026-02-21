@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-123042022008",
+  "type": "statute",
+  "title": "Riigi 2005. aasta lisaeelarve seadus",
+  "title_en": "Riigi 2005. aasta lisaeelarve seadus",
+  "short_name": "RESL2005",
+  "status": "in_force",
+  "issued_date": "2005-10-26",
+  "in_force_date": "2006-01-01",
+  "url": "https://www.riigiteataja.ee/akt/123042022008.xml",
+  "description": "Official consolidated statute text (Riigi 2005. aasta lisaeelarve seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

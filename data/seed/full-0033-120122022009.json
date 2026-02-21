@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-120122022009",
+  "type": "statute",
+  "title": "2023. aasta riigieelarve seadus",
+  "title_en": "2023. aasta riigieelarve seadus",
+  "short_name": "RES2023",
+  "status": "in_force",
+  "issued_date": "2022-12-07",
+  "in_force_date": "2024-01-01",
+  "url": "https://www.riigiteataja.ee/akt/120122022009.xml",
+  "description": "Official consolidated statute text (2023. aasta riigieelarve seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

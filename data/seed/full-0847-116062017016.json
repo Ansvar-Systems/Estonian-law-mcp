@@ -1,0 +1,575 @@
+{
+  "id": "ee-law-116062017016",
+  "type": "statute",
+  "title": "Maagaasiseadus",
+  "title_en": "Maagaasiseadus",
+  "short_name": "ee-law-116062017016",
+  "status": "in_force",
+  "issued_date": "2003-01-29",
+  "in_force_date": "2017-07-01",
+  "url": "https://www.riigiteataja.ee/akt/116062017016.xml",
+  "description": "Official consolidated statute text (Maagaasiseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus reguleerib maagaasi (edaspidi gaas ) impordi, ülekande, jaotamise ja müügiga seonduvaid tegevusi gaasivõrgu (edaspidi võrk ) kaudu ning võrguga liitumist.\n(1^1) Käesolevas seaduses sätestatud nõuded gaasi, sealhulgas veeldatud maagaasi kohta kehtivad ka biogaasile, biomassist saadavale gaasile ja muud liiki gaasile, kui need vastavad gaasi kvaliteedinõuetele ning neid saab tehniliselt ja ohutult sisestada gaasivõrku ja selle kaudu edastada.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud tegevused peavad olema koordineeritud ning vastama objektiivsuse, võrdse kohtlemise ja läbipaistvuse põhimõtetele, et tagada kindel, usaldusväärne, efektiivne, põhjendatud hinnaga ning keskkonnanõuetele ja tarbijate vajadustele vastav gaasivarustus.\n(3) Käesolevas seaduses sätestatud haldusmenetlusele kohaldatakse haldusmenetluse seaduses sätestatut, arvestades käesolevast seadusest tulenevaid erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Mõisted",
+      "content": "Käesolevas seaduses kasutatakse mõisteid järgmises tähenduses:\n1) võrk on gaasitorustike ja nendega seotud ehitiste kohtkindlalt ehitatud talituslik kogum, mis on vajalik gaasi ülekandeks ja jaotamiseks, kusjuures võrku kuuluvaiks ei loeta tarbijapaigaldisi ega seadmeid;\n2)\n3) tarbijapaigaldis on ühel või mitmel kinnistul, ehitistes või ühtse majandusüksuse moodustavas funktsionaalselt seotud ehitiste kompleksis ja nende teenindamiseks vajalikul maal omavahel ühendatud gaasitorustike talituslik kogum tarbija varustamiseks gaasiga;\n4) võrgupiirkond on maa-ala, kus asub ja kus arendatakse ühe võrguettevõtja omandis või valduses olevat võrku;\n5) tegevuspiirkond on tegevusloaga kindlaks määratud ala, kus võrguettevõtja tegutseb;\n6) liitumispunkt on võrgu ja tarbijapaigaldise või võrgu ja teisele võrguettevõtjale kuuluva võrgu ühenduskoht;\n7) võrgu teeninduspiir on piir, milleni võrguettevõtja võrku lepingu alusel haldab;\n8) tarbija on isik, kes ostab võrgu kaudu jaotatavat gaasi oma tarbeks;\n9) võrguettevõtja on ettevõtja, kes osutab võrguteenust;\n10) müüja on ettevõtja, kes müüb gaasi;\n11) varustuskindlus on gaasisüsteemi võime tagada tarbijate nõuetekohane gaasiga varustamine, arvestades olemasolevat nõudlust ning eeldatavat tulevikunõudlust;\n12) tarnehäire on selline gaasiga varustamise vähenemine või katkemine vähemalt ühe riigipiiri ületava ühenduse kaudu, mille tulemusena on seatud ohtu gaasi siseturu nõuetekohane toimimine ning gaasi tarnimine tarbijatele;\n13) veeldatud gaasi terminal on gaasi veeldamiseks või impordiks, mahalaadimiseks ja veeldatud gaasi taasgaasistamiseks kasutatav rajatis koos selle juurde kuuluvate tugiteenustega. Veeldatud gaasi terminali hulka ei arvata gaasihoidlaid;\n14) tugiteenused on võrkudele või veeldatud gaasi terminalile ja gaasihoidlale juurdepääsuks või nende toimimiseks vajalikud teenused, kaasa arvatud koormuse tasakaalustamine, segamine ja väärisgaaside lisamine. Tugiteenuste hulka ei arvata teenuseid, mis on vajalikud süsteemihalduri kohustuste täitmiseks;\n15) gaasihoidla on gaasiettevõtja omandis või halduses olev rajatis, mida kasutatakse gaasi hoiustamiseks, kaasa arvatud veeldatud gaasi hoiustamiseks kasutatav veeldatud gaasi terminali osa. Gaasihoidla hulka ei arvata veeldatud gaasi tootmistegevuseks kasutatavat terminali osa ning süsteemihalduri ülesannete täitmiseks kasutatavat rajatise osa;\n16) gaasi ülekandevõrk on üle 16-baarise töörõhuga gaasitorustike ja nendega kohakindlalt seotud ehitiste ning ülekandesüsteemi toimimiseks, haldamiseks ja arendamiseks vajalike juhtimis-, kaitse-, side- ja mõõtesüsteemide talitluslik kogum, mis on vajalik gaasi ülekandeks ning ühenduste loomiseks teiste riikide võrkudega või gaasi transiidiks;\n17) hoidlatevõrgu haldur on isik, kes täidab gaasi hoiustamise ülesannet ja vastutab gaasihoidla nõuetekohase kasutamise eest;\n18) veeldatud gaasi terminali haldur on isik, kes täidab gaasi veeldamise, impordi, ümberlaadimise ja taasgaasistamise ülesannet ning vastutab gaasi veeldusjaama nõuetekohase kasutamise eest;\n19) vertikaalselt integreeritud ettevõtja on gaasiettevõtja või -ettevõtjad, kelle üle on ühel või mitmel isikul valitsev mõju konkurentsiseaduse tähenduses ja kus asjaomase gaasiettevõtja või -ettevõtjate vähemalt üks ülesanne on maagaasi ülekandmine, jaotamine, veeldamine või hoiustamine ning teine ülesanne maagaasi tootmine või müümine;\n20) kaitsetu tarbija on kodutarbija, kellele on määratud toimetulekutoetus sotsiaalhoolekande seaduse § 131 lõigete 2 ja 3 alusel;\n21) jaotusvõrguettevõtja on võrguettevõtja, kes osutab võrguteenust alla 16-baarise töörõhuga võrgus."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "3",
+      "title": "§ 3. Turuosaline",
+      "content": "Turuosalised on gaasiettevõtja ja tarbija."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "4",
+      "title": "§ 4. Gaasiettevõtja",
+      "content": "Gaasiettevõtja on ettevõtja, kes tegutseb vähemalt ühel tegevusalal, milleks on gaasi tootmine, import, ülekanne, jaotamine, hoiustamine või müük, ning kes vastutab selle tegevusega seonduva kaubandusliku või hooldusküsimuse lahendamise eest."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "5",
+      "title": "§ 5. Gaasi vabatarbija",
+      "content": "(1) Gaasi vabatarbija on turuosaline, kes ei ole kodutarbija.\n(2) Gaasi vabatarbijal on õigus osta gaasi võrgu tehniliste võimaluste piires igalt müüjalt."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "6",
+      "title": "§ 6. Gaasi kodutarbija",
+      "content": "(1) Gaasi kodutarbija on tarbija, kes tarbib gaasi kodumajapidamises.\n(2) Kuni 2007. aasta 1. juulini ostab kodutarbija gaasi võrguettevõtjalt, kelle võrguga on tema tarbijapaigaldis ühendatud, või võrguettevõtja poolt nimetatud müüjalt.\n(3) Alates 2007. aasta 1. juulist on kodutarbijal õigus osta gaasi võrgu tehniliste võimaluste piires igalt müüjalt."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "7",
+      "title": "§ 7. Gaasi import, ülekanne, jaotamine ja müük",
+      "content": "(1) Gaasi import on gaasile vabasse ringlusse lubamise tolliprotseduuri kohaldamine Euroopa Parlamendi ja nõukogu määruse (EL) nr 952/2013, millega kehtestatakse liidu tolliseadustik (ELT L 269, 10.10.2013, lk 1–101), tähenduses.\n(2) Gaasi ülekanne käesoleva seaduse tähenduses on gaasi transportimine kõrgsurvetorustiku kaudu tarbijapaigaldisteni või kokkulepitud liitumispunktini. Gaasi ülekandeks ei peeta tootmisetapi torustiku ega kõrgsurvetorustiku osa kasutamist gaasi kohalikuks jaotamiseks.\n(3) Gaasi jaotamine käesoleva seaduse tähenduses on gaasi transportimine piirkondlike või jaotustorustike kaudu tarbijapaigaldisteni või kokkulepitud liitumispunktini, kaasa arvatud kõrgsurvetorustiku osa, mida kasutatakse gaasi kohalikuks jaotamiseks.\n(4) Gaasi müük käesoleva seaduse tähenduses on gaasi üleandmine isikule tasu eest."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "8",
+      "title": "§ 8. Gaasiettevõtja kohustused",
+      "content": "(1) Gaasiettevõtja peab tagama tarbija gaasiga varustamise vastavuses käesoleva seaduse, tegevusloa kõrvaltingimuste ja sõlmitud lepinguga.\n(2) Gaasiettevõtja peab raamatupidamise sise-eeskirjas kehtestama põhimõtted, mille kohaselt peetakse arvestust gaasi ülekande, jaotamise, müügi ja nende tegevustega mitteseotud tegevusalade kohta nii, nagu oleksid kohustatud seda tegema nendel tegevusaladel eraldi tegutsevad ettevõtjad.\n(2^1) Gaasiettevõtja peab oma raamatupidamises pidama gaasi müügi arvestust eraldi kodutarbijate ja vabatarbijate kohta.\n(2^2) Gaasiettevõtja peab kehtestama oma raamatupidamiseeskirjad varade ja kohustuste ning tulude ja kulude jaotamise osas, mida järgitakse käesoleva paragrahvi lõikes 2 nimetatud tegevusalade arvestuses.\n(3) Gaasiettevõtja peab lubama Konkurentsiametil kontrollida oma raamatupidamist ning andma oma majandustegevuse kohta vajalikke selgitusi.\n(4) Gaasiettevõtja esitab Statistikaametile andmed gaasi ja võrguteenuse hinna kujunemise kohta riikliku statistika seaduses sätestatud korras.\n(4^1) Gaasiettevõtja, kellel ei ole kohustust oma raamatupidamise aastaaruannet avaldada, hoiab aruande ühe eksemplari oma tegevuskohas avalikkusele kättesaadavana.\n(4^2) Gaasiettevõtja säilitab teabe gaasitehingute kohta vähemalt viis aastat ning esitab selle vajaduse korral Konkurentsiametile ja Euroopa Komisjonile. Teave sisaldab järgmisi andmeid:\n1) tehingu tähtaeg ning tarne- ja arveldustingimused;\n2) tehingu maht;\n3) tehingu täitmise kuupäev ja kellaaeg kauplemisperioodide kaupa;\n4) tehingu hind;\n5) müüja andmed;\n6) lõpetamata tarnelepingute üksikasjad.\n(5) Gaasiettevõtja avaldab kooskõlastatud hinnad, piirmäärad, metoodikad, tüüptingimused ja teabe tarbija õiguste ning vaidluste lahendamise võimaluste kohta oma veebilehel ja annab nende kohta teavet isikule, kes seda küsib.\n(5^1) Kui tarbija on selleks soovi avaldanud, esitab võrguettevõtja tarbijale tema tarbimisandmed asjakohase vormi kohaselt. Andmete esitamise eest lisatasu ei võeta.\n(5^2) Käesoleva paragrahvi lõikes 5^1 nimetatud tarbimisandmete vormi kehtestab valdkonna eest vastutav minister määrusega.\n(6) Gaasiettevõtja korraldab oma majandusaasta aruande koostamise, esitamise ja avalikustamise vastavalt raamatupidamise seadusele. Kui audiitorkontroll on kohustuslik, peab vandeaudiitori aruanne muu hulgas sisaldama hinnangut gaasiettevõtja majandusaasta aruande ja selle lisade vastavuse kohta käesolevale seadusele.\n(7) Konkurentsiameti nõudmisel esitab gaasiettevõtja Konkurentsiametile Euroopa Parlamendi ja nõukogu määruses (EL) nr 994/2010, milles käsitletakse gaasivarustuse kindluse tagamise meetmeid (ELT L 295, 12.11.2010, lk 1–21), sätestatud pädeva asutuse kohustuse täitmiseks vajaliku teabe."
+    },
+    {
+      "provision_ref": "para8^1",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "8^1",
+      "title": "§ 8^1. Tegevuse eristamine",
+      "content": "(1) Võrguettevõtja, kes osutab ülekandeteenust, võib olla ka jaotamisteenuse osutaja, kuid ei või samal ajal olla müüja.\n(2) Võrguettevõtja, kelle jaotusvõrguga on ühendatud üle 100 000 tarbija ja kes ei osuta ülekandeteenust, eristab oma tegevuses gaasi jaotuse ja müügi, luues jaotuseks ja müügiks eraldi äriühingud alates 2007. aasta 1. juulist. Kui pärast nimetatud tähtpäeva ületab tarbijate arv 100 000 piiri, peab võrguettevõtja viima oma tegevuse vastavusse käesolevas lõikes sätestatud nõuetega kuue kuu jooksul.\n(3) Võrguettevõtja, kelle jaotusvõrguga on ühendatud alla 100 000 tarbija ja kes ei osuta ülekandeteenust, võib samal ajal olla müüja.\n(4)\n(5) Jaotusvõrguettevõtja kaubamärk peab temaga ühte kontserni kuuluva gaasi tootmise või müügiga tegeleva ettevõtja kaubamärgist selgelt eristuma, kui jaotusvõrguettevõtja võrguga ühendatud tarbijate arv on 100 000 või suurem."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "9",
+      "title": "§ 9. Gaasi müük",
+      "content": "(1) Võrgupiirkonnas suurimat turuosa omav gaasi müüja on kohustatud müüma gaasi vastavalt võrgu tehnilistele võimalustele kõigile selles võrgupiirkonnas võrguühendust omavatele kodutarbijatele, kui tarbija seda soovib.\n(1^1) Müüdava gaasi kogused väljendatakse paralleelselt kuupmeetrites ja kilovatt-tundides.\n(2) Gaasi müügihind ei sisalda võrguteenuse hinda.\n(3)\n(3^1)\n(3^2)\n(3^3)\n(4) Alates 2007. aasta 1. juulist peab gaasiettevõtja esitama eraldi arve gaasi müügi ja võrguteenuse kohta või eristama nimetatud tegevused ühel arvel.\n(5) Gaasiettevõtja esitab tarbijale arve tarbitud maagaasi ja võrguteenuse eest vähemalt ühe korra kuu jooksul, välja arvatud juhul, kui tarbijaga on kokku lepitud teisiti. Arve esitamise eest lisatasu ei võeta.\n(6) Müüja vahetuse korral esitab müüja tarbijale lõpparve kuue nädala jooksul pärast müügilepingu lõppemist.\n(7) Müüjal on õigus küsida võrguettevõtjalt tarbija kirjalikku taasesitamist võimaldavas vormis nõusoleku olemasolul tarbija mõõteandmeid. Mõõteandmed esitatakse müüjale lisatasuta."
+    },
+    {
+      "provision_ref": "para9^1",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "9^1",
+      "title": "§ 9^1. Turgu valitsev gaasiettevõtja",
+      "content": "(1) Turgu valitsevat seisundit omav gaasiettevõtja (edaspidi turgu valitsev gaasiettevõtja ) konkurentsiseaduse mõistes peab avalikustama gaasi müügitingimused ja müügihinna kujunemise põhimõtted.\n(2) Turgu valitsev gaasiettevõtja lähtub gaasi müügitingimusi välja töötades ja müügihinda kujundades võrdse kohtlemise ja läbipaistvuse põhimõttest.\n(3) Gaasi müügihind peab tagama vajalike tegevuskulude katmise, vajalikud investeeringud ja põhjendatud tulukuse.\n(4) Turgu valitsev gaasiettevõtja peab Konkurentsiameti nõudel tõendama müügihinna vastavust käesoleva paragrahvi lõikes 3 nimetatud tingimustele.\n(5) Kui müügihind ei vasta käesoleva paragrahvi lõikes 3 nimetatud tingimustele, on Konkurentsiametil õigus nõuda selle kooskõlla viimist.\n(6) Turgu valitseval ettevõtjal ei ole õigust keelduda gaasi müümisest võrguühendust omavale kodutarbijale, kui tarbija seda soovib."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "10",
+      "title": "§ 10. Gaasi müügihind kodutarbijale",
+      "content": "(1) Turgu valitsev gaasiettevõtja lähtub kodutarbijale müüdava gaasi hinna kujundamisel põhimõttest, et müüdava gaasi kaalutud keskmine hind sisaldab riiki sisseostetava gaasi hinda ja sellele lisatud müügimarginaali.\n(2) Turgu valitsev gaasiettevõtja lähtub gaasi sisseostul headest äritavadest ning ostab gaasi võimalikult soodsa hinnaga.\n(3) Turgu valitsev gaasiettevõtja peab müügimarginaali piirmäära kooskõlastama Konkurentsiametiga.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud müügimarginaali piirmäära suurus peab katma gaasi müügiks tehtavad kulud ning tagama põhjendatud tulukuse. Konkurentsiamet töötab välja ja avalikustab müügimarginaali piirmäära arvutamise ühtse metoodika ning lähtub sellest nimetatud müügimarginaali piirmäära kooskõlastamisel.\n(5) Konkurentsiamet teeb käesoleva paragrahvi lõikes 3 nimetatud müügimarginaali piirmäära kooskõlastamise kohta otsuse 30 päeva jooksul, alates nõuetekohase taotluse esitamisest. Eriti keeruka või töömahuka kooskõlastamistaotluse menetlemisel võib Konkurentsiamet pikendada seda tähtaega 60 päevani, teatades tähtaja pikendamisest taotluse esitajale enne esialgse tähtaja möödumist.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud taotluse menetlemise tähtaeg peatub, kui Konkurentsiametile ei ole esitatud tema nõutud teavet, mis on vajalik taotluse kooskõlastamiseks.\n(7) Kui kalendriaastal müüdud gaasi kaalutud keskmine hind ületab sama perioodi gaasi kaalutud keskmist sisseostuhinda, millele on lisatud käesoleva paragrahvi lõikes 4 nimetatud müügimarginaal, tasaarveldab turgu valitsev gaasiettevõtja hinna vahe tarbijaga kolme kuu jooksul ja esitab Konkurentsiametile sellekohase aruande hiljemalt iga aasta 1. maiks. Tasaarveldus peab kajastuma arvel eraldi reana.\n(8) Konkurentsiameti nõudel peab gaasi müüja selgitama ja põhjendama hindade moodustumist.\n(9) Gaasi müüja peab avalikustama gaasi müügihinnad ja teavitama sellest tarbijat vähemalt üks kuu enne nende kehtima hakkamist."
+    },
+    {
+      "provision_ref": "para10^1",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "10^1",
+      "title": "§ 10^1. Lepingutingimused",
+      "content": "(1) Enne liitumis-, võrgu- või müügilepingu sõlmimist peab lepingu teiseks pooleks olevale füüsilisest isikust tarbijale andma teavet lepingu põhitingimuste kohta ning lepingu sisu võimalike teiste variantide kohta.\n(2) Kirjalikus või elektroonilises vormis või kirjalikku taasedastamist võimaldavas vormis või mõnes muus rangemas vorminõudes sõlmitud liitumislepingus, võrgulepingus ja müügilepingus või nende tüüptingimustes esitatakse järgmised andmed:\n1) võrgulepingu ja liitumislepingu puhul võrguettevõtja nimi, müügilepingu puhul võrguettevõtja või müüja nimi ja äriregistrikood, samuti võrguettevõtja või müüja aadress ja muud kontaktandmed;\n2) võrgulepingu ja liitumislepingu alusel osutatava teenuse kirjeldus ja teenuse osutamise algusaeg või müügilepingu alusel müüdava maagaasi põhinäitajad;\n3) võrgulepingu või liitumislepingu alusel osutatava teenuse kvaliteedi põhinäitajad või viide kättesaadavale dokumendile, milles on põhinäitajad esitatud;\n4) võrguga ühendamiseks või tarbimis- või tootmistingimuste muutmiseks sõlmitud liitumislepingu alusel võrguga esmakordse ühendamise aeg;\n5) osutatavate hooldusteenuste kirjeldus;\n6) lepingu alusel makstavate tasude ja hooldusteenuste tasude kohta asjakohase teabe saamise viis;\n7) lepingu tingimuste muutmise ja lepingu ülesütlemise, sealhulgas lepingu tasuta ülesütlemise tingimused;\n8) teave tingimuste kohta, kuidas korraldatakse tarbijale raha tagastamine, hüvitise maksmine või muul viisil hüvitamine, kui võrgulepingu, müügilepingu või liitumislepingu alusel osutatavate teenuste kvaliteet ei vasta lepingus sätestatud tingimustele;\n9) teave kaebuste käsitlemise korra kohta;\n10) võrgulepingu ja müügilepingu puhul lepingu kestus koos lepingu pikendamise ja lõpetamise tingimustega;\n11) tarbimismahu mitteteatamisel võrguettevõtjapoolne tarbimismahu prognoosimise kord;\n12) teenuse eest tasumise võimalused.\n(3) Leping ei tohi sisaldada piiranguid müügilepingu sõlmimisele enam kui ühe müüjaga.\n(4) Müüja peab Konkurentsiametiga kooskõlastama kodutarbija gaasi müügilepingu tüüptingimused, milles sätestatakse muu hulgas:\n1) müüja nimi, äriregistri kood ja aadress ning muud kontaktandmed;\n2) osutatava teenuse kirjeldus;\n3) osutatava teenuse kvaliteedi põhinäitajad või viide kättesaadavale dokumendile, milles on põhinäitajad esitatud;\n4) kohaldatavatest tasudest tarbija teavitamise kord;\n5) lepingu kestus, lepingu pikendamise, muutmise ja lõpetamise tingimused;\n6) lepingu tasuta ülesütlemise tingimused;\n7) teenuse eest tasumise võimalused.\n(5) Konkurentsiamet ei kooskõlasta tüüptingimust, kui tüüptingimus ei ole kooskõlas käesoleva seadusega või kui tüüptingimuse sisu, väljendusviis või esituslaad on ebatavaline või arusaamatu võlaõigusseaduse § 37 lõike 3 tähenduses või kui tüüptingimus kahjustab teist poolt ebamõistlikult võlaõigusseaduse § 42 tähenduses ja on seega tühine tüüptingimus.\n(6) Gaasi müügilepingus tuleb muu hulgas määrata tarne liik.\n(7) Kodutarbija gaasi müügileping võib sisaldada ka võrguteenuse osutamise lepingu sätteid, mis käsitlevad müüdava gaasi jaotamiseks vajalikku võrguteenuse osutamist.\n(8) Müüja peab võimaldama lõpetada gaasi müügileping seoses müüja vahetamisega kolme nädala jooksul alates tarbija taotluse esitamisest tingimusel, et lõpetatavast lepingust tulenevad kohustused on täidetud.\n(9) Võrguettevõtja või müüja edastab tarbijale vähemalt 30 päeva enne lepingutingimuste, sealhulgas hindade ja tariifide muutmist sellekohase teate. Teates nimetatakse kavandatav muudatus, selle tegemise alus ja muudatuse jõustumise aeg ning esitatakse teave selle kohta, et tarbijal on õigus leping üles öelda, kui ta muudatusega ei nõustu."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "11",
+      "title": "§ 11. Bilansivastutusega seonduvad mõisted",
+      "content": "(1) Bilanss käesoleva seaduse tähenduses on tasakaal turuosalise gaasi müügilepingus kokkulepitud gaasikoguse ning turuosalise tarbitud või edasi müüdud gaasikoguse vahel.\n(2) Bilansihaldur on turuosaline, kes on sõlminud bilansilepingu süsteemihalduriga bilansi tagamiseks.\n(3) Bilansileping on süsteemihalduri ja bilansihalduri vahel sõlmitud avatud tarne leping, mille alusel bilansihaldur kohustub tagama bilansi.\n(3^1) Avatud tarne on turuosalisele bilansiperioodil süsteemihalduri või bilansihalduri poolt lepingus sätestatud koguse piirides gaasi müümine või ülejääva gaasi ostmine.\n(3^2) Määratud tarne on turuosalisele temaga bilansiperioodiks kokkulepitud sellise gaasikoguse müümine, millest on bilansihaldurile ette teatatud.\n(4) Bilansivastutus on turuosalise kohustus tagada bilanss igal bilansiperioodil.\n(5) Bilansiselgitus on bilansi kindlaksmääramine bilansiperioodil.\n(6) Bilansiperiood on ajavahemik, mille lõikes bilanss tagatakse.\n(7) Bilansigaas on gaas, mida bilansi tagamise eesmärgil ostab või müüb süsteemihaldur bilansilepingu alusel."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "12",
+      "title": "§ 12. Bilansivastutuse korraldamine",
+      "content": "(1) Bilansivastutus on igal turuosalisel.\n(2) Turuosaline on ise bilansihaldur, kui ta ei ole delegeerinud lepingus bilansivastutust müüjale või teisele bilansihaldurile. Kodutarbija bilansihaldur on müüja.\n(3) Bilansihaldur teeb iga bilansiperioodi lõpul bilansiselgituse ja edastab bilansiselgituseks vajalikud andmed süsteemihaldurile.\n(4) Bilansilepingus lepitakse kokku turuosalise tarbimisrežiim, varustuskindluse tagamiseks rakendatavad meetmed, bilansigaasi müügi tingimused, turuosalise ja gaasisüsteemi bilansi tagamiseks vajalike mõõtesüsteemide ja mõõtmiste teostus, süsteemihaldurile edastatavad andmed ja andmete esitamise sagedus ning süsteemi bilansi tagamise (bilansiselgituse) kulude katmine.\n(5) Süsteemihaldur töötab välja ja kooskõlastab Konkurentsiametiga bilansilepingu tüüptingimused.\n(6) Bilansiperiood on üks ööpäev, kui ei ole kokku lepitud teisiti.\n(7) Kui bilansi selgitamise tulemusena on bilansihalduri bilanss negatiivne, loetakse, et süsteemihaldur on sellel perioodil müünud bilansihaldurile bilansigaasi koguses, mis on vajalik bilansihalduri bilansi hoidmiseks.\n(8) Kui bilansi selgitamise tulemusena on bilansihalduri bilanss positiivne, loetakse, et bilansihaldur on sellel perioodil müünud süsteemihaldurile bilansigaasi koguses, mis on vajalik bilansihalduri bilansi hoidmiseks.\n(9) Bilansigaasi hinna määrab käesoleva seaduse ja bilansilepingu kohaselt süsteemihaldur pärast bilansiperioodi lõppemist.\n(10) Süsteemihaldur töötab välja ja kooskõlastab Konkurentsiametiga bilansigaasi hinna määramise metoodika.\n(11) Süsteemihaldur kujundab bilansigaasi hinna selliselt, et see võimaldab süsteemihalduril:\n1) katta bilansigaasi ostuks tehtud põhjendatud kulutused;\n2) katta bilansigaasi ostu ja müügiga seotud muud põhjendatud kulutused;\n3) tagada põhjendatud tulukuse.\n(12) Süsteemihaldur lähtub bilansilepingu tüüptingimusi välja töötades ja bilansigaasi hinda kujundades võrdse kohtlemise ja läbipaistvuse põhimõttest.\n(13) Süsteemihaldur peab avalikustama bilansigaasi hinna määramise metoodika ja bilansilepingu tüüptingimused oma veebilehel.\n(14) Bilansiga seotud rahaliste arvelduste aluseks olev arvestusperiood on kalendrikuu, kui ei ole kokku lepitud teisiti.\n(15) Valdkonna eest vastutav minister võib anda määrusi bilansivastutusega seotud teabevahetuse ulatuse ja sisu kohta."
+    },
+    {
+      "provision_ref": "para12^1",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "12^1",
+      "title": "§ 12^1. Bilansihalduri õigused ja kohustused",
+      "content": "(1) Bilansihalduril on õigus saada tema poolt süsteemihaldurile müüdud bilansigaasi eest tasu käesoleva seaduse ja bilansilepingu kohaselt.\n(2) Bilansihaldur tasub süsteemihalduri poolt temale müüdud bilansigaasi eest käesoleva seaduse ja bilansilepingu kohaselt.\n(3) Kui bilansihalduri bilanss ei ole tasakaalus, on ta kohustatud süsteemihalduri nõudmisel viivitamata näitama, kuidas bilanss tagatakse. Süsteemihalduri nõudmisel peab bilansihaldur alustama tegevust, mis tema bilansi tasakaalustab.\n(4) Bilansihaldur peab sõlmima gaasi tarnelepingud tingimustel, mis võimaldavad igal ajahetkel tema bilanssi tagada.\n(5) Bilansihaldur määrab kindlaks korra, mida järgides tuleb teda teavitada määratud tarnetest turuosalisele, kelle bilanssi bilansihaldur käesoleva seaduse kohaselt hoiab.\n(6) Bilansihaldur avalikustab bilansivastutuse tagamise tingimused ja bilansist kõrvalekalde eest võetava tasu määramise metoodika oma veebilehel ning annab nende kohta teavet isikule, kes seda nõuab."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "13",
+      "title": "§ 13. Gaasisüsteem",
+      "content": "Gaasisüsteem käesoleva seaduse tähenduses on tehniline süsteem, mille moodustab Eesti territooriumil asuv ülekandevõrk koos asjakohaste juhtimis-, kaitse-, side- ja mõõtesüsteemidega."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "14",
+      "title": "§ 14. Süsteemivastutus",
+      "content": "Süsteemivastutus on süsteemihalduri kohustus tagada sõlmitud lepingute kohaselt igal hetkel gaasisüsteemi varustuskindlus ja bilanss."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "15",
+      "title": "§ 15. Süsteemihaldur",
+      "content": "(1) Süsteemihaldur käesoleva seaduse tähenduses on võrguettevõtja, kes osutab ülekandeteenust ja omab või haldab gaasi mõõtesüsteeme riigipiiril.\n(1^1) Süsteemihaldur osutab gaasi ülekande teenust või samal ajal nii ülekande- kui ka jaotamisteenust.\n(2) Süsteemihaldur peab käesolevast peatükist tulenevaid õigusi teostama ja kohustusi täitma viisil, mis on teiste gaasiettevõtjate ning võrgu kasutajate suhtes erapooletu ja võrdse kohtlemise põhimõtet järgiv."
+    },
+    {
+      "provision_ref": "para15^1",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "15^1",
+      "title": "§ 15^1. Süsteemihalduri sõltumatuse tagamine",
+      "content": "(1) Süsteemihalduri juhtimise eest vastutav isik ei või samal ajal olla teise gaasiettevõtja juhatuse liige või muul viisil vastutada teise gaasiettevõtja igapäevase majandustegevuse eest.\n(2) Süsteemihalduri käsutuses peavad olema võrgu säilitamiseks ja arendamiseks vajalikud ressursid, sealhulgas tehnilised, füüsilised, rahalised ja inimressursid. See ei takista emaettevõtjal teostada tütarettevõtja üle majanduslikku ja juhtimisalast järelevalvet, mis hõlmab eelkõige õigust anda nõusolek süsteemihalduri iga-aastasele rahastamiskavale ning tütarettevõtja võlgade ülempiirile. Emaettevõtja ei tohi sekkuda tütarettevõtja igapäevasesse majandustegevusse ega võrgu ehitamise või uuendamisega seotud otsustesse, mis ei ületa heakskiidetud rahastamiskava.\n(3) Süsteemihaldur töötab välja ja viib ellu kava, milles nähakse ette meetmed teiste gaasiettevõtjate ja tarbijate võrdseks kohtlemiseks ning selle eesmärgi saavutamiseks võrguettevõtja töötajatele pandavad kohustused. Süsteemihaldur esitab kava täitmise aastaaruande Konkurentsiametile.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud kava koostab ja selle täitmist kontrollib ning kava täitmiseks rakendatud abinõusid käsitleva aastaaruande koostab võrguettevõtja juhatuse liikme määratud ja tema otsealluvuses olev töötaja.\n(5) Süsteemihaldur, kes on ülekandesüsteemi omanik, ja tema tütarettevõtjad ei tohi kasutada ühisteenuseid, välja arvatud haldus- või infotehnoloogiateenuseid.\n(6) Gaasi ülekande teenust osutava ettevõtja eraldamise korral vertikaalselt integreeritud ettevõtjast ei tohi gaasi ülekande teenust osutav ettevõtja edastada tema käsutuses olevat ärisaladust tootmise või müügiga tegelevale ettevõtjale ning sellise gaasi ülekande teenust osutava ettevõtja töötajad ei tohi eraldamise protsessi käigus asuda tööle tootmise või müügiga tegelevasse ettevõtjasse."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "16",
+      "title": "§ 16. Süsteemihalduri kohustused",
+      "content": "(1) Käesoleva seaduse §-s 14 sätestatud kohustuse täitmiseks süsteemihaldur:\n1) tagab gaasisüsteemi varustuskindluse;\n2) planeerib ja juhib gaasivarustust gaasisüsteemis, gaasi jaotamist võrgus ning gaasi tarbimist, arvestades seejuures gaasisüsteemi tehnilisi piiranguid;\n2^1) täidab Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 715/2009, maagaasi ülekandevõrkudele juurdepääsu tingimuste kohta ning millega tunnistatakse kehtetuks määrus (EÜ) nr 1775/2005 (ELT L 211, 14.08.2009, lk 36–54), ülekandevõrgu haldurile sätestatud nõudeid võimsuse jaotamise põhimõtete, ülekoormuse juhtimise reeglite, tasakaalustuseeskirjade, võimsustega kauplemise, läbipaistvusnõuete ja andmete säilitamise kohta;\n2^2) tagab ülekandevõrgule juurdepääsu kolmandatele isikutele Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 715/2009 ülekandevõrgu haldurile sätestatud nõuete kohaselt;\n2^3) täidab Euroopa Parlamendi ja nõukogu määruses (EL) nr 994/2010 ülekandevõrgu haldurile sätestatud nõudeid;\n2^4) teeb koostööd Euroopa maagaasi ülekandesüsteemi haldurite võrgustiku raames piirkondlikul ja Euroopa Liidu tasandil maagaasituru tõhusaks toimimiseks Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 715/2009 sätestatud nõuete kohaselt;\n2^5) esitab Konkurentsiametile investeeringu kava, mis tagab Euroopa Parlamendi ja nõukogu määruse (EL) nr 994/2010 artiklis 6 sätestatud infrastruktuurinormi tagamiseks vajalikud meetmed alates 2014. aasta 3. detsembrist või tõendab infrastruktuurinormi täitmist asjakohaste turumeetmetega;\n2^6) esitab nõukogu määruse (EL, Euratom) nr 617/2010, mis käsitleb komisjoni teavitamist Euroopa Ühenduse energeetika infrastruktuuri investeerimisprojektidest ning millega tunnistatakse kehtetuks määrus (EÜ) nr 736/96 (ELT L 180, 15.07.2010, lk 7–13), artiklis 3 nimetatud andmed Konkurentsiametile iga kahe aasta järel komisjoni määruses (EL, Euratom) nr 833/2010, millega rakendatakse nõukogu määrus (EL, Euratom) nr 617/2010 (ELT L 248, 22.09.2010, lk 36–56), esitatud vormi kohaselt;\n3) tagab koostöö naaberriikide gaasisüsteemidega, arvestades nende süsteemide tehnilisi piiranguid reaalajas;\n4) selgitab temale edastatud andmete alusel gaasisüsteemi bilanssi ja bilansihaldurite bilanssi ning ostab ja müüb bilansigaasi eesmärgiga tagada gaasituru efektiivne toimimine, gaasisüsteemi bilansi tagamiseks tehtud kulutuste õiglane jagamine bilansihaldurite vahel käesoleva seaduse, selle alusel kehtestatud õigusaktide ning süsteemihalduri ja bilansihalduri vahel sõlmitud lepingute kohaselt;\n4^1) esitab bilansihaldurile bilansi selgitamisega seotud andmete ja muude asjakohaste andmete alusel iga arvestusperioodi kohta arved bilansihalduri ostetud bilansigaasi eest makstava tasu ja õigusaktist või lepingust tulenevate muude süsteemihaldurile makstavate tasude kohta ning nõuab arvete alusel maksmisele kuuluvad summad bilansihaldurilt sisse;\n4^2) arvutab bilansi selgitamisega seotud andmete ja muude asjakohaste andmete alusel selle bilansigaasi koguse, mille bilansihaldur on talle arvestusperioodil müünud, ning tasub bilansihaldurile selle koguse eest;\n5) sõlmib bilansilepinguid;\n6) täidab muid käesolevast seadusest tulenevaid ülesandeid.\n(2) Süsteemihaldur peab läbipaistvaid protseduure kasutades ostma oma kohustuste täitmiseks teenuseid tingimustel, mis ei tee vahet eri gaasiettevõtjate vahel ega sisalda põhjendamatuid piiranguid.\n(3) Süsteemihaldur ei või avaldada seoses oma ülesannete täitmisega saadud konfidentsiaalset teavet kolmandatele isikutele, välja arvatud juhul, kui teabe avaldamine on ette nähtud seadusega või kui teabe edastamine on vajalik käesolevast seadusest tulenevate kohustuste täitmiseks.\n(3^1) Süsteemihaldur teavitab Konkurentsiametit igast kavandatavast tehingust, mille puhul võib tekkida vajadus üle vaadata ettevõtja vastavus käesoleva seaduse § 29^1 nõuetele, või mis tahes asjaoludest, mille puhul Euroopa Liidu välisest riigist (edaspidi kolmas riik ) pärit isik võiks omandada kontrolli ülekandevõrgu või süsteemihalduri üle.\n(4) Süsteemihaldur peab esitama Konkurentsiametile andmed varustuskindluse aruande koostamiseks.\n(5) Gaasi ülekande teenuse osutamise ja gaasi ülekande teenuse eest võetava tasu määramisega seotud süsteemihalduri kohustused sätestab Euroopa Parlamendi ja nõukogu määrus (EÜ) nr 715/2009.\n(6) Süsteemihaldur peab tagama oma tegevuse kohta käiva äriliselt kasuliku teabe kasutamise võrdse kohtlemise põhimõttest lähtuvalt.\n(7) Süsteemihaldur avalikustab tõhusaks konkurentsiks ja turu tõhusaks toimimiseks vajaliku teabe, välja arvatud ärisaladuse.\n(8) Süsteemihaldur ei edasta ärisaladust tootmis- ja müügiülesandeid täitvale gaasiettevõtjale.\n(9) Süsteemihaldur ei tohi ettevõtja kaudu, kelle üle on süsteemihalduril valitsev mõju konkurentsiseaduse tähenduses, gaasi müümisel ega ostmisel kuritarvitada ärisaladust, mille ta on saanud kolmandalt isikult võrgule juurdepääsu korraldamisel.\n(10) Süsteemihaldur tagab koostöös teiste liikmesriikide ülekandesüsteemi halduritega integreeritud süsteemi kaudu võimsuse jaotamise ja võrgu turvalisuse kontrollimise."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "17",
+      "title": "§ 17. Süsteemihalduri õigused",
+      "content": "(1) Süsteemihalduril on õigus nõuda oma kohustuste täitmiseks bilansihaldurilt gaasitarnete suurendamist või vähendamist vastavalt sõlmitud bilansilepingule.\n(2) Süsteemihalduril on õigus anda turuosalistele täitmiseks kohustuslikke korraldusi tarbijate selliseks gaasitarbimise piiramiseks või katkestamiseks, mis on vajalik tarnehäire mõju leevendamiseks. Korralduste aluseks peab olema tarbijaga sõlmitud gaasitarbimise piiramist ja katkestamist lubav leping või käesoleva seaduse § 26^2 lõikes 2^2 nimetatud Vabariigi Valitsuse otsus.\n(3) Süsteemihalduril on õigus kehtestada süsteemivastutuse täitmiseks gaasisüsteemi kasutamise tehnilisi piiranguid.\n(4) Süsteemihalduril on õigus nõuda kõigilt turuosalistelt ja kohalikult omavalitsuselt oma kohustuste täitmiseks vajalikku teavet.\n(5) Süsteemihalduril on õigus nõuda bilansihaldurilt õigusaktis ja sõlmitud lepingutes sätestatud nõuete ja kohustuste täitmist ning nende nõuete täitmata jätmise või kohustuste rikkumise korral keelduda bilansihalduriga lepingu sõlmimisest, leping lõpetada või kasutada muid lepingu või õigusaktiga ettenähtud õiguskaitsevahendeid.\n(6) Süsteemihalduril on õigus nõuda bilansihaldurilt bilansiselgitusega seotud kulude katmist.\n(6^1) Süsteemihalduril on õigus osta ja müüa bilansigaasi. Bilansigaasi impordiks ja müügiks ei ole tegevusluba nõutav.\n(7) Süsteemihaldur ei hüvita käesoleva paragrahvi lõigetes 1–3 ja 5 nimetatud tegevuste ja korralduste täitmisest tulenevat kahju ega kulutusi, välja arvatud juhul, kui süsteemihalduri tegevus või korraldused on olnud õigusvastased.\n(8) Gaasi ülekande teenuse osutamise ja gaasi ülekande teenuse eest võetava tasu määramisega seotud süsteemihalduri õigused sätestab Euroopa Parlamendi ja nõukogu määrus (EÜ) nr 715/2009."
+    },
+    {
+      "provision_ref": "para17^1",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "17^1",
+      "title": "§ 17^1. Veeldatud gaasi terminali halduri ülesanded",
+      "content": "(1) Gaasiettevõtja, kellele kuulub veeldatud gaasi terminal, määrab veeldatud gaasi terminali halduri. Veeldatud gaasi terminali halduriks võib veeldatud gaasi terminali omanik määrata iseenda või teise ettevõtja. Veeldatud gaasi terminali omanik teavitab Konkurentsiametit terminali halduri määramisest.\n(2) Terminali haldur täidab järgmisi ülesandeid:\n1) hooldab ja arendab veeldatud gaasi terminali, et tagada teenuse osutamise kohustus;\n2) tagab juurdepääsu kolmandatele isikutele Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 715/2009 sätestatud nõuete kohaselt;\n3) täidab Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 715/2009 sätestatud veeldatud gaasi terminali halduri kohustusi võimsuse jaotamise põhimõtete, ülekoormuse juhtimise reeglite, võimsustega kauplemise, läbipaistvusnõuete ja andmete säilitamise kohta;\n4) järgib turuosaliste võrdse kohtlemise põhimõtet;\n5) annab süsteemihaldurile, teistele terminali halduritele ja teistele võrguettevõtjatele vajalikku teavet, et tagada gaasi ülekanne kooskõlas ühendatud võrkude töökindla ja tõhusa kasutamisega.\n(3) Terminali haldur ei tohi avaldada oma ülesannete täitmise käigus teatavaks saanud ärisaladust kolmandatele isikutele, välja arvatud juhul, kui teabe avaldamine on ette nähtud seadusest tulenevate kohustuste täitmiseks.\n(4) Terminali haldur kooskõlastab terminali kasutamise lepingu tüüptingimused ja tariifide arvutamise metoodika Konkurentsiametiga.\n(5) Veeldatud gaasi terminali kasutamise tariifid kujundatakse selliselt, et oleks tagatud:\n1) vajalike tegevuskulude katmine;\n2) investeeringud tegevus- ja arenduskohustuse täitmiseks;\n3) keskkonnanõuete täitmine;\n4) kvaliteedi- ja ohutusnõuete täitmine;\n5) põhjendatud tulukus."
+    },
+    {
+      "provision_ref": "para17^2",
+      "chapter": "2. peatükk - GAASITURU KORRALDUS",
+      "section": "17^2",
+      "title": "§ 17^2. Hoidlatevõrgu halduri ülesanded",
+      "content": "(1) Gaasiettevõtja, kellele kuulub gaasihoidla, määrab hoidlatevõrgu halduri. Hoidlatevõrgu halduriks võib gaasihoidla omanik määrata iseenda või teise ettevõtja. Gaasihoidla omanik teavitab Konkurentsiametit hoidlatevõrgu halduri määramisest.\n(2) Hoidlatevõrgu haldur täidab järgmisi ülesandeid:\n1) hooldab ja arendab hoidlatevõrku, et täita gaasi hoiustamisteenuse osutamise kohustus;\n2) tagab juurdepääsu kolmandatele isikutele Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 715/2009 sätestatud nõuete kohaselt;\n3) täidab Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 715/2009 sätestatud hoidlahalduri kohustusi;\n4) järgib turuosaliste võrdse kohtlemise põhimõtet;\n5) annab süsteemihaldurile, võrguettevõtjatele, teistele hoidlahalduritele ja terminali halduritele vajalikku teavet, et tagada gaasi transport ja hoiustamine kooskõlas ühendatud võrkude töökindla ja tõhusa kasutamisega;\n6) avalikustab tõhusaks konkurentsiks ja turu tõhusaks toimimiseks vajaliku teabe, välja arvatud ärisaladuse.\n(3) Hoidlatevõrgu haldur ei tohi avaldada oma ülesannete täitmise käigus teatavaks saadud ärisaladust kolmandatele isikutele, välja arvatud juhul, kui teabe avaldamine on ette nähtud seadusest tulenevate kohustuste täitmiseks.\n(4) Hoidlatevõrgu haldur kooskõlastab hoidla kasutamise lepingu tüüptingimused ja tariifide arvutamise metoodika Konkurentsiametiga.\n(5) Hoidla tariifide arvutamise metoodika kooskõlastamisel konsulteerib Konkurentsiamet võrgu kasutajatega.\n(6) Hoidla kasutamise tariifid kujundatakse selliselt, et oleks tagatud:\n1) vajalike tegevuskulude katmine;\n2) investeeringud tegevus- ja arenduskohustuse täitmiseks;\n3) keskkonnanõuete täitmine;\n4) kvaliteedi- ja ohutusnõuete täitmine;\n5) põhjendatud tulukus.\n(7) Hoidla kasutamise tüüptingimused ja tariifid avalikustatakse hoidlatevõrgu halduri veebilehel."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "18",
+      "title": "§ 18. Võrguga liitumine",
+      "content": "(1) Võrguga liitumine käesoleva seaduse tähenduses on tarbijapaigaldise, gaasi tootmisseadme, teisele võrguettevõtjale kuuluva võrgu või veeldatud gaasi terminali ühendamine võrguga.\n(2) Võrguettevõtjal on kohustus võrgu tehniliste võimaluste piires liita võrguga kõik võrguettevõtja võrgupiirkonnas asuvad vastava taotluse esitanud isikud (edaspidi liituja ), kui sellega ei seata ohtu varasemate liitujate varustuskindlust.\n(3) Liituja taotluse rahuldamata jätmist peab võrguettevõtja kirjalikult põhjendama 30 päeva jooksul, alates taotluse saamisest.\n(4) Liituja taotluse alusel väljastab võrguettevõtja võrguga liitumise tingimused (edaspidi liitumistingimused ).\n(5) Liitumistingimused peavad olema:\n1) läbipaistvad ja üheselt mõistetavad;\n2) sarnaste liitujate võrdse kohtlemise põhimõtet järgivad;\n3) konkreetse liitumise tehnilisi ja majanduslikke tingimusi arvestavad;\n4) võrgu arendamise ja stabiilsuse huve arvestavad;\n5) võrgu tehnilisi võimalusi arvestavad.\n(6) Liitumistingimustes määratakse kindlaks:\n1) liitumispunkt;\n1^1) gaasi tarbimisrežiim liitumispunktis;\n2) mõõtesüsteemi asukoht ja mõõtevahendite tüüp;\n3) võrgu teeninduspiir;\n4) liituja ja võrguettevõtja kohustused;\n5) liitumistasu kalkulatsioon;\n6) liitumistingimuste kehtivusaeg;\n7) muud eritingimused.\n(7) Võrguga ühendatud tarbijapaigaldise või selle omaniku vahetumisel ei võeta liitumistasu, kui üheaegselt on täidetud järgmised tingimused:\n1) ühendamine olemasoleva tarbijapaigaldisega toimub nii, et liitumispunkti asukoht ei muutu;\n2) ei taotleta endise tarbija sõlmitud lepingus määratud summaarse tarbimisvõimsuse või tarbimisrežiimi muutmist;\n3) on säilinud tehnilised tingimused liituja tarbijapaigaldise ühendamiseks."
+    },
+    {
+      "provision_ref": "para18^1",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "18^1",
+      "title": "§ 18^1. Riigipiiri ületav gaasitorustik",
+      "content": "(1) Riigipiiri ületava gaasitorustiku (edaspidi ühendus ) ehitamine on lubatud ainult Vabariigi Valitsuse loal.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud loa taotlus peab sisaldama järgmisi andmeid:\n1) taotleja nimi ja aadress;\n2) andmed ühenduse asukoha kohta;\n3) ühenduse tehnilised andmed (rõhk, võimsus, läbimõõt, pikkus jne);\n4) planeeritud ehitusaeg;\n5) ehituse eeldatav maksumus;\n6) põhjendus ühenduse vajalikkuse kohta;\n7) keskkonnamõjude hindamise tulemused."
+    },
+    {
+      "provision_ref": "para18^2",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "18^2",
+      "title": "§ 18^2. Kolmanda osapoole juurdepääs võrgule",
+      "content": "(1) Konkurentsiamet võib anda riigipiiri ületavale uuele ühendusele, sealhulgas olemasoleva ühenduse võimsuse või selle osa olulisele suurendamisele, veeldatud gaasi terminalile ja gaasihoidlale, taotluse alusel kolmanda osapoole juurdepääsu tähtajalise erandi, mille korral võib gaasiettevõtja või terminali halduri suhtes jätta kohaldamata käesoleva seaduse §-des 18, 23, 23^2, 29^1, 29^3 ja 29^4 ning § 37 lõike 3 punktis 20 sätestatu.\n(2) Kolmanda osapoole juurdepääs võrgule käesoleva seaduse tähenduses on turuosalise õigus liituda võrguga või kasutada võrguteenust.\n(3) Uus ühendus käesoleva seaduse tähenduses on ühendus, mille ehitamiseks on antud käesoleva seaduse §-s 18^1 nimetatud luba pärast 2003. aasta 15. juulit.\n(4) Eranditaotluses ja Konkurentsiameti otsuses sisalduvate andmete loetelu kehtestab valdkonna eest vastutav minister.\n(5) Konkurentsiamet edastab eranditaotluse ja eranditaotluse alusel tehtud otsuse koopiad Euroopa Komisjonile vahetult pärast taotluse saabumist ja otsuse tegemist. Otsus avalikustatakse Konkurentsiameti veebilehel.\n(6) Konkurentsiamet täidab Euroopa Komisjoni otsuse erandiotsuse muutmise või tühistamise kohta ühe kuu jooksul ja teavitab uue otsuse tegemisest Euroopa Komisjoni."
+    },
+    {
+      "provision_ref": "para18^3",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "18^3",
+      "title": "§ 18^3. Tähtajalise erandi andmise tingimused",
+      "content": "(1) Tähtajalist erandit võib taotleda, kui uus ühendus vastab järgmistele tingimustele:\n1) investeering peab suurendama gaasitarnete konkurentsi ning parandama varustuskindlust;\n2) vastavalt investeeringuga seotud riskiastmele jääks investeering tegemata, kui erandit ei anta;\n3) ühenduse omanik peab olema füüsiline või juriidiline isik, kes toimib vähemalt õigusliku vormi poolest eraldi võrguettevõtjatest, kelle võrkudesse kõnealune ühendus tehakse;\n4) ühenduse kasutajatelt võetakse tasu;\n5) tähtajaline erand ei kahjusta konkurentsi, gaasi siseturu tõhusat toimimist ega reguleeritud võrgu toimimist, millega ühendus on liidetud.\n(2) Tähtajalise erandi taotlemisel olemasoleva võimsuse olulise suurendamise korral kehtivad käesoleva paragrahvi lõikes 1 nimetatud tingimused ning võimsuse suurendamine peab võimaldama uute tarneallikate kasutamist.\n(3) Tähtajalise erandi tegemisel kaalutakse iga juhtumi korral eraldi, kas on vaja kehtestada erandi kestuse ja ühendusele mittediskrimineeriva juurdepääsu tagamise osas täiendavad tingimused. Kõnealuste tingimuste üle otsustamisel võetakse arvesse eelkõige ehitatavat lisavõimsust ja olemasoleva võimsuse muutmist, projekti tähtaega ja liikmesriigis valitsevaid gaasituru tingimusi.\n(4) Kui käesoleva seaduse § 18^2 lõikes 1 nimetatud ühendus asub rohkem kui ühe liikmesriigi territooriumil, võib Konkurentsiamet kahe kuu jooksul alates asjakohase liikmesriigi reguleerivalt asutuselt käesoleva paragrahvi lõikes 1 nimetatud eranditaotluse saamisest edastada asjakohase liikmesriigi reguleerivale asutusele oma nõuandva arvamuse.\n(5) Konkurentsiamet teavitab kuue kuu jooksul alates kuupäevast, millal saadi eranditaotlus viimaselt asjakohaselt reguleerivalt asutuselt, eranditaotluse osas kokkuleppele jõudmise otsusest energeetikasektorit reguleerivate asutuste koostööametit. Põhjendatud vajaduse korral võib Konkurentsiamet nõuda energeetikasektorit reguleerivate asutuste koostööametilt teatamise tähtaja pikendamist kolme kuu võrra.\n(6) Konkurentsiamet ei tee käesoleva seaduse § 18^2 lõikes 1 nimetatud otsust enne, kui erandi taotleja on selgitanud välja uue ühenduse, märkimisväärselt suurendatud võimsuse või selle osa kasutajate võimaliku huvi."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "19",
+      "title": "§ 19. Võrguga liitumise lepingu sõlmimine",
+      "content": "(1) Võrguga liitumiseks sõlmivad võrguettevõtja ja võrguga liidetava tarbijapaigaldise omanik või tema volitatud esindaja kirjaliku lepingu.\n(2) Lepingus määratakse muu hulgas kindlaks:\n1) liitumispunkt;\n1^1) gaasi tarbimisrežiim liitumispunktis;\n2) mõõtesüsteemi asukoht ja mõõtevahendite tüüp;\n3) võrgu teeninduspiir;\n4) liitumistasu suurus;\n5)\n6) lepingu täitmise tähtaeg.\n(2^1) Liitumise tehnilisteks tingimusteks loetakse käesoleva paragrahvi lõike 2 punktides 1–3 nimetatud andmed.\n(3) Konkurentsiametil on õigus kontrollida liitumisest keeldumise, liitumistasu ja lepingutingimuste põhjendatust."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "20",
+      "title": "§ 20. Liitumistasu arvutamine",
+      "content": "(1) Võrguettevõtjal on õigus võtta võrguga liitujalt põhjendatud liitumistasu.\n(2) Liitumistasu arvutamisel lähtutakse sellest, et oleks tagatud konkreetseks liitumiseks vajalike põhjendatud kulutuste katmine, muu hulgas:\n1) investeeringud, sealhulgas mõõtesüsteemi väljaehitamine;\n2) keskkonnanõuete täitmine;\n3) kvaliteedi- ja ohutusnõuete täitmine.\n(3) Liitumistasu suuruse arvutab võrguettevõtja, lähtudes liitumistasu arvestamise metoodikast.\n(3^1) Võrguettevõtja peab kooskõlastama liitumistasu arvestamise metoodika Konkurentsiametiga.\n(4) Kui liitumise tehniliste tingimuste muutmine liitumispunktis toimub võrguettevõtja algatusel, tasub kulud võrguettevõtja.\n(5) Võrguettevõtja võib võtta põhjendatud tasu gaasitarbimise tehniliste tingimuste muutmise eest, mis toimub tarbija või teise gaasiettevõtja algatusel."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "21",
+      "title": "§ 21. Võrguettevõtja tegevuspiirkond",
+      "content": "(1) Võrguettevõtja piiritleb oma võrgupiirkonna.\n(2) Võrguettevõtjal võib olla mitu võrgupiirkonda, mis koos moodustavad võrguettevõtja tegevusloas märgitud tegevuspiirkonna.\n(3) Eri võrguettevõtjate tegevuspiirkonnad võivad kattuda.\n(4) Kui võrguettevõtjad lepivad omavahel kokku tegevuspiirkondade vastastikuses muutmises, peab kogu territoorium, kus võrguettevõtjad tegutsevad, olema tegevuspiirkondadega kaetud ka pärast piirkondade muutmist.\n(5) Võrguettevõtjad peavad käesoleva paragrahvi lõikes 4 nimetatud tegevuspiirkondade vastastikusest muutmisest teavitama Konkurentsiametit ning lisama teatele omavahel tegevuse ja kohustuste jaotuse kohta sõlmitud kokkuleppe."
+    },
+    {
+      "provision_ref": "para21^1",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "21^1",
+      "title": "§ 21^1. Võrgu planeerimine ja ehitamine",
+      "content": "Võrgu planeerimisele ja ehitamisele kohaldatakse ehitiste planeerimiseks ja ehitamiseks kehtestatud nõudeid."
+    },
+    {
+      "provision_ref": "para21^2",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "21^2",
+      "title": "§ 21^2. Võrgu arengukava",
+      "content": "(1) Pärast konsulteerimist turuosalistega koostab süsteemihaldur võrgu kümneaastase arengukava (edaspidi võrgu arengukava ) ja esitab selle Konkurentsiametile.\n(2) Võrgu arengukava väljatöötamisel lähtub süsteemihaldur olemasolevast ja prognoositavast nõudlusest, arvestades piirkondlikesse ja Euroopa Liidu ülestesse võrkudesse ning veeldatud gaasi terminalidesse tehtavaid investeerimiskavasid.\n(3) Võrgu arengukava hõlmab meetmeid, et tagada gaasisüsteemi piisav võimsus ja varustuskindlus järgmise kümne aasta jooksul. Võrgu arengukava sisaldab eelkõige:\n1) peamise ülekandeinfrastruktuuri ehitamise või uuendamise kava;\n2) kavandatavate investeerimisprojektide tehnilisi parameetreid;\n3) investeerimisprojektide ajakava.\n(4) Süsteemihaldur esitab Konkurentsiametile aruande võrgu arengukava täitmise ja võimalike muudatuste kohta iga aasta 3. märtsiks, täiendades võrgu arengukava kolme järgmise aasta investeeringute osas.\n(5) Süsteemihaldur avaldab võrgu arengukava oma veebilehel.\n(6) Konkurentsiamet jälgib ja hindab võrgu arengukava rakendamiseks tehtavaid investeeringuid, lähtudes nende vastavusest üleeuroopalisele võrgukavale, ning esitab oma aastaaruandes hinnangu süsteemihalduri investeerimiskavade kohta. Hinnang võib sisaldada soovitusi investeerimiskavade muutmiseks."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "22",
+      "title": "§ 22. Võrguettevõtja õigused ja kohustused",
+      "content": "(1) Võrguettevõtja on kohustatud tagama võrguühendust omavate isikute varustamise gaasiga käesoleva seaduse, tegevusloa kõrvaltingimuste ja sõlmitud lepingu kohaselt.\n(1^1) Kui võrguettevõtja ei ole ise müüja, nimetab ta oma võrgupiirkonnas müüja juhul, kui seal puuduvad teised gaasi müüjad, kellelt tarbija võiks gaasi osta.\n(2) Võrguettevõtja vastutab tema omandis või valduses oleva võrgu toimimise ja korrasoleku eest.\n(3) Võrguettevõtja on kohustatud arendama võrku selliselt, et oleks tagatud tema võrgupiirkonnas olevate tarbijapaigaldiste võrku ühendamine.\n(4)\n(4^1) Võrguettevõtja avaldab gaasi kvaliteedi näitajad, sealhulgas alumise ja ülemise kütteväärtuse, oma veebilehel.\n(5) Võrguettevõtja on kohustatud andma kõigile teistele võrguettevõtjatele vajalikku informatsiooni, et tagada gaasi jaotamine ja müük viisil, mis on kooskõlas omavahel ühendatud võrkude kindla ja tõhusa kasutamisega.\n(5^1) Võrguettevõtja ei või avaldada seoses oma ülesannete täitmisega saadud konfidentsiaalset teavet kolmandatele isikutele, välja arvatud juhul, kui teabe avaldamine on ette nähtud seadusega või kui teave tuleb edastada käesolevast seadusest tulenevate kohustuste täitmiseks.\n(6) Võrguettevõtja võib oma tegevuse lõpetada ainult juhul, kui ta on andnud käesolevast paragrahvist tulenevad kohustused üle teisele võrguettevõtjale.\n(7) Võrguettevõtja peab vähemalt 12 kuud enne oma tegevuse lõpetamist kirjalikult informeerima Konkurentsiametit lõpetamisajast ja -kavast ning esitama piisava ülevaate asjaoludest, mis tagavad käesolevas paragrahvis sätestatud nõuete täitmise.\n(8) Käesoleva seaduse § 8^1 lõikes 2 nimetatud võrguettevõtja on kohustatud täitma §-s 15^1 sätestatud nõudeid.\n(9) Võrguettevõtja järgib võrguteenust osutades turuosaliste võrdse kohtlemise põhimõtet.\n(10) Võrguettevõtjal on õigus keelduda võrguteenuse osutamisest, kui:\n1) võrguteenuse kasutaja gaasipaigaldis ei ole kooskõlas õigusaktide nõuete või võrguettevõtja poolt võrguga ühendamiseks esitatud tehniliste tingimustega;\n2) võrgus puudub võrguteenuse osutamiseks vajalik võimsus.\n(11) Võrguettevõtja põhjendab võrguteenuse osutamisest keeldumist. Keeldumise põhjenduses tuleb viidata keeldumise õiguslikule alusele. Käesoleva paragrahvi lõike 10 punktis 2 sätestatud alusel keeldumisest teavitab võrguettevõtja Konkurentsiametit.\n(12) Võrguettevõtja peab avalikustama tema pakutavad teenused koos nende osutamise tingimuste ja nende eest võetava tasu või selle arvutamise metoodikaga oma veebilehel.\n(13) Võrguettevõtja on kohustatud esitama bilansihaldurile ja süsteemihaldurile mõõteandmed, mis on vajalikud bilansi selgitamiseks.\n(14) Võrguettevõtja peab tagama oma tegevuse kohta käiva äriliselt kasuliku teabe kasutamise võrdse kohtlemise põhimõttest lähtuvalt.\n(15) Hädaolukorra seaduse § 36 lõike 1 punktis 2 nimetatud elutähtsa teenuse osutajaks on ettevõtja:\n1) kelle jaotusvõrguga on ühendatud vähemalt 10 000 tarbijat või\n2) kes osutab gaasivõrgus ülekandeteenust.\n(15^1) Võrguettevõtja esitab Konkurentsiametile tingimused piiriülesele taristule juurdepääsuks ning metoodika võimsuse jaotamiseks ja ülekoormusega tegelemiseks. Võrguettevõtja muudab Konkurentsiameti põhjendatud ettepanekul nimetatud tingimusi ja metoodikat.\n(16) Võrguettevõtja on üldhuviteenuse osutaja majandustegevuse seadustiku üldosa seaduse tähenduses."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "23",
+      "title": "§ 23. Võrguteenus ja selle hind",
+      "content": "(1) Võrguteenus käesoleva seaduse tähenduses on võrgu kaudu gaasi ülekande või jaotamise teenuse osutamine.\n(2) Võrguteenuste hinnad peavad olema põhjendatud, lähtudes võrgu toimimiseks ja arendamiseks, töö- ja varustuskindluseks, võrgu kaudu jaotatava gaasi mõõtmise ja mõõtmisandmete edastamiseks ja arvestamiseks vajalikest kulutustest ning põhjendatud tulukusest nii, et oleks tagatud tarbija häireteta varustamine gaasiga.\n(3) Võrguteenuste hinnad tuleb kujundada selliselt, et oleks tagatud:\n1) vajalike tegevuskulude katmine;\n2) investeeringud tegevus- ja arenduskohustuse täitmiseks;\n3) keskkonnanõuete täitmine;\n4) kvaliteedi- ja ohutusnõuete täitmine;\n5) põhjendatud tulukus ettevõtja investeeritud kapitalilt.\n(3^1) Käesoleva paragrahvi lõike 3 punktis 5 sätestatud põhjendatud tulukuse arvutamise aluseks on ettevõtja investeeritud kapital ja kaalutud keskmise kapitali hind.\n(4) Võrguettevõtja peab võrguteenuste hinnad ja nende kehtestamise alused, välja arvatud gaasi transiidi korral, esitama Konkurentsiametile kooskõlastamiseks ja Konkurentsiameti nõudel põhjendama hindade moodustumist.\n(4^1) Konkurentsiamet töötab välja võrguteenuste hindade arvutamise ühtse metoodika, lähtudes käesoleva seaduse §-des 23 ja 23^2 sätestatud nõuetest.\n(4^2) Konkurentsiamet avalikustab võrguteenuse hinna arvutamise ühtse metoodika ning lähtub sellest võrguteenuste hinna kooskõlastamisel.\n(5) Konkurentsiamet menetleb käesoleva paragrahvi lõikes 4 sätestatud hinnataotlust käesoleva seaduse § 10 lõigetes 5 ja 6 sätestatud korras.\n(6) Võrguettevõtja peab avalikustama oma tegevuspiirkonna võrguteenuste kooskõlastatud hinnad ja teavitama oma tegevuspiirkonna tarbijaid vähemalt kolm kuud enne nende kehtima hakkamist."
+    },
+    {
+      "provision_ref": "para23^1",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "23^1",
+      "title": "§ 23^1. Võrguteenuse osutamise leping",
+      "content": "(1) Võrguteenuse osutamiseks sõlmib võrguettevõtja võrgu kasutamist taotleva turuosalisega võrguteenuse osutamise lepingu (edaspidi võrguleping ).\n(2) Võrguettevõtja võib erinevate võrguteenuste osutamiseks sõlmida turuosalisega eraldi võrgulepingud.\n(3) Võrguettevõtja kooskõlastab võrgulepingu tüüptingimused Konkurentsiametiga.\n(4) Konkurentsiamet ei kooskõlasta võrgulepingu tüüptingimusi, kui nende sisu ei vasta võrguteenuse hinna kooskõlastamise aluseks olnud võrguteenuse kasutaja õiguste ja kohustuste tasakaalule.\n(5) Võrgulepingu tüüptingimustest võib poolte kokkuleppel kõrvale kalduda."
+    },
+    {
+      "provision_ref": "para23^2",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "23^2",
+      "title": "§ 23^2. Võrguteenuse hinna arvutamise põhimõtted",
+      "content": "(1) Võrguteenuse hinna arvutamisel võetakse aluseks viimase kolme kalendriaasta aritmeetiline keskmine müügikogus. Vajaduse korral teostatakse müügikoguse leidmiseks täiendav analüüs.\n(2) Hinda ei lülitata järgmisi kuluartikleid:\n1) ebatõenäoliselt laekuvate nõuete kulu;\n2) sponsorlust, kingitusi ja annetusi;\n3) põhitegevusega mitteseotud kulusid;\n4) õigusaktide alusel ettevõtjale määratud trahve ja viiviseid;\n5) finantskulusid;\n6) dividendide tulumaksukulu;\n7) muid kulusid, mis ei ole vajalikud ettevõtjale seadusega pandud kohustuste täitmiseks.\n(3) Hinda lülitatavad kulud peavad olema põhjendatud, lähtuma kuluefektiivsusest ning võimaldama ettevõtjale seadusega sätestatud ülesannete täitmise. Põhjendatud tegevuskulude hindamisel lähtutakse alljärgnevatest printsiipidest:\n1) kulude dünaamika jälgimine ajas ning selle võrdlus tarbijahinnaindeksi dünaamikaga;\n2) erinevate kulukomponentide põhjendatuse süvaanalüüs (sealhulgas eksperthinnangud);\n3) ettevõtja kulude ning nende põhjal arvutatud statistiliste näitajate võrdlemine teiste sarnaste ettevõtjate kuludega.\n(4) Hinda lülitatava põhjendatud tulukuse ja põhivara kulumi arvutamisel lähtutakse võrguteenuse osutamiseks vajalikust põhivarast.\n(5) Põhivara hulka ei arvestata:\n1) pikaajalisi finantsinvesteeringuid;\n2) immateriaalset põhivara, välja arvatud arvutitarkvara litsentsid;\n3) tagastamatu abi raames (sealhulgas sihtfinantseerimise teel) soetatud põhivara;\n4) liitumistasudest soetatud põhivara;\n5) põhivara, mida ettevõtja ei kasuta võrguteenuse osutamiseks.\n(6) Põhivara väärtuse arvestus on järjepidev ning jätkub ka ettevõtja või vara omandisuhte muutmisel.\n(7) Põhjendatud tulukuse arvutamine toimub põhimõttel, et võrguteenuse osutamiseks vajaliku põhivara väärtus, millele on liidetud käibekapitali suurus, korrutatakse kaalutud keskmise kapitali hinnaga.\n(8) Käesoleva paragrahvi lõikes 7 nimetatud käibekapitali suurus on viis protsenti viimase kolme kalendriaasta käibe aritmeetilisest keskmisest. Vajaduse korral teostatakse käibekapitali suuruse leidmiseks täiendav analüüs.\n(9) Põhivara kulumi arvutamisel lähtutakse võrguteenuse osutamiseks vajaliku põhivara väärtusest ning kuluminormist, mis vastab põhivara kasulikule tehnilisele elueale."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "24",
+      "title": "§ 24. Mõõtmine ja mõõtesüsteemide paigaldamine",
+      "content": "(1) Võrguettevõtja tagab võrgust tarbitud gaasikoguste mõõtmise, mõõteandmete kogumise ja töötlemise ning peab sellekohast arvestust.\n(1^1) Võrguettevõtja teisendab mõõdetud gaasikogused energiaühikutesse. Energiaühikuna kasutatakse kilovatt-tundi (kWh).\n(1^2) Gaasikoguste energiaühikutesse teisendamise metoodika kehtestab valdkonna eest vastutav minister määrusega.\n(2)\n(3) Võrguettevõtja paigaldab oma valduses olevas võrgus projektikohase mõõtesüsteemi koos vajalike lisaseadmetega võimalikult tarbimiskoha lähedale omal kulul, kui lepingus ei ole sätestatud teisiti.\n(4) Kui tarbija olemasolev mõõtesüsteem ei vasta kehtivatele tehnilistele nõuetele, asendab võrguettevõtja selle omal kulul, kui lepingus ei ole sätestatud teisiti.\n(5) Kui tarbija soovib tarbijapaigaldise võimsust muuta, vahetab või seadistab võrguettevõtja mõõtesüsteemi ja tarbimisvõimsust piiravad seadmed. Ümberseadistamisega seotud kulud katab tarbija."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "25",
+      "title": "§ 25. Ebaseaduslik kasutamine",
+      "content": "(1) Gaasi ja võrguteenuse kasutamine on ebaseaduslik, kui selleks puudub õiguslik alus või kui rikutakse käesolevast seadusest tulenevaid nõudeid, eelkõige kui:\n1) tegelikult tarbitud kogust varjatakse või vähendatakse arvestusseadmete rikkumise, näidu moonutamise, mõõtesüsteemi või selle osade või sulgearmatuuri rikkumise teel;\n2) tarbitakse mõõtjata võrguühenduselt gaasiettevõtja loata;\n3) tarbitakse kehtiva kirjaliku lepinguta.\n(2) Käesoleva paragrahvi lõike 1 punktis 3 nimetatud ebaseadusliku tarbimise juhtumiks ei saa lugeda kirjaliku lepingu puudumist gaasiettevõtja ja tarbija vahel, kui gaasiettevõtja esitab regulaarselt tarbitud gaasi eest tarbijale arveid ning tarbija on arved õigeaegselt tasunud.\n(3) Turuosaline hüvitab võrguettevõtjale ja müüjale ebaseaduslikult kasutatud gaasi ja võrguteenuse maksumuse ning gaasi ja võrguteenuse ebaseadusliku kasutamisega tekitatud kahju ning selle suuruse määramiseks tehtud mõistlikud kulutused.\n(4) Ebaseaduslikult kasutatud gaasikoguse ja võrguteenuse ning selle maksumuse määramise põhimõtted kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "26",
+      "title": "§ 26. Gaasivarustuse katkestamine ja taastamine",
+      "content": "(1) Võrguettevõtjal on õigus katkestada võrguühendus tarbijale ette teatamata, kui on ohustatud inimeste elu, tervis, vara või keskkond.\n(2) Võrguettevõtjal on õigus katkestada võrguühendus gaasi ebaseadusliku kasutamise tuvastamise hetkest viivitamata.\n(3) Võrguettevõtjal on õigus katkestada gaasivarustus, teatades sellest vähemalt seitse päeva ette, kui:\n1) tarbijapaigaldis halvendab teise tarbija gaasiga varustamist või võrgu tehnilisi parameetreid;\n2) on takistatud võrguettevõtja ligipääs tarbija omandis või valduses oleval territooriumil asuvale mõõtesüsteemile selle kontrollimiseks või asendamiseks või tarbijapaigaldise käitamiseks vajalike tööde tegemiseks;\n3) on rikutud käesoleva seaduse alusel sõlmitud lepinguid või käesolevas seaduses sätestatud tingimusi.\n(3^1) Kui kodutarbija on jätnud müüjaga sõlmitud lepingus ettenähtud tasu tasumata ning kodutarbija kasutab gaasi alalise elukohana kasutatava eluruumi kütmiseks, võib gaasivarustuse ajavahemikus 1. oktoobrist kuni 1. maini katkestada alles pärast seda, kui käesoleva paragrahvi lõikes 4 nimetatud teatise saamisest on möödunud 90 päeva.\n(4) Enne gaasivarustuse katkestamist käesoleva paragrahvi lõikes 3 sätestatud juhtudel on võrguettevõtja kohustatud andma tarbijale mõistliku tähtaja puuduse kõrvaldamiseks ning võrguühenduse katkestamisest kirjalikult teavitama. Teatises peavad sisalduma:\n1) gaasivarustuse katkestamise põhjus;\n2) puuduse kõrvaldamise tähtaeg.\n(5) Käesoleva paragrahvi lõikes 3 sätestatud põhjustel katkestatud võrguühendus ja gaasivarustus taastatakse pärast seda, kui tarbija on tasunud põhjendatud katkestamis- ning taasühendamiskulud tingimusel, et leping ei ole lõpetatud."
+    },
+    {
+      "provision_ref": "para26^1",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "26^1",
+      "title": "§ 26^1. Varustuskindluse miinimumnõuded",
+      "content": "(1) Varustuskindluse tagamisel tarnehäire korral tuleb lähtuda Euroopa Parlamendi ja nõukogu määruses (EL) nr 994/2010 sätestatud nõuetest.\n(2) Kaitstud tarbija, kelle suhtes rakendatakse Euroopa Parlamendi ja nõukogu määruse (EL) nr 994/2010 artiklis 8 sätestatud varustuskindluse normi, on:\n1) kodutarbija, kelle tarbijapaigaldis on ühendatud jaotusvõrguga;\n2) eluruumide kütteks soojust tootev ettevõtja, kellel ei ole võimalik kasutada kütusena muud kütust kui gaas.\n(3)\n(4)\n(5) Riketest põhjustatud gaasivarustuse katkestuse järjestikune kestus ei või olla pikem kui 72 tundi ja aastane summaarne katkestuse kestus pikem kui 130 tundi. Katkestuste kestuse üle peab arvestust võrguettevõtja."
+    },
+    {
+      "provision_ref": "para26^2",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "26^2",
+      "title": "§ 26^2. Varustuskindluse tagamine",
+      "content": "(1) Kui süsteemihalduril on usaldusväärne teave, et võib toimuda sündmus, mille tagajärjel võib tarneolukord märkimisväärselt halveneda või on tarnehäire juba tekkinud, teavitab süsteemihaldur sellest ning tema rakendatavatest turumeetmetest Majandus- ja Kommunikatsiooniministeeriumi ja Konkurentsiametit.\n(2) Majandus- ja Kommunikatsiooniministeerium analüüsib koos Konkurentsiametiga saadud teavet ning süsteemihalduri rakendatud turumeetmeid. Kui analüüsi tulemusel ilmneb, et varustuskindluse tagamiseks on vaja kasutusele võtta käesoleva paragrahvi lõikes 3 nimetatud gaasinõudluse kohustusliku vähendamise meetmed, teeb Majandus- ja Kommunikatsiooniministeerium Vabariigi Valitsusele ettepaneku lubada kasutada käesoleva seaduse § 26^2 lõikes 1 nimetatud tarnehäire kõrvaldamiseks või selle mõju leevendamiseks vajalike meetmete kavas nimetatud gaasinõudluse kohustusliku vähendamise meetmeid.\n(2^1) Kui Euroopa Komisjon on teinud otsuse meetmete rakendamiseks kogu Euroopa Liidu või selle teatud piirkonna varustuskindluse tagamiseks, teavitab Majandus- ja Kommunikatsiooniministeerium Euroopa Komisjoni otsusest ja kavandatavatest meetmetest Vabariigi Valitsuse kriisikomisjoni ning teeb vajaduse korral Vabariigi Valitsusele ettepaneku lubada gaasinõudluse kohustusliku vähendamise meetmete kasutamist.\n(2^2) Vabariigi Valitsuse otsuses peab sisalduma:\n1) meetmete kasutusele võtmise põhjus;\n2) meetmete kasutamise eeldatav kestus päevades;\n3) kasutusele võetavate meetmete loetelu.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud juhul võib rakendada muu hulgas järgmisi meetmeid:\n1) piirata gaasiga varustatust isikutel, kes kasutavad gaasi muul otstarbel kui soojuse tootmine;\n2) lubada piirata soojust tootvate ettevõtjate gaasiga varustamist;\n3) lubada alandada elamute kütteks väljastatava vee temperatuuri;\n4) kohustada soojust tootvaid ettevõtjaid kasutama kütusena reservkütust.\n(4) Konkurentsiamet teavitab käesoleva paragrahvi lõikes 1 tekkinud olukorrast ja selle lahendamise meetmetest viivitamata Euroopa Komisjoni.\n(4^1) Kui varustuskindlus on taastunud, teavitab süsteemihaldur sellest Majandus- ja Kommunikatsiooniministeeriumi ning Konkurentsiametit. Majandus- ja Kommunikatsiooniministeerium teavitab olukorrast Vabariigi Valitsuse kriisikomisjoni ja Vabariigi Valitsust.\n(5)\n(6)\n(7) Varustuskindluse tagamise üle teeb järelevalvet Konkurentsiamet, kes koostab ja avaldab igal aastal aruande varustuskindluse olukorra kohta."
+    },
+    {
+      "provision_ref": "para26^3",
+      "chapter": "3. peatükk - VÕRGU TOIMIMINE",
+      "section": "26^3",
+      "title": "§ 26^3. Varustuskindluse tagamise kavad",
+      "content": "(1) Konkurentsiamet esitab Euroopa Parlamendi ja nõukogu määruse (EL) nr 994/2010 kohase ennetava tegevuskava gaasi varustuskindlust mõjutavate riskide vähendamiseks ning tarnehäirega toimetuleku kava Majandus- ja Kommunikatsiooniministeeriumile.\n(2) Valdkonna eest vastutav minister kinnitab käskkirjaga käesoleva paragrahvi lõikes 1 nimetatud kava ning edastab selle Vabariigi Valitsuse kriisikomisjonile teadmiseks.\n(3) Konkurentsiamet avaldab käesoleva paragrahvi lõikes 1 nimetatud kavad oma veebilehel ulatuses, mis tagab tundliku ärisaladuse konfidentsiaalsuse."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - TEGUTSEMINE TEGEVUSLOA ALUSEL",
+      "section": "27",
+      "title": "§ 27. Loakohustus",
+      "content": "(1) Ettevõtjal peab olema tegevusluba järgmistel tegevusaladel tegutsemiseks:\n1) gaasi müük;\n2) gaasi ülekande teenuse osutamine;\n3) gaasi jaotamise teenuse osutamine;\n4) gaasi import;\n5) veeldatud gaasi terminali haldamine;\n6) gaasi hoiustamise teenuse osutamine.\n(2) Loakohustust ei ole isikul, kes müüb gaasi ainult oma liikmetele, rentnikele või üürnikele, kui selline müük ei ole tema põhitegevus ning toimub ühe kinnistu või vallasasjaks oleva ehitise ja selle teenindamiseks vajaliku maa piires."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - TEGUTSEMINE TEGEVUSLOA ALUSEL",
+      "section": "28",
+      "title": "§ 28. Tegevusloa taotlemine",
+      "content": "(1) Tegevusloa taotluse lahendab Konkurentsiamet.\n(2) Tegevusloa taotluses esitatakse lisaks majandustegevuse seadustiku üldosa seaduses sätestatud andmetele järgmised andmed ja dokumendid:\n1) taotletav tegevuspiirkond, välja arvatud gaasi müügi ja impordi tegevusaladel;\n2) süsteemihalduri kinnitus selle kohta, et gaasi ülekanne ja jaotamine on gaasisüsteemi tehniliste võimaluste seisukohalt lubatav ega ohusta varustuskindlust, kui taotletakse luba gaasi impordiks võrgu kaudu;\n3) tegevuspiirkonnas asuvate võrkude asendiplaan ja kirjeldus, välja arvatud käesoleva seaduse § 27 lõike 1 punktides 1 ja 4 nimetatud tegevusaladel."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - TEGUTSEMINE TEGEVUSLOA ALUSEL",
+      "section": "29",
+      "title": "§ 29. Tegevusloa kontrolliese",
+      "content": "Ettevõtjale antakse tegevusluba, kui: 1 1) tal on tehnilised võimalused ja vajaliku oskusega personal nõuetekohaseks tegutsemiseks taotluses märgitud tegevusalal;\n2) tal on majanduslikud ning organisatsioonilised eeldused ja tingimused tegevuseks, milleks ta tegevusluba taotleb;\n3) jaotusvõrguettevõtjaks oleva ettevõtja aktsia- või osakapital on vähemalt 31 950 eurot;\n4) gaasi ülekande teenust osutava ettevõtja aktsia- või osakapital on vähemalt 128 000 eurot;\n5) veeldatud gaasi terminali opereerimisteenust osutava ettevõtja aktsia- või osakapital on vähemalt 128 000 eurot;\n6) gaasi hoiustamise teenust osutava ettevõtja aktsia- või osakapital on vähemalt 128 000 eurot."
+    },
+    {
+      "provision_ref": "para29^1",
+      "chapter": "4. peatükk - TEGUTSEMINE TEGEVUSLOA ALUSEL",
+      "section": "29^1",
+      "title": "§ 29^1. Gaasi ülekande teenust osutava ettevõtja juhtimine",
+      "content": "(1) Gaasi ülekande teenust osutava ettevõtja üle valitsevat mõju omav isik ei või omada valitsevat mõju gaasi ega elektrienergiat tootva või müüva ettevõtja üle ega teostada tema suhtes muid õigusi. Gaasi tootva või müüva ettevõtja üle valitsevat mõju omav isik ei või omada valitsevat mõju gaasi ülekande teenust osutava ettevõtja või süsteemihalduri ega elektrisüsteemi põhivõrguettevõtja üle ega teostada tema suhtes muid õigusi.\n(1^1) Tootmise või müügiga tegelev ettevõtja ei tohi omada valitsevat mõju konkurentsiseaduse tähenduses gaasi ülekande teenust osutava ettevõtja üle selles Euroopa Liidu liikmesriigis, kes kohaldab gaasi ülekande teenust osutava ettevõtja suhtes omandilise eristamise nõuet tootmise ja müügiga tegelevast ettevõtjast.\n(1^2) Käesoleva paragrahvi lõikes 1 nimetatud muud õigused tähendavad eelkõige hääleõigust, õigust määrata ettevõtja nõukogu või juhatuse või ettevõtjat seadusjärgselt esindava organi liikmeid ning aktsiate või osade enamuse omamist või muu vara olulise osa kasutamist või käsutamist.\n(2)\n(3) Isik, kes määrab ülekande teenust osutava ettevõtja nõukogu, juhatuse või ettevõtja seadusjärgselt esindava organi liikmeid, ei või omada valitsevat mõju gaasi või elektrienergiat tootva või müüva ettevõtja üle ega teostada tema suhtes muid õigusi.\n(4) Gaasi ülekande teenust osutava ettevõtja nõukogu või juhatuse liige ei või olla gaasi tootva või müüva ettevõtja nõukogu või juhatuse ega ettevõtjat seadusjärgselt esindava organi liige.\n(5) Kui käesoleva paragrahvi lõigetes 1 ja 3 nimetatud isik on riik, ei või gaasi ülekande teenust osutavat ettevõtjat kontrollida sama valitsusasutus, kes kontrollib gaasi tootvat või müüvat ettevõtjat."
+    },
+    {
+      "provision_ref": "para29^2",
+      "chapter": "4. peatükk - TEGUTSEMINE TEGEVUSLOA ALUSEL",
+      "section": "29^2",
+      "title": "§ 29^2. Eelkontroll gaasi ülekandevõrgu omandamisel",
+      "content": "(1) Ettevõtja, kes soovib omandada gaasi ülekandevõrku, taotleb enne gaasi ülekandevõrgu omandamist oma vastavuse hindamist riigi sisejulgeolekule. Taotlus esitatakse Siseministeeriumile.\n(2) Siseministeerium hindab võimalikke ohte riigi sisejulgeolekule gaasi ülekandevõrgu omandamisel, lähtudes Eesti julgeolekupoliitika alustest.\n(3) Siseministeerium võib nõuda muudelt riigiasutustelt, isikutelt ja taotlevalt ettevõtjalt hinnangu andmiseks vajalikke dokumente ja teavet. Siseministeerium teostab eelkontrolli ja teeb põhjendatud otsuse 90 päeva jooksul ettevõtja taotluse esitamisest või täiendavate dokumentide või teabe saamisest arvates.\n(4) Otsuses esitatakse positiivne või negatiivne seisukoht taotleja vastavusest riigi sisejulgeolekule gaasi ülekandevõrgu omandamise korral. Otsus on gaasi ülekandevõrgu omanikule, gaasi ülekandevõrgu müügi otsustajale või kinnitajale ja gaasi ülekandevõrku osta soovivale ettevõtjale siduv.\n(5) Otsuses esitatakse negatiivne seisukoht, kui:\n1) gaasi ülekandevõrgu omandamine eelkontrolli taotleva ettevõtja poolt võib kahjustada riigi sisejulgeolekut;\n2) taotleja ei ole esitanud Siseministeeriumi poolt nõutud tähtpäevaks käesoleva paragrahvi lõike 3 alusel nõutud andmeid või dokumente;\n3) taotleja esitatud andmed või dokumendid on ebaõiged, eksitavad või võltsitud;\n(6) Ülekandevõrgu omandamise tehing, mis on sõlmitud isikuga, kes ei ole käesolevas paragrahvis sätestatud eelkontrolli raames vastavaks tunnistatud, on tühine.\n(7) Otsus esitatakse kolme tööpäeva jooksul arvates selle tegemisest taotlejale ja ülekandevõrgu omanikule."
+    },
+    {
+      "provision_ref": "para29^3",
+      "chapter": "4. peatükk - TEGUTSEMINE TEGEVUSLOA ALUSEL",
+      "section": "29^3",
+      "title": "§ 29^3. Gaasi ülekande teenust osutava ettevõtja nõuetekohasuse hindamine",
+      "content": "(1) Konkurentsiamet algatab gaasi ülekande teenust osutava ettevõtja nõuetekohasuse hindamise isiku suhtes, kes taotleb tegevusluba gaasi ülekande teenuse osutamiseks.\n(2) Konkurentsiamet hindab käesoleva paragrahvi lõikes 1 nimetatud isiku vastavust käesoleva seaduse §-s 29^1 sätestatud nõuetele, järgides käesolevat paragrahvi ning Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 715/2009 artiklit 3.\n(3) Isik, kes taotleb tegevusluba gaasi ülekande teenuse osutamiseks, teavitab Konkurentsiametit igast kavandatavast tehingust, mille puhul võib tekkida vajadus uuesti hinnata ettevõtja vastavust käesoleva seaduse §-s 29^1 sätestatud nõuetele.\n(4) Gaasi ülekande teenust osutava ettevõtja nõuetekohasuse hindamise käigus võib Konkurentsiamet taotleda ettevõtjalt teavet, mis on vajalik käesolevas paragrahvis sätestatud ülesannete täitmiseks.\n(5) Konkurentsiamet valmistab ette nõuetekohasuse hindamise otsuse eelnõu nelja kuu jooksul tegevusloa taotluse või teabe saamisest arvates ning edastab otsuse eelnõu koos asjakohase teabega viivitamata Euroopa Komisjonile arvamuse saamiseks.\n(6) Konkurentsiamet teeb nõuetekohasuse hindamise kohta otsuse kahe kuu jooksul pärast Euroopa Komisjoni arvamuse saamist või pärast nelja kuu möödumist arvamuse taotlemisest. Otsuse tegemisel arvestab Konkurentsiamet võimalikult suurel määral Euroopa Komisjoni arvamusega.\n(7) Konkurentsiamet avaldab otsuse Euroopa Liidu Teatajas. Kui Konkurentsiameti otsus erineb Euroopa Komisjoni arvamusest, avaldab Konkurentsiamet oma otsuse Euroopa Liidu Teatajas koos põhjenduste ning Euroopa Komisjoni arvamusega.\n(8) Kui Konkurentsiamet ei ole käesoleva paragrahvi lõikes 6 nimetatud tähtajaks nõuetekohasuse hindamise otsust teinud, loetakse, et ettevõtja vastab käesoleva seaduse §-s 29^1 sätestatud nõuetele."
+    },
+    {
+      "provision_ref": "para29^4",
+      "chapter": "4. peatükk - TEGUTSEMINE TEGEVUSLOA ALUSEL",
+      "section": "29^4",
+      "title": "§ 29^4. Kolmandast riigist pärit isikuga seotud gaasi ülekande teenust osutava ettevõtja nõuetekohasuse hindamine",
+      "content": "(1) Kui kolmandast riigist pärit isiku või isikute poolt kontrollitav ülekandevõrgu omanik või süsteemihaldur taotleb tegevusluba gaasi ülekande teenuse osutamiseks, teavitab Konkurentsiamet sellest viivitamata Euroopa Komisjoni. Konkurentsiamet teavitab viivitamata Euroopa Komisjoni ka asjaolust, mis võimaldab kolmandast riigist pärit isikul omandada kontrolli ülekandevõrgu või gaasi ülekande teenust osutava ettevõtja üle.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud isik peab tõendama, et tema või teda kontrolliva isiku tegevus ei sea ohtu Eesti ega Euroopa Liidu varustuskindlust.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud varustuskindluse hindamisel võtab Konkurentsiamet arvesse:\n1) õigusi ja kohustusi, mis on Euroopa Liidul asjaomase kolmanda riigi suhtes ja mis tulenevad rahvusvahelisest õigusest, sealhulgas ühe või enama kolmanda riigiga sõlmitud varustuskindluse kokkuleppest, mille osaline on Euroopa Liit;\n2) õigusi ja kohustusi, mis on riigil asjaomase kolmanda riigi suhtes ja mis tulenevad selle kolmanda riigiga sõlmitud kokkulepetest niivõrd, kuivõrd need on kooskõlas Euroopa Liidu õigusega;\n3) muid nõuetekohasuse hindamise või asjaomase kolmanda riigiga seotud asjaolusid.\n(3^1) Konkurentsiamet esitab enne käesoleva paragrahvi lõikes 3 nimetatud hindamist taotluse Euroopa Komisjonile, et saada arvamus, kas ettevõtja vastab käesoleva seaduse §-s 29^1 sätestatud nõuetele ning kas ta seab ohtu Euroopa Liidu varustuskindluse gaasiga.\n(4) Konkurentsiametil on õigus teha gaasi ülekande teenust osutava ettevõtja nõuetekohasuse suhtes eitav otsus, kui see võib seada ohtu Eesti või teise Euroopa Liidu liikmesriigi varustuskindluse."
+    },
+    {
+      "provision_ref": "para29^5",
+      "chapter": "4. peatükk - TEGUTSEMINE TEGEVUSLOA ALUSEL",
+      "section": "29^5",
+      "title": "§ 29^5. Jaotusvõrguettevõtja juhtimise eraldamine",
+      "content": "(1) Jaotusvõrguettevõtja juhatuse liige ei tohi samal ajal olla jaotusvõrguettevõtjaga ühte kontserni kuuluva teise gaasiettevõtja juhatuse liige või muul viisil otse või kaudselt vastutada jaotusvõrguettevõtjaga ühte kontserni kuuluva teise gaasiettevõtja igapäevase majandustegevuse eest.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud keeld kehtib ka selle gaasiettevõtja kohta, kes jaotusvõrguettevõtjaga ühte kontserni ei kuulu, kuid kellel on jaotusvõrguettevõtja üle või kelle üle on jaotusvõrguettevõtjal muul viisil valitsev mõju konkurentsiseaduse tähenduses.\n(3) Jaotusvõrguettevõtja juhatuse liikmele makstav tasu või temale ettenähtud muu hüve ei tohi sõltuda teise gaasiettevõtja majandustegevuse edukusest või selle isiku majandustegevuse edukusest, kellel on selle gaasiettevõtja üle valitsev mõju.\n(4) Jaotusvõrguettevõtja käsutuses peavad olema võrgu säilitamiseks ja arendamiseks vajalikud ressursid, sealhulgas tehnilised, füüsilised, rahalised ja inimressursid. See ei takista emaettevõtjal teostada tütarettevõtja üle majanduslikku ja juhtimisalast järelevalvet, mis hõlmab eelkõige õigust anda nõusolek jaotusvõrguettevõtja iga-aastasele rahastamiskavale ning tütarettevõtja võlgade ülempiirile. Emaettevõtja ei tohi sekkuda tütarettevõtja igapäevasesse majandustegevusse ega võrgu ehitamise või uuendamisega seotud otsustesse, mis ei ületa heakskiidetud rahastamiskava.\n(5) Jaotusvõrguettevõtja töötab välja ja viib ellu kava, milles sätestatakse meetmed teiste gaasiettevõtjate ja tarbijate võrdseks kohtlemiseks ning selle eesmärgi saavutamiseks jaotusvõrguettevõtja töötajatele pandavad kohustused. Jaotusvõrguettevõtja esitab kava Konkurentsiametile ning avaldab selle oma veebilehel.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud kava koostab, selle täitmist kontrollib ning täitmiseks rakendatud abinõusid käsitleva aastaaruande koostab jaotusvõrguettevõtja juhatuse liikme määratud ja tema otsealluvuses olev töötaja, kes on kava koostamisel sõltumatu ning kellel on juurdepääs kõigile oma ülesande täitmiseks vajalikele jaotusvõrguettevõtja ja temaga ühte kontserni kuuluva teise gaasiettevõtja andmetele.\n(7) Vertikaalselt integreeritud ettevõtja osana tegutsev jaotusvõrguettevõtja ei tohi olla sama isik, kes osutab teenust, mis ei ole seotud jaotusteenusega."
+    },
+    {
+      "provision_ref": "para29^6",
+      "chapter": "4. peatükk - TEGUTSEMINE TEGEVUSLOA ALUSEL",
+      "section": "29^6",
+      "title": "§ 29^6. Hoidlatevõrgu halduri juhtimise eraldamine",
+      "content": "(1) Hoidlatevõrgu juhtimise eest vastutav isik ei tohi samal ajal olla teise gaasiettevõtja juhatuse liige või muul viisil vastutada teise gaasiettevõtja igapäevase majandustegevuse eest.\n(2) Hoidlatevõrgu halduri juhatuse liikmele makstav tasu või temale ettenähtud muu hüve ei tohi sõltuda teise gaasiettevõtja majandustegevuse edukusest või selle isiku majandustegevuse edukusest, kellel on selle gaasiettevõtja üle valitsev mõju.\n(3) Hoidlatevõrgu halduri käsutuses peavad olema võrgu säilitamiseks ja arendamiseks vajalikud ressursid, sealhulgas tehnilised, füüsilised, rahalised ja inimressursid. See ei takista emaettevõtjal teostada tütarettevõtja üle majanduslikku ja juhtimisalast järelevalvet, mis hõlmab eelkõige õigust anda nõusolek hoidlatevõrgu halduri iga-aastasele rahastamiskavale ning tütarettevõtja võlgade ülempiirile. Emaettevõtja ei tohi sekkuda tütarettevõtja igapäevasesse majandustegevusse ega võrgu ehitamise või uuendamisega seotud otsustesse, mis ei ületa heakskiidetud rahastamiskava.\n(4) Hoidlatevõrgu haldur töötab välja ja viib ellu kava, milles sätestatakse meetmed teiste gaasiettevõtjate ja tarbijate võrdseks kohtlemiseks ning selle eesmärgi saavutamiseks hoidlatevõrgu töötajatele pandavad kohustused. Hoidlatevõrgu haldur esitab kava täitmise aastaaruande Konkurentsiametile, kes selle avaldab.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud kava koostab, selle täitmist kontrollib ning täitmiseks rakendatud abinõusid käsitleva aastaaruande koostab hoidlatevõrgu halduri juhatuse liikme määratud ja tema otsealluvuses olev töötaja, kes on kava koostamisel sõltumatu ning kellel on juurdepääs kõigile oma ülesande täitmiseks vajalikele hoidlatevõrgu halduri ja temaga ühte kontserni kuuluva teise gaasiettevõtja andmetele.\n(6) Vertikaalselt integreeritud ettevõtja osana tegutsev hoidlatevõrgu haldur ei tohi olla sama isik, kes osutab teenust, mis ei ole seotud hoiustamisega."
+    },
+    {
+      "provision_ref": "para30^1",
+      "chapter": "4. peatükk - TEGUTSEMINE TEGEVUSLOA ALUSEL",
+      "section": "30^1",
+      "title": "§ 30^1. Tegevusloa andmine gaasi ülekande teenuse osutamiseks",
+      "content": "(1) Gaasi ülekande teenuse osutamiseks antakse tegevusluba isikule, kes omab ülekandevõrku, omab või haldab mõõtesüsteeme riigipiiril, vastab käesoleva seaduse §-des 29^1 ja 29^4 sätestatud nõuetele ning täidab §-s 29 nimetatud tingimusi.\n(1^1) Käesoleva paragrahvi lõikega 1 ei ole vastuolus, kui ülekandeteenust osutav ettevõtja moodustab ühisettevõtte teises liikmesriigis ülekandevõrku omava ja süsteemihaldurina tegutseva ettevõtjaga või ettevõtjaga, kes on teises liikmesriigis Euroopa Parlamendi ja nõukogu direktiivi 2009/73/EÜ, mis käsitleb maagaasi siseturu ühiseeskirju ning millega tunnistatakse kehtetuks direktiiv 2003/55/EÜ (ELT L 211, 14.08.2009, lk 94–136), artikli 14 alusel tunnustatud sõltumatu süsteemihaldur või sõltumatu võrguettevõtja sama direktiivi IV peatüki tähenduses.\n(2) Gaasi ülekande teenuse osutamiseks antakse tegevusluba ainult ühele võrguettevõtjale.\n(3) Gaasi ülekande teenuse osutamiseks tegevusloa andmise või andmisest keeldumise otsus tehakse kümne kuu jooksul käesoleva seaduse § 29^3 lõikes 1 nimetatud taotluse ja käesoleva seaduse nõuetele vastavust tõendavate andmete saamisest arvates. Otsust tuleb põhjendada.\n(4) Konkurentsiamet teatab Euroopa Komisjonile gaasi ülekande teenuse osutamise tegevusloa andmise otsusest ja tegevusloa omaniku süsteemihalduriks määramisest ning avaldab otsuse Euroopa Liidu Teatajas."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - TEGUTSEMINE TEGEVUSLOA ALUSEL",
+      "section": "32",
+      "title": "§ 32. Tegevusloa kõrvaltingimused",
+      "content": "Tegevusloale lisatakse järgmised kõrvaltingimused: 1 1) süsteemihalduri poolt esitatavad gaasisüsteemi tehnilisi võimalusi ja varustuskindlust arvestavad gaasi impordile kohaldatavad nõuded käesoleva seaduse § 28 lõike 2 punktis 2 sätestatu kohaselt;\n2) käesoleva seaduse § 22 kohane arenduskohustus;\n3) muud kõrvaltingimused, kui see on vajalik varustuskindluse või käesolevast seadusest ja selle alusel kehtestatud õigusaktidest tulenevate kohustuste täitmise või eesmärkide saavutamise tagamiseks või arvestades konkreetse tegevuse eripära."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - TEGUTSEMINE TEGEVUSLOA ALUSEL",
+      "section": "33",
+      "title": "§ 33.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "37",
+      "title": "§ 37. Riiklik järelevalve",
+      "content": "(1) Riiklikku järelevalvet käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle teostab Konkurentsiamet. Konkurentsiamet on käesolevast seadusest tulenevate ülesannete täitmisel sõltumatu ja teostab oma volitusi erapooletult.\n(2) Konkurentsiamet tagab ettevõtja ärisaladuse hoidmise ja kasutab enda käsutuses olevat teavet üksnes käesolevast seadusest tulenevate ülesannete täitmiseks.\n(3) Konkurentsiamet täidab käesoleva seaduse alusel järgmisi ülesandeid:\n1) kooskõlastab käesoleva seaduse § 10 lõikes 3 nimetatud müügimarginaali piirmäära;\n1^1) kontrollib kodutarbijatele müüdava gaasi hinda ja hinnavahe kompenseerimist kodutarbijatele;\n2) kontrollib käesoleva seaduse § 11 lõikes 2 nimetatud bilansilepingu tingimusi ja bilansivastutuse teenuse osutamise hindu;\n3) kooskõlastab käesoleva seaduse § 20 lõikes 3^1 nimetatud liitumistasu arvestamise metoodika;\n4) kooskõlastab käesoleva seaduse § 23 lõikes 4 nimetatud võrguteenuse hinnad;\n5) annab ja tunnistab kehtetuks tegevuslubasid, kehtestab ja muudab tegevuslubade tingimusi ning kontrollib nende täitmist;\n6) menetleb taotlusi käesoleva seaduse § 18^2 lõikes 1 nimetatud tähtajalise erandi saamiseks, teeb vastava otsuse ja edastab selle Euroopa Komisjonile;\n7) koostab, avaldab ja esitab Euroopa Komisjonile igal aastal 31. juuliks aruande varustuskindluse olukorra kohta;\n8) kontrollib riikidevahelise ühenduse võimsuse kasutamise ja juhtimise vastavust konkurentsi ja turu efektiivse toimimise nõuetele;\n9) kontrollib, kas turuosalised järgivad käesoleva seaduse ja selle alusel kehtestatud õigusaktidega ettenähtud nõudeid ja täidavad asjakohaseid kohustusi (raamatupidamise eristatus, võrguhalduri sõltumatus, informatsiooni avaldamine jne);\n9^1) jälgib võrguettevõtja poolt võrguga liitumiseks ning võrgu remondiks kuluvat aega;\n9^2) jälgib gaasituru konkurentsi taset ja turu vastavust läbipaistvuse põhimõtetele;\n9^3) analüüsib gaasi pakkumise ja nõudluse tasakaalu ning eeldatavat tulevikunõudlust, olemasolevaid tarnevõimalusi, kavandatavaid ja ehitusjärgus ühendusi, võrkude hooldamistaset ning prognoositava tippnõudluse rahuldamise meetmeid ja varustuskindluse tagamiseks rakendatavaid abinõusid;\n10) esitab liikmesriikide asjaomastele asutustele, energeetikasektorit reguleerivate asutuste koostööametile ja Euroopa Komisjonile kord aastas aruande oma tegevuse, ülesannete täitmise ja saavutatud tulemuste kohta ning avaldab aruande oma veebilehel;\n11) avalikustab oma veebilehel käesoleva seaduse alusel kooskõlastatud hinnad ja tasud;\n12) lahendab turuosaliste vahelisi vaidlusi käesolevas seaduses sätestatud korras;\n13)\n14) teostab järelevalvet Euroopa Parlamendi ning nõukogu määruses (EÜ) nr 715/2009 süsteemihalduri ja veeldatud gaasi terminali halduri nõuete ja sama määruse artikli 23 kohaselt vastuvõetud suuniste täitmise üle;\n15) täidab muid temale käesoleva seaduse ja Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 715/2009 pandud kohustusi;\n16) hindab gaasi ülekandevõrgu tegevusluba taotleva isiku vastavust käesoleva seaduse §-s 29^1 sätestatud nõuetele, järgides käesoleva seaduse §-des 29^3 ja 29^4 sätestatut;\n17) metoodikate väljatöötamisel konsulteerib gaasiettevõtjaid esindavate organisatsioonide ja Tarbijakaitseametiga;\n18) kontrollib, et ülekande-, jaotus- ja tarnetegevuste ning veeldatud maagaasi käitlemise puhul ei esine ristsubsideerimist;\n19) hindab ja jälgib võrgu arengukava rakendamiseks tehtavaid investeeringuid ning annab vajaduse korral soovitusi investeerimiskava muutmiseks;\n20) avaldab oma veebilehel veeldatud gaasi terminali kasutamise tüüptingimused ja tariifid ning lähtub sellest terminali kasutamise tingimuste ja tariifide kooskõlastamisel;\n21) avaldab oma veebilehel teabe tarbija õiguste, kehtivate õigusaktide ja vaidluse lahendamise võimaluste kohta;\n22) täidab Euroopa Parlamendi ja nõukogu määruses (EL) nr 994/2010 nimetatud pädevale asutusele pandud kohustusi;\n23) edastab nõukogu määruse (EL, Euratom) nr 617/2010 artiklis 3 nimetatud andmed Euroopa Komisjonile;\n24) täidab ja rakendab energeetikasektorit reguleerivate asutuste koostööameti ja Euroopa Komisjoni kõiki asjakohaseid õiguslikult siduvaid otsuseid;\n25) avaldab vähemalt kord aastas soovitusi müüdava gaasi hinnakujunduse kohta;\n26) jälgib gaasi hulgimüügituru terviklikkuse ja läbipaistvuse nõuete täitmist turuosaliste poolt;\n27) esitab vajaduse korral ettepaneku süsteemihalduri ülekoormusega tegelemise ja võimsuse jaotamise metoodika muutmiseks;\n28) tagab juurdepääsu tarbijate tarbimisandmetele.\n(3^1) Konkurentsiamet võib kehtestada gaasi ajutise ülekande- või jaotamishinna ning hoidla ja terminali kasutamise hinna kõige kauem kaheks kuuks olukorras, kus ülekande- või jaotamishind või hoidla ja terminali kasutamishind ei ole põhjendatud või hinda ei ole määratud ning gaasiettevõtja ei järgi Konkurentsiameti ettekirjutusi. Enam teenitud tulu, mida gaasiettevõtja põhjendamata ülekande- või jaotamishinna kasutamise ajal teenis, arvestatakse võrguteenuste hindade kooskõlastamisel müügitulust maha.\n(3^2) Konkurentsiamet avaldab turuosalise põhjendatud nõudmisel käesoleva seaduse § 8 lõikes 4^2 nimetatud andmed ulatuses, mis ei sisalda ärisaladust.\n(4) Konkurentsiamet teeb koostööd Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 713/2009 alusel loodud energeetikasektorit reguleerivate asutuste koostööameti, Euroopa Komisjoni ning teiste liikmesriikide reguleerivate asutustega, et:\n1)\n2)\n3) kaotada liikmesriikidevahelised gaasiga kauplemise piirangud, sealhulgas arendada nõudluse rahuldamiseks ja riigisiseste turgude integratsiooni tugevdamiseks vajalikke piiriüleseid ühendusi;\n4) arendada kulutõhusal viisil turvalisi, usaldusväärseid, tõhusaid ja mittediskrimineerivaid tarbijale orienteeritud süsteeme ning edendada neid energiapoliitika üldeesmärkide kohaselt;\n5) soodustada uute varustusallikate juurdepääsu võrgule;\n6) tagada turuosalistele asjakohaste stiimulite pakkumine süsteemi tõhustamiseks ja turgude integreerimiseks;\n7) tagada tarbijate kasu turu tõhusast toimimisest, edendada konkurentsi ja tarbijakaitset.\n(5) Piiriüleste küsimuste reguleerimiseks teeb Konkurentsiamet koostööd ja vahetab käesolevas seaduses ning teistes õigusaktides sätestatud ülesannete täitmiseks vajalikku teavet Euroopa Liidu liikmesriikide järelevalveasutustega ja energeetikasektorit reguleerivate asutuste koostööametiga, et:\n1) võimaldada võrgu optimaalset haldamist;\n2) edendada Euroopa gaasibörsi loomist;\n3) optimeerida piiriüleste võimsuste jaotamist;\n4) saavutada võrkude vastastikuse ühendamise võimsuse piisav tase, et võimaldada konkurentsi arengut ja varustuskindluse paranemist, vältides diskrimineerimist erinevate turuosaliste vahel;\n5) koordineerida võrgueeskirjade väljatöötamist;\n6) koordineerida ülekoormuse juhtimise reeglite väljatöötamist.\n(6) Konkurentsiamet teeb oma ülesannete täitmiseks koostööd süsteemihalduri, turuosaliste ja vajaduse korral teiste Euroopa Liidu liikmesriikide asjaomaste ametiasutustega."
+    },
+    {
+      "provision_ref": "para37^1",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "37^1",
+      "title": "§ 37^1. Konkurentsiameti ülesanded süsteemihalduri nõuetekohasuse hindamisel",
+      "content": "Konkurentsiamet jälgib süsteemihalduri vastavust käesoleva seaduse §-s 29^1 sätestatud nõuetele ning algatab gaasi ülekande teenust osutava ettevõtja nõuetekohasuse hindamise, järgides §-des 29^3 ja 29^4 sätestatut, kui: 1 1) ta on saanud käesoleva seaduse § 16 lõikes 3^1 nimetatud teate;\n2) talle on saanud teatavaks, et süsteemihaldurit otseselt või kaudselt kontrolliva isiku õiguste või mõju kavandatav muudatus võib kaasa tuua käesoleva seaduse §-s 29^1 sätestatud nõuete rikkumise või kui tal on alust arvata, et selline rikkumine on juba toimunud;\n3) talle on saanud teatavaks asjaolu, mis võimaldab Euroopa Liidu välisest riigist pärit isikul omandada kontrolli süsteemihalduri üle;\n4) Euroopa Komisjon on esitanud põhjendatud taotluse."
+    },
+    {
+      "provision_ref": "para37^2",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "37^2",
+      "title": "§ 37^2. Gaasi hulgimüügituru terviklikkus ja läbipaistvus",
+      "content": "(1) Hulgimüügitoodetega kauplemisega seotud turuosalised järgivad Euroopa Parlamendi ja nõukogu määruses (EL) nr 1227/2011 energia hulgimüügituru terviklikkuse ja läbipaistvuse kohta (ELT L 326, 08.12.2011, lk 1–16) sätestatud nõudeid.\n(2) Konkurentsiamet teeb käesoleva paragrahvi lõikes 1 nimetatud ülesande täitmisel koostööd Euroopa Liidu liikmesriikide reguleerivate asutustega ja energeetikasektorit reguleerivate asutuste koostööametiga.\n(3) Euroopa Parlamendi ja nõukogu määruse (EL) nr 1227/2011 artikli 9 lõikes 2 nimetatud energia hulgimüügituru turuosaliste ja toimingute andmekogu pidamise põhimääruse kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "38",
+      "title": "§ 38. Riikliku järelevalve erimeetmed",
+      "content": "Konkurentsiamet võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32 ja 50 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para38^1",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "38^1",
+      "title": "§ 38^1. Riikliku järelevalve erisused",
+      "content": "Konkurentsiametil on õigus kehtestada gaasi ajutine ülekande- või jaotamishind kuni kaheks kuuks olukorras, kus ülekande- või jaotamishind ei ole põhjendatud ning gaasiettevõtja ei järgi korrakaitseorgani tehtud ettekirjutust."
+    },
+    {
+      "provision_ref": "para38^2",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "38^2",
+      "title": "§ 38^2. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral võib Konkurentsiamet rakendada asendustäitmist või sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 1300 eurot."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "39",
+      "title": "§ 39. Konkurentsiameti ettekirjutus",
+      "content": "(1) Käesoleva seaduse §-s 29^1 sätestatud nõuete 2015. aasta 1. jaanuarist täitmata jätmise korral teeb Konkurentsiamet süsteemihaldurile või teda kontrollivale isikule ettekirjutuse nõuete rikkumise lõpetamiseks.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud ettekirjutuse täitmata jätmise korral võib rakendada süsteemihalduri või teda kontrolliva isiku suhtes sunniraha, mille ülemmäär ühes kalendriaastas on 1,2 miljonit eurot, kuid mitte kõrgem kui 10% viimase auditeeritud majandusaasta aastakäibest.\n(3)\n(4)\n(5) Ettekirjutuse korduva täitmata jätmise korral on Konkurentsiametil õigus teha otsus, milles fikseeritakse ettekirjutuse korduv täitmata jätmine ning mis on ettevõtja tegevusloa kehtetuks tunnistamise aluseks.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud otsuses märgitakse:\n1) otsuse tegemise aeg ja koht;\n2) otsuse sisu;\n3) otsuse alus;\n4) otsuse teinud ametiisiku ees- ja perekonnanimi ning ametinimetus;\n5) märge otsuse vaidlustamise võimaluse, tähtaja ja korra kohta.\n(7)\n(8)"
+    },
+    {
+      "provision_ref": "para39^1",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "39^1",
+      "title": "§ 39^1. Kaebuste lahendamine",
+      "content": "(1) Turuosalise tegevuse või tegevusetuse peale, mis on vastuolus käesoleva seaduse või selle alusel kehtestatud õigusaktiga, võib teine turuosaline esitada kirjaliku kaebuse Konkurentsiametile.\n(2) Konkurentsiamet vaatab käesoleva paragrahvi lõikes 1 nimetatud kaebuse läbi ja teeb selle kohta otsuse kaebuse saamisest alates 30 päeva jooksul.\n(3) Kui Konkurentsiamet taotleb kaebuse lahendamiseks vajalikku teavet, peatub käesoleva paragrahvi lõikes 2 nimetatud tähtaja kulgemine kuni teabe saamiseni, kuid mitte kauemaks kui 30 päevaks.\n(4) Piiriüleste vaidluste puhul lahendab kaebuse see järelevalve teostaja, kelle jurisdiktsioonis asuva ettevõtja suhtes on kaebus esitatud."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "40",
+      "title": "§ 40. Sundvõõrandamine",
+      "content": "(1) Lisaks kinnisasja sundvõõrandamise seaduse § 3 lõikes 1 sätestatud aluste kohaldamisele võib Konkurentsiamet taotleda:\n1) tegevusloas sätestatud tegevuses kasutatava vara sundvõõrandamist, kui tegevusloa alusel tegutsev isik ei täida jätkamise kohustust;\n2) tegevusloas sätestatud tegevuses kasutatava vara sundvõõrandamist, kui tegevusloa kehtivusaeg on lõppenud või tegevusluba on tunnistatud kehtetuks ja sellel varal põhineva tegevuse jätkamine kooskõlas käesoleva seadusega ei ole tagatud, mis võib seada ohtu gaasisüsteemi varustuskindluse;\n3) võrgu ja selle kasutamist võimaldava piiratud asjaõiguse sundvõõrandamist, kui võrgu omanik ei täida käesoleva seaduse §-s 22 sätestatud kohustusi või kui võrgu omanikust või kasutajast võrguettevõtjal ei ole käesoleva seaduse kohast tegevusluba.\n(2) Konkurentsiamet võib käesoleva paragrahvi lõikes 1 sätestatud alustel taotleda sundvõõrandamist üksnes juhul, kui ta on sundvõõrandamise taotluse esitamise kavatsusest teavitanud sundvõõrandamise esemeks oleva vara omanikku ning vara omanik ei ole sundvõõrandamise aluseks olevat asjaolu Konkurentsiameti antud mõistliku tähtaja jooksul kõrvaldanud.\n(3) Konkurentsiametil ei ole käesoleva paragrahvi lõikes 2 ettenähtud kohustust juhul, kui selle kohustuse täitmine võib seada ohtu varustuskindluse.\n(4) Sundvõõrandamine toimub kinnisasja sundvõõrandamise seaduse kohaselt."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "42",
+      "title": "§ 42. Tegevusloa kõrvaltingimuste täitmata jätmine",
+      "content": "Juriidilise isiku poolt tegevusloa kõrvaltingimuste täitmata jätmise eest – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "43",
+      "title": "§ 43.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para44^1",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "44^1",
+      "title": "§ 44^1. Ülekandevõrgule kolmanda osapoole juurdepääsu tingimuste täitmata jätmine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 1775/2005 sätestatud ülekandevõrgule kolmanda osapoole juurdepääsu tingimuste täitmata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para44^2",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "44^2",
+      "title": "§ 44^2. Energia hulgimüügituru tingimuste rikkumine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 1227/2011 artiklites 3–5 sätestatud nõuete täitmata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "45",
+      "title": "§ 45. Menetlus",
+      "content": "Käesolevas peatükis sätestatud väärtegude kohtuväline menetleja on Konkurentsiamet."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "46",
+      "title": "§ 46. Energiaseaduse alusel riigiga sõlmitud lepingu tähtpäev",
+      "content": "Energiaseaduse alusel sõlmitud ettevõtja ja riigi leping kehtib turuloas märgitud tähtpäevani."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "47",
+      "title": "§ 47. Turuloa ja tegevusloa kehtivus",
+      "content": "(1) Energiaseaduse alusel antud turuluba kehtib turuloas märgitud tähtpäevani.\n(2) Konkurentsiamet registreerib enne käesoleva seaduse jõustumist väljaantud kehtivad turuload majandustegevuse registris 2005. aasta 15. aprilliks.\n(3) Enne 2012. aasta 8. juulit antud gaasi ülekande teenuse osutamise tegevusluba kehtib kuni käesoleva seaduse § 30^1 lõikes 1 nimetatud tegevusloa andmiseni või 2015. aasta 1. jaanuarini."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "48",
+      "title": "§ 48. Ettevõtja tegevuse vastavusse viimine seaduses sätestatud nõuetega",
+      "content": "(1) Enne käesoleva seaduse jõustumist energiaseaduse alusel tegutsenud gaasiettevõtja peab oma tegevuse viima vastavusse käesolevas seaduses sätestatud nõuetega ühe aasta jooksul, arvates käesoleva seaduse jõustumisest.\n(2) Käesoleva seaduse § 8^1 lõike 1 alusel tegutsev võrguettevõtja peab oma tegevuse käesolevas seaduses sätestatud nõuetega vastavusse viima 2006. aasta 1. jaanuariks."
+    },
+    {
+      "provision_ref": "para48^2",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "48^2",
+      "title": "§ 48^2. Müügimarginaali piirmäära kooskõlastamise tähtaeg",
+      "content": "Turgu valitsev gaasiettevõtja esitab Konkurentsiametile taotluse müügimarginaali piirmäära kooskõlastamiseks 2009. aasta 1. oktoobriks. Kuni käesoleva seaduse § 10 lõikes 3 nimetatud müügimarginaali piirmäära kooskõlastamiseni kasutab turgu valitsev gaasiettevõtja Konkurentsiameti poolt eelnevalt kooskõlastatud gaasi piirhindade arvutamise aluseks olevat müügimarginaali, mille suuruse esitab Konkurentsiamet turgu valitsevale gaasiettevõtjale 2009. aasta 1. augustiks."
+    },
+    {
+      "provision_ref": "para48^3",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "48^3",
+      "title": "§ 48^3. Süsteemihalduri esitatav teave",
+      "content": "(1) Süsteemihaldur esitab Konkurentsiametile käesoleva seaduse § 16 lõike 1 punktis 2^5 nimetatud investeeringu kava hiljemalt 2012. aasta 1. detsembriks.\n(2) Süsteemihaldur esitab Konkurentsiametile käesoleva seaduse § 21^2 lõikes 1 nimetatud arengukava 2013. aasta 1. jaanuariks.\n(3) Süsteemihaldur esitab Konkurentsiametile käesoleva seaduse § 16 lõike 1 punktis 2^6 nimetatud andmed 2013. aasta 1. jaanuariks."
+    },
+    {
+      "provision_ref": "para48^4",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "48^4",
+      "title": "§ 48^4. Süsteemihalduri tegevuse ümberkorraldamine",
+      "content": "(1) Hiljemalt 2015. aasta 1. jaanuariks viib süsteemihaldur oma tegevuse vastavusse 2015. aasta 1. jaanuarist jõustuvate süsteemihaldurile esitatavate nõuetega, mille kohaselt on süsteemihaldur võrguettevõtja, kes omab ülekandevõrku, omab või haldab mõõtesüsteeme riigipiiril ning omab käesoleva seaduse § 30^1 lõikes 1 nimetatud tegevusluba gaasi ülekande teenuse osutamiseks.\n(2) Süsteemihaldur esitab 2013. aasta 1. jaanuariks Konkurentsiametile teabe alates 2015. aasta 1. jaanuarist süsteemihaldurile kehtivate nõuetega vastavusse viimiseks teostatud ja kavandatavate tegevuste ajakava kohta. Ajakava täitmist kontrollib Konkurentsiamet.\n(3) Gaasi ülekandevõrgu võib võõrandada tervikliku varana käesoleva seaduse §-s 29^2 sätestatud eelkontrolli raames vastavaks tunnistatud ettevõtjale."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "49",
+      "title": "§ 49. Riigilõivuseaduse muutmine",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "50",
+      "title": "§ 50. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2003. aasta 1. juulil."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "võrgupiirkond on maa",
+      "definition": "ala, kus asub ja kus arendatakse ühe võrguettevõtja omandis või valduses olevat võrku",
+      "source_provision": "para2"
+    },
+    {
+      "term": "gaasi ülekandevõrk on üle 16",
+      "definition": "baarise töörõhuga gaasitorustike ja nendega kohakindlalt seotud ehitiste ning ülekandesüsteemi toimimiseks, haldamiseks ja arendamiseks vajalike juhtimis-, kaitse-, side- ja mõõtesüsteemide talitluslik kogum, mis on vajalik gaasi ülekandeks ning ühenduste loomiseks teiste riikide võrkudega või gaasi transiidiks",
+      "source_provision": "para2"
+    },
+    {
+      "term": "vertikaalselt integreeritud ettevõtja on gaasiettevõtja või",
+      "definition": "ettevõtjad, kelle üle on ühel või mitmel isikul valitsev mõju konkurentsiseaduse tähenduses ja kus asjaomase gaasiettevõtja või -ettevõtjate vähemalt üks ülesanne on maagaasi ülekandmine, jaotamine, veeldamine või hoiustamine ning teine ülesanne maagaasi tootmine või müümine",
+      "source_provision": "para2"
+    },
+    {
+      "term": "jaotusvõrguettevõtja on võrguettevõtja, kes osutab võrguteenust alla 16",
+      "definition": "baarise töörõhuga võrgus",
+      "source_provision": "para2"
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "id": "ee-law-105072025008",
+  "type": "statute",
+  "title": "Karistusregistri seadus",
+  "title_en": "Karistusregistri seadus",
+  "short_name": "KarRS",
+  "status": "in_force",
+  "issued_date": "2011-02-17",
+  "in_force_date": "2025-07-06",
+  "url": "https://www.riigiteataja.ee/akt/105072025008.xml",
+  "description": "Official consolidated statute text (Karistusregistri seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Karistusregister",
+      "content": "Karistusregister (edaspidi register ) on riigi infosüsteemi kuuluv andmekogu, kuhu kantakse andmed karistatud isiku ja tema karistuse kohta."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Karistusregistri pidamine",
+      "content": "(1) Registrit peetakse elektroonilise andmekoguna e-toimiku menetlemise infosüsteemis (edaspidi e-toimiku süsteem ).\n(2) Registri juures peetakse registri arhiivi (edaspidi arhiiv ).\n(3) Andmete registrile esitamise vormid ja registriteadete väljastamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(4) Registri põhimääruse kehtestab Vabariigi Valitsus määrusega.\n(5) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Registri pidamise eesmärk",
+      "content": "Registri pidamise eesmärk on: 1 1) usaldusväärse teabe andmine isiku karistusandmete kohta;\n2) isiku teavitamine tema kohta registrisse kantud andmetest;\n3) isiku karistusandmete vahetamine välisriigiga."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Registri vastutav ja volitatud töötleja",
+      "content": "Registri vastutav töötleja on Justiits- ja Digiministeerium ning registri volitatud töötleja Registrite ja Infosüsteemide Keskus (edaspidi keskus )."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5",
+      "title": "§ 5. Registri andmete õiguslik tähendus",
+      "content": "(1) Registrisse kantud isiku karistusandmetel on õiguslik tähendus isiku karistatuse ja kuriteo või väärteo korduvuse arvestamisel kuni andmete kustutamiseni.\n(2) Registrist kustutatud ja arhiivi kantud andmetel on õiguslik tähendus:\n1) käesoleva seaduse § 20 lõike 1 punktis 4 nimetatud seadustes sätestatud menetluste läbiviimisel ja § 20 lõike 1 punktis 5 nimetatud asjaolude kontrollimisel isiku karistatuse ja kuriteo korduvuse arvestamisel;\n2) käesoleva seaduse § 20 lõike 1 punktis 9 nimetatud juhul isiku alaealisega seotud tööle või teenisusse võtmise otsustamisel seaduses sätestatud juhtudel;\n3) käesoleva seaduse § 20 lõike 1 punktis 10 nimetatud juhul isiku politseiteenistusse võtmise otsustamisel ning isiku Politsei- ja Piirivalveameti ametniku ametikohale nimetamisel ja töötajaga töölepingu sõlmimisel, kui see teenistuskoht ei ole politseiametniku ametikoht, kuid teenistuskohal teenistusülesannete täitmiseks on vajalik juurdepääs andmekogule, mille vastutav töötleja on Siseministeerium või Politsei- ja Piirivalveamet, avaliku teabe seaduse § 35 lõike 1 punktides 5^1 ja 5^2 sätestatud teabele või Politsei- ja Piirivalveameti ametnike ja töötajate eriliiki isikuandmetele;\n3^1)\n3^2) käesoleva seaduse § 20 lõike 1 punktis 10 nimetatud juhul isiku Rahapesu Andmebüroo ametikohale nimetamisel või temaga töölepingu sõlmimisel;\n4) käesoleva seaduse § 20 lõike 1 punktis 10 nimetatud juhul isiku prokuröriteenistusse võtmise otsustamisel ning prokuröriteenistuses oleva isiku seaduse nõuetele vastavuse kontrollimisel;\n5) käesoleva seaduse § 20 lõike 1 punktis 10 nimetatud juhul isiku võtmisel vanglateenistusse või vanglasse tööle, samuti vanglaametniku erialale õppima asuva isiku ning vanglateenistuses oleva, vanglas töötava või vanglaametniku erialal õppiva isiku seaduse nõuetele vastavuse kontrollimisel;\n5^1) käesoleva seaduse § 20 lõike 1 punktis 10 nimetatud juhul isiku võtmisel avaliku teenistuse seaduses nimetatud ametiasutusse teenistusse avaliku teenistuse seaduse § 15 punktis 2 nimetatud nõudele vastavuse kontrollimisel;\n5^2) käesoleva seaduse § 20 lõike 1 punktis 10 nimetatud juhul isiku võtmisel Kaitseväkke teenistusse või tööle või tegevväelase, ametniku või töötaja Kaitseväkke sobivuse hindamisel või Kaitseväele teenuse osutamisega seotud isiku Kaitseväe julgeolekualale lubamise otsustamisel Kaitseväe korralduse seaduse § 41^3 lõike 1 punktides 6, 8 ja 9 nimetatud nõuetele vastavuse kontrollimisel;\n5^3) käesoleva seaduse § 20 lõike 1 punktis 17 sätestatud taustakontrolli tegemiseks;\n6) käesoleva seaduse § 20 lõike 1 punktis 11 nimetatud seadustes sätestatud menetluste läbiviimisel;\n6^1) käesoleva seaduse § 20 lõike 1 punktis 13 nimetatud seadustes sätestatud menetluste läbiviimisel;\n7) käesoleva seaduse § 20 lõike 1 punktis 16 nimetatud seaduses sätestatud taustakontrolli tegemiseks;\n8) käesoleva seaduse § 20 lõike 1 punktides 12 ja 16 nimetatud juhul Kaitseliidu seaduse või relvaseaduse nõuetele vastavuse kontrollimisel."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "6",
+      "title": "§ 6. Registri sisu",
+      "content": "Registrisse kantakse isiku karistusandmed järgmiste kohtulahendite ja ametnike otsuste alusel: 1 1) jõustunud süüdimõistev kohtuotsus kriminaalasjas;\n2) kohtuvälise menetleja ja kohtu jõustunud otsus karistuse määramise või mõistmise kohta väärteoasjas, välja arvatud kohtuvälise menetleja otsus hoiatamismenetluses;\n3) kohtumäärus isikule psühhiaatrilise sundravi kohaldamise kohta;\n4)\n5) kohtu või kohtuvälise menetleja otsus või määrus, mis põhineb käesoleva paragrahvi punktides 1–4 nimetatud otsusel või määrusel ning sisaldab käesoleva seaduse §-s 12 sätestatud andmeid;\n6) Vabariigi Presidendi otsus süüdimõistetu armuandmispalve läbivaatamise kohta;\n7) jõustunud süüdimõistev välisriigi kohtuotsus kriminaalasjas Eesti kodaniku või Eestis elamisluba või elamisõigust omava välismaalase suhtes, kelle karistusandmed on välisriik edastanud või kelle süüdimõistvat kohtuotsust on Eesti kohus tunnustanud."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "7",
+      "title": "§ 7. Registri andmete avalikkus",
+      "content": "(1) Registrisse kantud andmed on avalikud, välja arvatud seaduses sätestatud juhtudel.\n(2) Registri andmeid töödeldakse üksnes seaduses sätestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "8",
+      "title": "§ 8. Registri keel",
+      "content": "(1) Registrit peetakse eesti keeles.\n(2) Dokumendid, mis ei ole eesti keeles, esitatakse registri volitatud töötlejale koos eestikeelse tõlkega.\n(3) Euroopa Liidu õigusaktides sätestatud juhtudel võidakse registrile esitada andmeid ka muus keeles."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - Karistusregistri pidamine",
+      "section": "9",
+      "title": "§ 9. Registri ülesehitus",
+      "content": "Register koosneb käesoleva seaduse §-s 12 nimetatud kehtivatest ja arhiveeritud andmetest."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - Karistusregistri pidamine",
+      "section": "10",
+      "title": "§ 10. Registri logi",
+      "content": "(1) Registri logi sisaldab andmeid registrisse tehtud kannete ja päringute kohta.\n(2) Registri logisse kantakse järgmised andmed:\n1) kande või päringu esitanud asutuse kood;\n2) kande või päringu esitanud asutuse nimi;\n3) kande või päringu tegija nimi ja isikukood, isikukoodi puudumisel sünniaeg;\n4) kande või päringu tegemise kuupäev;\n5) kande või päringu kohta käivad selgitused või märkused;\n6) kui kanne või päring on annulleeritud, siis vastav märge;\n7) kannet või päringut kontrollinud registri volitatud töötleja esindaja nimi."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - Karistusregistri pidamine",
+      "section": "12",
+      "title": "§ 12. Karistusregistrisse kantavad andmed",
+      "content": "(1) Füüsilise isiku isikuandmed on:\n1) ees- ja perekonnanimi;\n2) isikukood või sünniaeg;\n3) sugu;\n4) kodakondsus;\n5) elukoha aadress;\n6) sünnikoht;\n7) isiku endine nimi ja isikukood;\n8) isiku vanema nimi, kui selle edastab registrile välisriik.\n(2) Kui isikuandmed on muutunud, märgitakse registrisse uued isikuandmed ning registris muudatuse tegemise kuupäev.\n(3) Välismaalase ja isiku puhul, kellel ei ole isikukoodi, kantakse selle asemel registrisse:\n1) sünniaeg ja -koht;\n2) isikut tõendava dokumendi nimetus ja number.\n(4) Füüsilise isiku karistusandmed on:\n1) kriminaal- või väärteoasjas otsuse või määruse teinud kohtu nimetus, väärteoasjas otsuse teinud kohtuvälise menetleja nimetus, otsuse või määruse tegemise kuupäev ja kriminaal- või väärteoasja number;\n1^1) süüteo toimepanemise kuupäev;\n2) karistusseadustiku või muu seaduse säte, milles sätestatud süüteo toimepanemises isik süüdi mõisteti;\n3) isikule kuriteo või väärteo eest mõistetud või määratud karistuse liik ja määr;\n4) otsuse või määruse jõustumise kuupäev;\n5) enne kohtuotsuse tegemist eelvangistuses viibitud aeg;\n6) karistuste asendamise, liitmise või karistuse täitmisest loobumise alus ja kuupäev;\n7) rahalise karistuse või rahatrahvi täitmise kuupäev;\n8) üldkasuliku töö sooritamise kuupäev;\n9) vangistuse või aresti täitmise lõppemise kuupäev;\n10) katseaja mõistmise alus ja lõppemise kuupäev;\n11) karistusest tingimisi vabastamise alus ja kuupäev ning ärakandmata karistuse määr;\n12) isikule psühhiaatrilise sundravi kohaldamise alustamise ja lõpetamise kuupäev;\n13) isikule narkomaanide sõltuvusravi või seksuaalkurjategijate kompleksravi kohaldamise alustamise ja lõpetamise kuupäev;\n14)\n15) Vabariigi Presidendi armuandmisotsuse jõustumise kuupäev.\n(5) Juriidilise isiku andmed on:\n1) nimi;\n2) asukoha aadress;\n3) registrikood, välismaisel juriidilisel isikul selle puudumise korral registreerimisnumbriga võrdsustatud numbri- või tähekombinatsioon.\n(6) Juriidilise isiku karistusandmed on:\n1) kriminaal- või väärteoasjas otsuse või määruse teinud kohtu nimetus, väärteoasjas otsuse teinud kohtuvälise menetleja nimetus, otsuse või määruse tegemise kuupäev ja kriminaal- või väärteoasja number;\n1^1) süüteo toimepanemise kuupäev;\n2) karistusseadustiku või muu seaduse säte, milles sätestatud süüteo toimepanemises isik süüdi mõisteti;\n3) isikule kuriteo või väärteo eest mõistetud või määratud karistuse liik ja määr;\n4) otsuse või määruse jõustumise kuupäev;\n5) karistuste asendamise, liitmise või karistuse täitmisest loobumise alus ja kuupäev;\n6) rahalise karistuse või rahatrahvi täitmise kuupäev;\n7) sundlõpetamise otsuse täitmise kuupäev."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - Karistusregistri pidamine",
+      "section": "13",
+      "title": "§ 13. Registrile teatamise kohustus",
+      "content": "(1) Kohus, otsuse teinud kohtuväline menetleja või Vabariigi Presidendi Kantselei esitab käesoleva seaduse §-s 12 nimetatud andmed registri volitatud töötlejale viie tööpäeva jooksul käesoleva seaduse §-s 6 nimetatud otsuse või määruse jõustumisest arvates.\n(2) Kohtutäitur, arestimaja, vangla, kohus või otsuse teinud või kohtuotsuse täitmist kontrollinud kohtuväline menetleja esitab käesoleva seaduse §-s 12 nimetatud andmed registri volitatud töötlejale viie tööpäeva jooksul alates sellest, kui isik on karistusena mõistetud rahatrahvi või rahalise karistuse summa täielikult tasunud, üldkasuliku töö sooritanud, aresti kandnud või vanglast vabastatud või isiku suhtes on narkomaanide sõltuvusravi või seksuaalkurjategijate kompleksravi kohaldamine lõpetatud. Sama tähtaja jooksul tuleb registri volitatud töötlejat teavitada ka otsuse täitmise aegumisest vastavalt karistusseadustiku §-le 82.\n(3) Registrile esitatud andmete õigsuse eest vastutab andmed esitanud asutus.\n(4) Käesoleva paragrahvi lõikes 1 või 2 nimetatud asutus või ametiisik esitab käesoleva seaduse §-s 12 nimetatud andmed registri volitatud töötlejale elektrooniliselt e-toimiku süsteemi kaudu. Vabariigi Presidendi Kantselei võib esitada käesoleva seaduse §-s 12 nimetatud andmed registri volitatud töötlejale elektrooniliselt e-toimiku süsteemi kaudu."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - Karistusregistri pidamine",
+      "section": "14",
+      "title": "§ 14. Andmete ristkasutus",
+      "content": "Registrile seadusega antud ülesannete täitmiseks on registri volitatud töötlejal lubatud esitada elektroonilisi päringuid teistele riigi või kohaliku omavalitsuse andmekogudele ja saada sealt andmeid."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - Registri andmete väljastamine",
+      "section": "15",
+      "title": "§ 15. Õigus saada registrist andmeid",
+      "content": "(1) Igaühel on õigus saada registrist andmeid enda ja juriidilise isiku kohta. Teise inimese kohta andmete küsimisel tuleb päringus kinnitada andmete küsimise õiguslikku alust või eesmärki.\n(2) Registri andmed väljastatakse päringu alusel, milles on märgitud:\n1) isik, kelle kohta andmeid soovitakse;\n1^1) andmete küsimise õigusliku aluse või eesmärgi kinnitus, kui andmeid taotletakse teise inimese kohta;\n2) taotleja nimi ja isikukood, isikukoodi puudumise korral sünniaeg;\n3) kui andmeid taotletakse juriidilise isiku nimel, märgitakse lisaks juriidilise isiku nimi ja registrikood, välismaisel juriidilisel isikul selle puudumise korral registreerimisnumbriga võrdsustatud numbri- või tähekombinatsioon;\n4) taotleja aadress või e-posti aadress;\n5) taotleja isikut tõendava dokumendi nimetus ja number;\n6) pabertaotluse puhul allkiri, e-postiga edastatud taotluse puhul digitaalallkiri.\n(3) Registri andmeid alaealise isiku kohta, registri arhiivi andmeid ja teisest Euroopa Liidu liikmesriigist saadud andmeid väljastatakse käesolevas seaduses sätestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - Registri andmete väljastamine",
+      "section": "16",
+      "title": "§ 16. Andmete nõudmise keeld",
+      "content": "(1) Isikult on keelatud nõuda tema kohta registris või registri arhiivis hoitavaid andmeid.\n(2) Isikul on õigus volitada teist isikut tema kohta registrist päringu tegemiseks."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - Registri andmete väljastamine",
+      "section": "17",
+      "title": "§ 17. Registriteade",
+      "content": "(1) Registriteates märgitakse, kellele ja millal on see antud.\n(2) Registriteateid väljastatakse paberkandjal või elektrooniliselt.\n(3) Registriteated väljastatakse elektrooniliselt e-toimiku süsteemi kaudu. Kui andmeid soovitakse paberkandjal või e-postiga, väljastatakse andmed kahe tööpäeva jooksul päringu saamise päevast arvates.\n(4) Paberkandjal väljastatud registriteated kinnitatakse registri pitseri ja registri volitatud töötleja volitatud esindaja allkirjaga.\n(5) E-postiga väljastatav registriteade allkirjastatakse registri volitatud töötleja volitatud esindaja poolt digitaalselt.\n(6) Andmeid registrisse kantud isikute kohta esitatud päringute ja registriteadete väljastamise kohta säilitatakse registris kaks aastat."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - Registri andmete väljastamine",
+      "section": "18",
+      "title": "§ 18. Andmete väljastamine",
+      "content": "(1) Registri andmed väljastatakse registriteatena, milleks on:\n1) registri väljavõte;\n2) teatis, et isikut ei ole registrisse kantud;\n3) teatis, et isikul puudub kehtiv karistus, kui isiku kohta on registris üksnes registri arhiivi andmed.\n(2) Registri väljavõttes ei märgita füüsilise isiku kohta käesoleva seaduse § 12 lõike 1 punktides 4–8, lõike 3 punktis 2 ning lõike 4 punktides 12–14 nimetatud andmeid.\n(3) Registri väljavõttes füüsilise isiku kohta ei märgita andmeid väärteo eest mõistetud karistuse kohta, kui isikule on mõistetud karistusena rahatrahv suurusega alla 50 trahviühiku, välja arvatud juhul, kui füüsiline isik on korduvalt toime pannud väärteo või kui lisaks rahatrahvile on isikule mõistetud lisakaristus.\n(4) Kui päringu teeb isik enda kohta või kui registrist päringu tegijaks on käesoleva seaduse § 19 lõikes 1 nimetatud isik või registri arhiivist päringu tegijaks on käesoleva seaduse § 20 lõikes 1 nimetatud isik, märgitakse registri väljavõttes kõik käesoleva seaduse §-s 12 nimetatud andmed. Käesoleva seaduse § 20 lõike 1 punktis 9 sätestatud päringu väljavõte väljastatakse sama paragrahvi lõikes 2^1 sätestatud korras.\n(5) Isiku päringu alusel esitatavas väljavõttes märgitakse isiku soovil ka käesoleva seaduse § 10 lõikes 2 nimetatud andmed tema kohta tehtud päringu aja ning päringu teinud isiku kohta.\n(6) Registri väljavõttena paberkandjal käsitatakse andmete väljatrükki, mis on kinnitatud käesoleva seaduse § 17 lõikes 4 sätestatud korras."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - Registri andmete väljastamine",
+      "section": "19",
+      "title": "§ 19. Õigus saada registrist alaealise isiku andmeid",
+      "content": "(1) Õigus saada registrist käesoleva seaduse § 12 lõigetes 1–4 nimetatud andmeid alaealise isiku kohta on:\n1) alaealise isiku seaduslikul esindajal esindatava alaealise isiku kohta;\n2) kohtul menetluses oleva kohtuasja arutamiseks ja läbivaatamiseks;\n3) uurimisasutusel ja prokuratuuril menetluses oleva kriminaalasjaga seoses;\n4) kohtuvälisel menetlejal menetluses oleva väärteoasja lahendamiseks;\n5) valitsusasutusel ja kohaliku omavalitsuse asutusel seadusega või seaduse alusel antud õigusaktiga sätestatud ülesannete täitmiseks;\n6) Vabariigi Presidendi Kantseleil seadusega sätestatud ülesannete täitmiseks;\n7) Tartu Maakohtu registriosakonnal õiguspärase registrikande tegemiseks;\n8) tööandjal isiku tööle võtmisel isiku seadusega sätestatud nõuetele vastavuse kontrollimiseks;\n9) välisriigi asutusel Euroopa Liidu õigusakti või välislepingu alusel;\n10) notaril tõestamistoimingut taotleva isiku andmete kontrollimiseks;\n11) kriminaalhooldusametnikul talle seadusega antud ülesannete täitmiseks.\n(2) Registri andmeid väljastatakse päringu alusel, milles on märgitud käesoleva seaduse § 15 lõikes 2 loetletud andmed ning viide andmete saamise õiguslikule alusele.\n(3) Kui alaealise süüdistatava suhtes tehtud süüdimõistev kohtulahend on kriminaalmenetluse seadustikus sätestatud tingimustel ja korras avalikustatud, väljastatakse registrist selle kohta andmeid käesoleva seaduse §-s 18 sätestatud korras."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - Registri andmete väljastamine",
+      "section": "20",
+      "title": "§ 20. Õigus saada andmeid registri arhiivist",
+      "content": "(1) Registri arhiivis asuvaid andmeid on õigus saada:\n1) isikul enda kohta;\n2) alaealise isiku seaduslikul esindajal esindatava alaealise isiku kohta;\n3) uurimisasutusel kriminaalasjas kohtueelse menetluse toimetamiseks;\n4) Vabariigi Valitsusel, Siseministeeriumil, politseiasutusel ning Kaitsepolitseiametil kodakondsuse seaduses, välismaalaste seaduses, väljasõidukohustuse ja sissesõidukeelu seaduses ning välismaalasele rahvusvahelise kaitse andmise seaduses sätestatud menetluste läbiviimiseks;\n5) julgeolekuasutusel riigisaladuse ja salastatud välisteabe seaduse § 32 lõike 1 punktis 8 ning lõike 2 punktides 4, 5, 7, 8, 10 ja 15 nimetatud asjaolude kontrollimiseks;\n6) Kaitsepolitseiametil teabehanke tegemise eesmärgil ja jälitusasutusel kuritegude ennetamise ja tõkestamise kohta jälitustoiminguga teabe kogumise eesmärgil;\n7) prokuratuuril kriminaalmenetluse läbiviimise ning jälitustoimingu planeerimise eesmärgil;\n8) vanglateenistusel vangistusseaduse § 105^4 lõike 1 punktis 1 ja § 105^5 lõikes 4 nimetatud isikule taustakontrolli tegemiseks ning kinnipeetava või kriminaalhooldusaluse kriminogeensete riskide hindamiseks;\n9) lapsega töötamist võimaldaval isikul, vastava tegevusloa väljastajal ja lapse seaduslikul esindajal lastekaitseseaduse tähenduses lapsega töötava isiku või vastavale kohale kandideeriva isiku seadusega sätestatud nõuetele vastavuse kontrollimiseks;\n10) tööandjal käesoleva seaduse § 5 lõike 2 punktides 3–5^2 nimetatud juhtudel isiku tööle või teenistusse võtmisel seadusega sätestatud nõuetele vastavuse kontrollimiseks;\n11) Põllumajanduse Registrite ja Informatsiooni Ametil ja Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduses nimetatud riigi sihtasutusel sama seaduse § 2 lõikes 1 nimetatud abinõude rakendamise ning eelnimetatud seaduse alusel riikliku järelevalve teostamise eesmärgil;\n12) Kaitseliidu liikmeks asuda soovija ja liikme Kaitseliidu seaduse ning relvaseaduse nõuetele vastavuse kontrollimiseks;\n13) Maaeluministeeriumil ning Põllumajanduse Registrite ja Informatsiooni Ametil kalandusturu korraldamise seaduse § 2 lõikes 1 nimetatud kalandusturu korraldamise abinõude rakendamise ning riikliku järelevalve teostamise eesmärgil;\n14) Haridus- ja Teadusministeeriumil välisriigi kutsekvalifikatsiooni tunnustamise seaduses sätestatud hoiatusmehhanismi rakendamiseks;\n15) Rahapesu Andmebürool rahapesu ja terrorismi rahastamise tõkestamise seaduses sätestatud ülesannete täitmiseks;\n16) Politsei- ja Piirivalveametil relvaseaduses sätestatud taustakontrolli tegemiseks ning relvaseaduse nõuetele vastavuse kontrollimiseks;\n17) Politsei- ja Piirivalveametil politsei ja piirivalve seaduse §-s 7^59, päästeseaduse §-des 36^1 ja 43^2 ja päästeteenistuse seaduse §-s 7^2 nimetatud taustakontrolli tegemiseks;\n18) Sotsiaalkindlustusametil ohvriabi seaduse tähenduses hädaohus olevat täisealist perevägivalla ohvrit ohustava isiku kohta hinnangu andmiseks, hädaohus oleva täisealise perevägivalla ohvri abistamiseks ning tema elu ja tervist ohustavate riskide maandamiseks;\n19) Konkurentsiametil konkurentsiseaduse 7^2. peatükis sätestatud uurimismeetmete kohaldamiseks.\n(2) Registri arhiivis asuvaid andmeid väljastatakse päringu alusel, milles on märgitud käesoleva seaduse § 15 lõikes 2 loetletud andmed ning viide andmete saamise õiguslikule alusele.\n(2^1) Käesoleva paragrahvi lõike 1 punktis 9 nimetatud juhul kuvatakse päringu vastus positiivse või negatiivse tulemusena nii kehtivate kui ka arhiveeritud karistusandmete kohta. Vastuses ei kajastata isiku karistusandmeid osas, mille kohta on Sotsiaalkindlustusamet teinud lastekaitseseaduse § 20 lõikes 6 nimetatud lapsega töötamise piirangu ümberhindamise otsuse.\n(3) Käesoleva paragrahvi lõike 1 punktis 14 nimetatud juhul registri arhiivist andmete väljastamine toimub registri ja Eesti Hariduse Infosüsteemi vahel andmevahetuskihi X-tee kaudu."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - Registri andmete väljastamine",
+      "section": "21",
+      "title": "§ 21. Registri ja registri arhiivi andmete väljastamine teadusliku ja statistilise töö eesmärgil",
+      "content": "(1) Registri ja registri arhiivi andmeid väljastatakse teadusliku või statistilise töö eesmärgil isikuandmete kaitse seaduse §-s 6 sätestatud tingimustel.\n(2) Registri andmete väljastamiseks käesoleva paragrahvi lõikes 1 nimetatud eesmärgil tuleb registri volitatud töötlejale esitada kirjalik taotlus, milles on märgitud:\n1) töö eesmärk ja kasutatavate andmete iseloom;\n2) isiku poolt registrist taotletavad andmed;\n3) mis eesmärgil ja millisel õiguslikul alusel andmeid soovitakse;\n4) taotleja nimi ja aadress;\n5) taotleja allkiri.\n(3) Kui isikuandmete kaitse seaduse § 6 kohaselt on nõutav Andmekaitse Inspektsiooni eelnev luba, lisatakse see registrile esitatava taotluse juurde."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - Registri andmete väljastamine",
+      "section": "22",
+      "title": "§ 22. Registriteate väljastamine välisriiki",
+      "content": "(1) Registriteadet võib välisriiki väljastada Euroopa Liidu õigusakti või välislepinguga sätestatud juhtudel ja korras.\n(2) Registrile esitatud välisriigi taotlus registriteate saamiseks ja selle lisad tuleb esitada eesti keeles või Euroopa Liidu õigusakti või välislepinguga sätestatud juhtudel muus keeles."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - Registri andmete väljastamine",
+      "section": "23",
+      "title": "§ 23. Registri ja registri arhiivi andmete väljastamise eest tasumise kord",
+      "content": "(1) Registrist ja registri arhiivist andmete kohta elektrooniliste päringute tegemine on tasuline. Valdkonna eest vastutav minister kehtestab määrusega tasumäärad kuni 4 eurot ühe päringu kohta.\n(2) Elektroonilise päringu tasu maksmisest on vabastatud isik enda ja teda volitanud isiku kohta päringu tegemise korral, käesoleva seaduse § 19 lõikes 1 ja § 20 lõike 1 punktides 3–11 ja 13 nimetatud isikud, hankijad riigihangete seaduse § 5 tähenduses riigihangete seaduse §-s 95 sätestatud kõrvaldamise aluste kontrollimise korral ning elutähtsa teenuse osutajad hädaolukorra seaduse §-s 41^1 sätestatud taustakontrolli tegemisel.\n(3) Registriteate väljastamisel paberkandjal tuleb tasuda riigilõiv riigilõivuseaduses sätestatud määras.\n(4) Isikul on õigus saada registrist ja arhiivist oma andmeid ja seaduslikul esindajal esindatava alaealise isiku andmeid paberkandjal registriteatega tasuta üks kord aastas. Järgmiste päringute korral tuleb tasuda riigilõiv.\n(5) Riigilõiv tagastatakse, kui registri volitatud töötleja teeb otsuse keelduda andmete väljastamisest.\n(6) Riigilõivu tasumisest on vabastatud käesoleva seaduse § 19 lõike 1 punktides 2–11 nimetatud isikud karistusregistrist ning § 20 lõike 1 punktides 3–11 ja 13 nimetatud isikud karistusregistri arhiivist andmete väljastamise eest."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - Registrisse kantud karistusandmete kustutamine",
+      "section": "24",
+      "title": "§ 24. Registrisse kantud karistusandmete kustutamise tähtajad",
+      "content": "(1) Karistusandmed kustutatakse registrist ja kantakse üle arhiivi, kui:\n1) väärteo eest mõistetud või määratud rahatrahvi tasumisest, aresti kandmisest, üldkasuliku töö sooritamisest või põhikaristusena juhtimisõiguse äravõtmisest on möödunud üks aasta;\n2) maksukorralduse seaduses või maksuseaduses sätestatud väärteo eest mõistetud või määratud rahatrahvi tasumisest või aresti täitmisest on möödunud kaks aastat;\n3) psühhiaatrilise sundravi lõpetamisest on möödunud kaks aastat;\n4) sõltuvusravi kohaldamise lõpetamisest on möödunud kaks aastat;\n5) kuriteo eest mõistetud rahalise karistuse otsuse täitmisest on möödunud kolm aastat;\n6) tähtajalisest vangistusest või rahalisest karistusest tingimisi vabastamise korral määratud katseaja lõppemisest on möödunud kolm aastat;\n7) üldkasuliku töö sooritamisest on möödunud kolm aastat;\n8) alla viieaastase vangistuse ärakandmisest on möödunud viis aastat;\n9) viie- kuni kahekümneaastase vangistuse ärakandmisest on möödunud kümme aastat;\n10) üle kahekümneaastase vangistuse ärakandmisest on möödunud viisteist aastat;\n11) otsuse täitmine on aegunud vastavalt karistusseadustiku §-le 82;\n12) isik on surnud;\n13) juriidiline isik on lõppenud.\n(2) Kui isik oli süüteo toimepanemise ajal alaealine, siis tema karistusandmed kustutatakse registrist ja kantakse üle arhiivi, kui:\n1) väärteo eest mõistetud või määratud rahatrahvi tasumisest, aresti kandmisest, üldkasuliku töö sooritamisest või põhikaristusena juhtimisõiguse äravõtmisest on möödunud üks aasta;\n2) psühhiaatrilise sundravi lõpetamisest on möödunud üks aasta;\n3) sõltuvusravi kohaldamise lõpetamisest on möödunud üks aasta;\n4) kuriteo eest mõistetud rahalise karistuse otsuse täitmisest on möödunud kaks aastat;\n5) tähtajalisest vangistusest või rahalisest karistusest tingimisi vabastamise korral määratud katseaja lõppemisest on möödunud kaks aastat;\n6) üldkasuliku töö sooritamisest on möödunud kaks aastat;\n7) alla viieaastase vangistuse ärakandmisest on möödunud kolm aastat;\n8) viie- kuni kümneaastase vangistuse ärakandmisest on möödunud viis aastat;\n9) otsuse täitmine on aegunud vastavalt karistusseadustiku §-le 82;\n10) isik on surnud.\n(3) Lisakaristus kustutatakse registrist pärast lisakaristuse ärakandmist.\n(4) Karistuse täitmisest loobumisel kustutatakse karistus registrist pärast käesoleva seaduse § 13 lõikes 1 nimetatud korras andmete esitamist.\n(5) Isiku surmast teavitab registri volitatud töötlejat perekonnaseisuasutus ja juriidilise isiku lõppemisest äriregistri volitatud töötleja.\n(6) Karistusandmete kustutamisel ja arhiivi kandmisel märgitakse karistusandmete juurde andmete arhiivi kandmise kuupäev. Väärteo eest mõistetud karistuse andmeid säilitatakse arhiveerituna kümme aastat, kuriteo eest mõistetud karistuse andmeid säilitatakse arhiveerituna 50 aastat arhiivi kandmise kuupäevast arvates."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - Registrisse kantud karistusandmete kustutamine",
+      "section": "25",
+      "title": "§ 25. Karistusandmete kustutamise tähtaja kulgemine",
+      "content": "(1) Registrisse kantud karistusandmete kustutamise tähtaeg algab:\n1) põhi- ja lisakaristuse ärakandmisest;\n2) armuandmisotsuse jõustumisest.\n(2) Kui isikule on mõistetud eluaegne vangistus, siis tema karistusandmeid ei kustutata, välja arvatud juhul, kui isik on eluaegsest vangistusest vabastatud või kui isik on surnud. Isiku eluaegsest vangistusest vabastamise korral arvutatakse tema karistusandmete kustutamise tähtaega tegelikult kantud karistusest lähtudes. Kui isikule on määratud katseaeg, algab karistusandmete kustutamise tähtaeg katseaja lõppemisest.\n(3) Kui süüdimõistetud isik on saadetud karistust kandma enne katseaja möödumist, kustutatakse tema karistusandmed, kui karistuse kandmiselt vabanemise päevast on möödunud üldkorras arvutatav kustutamistähtaeg.\n(4) Kui isik on karistusest vabastatud enne tähtaega või kui karistus on asendatud teist liiki karistusega, siis arvutatakse tema karistusandmete kustutamise tähtaega tegelikult kantud karistusest lähtudes.\n(5)\n(6)"
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - Registrisse kantud karistusandmete kustutamine",
+      "section": "26",
+      "title": "§ 26. Vabariigi Presidendi armuandmisotsuse alusel karistusandmete kustutamise tähtaeg",
+      "content": "(1) Vabariigi Presidendi armuandmisotsuse alusel karistuse kandmisest vabastamise korral arvutatakse karistusandmete kustutamise tähtaega tegelikult kantud karistusest lähtudes kuni armuandmisotsuseni.\n(2) Vabariigi Presidendi armuandmisotsuse alusel karistuse kergendamise korral arvutatakse karistusandmete kustutamise tähtaega tegelikult kantud karistusest lähtudes."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - Registrisse kantud karistusandmete kustutamine",
+      "section": "27",
+      "title": "§ 27. Välisriigi kohtus süüdi mõistetud isiku karistusandmete kustutamine",
+      "content": "Välisriigi kohtus süüdi mõistetud Eesti kodaniku või Eestis elamisluba või elamisõigust omava välismaalase või Eestis registreeritud juriidilise isiku karistusandmed kustutatakse karistusregistrist vastavalt käesoleva seaduse § 24 lõikes 1 nimetatud tähtaegadele, kui Euroopa Liidu õigusakti või välislepinguga ei sätestata teisiti."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - Registrisse kantud karistusandmete kustutamine",
+      "section": "28",
+      "title": "§ 28. Isikuandmete avalikustamise lõpetamine",
+      "content": "Pärast isiku karistusandmete kustutamist registrist asendatakse avalikustatud kohtulahendites või muudes registrisse kandmise aluseks olnud ametnike avalikustatud otsustes isiku nimi initsiaalide või tähemärgiga. Isiku nime ei asendata, kui isik on süüdi mõistetud karistusseadustiku §-s 89–93, 95–114 või 118^1, § 133 lõikes 2, § 134 lõikes 2, §-s 135, 141 või 142, § 143 lõikes 2, § 143^1 lõike 2 punktis 1, §-s 143^2, §-s 145–146, 175–179, 184, 185, 187, 231–238, 255, 256, 268, 394, 403–405, 414, 415 või 418 sätestatud süüteo toimepanemise eest."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "5. peatükk - Euroopa karistusregistrite infosüsteem",
+      "section": "29",
+      "title": "§ 29. Karistusandmete vahetamine Euroopa Liidu liikmesriigiga",
+      "content": "(1) Liikmesriikide vahelise andmete vahetamise Eesti keskasutuseks on Registrite ja Infosüsteemide Keskus.\n(2) Registrite ja Infosüsteemide Keskus edastab Euroopa Liidu liikmesriigi kodaniku suhtes kriminaalasjas tehtud süüdimõistva kohtuotsuse kohta andmed süüdimõistetud isiku kodakondsusjärgsele liikmesriigile või liikmesriigile, kus on isiku alaline elukoht. Andmed kohtuotsuse kohta, samuti hilisemad muudatused andmetes edastatakse viivitamata.\n(2^1) Registrite ja Infosüsteemide Keskus edastab kolmandate riikide kodanike suhtes kohaldatavasse Euroopa karistusregistrite infosüsteemi (ECRIS-TCN) andmed järgmiste isikute suhtes kriminaalasjas tehtud süüdimõistva kohtuotsuse kohta:\n1) isik, kes ei ole Euroopa Liidu liikmesriigi kodanik;\n2) kodakondsuseta isik;\n3) isik, kelle kodakondsus ei ole teada.\n(2^2) Andmed süüdimõistva kohtuotsuse kohta, samuti hilisemad muudatused andmetes edastatakse viivitamata. Käesoleva seaduse §-s 24 sätestatud karistusandmete kustutamise tähtaja möödumisel kustutatakse andmed kolmandate riikide kodanike suhtes kohaldatavast Euroopa karistusregistrite infosüsteemist.\n(2^3) Registrite ja Infosüsteemide Keskus edastab käesoleva paragrahvi lõikes 2^1 nimetatud isiku kohta kolmandate riikide kodanike suhtes kohaldatavasse Euroopa karistusregistrite infosüsteemi Euroopa Parlamendi ja nõukogu määruses (EL) 2019/816, millega luuakse kesksüsteem nende liikmesriikide väljaselgitamiseks, kellel on teavet kolmandate riikide kodanike ja kodakondsuseta isikute suhtes tehtud süüdimõistvate kohtuotsuste kohta, et täiendada Euroopa karistusregistrite infosüsteemi (ECRIS-TCN), ning muudetakse määrust (EL) 2018/1726 (ELT L 135, 22.05.2019, lk 1–26), sätestatud andmed ja sõrmejäljeandmed. Süüdimõistetud isiku kriminaalmenetluse käigus kogutud sõrmejälgede edastamisel kasutatakse riiklikus sõrmejälgede registris ja automaatse biomeetrilise isikutuvastuse süsteemi andmekogus säilitatud andmeid.\n(2^4) Registrite ja Infosüsteemide Keskus edastab käesoleva paragrahvi lõikes 2^1 nimetatud isiku kriminaalmenetluse käigus kogutud sõrmejäljed vastavalt Euroopa Parlamendi ja nõukogu määrusele (EL) 2019/818, millega luuakse ELi infosüsteemide koostalitlusvõime raamistik politsei- ja õiguskoostöö, varjupaiga ja rände valdkonnas ning muudetakse määrusi (EL) 2018/1726, (EL) 2018/1862 ja (EL) 2019/816 (ELT L 135, 22.05.2019, lk 85–137), loodud ühisesse isikuandmete hoidlasse. Andmed, samuti hilisemad muudatused andmetes edastatakse viivitamata. Käesoleva seaduse §-s 24 sätestatud karistusandmete kustutamise tähtaja möödumisel kustutatakse andmed ühisest isikuandmete hoidlast.\n(2^5) Registrite ja Infosüsteemide Keskus edastab Euroopa Parlamendi ja nõukogu määrusega (EL) 2019/818 loodud ühisesse isikuandmete hoidlasse käesoleva seaduse § 12 lõigetes 1 ja 3 nimetatud andmed ning käesoleva paragrahvi lõikes 2^3 nimetatud sõrmejäljed. Andmed, samuti hilisemad muudatused andmetes edastatakse viivitamata. Käesoleva seaduse §-s 24 sätestatud karistusandmete kustutamise tähtaja möödumisel kustutatakse andmed ühisest isikuandmete hoidlast.\n(3) Andmete vahetamine Euroopa Liidu liikmesriigiga toimub Euroopa karistusregistrite infosüsteemi vahendusel."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "5. peatükk - Euroopa karistusregistrite infosüsteem",
+      "section": "30",
+      "title": "§ 30. Päringu tegemine teise liikmesriigi registrist ja vastamine teisest liikmesriigist, Eurojustist, Europolist ja Euroopa Prokuratuurist esitatud päringule",
+      "content": "(1) Registrite ja Infosüsteemide Keskusel on õigus esitada päring teise liikmesriigi keskasutusele karistusregistris sisalduvate andmete kohta, kui andmeid soovib:\n1) isik enda kohta;\n2) alaealise isiku seaduslik esindaja esindatava alaealise isiku kohta;\n3) kohus menetluses oleva kohtuasja arutamiseks ja läbivaatamiseks;\n4) uurimisasutus menetluses oleva kriminaalasjaga seoses;\n5) kohtuväline menetleja menetluses oleva väärteoasja lahendamiseks;\n6) valitsusasutus ja kohaliku omavalitsuse asutus seadusega või seaduse alusel antud õigusaktiga sätestatud ülesannete täitmiseks;\n7) Vabariigi Presidendi Kantseleil seadusega sätestatud ülesannete täitmiseks;\n8) Tartu Maakohtu registriosakond õiguspärase registrikande tegemiseks;\n9) tööandja isiku tööle või teenistusse võtmisel isiku seadusega sätestatud nõuetele vastavuse kontrollimiseks;\n10) notar tõestamistoimingut taotleva isiku andmete kontrollimiseks;\n11) kriminaalhooldusametnik talle seadusega antud ülesannete täitmiseks;\n12) prokuratuur menetluses oleva kriminaalasjaga seoses.\n(1^1) Registrite ja Infosüsteemide Keskusel on õigus esitada päring käesoleva paragrahvi lõikes 1 sätestatud alustel kolmandate riikide kodanike suhtes kohaldatavasse Euroopa karistusregistrite infosüsteemi isiku varasema karistatuse ja karistusandmeid hoidva liikmesriigi väljaselgitamiseks.\n(2) Teise liikmesriigi keskasutuse, Eurojusti, Europoli ja Euroopa Prokuratuuri päringu korral edastab Registrite ja Infosüsteemide Keskus süüdimõistva kohtuotsuse koopia ja käesoleva seaduse §-s 32 nimetatud andmed, kui päringule vastamine on kooskõlas käesoleva seadusega.\n(3) Päringu tegemisel teise liikmesriigi keskasutusele edastab Registrite ja Infosüsteemide Keskus päringu kolme tööpäeva jooksul selle saamisest arvates, välja arvatud juhul, kui selles on puudusi, mis takistavad päringu edastamist. Sellisel juhul tagastatakse päring selle esitajale puuduste kõrvaldamiseks.\n(4) Päringu tegemiseks ja päringule vastamiseks kasutatakse nõukogu 2009. aasta 26. veebruari raamotsuse 2009/315/JSK, mis käsitleb karistusregistrite andmete vahetamise liikmesriikidevahelist korraldust ja andmete sisu (ELT L 93, 7.04.2009, lk 23–32), lisas toodud vormi.\n(5) Päringu saamisel on Eesti keskasutus kohustatud sellele vastama kümne tööpäeva jooksul. Kui päringu aluseks on isiku soov saada registrist andmeid enda kohta, on keskasutus kohustatud sellele vastama 20 tööpäeva jooksul."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "5. peatükk - Euroopa karistusregistrite infosüsteem",
+      "section": "31",
+      "title": "§ 31. Isikuandmete kasutamise piirangud",
+      "content": "(1) Karistusandmete edastamisel teisele liikmesriigile võib keskasutus seada tingimuseks nende edasise kasutamise üksnes kriminaalmenetluse eesmärgil.\n(2) Kui süüdimõistva kohtuotsuse teinud teine liikmesriik seab andmete edastamise tingimuseks nende edasise kasutamise üksnes kriminaalmenetluse eesmärgil, ei ole andmete väljastamine teisele liikmesriigile muul eesmärgil lubatud.\n(3) Kriminaalmenetluse raames teisest liikmesriigist päringu alusel saadud andmeid on lubatud kasutada üksnes päringu aluseks olnud kriminaalmenetluse eesmärgil. Muul alusel tehtud päringuga saadud andmeid on lubatud kasutada üksnes päringu aluseks olnud eesmärgil ning andmed edastanud liikmesriigi määratud ulatuses.\n(4) Teisest liikmesriigist päringu alusel saadud andmeid on lubatud kasutada muul kui päringu aluseks olnud eesmärgil, kui see on vajalik avalikku korda või julgeolekut ähvardava ohu tõrjumiseks.\n(5) Kolmandate riikide kodanike suhtes kohaldatavasse Euroopa karistusregistrite infosüsteemi kantud andmeid käesoleva seaduse § 29 lõikes 2^1 nimetatud isiku kohta ei ole lubatud edastada kolmandale riigile, rahvusvahelisele organisatsioonile ega eraõiguslikule isikule, välja arvatud §-des 30 ja 32^1 sätestatud juhtudel."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "5. peatükk - Euroopa karistusregistrite infosüsteem",
+      "section": "32",
+      "title": "§ 32. Andmete esitamine teisele liikmesriigile, Eurojustile, Europolile ja Euroopa Prokuratuurile",
+      "content": "(1) Päringu saamisel edastab keskasutus teise liikmesriigi keskasutusele, Eurojustile, Europolile ja Euroopa Prokuratuurile järgmised andmed:\n1) andmed süüdimõistetud isiku kohta (kõik ees- ja perekonnanimed, sünniaeg, sünnikoht (linn ja riik), sugu, kodakondsus ning olemasolu korral eelmine nimi või varasemad nimed);\n2) andmed süüdimõistva kohtuotsuse kohta (süüdimõistva kohtuotsuse tegemise kuupäev, kohtu nimi, otsuse jõustumise kuupäev);\n3) andmed kuriteo kohta, mille eest isik süüdi mõisteti (kuriteo toimepanemise kuupäev ja nimetus või kvalifikatsioon ning viide kohaldatavatele õigusnormidele);\n4) andmed süüdimõistva kohtuotsuse sisu kohta (põhikaristus ja lisakaristused, muud mõjutusvahendid ja karistuse täitmist muutvad hilisemad otsused);\n5) muud andmed süüdimõistva kohtuotsuse kohta, kui need on kantud karistusregistrisse.\n(2) Kui tegemist on päringuga käesoleva seaduse § 29 lõikes 2^1 nimetatud isiku kohta, siis edastatakse vajaduse korral teise liikmesriigi keskasutusele lisaks käesoleva paragrahvi lõikes 1 nimetatud andmetele isiku riiklikus sõrmejälgede registris ja automaatse biomeetrilise isikutuvastuse süsteemi andmekogus säilitatud sõrmejäljeandmed."
+    },
+    {
+      "provision_ref": "para32^1",
+      "chapter": "5. peatükk - Euroopa karistusregistrite infosüsteem",
+      "section": "32^1",
+      "title": "§ 32^1. Andmete esitamine Eurojustile",
+      "content": "Kui Eurojust esitab taotluse karistusandmete olemasolu kohta teabe edastamiseks kolmandale riigile või rahvusvahelisele organisatsioonile vastavalt Euroopa Parlamendi ja nõukogu määruses (EL) 2019/816 sätestatule, hindab taotlust ja otsustab nõusoleku andmise Justiits- ja Digiministeerium."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "6. peatükk - Haldusjärelevalve karistusandmete töötlemise üle",
+      "section": "33",
+      "title": "§ 33. Haldusjärelevalve",
+      "content": "(1) Haldusjärelevalvet käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle teostab Andmekaitse Inspektsioon (edaspidi inspektsioon ) vastavalt isikuandmete kaitse seadusele.\n(2) Kui isik leiab, et karistusandmete töötlemisel on rikutud tema õigusi või piiratud tema vabadusi, on tal õigus pöörduda registri vastutava või volitatud töötleja, inspektsiooni või kohtu poole."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "6. peatükk - Haldusjärelevalve karistusandmete töötlemise üle",
+      "section": "34",
+      "title": "§ 34. Ebaõigete andmete parandamine ja sellest teavitamine",
+      "content": "(1) Ebaõiged andmed suletakse ja parandatakse registri volitatud töötleja poolt andmete esitaja taotluse, registri vastutava töötleja või inspektsiooni ettekirjutuse või kohtu määruse alusel.\n(2) Registri volitatud töötleja on kohustatud andmete parandamisest viivitamata teavitama puudutatud isikuid.\n(3) Inspektsioon on kohustatud kontrollima ebaõigete andmete parandamist.\n(4) Volitatud töötlejal on õigus omal initsiatiivil sulgeda ja parandada valesid andmeid, kontrollides vajaduse korral andmete esitaja käest andmete õigsust. Andmete parandamisel omal initsiatiivil ei teavita volitatud töötleja puudutatud isikut."
+    },
+    {
+      "provision_ref": "para35^1",
+      "chapter": "7. peatükk - Seaduse rakendamine",
+      "section": "35^1",
+      "title": "§ 35^1. Karistusandmete kustutamise tähtaja katkemise arvestamine",
+      "content": "(1) Alates 2013. aasta 1. oktoobrist loetakse süüteomenetluses isiku kehtivate karistusandmete ning süüteo korduvuse arvestamisel karistusregistris sätestatud karistusandmete kustutamise tähtaeg lõppenuks käesoleva seaduse §-s 24 sätestatud tähtaja möödumisel, arvestamata karistusandmete kustutamise tähtaja katkemist.\n(2) Kui lõplik süüdimõistev otsus on tehtud enne 2013. aasta 1. oktoobrit, arvestatakse kehtivat karistust ning süüteo korduvust vastavalt süüteomenetluse ajal kehtinud seadusele."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "7. peatükk - Seaduse rakendamine",
+      "section": "37",
+      "title": "§ 37. Karistusregistri üleviimisega seotud rakendussätted",
+      "content": "(1) Karistusregistri pidamisega seotud ülesanded, õigused, kohustused, riigivara ja asjaajamine antakse üle Justiitsministeeriumi hallatavale Registrite ja Infosüsteemide Keskusele alates 2012. aasta 1. jaanuarist. Karistusregistri Siseministeeriumi valitsemisalast Justiitsministeeriumi valitsemisalasse ületoomisega kaasnevad üleandmised korraldab Vabariigi Valitsus või tema volitatud minister.\n(2) Teade karistusregistri Siseministeeriumi valitsemisalast Justiitsministeeriumi valitsemisalasse üleviimise kohta ja ettepanek sõlmida pakutavatel tingimustel Registrite ja Infosüsteemide Keskusega tööleping esitatakse Politsei- ja Piirivalveameti karistusregistribüroo ametnikule kirjalikult hiljemalt 2011. aasta 15. novembril.\n(3) Politsei- ja Piirivalveameti karistusregistribüroo ametnikul, kes lahkub ametniku kohalt töölepingulisele kohale Registrite ja Infosüsteemide Keskuses, säilivad vastaval töökohal töötamise ajal järgmised avaliku teenistuse seaduse alusel omandatud õigused:\n1) säilitatakse senine töötasu, kui töötasu uuel töökohal on väiksem senisest palgast;\n2) teenistusest vabastamise ajaks vähemalt kolmeaastase teenistusstaažiga ametnikul on töölepingu alusel töötamise ajal õigus saada kolmanda ja iga järgmise teenistusaasta eest üks päev lisapuhkust, kuid kokku mitte rohkem kui 10 kalendripäeva. Kui asutuse kollektiivlepingus nähakse ette ametnikule lisapuhkuse andmine, ei liideta käesoleva paragrahvi alusel antavat lisapuhkust kollektiivlepingu alusel antavale lisapuhkusele;\n3) võimaldatakse õppelaenu kustutamine õppetoetuste ja õppelaenu seaduses sätestatud tingimustel;\n4) kuni 2018. aasta 1. jaanuarini töölepingu alusel töötatud aeg arvatakse teenistusstaaži hulka pensioni suurendamisel avaliku teenistuse seaduse alusel.\n(4) Oma nõusolekust sõlmida tööleping teatab ametnik Registrite ja Infosüsteemide Keskuse juhile viimase määratud tähtaja jooksul, mis ei või olla lühem kui kaks nädalat käesoleva paragrahvi lõikes 2 sätestatud teate saamise päevast arvates. Kui ametnik ei ole nimetatud tähtaja jooksul oma nõusolekust teatanud, loetakse ta mittenõustunuks.\n(5) Tähtaegselt töölepingu sõlmimiseks nõusoleku andnud endisele ametnikule ei maksta tema teenistusest vabastamisel avaliku teenistuse seaduse § 131 lõikes 1 sätestatud hüvitust."
+    },
+    {
+      "provision_ref": "para37^1",
+      "chapter": "7. peatükk - Seaduse rakendamine",
+      "section": "37^1",
+      "title": "§ 37^1. Karistusandmete sisestamine karistusregistri üleviimisel",
+      "content": "(1) Karistusregistrisse ei kanta andmeid, mille töötlemiseks puudub seaduslik alus.\n(2) Registri arhiivi kantakse järgmiste kriminaalkaristuste andmed:\n1) karistus, mis on mõistetud enne 1992. aasta 1. jaanuari, välja arvatud üle kümneaastane tähtajaline vangistus ja eluaegne vangistus;\n2) kümne- kuni kahekümneaastane vangistus, mille täitmise tähtajast on möödunud kümme aastat, kui isik ei ole selle aja jooksul pannud toime uut kuritegu;\n3) ajavahemikus 1992. aasta 1. jaanuarist kuni 2000. aasta 31. detsembrini mõistetud tähtajaline vangistus, mille täitmise tähtajast on möödunud käesoleva seaduse §-s 24 sätestatud karistusandmete kustutamise tähtaeg, kui isik ei ole selle aja jooksul pannud toime uut kuritegu.\n(3) Andmed väärteokaristuste kohta, mis on kantud registrisse enne 2010. aasta 1. jaanuari, kantakse registri arhiivi."
+    },
+    {
+      "provision_ref": "para37^2",
+      "chapter": "7. peatükk - Seaduse rakendamine",
+      "section": "37^2",
+      "title": "§ 37^2. Karistusregistri andmete kontrollimine karistusregistri üleviimise järel",
+      "content": "(1) Karistusregistrisse ei kanta karistusandmeid ja sealt eemaldatakse karistusandmed, kui on puudu kõik käesoleva seaduse § 12 lõigetes 4 ja 6 sätestatud andmed või osa neist ning karistuse aluseks olnud otsust ei ole karistusregistri volitatud töötlejal mõistlike jõupingutustega võimalik leida. Kui puudu on süüteo toimepanemise kuupäev, märgib registri volitatud töötleja otsuse tegemise kuupäeva süüteo toimepanemise kuupäevaks.\n(2) Kui infot karistuse ärakandmise kohta ei ole registri volitatud töötlejal mõistlike jõupingutustega võimalik tuvastada ja möödunud on karistusseadustiku §-s 82 sätestatud otsuse täitmise aegumise tähtaeg, võib registri volitatud töötleja lugeda karistuse täitmise aegunuks ning kustutada andmed registrist käesolevas seaduses sätestatu kohaselt."
+    },
+    {
+      "provision_ref": "para37^3",
+      "chapter": "7. peatükk - Seaduse rakendamine",
+      "section": "37^3",
+      "title": "§ 37^3. Andmete kandmine registri arhiivi",
+      "content": "Käesoleva seaduse §-des 37^1 ja 37^2 sätestatud andmed kantakse registri arhiivi 2013. aasta 15. juuliks."
+    },
+    {
+      "provision_ref": "para37^4",
+      "chapter": "7. peatükk - Seaduse rakendamine",
+      "section": "37^4",
+      "title": "§ 37^4. Alaealisele kohaldatud mõjutusvahendite andmete kustutamine",
+      "content": "Andmed nooremale kui kaheksateistaastasele isikule mõjutusvahendi kohaldamise kohta kustutatakse karistusregistrist 2018. aasta 1. juuliks."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "7. peatükk - Seaduse rakendamine",
+      "section": "38",
+      "title": "§ 38. Eesti Vabariigi lastekaitse seaduse muutmine",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "7. peatükk - Seaduse rakendamine",
+      "section": "39",
+      "title": "§ 39. Riigilõivuseaduse muutmine",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "7. peatükk - Seaduse rakendamine",
+      "section": "40",
+      "title": "§ 40. Seaduse kehtetuks tunnistamine",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "7. peatükk - Seaduse rakendamine",
+      "section": "41",
+      "title": "§ 41. Käesoleva seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2012. aasta 1. jaanuaril.\n(2) Käesoleva seaduse § 37 jõustub 2011. aasta 15. novembril."
+    }
+  ],
+  "definitions": []
+}

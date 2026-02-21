@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-222078",
+  "type": "statute",
+  "title": "Haldusõiguserikkumiste seadustik",
+  "title_en": "Haldusõiguserikkumiste seadustik",
+  "short_name": "HÕS",
+  "status": "in_force",
+  "issued_date": "1992-07-18",
+  "in_force_date": "2002-09-01",
+  "url": "https://www.riigiteataja.ee/akt/222078.xml",
+  "description": "Official consolidated statute text (Haldusõiguserikkumiste seadustik) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Kehtetu - RT I 2002, 56, 350 - jõust. 1.09.2002"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-107032023052",
+  "type": "statute",
+  "title": "Tööturuteenuste ja -toetuste seadus",
+  "title_en": "Tööturuteenuste ja -toetuste seadus",
+  "short_name": "TTTS",
+  "status": "in_force",
+  "issued_date": "2005-09-28",
+  "in_force_date": "2024-01-01",
+  "url": "https://www.riigiteataja.ee/akt/107032023052.xml",
+  "description": "Official consolidated statute text (Tööturuteenuste ja -toetuste seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

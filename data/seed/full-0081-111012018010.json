@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-111012018010",
+  "type": "statute",
+  "title": "Autoveoseadus",
+  "title_en": "Autoveoseadus",
+  "short_name": "ee-law-111012018010",
+  "status": "in_force",
+  "issued_date": "2000-06-07",
+  "in_force_date": "2018-06-01",
+  "url": "https://www.riigiteataja.ee/akt/111012018010.xml",
+  "description": "Official consolidated statute text (Autoveoseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

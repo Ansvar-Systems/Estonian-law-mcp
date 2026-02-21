@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-208072022001",
+  "type": "statute",
+  "title": "Soome Vabariigi ja Rootsi Kuningriigi ühinemist käsitlevate Põhja-Atlandi lepingu protokollide heakskiitmise seadus",
+  "title_en": "Soome Vabariigi ja Rootsi Kuningriigi ühinemist käsitlevate Põhja-Atlandi lepingu protokollide heakskiitmise seadus",
+  "short_name": "ee-law-208072022001",
+  "status": "in_force",
+  "issued_date": "2022-07-06",
+  "in_force_date": "2022-07-18",
+  "url": "https://www.riigiteataja.ee/akt/208072022001.xml",
+  "description": "Official consolidated statute text (Soome Vabariigi ja Rootsi Kuningriigi ühinemist käsitlevate Põhja-Atlandi lepingu protokollide heakskiitmise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Kiita heaks juurdelisatud Soome Vabariigi ühinemist käsitlev Põhja-Atlandi lepingu protokoll, millele on alla kirjutatud 2022. aasta 5. juulil Brüsselis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Kiita heaks juurdelisatud Rootsi Kuningriigi ühinemist käsitlev Põhja-Atlandi lepingu protokoll, millele on alla kirjutatud 2022. aasta 5. juulil Brüsselis."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-206032012001",
+  "type": "statute",
+  "title": "Kaupade piirikontrolli tingimuste kooskõlastamise rahvusvahelise konventsiooni 8. lisa heakskiitmise seadus",
+  "title_en": "Kaupade piirikontrolli tingimuste kooskõlastamise rahvusvahelise konventsiooni 8. lisa heakskiitmise seadus",
+  "short_name": "ee-law-206032012001",
+  "status": "in_force",
+  "issued_date": "2012-02-15",
+  "in_force_date": "2012-03-16",
+  "url": "https://www.riigiteataja.ee/akt/206032012001.xml",
+  "description": "Official consolidated statute text (Kaupade piirikontrolli tingimuste kooskõlastamise rahvusvahelise konventsiooni 8. lisa heakskiitmise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Konventsiooni heakskiitmine",
+      "content": "Kiita heaks kaupade piirikontrolli tingimuste kooskõlastamise rahvusvahelise konventsiooni 8. lisa (edaspidi konventsiooni 8. lisa ), mis on Euroopa Ühenduse nimel heaks kiidetud nõukogu 2008. aasta 25. septembri otsusega 2009/161/EÜ (ELT L 55, 27.2.2009, lk 21–39)."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Pädevad asutused",
+      "content": "(1) Konventsiooni 8. lisa 2. liite punktides 1 ja 5 nimetatud pädevad asutused on Politsei- ja Piirivalveamet, Maanteeamet ning Maksu- ja Tolliamet.\n(2) Konventsiooni 8. lisa 2. liite punktis 2 nimetatud järelevalvet sõiduki massi rahvusvahelise tunnistuse väljaandmise üle teostab mõõteseaduses kehtestatud korras Tehnilise Järelevalve Amet.\n(3) Sõiduki massi rahvusvahelist tunnistust võivad seadustest tuleneva pädevuse kohaselt kontrollida Politsei- ja Piirivalveamet, Maanteeamet ning Maksu- ja Tolliamet."
+    }
+  ],
+  "definitions": []
+}

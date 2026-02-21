@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-749172",
+  "type": "statute",
+  "title": "Tollimaksuvabastuse seadus",
+  "title_en": "Tollimaksuvabastuse seadus",
+  "short_name": "TMVS",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "2004-05-01",
+  "url": "https://www.riigiteataja.ee/akt/749172.xml",
+  "description": "Official consolidated statute text (Tollimaksuvabastuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Kehtetu - RT I 2004, 30, 208 - jõust. 1. 05. 2004"
+    }
+  ],
+  "definitions": []
+}

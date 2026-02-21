@@ -1,0 +1,673 @@
+{
+  "id": "ee-law-110072020017",
+  "type": "statute",
+  "title": "Hasartmänguseadus",
+  "title_en": "Hasartmänguseadus",
+  "short_name": "ee-law-110072020017",
+  "status": "in_force",
+  "issued_date": "2008-10-15",
+  "in_force_date": "2021-01-01",
+  "url": "https://www.riigiteataja.ee/akt/110072020017.xml",
+  "description": "Official consolidated statute text (Hasartmänguseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Eesmärk ja reguleerimisala",
+      "content": "(1) Käesoleva seaduse eesmärk on kehtestada kõrgendatud nõudmised hasartmängukorraldajatele ja sätestada meetmed mängijate kaitseks, vähendada hasartmängude negatiivseid tagajärgi ja nende mõju ühiskonnale.\n(2) Käesoleva seadusega reguleeritakse hasartmängude korraldamist, riiklikku järelevalvet hasartmängude korraldamise üle Eesti territooriumil ja Eesti laevaregistrisse kantud laeval ning vastutust seadusest tulenevate nõuete rikkumise eest.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi. Dokumentide elektroonilisele kättetoimetamisele kohaldatakse maksukorralduse seaduse §-s 54 sätestatut."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Hasartmäng",
+      "content": "(1) Hasartmäng on mäng, mis vastab kõigile järgmistele tunnustele:\n1) mängus osalemise tingimuseks on mängija poolt panuse tegemine;\n2) mängu tulemusel võib mängija saada võidu;\n3) mängu tulemus määratakse osaliselt või täielikult juhuslikkusel põhineva tegevusega või see sõltub eelnevalt mitteteadaoleva sündmuse toimumisest.\n(2) Panus on käesoleva seaduse tähenduses mängus osalemise eest tasutud rahasumma või hasartmängus osalemise õiguse saamise eesmärgil võetav rahaliselt hinnatav kohustus. Panuseks ei peeta tasu kommunikatsioonivahendite kasutamise eest, kui see ei laeku hasartmängukorraldajale ega ületa sellise kommunikatsioonivahendi kasutamise eest tavaliselt tasutavat summat.\n(3) Võit on käesoleva seaduse tähenduses hasartmängu tulemusena saadud mängija õigus omandada raha või muu hüve, millel on rahaliselt hinnatav väärtus.\n(4) Võidufond on hasartmängu tulemusel mängijatele antavate võimalike võitude rahaliste väärtuste summa. Kui võidufondi kuulub asi või varaline õigus, lähtutakse võidufondi arvutamisel asja või varalise õiguse harilikust väärtusest.\n(5) Käesoleva seaduse nõudeid ei kohaldata järgmiste hasartmängude suhtes:\n1) osavusmäng, mille ainus võimalik võit on võimalus uuesti osaleda samas mängus;\n2) spordivõistlus;\n3) loterii, mille võidufondi väärtus on kuni 1000 eurot ja mida ei korraldata sagedamini kui kord nädalas;\n3^1) loterii, mille võidufondi väärtus on kuni 1000 eurot ja mida korraldatakse Eesti laevaregistrisse kantud rahvusvahelisel meresõidul reisijatevedu teostaval laeval;\n4) kaubanduslik loterii, mille võidufondi väärtus on kuni 10 000 eurot.\n(6) Käesoleva paragrahvi lõike 5 punktides 3 ja 4 nimetatud loteriidele ei kohaldata võlaõigusseaduse § 4 lõike 2 punktis 1 sätestatut.\n(7) Lubatud on korraldada üksnes käesoleva seaduse nõuetele vastavaid hasartmänge.\n(8) Hasartmängu korraldamine on keelatud, kui mängu tulemuse selgitamise eelduseks on kindlaksmääratud osalejate või panuste arvu saavutamine ja eelduse mittetäitumisel ei ole tagatud panuse täies ulatuses tagastamine mängijale."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Hasartmängude liigid",
+      "content": "Hasartmängude liigid on:\n1) õnnemängud – mängud, mille tulemus sõltub juhusest ja mida mängitakse mehaanilise või elektroonilise vahendi abil või mängu läbiviija vahendusel;\n2) loteriid – mängud, mille tulemus sõltub juhusest, kusjuures võidufond moodustab kuni 80 protsenti loteriipiletite tiraaži realiseerimishinnast ning mängu tulemust ei selgitata üle kolme korra ööpäevas või see selgub loteriipiletil asuva mänguvälja avamisel;\n3) totod – mängud, mille tulemus sõltub mängija ennustatud sündmuse toimumisest, toimumata jäämisest või toimumise viisist, kusjuures sündmus, mille suhtes mängija ennustuse teeb, on väljaspool hasartmängukorraldaja kontrolli, võidu saamine sõltub ennustuse paikapidavusest ning võidu suurus sõltub panuse suurusest ja enne panuse tegemist määratud võidu koefitsiendist (kihlvedu) või hasartmängukorraldaja poolt määratud protsendist panuste summast, õigesti ennustanute arvust ja nende panuste suurusest (totalisaator);\n4) osavusmängud – mängud, mille tulemus sõltub ülekaalukalt mängija füüsilisest osavusest või oskustest ja teadmistest ning mida mängitakse mehaanilise või elektroonilise seadme abil."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Hasartmängude alaliigid",
+      "content": "(1) Õnnemängude liigid on:\n1) mängulaual ja mänguautomaadil korraldatavad mängud – mängud, mille tulemuste väljaselgitamiseks kasutatakse hasartmängude korraldamiseks valmistatud või selleks kohandatud elektroonilist, mehaanilist või elektromehaanilist seadet või mängu läbiviija abi;\n2) täiendavad õnnemängud – mängud, mis mängureeglites sätestatud tingimuste täitumisel annavad mänguautomaadil või mängulaual mängijale võimaluse võita ühendatud mänguautomaatide või mängulaudade panuste arvelt kogutud või eelnevalt kindlaksmääratud muu võidu.\n(2) Loteriide liigid on:\n1) klassikalised loteriid – loteriid, mille tulemuse selgitab loterii korraldaja pärast loteriis osalemise võimaluse pakkumise lõpetamist;\n2) kiirloteriid – loteriid, mille tulemus on loteriipiletite vahel juhuslikult määratud enne loteriipiletite omandamist mängija poolt ning see saab mängijale teatavaks pärast loteriipileti omandamist mänguvälja avamisel."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Kaughasartmäng",
+      "content": "(1) Kaughasartmäng on hasartmängu korraldamine viisil, kus mängu tulemus selgitatakse elektroonilisel seadmel ja mängija saab mängus osaleda elektroonilise sidevahendi, sealhulgas telefoni, Interneti ja meediateenuste vahendusel.\n(2) Kaughasartmänguks ei peeta hasartmängu, mille korraldamisel kasutatakse elektroonilist sidevahendit üksnes panuse vastuvõtmiseks, mängu tulemustest teavitamiseks või väljamakse tegemiseks mängija arvele."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Kaubanduslik loterii",
+      "content": "Kaubanduslik loterii on kauba või teenuse pakkuja poolt kauba või teenuse müügi edendamiseks või kauba, teenuse või nende pakkuja reklaamimiseks korraldatav klassikaline või kiirloterii."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "7",
+      "title": "§ 7. Õnnemänguturniir",
+      "content": "(1) Õnnemänguturniir on võistlus, milles osalejad võistlevad omavahel õnnemängus. Õnnemänguturniir võib toimuda:\n1) turniirina;\n2) ringmänguna.\n(2) Käesoleva paragrahvi lõike 1 punktis 1 sätestatud juhul on osalustasude summa turniiris osalejate poolt hasartmängukorraldajale makstud tasude summa, millest moodustub turniiri võidufond ja korraldaja teenustasu.\n(3) Käesoleva paragrahvi lõike 1 punktis 2 sätestatud juhul on osalustasude summa mängijate poolt ringmängus tehtud panuste arvelt hasartmängukorraldajale laekuvate tasude summa."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "8",
+      "title": "§ 8. Hasartmängukorraldaja ja hasartmängude korraldamisele suunatud tegevuse edasiandmine",
+      "content": "(1) Hasartmängukorraldaja on isik, kes tegeleb hasartmängu korraldamisega.\n(2) Hasartmängukorraldaja võib hasartmängude korraldamisele suunatud tegevuse edasi anda teisele isikule üksnes Maksu- ja Tolliameti kirjalikul nõusolekul. Maksu- ja Tolliamet otsustab nõusoleku andmise või sellest keeldumise 30 tööpäeva jooksul taotluse vastuvõtmisest arvates.\n(2^1) Käesoleva paragrahvi lõiget 2 ei kohaldata loteriipiletite müügi edasiandmisele, kui loterii ei ole korraldatud kaughasartmänguna.\n(3) Hasartmängukorraldaja vastutus hasartmängu korraldamise eest ei ole üleantav.\n(4) Hasartmängude korraldamisele suunatud tegevuse edasiandmine ei tohi takistada hasartmängukorraldaja sisemist kontrolli ega Maksu- ja Tolliameti võimalust jälgida käesoleva seadusega hasartmängude korraldamisele kehtestatud nõuete täitmist.\n(5) Oluliseks hasartmängude korraldamisele suunatud tegevuseks peetakse sellist toimingut, mille ärajätmine või mille teostamisel tehtud viga ohustaks oluliselt hasartmängukorraldaja jätkuvat vastavust käesoleva seaduse nõuetele, tema finantstulemusi või tema poolt hasartmängude korraldamist. Olulist hasartmängude korraldamisele suunatud tegevust ei või edasi anda, välja arvatud juhul, kui:\n1) hasartmängukorraldaja kohustused mängijate ees ei muutu;\n2) tingimused, millele vastavuse tõttu hasartmängukorraldajale hasartmängu korraldamise tegevusluba või korraldusluba anti, ei muutu ega kao.\n(6) Isikut, kellele hasartmängude korraldamisele suunatud tegevus on käesolevas paragrahvis kehtestatud korras edasi antud, ei peeta hasartmängukorraldajaks.\n(7) Hasartmängukorraldajal on õigus vahendada Eestis tegevus- või korraldusluba mitteomava välismaise hasartmängukorraldaja korraldatavast hasartmängust saadud võite ja panuseid, samuti makseid välismaise hasartmängukorraldaja kontole sellises hasartmängus panuse tegemiseks. Sel juhul peetakse käesoleva seaduse tähenduses hasartmängukorraldajaks võitude, panuste või välismaise hasartmängukorraldaja kontole panuste tegemiseks tehtud maksete vahendajat ja isikuks, kellele hasartmängu korraldamisele suunatud tegevus on üle antud, peetakse välismaist hasartmängukorraldajat."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "9",
+      "title": "§ 9. Hasartmängukorraldajale esitatavad nõuded",
+      "content": "(1) Õnnemängu, toto või osavusmängu korraldamise õigus on usaldusväärsel juriidilisel isikul, kes vastab käesoleva seaduse nõuetele ning kellel on hasartmängu korraldamise tegevusluba ja hasartmängu korraldamise korraldusluba. Loterii korraldamise õigus on käesoleva seaduse nõuetele vastaval usaldusväärsel isikul, kellele on väljastatud loterii korraldamise korraldusluba.\n(2) Hasartmängude korraldamine peab olema hasartmängukorraldaja ainus tegevusala. Hasartmängukorraldaja võib mängukohas tegeleda hasartmängu korraldamisega seonduvate kõrvaltegevustega, sealhulgas toitlustamise, valuutavahetuse ning vaba aja ja kultuuriürituste korraldamisega.\n(3) Hasartmängukorraldaja olulise osalusega aktsionäride või osanike, rahapesu ja terrorismi rahastamise tõkestamise seaduse §-s 9 nimetatud tegelike kasusaajate (edaspidi tegelik kasusaaja ) ega juhtorgani liikmete hulka ei tohi kuuluda isik, kes vastab vähemalt ühele järgmistest tingimustest:\n1) isikul on karistatus kuriteo eest;\n2) isik on olnud sellise juriidilise isiku juhtorgani liige, mis on korraldanud hasartmängu ilma tegevus- või korraldusloata või mille tegevusluba on tunnistatud kehtetuks käesoleva seaduse § 20 lõike 1 punktides 2–4 või 7 toodud alustel;\n3) pankrotimenetluses tehtud kohtulahendist nähtub, et isik on raske juhtimisvea tõttu põhjustanud äriühingu maksejõuetuse.\n(4) Õnnemängu võib korraldada aktsiaselts või osaühing, mille aktsia- või osakapitali suurus on vähemalt 1 000 000 eurot.\n(5) Loteriid võib korraldada aktsiaselts, mille aktsiakapitali suurus on vähemalt 1 000 000 eurot ja mille kõik aktsiad kuuluvad Eesti riigile. Nimetatud aktsiaselts korraldab käesoleva seaduse §-des 44–46 sätestatud korras mittetulundusühingute ja sihtasutuste loteriisid.\n(6) Osavusmängu võib korraldada aktsiaselts või osaühing, mille aktsia- või osakapitali suurus on vähemalt 25 000 eurot.\n(7) Totot võib korraldada aktsiaselts või osaühing, mille aktsia- või osakapitali suurus on vähemalt 130 000 eurot. Totot, kus sündmus, mille suhtes mängija ennustuse teeb, on hobuste võiduajamise tulemus, võib korraldada ka Vabariigi Valitsuse määratud mittetulundusühing, mille tegevus põhikirja järgi on üksnes hobusekasvatus või hobumajandus ja mille raamatupidamise aastaaruandes esitatud bilansis kajastatud netovara moodustab vähemalt 2/5 varade mahust. Totot, mille tulemus sõltub loterii tulemusest, ei või korraldada."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "10",
+      "title": "§ 10. Täiendava reservkapitali moodustamine ja kasutamine",
+      "content": "(1) Hasartmängukorraldaja, välja arvatud käesoleva seaduse § 9 lõikes 7 nimetatud mittetulundusühing, moodustab täiendava reservkapitali iga-aastastest puhaskasumi või muudest eraldistest, mida võib seaduse või põhikirja alusel kanda reservkapitali.\n(2) Täiendava reservkapitali suurus ei või olla väiksem kui 1/3 aktsia- või osakapitalist.\n(3) Igal majandusaastal tuleb täiendavasse reservkapitali kanda vähemalt 1/7 puhaskasumist. Kui täiendav reservkapital saavutab põhikirjas ettenähtud suuruse, lõpetatakse selle suurendamine.\n(4) Täiendavat reservkapitali võib üldkoosoleku otsusel kasutada kahjumi katmiseks, kui kahjumit ei ole võimalik katta hasartmängukorraldaja vabast omakapitalist eelmiste perioodide jaotamata kasumi, tulemi või põhikirjas ettenähtud reservkapitali arvelt. Täiendavat reservkapitali võib üldkoosoleku otsusel kasutada ka aktsia- või osakapitali suurendamiseks.\n(5) Väljamaksete tegemine täiendavast reservkapitalist asutajatele, aktsionäridele või osanikele on keelatud.\n(6) Käesolevas paragrahvis sätestatut ei kohaldata hasartmängukorraldajale, kelle raamatupidamise aastaaruandes esitatud bilansis kajastatud omakapital moodustab vähemalt poole varade mahust."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "11",
+      "title": "§ 11. Oluline osalus hasartmängukorraldajas",
+      "content": "(1) Oluline osalus hasartmängukorraldajas on otsene või kaudne osalus hasartmängu korraldava äriühingu aktsia- või osakapitalis, mis on vähemalt 10 protsenti äriühingu aktsia- või osakapitalist, seda väljendavatest kõigist õigustest või kõigist häältest äriühingus või mis võimaldab olulise mõju äriühingu juhtorganite üle. Osalus on otsene, kui isik omab või teostab seda isiklikult. Osalus on kaudne, kui:\n1) seda omab või teostab isik koos ühe või mitme kontrollitava äriühinguga väärtpaberituru seaduse § 10 mõistes (edaspidi kontrollitav äriühing );\n2) seda omab või teostab üks või mitu isiku kontrollitavat äriühingut;\n3) seda omab või teostab isik või tema kontrollitav äriühing kokkuleppel kolmanda isikuga;\n4) sellest tulenev hääleõigus loetakse isikule kuuluvaks.\n(2) Iga isik esitab enne olulise osaluse omandamist hasartmängukorraldajas või oma osaluse suurendamist üle 20, 30 või 50 protsendi piiri hasartmängukorraldaja aktsia- või osakapitalis, seda väljendavates kõigis õigustes või kõigist häältest äriühingus Maksu- ja Tolliametile omandatava osa suuruse ning järgmised andmed ja dokumendid:\n1) olulise osaluse omandaja nimi või nimetus, elu- või asukoht ja olemasolu korral registrikood, äriühingu puhul põhikirja olemasolul ka selle ärakiri;\n2) äriühingust olulise osaluse omandaja puhul andmed juhatuse ja nõukogu liikmete kohta, mis sisaldavad neist igaühe ees- ja perekonnanime, isikukoodi või selle puudumise korral sünniaega, ning nende isikute usaldusväärsust ja laitmatut ärialast mainet kinnitavad dokumendid, mida isik peab oluliseks esitada;\n3) konsolideerimisgruppi kuuluva olulise osaluse omandaja puhul konsolideerimisgrupi struktuuri kirjeldus koos andmetega sinna kuuluvate äriühingute osaluse suuruse kohta.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud isik (edaspidi olulise osaluse omandaja ) on Maksu- ja Tolliameti nõudel kohustatud esitama ka järgmised andmed ja dokumendid:\n1) kolme viimase majandusaasta aruanded;\n2) füüsilisest isikust olulise osaluse omandaja kolme viimase aasta varanduslikku seisu tõendavad dokumendid, sealhulgas täielik loetelu talle kuuluvate kinnisasjade, ehitiste ja väärtpaberite kohta ning tema viimase kolme aasta tuludeklaratsioonide kinnitatud ärakirjad;\n3) konsolideerimisgrupi kolme viimase majandusaasta aruanded koos kasumi jaotamise ettepanekute ning vandeaudiitori aruannetega.\n(4) Kui viimase majandusaasta lõppemisest on möödunud rohkem kui üheksa kuud, võib Maksu- ja Tolliamet nõuda auditeeritud vahearuande esitamist käimasoleva majandusaasta esimese poolaasta kohta."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "12",
+      "title": "§ 12. Olulise osaluse omandamisest või suurenemisest teavitamine",
+      "content": "(1) Kui isik omandab hasartmängukorraldajas olulise osaluse või tema osalus suureneb üle 20, 30 või 50 protsendi piiri hasartmängukorraldaja aktsia- või osakapitalis või häälte arvust või kui hasartmängukorraldaja muutub isiku kontrollitavaks äriühinguks mõne sündmuse tõttu või tehingu tulemusel, mille puhul ei ole enne hasartmängukorraldajas olulise osaluse omandamist, osaluse suurenemist üle nimetatud piiri või isiku kontrollitavaks äriühinguks muutumist võimalik Maksu- ja Tolliametit käesoleva seaduse § 11 lõikes 2 sätestatud korras teavitada, on isik kohustatud pärast hasartmängukorraldaja üle kontrolli saamisest, olulise osaluse omandamisest või osaluse suurenemisest teadasaamist viivitamata teavitama Maksu- ja Tolliametit.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud kohustuse täitmiseks esitatakse Maksu- ja Tolliametile käesoleva seaduse § 11 lõigetes 2–4 nimetatud andmed ja dokumendid. Esitama ei pea andmeid ja dokumente, mis on Maksu- ja Tolliametile kättesaadavad äriregistri elektroonilise teabesüsteemi, kinnistusregistri elektroonilise teabesüsteemi, väärtpaberite keskdepositooriumi peetava registri või maksukohustuslaste registri kaudu. Maksu- ja Tolliamet ei või selliste andmete või dokumentide esitamist nõuda."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "13",
+      "title": "§ 13. Olulise osaluse omandamise tingimused ja keelamise alused",
+      "content": "(1) Maksu- ja Tolliametil on õigus määrata olulise osaluse omandajale tähtaeg, mille jooksul tal on õigus olulist osalust omandada, seda üle käesoleva seaduse § 11 lõikes 2 nimetatud piirmäärade suurendada või muuta hasartmängukorraldaja kontrollitavaks äriühinguks. Tähtaeg ei või ületada 12 kuud. Olulise osaluse omandaja on kohustatud teavitama olulise osaluse omandamise, selle suurendamise või hasartmängukorraldaja kontrollitavaks äriühinguks muutmise tehingu teostamisest või teostamata jätmise otsusest viivitamata Maksu- ja Tolliametit.\n(2) Olulise osaluse võib omandada, seda üle käesoleva seaduse § 11 lõikes 2 nimetatud piirmäärade suurendada või hasartmängukorraldaja kontrollitavaks äriühinguks muuta, kui Maksu- ja Tolliamet ei ole 60 tööpäeva möödumisel olulise osaluse omandaja poolt esitatud käesoleva seaduse § 11 lõikes 2 nimetatud algse teate saamisest oma ettekirjutusega olulise osaluse omandamist, selle suurendamist või hasartmängukorraldaja kontrollitavaks äriühinguks muutmist keelanud.\n(3) Maksu- ja Tolliamet võib oma ettekirjutusega keelata olulise osaluse omandamise, selle suurendamise üle käesoleva seaduse § 11 lõikes 2 nimetatud piirmäärade või hasartmängukorraldaja kontrollitavaks äriühinguks muutmise, kui:\n1) olulise osaluse omandajal puudub laitmatu ärialane maine või ta ei vasta käesoleva seaduse nõuetele;\n2) olulise osaluse omandaja ei ole ettenähtud tähtpäevaks Maksu- ja Tolliametile esitanud käesoleva seadusega ette nähtud või Maksu- ja Tolliameti poolt käesoleva seaduse alusel nõutud andmeid või dokumente;\n3) Maksu- ja Tolliametile esitatud andmed või dokumendid ei vasta õigusaktidega sätestatud nõuetele või need on ebaõiged, eksitavad või puudulikud;\n4) olulise osaluse omandamise või hasartmängukorraldaja kontrollitavaks äriühinguks muutmise tulemusel ei vastaks hasartmängukorraldaja enam käesolevas seaduses sätestatud nõuetele;\n5) olulise osaluse omandaja ei ole, vaatamata Maksu- ja Tolliameti sellekohasele nõudmisele, esitanud olulise osaluse omandamiseks kasutatavate rahaliste või mitterahaliste vahendite legaalset päritolu tõendavaid dokumente;\n6) hasartmängukorraldaja muutuks välisriigi hasartmängukorraldaja kontrollitavaks äriühinguks, kelle suhtes ei kehti käesolevas seaduses sätestatutega vähemalt võrdväärsed nõuded või kelle üle ei teostata riiklikku järelevalvet või kelle asukohariigi järelevalveasutusel ei ole õiguslikku alust või võimalusi Maksu- ja Tolliametiga koostöö tegemiseks.\n(4) Maksu- ja Tolliamet võib pärast olulise osaluse omandamist või selle suurendamist või hasartmängukorraldaja kontrollitavaks äriühinguks muutmist teha ettekirjutuse, mille kohaselt loetakse osaluse omandamine või hasartmängukorraldaja kontrollitavaks äriühinguks muutmine käesoleva seadusega vastuolus olevaks, kui:\n1) olulise osaluse omandaja on esitanud eksitavaid või ebaõigeid andmeid või dokumente;\n2) olulise osaluse omandaja aktsionäri või osaniku või tema esindaja tegevus ohustab oluliselt hasartmängukorraldaja kindlat ja usaldusväärset juhtimist või\n3) ilmnevad muud käesoleva paragrahvi lõikes 3 nimetatud asjaolud.\n(5) Maksu- ja Tolliametil on õigus oma ettekirjutusega keelata või piirata olulise osaluse omandajal või isikul, kes hasartmängukorraldajas olulist osalust omab või kelle kontrollitavaks äriühinguks hasartmängukorraldaja on, hasartmängukorraldajas hääleõiguse või muude kontrolli võimaldavate õiguste teostamist, kui esinevad käesoleva paragrahvi lõikes 3 või 4 sätestatud asjaolud. Ettekirjutuse võib Maksu- ja Tolliamet teha olenemata käesoleva paragrahvi lõikes 3 või 4 sätestatud ettekirjutuse tegemisest.\n(6) Käesoleva paragrahvi lõigetes 3–5 sätestatud Maksu- ja Tolliameti ettekirjutuste järgimine on kohustuslik ka hasartmängukorraldajale, tema aktsiaraamatu pidajale või muule isikule, kes korraldab hääleõiguse teostamist."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "14",
+      "title": "§ 14. Osaluse ebaseadusliku omandamise tagajärjed",
+      "content": "(1) Olulise osaluse omandamise või suurendamise tehingu tagajärjel ei ole isikul õigust teostada osalusega kaasnevat hääleõigust ning tema osalust või sellega esindatud hääli ei arvata üldkoosoleku kvoorumisse, kui:\n1) tehing on vastuolus Maksu- ja Tolliameti jõustunud ettekirjutusega;\n2) tehingust ei ole Maksu- ja Tolliametit käesoleva seaduse § 11 lõigetes 2–4 sätestatud korras teavitatud või\n3) tehing on tehtud pärast käesoleva seaduse § 13 lõikes 1 või enne lõikes 2 nimetatud tähtaja lõppemist.\n(2) Kui tehingu tulemusel, mille puhul esineb mõni käesoleva paragrahvi lõikes 1 nimetatud asjaolu, omandatud või suurendatud osalust esindavad hääled arvati üldkoosoleku kvoorumisse ja need mõjutasid üldkoosoleku otsuse vastuvõtmist, võib kohus üldkoosoleku otsuse vastuvõtmisest kahe kuu jooksul esitatud Maksu- ja Tolliameti, aktsionäri või äriühingu nõukogu või juhatuse liikme avalduse alusel tunnistada üldkoosoleku otsuse kehtetuks.\n(3) Tehingu tulemusel, mille puhul esineb mõni käesoleva paragrahvi lõikes 1 nimetatud asjaolu, on keelatud teostada hasartmängukorraldaja kontrollitavaks äriühinguks saamisega kaasnevaid õigusi. Kui teostati tehingust, millega hasartmängukorraldaja pidi muutuma isiku kontrollitavaks äriühinguks ja mille puhul esineb mõni käesoleva paragrahvi lõikes 1 nimetatud asjaolu, tulenevaid kontrolli võimaldavaid õigusi, võib kohus õiguste teostamise hetkest kahe kuu jooksul esitatud Maksu- ja Tolliameti, aktsionäri, osaniku või äriühingu nõukogu või juhatuse liikme avalduse alusel tunnistada selliste õiguste teostamise kehtetuks."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "15",
+      "title": "§ 15. Osaluse muutumisest teavitamine",
+      "content": "(1) Kui isik kavatseb võõrandada aktsiaid ulatuses, millega ta kaotab olulise osaluse hasartmängukorraldajas või vähendab oma osalust alla mõne käesoleva seaduse § 11 lõikes 2 nimetatud määra või loobub kontrollist hasartmängukorraldaja üle, peab ta oma kavatsusest Maksu- ja Tolliametit viivitamata teavitama, näidates teates ära omatavate, võõrandatavate ja pärast tehingut talle jäävate aktsiate arvu, ning esitama käesoleva seaduse § 11 lõigetes 2 ja 3 nimetatud andmed ja dokumendid isiku kohta, kellele aktsiaid võõrandatakse.\n(2) Käesoleva paragrahvi lõikes 1 sätestatut kohaldatakse ka juhul, kui isik kaotab mõne muu sündmuse või tehingu tõttu kontrolli hasartmängukorraldaja üle või olulise osaluse hasartmängukorraldajas või tema osalus väheneb alla mõne käesoleva seaduse § 11 lõikes 2 nimetatud piirmäära. Sellisel juhul on isik kohustatud teavitama pärast olulise osaluse või kontrolli kaotamisest või osaluse vähenemisest teadasaamist viivitamata Maksu- ja Tolliametit.\n(3) Hasartmängukorraldaja on käesoleva seaduse § 11 lõikes 2 ning käesoleva paragrahvi lõigetes 1 ja 2 nimetatud tehingutest teadasaamise korral kohustatud sellest viivitamata teavitama Maksu- ja Tolliametit."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "16",
+      "title": "§ 16. Tegevusluba",
+      "content": "(1) Hasartmängude korraldamise tegevusluba (edaspidi tegevusluba ) annab isikule õiguse taotleda korraldusluba hasartmängu korraldamiseks. Tegevusluba on tähtajatu ja see ei ole üleantav.\n(2) Tegevusluba antakse eraldi:\n1) õnnemängu korraldamiseks;\n2) toto korraldamiseks;\n3) osavusmängu korraldamiseks.\n(3) Tegevusloa andmise, sellest keeldumise ning kehtetuks tunnistamise otsustab Maksu- ja Tolliamet.\n(4)"
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "17",
+      "title": "§ 17. Tegevusloa taotlemine",
+      "content": "(1) Tegevusloa saamiseks tuleb esitada Maksu- ja Tolliametile taotlus, milles on märgitud:\n1) taotleja nimi ja registrikood;\n2) taotleja asukoha aadress ja kontaktandmed;\n3) korraldatava hasartmängu liik;\n4) taotluse täitnud isiku ametikoht, nimi ja allkiri;\n5) riigilõivu tasumise kuupäev.\n(2) Tegevusloa taotlusele tuleb lisada:\n1) andmed ja dokumendid tegevusloa taotleja juhatuse ja nõukogu liikmete kohta, mis sisaldavad neist igaühe ees- ja perekonnanime, isikukoodi või selle puudumise korral sünniaega, elukohta, töö- ja ametikohtade täielikku loetelu ning tegevusloa taotleja juhatuse ja nõukogu liikmete usaldusväärsust ja käesoleva seaduse nõuetele vastavust kinnitavad dokumendid, mida taotleja peab oluliseks esitada, ning käesoleva seaduse § 11 lõike 3 punktis 2 nimetatud andmed ja dokumendid;\n2) andmed tegevusloa taotleja audiitori kohta, mis sisaldavad tema nime, elu- või asukohta, isikukoodi või selle puudumise korral sünniaega või registrikoodi;\n3) tegevusloa taotleja aktsionäride või osanike nimekiri, milles on toodud iga aktsionäri või osaniku nimi, registrikood või isikukood või selle puudumise korral sünniaeg ning andmed iga aktsionäri või osaniku poolt omandatavate või talle kuuluvate aktsiate või osa suuruse ja häälte arvu kohta;\n4) tegevusloa taotlejas olulist osalust omavate isikute kohta käesoleva seaduse § 11 lõikes 2 nimetatud andmed ja dokumendid.\n(3) Maksu- ja Tolliamet võib nõuda, et taotlusele lisataks:\n1) tegevusloa taotleja põhikirja või asutamislepingu ärakiri;\n2) andmed äriühingute kohta, milles tegevusloa taotleja või tema juhatuse või nõukogu liikme osalus on suurem kui 25 protsenti, kusjuures need andmed peavad sisaldama aktsia- või osakapitali suurust, tegevusalade loetelu ning tegevusloa taotleja ja iga juhatuse või nõukogu liikme osaluse suurust.\n(4) Maksu- ja Tolliametile ei pea esitama käesoleva paragrahvi lõigetes 2 ja 3 nimetatud andmeid ja dokumente, mis on kättesaadavad äriregistri elektroonilise teabesüsteemi, kinnistusregistri elektroonilise teabesüsteemi, väärtpaberite keskdepositooriumi peetava registri või maksukohustuslaste registri kaudu. Maksu- ja Tolliamet ei või selliste andmete või dokumentide esitamist nõuda."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "18",
+      "title": "§ 18. Tegevusloa taotleja kontrollimine ning otsuse tegemine tegevusloa andmise kohta",
+      "content": "(1) Enne tegevusloa andmise otsustamist kontrollitakse tegevusloa taotleja vastavust hasartmängukorraldajale esitatavatele nõuetele ja eelneva kolme aasta maksukäitumist ning kogutakse vajaduse korral täiendavaid tegevusloa taotlejat iseloomustavaid andmeid, et veenduda tegevusloa taotlemisel esitatud dokumentide õigsuses ning tegevusloa taotleja usaldusväärsuses ja heas maines.\n(2) Maksu- ja Tolliametil on õigus saada tegevusloa taotlemisel esitatud andmete või tegevusloa taotleja kontrollimiseks tegevusloa taotlejalt ja riiklikest andmekogudest teavet.\n(3) Käesoleva paragrahvi lõikes 1 sätestatu hindamisel arvestatakse muu hulgas:\n1) taotleja planeeritava tegevuse organisatsioonilise ja tehnilise korralduse taset, sealhulgas aktsia- või osakapitali sissemakseks kasutatud summade päritolu selgust;\n2) taotleja juhtorgani liikmete töökogemust, ärisidemeid, haridust, usaldusväärsust ja mainet;\n3) maksukorralduse seaduse mõistes maksuvõla olemasolu taotlejal, taotlejas olulist osalust omaval isikul või taotleja juhtorgani liikmel, maksude maksmise tähtaegadest kinnipidamist ning taotleja tahtlikku maksude maksmisest kõrvalehoidumist.\n(4) Maksu- ja Tolliamet teeb otsuse tegevusloa andmise või sellest keeldumise kohta nelja kuu jooksul kõigi vajalike dokumentide ja andmete saamisest arvates, kuid mitte hiljem kui kuue kuu jooksul tegevusloa taotluse saamisest arvates.\n(5) Tegevusloa andmise otsuses märgitakse järgmised andmed:\n1) tegevusloa andmise otsuse number ja kuupäev;\n2) tegevusloa kehtivuse algus;\n3) hasartmängukorraldaja nimi, registrikood ja aadress;\n4) vastavalt käesoleva seaduse § 16 lõikele 2 hasartmängu liik, mille korraldamiseks tegevusluba õiguse annab;\n5) tegevusloa andmise alus.\n(6)"
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "19",
+      "title": "§ 19. Tegevusloa andmisest keeldumine",
+      "content": "(1) Tegevusloa andmisest võib keelduda, kui:\n1) tegevusloa taotleja, selles olulist osalust omav isik, taotleja juhtorgani liige või tegelik kasusaaja ei vasta käesolevas seaduses sätestatud tingimustele;\n2) tegevusloa taotlemisel on esitatud tegelikkusele mittevastavaid või puudulikke andmeid;\n3) tasumata on riigilõiv;\n4) tegevusloa taotleja keeldub Maksu- ja Tolliametile põhjendamatult andmast käesolevas seaduses nõutud täiendavat või olulist teavet;\n5) tegevusloa taotleja ei ole esitanud käesoleva seaduse § 17 lõigetes 1–3 nimetatud andmeid või dokumente.\n(2) Tegevusloa andmisest keeldutakse, kui:\n1) tegevusloa taotleja kontrollimisel on Maksu- ja Tolliametile teatavaks saanud andmed, millest nähtub, et tegevusloa taotleja ei ole usaldusväärne isik;\n2) tegevusloa taotlejale või tegevusloa taotlejas olulist osalust omavale isikule on varem väljastatud tegevusluba, mis on kehtetuks tunnistatud käesoleva seaduse § 20 lõike 1 punktides 2–4 ja 7 nimetatud alusel või tegevusloa omaja on varem väljastatud tegevusloa kehtivuse ajal korduvalt eksinud käesoleva seaduse §-des 9 ja 10 sätestatud nõuete vastu."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "20",
+      "title": "§ 20. Tegevusloa kehtetuks tunnistamise alused",
+      "content": "(1) Tegevusloa võib kehtetuks tunnistada, kui:\n1)\n2) tegevusloa taotlemisel on teadvalt esitatud tegelikkusele mittevastavaid andmeid;\n3) tegevusloa omaja on korduvalt ja olulisel määral rikkunud talle käesoleva seadusega pandud kohustusi;\n4) tegevusloa omaja on korraldanud hasartmängu ilma hasartmängu korraldamise korraldusloata;\n5) tegevusloa omaja ei täida käesoleva seaduse §-s 9 või 10 sätestatud nõudeid;\n6) isikul, kellele on antud tegevusluba õnnemängu, toto või osavusmängu korraldamiseks, ei ole üle ühe aasta olnud ühtegi kehtivat õnnemängu, toto või osavusmängu korraldusluba või ta ei ole sama ajavahemiku vältel mõjuva põhjuseta tegelenud õnnemängu, toto või osavusmängu korraldamisega;\n7) tegevusloa omaja ei ole tähtajaks täitnud korrakaitseorgani ettekirjutust ning kohus ei ole ettekirjutust kehtetuks tunnistanud;\n8) tegevusloa omaja on toime pannud tahtliku maksuõigusrikkumise;\n9) kõik hasartmängukorraldajale väljastatud korraldusload on tunnistatud kehtetuks.\n(2) Tegevusluba tunnistatakse kehtetuks, kui:\n1) seda taotleb tegevusloa omaja;\n2) tegevusloa omaja on toime pannud rahapesu või korduvalt rikkunud õigusaktiga kehtestatud rahapesu ning terrorismi rahastamise tõkestamise korda.\n(2^1) Käesoleva paragrahvi lõike 1 kohaldamisel käesoleva seaduse § 21^1 lõike 2 alusel tegevusluba omavale isikule arvestatakse rikkumise korral ka ühinenud ühingute eelnevat tegevust.\n(3) Tegevusloa kehtetus toob kaasa kõigi sellele hasartmängukorraldajale sama hasartmängu liigi korraldamiseks antud korralduslubade kehtetuse."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "21",
+      "title": "§ 21. Otsus tegevusloa kehtetuks tunnistamise kohta",
+      "content": "(1) Otsus tegevusloa kehtetuks tunnistamise kohta peab sisaldama järgmisi andmeid:\n1) tegevusloa omaja nimi ja registrikood;\n2) tegevusloa andmise otsuse number ja aeg;\n3) otsuse tegemise kuupäev;\n4) tegevusloa kehtetuks tunnistamise tinginud asjaolud koos viitega käesoleva seaduse § 20 sellele lõikele ja punktile, mille alusel tegevusluba kehtetuks tunnistatakse.\n(2) Maksu- ja Tolliamet teatab tegevusloa kehtetuks tunnistamisest Politsei- ja Piirivalveametile ning rahapesu andmebüroole.\n(3) Isik, kelle tegevusluba on kehtetu, on kohustatud sulgema kõik sama hasartmängu liigi mängukohad ja lõpetama sama hasartmängu liigi kättesaadavaks tegemise kolme päeva jooksul tegevusloa kehtetuks muutumise päevast arvates. Varem võidetud, kuid seni väljaandmata võitude väljaandmine toimub vastavalt mängureeglitele."
+    },
+    {
+      "provision_ref": "para21^1",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "21^1",
+      "title": "§ 21^1. Tegevusloa kehtetuks muutumine",
+      "content": "(1) Tegevusluba muutub kehtetuks:\n1) tegevusloa kehtetuks tunnistamise otsuse jõustumisel;\n2) uue äriühingu äriregistrisse kandmisel, kui hasartmängukorraldaja ühineb teise äriühinguga ja sellega kaasneb uue äriühingu asutamine;\n3) ühendataval äriühingul ühinemise kande äriregistrisse kandmisel;\n4) hasartmängukorraldaja pankroti väljakuulutamise või selle raugemise korral;\n5) hasartmängukorraldaja lõpetamisel muul alusel.\n(2) Käesoleva paragrahvi lõike 1 punkti 2 ei kohaldata, kui on täidetud kõik järgmised tingimused:\n1) igal ühineval ühingul on hasartmängude korraldamise tegevusluba;\n2) ühinemislepingus nimetatakse hasartmängu liigi kohta üks kehtima jääv tegevusluba ja taotletakse teiste tegevuslubade kehtetuks tunnistamist 30 päeva jooksul ühinemise kande äriregistrisse tegemisest arvates;\n3) uus äriühing vastab nõuetele, mis on käesolevas seaduses ette nähtud kehtima jääva tegevusloa saamiseks.\n(3) Käesoleva paragrahvi lõike 1 punkti 3 ei kohaldata, kui nii ühendaval kui ka ühendataval äriühingul on hasartmängude korraldamise tegevusluba ja need load on antud käesoleva seaduse § 16 lõike 2 erinevate punktide alusel."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "22",
+      "title": "§ 22. Korraldusluba",
+      "content": "(1) Hasartmängu korraldusluba (edaspidi korraldusluba ) antakse eraldi:\n1) korraldusloa andmise otsuses märgitaval aadressil või laeval mängukoha avamiseks ühe õnnemängu liigi korraldamiseks;\n2) toto korraldamiseks või korraldusloa andmise otsuses märgitaval aadressil või laeval toto mängukoha avamiseks;\n3) korraldusloa andmise otsuses märgitaval aadressil või laeval mängukoha avamiseks osavusmängu korraldamiseks;\n4) hasartmängu liigi või alaliigi kaughasartmänguna korraldamiseks;\n5) loterii, välja arvatud kaubandusliku loterii, korraldamiseks.\n(2) Korraldusluba, välja arvatud loterii ja käesoleva seaduse § 9 lõikes 7 nimetatud mittetulundusühingule toto korraldamiseks antav korraldusluba, antakse üksnes tegevusloa omajale. Korraldusluba ei ole üleantav.\n(2^1) Käesoleva paragrahvi lõike 1 punktides 1, 2 ja 4 nimetatud korraldusluba antakse üksnes hasartmängukorraldajale, kelle elektrooniline arvestus- ja kontrollsüsteem on nõuetekohaselt ühendatud Maksu- ja Tolliameti infosüsteemiga.\n(3) Korraldusluba antakse kuni 20 aastaks, kui käesolevas seaduses ei ole sätestatud teisiti. Õnnemängu, toto või osavusmängu mängukoha avamisel, kui mängukoht ei asu Eesti laevaregistrisse kantud laeval, antakse korraldusluba ajaks, mis on märgitud mängukoha asukohajärgse valla- või linnavalitsuse kirjalikul nõusolekul mängukoha avamiseks.\n(4) Korraldusloa andmise või sellest keeldumise otsustab Maksu- ja Tolliamet kahe kuu jooksul kõigi vajalike dokumentide ja andmete saamisest arvates, kuid mitte hiljem kui nelja kuu jooksul korraldusloa taotluse saamisest arvates."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "23",
+      "title": "§ 23. Korraldusloa taotlemine",
+      "content": "(1) Korraldusloa saamiseks tuleb Maksu- ja Tolliametile esitada taotlus, milles on märgitud:\n1) taotleja nimi ja registrikood;\n2) taotleja asukoha aadress ja kontaktandmed;\n3) hasartmängu liigi või alaliigi nimetus;\n4) mängukoha aadress või laeva nimi ja registrinumber mängukohas korraldatava õnnemängu, osavusmängu või toto puhul;\n5) hasartmängukorraldaja kontaktisiku nimi ja ametikoht;\n6) taotluse täitnud isiku nimi, ametikoht ja allkiri;\n7) taotletav korraldusloa kehtivusaeg;\n8) riigilõivu tasumise kuupäev.\n(2) Korraldusloa taotlusele tuleb lisada:\n1) õnnemängu, toto või osavusmängu mängukoha avamiseks taotluses näidatud aadressil valla- või linnavalitsuse kirjalik nõusolek mängukoha avamiseks ning mängukoha plaan ja kirjeldus;\n2) teave hasartmängu korraldamiseks kasutatava mänguinventari kohta;\n3) mängureeglid;\n4) ülevaade mängukohas ja mängu korraldamisel rakendatavatest turvameetmetest;\n5) teave selle kohta, kuidas tagatakse mängus osalevate isikute andmete kaitse vastavalt isikuandmete kaitse seadusele;\n6) loterii või toto panuse vastuvõtmisel või võitude väljamaksmisel sidevahendi kaudu telefoninumbrid, Interneti-aadressid ja muud kontaktandmed, mis võimaldavad panuse tegemist ja vastuvõtmist, ning andmed arvelduskontode kohta, mida kasutatakse maksete vahendamiseks korraldaja ja mängijate vahel.\n(3) Maksu- ja Tolliamet võib korraldusloa andmiseks olulist tähtsust omavate asjaolude selgitamiseks viia läbi ekspertiisi. Korraldusloa saamise taotluse läbivaatamise tähtaeg pikeneb ekspertiisi tegemise aja, kuid mitte rohkem kui kahe kuu võrra. Tähtaja pikendamisest teavitab Maksu- ja Tolliamet taotlejat kirjalikult. Kui ekspertarvamuse kohaselt ei vastanud korraldusloa andmiseks olulist tähtsust omavad asjaolud käesoleva seaduse nõuetele, peab tellitud ekspertiisi dokumentaalselt tõendatud kulud hüvitama korraldusloa taotleja."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "24",
+      "title": "§ 24. Korraldusloa taotlemine kiirloterii korraldamiseks",
+      "content": "(1) Kiirloterii korraldusluba antakse kuni viieks aastaks.\n(2) Korraldusloa taotlemisel kiirloterii korraldamiseks kohaldatakse käesoleva seaduse §-s 23 sätestatut järgmiste erisustega:\n1) käesoleva seaduse § 23 lõikes 1 nimetatud taotluses märgitakse korraldusloa kehtivuse ajana kiirloterii korraldamise algus- ja lõpukuupäev;\n2) käesoleva seaduse § 23 lõikest 2 kohaldatakse punkte 3 ja 5;\n3) taotlusele lisatakse kiirloterii pileti kavand koos loteriipiletite turvaelementide täpse kirjeldusega."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "25",
+      "title": "§ 25. Korraldusloa taotlemine täiendava õnnemängu korraldamiseks",
+      "content": "Korraldusloa taotlemisel täiendava õnnemängu korraldamiseks kohaldatakse käesoleva seaduse §-s 23 sätestatut järgmiste erisustega:\n1) käesoleva seaduse § 23 lõike 1 punkti 4 kohaldamisel märgitakse kõik mängukohad, kus täiendavat õnnemängu korraldatakse;\n2) käesoleva seaduse § 23 lõikest 2 kohaldatakse punkti 3."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "26",
+      "title": "§ 26. Korraldusloa taotlemine kaughasartmängu korraldamiseks",
+      "content": "(1) Kaughasartmängu korraldusluba antakse kuni viieks aastaks. Korraldusloa taotlemisel kaughasartmängu korraldamiseks kohaldatakse käesoleva seaduse §-s 23 sätestatut järgmiste erisustega:\n1) käesoleva seaduse § 23 lõike 1 punktis 4 nimetatu asemel tuleb korraldusloa taotluses märkida kaughasartmängu korraldamisel kasutatavat tarkvara sisaldava serveri asukoha aadress;\n2) käesoleva seaduse § 23 lõikest 2 kohaldatakse punkte 2–5.\n(2) Korraldusloa taotlusele tuleb lisada:\n1) andmed kaughasartmängu korraldamisel kasutatava tarkvara kohta;\n2) sõltumatu eksperthinnang kaughasartmängu korraldamisel kasutatava tarkvara vastavuse kohta käesoleva seaduse §-s 54 sätestatud nõuetele;\n3) telefoninumbrid, Interneti-aadressid ja muud kontaktandmed, mis võimaldavad hasartmängus osaleda;\n4) andmed arvelduskontode kohta, mida kasutatakse maksete vahendamiseks korraldaja ning mängijate vahel.\n5) tõendid serveri asukohariigi hasartmängujärelevalve teostaja ja rahapesu tõkestamisega tegeleva asutuse õigusliku aluse ja võimaluste kohta teha koostööd Maksu- ja Tolliameti ning rahapesu andmebürooga, kui server ei asu Eestis ega arvutikuritegevusvastase konventsiooniga ühinenud riigis ning Maksu- ja Tolliametil ja rahapesu andmebürool puudub koostöökokkulepe serveri asukohariigi pädevate asutustega hasartmängude järelevalvega seotud informatsiooni vahetamise kohta."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "27",
+      "title": "§ 27. Mängukoha avamise nõusolek",
+      "content": "(1) Õnnemängu, toto või osavusmängu mängukoha võib avada üksnes aadressil, mille kohta on asukohajärgne valla- või linnavalitsus andnud kirjaliku nõusoleku enne korraldusloa taotlemist. Valla- või linnavalitsus otsustab nõusoleku andmise või andmata jätmise ühe kuu jooksul taotluse saamisest arvates. Osavusmängu mängukoha avamise nõusolek antakse kuni 20 aastaks, õnnemängu või toto mängukoha avamise nõusolek antakse 5 kuni 20 aastaks. Valla- või linnavalitsus võib anda kirjaliku nõusoleku taotluses märgitust lühemaks ajaks.\n(2) Valla- või linnavalitsuse kirjaliku nõusoleku taotlemisel peab mängukoha avamise nõusolekut taotlev isik (edaspidi nõusoleku taotleja ) esitama:\n1) taotluse, millest nähtub taotluse täitnud isiku ametikoht, nimi ja allkiri, taotleja tegevusloa andmise otsuse number ja kuupäev ning taotletav korraldusloa kehtivusaeg;\n2) teabe kavandatava mängukoha asukoha ja lahtiolekuaegade kohta;\n3) mängukohaks planeeritava hoone või selle osa kohta dokumendi, mis näitab, et nõusoleku taotleja võib hoonet või selle osa kasutada õiguslikul alusel.\n(3) Valla- või linnavalitsuse nõudel on nõusoleku taotleja kohustatud andma ühe nädala jooksul täiendavat teavet korraldada soovitavate hasartmängude, nende korraldamise tingimuste ning kasutatava mänguinventari kohta.\n(4) Valla- või linnavalitsus keeldub nõusoleku andmisest, kui taotletav mängukoht asuks käesoleva seaduse § 37 lõikes 2 nimetatud kinnisasjal, lõikes 3 nimetatud piirkonnas või lõike 4 punkti 3 alusel määratletud piirkonnas. Valla- või linnavalitsus võib nõusoleku andmisest keelduda, kui hasartmängukorraldaja ei täida käesoleva paragrahvi lõikes 3 nimetatud kohustust.\n(5) Kui valla- või linnavalitsus on nõusoleku andmisest keeldunud, ei saa nõusoleku taotleja ega muu isik esitada taotlust samal aadressil mängukoha avamiseks enne 12 kuu möödumist taotluse esitamisest, kui selle aja jooksul ei ole määratletud käesoleva paragrahvi lõikes 4 nimetatud piirkonda.\n(6) Käesolevat paragrahvi ei kohaldata mängukohtadele, mis asuvad Eesti laevaregistrisse kantud laeval."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "28",
+      "title": "§ 28. Otsuse tegemine korraldusloa andmise kohta",
+      "content": "(1) Maksu- ja Tolliametil on õigus saada korraldusloa taotlemisel esitatud andmete kontrollimiseks korraldusloa taotlejalt ja riiklikest andmekogudest teavet.\n(2) Korraldusloa andmise otsuses märgitakse järgmised andmed:\n1) korraldusloa andmise otsuse number ja kuupäev;\n2) korraldusloa kehtivusaeg;\n3) hasartmängukorraldaja nimi, registrikood ja aadress;\n4) hasartmängu liik või alaliik ning kas hasartmängu korraldatakse kaughasartmänguna;\n5) käesoleva seaduse § 23 lõike 1 punktis 5 nimetatud isiku nimi ja ametikoht;\n6) korraldusloa andmise alus.\n(3) Toto, õnnemängu või osavusmängu mängukoha avamiseks antava korraldusloa andmise otsuses märgitakse lisaks mängukoha aadress ning otsuse tegemise ajal kehtivad ajalised piirangud hasartmängu korraldamise osas. Täiendava õnnemängu korraldusloa otsuses märgitakse kõik mängukohad, kus täiendavat õnnemängu korraldada tohib.\n(4)"
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "29",
+      "title": "§ 29. Korraldusloa andmisest keeldumine",
+      "content": "(1) Korraldusloa andmisest keeldutakse, kui korraldusloa taotleja on jätnud 30 päeva jooksul Maksu- ja Tolliameti vastavasisulise teate esitamisest arvates kõrvaldamata vähemalt ühe järgmistest puudustest:\n1) korraldusloa taotlejal ei ole käesoleva seaduse nõuetele vastavat kehtivat tegevusluba;\n2) taotleja ei ole tasunud riigilõivu;\n3) mängukoht või mänguinventar ei vasta käesolevas seaduses sätestatud nõuetele;\n4) mängureeglid rikuvad ilmselgelt mängijate õigusi või ei vasta käesoleva seaduse nõuetele;\n5) korraldusluba taotlev isik keeldub Maksu- ja Tolliametile põhjendamatult andmast käesoleva seaduse alusel nõutud täiendavat või olulist teavet;\n6) korraldusloa taotlemisel on esitatud tegelikkusele mittevastavaid või puudulikke andmeid;\n7) puudub valla- või linnavalitsuse nõusolek õnnemängu, toto või osavusmängu mängukoha avamiseks.\n(2) Korraldusloa andmisest võib keelduda, kui korraldusluba taotletakse kaughasartmängu korraldamiseks ja kaughasartmängu korraldamisel kasutatavat tarkvara sisaldav server asub väljaspool Eestit, arvutikuritegevusvastase konventsiooniga ühinenud riike ja riike, mille pädevad asutused on sõlminud Maksu- ja Tolliameti ning rahapesu andmebürooga koostöökokkuleppe hasartmängude järelevalvega seotud informatsiooni vahetamise kohta."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "30",
+      "title": "§ 30. Korraldusloa kehtetuks tunnistamise alused",
+      "content": "(1) Korraldusloa võib kehtetuks tunnistada, kui:\n1) hasartmängukorraldaja esitab talle antud korraldusloa kehtetuks tunnistamise taotluse;\n2) ilmneb käesoleva seaduse § 29 lõike 1 punktides 1, 3 või 6 nimetatud asjaolu;\n3) hasartmängukorraldaja ei ole järjest üle ühe aasta mõjuva põhjuseta tegelenud korraldusloa andmise otsuses märgitud kohas hasartmängude korraldamisega või korraldusloa andmise otsuses märgitud hasartmängu korraldamisega;\n4) hasartmängukorraldaja ei ole täitnud tähtajaks korrakaitseorgani ettekirjutust ning kohus ei ole ettekirjutust kehtetuks tunnistanud;\n5) hasartmängukorraldaja on hasartmängu või mängukoha reklaami suhtes kehtestatud regulatsiooni korduvalt rikkunud;\n6) hasartmängukorraldaja on pannud toime käesoleva seaduse §-des 74, 75 või 82–86 nimetatud väärteo;\n7) hasartmängukorraldaja ei ole täitnud talle käesoleva seadusega pandud kohustusi või on rikkunud käesolevast seadusest tulenevaid nõudeid.\n(2) Korraldusloa kehtetuks tunnistamise ettepaneku käesoleva paragrahvi lõike 1 punkti 5 alusel teeb Tarbijakaitse ja Tehnilise Järelevalve Amet või Politsei- ja Piirivalveamet."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "31",
+      "title": "§ 31. Otsus korraldusloa kehtetuks tunnistamise kohta",
+      "content": "(1) Korraldusloa kehtetuks tunnistamise otsus peab sisaldama järgmisi andmeid:\n1) hasartmängukorraldaja nimi, registrikood, korraldusloa andmise otsuse number ja kuupäev;\n2) otsuse tegemise kuupäev;\n3) korraldusloa kehtetuks tunnistamist tinginud asjaolud koos viitega käesoleva seaduse § 30 sellele lõikele ja punktile, mille alusel korraldusluba kehtetuks tunnistatakse.\n(2) Maksu- ja Tolliamet teatab korraldusloa kehtetuks tunnistamisest Politsei- ja Piirivalveametile ning rahapesu andmebüroole."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "2. peatükk - HASARTMÄNGUKORRALDAJA",
+      "section": "32",
+      "title": "§ 32. Korraldusloa kehtivuse lõppemine",
+      "content": "(1) Korraldusloa kehtivuse lõppemisel on hasartmängukorraldaja kohustatud sulgema mängukoha või lõpetama hasartmängu kättesaadavaks tegemise korraldusloa kehtetuks tunnistamise otsusel näidatud ajaks või korraldusloa kehtivuse lõppemise ajaks.\n(2) Kui kiirloterii korraldaja ei ole kõiki loteriipileteid korraldusloa kehtivuse lõppemiseks realiseerinud, tuleb järelejäänud loteriipiletid käibelt kõrvaldada ja hävitada 60 kalendripäeva jooksul korraldusloa kehtivuse lõppemisest arvates, kui Maksu- ja Tolliamet ei ole nõudnud nende üleandmist. Pärast kiirloterii korraldusloa kehtivuse lõppemist saadud võitude väljaandmine toimub vastavalt mängureeglitele."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "33",
+      "title": "§ 33. Hasartmängukorraldaja üldised kohustused hasartmängu korraldamisel",
+      "content": "(1) Hasartmängu korraldamisel on hasartmängukorraldaja kohustatud:\n1) tagama mängukohas avaliku korra ja mängijate turvalisuse;\n2) tagama, et ei mängiks ja mängukohas ei viibiks isik, kellel käesoleva seaduse § 34 alusel puudub õigus mängust osa võtta või mängukohas viibida;\n3) tagama, et kuriteo eest karistatud isiku tööülesandeks ei ole hasartmängude läbiviimine, otsuse tegemine hasartmängus osalemise õiguse kohta või hasartmängu üle kontrolli teostamine;\n4) tagama, et alla 21-aastase isiku tööülesandeks ei ole õnnemängu, loterii või toto läbiviimine, otsuse tegemine õnnemängus, loteriis või totos osalemise õiguse kohta või õnnemängu, loterii või toto üle kontrolli teostamine;\n5) tagama, et mängijale esitatakse selge hoiatus hasartmängudes osalemise sõltuvust tekitava iseloomu kohta ning viidatakse nende organisatsioonide kontaktandmetele, kes osutavad abi hasartmängusõltlastele;\n6) tagama piisavad meetmed isikute väljaselgitamiseks, kes kasutavad abivahendeid, mis võimaldavad endale või teistele hasartmängus eelise loomist või mängu tulemuse selgitamise juhuslikkuse takistamist ja välistama nende osalemise hasartmängus.\n7) tagama, et õnnemängu korraldamisel kasutatav mänguautomaat ei annaks korraga välja sularaha rohkem kui 2000 euro väärtuses.\n(2) Käesoleva paragrahvi lõike 1 punkti 1 ei kohaldata loteriikorraldajale. Käesoleva paragrahvi lõike 1 punktist 2 tulenevat kohaldatakse loteriikorraldajale üksnes kohustuse osas mitte lubada mängida isikul, kellel käesoleva seaduse § 34 alusel puudub õigus mängust osa võtta. Käesoleva paragrahvi lõike 1 punktis 3 sätestatut ei kohaldata totokorraldajale, kui isiku tööülesandeks on üksnes toto panuste vastuvõtmine või kuni 640 euro väärtuses võitude väljamaksmine.\n(3) Valdkonna eest vastutav minister võib määrusega kehtestada:\n1) loetelu organisatsioonidest, kellele viitamine käesoleva paragrahvi lõike 1 punkti 5 kohaselt on kohustuslik;\n2) täpsemad nõuded käesoleva paragrahvi lõike 1 punktis 5 nimetatud hoiatuse esitamise viisile, sisule ja kujundusele."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "34",
+      "title": "§ 34. Piirangud hasartmängus osalemisele",
+      "content": "(1) Hasartmängu mängija peab olema füüsiline isik. Hasartmängukorraldaja ei tohi sõlmida mängijaga krediidilepingut panuse tegemise võimaldamiseks ega võimaldada mängijal mängukohas krediidilepingu sõlmimist teise isikuga.\n(2) Alla 21-aastane isik ei tohi õnnemängu, kaughasartmänguna korraldatavat õnnemängu ega kaughasartmänguna korraldatavat osavusmängu mängida. Samuti on keelatud alla 21-aastasel isikul õnnemängu mängukohas viibida. Alla 21-aastane isik tohib viibida üksnes Eesti laevaregistrisse kantud reisijatevedu teostaval laeval asuvas õnnemängu mängukohas, kus asuval mänguautomaadil või mängulaual ei ületa suurim võimalik panus ühes õnnemängus osalemise õiguse saamiseks 10 eurot ja suurim võimalik ühe õnnemängu tulemusel saadav võit 2000 eurot.\n(3) Totot ei tohi mängida alla 18-aastased isikud.\n(4) Loteriid ei tohi mängida alla 16-aastased isikud.\n(5) Õnnemängu mängukohta on keelatud kaasa võtta või õnnemängu mängimisel kasutada abivahendeid, mis võimaldavad endale või teistele hasartmängus eelise loomist või mängu tulemuse selgitamise juhuslikkuse takistamist.\n(6) Totos panuse tegemine on keelatud isikul, kes mõjutab või võib mõjutada ennustatud sündmuse toimumist, toimumata jäämist või toimumise viisi või sündmuse tulemust."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "35",
+      "title": "§ 35. Mängureeglid",
+      "content": "(1) Hasartmängu korraldatakse hasartmängu korraldava isiku juhatuse otsusega kinnitatud mängureeglite kohaselt, mis peavad sisaldama:\n1) hasartmängukorraldaja ärinime ja olemasolu korral registrikoodi;\n2) mängu kirjeldust, sealhulgas osalemise tingimusi ja korda;\n3) võidu saamise tõenäosust, selle arvulise väljendamise võimatuse korral võitja ja võidu suuruse määratlemise reegleid;\n4) võitude väljaandmise kohta, korda ja lõpptähtaega;\n5) mängijate esitatavate pretensioonide lahendamise korda ja tähtaega.\n(2) Hasartmängu mängureegleid võib muuta üksnes Maksu- ja Tolliameti kirjalikul nõusolekul. Maksu- ja Tolliamet otsustab nõusoleku andmise 15 tööpäeva jooksul mängureeglite saamisest arvates. Maksu- ja Tolliamet keeldub nõusoleku andmisest käesoleva seaduse § 29 lõike 1 punktis 4 nimetatud alustel.\n(3) Mängureeglid peavad olema mängukohas nähtaval või need tuleb esitada viivitamata mängija nõudmisel.\n(4) Mängureeglitega võib mängijate kaitseks kehtestada mõistlikud, ühetaolised ja mittediskrimineerivad piirangud.\n(5) Hasartmängukorraldaja ei vastuta tehingu tegemata jätmisest, mittetähtaegsest tegemisest või teenuse osutamise piiramisest tuleneva kahju eest, kui tehingu tegemata jätmine, mittetähtaegne tegemine või teenuse osutamise piiramine oli põhjustatud käesoleva paragrahvi lõike 4 kohaselt kehtestatud piirangust."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "36",
+      "title": "§ 36. Mänguinventar",
+      "content": "(1) Mänguinventar on iga seade, vahend, riist- või tarkvara, mida hasartmängukorraldaja kasutab hasartmängu korraldamiseks.\n(2) Mänguautomaat on hasartmängu tulemuse väljaselgitamiseks või hasartmängu korraldamiseks valmistatud elektrooniline, mehaaniline või elektromehaaniline mänguinventar.\n(3) Mängulaud on mänguinventar, mis hasartmängu korraldamiseks valmistatud lauana võimaldab mängutulemuste määramist mehaaniliselt või hasartmängukorraldaja töötajaks oleva krupjee või diileri vahendusel.\n(4) Tark- ja riistvara, mida kasutatakse õnnemängu korraldamisel mänguautomaadil või kaughasartmänguna, peavad tagama, et keskmine mängu tulemusena mängijatele tehtud väljamaksete summa on suurem kui 80 protsenti kõikide panuste summast.\n(5) Enne hasartmängu korraldamise alustamist õnnemängudeks või osavusmängudeks kasutataval mänguautomaadil, tuleb Maksu- ja Tolliametile edastada nimetatud mänguautomaadi ja selle tarkvara andmed, võimaldamaks mänguautomaadi ja tarkvara identifitseerimist ning seaduse nõuetele vastavuse kontrolli. Nõutavate andmete koosseisu ja esitamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(6) Kui üks õnnemängu või osavusmängu korraldamiseks kasutatav mänguautomaat võimaldab samaaegselt panuseid teha või mängida mitmel mängijal, käsitatakse seda vastavalt võimalike mängijate arvule mitme mänguautomaadina."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "37",
+      "title": "§ 37. Nõuded mängukohale",
+      "content": "(1) Õnnemängu mängukoht võib asuda üksnes:\n1) eraldi hoones;\n2) hotellis, konverentsi- või meelelahutuskeskuses;\n3) ärihoones või kaubanduskeskuses, kui õnnemängu mängukohta ei saa siseneda ärihoone või kaubanduskeskuse muude ruumide kaudu ja kui samas hoones ei asu eluruume.\n(2) Õnnemängu, toto või osavusmängu mängukoht ei või asuda koolieelse lasteasutuse, põhikooli, gümnaasiumi, kutseõppeasutuse, huvikooli, noorte püsilaagri, laste hoolekandeasutuse või noorsootööasutuse kasutuses oleval kinnisasjal.\n(3) Üldplaneeringu või detailplaneeringuga võib määratleda piirkonna, kus õnnemängu mängukoht ei tohi asuda.\n(4) Valla- või linnavolikogu määrusega:\n1) võib kehtestada valla- või linnavalitsuse territooriumil asuvate õnnemängu mängukohtade lahtiolekuaegadele ühtse piirangu;\n2) võib keelata eraldi hoones asuva õnnemängu mängukoha avamise või selle lahtiolekuaega täiendavalt piirata, kui mängukoht asuks käesoleva paragrahvi lõikes 2 nimetatud kinnisasja vahetus läheduses;\n3) määratletakse piirkond, mida peetakse käesoleva paragrahvi lõikes 2 nimetatud kinnisasja vahetus läheduses olevaks.\n(5) Õnnemängu või toto mängukohas on lubatud tegeleda üksnes õnnemängu või toto korraldamisega seonduvate kõrvaltegevustega, sealhulgas toitlustamise, valuutavahetuse ning vaba aja ja kultuuriürituste korraldamisega.\n(6) Õnnemängu mängukohas peab olema vähemalt 40 mänguautomaati, mille kohta on Maksu- ja Tolliametile edastatud käesoleva seaduse § 36 lõikes 5 nimetatud andmed, või vähemalt viis mängulauda. Arvesse võetakse üksnes sellised mänguautomaadid ja mängulauad, millelt on tasutud hasartmängumaks.\n(7) Õnnemängu või toto mängukohas peab olema nähtaval kohal mõistliku suurusega eestikeelne hoiatus hasartmängudes osalemise sõltuvust tekitava iseloomu kohta ning nende organisatsioonide kontaktandmed, kes osutavad abi hasartmängusõltlastele.\n(8) Õnnemängu korraldaja on kohustatud tuvastama õnnemängu mängukohta sisenevate isikute isikusamasuse. Isikusamasuse tuvastamisel registreeritakse järgmised andmed:\n1) ees- ja perekonnanimi;\n2) isikukood, selle puudumisel sünniaeg;\n3) isikut tõendava dokumendi nimetus, selle seerianumber, väljaandmise aeg ja koht;\n4) õnnemängu mängukohta saabumise kellaaeg ja kuupäev.\n(9) Käesoleva paragrahvi lõike 8 punktides 1–3 nimetatud andmete registreerimiseks esitab õnnemängu mängukohta siseneda sooviv isik isikut tõendava dokumendi. Isikut tõendava dokumendi isikuandmetega leheküljest tehakse koopia ning käesoleva paragrahvi lõikes 8 nimetatud andmed kantakse elektrooniliselt peetavasse andmekogusse.\n(10) Enne isiku sisenemist õnnemängu mängukohta kontrollib õnnemängu korraldaja õnnemängu mängukohta külastanud isikute kohta elektrooniliselt peetavas andmekogus olevaid andmeid isikusamasuse tuvastamiseks esitatud isikut tõendava dokumendi alusel ning märgib andmekogusse isiku õnnemängu mängukohta saabumise kellaaja ja kuupäeva.\n(11) Andmetega võib tutvuda, neist väljavõtteid saada või nende kohta õnnemängu korraldajaga kokkulepitud andmeturvameetmetel ning arvutivõrgul põhineva andmevahetussüsteemi abil päringuid teha üksnes:\n1) korrakaitseorgan riikliku järelevalve teostamisel;\n2) kohus kohtumenetluses;\n3) kriminaalasjas eeluurimist teostav asutus;\n4) Maksu- ja Tolliamet seoses maksuasja menetlemisega;\n5) rahapesu andmebüroo;\n6) julgeolekuasutus julgeolekuasutuste seaduses sätestatud ülesannete täitmiseks;\n7) isik ise enda kohta käivate andmete osas.\n(12) Isikul on õigus enda kohta käivate andmete osas tutvuda ka järgmiste andmetega:\n1) tema andmed saanud asutuse andmed;\n2) viide andmetele, millele võimaldati juurdepääs;\n3) andmetele juurdepääsu viis;\n4) andmetele juurdepääsu õiguslik alus ja andmete väljastamise aeg.\n(13) Andmekogus olevaid kandeid isiku kohta säilitatakse kuni viis aastat isiku viimasest õnnemängu mängukoha külastusest. Pärast nimetatud tähtaja möödumist andmed kustutatakse.\n(14) Õnnemängu või toto korraldaja peab tagama õnnemängu või toto mängukoha sisese ning välise videojärelevalve, et täita käesoleva seaduse § 33 lõikes 1 nimetatud kohustused. Salvestised tuleb säilitada vähemalt 14 päeva salvestamise hetkest arvates. Salvestistega võib tutvuda, neist väljavõtteid saada või nende kohta õnnemängukorraldajaga kokkulepitud andmeturvameetmetel ning arvutivõrgul põhineva andmevahetussüsteemi abil päringuid teha üksnes käesoleva paragrahvi lõike 11 punktides 1–6 nimetatud asutus.\n(15) Käesoleva paragrahvi lõigetes 1–4 ja 6 sätestatut ei kohaldata Eesti laevaregistrisse kantud reisijatevedu teostaval laeval asuvale õnnemängu mängukohale. Käesoleva paragrahvi lõigetes 8–13 sätestatut ei kohaldata Eesti laevaregistrisse kantud reisijatevedu teostaval laeval asuvale õnnemängu mängukohale, kus suurim võimalik panus ühes õnnemängus osalemise õiguse saamiseks ei ületa 10 eurot ja suurim võimalik ühe õnnemängu tulemusel saadav võit ei ületa 2000 eurot."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "38",
+      "title": "§ 38. Nõuded õnnemängu mänguautomaadile",
+      "content": "(1) Õnnemängu korraldamiseks kasutatav mänguautomaat peab:\n1) mängutulemuste väljaselgitamiseks kasutama juhuslikkuse generaatorit;\n2) elektrikatkestuse korral tagama andmete säilimise;\n3) olema kaitstud väliste, sealhulgas elektromagnetiliste, elektrostaatiliste ning raadiolainetest tulenevate mõjutuste eest.\n(2) Mängulaua või mänguautomaadi elektrooniline ühendatus teiste süsteemidega ei tohi omada mõju mängutulemuse selgitamise juhuslikkusele.\n(3) Mänguautomaadil õnnemängu korraldamisel peab mänguautomaadi diagnostikasüsteem kontrollima mänguautomaadi kõiki süsteeme ja nende korrasolekut.\n(4) Kui diagnostikasüsteem tuvastab mängu korraldamises vea, mis võib mõjutada mängu tulemust, käibe arvestust või elektroonilise arvestus- ja kontrollsüsteemi poolt andmete salvestamist, peab diagnostikasüsteem kohe võimaldama elektroonilisel arvestus- ja kontrollsüsteemil salvestada mänguautomaadi või mängu korraldamiseks kasutatava tarkvara vea andmed ja tekkimise aja ning peatama mänguautomaadil õnnemängu korraldamise.\n(5) Diagnostikasüsteem peab registreerima ja salvestama vähemalt viie viimase mängu tulemused ning mängu jooksul toimunud tegevused.\n(6)"
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "39",
+      "title": "§ 39. Hasartmängu mängimise piirangutega isikute nimekiri",
+      "content": "(1) Hasartmängu mängimise piirangutega isikute nimekiri (edaspidi nimekiri ) on maksukorralduse seaduse § 17 lõike 1 alusel asutatud maksukohustuslaste registri alamregister. Nimekirja pidamise kord sätestatakse maksukohustuslaste registri põhimäärusega.\n(1^1) Nimekirja pidamise eesmärk on pakkuda isikutele võimalust piirata enda poolt hasartmängude mängimist, et vähendada isikule ja ühiskonnale hasartmängude mängimisega kaasneda võivaid negatiivseid sotsiaalseid ja majanduslikke tagajärgi.\n(2)\n(3) Nimekirja kantakse isik tema kirjaliku avalduse alusel tähtajatult, kuid avalduses märgib isik tähtaja, mille möödudes võib ta teha uue avalduse enda nimekirjast kustutamiseks. Nimekirja kandmise avalduses märgitud tähtaega arvestatakse avalduse esitamise kuupäevast alates ning see ei tohi olla kuuest kuust lühem ega kolmest aastast pikem.\n(4) Avaldus esitatakse Maksu- ja Tolliametile või õnnemängu, toto või klassikalise loterii korraldajale, kes edastab selle viivitamata Maksu- ja Tolliametile. Avaldusele lisatakse avalduse esitaja isikut tõendava dokumendi koopia.\n(5) Nimekirja kantakse isiku kohta järgmised andmed:\n1) ees- ja perekonnanimi;\n2) isikukood või selle puudumise korral sünnikuupäev, -kuu ja -aasta;\n3) avalduse esitamise kuupäev;\n4) tähtaeg, mille möödumisel saab isik esitada avalduse oma andmete nimekirjast kustutamiseks;\n5) kas isik soovib piirata õnnemängu mängimist;\n6) kas isik soovib piirata toto mängimist;\n7) kas isik soovib piirata klassikalise loterii mängimist.\n(6) Nimekirja kantud andmetega võivad tutvuda järelevalve teostaja, hasartmängukorraldaja töötaja, kellele see on tööülesannete täitmiseks vajalik, ja isik enda kohta käivate andmete osas. Hasartmängu korraldajal on keelatud nimekirja kantud andmeid töödelda tarbijaharjumuste uurimiseks või otseturustuseks ja neid üle anda kolmandale isikule.\n(7) Isiku avaldust nimekirja kandmiseks või nimekirjast kustutamiseks ei saa tagasi võtta ja sellel ei ole tagasiulatuvat jõudu.\n(8) Õnnemängu, toto ja klassikalise loterii korraldajad peavad kehtestama meetmed, mis tagavad, et nimekirja kantud isikul ei võimaldata mängida nende korraldatavaid hasartmänge, mille mängimisele on isik nimekirja kandmisel piirangu seadnud.\n(9) Käesoleva paragrahvi lõikes 3 nimetatud avaldust, selle lisa ja logifaile säilitab Maksu- ja Tolliamet ühe aasta isiku nimekirjast kustutamisest arvates."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "40",
+      "title": "§ 40. Õnnemänguturniiri korraldamine",
+      "content": "(1) Õnnemänguturniiri korraldamise õigus on isikul, kellele on väljastatud õnnemängude korraldamise tegevusluba. Õnnemänguturniiri võib korraldada õnnemängu mängulaual, õnnemängu mänguautomaadil või kaughasartmänguna. Kui õnnemänguturniiri korraldatakse õnnemängu mänguautomaadil, ei tohi õnnemänguturniiri võidufondi summa ületada panuste summat.\n(2) Enne õnnemänguturniiri korraldamist, välja arvatud juhul, kui õnnemänguturniiri korraldatakse ringmängu või kaughasartmänguna, peab korraldaja Maksu- ja Tolliametile esitama kirjalikult taasesitatavas vormis teate, milles on märgitud:\n1) õnnemänguturniiri korraldamise aeg ja koht;\n2) millises õnnemängus õnnemänguturniiril osalejad võistlevad;\n3) õnnemänguturniiri reeglid ning võitja väljaselgitamise kord;\n4) osavõtutasu suurus;\n5) võidufondi suurus, selle arvulise väljendamise võimatuse korral võidufondi kindlaksmääramise reeglid."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "41",
+      "title": "§ 41. Osavusmängu korraldamine",
+      "content": "(1) Osavusmänguautomaadi vahendusel korraldatud osavusmängu võit peab olema ese, mis ei ole raha, ning selle väärtus ei tohi ületada 50 eurot. Osavusmängu võidu võib välja anda üksnes osavusmänguautomaat ning osavusmängukorraldaja ei tohi vahetada osavusmängu võitu rahaks või teenuseks ega sõlmida teiste isikutega kokkuleppeid, mille kohaselt vahetataks osavusmängu võit rahaks või teenuseks.\n(2) Kaughasartmänguna korraldatud osavusmängu võidu väärtus ei tohi ületada 50 eurot.\n(3) Osavusmängukorraldaja peab osavusmängu korraldamisel tagama, et:\n1) oskustega mängijad saavutavad üldjuhul suuremaid võite kui oskusteta mängijad;\n2) mängija ei saavuta olulist võitu aktiivselt mängu sekkumata;\n3) mängija, kes otsustab mängida passiivselt, ei saavuta võitu või saavutab üksnes väheolulise võidu."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "42",
+      "title": "§ 42. Loteriipilet",
+      "content": "(1) Loteriipilet on loteriis osalemise õigust tõendav ese.\n(2) Loteriipiletil peavad olema järgmised andmed:\n1) loterii nimetus, korraldusloa number ning loteriikorraldaja nimi, aadress ja telefoninumber;\n2) loteriivõitude väljaandmise koht (kohad) ja tähtaeg;\n3) loteriimängija poolt tehtud panuse summa Eestis kehtivas vääringus;\n4) mängijate poolt esitatavate pretensioonide lahendamise kord viitega Interneti-aadressile, kus on olemas loterii mängureeglid;\n5) selge hoiatus loteriis osalemise sõltuvust tekitava iseloomu kohta ning nende organisatsioonide kontaktandmed, kes osutavad abi hasartmängusõltlastele.\n(3) Klassikalise loterii piletil peavad olema lisaks käesoleva paragrahvi lõikes 1 nimetatud andmetele:\n1) loteriivõitjate selgitamise aeg;\n2) loteriipileti kordumatu kood või arvud, millele loteriimängija on teinud panuse.\n(4) Kiirloterii iga pilet peab kandma unikaalset numbrit. Lisaks käesoleva paragrahvi lõikes 1 nimetatud andmetele peavad kiirloterii piletil olema järgmised andmed:\n1) loteriipiletite üldarv korraldatavas loteriis;\n2) võiduga piletite arv võitude lõikes.\n(5) Kõik kiirloterii piletid peavad olema varustatud Maksu- ja Tolliameti poolt heaks kiidetud turvaelementidega, mis vastavad kiirloterii korraldusloa taotlemisel koos loteriipileti kavandiga esitatud kirjeldusele.\n(6) Võiduga piletid kiirloterii piletite tiraažis peavad olema enne loteriikorraldajale üleandmist jaotatud juhuslikult. Loteriikorraldaja ei tohi mõjutada võiduga piletite paiknemist tiraažis."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "43",
+      "title": "§ 43. Loterii mängureeglid",
+      "content": "Loterii mängureeglid peavad lisaks käesoleva seaduse § 35 lõikes 1 nimetatule sisaldama:\n1) loteriipileti realiseerimishinda Eestis kehtivas vääringus, välja arvatud kaubandusliku loterii puhul, ning loteriipileti rikutuks tunnistamise korda;\n2) klassikalise loterii tulemuste selgitamise ja avalikustamise aega, kohta ja korda;\n3) kiirloterii piletite tiraaži;\n4) kiirloterii algus- ja lõpukuupäeva."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "44",
+      "title": "§ 44. Mittetulundusühingu ja sihtasutuse toetuseks loterii korraldamise taotlemine",
+      "content": "(1) Käesoleva seaduse § 9 lõikes 5 nimetatud äriühing võib korraldada loterii, et koguda rahalisi vahendeid mittetulundusühingu või sihtasutuse põhikirjalise eesmärgi toetuseks.\n(2) Mittetulundusühing või sihtasutus, kes soovib oma põhikirjalise eesmärgi toetuseks saada loterii korraldamisest rahalisi vahendeid (edaspidi toetus ), esitab Rahandusministeeriumile loterii korraldamise taotluse, milles on märgitud:\n1) mittetulundusühingu või sihtasutuse nimi ja registrikood;\n2) mittetulundusühingu või sihtasutuse asukoha aadress ja kontaktandmed;\n3) millise põhikirjalise eesmärgi toetuseks soovitakse loteriid korraldada.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud taotlusele lisatakse:\n1) mittetulundusühingu või sihtasutuse viimase kolme aasta majandusaasta aruanded, kui mittetulundusühing või sihtasutus on nii kaua tegutsenud ja majandusaasta aruanded pole kättesaadavad äriregistri elektroonilise teabesüsteemi kaudu;\n2) mittetulundusühingu või sihtasutuse kinnitus, et toetust kasutatakse üksnes käesoleva paragrahvi lõike 2 punktis 3 nimetatud põhikirjalise eesmärgi toetuseks;\n3) kirjeldus, kuidas mittetulundusühing või sihtasutus kohustub toetust jagama põhikirjalise eesmärgi saavutamist tagavate tegevuste vahel (edaspidi toetuse kasutamise plaan );\n4) kavandatava loterii kirjeldus, sealhulgas planeeritav loteriipiletite müügivõrgu kirjeldus.\n(4) Taotlusele võib lisada täiendavaid materjale ja selgitusi mittetulundusühingu või sihtasutuse tegevuse, eesmärkide ja maine kohta.\n(5) Käesoleva paragrahvi lõikes 2 nimetatud taotluse võib esitada mittetulundusühing või sihtasutus, mis on kantud tulumaksuseaduses sätestatud tulumaksusoodustusega mittetulundusühingute ja sihtasutuste nimekirja ning mis vastab nimekirja kantud mittetulundusühingutele ja sihtasutustele kehtestatud nõuetele."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "45",
+      "title": "§ 45. Mittetulundusühingu ja sihtasutuse toetuseks loterii korraldamine",
+      "content": "(1) Kui mittetulundusühing või sihtasutus vastab käesoleva seaduse § 44 lõikes 5 nimetatud nõuetele, esitab Rahandusministeerium loterii korraldamise taotluse käesoleva seaduse § 9 lõikes 5 nimetatud äriühingule arvamuse avaldamiseks.\n(2) Käesoleva seaduse § 9 lõikes 5 nimetatud äriühing koostab ühe kuu jooksul käesoleva paragrahvi lõikes 1 nimetatud taotluse saamisest arvates kirjaliku arvamuse, mis sisaldab hinnangu vähemalt järgmistele asjaoludele:\n1) kas loterii korraldamine on kooskõlas vastutustundliku loteriimängimise põhimõtetega ja liigse mängimise ennetamise eesmärgiga;\n2) loterii korraldamise majanduslikule otstarbekusele.\n(3) Arvamus edastatakse kirjalikku taasesitamist võimaldavas vormis Rahandusministeeriumile ja käesoleva seaduse § 44 lõikes 2 nimetatud taotluse esitanud mittetulundusühingule või sihtasutusele.\n(4) Mittetulundusühingule või sihtasutusele üle kantav toetus peab moodustama vähemalt 55 protsenti loterii korraldamise müügitulu ja kulude vahest. Kuludena arvestatakse loterii korraldamise otseseid kulusid ja loterii korraldamisega seotud kaudseid kulusid.\n(5) Käesoleva seaduse § 9 lõikes 5 nimetatud äriühing jätab toetuse mittetulundusühingule või sihtasutusele üle kandmata või see kantakse tagasi käesoleva seaduse § 9 lõikes 5 nimetatud äriühingule, kui loterii korraldamise ajal:\n1) esitab mittetulundusühing või sihtasutus käesoleva seaduse § 9 lõikes 5 nimetatud äriühingule avalduse toetusest loobumiseks;\n2) on Vabariigi Valitsuse korraldusega mittetulundusühingult või sihtasutuselt võetud õigus toetust saada;\n3) on mittetulundusühing või sihtasutus kustutatud mittetulundusühingute ja sihtasutuste registrist;\n4) on Vabariigi Valitsus otsustanud mittetulundusühingu või sihtasutuse kustutada tulumaksuseaduses sätestatud tulumaksusoodustusega mittetulundusühingute ja sihtasutuste nimekirjast.\n(6) Mittetulundusühing või sihtasutus esitab käesoleva seaduse § 9 lõikes 5 nimetatud äriühingule Eestis tegutseva krediidiasutuse garantii loterii korraldamise eeldatavate kulude ulatuses.\n(7) Mittetulundusühingul või sihtasutusel ei ole õigust nõuda käesoleva seaduse § 9 lõikes 5 nimetatud äriühingult selle müügivõrgu kasutamisõigust."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "46",
+      "title": "§ 46. Vabariigi Valitsuse otsus loterii korraldamiseks",
+      "content": "(1) Rahandusministeerium esitab materjalid kolme kuu jooksul pärast kõigi käesoleva seaduse § 44 lõigetes 2 ja 3 nimetatud andmete ja dokumentide saamist Vabariigi Valitsuse istungile, kes otsustab mittetulundusühingule või sihtasutusele loterii korraldamisest toetuse saamiseks loa andmise või sellest keeldumise.\n(2) Käesoleva seaduse § 9 lõikes 5 nimetatud äriühing lähtub loterii korraldusloa taotluse esitamisel käesoleva seaduse teise peatüki kolmandas jaos sätestatud korrast ja Vabariigi Valitsuse otsusest.\n(3) Kui mittetulundusühing või sihtasutus rikub toetuse kasutamise plaani või ei kasuta toetust käesoleva seaduse § 44 lõike 2 punktis 3 nimetatud põhikirjalise eesmärgi toetuseks, võib Vabariigi Valitsuse korraldusega mittetulundusühingult või sihtasutuselt võtta õiguse toetust saada.\n(4) Mittetulundusühing või sihtasutus, kes on käesoleva paragrahvi lõikes 3 nimetatud alusel kaotanud õiguse toetust saada, ei saa toetuse saamist taotleda kolme aasta jooksul käesoleva paragrahvi lõikes 3 nimetatud Vabariigi Valitsuse korralduse jõustumisest arvates."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "47",
+      "title": "§ 47. Kaubanduslik loterii",
+      "content": "(1) Kaubanduslikus loteriis osalemise õigus omandatakse koos kauba või teenuse omandamisega. Täiendavate varaliste kohustuste võtmise nõudmine kaubanduslikus loteriis osalejalt on keelatud.\n(2) Kaubandusliku loterii korraldamisele ei laiene käesoleva seaduse 2. peatükk ega §-s 33, § 34 lõikes 4, § 42 lõike 2 punktides 3–5 ja lõikes 5 nimetatud nõuded.\n(3) Kaubandusliku loterii mängureeglid peavad lisaks käesoleva seaduse § 35 lõikes 1 ja § 43 punktides 2–4 nimetatule sisaldama andmeid väljaantavate võitude kohta, sealhulgas võidu rahalist väärtust.\n(4) Maksu- ja Tolliametil on õigus kontrollida kaubandusliku loterii tulemuse selgitamise juhuslikkust ning vastavust mängureeglitele.\n(5) Kaubandusliku loterii võidufond võib olla kuni 100 000 eurot."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "48",
+      "title": "§ 48. Teatamiskohustus",
+      "content": "(1) Kaubandusliku loterii korraldamiseks peab esitama majandustegevusteate Maksu- ja Tolliametile.\n(2) Lisaks majandustegevuse seadustiku üldosa seaduses sätestatule esitatakse teates järgmised andmed:\n1) kaubanduslikus loteriis osalemise algus- ja lõpukuupäev, tulemuse selgitamise ja avalikustamise koht, viis ja kuupäev ning võitude väljaandmise koht, viis ja ajavahemik;\n2) kaubandusliku loterii võidufondi väärtus.\n(3) Lisaks majandustegevuse seadustiku üldosa seaduses sätestatule kantakse registrisse järgmised andmed:\n1) kaubandusliku loterii mängureeglid;\n2) kaubanduslikus loteriis osalemise algus- ja lõpukuupäev ning tulemuse selgitamise ja avalikustamise koht, viis ja kuupäev;\n3) kaubandusliku loterii võidufondi väärtus.\n(4) Teatamiskohustust ei ole krediidiasutuste seaduse § 6 lõike 1 punktides 4 ja 5 nimetatud teenuseid osutavatel ettevõtjatel."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "52",
+      "title": "§ 52. Kaughasartmängu korraldamine",
+      "content": "(1) Kaughasartmängu korraldamiseks kasutatavat tarkvara sisaldavas serveris peab säilitama andmeid mängija registreerimise, isikusamasuse tuvastamise ja kontrollimise, vanusepiirangust kinnipidamise kontrollimise, hasartmängu mängimise piirangu kontrollimise, mängusessiooni algatamise ning sisse- ja väljalogimise kohta käesoleva seaduse § 53 lõike 3 kohaselt.\n(2) Kaughasartmängu korraldamiseks kasutatavat tarkvara sisaldava serveri valdaja ja kaughasartmängu korraldaja peavad tagama korrakaitseorganitele piiramatu ligipääsu käesoleva paragrahvi lõikes 1 viidatud andmetele.\n(3) Kui server ei paikne Eestis, peab kaughasartmängu korraldaja enne serveri kasutamise alustamist kaughasartmängude korraldamiseks esitama Maksu- ja Tolliametile tõendid, et serveri asukohariigi hasartmängujärelevalve teostajal ja rahapesu tõkestamisega tegeleval asutusel on õiguslik alus ja võimalused teha koostööd Maksu- ja Tolliameti ning rahapesu andmebürooga.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud tõendeid koostöö tegemise õigusliku aluse ja võimaluste kohta ei pea esitama, kui server asub riigis, kes on ühinenud arvutikuritegevusvastase konventsiooniga või kelle pädevad asutused on sõlminud Maksu- ja Tolliameti ning rahapesu andmebürooga koostöökokkuleppe hasartmängujärelevalvega seotud informatsiooni vahetamise kohta.\n(5) Käesolevas jaotises sätestatut kohaldatakse ka toto korraldamisele, kui toto panus võetakse mängijatelt vastu ja võidud makstakse välja sidevahendi abil."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "53",
+      "title": "§ 53. Hasartmängukorraldaja kohustused hasartmängu korraldamisel kaughasartmänguna",
+      "content": "(1) Kaughasartmängu korraldamiseks peab hasartmängukorraldaja tagama:\n1) meetmed Eestis kaughasartmängu mängivate, käesoleva seaduse § 34 lõigetes 2–4 nimetatud vanusest nooremate isikute mängimisvõimaluse välistamiseks;\n2) iga mängija isikusamasuse tuvastamise;\n3) iga mängija ees- ja perekonnanime, isikukoodi, selle puudumisel sünniaja ning mängukeskkonda sisenemise ja sealt lahkumise kellaaja ja kuupäeva registreerimise;\n4) arvepidamise iga mängija tehtud panuste, hasartmängukorraldaja kontole panuste tegemiseks tehtud maksete, mängijale tehtud tagasimaksete ja väljamakstud võitude kohta;\n5) panuste ja hasartmängukorraldaja kontole panuste tegemiseks tehtud maksete vastuvõtmise üksnes sama mängija arvelduskontolt või mängijalt sama hasartmängukorraldaja mängukohas;\n6) väljamaksete tegemise üksnes samale arvelduskontole, millelt mängija on teinud hasartmängukorraldaja kontole makse hasartmängus panuste tegemiseks;\n7) korrakaitseorganitele takistamatu juurdepääsu hasartmängu korraldamiseks kasutatavale mänguinventarile.\n(2) Hasartmängu korraldamisel kaughasartmänguna avaldab hasartmängukorraldaja igale mängijale:\n1) hasartmängukorraldaja nime, aadressi ning tegevusloa ja korraldusloa andmise otsuste numbrid;\n2) mängureeglid või viite Interneti-aadressile, kus reeglid on kättesaadavad;\n3) viite käesoleva seaduse §-st 34 tulenevatele nõuetele;\n4) tähelepanu äratava hoiatuse hasartmängudes osalemise sõltuvust tekitava iseloomu kohta ja nende organisatsioonide kontaktandmed, kes osutavad abi hasartmängusõltlastele;\n5) teabe kõikidest panuse tegemise, hasartmängukorraldaja kontole panuste tegemiseks tehtud maksetega seonduva arvepidamise või võitude väljamaksmisega tekkivatest kuludest, mis jäävad mängija kanda või mis kuuluvad tasaarveldamisele mängija saadud võidust või hasartmängukorraldaja kontole panuste tegemiseks tehtud maksetest.\n(3) Käesoleva paragrahvi lõike 1 punktides 2–4 nimetatud andmeid tuleb säilitada vähemalt viis aastat viisil, mis võimaldab nende esitamist Maksu- ja Tolliameti, politsei või rahapesu andmebüroo päringule vastates."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "54",
+      "title": "§ 54. Nõuded kaughasartmängude korraldamisel kasutatavale mänguinventarile",
+      "content": "(1) Hasartmängude korraldamisel kaughasartmänguna kasutatav mänguinventar peab tagama piisava kindlusega, et:\n1) hasartmängu tulemuse selgitamise juhuslikkust ei saa mõjutada hasartmängukorraldaja ega mõni teine isik;\n2) hasartmängu mängimisel olulist tähtsust omavad andmed säilitatakse mängu katkemise korral, olenemata katkestuse põhjusest;\n3) mängu katkestused, mängu tulemused ning mängusüsteemis tehtud muudatused registreeritakse.\n(2) Hasartmängude korraldamisel kaughasartmänguna võib Maksu- ja Tolliamet igal ajal nõuda sõltumatu eksperthinnangu esitamist kasutatava tarkvara vastavuse kohta käesoleva paragrahvi lõikes 1 sätestatud nõuetele.\n(3) Käesoleva paragrahvi lõike 1 punktides 2 ja 3 nimetatud andmeid tuleb säilitada vähemalt viis aastat viisil, mis võimaldab nende esitamist Maksu- ja Tolliameti, politsei või rahapesu andmebüroo päringule vastates."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "55",
+      "title": "§ 55. Mängijate kaitse kaughasartmängudes",
+      "content": "(1) Hasartmängukorraldaja peab enne mängija esmakordselt mängima lubamist tähelepanu ärataval moel pakkuma võimalust määrata ülempiir summale, mida mängija on ühe nädala või ühe kuu jooksul valmis selle korraldaja juures hasartmängu mängimise tulemusel kaotama. Korraldajal on keelatud võtta vastu panuseid, mis võivad mängija kaotust suurendada üle mängija määratud ülempiiri.\n(2) Ülempiir on mängija poolt vabalt valitav ja mängija peab saama seda tõsta ja langetada. Hasartmängukorraldaja ei tohi ülempiiri tõsta, kui mängija pole vastavat soovi selle esitamisest vähemalt 48 tunni möödumisel kinnitanud. Hasartmängukorraldaja peab ülempiiri langetama kohe, kui mängija on sellise soovi esitanud.\n(3)\n(4) Mängijale peab olema pidevalt kuvatud selge teave selle kohta, kui kaua ta on mänginud, ning tal peab olema võimalik tutvuda andmetega enda tehtud panustest ja saadud võitudest."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "56",
+      "title": "§ 56. Ebaseaduslikule kaughasartmängule juurdepääsu piiramine",
+      "content": "(1) Andmete talletamise teenuse osutaja on kohustatud Maksu- ja Tolliameti ettekirjutuse alusel selles märgitud tähtpäevaks kõrvaldama andmete talletamise teenuse kasutaja poolt talletatava, ebaseadusliku kaughasartmängu pakkumiseks kasutatava teabe või tõkestama sellele juurdepääsu.\n(2) Interneti-ühendust pakkuv üldkasutatava elektroonilise side teenuse osutaja on kohustatud Maksu- ja Tolliameti ettekirjutuse alusel ja selles märgitud tähtpäevaks blokeerima ettekirjutuses määratletud ebaseadusliku kaughasartmängu domeeninime talle kuuluvates nimeserverites ( Domain name server ).\n(3) Numbriloa omanik, kelle Eesti numeratsiooniplaanis olevat numbrit kasutatakse ebaseadusliku kaughasartmängu korraldamiseks, on kohustatud Maksu- ja Tolliameti ettekirjutuse alusel selles märgitud tähtpäevaks lõpetama selle numbri kasutamise võimaldamise ettekirjutuses määratletud ebaseadusliku kaughasartmängu korraldamiseks.\n(4) Meediateenuse osutaja on kohustatud Maksu- ja Tolliameti ettekirjutuse alusel selles märgitud tähtpäevaks lõpetama ettekirjutuses määratletud saate või programmi edastamise osas, milles selle saate või programmi vahendusel pakutakse ebaseaduslikku kaughasartmängu.\n(5) Käesoleva paragrahvi lõigetes 1–4 nimetatud teenuse osutaja, numbriloa omanik või meediateenuse osutaja ei vastuta käesolevast paragrahvist tulenevate kohustuse täitmisel tehingu tegemata jätmisest, mittetähtaegsest tegemisest, teenuse osutamise, numbri kasutamise või saate või programmi edastamise piiramisest tuleneva kahju eest. Käesolevast sättest kõrvalekalduv kokkulepe on tühine."
+    },
+    {
+      "provision_ref": "para56^1",
+      "chapter": "3. peatükk - HASARTMÄNGUDE KORRALDAMINE",
+      "section": "56^1",
+      "title": "§ 56^1. Makseteenuse pakkuja tegevus ebaseadusliku kaughasartmängu korraldamise tõkestamisel",
+      "content": "(1) Makseteenuse pakkuja on kohustatud Maksu- ja Tolliameti ettekirjutuse alusel lõpetama ebaseadusliku kaughasartmängu korraldamiseks kasutatava konto debiteerimise ja krediteerimise viivitamata pärast sellekohase ettekirjutuse saamist.\n(2) Makseteenuse pakkuja on kohustatud Maksu- ja Tolliameti ettekirjutuse alusel tegema kättesaadavaks informatsiooni lõikes 1 nimetatud kontol olevate vahendite ning ettekirjutuses määratletud ajavahemikul toimunud laekumiste ja väljamaksete kohta.\n(3) Kui käesoleva paragrahvi lõikes 1 nimetatud kontol on rahalisi vahendeid, avalikustab Maksu- ja Tolliamet oma kodulehel informatsiooni konto suhtes kehtestatud piirangutest ning määrab tähtaja, mille jooksul saab ebaseadusliku kaughasartmängu korraldamiseks kasutatud kontole makse teinud isik esitada Maksu- ja Tolliametile taotluse käesoleva paragrahvi lõikes 1 nimetatud kontol olevate rahaliste vahendite arvelt summa tagastamiseks tema tehtud makse ulatuses.\n(4) Maksu- ja Tolliamet teeb makse teinud isiku taotluse ja sellele lisatud andmete ja dokumentide alusel otsuse kontol olevate rahaliste vahendite tagastamise kohta 30 kalendripäeva jooksul käesoleva paragrahvi lõikes 3 nimetatud tähtaja möödumisest arvates ja teeb makseteenuse pakkujale ettekirjutuse käesoleva paragrahvi lõikes 1 nimetatud konto debiteerimiseks tagastamisele kuuluva summa ulatuses.\n(5) Kui käesoleva paragrahvi lõikes 1 nimetatud kontole jääb tähtaja möödudes rahalisi vahendeid, mille suhtes tagastamist taotletud ei ole või mille osas ei ole tagastamisnõude olemasolu tõendatud, teeb Maksu- ja Tolliamet makseteenuse pakkujale ettekirjutuse käesoleva paragrahvi lõikes 1 nimetatud konto debiteerimiseks selle summa ulatuses, kandes rahalised vahendid riigi tuludesse.\n(6) Makseteenuse pakkujal on õigus keelduda ärisuhte loomisest, tehingu tegemisest või teenuse pakkumisest, kui tehingus osalevat isikut või klienti on käesoleva paragrahvi lõike 1 alusel tehtud Maksu- ja Tolliameti ettekirjutuses nimetatud ebaseadusliku kaughasartmängu korraldajaks.\n(7) Makseteenuse pakkuja ei vastuta käesolevast paragrahvist tulenevate kohustuste täitmisel tehingu tegemata jätmisest, mittetähtaegsest tegemisest või teenuse osutamise piiramisest tuleneva kahju eest.\n(8) Valdkonna eest vastutav minister kehtestab käesoleva paragrahvi lõigetest 1–5 tuleneva kontol olevate rahaliste vahendite tagastamise taotlemise või riigi tuludesse kandmise korra määrusega."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "4. peatükk - HASARTMÄNGUKORRALDAJA ARUANDLUS JA HASARTMÄNGUDE KORRALDAMISE RIIKLIK JÄRELEVALVE",
+      "section": "57",
+      "title": "§ 57. Hasartmängukorraldaja aruandlus",
+      "content": "(1)\n(2)\n(3) Hasartmängukorraldaja on kohustatud teatama Maksu- ja Tolliametile viivitamata kõigist muudatustest tegevusloa või korraldusloa saamiseks esitatud andmetes."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "4. peatükk - HASARTMÄNGUKORRALDAJA ARUANDLUS JA HASARTMÄNGUDE KORRALDAMISE RIIKLIK JÄRELEVALVE",
+      "section": "58",
+      "title": "§ 58. Elektrooniline arvestus- ja kontrollsüsteem",
+      "content": "(1) Elektrooniline arvestus- ja kontrollsüsteem on elektrooniline sidevõrk, mis ühendab hasartmängukorraldaja õnnemängu automaate või täiendavaid õnnemänge või kaughasartmängu või toto korraldamiseks kasutatavat mänguinventari. Hasartmängukorraldaja peab tagama võimaluse elektroonilise arvestus- ja kontrollsüsteemi ühendamiseks Maksu- ja Tolliameti infosüsteemiga, et võimaldada ligipääs käesoleva paragrahvi kohaselt nõutavatele andmetele. Mängulaud peab olema ühendatud elektroonilise arvestus- ja kontrollsüsteemiga, kui mängulauas teostatakse arveldusi või mängu korraldatakse täielikult või osaliselt elektrooniliste vahenditega.\n(2) Elektrooniline arvestus- ja kontrollsüsteem peab tagama andmete registreerimise ja salvestamise viisil, mis võimaldab igal hetkel arvutada hasartmängukorraldaja käibe ning mängijatele tehtud väljamaksete protsendi kõikide panuste summast iga mänguautomaadi, süsteemi ühendatud mängulaua ning kaughasartmängu kohta.\n(3)\n(4)\n(5)\n(6)\n(7)\n(8) Elektroonilisse arvestus- ja kontrollsüsteemi salvestatud andmeid säilitatakse vähemalt viis aastat.\n(9) Elektrooniline arvestus- ja kontrollsüsteem peab salvestama logifailis süsteemi sisenemise ja sellest lahkumise ning süsteemis muudatuste tegemise ja tegija.\n(10) Valdkonna eest vastutav minister kehtestab määrusega:\n1) andmete loetelu, mis tuleb elektroonilises arvestus- ja kontrollsüsteemis registreerida iga mänguautomaadi, mängulaua, mänguautomaadil või mängulaual mängimist võimaldava tarkvara, kaughasartmängu, täiendava õnnemängu, õnnemänguturniiri ja toto kohta;\n2) elektroonilise arvestus- ja kontrollsüsteemiga ühendamata mängulaua ning õnnemänguturniiri, täiendava õnnemängu ja toto kohta elektroonilisse arvestus- ja kontrollsüsteemi andmete sisestamise korra;\n3) elektroonilise arvestus- ja kontrollsüsteemi Maksu- ja Tolliameti infosüsteemiga ühendamise korra;\n4) tehnilised nõuded elektroonilise arvestus- ja kontrollsüsteemi Maksu- ja Tolliameti infosüsteemiga ühendamise viisile ning ühenduse kaudu toimuva andmevahetuse tingimused ja korra.\n(11) Maksu- ja Tolliamet võib hasartmängukorraldajalt igal ajal nõuda sõltumatu eksperthinnangu esitamist elektroonilise arvestus- ja kontrollsüsteemi vastavuse kohta käesolevas paragrahvis nimetatud nõuetele."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "4. peatükk - HASARTMÄNGUKORRALDAJA ARUANDLUS JA HASARTMÄNGUDE KORRALDAMISE RIIKLIK JÄRELEVALVE",
+      "section": "59",
+      "title": "§ 59.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "4. peatükk - HASARTMÄNGUKORRALDAJA ARUANDLUS JA HASARTMÄNGUDE KORRALDAMISE RIIKLIK JÄRELEVALVE",
+      "section": "65",
+      "title": "§ 65. Täiendavad nõuded hasartmängukorraldaja raamatupidamisele",
+      "content": "(1) Hasartmängukorraldaja kasumiaruandes ei saldeerita omavahel tulusid ja kulusid. Saldeerida võib üksnes selliseid tulusid ja kulusid, mis ei ole tekkinud hasartmängukorraldaja põhitegevusest ja tulenevad ühest või mitmest samaliigilisest tehingust, mis ei avalda eraldivõetuna olulist mõju hasartmängukorraldaja majandustulemustele.\n(2) Tulude hulgas kajastatud panuste summa, kulude hulgas kajastatud mängijatele tehtud väljamaksete summa ning tulude hulgas kajastatud panuste summa ja kulude hulgas kajastatud mängijatele tehtud väljamaksete summa vahe esitatakse hasartmängukorraldaja poolt koostatava raamatupidamise aastaaruande lisas «Panused ja väljamakstud võidud» järgmiste alajaotustena:\n1) õnnemängud, eraldi iga alaliigi kohta;\n2) loteriid, eraldi iga alaliigi kohta;\n3) totod;\n4) osavusmängud.\n(3) Käesoleva paragrahvi lõike 2 punktides 1–4 nimetatud alajaotused tuuakse eraldi iga valla või linna kohta, kus hasartmängukorraldajal on korraldusluba hasartmängu korraldamiseks mängukohas.\n(4) Hasartmängukorraldaja, kes korraldab hasartmängu kaughasartmänguna või õnnemänguturniiri, näitab käesoleva paragrahvi lõikes 2 nimetatud summad lisas «Panused ja väljamakstud võidud» eraldi kaughasartmänguna korraldatavate hasartmängude ja õnnemänguturniiri osas.\n(5) Hasartmängukorraldaja esitab majandusaasta aruande lisana andmed isikute kohta, kellel majandusaasta lõpu seisuga oli hasartmängukorraldajas oluline osalus, näidates ära isikule kuuluva osaluse suuruse ja selle omamisega seotud asjaolud vastavalt käesoleva seaduse § 11 lõikele 2 ja väärtpaberituru seaduse § 10 lõikele 1.\n(6) Valdkonna eest vastutav minister kehtestab määrusega lisa «Panused ja väljamakstud võidud» vormi ja selle täitmise juhendi."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "4. peatükk - HASARTMÄNGUKORRALDAJA ARUANDLUS JA HASARTMÄNGUDE KORRALDAMISE RIIKLIK JÄRELEVALVE",
+      "section": "66",
+      "title": "§ 66. Riiklik järelevalve",
+      "content": "Riiklikku järelevalvet hasartmängude korraldamise üle teostab Maksu- ja Tolliamet."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "4. peatükk - HASARTMÄNGUKORRALDAJA ARUANDLUS JA HASARTMÄNGUDE KORRALDAMISE RIIKLIK JÄRELEVALVE",
+      "section": "67",
+      "title": "§ 67. Riikliku järelevalve erimeetmed",
+      "content": "Maksu- ja Tolliamet võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 45, 48, 49, 50, 51, 52 ja 53 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para67^1",
+      "chapter": "4. peatükk - HASARTMÄNGUKORRALDAJA ARUANDLUS JA HASARTMÄNGUDE KORRALDAMISE RIIKLIK JÄRELEVALVE",
+      "section": "67^1",
+      "title": "§ 67^1. Riikliku järelevalve erisused",
+      "content": "(1) Maksu- ja Tolliamet võib korrakaitseseaduse §-s 50 sätestatud tingimustel siseneda maatükile, ehitistesse, ruumidesse, laevadesse ja sõidukitesse, kus korraldatakse hasartmängu või mille kohta on alus arvata, et seal tegeletakse hasartmängu korraldamisega.\n(2) Maksu- ja Tolliamet võib käesoleva seaduse, selle alusel antud õigusaktide või mängureeglite rikkumise kahtluse korral piirata, muu hulgas plommi või pitseriga, kontrollimise tulemuste selgitamiseni mänguinventari kasutamist hasartmängu korraldamisel.\n(3) Maksu- ja Tolliamet võib selle kindlakstegemiseks, kas hasartmängu korraldamine vastab seadusele ja mängureeglitele, mängida kontrollitavat hasartmängu. Võidu korral kantakse tulu riigi tuludesse. Kui võit ei ole rahaline, võõrandab selle Maksu- ja Tolliamet riigivaraseaduses ja selle alusel kehtestatud õigusaktides sätestatud korras. Võõrandamise tulu kantakse riigi tuludesse."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "4. peatükk - HASARTMÄNGUKORRALDAJA ARUANDLUS JA HASARTMÄNGUDE KORRALDAMISE RIIKLIK JÄRELEVALVE",
+      "section": "68",
+      "title": "§ 68. Korrakaitseorgani õigused loteriipiletite kontrollimisel",
+      "content": "(1) Korrakaitseorganil on õigus loteriipiletite kontrollimiseks ära võtta müügikohtadest ja loterii korraldajalt loteriipileteid, kui:\n1) loterii korraldamiseks ei ole välja antud korraldusluba või korraldusluba on tunnistatud kehtetuks;\n2) on tekkinud kahtlus loteriipiletite vastavuses käesoleva seaduse nõuetele või Maksu- ja Tolliametile esitatud loteriipileti kavandile või turvaelementide kirjeldusele.\n(2) Nõuetele vastavate, ehtsate ja kehtiva korraldusloa alusel antud loteriipiletite eest tasub Maksu- ja Tolliamet või Politsei- ja Piirivalveamet loterii korraldajale loteriipiletite hinna ülekandega tema arvelduskontole 30 tööpäeva jooksul loteriipiletite äravõtmisest arvates. Loteriipiletite eest, mida pärast kontrollimist saab müüa, ei tasuta ning need tagastatakse loterii korraldajale posti teel väljastusteatega tähtkirjaga 15 tööpäeva jooksul korrakaitseorgani poolt kontrollakti tegemisest arvates.\n(3) Kui korrakaitseorgani äravõetud loteriipiletiga, mille eest kontrolli teostaja on tasunud, kaasneb võit, kantakse see riigi tuludesse. Kui võit ei ole rahaline, võõrandatakse see riigivaraseaduse ja selle alusel kehtestatud õigusaktidega sätestatud korras ja võõrandamise tulu kantakse riigi tuludesse."
+    },
+    {
+      "provision_ref": "para69^1",
+      "chapter": "4. peatükk - HASARTMÄNGUKORRALDAJA ARUANDLUS JA HASARTMÄNGUDE KORRALDAMISE RIIKLIK JÄRELEVALVE",
+      "section": "69^1",
+      "title": "§ 69^1. Õigus saada teavet kolmandalt isikult",
+      "content": "(1) Hasartmängu korraldamise seaduslikkuse kontrollimisel on korrakaitseorganil õigus nõuda kolmandatelt isikutelt, sealhulgas andmete talletamise teenuse osutajalt, Interneti-ühendust pakkuva üldkasutatava elektroonilise side teenuse osutajalt, numbriloa omanikult, meediateenuse osutajalt ja makseteenuse pakkujalt, teavet hasartmängude korraldamise riikliku järelevalve teostamiseks vajalike asjaolude kindlakstegemiseks, kui esineb avaliku korra rikkumine või sellise rikkumise oht. Vajaduse korral võib korrakaitseorgan kohustada kolmandat isikut teabe andmiseks ilmuma määratud ajal oma ametiruumidesse.\n(2) Enne kolmandalt isikult teabe nõudmist tuleb teabe saamiseks pöörduda hasartmängukorraldaja poole, välja arvatud juhul, kui korrakaitseorganil puuduvad andmed hasartmängukorraldaja asukoha kohta, hasartmängukorraldaja ei ole korrakaitseorganile teada oleval aadressil kättesaadav või takistab hasartmängu korraldamisega seotud asjaolude väljaselgitamist.\n(3) Kolmandalt isikult teabe nõudmiseks annab korrakaitseorgan korralduse, milles märgitakse selle hasartmängukorraldaja nimi, kelle hasartmänguga seoses teavet kogutakse, samuti kolmanda isiku poole pöördumise põhjus ja käesoleva paragrahvi lõikest 2 tulenev alus. Kui isikut kohustatakse ütluste andmiseks ilmuma korrakaitseorgani juurde, märgitakse korralduses ka ilmumise aeg ja koht. Isik võib taotleda korralduses antud kohustuse täitmise aja pikendamist.\n(4) Kolmanda isiku suulised ütlused protokollitakse ning protokollile võetakse ütluste andja allkiri. Allkirjastamisest keeldumise kohta tehakse protokolli märge."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "4. peatükk - HASARTMÄNGUKORRALDAJA ARUANDLUS JA HASARTMÄNGUDE KORRALDAMISE RIIKLIK JÄRELEVALVE",
+      "section": "70",
+      "title": "§ 70. Mängukoha ajutine sulgemine",
+      "content": "(1) Mängukoha, kus tuvastatakse käesoleva seaduse või muude hasartmängu korraldamist reguleerivate õigusaktidega kehtestatud nõuete rikkumine, mida ei ole võimalik kohe kõrvaldada ning mille tulemusena on mängijad seatud õigusaktide või mängureeglitega ettenähtust halvemasse olukorda, sulgeb hasartmängukorraldaja korrakaitseorgani ettekirjutuse alusel või peatab kaughasartmängu pakkumise kuni rikkumise kõrvaldamiseni.\n(2)"
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "4. peatükk - HASARTMÄNGUKORRALDAJA ARUANDLUS JA HASARTMÄNGUDE KORRALDAMISE RIIKLIK JÄRELEVALVE",
+      "section": "72",
+      "title": "§ 72. Kontrollakt",
+      "content": "(1) Kontrolli teostanud korrakaitseorgan on kohustatud koostama kontrollimise tulemuste kohta akti, mis tehakse kontrollitavale teatavaks ühe nädala jooksul kontrolli toimumisest või loteriipiletite äravõtmisest arvates. Kontrollaktis peavad sisalduma järgmised andmed:\n1) kontrolltoimingu nimetus;\n2) kontrollakti koostaja ametinimetus ning tema ees- ja perekonnanimi;\n3) kontrollakti koostamise koht ja kuupäev;\n4) viide kontrollimise aluseks olnud sättele;\n5) kontrollimise juures viibinud kontrollitava esindaja või hoone või ruumi valdaja esindaja ees- ja perekonnanimi ning ametinimetus;\n6) kontrollimise juures viibinud muu isiku ees- ja perekonnanimi ning ametinimetus;\n7) kontrollimise algus- ja lõpuaeg ning tingimused;\n8) kontrollimise käik ja tulemused vajaliku üksikasjalikkusega.\n(2) Kontrollaktile kirjutab alla selle koostaja. Kontrollakt jääb korrakaitseorganile, selle koopia jääb kontrollitud isikule või tema esindajale.\n(3) Kontrollitaval on õigus kahe nädala jooksul kontrollakti kättesaamisest arvates esitada kirjalikke selgitusi. Hiljem esitatud selgitusi vastu ei võeta."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "4. peatükk - HASARTMÄNGUKORRALDAJA ARUANDLUS JA HASARTMÄNGUDE KORRALDAMISE RIIKLIK JÄRELEVALVE",
+      "section": "73",
+      "title": "§ 73. Sunniraha ülemmäär",
+      "content": "Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär 3200 eurot. Kui ettekirjutus tehakse üldkasutatava andmesidevõrgu kaudu teavet edastavale või üldkasutatavale andmesidevõrgule juurdepääsu võimaldavale isikule või maksevahendajale, on rakendatava sunniraha ülemmäär 320 eurot."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "74",
+      "title": "§ 74. Keelatud hasartmängude korraldamine",
+      "content": "(1) Käesoleva seadusega keelatud hasartmängu korraldamise eest – karistatakse rahatrahviga kuni 200 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2600 eurot."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "75",
+      "title": "§ 75. Hasartmängu korraldamise nõuete rikkumine",
+      "content": "(1) Tegevusluba omava hasartmängukorraldaja poolt hasartmängu korraldamise eest ilma korraldusloata või korraldusloa andmise otsuses märkimata asukohas, samuti korraldusloa andmise otsuses märkimata hasartmängu korraldamise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2600 eurot."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "76",
+      "title": "§ 76. Hasartmängude korraldamisele suunatud tegevuse edasiandmise korra rikkumine",
+      "content": "(1) Hasartmängukorraldaja poolt hasartmängude korraldamisele suunatud tegevuse edasiandmise eest, kui selleks puudus Maksu- ja Tolliameti kirjalik nõusolek, või olulise hasartmängude korraldamisele suunatud tegevuse edasiandmise eest, kui sellega muutusid hasartmängukorraldaja kohustused mängijate ees või tingimused, millele vastavuse tõttu hasartmängukorraldajale anti tegevusluba või korraldusluba, – karistatakse rahatrahviga kuni 100 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2000 eurot."
+    },
+    {
+      "provision_ref": "para79",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "79",
+      "title": "§ 79. Hasartmängukorraldajas olulise osaluse omandamise korra rikkumine",
+      "content": "(1) Nõuetele mittevastavalt hasartmängukorraldajas osaluse omandamise, selle võõrandamise või hasartmängukorraldaja kontrollitavaks äriühinguks muutmise eest, samuti hasartmängukorraldajas hääleõiguse või muude kontrolli võimaldavate õiguste teostamise eest – karistatakse rahatrahviga kuni 100 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2000 eurot."
+    },
+    {
+      "provision_ref": "para82",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "82",
+      "title": "§ 82. Mängureeglite rikkumine ja mängija petmine",
+      "content": "(1) Kehtestatud mängureeglite rikkumise või mängija petmise, samuti kehtestatud mängureeglite mängijale tema soovi korral esitamata jätmise eest – karistatakse rahatrahviga kuni 200 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2600 eurot."
+    },
+    {
+      "provision_ref": "para83",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "83",
+      "title": "§ 83. Hasartmängu mängijatele kehtestatud vanusepiirangu rikkumine",
+      "content": "(1) Alla 21-aastasele isikule õnnemängu mängukohas viibimise või õnnemängu või kaughasartmänguna korraldatava osavusmängu mängimise võimaldamise või alla 18-aastasele isikule toto mängukohas viibimise või toto mängimise võimaldamise või alla 16-aastasele isikule loterii mängimise võimaldamise eest – karistatakse rahatrahviga kuni 200 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2600 eurot."
+    },
+    {
+      "provision_ref": "para86",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "86",
+      "title": "§ 86. Mängijate kaitseks kehtestatud meetmete järgimata jätmine",
+      "content": "(1) Hasartmängukorraldaja poolt käesoleva seaduse §-s 39 või 55 sätestatud nõuete rikkumise eest – karistatakse rahatrahviga kuni 100 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2000 eurot."
+    },
+    {
+      "provision_ref": "para87",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "87",
+      "title": "§ 87. Mänguinventarile esitatavate nõuete rikkumine",
+      "content": "(1) Hasartmängu juhuslikkuse takistamise või hasartmängu korraldamisel kasutatavale mänguinventarile käesolevas seaduses esitatavate nõuete rikkumise eest hasartmängukorraldaja poolt – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2600 eurot."
+    },
+    {
+      "provision_ref": "para88",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "88",
+      "title": "§ 88. Mängukohale esitatavate nõuete rikkumine",
+      "content": "(1) Keelatud majandustegevuse eest õnnemängu või toto mängukohas, mängukoha videojärelevalvele esitatud nõuete, samuti teiste käesoleva seaduse §-s 37 sätestatud mängukohale esitatavate nõuete rikkumise eest hasartmängukorraldaja poolt – karistatakse rahatrahviga kuni 200 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2600 eurot."
+    },
+    {
+      "provision_ref": "para89",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "89",
+      "title": "§ 89. Mängukohta sisenevate isikute tuvastamise ja registreerimise nõude rikkumine",
+      "content": "(1) Õnnemängukorraldaja poolt õnnemängu mängukohta sisenevate isikute isikusamasuse tuvastamata või registreerimata jätmise või registreerimisele kehtestatud nõuete rikkumise eest – karistatakse rahatrahviga kuni 100 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2000 eurot."
+    },
+    {
+      "provision_ref": "para90",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "90",
+      "title": "§ 90. Õnnemänguturniiri korraldamise nõuete rikkumine",
+      "content": "(1) Õnnemänguturniiri korraldamise eest isiku poolt, kellel ei ole selleks käesoleva seaduse alusel õigust, samuti õnnemänguturniirist Maksu- ja Tolliametile kirjalikult teatamata jätmise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2600 eurot."
+    },
+    {
+      "provision_ref": "para91",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "91",
+      "title": "§ 91. Osavusmängudele kehtestatud nõuete rikkumine",
+      "content": "(1) Osavusmänguautomaadi vahendusel korraldatud osavusmängu võiduna raha väljastamise, samuti mitterahalise võidu rahaks või teenuseks vahetamise eest, võidu väljastamise eest muul viisil kui osavusmänguautomaadi abil, osavusmängu võidu väärtusele kehtestatud piirangute rikkumise ja osavusmängude korraldamisele kehtestatud nõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2600 eurot."
+    },
+    {
+      "provision_ref": "para92",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "92",
+      "title": "§ 92. Kaughasartmängus osalemise võimaldamine",
+      "content": "(1) Maksu- ja Tolliameti ettekirjutuse vastaselt üldkasutatava elektroonilise side teenuse osutaja poolt või andmete talletamise teenuse osutaja poolt ebaseaduslikule kaughasartmängule juurdepääsu pakkumise eest või makseteenuse pakkuja poolt ebaseadusliku kaughasartmängu korraldamiseks kasutatava konto krediteerimise või debiteerimise eest, samuti meediateenuse osutaja, operaatori, telefoniteenuse ning mobiiltelefoniteenuse osutaja poolt ebaseadusliku kaughasartmängu korraldamiseks kasutatavate teenuste osutamise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2600 eurot."
+    },
+    {
+      "provision_ref": "para93",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "93",
+      "title": "§ 93. Kaughasartmängu panuste ja võitude vahendamine",
+      "content": "(1) Eestis tegevus- või korraldusluba mitteomavate hasartmängukorraldajate poolt korraldatavatele mängudele panuste või võitude vahendamise eest, kui selleks puudus Maksu- ja Tolliameti kirjalik nõusolek või sellega muutusid hasartmängukorraldaja kohustused mängijate ees, – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2600 eurot."
+    },
+    {
+      "provision_ref": "para94",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "94",
+      "title": "§ 94. Kohustuste rikkumine kaughasartmängu korraldamisel",
+      "content": "(1) Hasartmängukorraldaja poolt kaughasartmängu korraldamisel käesoleva seaduse §-s 53 nimetatud kohustuste täitmata jätmise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2600 eurot."
+    },
+    {
+      "provision_ref": "para95",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "95",
+      "title": "§ 95. Loterii korraldamise nõuete rikkumine",
+      "content": "(1) Loteriikorraldaja poolt nõuetele mittevastavate loteriipiletite käibele laskmise, loteriivõidu juhuslikkuse takistamise või loterii korraldamisele käesolevas seaduses kehtestatud nõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2600 eurot."
+    },
+    {
+      "provision_ref": "para97",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "97",
+      "title": "§ 97. Kaubandusliku loterii nõuete rikkumine",
+      "content": "(1) Kaubandusliku loterii võidufondile kehtestatud piirangu rikkumise või kaubanduslikus loteriis osalemise õiguse eest eraldi tasu võtmise eest – karistatakse rahatrahviga kuni 100 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2000 eurot."
+    },
+    {
+      "provision_ref": "para98",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "98",
+      "title": "§ 98. Alla 21-aastase isiku poolt hasartmängus osalemise piirangute rikkumine",
+      "content": "Alla 21-aastast isikut karistatakse õnnemängu või kaughasartmänguna korraldatava osavusmängu mängimise või õnnemängu mängukohas viibimise eest – rahatrahviga kuni 10 trahviühikut."
+    },
+    {
+      "provision_ref": "para99",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "99",
+      "title": "§ 99. Õnnemängu juhuslikkust takistavate abivahendite kasutamise keelu rikkumine",
+      "content": "Õnnemängu mängukohta abivahendite, mis võimaldavad endale või teistele õnnemängus eelise loomist või mängu tulemuste selgitamise juhuslikkuse takistamist, kaasa võtmise või õnnemängu mängimisel kasutamise eest – karistatakse rahatrahviga kuni 20 trahviühikut."
+    },
+    {
+      "provision_ref": "para100",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "100",
+      "title": "§ 100. Toto mängimise keelu rikkumine",
+      "content": "Toto mängimise eest isiku poolt, kes mõjutas või kellel oli võimalus mõjutada ennustatud sündmuse toimumist, toimumata jäämist või toimumise viisi ja kui puudub karistusseadustiku §-s 209 sätestatud süüteokoosseis, – karistatakse rahatrahviga kuni 20 trahviühikut."
+    },
+    {
+      "provision_ref": "para101",
+      "chapter": "5. peatükk - VASTUTUS HASARTMÄNGUSEADUSE RIKKUMISE EEST",
+      "section": "101",
+      "title": "§ 101. Menetlus",
+      "content": "(1) Käesoleva seaduse §-des 74–100 sätestatud väärtegude kohtuväline menetleja on Maksu- ja Tolliamet.\n(2) Käesoleva seaduse §-des 74, 82–91 ja 98–100 sätestatud väärtegude kohtuväline menetleja on ka Politsei- ja Piirivalveamet.\n(3) Maksu- ja Tolliamet või kohus võib konfiskeerida käesoleva seaduse §-des 74–100 sätestatud süüteo toimepanemise vahetuks objektiks olnud eseme vastavalt karistusseadustikule.\n(4) Politsei- ja Piirivalveamet võib konfiskeerida käesoleva seaduse §-des 74, 82–91 ja 98–100 sätestatud väärtegude toimepanemise vahetuks objektiks olnud eseme vastavalt karistusseadustikule."
+    },
+    {
+      "provision_ref": "para102",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "102",
+      "title": "§ 102. Kehtivad tegevusload ja korraldusload",
+      "content": "(1) Enne käesoleva seaduse jõustumist antud korraldusloa või osavusmängu mängukoha avamiseks antud linna- või vallavalitsuse kirjaliku nõusoleku alusel võib hasartmängu korraldada korraldusloal või nõusolekul märgitud tähtaja lõpuni. Nimetatud korraldusloa alusel tegutsevale õnnemängu või toto mängukohale ei kohaldata käesoleva seaduse § 37 lõiget 1.\n(2) Enne käesoleva seaduse jõustumist antud tegevusluba kehtib tegevusloal märgitud tähtajani. Tegevusloa omaja võib enne 2010. aasta 1. jaanuari esitada Maksu- ja Tolliametile dokumendid, mis tõendavad tema vastavust käesolevas seaduses hasartmängude korraldajale esitatavatele nõuetele. Kui hasartmängukorraldaja vastab käesolevast seadusest tulenevatele nõuetele, väljastatakse hasartmängukorraldajale käesoleva seaduse §-s 16 nimetatud hasartmängude korraldamise tegevusluba riigilõivuseaduses sätestatud hasartmängude korraldamise tegevusloa eest tasutava riigilõivu tasumise kohustuseta.\n(3) Enne käesoleva seaduse jõustumist antud korraldusloa alusel korraldatavat loteriid võib korraldada korraldusloal märgitud tähtaja lõpuni. Nimetatud loterii korraldusluba ei pikendata.\n(4) Enne käesoleva seaduse jõustumist antud tegevuslubade alusel tegutsevate hasartmängukorraldajate aktsia- või osakapital viiakse käesoleva seaduse § 9 lõigetes 4–6 sätestatud nõuetega vastavusse hiljemalt 2015. aasta 1. jaanuariks."
+    },
+    {
+      "provision_ref": "para103",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "103",
+      "title": "§ 103. Mängukohale esitatavate nõuete erisus",
+      "content": "Kuni 2009. aasta 31. detsembrini peab mängukohas, kus korraldatakse õnnemängu, olema vähemalt 20 Maksu- ja Tolliametis registreeritud mänguautomaati või vähemalt viis mängulauda, millelt on tasutud hasartmängumaks. Sellistele tingimustele vastavates mängukohtades asuvaid mänguautomaate sel ajavahemikul Maksu- ja Tolliametis ei registreerita, samuti ei nõua Maksu- ja Tolliamet sellistes mängukohtades asuvate mänguautomaatide kohta ekspertarvamuse esitamist enne 2010. aasta 1. jaanuari."
+    },
+    {
+      "provision_ref": "para103^1",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "103^1",
+      "title": "§ 103^1. Õnnemängu mängimise piirangutega isikute nimekirja kehtivus",
+      "content": "Isik, kes kanti õnnemängu mängimise piirangutega isikute nimekirja käesoleva seaduse redaktsiooni alusel, mis kehtis enne 2016. aasta 1. jaanuari, loetakse hasartmängu mängimise piirangutega isikute nimekirja kantud isikuks õnnemängu mängimise piiranguga isiku nimekirja kandmise avalduses sätestatud tingimustel."
+    },
+    {
+      "provision_ref": "para105",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "105",
+      "title": "§ 105.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para110",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "110",
+      "title": "§ 110.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para111",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "111",
+      "title": "§ 111. Seaduse jõustumine",
+      "content": "(1) Seadus jõustub 2009. aasta 1. jaanuaril.\n(2) Käesoleva seaduse § 22 lõike 1 punkt 4 ning §-d 26, 39, 52–56 ja 92–94 jõustuvad 2010. aasta 1. jaanuaril.\n(3) Käesoleva seaduse § 37 lõige 1 jõustub 2010. aasta 1. jaanuaril.\n(4) Käesoleva seaduse § 38 lõige 4, § 57 lõike 2 punkt 1 ja § 58 jõustuvad 2012. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": []
+}

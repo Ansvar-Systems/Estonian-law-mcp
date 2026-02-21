@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-22340",
+  "type": "statute",
+  "title": "Rahvusvahelise Elektersideliidu 1992. aasta Genfi erakorralise täievolilise konverentsi ja 1994. aasta Kyoto täievolilise konverentsi lõppaktide ratifitseerimise seadus",
+  "title_en": "Rahvusvahelise Elektersideliidu 1992. aasta Genfi erakorralise täievolilise konverentsi ja 1994. aasta Kyoto täievolilise konverentsi lõppaktide ratifitseerimise seadus",
+  "short_name": "ee-law-22340",
+  "status": "in_force",
+  "issued_date": "1995-09-26",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/22340.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise Elektersideliidu 1992. aasta Genfi erakorralise täievolilise konverentsi ja 1994. aasta Kyoto täievolilise konverentsi lõppaktide ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud Rahvusvahelise Telekommunikatsiooni Liidu 1992. aasta Genfi erakorralisel täievolilisel konverentsil vastuvõetud põhikiri, konventsioon ning põhikirja, konventsiooni ja administratiiveeskirjade rakendamisega seotud tülide kohustusliku lahendamise fakultatiivprotokoll, mis on alla kirjutatud 1992. aasta 22. detsembril Genfis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ratifitseerida juurdelisatud Rahvusvahelise Telekommunikatsiooni Liid 1994. aasta Kyoto täievolilisel konverentsil vastuvõetud põhikirja ja konventsiooni parandusdokumendid, mis on alla kirjutatud 1994. aasta 14. oktoobril Kyotos."
+    }
+  ],
+  "definitions": []
+}

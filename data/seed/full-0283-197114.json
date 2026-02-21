@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-197114",
+  "type": "statute",
+  "title": "Eesti Vabariigi ravikindlustusseadus",
+  "title_en": "Eesti Vabariigi ravikindlustusseadus",
+  "short_name": "ee-law-197114",
+  "status": "in_force",
+  "issued_date": "1991-06-12",
+  "in_force_date": "2002-10-01",
+  "url": "https://www.riigiteataja.ee/akt/197114.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi ravikindlustusseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

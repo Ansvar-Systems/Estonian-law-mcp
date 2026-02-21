@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-107062013007",
+  "type": "statute",
+  "title": "Eesti NSV taluseadus",
+  "title_en": "Eesti NSV taluseadus",
+  "short_name": "ee-law-107062013007",
+  "status": "in_force",
+  "issued_date": "1989-12-06",
+  "in_force_date": "2013-06-17",
+  "url": "https://www.riigiteataja.ee/akt/107062013007.xml",
+  "description": "Official consolidated statute text (Eesti NSV taluseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

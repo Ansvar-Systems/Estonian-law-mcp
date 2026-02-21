@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-26424",
+  "type": "statute",
+  "title": "Tööstuslike suurõnnetuste ärahoidmise konventsiooni ratifitseerimise seadus",
+  "title_en": "Tööstuslike suurõnnetuste ärahoidmise konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-26424",
+  "status": "in_force",
+  "issued_date": "2000-06-14",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/26424.xml",
+  "description": "Official consolidated statute text (Tööstuslike suurõnnetuste ärahoidmise konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud tööstuslike suurõnnetuste ärahoidmise konventsioon, mis on vastu võetud Rahvusvahelise Töökonverentsi poolt 1993. aasta 22. juunil Genfis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Konventsiooni artiklites 5, 6, 8 ja 12–19 nimetatud pädevad ametiasutused määrab Vabariigi Valitsus. Riigikogu esimees Toomas SAVI"
+    }
+  ],
+  "definitions": []
+}

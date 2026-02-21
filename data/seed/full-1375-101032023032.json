@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-101032023032",
+  "type": "statute",
+  "title": "Turvaseadus",
+  "title_en": "Turvaseadus",
+  "short_name": "TurvaS",
+  "status": "in_force",
+  "issued_date": "2003-10-08",
+  "in_force_date": "2024-07-01",
+  "url": "https://www.riigiteataja.ee/akt/101032023032.xml",
+  "description": "Official consolidated statute text (Turvaseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-25036",
+  "type": "statute",
+  "title": "Tsiviil- ja kaubandusasjade kohtu- ja kohtuväliste dokumentide välisriikides kätteandmise konventsiooniga ühinemise seadus",
+  "title_en": "Tsiviil- ja kaubandusasjade kohtu- ja kohtuväliste dokumentide välisriikides kätteandmise konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-25036",
+  "status": "in_force",
+  "issued_date": "1995-12-07",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/25036.xml",
+  "description": "Official consolidated statute text (Tsiviil- ja kaubandusasjade kohtu- ja kohtuväliste dokumentide välisriikides kätteandmise konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud tsiviil- ja kaubandusasjade kohtu- ja kohtuväliste dokumentide välisriikides kätteandmise konventsiooniga, mis on alla kirjutatud 1965. aasta 15. novembril Haagis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühinemisel määrata: 1) konventsiooni artikli 2 alusel keskasutuseks Justiitsministeerium; 2) konventsiooni artikli 6 alusel teatisi koostavateks asutusteks kohtud."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ühinemisel deklareerida: 1) Eesti Vabariik on vastu artikli 10 punktis c nimetatud edastusviisile; 2) artikli 15 alusel, et kohus võib nimetatud tingimustel otsuse teha; 3) artikli 16 3. lõike alusel ajavahemikuks kolm aastat."
+    }
+  ],
+  "definitions": []
+}

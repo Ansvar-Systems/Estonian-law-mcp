@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-12812154",
+  "type": "statute",
+  "title": "Loodusliku loomastiku ja taimestiku ohustatud liikidega rahvusvahelise kaubanduse konventsiooni ratifitseerimise seadus",
+  "title_en": "Loodusliku loomastiku ja taimestiku ohustatud liikidega rahvusvahelise kaubanduse konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-12812154",
+  "status": "in_force",
+  "issued_date": "1993-10-20",
+  "in_force_date": "2007-03-30",
+  "url": "https://www.riigiteataja.ee/akt/12812154.xml",
+  "description": "Official consolidated statute text (Loodusliku loomastiku ja taimestiku ohustatud liikidega rahvusvahelise kaubanduse konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud ja 1975. aasta 1. juulil jõustunud loodusliku loomastiku ja taimestiku ohustatud liikidega rahvusvahelise kaubanduse konventsioon."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vabariigi Valitsusel korraldada konventsiooni Sekretariaadi töös osalemine ja liikmemaksu tasumine."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Kooskõlas konventsiooni artikli 15 lõikega 3 ja artikli 16 lõikega 2 on valdkonna eest vastutaval ministril määrusega õigus teha ja tagasi võtta reservatsioone I, II või III lisa suhtes, lähtudes Euroopa Komisjoni ohustatud liikidega kauplemise komitee otsusest."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-109012025006",
+  "type": "statute",
+  "title": "Koolieelse lasteasutuse seadus",
+  "title_en": "Koolieelse lasteasutuse seadus",
+  "short_name": "KELS",
+  "status": "in_force",
+  "issued_date": "1999-02-18",
+  "in_force_date": "2025-09-01",
+  "url": "https://www.riigiteataja.ee/akt/109012025006.xml",
+  "description": "Official consolidated statute text (Koolieelse lasteasutuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

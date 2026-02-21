@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-216012024005",
+  "type": "statute",
+  "title": "Hongkongi laevade ohutu ja keskkonnahoidliku ringlussevõtu rahvusvahelise konventsiooniga ühinemise seadus",
+  "title_en": "Hongkongi laevade ohutu ja keskkonnahoidliku ringlussevõtu rahvusvahelise konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-216012024005",
+  "status": "in_force",
+  "issued_date": "2019-02-20",
+  "in_force_date": "2023-07-01",
+  "url": "https://www.riigiteataja.ee/akt/216012024005.xml",
+  "description": "Official consolidated statute text (Hongkongi laevade ohutu ja keskkonnahoidliku ringlussevõtu rahvusvahelise konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Konventsiooniga ühinemine",
+      "content": "Ühineda juurdelisatud Hongkongi laevade ohutu ja keskkonnahoidliku ringlussevõtu rahvusvahelise konventsiooniga (edaspidi konventsioon ), mis on vastu võetud 2009. aasta 15. mail Hongkongis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Deklaratsioon laeva ringlussevõtu kava heakskiitmise kohta",
+      "content": "Eesti Vabariigis kohaldatakse laeva ringlussevõtu kava vaikivat heakskiitmist."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Andmete esitamine",
+      "content": "Konventsiooni artiklites 7 ja 12 nimetatud andmed esitab Rahvusvahelisele Mereorganisatsioonile ning asjaomasele konventsiooniosalisele Kliimaministeerium."
+    }
+  ],
+  "definitions": []
+}

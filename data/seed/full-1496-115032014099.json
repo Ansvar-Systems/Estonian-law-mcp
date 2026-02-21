@@ -1,0 +1,374 @@
+{
+  "id": "ee-law-115032014099",
+  "type": "statute",
+  "title": "Väärismetalltoodete seadus",
+  "title_en": "Väärismetalltoodete seadus",
+  "short_name": "ee-law-115032014099",
+  "status": "in_force",
+  "issued_date": "2003-01-22",
+  "in_force_date": "2014-07-01",
+  "url": "https://www.riigiteataja.ee/akt/115032014099.xml",
+  "description": "Official consolidated statute text (Väärismetalltoodete seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab väärismetalltoodete käitlemise ning väärismetalli proovi määramise ja tõendamise nõuded, järelevalve korralduse seaduse täitmise üle ning vastutuse seaduse rikkumise eest.\n(2) Käesoleva seaduse sätteid ei kohaldata:\n1) tootmise, teaduse ja meditsiini vajadusteks kasutatavate väärismetallide, väärismetalli sisaldavate toodete ja väärismetalltoodete suhtes;\n2) väärismetalltoodete valmistamiseks kasutatavate materjalide suhtes;\n3) väärismetalltoodete ja väärismetalle sisaldavate toodete valmistamisel ja töötlemisel tekkinud väärismetalle sisaldavate jäätmete ning kasutamiskõlbmatuks muutunud väärismetalltoodete suhtes;\n4) investeeringukulla suhtes;\n5) väärismetallist Eesti ja teiste riikide seaduslike maksevahendite ning antikvaarsete müntide ja medalite suhtes;\n6) väärismetallist au- ja teenetemärkide ning spordi- ja kultuuriauhindade suhtes;\n6^1) ajaloolise või kultuuriväärtusega väärismetalltoodete suhtes;\n7) väärismetallist muusikainstrumentide ja nende osade suhtes;\n8) väärismetalltoodete väljaveol;\n9) selliste väärismetalltoodete sisseveol, mida reisija veab sisse isiklikuks kasutamiseks või mis sisalduvad ühelt füüsiliselt isikult teisele füüsilisele isikule juhuti saadetavas postisaadetises, kui nende väärismetalltoodete laadi ja koguse põhjal on ilmne, et need on mõeldud reisija või postisaadetise saaja isiklikuks või perekondlikuks kasutamiseks.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesolevas seaduses sätestatud erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Mõisted",
+      "content": "Käesolevas seaduses kasutatakse mõisteid järgmises tähenduses:\n1) väärismetall – puhas kuld, hõbe, plaatina ja pallaadium ning nende sulamid;\n2) väärismetalli proov – arv, mis näitab, mitu massiosa puhast kulda, hõbedat, plaatinat või pallaadiumi sisaldub vastava väärismetalli sulamis selle tuhande massiosa kohta;\n3) väärismetalli standardproov – käesoleva seaduse § 4 lõigetes 2 ja 2^1 nimetatud väärismetalli proov;\n4) väärismetalltoode – ese, mis on tervikuna või osaliselt valmistatud ühest või enamast vähemalt käesoleva seaduse § 4 lõigetes 2 ja 2^1 lubatud väikseima standardprooviga väärismetallist;\n5) käitlemine – väärismetalltoodete valmistamine, sissevedu, müügiks pakkumine ja tasu eest võõrandamine;\n6) valmistamine – uute väärismetalltoodete tasu eest võõrandamise eesmärgil valmistamine ning kasutatud väärismetalltoodete parandamine, ümbertegemine ja ennistamine;\n7) sissevedu – väärismetalltoodete toimetamine Eestisse eesmärgiga teha need kättesaadavaks kasutusele võtmiseks või levitamiseks;\n8) müügiks pakkumine – tegevus, mille käigus väärismetalltoodete valmistaja, sissevedaja, hulgimüüja või jaemüüja pakub väärismetalltooteid tasu eest võõrandamiseks;\n9) investeeringukuld – kullakang või kullatahvel, mille puhta kulla sisaldus on vähemalt 995 tuhandikku massiosa, samuti pärast 1800. aastat münditud ja seadusliku maksevahendina käibel olev või käibel olnud kuldmünt, mille puhta kulla sisaldus on vähemalt 900 tuhandikku massiosa ja mida ei müüda numismaatilisel eesmärgil;\n10) turule laskmine – tegevus, millega väärismetalltoode tehakse Euroopa Majanduspiirkonna lepingu osalisriigis või Türgis esmakordselt kättesaadavaks kas levitamiseks või kasutusele võtmiseks."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "3",
+      "title": "§ 3. Teatamiskohustus",
+      "content": "(1) Majandustegevusteate peab esitama järgmistel tegevusaladel tegutsemiseks:\n1) väärismetalltoodete valmistamine;\n2) väärismetalltoodete hulgimüük;\n3) väärismetalltoodete jaemüük.\n(2) Väärismetallide sisseveo ja väärismetalltoodete valmistamise korral esitatakse teates lisaks majandustegevuse seadustiku üldosa seaduses sätestatud andmetele olemasolu korral nimemärgise registreerimisnumber nimemärgiste riiklikus registris."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "4",
+      "title": "§ 4. Käitlemiseks lubatud väärismetalltoode",
+      "content": "(1) Toodet võib väärismetalltootena müügiks pakkuda või tasu eest võõrandada, kui see vastab käesoleva seaduse nõuetele ja on märgistatud käesolevas seaduses ettenähtud kohustuslike märgistega.\n(2) Väärismetalli standardproovid on:\n1) kuldtootel 375, 500, 585, 750, 916 või 999;\n2) hõbetootel 800, 830, 925 või 999;\n3) plaatinatootel 850, 950 või 999;\n4) pallaadiumtootel 500, 950 või 999.\n(2^1) Euroopa Majanduspiirkonna lepingu osalisriigis või Türgis valmistatud tooted loetakse standardproovile vastavast väärismetallist valmistatuks, kui nendes toodetes on kasutatud riigis, kus tooted on valmistatud või turule lastud, õigusaktiga kehtestatud või käesoleva paragrahvi lõikes 2 nimetatud standardprooviga väärismetalli.\n(3) Väärismetalltoote valmistamiseks kasutatud väärismetall on standardproovile vastav, kui selle puhta kulla, hõbeda, plaatina või pallaadiumi sisaldus on standardprooviga võrdne või sellest suurem.\n(4) Müügiks pakutava või tasu eest võõrandatava väärismetalltoote mitteväärismetallist osad, välja arvatud vedrud, tihvtid ja teised konstruktsiooniks hädavajalikud detailid, peavad olema märgistatud märgisega «MET» või muu mitteväärismetalli tähistava märgisega.\n(5)"
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "5",
+      "title": "§ 5. Käitlemiseks mittelubatud toode",
+      "content": "(1) Väärismetalltoodet ei ole lubatud müügiks pakkuda ega tasu eest võõrandada, kui:\n1) väärismetalltoote valmistamisel on kasutatud väärismetalli, mille proov on selle väärismetalltoote proovimärgisega näidatavast standardproovist madalam;\n2)\n3) väärismetalltootele on jootes, keevitades või muul meetodil püsivalt liidetud sellist metalli, mida värvuse tõttu võiks pidada samaks väärismetalliks, millest väärismetalltoode on valmistatud;\n4) kuld-, plaatina- või pallaadiumtoote valmistamisel on kasutatud joodist, mille proov on madalam kui vastava väärismetalltoote valmistamiseks kasutatud väärismetalli proov;\n5) väärismetalltoode on pinnatud nikliga.\n(2) Väärismetalltootena ei ole lubatud märgistada, müügiks pakkuda ega tasu eest võõrandada:\n1) toodet, mille puhta kulla, hõbeda, plaatina või pallaadiumi sisaldus on väiksem kui käesoleva seaduse § 4 lõikes 2 nimetatud vastava väärismetalli väikseim standardproov või Euroopa Majanduspiirkonna lepingu osalisriigis või Türgis õigusaktiga lubatud väärismetalli väikseim standardproov;\n2) toodet, mille valmistamiseks kasutatud metalli massist moodustab väärismetallist valmistatud osa vähem kui 50 protsenti, välja arvatud lauahõbe, kellad ja teised korpustooted;\n3) väärismetalliga kaetud muust metallist toodet."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "6",
+      "title": "§ 6. Väärismetalltootel kasutatavad märgised",
+      "content": "(1) Väärismetalltootel kasutatavad märgised on:\n1) märgised, mille olemasoluta ei või väärismetalltoodet müügiks pakkuda ega tasu eest võõrandada (kohustuslikud märgised);\n2) märgised, mida võib käesolevas seaduses sätestatud juhtudel ning korras väärismetalltootele kanda (mittekohustuslikud märgised);\n3) käesoleva seadusega reguleerimata märgised (edaspidi muu märgistus ).\n(2) Kohustuslikud märgised on Eestis väärismetalltooteid valmistava ettevõtja (edaspidi valmistaja ) või Eestisse väärismetalltooteid sissevedava ettevõtja (edaspidi sissevedaja ) nimemärgis ja proovimärgis.\n(3) Mittekohustuslikud märgised on kontrollmärgis ja aastamärgis.\n(4) Väärismetalltoodet, mis on Euroopa Majanduspiirkonna lepingu osalisriigis või Türgis õigusaktide kohaselt märgistatud nimemärgise ja proovimärgisega identset tähendust omavate märgistega, ei pea märgistama käesolevas seaduses ettenähtud kohustuslike märgistega.\n(5) Väärismetalltootel on lubatud muu märgistus, kui see ei halvenda oma kuju ega paiknemise poolest käesoleva paragrahvi lõigetes 2–4 nimetatud märgiste nähtavust, loetavust ega tähenduse mõistmist.\n(6) Väärismetalltootele kantud kohustuslikud ja mittekohustuslikud märgised peavad olema selgelt loetavad ja vastama oma kuju poolest käesoleva seaduse ning selle alusel kehtestatud õigusaktide nõuetele ning kuju ja kandmisviisi poolest nimemärgiste riiklikusse registrisse kantud nimemärgisele. Kui väärismetalltoode ei ole märgistatud käesolevas seaduses ettenähtud kohustuslike märgistega, peavad käesoleva paragrahvi lõikes 4 nimetatud märgised olema selgelt loetavad."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "7",
+      "title": "§ 7. Kohustuslike märgistega märgistamine",
+      "content": "(1) Väärismetalltoote märgistatuse kohustuslike märgistega peab tagama väärismetalltoote valmistaja või sissevedaja.\n(2) Märgistades väärismetalltoote kohustuslike märgistega, tõendatakse väärismetalltoote valmistamiseks kasutatud väärismetalli vastavust käesoleva seaduse § 4 lõigetes 2 ja 2^1 nimetatud proovile ning osutatakse, kes on vastutav väärismetalltoote nõuetele vastavuse eest.\n(3) Väärismetalltoode on märgistatud kohustuslike märgistega, kui sellele on kantud:\n1) valmistaja või sissevedaja nimemärgis ja proovimärgis või\n2) valmistaja või sissevedaja nimemärgis ühendatuna proovimärgisega (edaspidi ühitatud nime- ja proovimärgis ).\n(4) Väärismetalltoode, millele selle väikeste mõõtmete tõttu ei ole võimalik kanda nii nime- kui proovimärgist või ühitatud nime- ja proovimärgist, võib olla märgistatud ainult proovimärgisega.\n(5) Nende väärismetalltoodete loetelu, mida võib müügiks pakkuda või tasu eest võõrandada ilma kohustusliku märgistuseta seetõttu, et on olemas varasem märgistus või et tehnilistel, esteetilistel või muudel põhjustel ei ole märgistamine lubatud või otstarbekas, ning loetelusse kuuluvate toodete valmistamiseks kasutatud väärismetalli proovi tõendamise nõuded kehtestab Vabariigi Valitsus või tema volitusel majandus- ja kommunikatsiooniminister määrusega."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "8",
+      "title": "§ 8. Nimemärgis",
+      "content": "(1) Nimemärgis on väärismetalltootele kantav alaline märk, mis näitab, milline valmistaja või sissevedaja on vastutav väärismetalltoote nõuetele vastavuse eest.\n(2) Nimemärgiseks võib olla täht, täheühend või märk, mis on selgesti eristatav teistest nimemärgistest ning mis on kantud nimemärgiste riiklikusse registrisse.\n(3) Valmistaja või sissevedaja võib nimemärgisena kasutada oma registreeritud kaubamärki, kui see märk vastab käesoleva paragrahvi lõikes 2 nimetatud nõuetele ja on kantud nimemärgiste riiklikusse registrisse.\n(4) Sissevedaja võib oma nimemärgise tähenduses registrisse kanda sisseveetava väärismetalltoote valmistanud ettevõtja nimemärgise (edaspidi sissevedaja nimemärgis ), kui ettevõtja on andnud kirjaliku nõusoleku oma nimemärgise sel viisil nimemärgiste riiklikusse registrisse kandmiseks."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "9",
+      "title": "§ 9. Proovimärgis",
+      "content": "(1) Proovimärgis on väärismetalltootele kantav alaline märk, mis näitab väärismetalltoote valmistamiseks kasutatud väärismetalli ja selle standardproovi.\n(2) Proovimärgise kuju on erinevate väärismetallide puhul erinev. Proovimärgise ja ühitatud nime- ja proovimärgise kuju ning väärismetalltoote nimemärgise ja proovimärgisega või ühitatud nime- ja proovimärgisega märgistamise korra kehtestab Vabariigi Valitsus või tema volitusel majandus- ja kommunikatsiooniminister määrusega."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "10",
+      "title": "§ 10. Kontrollmärgis",
+      "content": "(1) Kontrollmärgis on väärismetalltootele kantav alaline märk, millega väärismetalli proovi standardproovile vastavuse tõendamise valdkonnas tegutsev äriühing (edaspidi väärismetalli proovi tõendaja ) tõendab, et väärismetalltoote valmistamiseks kasutatud väärismetalli proov vastab standardproovile.\n(2) Kontrollmärgis on Eesti proovijärelevalve märk. Kontrollmärgiseks on märgis, millel on sammuva otsavaatava lõvi kujutis ovaalses süvendis.\n(3) Väärismetalltoode on kontrollmärgistatud, kui sellele on kantud:\n1) kontrollmärgis või\n2) kontrollmärgis ühendatuna proovimärgisega (edaspidi ühitatud proovi- ja kontrollmärgis ).\n(3^1) Väärismetalltoode loetakse kontrollmärgistatuks, kui Euroopa Majanduspiirkonna lepingu osalisriigis või Türgis on vastavate volitustega sõltumatu isik kandnud sellele asjaomase riigi kontrollmärgise ning selles riigis ei ole lubatud standardproovi negatiivne hälve.\n(4) Väärismetalltoote analüüsimise ja kontrollmärgisega märgistamise korra kehtestab Vabariigi Valitsus või tema volitusel majandus- ja kommunikatsiooniminister määrusega."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "11",
+      "title": "§ 11. Aastamärgis",
+      "content": "(1) Aastamärgis on väärismetalltootele kantav alaline märk, mis näitab väärismetalltoote valmistamise aastat.\n(2) Aastamärgiseks on eesti tähestiku suurtähed tähestikulises järjekorras. Aastamärgised kehtestab Vabariigi Valitsus või tema volitusel majandus- ja kommunikatsiooniminister määrusega.\n(3)"
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "12",
+      "title": "§ 12. Nimemärgiste riikliku registri toimimise üldised alused",
+      "content": "(1) Nimemärgiste riikliku registri eesmärk on:\n1) valmistajate ja sissevedajate nimemärgiste kohta andmete säilitamine;\n2) registrisse kantud nimemärgiseid käsitleva teabe töötlemise võimaldamine;\n3) esitatud nimemärgiste näidis- ja võrdlusjäljendite säilitamine;\n4) väärismetalltootele kantud nimemärgise võrdlemise võimaldamine registris säilitatavate nimemärgise näidis- ja võrdlusjäljenditega.\n(2) Nimemärgiste riikliku registri asutab, registri pidamise põhimääruse kehtestab ning registri vastutava ja volitatud töötleja määrab Vabariigi Valitsus avaliku teabe seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "13",
+      "title": "§ 13. Registreerimistaotlus",
+      "content": "Ettevõtja, kes soovib kanda oma nimemärgise nimemärgiste riiklikusse registrisse, esitab nimemärgiste riikliku registri volitatud töötlejale kirjaliku taotluse, milles peab sisalduma:\n1) nimemärgise registreerimise avaldus;\n2) nimemärgise suurendatud kujutis paberkandjal mõõtkavas 20:1."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "14",
+      "title": "§ 14. Nimemärgise registreerimise avaldus",
+      "content": "(1) Nimemärgise registreerimise avalduses peavad sisalduma järgmised andmed:\n1) ettevõtja nimi, registrikood ja vastava registri nimi ning ettevõtja aadress ja muud kontaktandmed;\n2) taotluse selgelt sõnastatud sisu;\n3) taotluse esitamise kuupäev ja allkiri;\n4) taotluse allkirjastanud isiku nimi, ametinimetus ja kontaktandmed.\n(2) Registreerimistaotluse esitanud ettevõtja vastutab tema poolt nimemärgiste riiklikule registrile esitatud andmete õigsuse eest."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "15",
+      "title": "§ 15. Registrikanne",
+      "content": "(1) Nimemärgiste riiklikus registris tehakse registrikanne ettevõtja poolt esitatud registreerimistaotluse alusel tingimusel, et:\n1) nimemärgise registreerimise avaldus on nõuetekohane;\n2) registreerimistaotluse esitanud ettevõtja nimemärgise kavand on selgesti eristatav teistest registrisse kantud nimemärgistest;\n3) registreerimistaotluse esitanud ettevõtja on tasunud riigilõivu ja\n4) esitatud on nimemärgise näidisjäljendid, mis on kantud metallplaadile vastavalt nimemärgiste riikliku registri põhimääruses sätestatud tunnustele.\n(2) Kui on täidetud käesoleva paragrahvi lõike 1 punktides 1–3 esitatud nõuded, edastab nimemärgiste riikliku registri volitatud töötleja viie tööpäeva jooksul registreerimistaotluse saamisest arvates sellekohase teate posti teel või elektrooniliselt registreerimistaotluse esitanud ettevõtjale ja annab vähemalt ühekuulise tähtaja nimemärgise näidisjäljendite esitamiseks. Kui ei ole täidetud lõike 1 punktis 1, 2 või 3 nimetatud nõue, määrab registri volitatud töötleja ettevõtjale puuduste kõrvaldamiseks vähemalt kahenädalase tähtaja.\n(3) Kui riigilõiv on tasutud, tehakse registrikanne kahe tööpäeva jooksul käesoleva paragrahvi lõike 1 punktis 4 nimetatud näidisjäljendite saamisest arvates.\n(4) Nimemärgiste riiklikusse registrisse kantavad andmed (edaspidi registriandmed ) on:\n1) registreerimisnumber;\n2) registreerimise kuupäev;\n3) ettevõtja nimi, registrikood ja vastava registri nimi ning ettevõtja aadress ja muud kontaktandmed;\n4) registreeritud nimemärgise kujutis mõõtkavas 20:1.\n(5) Registreeritud nimemärgise näidisjäljendid, mis on kantud metallplaadile vastavalt nimemärgiste riikliku registri põhimääruses sätestatud tunnustele, kantakse nimemärgiste riikliku registri esemekogusse.\n(6) Registreerimise teade edastatakse registreerimistaotluse esitanud ettevõtjale posti teel või elektrooniliselt hiljemalt registrikande tegemise päevale järgneval tööpäeval.\n(7) Käesoleva paragrahvi lõikes 4 nimetatud registriandmed avaldatakse nimemärgiste riikliku registri veebilehel.\n(8) Ettevõtja soovil teeb nimemärgiste riikliku registri volitatud töötleja ettevõtja registriandmetest ametlikke väljavõtteid."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "16",
+      "title": "§ 16. Registreerimisest keeldumine",
+      "content": "(1) Registreerimisest keeldutakse, kui:\n1) nimemärgise registreerimise avaldus ei ole nõuetekohane ja selles puuduste kõrvaldamiseks määratud tähtaeg on möödunud;\n2) registreerimistaotluse esitanud ettevõtja nimemärgise kavand on identne või äravahetamiseni sarnane nimemärgiste riiklikusse registrisse juba kantud nimemärgisega ja selle puuduse kõrvaldamiseks määratud tähtaeg on möödunud;\n3) registreerimistaotluse esitanud ettevõtja ei ole tasunud riigilõivu;\n4) registreerimistaotluse esitanud ettevõtja ei ole talle antud tähtaja jooksul esitanud oma nimemärgise näidisjäljendeid.\n(2) Motiveeritud teade registreerimisest keeldumise kohta edastatakse registreerimistaotluse esitanud ettevõtjale posti teel või elektrooniliselt hiljemalt registreerimisest keeldumise otsuse tegemise päevale järgneval tööpäeval."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "17",
+      "title": "§ 17. Sissevedaja nimemärgise registreerimistaotlus",
+      "content": "(1) Käesoleva seaduse § 8 lõikes 4 sätestatud juhul esitab sissevedaja nimemärgiste riikliku registri volitatud töötlejale taotluse, milles peab sisalduma:\n1) sissevedaja nimemärgise registreerimise avaldus;\n2) sisseveetavate väärismetalltoodete valmistaja nimemärgise suurendatud kujutis paberkandjal mõõtkavas 20:1;\n3) dokument, mis tõendab, et sisseveetavate väärismetalltoodete valmistaja on nõus oma nimemärgise kandmisega nimemärgiste riiklikusse registrisse sissevedaja nimemärgisena.\n(2) Sissevedaja nimemärgise registreerimise avalduses peavad sisalduma järgmised andmed:\n1) sissevedaja nimi, registrikood ja vastava registri nimi ning sissevedaja aadress ja muud kontaktandmed;\n2) taotluse selgelt sõnastatud sisu;\n3) nimemärgise omaniku nimi;\n4) taotluse esitamise kuupäev ja allkiri;\n5) taotluse allkirjastanud isiku nimi, ametinimetus ja kontaktandmed.\n(3) Koos registreerimistaotlusega esitab sissevedaja sisseveetavate väärismetalltoodete valmistaja nimemärgise näidisjäljendid, mis on kantud metallplaadile vastavalt nimemärgiste riikliku registri põhimääruses sätestatud tunnustele."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "18",
+      "title": "§ 18. Sissevedaja nimemärgise registrikanne",
+      "content": "(1) Sissevedaja nimemärgise registreerimise menetlusele kohaldatakse käesoleva seaduse §-de 15 ja 16 nõudeid käesoleva paragrahvi lõigetes 2 ja 3 toodud erisusega.\n(2) Sissevedaja nimemärgise kohta tehakse nimemärgiste riiklikus registris kanne ettevõtja esitatud registreerimistaotluse alusel tingimusel, et:\n1) nimemärgise registreerimise avaldus on nõuetekohane;\n2) registreerimistaotluse esitanud ettevõtja on tasunud riigilõivu;\n3) esitatud on nimemärgise näidisjäljendid, mis on kantud metallplaadile vastavalt nimemärgiste riikliku registri põhimääruses sätestatud tunnustele.\n(3) Sissevedaja nimemärgise kohta kantakse nimemärgiste riiklikusse registrisse lisaks käesoleva seaduse § 15 lõikes 4 nimetatud andmetele ka nimemärgise omaniku nimi.\n(4) Sissevedaja nimemärgise registreerimisest keeldutakse, kui:\n1) nimemärgise registreerimise avaldus ei ole nõuetekohane ja selles puuduste kõrvaldamiseks määratud tähtaeg on möödunud;\n2) registreerimistaotluse esitanud ettevõtja ei ole tasunud riigilõivu;\n3) registreerimistaotluse esitanud ettevõtja ei ole talle antud tähtaja jooksul esitanud oma nimemärgise näidisjäljendeid."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "19",
+      "title": "§ 19. Registriandmete kustutamine",
+      "content": "(1) Nimemärgiste riiklikusse registrisse kantud registriandmed kustutatakse:\n1) selle ettevõtja taotluse alusel, kelle nimemärgis on registrisse kantud;\n2) kui ilmneb, et ettevõtja, kelle nimemärgis on registrisse kantud, on oma registreerimistaotluses esitanud andmeid, mis ei vasta tegelikkusele ja millel on registrikande tegemisel oluline tähtsus;\n3) kui valmistaja või sissevedaja kohta käivatest majandustegevuse registri andmetest on kustutatud märge väärismetalltoodete valmistamise või sisseveo kohta.\n4) kui 30 päeva jooksul pärast käesoleva seaduse § 20 lõikes 2 nimetatud teatise saamist ei ole esitatud § 20 lõikes 1 nimetatud teatist ja ettenähtud juhtudel nimemärgise võrdlusjäljendit.\n(2) Motiveeritud teade registriandmete kustutamise kohta edastatakse ettevõtjale, kelle nimemärgis oli registrisse kantud, ja valla- või linnavalitsusele, tema poolt volitatud valla- või linnavalitsuse asutusele või valla- või linnavalitsuse struktuuriüksusele (edaspidi valla- või linnavalitsus ) posti teel või elektrooniliselt hiljemalt registriandmete kustutamise päevale järgneval tööpäeval.\n(3) Nimemärgiste riikliku registri volitatud töötleja säilitab registrist kustutatud nimemärgiste kohta käinud registriandmeid oma veebilehel märkega «Registrist kustutatud» kolme aasta jooksul registriandmete kustutamise päevast arvates."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "20",
+      "title": "§ 20. Registreeringu kehtivuse kinnitamise kohustus",
+      "content": "(1) Isik, kelle nimemärgis on registrisse kantud, on kohustatud iga aasta 15. aprilliks teavitama registri volitatud töötlejat soovist nimemärgise registreeringut registris säilitada, kui nimemärgise registreerimisest nimemärgiste riiklikus registris on möödas rohkem kui neli kuud. Koos teatisega esitab isik nimemärgiste riikliku registri volitatud töötlejale oma nimemärgise metallplaadile kantud võrdlusjäljendid. Võrdlusjäljendeid ei pea esitama sissevedaja nimemärgise kohta.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud isik ei täida lõikes 1 sätestatud kohustust, teavitab registri volitatud töötleja isikut viivitamata kohustuse täitmata jätmisest."
+    },
+    {
+      "provision_ref": "para23^1",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "23^1",
+      "title": "§ 23^1. Teabe säilitamise kohustus",
+      "content": "Väärismetalltoodete sissevedajal peab olema teave selle kohta, kes on tema sisseveetud väärismetalltootele kantud nimemärgise omanik ja millises riigis on nimemärgis registreeritud, ning ta peab riikliku järelevalve teostaja nõudmisel selle teabe esitama."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "24",
+      "title": "§ 24.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "29",
+      "title": "§ 29.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "33",
+      "title": "§ 33. Piirangud väärismetalltoodete jaemüügil",
+      "content": "Väärismetalltoodete jaemüük ei ole lubatud:\n1) turul;\n2) tänavakaubanduses;\n3)\n4) koduukselepingute kaudu võlaõigusseaduse § 46 tähenduses;\n5) avalikul üritusel, välja arvatud üritused, kus väärismetalltoodete jaemüük on ürituse eesmärgist tulenevalt asjakohane.\n6) kioskis, välja arvatud ehitises asuvas kioskis."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "34",
+      "title": "§ 34. Nõuded dokumentidele ja teabe andmisele väärismetalltoodete jaemüügil ja hulgimüügil",
+      "content": "(1) Väärismetalltoodete jaemüügil peab müüja andma ostjale väärismetalltoote eest maksmist tõendava dokumendi ja hulgimüügil saatedokumendi, mis sisaldab vähemalt järgmist teavet väärismetalltoote kohta:\n1) väärismetalltoote nimetus;\n2) väärismetalltoote valmistamiseks kasutatud väärismetalli nimetus ja proov;\n3) väärismetalltoote mass.\n(2) Majandus- ja kommunikatsiooniminister võib kehtestada täpsustatud nõuded väärismetalltoote müügil väärismetalltoote kohta esitatavale teabele.\n(3) Käesoleva paragrahvi lõike 2 alusel kehtestatud nõuded võivad sisaldada nõudeid ka väärismetalltootele lisatud kristallilise või orgaanilise aine kohta esitatavale teabele."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "36",
+      "title": "§ 36. Arveldamine väärismetalltoodete sisseveo ja hulgimüügi korral",
+      "content": "Väärismetalltoodete sisseveo ja hulgimüügi korral, kui tehinguväärtus on suurem kui 960 eurot, arveldatakse väärismetalltoodete eest sularahata arvelduse korras."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "37",
+      "title": "§ 37. Nõuded väärismetalltoote massi esitamisele",
+      "content": "Väärismetalltoote jae- ja hulgimüügidokumentides esitatakse väärismetalltoote mass vähemalt grammi kümnendikkohani."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "2. peatükk - VÄÄRISMETALLTOODETE KÄITLEMISE NÕUDED",
+      "section": "38",
+      "title": "§ 38. Väärismetalltoodete ekspert",
+      "content": "(1) Väärismetalltoote sihipärasel kasutamisel ilmnenud defektide olemasolu ja põhjuste või väärismetalltoote ja selle osade ning märgistuse vastavuse ja autentsuse väljaselgitamiseks võib korraldada ekspertiisi, mille teostab väärismetalltoodete ekspert.\n(2) Väärismetalltoodete ekspert peab olema erapooletu, võrdse kohtlemise printsiipe järgiv ning sõltumatu tema hinnatava väärismetalltoote valmistajast, sissevedajast, müüjast ja tarbijast.\n(3) Väärismetalltoodete ekspert peab olema kompetentne ning tundma väärismetalltoodete valmistamise põhimõtteid. Väärismetalltoodete eksperdi kompetentsus loetakse tõendatuks, kui:\n1) eksperdi on väärismetalltoodete uuringuteks akrediteerinud käesoleva seaduse § 40 lõike 2 punktis 8 nimetatud akrediteerimisasutus;\n2) eksperdiks oleva füüsilise isiku on personali sertifitseerimiseks akrediteeritud ettevõte uuringuteks sertifitseerinud või\n3) eksperdiks olev füüsiline isik on töötanud vähemalt 10 aastat juveliirina või väärismetalltoodete tootmistehnoloogia või uuringutega otseselt seotud tegevusalal."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "3. peatükk - VÄÄRISMETALLI PROOVI STANDARDPROOVILE VASTAVUSE TÕENDAMINE",
+      "section": "39",
+      "title": "§ 39. Väärismetalli proovi standardproovile vastavuse tõendamine",
+      "content": "(1) Väärismetalli proovi standardproovile vastavuse tõendamine on menetlus, mille käigus väärismetalli proovi tõendaja analüüsib väärismetalltoote valmistamiseks kasutatud sulami väärismetalli sisaldust ja tõendab tootele kantava kontrollmärgisega selle vastavust standardproovile.\n(2) Väärismetalli proovi standardproovile vastavuse tõendamise teenuste hindade kujundamise alused peavad olema objektiivsed, läbipaistvad ja mittediskrimineerivad ning hinnad kujundatud selliselt, et need kataksid väärismetalli proovi standardproovile vastavuse tõendamisega seotud põhjendatud kulutused ja tagaksid väärismetalli proovi tõendajale mõistliku kasumi."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "3. peatükk - VÄÄRISMETALLI PROOVI STANDARDPROOVILE VASTAVUSE TÕENDAMINE",
+      "section": "40",
+      "title": "§ 40. Väärismetalli proovi tõendaja",
+      "content": "(1) Väärismetalli proovi tõendaja on väärismetalli proovi standardproovile vastavuse tõendamise toiminguid teostav äriühing. Nimetatud äriühing on ainuõigust omav ettevõtja konkurentsiseaduse tähenduses.\n(2) Väärismetalli proovi tõendaja peab vastama järgmistele nõuetele:\n1) äriühing, selle juhatuse ja nõukogu liige ning väärismetalli proovi standardproovile vastavuse tõendamise eest vastutav töötaja ei tohi tegeleda käesoleva seaduse kohaldamisalasse kuuluva väärismetalltoodete valmistamise, sisseveo, hulgi- või jaemüügi korras müügiks pakkumise või tasu eest võõrandamisega;\n2) äriühingu töötajad peavad olema tööks vajaliku ettevalmistuse, hariduse ja kogemustega;\n3) äriühing peab valdama vahendeid, mis võimaldavad nõuetekohaselt teostada väärismetalli proovi standardproovile vastavuse tõendamisega seotud toiminguid;\n4) äriühing peab kujundama väärismetalli proovi standardproovile vastavuse tõendamise teenuste hinnad vastavalt käesoleva seaduse § 39 lõikele 2;\n5) äriühing ja selle töötajad peavad teostama väärismetalli proovi standardproovile vastavuse tõendamisega seotud toiminguid asjatundlikult, erapooletult ja mittediskrimineerivalt ning olema sõltumatud mõjutamisest, millest võib oleneda nende otsus;\n6) äriühingu töötajate tasustamine ei tohi sõltuda kontrollmärgistatud väärismetalltoodete arvust;\n7) äriühing peab tagama, et tema töötajad hoiaksid ametiülesannete täitmisel teatavaks saanud teabe konfidentsiaalsena, kui seadus ei näe ette selle avalikustamist;\n8) äriühingu katselabori peab väärismetalli analüüside teostamiseks olema akrediteerinud Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 765/2008, millega sätestatakse akrediteerimise ja turujärelevalve nõuded seoses toodete turustamisega ja tunnistatakse kehtetuks määrus (EMÜ) nr 339/93 (ELT L 218, 13.8.2008, lk 30–47), nõuetele vastav akrediteerimisasutus."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "3. peatükk - VÄÄRISMETALLI PROOVI STANDARDPROOVILE VASTAVUSE TÕENDAMINE",
+      "section": "41",
+      "title": "§ 41. Väärismetalli proovi tõendaja vastutuskindlustus",
+      "content": "Väärismetalli proovi tõendaja tekitatud kahju hüvitamise tagamiseks peab väärismetalli proovi tõendaja sõlmima vastutuskindlustuslepingu järgmiste tingimuste kohaselt:\n1) kindlustusandja on äriühing, kellel on Eestis kindlustamise luba;\n2) leping hõlmab väärismetalli proovi tõendaja poolt tõendamismenetluse käigus tekitatud kahju ja selle isiku tekitatud kahju, kelle tegevuse eest väärismetalli proovi tõendaja seaduse järgi vastutab;\n3) kindlustussumma alampiir ühe kindlustusjuhtumi kohta on vähemalt 6390 eurot. Kutsekohustuste tahtlikust rikkumisest tekkivat vastutust kindlustama ei pea;\n4) kui kindlustusleping on sõlmitud omavastutusega, hüvitab kindlustusandja tekitatud kahju kogu ulatuses ja nõuab omavastutuse summa tagasi kindlustusvõtjalt."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE JA VASTUTUS",
+      "section": "42",
+      "title": "§ 42. Riiklik järelevalve",
+      "content": "(1) Käesolevas seaduses sätestatud nõuete, välja arvatud väärismetalltoodete sisseveoga seonduvad nõuded, järgimise üle teostab järelevalvet Tarbijakaitseamet.\n(2) Lisaks käesoleva paragrahvi lõikes 1 sätestatule teostavad järelevalvet järgmised korrakaitseorganid vastavalt oma pädevusele:\n1) Maksu- ja Tolliamet väärismetalltoodete sisseveoga seonduvate nõuete täitmise üle;\n2) valla- ja linnavalitsus oma haldusterritooriumil teeninduse tegevusalal tegutsemise korral väärismetalltoodete valmistamise ja väärismetalltoodete jaemüügiga seonduvate nõuete järgimise üle."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE JA VASTUTUS",
+      "section": "43",
+      "title": "§ 43. Riikliku järelevalve erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para43^1",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE JA VASTUTUS",
+      "section": "43^1",
+      "title": "§ 43^1. Riikliku järelevalve erisused",
+      "content": "(1) Korrakaitseorgan võib korrakaitseseaduse §-s 50 sätestatud tingimustel siseneda:\n1) väärismetalltoodete käitleja või tema esindaja juuresolekul hoonesse ja ruumi, kus väärismetalltooteid ladustatakse, pakutakse müügiks või võõrandatakse tasu eest;\n2) väärismetalli proovi tõendaja esindaja juuresolekul hoonesse ja ruumi, kus toimub väärismetalltoodete proovi tõendamine.\n(2) Korrakaitseorgan võib:\n1) keelata käesoleva seaduse § 5 lõikes 1 nimetatud käitlemiseks mittelubatud väärismetalltoodete müügiks pakkumise ja tasu eest võõrandamise;\n2) nõuda väärismetalltoodete müügikõlbmatuks muutmist või Eestist väljavedamist;\n3) keelata käesoleva seaduse § 5 lõikes 2 nimetatud väärismetalli sisaldavate toodete, mida ei lubata käidelda väärismetalltoodetena, müügiks pakkumise ja tasu eest võõrandamise ning nõuda juhul, kui tooted on väärismetalltoodetena märgistatud, nende müügikõlbmatuks muutmist või Eestist väljavedamist;\n4) võtta kontrollimiseks tasuta väärismetalltoodete näidiseid ja tellida nende nõuetele vastavuse hindamiseks analüüse isikult, kelle katselabor on käesoleva seaduse § 40 lõike 2 punktis 8 nimetatud akrediteerimisasutuse poolt väärismetalli analüüside teostamiseks akrediteeritud, ning ekspertiise väärismetalltoodete eksperdilt.\n(3) Käesoleva paragrahvi lõike 2 punkti 4 kohaselt võetud väärismetalltoote näidise nõuetele vastavuse hindamiseks tellitud analüüsi- ja ekspertiisiteenuste kulud tasub järelevalve teostaja ning hüvitab väärismetalltoote maksumuse või tagastab väärismetalltoote muutumatul kujul, kui analüüsi tulemuste või eksperdiarvamuse kohaselt oli näidiseks võetud väärismetalltoode nõuetekohane. Kui analüüsi tulemuste või eksperdiarvamuse kohaselt toode ei olnud nõuetekohane, tagastab järelevalve teostaja väärismetalltoote, mis ei osutunud nõuetele vastavaks, müügikõlbmatuks muudetud kujul ja järelevalve teostaja dokumentaalselt tõendatud kulud peab hüvitama väärismetalltoote nõuetele vastavuse eest vastutav ettevõtja."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE JA VASTUTUS",
+      "section": "45",
+      "title": "§ 45. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär 640 eurot."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE JA VASTUTUS",
+      "section": "47",
+      "title": "§ 47. Väärismetalltoodete müügiks pakkumise ja tasu eest võõrandamise nõuete rikkumine",
+      "content": "(1) Väärismetalltoodete müügiks pakkumise või tasu eest võõrandamise nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE JA VASTUTUS",
+      "section": "48",
+      "title": "§ 48. Nimemärgise võltsimine ja võltsituna kasutamine",
+      "content": "(1) Väärismetalltoodete valmistaja või sissevedaja nimemärgise võltsimise ja kasutamise eest märgisele mittevastaval materjalil toodete tasu eest võõrandamise eesmärgil – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE JA VASTUTUS",
+      "section": "49",
+      "title": "§ 49. Väärismetalltoote märgistamisnõuete rikkumine",
+      "content": "(1) Väärismetalltoodete märgistamisnõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE JA VASTUTUS",
+      "section": "50",
+      "title": "§ 50.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE JA VASTUTUS",
+      "section": "54",
+      "title": "§ 54. Menetlus",
+      "content": "(1) Käesoleva seaduse §-des 47–49 sätestatud väärtegudele kohaldatakse karistusseadustiku üldosa ja väärteomenetluse seadustiku sätteid.\n(2) Käesoleva seaduse §-des 47–49 sätestatud väärtegude kohtuväline menetleja on vastavalt oma pädevusele:\n1) Tarbijakaitseamet;\n2) politseiasutus;\n3) valla- või linnavalitsus."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "55",
+      "title": "§ 55. Üleminekusätted",
+      "content": "(1) Väärismetalltoodete proovi seaduse § 5 lõigete 1–5 alusel väljaantud tegevusluba ja sama paragrahvi lõigete 8 ja 9 alusel väljaantud Eesti Proovikoja registreerimistunnistus kehtivad, kuni nende omaja on kantud majandustegevuse registrisse, kuid mitte kauem kui tegevusloale ja registreerimistunnistusele märgitud tähtpäevani.\n(2) Valmistaja nimemärgis, mis oli väärismetalltoodete proovi seaduse § 8 lõike 1 kohaselt registreeritud Eesti Proovikojas, kantakse nimemärgiste riiklikusse registrisse ainult vastava valmistaja poolt esitatud registreerimistaotluse alusel. Eesti Proovikojas registreeritud nimemärgise kandmine nimemärgiste riiklikusse registrisse on riigilõivuvaba.\n(3) Väärismetalltoodete proovi seaduse §-s 9 sätestatu kohaselt enne käesoleva seaduse jõustumist kontrollmärgisega märgistatud väärismetalltooteid võib müügiks pakkuda ja tasu eest võõrandada sissevedaja nimemärgisega märgistamata.\n(4) Käesoleva seaduse § 40 lõikes 1 nimetatud ainuõiguse andmiseks korraldatakse aasta jooksul pärast käesoleva seaduse jõustumist avalik konkurss konkurentsiseaduses sätestatud korras. Kuni ainuõiguse andmiseni avaliku konkursi tulemuse alusel annab väärismetalli proovi tõendajana tegutsemiseks ainuõiguse majandus- ja kommunikatsiooniministri ettepanekul Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "56",
+      "title": "§ 56.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "57",
+      "title": "§ 57.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "58",
+      "title": "§ 58. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2004. aasta 15. aprillil."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "väärismetall",
+      "definition": "puhas kuld, hõbe, plaatina ja pallaadium ning nende sulamid",
+      "source_provision": "para2"
+    },
+    {
+      "term": "väärismetalli proov",
+      "definition": "arv, mis näitab, mitu massiosa puhast kulda, hõbedat, plaatinat või pallaadiumi sisaldub vastava väärismetalli sulamis selle tuhande massiosa kohta",
+      "source_provision": "para2"
+    },
+    {
+      "term": "väärismetalli standardproov",
+      "definition": "käesoleva seaduse § 4 lõigetes 2 ja 2^1 nimetatud väärismetalli proov",
+      "source_provision": "para2"
+    },
+    {
+      "term": "väärismetalltoode",
+      "definition": "ese, mis on tervikuna või osaliselt valmistatud ühest või enamast vähemalt käesoleva seaduse § 4 lõigetes 2 ja 2^1 lubatud väikseima standardprooviga väärismetallist",
+      "source_provision": "para2"
+    },
+    {
+      "term": "käitlemine",
+      "definition": "väärismetalltoodete valmistamine, sissevedu, müügiks pakkumine ja tasu eest võõrandamine",
+      "source_provision": "para2"
+    },
+    {
+      "term": "valmistamine",
+      "definition": "uute väärismetalltoodete tasu eest võõrandamise eesmärgil valmistamine ning kasutatud väärismetalltoodete parandamine, ümbertegemine ja ennistamine",
+      "source_provision": "para2"
+    },
+    {
+      "term": "sissevedu",
+      "definition": "väärismetalltoodete toimetamine Eestisse eesmärgiga teha need kättesaadavaks kasutusele võtmiseks või levitamiseks",
+      "source_provision": "para2"
+    },
+    {
+      "term": "müügiks pakkumine",
+      "definition": "tegevus, mille käigus väärismetalltoodete valmistaja, sissevedaja, hulgimüüja või jaemüüja pakub väärismetalltooteid tasu eest võõrandamiseks",
+      "source_provision": "para2"
+    },
+    {
+      "term": "investeeringukuld",
+      "definition": "kullakang või kullatahvel, mille puhta kulla sisaldus on vähemalt 995 tuhandikku massiosa, samuti pärast 1800. aastat münditud ja seadusliku maksevahendina käibel olev või käibel olnud kuldmünt, mille puhta kulla sisaldus on vähemalt 900 tuhandikku massiosa ja mida ei müüda numismaatilisel eesmärgil",
+      "source_provision": "para2"
+    },
+    {
+      "term": "turule laskmine",
+      "definition": "tegevus, millega väärismetalltoode tehakse Euroopa Majanduspiirkonna lepingu osalisriigis või Türgis esmakordselt kättesaadavaks kas levitamiseks või kasutusele võtmiseks",
+      "source_provision": "para2"
+    }
+  ]
+}

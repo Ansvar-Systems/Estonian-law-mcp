@@ -1,0 +1,393 @@
+{
+  "id": "ee-law-131012014021",
+  "type": "statute",
+  "title": "Saneerimisseadus",
+  "title_en": "Saneerimisseadus",
+  "short_name": "ee-law-131012014021",
+  "status": "in_force",
+  "issued_date": "2008-12-04",
+  "in_force_date": "2014-07-01",
+  "url": "https://www.riigiteataja.ee/akt/131012014021.xml",
+  "description": "Official consolidated statute text (Saneerimisseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse eesmärk",
+      "content": "Käesolev seadus reguleerib ettevõtte saneerimise menetlust, mille eesmärgiks on ettevõtja, võlausaldaja ja kolmanda isiku huvide arvestamine ja õiguste kaitsmine ettevõtte saneerimise käigus."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Ettevõtte saneerimine",
+      "content": "Ettevõtte saneerimine on abinõude kompleksi rakendamine ettevõtte majanduslike raskuste ületamiseks, tema likviidsuse taastamiseks, kasumlikkuse parandamiseks ja jätkusuutliku majandamise tagamiseks."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Seaduse kohaldamisala",
+      "content": "(1) Saneerimismenetlust kohaldatakse üksnes eraõigusliku juriidilise isiku suhtes.\n(2) Ettevõtja käesoleva seaduse tähenduses on ka see eraõiguslik juriidiline isik, kes ei ole ettevõtja äriseadustiku tähenduses.\n(3) Käesolevat seadust ei kohaldata hasartmängukorraldajale, krediidiasutusele, makseasutusele, e-raha asutusele, kindlustusandjale, investeerimisühingule, fondivalitsejale, aktsiaseltsina asutatud investeerimisfondile, Eesti väärtpaberite keskregistri pidajale, väärtpaberiarveldussüsteemi korraldajale ja maksesüsteemi haldajale."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Tsiviilkohtumenetluse seadustiku kohaldamine",
+      "content": "Saneerimismenetlusele kohaldatakse tsiviilkohtumenetluse seadustikus hagita menetluse kohta sätestatut, kui käesolevast seadusest ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Kohtualluvus",
+      "content": "Saneerimismenetluses kohaldatakse kohtualluvusele pankrotiseaduses pankrotiavalduse esitamise kohta kehtivaid kohtualluvust reguleerivaid sätteid."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Lepingu lõpetamise kokkuleppe tühisus",
+      "content": "Kokkulepe, mille kohaselt võlausaldaja võib saneerimismenetluse algatamisel või saneerimiskava kinnitamisel lepingu lõpetada, on tühine."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - SANEERIMISMENETLUSE ALGATAMINE",
+      "section": "7",
+      "title": "§ 7. Saneerimisavaldus",
+      "content": "(1) Avalduse ettevõtte saneerimise menetluse algatamiseks (edaspidi saneerimisavaldus ) esitab ettevõtja ise.\n(2) Saneerimisavalduses esitab ettevõtja selgituse majanduslike raskuste põhjuste kohta ja põhistab, et:\n1) tema maksejõuetuse tekkimine tulevikus on tõenäoline;\n2) ettevõte vajab saneerimist;\n3) ettevõtte jätkusuutlik majandamine on pärast saneerimist tõenäoliselt võimalik.\n(3) Saneerimisavaldusele tuleb lisada eelmise majandusaasta raamatupidamisaruanne, ülevaade võlgniku finantsseisundist, majandustulemustest ja rahavoogudest ning võlanimekiri saneerimisavalduse esitamise seisuga. Võlanimekirjas märgitakse võlausaldaja nimi, kontaktandmed ning põhi- ja kõrvalnõude suurus, samuti andmed ettevõtja vara kohta.\n(4) Kui kohtule on samal ajal esitatud nii pankrotimenetluse kui ka saneerimismenetluse algatamise avaldus, liidetakse need ühte menetlusse ja avaldused vaatab läbi kohus, kellele esimesena avaldus esitati. Sellisel juhul kohaldatakse pankrotimenetluse algatamise kohta kehtivaid tähtaegu."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - SANEERIMISMENETLUSE ALGATAMINE",
+      "section": "8",
+      "title": "§ 8. Saneerimismenetluse algatamise eeldused",
+      "content": "(1) Kohus algatab saneerimismenetluse, kui saneerimisavaldus vastab tsiviilkohtumenetluse seadustikus ja käesolevas seaduses esitatud nõuetele ning kui ettevõtja on põhistanud, et:\n1) tema maksejõuetuse tekkimine tulevikus on tõenäoline;\n2) ettevõte vajab saneerimist;\n3) ettevõtte jätkusuutlik majandamine on pärast saneerimist tõenäoliselt võimalik.\n(2) Saneerimismenetlust ei algatata, kui:\n1) ettevõtja suhtes on algatatud pankrotimenetlus;\n2) on tehtud kohtumäärus ettevõtja sundlõpetamise kohta või toimub täiendav likvideerimine;\n3) ettevõtja suhtes toimunud saneerimismenetluse lõppemisest on möödunud vähem kui kaks aastat."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - SANEERIMISMENETLUSE ALGATAMINE",
+      "section": "9",
+      "title": "§ 9. Ettevõtja vanne",
+      "content": "(1) Saneerimismenetluse algatamisel võib kohus kohustada ettevõtjat kohtus vandega kinnitama, et kohtule esitatud andmed vara, võlgade ja majandus- või kutsetegevuse kohta on talle teadaolevalt õiged.\n(2) Vande andmisest keeldumisel võib kohus jätta saneerimismenetluse algatamata.\n(3) Ettevõtja annab suuliselt järgmise vande: «Mina, (nimi), kinnitan oma au ja südametunnistuse kohaselt, et kohtule esitatud andmed vara, võlgade ja äritegevuse kohta on mulle teadaolevalt õiged.» Ettevõtja kirjutab vandetekstile alla."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - SANEERIMISMENETLUSE ALGATAMINE",
+      "section": "10",
+      "title": "§ 10. Saneerimismäärus",
+      "content": "(1) Kohus algatab saneerimismenetluse määrusega (edaspidi saneerimismäärus ) seitsme päeva jooksul saneerimisavalduse saamisest arvates.\n(2) Saneerimismääruses märgitakse muu hulgas:\n1) saneerimisnõustajaks määratud isiku andmed;\n2) tähtaeg saneerimiskava vastuvõtmiseks;\n3) tähtaeg, mille jooksul saneerimiskava tuleb esitada kohtule kinnitamiseks;\n4) summa, mille ettevõtja peab tasuma saneerimisnõustaja tasu ja kulutuste katteks deposiidina selleks ettenähtud kontole;\n5) tähtaeg, mille jooksul peab ettevõtja tasuma käesoleva lõike punktis 4 nimetatud summa.\n(3) Käesoleva paragrahvi lõike 2 punktis 3 nimetatud tähtaeg ei või olla pikem kui 60 päeva.\n(4) Saneerimismenetluse algatamisest keeldumise määruse peale võib avaldaja esitada määruskaebuse."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - SANEERIMISMENETLUSE ALGATAMINE",
+      "section": "11",
+      "title": "§ 11. Saneerimismenetluse algatamise tagajärjed",
+      "content": "(1) Saneerimismenetluse algatamise tagajärjed on järgmised:\n1) kohus peatab ettevõtja vara suhtes läbiviidava täitemenetluse kuni saneerimiskava kinnitamiseni või saneerimismenetluse lõppemiseni, välja arvatud täitemenetlus, mis viiakse läbi töösuhte alusel tekkinud nõude või elatise tasumise nõude täitmiseks;\n2) viivise või ajas suureneva leppetrahvi arvestamine ettevõtja vastu suunatud nõudelt peatub kuni saneerimiskava kinnitamiseni;\n3) asja läbivaatav kohus võib ettevõtja avalduse ja sellele lisatud saneerimisnõustaja heakskiidu alusel peatada kuni saneerimiskava kinnitamiseni või saneerimismenetluse lõppemiseni kohtumenetluse, milles on ettevõtja vastu rahaline nõue, välja arvatud töösuhte alusel esitatud nõue või elatise tasumise nõue, mille kohta ei ole veel otsust tehtud;\n4) kohus lükkab võlausaldaja esitatud pankrotiavalduse alusel pankrotimenetluse algatamise otsustamise edasi kuni saneerimiskava kinnitamiseni või saneerimismenetluse lõpetamiseni.\n(2) Käesoleva paragrahvi lõike 1 punktis 3 nimetatud heakskiidus hindab saneerimisnõustaja, kas kohtumenetluse peatamine on ettevõtte saneerimiseks vajalik.\n(3) Ettevõtja avalduse alusel lahendab saneerimismenetluse algatanud kohus ajavahemikul saneerimismenetluse algatamisest kuni saneerimiskava kinnitamiseni hagi tagamise abinõude ja maksuhalduri täitetoimingute või maksuhalduri pangakonto arestimise kehtivuse."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - SANEERIMISMENETLUSE ALGATAMINE",
+      "section": "12",
+      "title": "§ 12. Saneerimisteade",
+      "content": "(1) Saneerimisnõustaja teavitab viivitamata võlausaldajaid saneerimismenetluse algatamisest ja nende nõuete suurusest, mis neil võlanimekirja kohaselt ettevõtja vastu on. Selleks edastab ta neile saneerimisteate.\n(2) Saneerimisteates peavad olema vähemalt järgmised andmed:\n1) saneerimismääruse teinud kohtu andmed ja määruse tegemise aeg;\n2) saneerimisnõustaja nimi või nimetus ja kontaktandmed;\n3) võlausaldaja põhi- ja kõrvalnõude suurus ettevõtja raamatupidamise alusel saneerimismenetluse algatamise seisuga ja kas nõue on pandiga tagatud;\n4) tähtaeg, mille jooksul võlausaldaja peab käesoleva lõike punktis 3 nimetatud nõudega mittenõustumisest saneerimisnõustajat teavitama, ja teavitamata jätmise tagajärjed;\n5) käesoleva seaduse § 11 lõikest 1 tulenevad saneerimismenetluse algatamise tagajärjed;\n6) saneerimiskava vastuvõtmise ja kohtule kinnitamiseks esitamise tähtaeg.\n(3) Käesoleva paragrahvi lõike 2 punktis 4 nimetatud tähtaja pikkus ei või olla lühem kui kaks nädalat ja pikem kui neli nädalat.\n(4) Saneerimisteate posti teel kättetoimetamisel saadetakse saneerimisteade võlanimekirjas märgitud aadressil. Kui see erineb võlausaldaja registrijärgsest aadressist, saadetakse saneerimisteade ka registrijärgsel aadressil."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - SANEERIMISMENETLUSE ALGATAMINE",
+      "section": "13",
+      "title": "§ 13. Nõudega mittenõustumine",
+      "content": "(1) Kui võlausaldaja, kelle nõuet soovitakse saneerimiskavaga ümber kujundada, ei nõustu käesoleva seaduse § 12 lõike 2 punktis 3 nimetatud andmetega, esitab ta saneerimisnõustajale käesoleva seaduse § 12 lõike 2 punktis 4 nimetatud tähtaja jooksul kirjaliku avalduse, milles märgib, mis osas ta saneerimisteates nimetatud nõudega ei nõustu, ja esitab neid asjaolusid tõendavad tõendid. Avalduse tähtpäevaks esitamata jätmisel loetakse, et võlausaldaja on nõude suurusega nõustunud.\n(2) Kui saneerimisnõustaja ei nõustu käesoleva paragrahvi lõikes 1 nimetatud võlausaldaja avalduses oleva väitega, edastab ta avalduse koos tõenditega viivitamata kohtule ja põhjendab, miks ta avalduses märgituga ei nõustu. Saneerimisnõustaja tõendab oma väiteid.\n(3) Kohus otsustab esitatud väidete ja tõendite alusel võlausaldaja põhi- ja kõrvalnõude suuruse ning tagatiste olemasolu ja ulatuse kahe nädala jooksul saneerimisnõustajalt võlausaldaja avalduse saamisest arvates.\n(4) Määrus, millega määratakse kindlaks võlausaldaja põhi- ja kõrvalnõude suurus, toimetatakse kätte ettevõtjale, saneerimisnõustajale ja võlausaldajale.\n(5) Kohtu määruse peale, millega määratakse kindlaks võlausaldaja põhi- ja kõrvalnõude suurus, võib ettevõtja esitada määruskaebuse."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - SANEERIMISMENETLUSE ALGATAMINE",
+      "section": "14",
+      "title": "§ 14. Ettevõtja kaasaaitamiskohustus",
+      "content": "(1) Ettevõtja annab kohtule ja saneerimisnõustajale teavet, mida nad vajavad seoses saneerimismenetlusega.\n(2) Ettevõtja osutab saneerimisnõustajale abi tema ülesannete täitmisel.\n(3) Kui ettevõtja ei täida käesoleva paragrahvi lõigetes 1 ja 2 sätestatud kohustusi, lõpetab kohus saneerimismenetluse."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - SANEERIMISNÕUSTAJA",
+      "section": "15",
+      "title": "§ 15. Saneerimisnõustaja",
+      "content": "(1) Kohus nimetab saneerimisnõustaja saneerimismenetluse algatamisel pärast ettevõtja arvamuse ärakuulamist. Kohus ei ole otsuse tegemisel ettevõtja arvamusega seotud.\n(2) Kui kohus on nimetanud mitu saneerimisnõustajat, kuid ei ole nende ülesannete jaotust kindlaks määranud, täidavad saneerimisnõustajad ülesandeid omavahelise kokkuleppe alusel ja teevad igakülgset koostööd saneerimismenetluse läbiviimisel.\n(3) Saneerimisnõustajana võib tegutseda:\n1) vandeadvokaat, pankrotihaldur või audiitor;\n2) muu füüsiline isik, kes on aus ja kõlbeline ning valdab kõnes ja kirjas eesti keelt, kellel on head majandus- ja vajalikud õigusteadmised ning kes on omandanud vähemalt riiklikult tunnustatud magistrikraadi, sellele vastava kvalifikatsiooni Eesti Vabariigi haridusseaduse § 28 lõike 2^2 tähenduses või sellele vastava välisriigi kvalifikatsiooni;\n3) investeerimisühing või krediidiasutus.\n(4) Kui saneerimisnõustajana tegutseb käesoleva paragrahvi lõike 3 punktis 3 nimetatud isik, teatab ta kohtule selle füüsilise isiku nime ja kontaktandmed, kes tema nimel saneerimisnõustaja ülesandeid täidab või ülesande täitmist korraldab. See füüsiline isik peab vastama käesoleva paragrahvi lõike 3 punktis 2 sätestatud tingimustele.\n(5) Saneerimisnõustaja või käesoleva paragrahvi lõikes 4 nimetatud isik ei tohi olla kohtu töötaja ning peab olema sõltumatu ettevõtjast ja saneerimismenetluse osalisest.\n(6) Saneerimisnõustaja määramiseks on vajalik isiku nõusolek.\n(7) Saneerimisnõustajaks ega käesoleva paragrahvi lõikes 4 nimetatud isikuks ei või olla isik:\n1) kellel on karistatus tahtlikult toimepandud kuriteo eest;\n2) kes on viimase kümne aasta jooksul tagandatud kohtuniku-, notari-, prokuröri- või kohtutäituriametist, välja heidetud advokatuurist või kelle kutsetegevus audiitorina on lõpetatud, välja arvatud audiitori kutsetegevuse lõpetamine isiku enda avalduse alusel;\n3) kes on viimase viie aasta jooksul avalikust teenistusest distsiplinaarsüüteo eest vabastatud;\n4) kes on pankrotivõlgnik;\n5) kelle kohta kehtib ärikeeld;\n6) kes on kohtuotsusega jäetud ilma õigusest olla pankrotihaldur või ettevõtja."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - SANEERIMISNÕUSTAJA",
+      "section": "16",
+      "title": "§ 16. Saneerimisnõustaja ülesanded",
+      "content": "(1) Saneerimisnõustaja täidab oma ülesandeid korralikule ja ausale saneerimisnõustajale omase hoolsusega ning arvestab kõigi menetlusosaliste huve.\n(2) Saneerimisnõustaja ülesanne on teavitada võlausaldajat ja kohut erapooletult ning asjatundlikult ettevõtte majanduslikust olukorrast ja saneerimisvõimalustest, nõustada ja abistada ettevõtjat saneerimismenetluse jooksul ning kontrollida võlausaldaja nõude õiguspärasust ja ettevõtja tehingute otstarbekust.\n(3) Saneerimisnõustaja:\n1) viib end viivitamata kurssi ettevõtte majandusliku olukorra ja kavandatava saneerimisega;\n2) analüüsib saneerimismenetluse vältel ettevõtja maksevõimet ning maksejõuetuse ilmnemisel teatab sellest kohe kohtule ja ettevõtjale;\n3) abistab ettevõtjat saneerimiskava koostamisel ja läbirääkimistel võlausaldaja ja krediidiandjaga;\n4) annab kohtule, võlausaldajale ja krediidiandjale mõistliku aja jooksul pärast taotluse saamist teavet ettevõtte majandusliku olukorra ja saneerimiskava koostamise kohta;\n5) annab kohtule teavet oma ülesande täitmise kohta;\n6) hindab ümberkujundatava nõude tõendatust ja õiguspärasust ning teavitab kohut nõudest, mida tegelikult ei ole, mille suurus on ebaselge või mille õiguspärasust ega tõendatust ei saa hinnata;\n7) küsib vajaduse korral ettevõtjalt ja võlausaldajalt tõendeid ümberkujundatava nõude kohta;\n8) täidab seadusest tulenevat või kohtu poolt antud muud ülesannet, mis on vajalik saneerimismenetluse läbiviimiseks.\n(4) Käesoleva paragrahvi lõike 3 punktis 2 nimetatud saneerimisnõustaja kohustuse rikkumine ei mõjuta juriidilise isiku juhatuse või seda asendava organi liikme vastutust pankrotiavalduse esitamata jätmise eest.\n(5) Saneerimisnõustaja on kohustatud hoidma talle tema ülesannete tõttu teatavaks saanud ärisaladust, samuti hoidma isikuandmeid ja muud konfidentsiaalsena saadud teavet."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - SANEERIMISNÕUSTAJA",
+      "section": "17",
+      "title": "§ 17. Saneerimisnõustaja vastutus",
+      "content": "(1) Saneerimisnõustaja, kes on oma kohustuse süülise rikkumisega tekitanud ettevõtjale kahju, peab selle hüvitama.\n(2) Saneerimisnõustaja kohustuse rikkumisest tuleneva kahju hüvitamise nõude aegumise tähtaeg on kolm aastat alates päevast, millal kannatanu sai teada kahjust ja saneerimisnõustaja vastutuse aluseks olevast asjaolust, kuid mitte üle kolme aasta saneerimisnõustaja vabastamisest."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - SANEERIMISNÕUSTAJA",
+      "section": "18",
+      "title": "§ 18. Saneerimisnõustaja tasu ja kulutuste hüvitamine",
+      "content": "(1) Saneerimismenetluse algatamisel määrab kohus tähtaja, mille jooksul ettevõtja peab tasuma saneerimisnõustaja esialgse tasu ja esialgsete kulutuste katteks deposiidina selleks ettenähtud kontole kohtu määratud summa. Kui ettevõtja jätab summa tasumata, lõpetab kohus saneerimismenetluse.\n(2) Saneerimisnõustaja vabastamisel või saneerimiskava kinnitamisel on saneerimisnõustajal õigus saada oma kohustuste täitmiseks tehtud vajalike ja põhjendatud kulutuste eest hüvitist ja tasu oma ülesannete täitmise eest.\n(3) Saneerimisnõustaja tasu ja kulutuste hüvitise suuruse otsustab kohus saneerimisnõustaja vabastamisel või saneerimiskava kinnitamisel saneerimisnõustaja tegevuse ja kulutuste aruande alusel, mis on esitatud käesoleva seaduse § 10 lõike 2 punktis 3 nimetatud tähtaja jooksul. Kohus võib saneerimiskava kinnitamisel määrata, et saneerimisnõustaja tasu ja kulutuste hüvitis tasutakse osamaksetena. Kohus võib saneerimisnõustaja tasu määramisel ära kuulata ka ettevõtja.\n(4) Saneerimisnõustaja tasu ja hüvitamisele kuuluvate kulutuste arvestamise korra ning tasu piirmäärad protsentides kehtestab justiitsminister määrusega.\n(5) Käesoleva paragrahvi lõikes 3 nimetatud kohtulahend on ettevõtja suhtes täitedokumendiks selle summa ulatuses, mis ületab käesoleva paragrahvi lõikes 1 nimetatud deposiidina selleks ettenähtud kontole makstud summat.\n(6) Käesoleva paragrahvi lõikes 3 nimetatud kohtumääruse peale võib ettevõtja või saneerimisnõustaja esitada määruskaebuse."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - SANEERIMISNÕUSTAJA",
+      "section": "19",
+      "title": "§ 19. Saneerimisnõustaja vabastamine",
+      "content": "(1) Kohus vabastab saneerimisnõustaja:\n1) tema soovil;\n2) saneerimismenetluse lõppemisel;\n3) kui saneerimisnõustaja on jätnud oma ülesande täitmata või ei täida seda nõuetekohaselt;\n4) kui selgub, et saneerimisnõustajal ei ole õigust saneerimisnõustajana tegutseda.\n(2) Vabastamise soovist teatab saneerimisnõustaja kohtule kirjalikult kümme päeva ette.\n(3) Käesoleva paragrahvi lõike 1 punktides 3 ja 4 nimetatud alustel vabastab kohus saneerimisnõustaja omal algatusel või ettevõtja avalduse alusel.\n(4) Kui saneerimisnõustaja vabastatakse saneerimismenetluse kestel, nimetab kohus uue saneerimisnõustaja.\n(5) Määruse peale, millega kohus on saneerimisnõustaja käesoleva paragrahvi lõike 1 punktis 3 või 4 nimetatud alusel vabastanud, võib saneerimisnõustaja esitada määruskaebuse. Ringkonnakohtu määruse peale määruskaebuse kohta võib esitada määruskaebuse."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "20",
+      "title": "§ 20. Saneerimiskava koostamine ja võlausaldajatele tutvumiseks esitamine",
+      "content": "(1) Pärast saneerimismenetluse algatamist koostab saneerimisnõustaja ettevõtja nimel saneerimiskava.\n(2) Kui saneerimiskava koostatakse pärast saneerimismenetluse algatamist, tuleb käesoleva seaduse § 10 lõike 2 punktis 2 nimetatud tähtaja jooksul:\n1) selgitada välja ettevõtte saneerimise võimalused ja finantseerimise allikas;\n2) vajaduse korral pidada võlausaldajaga läbirääkimisi nõuete ümberkujundamiseks;\n3) teha muid ettevõtte saneerimiseks vajalikke toiminguid.\n(3) Vähemalt kaks nädalat enne käesoleva seaduse § 12 lõike 2 punktis 6 nimetatud tähtaja lõppu toimetatakse saneerimiskava projekt võlausaldajale kätte sellega tutvumiseks ja seisukoha võtmiseks.\n(4) Saneerimiskava projekt toimetatakse võlausaldajale kätte, arvestades käesoleva seaduse §-s 12 saneerimisteate kättetoimetamise kohta sätestatut."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "21",
+      "title": "§ 21. Saneerimiskava",
+      "content": "(1) Saneerimiskavas peab muu hulgas sisalduma:\n1) ettevõtte majandusliku seisundi kirjeldus saneerimismenetluse algatamise seisuga ja nende põhjuste analüüs, mis on kaasa toonud ettevõtte saneerimise vajaduse;\n2) ettevõtte prognoositav majanduslik seisund pärast saneerimist;\n3) saneerimiskava täitmise tähtaeg;\n4) rakendatava saneerimisabinõu kirjeldus ja eesmärgipärasuse analüüs, sealhulgas võlausaldaja nõude ümberkujundamise kirjeldus ja põhjendus;\n5) saneerimiskava mõju ettevõtte töötajale.\n(2) Saneerimiskavas võib ette näha, et võlausaldajate nõuded rahuldatakse võlausaldajate rühmade kaupa. Ühe rühma moodustavad ühesuguste õigustega võlausaldajad. Rühmade moodustamise alused ja põhjendus esitatakse saneerimiskavas."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "22",
+      "title": "§ 22. Nõude ümberkujundamine",
+      "content": "(1) Nõude ümberkujundamine on muu hulgas:\n1) kohustuse täitmise tähtaja pikendamine;\n2) rahalise nõude täitmine osamaksetega;\n3) võlasumma vähendamine;\n4) kohustuse asendamine juriidilise isiku osa või aktsiaga.\n(2) Saneerimiskavas ei saa ümber kujundada töölepingu alusel tekkinud nõuet."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "23",
+      "title": "§ 23. Saneerimiskava vastuvõtmise koosoleku teade ja üleskutse esitada seisukoht saneerimiskava vastuvõtmiseks",
+      "content": "(1) Käesoleva seaduse § 20 lõikes 3 nimetatud saneerimiskava projektile lisatakse saneerimiskava vastuvõtmise koosoleku teade või üleskutse esitada saneerimiskava vastuvõtmise kuupäevaks kirjalikult seisukoht saneerimiskava vastuvõtmiseks.\n(2) Teates märgitakse koosoleku või hääletamise aeg ja koht. Nii teates kui ka üleskutses selgitatakse võlausaldajale koosolekult puudumise või seisukoha esitamata jätmise tagajärgi.\n(3) Koosoleku teade või üleskutse toimetatakse võlausaldajale kätte, arvestades käesoleva seaduse §-s 12 saneerimisteate kättetoimetamise kohta sätestatut."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "24",
+      "title": "§ 24. Saneerimiskava vastuvõtmine",
+      "content": "(1) Saneerimiskava võtavad vastu võlausaldajad hääletamise teel koosolekul või koosolekut pidamata.\n(2) Võlausaldaja häälte arv on võrdeline tema põhinõude suurusega, mis on kindlaks tehtud käesoleva seaduse alusel.\n(3) Saneerimiskava on vastu võetud, kui selle poolt hääletas vähemalt pool kõigist võlausaldajatest, kellele kuulub vähemalt kaks kolmandikku kõigist häältest.\n(4) Kui võlausaldajad on saneerimiskava alusel jaotatud rühmadesse, siis on kava vastu võetud, kui igas rühmas hääletas saneerimiskava poolt vähemalt pool kõigist ühte rühma kuuluvatest võlausaldajatest, kellele kuulub vähemalt kaks kolmandikku rühmas esindatud häältest.\n(5) Võlausaldaja, kelle nõuet saneerimiskavaga ümber ei kujundata, ei või hääletamisel osaleda ja tema nõude suurust ei arvestata käesoleva paragrahvi lõigetes 3 ja 4 nimetatud suhtarvude arvutamisel."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "25",
+      "title": "§ 25. Hääletusprotokoll",
+      "content": "(1) Hääletustulemuste kohta koostatakse hääletusprotokoll, kuhu kantakse:\n1) andmed ettevõtja kohta;\n2) protokollija nimi;\n3) nende isikute nimekiri, kellele saadeti käesoleva seaduse § 23 kohaselt teade või üleskutse;\n4) koosolekul toimunud hääletamise korral ka koosolekul osalenud isikute nimekiri ja nende häälte arv;\n5) koosolekut pidamata toimunud hääletamisel osalenud isikute nimekiri ja nende häälte arv;\n6) hääletamistulemus, sealhulgas otsuse poolt hääletanud võlausaldajad nimeliselt;\n7) kui hääletamine toimus rühmades, siis hääletamistulemused rühmade kaupa;\n8) saneerimiskava vastuvõtmises eriarvamusele jäänud võlausaldaja nõudel tema eriarvamuse sisu;\n9) muud hääletamise suhtes olulise tähtsusega asjaolud.\n(2) Kui hääletamine toimub koosolekut pidamata või võlausaldaja on koosoleku toimumise ajaks esitanud kirjalikult oma seisukoha, on hääletusprotokolli lahutamatuks lisaks võlausaldaja kirjalik seisukoht."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "26",
+      "title": "§ 26. Võlausaldaja avaldus saneerimiskava kinnitamata jätmiseks",
+      "content": "Võlausaldaja võib esitada kohtule käesoleva seaduse § 10 lõike 2 punktis 3 nimetatud tähtaja jooksul põhjendatud avalduse, milles palub jätta saneerimiskava kinnitamata, kui:\n1) ta on hääletanud saneerimiskava vastu;\n2) tema õigusi on saneerimiskava koostamise või saneerimiskava vastuvõtmise käigus oluliselt rikutud või\n3) saneerimiskava alusel koheldakse teda oluliselt halvemini võrreldes teiste võlausaldajatega või võrreldes teiste samasse rühma kuuluvate võlausaldajatega."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "27",
+      "title": "§ 27. Saneerimisnõustaja arvamus",
+      "content": "(1) Saneerimisnõustaja esitab kohtule saneerimiskava esitamisega samal ajal kirjaliku arvamuse saneerimiskava kohta.\n(2) Saneerimisnõustaja annab põhjendatud hinnangu muu hulgas sellele, kas:\n1) ettevõtte majandusliku olukorra parandamine ja tema kasumlikkuse taastamine on saneerimiskava alusel võimalik;\n2) nõue, mida saneerimiskavaga ümber kujundatakse, on tõendatud ja õiguspärane;\n3) tegemist on olulise ettevõtjaga ja muu hulgas ka olulise tööandjaga.\n(3) Koos arvamusega esitab saneerimisnõustaja kohtule tegevuse ja kulutuste aruande."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "28",
+      "title": "§ 28. Vastuvõetud saneerimiskava kinnitamine",
+      "content": "(1) Kui võlausaldajad on saneerimiskava vastu võtnud, esitatakse see käesoleva seaduse § 10 lõike 2 punktis 3 nimetatud tähtaja jooksul kohtule kinnitamiseks. Saneerimiskavale lisatakse hääletusprotokoll koos lisadega.\n(2) Kohus kinnitab vastuvõetud saneerimiskava 30 päeva jooksul selle saamisest arvates. Kinnitamisel kontrollib kohus, kas:\n1) käesoleva seaduse §-s 12 nimetatud saneerimisteade on võlausaldajale edastatud ja kas see vastab käesolevas seaduses esitatud nõuetele;\n2) saneerimiskava projekt on § 20 lõike 3 kohaselt võlausaldajale tutvumiseks edastatud;\n3) käesoleva seaduse § 23 lõikes 1 nimetatud teade saneerimiskava vastuvõtmise koosolekul osalemiseks või üleskutse seisukoha esitamiseks on võlausaldajale edastatud;\n4) saneerimiskava vastab käesoleva seaduse §-s 21 ettenähtud nõuetele;\n5) saneerimiskava vastuvõtmisel on järgitud käesoleva seaduse §-s 24 ettenähtud nõudeid, eelkõige kas saneerimiskava poolt on antud nõutav arv hääli ja hääletamisel ei ole rikutud võlausaldaja õigusi.\n(3) Saneerimiskava kinnitamisel annab kohus hinnangu võlausaldaja avaldusele saneerimiskava kinnitamata jätmiseks.\n(4) Saneerimiskava kinnitamise otsustamiseks võib kohus pidada istungi.\n(5) Kohus jätab saneerimiskava kinnitamata ja lõpetab saneerimismenetluse, kui käesoleva paragrahvi lõike 2 kohasel kontrollimisel, käesoleva seaduse § 26 alusel esitatud avaldusest, saneerimisnõustaja arvamusest või muudest asjaoludest selgub, et:\n1) käesolevast seadusest tuleneva nõude rikkumine on oluliselt mõjutanud hääletamistulemusi;\n2) saneerimiskava alusel koheldaks võlausaldajat oluliselt halvemini võrreldes teiste võlausaldajatega;\n3) ettevõtte saneerimine on ebatõenäoline või\n4) esinevad muud asjaolud, mis õigustavad kava kinnitamata jätmist."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "29",
+      "title": "§ 29. Vastuvõtmata saneerimiskava kinnitamise avaldus",
+      "content": "(1) Kui võlausaldajad ei ole saneerimiskava vastu võtnud, võib ettevõtja teha kohtule avalduse selle kinnitamiseks, kui:\n1) saneerimiskava vastuvõtmiseks korraldatud hääletamisest võttis osa alla poole kõigist võlausaldajatest või mõnes rühmas võttis hääletamisest osa alla poole rühma kuuluvatest võlausaldajatest;\n2) saneerimiskava poolt hääletas vähemalt pool kõigist võlausaldajatest või rühmas vähemalt pool rühma kuuluvatest võlausaldajatest.\n(2) Avaldus esitatakse käesoleva seaduse § 10 lõike 2 punktis 3 nimetatud tähtaja jooksul.\n(3) Avaldusele lisatakse saneerimiskava, hääletusprotokoll koos lisadega, saneerimisnõustaja arvamus ja tõendid saneerimiskava projekti ning käesoleva seaduse §-s 23 nimetatud teate või üleskutse kättetoimetamise kohta."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "30",
+      "title": "§ 30. Vastuvõtmata saneerimiskava kinnitamise avalduse rahuldamine",
+      "content": "(1) Kohus rahuldab käesoleva seaduse §-s 29 nimetatud avalduse, tehes selle kohta määruse 14 päeva jooksul avalduse saamisest arvates, kui:\n1) saneerimisteade on võlausaldajale, kelle nõuet soovitakse saneerimiskavaga ümber kujundada, kätte toimetatud;\n2) käesoleva seaduse §-s 23 nimetatud teade või üleskutse on võlausaldajale kätte toimetatud;\n3) saneerimiskava vastab käesoleva seaduse § 21 nõuetele;\n4) saneerimisnõustaja hinnangul on ettevõtte saneerimine tõenäoline;\n5) tegemist on olulise ettevõtjaga, ka olulise tööandjaga;\n6) on täidetud käesoleva seaduse §-s 29 esitatud tingimused.\n(2) Määruses märgitakse muu hulgas:\n1) vähemalt kahe saneerimiskava hindava eksperdi andmed;\n2) summa, mille ettevõtja peab tasuma ekspertide tasu ja kulutuste katteks deposiidina selleks ettenähtud kontole;\n3) tähtaeg, mille jooksul ettevõtja peab tasuma käesoleva lõike punktis 2 nimetatud summa;\n4) tähtaeg, millal kohus otsustab saneerimiskava kinnitamise.\n(3) Käesoleva paragrahvi lõike 2 punktis 4 nimetatud tähtaeg ei või olla pikem kui 60 päeva määruse tegemisest arvates.\n(4) Kui ettevõtja jätab ekspertide tasu ja kulutuste katteks kohtu määratud summa deposiidina selleks ettenähtud kontole tähtpäevaks tasumata, jätab kohus avalduse rahuldamata ja lõpetab saneerimismenetluse.\n(5) Määruses annab kohus hinnangu käesoleva seaduse §-s 29 nimetatud võlausaldaja avaldusele saneerimiskava kinnitamata jätmiseks.\n(6) Kui kohus jätab avalduse menetlusse võtmata, siis saneerimismenetlus lõpeb.\n(7) Määruse peale, millega kohus avalduse menetlusse võtab või võtmata jätab, võib ettevõtja või võlausaldaja esitada määruskaebuse. Ringkonnakohtu määruse peale määruskaebuse kohta võib esitada määruskaebuse."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "31",
+      "title": "§ 31. Ekspert",
+      "content": "(1) Määruses, millega kohus võtab menetlusse ettevõtja avalduse kinnitada saneerimiskava, mille võlausaldajad on jätnud vastu võtmata, nimetab kohus vähemalt kaks eksperti, kes annavad saneerimiskavale hinnangu.\n(2) Eksperdina võib tegutseda;\n1) pädev ja suurte majandusalaste kogemustega audiitor või pankrotihaldur;\n2) muu füüsiline isik, kes on aus ja kõlbeline ning valdab kõnes ja kirjas eesti keelt, kellel on head majandus- ja vajalikud õigusteadmised ning kes on omandanud vähemalt riiklikult tunnustatud magistrikraadi, sellele vastava kvalifikatsiooni Eesti Vabariigi haridusseaduse § 28 lõike 2^2 tähenduses või sellele vastava välisriigi kvalifikatsiooni;\n3) investeerimisühing või krediidiasutus.\n(3) Kui saneerimisnõustajana tegutseb käesoleva paragrahvi lõike 2 punktis 3 nimetatud isik, teatab ta kohtule selle füüsilise isiku nime ja kontaktandmed, kes tema nimel saneerimisnõustaja ülesandeid täidab või ülesande täitmist korraldab. See füüsiline isik peab vastama käesoleva paragrahvi lõike 2 punktis 2 sätestatud tingimustele.\n(4) Ekspert või käesoleva paragrahvi lõike 3 kohaselt eksperdi ülesandeid täitev isik ei tohi olla kohtu töötaja ning peab olema sõltumatu ettevõtjast ja saneerimismenetluse osalisest.\n(5) Eksperdile kohaldatakse tsiviilkohtumenetluse seadustikus eksperdi kohta sätestatut, arvestades käesolevast seadusest tulenevaid erisusi.\n(6) Eksperdi määramiseks on vajalik isiku nõusolek."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "32",
+      "title": "§ 32. Eksperdi õigused ja kohustused",
+      "content": "(1) Ekspert koostab kohtu määratud tähtaja jooksul saneerimiskava kohta kirjaliku, erapooletu ja asjatundliku analüüsi, milles esitab põhjendatud arvamuse ettevõtte saneerimise vajaduse, nõuete ümberkujundamise ja muude saneerimisabinõude eesmärgipärasuse, ettevõtte saneerimise edukuse tõenäosuse, võlausaldaja huvide ja õiguste arvestamise ning ettevõtte saneerimiseks muu olulise asjaolu kohta, sealhulgas ettevõtte olulisuse kohta tööandjana.\n(2) Ekspert täidab oma ülesandeid sõltumatult ja professionaalselt, tuginedes üksnes kohtu antud juhtnööridele.\n(3) Eksperdil on õigus saada kohtult, ettevõtjalt, saneerimisnõustajalt ja muudelt isikutelt vajalikku teavet oma ülesannete täitmiseks. Kohustuse täitmisel saadud teavet võib ekspert kasutada ainult ülesande täitmiseks.\n(4) Ekspert on kohustatud hoidma talle tema ülesannete tõttu teatavaks saanud ärisaladust, samuti hoidma saladuses isikuandmeid ja muud konfidentsiaalsena saadud teavet."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "33",
+      "title": "§ 33. Eksperdi tasu ja kulutuste hüvitamine",
+      "content": "(1) Eksperdi vabastamisel on eksperdil õigus saada oma kohustuste täitmiseks tehtud vajalike ja põhjendatud kulutuste eest hüvitist ning tasu oma ülesannete täitmise eest.\n(2) Eksperdi tasu ja kulutuste hüvitise suuruse otsustab kohus eksperdi vabastamisel eksperdi tegevuse ja kulutuste aruande alusel, mis on esitatud kohtu määratud tähtaja jooksul. Kohus võib eksperdi tasu määramisel ära kuulata ka ettevõtja.\n(3) Eksperdi tasu ja hüvitamisele kuuluvate kulutuste arvestamise korra ning tasu piirmäärad protsentides kehtestab justiitsminister määrusega.\n(4) Käesoleva paragrahvi lõikes 2 nimetatud määrus on ettevõtja suhtes täitedokumendiks selle summa ulatuses, mis ületab käesoleva seaduse § 30 lõike 2 punktis 2 nimetatud deposiidina selleks ettenähtud kontole makstud summat.\n(5) Eksperdi tasu ja kulutuste hüvitise suuruse kohta tehtud kohtumääruse vaidlustamiseks võib ettevõtja või ekspert esitada määruskaebuse."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "34",
+      "title": "§ 34. Eksperdi vabastamine",
+      "content": "(1) Kohus vabastab eksperdi:\n1) tema soovil;\n2) saneerimismenetluse lõppemisel või saneerimiskava kinnitamisel;\n3) kui ekspert on jätnud oma ülesande täitmata või ei täida seda nõuetekohaselt;\n4) kui selgub, et eksperdil ei ole õigust eksperdina tegutseda.\n(2) Vabastamise soovist teatab ekspert kohtule kirjalikult kümme päeva ette.\n(3) Kui ekspert vabastatakse saneerimismenetlust lõpetamata või enne saneerimiskava kinnitamist, nimetab kohus uue eksperdi.\n(4) Määruse peale, millega kohus on eksperdi käesoleva paragrahvi lõike 1 punktis 3 nimetatud alusel vabastanud, võib ekspert esitada määruskaebuse. Ringkonnakohtu määruse peale määruskaebuse kohta võib esitada määruskaebuse."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "35",
+      "title": "§ 35. Eksperdi vastutus",
+      "content": "(1) Ekspert vastutab süüliselt tekitatud kahju eest.\n(2) Eksperdi kohustuse rikkumisest tuleneva kahju hüvitamise nõude aegumise tähtaeg on kolm aastat alates päevast, millal kannatanu sai teada kahjust ja eksperdi vastutuse aluseks olevast asjaolust, kuid mitte üle kolme aasta eksperdi vabastamisest."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "36",
+      "title": "§ 36. Vastuvõtmata saneerimiskava kinnitamine",
+      "content": "Kohus kinnitab võlausaldajate poolt vastu võtmata saneerimiskava, kui:\n1) ei ole rikutud käesolevast seadusest tulenevaid nõudeid;\n2) ekspertide hinnangul on ettevõtte saneerimine tõenäoliselt edukas;\n3) saneerimiskava alusel ei kohelda mõnda võlausaldajat oluliselt halvemini võrreldes teiste võlausaldajatega või võrreldes teiste samasse rühma kuuluvate võlausaldajatega;\n4) tegemist on olulise ettevõtjaga, ka olulise tööandjaga."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "4. peatükk - SANEERIMISKAVA KOOSTAMINE, VASTUVÕTMINE JA KINNITAMINE",
+      "section": "37",
+      "title": "§ 37. Saneerimiskava kinnitamise määrus",
+      "content": "(1) Määrus, millega saneerimiskava kinnitatakse või kinnitamata jäetakse, toimetatakse kätte ettevõtjale ja kõigile võlausaldajatele, kelle õigusi saneerimiskavaga mõjutatakse. Määrus, millega saneerimiskava kinnitatakse, on kohe täidetav.\n(2) Saneerimiskava kinnitamata jätmise määrusega lõpetab kohus saneerimismenetluse.\n(3) Määruse peale, millega saneerimiskava kinnitatakse või kinnitamata jäetakse, võib ettevõtja või võlausaldaja esitada määruskaebuse."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "5. peatükk - SANEERIMISMENETLUSE LÕPPEMINE",
+      "section": "38",
+      "title": "§ 38. Saneerimismenetluse lõppemise alused",
+      "content": "(1) Saneerimismenetlus lõpeb ennetähtaegsel lõpetamisel, saneerimiskava tühistamisel, saneerimiskava ennetähtaegsel täitmisel või saneerimiskavas märgitud saneerimiskava täitmise tähtaja möödumisel.\n(2) Saneerimiskava ennetähtaegsel täitmisel lõpeb saneerimismenetlus, kui ettevõtja on kõik saneerimiskavaga võetud kohustused täitnud enne saneerimiskava täitmise tähtaja möödumist."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "5. peatükk - SANEERIMISMENETLUSE LÕPPEMINE",
+      "section": "39",
+      "title": "§ 39. Saneerimismenetluse ennetähtaegne lõpetamine",
+      "content": "(1) Saneerimismenetluse võib ennetähtaegselt lõpetada üksnes enne saneerimiskava kinnitamist.\n(2) Kohus lõpetab saneerimismenetluse ennetähtaegselt:\n1) ettevõtja kaasaaitamiskohustuse rikkumise tõttu – käesoleva seaduse § 14 lõike 3 kohaselt;\n2) kui ettevõtja jätab tasumata saneerimisnõustaja või eksperdi tasu ja kulutuste katteks deposiidina selleks ettenähtud kontole kohtu määratud summa – käesoleva seaduse § 18 lõike 1 või § 30 lõike 4 kohaselt;\n3) saneerimiskava kinnitamata jätmise tõttu – käesoleva seaduse § 28 lõike 5 kohaselt;\n4) vastuvõtmata saneerimiskava kinnitamise avalduse rahuldamata jätmisel – tulenevalt käesoleva seaduse § 30 lõikest 6;\n5) vastuvõtmata saneerimiskava kinnitamata jätmisel – tulenevalt käesoleva seaduse § 37 lõikest 2;\n6) ettevõtja avalduse alusel – käesoleva seaduse § 40 lõike 1 kohaselt;\n7) saneerimismenetluse algatamise eelduste äralangemise korral – käesoleva seaduse § 40 lõike 2 kohaselt;\n8) ettevõtja vara raiskamise või võlausaldajate huvide kahjustamise korral – käesoleva seaduse § 41 kohaselt;\n9) saneerimiskava tähtpäevaks esitamata jätmise tõttu – käesoleva seaduse § 42 kohaselt;\n10) nõude ebaselguse tõttu – käesoleva seaduse § 43 kohaselt."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "5. peatükk - SANEERIMISMENETLUSE LÕPPEMINE",
+      "section": "40",
+      "title": "§ 40. Saneerimismenetluse lõpetamine ettevõtja avalduse alusel ja eelduse äralangemise korral",
+      "content": "(1) Ettevõtjal on õigus esitada kohtule avaldus saneerimismenetluse lõpetamiseks.\n(2) Kohus lõpetab saneerimismenetluse, kui selgub, et ettevõtja on püsivalt maksejõuetu või muu saneerimismenetluse algatamise eeldus on ära langenud."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "5. peatükk - SANEERIMISMENETLUSE LÕPPEMINE",
+      "section": "41",
+      "title": "§ 41. Saneerimismenetluse lõpetamine vara raiskamise ja võlausaldajate huvide kahjustamise korral",
+      "content": "(1) Kohus lõpetab saneerimismenetluse, kui selgub, et ettevõtja raiskab oma vara või teeb tehingu, mis kahjustab võlausaldajate huve.\n(2) Kohus küsib saneerimismenetluse lõpetamise otsustamisel ettevõtjalt selgitust tema tegevuse kohta.\n(3) Kohus võib küsida saneerimisnõustajalt hinnangut ettevõtja tegevuse kohta."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "5. peatükk - SANEERIMISMENETLUSE LÕPPEMINE",
+      "section": "42",
+      "title": "§ 42. Saneerimismenetluse lõpetamine saneerimiskava tähtpäevaks esitamata jätmise tõttu",
+      "content": "Kohus lõpetab saneerimismenetluse, kui ettevõtja jätab saneerimiskava käesoleva seaduse § 10 lõike 2 punktis 3 nimetatud tähtaja jooksul kohtule kinnitamiseks esitamata."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "5. peatükk - SANEERIMISMENETLUSE LÕPPEMINE",
+      "section": "43",
+      "title": "§ 43. Saneerimismenetluse lõpetamine nõude ebaselguse tõttu",
+      "content": "(1) Kohus lõpetab saneerimismenetluse, kui selgub, et ettevõtja vastu olevat nõuet, mida saneerimiskavaga soovitakse ümber kujundada, tegelikult ei ole, selle suurus on ebaselge või saneerimisnõustajal ei ole võimalik hinnata nõude õiguspärasust ega tõendatust.\n(2) Kohtu määruse peale, millega saneerimismenetlus lõpetatakse, võib ettevõtja esitada määruskaebuse."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "5. peatükk - SANEERIMISMENETLUSE LÕPPEMINE",
+      "section": "44",
+      "title": "§ 44. Saneerimismenetluse ennetähtaegse lõpetamise tagajärjed",
+      "content": "(1) Kui kohus lõpetab saneerimismenetluse ennetähtaegselt, langevad tagasiulatuvalt ära kõik saneerimismenetluse algatamise tagajärjed.\n(2) Saneerimismenetluse ennetähtaegsel lõpetamisel teatab saneerimisnõustaja saneerimismenetluse lõppemisest käesoleva seaduse § 11 lõike 1 punkti 1 alusel peatatud täitemenetlust läbiviivale kohtutäiturile ja sama paragrahvi lõike 1 punkti 3 alusel peatatud kohtumenetlust läbiviivale kohtunikule."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "6. peatükk - SANEERIMISKAVA KEHTIVUS, TÜHISTAMINE JA SANEERIMISMENETLUSELE JÄRGNEV PANKROTIMENETLUS",
+      "section": "45",
+      "title": "§ 45. Saneerimiskava kinnitamise üldised tagajärjed",
+      "content": "(1) Saneerimiskava kinnitamisega hakkab saneerimiskavas ettenähtud õiguslik tagajärg kehtima ettevõtja ja isiku kohta, kelle õigusi saneerimiskavaga mõjutatakse.\n(2) Käesoleva paragrahvi lõige 1 ei kehti, kui esinevad käesoleva seaduse §-s 46 nimetatud asjaolud.\n(3) Saneerimiskavas väljendatud tahteavaldust peetakse kehtivaks, kui see on esitatud seaduses või kokkuleppes ettenähtud vormis.\n(4) Saneerimiskava ei vabasta ettevõtja kohustuse täitmise eest solidaarselt vastutavat isikut oma kohustuse täitmisest. Kui ettevõtja kohustuse täitmise eest solidaarselt vastutav isik on kohustuse täitnud, on tal ettevõtja suhtes tagasinõudeõigus üksnes selles ulatuses, milles ettevõtja vastutaks kohustuse täitmise eest saneerimiskava järgi.\n(5) Kohtu kinnitatud saneerimiskava on täitedokument saneerimiskavaga ümberkujundatud nõude suhtes. Kui saneerimiskavas on ette nähtud kohustuse täitmise tähtaja pikendamine, ei saa saneerimiskavas nimetatud tähtaja jooksul nõuet maksma panna.\n(6) Käesoleva paragrahvi lõige 4 kehtib ka isiku kohta, kes saneerimiskavaga võtab endale kohustuse tagada ettevõtja kohustust võlausaldaja ees."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "6. peatükk - SANEERIMISKAVA KEHTIVUS, TÜHISTAMINE JA SANEERIMISMENETLUSELE JÄRGNEV PANKROTIMENETLUS",
+      "section": "46",
+      "title": "§ 46. Saneerimiskava kehtivuse välistamine",
+      "content": "(1) Saneerimiskava ei kehti võlausaldaja kohta, kellele ei ole saneerimisteadet ega saneerimiskava projekti tutvumiseks ja seisukoha võtmiseks kätte toimetatud või kes muul viisil ei ole saneerimismenetluse toimumisest teadlik.\n(2) Ettevõtja peab tõendama asjaolu, et saneerimisteade või saneerimiskava projekt on võlausaldajale tutvumiseks ja seisukoha võtmiseks kätte toimetatud või et võlausaldaja on muul viisil teadlik saneerimismenetluse toimumisest."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "6. peatükk - SANEERIMISKAVA KEHTIVUS, TÜHISTAMINE JA SANEERIMISMENETLUSELE JÄRGNEV PANKROTIMENETLUS",
+      "section": "47",
+      "title": "§ 47. Hagimenetlus ja täitemenetlus saneerimiskava kehtivuse ajal",
+      "content": "(1) Saneerimiskava kehtivuse ajal ei saa esitada hagiavaldust nõude alusel, mille kohta saneerimiskava kehtib.\n(2) Kohtutäitur jätkab saneerimismenetluse algatamise tagajärjena peatatud täitemenetlust ja kohtumenetlust nõude suhtes, mille kohta saneerimiskava ei kehti."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "6. peatükk - SANEERIMISKAVA KEHTIVUS, TÜHISTAMINE JA SANEERIMISMENETLUSELE JÄRGNEV PANKROTIMENETLUS",
+      "section": "48",
+      "title": "§ 48. Viivis ja leppetrahv saneerimiskava kehtivuse ajal",
+      "content": "Saneerimiskava kinnitamise järel arvestatakse nõudelt, mida saneerimiskavaga ümber ei kujundata, viivist ja leppetrahvi edasi esialgse õigussuhte järgi."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "6. peatükk - SANEERIMISKAVA KEHTIVUS, TÜHISTAMINE JA SANEERIMISMENETLUSELE JÄRGNEV PANKROTIMENETLUS",
+      "section": "49",
+      "title": "§ 49. Pankrotiavaldus saneerimiskava kehtivuse ajal",
+      "content": "(1) Saneerimiskava kehtivuse ajal ei saa esitada pankrotiavaldust nõude alusel, mille kohta saneerimiskava kehtib või mis oli olemas enne saneerimiskava kinnitamist.\n(2) Saneerimiskava kehtivuse ajal vaadatakse pankrotimenetluse algatamise avaldus läbi saneerimismenetluse raames.\n(3) Kohus kaasab pankrotiavalduse läbivaatamisse saneerimiskava täitmise üle järelevalvet teostava saneerimisnõustaja.\n(4) Ajutine pankrotihaldur ei tohi oma tegevusega ohustada saneerimiskava täitmist ja peab tegema igakülgset koostööd järelevalvet teostava saneerimisnõustajaga.\n(5) Ajutiseks pankrotihalduriks tohib määrata ka järelevalvet teostava saneerimisnõustaja, kui tal on õigus tegutseda pankrotihaldurina.\n(6) Kui kohus tuvastab, et saneerimiskavas ettenähtut arvestades on siiski alust ettevõtja pankrot välja kuulutada, tühistab ta saneerimiskava ja lõpetab saneerimismenetluse.\n(7) Määruse peale, millega kohus pankrotiavalduse lahendab, võivad ettevõtja ja pankrotiavalduse esitanud võlausaldaja esitada määruskaebuse."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "6. peatükk - SANEERIMISKAVA KEHTIVUS, TÜHISTAMINE JA SANEERIMISMENETLUSELE JÄRGNEV PANKROTIMENETLUS",
+      "section": "50",
+      "title": "§ 50. Järelevalve saneerimiskava täitmise üle",
+      "content": "(1) Järelevalvet saneerimiskava täitmise üle teostab saneerimisnõustaja.\n(2) Saneerimisnõustaja esitab saneerimiskava täitmise kohta võlausaldajale ja kohtule igal poolaastal aruande, milles kirjeldab ettevõtte majanduslikku seisundit, saneerimiskava täitmist ja muid olulisi asjaolusid, mille vastu võlausaldajal võib huvi olla. Kohus võib saneerimisnõustajale panna järelevalve teostamisel lisakohustusi.\n(3) Saneerimisnõustaja teatab ettevõtja maksejõuetusele viitavatest asjaoludest kohe ettevõtjale ja püsiva maksejõuetuse saabumisel ka võlausaldajale ning saneerimiskava kinnitanud kohtule.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud saneerimisnõustaja kohustus ei mõjuta juriidilise isiku juhatuse või seda asendava organi liikme vastutust pankrotiavalduse esitamata jätmise eest.\n(5) Ettevõtja annab saneerimisnõustajale järelevalve teostamiseks vajalikku teavet ja osutab saneerimisnõustajale abi järelevalvekohustuse täitmisel.\n(6) Järelevalve teostamise ajal kohaldatakse saneerimisnõustaja suhtes käesoleva seaduse § 17, 18 ja 19. Järelevalve teostamise eest saneerimisnõustajale makstava tasu suuruse määrab kohus kindlaks saneerimiskava kinnitamisel."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "6. peatükk - SANEERIMISKAVA KEHTIVUS, TÜHISTAMINE JA SANEERIMISMENETLUSELE JÄRGNEV PANKROTIMENETLUS",
+      "section": "51",
+      "title": "§ 51. Saneerimiskava tühistamine",
+      "content": "(1) Kohus tühistab saneerimiskava:\n1) kui ettevõtja on pärast saneerimiskava kinnitamist tunnistatud süüdi pankroti- või täitemenetluse kuriteos;\n2) kui ettevõtja ei täida saneerimiskavast tulenevaid kohustusi olulisel määral;\n3) kui saneerimiskava kehtivuse ajast vähemalt poole möödumisel on ilmne, et ettevõtja ei suuda saneerimiskavaga võetud kohustusi täita;\n4) saneerimisnõustaja avalduse alusel, kui ei maksta tasu järelevalve teostamise eest;\n5) saneerimisnõustaja avalduse alusel, kui ettevõtja ei osuta saneerimisnõustajale abi järelevalvekohustuse täitmisel või ei anna saneerimisnõustajale teavet, mida viimane vajab järelevalve teostamiseks;\n6) ettevõtja avalduse alusel;\n7) kui kuulutatakse välja ettevõtja pankrot.\n(2) Saneerimiskava tühistamisel langevad saneerimismenetluse algatamise tagajärjed ära tagasiulatuvalt. Võlausaldajal, kelle nõue saneerimiskavaga ümber kujundati, taastub nõudeõigus ettevõtja vastu esialgses suuruses. Seejuures tuleb arvestada, mida võlausaldaja saneerimiskava täitmise käigus on juba saanud.\n(3) Saneerimiskava tühistamisel teatab saneerimisnõustaja saneerimismenetluse lõpetamisest käesoleva seaduse § 11 lõike 1 punkti 1 alusel peatatud täitemenetlust läbiviivale kohtutäiturile ja sama paragrahvi lõike 1 punkti 3 alusel peatatud kohtumenetlust läbiviivale kohtunikule."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "6. peatükk - SANEERIMISKAVA KEHTIVUS, TÜHISTAMINE JA SANEERIMISMENETLUSELE JÄRGNEV PANKROTIMENETLUS",
+      "section": "52",
+      "title": "§ 52. Pankrotimenetluse väljakuulutamine",
+      "content": "Kui saneerimiskava tühistatakse ja sellele järgneva kolme kuu jooksul kuulutatakse ettevõtja suhtes välja pankrot, loetakse kaitstuks saneerimisnõustaja, eksperdi ja järelevalvet teostava saneerimisnõustaja nõue tasu ja kulutuste hüvitamise kohta."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "6. peatükk - SANEERIMISKAVA KEHTIVUS, TÜHISTAMINE JA SANEERIMISMENETLUSELE JÄRGNEV PANKROTIMENETLUS",
+      "section": "53",
+      "title": "§ 53. Saneerimiskava täitmise tähtaja möödumise tagajärjed",
+      "content": "(1) Saneerimiskava täitmise tähtaja möödumisel lõpeb saneerimismenetlus.\n(2) Võlausaldaja saab saneerimiskavaga ümberkujundatud nõude pärast saneerimiskava täitmise tähtaja möödumist maksma panna ainult saneerimiskavas kokkulepitud, kuid saneerimiskava kohaselt täitmata ulatuses.\n(3) Saneerimiskava täitmise tähtaja möödumisega lõpeb saneerimisnõustaja kohustus teostada järelevalvet saneerimiskava täitmise üle. Kui saneerimiskava täitmise tähtaeg lõpeb, esitatakse käesoleva seaduse § 50 lõikes 2 nimetatud aruanne viimast korda."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "54",
+      "title": "§ 54. Pärimisseaduse muutmine",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    }
+  ],
+  "definitions": []
+}

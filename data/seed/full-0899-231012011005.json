@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-231012011005",
+  "type": "statute",
+  "title": "Merinõuete korral vastutuse piiramise 1976. aasta konventsiooni muutmise 1996. aasta protokolliga ühinemise seadus",
+  "title_en": "Merinõuete korral vastutuse piiramise 1976. aasta konventsiooni muutmise 1996. aasta protokolliga ühinemise seadus",
+  "short_name": "ee-law-231012011005",
+  "status": "in_force",
+  "issued_date": "2011-01-19",
+  "in_force_date": "2011-02-10",
+  "url": "https://www.riigiteataja.ee/akt/231012011005.xml",
+  "description": "Official consolidated statute text (Merinõuete korral vastutuse piiramise 1976. aasta konventsiooni muutmise 1996. aasta protokolliga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud merinõuete korral vastutuse piiramise 1976. aasta konventsiooni muutmise 1996. aasta protokolliga, mis on vastu võetud 1996. aasta 2. mail Londonis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühinemisel teha järgmine reservatsioon: ”Eesti Vabariik jätab endale konventsiooni artikli 18 lõike 1 punkti b alusel õiguse mitte kohaldada konventsiooni kahjunõuete suhtes, mis on määratud ohtlike ja kahjulike ainete mereveol vastutuse ja kahju hüvitamise 1996. aasta rahvusvahelises konventsioonis või selle muudatustes või protokollides.”"
+    }
+  ],
+  "definitions": []
+}

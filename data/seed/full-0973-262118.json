@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-262118",
+  "type": "statute",
+  "title": "Patendiõiguse lepingu ratifitseerimise seadus",
+  "title_en": "Patendiõiguse lepingu ratifitseerimise seadus",
+  "short_name": "ee-law-262118",
+  "status": "in_force",
+  "issued_date": "2003-01-29",
+  "in_force_date": "2003-03-14",
+  "url": "https://www.riigiteataja.ee/akt/262118.xml",
+  "description": "Official consolidated statute text (Patendiõiguse lepingu ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud patendiõiguse leping, mis on koostatud 2000. aasta 11. mail Genfis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vabariigi Valitsus tagab patendiõiguse lepingu rakenduseeskirjade ja nendes hiljem tehtavate muudatuste avaldamise Riigi Teatajas. Riigikogu aseesimees Tunne KELAM"
+    }
+  ],
+  "definitions": []
+}

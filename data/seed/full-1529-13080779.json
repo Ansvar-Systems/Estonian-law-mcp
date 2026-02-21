@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-13080779",
+  "type": "statute",
+  "title": "Ühinenud Rahvaste Organisatsiooni Hariduse, Teaduse ja Kultuuri Organisatsiooni põhikirja heakskiitmise seadus",
+  "title_en": "Ühinenud Rahvaste Organisatsiooni Hariduse, Teaduse ja Kultuuri Organisatsiooni põhikirja heakskiitmise seadus",
+  "short_name": "ee-law-13080779",
+  "status": "in_force",
+  "issued_date": "2008-11-12",
+  "in_force_date": "2008-12-22",
+  "url": "https://www.riigiteataja.ee/akt/13080779.xml",
+  "description": "Official consolidated statute text (Ühinenud Rahvaste Organisatsiooni Hariduse, Teaduse ja Kultuuri Organisatsiooni põhikirja heakskiitmise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Kiita heaks Eesti Vabariigi ühinemine Ühinenud Rahvaste Organisatsiooni Hariduse, Teaduse ja Kultuuri Organisatsiooniga 1991. aasta 14. oktoobril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Kiita heaks juurdelisatud Ühinenud Rahvaste Organisatsiooni Hariduse, Teaduse ja Kultuuri Organisatsiooni põhikiri, mis on koostatud 1945. aasta 16. novembril Londonis. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

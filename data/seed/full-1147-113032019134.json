@@ -1,0 +1,176 @@
+{
+  "id": "ee-law-113032019134",
+  "type": "statute",
+  "title": "Raseduse katkestamise ja steriliseerimise seadus",
+  "title_en": "Raseduse katkestamise ja steriliseerimise seadus",
+  "short_name": "RKSS",
+  "status": "in_force",
+  "issued_date": "1998-11-25",
+  "in_force_date": "2019-03-15",
+  "url": "https://www.riigiteataja.ee/akt/113032019134.xml",
+  "description": "Official consolidated statute text (Raseduse katkestamise ja steriliseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "Raseduse katkestamise ja steriliseerimise seadus määrab kindlaks raseduse katkestamise ja steriliseerimise tingimused ja korra."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Raseduse katkestamine",
+      "content": "Raseduse katkestamine on embrüo või loote eemaldamine emakaõõnest kirurgiliselt või ravimite manustamisega."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Raseduse kestus",
+      "content": "Raseduse kestust arvestatakse nädalates."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Steriliseerimine",
+      "content": "Steriliseerimine on:\n1) naise munajuhade sulgemine või läbilõikamine raseduse vältimiseks või\n2) mehe seemnejuhade sulgemine või läbilõikamine viljastamise vältimiseks."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - RASEDUSE KATKESTAMINE",
+      "section": "5",
+      "title": "§ 5. Raseduse katkestamise vabatahtlikkus",
+      "content": "(1) Naise rasedust võib katkestada üksnes tema enda soovil. Keegi ei tohi sundida ega mõjutada naist oma rasedust katkestama. Nõusolek raseduse katkestamiseks peab olema vormistatud kirjalikult.\n(2) Piiratud teovõimega naise raseduse võib katkestada tema enda nõusolekul või seadusliku esindaja nõusolekul vastavalt võlaõigusseaduse § 766 lõikele 4.\n(3) Kui piiratud teovõimega naine ei ole nõus võlaõigusseaduse § 766 lõikes 4 sätestatud juhul mõjuvatel põhjustel kaasama oma seaduslikku esindajat või kui seadusliku esindaja otsus on vastuolus naise huvidega, lähtub tervishoiutöötaja raseduse katkestamisel isiku enda nõusolekust.\n(4) Tervishoiutöötaja on kohustatud informeerima piiratud teovõimega naist seadusliku esindaja või muu tema poolt usaldatud täisealise teovõimelise isiku kaasamise olulisusest."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - RASEDUSE KATKESTAMINE",
+      "section": "6",
+      "title": "§ 6. Raseduse katkestamise tähtaeg",
+      "content": "(1) Rasedust võib katkestada, kui see on kestnud vähem kui 12 nädalat.\n(2) Kauem kui 12 ning vähem kui 22 nädalat kestnud raseduse võib katkestada, kui:\n1) rasedus ohustab raseda tervist;\n2) sündival lapsel võib olla raske vaimne või kehaline tervisekahjustus;\n3) raseda haigus või tervisega seotud probleem takistab lapse kasvatamist;\n4) rase on alla 15-aastane;\n5) rase on üle 45-aastane."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - RASEDUSE KATKESTAMINE",
+      "section": "7",
+      "title": "§ 7. Günekoloogi ainuõigus rasedust katkestada",
+      "content": "Rasedust võib katkestada ainult günekoloog."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - RASEDUSE KATKESTAMINE",
+      "section": "8",
+      "title": "§ 8. Raseduse katkestamise toimingu vabatahtlikkus",
+      "content": "Günekoloogi või muud tervishoiutöötajat ei saa kohustada rasedust katkestama ega raseduse katkestamise protseduurist osa võtma."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - RASEDUSE KATKESTAMINE",
+      "section": "9",
+      "title": "§ 9. Raseduse katkestamise koht",
+      "content": "(1) Rasedust võib katkestada tervishoiuteenuse osutaja, kellel on tervishoiuteenuse osutamiseks günekoloogia tegevusluba.\n(2)"
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - RASEDUSE KATKESTAMINE",
+      "section": "10",
+      "title": "§ 10. Raseduse olemasolu ja kestuse tuvastamine",
+      "content": "Raseduse olemasolu ja kestuse tuvastab günekoloog, perearst või ämmaemand. Raseduse olemasolu ja kestus tuvastatakse teabe alusel, mida saadakse naise küsitlemise, vaatluse ning vajaduse korral diagnostikavahendite abil."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - RASEDUSE KATKESTAMINE",
+      "section": "11",
+      "title": "§ 11. Raseduse katkestamise lubatavuse otsustamine",
+      "content": "(1) Raseduse katkestamise lubatavuse otsustab rasedust katkestav arst, lähtudes käesoleva seaduse §-des 5 ja 6 toodud nõuetest.\n(2) Käesoleva seaduse § 6 lõike 2 punktides 1, 2 ja 3 kirjeldatud juhtudel tehakse raseduse katkestamise lubatavus kindlaks vähemalt kolme arsti – kahe või enama günekoloogi ja naise haigusest või tervisega seotud probleemist tuleneva eriarsti või -arstide – otsuse alusel. Vajaduse korral tuleb käesoleva seaduse § 6 lõike 2 punktis 3 nimetatud juhtudel kaasata otsuse tegemisele lisaks arstidele ka sotsiaaltöötaja. Otsus raseduse katkestamise lubatavuse kohta vormistatakse kirjalikult ja seda tõendavad kõik otsuse tegijad oma allkirjaga.\n(3) Käesoleva seaduse § 6 lõike 2 punktides 4 ja 5 nimetatud tingimuste olemasolu tehakse kindlaks raseda passi, sünnitunnistuse või muu isikut tõendava dokumendi alusel."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - RASEDUSE KATKESTAMINE",
+      "section": "12",
+      "title": "§ 12. Nõustamise kohustus",
+      "content": "(1) Rasedust katkestada soovivale naisele või võlaõigusseaduse § 766 lõikes 4 sätestatud juhul tema seaduslikule esindajale peab tervishoiutöötaja enne raseduse katkestamist selgitama raseduse katkestamise bioloogilist ja meditsiinilist olemust ning sellega seonduvaid riske, sealhulgas võimalikke tüsistusi.\n(1^1) Rasedat naist, rasedust katkestada soovivat naist või võlaõigusseaduse § 766 lõikes 4 sätestatud juhul tema seaduslikku esindajat peab tervishoiutöötaja vajaduse korral teavitama psühholoogilise või muu asjakohase nõustamise võimalustest.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud kohustusliku nõustamise kohta koostatakse akt, millele kirjutavad alla nõustatud isik ja nõustamise läbiviinud tervishoiutöötaja. Nõustamisakt vormistatakse kahes eksemplaris, millest üks jääb tervishoiutöötajale ja teine antakse nõustatavale."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - RASEDUSE KATKESTAMINE",
+      "section": "13",
+      "title": "§ 13. Raseduse katkestamise ettevalmistamine",
+      "content": "(1) Raseduse olemasolu ja kestuse tuvastanud arst on kohustatud enne raseduse katkestamisele suunamist tegema kõik asjakohasele ravistandardile vastavad uuringud ja toimingud. Raseduse katkestamisele eelnevate ja järgnevate uuringute ja toimingute loetelu kehtestab valdkonna eest vastutav minister oma määrusega.\n(2) Rasedust katkestav arst on enne raseduse katkestamist kohustatud kontrollima käesoleva paragrahvi lõikes 1 nimetatud uuringute tulemusi.\n(3) Kui rasedus on kestnud kauem kui 12 nädalat või seda nõuab naise tervise seisund, võetakse naine, kelle rasedust katkestatakse, haiglaravile."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - RASEDUSE KATKESTAMINE",
+      "section": "14",
+      "title": "§ 14. Raseduse katkestamisele järgnevad toimingud",
+      "content": "(1) Vahetult pärast raseduse katkestamist on arst kohustatud tarvitusele võtma abinõud, mis väldivad raseduse katkestamisega kaasneda võivaid tüsistusi. Abinõude loetelu kehtestab valdkonna eest vastutav minister oma määrusega.\n(2) Naisel, kelle rasedus katkestati, on õigus raseduse katkestamisele järgneva kahe nädala jooksul väljaspool järjekorda konsulteerida raseduse olemasolu ja kestuse tuvastanud arstiga vältimatu abi tingimustel."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - RASEDUSE KATKESTAMINE",
+      "section": "15",
+      "title": "§ 15. Raseduse katkestamist puudutavad dokumendid",
+      "content": "Raseduse katkestamine dokumenteeritakse vastavalt tervishoiuteenuste korraldamise seadusega kehtestatud nõuetele."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - STERILISEERIMINE",
+      "section": "19",
+      "title": "§ 19. Steriliseerimise vabatahtlikkus",
+      "content": "(1) Isikut võib steriliseerida üksnes tema enda soovil. Sooviavaldus steriliseerimiseks peab olema vormistatud kirjalikult.\n(2) Piiratud teovõimega isiku steriliseerimise otsustab maakohus hagita menetluses isiku eestkostja avalduse alusel. Alaealist isikut ei või steriliseerida."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - STERILISEERIMINE",
+      "section": "20",
+      "title": "§ 20. Steriliseerimise lubatavus",
+      "content": "(1) Täisealist teovõimelist isikut võib steriliseerida, kui esineb vähemalt üks järgmistest tingimustest:\n1) isikul on vähemalt kolm last;\n2) isik on vanem kui 35-aastane;\n3) rasedus ohustab naise tervist;\n4) muud rasestumisvastased vahendid on vastunäidustatud;\n5) isikul on oht saada raske vaimse või kehalise tervisekahjustusega laps;\n6) isiku haigus või tervisega seotud probleem takistab lapse kasvatamist.\n(2) Täisealist piiratud teovõimega isikut võib steriliseerida, kui esineb vähemalt üks tingimus käesoleva paragrahvi lõike 1 punktides 3, 4, 5 või 6 toodud juhtudest.\n(3)"
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - STERILISEERIMINE",
+      "section": "21",
+      "title": "§ 21. Arsti ainuõigus teostada steriliseerimist",
+      "content": "Isikut võib steriliseerida günekoloog, üldkirurg või uroloog."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - STERILISEERIMINE",
+      "section": "22",
+      "title": "§ 22. Steriliseerimise koht",
+      "content": "Isikut võib steriliseerida ainult tervishoiuteenuse osutaja, kellel on tervishoiuteenuse osutamiseks günekoloogia, üldkirurgia või uroloogia tegevusluba."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - STERILISEERIMINE",
+      "section": "23",
+      "title": "§ 23. Steriliseerimise lubatavuse otsustamine",
+      "content": "(1) Käesoleva seaduse § 20 lõike 1 punktides 1 ja 2 nimetatud tingimused teeb kindlaks steriliseeriv arst isiku passi alusel.\n(2) Käesoleva seaduse § 20 lõike 1 punktides 3, 4 ja 5 toodud juhtudel steriliseerimise lubatavus otsustatakse vähemalt kolme arsti otsusel. Vajaduse korral tuleb käesoleva seaduse § 20 lõike 1 punktis 6 nimetatud juhul lisaks arstidele kaasata otsuse tegemisele ka sotsiaaltöötaja. Otsus steriliseerimise lubatavuse kohta vormistatakse kirjalikult ja seda tõendavad kõik otsuse tegijad oma allkirjaga."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - STERILISEERIMINE",
+      "section": "24",
+      "title": "§ 24. Nõustamise kohustus",
+      "content": "(1) Enda steriliseerimist soovivale isikule ja vajaduse korral tema eestkostjale peab arst enne ja pärast protseduuri lubatavuse otsustamist selgitama steriliseerimise bioloogilist ja meditsiinilist olemust ning sellega seonduvaid riske, sealhulgas võimalikke tüsistusi.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud nõustamise kohta koostatakse akt, millele kirjutavad alla nõustatud isik ja nõustanud arst. Nõustamise akti vormi nõuded kehtestab valdkonna eest vastutav minister määrusega.\n(3) Isikut ei või steriliseerida enne, kui käesolevas paragrahvis nimetatud nõustamisest on möödunud üks kuu."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "3. peatükk - STERILISEERIMINE",
+      "section": "25",
+      "title": "§ 25. Steriliseerimise dokumenteerimine",
+      "content": "Steriliseerimine dokumenteeritakse vastavalt tervishoiuteenuste korraldamise seadusega kehtestatud nõuetele. Steriliseerimist puudutavad andmed on eriliiki isikuandmed ning andmekogude moodustamine neist ei ole lubatud."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "26",
+      "title": "§ 26. Kriminaalkoodeksi muutmine",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    }
+  ],
+  "definitions": []
+}

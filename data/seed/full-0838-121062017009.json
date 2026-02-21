@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-121062017009",
+  "type": "statute",
+  "title": "Lõhkematerjaliseadus",
+  "title_en": "Lõhkematerjaliseadus",
+  "short_name": "ee-law-121062017009",
+  "status": "in_force",
+  "issued_date": "2004-03-24",
+  "in_force_date": "2017-07-04",
+  "url": "https://www.riigiteataja.ee/akt/121062017009.xml",
+  "description": "Official consolidated statute text (Lõhkematerjaliseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

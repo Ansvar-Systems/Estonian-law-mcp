@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-27547",
+  "type": "statute",
+  "title": "Rahvusvahelise Kriminaalkohtu Rooma statuudi ratifitseerimise seadus",
+  "title_en": "Rahvusvahelise Kriminaalkohtu Rooma statuudi ratifitseerimise seadus",
+  "short_name": "ee-law-27547",
+  "status": "in_force",
+  "issued_date": "2001-12-05",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/27547.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise Kriminaalkohtu Rooma statuudi ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud Rahvusvahelise Kriminaalkohtu Rooma statuut, mis on vastu võetud 1998. aasta 17. juulil Roomas ja millele Eesti Vabariik kirjutas alla 1999. aasta 27. detsembril New Yorgis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vabariigi Valitsusel määrata Rahvusvahelise Kriminaalkohtu Rooma statuudi jõustumisel esindaja Rahvusvahelise Kriminaalkohtu osalisriikide assambleesse vastavalt Rahvusvahelise Kriminaalkohtu Rooma statuudi artiklile 112."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Rahvusvahelise Kriminaalkohtu poolt Rahvusvahelise Kriminaalkohtu Rooma statuudi artikli 89 alusel väljastatud loovutamisnõudeid täidetakse kriminaalmenetluse koodeksi (ENSV ÜT 1961, 1, 4 ja lisa;... RT I 2001, 65, 378) isiku välisriigile väljaandmist reguleerivate sätete alusel. Riigikogu esimees Toomas SAVI"
+    }
+  ],
+  "definitions": []
+}

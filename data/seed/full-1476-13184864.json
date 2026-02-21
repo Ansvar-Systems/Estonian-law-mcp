@@ -1,0 +1,45 @@
+{
+  "id": "ee-law-13184864",
+  "type": "statute",
+  "title": "Välisriigi avaliku dokumendi legaliseerimise nõude tühistamise konventsiooniga ühinemise seadus",
+  "title_en": "Välisriigi avaliku dokumendi legaliseerimise nõude tühistamise konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-13184864",
+  "status": "in_force",
+  "issued_date": "2000-10-18",
+  "in_force_date": "2010-01-01",
+  "url": "https://www.riigiteataja.ee/akt/13184864.xml",
+  "description": "Official consolidated statute text (Välisriigi avaliku dokumendi legaliseerimise nõude tühistamise konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud välisriigi avaliku dokumendi legaliseerimise nõude tühistamise konventsiooniga, mis on koostatud Haagis 1961. aasta 5. oktoobril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Konventsiooni artikli 6 kohaselt määrata konventsiooni artikli 3 lõikes 1 nimetatud tunnistuse (edaspidi tunnistus ( apostille )) väljastajateks notarid."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tunnistuse ( apostille’ ) andmisest keeldutakse, kui: 1) dokument on välislepingu kohaselt kehtiv ilma muu tõestuseta; 2) asjaolud viitavad dokumendi esialgse sisu ebapädevale muutmisele; 3) dokument on rikutud; 4) dokumendi andmiseks või kinnitamiseks puudub haldusorganil pädevus; 5) dokumendi kehtivusaeg on möödunud."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tunnistus ( apostille ) tunnistatakse käesoleva seaduse §-s 2 nimetatud asutuse poolt kehtetuks, kui: 1) tunnistus ( apostille ), selle kanne või andmed on ebaõiged, 2) tunnistus ( apostille ) on muutunud kasutuskõlbmatuks, 3) tunnistus ( apostille ) on kaotsi läinud või hävinud või 4) tunnistusega ( apostille’ ga) kinnitatud dokument on ette nähtud kasutamiseks riigis, kus kehtib legaliseerimine või kellega Eestil on sõlmitud õigusabileping."
+    },
+    {
+      "provision_ref": "para5",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Eesti avaliku dokumendi tunnistusega ( apostille ’ga) kinnitamise ning tunnistuse ( apostille ’) kehtetuks tunnistamise tähtaja ja korra, sealhulgas avaliku dokumendi tunnistusega ( apostille ’ga) kinnitamise taotlemisel esitatavate andmete loetelu, kehtestab valdkonna eest vastutav minister."
+    }
+  ],
+  "definitions": []
+}

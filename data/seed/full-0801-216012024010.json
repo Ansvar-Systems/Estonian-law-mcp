@@ -1,0 +1,39 @@
+{
+  "id": "ee-law-216012024010",
+  "type": "statute",
+  "title": "Laevade kahjulike kattumisvastaste süsteemide kontrolli rahvusvahelise konventsiooniga ühinemise seadus",
+  "title_en": "Laevade kahjulike kattumisvastaste süsteemide kontrolli rahvusvahelise konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-216012024010",
+  "status": "in_force",
+  "issued_date": "2008-12-03",
+  "in_force_date": "2023-07-01",
+  "url": "https://www.riigiteataja.ee/akt/216012024010.xml",
+  "description": "Official consolidated statute text (Laevade kahjulike kattumisvastaste süsteemide kontrolli rahvusvahelise konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Konventsiooniga ühinemine",
+      "content": "Ühineda juurdelisatud laevade kahjulike kattumisvastaste süsteemide kontrolli rahvusvahelise konventsiooniga (edaspidi AFS-konventsioon), mis on sõlmitud 2001. aasta 5. oktoobril Londonis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Rahvusvahelisele Mereorganisatsioonile andmete esitamine",
+      "content": "AFS-konventsiooni artikli 9 lõikes 1 nimetatud andmed esitab Rahvusvahelisele Mereorganisatsioonile ning artikli 9 lõikes 3 nimetatud andmed asjaomasele konventsiooniosalisele Kliimaministeerium."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Järelevalve",
+      "content": "AFS-konventsiooni artiklis 11 nimetatud järelevalve toiminguid sadamasse saabuvatel ja sadamast lahkuvatel laevadel ning territoriaalmeres asuvatesse terminalidesse saabuvatel ja nendest lahkuvatel laevadel teostab Transpordiamet. Laevadel teostatakse järelevalvet kooskõlas sadamariigi kontrolli reguleerivate õigusaktidega."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4. Seaduse jõustumine",
+      "content": "Käesoleva seaduse §-d 2 ja 3 jõustuvad AFS-konventsiooni Eesti suhtes jõustumise päeval."
+    }
+  ],
+  "definitions": []
+}

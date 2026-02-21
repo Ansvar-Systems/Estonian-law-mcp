@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-13315075",
+  "type": "statute",
+  "title": "Eesti Vabariigi rahaseadus",
+  "title_en": "Eesti Vabariigi rahaseadus",
+  "short_name": "RahaS",
+  "status": "in_force",
+  "issued_date": "1992-05-20",
+  "in_force_date": "2011-01-01",
+  "url": "https://www.riigiteataja.ee/akt/13315075.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi rahaseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu jõustub päeval, mis on kindlaks määratud Euroopa Liidu Nõukogu otsuses Eesti Vabariigi suhtes kehtestatud erandi kehtetuks tunnistamise kohta Euroopa Liidu toimimise lepingu artikli 140 lõikes 2 sätestatud alusel"
+    }
+  ],
+  "definitions": []
+}

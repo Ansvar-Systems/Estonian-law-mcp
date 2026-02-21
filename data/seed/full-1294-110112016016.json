@@ -1,0 +1,87 @@
+{
+  "id": "ee-law-110112016016",
+  "type": "statute",
+  "title": "Säästva arengu seadus",
+  "title_en": "Säästva arengu seadus",
+  "short_name": "SäAS",
+  "status": "in_force",
+  "issued_date": "1995-02-22",
+  "in_force_date": "2017-01-01",
+  "url": "https://www.riigiteataja.ee/akt/110112016016.xml",
+  "description": "Official consolidated statute text (Säästva arengu seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Seaduse ülesanne",
+      "content": "(1) Käesolev seadus sätestab säästva arengu rahvusliku strateegia alused.\n(2) Säästva arengu rahvuslik strateegia tugineb ÜRO Keskkonna- ja Arengukonverentsi otsustes (Rio de Janeiro, 1992) sätestatud põhimõtetele.\n(3) Käesoleva seaduse II osa sätestab looduskeskkonna ja loodusvarade säästliku kasutamise alused.\n(4) Säästva arengu alused teistes valdkondades sätestab seadus, muu õigusakt või riiklik programm."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Looduskeskkonna ja loodusvarade säästliku kasutamise eesmärk",
+      "content": "Looduskeskkonna ja loodusvarade säästliku kasutamise eesmärgiks on tagada inimesi rahuldav elukeskkond ja majanduse arenguks vajalikud ressursid looduskeskkonda oluliselt kahjustamata ning looduslikku mitmekesisust säilitades."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Looduskeskkonda ja loodusvarasid säästva arengu alused",
+      "content": "(1) Eesti Vabariigi põhiseaduse järgi on igaüks kohustatud säästma elu- ja looduskeskkonda ning hoiduma sellele kahju tekitamast.\n(2) Omandi käsutamise ja ettevõtlusega tegelemise vabadust kitsendatakse, lähtudes vajadusest kaitsta loodust kui inimkonna ühisvara ja rahvuslikku rikkust.\n(3) Looduskeskkonna saastamise minimeerimine ja loodusvarade kasutamine loodusliku tasakaalu säilitavates kogustes on majandustegevuse põhinõuded.\n(4) Üle riigipiiri leviva mõjuga või looduskeskkonda oluliselt mõjutada võiva tegevuse kavandamine ja keskkonnakaitse üldine korraldamine toimub rahvusvahelises koostöös.\n(5) Looduskeskkonna ja loodusvarade kasutamist reguleerivad kasutus- ning tasumäärad, mille kehtestamisel arvestatakse looduskasutuse mõju keskkonnaseisundile.\n(6) Looduskasutust kavandavad planeeringud, programmid, arengukavad ja projektid on avalikud."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4. Välislepingute täitmine",
+      "content": "(1) Välislepingust tulenevate keskkonnakaitseliste kohustuste täitmine toimub Vabariigi Valitsuse kinnitatud riiklike programmide kaudu.\n(2) Omavalitsusüksuse arengukava kinnitamisel ja ettevõtluse korraldamisel peab kohalik omavalitsus arvestama välislepingutest tulenevaid kohustusi ja nende täitmiseks kinnitatud riiklikke programme."
+    },
+    {
+      "provision_ref": "para5",
+      "section": "5",
+      "title": "§ 5. Taastuv loodusvara",
+      "content": "(1) Taastuva loodusvara varu jaguneb kriitiliseks varuks ja kasutatavaks varuks.\n(2) Taastuva loodusvara kriitiline varu on väikseim suurus, mis tagab loodusliku tasakaalu ja taastootmise, kaitserežiimide täitmise ning bioloogilise ja maastikulise mitmekesisuse säilimise.\n(3) Taastuva loodusvara kriitilise varu suuruse kehtestab Vabariigi Valitsus, arvestades juurde määramatusest tuleneva reservi.\n(4) Taastuva loodusvara kehtestatud kriitilisest varust ülejääv osa on taastuva loodusvara kasutatav varu. Majandustegevuse kavandamisel ei tohi ületada kasutatava varu kehtestatud suurust.\n(5) Kasutatava varu suuruse ja aastased kasutusmäärad kehtestab Vabariigi Valitsus, arvestades looduslikku juurdekasvu. Taastuva loodusvara kasutatava varu kasutamise korralduse sätestab seadus."
+    },
+    {
+      "provision_ref": "para6",
+      "section": "6",
+      "title": "§ 6. Taastumatu loodusvara",
+      "content": "(1) Taastumatu loodusvara kasutamise kavandamisel lähtutakse järgmistest põhitingimustest:\n1) teada olevate varude jätkumisest võimalikult pikaks ajaks;\n2) taastuva loodusvara toodanguga või ammendamatu energiaallikaga asendamisvõimalusest;\n3) jäätmetega või teisese toormega asendamisvõimalusest.\n(2) Majandustegevuse kavandamisel arvatakse kasutatavast varust välja kaitsealadel asuvad varud.\n(3)"
+    },
+    {
+      "provision_ref": "para7",
+      "section": "7",
+      "title": "§ 7. Kaasnev loodusvara",
+      "content": "(1) Kaasnev loodusvara on ühe loodusvara kasutamisega mõjutatud või mõjutatav mis tahes teine loodusvara.\n(2) Kaasnev loodusvara tuleb kas kasutada või säilitada kasutamiskõlblikuna võimalikult endises kvaliteedis.\n(3) Kaasneva loodusvara kaitse ja kasutamise korralduse sätestab seadus."
+    },
+    {
+      "provision_ref": "para8",
+      "section": "8",
+      "title": "§ 8. Keskkonnamõju hindamine ja keskkonnajuhtimissüsteem",
+      "content": "Keskkonnamõju hindamise õiguslikud alused ja korra, ühenduse keskkonnajuhtimis- ja keskkonnaauditeerimissüsteemi korralduse ning ühenduse ökomärgise andmise õiguslikud alused sätestab seadus."
+    },
+    {
+      "provision_ref": "para9",
+      "section": "9",
+      "title": "§ 9. Bioloogilise mitmekesisuse säilitamine",
+      "content": "(1) Bioloogilise mitmekesisuse säilitamine tagatakse Vabariigi Valitsuse kinnitatud riikliku programmi ja tegevuskavaga, mille koostamist finantseeritakse riigieelarvest.\n(2) Bioloogilise mitmekesisuse säilitamise põhialused on:\n1) looduslike liikide osas nende kaitse võimalikult madala taksonoomilise üksuse tasandil ja võimalikult kõikide liikide säilitamiseks;\n2) kohalike kultuurtaimede sortide ja koduloomatõugude osas nende arvelevõtmine ja andmepankade hoidmine võimalikult kõikide sortide ja tõugude kohta;\n3) eritüübiliste ökosüsteemide ja maastike säilitamine ning süsteemi loomine looduslikest ja poollooduslikest kooslustest asustuse ja majandustegevuse mõju tasakaalustamiseks ning kompenseerimiseks;\n4) sotsiaalse, majandusliku või teadusliku tähtsusega geneetilise materjali määratlemine."
+    },
+    {
+      "provision_ref": "para10",
+      "section": "10",
+      "title": "§ 10. Keskkonnanormatiiv ja -standard",
+      "content": "(1) Keskkonnanormatiiv on keskkonna kvaliteedile, heitmekogusele või toodangu ühikule kehtestatud keskkonnakaitseline kontrollarv või loodusvara erikulu.\n(2) Keskkonnanormatiiv muudetakse kohustuslikuks valdkonna eest vastutava ministri määruse või saasteloaga.\n(3) Keskkonnastandard on asjaosaliste kokkuleppel koostatud ning kinnitatud reegleid, juhtnööre ja arvnäitajaid sisaldav dokument, mis korraldab keskkonnaseisundit mõjutavat või mõjutada võivat tegevust või tegevuse tulemust.\n(4) [Välja jäetud]"
+    },
+    {
+      "provision_ref": "para11",
+      "section": "11",
+      "title": "§ 11. Keskkonnaseire",
+      "content": "Keskkonnaseire (monitooring) on keskkonna seisundi ja seda mõjutavate tegurite järjepidev jälgimine, mille põhieesmärk on prognoosida keskkonnaseisundit ja saada lähteandmeid programmidele, planeeringutele ja arengukavadele. Keskkonnaseire korralduse sätestab seadus."
+    },
+    {
+      "provision_ref": "para13",
+      "section": "13",
+      "title": "§ 13. Biosfääri programmiala",
+      "content": "(1) Biosfääri programmiala on UNESCO programmiga MAB ( Man and Biosphere ) haaratud ala haridus-, seire- ja uurimistöö korraldamiseks ning loodusvarade kaitse ja säästliku kasutamise ühitamiseks.\n(2) Biosfääri programmialal töötatakse välja inimeste ja nende elukeskkonna tasakaalustatud suhete alused ning suunatakse planeerimis- ja arendustegevuse kaudu kohalikku arengut vastavalt UNESCO programmi MAB eesmärkidele.»"
+    }
+  ],
+  "definitions": []
+}

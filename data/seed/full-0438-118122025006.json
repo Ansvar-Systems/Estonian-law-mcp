@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-118122025006",
+  "type": "statute",
+  "title": "Erastamisest laekuva raha kasutamise seadus",
+  "title_en": "Erastamisest laekuva raha kasutamise seadus",
+  "short_name": "ELRKS",
+  "status": "in_force",
+  "issued_date": "1996-04-03",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.riigiteataja.ee/akt/118122025006.xml",
+  "description": "Official consolidated statute text (Erastamisest laekuva raha kasutamise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

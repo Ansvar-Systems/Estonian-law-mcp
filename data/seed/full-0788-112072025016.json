@@ -1,0 +1,421 @@
+{
+  "id": "ee-law-112072025016",
+  "type": "statute",
+  "title": "Kõrgharidusseadus",
+  "title_en": "Kõrgharidusseadus",
+  "short_name": "KHaS",
+  "status": "in_force",
+  "issued_date": "2019-02-20",
+  "in_force_date": "2025-10-01",
+  "url": "https://www.riigiteataja.ee/akt/112072025016.xml",
+  "description": "Official consolidated statute text (Kõrgharidusseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Reguleerimisala ja kohaldamisala",
+      "content": "(1) Käesolevas seaduses sätestatakse:\n1) kõrgharidustaseme õppe korraldamise alused;\n2) õigused ja kohustused kõrgharidustasemel õppimiseks;\n3) kõrgharidustaseme õpet korraldavate õppeasutuste (edaspidi kõrgkool ) tegevuse alused.\n(2) Käesolevat seadust kohaldatakse kõrgkoolile olenemata tema omandivormist.\n(3) Avalik-õigusliku ülikooli õiguslik seisund, eesmärk ja ülesanded, tegevuse alused ning juhtorganid sätestatakse ülikooli kohta käivas seaduses.\n(4) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Kõrgharidussüsteem",
+      "content": "(1) Kõrgharidustaseme õpe on tõenduspõhisel käsitusel põhinev õpe, mille tulemusena õppija omandab teadmised, oskused ja hoiakud, mis on vajalikud aktiivseks panustamiseks ühiskonda, töötamiseks, teadus- ja arendustegevuseks ning elukestvaks õppeks.\n(2) Üliõpilane on käesolevas seaduses sätestatud tingimustel kõrgharidustasemel õppija alates õppesse vastuvõtmisest ehk immatrikuleerimisest kuni õppest väljaarvamiseni ehk eksmatrikuleerimiseni.\n(3) Kõrgharidustaseme õpet korraldavad ülikoolid ja rakenduskõrgkoolid, kellele on käesolevas seaduses sätestatud korras antud kõrgharidustaseme õppeõigus.\n(4) Kõrgkooli juht ja töötajad, sealhulgas akadeemilised töötajad, korraldavad õppetegevust ning kujundavad koos üliõpilastega koostööd ja õppimist toetava õpikeskkonna.\n(5) Tööturu osapooled ja teised huvirühmad osalevad ühiskonna vajadustele vastava õppe kujundamises ja oma tegevusvaldkonnaga seotud õppekavade arendamises ning pakuvad muul sobival viisil tuge õppe korraldamisel."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "2. peatükk - Kõrgharidustaseme õpe",
+      "section": "3",
+      "title": "§ 3. Kõrgharidustaseme õppe põhimõtted",
+      "content": "(1) Kõrgharidustaseme õpe koosneb kolmest astmest:\n1) esimese astmena bakalaureuseõppest ja rakenduskõrgharidusõppest;\n2) teise astmena magistriõppest;\n3) kolmanda astmena doktoriõppest.\n(2) Kõrgharidustaseme õppe alus on õppekava, milles määratakse kindlaks õppe eesmärgid ja õpiväljundid, õppe nominaalkestus ja -maht, õppe alustamise tingimused, õppeainete loetelu, spetsialiseerumisvõimalused ning õppe lõpetamise tingimused.\n(3) Kõrgharidustaseme esimese ja teise astme õppekavade õppekeel on eesti keel või kõrgkooli otsusel võõrkeel, kui see on vajalik õppe kvaliteedi või kõrgharidusega spetsialistide tagamiseks ja võõrkeelseks õppeks on olemas vajalikud ressursid.\n(4) Vabariigi Valitsus kehtestab määrusega kõrgharidusstandardi, milles määratakse:\n1) kõrgharidustaseme õppele esitatavad ühtsed nõuded;\n2) varasemate õpingute ja töökogemuse arvestamise põhimõtted;\n3) akadeemilisele töötajale esitatavad üldnõuded ja erinõuete kehtestamise põhimõtted;\n4) kõrgharidustaseme õppe õpiväljundid;\n5) õppekavade liigitamise ja õppeõiguse aluseks olevad õppekavagrupid ning muud õppekavade liigitamise alused.\n(5) Haridus- ja Teadusministeerium kontrollib õppekava vastavust õigusaktidega kehtestatud nõuetele ning registreerib nõuetele vastava õppekava Eesti hariduse infosüsteemis.\n(6) Õppekorralduse alused kehtestab kõrgkool käesoleva paragrahvi lõikes 4 nimetatud kõrgharidusstandardist lähtudes."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - Kõrgharidustaseme õpe",
+      "section": "4",
+      "title": "§ 4. Õppeaasta",
+      "content": "(1) Ühe õppeaasta maht kõrgharidustaseme õppes on 60 ainepunkti ja üks ainepunkt vastab arvestuslikult 26 tunnile üliõpilase õppetööle.\n(2) Õppeaastas on kaksteist kuud, millest kümme on õppekuud. Õppekuud moodustavad kaks semestrit."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - Kõrgharidustaseme õpe",
+      "section": "5",
+      "title": "§ 5. Bakalaureuseõpe ja rakenduskõrgharidusõpe",
+      "content": "(1) Bakalaureuseõppes ja rakenduskõrgharidusõppes süvendab üliõpilane üldhariduslikke teadmisi, omandab valdkonna alusteadmised ja -oskused ning tööle asumiseks, iseseisvaks tööks ning magistriõppeks vajalikud teadmised, oskused ja hoiakud.\n(2) Rakenduskõrgharidusõppes omandab üliõpilane peale käesoleva paragrahvi lõikes 1 nimetatu ka teadmised, oskused ja hoiakud kindlal kutsealal tööle asumiseks.\n(3) Bakalaureuseõppe ja rakenduskõrgharidusõppe maht on 180–240 ainepunkti ning õppekava nominaalkestus on kolm kuni neli õppeaastat.\n(4) Ämmaemandaõpe ja õeõpe on rakenduskõrgharidusõpped. Ämmaemandaõppe maht on 270 ainepunkti ning õppekava nominaalkestus on neli ja pool õppeaastat. Õeõppe maht on 210 ainepunkti ning õppekava nominaalkestus on kolm ja pool õppeaastat.\n(5) Ämmaemandaõppe ja õeõppe raamnõuded kehtestab Vabariigi Valitsus määrusega.\n(6) Bakalaureuseõppe ja rakenduskõrgharidusõppe lõpetanule antakse bakalaureusekraad."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - Kõrgharidustaseme õpe",
+      "section": "6",
+      "title": "§ 6. Magistriõpe",
+      "content": "(1) Magistriõppes süvendab üliõpilane erialateadmisi ja -oskusi ning omandab tööle asumiseks, iseseisvaks tööks ja doktoriõppeks vajalikud teadmised, oskused ja hoiakud.\n(2) Magistriõppe maht on 60–120 ainepunkti ja õppekava nominaalkestus on üks kuni kaks õppeaastat.\n(3) Magistriõppe lõpetanule antakse magistrikraad."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - Kõrgharidustaseme õpe",
+      "section": "7",
+      "title": "§ 7. Integreeritud bakalaureuse- ja magistriõpe",
+      "content": "(1) Arstiõpe, loomaarstiõpe, proviisoriõpe, hambaarstiõpe, arhitektiõpe, ehitusinseneri õpe ning klassiõpetaja õpe korraldatakse integreeritud bakalaureuse- ja magistriõppena.\n(2) Arstiõppe ja loomaarstiõppe õppekava maht on 360 ainepunkti ning õppekava nominaalkestus on kuus õppeaastat. Proviisoriõppe, hambaarstiõppe, arhitektiõppe, ehitusinseneriõppe ja klassiõpetaja õppe maht on 300 ainepunkti ning õppekava nominaalkestus on viis õppeaastat.\n(3) Arstiõppe, loomaarstiõppe, proviisoriõppe, hambaarstiõppe, arhitektiõppe ja ehitusinseneriõppe raamnõuded kehtestab Vabariigi Valitsus määrusega.\n(4) Õpetajakoolituse raamnõuded kehtestab valdkonna eest vastutav minister määrusega.\n(5) Integreeritud bakalaureuse- ja magistriõppe lõpetanule antakse magistrikraad.\n(6) Arstiõppe kliiniline õpe korraldatakse Tartu Ülikooli kliinikumis."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - Kõrgharidustaseme õpe",
+      "section": "8",
+      "title": "§ 8. Doktoriõpe",
+      "content": "(1) Doktoriõppes omandab üliõpilane iseseisvaks teadus-, arendus- või kutsealaseks loometööks vajalikud teadmised, oskused ja hoiakud.\n(2) Doktoriõppe nominaalkestus on kolm kuni neli õppeaastat. Doktoriõppes õppiva isiku (edaspidi doktorant ) nominaalne õppeaeg pikeneb:\n1) õppe- ja teadustöö kavas sätestatud juhul kuni nelja õppeaasta võrra;\n2) kuni kolmeaastase lapse hooldamiseks doktoriõppest eemal oldud aja võrra;\n3) aja- või asendusteenistuses oldud aja võrra.\n(3) Doktoriõppe üliõpilane läbib õppe- ja teadustöös edasijõudmise hindamiseks perioodilise atesteerimise ülikooli kehtestatud tingimustel ja korras.\n(4) Doktoriõppe lõpetanule antakse doktorikraad."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - Kõrgharidustaseme õpe",
+      "section": "9",
+      "title": "§ 9. Õppeõiguse taotlemine",
+      "content": "(1) Kõrgkool võib kõrgharidustaseme õpet korraldada õppeõiguse olemasolul vastava õppekavagrupi ja õppe ulatuses või rakenduskõrgkooli magistriõppes õppekava ulatuses.\n(2) Õppeõiguse saamiseks esitab kõrgkool vähemalt üheksa kuud enne õppeaasta algust Haridus- ja Teadusministeeriumile taotluse, mis sisaldab:\n1) andmed õppekavade kohta, mille alusel soovitakse õpet korraldada;\n2) andmed õpet korraldavate akadeemiliste töötajate ja nende kvalifikatsiooni kohta;\n3) andmed õppe- ja teadustegevuseks vajaliku taristu ja õppe rahastamise allikate kohta;\n4) põhjendused õppe avamise vajaduse kohta, sealhulgas andmed sihtrühma kohta ning kutse- ja erialaliitude ning ametite ettepanekud.\n(3) Haridus- ja Teadusministeerium vaatab õppeõiguse taotluse läbi seitsme kuu jooksul. Käesoleva seaduse §-s 37 nimetatud kõrghariduse kvaliteediagentuuri kaasates hinnatakse, kas õppe kvaliteet vastab kõrgharidustaseme õppe nõuetele ning kas õppeks vajalikud ressursid ja jätkusuutlikkus on piisavad.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud ekspertiisi kulud kannab taotleja.\n(5) Kui kõrgkoolile on käesoleva seaduse §-s 10 sätestatud korras otsustatud mitte anda õppeõigust või õppeõigus on kehtetuks tunnistatud, ei saa kõrgkool samas õppekavagrupis ja õppes taotleda uut õppeõigust enne aasta möödumist vastava otsuse vastuvõtmisest."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - Kõrgharidustaseme õpe",
+      "section": "10",
+      "title": "§ 10. Õppeõiguse andmine ja kehtetuks tunnistamine",
+      "content": "(1) Valdkonna eest vastutav minister võib käesoleva seaduse § 9 lõikes 3 nimetatud ekspertiisi tulemustest lähtudes:\n1) anda kõrgkoolile tähtajatu õppeõiguse, kui on tuvastatud õppe, sealhulgas akadeemiliste töötajate, nõuetele vastavus ning õppeks vajalike ressursside ja jätkusuutlikkuse piisavus;\n2) anda kõrgkoolile üheks kuni kolmeks aastaks õppeõiguse, kui on tuvastatud selle tähtaja jooksul kõrvaldatavad puudused õppe nõuetele vastavuses või õppeks vajalike ressursside või jätkusuutlikkuse piisavuses;\n3) mitte anda õppeõigust, kui õpe ei vasta nõuetele või õppeks vajalikud ressursid või jätkusuutlikkus ei ole piisavad.\n(2) Kui sama õppekavagrupi õppeõigus tuleks kõrgkoolile kolmandat korda anda üheks kuni kolmeks aastaks, teeb valdkonna eest vastutav minister otsuse õppeõigust mitte anda.\n(3) Käesoleva paragrahvi lõike 1 punktis 3 või lõikes 2 nimetatud juhul võib valdkonna eest vastutav minister põhjendatud juhul pikendada kehtivat õppeõigust arvestusega, et õppivad üliõpilased saavad õppekava nominaalkestuse jooksul õpingud lõpetada, ning keelata kõrgkoolile üliõpilaste vastuvõtu.\n(4) Valdkonna eest vastutaval ministril on õigus tunnistada õppeõigus kehtetuks, kui:\n1) järelevalve käigus on tuvastatud kõrgkooli tegevuse õigusvastasus ja rikkumisi ei kõrvaldata;\n2) järelevalve käigus on tuvastatud, et õppe kvaliteet on olulisel määral halvenenud või kõrgkooli juhtimine, töökorraldus, õppe- ja teadustegevus ning õppe- ja uurimiskeskkond ei vasta nõuetele;\n3) kõrgkool ei ole osalenud käesolevas seaduses sätestatud kvaliteedihindamisel või on institutsionaalsel akrediteerimisel jäetud akrediteerimata;\n4) doktoriõppe aluseks olnud teadusvaldkonna teadustegevus evalveeritakse negatiivselt;\n5) 12 kuu jooksul õppeõiguse andmisest arvates ei ole õppetööd alustatud või õppetöö on olnud peatatud 12 kuud järjest."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - Kõrgharidustaseme õpe",
+      "section": "11",
+      "title": "§ 11. Ühisõppekava",
+      "content": "(1) Kõrgkoolid võivad avada ühisõppekava, kui:\n1) kõigil ühisõppekavas osalevatel Eesti kõrgkoolidel on õigus korraldada ühisõppekavaga sama kõrgharidusastme õpet, välja arvatud rakenduskõrgkooli magistriõppe avamise korral;\n2) ühisõppekavas osaleval välisriigi kõrgkoolil on õigus korraldada Eesti kõrgharidusastmega samaväärse astme õpet;\n3) vähemalt ühel ühisõppekavas osaleval kõrgkoolil on õppeõigus ühisõppekavaga samas õppekavagrupis;\n4) ühisõppekavas osalevatel Eesti kõrgkoolidel on õppeõigus selles õppekavagrupis, mille alusel nad ühisõppekavas osalevad, ja\n5) ühisõppekavas osaleva välisriigi kõrgkooli õpe vastab selle välisriigi nõuetele ning tema väljastatavad lõpudokumendid on selle välisriigi pädeva asutuse tunnustatud.\n(2) Ühisõppekavas osalevad kõrgkoolid sõlmivad koostöölepingu, milles on määratud ühisõppekava alusel õppivate üliõpilaste õigused ja kohustused, õppekorraldus, ühisõppekavas osalevate kõrgkoolide vastutuse jaotus ning muud küsimused, mis on vajalikud ühisõppekava alusel õpetamiseks ja õppimiseks.\n(3) Haridus- ja Teadusministeerium kontrollib ühisõppekava ja koostöölepingu vastavust nõuetele ning korraldab vajaduse korral ühisõppekava ekspertiisi, kaasates kõrghariduse kvaliteediagentuuri.\n(4) Kui ühisõppekava ja koostööleping vastavad nõuetele, registreerib Haridus- ja Teadusministeerium ühisõppekava Eesti hariduse infosüsteemis.\n(5) Kui ühisõppekavas osaleval kõrgkoolil ei ole õppeõigust õppekavagrupis, millesse ühisõppekava kuulub, annab valdkonna eest vastutav minister kõrgkoolile selle õiguse ühisõppekava ulatuses."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - Kõrgharidustasemel õppimine",
+      "section": "12",
+      "title": "§ 12. Kõrgharidustaseme õppesse kandideerimise üldnõuded",
+      "content": "(1) Bakalaureuseõppesse ja rakenduskõrgharidusõppesse on õigus kandideerida isikul, kellel on keskharidus või sellele vastav kvalifikatsioon.\n(2) Magistriõppesse on õigus kandideerida isikul, kellel on bakalaureusekraad või sellele vastav kvalifikatsioon.\n(3) Doktoriõppesse on õigus kandideerida isikul, kellel on magistrikraad või sellele vastav kvalifikatsioon."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - Kõrgharidustasemel õppimine",
+      "section": "13",
+      "title": "§ 13. Kõrgharidustaseme õppesse vastuvõtt",
+      "content": "(1) Kõrgkool kehtestab ja avalikustab käesoleva seaduse §-s 12 sätestatut arvestades kõrgharidustaseme õppesse vastuvõtu tingimused, sealhulgas õppekeele taseme miinimumnõuded.\n(2) Põhjendatud juhul võib kõrgkool kehtestada õppekavale vastuvõetavate üliõpilaste arvu ülempiiri, lähtudes eelkõige õppe kvaliteedist ja õppe korraldamiseks vajalikest ressurssidest, ning täita õppekohad vastuvõtutingimuste täitmisel tekkiva paremusjärjestuse alusel.\n(2^1) Ülikool võib doktoriõppe õppekoha täita avalikku konkurssi välja kuulutamata, kui doktorant asub doktoriõppe raames tööle väljaspool ülikooli ja tal on tööleping õppe- ja teadustöö kava täitmiseks või kui doktorant võetakse ülikooli vastu rahvusvahelise koostöölepingu raames.\n(3) Kõrgkool võib isikuid õppekohtade täitmisel õppekava spetsiifikast ning õppijate erivajadustest tulenevalt põhjendatud juhtudel rühmitada ja kehtestada erinevatele rühmadele erinevad vastuvõtutingimustele vastavuse hindamise alused. Vastuvõtutingimustele vastavuse hindamisel ei rühmitata isikuid selle põhjal, kas kõrgkoolil on õigus nõuda neilt tasu õppimise eest või mitte.\n(4) Üliõpilaseks võetakse vastu isik, kes:\n1) vastab kõrgkooli kehtestatud vastuvõtutingimustele või\n2) vastab kõrgkooli kehtestatud vastuvõtutingimustele ja on paremusjärjestuses vastuvõttu tagaval kohal, kui kõrgkool täidab õppekohad paremusjärjestuse alusel."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - Kõrgharidustasemel õppimine",
+      "section": "14",
+      "title": "§ 14. Täis- ja osakoormusega õppimine ning eksternõpe",
+      "content": "(1) Kõrgharidustaseme õppes saab õppida täis- või osakoormusega, välja arvatud doktoriõppes.\n(2) Täiskoormusega õppes täidab üliõpilane iga õppeaasta lõpuks õppekavas ettenähtud õppe mahust kumulatiivselt vähemalt 75 protsenti.\n(3) Osakoormusega õppes täidab üliõpilane iga õppeaasta lõpuks õppekavas ettenähtud õppe mahust kumulatiivselt 50 kuni 75 protsenti.\n(4) Kõrgkool võib nimetada õppekavad:\n1) mille alusel saab õppida ainult täiskoormusega või käesoleva seaduse §-des 43 ja 45 nimetatud toetuste eraldamisel määratud juhtudel ainult osakoormusega;\n2) mille täis- või osakoormusega õppele esitatakse õppekoormuse kõrgemad nõuded.\n(5) Üliõpilane otsustab kõrgkooli astudes, kas ta õpib esimesel õppeaastal täis- või osakoormusega, välja arvatud juhul, kui õppekava alusel saab õppida ainult täis- või osakoormusega.\n(6) Alates teisest õppeaastast viiakse üliõpilane täiskoormusega õppest üle osakoormusega õppesse või vastupidi, lähtudes sellest, kui suures mahus on ta igal õppeaastal kumulatiivselt õppekava täitnud.\n(7) Üliõpilase nominaalne õppeaeg vastab üldjuhul õppekava nominaalkestusele. Üliõpilase nominaalne õppeaeg esimesel ja teisel õppeastmel pikeneb:\n1) akadeemilisel puhkusel viibitud aja võrra;\n2) semestri võrra, mille jooksul üliõpilane õppis välisriigis ja mille jooksul läbitud õpinguid arvestab kõrgkool vähemalt 15 ainepunkti ulatuses;\n3) üliõpilasel, kelle eesti keele kui õppekeele oskus ei vasta kõrgharidustasemel õppimiseks esitatavatele nõuetele, käesoleva paragrahvi lõike 8 alusel kehtestatud tingimustel ja korras süvendatud riigikeele õppimise korral kuni ühe õppeaasta võrra;\n4) õppekavas ettenähtud juhul üliõpilasel, kelle õppekavajärgse praktika kestus on pikem kui kuus kuud, praktika kestuse võrra.\n(8) Süvendatult riigikeele õppimise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega.\n(9) Kõrgkoolil on õigus korraldada eksternõpet. Eksternõppes õppija peab vastama õppekava vastuvõtutingimustele ning tal on õigus kõrgkooli kehtestatud tingimustel ja korras kaitsta lõputöö või sooritada lõpueksam. Arvestamata lõputööd, lõpueksamit või praktika läbimist on eksternõppes õppija õppekoormus esimesel ja teisel õppeastmel väiksem kui osakoormus. Eksternõppes õppija ei ole üliõpilane."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - Kõrgharidustasemel õppimine",
+      "section": "15",
+      "title": "§ 15. Üliõpilase õigused ja kohustused",
+      "content": "(1) Üliõpilasel on õigus:\n1) õppimiseks vajalikele tingimustele, sealhulgas turvalisele ja õpitulemuste saavutamist toetavale õpikeskkonnale;\n2) saada õppekava täitmiseks vajalikku teavet;\n3) saada õpi- ja karjäärinõustamist;\n4) anda tagasisidet õppe sisule, õpetamise kvaliteedile ja õppekorraldusele ning vaidlustada õppekorraldusega seonduvaid otsuseid;\n5) valida esindajaid ja olla valitud kõrgkooli kollegiaalsetesse esinduskogudesse;\n6) saada igal õppeaastal õppetööst vähemalt kaks kuud puhkust, välja arvatud doktoriõppes või riigikaitselises rakenduskõrgkoolis õppides;\n7) saada esimesel ja teisel õppeastmel akadeemilist puhkust kõrgkooli kehtestatud korras üldjuhul kuni üks aasta, lisaks tervislikel põhjustel kuni kaks aastat, aja- või asendusteenistuse puhul kuni üks aasta ning lapse hooldamiseks kuni lapse kolmeaastaseks saamiseni;\n8) saada käesoleva paragrahvi lõike 4 alusel kehtestatud tingimustel ja korras riiklikke stipendiume.\n(2) Kui kõrgkooli õppeõigus kaotab kehtivuse ja vastava õppekava alusel õppetöö lõpetatakse, tagab kõrgkool koostöös Haridus- ja Teadusministeeriumiga selle õppekava üliõpilastele võimaluse jätkata õpinguid samas või teises kõrgkoolis samal või lähedasel õppesuunal.\n(3) Üliõpilasel on kohustus:\n1) täita õppekava;\n2) kasutada talle õppimiseks loodud võimalusi, sealhulgas õppevara, vastutustundlikult;\n3) lähtuda õppetöös akadeemilise eetika põhimõtetest ja õppimise heast tavast;\n4) täita muid kõrgkooli kehtestatud õppekorralduse tingimusi.\n(4) Üliõpilaste riiklike stipendiumite liigid, suurused ning nende määramise üldtingimused ja korra kehtestab valdkonna eest vastutav minister määrusega.\n(5) Kõrgkooli kehtestatud tingimustel ja korras on isikul õigus taotleda varasemate õpingute ning töökogemuse arvestamist."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - Kõrgharidustasemel õppimine",
+      "section": "16",
+      "title": "§ 16. Õppekulude hüvitamine kõrgharidustaseme esimesel ja teisel õppeastmel",
+      "content": "(1) Eestikeelse õppekava alusel õppimine on üliõpilase jaoks tasuta juhul, kui ta õpib täiskoormusega ja täidab kumulatiivselt igal semestril nõutava õppe mahu.\n(2) Eestikeelse õppekava alusel täiskoormusega õppivalt üliõpilaselt võib kõrgkool nõuda tasu kuni käesoleva paragrahvi lõike 3 alusel Vabariigi Valitsuse kehtestatud ülemmäärani:\n1) semestril valitud sooritamata õppeainete ainepunktide mahu ulatuses, kui üliõpilane katkestab õpingud pärast 70 kalendripäeva möödumist semestri algusest;\n2) täitmata õppemahu ulatuses, kui üliõpilane ei ole semestri lõpuks kumulatiivselt täitnud kogu nõutavat õppemahtu.\n(3) Kõrgharidustaseme õppe ainepunktide tasu ülemmäärad kehtestab Vabariigi Valitsus määrusega.\n(4) Käesoleva paragrahvi lõikes 2 nimetatud tasu ei nõua kõrgkool üliõpilaselt, kes ei ole täitnud käesoleva paragrahvi lõikes 1 nimetatud nõudeid, kui üliõpilane jätkab õpinguid sama õppekava järgi ja on:\n1) keskmise, raske või sügava puudega;\n2) alla seitsmeaastase lapse või puudega lapse vanem või eestkostja või\n3) õppinud välisriigis, eeldusel, et seal läbitud õpinguid arvestab kõrgkool vähemalt 15 ainepunkti mahus tema õppekava täitmise osana, välisriigis õppimise ja sellele järgneva semestri eest.\n(5) Kui õppimine on üliõpilase jaoks tasuta, ei ole kõrgkoolil õigust nõuda temalt tasu õppesse vastu võtmise ega vastuvõtutingimusena määratletud soorituste eest.\n(6) Õppekulude hüvitamist ehk tasu kogu õppekava ulatuses võib nõuda üliõpilaselt, kes:\n1) õpib osakoormusega, välja arvatud juhul, kui ta vastab käesoleva paragrahvi lõike 4 punktides 1 ja 2 nimetatud tingimustele, või asub õppima osakoormusega;\n1^1) on õppima asudes juba immatrikuleeritud kõrgharidustaseme tasuta õppesse;\n1^2) on õppima asudes juba vastu võetud tasuta koolituskohale keskhariduse järgses kutseõppe tasemeõppes;\n2) ei õpi eestikeelse õppekava alusel;\n3) on juba tasuta õppinud kõrgharidustaseme esimesel või teisel astmel vähemalt 365 kalendripäeva ning kelle samalt kõrgharidustaseme astmelt eksmatrikuleerimisest on möödas lühem aeg kui kümme aastat;\n3^1) on integreeritud bakalaureuse- ja magistriõppesse õppima asumisel juba tasuta õppinud integreeritud bakalaureuse- ja magistriõppes või kõrgharidustaseme teisel astmel vähemalt 365 kalendripäeva ning õppest eksmatrikuleerimisest on möödas lühem aeg kui kümme aastat;\n3^2) on varem kahel korral samal kõrgharidusastmel tasuta õppesse immatrikuleeritud ja viimasest õppest eksmatrikuleerimisest on möödas lühem aeg kui kümme aastat;\n4) on kahe aasta jooksul välja arvatud ja uuesti vastu võetud samale õppekavale;\n5) peab õppekulusid hüvitama politsei ja piirivalve seaduses, vangistusseaduses või kaitseväeteenistuse seaduses sätestatud tingimustel ja korras;\n6) asub õppima erakõrgkooli sellise õppekava alusel, mille õppekulusid ei kaeta tegevustoetusest või sihttoetusest.\n(6^1) Akadeemilisel puhkusel viibimise ajal peatub käesoleva paragrahvi lõike 6 punktides 3 ja 3^1 nimetatud kalendripäevade arvestus.\n(7) Kõrgkooli rahastamisel võib kokku leppida õppekavagrupid või õppekavad, mille alusel õppivatelt üliõpilastelt ei ole kõrgkoolil õigust tasu nõuda. Kõrgkool tagab üliõpilaste teavitamise sellistest kokkulepetest.\n(8) Kõrgkool kehtestab tasu määrad ning õppekulude hüvitamise määra ja tingimused vähemalt neli kuud enne õppeaasta algust. Juba õppima asunud üliõpilase õppekulude hüvitamise määra võib kõrgkool suurendada eelmise õppeaastaga võrreldes kuni kümme protsenti."
+    },
+    {
+      "provision_ref": "para16^1",
+      "chapter": "3. peatükk - Kõrgharidustasemel õppimine",
+      "section": "16^1",
+      "title": "§ 16^1. Õppekulude hüvitamine kõrgharidustaseme kolmandal õppeastmel",
+      "content": "(1) Kõrghariduse kolmandal õppeastmel õppimine on üliõpilase jaoks tasuta õppekava nominaalkestuse jooksul. Periood, kui õppetöös osalemise eest tasu ei küsita, pikeneb käesoleva seaduse § 8 lõike 2 punktides 2 ja 3 sätestatud aja võrra.\n(2) Ülikool kehtestab tasu määrad ning õppekulude hüvitamise määra ja tingimused hiljemalt neli kuud enne õppeaasta algust. Juba õppima asunud üliõpilase õppekulude hüvitamise määra võib ülikool suurendada eelmise õppeaastaga võrreldes kuni kümme protsenti.\n(3) Õppekulude hüvitamist ehk tasu kogu õppekava ulatuses võib kõrghariduse kolmandal astmel nõuda üliõpilaselt, kes:\n1) on õppima asudes juba immatrikuleeritud kõrgharidustaseme tasuta õppesse;\n2) on juba tasuta õppinud doktoriõppes vähemalt 365 kalendripäeva ja õppest eksmatrikuleerimisest on möödas lühem aeg kui kümme aastat;\n3) on õppima asudes juba vastu võetud tasuta koolituskohale keskhariduse järgses kutseõppe tasemeõppes."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - Kõrgharidustasemel õppimine",
+      "section": "17",
+      "title": "§ 17. Kõrgharidustaseme õppest väljaarvamine",
+      "content": "Kõrgkool arvab kõrgkooli kehtestatud korras kõrgharidustaseme õppest välja üliõpilase, kes: 1 1) on täitnud õppekava täies mahus;\n2) taotleb väljaarvamist omal algatusel;\n3) ei jõua õpingutes edasi;\n4) ei täida käesoleva seaduse § 16 lõigete 2 ja 6 alusel tekkinud kohustusi;\n5) on oluliselt rikkunud õppekorralduse tingimusi ja korda;\n6) ohustab oma käitumisega teisi üliõpilasi või teisi isikuid;\n7) on pannud toime olulise vääritu teo;\n8) riigikaitselises rakenduskõrgkoolis õppides vabastatakse tegevteenistusest;\n9) on surnud."
+    },
+    {
+      "provision_ref": "para17^1",
+      "chapter": "3. peatükk - Kõrgharidustasemel õppimine",
+      "section": "17^1",
+      "title": "§ 17^1. Õppekorralduslike otsuste vaidlustamine",
+      "content": "Õppekorralduslike otsuste peale vaide esitamiseks võib kõrgkool ette näha haldusmenetluse seaduses sätestatust erineva tähtaja. Õppesse vastuvõtmisega ning lõputöö ja lõpueksami hindamisega seotud otsuste peale vaide esitamise tähtaeg ei või olla lühem kui kolm tööpäeva otsuse teatavakstegemisest alates. Muudel juhtudel ei või õppekorralduslike otsuste peale vaide esitamise tähtaeg olla lühem kui kümme tööpäeva otsuse teatavakstegemisest alates."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - Kõrgharidustasemel õppimine",
+      "section": "18",
+      "title": "§ 18. Üliõpilaskond ja üliõpilasesindus",
+      "content": "(1) Kõrgkooli üliõpilased moodustavad üliõpilaskonna, mille demokraatlikult valitud esindusorgan on üliõpilasesindus.\n(2) Üliõpilaskond teostab üliõpilaste õigust omavalitsusele ning otsustab ja korraldab iseseisvalt üliõpilaselu küsimusi, lähtudes üliõpilaste huvidest, vajadustest, õigustest ja kohustustest ning toetades üliõpilaste kujunemist algatusvõimelisteks ja vastutustundlikeks kodanikeks.\n(3) Üliõpilaskonnal on põhikiri, mille võtab vastu üliõpilaskond kõrgkooli põhikirjas või põhimääruses sätestatud korras.\n(4) Üliõpilaskonnal on õigus:\n1) moodustada esindus-, täitev- ja järelevalvekogusid ning liite ja organisatsioone teiste üliõpilaskondadega mittetulundusühingute seaduse §-s 5 ja sihtasutuste seaduse § 5 lõikes 2 sätestatud juriidilise isiku staatust omamata;\n2) astuda rahvusvaheliste organisatsioonide liikmeks või arendada nendega koostööd;\n3) teha ettepanekuid kõrgkooli õppekorralduse ja juhtimise parendamiseks ning osaleda järjepidevalt sellealases tegevuses kõrgkoolis.\n(5) Kõrgkooli eelarves nähakse ette vahendid üliõpilaskonna kogude ja organite tegutsemiseks ning neile pandud eesmärkide täitmiseks."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - Kõrgharidustasemel õppimine",
+      "section": "19",
+      "title": "§ 19. Kõrgharidust tõendavad dokumendid",
+      "content": "(1) Kõrgharidustaseme õppe lõpetanule annab kõrgkool pärast õppekava täies mahus täitmist akadeemilise kraadi kohta diplomi koos eesti- ja ingliskeelse akadeemilise õiendiga. Kõrgharidust tõendavad dokumendid annab kõrgkool lõpetanule tasuta.\n(2) Ühisõppekava täies mahus täitnule antakse:\n1) ühisõppekavas osalevate kõrgkoolide antav kõrgharidust tõendav ühisdiplom käesoleva paragrahvi lõikes 1 sätestatud korras või\n2) kui ühisõppekavas osaleb välisriigi kõrgkool, siis lisaks käesoleva paragrahvi lõikes 1 nimetatule ühisõppekava koostöölepingus kokku lepitud korras antav muu ühisdiplom.\n(3) Kõrgkool võib otsustada, et bakalaureuseõppe või rakenduskõrgharidusõppe lõpetanule antakse ingliskeelne akadeemiline õiend ainult juhul, kui isik on seda taotlenud.\n(4) Kõrgharidustaseme ühtse hindamissüsteemi ning diplomi ja akadeemilise õiendi andmise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "4. peatükk - Kõrgkoolid",
+      "section": "20",
+      "title": "§ 20. Ülikool",
+      "content": "(1) Ülikool on õppe-, loome- ning teadus- ja arendusasutus, millele on käesolevas seaduses sätestatud tingimustel ja korras antud õppeõigus kõrgharidustaseme kolmel astmel. Doktoriõpe põhineb positiivselt evalveeritud teadus- ja arendustegevusel.\n(2) Ülikooli missioon on edendada teadusi ja kultuuri ning elukestvat õpet, osutada ühiskonnale vajalikke õppe-, teadus- ja loometegevusel põhinevaid teenuseid ning toetada üliõpilastest vastutustundlike ja algatusvõimeliste kodanike kujunemist. Ülikoolid teevad koostööd teiste õppeasutuste ja kogu ühiskonnaga, toetades teadus-, arendus- ja loometegevusega ühiskonna arengut ning rahvusvahelistumist ja rahvuskultuuri püsimist.\n(3) Sõna „ülikool” või selle võõrkeelset vastet võib oma nimes kasutada ülikool, millel on positiivselt evalveeritud teadus- ja arendustegevus mitmes teadusvaldkonnas ning kus toimub õpe mitmes õppevaldkonnas kõrgharidustaseme kõigil astmetel."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - Kõrgkoolid",
+      "section": "21",
+      "title": "§ 21. Rakenduskõrgkool",
+      "content": "(1) Rakenduskõrgkool on õppeasutus, millele on käesolevas seaduses sätestatud korras antud rakenduskõrghariduse õppeõigus ja mille tasemeõppes õppijatest vähemalt kaks kolmandikku õpib kõrgharidustaseme õppes, kui käesoleva seaduse §-s 45 nimetatud toetuste eraldamisel ei ole määratud teisiti.\n(2) Rakenduskõrgkooli missioon on edendada tööturu vajadustele vastavat elukestvat õpet, pakkuda õppe- ja arendustegevust hõlmavaid teenuseid, teha rakendusuuringuid ning toetada üliõpilastest vastutustundlike ja algatusvõimeliste kodanike kujunemist. Rakenduskõrgkoolid teevad koostööd teiste õppeasutuste ja kogu ühiskonnaga, toetades oma valdkonnas arendustegevuse, innovatsiooni ja rakendusuuringutega ühiskonna arengut.\n(3) Rakenduskõrgkoolis võib rakenduskõrgharidusõppega samas õppekavagrupis toimuda magistriõpe.\n(4) Rakenduskõrgkoolis võib rakenduskõrgharidusõppega samas õppekavagrupis toimuda kutseõpe sellise õppekava järgi, mille õpiväljundid vastavad kutseseaduses kehtestatud kvalifikatsiooniraamistiku viiendale tasemele. Sisekaitselises rakenduskõrgkoolis ning tervise ja heaolu valdkonnas õpet korraldavas rakenduskõrgkoolis võib toimuda neljanda taseme kutseõpe.\n(5) Kutseõppe korraldamisele rakenduskõrgkoolis kohaldatakse kutseõppeasutuse seaduses õppekava, õppekorralduse, välja arvatud õpilase koolist väljaarvamise, õpetajate, rahastamise, kutseõppe läbiviimise õiguse ja kutseõppe kvaliteedi hindamise kohta sätestatut."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - Kõrgkoolid",
+      "section": "22",
+      "title": "§ 22. Avalik-õigusliku ülikooli õiguslik seisund",
+      "content": "(1) Avalik-õiguslik ülikool on avalik-õiguslik juriidiline isik. Avalik-õigusliku ülikooli õiguslik seisund, eesmärk ja ülesanded, tegevuse alused ning juhtorganid sätestatakse ülikooli kohta käivas seaduses.\n(2) Avalik-õigusliku ülikooli asutamise, ühinemise, jagunemise ja tegevuse lõpetamise otsustab Riigikogu. Ülikooli lõpetamine toimub likvideerimismenetluse korras vastavalt tsiviilseadustiku üldosa seadusele."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - Kõrgkoolid",
+      "section": "23",
+      "title": "§ 23. Riigi rakenduskõrgkooli õiguslik seisund ja põhimäärus",
+      "content": "(1) Riigi rakenduskõrgkool on Haridus- ja Teadusministeeriumi hallatav riigiasutus.\n(2) Sisekaitseline rakenduskõrgkool on Siseministeeriumi hallatav riigiasutus.\n(3) Riigikaitseline rakenduskõrgkool on Kaitseväe struktuuriüksus Kaitseministeeriumi valitsemisalas.\n(4) Riigi rakenduskõrgkoolil on põhimäärus, mille kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - Kõrgkoolid",
+      "section": "24",
+      "title": "§ 24. Riigi rakenduskõrgkooli rektor",
+      "content": "(1) Riigi rakenduskõrgkooli juhib rektor.\n(2) Riigi rakenduskõrgkooli rektoril on vähemalt magistrikraad või sellele vastav kvalifikatsioon. Kui rakenduskõrgkoolis toimub magistriõpe, peab rakenduskõrgkooli rektoril olema doktorikraad või sellele vastav kvalifikatsioon või sisekaitselises rakenduskõrgkoolis magistrikraad ja vähemalt viieaastane juhtimiskogemus siseturvalisuse valdkonnas.\n(3) Riigi rakenduskõrgkooli rektor valitakse avalikul konkursil kuni viieks aastaks. Minister, kelle juhitava ministeeriumi valitsemisalasse riigi rakenduskõrgkool kuulub, või tema volitatud esindaja sõlmib rektoriga töölepingu.\n(4) Riigi rakenduskõrgkooli rektori valimise tingimused ja korra kehtestab minister, kelle juhitava ministeeriumi valitsemisalasse riigi rakenduskõrgkool kuulub, määrusega.\n(5) Riigi rakenduskõrgkooli rektori töökohustustest vabanemise järel on rektoril õigus asuda rakenduskõrgkoolis samaväärsele ametikohale, kus ta töötas enne rektoriks valimist.\n(6) Käesoleva paragrahvi lõikeid 2–5 ei kohaldata riigikaitselise rakenduskõrgkooli rektorile."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - Kõrgkoolid",
+      "section": "25",
+      "title": "§ 25. Riigi rakenduskõrgkooli nõukogu",
+      "content": "(1) Riigi rakenduskõrgkooli kõrgeim kollegiaalne otsustuskogu on nõukogu, mille moodustamise kord, töökorralduse alused ja ülesanded sätestatakse rakenduskõrgkooli põhimääruses.\n(2) Riigi rakenduskõrgkooli nõukogusse kuuluvad:\n1) rektor, kes on nõukogu esimees;\n2) prorektor või prorektorid;\n3) akadeemiliste töötajate esindajad;\n4) üliõpilaskonna esindajad, kes moodustavad nõukogust vähemalt ühe viiendiku;\n5) teised põhimäärusega ettenähtud isikud.\n(3) Riigi rakenduskõrgkooli nõukogu:\n1) võtab vastu rakenduskõrgkooli arengukava, kooskõlastades selle enne ministeeriumiga, kelle valitsemisalasse rakenduskõrgkool kuulub;\n2) kehtestab käesoleva seaduse § 3 lõikes 4 sätestatut arvestades õppekorralduslikud korrad, sealhulgas kõrgkooli vastuvõtmise ja kõrgkoolist väljaarvamise tingimused ja korra, välismaalase õppekeele oskuse piisavuse hindamiseks õppekeele taseme miinimumnõuded ning varasemate õpingute ja töökogemuse arvestamise tingimused ja korra;\n3) kehtestab akadeemilisi töötajaid puudutavad korrad, sealhulgas kvalifikatsiooninõuded ja atesteerimise tingimused ja korra, ning valib korralised akadeemilised töötajad;\n4) lahendab teisi käesoleva seaduse ja rakenduskõrgkooli põhimäärusega tema pädevusse antud küsimusi."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - Kõrgkoolid",
+      "section": "26",
+      "title": "§ 26. Riigi rakenduskõrgkooli nõunike kogu",
+      "content": "(1) Riigi rakenduskõrgkooli nõunike kogu on nõuandev kogu, mis teeb rakenduskõrgkooli arengu kohta ettepanekuid rektorile, nõukogule ja ministeeriumile, kelle valitsemisalasse rakenduskõrgkool kuulub.\n(2) Minister, kelle juhitava ministeeriumi valitsemisalasse rakenduskõrgkool kuulub:\n1) kehtestab riigi rakenduskõrgkooli nõunike kogu moodustamise alused ja töökorra ning\n2) nimetab nõunike kogu liikmed."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - Kõrgkoolid",
+      "section": "27",
+      "title": "§ 27. Riigi rakenduskõrgkooli ühinemine avalik-õigusliku ülikooliga",
+      "content": "(1) Vabariigi Valitsusel on õigus selle ministri ettepanekul, kelle juhitava ministeeriumi valitsemisalasse rakenduskõrgkool kuulub, lubada riigi rakenduskõrgkoolil ühineda avalik-õigusliku ülikooliga.\n(2) Minister, kelle juhitava ministeeriumi valitsemisalasse rakenduskõrgkool kuulub, otsustab Vabariigi Valitsuselt käesoleva paragrahvi lõikes 1 nimetatud loa taotlemise koostöös rakenduskõrgkooli nõukogu ja nõunike koguga ning ülikooliga.\n(3) Vabariigi Valitsus annab loa riigi rakenduskõrgkooli ühinemiseks avalik-õigusliku ülikooliga juhul, kui rakenduskõrgkoolile pandud ülesandeid on otstarbekam täita ülikoolina, ja volitab ministri, kelle juhitava ministeeriumi valitsemisalasse rakenduskõrgkool kuulub, sõlmima ühinemislepingu.\n(4) Ühinemislepingus määratakse üliõpilaste õigused õpingute jätkamisel, rakenduskõrgkooli töötajate töö jätkamise tingimused, rakenduskõrgkooli riigivara, asjade, õiguste ja kohustuste, sealhulgas lepingute üleminek ning muud ühinemiseks vajalikud küsimused."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - Kõrgkoolid",
+      "section": "28",
+      "title": "§ 28. Erakõrgkooli õiguslik seisund",
+      "content": "(1) Erakõrgkool on ülikool või rakenduskõrgkool.\n(2) Erakõrgkool on eraõigusliku juriidilise isiku (edaspidi erakooli pidaja ) asutus.\n(3) Erakõrgkooli õiguste ja kohustuste kandja on erakooli pidaja."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - Kõrgkoolid",
+      "section": "29",
+      "title": "§ 29. Nõuded erakooli pidajale",
+      "content": "(1) Ülikooli pidajaks võib olla aktsiaselts, osaühing, sihtasutus või mittetulundusühing, kelle vastavalt aktsiakapital, osakapital või omakapital on vähemalt 640 000 eurot.\n(2) Rakenduskõrgkooli pidajaks võib olla aktsiaselts, osaühing, sihtasutus või mittetulundusühing, kelle vastavalt aktsiakapital, osakapital või omakapital on vähemalt 380 000 eurot.\n(3) Kui aktsiaseltsil on netovara või osaühingul osakapitali käesolevas paragrahvis sätestatud minimaalsest suurusest vähem, kohaldatakse talle vastavalt äriseadustiku §-s 301 või 176 sätestatut.\n(4) Kui sihtasutusel või mittetulundusühingul on netovara käesolevas paragrahvis sätestatud omakapitali minimaalsest suurusest vähem, otsustab sihtasutuse nõukogu või mittetulundusühingu üldkoosolek:\n1) abinõud, mille tulemusena netovara suurus moodustaks vähemalt käesolevas paragrahvis sätestatud sihtasutuse või mittetulundusühingu omakapitali minimaalse suuruse;\n2) sihtasutuse või mittetulundusühingu lõpetamise, ühinemise või jagunemise või\n3) pankrotiavalduse esitamise.\n(5) Kui erakooli pidajal on audiitor, teavitab audiitor viivitamata kirjalikult Haridus- ja Teadusministeeriumi talle kutsetegevuse käigus teatavaks saanud asjaoludest, mille tagajärg on või võib olla:\n1) erakõrgkooli tegevuse katkemine majandusliku olukorra tõttu;\n2) vandeaudiitori eitav või märkustega aruanne erakõrgkooli raamatupidamise aastaaruande kohta;\n3) majanduslikust olukorrast tingitud olukord, kus erakõrgkool ei ole võimeline täitma oma kohustusi, või sellise olukorra tekke oht;\n4) juhi või töötaja tegudest tulenev oluline varaline kahju erakooli pidajale, erakõrgkoolile või üliõpilastele.\n(6) Erakooli pidajal on erakõrgkooli kohta eraldi eelarve ning see on lahus tema teiste asutuste ja ettevõtete raamatupidamisest."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "4. peatükk - Kõrgkoolid",
+      "section": "30",
+      "title": "§ 30. Nõuded erakõrgkoolile",
+      "content": "(1) Erakooli pidaja:\n1) seab erakõrgkooli arengueesmärgid ja\n2) kehtestab erarakenduskõrgkooli põhimääruse või eraülikooli põhikirja, milles määratakse õppe kvaliteedi ja õppeasutuse tegevuse tulemuslikkuse tagamiseks olulised tingimused, õppetöö korraldamise koht, üliõpilaste ja töötajate, sealhulgas akadeemiliste töötajate täpsemad õigused ja kohustused, õppekorralduse täpsemad alused ning juhtorganite pädevuse jaotuse.\n(2) Erakõrgkooli õppekeele või õppekeeled määrab erakooli pidaja.\n(3) Erakõrgkooli asjaajamiskeel on eesti keel. Erakõrgkoolis, kus õppekeel ei ole eesti keel, võib sisemise asjaajamise keelena kasutada eesti keele kõrval erakõrgkooli õppekeelt või mõnda muud võõrkeelt.\n(4) Üliõpilane ja erakooli pidaja sõlmivad enne õppetöö algust lepingu, milles lepitakse kokku:\n1) õppekava, mille alusel õpet pakutakse;\n2) õppetöö koht;\n3) üliõpilase õppekulude hüvitamise tingimused ja kord;\n4) erakooli pidaja kohustused üliõpilase õpingute jätkamise tagamisel, kui erakõrgkooli kõrgharidustaseme õppeõigus tunnistatakse kehtetuks;\n5) vajaduse korral muud tingimused, mille erakooli pidaja loob kvaliteetse kõrgharidustaseme õppe tagamiseks.\n(5) Erakõrgkooli tegevuse lõpetamisest teatab erakooli pidaja üliõpilastele, kõrgkooli töötajatele ning Haridus- ja Teadusministeeriumile vähemalt kuus kuud ette."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "4. peatükk - Kõrgkoolid",
+      "section": "31",
+      "title": "§ 31. Erakõrgkooli õppeõigus",
+      "content": "(1) Kõrgharidustaseme õppe korraldamise õigus on ettevõtjal, kellele on käesolevas paragrahvis sätestatud tingimustel ja korras antud tegevusluba.\n(2) Erakõrgkooli tegevusloa taotluse menetleb Haridus- ja Teadusministeerium kuue kuu jooksul. Taotluse menetlemisele kohaldatakse majandustegevuse seadustiku üldosa seadust käesolevas seaduses sätestatud erisustega.\n(3) Erakõrgkooli tegevusluba taotleb erakooli pidaja, lisades taotlusele lisaks käesoleva seaduse § 9 lõikes 2 sätestatule:\n1) majandustegevuse seadustiku üldosa seadusest tulenevad andmed ja dokumendid;\n2) erakõrgkooli põhikirja või põhimääruse;\n3) kõrgharidustaseme õppeõiguse esmakordsel taotlemisel erakooli pidaja asutamislepingu või otsuse notariaalselt tõestatud ärakirja, kui taotleja on asutamisel olev eraõiguslik juriidiline isik.\n(4) Lisaks käesoleva seaduse § 9 lõikes 3 sätestatule kontrollitakse tegevusloa andmisel, kas:\n1) erakõrgkool on täitnud isikuandmete kaitse seadusest tulenevad delikaatsete isikuandmete töötlemise nõuded;\n2) erakooli pidaja ja erakõrgkool vastavad käesoleva seadusega kehtestatud nõuetele.\n(5) Haridus- ja Teadusministeerium võib lisaks käesoleva seaduse §-s 10 ning majandustegevuse seadustiku üldosa seaduses sätestatud alustele keelduda tegevusloa andmisest, kui taotlejal on ajatamata maksuvõlg.\n(6) Haridus- ja Teadusministeerium võib lisaks käesolevas seaduses ning majandustegevuse seadustiku üldosa seaduses sätestatud alustele tegevusloa kehtetuks tunnistada ka juhul, kui pankrotiseaduses sätestatud alustel ja korras on välja kuulutatud erakooli pidaja pankrot."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - Kõrgkoolid",
+      "section": "32",
+      "title": "§ 32. Erakõrgkooli juhtimine",
+      "content": "(1) Erakõrgkooli juhivad erakooli pidaja määratud volituste ulatuses rektor ja nõukogu.\n(2) Rektoriks valib või määrab erakooli pidaja isiku, kes:\n1) erarakenduskõrgkooli puhul vastab käesoleva seaduse § 24 lõike 2 nõuetele;\n2) eraülikooli puhul on või on olnud valitud professori ametikohale.\n(3) Erakõrgkooli nõukogusse kuuluvad rektor, akadeemiliste töötajate esindajad, kes moodustavad vähemalt ühe viiendiku nõukogu koosseisust, üliõpilaste esindajad, kes moodustavad vähemalt ühe viiendiku nõukogu koosseisust, erakooli pidaja esindajad ja teised erakooli pidaja nimetatud isikud.\n(4) Erakõrgkooli juhtorganite volitused ja ülesanded, määramise, valimise ja tagasikutsumise korra ning volituste kestuse määrab erakooli pidaja põhimääruses või põhikirjas.\n(5) Erakooli pidaja võib lisaks käesolevas paragrahvis nimetatutele luua ka muid erakõrgkooli juhtorganeid."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "5. peatükk - Akadeemilised töötajad",
+      "section": "33",
+      "title": "§ 33. Akadeemilise töötaja ametikohad",
+      "content": "(1) Akadeemilise töötaja ametikoht on ametikoht, millel töötava isiku tööülesanded on seotud kõrgharidustasemel õpetamise või teadus-, arendus- või loometegevuse või mõlemaga.\n(2) Professor on üldjuhul doktorikraadi nõudega akadeemilise töötaja ametikoht, millel töötava isiku peamised tööülesanded on seotud rahvusvahelisel tasemel teadus-, arendus- või loometegevuse ja selle juhtimisega, oma ainevaldkonna õppe korraldamisega ja õpetamisega ning üliõpilaste ja akadeemiliste töötajate juhendamisega.\n(3) Lektor on akadeemilise töötaja ametikoht, millel töötava isiku peamised tööülesanded on seotud kõrgharidustaseme ühel või mitmel astmel õpetamisega.\n(4) Teadur on üldjuhul doktorikraadi nõudega akadeemilise töötaja ametikoht, millel töötava isiku peamised tööülesanded on seotud teadus- ja arendustegevusega, seejuures nooremteadur osaleb teadustöös juhendaja juhendamisel.\n(5) Õpetaja on akadeemilise töötaja ametikoht, millel töötava isiku peamised tööülesanded on seotud kõrgharidustaseme esimesel kahel astmel õpetamisega.\n(6) Tööandja kehtestab akadeemilise töötaja ametikohtade karjääriastmed, ametikohtade täitmise tingimused ja korra ning akadeemilistele töötajatele esitatavad nõuded.\n(7) Riigikaitselise rakenduskõrgkooli akadeemilise töötaja ametikohta võib kaitseväeteenistuse seaduse alusel täita tegevväelane, keda atesteeritakse käesoleva seaduse §-s 35 sätestatud tingimustel ja korras ning kes vabastatakse akadeemilise töötaja ametikohalt atesteerimise mitteläbimisel."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "5. peatükk - Akadeemilised töötajad",
+      "section": "34",
+      "title": "§ 34. Akadeemiliste töötajate töösuhted",
+      "content": "(1) Akadeemilised töötajad on korralise töötaja või külalistöötaja staatuses.\n(2) Korraline akadeemiline töötaja vastab akadeemilise töötaja ametikoha nõuetele. Korraline akadeemiline töötaja valitakse avaliku konkursiga või põhjendatud juhul asub ta ametikohale tööandja kehtestatud tingimustel ja korras muul viisil.\n(3) Korralise akadeemilise töötajaga võib sõlmida tähtajalise töölepingu kuni viieks aastaks, kui:\n1) akadeemilise töötaja ametikoha täitmise konkurss on luhtunud, kuni ametikoha täitmiseni konkursi korras, või\n2) akadeemilise töötaja ametikohal tehtav töö on tähtajalise iseloomuga.\n(3^1) Doktorandiga on õigus sõlmida tähtajaline tööleping nooremteadurina töötamiseks teadustöö eripärast tulenevalt kuni tema nominaalse õppeaja lõpuni. Kui isik on eksmatrikuleeritud õppekava täies mahus täitmise tõttu, võib temaga sõlmitud lepingut pikendada kuni kolmeks kuuks eksmatrikuleerimisest arvates. Nooremteaduri töölepingule ei kohaldata töölepingu seaduses katseaja kohta sätestatut.\n(3^2) Tööandja võib nooremteaduri tähtajalise töölepingu erakorraliselt üles öelda lisaks töölepingu seaduse §-s 88 nimetatud alustele, kui nooremteadur:\n1) ei läbi käesoleva seaduse § 8 lõikes 3 sätestatud atesteerimist või\n2) eksmatrikuleeritakse.\n(3^3) Käesoleva paragrahvi lõikes 3^2 sätestatud juhtudel ei kohaldata töölepingu seaduse § 88 lõiget 2.\n(4) Tipptasemel akadeemilisele töötajale töökohakindluse tagamiseks võib tööandja kehtestatud tingimustel ja korras luua tenuuri ehk korralise akadeemilise töötaja püsiva töökohakindlusega ametikoha, mida rahastatakse üldjuhul riigieelarvest eraldatavast stabiilsest rahastusmeetmest.\n(5) Konkurssi välja kuulutamata võib kuni viieks aastaks kutsuda külalistöötaja staatuses akadeemilise töötajana õppe- või teadustööd tegema silmapaistva loomeisiku või teadlase või oma eriala silmapaistva praktiku.\n(6) Tööandjal on õigus sõlmida isikuga kuni viieks aastaks tähtajaline tööleping kõrgkooli akadeemilise tegevusega seotud juhtimisülesannete täitmiseks.\n(7) Kui tähtajaline tööleping sõlmitakse järjestikku kõrgkooli akadeemilise tegevusega seotud juhtimisülesannete täitmiseks, nooremteaduriga või külalistöötaja staatuses akadeemilise töötajaga või neid töölepinguid pikendatakse, ei muutu töösuhe tähtajatuks."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "5. peatükk - Akadeemilised töötajad",
+      "section": "35",
+      "title": "§ 35. Korraliste akadeemiliste töötajate atesteerimine",
+      "content": "(1) Atesteerimine on akadeemilise töötaja töötulemuste ja ametikohal esitatavatele nõuetele vastavuse perioodiline hindamine, mille eesmärk on toetada töötaja arengut ja karjäärivõimalusi ning millega määratakse kindlaks atesteeritava töötaja sobivus ametikohale.\n(2) Tööandja atesteerib korralist akadeemilist töötajat vähemalt ühe korra iga viie tööaasta jooksul. Nooremteadurit atesteeritakse korraliselt käesoleva seaduse § 8 lõike 3 alusel.\n(3) Tenuuri ametikohal töötava akadeemilise töötaja atesteerimisele võib tööandja kohaldada käesolevast paragrahvist erinevat korda.\n(4) Kui akadeemiline töötaja ei läbi atesteerimist, võib temaga sõlmitud töölepingu erakorraliselt üles öelda töölepingu seaduses sätestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "5. peatükk - Akadeemilised töötajad",
+      "section": "36",
+      "title": "§ 36. Vaba semester, puhkus ja emeriteerumine",
+      "content": "(1) Korralisel akadeemilisel töötajal, välja arvatud nooremteaduril, on kord viie aasta jooksul õigus saada üks õppetööst vaba semester, mille jooksul on tema tööülesanded seotud kutseoskuste täiendamise, teadus- ja arendustegevuse või loometööga.\n(2) Tööandja kehtestab akadeemilise töötaja iga-aastase puhkuse kestuse ametikohtade kaupa, loetledes, millisel ametikohal on iga-aastane põhipuhkus 42 kalendripäeva ja millisel 56 kalendripäeva. Akadeemiline töötaja ja tööandja või kollektiivlepingu pooled võivad kokku leppida sellest erinevas põhipuhkuse kestuses.\n(3) Tööandja võib pikka aega tema juures töötanud ja vanaduspensioniealiseks saanud akadeemilisele töötajale anda emeerituse staatuse, et toetada akadeemilise töötaja taandumist aktiivsest õppe- ning teadus- ja arendustegevusest, ning määrata emeeritusetasu.\n(4) Kui akadeemiline töötaja võtab emeerituse staatuse vastu, on tööandjal õigus tööleping, mille alusel see akadeemiline töötaja töötab, korraliselt lõpetada, teatades sellest ette vähemalt kaks kuud."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "6. peatükk - Kvaliteedi hindamine",
+      "section": "37",
+      "title": "§ 37. Kõrghariduse kvaliteedihindamise korraldus",
+      "content": "(1) Kõrghariduse kvaliteedi hindamiseks korraldatakse kõrgkoolis institutsionaalset akrediteerimist ja temaatilisi kvaliteedihindamisi.\n(2) Kõrghariduse kvaliteedi hindamisi korraldab ja teostab rahvusvahelistest põhimõtetest lähtudes kõrghariduse kvaliteediagentuur.\n(3) Kõrghariduse kvaliteediagentuuris on hindamisnõukogu, millesse kuuluvad kõrghariduse ja kõrghariduse kvaliteedikindlustuse eksperdid, sealhulgas iga õppevaldkonna ekspert, ja vähemalt üks üliõpilane.\n(4) Kõrghariduse kvaliteediagentuur kaasab oma tegevusse peale hindamisnõukogu liikmete ka teisi eksperte, kehtestab ja avalikustab kvaliteedihindamiste tingimused ja korrad ning läbib perioodiliselt rahvusvaheliselt tunnustatud välishindamise.\n(5)\n(6)\n(7)"
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "6. peatükk - Kvaliteedi hindamine",
+      "section": "38",
+      "title": "§ 38. Institutsionaalne akrediteerimine",
+      "content": "(1) Institutsionaalne akrediteerimine on välishindamine, mille käigus hinnatakse kõrgkooli võimekust tagada ja edendada kõrgkooli õppe-, teadus-, arendus- ja loometegevuse kvaliteeti, sealhulgas juhtimise, töökorralduse, õppe-, teadus-, arendus- ja loometegevuse ning õppe-, teadus-, arendus- ja loometegevuse keskkonna vastavust õigusaktidele, kõrgkooli eesmärkidele ja rahvusvahelistele kokkulepetele.\n(2) Kõrgkool tagab, et kõrghariduse kvaliteediagentuur või temaga kooskõlastatult välisriigi pädev kvaliteediagentuur korraldab kõrgkooli institutsionaalse akrediteerimise vähemalt korra seitsme aasta jooksul või käesoleva paragrahvi lõike 3 punktis 2 nimetatud juhul kõrghariduse kvaliteediagentuuri nimetatud tähtaja jooksul.\n(3) Institutsionaalse akrediteerimise tulemusel annab kõrghariduse kvaliteediagentuur hinnangu, et kõrgkooli juhtimine, töökorraldus, õppe-, teadus- ja arendustegevus ning õppe-, teadus- ja arendustegevuse keskkond:\n1) vastavad nõuetele, ning akrediteerib kõrgkooli seitsmeks aastaks;\n2) sisaldavad puudusi, annab juhiseid nende kõrvaldamiseks ning akrediteerib kõrgkooli kolmeks aastaks;\n3) ei vasta nõuetele, ning jätab kõrgkooli akrediteerimata.\n(4) Kui kõrgkool tuleks kolmandat korda akrediteerida kolmeks aastaks, teeb kõrghariduse kvaliteediagentuur otsuse jätta kõrgkool akrediteerimata.\n(5) Käesoleva paragrahvi lõike 3 punktis 3 ja lõikes 4 nimetatud juhul valdkonna eest vastutav minister:\n1) annab kõrgkoolile kuni kaheaastase tähtaja institutsionaalse akrediteerimise käigus tuvastatud puuduste kõrvaldamiseks ja uuesti institutsionaalses akrediteerimises osalemiseks või\n2) tunnistab kõrgkoolile antud õppeõigused kehtetuks.\n(6) Institutsionaalse akrediteerimisega seotud kulud kaetakse riigieelarvest või kõrgkooli taotlusel kõrgkooli eelarvest. Välisriigi pädeva kvaliteediagentuuri kaasamise korral kaetakse kulud riigieelarvest kuni riigisisese akrediteerimise kulude ulatuses."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "6. peatükk - Kvaliteedi hindamine",
+      "section": "39",
+      "title": "§ 39. Temaatiline hindamine",
+      "content": "(1) Haridus- ja Teadusministeeriumil on õigus algatada temaatilisi hindamisi kõrghariduspoliitiliste otsuste ja meetmete ettevalmistamiseks või nende mõjude ja rakendamise hindamiseks ning kõrgkoolile tagasiside andmiseks.\n(2) Temaatilise hindamise teema, ajakava ja hindamisel osalejad kinnitab valdkonna eest vastutav minister käskkirjaga, kaasates kõrghariduse kvaliteediagentuuri.\n(3) Temaatilise hindamisega seotud kulud kaetakse Haridus- ja Teadusministeeriumi eelarve kaudu riigieelarvest."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "7. peatükk - Rahastamine",
+      "section": "40",
+      "title": "§ 40. Rahastamise korraldus",
+      "content": "(1) Kõrgkool võib saada toetust riigieelarvest, tulu õppekulude hüvitamisest, tulu põhitegevusest tulenevate tasuliste teenuste osutamisest, tulu teadus- ja arendustegevusest ning muid tulusid.\n(2) Toetus riigieelarvest käesoleva peatüki tähenduses on Haridus- ja Teadusministeeriumi eelarve kaudu kõrgkoolidele eraldatav tegevustoetus ja sihttoetus."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "7. peatükk - Rahastamine",
+      "section": "41",
+      "title": "§ 41. Tegevustoetus",
+      "content": "(1) Tegevustoetus on toetus avalik-õiguslikele ülikoolidele ja riigi rakenduskõrgkoolidele kvaliteetse kõrgharidustaseme õppe korraldamiseks ja arendamiseks ning kõrgkooli missiooni täitmiseks.\n(2) Tegevustoetuse eelarve jaotatakse vähemalt 80 protsendi ulatuses baasrahastamiseks ja kuni 20 protsendi ulatuses tulemusrahastamiseks.\n(3) Baasrahastamisel leitakse iga kõrgkooli osakaal, arvestades kõrgkoolile tegevustoetuse määramise kalendriaastale eelneva kolme kalendriaasta jooksul eraldatud tegevustoetust ja samal perioodil kõrgkoolidele eraldatud tegevustoetuste kogumahtu.\n(4) Valdkonna eest vastutava ministri otsusel võib käesoleva paragrahvi lõikes 3 nimetatud osakaalu kujundamisel arvesse võtta:\n1) kõrgkoolile eraldatud sihttoetust;\n2) kõrgkooli struktuuri või suuruse muutumist.\n(5) Tulemusrahastamisel võetakse arvesse kõrgkooli seniste kohustuste täitmist ja järgmisi tulemusnäitajaid:\n1) õppe kvaliteedi näitajaid, sealhulgas rahvusvahelise mobiilsuse näitajaid ning õppe korraldamise näitajaid kõrgkooli vastutusvaldkondades;\n2) õppe tulemuslikkuse näitajaid, sealhulgas õppes osalemise efektiivsuse ning haridusalasest tegevusest saadud tulu näitajaid;\n3) ühiskonna arengu toetamise näitajaid, sealhulgas lõpetajate töötamise ja edasiõppimise näitajaid.\n(6) Tulemusrahastamisel arvesse võetavate tulemusnäitajate täpsustused, nende osakaalud ja tulemusrahastamise arvestamise alused kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "7. peatükk - Rahastamine",
+      "section": "42",
+      "title": "§ 42. Sihttoetus",
+      "content": "(1) Sihttoetus on kõrgkoolile vajaduse korral määratav täiendav toetus riigi strateegilistest eesmärkidest tulenevate tegevuste elluviimiseks kõrgharidustaseme õppes ja doktoriõppe tulemustasu eraldamiseks.\n(2) Doktoriõppe tulemustasu suurus arvutatakse kõrgkoolis kaitstud doktorikraadide arvu ja doktoriõppe tulemustasu määra alusel.\n(3) Doktoriõppe tulemustasu määra ja tulemustasu arvutamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "7. peatükk - Rahastamine",
+      "section": "43",
+      "title": "§ 43. Avalik-õiguslikule ülikoolile toetuse eraldamine",
+      "content": "(1) Valdkonna eest vastutav minister sõlmib ülikooliga kolmeks kuni viieks aastaks halduslepingu, kus lepitakse kokku ülikooli missioonist, eesmärkidest ja riigi vajadustest lähtuvad kohustused ning nende täitmiseks toetuste määramine.\n(2) Halduslepingu lisana sõlmitakse ülikoolile toetuste eraldamiseks igal kalendriaastal rahastuskokkulepe.\n(3) Halduslepingus lepitakse kokku:\n1) ülikooli peamised kohustused seoses kõrgharidustaseme õppe korraldamise ulatuse, kvaliteedi ja tulemuslikkusega, sealhulgas ülikooli vastutusvaldkonnad, ning tegevustoetuse ja sihttoetuse eesmärgid;\n2) erandid, mille kohaselt ülikoolil ei ole õigust nõuda õppijalt õppekulude hüvitamist;\n3) õppekavad, mille alusel on ülikoolil lubatud korraldada ainult osakoormusega õpet;\n4) nooremteaduri töötasu toetusfondi arvestamise alused;\n5) üliõpilaste stipendiumifondi eraldamise alused;\n6) vajaduse korral muude vahendite määramise tingimused;\n7) aruandluse vorm.\n(4) Ülikooliga sõlmitava halduslepingu ja rahastuskokkuleppe üle peab valdkonna eest vastutav minister ülikooliga läbirääkimisi, juhindudes riigi strateegilistest eesmärkidest ning võttes arvesse ülikooli missiooni, eesmärke ja ülesandeid, prognoositavat kõrgharidusega spetsialistide vajadust tööturul, ministeeriumide, omavalitsusüksuste liitude, registreeritud kutse- ja erialaliitude ning ülikoolide ettepanekuid ja kõrgharidustaseme õppe korraldamiseks riigieelarves ettenähtud vahendeid."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "7. peatükk - Rahastamine",
+      "section": "44",
+      "title": "§ 44. Avalik-õigusliku ülikooli eelarve ja finantsplaan",
+      "content": "(1) Avalik-õigusliku ülikooli kõigi tulude ja kulude kohta koostatakse tasakaalus eelarve, mis peab vastama finantsplaanile, riigieelarve seaduse §-s 6 esitatud eelarvepositsiooni reeglitele, §-s 10 esitatud netovõlakoormuse reeglile ja § 11 alusel kehtestatud piirangutele.\n(2) Avalik-õiguslik ülikool koostab igal aastal finantsplaani, mis on aluseks ülikooli eelarve koostamisel. Finantsplaan koostatakse ja esitatakse riigieelarve seaduse §-s 12 sätestatud nõuete kohaselt."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "7. peatükk - Rahastamine",
+      "section": "45",
+      "title": "§ 45. Riigi rakenduskõrgkoolile toetuse eraldamine",
+      "content": "(1) Riigi rakenduskõrgkooli kohustused ning kõrgkoolile tegevustoetuse eraldamise ja sihttoetuse määramise kinnitab valdkonna eest vastutav minister tegevustoetuse eraldamise käskkirjaga, võttes muu hulgas arvesse prognoositavat kõrgharidusega spetsialistide vajadust tööturul ning ministeeriumide, omavalitsusüksuste liitude ning registreeritud kutse- ja erialaliitude ettepanekuid.\n(2) Sisekaitselise rakenduskõrgkooli õppetegevust finantseerib Siseministeerium. Neid avaliku teenistuse õppekavasid, mille rakendusala jääb väljapoole Siseministeeriumi valitsemisala, võib finantseerida ka vastava õppekava õppe tellinud isik või asutus.\n(3) Sisekaitselise rakenduskõrgkooli õppetegevuse finantseerimise alused, tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega.\n(4) Riigikaitselise rakenduskõrgkooli õppetegevust finantseeritakse Kaitseministeeriumi valitsemisala eelarvest."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "7. peatükk - Rahastamine",
+      "section": "46",
+      "title": "§ 46. Erakõrgkoolile toetuse eraldamine",
+      "content": "(1) Erakõrgkool võib saada tegevustoetust ja sihttoetust juhul, kui toetuse eraldamine on vajalik, arvestades riigi strateegilisi eesmärke ja prognoositavat kõrgharidusega spetsialistide vajadust tööjõuturul.\n(2) Erakõrgkoolile eraldatud tegevustoetust võib kasutada ainult õppetegevuseks ja õppetööga seotud investeeringuteks.\n(3) Kui erakõrgkoolile eraldatakse tegevustoetust, on tegevustoetust saava õppekava üliõpilasel õigus õppida õppekulusid hüvitamata vastavalt käesoleva seaduse §-s 16 sätestatud tingimustele.\n(4) Toetuse eraldamiseks sõlmitakse erakooli pidajaga leping."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "47",
+      "title": "§ 47. Rakenduskõrgharidusõppe lõpetamine",
+      "content": "(1) Alates 2019/2020. õppeaastast rakenduskõrgharidusõppesse vastuvõetud üliõpilasele antakse õppekava täies mahus täitmisel käesoleva seaduse §-s 19 nimetatud tingimustel ja korras bakalaureusekraad.\n(2) Enne 2019/2020. õppeaastat rakenduskõrgharidusõppesse vastuvõetud üliõpilasele antakse õppekava täies mahus täitmisel käesoleva seaduse §-s 19 nimetatud tingimustel ja korras rakenduskõrghariduse diplom."
+    },
+    {
+      "provision_ref": "para47^1",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "47^1",
+      "title": "§ 47^1. Käesoleva seaduse § 16 lõigete 2 ja 6 ning § 16^1 lõike 3 kohaldamine",
+      "content": "(1) Käesoleva seaduse § 16 lõike 2 punktis 1 ning lõike 6 punktides 1^1 ja 3‒3^2 ning § 16^1 lõikes 3 sätestatud õppekulude hüvitamise regulatsiooni kohaldatakse alates 2024/2025. õppeaastast kõrgkooli immatrikuleeritud üliõpilasele.\n(2) Alates 2024/2025. õppeaasta algusest kuni 2026/2027. õppeaasta lõpuni võib üliõpilasele, kes on enne 2024/2025. õppeaastat kõrghariduse tasemele immatrikuleeritud, kohaldada käesoleva seaduse § 16 lõike 6 punktides 3‒3^2 ja § 16^1 lõike 3 punktis 2 kehtestatud õppekulude hüvitamise regulatsiooni vaid juhul, kui ta on õppinud samal kõrgharidustasemel rohkem kui poole õppekava nominaalkestusest tasuta.\n(3) Käesoleva seaduse 2024. aasta 1. augustil jõustunud redaktsiooni § 16 lõike 2 punktis 1 ning lõike 6 punktides 1^1 ja 3‒3^2 ning § 16^1 lõikes 3 sätestatud õppekulude hüvitamise regulatsiooni kohaldatakse enne 2024/2025. õppeaastat kõrgkooli immatrikuleeritud üliõpilasele alates 2027/2028. õppeaastast.\n(4) Käesoleva seaduse § 16 lõike 6 punktis 1^2 ja § 16^1 lõike 3 punktis 3 sätestatud alust õppekulude hüvitamiseks kohaldatakse alates 2025/2026. õppeaastast immatrikuleeritud üliõpilasele."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "48",
+      "title": "§ 48. Õppe läbiviimise õiguste kehtivus ja õppekavagruppide kvaliteedi hindamise lõpetamine",
+      "content": "(1) Valdkonna eest vastutav minister annab kõrgkoolile, kellele on Vabariigi Valitsuse kehtestatud kõrgharidusstandardis antud õppe läbiviimise õigus, käesoleva seaduse § 10 lõike 1 alusel õppeõiguse.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud juhul lähtub valdkonna eest vastutav minister Vabariigi Valitsuse antud õppe läbiviimise õigustest ja nende tähtaegadest ning õppeõiguse andmisele ei kohaldata käesoleva seaduse §-s 9 sätestatut.\n(3) Vabariigi Valitsuse kehtestatud kõrgharidusstandardis enne käesoleva seaduse jõustumist antud õppe läbiviimise õigus kehtib, kuni valdkonna eest vastutav minister annab kõrgkoolile käesoleva paragrahvi lõikes 2 nimetatud tingimustel õppeõiguse.\n(4) Kõrgkooli õppekavagrupis, mille viimasel ülikooliseaduse, rakenduskõrgkooli seaduse või erakooliseaduse alusel korraldatud kvaliteedi hindamisel määrati järgmise hindamise tähtaeg lühem kui seitse aastat, korraldab kõrghariduse kvaliteediagentuur ühe uue hindamise enne käesoleva seaduse jõustumist kehtinud õppekavagrupi kvaliteedi hindamise tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para48^1",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "48^1",
+      "title": "§ 48^1. Enne 2022/23. õppeaastat immatrikuleeritud doktorandi suhtes käesoleva seaduse sätete kohaldamine",
+      "content": "Doktorandil, kes immatrikuleeriti enne 2022/23. õppeaastat ja kelle suhtes on kohaldatud käesoleva seaduse kuni 2022. aasta 31. juulini kehtinud redaktsiooni § 14 lõigetes 1 ja 7, § 15 lõike 1 punktides 6 ja 7 ning §-s 16 sätestatud õigusi ja kohustusi, kehtivad nimetatud õigused kuni tema nominaalse õppeaja lõpuni."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "49",
+      "title": "§ 49. Akadeemilise töötaja ametikohtade loetelu ja töölepingu erisuste rakendamine",
+      "content": "(1) Tööandja viib akadeemiliste töötajate kohta sätestatu käesoleva seadusega kooskõlla ühe aasta jooksul käesoleva seaduse jõustumisest arvates.\n(2) Enne käesoleva seaduse jõustumist sõlmitud dotsendi ja assistendi töölepingud kehtivad kuni nendes määratud tähtaja lõpuni või töölepingu lõpetamiseni atesteerimise tulemusel. Kui töötaja atesteeritakse positiivselt, tagab kõrgkool töötajale atesteerimisel antud hinnangust lähtudes võimaluse asuda tööle muul akadeemilise töötaja ametikohal. Kui positiivselt atesteeritud töötaja ei võta muul akadeemilise töötaja ametikohal töötamise võimalust vastu, lõpetatakse tööleping töölepingu seaduse § 89 lõikes 1 nimetatud alusel.\n(3) Enne käesoleva seaduse jõustumist sõlmitud töölepingud kõrgkooli akadeemilise tegevusega seotud juhtimisülesannete täitmiseks kehtivad kuni nendes määratud tähtaja lõpuni, aga mitte kauem kui viis aastat pärast seaduse jõustumist.\n(4) Tööandja kehtestab kuue kuu jooksul käesoleva seaduse jõustumisest arvates akadeemilise töötaja iga-aastase põhipuhkuse kestuse ametikohtade kaupa, loetledes, millisel ametikohal on iga-aastane põhipuhkus 42 kalendripäeva ja millisel 56 kalendripäeva.\n(5) Käesoleva seaduse § 36 lõikes 2 nimetatud puhkuse korraldust kohaldatakse akadeemilisele töötajale, kellega sõlmitakse tööleping pärast nimetatud korralduse kehtestamist. Akadeemilisel töötajal, kellega on sõlmitud tööleping enne käesoleva seaduse § 36 lõikes 2 nimetatud puhkuse korralduse kehtestamist, on õigus saada puhkust temaga sõlmitud töölepingus sätestatud tingimustel ja korras.\n(6) Korralise õppejõu või teadustöötajaga enne 2015. aasta 1. jaanuari sõlmitud tähtajaline tööleping kehtib selles sätestatud tingimustel ja korras kuni töölepingus nimetatud tähtaja lõpuni.\n(7) Alates 2015. aasta 1. jaanuarist korralise õppejõu või teadustöötajaga sõlmitud töösuhe loetakse algusest peale tähtajatuks, kui sama isikuga on samalaadse töö tegemiseks sõlmitud varem vähemalt kaks järjestikust tähtajalist töölepingut või temaga varem sõlmitud tähtajalist töölepingut on pikendatud rohkem kui üks kord viie aasta jooksul. Tähtajaliste töölepingute sõlmimine loetakse järjestikuseks, kui ühe töölepingu lõppemise ja järgmise töölepingu sõlmimise vaheline aeg ei ületa kahte kuud.\n(8) Kui isikul oli 2015. aasta 1. jaanuaril kehtiv tähtajaline tööleping professori ametikohal töötamiseks ja tal täitub pärast nimetatud kuupäeva samas ülikoolis professorina töötamisel üheteistkümnes tööaasta ning ta on ülikooli nõukogu kehtestatud tingimustel ja korras atesteeritud, sõlmitakse temaga tähtajatu tööleping konkurssi välja kuulutamata.\n(9) Enne käesoleva seaduse jõustumist antud emeriitprofessori ja emeriitdotsendi nimetus ning neile määratud tasu kehtivad nende otsuste tegemisel kehtinud tingimustel ja korras. Emeriitprofessori ja emeriitdotsendiga enne käesoleva seaduse jõustumist sõlmitud tööleping kehtib selles sätestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para49^1",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "49^1",
+      "title": "§ 49^1. Nooremteaduri töölepingu erisuste kohaldamine",
+      "content": "Kui nooremteaduriga on sõlmitud tööleping enne 2022. aasta 1. augustit, kohaldatakse tema suhtes töölepingu sõlmimise ajal kehtinud seadust, arvestades käesoleva seaduse § 34 lõigetes 3^1 ja 7 sätestatut."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "50",
+      "title": "§ 50. Ülikooliga tegevustoetuse eraldamiseks sõlmitud halduslepingu kehtivus",
+      "content": "(1) Enne käesoleva seaduse jõustumist avalik-õigusliku ülikooliga tegevustoetuse eraldamiseks sõlmitud haldusleping kehtib, kuni pooled on oma lepingulised kohustused täitnud.\n(2) Pärast käesoleva seaduse jõustumist avalik-õigusliku ülikooliga sõlmitavale rahastuskokkuleppele kohaldatakse käesolevas seaduses sätestatud tingimusi ja korda."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "51",
+      "title": "§ 51.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "67",
+      "title": "§ 67.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "8. peatükk - Rakendussätted",
+      "section": "68",
+      "title": "§ 68. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2019. aasta 1. septembril."
+    }
+  ],
+  "definitions": []
+}

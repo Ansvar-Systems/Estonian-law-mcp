@@ -1,0 +1,99 @@
+{
+  "id": "ee-law-104012024003",
+  "type": "statute",
+  "title": "Kõrgemate riigiteenijate ametipalkade seadus",
+  "title_en": "Kõrgemate riigiteenijate ametipalkade seadus",
+  "short_name": "KRAPS",
+  "status": "in_force",
+  "issued_date": "2009-12-16",
+  "in_force_date": "2024-03-15",
+  "url": "https://www.riigiteataja.ee/akt/104012024003.xml",
+  "description": "Official consolidated statute text (Kõrgemate riigiteenijate ametipalkade seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Kõrgemate riigiteenijate ametipalk",
+      "content": "(1) Käesolev seadus reguleerib kõrgemate riigiteenijate ametipalka.\n(2) Kõrgemate riigiteenijate ametipalk on käesoleva seaduse §-s 2 nimetatud kõrgeima palgamäära ja §-s 3 sätestatud koefitsiendi korrutis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Kõrgemate riigiteenijate kõrgeim palgamäär",
+      "content": "(1) Kõrgemate riigiteenijate kõrgeim palgamäär on 5200 eurot.\n(2) Peale käesoleva seaduse §-s 2^1 sätestatud indekseerimist loetakse järgmise aasta kõrgeimaks palgamääraks eelmisel aastal indekseerimise tulemusel saadud kõrgeim palgamäär.\n(3)\n(4)\n(5)"
+    },
+    {
+      "provision_ref": "para2^1",
+      "section": "2^1",
+      "title": "§ 2^1. Kõrgemate riigiteenijate kõrgeima palgamäära indekseerimine",
+      "content": "(1) Käesoleva seaduse §-s 2 nimetatud kõrgeim palgamäär indekseeritakse iga kalendriaasta 1. aprilliks kõrgeima palgamäära indeksiga, mille väärtus sõltub 20 protsenti tarbijahinnaindeksi aastasest kasvust ja 80 protsenti sotsiaalmaksu pensionikindlustuse osa laekumise aastasest kasvust. Indeksit väljendatakse täpsusega kolm kohta pärast koma.\n(2) Indeksi arvutamisel korrutatakse tarbijahinnaindeksi aastane kasv 0,2-ga ja sotsiaalmaksu pensionikindlustuse osa laekumise aastane kasv 0,8-ga ning saadud korrutised liidetakse.\n(3) Tarbijahinnaindeksi aastane kasv leitakse eelmise kalendriaasta tarbijahinnaindeksi väärtuse jagamisel üle-eelmise kalendriaasta tarbijahinnaindeksi väärtusega, lähtudes Statistikaameti ametlikult avaldatud tarbijahinnaindeksi väärtustest.\n(4) Sotsiaalmaksu pensionikindlustuse osa laekumise aastane kasv leitakse eelmise kalendriaasta sotsiaalmaksu pensionikindlustuse osa kogusumma jagamisel üle-eelmise kalendriaasta sotsiaalmaksu pensionikindlustuse osa kogusummaga, lähtudes Rahandusministeeriumi andmetest sotsiaalmaksu pensionikindlustuse osa laekumise kohta.\n(5) Tarbijahinnaindeksi ja sotsiaalmaksu laekumise aastast kasvu väljendatakse täpsusega kolm kohta pärast koma.\n(6) Käesoleva paragrahvi lõikes 1 nimetatud kõrgeima palgamäära indeksi avaldab Rahandusministeerium oma veebilehel iga kalendriaasta 15. märtsiks."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Kõrgemate riigiteenijate ametipalga koefitsiendid",
+      "content": "(1) Vabariigi Presidendi ametipalga koefitsient on 1,0.\n(2) Riigikogu esimehe ametipalga koefitsient on 1,0.\n(3) Peaministri ametipalga koefitsient on 1,0.\n(4) Riigikohtu esimehe ametipalga koefitsient on 1,0.\n(5) Riigikogu aseesimehe ametipalga koefitsient on 0,85.\n(6) Riigikontrolöri ametipalga koefitsient on 0,85.\n(7) Õiguskantsleri ametipalga koefitsient on 0,85.\n(8) Riigikohtu liikme ametipalga koefitsient on 0,85.\n(8^1) Riigi peaprokuröri ametipalga koefitsient on 0,85.\n(9) Ministri ametipalga koefitsient on 0,85.\n(10) Riigisekretäri ametipalga koefitsient on 0,85.\n(11) Riigikogu komisjoni esimehe ja fraktsiooni esimehe ametipalga koefitsient on 0,85.\n(12)\n(13) Riigikogu komisjoni aseesimehe ja fraktsiooni aseesimehe ametipalga koefitsient on 0,75.\n(14) Ringkonnakohtu kohtuniku ametipalga koefitsient on 0,75.\n(15) Riigikogu liikme ametipalga koefitsient on 0,65.\n(16) Maa- ja halduskohtu kohtuniku ametipalga koefitsient on 0,65.\n(17)\n(18) Riikliku lepitaja ametipalga koefitsient on 0,55.\n(19) Soolise võrdõiguslikkuse ja võrdse kohtlemise voliniku ametipalga koefitsient on 0,55.\n(20) Eesti Panga nõukogu esimehe ametipalga koefitsient on 0,35.\n(21) Eesti Panga nõukogu liikme ametipalga koefitsient on 0,25."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4. Kõrgemate riigiteenijate palgamäära muutmine",
+      "content": "Käesoleva seaduse § 2 lõikes 1 sätestatud kõrgeima palgamäära muutus jõustub Riigikogu järgmise koosseisu volituste alguspäeval."
+    },
+    {
+      "provision_ref": "para4^1",
+      "section": "4^1",
+      "title": "§ 4^1. Kõrgemate riigiteenijate ametipalkade koefitsientide vähendamine kõrgendatud kaitsevalmiduse ja sõjaseisukorra ajal",
+      "content": "(1) Kõrgendatud kaitsevalmiduse ja sõjaseisukorra ajal, kui riigi julgeoleku tagamise huvides on vaja riigieelarve seadusesse teha muudatus, mille tagajärjel vähendatakse riigi eelarvest makstavaid töötasusid, on Vabariigi Valitsusel õigus teha Riigikogule ettepanek käesoleva seaduse § 3 lõigetes 1, 3, 4, 6–10, 12, 14 ja 16–21 sätestatud koefitsientide ajutiseks vähendamiseks.\n(2) Vabariigi Valitsuse ettepanekus esitatakse koefitsientide vähendamise ulatus, võttes proportsionaalselt arvesse riigieelarvest makstavate töötasude kogusumma vähenemise ulatust.\n(3) Riigikogu otsustab koefitsientide vähendamise, vähendamise ulatuse ja otsuse kehtivuse aja esimesel võimalusel Vabariigi Valitsuse ettepanekust arvates.\n(4) Riigikogu otsus jõustub otsusele järgneva kalendrikuu esimesel kuupäeval."
+    },
+    {
+      "provision_ref": "para6",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para8",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para9",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para11",
+      "section": "11",
+      "title": "§ 11.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para16",
+      "section": "16",
+      "title": "§ 16.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para17^1",
+      "section": "17^1",
+      "title": "§ 17^1. Indekseerimise tulemusena saadud kõrgeima palgamäära kohaldamise erisus",
+      "content": "(1) Käesoleva seaduse § 2 lõikes 2 sätestatud indekseerimise tulemusel saadud kõrgeimat palgamäära rakendatakse § 3 lõigetes 1–3, 5, 9, 11, 13 ja 15 nimetatud isikute suhtes alates Riigikogu XIV koosseisu volituste alguspäevast.\n(2) Käesoleva paragrahvi lõikes 1 viidatud isikute ametipalga arvutamisel kuni Riigikogu XIV koosseisu volituste alguspäevani kohaldatakse käesoleva seaduse kuni 2018. aasta 1. märtsini kehtinud redaktsiooni."
+    },
+    {
+      "provision_ref": "para17^2",
+      "section": "17^2",
+      "title": "§ 17^2. Kõrgemate riigiteenijate kõrgeima palgamäära indekseerimise erisus 2024. aasta 1. aprillist kuni 2028. aasta 31. märtsini",
+      "content": "(1) Alates 2024. aasta 1. aprillist kuni 2028. aasta 31. märtsini indekseeritakse käesoleva seaduse § 3 lõigetes 3, 8–10, 14 ja 16–19 nimetatud isikute §-s 2 sätestatud kõrgeim palgamäär iga kalendriaasta 1. aprilliks ajutise kõrgeima palgamäära indeksiga.\n(2) Ajutise kõrgeima palgamäära indeksi arvutamiseks liidetakse käesoleva seaduse § 2^1 kohaselt arvutatud indeksile üks ja jagatakse saadud tulemus kahega.\n(3) Kõrgeimaks palgamääraks loetakse käesoleva paragrahvi lõikes 1 nimetatud isikutele arvutatud eelmise aasta kõrgeima palgamäära ja ajutise kõrgeima palgamäära indeksi korrutis.\n(4) Käesoleva paragrahvi lõikes 1 nimetatud isikute ametipalk on samas lõikes nimetatud kõrgeima palgamäära ja käesoleva seaduse §-s 3 sätestatud koefitsiendi korrutis."
+    },
+    {
+      "provision_ref": "para19",
+      "section": "19",
+      "title": "§ 19. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2012. aasta 1. jaanuaril.\n(1^1) Käesoleva seaduse § 3 lõiked 4, 8, 14 ja 16 ning § 6 jõustuvad 2013. aasta 1. juulil.\n(2) Käesoleva seaduse § 3 lõiked 1, 3, 6, 7, 9, 10 ja 17–21 ning §-d 9 ja 11–16 jõustuvad 2014. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": []
+}

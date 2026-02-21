@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-592008",
+  "type": "statute",
+  "title": "Kirde-Atlandi tulevase mitmepoolse kalanduskoostöö konventsiooniga ühinemise seadus",
+  "title_en": "Kirde-Atlandi tulevase mitmepoolse kalanduskoostöö konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-592008",
+  "status": "in_force",
+  "issued_date": "2003-05-14",
+  "in_force_date": "2003-06-07",
+  "url": "https://www.riigiteataja.ee/akt/592008.xml",
+  "description": "Official consolidated statute text (Kirde-Atlandi tulevase mitmepoolse kalanduskoostöö konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud Kirde-Atlandi tulevase mitmepoolse kalanduskoostöö konventsiooniga, mis on koostatud Londonis 1980. aasta 18. novembril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühineda konventsiooni artikli 3 lõike 1 alusel moodustatud Kirde-Atlandi Kalanduskomisjoniga. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

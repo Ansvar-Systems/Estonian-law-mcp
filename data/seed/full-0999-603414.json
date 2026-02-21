@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-603414",
+  "type": "statute",
+  "title": "Piiriülese õhusaaste kauglevi 1979. aasta konventsiooni väävli heitkoguste edasise vähendamise protokolliga ühinemise seadus",
+  "title_en": "Piiriülese õhusaaste kauglevi 1979. aasta konventsiooni väävli heitkoguste edasise vähendamise protokolliga ühinemise seadus",
+  "short_name": "ee-law-603414",
+  "status": "in_force",
+  "issued_date": "2003-06-04",
+  "in_force_date": "2003-07-07",
+  "url": "https://www.riigiteataja.ee/akt/603414.xml",
+  "description": "Official consolidated statute text (Piiriülese õhusaaste kauglevi 1979. aasta konventsiooni väävli heitkoguste edasise vähendamise protokolliga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Protokolliga ühinemine",
+      "content": "Ühineda juurdelisatud piiriülese õhusaaste kauglevi 1979. aasta konventsiooni väävli heitkoguste edasise vähendamise protokolliga, mis on koostatud Oslos 1994. aasta 14. juunil."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Heitkoguste vähendamise kohustused",
+      "content": "Ühinemisel teatada, et vastavalt piiriülese õhusaaste kauglevi 1979. aasta konventsiooni väävli heitkoguste edasise vähendamise protokolli artikli 2 lõikele 2 võtab Eesti Vabariik kohustuse vähendada väävli heitkoguseid 2005. aastaks 35% võrra ja 2010. aastaks 40% võrra, võttes aluseks 1980. aasta taseme."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Protokolli muutmine",
+      "content": "Protokolli lisade I–V muutmise ja lisa II täpsustamise kinnitamise otsustab Vabariigi Valitsus. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,379 @@
+{
+  "id": "ee-law-113122014068",
+  "type": "statute",
+  "title": "Meditsiiniseadme seadus",
+  "title_en": "Meditsiiniseadme seadus",
+  "short_name": "ee-law-113122014068",
+  "status": "in_force",
+  "issued_date": "2004-10-13",
+  "in_force_date": "2016-01-01",
+  "url": "https://www.riigiteataja.ee/akt/113122014068.xml",
+  "description": "Official consolidated statute text (Meditsiiniseadme seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab inimese ohutuse ja tervise kaitse tagamise eesmärgil nõuded:\n1) meditsiiniseadmele ja abiseadmele (edaspidi meditsiiniseade ) ning nende valmistamisele;\n2) meditsiiniseadme turule laskmisele ja kasutuselevõtule;\n3) meditsiiniseadmele kliinilise hinnangu andmisele;\n4) meditsiiniseadme professionaalsele kasutajale;\n5) meditsiiniseadme müügile meditsiiniseadme kaardi alusel.\n(2) Käesolevat seadust ei kohaldata järgmiste toodete kasutajatele, valmistamisele, turule laskmisele ning kasutuselevõtule:\n1) kosmeetikatooted, mis on hõlmatud EÜ Nõukogu direktiiviga 76/768/EMÜ liikmesriikides kosmeetikatoodete kohta vastuvõetud õigusaktide ühtlustamise kohta (EÜT L 262, 27.09.1976, lk 176–200);\n2) isikukaitsevahendid, mis on hõlmatud EÜ Nõukogu direktiiviga 89/686/EMÜ individuaalkaitsevahendeid käsitlevate liikmesriikide õigusaktide ühtlustamise kohta (EÜT L 399, 30.12.1989, lk 18–38);\n3) inimpäritolu siirdatavad koed või rakud ja tooted, mis sisaldavad inimkudesid või rakke või on nendest eraldatud;\n4) loomset päritolu siirdatavad koed või rakud, välja arvatud kui toodete valmistamisel on kasutatud elujõuetuks tehtud või elujõuetut loomset kude;\n5) in vitro diagnostikameditsiiniseadmed, mis on toodetud ja mida kasutatakse üksnes asjaomase tervishoiuteenuse osutaja tootmistegevusega seotud olevas kohas; sellistele seadmetele kohaldatakse siiski käesoleva seaduse §-s 17 sätestatud nõudeid."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Teiste seaduste kohaldamine",
+      "content": "(1) Kiirgust emiteeriva meditsiiniseadme kiirgusohutuse tagamisel järgitakse meditsiiniseadme valmistamisel ja kasutamisel lisaks käesoleva seadusega kehtestatud nõuetele kiirgusseaduse sätteid, mis on kohaldatavad meditsiiniseadme puhul.\n(1^1) Meditsiiniseadmes kasutatavatele inimese verest valmistatud preparaatidele kohaldatakse ravimiseadust vereseadusest tulenevate erisustega.\n(2) Kui meditsiiniseade lastakse turule selliselt, et meditsiiniseade ja ravim moodustavad ühtse lahutamatu terviku, mis on mõeldud kasutamiseks ainult nimetatud kombinatsioonis ja mida ei ole võimalik korduvalt kasutada, siis sellise meditsiiniseadme puhul kohaldatakse ravimiseadust ning käesoleva seaduse meditsiiniseadme ohutust ja toimivust reguleerivaid sätteid.\n(3) Kui meditsiiniseade sisaldab lahutamatu koostisosana ainet, mida eraldivõetuna võiks käsitleda ravimina ravimiseaduse mõistes ja mille toime patsiendi kehale on meditsiiniseadme toime suhtes abistava iseloomuga, siis sellise meditsiiniseadme puhul kohaldatakse ainult käesoleva seaduse nõudeid.\n(3^1) Seade, mis on ette nähtud ravimiseaduse § 2 mõistes ravimi manustamiseks, loetakse meditsiiniseadmeks ja sellele kohaldatakse käesoleva seaduse sätteid.\n(4) Tervishoiuteenuse osutajat meditsiinigaasiga varustava meditsiinigaasitorustiku ohutuse tagamisel järgitakse seadme valmistamisel ja kasutamisel lisaks käesoleva seadusega kehtestatud nõuetele surveseadme ohutuse seaduse sätteid, mis on kohaldatavad meditsiinigaasisüsteemi puhul.\n(5) Meditsiiniseadme tootja, tema volitatud esindaja, importija ja levitaja kohustustele, teavitatud asutusele, meditsiiniseadme vastavushindamisele ning turujärelevalvele kohaldatakse toote nõuetele vastavuse seaduse sätteid käesolevast seadusest tulenevate erisustega.\n(6)\n(7) Käesolevas seaduses ettenähtud haldusmenetluse puhul kohaldatakse haldusmenetluse seadust, arvestades käesoleva seaduse erisusi.\n(8)\n(9) Meditsiiniseade, mille kasutamine on reguleeritud ka Euroopa Parlamendi ja nõukogu direktiiviga 2006/42/EÜ, mis käsitleb masinaid ja millega muudetakse direktiivi 95/16/EÜ (ELT L 157, 9.06.2006, lk 24–86), peab vastama ka nimetatud direktiivis kehtestatud tervisekaitse ja ohutuse nõuetele, kui need nõuded on üksikasjalikumad kui käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuded.\n(10) Meditsiiniseade, mille kasutamine on reguleeritud ka nõukogu direktiiviga 89/686/EMÜ isikukaitsevahendeid käsitlevate liikmesriikide õigusaktide ühtlustamise kohta (EÜT L 399, 30.12.1989, lk 18–38), peab vastama ka nimetatud direktiivis kehtestatud tervisekaitse ja ohutuse nõuetele, kui need nõuded on üksikasjalikumad kui käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuded."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Meditsiiniseade",
+      "content": "(1) Meditsiiniseade on instrument, aparaat, seade, tarkvara, materjal või muu toode, mida kasutatakse inimese puhul eraldi või kombinatsioonis, sealhulgas tootja poolt spetsiaalselt kas diagnostilistel või ravieesmärkidel kasutamiseks ette nähtud tarkvara, ja mille kavandatud põhitoime inimesele ei ole farmakoloogiline, immunoloogiline või ainevahetuslik, kuid mida kasutatakse:\n1) haiguste diagnoosimiseks, ärahoidmiseks, jälgimiseks, ravimiseks või leevendamiseks;\n2) vigastuse või puude diagnoosimiseks, jälgimiseks, ravimiseks, leevendamiseks või kompenseerimiseks;\n3) kehaehituse või füsioloogilise protsessi uurimiseks või muutmiseks või kehaosa asendamiseks;\n4) rasestumise soodustamiseks või ärahoidmiseks.\n(2) Kui toode vastab käesoleva paragrahvi lõikes 1 sätestatud tunnustele, on Terviseametil õigus määratleda toode meditsiiniseadmena."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Abiseade",
+      "content": "Abiseade käesoleva seaduse tähenduses on seade, mis eraldi kasutades ei ole meditsiiniseade, kuid mille tootja on spetsiaalselt ette näinud kasutamiseks koos meditsiiniseadmega, et oleks võimalik meditsiiniseadet sihtotstarbekohaselt kasutada."
+    },
+    {
+      "provision_ref": "para4^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4^1",
+      "title": "§ 4^1. Aktiivne meditsiiniseade",
+      "content": "Aktiivne meditsiiniseade on meditsiiniseade, mille talitlus sõltub elektrienergiast või mingit muud liiki energiast, välja arvatud otseselt inimkeha genereeritavast või gravitatsioonienergiast."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Aktiivne siirdatav meditsiiniseade",
+      "content": "Aktiivne siirdatav meditsiiniseade on aktiivne meditsiiniseade, mis on ette nähtud kirurgilisel teel osaliselt või täielikult inimese organismi viimiseks või meditsiinilise protseduuri abil loomulikku kehaavasse viimiseks ja mis jääb sinna ka pärast protseduuri lõppu."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. In vitro diagnostikameditsiiniseade",
+      "content": "(1) In vitro diagnostikameditsiiniseade on reagent, reagentaine, kalibraator, testmaterjal või -komplekt, seade, aparaat või süsteem, mida kasutatakse eraldi või kombinatsioonis ja mille tootja on ette näinud laboratoorsete uuringute, nagu loovutatud vere ja kudede uuringu tegemiseks eesmärgiga saada teavet inimese füsioloogilise või patoloogilise seisundi, kaasasündinud hälbe ja ravi tulemuste uurimiseks ning loovutatud vere ja kudede ohutuse ning sobivuse kindlaksmääramiseks võimaliku retsipiendi suhtes.\n(2) In vitro diagnostikameditsiiniseadmeks peetakse veel spetsiaalset proovianumat, milles esmaselt hoitakse ja säilitatakse inimeselt võetud proove.\n(3) In vitro diagnostikameditsiiniseadmeks ei peeta laboris üldkasutatavat seadet, välja arvatud juhul, kui tootja on seadme ette näinud in vitro uuringu tegemiseks."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "7",
+      "title": "§ 7. Enesetestimise meditsiiniseade",
+      "content": "Enesetestimise meditsiiniseade on in vitro diagnostikameditsiiniseade, mis on ette nähtud kasutamiseks tavakasutajale."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "8",
+      "title": "§ 8. Tellimusmeditsiiniseade",
+      "content": "(1) Tellimusmeditsiiniseade on igasugune professionaalse kasutaja tellimuse kohaselt konkreetsele patsiendile valmistatud meditsiiniseade.\n(2) Masstootmises valmistatud seadet, mida on vaja kohandada professionaalse kasutaja tellimuse järgi, ei loeta tellimusmeditsiiniseadmeks."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "9",
+      "title": "§ 9. Kliiniliselt uuritav meditsiiniseade",
+      "content": "Kliiniliselt uuritav meditsiiniseade on meditsiiniseade, millele professionaalne kasutaja teeb kliinilise uuringu."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "10",
+      "title": "§ 10. Toimivuse hindamise meditsiiniseade",
+      "content": "Toimivuse hindamise meditsiiniseade on in vitro diagnostikameditsiiniseade, mille tootja on ette näinud meditsiiniseadme toimivuse hindamiseks ühe või mitme uuringuga meditsiinilise analüüsi laboris või muus asjakohases keskkonnas, mis pole seotud tema tootmistegevusega."
+    },
+    {
+      "provision_ref": "para10^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "10^1",
+      "title": "§ 10^1. Meditsiiniseadmete alamkategooria",
+      "content": "Meditsiiniseadmete alamkategooria on sama sihtotstarbe või sama tööpõhimõttega meditsiiniseadmete kogum."
+    },
+    {
+      "provision_ref": "para10^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "10^2",
+      "title": "§ 10^2. Meditsiiniseadmete üldrühm",
+      "content": "Meditsiiniseadmete üldrühma kuuluvad meditsiiniseadmed, millel on sama või sarnane sihtotstarve või sarnane tööpõhimõte, mis võimaldab neid üldiselt, ilma eritunnuseid kajastamata liigitada."
+    },
+    {
+      "provision_ref": "para10^3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "10^3",
+      "title": "§ 10^3. Ühekordselt kasutatav meditsiiniseade",
+      "content": "Ühekordselt kasutatav meditsiiniseade on meditsiiniseade, mida kasutatakse üks kord vaid ühe patsiendi jaoks."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "11",
+      "title": "§ 11. Meditsiiniseadme kasutaja",
+      "content": "(1) Meditsiiniseadme tavakasutaja on isik, kes kasutab meditsiiniseadet tervishoiutöötaja järelevalveta.\n(2) Meditsiiniseadme professionaalne kasutaja on isik, kes kasutab meditsiiniseadet tõenduspõhiselt tervishoiuteenuse osutamisel, samuti õppe-, teadus- või uurimistöös."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "12",
+      "title": "§ 12. Meditsiiniseadme sihtotstarbekohane kasutamine",
+      "content": "Meditsiiniseadme sihtotstarbekohane kasutamine käesoleva seaduse tähenduses on seadme kasutus eesmärgil, mille tootja on esitanud seadme märgistuses, kasutusjuhendis ja seadet tutvustavas materjalis."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "13",
+      "title": "§ 13. Meditsiiniseadme steriliseerimine",
+      "content": "Meditsiiniseadme steriliseerimine käesoleva seaduse tähenduses on meditsiiniseadme puhastamine nakkustekitajatest."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "14",
+      "title": "§ 14. Teavitatud asutus",
+      "content": "(1) Teavitatud asutus on vastavushindamisasutus, kellel on õigus teha meditsiiniseadme nõuetele vastavuse tõendamiseks vajalikke vastavushindamise protseduure.\n(2) Teavitatud asutusele, tema tegutsemisele, temale tegevusloa andmisele, selle kehtivuse peatamisele või kehtetuks tunnistamisele ning tema üle riikliku järelevalve teostamisele kohaldatakse toote nõuetele vastavuse seadust käesolevast seadusest tulenevate erisustega."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "15",
+      "title": "§ 15. Meditsiiniseadme tootja vastutus",
+      "content": "(1) Meditsiiniseadme tootja vastutab meditsiiniseadme nõuetekohase kavandamise, valmistamise, pakendamise ja märgistamise eest, olenemata sellest, kas neid toiminguid korraldab ta ise või seda teeb kolmas isik tema nimel.\n(2) Käesolevas seaduses kehtestatud meditsiiniseadme tootja vastutus laieneb ka isikule, kes paneb kokku, pakendab, töötleb, uuendab täielikult või märgistab ühe või mitu valmistoodet või määrab neile kui meditsiiniseadmetele sihtotstarbe ning laseb neid meditsiiniseadmeid oma nime all turule.\n(3) Käesoleva paragrahvi lõiget 1 ei kohaldata isikule, kes paneb kokku juba turul olevaid meditsiiniseadmeid või kohandab neid sihtotstarbekohaseks kasutuseks kindla patsiendi jaoks."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "16",
+      "title": "§ 16. Nõuded meditsiiniseadme turule laskmisele ja kasutuselevõtule",
+      "content": "(1) Meditsiiniseadme võib turule lasta või kasutusele võtta üksnes siis, kui:\n1) see vastab käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele;\n2) sellele on antud kliiniline hinnang ning vajaduse korral tehtud kliiniline uuring;\n3) sellele on tehtud vastavushindamine;\n4) see on varustatud nõuetekohase teabega, mis on vajalik tootja kindlakstegemiseks ja seadme ohutuks ning sihtotstarbekohaseks kasutamiseks.\n(1^1) Meditsiiniseadme kasutuselevõtt käesoleva seaduse tähenduses on meditsiiniseadme esmakordne Euroopa Majanduspiirkonna turul lõppkasutajale sihtotstarbekohaseks kasutamiseks kättesaadavaks tegemine.\n(2) Valdkonna eest vastutaval ministril on õigus põhjendatud taotluse korral lubada Eestis turule lasta ja kasutusele võtta üksikuid meditsiiniseadmeid, mille puhul pole tehtud vastavushindamist, kuid mille kasutamine on hädavajalik rahva tervise kaitse huvides.\n(3) Eestis turule lastava, levitatava ja kasutusele võetava meditsiiniseadmega kaasnev minimaalne teave, mis tagab seadme ohutu ja sihtotstarbekohase kasutamise, esitatakse eesti keeles ja sobivas laadis, arvestades seadme potentsiaalse kasutaja teadmisi. Seadmega kaasnev ülejäänud teave võib olla esitatud mõnes muus potentsiaalsele kasutajale arusaadavas Euroopa Majanduspiirkonna liikmesriigi keeles. Meditsiiniseadme kasutusjuhendi tõlke korrektsuse tagab seadme Eestis turule laskja või levitaja."
+    },
+    {
+      "provision_ref": "para16^1",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "16^1",
+      "title": "§ 16^1. Piirangud meditsiiniseadme turule laskmisele",
+      "content": "Tavakasutajale mõeldud mitteelektrilisi või mitteelektroonilisi mõõtefunktsiooniga elavhõbedat sisaldavaid meditsiiniseadmeid ei tohi turule lasta."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "17",
+      "title": "§ 17. Meditsiiniseadmele esitatavad nõuded",
+      "content": "(1) Meditsiiniseade kavandatakse, toodetakse, pakendatakse ja märgistatakse selliselt, et tema:\n1) sihtotstarbekohane kasutus on tagatud nende talitlusnäitajate saavutamisel, mis tootja on ette näinud;\n2) õige paigaldamise ja ettenähtud tingimustes kasutamise korral ei halvene ravikvaliteet ega ohustata patsiendi, tavakasutaja või kolmandate isikute elu, tervist või vara;\n3) kasutamisest loodetav kasu patsiendi tervisele on suurem kui võimalikud seadme kasutamisega seotud ohud.\n(2) Nõuded meditsiiniseadme kavandamisele, tootmisele ja pakendamisele ning meditsiiniseadmega kaasnevale teabele kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "18",
+      "title": "§ 18. Nõuetele mittevastava meditsiiniseadme esitlemine",
+      "content": "Meditsiiniseadet, mille puhul ei ole arvestatud käesoleva seaduse §-s 16 nimetatud nõudeid, võib esitleda näitustel ja teistel kaubanduslikel üritustel üksnes tingimusel, et seade on varustatud selgelt nähtava teabega, mille kohaselt sellist meditsiiniseadet ei tohi turule lasta ega kasutusele võtta enne, kui see on viidud kooskõlla käesolevas seaduses ja selle alusel kehtestatud õigusaktides nimetatud nõuetega."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "19",
+      "title": "§ 19. Meditsiiniseadmete liigitus",
+      "content": "(1) Tootja liigitab meditsiiniseadmeid õige vastavushindamise kohaldamiseks. Liigitamise aluseks on seadme võimalik oht inimese elule ja tervisele ning meditsiiniseadme sihtotstarve.\n(2) Meditsiiniseadmed, välja arvatud in vitro diagnostikameditsiiniseadmed ja aktiivsed siirdatavad meditsiiniseadmed, liigitatakse nelja klassi: I, II a, II b ja III.\n(3) In vitro diagnostikameditsiiniseadmed liigitatakse:\n1) patsiendile väheohtlikeks meditsiiniseadmeteks;\n2) patsiendile ohtlikeks meditsiiniseadmeteks.\n(4) Käesoleva paragrahvi lõike 3 punktis 2 nimetatud seadmed liigitatakse A- ja B-nimekirja.\n(5) Aktiivseid siirdatavaid meditsiiniseadmeid ei liigitata ning neid peetakse ohtlikeks meditsiiniseadmeteks.\n(6) Meditsiiniseadmete liigitamise reeglid kehtestab valdkonna eest vastutav minister määrusega.\n(7) Tootja ja teavitatud asutuse vahel liigitamise reeglite kohaldamisel tekkinud vaidluse korral otsustab meditsiiniseadme liigituse Terviseamet."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "20",
+      "title": "§ 20. Meditsiiniseadmele kliinilise hinnangu andmine",
+      "content": "(1) Käesoleva seaduse §-s 17 nimetatud nõuete täitmise kontrollimiseks meditsiiniseadme sihtotstarbekohase kasutamise korral ja soovimatute kõrvalmõjude väljaselgitamiseks annab tootja enne vastavushindamise tegemist meditsiiniseadmele kliinilise hinnangu.\n(2) Kliiniline hinnang saadakse kliiniliste andmete hindamisel ja vajaduse korral asjakohaseid harmoneeritud standardeid arvesse võttes. Kliiniliste andmete hindamine peab järgima kindlaksmääratud ja metoodiliselt põhjendatud menetlust, mille aluseks on:\n1) meditsiiniseadme ohutust, toimivuse näitajaid, disainilahenduse omadusi ja sihtotstarvet käsitleva asjakohase teaduskirjanduse kriitiline hinnang, milles on tõendatud meditsiiniseadme võrdväärsus meditsiiniseadmega, mille kohta on andmed esitatud ning need tõendavad vastavust käesoleva seaduse § 17 lõike 2 alusel ja teistes asjakohastes seadustes sätestatud olulistele nõuetele või\n2) meditsiiniseadmele tehtud kliiniliste uuringute tulemuste kriitiline hinnang või\n3) käesoleva lõike punktides 1 ja 2 nimetatud kliiniliste andmete kombineeritud kriitiline hinnang.\n(3) Kliinilised andmed on meditsiiniseadme kasutamisel saadud teave meditsiiniseadme ohutuse ja toimivuse kohta. Kliinilisi andmeid saadakse järgmistest allikatest:\n1) meditsiiniseadme kliinilised uuringud või\n2) kliinilised uuringud või muud uurimistööd, mis on avaldatud teaduskirjanduses sarnase seadme kohta, mille puhul saab tõendada samaväärsust hinnatava meditsiiniseadmega või\n3) publitseeritud või publitseerimata aruanded hinnatava meditsiiniseadme või sellele võrdväärse meditsiiniseadme kasutamise muude kliiniliste kogemuste kohta.\n(4) Kliiniline hinnang ja selle tulemused dokumenteeritakse. Need dokumendid kuuluvad meditsiiniseadme tehnilise dokumentatsiooni juurde või neile on seal viidatud.\n(5) Meditsiiniseadme tootja täiendab meditsiiniseadme kasutusele võtmise järel kliinilist hinnangut ja asjakohast dokumentatsiooni järelkontrolli tulemusel meditsiiniseadme kasutajatelt saadud andmetega. Kui meditsiiniseadme tootja ei pea järelkontrolli vajalikuks, peab see olema nõuetekohaselt põhjendatud ja dokumenteeritud.\n(6) Kui meditsiiniseadme tootja ei pea vajalikuks meditsiiniseadme vastavuse tõendamist käesoleva seaduse §-s 17 sätestatud nõuetele kliiniliste andmete alusel, peab ta koostama põhjenduse, mis tugineb riskijuhtimise tulemustele ning võtab arvesse seadme kehaga kokkupuutumise eripärasid ja meditsiiniseadme kliinilise toimivuse näitajaid. Nõuetele vastavuse tõendamine ainult meditsiiniseadme toimivuse näitajate hindamise, tarkvara testimise ja prekliinilise hinnanguga tuleb nõuetekohaselt põhjendada.\n(7) Kliinilise hinnangu andmisesse kaasatud isikud tagavad andmete konfidentsiaalsuse."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "21",
+      "title": "§ 21. Meditsiiniseadme kliiniline uuring",
+      "content": "(1) Meditsiiniseadme kliinilise uuringu eesmärk on teha kindlaks:\n1) meditsiiniseadme toimivus;\n2) meditsiiniseadme vastavus käesoleva seaduse §-s 17 sätestatud nõuetele;\n3) soovimatud kõrvalmõjud, et hinnata nende tekitatavat ohtu võrreldes seadme kavandatud toimivusega.\n(2) Meditsiiniseadme kliiniline uuring tuleb teha siirdatavate ja III klassi meditsiiniseadmete puhul, välja arvatud juhul, kui olemasolevatele kliinilistele andmetele toetumine on nõuetekohaselt põhjendatud. Meditsiiniseadme kliiniline uuring võib osutuda vajalikuks sõltumata meditsiiniseadme riskiklassist.\n(3) Meditsiiniseadme kliiniline uuring tehakse ainult juhul, kui meditsiiniseadme testimine inimesel on ainus viis saada informatsiooni selle tõhususest, ohutusest ja kliinilisest kasust.\n(4) Meditsiiniseadme kliinilises uuringus kasutatav seade peab olema valmistatud käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete kohaselt.\n(5) Meditsiiniseadme kliiniline uuring tuleb teha uusimatel teaduslikel ja tehnilistel teadmistel põhineva asjakohase uuringuplaani alusel nii, et see kas kinnitab tootja väiteid meditsiiniseadme kohta või lükkab need ümber.\n(6) Meditsiiniseadme uuringuplaan peab vastama järgmistele nõuetele:\n1) uuring peab hõlmama piisaval hulgal vaatlusi järelduste teadusliku kehtivuse tagamiseks;\n2) uuringumenetlused peavad sobima vaatlusaluse meditsiiniseadmega;\n3) uuring tuleb teha meditsiiniseadme tavaliste kasutustingimustega samalaadsetes oludes;\n4) uurida tuleb kõiki tunnusjooni, sealhulgas ohutuse ja toimivusega seotuid, ning meditsiiniseadme toimet patsiendile.\n(7) Meditsiiniseadme kliiniline uuring peab eetilisi kaalutlusi silmas pidades olema tehtud kooskõlas Maailma Arstide Liidu ( World Medical Association ) Helsingi deklaratsiooniga.\n(8) Meditsiiniseadme kliinilise uuringu andmed on konfidentsiaalsed.\n(9) Meditsiiniseadme kliinilise uuringu alguseks loetakse võimalikule uuringus osalejale uuringu toimumise kohta teabe avalikustamist või uuringuga seotud toimingute tegemist.\n(10) Valdkonna eest vastutav minister kehtestab määrusega meditsiiniseadme kliinilise uuringu tegemise tingimused ja korra."
+    },
+    {
+      "provision_ref": "para21^1",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "21^1",
+      "title": "§ 21^1. Meditsiiniseadme kliinilise uuringu tegija ja uuringuga seotud isikute kohustused.",
+      "content": "(1) Meditsiiniseadme tootja või tema volitatud esindaja tagab uuringu ja selle tegemise kõigi aspektide nõuetekohasuse.\n(2) Meditsiiniseadme kliinilist uuringut teeb meditsiiniseadme professionaalne kasutaja.\n(3) Meditsiiniseadme kliinilist uuringut tegev professionaalne kasutaja tagab, et kliiniline uuring tehakse uuringuplaanile vastavalt.\n(4) Meditsiiniseadme tootja või tema volitatud esindaja tagab kliinilist uuringut tegevale professionaalsele kasutajale juurdepääsu kõigile seadet käsitlevatele tehnilistele ja kliinilistele andmetele.\n(5) Meditsiiniseadme kliinilist uuringut tegev professionaalne kasutaja ja meditsiiniseadme tootja või tema volitatud esindaja registreerivad kõik olulised kõrvalmõjud ning teavitavad neist viivitamata kirjalikult Terviseametit ja nende Euroopa Majanduspiirkonna liikmesriikide pädevaid asutusi, kus kliinilist uuringut tehakse.\n(6) Meditsiiniseadme kliinilist uuringut tegev professionaalne kasutaja ja meditsiiniseadme tootja või tema volitatud esindaja teavitavad kirjalikult Terviseametit ja nende Euroopa Majanduspiirkonna liikmesriikide pädevaid asutusi, kus kliinilist uuringut tehakse, kõigist muudatustest uuringuplaanis ja uuringu tegemises.\n(7) Meditsiiniseadme kliinilist uuringut tegev professionaalne kasutaja annab oma pädevuse piires uuringus osalejale vajalikku abi. Vajaduse korral tagab uuringut tegev professionaalne kasutaja uuringus osalejale teiste pädevate tervishoiuteenuste osutajate abi kättesaadavuse.\n(8) Meditsiiniseadme kliinilist uuringut tegev professionaalne kasutaja on kohustatud uuringus osalejat ja käesolevas seaduses ettenähtud juhtudel uuringus osaleja seaduslikku esindajat teavitama meditsiiniseadme kliinilise uuringuga seotud asjaoludest, sealhulgas võimalikest ohtudest ning uuringuga seotud tervisekahjustuse hüvitamise viisist ja määrast.\n(9) Meditsiiniseadme tootja või tema volitatud esindaja tagab uuringus osalejate kindlustuskaitse uuringust tingitud tervisekahjustuse korral.\n(10) Meditsiiniseadme kliinilise uuringu teinud professionaalse kasutaja poolt allkirjastatud kliinilise uuringu aruanne peab sisaldama kõigi uuringu käigus kogutud andmete kriitilist hinnangut.\n(11) Meditsiiniseadme tootja või tema volitatud esindaja võimaldab Terviseametile ligipääsu tema valduses olevatele meditsiiniseadme kliinilise uuringuga seotud dokumentidele, sealhulgas uuringu kirjalikule aruandele, mis sisaldab kliinilise uuringuga kogutud andmete kriitilist hinnangut.\n(12) Meditsiiniseadme tootja või tema volitatud esindaja on kohustatud teavitama Terviseametit kliinilise uuringu lõppemisest."
+    },
+    {
+      "provision_ref": "para21^2",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "21^2",
+      "title": "§ 21^2. Nõusolek meditsiiniseadme kliinilises uuringus osalemiseks",
+      "content": "(1) Meditsiiniseadme kliiniliseks uuringuks on nõutav uuringus osaleja nõusolek. Nõusolek antakse kirjalikult pärast seda, kui osalejat on teavitatud kõigist meditsiiniseadme kliinilise uuringu asjaoludest. Nõusoleku võib igal ajal tagasi võtta.\n(2) Piiratud teovõimega isiku osalemiseks meditsiiniseadme kliinilises uuringus annab piiratud teovõimega isiku eeldatavat tahet arvestades nõusoleku tema seaduslik esindaja. Kui seadusliku esindaja otsus ilmselt kahjustab piiratud teovõimega isiku huve, ei tohi uuringu tegija seda järgida. Piiratud teovõimega isikut tuleb uuringu asjaoludest ja tehtud otsustest teavitada mõistlikus ulatuses. 7–17-aastase alaealise uuringus osalemiseks on vaja ka alaealise enda nõusolekut.\n(3) Isik, kes ei ole võimeline andma oma teadvat nõusolekut, võib meditsiiniseadme kliinilises uuringus osaleda ainult juhul, kui uuritavast meditsiiniseadmest võib olla talle otsest kasu ja kui uuringu eesmärki ei ole võimalik saavutada uuringuga, milles osalevad isikud on võimelised andma oma teadva nõusoleku."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "22",
+      "title": "§ 22. Meditsiiniseadme kliinilise uuringu tegemise õiguse taotlemine, uuringu tegemiseks loa andmine ja loa andmisest keeldumine ning kliinilise uuringu peatamine ja lõpetamine",
+      "content": "(1) Meditsiiniseadme tootja või tema volitatud esindaja peab inimtervishoius kasutatava meditsiiniseadme kliinilise uuringu tegemiseks saama kooskõlastuse kliiniliste uuringute meditsiinieetika komiteelt ravimiseaduses sätestatud tingimustel ja korras, arvestades käesolevas seaduses sätestatud erisusi.\n(2) Loa meditsiiniseadme kliinilise uuringu tegemiseks annab Terviseamet. Luba ainult veterinaarmeditsiinis kasutatava meditsiiniseadme kliinilise uuringu tegemiseks antakse loomakaitseseaduse kohaselt.\n(3) Meditsiiniseadme kliinilise uuringu tegemiseks esitab meditsiiniseadme tootja või tema volitatud esindaja Terviseametile taotluse:\n1) vähemalt 60 päeva enne planeeritava uuringu algust, kui on tegemist siirdatava meditsiiniseadmega, aktiivse siirdatava meditsiiniseadmega, III klassi meditsiiniseadmega või II a ja II b klassi pikaajaliseks kasutamiseks mõeldud invasiivse meditsiiniseadmega;\n2) vähemalt kümme päeva enne planeeritava uuringu algust, kui on tegemist käesoleva lõike punktis 1 nimetamata meditsiiniseadmega.\n(4) Terviseamet otsustab meditsiiniseadme kliinilise uuringu tegemiseks loa andmise või sellest keeldumise, arvestades inimeste tervise või avaliku korraga seotud kaalutlusi:\n1) siirdatava meditsiiniseadme, aktiivse siirdatava meditsiiniseadme, III klassi meditsiiniseadme, II a ja II b klassi pikaajaliseks kasutamiseks mõeldud invasiivse meditsiiniseadme korral 60 päeva jooksul kõigi nõutud dokumentide esitamise päevast arvates;\n2) käesoleva lõike punktis 1 nimetamata meditsiiniseadme korral kümne päeva jooksul kõigi nõutud dokumentide esitamise päevast arvates.\n(5) Kui Terviseamet ei ole käesoleva paragrahvi lõikes 4 sätestatud tähtaja jooksul taotlejale teatanud loa andmisest keeldumisest ega nõudnud taotlejalt lisaandmeid, loetakse luba antuks.\n(6) Terviseamet võib keelduda loa andmisest meditsiiniseadme kliinilise uuringu tegemiseks, kui esineb vähemalt üks järgmistest asjaoludest:\n1) taotleja ei täida meditsiiniseadme kliinilise uuringu nõudeid;\n2) taotleja esitatud andmed või dokumendid on puudulikud või ebaõiged;\n3) uuringuplaan on ebaotstarbekas;\n4) uuringul puudub teaduslik väärtus või uuring võib mõjutada meditsiiniseadme kasutamist tervishoiuteenuse osutamisel ebaratsionaalses suunas;\n5) risk uuringus osaleja elule ja tervisele on suur.\n(7) Terviseamet peatab või lõpetab oma algatusel viivitamata meditsiiniseadme kliinilise uuringu, kui uuringu käigus on ilmnenud mõni käesoleva paragrahvi lõikes 6 nimetatud asjaolu, välja arvatud käesoleva paragrahvi lõikes 8 nimetatud juhul.\n(8) Kui vaidlusi põhjustava meditsiiniseadme kliinilise uuringu jätkamisega ei kaasne ohtu uuringus osalejate elule või tervisele, teatab Terviseamet uuringu tegijale kavatsusest uuring peatada või lõpetada ning põhjendab oma otsust.\n(9) Meditsiiniseadme kliinilise uuringu tegijal on õigus seitsme päeva jooksul pärast käesoleva paragrahvi lõikes 8 nimetatud teate saamist esitada Terviseametile oma seisukoht uuringu peatamise või lõpetamise kohta.\n(10) Meditsiiniseadme kliinilise uuringu tegija peab uuringu peatama või lõpetama kohe pärast Terviseameti asjakohase otsuse kättesaamist.\n(11) CE-märgiga meditsiiniseadme suhtes ei kohaldata käesoleva paragrahvi lõikeid 2–6, välja arvatud juhul, kui kliiniline uuring tehakse seadme sihtotstarbekohast kasutust arvestamata.\n(12) Meditsiiniseadme kliinilise uuringu taotluses esitatud andmed on konfidentsiaalsed."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "23",
+      "title": "§ 23. Meditsiiniseadme vastavushindamine",
+      "content": "(1) Iga isik, kes laseb meditsiiniseadme oma nime all turule, koostab meditsiiniseadmele vastavusdeklaratsiooni ja varustab meditsiiniseadme CE-märgiga pärast seda, kui ta on vastavushindamise teel kindlaks teinud, et tema toodetud seade on kooskõlas sellele meditsiiniseadmele kohaldatavate nõuetega. Kliiniliselt uuritavale meditsiiniseadmele, tellimusmeditsiiniseadmele ja toimivuse hindamise meditsiiniseadmele ei paigaldata CE-märki.\n(2) Vabariigi Valitsus kehtestab määrusega meditsiiniseadme vastavushindamise korra.\n(3) Teavitatud asutus väljastab pärast vastavushindamise tegemist vastavussertifikaadi või selle lisa meditsiiniseadme või kvaliteedisüsteemi nõuetekohasuse kohta.\n(4) Teavitatud asutus võib vastavussertifikaadi kehtivuse peatada või vastavussertifikaadi kehtetuks tunnistada, kui käesoleva paragrahvi lõikes 1 nimetatud isik ei arvesta või enam ei arvesta käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõudeid või kui vastavussertifikaati ei oleks tohtinud väljastada. Vastavussertifikaadi kehtivust ei peatata ning vastavussertifikaati ei tunnistata kehtetuks, kui tootja on rakendanud abinõusid, mis kõrvaldavad mittevastavuse."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "24",
+      "title": "§ 24. Meditsiiniseadmete süsteem või protseduuripakett",
+      "content": "(1) Isik, kes ühendab tootja määratud sihtotstarvet arvestades CE-märgiga meditsiiniseadmeid, selleks et need turule lasta meditsiiniseadmete süsteemina või protseduuripaketina, koostab kinnituskirja, millega ta kinnitab:\n1) seadmete omavahelist sobivust kooskõlas tootja juhistega;\n2) tootja juhiste järgimist seadmete ühendamisel;\n3) meditsiiniseadmete süsteemi või protseduuripaketi pakendamist ja varustamist kasutusjuhendiga, mis hõlmab tootjapoolseid juhiseid;\n4) meditsiiniseadmete ühendamise kestel vastavate sisekontrolli- ja järelevalvemeetmete rakendamist.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud nõuded ei ole täidetud või kui meditsiiniseadmete ühendamisel on kasutatud CE-märgita meditsiiniseadmeid ning pole järgitud seadmete sihtotstarbekohast kasutust, peetakse meditsiiniseadmete süsteemi või protseduuripaketti uueks meditsiiniseadmeks, mille puhul kohaldatakse käesoleva seaduse §-s 23 sätestatud nõudeid.\n(3) Isik, kes steriliseerib käesoleva paragrahvi lõikes 1 nimetatud meditsiiniseadmete süsteemi, protseduuripaketi või muu CE-märgiga meditsiiniseadme, millele tootja on enne kasutamist näinud ette steriliseerimise, kohaldab omal valikul sobivat vastavushindamise protseduuri kooskõlas steriliseerimise eripäraga. Steriliseerija koostab kinnituskirja, millega kinnitab, et steriliseerimine on korraldatud kooskõlas tootja juhistega.\n(4) Käesoleva paragrahvi lõigetes 1 ja 3 nimetatud toodetega kaasnev teave hõlmab iga ühendatud meditsiiniseadmega kaasnevat teavet.\n(5) Käesoleva paragrahvi lõigetes 1 ja 3 nimetatud isikud tagavad kinnituskirjade kättesaadavuse Terviseametile viie aasta jooksul alates viimase meditsiiniseadme või meditsiiniseadmete paketi koostamisest."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "25",
+      "title": "§ 25. Meditsiiniseadme dokumentide säilitamine",
+      "content": "(1) Meditsiiniseadme tootja võimaldab viie aasta vältel ja siirdatava meditsiiniseadme korral 15 aasta vältel pärast viimase kindlat tüüpi meditsiiniseadme tootmist Terviseametile ligipääsu järgmistele seadmega kaasnevatele dokumentidele:\n1) meditsiiniseadme vastavusdeklaratsioon;\n2) teavitatud asutusele esitatud avaldus kvaliteedisüsteemi vastavuse hindamiseks;\n3) meditsiiniseadme kavandamist, tootmist ja toimivust kirjeldavad dokumendid, mis võimaldavad hinnata seadme nõuetekohasust;\n4) teavitatud asutuse väljastatud dokumendid ja aruanded, mis on meditsiiniseadme tootja kontrollimise ajal koostatud.\n(2) Meditsiiniseadme tootja või tema volitatud esindaja peab viie aasta vältel pärast viimase tüübihindamise sertifikaadile vastava meditsiiniseadme tootmist ja 15 aasta vältel pärast viimase tüübihindamise sertifikaadile vastava siirdatava meditsiiniseadme tootmist võimaldama Terviseametile ligipääsu tüübihindamise sertifikaadile ja selle lisale ning tehnilisele dokumentatsioonile ning käesoleva paragrahvi lõike 1 punktides 1 ja 4 nimetatud dokumentidele.\n(3) Kui meditsiiniseadme tootja ega tema volitatud esindaja pole asutatud Euroopa Majanduspiirkonnas, peab isik, kes vastutab meditsiiniseadme turule laskmise eest, viie aasta vältel ja siirdatava meditsiiniseadme korral 15 aasta vältel pärast viimase kindlat tüüpi meditsiiniseadme tootmist võimaldama Terviseametile ligipääsu seadmega kaasnevale tehnilisele dokumentatsioonile."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "26",
+      "title": "§ 26. Meditsiiniseadme turule laskmisest teavitamine ja turul olevat meditsiiniseadet käsitlevate andmete edastamine",
+      "content": "(1) Iga isik, kes laseb Eestis turule I klassi meditsiiniseadme, tellimusmeditsiiniseadme, meditsiiniseadmete süsteemi, protseduuripaketi või in vitro diagnostikameditsiiniseadme, teavitab kirjalikult vähemalt kümme päeva enne meditsiiniseadme turule laskmist Terviseametit kavatsusest seade turule lasta või meditsiiniseadmel tehtud olulistest muudatustest.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud isik teavitab kirjalikult Terviseametit ka sellise meditsiiniseadme turule laskmisest, mida peetakse uueks in vitro diagnostikameditsiiniseadmeks.\n(3) Uueks in vitro diagnostikameditsiiniseadmeks peetakse meditsiiniseadet järgmistel juhtudel:\n1) sarnaste parameetritega in vitro diagnostikameditsiiniseadet pole varasema kolme aasta jooksul turul saadaval olnud;\n2) in vitro diagnostikameditsiiniseadmega tehtav toiming hõlmab analüütilist tehnoloogiat, mida pole varasema kolme aasta jooksul turul saadaval olnud.\n(3^1) Iga isik, kes Eestis laseb turule või võtab kasutusele II a, II b või III riskiklassi meditsiiniseadme või aktiivse siirdatava meditsiiniseadme või levitab seda esmakordselt või kasutab esmakordselt professionaalselt, teavitab sellest Terviseametit kümne päeva jooksul seadme turule laskmisest, kasutuselevõtust, esmakordsest levitamisest või professionaalse kasutamise alustamisest arvates.\n(3^2) Kui Terviseametile esitatud andmed on puudulikud või ei vasta nõuetele, on Terviseametil õigus peatada meditsiiniseadme müük või levitamine ajani, kuni puudused on kõrvaldatud.\n(4) Tootja, kelle asukoht ei ole Euroopa Majanduspiirkonnas, peab meditsiiniseadme turule laskmiseks määrama volitatud esindaja.\n(5) Meditsiiniseadme turule laskmisest, kasutuselevõtust, esmakordsest levitamisest ja esmakordsest professionaalsest kasutamisest ning meditsiiniseadmel tehtud olulisest muudatusest teavitamise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "27",
+      "title": "§ 27. Ohujuhtumist teavitamine ning ohujuhtumi uurimine",
+      "content": "(1) Tootja või tema volitatud esindaja teavitab Terviseametit ja asjaomast teavitatud asutust viivitamatult meditsiiniseadme rikkest, omaduste või talitluse halvenemisest, nimetatud puuduste tehnilistest põhjustest ning puudustest märgistuses või kasutusjuhendis, mis:\n1) põhjustasid, võivad põhjustada, võisid põhjustada või oleksid võinud põhjustada patsiendi, kolmandate isikute või tavakasutaja tervisekahjustuse või surma;\n2) on seotud niisuguse meditsiiniseadme omaduste või talitluse halvenemisega, mille tootja on korduvalt turult tagasi kutsunud.\n(2) Meditsiiniseadme levitaja teavitab viivitamatult asjaomase meditsiiniseadme tootjat või selle volitatud esindajat ohujuhtumitest, mis võisid olla põhjustatud meditsiiniseadme rikkest, selle omaduste või talitluse halvenemisest.\n(3) Tervishoiuteenuse osutaja teavitab viivitamatult Terviseametit ja tootjat või tema volitatud esindajat käesoleva paragrahvi lõikes 1 nimetatud asjaoludest. Ohujuhtumist teavitatakse ka siis, kui see ilmneb olukorras, kus meditsiiniseade koos teiste meditsiiniseadmetega moodustab patsiendiga ühenduses oleva süsteemi, kusjuures iga seade eraldi võetuna või teistsugustes kombinatsioonides talitledes ei põhjustaks ohujuhtumit.\n(4) Tootja või tema volitatud esindaja teavitab viivitamatult Terviseametit meditsiiniseadme kliinilisel uuringul ilmnenud ohujuhtumitest.\n(5) Terviseamet selgitab ohujuhtumi põhjuseks olnud asjaolud, tehes võimalusel koostööd tootjaga. Ohujuhtumi põhjuseid võib välja selgitada ka tootja. Kui ohujuhtumi põhjuseks olnud asjaolusid uurib tootja, teavitab viimane uurimise käigust ja tulemustest kirjalikult Terviseametit ja teavitatud asutust, kui viimane oli kaasatud ohujuhtumi põhjustanud meditsiiniseadme vastavushindamisse.\n(6) Terviseamet tagab, et kõik ohujuhtumiga seotud isikud on ohujuhtumi uurimise tulemustest teadlikud.\n(7) Ohujuhtumist teavitanud osapooled tagavad ohujuhtumi menetlemisel teatavaks saanud patsiendi või tavakasutaja isikuandmete ja ettevõtte ärisaladuse kaitse.\n(8) Valdkonna eest vastutav minister kehtestab määrusega ohujuhtumist teavitamise korra ja teavitamisvormid."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "28",
+      "title": "§ 28. Euroopa Komisjoni ja Euroopa Majanduspiirkonna liikmesriikide teavitamine ohujuhtumist",
+      "content": "(1) Terviseamet teavitab käesoleva seaduse § 27 lõigetes 1, 3 ja 4 nimetatud juhtudel Euroopa Komisjoni ja Euroopa Majanduspiirkonna liikmesriikide pädevaid asutusi viivitamatult ohujuhtumist, mille suhtes on algatatud järelevalvemenetlus, et kõrvaldada selline seade turult või keelata selle turule laskmine ja kasutuselevõtt või piirata seda.\n(2) Terviseamet viitab Euroopa Komisjonile ja Euroopa Majanduspiirkonna liikmesriikide pädevatele asutustele ohujuhtumist teavitamise korral, kas ohujuhtum tuleneb nõuete järgimata jätmisest, harmoneeritud standardite ebaõigest kohaldamisest või puudustest harmoneeritud standardites."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "29",
+      "title": "§ 29. Meditsiiniseadmete ja abivahendite andmekogu",
+      "content": "(1) Meditsiiniseadmete ja abivahendite andmekogu on riigi infosüsteemi kuuluv andmekogu, mida peetakse Eestis turule lastud, kasutusele võetud, esmakordselt levitatud ja esmakordselt professionaalselt kasutatud meditsiiniseadmete ning nendega seotud ohujuhtumite, kliiniliste uuringute, järelevalvemenetluste ja ravikindlustuse seaduse alusel Eesti Haigekassa poolt tasu maksmise kohustuse ülevõtmise (edaspidi hüvitamise ) andmete ning sotsiaalhoolekande seaduse mõistes abivahendite ostmise ja üürimise andmete registreerimiseks, kogumiseks, töötlemiseks, analüüsimiseks ja Euroopa meditsiiniseadmete andmepangale edastamiseks, et kaitsta inimeste tervist meditsiiniseadmetest tulenevate ohtude eest ning tagada hüvitatavate meditsiiniseadmete ja abivahendite kättesaadavus.\n(2) Meditsiiniseadmete ja abivahendite andmekogusse esitavad andmeid:\n1) meditsiiniseadme tootja või tootja volitatud esindaja;\n2) meditsiiniseadme importija;\n3) meditsiiniseadme levitaja;\n4) meditsiiniseadme professionaalne kasutaja;\n5) meditsiiniseadme tavakasutaja;\n6) abivahendi müüja ja üürileandja;\n7) Eesti Haigekassa.\n(3) Meditsiiniseadmete ja abivahendite andmekogus töödeldakse järgmisi andmeid:\n1) meditsiiniseadme Eestis turule laskmise, kasutuselevõtu, esmakordse levitamise ja esmakordse professionaalse kasutamisega seotud andmed ja dokumendid;\n2) meditsiiniseadme ohujuhtumi registreerimise ja menetlemisega seotud andmed ja dokumendid;\n3) meditsiiniseadme kliinilise uuringu ja selle tegemise taotlemiseks esitatud andmed ja dokumendid;\n4) meditsiiniseadme järelevalvemenetlusega seotud andmed ja dokumendid;\n5) abivahendi jae- ja üürihinnad, teenuse osutamise koha kontaktid ja toodete kirjeldused;\n6) meditsiiniseadme hüvitamisega seotud andmed ja dokumendid.\n(4) Meditsiiniseadmete ja abivahendite andmekogu asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega.\n(5) Meditsiiniseadmete ja abivahendite andmekogu vastutav töötleja on Terviseamet."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "30",
+      "title": "§ 30. Andmete kättesaadavus ja edastamine Euroopa meditsiiniseadmete andmepanka",
+      "content": "(1) Käesoleva seaduse § 29 lõikes 1 nimetatud andmekogu andmete alusel edastab Terviseamet regulaarselt Euroopa meditsiiniseadmete andmepanka järgmised andmed:\n1) andmed Eesti kaudu Euroopa Majanduspiirkonna turule lastud meditsiiniseadmete ja nende tootjate kohta;\n2) andmed vastavussertifikaatide kohta;\n3) andmed meditsiiniseadmete ohujuhtumite kohta kooskõlas Euroopa ohujuhtumist teavitamise süsteemi nõuetega, muu hulgas andmed seadmete müügilt kõrvaldamise, nende müügi keelustamise või piiramise kohta.\n(2) Terviseamet tagab käesoleva paragrahvi lõikes 1 nimetatud andmete kättesaadavuse Euroopa Majanduspiirkonna liikmesriikide pädevatele asutustele.\n(3) Andmete edastamisse kaasatud isikud tagavad saadud andmete konfidentsiaalsuse."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "3. peatükk - NÕUDED TERVISHOIUTEENUSE OSUTAJALE MEDITSIINISEADME PROFESSIONAALSEL KASUTAMISEL",
+      "section": "31",
+      "title": "§ 31. Nõuded tervishoiuteenuse osutajale meditsiiniseadme professionaalsel kasutamisel",
+      "content": "(1) Meditsiiniseadet võib professionaalselt kasutada kooskõlas meditsiiniseadme sihtotstarbega ja tootja ettenähtud juhistega, arvestades tõenduspõhise meditsiini põhimõtteid, ning kui eeldatav kasu patsiendi tervisele on suurem võimalikust kahjust, arvestades igal üksikjuhul sama eesmärgiga alternatiivsete, vähem ohtlike tegevuste mõjusust, kasu ja riski.\n(2) Meditsiiniseadme valdaja tagab:\n1) meditsiiniseadme kasutus- ja hooldustingimused, mille tootja on kehtestanud;\n2) kasutusjuhiste olemasolu kasutuskohas;\n3) paigaldamis- ja hooldustöö ning vajaduse korral remonttöö teostamise pädeva isiku poolt."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "3. peatükk - NÕUDED TERVISHOIUTEENUSE OSUTAJALE MEDITSIINISEADME PROFESSIONAALSEL KASUTAMISEL",
+      "section": "32",
+      "title": "§ 32. Meditsiiniseadme kasutamise eeldused",
+      "content": "(1) Tervishoiuteenuse osutaja teeb enne meditsiiniseadme professionaalse kasutamise alustamist kindlaks meditsiiniseadme tehnilise seisukorra ning korraldab professionaalse kasutaja väljaõppe, kui see on professionaalselt kasutatava meditsiiniseadme puhul nõutav.\n(2) Tervishoiuteenuse osutaja koostab meditsiiniseadme professionaalse kasutamise alustamise kohta akti, kui meditsiiniseadme professionaalne kasutamine eeldab seadme töötamise õigsuse ja ohutuse kontrolli."
+    },
+    {
+      "provision_ref": "para32^1",
+      "chapter": "3. peatükk - MEDITSIINISEADME MÜÜK MEDITSIINISEADME KAARDI ALUSEL",
+      "section": "32^1",
+      "title": "§ 32^1. Meditsiiniseadme müük meditsiiniseadme kaardi alusel",
+      "content": "(1) Meditsiiniseadme müügil meditsiiniseadme kaardi (edaspidi kaart ) alusel tuleb ostjat teavitada meditsiiniseadme õigest ja ohutust kasutamisest, hoiutingimustest ja hooldamisest ning seadme kasutamisega kaasneda võivatest ohtudest ja soovimatutest kõrvalmõjudest. Ostja tähelepanu tuleb juhtida meditsiiniseadme müügipakendil olevatele selgitavatele märkustele. Meditsiiniseadme kasutamist käsitlev tekst kantakse vajaduse korral seadme müügipakendile või selle külge kinnitatavale lehele. Kleepsu kasutamisel ei tohi see varjata olulist teavet.\n(2) Kaart on isikule arsti poolt sobiva meditsiiniseadme määramiseks väljakirjutatud dokument.\n(3) Meditsiiniseadme müügil kaardi alusel peab müüja veenduma seadme sobivuses ja vajaduse korral tagama selle kohandamise kasutajale.\n(4) Meditsiiniseadme müüja peab dokumenteerima seadmete kohta esitatud kaebused, märkides andmed kaebuse esitaja, seadme, kaebuse olemuse ja kaebusega seonduvate asjaolude kohta. Meditsiiniseadme müüja juures kaebuse lahendamise käik tuleb dokumenteerida."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "33",
+      "title": "§ 33. Riiklik järelevalve",
+      "content": "(1) Käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle teostab riiklikku järelevalvet Terviseamet.\n(2) Terviseameti pädevuses on riiklik järelevalve:\n1) turule lastud meditsiiniseadme üle (turujärelevalve);\n2) teavitatud asutusele ja tootjale käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle;\n3) ohujuhtumitest teavitamise ja nende uurimise üle;\n4) kliiniliste uuringute korraldamise üle;\n5) tootja ja teavitatud asutuse vaidluse korral meditsiiniseadme liigitamise üle;\n6) tervishoiuteenuse osutajale meditsiiniseadme professionaalseks kasutamiseks kehtestatud nõuete täitmise üle."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "34",
+      "title": "§ 34. Riikliku järelevalve erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49 ja 50 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para34^1",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "34^1",
+      "title": "§ 34^1. Riikliku järelevalve erisused",
+      "content": "(1) Korrakaitseorgan võib korrakaitseseaduse §-s 50 sätestatud meedet kohaldada kontrollitava isiku, tema esindaja või tema töötaja juuresolekul.\n(2) Kui meditsiiniseadme puhul ei ole arvestatud käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõudeid, algatab Terviseamet järelevalvemenetluse, et kõrvaldada selline seade turult, keelata selle turule laskmine ja kasutuselevõtt või piirata seda. Terviseamet teavitab Euroopa Komisjoni ja teiste Euroopa Majanduspiirkonna liikmesriikide pädevaid asutusi järelevalvemenetluse algatamisest, selle käigust ja tulemustest.\n(3) Terviseametil on õigus järgmise kahe aasta jooksul pärast käesoleva seaduse § 26 lõikes 2 nimetatud ja CE-märki kandva meditsiiniseadme turule laskmist põhjendatud juhtudel nõuda tootjalt asjaomase seadme kohta aruannet, mis sisaldab seadme kohta turustamise käigus kogutud teavet."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "35",
+      "title": "§ 35. Meditsiiniseadme nõuetele vastavuse kontrollimine",
+      "content": "(1) Terviseametil on riikliku järelevalve käigus õigus võtta õiglase tasu eest meditsiiniseadme tootjalt või isikult, kes lasi meditsiiniseadme turule, vajalik kogus turule lastud meditsiiniseadmeid või nende osi nõuetele vastavuse kontrollimiseks ja põhjendatud juhtudel tellida meditsiiniseadmete või nende osade nõuetele vastavuse kontrollimiseks hindamisteenust.\n(2) Terviseametil on õigus põhjendatud kahtluse korral keelata rahva tervise huvides meditsiiniseadme turustamine tähtajaks, mis on vajalik meditsiiniseadme nõuetele vastavuse lõplikuks kontrollimiseks.\n(3) Hindamisteenus vormistatakse eksperdiarvamusena, kus kirjeldatakse analüüsi-, katse- ja ekspertiisitulemusi.\n(4) Terviseametil on õigus meditsiiniseadme kontrollimise tulemustest lähtuvalt teha järgmisi ettekirjutusi:\n1) nõuda, et meditsiiniseadet turustades antakse lisateavet seadme kasutamise kohta ning selle kasutamisel ilmneda võivate ohtude kohta;\n2) nõuda tootjalt, tema volitatud esindajalt või turule laskjalt, et ta teavitaks määratud tähtajaks meditsiiniseadme kasutajat turule lastud meditsiiniseadme kasutamisega seotud ohtudest ja ohtude kõrvaldamise võimalustest;\n3) nõuda ohtlikuks osutunud meditsiiniseadme eemaldamist turult ja keelustada selle reklaam ning vajaduse korral nõuda meditsiiniseadme hävitamist.\n(5) Meditsiiniseadme kontrollimiseks tellitud hindamisteenuse kulud tasub Terviseamet ja tagastab meditsiiniseadme või hüvitab tekitatud otsese varalise kahju, kui eksperdiarvamuse järgi on meditsiiniseade nõuetekohane. Kui eksperdiarvamuse järgi meditsiiniseade ei ole nõuetekohane, hüvitab hindamisteenuse kulud tootja, tema volitatud esindaja või turule laskja, arvestades Terviseameti ettekirjutust, millele on lisatud hindamisteenuse osutaja kulutusi tõendava dokumendi koopia."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "36",
+      "title": "§ 36. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral võib korrakaitseorgan rakendada sunnivahendit asendustäitmise ja sunniraha seaduses ettenähtud korras. Sunniraha ülemmäär on 3200 eurot."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "5. peatükk - VASTUTUS",
+      "section": "39",
+      "title": "§ 39. Meditsiiniseadme turule laskmise, levitamise, kasutuselevõtu ja professionaalse kasutamise nõuete rikkumine",
+      "content": "(1) Meditsiiniseadme turule laskmise, levitamise, kasutuselevõtu ja professionaalse kasutamise nõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "5. peatükk - VASTUTUS",
+      "section": "40",
+      "title": "§ 40. Menetlus",
+      "content": "Käesolevas peatükis sätestatud väärtegude kohtuväline menetleja on Terviseamet."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "41",
+      "title": "§ 41. Käesoleva seaduse jõustumise hetkel juba turul olevate meditsiiniseadmete kasutamine",
+      "content": "Käesoleva seaduse jõustumise hetkel kehtinud korra kohaselt turul olevaid ohutuid meditsiiniseadmeid võib kasutada kuni nende eeldatava mõistliku kasutusaja lõpuni."
+    },
+    {
+      "provision_ref": "para41^1",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "41^1",
+      "title": "§ 41^1. Andmete esitamine meditsiiniseadmete andmekogusse",
+      "content": "Kuni 2014. aasta 1. juulini võib käesoleva seaduse § 29 lõikes 3 nimetatud andmed esitada Terviseametile paberil või elektrooniliselt."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "42",
+      "title": "§ 42.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "46",
+      "title": "§ 46.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "47",
+      "title": "§ 47. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2004. aasta 1. detsembril."
+    }
+  ],
+  "definitions": []
+}

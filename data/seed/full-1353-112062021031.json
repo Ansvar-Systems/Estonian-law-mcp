@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-112062021031",
+  "type": "statute",
+  "title": "Toote ohutuse seadus",
+  "title_en": "Toote ohutuse seadus",
+  "short_name": "TOS",
+  "status": "in_force",
+  "issued_date": "1998-04-21",
+  "in_force_date": "2004-05-01",
+  "url": "https://www.riigiteataja.ee/akt/112062021031.xml",
+  "description": "Official consolidated statute text (Toote ohutuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

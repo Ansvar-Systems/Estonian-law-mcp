@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-24911",
+  "type": "statute",
+  "title": "UNESCO kultuuripärandi kaitse konventsioonide ratifitseerimise seadus",
+  "title_en": "UNESCO kultuuripärandi kaitse konventsioonide ratifitseerimise seadus",
+  "short_name": "ee-law-24911",
+  "status": "in_force",
+  "issued_date": "1995-04-05",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/24911.xml",
+  "description": "Official consolidated statute text (UNESCO kultuuripärandi kaitse konventsioonide ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud kultuuriväärtuste ebaseadusliku sisseveo, väljaveo ja omandiõiguse üleandmise keelamise ning ärahoidmise abinõude konventsioon, mis on vastu võetud 1970. aasta 14. novembril Pariisis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ratifitseerida juurdelisatud ülemaailmse kultuuri- ja looduspärandi kaitse konventsioon, mis on vastu võetud 1972. aasta 16. novembril Pariisis. Riigikogu esimees Toomas SAVI Õiend Akti avaldamisandmed täiendatud, lisatud andmed väljakuulutamise kohta."
+    }
+  ],
+  "definitions": []
+}

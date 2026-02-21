@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-210122020003",
+  "type": "statute",
+  "title": "Nairobi rahvusvahelise laevavrakkide eemaldamise 2007. aasta konventsiooni ratifitseerimise seadus",
+  "title_en": "Nairobi rahvusvahelise laevavrakkide eemaldamise 2007. aasta konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-210122020003",
+  "status": "in_force",
+  "issued_date": "2020-02-26",
+  "in_force_date": "2021-01-01",
+  "url": "https://www.riigiteataja.ee/akt/210122020003.xml",
+  "description": "Official consolidated statute text (Nairobi rahvusvahelise laevavrakkide eemaldamise 2007. aasta konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Konventsiooni ratifitseerimine",
+      "content": "Ratifitseerida juurdelisatud Nairobi rahvusvaheline laevavrakkide eemaldamise 2007. aasta konventsioon (edaspidi konventsioon ), mis on vastu võetud 2007. aasta 18. mail Nairobis"
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Deklaratsioon konventsiooni kohaldamisala kohta",
+      "content": "Eesti Vabariik kohaldab konventsiooni artikli 3 lõike 2 kohaselt konventsiooni ka oma territooriumil, sealhulgas territoriaalmeres."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Rahvusvahelisele Mereorganisatsioonile andmete esitamine",
+      "content": "Konventsiooni artikli 12 lõike 3 punktis b nimetatud andmed esitab Rahvusvahelisele Mereorganisatsioonile Transpordiamet."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-749093",
+  "type": "statute",
+  "title": "Tolliseadustik",
+  "title_en": "Tolliseadustik",
+  "short_name": "ee-law-749093",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "2004-05-01",
+  "url": "https://www.riigiteataja.ee/akt/749093.xml",
+  "description": "Official consolidated statute text (Tolliseadustik) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Kehtetu - RT I 2004, 30, 208 - jõust. 1. 05. 2004"
+    }
+  ],
+  "definitions": []
+}

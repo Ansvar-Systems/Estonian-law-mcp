@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-116042014033",
+  "type": "statute",
+  "title": "Eesti NSV tsiviilkoodeks",
+  "title_en": "Eesti NSV tsiviilkoodeks",
+  "short_name": "TsK",
+  "status": "in_force",
+  "issued_date": "1964-06-12",
+  "in_force_date": "2014-04-26",
+  "url": "https://www.riigiteataja.ee/akt/116042014033.xml",
+  "description": "Official consolidated statute text (Eesti NSV tsiviilkoodeks) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,316 @@
+{
+  "id": "ee-law-112072025023",
+  "type": "statute",
+  "title": "Meditsiiniseadme seadus",
+  "title_en": "Meditsiiniseadme seadus",
+  "short_name": "MSS",
+  "status": "in_force",
+  "issued_date": "2004-10-13",
+  "in_force_date": "2025-10-01",
+  "url": "https://www.riigiteataja.ee/akt/112072025023.xml",
+  "description": "Official consolidated statute text (Meditsiiniseadme seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus reguleerib meditsiiniseadme turule laskmist, kasutuselevõttu, turul kättesaadavaks tegemist ja levitamist, kliinilisi uuringuid ja toimivusuuringuid, professionaalset kasutamist ja asutusesisest valmistamist, müüki meditsiiniseadme kaardi alusel, vabamüügi sertifikaadi väljastamist, nõudeid meditsiiniseadmega seotud teabele ja selle esitamisele ning riiklikku järelevalvet ja vastutust, et tagada Eestis inimestel kasutatavate meditsiiniseadmete ohutus, kvaliteet ja efektiivsus ning edendada nende sihtotstarbekohast kasutamist.\n(2) Käesolevat seadust ei kohaldata juhtudel, kui kohaldub Euroopa Parlamendi ja nõukogu määrus (EL) 2017/745, milles käsitletakse meditsiiniseadmeid, millega muudetakse direktiivi 2001/83/EÜ, määrust (EÜ) nr 178/2002 ja määrust (EÜ) nr 1223/2009 ning millega tunnistatakse kehtetuks nõukogu direktiivid 90/385/EMÜ ja 93/42/EMÜ (ELT L 117, 05.05.2017, lk 1–175), või Euroopa Parlamendi ja nõukogu määrus (EL) 2017/746 in vitro diagnostikameditsiiniseadmete kohta ning millega tunnistatakse kehtetuks direktiiv 98/79/EÜ ja komisjoni otsus 2010/227/EL (ELT L 117, 05.05.2017, lk 176–332).\n(3)"
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Teiste õigusaktide kohaldamine",
+      "content": "(1) Meditsiiniseadme tootja, tema volitatud esindaja, importija ja levitaja kohustustele, teavitatud asutusele, meditsiiniseadme vastavushindamisele ja turujärelevalvele kohaldatakse toote nõuetele vastavuse seaduse nõudeid erisustega, mis tulenevad käesolevast seadusest ning Euroopa Parlamendi ja nõukogu määrustest (EL) 2017/745 ja (EL) 2017/746.\n(2) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para3^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3^1",
+      "title": "§ 3^1. Terminid",
+      "content": "Käesolevas seaduses kasutatakse termineid Euroopa Parlamendi ja nõukogu määruste (EL) 2017/745 ja (EL) 2017/746 tähenduses, kui käesolevas seaduses ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "11",
+      "title": "§ 11. Meditsiiniseadme professionaalne kasutaja",
+      "content": "Meditsiiniseadme professionaalne kasutaja käesoleva seaduse tähenduses on isik, kes kasutab meditsiiniseadet tervishoiuteenuse või muu teenuse osutamisel, samuti õppe-, teadus- või uurimistöös."
+    },
+    {
+      "provision_ref": "para11^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "11^1",
+      "title": "§ 11^1. Tellimusmeditsiiniseadme tellimine",
+      "content": "Tellimusmeditsiiniseade valmistatakse professionaalse kasutaja eritellimuse kohaselt, lähtudes kindla patsiendi vajadustest."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "14",
+      "title": "§ 14. Teavitatud asutus",
+      "content": "(1)\n(2) Teavitatud asutusele, tema tegutsemisele, temale tegevusloa andmisele, selle kehtivuse peatamisele või kehtetuks tunnistamisele ning tema üle riikliku järelevalve tegemisele kohaldatakse toote nõuetele vastavuse seadust käesolevast seadusest ning Euroopa Parlamendi ja nõukogu määrustest (EL) 2017/745 ja (EL) 2017/746 tulenevate erisustega."
+    },
+    {
+      "provision_ref": "para14^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "14^1",
+      "title": "§ 14^1. Pädev asutus ja teavitatud asutuse eest vastutav asutus",
+      "content": "(1) Käesolevas seaduses ning Euroopa Parlamendi ja nõukogu määrustes (EL) 2017/745 ja (EL) 2017/746 sätestatud pädeva asutuse ja teavitatud asutuse eest vastutava asutuse toimingud teeb ja haldusaktid annab Ravimiamet, kui nimetatud määrustes ei ole sätestatud teisiti.\n(2) Ravimiametil on õigus määratleda toode meditsiiniseadmena, kui toode vastab Euroopa Parlamendi ja nõukogu määruses (EL) 2017/745 või (EL) 2017/746 sätestatud nõuetele."
+    },
+    {
+      "provision_ref": "para15^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "15^1",
+      "title": "§ 15^1. Tasulised teenused",
+      "content": "(1) Ravimiamet võib osutada oma põhitegevusega seotud meditsiiniseadme kvaliteedi- ja ohutusnõuete täitmist tagavaid tasulisi teenuseid, kui see ei takista tema õigusaktidest tulenevate ülesannete täitmist ja tasuliste teenuste osutamine on vajalik seoses:\n1) Euroopa Parlamendi ja nõukogu määrustes (EL) 2017/745 ja (EL) 2017/746 sätestatud ülesannete täitmisega, arvestades nimetatud määrustes sätestatud piiranguid pädevale asutusele ja teavitatud asutuse eest vastutavale asutusele;\n2) samade teenuste osutamise turuolukorraga ning teenuse osutamist ei piira Euroopa Parlamendi ja nõukogu määrus (EL) 2017/745 või (EL) 2017/746 või\n3) teavitatud asutusele teadusliku arvamuse andmisega lähtuvalt Euroopa Parlamendi ja nõukogu määrusest (EL) 2017/745 või (EL) 2017/746 ning nimetatud määrused ei piira teenuse osutamist.\n(2)\n(3) Ravimiameti tasu ühe teenuse osutamise eest ei tohi olla suurem kui 20 000 eurot.\n(4) Käesoleva paragrahvi lõikes 1 nimetatud Ravimiameti tasuliste teenuste loetelu ja tasumäärad kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "16",
+      "title": "§ 16. Nõuded meditsiiniseadme turule laskmisele ja kasutuselevõtule",
+      "content": "(1)\n(1^1)\n(2)\n(3) Tootja, toetudes riskianalüüsile, teeb kindlaks seadme ohutuks ja sihtotstarbekohaseks kasutamiseks vajaliku info ning Eestis turule lastava, turul kättesaadavaks tehtava, levitatava ja kasutusele võetava meditsiiniseadmega kaasnev teave esitatakse:\n1) eesti keeles ja sobivas laadis, kui meditsiiniseade on mõeldud kasutamiseks tavakasutajale;\n2) eesti või inglise keeles ja sobivas laadis, kui meditsiiniseade on mõeldud kasutamiseks ainult professionaalsele kasutajale;\n3) konkreetsele kasutajale arusaadavas keeles ja sobivas laadis, kui tegemist on tellimusmeditsiiniseadmega.\n(4) Erinevalt käesoleva paragrahvi lõikes 3 sätestatust võib meditsiiniseadmega kaasnev ülejäänud teave olla esitatud mõnes muus potentsiaalsele kasutajale arusaadavas Euroopa Liidu liikmesriigi või Euroopa Majanduspiirkonna liikmesriigi keeles.\n(5) Eestis levitatava meditsiiniseadme vastavusdeklaratsioon peab olema koostatud eesti või inglise keeles või tõlgitud eesti või inglise keelde.\n(6) Eestis registreeritud teavitatud asutus väljastab vastavussertifikaadid eesti või inglise keeles."
+    },
+    {
+      "provision_ref": "para16^1",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "16^1",
+      "title": "§ 16^1. Piirangud meditsiiniseadme turule laskmisele",
+      "content": "Tavakasutajale mõeldud mitteelektrilisi või mitteelektroonilisi mõõtefunktsiooniga elavhõbedat sisaldavaid meditsiiniseadmeid ei tohi turule lasta."
+    },
+    {
+      "provision_ref": "para21^1",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "21^1",
+      "title": "§ 21^1. Meditsiiniseadme kliinilise uuringu ja in vitro diagnostikameditsiiniseadme toimivusuuringu (edaspidi uuring ) tegija ning uuringuga seotud isikute kohustused",
+      "content": "(1) Kui uuring kavandatakse teha ainult Eestis või ainult Eestis ja muus riigis kui Euroopa Liidu liikmesriik või Euroopa Majanduspiirkonna liikmesriik ning sponsor ei ole registreeritud mõnes Euroopa Liidu liikmesriigis, võib Ravimiamet anda sponsori taotluse korral sponsorile loa määrata enda asemel uuringuga seotud kontaktisik, lähtudes vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 artikli 62 lõikes 2 või määruse (EL) 2017/746 artikli 58 lõikes 4 sätestatust.\n(2) Ravimiamet annab käesoleva paragrahvi lõikes 1 nimetatud loa, kui loa andmisega ei kaasne olulisi riske uuringus osalejate ohutusele ega õigustele ning täidetud on Euroopa Parlamendi ja nõukogu määruses (EL) 2017/745 või (EL) 2017/746 ja käesolevas seaduses sätestatud nõuded.\n(3) Sponsor, kes käesoleva paragrahvi lõike 1 kohaselt soovib enda asemel määrata kontaktisiku, võib esitada Ravimiametile uuringu tegemiseks taotluse dokumendid (edaspidi uuringu taotlus ) pärast seda, kui sponsor on saanud loa kasutada kontaktisikut.\n(4) Sponsor teavitab Ravimiametit vähemalt kümme päeva enne uuringu tegemise alustamist, kui ta kavandab teha:\n1) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 artiklis 74 nimetatud uuringut, millega kaasneb osalejatele peale seadme tavapäraste kasutustingimuste kohaselt tehtavatele protseduuride selliseid protseduure, mis ei ole invasiivsed ega koormavad;\n2) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/746 artikli 58 lõikes 2 nimetatud toimivusuuringut, milles uuritakse sobivusdiagnostikaseadet ja milles kasutatakse ainult proovide jääke.\n(5) Sponsor tagab uuringus osalejale uuringus osalemisest tekkinud mis tahes tervisekahju hüvitamiseks kindlustuskaitse, mis katab sponsori ja uurija vastutuse ning vastab riski olemusele ja ulatusele. Kindlustuskaitse tõendamiseks esitab sponsor koos uuringu taotlusega kindlustuspoliisi või selle koopia.\n(6) Kui uuringu tegemiseks tuleb esitada Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 XV lisas või määruse (EL) 2017/746 XIII lisas nimetatud dokumendid, võib need koostada eesti või inglise keeles, välja arvatud teadva nõusoleku saamiseks kasutatavad dokumendid, mis tuleb koostada uuringus osaleja emakeeles.\n(7) Sponsor, tema seaduslik esindaja või tema kontaktisik peab uuritava meditsiiniseadme ja uuringuga seotud teavet ja dokumente hoidma pädevale asutusele kättesaadavana Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 XV lisa III peatüki punktis 3 või määruse (EL) 2017/746 XIV lisa II peatüki punktis 3 sätestatud säilitustähtaja jooksul ja korras."
+    },
+    {
+      "provision_ref": "para21^2",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "21^2",
+      "title": "§ 21^2. Nõusolek uuringus osalemiseks",
+      "content": "Uuringus osalemiseks on nõutav uuringus osaleja teadev nõusolek, mis vastab Euroopa Parlamendi ja nõukogu määrusele (EL) 2017/745 või (EL) 2017/746. 7–17-aastase alaealise uuringus osalemiseks on vaja ka alaealise enda nõusolekut."
+    },
+    {
+      "provision_ref": "para21^3",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "21^3",
+      "title": "§ 21^3. Kliiniliste uuringute eetikakomitee",
+      "content": "(1) Kliiniliste uuringute eetikakomitee (edaspidi eetikakomitee ) on meditsiiniseadme kliinilisi uuringuid- ja toimivusuuringuid (edaspidi uuring ) hindav sõltumatu kogu, mis koosneb teadlastest ja eri elualade esindajatest ning mille eesmärk on hinnata uuringus osalejate ohutuse, heaolu ja õiguste kaitse tagamist.\n(2) Eetikakomitee annab arvamuse uuringu tegemise ja uuringus olulise muudatuse tegemise kohta Ravimiametile.\n(3) Eetikakomitee lähtub arvamuse andmisel Euroopa Parlamendi ja nõukogu määruses (EL) 2017/745 või (EL) 2017/746 sätestatud nõuetest, kehtestatud eetikanormidest ja rahvusvahelistest konventsioonidest ning Euroopa Parlamendi ja nõukogu määruses (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus) (ELT L 119, 04.05.2016, lk 1–88) ja eriseadustes sätestatud põhimõtetest.\n(4) Eetikakomitee hindab uuringu eetiliste riskide suurust ja uuringu tegija tausta, leides tasakaalu uuringus osalejate põhiõiguste kaitse ja uuringu otstarbekuse vahel.\n(5) Eetikakomitee töökorra, liikmete arvu ja koosseisu määramise korra ning liikmete volituste tähtaja kehtestab valdkonna eest vastutav minister määrusega.\n(5^1) Eetikakomitee tegutseb Ravimiameti juures.\n(5^2) Ravimiamet määrab eetikakomitee liikmete koosseisu, arvestades liikme kvalifikatsiooni ja kogemust meditsiiniseadmete kliiniliste uuringute hindamisel.\n(6) Eetikakomitee koosseis ja eetikakomitee töösse kaasatud eksperdid avalikustatakse Ravimiameti veebilehel.\n(7) Ravimiamet, eetikakomitee liikmed ja eetikakomitee töösse kaasatud isikud tagavad meditsiiniseadme kliinilise uuringu- ja toimivusuuringu kohta arvamuse andmisega seoses saadud teabe konfidentsiaalsuse ning välistavad selle kättesaadavuse kolmandatele isikutele."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "22",
+      "title": "§ 22. Uuringu tegemise õiguse ja uuringus olulise muudatuse tegemise õiguse taotlemine",
+      "content": "(1) Sponsor esitab uuringu tegemiseks ja selles olulise muudatuse tegemiseks taotluse Ravimiametile, arvestades käesolevas seaduses ning Euroopa Parlamendi ja nõukogu määruses (EL) 2017/745 või (EL) 2017/746 sätestatud nõudeid.\n(2)\n(3)\n(4)\n(5) Sponsor on kohustatud tasuma:\n1) uuringu taotluse läbivaatamise eest riigilõivu riigilõivuseaduse kohaselt;\n2) uuringu erialase hindamise tasu, mis sisaldab eetikakomitee hindamist, Ravimiametile käesoleva paragrahvi lõike 10 alusel kehtestatud määruse kohaselt;\n3) uuringu olulise muudatuse erialase hindamise tasu, mis sisaldab eetikakomitee hindamist, Ravimiametile käesoleva paragrahvi lõike 10 alusel kehtestatud määruse kohaselt.\n(6) Käesoleva paragrahvi lõike 5 punktis 2 nimetatud uuringu erialase hindamise tasu ülempiir on 3000 eurot ja punktis 3 nimetatud uuringu olulise muudatuse erialase hindamise tasu ülempiir on 1000 eurot.\n(7) Ravimiamet teavitab uuringu taotluse ja uuringu muudatuse teavituse kohta tehtud otsusest Euroopa Parlamendi ja nõukogu määruses (EL) 2017/745 või (EL) 2017/746 sätestatud korras.\n(8) Ravimiametil on õigus kaasata uuringu erialasesse hindamisse ja uuringu tegemise nõuetekohasuse hindamisse eksperte. Uuringu hindamisse eksperdi kaasamise korral tuleb sponsoril tasuda käesoleva paragrahvi lõike 5 punktis 2 või punktis 3 nimetatud tasu ja eksperdiarvamuse tasu vastavalt käesoleva paragrahvi lõike 10 alusel kehtestatud määrusele. Eksperdiarvamuse tasu ühe hindamise kohta ei tohi ületada 2000 eurot, kui sponsoriga ei ole kirjalikult kokku lepitud teisiti.\n(9) Uuringut hindavad ja selle nõuetekohasust kinnitavad isikud esitavad Ravimiametile iga aasta 31. maiks huvide deklaratsiooni, milles kinnitavad, et neil ei ole huvide konflikti ega finants- või muid huvisid, mis võiksid mõjutada nende erapooletust.\n(10) Eksperdiarvamuse tasu, uuringu taotluse erialase hindamise tasu ja uuringu olulise muudatuse erialase hindamise tasu suuruse ja tasumise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para22^1",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "22^1",
+      "title": "§ 22^1. Nõuded muude meditsiiniseadme kliiniliste uuringute tegemisele ja selliste uuringute tegemise õiguse taotlemisele",
+      "content": "Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 artiklis 82 nimetatud uuringute puhul kohaldatakse artikli 62 lõigetes 2–7 ning artiklites 63–66, 68–72, 75–77 ja 80 sätestatud nõudeid, välja arvatud nendes aspektides, mis puudutavad dokumentide esitamist ja teabevahetust artiklis 73 nimetatud elektroonilise süsteemi kaudu ja nõuet koostada kliinilise hindamise kava."
+    },
+    {
+      "provision_ref": "para22^2",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "22^2",
+      "title": "§ 22^2. Nõuded muude in vitro diagnostikameditsiiniseadme toimivusuuringute tegemisele ja sellistest uuringutest teavitamisele",
+      "content": "(1) Kui tegemist on Euroopa Parlamendi ja nõukogu määruse (EL) 2017/746 artiklis 57 nimetatud uuringuga, aga see ei ole artikli 58 lõikes 1 ega lõikes 2 nimetatud uuring ja selline uuring häirib inimese või inimese embrüo või loote terviklikkust, kohaldatakse artikli 58 lõiget 4, lõike 5 punkte b–m ja o ning lõikeid 6–8, artikleid 59–62 ja 64 ning artikli 68 lõikeid 1, 4 ja 6, välja arvatud nendes aspektides, mis puudutavad dokumentide esitamist ja teabevahetust artiklis 69 nimetatud elektroonilise süsteemi kaudu.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud uuringu tegemisest teavitatakse Ravimiametit vähemalt kümme päeva enne uuringu tegemise alustamist."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "25",
+      "title": "§ 25. Meditsiiniseadme dokumentide säilitamine",
+      "content": "Tootja või tema volitatud esindaja peab säilitama Ravimiametile kättesaadavana meditsiiniseadmega seotud dokumente järgmiselt: 1 1) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 IX lisa III peatüki punktis 8, X lisa punktis 7, XI lisa A osa punktides 9 ja 10.5, XI lisa B osa punktides 17 ja 18.4 ning XIII lisa punktis 4 sätestatu kohaselt – vähemalt kümme või 15 aastat;\n2) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/746 IX lisa III peatüki punktis 7, X lisa punktis 6 ja XI lisa punktis 6 sätestatu kohaselt – vähemalt kümme aastat."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "26",
+      "title": "§ 26. Asutusesiseselt valmistatud meditsiiniseadme valmistamisest, tellimusmeditsiiniseadme turul kättesaadavaks tegemisest, meditsiiniseadmete süsteemi, protseduuripaketi ja meditsiiniseadme esmakordsest Eestis levitamisest teavitamine ning andmete edastamine",
+      "content": "(1) Tervishoiuteenuse osutaja või teadus- ja arendustegevuse ning innovatsiooni korralduse seaduse § 3 lõigete 2–4 tähenduses teadus- ja arendusasutus, ülikool või evalveeritud rakenduskõrgkool, kes Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 artikli 5 lõike 5 kohaselt või määruse (EL) 2017/746 artikli 5 lõike 5 kohaselt valmistab asutusesiseselt meditsiiniseadmeid (edaspidi asutusesisene valmistaja ), avalikustab nende meditsiiniseadmete loetelu oma veebilehel ja esitab loetelu Ravimiametile kümne tööpäeva jooksul veebilehel avaldamisest arvates.\n(2)\n(3) Iga ettevõtja, kes teeb turul kättesaadavaks tellimusmeditsiiniseadme, teavitab vähemalt kümme päeva enne sellise meditsiiniseadme turul kättesaadavaks tegemist Ravimiametit kavatsusest selline meditsiiniseade turul kättesaadavaks teha.\n(4) Iga ettevõtja, kes levitab Eesti turul Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 artikli 22 kohast meditsiiniseadmete süsteemi või protseduuripaketti või Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 või nõukogu direktiivi 90/385/EMÜ aktiivseid siirdatavaid meditsiiniseadmeid käsitlevate liikmesriikide õigusnormide ühtlustamise kohta (EÜT L 189, 20.07.1990, lk 17–36) või nõukogu direktiivi 93/42/EMÜ meditsiiniseadmete kohta (EÜT L 169, 12.07.1993, lk 1–43) kohaselt liigitatud IIa, IIb või III riskiklassi meditsiiniseadet või Euroopa Parlamendi ja nõukogu määruse (EL) 2017/746 VIII lisa kohaselt liigitatud B-, C- või D-klassi in vitro diagnostikameditsiiniseadet, teavitab sellest Ravimiametit kümne päeva jooksul asjaomase meditsiiniseadme esmakordsest levitamisest arvates.\n(5) Tellimusmeditsiiniseadme turul kättesaadavaks tegemisest, tellimusmeditsiiniseadmel tehtud olulisest muudatusest ja meditsiiniseadme esmakordsest Eestis levitamisest teavitamise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "27",
+      "title": "§ 27. Ohujuhtumi registreerimine ja valdkonna ohutusteatis",
+      "content": "(1) Ravimiamet registreerib talle teatatud ohujuhtumi andmed ja teavitab sellest andmete esitajat kümne tööpäeva jooksul andmete esitamisest arvates.\n(2) Eesti turul kättesaadavaks tehtud meditsiiniseadme kohta koostatakse valdkonna ohutusteatis eesti keeles. Kiireloomulise olukorra kohta esitatav esmane ohutusteatis võib olla ingliskeelne."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "2. peatükk - MEDITSIINISEADME TURULE LASKMINE JA KASUTUSELEVÕTT",
+      "section": "29",
+      "title": "§ 29. Meditsiiniseadmete ja abivahendite andmekogu",
+      "content": "(1) Meditsiiniseadmete ja abivahendite andmekogu on riigi infosüsteemi kuuluv andmekogu, mida peetakse Eestis turul kättesaadavaks tehtud tellimusmeditsiiniseadmete ja levitatavate meditsiiniseadmete, meditsiiniseadmete süsteemide ja protseduuripakettide ning nendega seotud ohujuhtumite ja järelevalvemenetluste andmete, uuringute andmete ning ravikindlustuse seaduse alusel Tervisekassa poolt tasu maksmise kohustuse ülevõtmise (edaspidi hüvitamine ) andmete ja sotsiaalhoolekande seaduse tähenduses abivahendite ostmise ja üürimise andmete registreerimiseks, kogumiseks, töötlemiseks ja analüüsimiseks, et kaitsta inimese tervist meditsiiniseadmest tuleneda võivate ohtude eest ning tagada hüvitatavate meditsiiniseadmete ja abivahendite kättesaadavus.\n(2) Meditsiiniseadmete ja abivahendite andmekogusse esitavad andmeid:\n1) meditsiiniseadme tootja või tootja volitatud esindaja;\n2) meditsiiniseadme importija;\n3) meditsiiniseadme levitaja;\n4) meditsiiniseadme professionaalne kasutaja;\n5) meditsiiniseadme tavakasutaja;\n6) abivahendi müüja ja üürileandja;\n7) Tervisekassa.\n(3) Meditsiiniseadmete ja abivahendite andmekogus töödeldakse järgmisi andmeid:\n1) tellimusmeditsiiniseadme, meditsiiniseadmete süsteemi ja protseduuripaketi turul kättesaadavaks tegemise ja meditsiiniseadme Eestis levitamisega seotud andmed ja dokumendid;\n2) meditsiiniseadme ohujuhtumi registreerimise ja menetlemisega seotud andmed ja dokumendid;\n3) ainult Eestis või ainult Eestis ja muus riigis kui Euroopa Liidu liikmesriik või Euroopa Majanduspiirkonna liikmesriik tehtavate kliiniliste uuringute ja toimivusuuringute tegemisega seotud andmed ja dokumendid;\n4) meditsiiniseadme järelevalvemenetlusega seotud andmed ja dokumendid;\n5) abivahendi jae- ja üürihinnad, teenuse osutamise koha kontaktid ja toodete kirjeldused;\n6) meditsiiniseadme hüvitamisega seotud andmed ja dokumendid.\n(4) Meditsiiniseadmete ja abivahendite andmekogu asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega.\n(5) Meditsiiniseadmete ja abivahendite andmekogu vastutav töötleja on Ravimiamet."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "3. peatükk - MEDITSIINISEADME PROFESSIONAALNE KASUTAMINE",
+      "section": "31",
+      "title": "§ 31. Meditsiiniseadme professionaalse kasutamise nõuded",
+      "content": "(1) Meditsiiniseadet võib tervishoiuteenuse osutamisel kasutada kooskõlas meditsiiniseadme sihtotstarbega ja tootja ettenähtud juhistega, arvestades tõenduspõhise meditsiini põhimõtteid, ning kui eeldatav kasu patsiendi tervisele on suurem võimalikust kahjust, arvestades igal üksikjuhul sama eesmärgiga alternatiivsete, vähem ohtlike tegevuste mõjusust, kasu ja riski.\n(2) Meditsiiniseadme valdaja tagab:\n1) meditsiiniseadme kasutus- ja hooldustingimused, mille tootja on kehtestanud;\n2) kasutusjuhiste olemasolu kasutuskohas;\n3) paigaldamis- ja hooldustöö ning vajaduse korral remonttöö teostamise pädeva isiku poolt."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "3. peatükk - MEDITSIINISEADME PROFESSIONAALNE KASUTAMINE",
+      "section": "32",
+      "title": "§ 32. Meditsiiniseadme kasutamise eeldused",
+      "content": "(1) Meditsiiniseadme professionaalne kasutaja teeb enne meditsiiniseadme professionaalse kasutamise alustamist kindlaks meditsiiniseadme tehnilise seisukorra ning korraldab professionaalse kasutaja väljaõppe, kui see on professionaalselt kasutatava meditsiiniseadme puhul nõutav.\n(2) Meditsiiniseadme professionaalne kasutaja koostab meditsiiniseadme professionaalse kasutamise alustamise kohta akti, kui meditsiiniseadme professionaalne kasutamine eeldab seadme töötamise õigsuse ja ohutuse kontrolli."
+    },
+    {
+      "provision_ref": "para32^1",
+      "chapter": "3. peatükk - MEDITSIINISEADME MÜÜK MEDITSIINISEADME KAARDI ALUSEL",
+      "section": "32^1",
+      "title": "§ 32^1. Meditsiiniseadme müük meditsiiniseadme kaardi alusel",
+      "content": "(1) Meditsiiniseadme müügil meditsiiniseadme kaardi (edaspidi kaart ) alusel tuleb ostjat teavitada meditsiiniseadme sihtotstarbekohasest ja ohutust kasutamisest, meditsiiniseadme kasutamisega kaasneda võivatest võimalikest jääkriskidest ning soovimatutest kõrvaltoimetest ja kõrvalnähtudest. Asjakohasel juhul tuleb ostja tähelepanu juhtida meditsiiniseadmega kaasnevatele piirangutele, vastunäidustustele, ettevaatusabinõudele ja hoiatustele.\n(2) Kaart on isikule arsti poolt sobiva meditsiiniseadme määramiseks väljakirjutatud dokument.\n(3) Meditsiiniseadme müügil kaardi alusel peab müüja veenduma seadme sobivuses ja vajaduse korral tagama selle kohandamise kasutajale.\n(4) Meditsiiniseadme müüja peab dokumenteerima seadmete kohta esitatud kaebused, märkides andmed kaebuse esitaja, seadme, kaebuse olemuse ja kaebusega seonduvate asjaolude kohta. Meditsiiniseadme müüja juures kaebuse lahendamise käik tuleb dokumenteerida."
+    },
+    {
+      "provision_ref": "para32^2",
+      "chapter": "3. peatükk - VABAMÜÜGI SERTIFIKAAT",
+      "section": "32^2",
+      "title": "§ 32^2. Vabamüügi sertifikaadi väljastamine",
+      "content": "(1) Ravimiamet väljastab Eestis registreeritud tootjale või volitatud esindajale taotluse alusel meditsiiniseadme ekspordiks vabamüügi sertifikaadi, mis tõendab, et tootja või volitatud esindaja registreeritud tegevuskoht on Eesti Vabariigis ning CE-märgist kandvat asjaomast meditsiiniseadet võib Euroopa Liidus turustada.\n(2) Vabamüügi sertifikaat koostatakse inglise keeles ja ühes eksemplaris ning väljastatakse paberil.\n(3) Vabamüügi sertifikaati või selle duplikaati taotlev tootja või tema volitatud esindaja on kohustatud enne taotluse esitamist tasuma vabamüügi sertifikaadi või selle duplikaadi väljastamise eest riigilõivu riigilõivuseaduse kohaselt.\n(4) Vabamüügi sertifikaat kehtib kaks aastat alates väljastamisest, välja arvatud juhul, kui meditsiiniseadme vastavussertifikaadi kehtivusaeg on lühem."
+    },
+    {
+      "provision_ref": "para32^3",
+      "chapter": "3. peatükk - ASUTUSESISESELT VALMISTATAVAD MEDITSIINISEADMED",
+      "section": "32^3",
+      "title": "§ 32^3. Nõuded asutusesiseselt valmistatavale meditsiiniseadmele",
+      "content": "(1) Asutusesisene valmistaja võib asutusesiseselt valmistada meditsiiniseadmeid ainult juhul, kui on täidetud Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 artikli 5 lõikes 5 või (EL) 2017/746 artikli 5 lõikes 5 ning käesolevas seaduses sätestatud nõuded.\n(2) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/746 artikli 5 lõike 5 punkti g kohaldatakse ka B- ja C-klassi in vitro diagnostikameditsiiniseadmetele.\n(3) Asutusesisene valmistaja ei tohi asutusesiseselt valmistada meditsiiniseadmeid, mis sisaldavad nanomaterjali, mitteelujõulisi või mitteelujõuliseks muudetud loomset päritolu kudesid või rakke või nende preparaate või mis sisaldavad ainet, mida eraldi kasutamisel võib käsitada ravimina ravimiseaduse tähenduses."
+    },
+    {
+      "provision_ref": "para32^4",
+      "chapter": "3. peatükk - SIIRATAVAD MEDITSIINISEADMED",
+      "section": "32^4",
+      "title": "§ 32^4. Nõuded siiratava meditsiiniseadmega seotud teabele",
+      "content": "(1) Meditsiiniseadme tootja koostab Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 artikli 18 lõikes 3 nimetamata siiratava meditsiiniseadmega kaasneva implantaadi kaardi eesti keeles ning esitab artikli 18 lõike 1 punktides b–d nõutud teabe ja tervishoiutöötajale implantaadi kaardi täitmiseks vajaliku teabe eesti keeles või tõlgituna eesti keelde.\n(2) Tervishoiuteenuse osutaja peab pärast siiratava meditsiiniseadme patsiendile siirdamist täitma Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 artikli 18 lõikes 2 nimetatud implantaadi kaardi ning tagama artikli 18 lõikes 1 nimetatud teabe kättesaadavuse patsiendile."
+    },
+    {
+      "provision_ref": "para32^5",
+      "chapter": "3. peatükk - TEGUTSEMINE VASTAVUSHINDAMISASUTUSENA",
+      "section": "32^5",
+      "title": "§ 32^5. Nõuded vastavushindamisasutuse määramistaotlusele ning määramis- ja teavitamismenetluse ja teavitatud asutuse teabevahetuse keelenõuded",
+      "content": "(1) Taotleja esitab Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 artiklis 38 või (EL) 2017/746 artiklis 34 nimetatud vastavushindamisasutuse määramistaotluse (edaspidi määramistaotlus ) ning Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 VII lisas või (EL) 2017/746 VII lisas esitatud nõuete täitmist tõendavad dokumendid Ravimiametile.\n(2) Määramistaotlus ning vastavushindamisasutuse määramis- ja teavitamismenetlusega (edaspidi määramis- ja teavitamismenetlus ) seotud dokumendid koostatakse eesti või inglise keeles. Määramistaotluse läbivaatamisega, määramis- ja teavitamismenetlusega ning teavitatud asutuse perioodilise hindamise ja uuestihindamisega seotud teabevahetust peetakse eesti või inglise keeles."
+    },
+    {
+      "provision_ref": "para32^6",
+      "chapter": "3. peatükk - TEGUTSEMINE VASTAVUSHINDAMISASUTUSENA",
+      "section": "32^6",
+      "title": "§ 32^6. Määramistaotluse läbivaatamise ning vastavushindamisasutuse määramisest teavitamise ja tegevusloa väljastamise riigilõivud",
+      "content": "(1) Taotleja, kes esitab Ravimiametile määramistaotluse, peab tasuma määramistaotluse läbivaatamise eest riigilõivu riigilõivuseaduse kohaselt.\n(2) Taotleja, kelle suhtes on lõpule viidud Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 artikli 39 või (EL) 2017/746 artikli 35 kohane hindamine ning kes vastab Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 VII lisale või (EL) 2017/746 VII lisale, peab enne vastavushindamisasutuseks määramisest teavitamist ja tegevusloa saamist tasuma riigilõivu riigilõivuseaduse kohaselt."
+    },
+    {
+      "provision_ref": "para32^7",
+      "chapter": "3. peatükk - TEGUTSEMINE VASTAVUSHINDAMISASUTUSENA",
+      "section": "32^7",
+      "title": "§ 32^7. Tasud määramis- ja hindamismenetluse ning teavitatud asutuse perioodilise hindamise ja uuestihindamise eest",
+      "content": "(1) Taotleja, kelle määramistaotlus on hinnatud täielikuks, peab Ravimiametile tasuma määramis- ja hindamismenetluse tasu käesoleva paragrahvi lõike 4 alusel kehtestatud määruse kohaselt.\n(2) Eestis registreeritud teavitatud asutus tasub Ravimiametile teavitatud asutuse perioodilise hindamise tasu ja teavitatud asutuse uuestihindamise tasu käesoleva paragrahvi lõike 4 alusel kehtestatud määruse kohaselt.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud määramis- ja hindamismenetluse tasu ülempiir on 20 000 eurot, lõikes 2 nimetatud teavitatud asutuse perioodilise hindamise tasu ülempiir on 10 000 eurot ja lõikes 2 nimetatud teavitatud asutuse uuestihindamise tasu ülempiir on 18 000 eurot.\n(4) Vastavushindamisasutuse määramis- ja hindamismenetluse, teavitatud asutuse perioodilise hindamise ja teavitatud asutuse uuestihindamise tasu suuruse ning tasu arvestamise ja tasumise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "33",
+      "title": "§ 33. Riiklik ja haldusjärelevalve",
+      "content": "(1) Käesolevas seaduses ja selle alusel kehtestatud õigusaktides ning Euroopa Parlamendi ja nõukogu määrustes (EL) 2017/745 ja (EL) 2017/746 sätestatud nõuete täitmise üle teeb riiklikku ja haldusjärelevalvet Ravimiamet.\n(2) Käesoleva seaduse 3. peatükis sätestatud nõuete täitmise üle tervishoiuteenuse osutamisel teeb riiklikku ja haldusjärelevalvet Terviseamet."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "34",
+      "title": "§ 34. Riikliku järelevalve erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49 ja 50 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para34^1",
+      "chapter": "4. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "34^1",
+      "title": "§ 34^1. Riikliku järelevalve erisused",
+      "content": "(1) Korrakaitseorgan võib korrakaitseseaduse §-s 50 sätestatud meedet kohaldada kontrollitava isiku, tema esindaja või tema töötaja juuresolekul.\n(2)\n(3)"
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "35",
+      "title": "§ 35. Meditsiiniseadme nõuetele vastavuse kontrollimine",
+      "content": "(1) Ravimiametil on lubatud meditsiiniseadme nõuetele vastavuse kontrollimisse kaasata eksperte ning tellida meditsiiniseadmete või nende osade nõuetele vastavuse kontrollimiseks hindamisteenust käesoleva seaduse § 22 lõike 10 alusel kehtestatud määruse kohaselt.\n(2) Hindamisteenus vormistatakse eksperdiarvamusena, milles kirjeldatakse analüüsi-, katse- ja ekspertiisitulemusi.\n(3) Ravimiamet tasub meditsiiniseadme nõuetele vastavuse kontrollimiseks tellitud hindamisteenuse kulud ning tagastab meditsiiniseadme või hüvitab tekitatud otsese varalise kahju, kui meditsiiniseade on eksperdiarvamuse järgi nõuetekohane. Kui meditsiiniseade ei ole eksperdiarvamuse järgi nõuetekohane, hüvitab asjaomane ettevõtja Ravimiametile hindamisteenuse kulud."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "4. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "36",
+      "title": "§ 36. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral võib korrakaitseorgan rakendada sunnivahendit asendustäitmise ja sunniraha seaduses ettenähtud korras. Sunniraha ülemmäär on 32 000 eurot."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "5. peatükk - VASTUTUS",
+      "section": "39",
+      "title": "§ 39. Meditsiiniseadme turule laskmise, turul kättesaadavaks tegemise, asutusesisese valmistamise, kasutuselevõtu, levitamise ja professionaalse kasutamise nõuete rikkumine",
+      "content": "(1) Meditsiiniseadme turule laskmise, turul kättesaadavaks tegemise, asutusesisese valmistamise, kasutuselevõtu, levitamise või professionaalse kasutamise nõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para39^1",
+      "chapter": "5. peatükk - VASTUTUS",
+      "section": "39^1",
+      "title": "§ 39^1. Meditsiiniseadme kliinilise uuringu ja in vitro diagnostikameditsiiniseadme toimivusuuringu tegemise nõuete rikkumine",
+      "content": "(1) Meditsiiniseadme kliinilise uuringu või in vitro diagnostikameditsiiniseadme toimivusuuringu tegemise nõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "5. peatükk - VASTUTUS",
+      "section": "40",
+      "title": "§ 40. Menetlus",
+      "content": "Käesolevas peatükis sätestatud väärtegude kohtuväline menetleja on Ravimiamet."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "41",
+      "title": "§ 41. Käesoleva seaduse jõustumise hetkel juba turul olevate meditsiiniseadmete kasutamine",
+      "content": "Käesoleva seaduse jõustumise hetkel kehtinud korra kohaselt turul olevaid ohutuid meditsiiniseadmeid võib kasutada kuni nende eeldatava mõistliku kasutusaja lõpuni."
+    },
+    {
+      "provision_ref": "para41^1",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "41^1",
+      "title": "§ 41^1. Andmete esitamine meditsiiniseadmete andmekogusse",
+      "content": "Kuni 2014. aasta 1. juulini võib käesoleva seaduse § 29 lõikes 3 nimetatud andmed esitada Terviseametile paberil või elektrooniliselt."
+    },
+    {
+      "provision_ref": "para41^2",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "41^2",
+      "title": "§ 41^2. Euroopa meditsiiniseadmete andmebaasiga seotud kohustuste ja nõuete rakendamine",
+      "content": "Kuni Euroopa Parlamendi ja nõukogu määruse (EL) 2017/745 artikli 123 lõikes 3 ning määruse (EL) 2017/746 artikli 113 lõikes 3 sätestatud Euroopa meditsiiniseadmete andmebaasi kasutusele võtmiseni toimub teabevahetus käesoleva seaduse 2022. aasta 31. detsembrini kehtinud redaktsiooni ja selle alusel kehtestatud määruste kohaselt, arvestades et pädev asutus on Ravimiamet."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "42",
+      "title": "§ 42.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "46",
+      "title": "§ 46.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "47",
+      "title": "§ 47. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2004. aasta 1. detsembril."
+    }
+  ],
+  "definitions": []
+}

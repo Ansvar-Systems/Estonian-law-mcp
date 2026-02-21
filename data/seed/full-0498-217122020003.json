@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-217122020003",
+  "type": "statute",
+  "title": "Euroopa Nõukogu filmialase kaastootmise konventsiooni (uuendatud) ratifitseerimise seadus",
+  "title_en": "Euroopa Nõukogu filmialase kaastootmise konventsiooni (uuendatud) ratifitseerimise seadus",
+  "short_name": "ee-law-217122020003",
+  "status": "in_force",
+  "issued_date": "2020-12-09",
+  "in_force_date": "2020-12-27",
+  "url": "https://www.riigiteataja.ee/akt/217122020003.xml",
+  "description": "Official consolidated statute text (Euroopa Nõukogu filmialase kaastootmise konventsiooni (uuendatud) ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud Euroopa Nõukogu filmialase kaastootmise konventsioon (uuendatud), millele Eesti Vabariik on alla kirjutanud 2020. aasta 8. juulil."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Kooskõlas konventsiooni artikli 5 lõikega 5 määrab pädeva asutuse valdkonna eest vastutav minister käskkirjaga."
+    }
+  ],
+  "definitions": []
+}

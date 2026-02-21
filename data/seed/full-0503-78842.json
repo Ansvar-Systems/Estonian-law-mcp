@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-78842",
+  "type": "statute",
+  "title": "Euroopa Nõukogu Sotsiaalarengu Fondi kokkuleppe vastuvõtmise seadus",
+  "title_en": "Euroopa Nõukogu Sotsiaalarengu Fondi kokkuleppe vastuvõtmise seadus",
+  "short_name": "ee-law-78842",
+  "status": "in_force",
+  "issued_date": "1998-03-10",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/78842.xml",
+  "description": "Official consolidated statute text (Euroopa Nõukogu Sotsiaalarengu Fondi kokkuleppe vastuvõtmise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Võetakse vastu juurdelisatud Euroopa Nõukogu Sotsiaalarengu Fondi (edaspidi fond ) kokkulepe."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Eesti Vabariigi valitsus on volitatud tellima osalussertifikaate arvul, mis on määratud kokkuleppel fondi juhatusega käesoleva seadusega vastuvõetud kokkuleppe artikli IX § 3 lõike 1 punkti a kohaselt."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Eesti Vabariik kinnitab oma kavatsust ühineda esimesel võimalusel Euroopa Nõukogu privileegide ja immuniteetide üldkokkuleppe kolmanda protokolliga ja rakendab kuni selle jõustumiseni Eesti Vabariigi suhtes nimetatud protokolli järgseid õiguslikke meetmeid fondi omandi, varade ja tehingute suhtes ning annab fondi organitele ja personalile protokollijärgse õigusliku staatuse. Riigikogu esimees Toomas SAVI Õiend Akti metaandmed ja sisu tehniliselt korrastatud"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-979019",
+  "type": "statute",
+  "title": "Korruptsiooni kriminaalõigusliku reguleerimise konventsiooni ratifitseerimise seadus",
+  "title_en": "Korruptsiooni kriminaalõigusliku reguleerimise konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-979019",
+  "status": "in_force",
+  "issued_date": "2001-10-17",
+  "in_force_date": "2006-01-13",
+  "url": "https://www.riigiteataja.ee/akt/979019.xml",
+  "description": "Official consolidated statute text (Korruptsiooni kriminaalõigusliku reguleerimise konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud korruptsiooni kriminaalõigusliku reguleerimise konventsioon, mis on koostatud 1999. aasta 27. jaanuaril Strasbourgis ning millele Eesti Vabariik on alla kirjutanud 2000. aasta 8. juunil Londonis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ratifitseerimisel määrab Eesti Vabariik vastavalt konventsiooni artikli 29 lõikele 1 keskasutuseks Justiitsministeeriumi."
+    }
+  ],
+  "definitions": []
+}

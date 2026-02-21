@@ -1,0 +1,414 @@
+{
+  "id": "ee-law-114032025008",
+  "type": "statute",
+  "title": "Patendivoliniku seadus",
+  "title_en": "Patendivoliniku seadus",
+  "short_name": "PatVS",
+  "status": "in_force",
+  "issued_date": "2001-02-21",
+  "in_force_date": "2025-01-01",
+  "url": "https://www.riigiteataja.ee/akt/114032025008.xml",
+  "description": "Official consolidated statute text (Patendivoliniku seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "Käesolev seadus sätestab patendivoliniku tegevuse õiguslikud alused."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Patendivolinik",
+      "content": "(1) Patendivolinik on isik, kes osutab õigusteenust tööstusomandi alal (edaspidi õigusteenus ).\n(2) Patendivolinikuna võib tegutseda isik, kes on Patendivolinike Koja liige ja kellele on käesolevas seaduses sätestatud alustel ja korras antud patendivoliniku kutse tegutsemiseks ühes või mõlemas patendivoliniku kutsetegevuse valdkonnas. Patendivolinikuna võib tegutseda ka välisriigis patendivoliniku kutse omandanud isik, kelle kutsekvalifikatsiooni on tunnustatud vastavalt välisriigi kutsekvalifikatsiooni tunnustamise seadusele ja kes on Patendivolinike Koja liige. Välisriigi kutsekvalifikatsiooni tunnustamise seaduse § 7 lõikes 2 sätestatud pädev asutus on Justiits- ja Digiministeerium.\n(3) Patendivoliniku kutsetegevuse valdkonnad on:\n1) leiutis ja mikrolülituse topoloogia;\n2) kaubamärk, tööstusdisainilahendus ja geograafiline tähis.\n(4) Seadusega ettenähtud juhtudel võib isikule õigusteenust osutada üksnes patendivolinik.\n(5) Kutsenimetust „patendivolinik” võib kasutada üksnes Patendivolinike Koja liige. Nimetust „patendibüroo” võib kasutada üksnes patendivoliniku äriühing."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Volituse kehtivus",
+      "content": "(1) Patendivoliniku esindusõiguse sisu ja kestuse määrab kehtiv volitus.\n(1^1) Kui seadusega on ette nähtud, et patendivolinik võib esitada volikirja pärast toimingu tegemist, loetakse volituse andmise päevaks toimingu tegemise päev, sõltumata volikirja allakirjutamise päevast.\n(1^2) Mitmele patendivolinikule antud ühe volikirja korral loetakse, et kõigil volikirjas nimetatud patendivolinikel on võrdse ulatusega iseseisev esindusõigus, kui volikirjas ei ole ette nähtud teisiti. Volikirjas sätestatud juhul ja tingimustel võib patendivolinik anda esindusõiguse edasi teisele sama äriühingu kaudu tegutsevale patendivolinikule.\n(1^3) Patendivoliniku puhul, kes esindajana teeb toiminguid või osaleb menetluses Patendiametis või tööstusomandi apellatsioonikomisjonis, eeldatakse esindusõiguse olemasolu. Esindusõiguse olemasolus kahtlemise korral on Patendiametil või tööstusomandi apellatsioonikomisjonil õigus nõuda patendivolinikult volikirja esitamist.\n(2) Volitus lõpeb:\n1) kui patendivolinik loobub isiku esindamisest käesoleva seaduse § 5 lõikes 4 nimetatud juhtudel;\n2) kui patendivoliniku kohta tehtud registreeringu andmed kustutatakse riiklikust patendivolinike registrist (edaspidi register );\n3) patendivoliniku kutsetegevuse peatamise korral;\n4) muudel seadusega ettenähtud juhtudel.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud juhtudel peab patendivolinik teda volitanud isikut juhtunust viivitamata teavitama.\n(4) Patendivoliniku surma või talle piiratud teovõime tõttu eestkoste seadmise korral peab patendivoliniku pärija või eestkostja, samuti patendivoliniku äriühing viivitamata teavitama juhtunust Patendivolinike Koda."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - PATENDIVOLINIKU KUTSETEGEVUS JA JÄRELEVALVE PATENDIVOLINIKU KUTSETEGEVUSE ÜLE",
+      "section": "4",
+      "title": "§ 4. Patendivoliniku õiguspädevus",
+      "content": "Oma kutsetegevuse valdkonnas on patendivolinik pädev:\n1) osutama õigusteenust;\n2) esindama isikut riigiasutustes ja kohtus ning muudel juhtudel;\n3) koguma tõendeid;\n4) vabalt valima ja kasutama isikule õigusteenuse osutamisel seadusega ettenähtud vahendeid ja viise;\n5) kinnitama asutustele esitatavate tööstusomandialaste dokumentide tõlkeid ja ärakirju."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - PATENDIVOLINIKU KUTSETEGEVUS JA JÄRELEVALVE PATENDIVOLINIKU KUTSETEGEVUSE ÜLE",
+      "section": "5",
+      "title": "§ 5. Patendivoliniku kohustused",
+      "content": "(1) Patendivolinik on kohustatud:\n1) kasutama teda volitanud isiku huvides kõiki seadusega ettenähtud vahendeid ja viise, säilitades kutseau ja väärikuse;\n2) teavitama teda volitanud isikut õigusteenuse osutamisega seotud toimingutest;\n3) pidama õigusteenuse osutamisega seotud toimingute nimekirja;\n4) läbima käesoleva seaduse §-s 18^1 nimetatud täiendusõppe.\n(2) Patendivolinik ei omanda isikule õigusteenust osutades tema õigusi.\n(3) Patendivolinik ei või õigusteenust osutada isikule, kelle huvid on vastuolus teise isiku huvidega, kellele sama patendivolinik samas asjas õigusteenust osutab või on osutanud, samuti muudel seadusega ettenähtud juhtudel.\n(4) Patendivolinik võib oma algatusel loobuda isikule õigusteenuse osutamisest, kui isik on:\n1) esitanud nõude, mille täitmiseks patendivolinik peab rikkuma seadust või kutsetava nõudeid;\n2) jätnud korduvalt õigusteenuse eest tähtaegselt tasumata;\n3) oma tegevusega muutnud võimatuks temale õigusteenuse osutamise;\n4) kuritarvitanud patendivoliniku nime või kutset."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - PATENDIVOLINIKU KUTSETEGEVUS JA JÄRELEVALVE PATENDIVOLINIKU KUTSETEGEVUSE ÜLE",
+      "section": "6",
+      "title": "§ 6. Patendivoliniku kutsetegevuse tagatised",
+      "content": "(1) Patendivolinik on õigusteenust osutades sõltumatu ja juhindub seadustest, samuti kutsetava nõuetest, headest kommetest ja südametunnistusest.\n(2) Patendivolinikule usaldatud andmed on konfidentsiaalsed. Asjaolude kohta, mis on patendivolinikule või patendivoliniku äriühingu töötajale saanud teatavaks õigusteenust osutades, ei saa teda tunnistajana üle kuulata ega temalt seletust nõuda.\n(3) Patendivolinikult või patendivoliniku äriühingu töötajalt, samuti patendivoliniku äriühingult ei või ära võtta õigusteenuse osutamise käigus saadud teabekandjaid."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - PATENDIVOLINIKU KUTSETEGEVUS JA JÄRELEVALVE PATENDIVOLINIKU KUTSETEGEVUSE ÜLE",
+      "section": "7",
+      "title": "§ 7. Kutsesaladuse hoidmine",
+      "content": "(1) Patendivolinik on kohustatud hoidma saladuses õigusteenust osutades temale teatavaks saanud ärisaladust. Nimetatud kohustus ei ole ajaliselt piiratud ja kehtib ka pärast patendivoliniku kutsetegevuse lõppemist.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud kohustus kehtib ka patendivoliniku äriühingu töötaja, samuti avaliku teenistuja suhtes, kellele patendivoliniku kutsesaladus on teatavaks saanud seoses teenistuskohustuste täitmisega.\n(3) Isik või tema õigusjärglane võib kirjaliku nõusolekuga vabastada patendivoliniku kutsesaladuse hoidmise kohustusest.\n(4) Kutsesaladuse hoidmise kohustus ei laiene kulude sissenõudmisele patendivoliniku õigusteenuse eest.\n(5) Kutsesaladuse rikkumiseks ei loeta andmete avaldamist patendivoliniku kutsetegevuse üle riiklikku järelevalvet teostavale ametiisikule."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - PATENDIVOLINIKU KUTSETEGEVUS JA JÄRELEVALVE PATENDIVOLINIKU KUTSETEGEVUSE ÜLE",
+      "section": "8",
+      "title": "§ 8. Patendivoliniku kutsetegevuse viisid",
+      "content": "(1) Patendivolinik võib tegutseda füüsilisest isikust ettevõtjana, patendivoliniku äriühingu kaudu või, patendivoliniku kutset omades, teise isikuga sõlmitud töölepingu alusel.\n(2) Füüsilisest isikust ettevõtjana tegutseva patendivoliniku andmed peavad olema kantud äriregistrisse.\n(3) Füüsilisest isikust ettevõtjana tegutsev patendivolinik või patendivoliniku äriühing peab teatama registrile oma ja äriühingu kontaktandmed. Andmed patendivoliniku äriühingu kaudu tegutsevate patendivolinike kohta edastab registrile äriühing. Patendivoliniku kutset omav teise isikuga sõlmitud töölepingu alusel tegutsev isik peab registrile teatama oma ja tööandja kontaktandmed."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - PATENDIVOLINIKU KUTSETEGEVUS JA JÄRELEVALVE PATENDIVOLINIKU KUTSETEGEVUSE ÜLE",
+      "section": "9",
+      "title": "§ 9. Patendivoliniku äriühing",
+      "content": "(1) Patendivoliniku äriühing võib osutada vaid õigusteenust.\n(2) Patendivoliniku äriühing võib ühineda ainult teise patendivoliniku äriühinguga.\n(3) Täisühingu või usaldusühinguna tegutseva patendivoliniku äriühingu ühinguleping sõlmitakse kirjalikult ja see lisatakse ühingu äriregistrisse kandmise avaldusele.\n(4) Patendivoliniku äriühingu või füüsilisest isikust ettevõtjana tegutseva patendivoliniku ärinimes peab sisalduma sõna «patendibüroo» või «patendivolinik»."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - PATENDIVOLINIKU KUTSETEGEVUS JA JÄRELEVALVE PATENDIVOLINIKU KUTSETEGEVUSE ÜLE",
+      "section": "10",
+      "title": "§ 10. Varaline vastutus",
+      "content": "(1) Õigusteenuse osutamise korral vastutab patendivolinik süüliselt tekitatud varalise kahju eest.\n(2) Kui patendivolinik osutab õigusteenust patendivoliniku äriühingu kaudu, vastutavad patendivolinik ja äriühing käesoleva paragrahvi lõikes 1 nimetatud kahju eest solidaarselt."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - PATENDIVOLINIKU KUTSETEGEVUS JA JÄRELEVALVE PATENDIVOLINIKU KUTSETEGEVUSE ÜLE",
+      "section": "12",
+      "title": "§ 12. Patendivoliniku kohta teabe avaldamine",
+      "content": "Teabe kõikide patendivolinike ja patendivoliniku äriühingute nimede, tegevusvaldkondade ning kontaktandmete kohta avaldab Patendiamet oma ametlikus väljaandes ja veebilehel."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - PATENDIVOLINIKU KUTSE ANDMINE",
+      "section": "14",
+      "title": "§ 14. Patendivoliniku kutse andmise tingimused",
+      "content": "(1) Patendivoliniku kutse võib saada isik, kes:\n1) on teovõimeline;\n2) on Eesti või Euroopa Liidu liikmesriigi kodanik ja kelle püsiv elukoht on Eestis;\n3) omab vähemalt riiklikult tunnustatud magistrikraadi, sellele vastavat kvalifikatsiooni Eesti Vabariigi haridusseaduse § 28 lõike 22 tähenduses või sellele vastavat välisriigi kvalifikatsiooni;\n4) valdab kõnes ja kirjas eesti keelt;\n5) on töötanud enne patendivoliniku kutse taotlemist selles valdkonnas, milles ta kutset taotleb, vähemalt neli aastat viimase kümne aasta jooksul patendivoliniku juures või patendivoliniku äriühingus, välja arvatud käesoleva paragrahvi lõikes 4 nimetatud isik;\n6) valdab patendivoliniku kutsetegevuseks vajalikus ulatuses kahte võõrkeelt, millest vähemalt üks on Euroopa Patendiameti ametlik töökeel;\n7) ei ole kriminaalkorras karistatud tahtlikult toimepandud kuriteo eest.\n(2) Patendivoliniku juures või patendivoliniku äriühingus töötamise aja hulka arvestatakse Patendiametis vastavas valdkonnas töötamise aeg, kuid mitte rohkem kui kaks aastat.\n(3) Patendivoliniku kutse saamiseks käesoleva seaduse § 2 lõike 3 punktis 1 nimetatud valdkonnas peab käesoleva paragrahvi lõike 1 punktis 3 nimetatud haridus olema omandatud loodus- või tehnikateaduste valdkonnas.\n(4) Patendivoliniku kutse võib käesoleva seaduse § 2 lõike 3 punktis 2 nimetatud valdkonnas saada ka vandeadvokaat, kes on enne patendivoliniku kutse taotlemist töötanud vastavas valdkonnas vähemalt neli aastat viimase kümne aasta jooksul advokaadibüroos ning kes vastab käesoleva paragrahvi lõike 1 punktides 1–4, 6 ja 7 sätestatud nõuetele. Advokaadibüroos töötamise aja hulka arvestatakse Patendiametis vastavas valdkonnas töötamise aeg, kuid mitte rohkem kui kaks aastat, samuti patendivoliniku juures või patendivoliniku äriühingus vastavas valdkonnas töötamise aeg.\n(5) Valdkonna eest vastutav minister võib määrusega kehtestada täpsustatud nõuded, millele advokaadibüroos täidetud ülesanded peavad käesoleva paragrahvi lõikes 4 nimetatud tingimuse täitmiseks vastama, ning nendele nõuetele vastavuse tõendamise korra."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - PATENDIVOLINIKU KUTSE ANDMINE",
+      "section": "16",
+      "title": "§ 16. Patendivoliniku kutse taotlemine",
+      "content": "(1) Patendivoliniku kutse taotleja esitab kutsekomisjonile (edaspidi komisjon ):\n1) kirjaliku avalduse;\n2) dokumendid, mis tõendavad käesoleva seaduse § 14 lõike 1 punktides 2 ja 3 ning lõike 1 punktis 5 või lõikes 4 sätestatud nõuetele vastavust;\n3) patendivoliniku juures või advokaadibüroos töötamise ajal tehtud toimingute aruande tema poolt taotletavas kutsetegevuse valdkonnas tehtud toimingute kohta.\n4)\n(2) Patendivoliniku kutse taotlemise avaldus peab sisaldama vähemalt:\n1) ühte käesoleva seaduse § 2 lõikes 3 nimetatud valdkonda, milles tegutsemiseks kutset taotletakse;\n2) kutse taotleja kinnitust selle kohta, et ta vastab käesoleva seaduse § 14 lõike 1 punktides 1, 4, 6 ja 7 sätestatud nõuetele.\n(3) Kui patendivoliniku kutse taotlemise avaldus või aruanne ei vasta käesolevas paragrahvis ja komisjoni töökorras sätestatud nõuetele, teeb komisjon patendivoliniku kutse taotlemise avalduse menetlusse võtmisest keeldumise otsuse ja saadab selle kutse taotlejale viie tööpäeva jooksul otsuse tegemise päevast arvates."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - PATENDIVOLINIKU KUTSE ANDMINE",
+      "section": "17",
+      "title": "§ 17. Patendivoliniku kutseeksam",
+      "content": "(1) Patendivoliniku kutseeksam (edaspidi eksam ) on patendivoliniku kutse taotleja teadmiste kontrollimine patendivoliniku kutsetegevuse valdkonnas, milles ta kutset taotleb.\n(2) Eksam toimub vastavalt vajadusele, kuid mitte harvemini kui üks kord aastas. Teade eksami toimumise kohta avaldatakse vähemalt üks kuu enne eksami toimumist Patendivolinike Koja veebilehel.\n(3) Eksami toimumise aja ja koha määrab komisjon.\n(4) Eksam on kirjalik. Eksam koosneb eksamineeritava teoreetiliste teadmiste kontrollimisest ja tööstusomandialaste kaasusülesannete lahendamisest.\n(5) Eksamitulemust hinnatakse hindega ühest kümneni.\n(6) Eksamihinne on komisjoniliikmete antud hinnete keskmine, mis ümardatakse täisarvuks. Hinne alla kuue loetakse mitterahuldavaks.\n(7) Kui eksamineeritav on saanud mitterahuldava hinde vähemalt ühe eksamiosa eest, ei ole patendivoliniku kutse taotleja eksamit sooritanud.\n(8) Kui patendivoliniku kutse taotleja ei sooritanud eksamit, võib ta eksami uuesti teha kolme kuu pärast.\n(9) Kolmandat või enamat korda võib patendivoliniku kutse taotleja teha eksami viimasest eksamist kolme aasta möödumisel.\n(10) Kutse taotlemise eksami ja korduseksami tasu kehtestab Patendivolinike Koja koosolek. Kutseeksamil ja korduseksamil osalemise tasu ei või olla suurem kui 300 eurot. Korduseksamil osalemine on alati tasuline."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - PATENDIVOLINIKU KUTSE ANDMINE",
+      "section": "18",
+      "title": "§ 18. Otsus",
+      "content": "(1) Komisjon teeb patendivoliniku kutse andmise otsuse, kui patendivoliniku kutse taotleja:\n1) vastab käesoleva seaduse § 14 lõike 1 punktides 2 ja 3 ning lõike 1 punktis 5 või lõikes 4 sätestatud nõuetele;\n2) on kinnitanud oma vastavust käesoleva seaduse § 14 lõike 1 punktides 1, 4, 6 ja 7 sätestatud nõuetele;\n3) on sooritanud eksami.\n(2) Komisjon teeb patendivoliniku kutse andmisest keeldumise otsuse, kui patendivoliniku kutse taotleja ei vasta käesoleva seaduse §-s 14 sätestatud nõuetele või ei soorita eksamit.\n(3) Patendivoliniku kutse andmise otsus jõustub patendivoliniku kutse andmise otsuse registreeringu tegemisel registris.\n(4) Patendivoliniku kutse andmisest keeldumise otsus jõustub selle tegemise päevast.\n(5) Patendivoliniku kutse andmise otsuse ärakiri saadetakse patendivoliniku kutse taotlejale ja registrile kolme tööpäeva jooksul patendivoliniku kutse andmise otsuse tegemise päevast arvates.\n(6) Patendivoliniku kutse andmisest keeldumise otsuse ärakiri saadetakse patendivoliniku kutse taotlejale kolme tööpäeva jooksul patendivoliniku kutse andmisest keeldumise otsuse jõustumise päevast arvates.\n(7) Patendivoliniku kutse taotlemise eksami ja korduseksami osalemistasu ei tagastata."
+    },
+    {
+      "provision_ref": "para18^1",
+      "chapter": "3. peatükk - PATENDIVOLINIKU KUTSE ANDMINE",
+      "section": "18^1",
+      "title": "§ 18^1. Täiendusõpe",
+      "content": "(1) Patendivolinik on kohustatud läbima perioodilise kutsealase täiendusõppe igas patendivoliniku kutsetegevuse valdkonnas, milles tegutsemiseks on talle antud patendivoliniku kutse.\n(2) Täiendusõppe alused, korra ja mahu otsustab Patendivolinike Koja juhatus. Täiendusõppe korraldamisel arvestatakse patendivoliniku spetsialiseerumist kutsetegevuse valdkonnas. Täiendusõppe alused ja korra vaatab juhatus läbi vastavalt vajadusele.\n(3) Täiendusõppe kohustuse täitmist kontrollib kutsekomisjon kord viie aasta jooksul (edaspidi hindamisperiood ).\n(4) Kutsekomisjon saadab vähemalt kolm kuud enne hindamisperioodi lõppemist patendivolinikule teate hindamisperioodi lõppemise kohta ning selgitab, millised andmed, millises kutsevaldkonnas ja milliseks tähtpäevaks tuleb täiendusõppe kohustuse täitmise kohta esitada.\n(5) Patendivolinike Koja juhatus võib vabastada isiku täiendusõppe kohustusest arvestusperioodil, kui ta on kaitsnud patendivoliniku kutsetegevuse valdkonnaga seotud erialal doktori- või magistrikraadi.\n(6) Kui patendivolinik ei ole hindamisperioodi jooksul läbinud täiendusõpet nõutavas mahus või ei ole määratud tähtpäevaks kutsekomisjonile täiendusõppe läbimise kohta andmeid esitanud, suunab kutsekomisjon patendivoliniku kutseeksamile. Eksam tuleb sooritada nelja kuu jooksul eksamile suunamisest arvates. Kui patendivolinik eksamit ei soorita, suunatakse ta korduseksamile. Eksamile või korduseksamile mõjuva põhjuseta ilmumata jätmisel loetakse eksam mittesooritatuks.\n(7) Kui patendivolinik ei ilmu mõjuva põhjuseta korduseksamile või ei soorita eksamit teisel katsel, esitab kutsekomisjon Patendivolinike Koja juhatusele ettepaneku isikult patendivoliniku kutse äravõtmiseks."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - PATENDIVOLINIKU KUTSE ANDMINE",
+      "section": "19",
+      "title": "§ 19. Patendivoliniku kutsetegevuse peatamine ja taastamine",
+      "content": "(1) Patendivoliniku kutsetegevus peatatakse, kui:\n1) patendivolinik ei saa tervislikel või muudel põhjustel täita patendivoliniku kohustusi järjest rohkem kui kuus kuud;\n2) patendivolinik on pankrotivõlgnik;\n3) patendivoliniku äriühing, mille kaudu patendivolinik osutab õigusteenust, on pankrotivõlgnik;\n4) patendivolinik on registrile esitanud peatamise taotluse.\n(2) Käesoleva paragrahvi lõike 1 punktides 2-4 nimetatud juhtudel peab patendivolinik esitama Patendivolinike Kojale patendivoliniku kutsetegevuse peatamise avalduse ja peatamise alust tõendava dokumendi viie tööpäeva jooksul kutsetegevuse peatamise aluse tekkimise päevast arvates. Patendivolinik peab teavitama tema esitatud patendivoliniku kutsetegevuse peatamise avaldusest isikuid, kellele ta osutab õigusteenust, viie tööpäeva jooksul kutsetegevuse peatamise aluse tekkimise päevast arvates.\n(3) Patendivoliniku kutsetegevuse peatamise otsuse teeb Patendivolinike Koda viie tööpäeva jooksul patendivoliniku kutsetegevuse peatamise avalduse esitamise päevast arvates või 10 tööpäeva jooksul patendivoliniku kutsetegevuse peatamise aluse tekkimise päevast arvates.\n(4) Patendivoliniku kutsetegevuse peatamise otsuse ärakiri saadetakse patendivolinikule ja registrile kolme tööpäeva jooksul patendivoliniku kutsetegevuse peatamise otsuse tegemise päevast arvates.\n(5) Patendivoliniku kutsetegevuse taastamiseks esitab patendivolinik Patendivolinike Kojale avalduse ja dokumendid, mis tõendavad, et kutsetegevuse peatamise alus on ära langenud.\n(6) Patendivolinike Koda teeb avalduse alusel patendivoliniku kutsetegevuse taastamise või taastamisest keeldumise otsuse.\n(6^1) Kutsetegevuse peatamine ei vabasta isikut käesoleva seaduse §-s 18^1 sätestatud täiendusõppe kohustusest, välja arvatud isiku astumise korral avalikku teenistusse, valimisel Riigikogu või Euroopa Parlamendi liikmeks või Vabariigi Presidendiks või nimetamisel Vabariigi Valitsuse või Euroopa Komisjoni liikmeks. Lisaks on täiendusõppe kohustusest vabastatud isik, kelle kutsetegevus on peatatud tervise tõttu või rasedus- ja sünnituspuhkuse ning lapsehoolduspuhkuse ajaks.\n(7) Kui patendivoliniku kutse on peatatud enamaks kui viis aastat, taastatakse patendivoliniku kutse pärast käesoleva seaduse §-s 17 nimetatud eksami sooritamist."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - PATENDIVOLINIKU KUTSE ANDMINE",
+      "section": "20",
+      "title": "§ 20. Patendivoliniku kutse äravõtmine",
+      "content": "(1) Patendivoliniku kutse võetakse ära, kui patendivolinik:\n1) on patendivoliniku kutsetegevuses rikkunud seadust;\n2) ei ole korduvalt täitnud käesoleva seaduse § 5 lõikes 1 sätestatud kohustusi;\n2^1) kutsekomisjon on teinud käesoleva seaduse § 18^1 lõikes 7 nimetatud ettepaneku;\n3) ei vasta käesoleva seaduse § 14 lõike 1 punktides 1–4, 6 ja 7 sätestatud nõuetele;\n4) esitab patendivoliniku kutsest loobumise avalduse.\n(2) Patendivolinike Koda teeb patendivoliniku kutse äravõtmise otsuse 10 tööpäeva jooksul patendivoliniku kutse äravõtmise alusest teada saamise päevast arvates.\n(3) Patendivoliniku kutse äravõtmise otsus jõustub patendivoliniku kutse äravõtmise otsuse registreeringu tegemisel registris.\n(4) Patendivoliniku kutse äravõtmise otsuse ärakiri saadetakse patendivolinikule ja registrile kolme tööpäeva jooksul patendivoliniku kutse äravõtmise otsuse tegemise päevast arvates."
+    },
+    {
+      "provision_ref": "para20^1",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^1",
+      "title": "§ 20^1. Koja õiguslik seisund",
+      "content": "(1) Patendivolinike Koda (edaspidi koda ) on avalik-õiguslik juriidiline isik, mille liikmeteks on kõik patendivoliniku kutset omavad isikud (edaspidi patendivolinik ).\n(2) Koda registreeritakse riigi- ja kohaliku omavalitsuse asutuste riiklikus registris."
+    },
+    {
+      "provision_ref": "para20^2",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^2",
+      "title": "§ 20^2. Koja põhikiri",
+      "content": "(1) Koja põhikiri võetakse vastu ja seda muudetakse koja koosoleku otsusega. Põhikirja või selle muutmise eelnõu kooskõlastatakse enne vastuvõtmist Justiits- ja Digiministeeriumiga.\n(2) Koja põhikirjas sätestatakse koja organite töökorraldus, organite ja koja liikmete vahelised õigussuhted, koja asjaajamise ja majandamise kord ning reguleeritakse teisi koja tegevusega seonduvaid küsimusi."
+    },
+    {
+      "provision_ref": "para20^3",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^3",
+      "title": "§ 20^3. Koja tegevuse õiguspärasuse tagamine",
+      "content": "(1) Haldusjärelevalvet koja tegevuse õiguspärasuse üle teostab Justiits- ja Digiministeerium, kes võib nõuda koja juhatuselt haldusjärelevalve teostamiseks vajalike andmete ja dokumentide esitamist ning esitada koja organi akti või toimingu peale halduskohtule protesti.\n(2) Koda esitab Justiits- ja Digiministeeriumile hiljemalt iga aasta märtsis aastaaruande koja tegevuse kohta lõppenud aastal.\n(3) Kui koda ei täida talle seadusega pandud kohustusi, võib Justiits- ja Digiministeerium teha kojale ettekirjutuse. Ettekirjutuse täitmise tagamiseks võib Justiits- ja Digiministeerium määrata kojale sunniraha kuni 6400 eurot asendustäitmise ja sunniraha seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para20^4",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^4",
+      "title": "§ 20^4. Koja vara",
+      "content": "(1) Koja vara moodustub:\n1) patendivolinike kohustuslikest liikmemaksudest;\n2) aukohtu otsuse alusel laekuvatest trahvidest;\n3) koja vahendite paigutamisest saadavast tulust;\n4) annetustest;\n5) muudest laekumistest.\n(2) Justiits- ja Digiministeeriumi, koja koosoleku või revisjonikomisjoni nõudel määrab juhatus koja majandustegevuse või majandustegevuse aastaaruande audiitorkontrolli. Audiitorkontrolli teostab koja koosoleku nimetatud audiitor."
+    },
+    {
+      "provision_ref": "para20^5",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^5",
+      "title": "§ 20^5. Koja eelarve",
+      "content": "Koja eelarveaasta on kalendriaasta. Koja eelarve kinnitab juhatus hiljemalt eelarveaastale eelneva aasta detsembris."
+    },
+    {
+      "provision_ref": "para20^6",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^6",
+      "title": "§ 20^6. Koja majandusaasta",
+      "content": "Koja majandusaasta on kalendriaasta."
+    },
+    {
+      "provision_ref": "para20^7",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^7",
+      "title": "§ 20^7. Koja liikmemaks",
+      "content": "(1) Koja liikmemaksu miinimummäära kehtestab koja koosolek.\n(2) Patendivoliniku liikmemaksu suuruse ja selle arvestamise alused kehtestab koja juhatus, arvestades liikmemaksu miinimummäära. Liikmemaks tuleb kehtestada suuruses, mis tagab koja piisava rahastatuse õigusaktidega seatud eesmärkide saavutamiseks ning ülesannete täitmiseks.\n(3) Põhjendatud taotluse alusel võib koja juhatus vabastada patendivoliniku liikmemaksu tasumise kohustusest või vähendada liikmemaksu suurust. Liikmemaksu tasumisest võib vabastada või seda vähendada kuni kolmeks aastaks."
+    },
+    {
+      "provision_ref": "para20^8",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^8",
+      "title": "§ 20^8. Hea kutsetava",
+      "content": "Koja koosolek kehtestab hea kutsetava, mis on patendivolinikele kohustuslik."
+    },
+    {
+      "provision_ref": "para20^9",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^9",
+      "title": "§ 20^9. Õigus kasutada riigivappi sisaldavat tähist",
+      "content": "Kojal on Eesti riigivapi kujutisega pitsat. Eesti riigivapi kujutisega pitserit kasutatakse riigivapi seadusega kehtestatud korras."
+    },
+    {
+      "provision_ref": "para20^10",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^10",
+      "title": "§ 20^10. Koja veebileht",
+      "content": "Koda teeb oma veebilehel kättesaadavaks avalikkusele vajaliku teabe patendivolinike kohta, eelkõige büroode aadressid, vastuvõtuajad ja sidevahendite numbrid. Veebilehel avaldatakse koja põhikiri, hea kutsetava ning teised avalikud dokumendid."
+    },
+    {
+      "provision_ref": "para20^11",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^11",
+      "title": "§ 20^11. Koja ülesanded",
+      "content": "Koja ülesanded on muu hulgas:\n1) patendivolinike kutsetegevuse edendamine;\n2) hea kutsetava väljatöötamine ja avaldamine ning järelevalve selle järgimise üle;\n3) patendivolinike nimekirja pidamine;\n4) patendivolinike täiendusõppe korraldamine;\n5) järelevalve patendivolinike kutsetegevuse ning väärika käitumise üle;\n6) soovituste koostamine patendivolinike kutsepraktika ühtlustamiseks;\n7) patendivolinike väljaõppe korraldamine;\n8) patendivoliniku eksami läbiviimine;\n9) patendivolinike täiendusõppe kohustuse täitmise kontrollimine;\n10) patendivolinike kohta avalikkusele vajaliku info kättesaadavuse tagamine koja veebilehel;\n11) välissuhtlusega seotud küsimuste korraldamine ning koja liikmete esindamine kodu- ja välismaiste institutsioonide juures;\n12) patendivolinike tegevuse kohta statistiliste aruannete koostamine;\n13)\n14) koja vara valitsemine."
+    },
+    {
+      "provision_ref": "para20^12",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^12",
+      "title": "§ 20^12. Koja organid",
+      "content": "(1) Koja organid on:\n1) koosolek;\n2) juhatus;\n3) kutsekomisjon;\n4) aukohus;\n5) revisjonikomisjon.\n(2) Koja juhatusel on õigus moodustada komisjone koja pädevusse kuuluvate ülesannete täitmiseks."
+    },
+    {
+      "provision_ref": "para20^13",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^13",
+      "title": "§ 20^13. Koja koosolek",
+      "content": "(1) Koja korralised koosolekud toimuvad üks kord aastas.\n(2) Erakorralised koosolekud kutsutakse kokku:\n1) koja juhatuse algatusel;\n2) vähemalt 1/5 koja liikmete nõudel.\n(3) Koosoleku kutsub kokku koja juhatus, teatades oma liikmetele koosoleku aja, koha ja päevakorra vähemalt kaks nädalat ette.\n(4) Koosolekust võtab koja liige osa isiklikult või esindaja kaudu. Esindajaks võib olla teine patendivolinik volikirja alusel. Üks patendivolinik ei või samal koosolekul esindada rohkem kui kahte patendivolinikku.\n(5) Koosolek on otsustusvõimeline, kui sellel on esindatud vähemalt pool koja liikmete üldarvust. Koosoleku otsused võetakse vastu lihthäälteenamusega."
+    },
+    {
+      "provision_ref": "para20^14",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^14",
+      "title": "§ 20^14. Koja koosoleku pädevus",
+      "content": "(1) Koja koosolek võib oma päevakorda võtta ja otsustada kõiki koja pädevusse kuuluvaid küsimusi.\n(2) Ainult koosolek võib otsustada järgmisi küsimusi:\n1) põhikirja vastuvõtmine;\n2) juhatuse valimine;\n3) aastaeelarve kinnitamine;\n4) patendivolinike poolt kojale tehtavate kohustuslike maksete suuruse kehtestamine;\n5) majandusaasta aruande kinnitamine;\n6) kutsekomisjoni patendivolinikest liikmete valimine;\n7) revisjonikomisjoni valimine;\n8) aukohtu valimine;\n9) audiitori nimetamine.\n(3) Koosolek võib anda juhatusele õiguse teha mõjuvatel põhjustel koja eelarves muudatusi, mis esitatakse järgmisele koosolekule kinnitamiseks."
+    },
+    {
+      "provision_ref": "para20^15",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^15",
+      "title": "§ 20^15. Otsuse vastuvõtmine koosolekut kokku kutsumata",
+      "content": "(1) Patendivolinikel on juhatuse ettepanekul õigus vastu võtta otsuseid koosoleku pädevuses olevates küsimustes koosolekut kokku kutsumata. Sellisel juhul toimub otsustamine elektrooniliselt.\n(2) Patendivolinik ei või ilma mõjuva põhjuseta keelduda käesoleva paragrahvi lõikes 1 sätestatud korras küsimuste otsustamises osalemast.\n(3) Kui otsus tehakse käesoleva paragrahvi lõikes 1 sätestatud korras, on otsus vastu võetud, kui selle poolt on antud üle poole patendivolinike häältest, kui seaduses ei ole ette nähtud suurema häälteenamuse nõuet.\n(4) Käesoleva paragrahvi lõikes 1 sätestatud korras ei saa valida koja organeid.\n(5) Käesoleva paragrahvi lõikes 1 sätestatud korras küsimuste otsustamise täpne kord sätestatakse koja põhikirjas."
+    },
+    {
+      "provision_ref": "para20^16",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^16",
+      "title": "§ 20^16. Koja organite valimine",
+      "content": "(1) Koja organid valitakse koja koosolekul järgmiste põhimõtete kohaselt:\n1) iga organi liikmed valitakse eraldi;\n2) hääletamine on salajane;\n3) valituks osutub rohkem hääli saanud kandidaat, kui käesolevas seaduses ei ole sätestatud teistsugust hääletamise nõuet.\n(2) Koja juhatust valides valitakse kõigepealt koja esimees ja aseesimees ning seejärel ülejäänud juhatuse liikmed.\n(3) Koja esimehe valimisel osutub valituks kandidaat, kelle poolt on antud üle poole hääletamisest osavõtnute häältest. Kui ükski kandidaat ei ole saanud vajalikku häälteenamust, korraldatakse valimiste teine voor kahe enim hääli saanud kandidaadi vahel. Selles voorus teisest kandidaadist rohkem hääli saanud kandidaat osutub valituks. Häälte võrdse jagunemise korral heidetakse liisku."
+    },
+    {
+      "provision_ref": "para20^17",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^17",
+      "title": "§ 20^17. Koja juhatuse koosseis ja istungid",
+      "content": "(1) Juhatus on koja alaliselt tegutsev juhtorgan. Juhatuses on vähemalt kolm liiget. Koja juhatus koosneb esimehest, aseesimehest ning juhatuse liikmetest. Esimees ja aseesimees valitakse patendivolinikest juhatuse liikmete hulgast.\n(2) Valdkonna eest vastutav minister võib nimetada juhatuse liikmeks Justiits- ja Digiministeeriumi esindaja.\n(3) Juhatus valitakse kolmeks aastaks.\n(4) Juhatuse istungi kutsub kokku koja esimees."
+    },
+    {
+      "provision_ref": "para20^18",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^18",
+      "title": "§ 20^18. Koja juhatuse ja esimehe pädevus ning andmete saladuses hoidmise kohustus",
+      "content": "(1) Koja juhatus täidab koja koosolekute vahelisel ajal kõiki koja ülesandeid, mis ei kuulu revisjonikomisjoni, aukohtu või eranditult koja koosoleku pädevusse. Juhatus tagab koja põhikirja täitmise ning koja koosolekute otsuste elluviimise.\n(2) Koja esimees esindab koda kõigis õigustoimingutes.\n(3) Koja juhatusse, kutsekomisjoni, revisjonikomisjoni ja aukohtusse kuuluvad patendivolinikud ning koja töötajad ei tohi avaldada neile nende tegevusega teatavaks saanud andmeid patendivoliniku kutsetegevuse sisu kohta. Nad võivad neid andmeid kohtus avaldada ainult juhatuse loal. Andmete saladuses hoidmise kohustus säilib ka pärast koja organi koosseisust või koja teenistusest lahkumist."
+    },
+    {
+      "provision_ref": "para20^19",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^19",
+      "title": "§ 20^19. Kutsekomisjon",
+      "content": "(1) Kutsekomisjon korraldab ja viib läbi patendivoliniku kutseeksami, kontrollib patendivoliniku kutse taotleja vastamist seaduses sätestatud tingimustele ning patendivoliniku täiendusõppe kohustuse täitmist.\n(2) Kutsekomisjon moodustatakse vähemalt kolmeliikmelisena viieks aastaks. Juhatus võib nimetada kutsekomisjoni liikmeks isiku, kes ei ole koja liige. Kutsekomisjoni esimehe valib komisjon patendivolinikest liikmete hulgast.\n(3) Kutsekomisjon on otsustusvõimeline, kui otsuse tegemisel osaleb üle poole komisjoni liikmetest. Kutsekomisjoni koosolekut juhib esimees. Otsuste vastuvõtmisel häälte võrdse jagunemise korral on otsustav kutsekomisjoni esimehe hääl.\n(4) Kutsekomisjoni töökord nähakse ette koja põhikirjas."
+    },
+    {
+      "provision_ref": "para20^20",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^20",
+      "title": "§ 20^20. Revisjonikomisjon",
+      "content": "(1) Revisjonikomisjon revideerib koja majandustegevust ja asjaajamist omal algatusel või vähemalt 1/5 patendivolinike nõudel.\n(2) Juhatus esitab koja majandusaasta aruande enne koja koosolekule kinnitamiseks esitamist revisjonikomisjonile arvamuse avaldamiseks.\n(3) Revisjonikomisjon valitakse vähemalt kolmeliikmelisena kuni kolmeks aastaks. Revisjonikomisjoni liige ei või kuuluda juhatusse ega aukohtusse.\n(4) Revisjonikomisjon võtab otsuseid vastu liikmete poolthäälteenamusega."
+    },
+    {
+      "provision_ref": "para20^21",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^21",
+      "title": "§ 20^21. Aukohus",
+      "content": "(1) Koja aukohus võib lahendada:\n1) koja otsustest ning heast kutsetavast tulenevate kohustuste süülise täitmata jätmise või mittenõuetekohase täitmise süütegusid;\n2) patendivoliniku käitumise kohta esitatud kaebusi;\n3) patendivoliniku tegevuse kohta esitatud kaebusi või distsiplinaarasju, samuti asju, mille on arutamiseks andnud Justiits- ja Digiministeerium.\n(1^1) Koja aukohus ei lahenda käesoleva paragrahvi lõikes 1 nimetatud asju advokaadi suhtes.\n(2) Aukohus moodustatakse vähemalt kolmeliikmelisena viieks aastaks. Aukohtu liikmed valitakse patendivolinike hulgast. Valdkonna eest vastutav minister võib nimetada aukohtu liikmeks Justiits- ja Digiministeeriumi esindaja. Aukohtu liikmed valivad aukohtu esimehe patendivolinikest liikmete seast. Aukohtu patendivolinikust liige ei või kuuluda juhatusse ega revisjonikomisjoni.\n(3) Aukohus võtab otsuse vastu asja arutamisel osalenud liikmete häälteenamusega."
+    },
+    {
+      "provision_ref": "para20^22",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^22",
+      "title": "§ 20^22. Aukohtumenetluse algatamine",
+      "content": "(1) Aukohtumenetluse algatamiseks võib aukohtu või juhatuse poole pöörduda huvitatud isik. Taotlus aukohtumenetluse algatamiseks tuleb esitada kuue kuu jooksul arvates päevast, millal taotluse esitaja sai teada või oleks pidanud teada saama taotluse aluseks olevatest asjaoludest.\n(2) Aukohus algatab aukohtumenetluse huvitatud isiku, Justiits- ja Digiministeeriumi, omal või koja muu organi algatusel, kui on alust arvata, et patendivolinik on toime pannud distsiplinaarsüüteo.\n(3) Aukohtumenetluse algatamise otsustab aukohus ühe kuu jooksul arvates päevast, millal ta sai teada distsiplinaarsüüteo tunnustele vastava teo toimepanemisest. Aukohus edastab aukohtumenetluse algatamise või algatamata jätmise otsuse viivitamata koja juhatusele ja Justiits- ja Digiministeeriumile.\n(4) Justiits- ja Digiministeeriumi poolt esitatud kaebuse edastamisega aukohtule loetakse aukohtumenetlus algatatuks."
+    },
+    {
+      "provision_ref": "para20^23",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^23",
+      "title": "§ 20^23. Aukohtumenetlus",
+      "content": "(1) Aukohtumenetlus on patendivolinikule kohustuslik.\n(2) Patendivolinikul on õigus tutvuda asja materjalidega, anda aukohtule seletusi, esitada vastuväiteid, põhjendusi ja kaalutlusi kõigi aukohtumenetluses kerkinud küsimuste kohta, esitada taandust aukohtu liikme või protokollija vastu, kui asjaolud tekitavad kahtlust tema erapooletuses, esitada taotlusi ja tõendeid ning võtta osa tõendite vaatlusest ja uurimisest, esitada istungile kutsutud isikutele küsimusi ning saada aukohtu otsuse ärakiri. Kui patendivolinik jätab mõjuva põhjuseta aukohtu istungile ilmumata, võib asja arutada tema osavõtuta.\n(3) Aukohus võib asja lahendada kirjalikus menetluses, kui patendivolinik ei ole taotlenud asja arutamist suulises menetluses.\n(4) Aukohus nõuab asja arutamisel asjaosalistelt selgitusi. Aukohus on kohustatud välja selgitama menetletavas asjas olulised asjaolud ja vajaduse korral koguma selleks tõendeid omal algatusel. Aukohtu nõudel on patendivolinik kohustatud esitama aukohtule enda käsutuses olevad tõendid. Aukohus võib taotleda halduskohtult abi tõendite kogumiseks või nende tagamiseks. Halduskohus lahendab aukohtu taotluse halduskohtumenetluse seadustiku haldustoiminguks loa andmise sätete järgi määrusega.\n(5) Aukohus lahendab distsiplinaarsüüteoasja ja teeb põhjendatud otsuse kuue kuu jooksul aukohtumenetluse algatamisest arvates. Aukohus teeb põhjendatud otsuse ka juhul, kui aukohus ei tuvasta distsiplinaarsüütegu. Mõjuval põhjusel võib aukohus pikendada distsiplinaarsüüteoasja arutamise kestust kuni kolme kuu võrra. Distsiplinaarsüüteo menetlemise aja hulka ei arvestata aega, millal distsiplinaarsüüteosasja ei ole võimalik arutada asjaolude tõttu, mis olenevad patendivolinikust, kelle suhtes aukohtumenetlus on algatatud.\n(6) Aukohtumenetluse täpne kord sätestatakse koja põhikirjas. Aukohtumenetlusele kohaldatakse haldusmenetluse seaduses sätestatut ulatuses, mida käesolev seadus ja koja põhikiri ei reguleeri."
+    },
+    {
+      "provision_ref": "para20^24",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^24",
+      "title": "§ 20^24. Aukohtu otsuse vaidlustamine",
+      "content": "(1) Huvitatud isik võib esitada aukohtu otsuse peale kaebuse halduskohtule 30 päeva jooksul otsuse kättesaamisest arvates.\n(2) Justiits- ja Digiministeerium võib esitada aukohtu otsuse peale halduskohtule protesti 30 päeva jooksul aukohtu otsuse kättesaamisest arvates.\n(3) Aukohus edastab oma otsuse viivitamata Justiits- ja Digiministeeriumile. Justiits- ja Digiministeeriumil on õigus nõuda aukohtumenetluse asjades tutvumiseks ka muid aukohtumenetluse dokumente."
+    },
+    {
+      "provision_ref": "para20^25",
+      "chapter": "3. peatükk - PATENDIVOLINIKE KODA",
+      "section": "20^25",
+      "title": "§ 20^25. Distsiplinaarvastutus",
+      "content": "(1) Patendivoliniku või patendivoliniku äriühingu tegevust reguleerivate õigusaktide või hea kutsetava nõuete eiramise eest võib aukohus määrata patendivolinikule distsiplinaarkaristuse, kui distsiplinaarsüütegu ei ole aukohtumenetluse algatamise ajaks aegunud.\n(2) Distsiplinaarkaristused on:\n1) noomitus;\n2) rahatrahv koja kasuks 64 kuni 16 000 eurot;\n3) kutsetegevuse peatamine kuni üheks aastaks;\n4) kojast väljaheitmine;\n5) patendivolinikuna tegutsemise õiguse äravõtmine kuni viieks aastaks.\n(3) Distsiplinaarkaristusena mõistetud kutsetegevuse peatamise aja vältel on patendivolinikul keelatud õigusteenust osutada. Käesolevas lõikes nimetatud keelu rikkumise korral heidetakse patendivolinik kojast välja.\n(4) Distsiplinaarkaristust määrates arvestab aukohus muu hulgas distsiplinaarsüüteo raskust, menetletava asja olemust ja patendivoliniku varasemat karistatust.\n(5) Ühe distsiplinaarsüüteo eest võib aukohus määrata ühe distsiplinaarkaristuse. Distsiplinaarkaristust määrates ei arvestata sama teo eest määratud väärteo- või kriminaalkaristust. Kestev distsiplinaarsüütegu loetakse uueks distsiplinaarsüüteoks, kui patendivolinik ei lõpeta rikkumist pärast aukohtu otsuse teatavaks tegemist.\n(6) Distsiplinaarkaristust ei või määrata, kui distsiplinaarsüütegu on aegunud. Distsiplinaarsüütegu aegub kolme aasta möödumisel selle toimepanemisest. Distsiplinaarsüüteo aegumine algab ajast, kui patendivolinik lõpetab teo toimepanemise. Distsiplinaarsüüteo aegumine peatub distsiplinaarasja menetluse ajal aukohtus ja kohtus, sealhulgas kaebuse ning apellatsioon- ja kassatsioonkaebuse esitamise tähtajal. Aukohtul on distsiplinaarsüüteo aegumisest hoolimata õigus distsiplinaarasja menetleda.\n(7) Distsiplinaarkaristusena määratud rahatrahv tuleb tasuda kolme kuu jooksul selle määramisest arvates. Rahatrahvi määramise otsuses võib ette näha, et trahv tasutakse kindlaksmääratud tähtpäevadel osade kaupa ühe aasta jooksul.\n(8) Otsus distsiplinaarkaristusena määratud rahatrahvi kohta on täitedokumendiks täitemenetluse seadustiku § 2 lõike 1 punkti 21 tähenduses.\n(9) Distsiplinaarkaristus kustub kolme aasta möödumisel karistuse määramise otsuse jõustumisest. Käesoleva paragrahvi lõike 2 punktis 4 nimetatud distsiplinaarkaristus ei kustu."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - RIIKLIK PATENDIVOLINIKE REGISTER",
+      "section": "21",
+      "title": "§ 21. Registri asutamine",
+      "content": "(1) Registri asutab Vabariigi Valitsus.\n(2) Registri põhimääruse kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - RIIKLIK PATENDIVOLINIKE REGISTER",
+      "section": "22",
+      "title": "§ 22. Registri pidamine",
+      "content": "(1) Registri vastutav töötleja on Patendiamet.\n(2) Registrikanded on:\n1) registreeringu andmete kanne,\n2) registreeringu andmete muutmise kanne ja\n3) registreeringu kustutamise kanne.\n(3) Registrikanne tehakse komisjoni, valdkonna eest vastutava ministri või tema volitatud ametniku või koja või kohtu otsuse alusel viie tööpäeva jooksul registrikande aluseks olevate dokumentide registrisse jõudmise päevast arvates.\n(4) Registrikanne jõustub selle tegemise päeval.\n(5) Registrikande teade avaldatakse Patendiameti ametlikus väljaandes."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - RIIKLIK PATENDIVOLINIKE REGISTER",
+      "section": "23",
+      "title": "§ 23. Registri avalikkus ja teabe väljastamine",
+      "content": "(1) Register on avalik. Igaühel on õigus tutvuda registrikannetega ja saada neist ärakirju.\n(2) Registrist kirjaliku teabe väljastamise eest võetakse riigilõivu, välja arvatud teabe väljastamise eest järelevalveõiguslikule ametiisikule või kohtule."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - RIIKLIK PATENDIVOLINIKE REGISTER",
+      "section": "24",
+      "title": "§ 24. Registreeringu andmed",
+      "content": "Registreeringu andmed on:\n1) patendivoliniku registrinumber;\n2) patendivoliniku nimi, isikukood ja kontaktandmed;\n3) andmed patendivoliniku hariduse kohta;\n4) patendivoliniku kutsetegevuse valdkond;\n5) võõrkeeled, mida patendivolinik valdab kutsetegevuseks vajalikus ulatuses;\n6) patendivoliniku kutse andmise otsuse tegemise päev;\n7) patendivoliniku või patendivoliniku äriühingu, mille kaudu patendivolinik tegutseb, äriregistri registrikaardi andmed, tegevuskoha aadress ja muud kontaktandmed;\n8) andmed patendivoliniku kutsetegevuse peatamise, patendivoliniku kutsetegevuse taastamise, patendivoliniku kutsetegevuse taastamisest keeldumise ja patendivoliniku kutse äravõtmise otsuse kohta."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "5. peatükk - LÕPPSÄTTED",
+      "section": "25",
+      "title": "§ 25. Seaduse kohaldamine enne käesoleva seaduse jõustumist registrisse kantud patendivolinike suhtes",
+      "content": "Eesti Vabariigi riiklikku patendivolinike registrisse kantud patendivolinikud registreeritakse ümber käesoleva seaduse alusel asutatud registris samades tegevusvaldkondades, milles neil oli õigus tegutseda enne käesoleva seaduse jõustumist."
+    },
+    {
+      "provision_ref": "para25^1",
+      "chapter": "5. peatükk - LÕPPSÄTTED",
+      "section": "25^1",
+      "title": "§ 25^1. Patendivolinikule esitatavate nõuete erisused",
+      "content": "Patendivolinikud, kellele on patendivoliniku kutse antud enne 2018. aasta 1. novembrit, ei pea vastama käesoleva seaduse § 14 lõike 1 punktis 3 ja lõikes 3 sätestatud haridusnõudele."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "5. peatükk - LÕPPSÄTTED",
+      "section": "26",
+      "title": "§ 26. Riigilõiv",
+      "content": "Käesolevas seaduses ettenähtud toimingute sooritamise eest tasutakse riigilõiv riigilõivuseaduses sätestatud määra järgi."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "5. peatükk - LÕPPSÄTTED",
+      "section": "27",
+      "title": "§ 27.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "5. peatükk - LÕPPSÄTTED",
+      "section": "33",
+      "title": "§ 33.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para33^1",
+      "chapter": "5. peatükk - LÕPPSÄTTED",
+      "section": "33^1",
+      "title": "§ 33^1. Koja liikmeks saamise tingimused",
+      "content": "(1) Patendivolinik, kes soovib jätkata tegevust patendivolinikuna, esitab 2019. aasta 28. veebruariks Justiitsministeeriumile koja liikmeks astumise avalduse. Kui patendivolinik ei esita tähtaegselt avaldust koja liikmeks astumiseks, võtab justiitsminister isikult patendivoliniku kutse ära.\n(2) Patendivolinik, kelle kutse on peatatud, saab käesoleva paragrahvi lõikes 1 nimetatud avalduse esitada, kui ta vastab 2018. aasta 1. novembri seisuga käesoleva seaduse § 19 lõikes 7 sätestatud tingimustele."
+    },
+    {
+      "provision_ref": "para33^2",
+      "chapter": "5. peatükk - LÕPPSÄTTED",
+      "section": "33^2",
+      "title": "§ 33^2. Koja esimese koosoleku kokkukutsumine",
+      "content": "Justiitsminister kutsub kokku koja esimese koosoleku. Koosolek valib koja organid, kehtestab liikmemaksu miinimummäära ja võtab vastu koja põhikirja. Kuni esimehe valimiseni juhib koda justiitsministri määratud isik."
+    },
+    {
+      "provision_ref": "para33^3",
+      "chapter": "5. peatükk - LÕPPSÄTTED",
+      "section": "33^3",
+      "title": "§ 33^3. Koja põhikiri",
+      "content": "Koja esimene koosolek võtab vastu Justiitsministeeriumiga eelnevalt kooskõlastatud põhikirja. Kui esimene koosolek põhikirja vastu ei võta, kutsutakse kokku erakorraline koosolek kahe kuu jooksul esimesest koosolekust arvates. Kui erakorraline koosolek ei võta vastu Justiitsministeeriumiga eelnevalt kooskõlastatud põhikirja, siis kehtestab koja põhikirja valdkonna eest vastutav minister määrusega. Valdkonna eest vastutava ministri määrus tunnistatakse kehtetuks, kui koosolek võtab vastu eelnevalt Justiitsministeeriumiga kooskõlastatud põhikirja, mis hakkab kehtima valdkonna eest vastutava ministri määruse kehtetuks tunnistamisest arvates."
+    },
+    {
+      "provision_ref": "para33^4",
+      "chapter": "5. peatükk - LÕPPSÄTTED",
+      "section": "33^4",
+      "title": "§ 33^4. Täiendusõppe hindamisperiood",
+      "content": "Täiendusõppe kohustuse täitmise esimese hindamisperioodi alguseks loetakse patendivoliniku vastava kutsevaldkonna registris registreerimise aeg. Esimene täiendusõppe aruanne tuleb esitada, kui saabub esimene viieaastase intervalliga arvutatud hindamisperiood pärast koja loomist, kuid mitte varem kui kolme aasta möödumisel koja loomisest."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "5. peatükk - LÕPPSÄTTED",
+      "section": "34",
+      "title": "§ 34. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub ühe kuu möödumisel Riigi Teatajas avaldamise päevast."
+    }
+  ],
+  "definitions": []
+}

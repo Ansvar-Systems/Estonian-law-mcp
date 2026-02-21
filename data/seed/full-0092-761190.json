@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-761190",
+  "type": "statute",
+  "title": "Balti Pataljoniga seotud välislepingute lõpetamise seadus",
+  "title_en": "Balti Pataljoniga seotud välislepingute lõpetamise seadus",
+  "short_name": "ee-law-761190",
+  "status": "in_force",
+  "issued_date": "2004-05-12",
+  "in_force_date": "2004-06-05",
+  "url": "https://www.riigiteataja.ee/akt/761190.xml",
+  "description": "Official consolidated statute text (Balti Pataljoniga seotud välislepingute lõpetamise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Lõpetada Eesti Vabariigi, Läti Vabariigi ja Leedu Vabariigi vaheline ühise rahuvalveüksuse loomise ja formeerimise kokkulepe (RT II 1994, 39, 147), mis kirjutati alla 1994. aasta 13. septembril Riias ja mille Eesti Vabariik ratifitseeris 1994. aasta 7. detsembril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Lõpetada Eesti Vabariigi valitsuse, Läti Vabariigi valitsuse ja Leedu Vabariigi valitsuse vaheline leping Balti Pataljoni kohta (RT II 1998, 32, 52), mis kirjutati alla 1997. aasta 10. detsembril Tallinnas ja mille Eesti Vabariik ratifitseeris 1998. aasta 1. juunil."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Lõpetada Eesti Vabariigi valitsuse, Läti Vabariigi valitsuse ja Leedu Vabariigi valitsuse vaheline protokoll Balti Pataljoni staapide ja Balti Pataljoni isikkoosseisu staatuse kohta (RT II 1998, 39, 84), mis kirjutati alla 1998. aastal 16. aprillil Riias ja mille Eesti Vabariik ratifitseeris 1998. aasta 14. oktoobril. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

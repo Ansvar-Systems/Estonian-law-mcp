@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-210122020005",
+  "type": "statute",
+  "title": "1974. aasta rahvusvahelise konventsiooni inimelude ohutusest merel 1988. aasta protokolliga ühinemise seadus",
+  "title_en": "1974. aasta rahvusvahelise konventsiooni inimelude ohutusest merel 1988. aasta protokolliga ühinemise seadus",
+  "short_name": "ee-law-210122020005",
+  "status": "in_force",
+  "issued_date": "2003-06-11",
+  "in_force_date": "2021-01-01",
+  "url": "https://www.riigiteataja.ee/akt/210122020005.xml",
+  "description": "Official consolidated statute text (1974. aasta rahvusvahelise konventsiooni inimelude ohutusest merel 1988. aasta protokolliga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud 1974. aasta rahvusvahelise konventsiooni inimelude ohutusest merel 1988. aasta protokolliga, mis on koostatud 1988. aasta 11. novembril Londonis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Määrata ülalnimetatud protokolli artikli III alapunktide kohta Eesti-poolseks informatsiooni edastajaks Transpordiamet."
+    }
+  ],
+  "definitions": []
+}

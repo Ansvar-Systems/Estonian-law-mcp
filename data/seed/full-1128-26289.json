@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-26289",
+  "type": "statute",
+  "title": "Rahvusvahelise uute taimesortide kaitse konventsiooniga ühinemise seadus",
+  "title_en": "Rahvusvahelise uute taimesortide kaitse konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-26289",
+  "status": "in_force",
+  "issued_date": "2000-03-15",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/26289.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise uute taimesortide kaitse konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud rahvusvahelise uute taimesortide kaitse konventsiooniga, mis on vastu võetud 1961. aasta 2. detsembril ning muudetud 1972. aasta 10. novembril, 1978. aasta 2. oktoobril ja 1991. aasta 19. märtsil Genfis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühineda Rahvusvahelise Uute Taimesortide Kaitse Liiduga. Riigikogu esimees Toomas SAVI Õiend Akt tehniliselt korrastatud, juurdelisatud konventsioon asendatud seosega."
+    }
+  ],
+  "definitions": []
+}

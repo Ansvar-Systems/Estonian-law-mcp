@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-108072025016",
+  "type": "statute",
+  "title": "Julgeolekumaksu seadus",
+  "title_en": "Julgeolekumaksu seadus",
+  "short_name": "JMS",
+  "status": "in_force",
+  "issued_date": "2024-12-11",
+  "in_force_date": "2025-07-18",
+  "url": "https://www.riigiteataja.ee/akt/108072025016.xml",
+  "description": "Official consolidated statute text (Julgeolekumaksu seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

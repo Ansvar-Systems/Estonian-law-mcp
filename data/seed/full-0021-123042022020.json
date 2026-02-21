@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-123042022020",
+  "type": "statute",
+  "title": "2011. aasta riigieelarve seadus",
+  "title_en": "2011. aasta riigieelarve seadus",
+  "short_name": "RES2011",
+  "status": "in_force",
+  "issued_date": "2010-12-08",
+  "in_force_date": "2012-01-01",
+  "url": "https://www.riigiteataja.ee/akt/123042022020.xml",
+  "description": "Official consolidated statute text (2011. aasta riigieelarve seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

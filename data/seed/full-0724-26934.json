@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-26934",
+  "type": "statute",
+  "title": "Kohtuotsuste rahvusvahelise kehtivuse Euroopa konventsiooni ratifitseerimise seadus",
+  "title_en": "Kohtuotsuste rahvusvahelise kehtivuse Euroopa konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-26934",
+  "status": "in_force",
+  "issued_date": "2001-02-21",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/26934.xml",
+  "description": "Official consolidated statute text (Kohtuotsuste rahvusvahelise kehtivuse Euroopa konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud kohtuotsuste rahvusvahelise kehtivuse Euroopa konventsioon, mis on alla kirjutatud Londonis 2000. aasta 8. juunil."
+    }
+  ],
+  "definitions": []
+}

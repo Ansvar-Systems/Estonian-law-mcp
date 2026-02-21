@@ -1,0 +1,260 @@
+{
+  "id": "ee-law-101032019016",
+  "type": "statute",
+  "title": "Väetiseseadus",
+  "title_en": "Väetiseseadus",
+  "short_name": "ee-law-101032019016",
+  "status": "in_force",
+  "issued_date": "2003-06-11",
+  "in_force_date": "2020-01-01",
+  "url": "https://www.riigiteataja.ee/akt/101032019016.xml",
+  "description": "Official consolidated statute text (Väetiseseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab väetisele ja selle käitlemisele esitatavad nõuded, mis tagavad väetise ohutuse inimese ja looma elule ja tervisele, varale ja keskkonnale ning väetise soodsa mõju taimele ja taimekasvatussaadusele.\n(2) Käesolevat seadust ei kohaldata:\n1) töötlemata orgaanilisele väetisele;\n2) töötlemata looduslikule väetisele;\n3) reo- ja heitvee settele ning sellest valmistatud kompostile.\n(3)\n(4) Käesolevat seadust ei kohaldata väetise Eestist väljaspool Euroopa Liidu tolliterritooriumi asuvatesse riikidesse ega territooriumidele (edaspidi ühenduseväline riik ) ning Euroopa Liidu liikmesriiki toimetamise korral, kui välislepingust ei tulene teisiti.\n(5) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi.\n(6) «EÜ VÄETIS» märgistusega väetisele ja selle käitlemisele kohaldatakse käesolevat seadust ning Euroopa Parlamendi ja EL Nõukogu määrust 2003/2003/EÜ väetiste kohta (ELT L 304, 21.11.2003, lk 1–194).\n(7) Kemikaali sisaldavale väetisele kohaldatakse käesoleva seaduse nõudeid, arvestades kemikaaliseaduses sätestatut."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Väetis",
+      "content": "(1) Väetis on aine või valmistis, mille kasutamise eesmärk on taimede varustamine toitainetega. Käesoleva seaduse tähenduses on väetis ka lubiväetis, mille kasutamise eesmärk on mulla happesuse vähendamine.\n(2) Käesoleva seaduse tähenduses on väetis ka käesoleva seaduse kohaselt töödeldud orgaaniline väetis, mis vastab väetisele kehtestatud nõuetele. Orgaaniline väetis on valdavalt taimse või loomse päritoluga orgaanilisest ainest koosnev väetis.\n(3) Käesoleva seaduse tähenduses on väetis ka käesoleva seaduse kohaselt töödeldud looduslik väetis, mis vastab väetisele kehtestatud nõuetele. Looduslik väetis on looduslikust leiukohast kaevandatud ja väetamiseks kasutatav kivim, mineraal või muu maa-aines.\n(4) Bakterväetis käesoleva seaduse tähenduses on aine, mis sisaldab kindlale taimeliigile sobivaid mikroorganisme-bakterkultuure, mis parandavad seda liiki taimede toitumistingimusi.\n(5) Väetisepartii on sama nimetuse, koostise ja samade omadustega ning samadel tingimustel toodetud väetisekogus, mida peab olema võimalik tuvastada ja teistest väetisepartiidest eristada, et tagada väetisepartii jälgitavus.\n(6) Pädevaks asutuseks Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 2003/2003 artikli 27 tähenduses on Põllumajandusamet."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Väetise käitlemine ja käitleja",
+      "content": "(1) Väetise käitlemine käesoleva seaduse tähenduses on väetise turustamisotstarbeline tootmine, pakendamine, märgistamine, Eestisse toimetamine ja turustamine.\n(2) Väetise käitleja võib olla juriidiline isik, füüsilisest isikust ettevõtja või riigi- või kohaliku omavalitsuse asutus."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Väetise tootmine",
+      "content": "(1) Väetise tootmine käesoleva seaduse tähenduses on väetise valmistamine või töötlemine.\n(2) Väetise tootmiseks on lubatud kasutada Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1069/2009, milles sätestatakse muuks otstarbeks kui inimtoiduks ettenähtud loomsete kõrvalsaaduste ja nendest saadud toodete tervise-eeskirjad ning tunnistatakse kehtetuks määrus (EÜ) nr 1774/2002 (ELT L 300, 14.11.2009, lk 1–33), artikli 3 punktides 1 ja 2 sätestatud loomseid kõrvalsaadusi ja nendest saadud tooteid üksnes nimetatud määruses sätestatud nõuete kohaselt.\n(3) Väetise töötlemine käesoleva seaduse tähenduses on väetise bioloogiline, füüsikaline või keemiline töötlemine, mille eesmärk on saada püsiva koostisega ohutu väetis."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Väetise turustamine",
+      "content": "Väetise turustamine käesoleva seaduse tähenduses on nii väetise müügiks pakkumine, müümine kui ka muul viisil tasuta või tasu eest tarbijale või teisele käitlejale üleandmine."
+    },
+    {
+      "provision_ref": "para5^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5^1",
+      "title": "§ 5^1. Otsuse kättetoimetamine",
+      "content": "Käesoleva seaduse alusel tehtud Põllumajandusameti otsus toimetatakse isikule kätte viie tööpäeva jooksul otsuse tegemisest arvates. Kui otsus toimetatakse kätte posti teel, võib selle kätte toimetada lihtkirjaga, tähtkirjaga või väljastusteatega tähtkirjaga."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - VÄETISELE ESITATAVAD NÕUDED",
+      "section": "6",
+      "title": "§ 6. Üldnõuded",
+      "content": "(1) Väetis peab olema:\n1) nõuetekohase kasutamise korral ohutu inimese ja looma elule ja tervisele, samuti varale ja keskkonnale;\n2) vastavuses väetise koostisele kehtestatud nõuetega;\n3) nõuetekohaselt märgistatud;\n4) kantud väetiseregistrisse.\n(2) Nõuded väetise koostisele väetise liikide kaupa kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - VÄETISELE ESITATAVAD NÕUDED",
+      "section": "7",
+      "title": "§ 7. Väetise nõuetekohasuse tõendamine väetise turustamise korral",
+      "content": "(1) Väetise nõuetekohasuse tõendamine on väetise turustamise korral kohustuslik.\n(2) Väetise nõuetekohasuse tõendamise eest vastutab:\n1) väetise Eestisse toimetamise puhul – isik, kelle nimele väetis on väetiseregistrisse kantud;\n2) Eestis pakendatud väetise puhul – pakendaja;\n3) pakendamata väetise (edaspidi puisteväetis ) puhul – turustaja.\n(3) Väetise koostise nõuetekohasust tõendavaks dokumendiks on kohaste analüüsimeetodite rakendamiseks akrediteeritud laboratooriumi (edaspidi akrediteeritud laboratoorium ) katseprotokoll proovi analüüsi tulemuste kohta või tootja väljastatud asjakohane dokument väetise koostise kohta.\n(4) Väetise koostise nõuetekohasust tõendava dokumendi või selle ärakirja peab väetise turustaja esitama väetise ostjale, väetise muul viisil vastuvõtjale või korrakaitseorganile tema esimesel nõudmisel.\n(5) Väetise koostise nõuetekohasuse tõendamise kulud kannab käesoleva paragrahvi lõikes 2 nimetatud käitleja."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "3. peatükk - VÄETISE KÄITLEMINE",
+      "section": "8",
+      "title": "§ 8. Väetise pakendi ja selle märgistuse nõuded",
+      "content": "(1) Väetise pakendi materjal ja konstruktsioon peavad tagama, et säiliksid tootja garanteeritud väetise omadused ning et väetise käsitsemine oleks ohutu väetise tootjalt tarbijani liikumise kestel. Väetise pakend peab vastama pakendiseaduse ja käesoleva seaduse nõuetele.\n(2) Tarbijale turustatakse väetist suletud müügipakendis, mida ei saa pärast avamist enam esialgsel viisil sulgeda.\n(3) Väetise müügipakendil peab olema selgesti nähtav, loetav ja kustumatu eestikeelne märgistus, mis üheselt mõistetavalt kirjeldab väetise koostist ning väetise kasutamise otstarvet ja tingimusi.\n(4) Puisteväetise puhul või juhul, kui teavet ei ole võimalik kanda väetise pakendile selle kuju või mõõtmete tõttu, kantakse käesoleva paragrahvi lõikes 3 kirjeldatud märgistus kaasasolevale teabelehele.\n(5) Nõuded väetise pakendi ja teabelehe märgistusele kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "3. peatükk - VÄETISE KÄITLEMINE",
+      "section": "9",
+      "title": "§ 9. Enesekontroll",
+      "content": "(1) Nii tootja kui ka pakendaja kontrollivad enda toodetud või pakendatud väetise koostise nõuetekohasust vähemalt kord kuue kuu jooksul. Rakendatavaid abinõusid kirjeldatakse enesekontrolliplaanis.\n(2) Tootja ja pakendaja on kohustatud pidama enesekontrollitoimingute käigus väetise koostise nõuetekohasuse kontrollimiseks võetud proovide arvestust, milles on järgmised andmed:\n1) väetise nimetus;\n2) proovivõtu kuupäev;\n3) proovivõtja nimi ja allkiri;\n4) analüüsi teinud laboratooriumi nimi;\n5) proovi analüüsi tulemused.\n(3) Tootja ja pakendaja peavad säilitama käesoleva paragrahvi lõikes 2 nimetatud arvestust proovide võtmisest arvates seitsme aasta jooksul."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "3. peatükk - VÄETISE KÄITLEMINE",
+      "section": "10",
+      "title": "§ 10. Teavitamiskohustus",
+      "content": "(1) Kui enesekontrollitoimingute käigus võetud proovide analüüsi tulemuste alusel tuvastatakse, et väetise koostis ei ole nõuetekohane, peab tootja või pakendaja viivitamata:\n1) teavitama sellest kirjalikult Põllumajandusametit ja saatma talle akrediteeritud laboratooriumi katseprotokolli proovi analüüsi tulemuste kohta;\n2) peatama mittenõuetekohase koostisega väetise turustamise.\n(2) Põllumajandusamet otsustab käesoleva paragrahvi lõike 1 punktis 2 nimetatud väetise edasise turustamise lubamise või keelamise asjakohase teatise ja katseprotokolli saamisest arvates kümne tööpäeva jooksul.\n(3) Kui käitleja soovib väetise valmistamisel kasutada senisest erinevat tooret või tootmistehnoloogiat või kui ilmnevad asjaolud, mis võivad mõjutada väetise koostise nõuetekohasust, teavitab väetise käitleja sellest viivitamata kirjalikult Põllumajandusametit, kes otsustab senisest erineva toorme või tootmistehnoloogia kasutamise lubamise või keelamise käitlejalt kirjaliku teate saamisest arvates 30 päeva jooksul.\n(4)"
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "3. peatükk - VÄETISE KÄITLEMINE",
+      "section": "11",
+      "title": "§ 11. Väetise Eestisse toimetamine",
+      "content": "(1) Väetise Eestisse toimetamine käesoleva seaduse tähenduses on väetisele vabasse ringlusse lubamise tolliprotseduuri rakendamine ja selle Euroopa Liidu liikmesriigist Eestisse toimetamine.\n(2) Väetiste nomenklatuuri kehtestab valdkonna eest vastutav minister.\n(3) Eestisse võib toimetada «EÜ VÄETIS» märgistusega väetist ja väetist, mis on kantud väetiseregistrisse.\n(4) Väetise ühendusevälisest riigist Eestisse toimetamise korral esitab deklarant koos tollideklaratsiooniga tollile tootja väljastatud asjakohase dokumendi väetise koostise kohta.\n(5) Töödeldud loomse päritoluga orgaanilise väetise ühendusevälisest riigist Eestisse toimetamise korral esitab deklarant koos tollideklaratsiooniga tollile Veterinaar- ja Toiduameti väljastatud loa.\n(6) Käesolevas paragrahvis sätestatud nõudeid ei kohaldata, kui Eestisse toimetatava väetise kogus on kuni 50 kilogrammi või 10 liitrit, mikroväetise puhul kuni 0,5 kilogrammi või 0,5 liitrit ning bakterväetise puhul kuni 0,05 kilogrammi.\n(7) Käesoleva paragrahvi lõikes 6 sätestatut ei kohaldata kõrge lämmastikusisaldusega ammooniumnitraatväetise puhul."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - VÄETISE KÄITLEMINE",
+      "section": "12",
+      "title": "§ 12. Teadustöös ja väetise esitlemiseks kasutatava väetise Eestisse toimetamise nõuded",
+      "content": "(1) Teadustöös kasutatavat käesoleva seaduse § 11 lõikes 3 nimetamata väetist võib sisse vedada Põllumajandusameti kirjalikul loal.\n(2) Põllumajandusamet võib loa andmisest keelduda, kui väetise koostis ei vasta käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele.\n(3) Väetise Eestisse toimetamiseks loa andmise või sellest keeldumise otsuse teeb Põllumajandusamet taotluse ja muude otsuse tegemiseks vajalike dokumentide saamisest arvates 15 tööpäeva jooksul.\n(4) Teadustöös kasutatava väetise Eestisse toimetamiseks loa saamiseks esitatava taotluse vormi, esitatavate dokumentide loetelu ja taotluse menetlemise korra kehtestab valdkonna eest vastutav minister.\n(5) Esitlemiseks kasutatava väetise Eestisse toimetamise korral rakendatakse ajutise importimise tolliprotseduuri. Esitlemiseks on keelatud sisse vedada puisteväetist."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - VÄETISE KÄITLEMINE",
+      "section": "13",
+      "title": "§ 13. Kõrge lämmastikusisaldusega ammooniumnitraatväetise käitlemise nõuded",
+      "content": "(1) Kõrge lämmastikusisaldusega ammooniumnitraatväetist käideldakse käesoleva seaduse ja kemikaaliseaduse nõuete kohaselt.\n(2) Kõrge lämmastikusisaldusega ammooniumnitraatväetis käesoleva seaduse tähenduses on ammooniumnitraat või ammooniumnitraati sisaldav väetis, mille kuivaine kogumassist üle 28 protsendi moodustab lämmastik ja mis võib sisaldada anorgaanilisi lisandeid või inertseid aineid, mis ei suurenda väetise tule- ega plahvatusohtlikkust.\n(3) Kõrge lämmastikusisaldusega ammoniumnitraatväetise partii peab olema läbinud Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 2003/2003 lisas 3 kirjeldatud detonatsioonikindluse katse.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud katse teeb Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 2003/2003 artiklis 30 nimetatud nimekirjas olev heakskiidetud laboratoorium.\n(5) Väetise käitleja esitab vähemalt viis tööpäeva enne kõrge lämmastikusisaldusega ammooniumnitraatväetise partii eeldatavat Eestisse toimetamist Põllumajandusametile väetisepartii detonatsioonikindlust tõendava dokumendi."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - VÄETISE KÄITLEMINE",
+      "section": "14",
+      "title": "§ 14. Geneetiliselt muundatud organisme sisaldava väetise käitlemise nõuded",
+      "content": "Geneetiliselt muundatud organisme sisaldavat väetist käideldakse käesoleva seaduse nõuete kohaselt, arvestades geneetiliselt muundatud organismide keskkonda viimise seaduses sätestatut."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - VÄETISE KÄITLEMINE",
+      "section": "15",
+      "title": "§ 15. Väetise hoidmise nõuded",
+      "content": "(1) Väetist peab hoidma tingimustes, mis tagavad väetise ohutuse inimese ja looma elule ja tervisele.\n(2) Väetist hoitakse veeseaduses põhja- ja pinnavee kaitseks kehtestatud nõuete kohaselt."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - VÄETISE KÄITLEMINE",
+      "section": "16",
+      "title": "§ 16. Väetise turustamise ja jälgitavuse tagamise nõuded",
+      "content": "(1) Turustada võib üksnes asjakohaste Euroopa Liidu õigusaktide, käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele vastavat väetist, mis on:\n1) «EÜ VÄETIS» märgistusega või\n2) kantud väetiseregistrisse.\n(2) Väetise jälgitavuse tagamiseks säilitab väetise käitleja andmeid väetisepartii päritolu kohta kaks aastat turustamise lõpetamisest arvates."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - VÄETISE KÄITLEMINE",
+      "section": "17",
+      "title": "§ 17. Mittenõuetekohase koostisega, kuid ohutu väetise turustamine",
+      "content": "(1) Mittenõuetekohase koostisega, kuid ohutu väetise ohutuse, turujärelevalve korraldamise ja käitleja kohustuste kindlaksmääramisel juhindutakse toote nõuetele vastavuse seadusest.\n(2) Põllumajandusameti loal võib mittenõuetekohase koostisega, kuid ohutut väetist turustada juhul, kui teave väetise tegeliku koostise kohta on märgitud väetise pakendile või teabelehele senist märgistust rikkumata. Põllumajandusamet otsustab väetise turustamise lubamise või keelamise loa taotlemisest arvates 30 päeva jooksul."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - VÄETISE KÄITLEMINE",
+      "section": "18",
+      "title": "§ 18. Mittenõuetekohase koostisega ohtliku väetise turustamise lõpetamine",
+      "content": "(1) Mittenõuetekohase koostisega ohtlik väetis, mida ei ole võimalik töötlemisega muuta ohutuks inimese ja looma elule ja tervisele, samuti varale ja keskkonnale, tuleb käitleja kulul müügilt kõrvaldada ja käidelda jäätmeseaduse nõuete kohaselt.\n(2) Mittenõuetekohase koostisega ohtliku väetisena käsitatakse väetist, mis oma mürgisuse, tule- ja plahvatusohu, kiirgusohu või muu ohuteguri tõttu võib kahjustada inimese ja looma elu ja tervist või vara või keskkonda."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "4. peatükk - VÄETISEREGISTER",
+      "section": "19",
+      "title": "§ 19. Väetiseregistri asutamine ja selle tegevuse korraldamine",
+      "content": "(1) Väetiseregister (edaspidi register ) on riigi infosüsteemi kuuluv Vabariigi Valitsuse asutatud andmekogu. Registri põhimääruse kehtestab Vabariigi Valitsus.\n(2) Registri vastutavaks töötlejaks on Maaeluministeerium ja volitatud töötlejaks Põllumajandusamet.\n(3) Registri pidamise eesmärk on turustamisotstarbeliste väetiste ning väetiste käitlejate ja nende tegevusvaldkondade kohta andmete kogumine ja süstematiseerimine.\n(4) Registrile kohaldatakse majandustegevuse seadustiku üldosa seaduses registri kohta sätestatut, arvestades käesolevas seaduses sätestatud erisusi."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - VÄETISEREGISTER",
+      "section": "21",
+      "title": "§ 21. Teatamiskohustus",
+      "content": "(1) Väetise käitlemiseks peab esitama majandustegevusteate Põllumajandusametile.\n(2) Lisaks majandustegevuse seadustiku üldosa seaduses sätestatud andmetele märgitakse teates:\n1) väetise nimetus koos kauba kombineeritud nomenklatuuri koodiga (KN-kood);\n2) väetise koostis ja valmistamise viis.\n(3) Majandustegevusteadet ei pea esitama käitleja, kes ostab väetise või saab väetise muul viisil teiselt käitlejalt, kes on selle väetise kohta majandustegevusteate juba esitanud.\n(4) Käitleja, kelle esitatud majandustegevusteate alusel kantakse väetiseregistrisse käesoleva paragrahvi lõikes 2 nimetatud andmed, tasub selle väetise nõuetekohasuse järelevalvetoimingute eest riigilõivu väetise käitlemisega alustamise aastal majandustegevusteate esitamisel ja igal sellele järgneval kalendriaastal 10. jaanuariks kuni sama väetise käitlemise lõpetamiseni.\n(5) Kui käesoleva paragrahvi lõikes 4 nimetatud käitleja ei ole tasunud tema majandustegevusteate alusel väetiseregistrisse kantud väetise nõuetekohasuse järelevalvetoimingute eest riigilõivu jooksva aasta 10. jaanuariks, loetakse selle väetise käitlemine lõpetatuks ja väetise kohta väetiseregistrisse kantud andmed tunnistatakse kehtetuks.\n(6) Väetist, mille kohta väetiseregistrisse kantud andmed on käesoleva paragrahvi lõike 5 alusel tunnistatud kehtetuks, võib turustada kuni selle lõppemiseni."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - VÄETISEREGISTER",
+      "section": "22",
+      "title": "§ 22.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - VÄETISEREGISTER",
+      "section": "25",
+      "title": "§ 25.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "29",
+      "title": "§ 29. Riiklik järelevalve",
+      "content": "(1) Riiklikku järelevalvet Euroopa Liidu õigusaktides, käesolevas seaduses ja selle alusel kehtestatud õigusaktides väetise käitlemise kohta sätestatud nõuete täitmise üle teostab Põllumajandusamet.\n(2) Riiklikku järelevalvet väetise käitlemise nõuete vastavuse üle tollialastes õigusaktides Euroopa Parlamendi ja nõukogu määruse (EL) nr 952/2013, millega kehtestatakse liidu tolliseadustik (ELT L 269, 10.10.2013, lk 1–101), tähenduses teostab Maksu- ja Tolliamet.\n(3) Riiklikku järelevalvet tarbijale turustatava väetise pakendi ja selle märgistuse kohta kehtestatud nõuete täitmise üle teostab Tarbijakaitse ja Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "30",
+      "title": "§ 30. Riikliku järelevalve erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 32, 49 ja 50 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "31",
+      "title": "§ 31. Riikliku järelevalve erisused",
+      "content": "(1) Korrakaitseorgan võib korrakaitseseaduse §-s 50 sätestatud tingimustel siseneda ettevõtte territooriumile ja ehitistesse käitleja või tema esindaja juuresolekul.\n(2) Korrakaitseorgan võib võtta vallasasja läbivaatusel isiku kulul proove. Kui läbi vaadatud vallasasja ei ole võimalik pärast läbivaatust tavapäraselt kasutada, ei hüvitata isikule vallasasja või vallasasja tavapäraseks kasutamiseks taastamise maksumust.\n(3) Väetise koostise nõuetekohasuse kontrollimiseks vajaliku proovi analüüsi teeb ning selle kohta katseprotokolli koostab ja väljastab akrediteeritud laboratoorium. Riikliku järelevalve meetme kohaldamise käigus võetud proovi analüüsi kulud kaetakse riigieelarvest.\n(4) Korrakaitseorganil on õigus peatada väetise käitlemine Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 2003/2003 artiklis 15 nimetatud alusel või proovi analüüsi tulemuste selgumiseni, kui on küllaldaselt alust arvata, et väetis ohustab inimese või looma elu või tervist või vara või keskkonda. Väetise käitlemise peatamise otsustab Põllumajandusamet.\n(5) Kui väetise käitlemine on peatatud Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 2003/2003 artiklis 15 nimetatud alusel, määravad käitlemise piirangu kehtimise ajal asjaomased korrakaitseorganid koostöös kindlaks ohu ulatuse ja võtavad vajalikud meetmed. Pärast ohu kõrvaldamist otsustab Põllumajandusamet käesoleva paragrahvi lõike 4 alusel tehtud otsuse kehtetuks tunnistamise.\n(6) Katseprotokolli põhjal teeb korrakaitseorgan väetise edasise käitlemise lubamise või keelamise otsuse kümne tööpäeva jooksul katseprotokolli saamise päevast arvates.\n(7) Korrakaitseorgan teavitab käesoleva paragrahvi lõigetes 4 ja 5 nimetatud käskkirjast viivitamata avalikkust, avaldades selle Põllumajandusameti veebilehel.\n(8) Kui käitleja ei nõustu analüüsi tulemustega, on tal õigus valida kordusanalüüsi tegemiseks teine akrediteeritud laboratoorium, kus ta laseb kordusproove analüüsida omal kulul.\n(9) Väetisest proovide võtmise korra ja proovide analüüsi meetodid kehtestab valdkonna eest vastutav minister määrusega.\n(10) Riikliku järelevalve toimingute tegemise ajal kannab Põllumajandusameti ametiisik ametiriietust."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "36",
+      "title": "§ 36. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär 640 eurot."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "37",
+      "title": "§ 37. Väetise koostise nõuete rikkumine ja mittenõuetekohase väetise käitlemine",
+      "content": "(1) Väetisele esitatud nõuete rikkumise, mittenõuetekohase väetise käitlemise või väetise turustamise peatamise kohustuse täitmata jätmise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para37^1",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "37^1",
+      "title": "§ 37^1. Kõrge lämmastikusisaldusega ammooniumnitraatväetise detonatsioonikindlust tõendava dokumendi esitamata jätmine",
+      "content": "(1) Kõrge lämmastikusisaldusega ammooniumnitraatväetise detonatsioonikindlust tõendava dokumendi esitamata jätmise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "39",
+      "title": "§ 39. Enesekontrollikohustuse või teavitamiskohustuse täitmata jätmine",
+      "content": "(1) Enesekontrollikohustuse või teavitamiskohustuse täitmata jätmise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "40",
+      "title": "§ 40. Menetlus",
+      "content": "(1) Käesoleva seaduse §-s 37 sätestatud väärteo kohtuvälised menetlejad on:\n1) Põllumajandusamet;\n2) Tarbijakaitse ja Tehnilise Järelevalve Amet.\n(2) Käesoleva seaduse §-des 37^1 ja 39 sätestatud väärtegude kohtuväline menetleja on Põllumajandusamet."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "41",
+      "title": "§ 41. Seaduse kohaldamine",
+      "content": "(1) Käesoleva seaduse §-s 19 nimetatud väetiseregistrina käsitatakse väetiseseaduse (RT I 1997, 93, 1563; 2001, 50, 283; 2002, 63, 387) § 3 lõike 1 alusel asutatud väetiste registrit.\n(2) Käesoleva seaduse § 6 lõike 1 punkti 4 kohaldatakse „EÜ VÄETIS” märgistusega väetisele alates 2020. aasta 1. aprillist."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "42",
+      "title": "§ 42.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "46",
+      "title": "§ 46.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "47",
+      "title": "§ 47. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2003. aasta 1. septembril.\n(2) Käesoleva seaduse § 21 lõige 2 jõustub Eesti liitumisel Euroopa Liiduga."
+    }
+  ],
+  "definitions": []
+}

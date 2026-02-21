@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-202112019001",
+  "type": "statute",
+  "title": "Eesti Vabariigi valitsuse ja Jaapani valitsuse vahelise töötamisõigusega turismi kokkuleppe ratifitseerimise seadus",
+  "title_en": "Eesti Vabariigi valitsuse ja Jaapani valitsuse vahelise töötamisõigusega turismi kokkuleppe ratifitseerimise seadus",
+  "short_name": "ee-law-202112019001",
+  "status": "in_force",
+  "issued_date": "2019-10-22",
+  "in_force_date": "2019-11-12",
+  "url": "https://www.riigiteataja.ee/akt/202112019001.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi valitsuse ja Jaapani valitsuse vahelise töötamisõigusega turismi kokkuleppe ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Preambul",
+      "content": "Ratifitseerida Eesti Vabariigi valitsuse ja Jaapani valitsuse vaheline töötamisõigusega turismi kokkulepe, mis sõlmitakse nootide vahetamise teel.^1 ^1 Ratifitseeritud kokkuleppe tekstid avaldatakse Riigi Teatajas pärast nootide vahetamist."
+    }
+  ],
+  "definitions": []
+}

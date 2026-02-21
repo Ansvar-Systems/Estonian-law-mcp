@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-26286",
+  "type": "statute",
+  "title": "Piiriülese toimega tööstusõnnetuste konventsiooni ratifitseerimise seadus",
+  "title_en": "Piiriülese toimega tööstusõnnetuste konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-26286",
+  "status": "in_force",
+  "issued_date": "2000-03-09",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/26286.xml",
+  "description": "Official consolidated statute text (Piiriülese toimega tööstusõnnetuste konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud piiriülese toimega tööstusõnnetuste konventsioon, mis on koostatud 1992. aasta 17. märtsil Helsingis ning millele Eesti Vabariik kirjutas alla 1992. aasta 18. märtsil."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Teha ratifitseerimisel järgmine deklaratsioon: «Eesti Vabariik deklareerib, et tööstusõnnetustest teavitamise ning vastastikuse abi andmise pädevaks ametiasutuseks ja kontaktpunktiks on käesoleva konventsiooni artikli 17 lõigete 1 ja 2 tähenduses Siseministeeriumi valitsemisalas olev Päästeamet.»"
+    }
+  ],
+  "definitions": []
+}

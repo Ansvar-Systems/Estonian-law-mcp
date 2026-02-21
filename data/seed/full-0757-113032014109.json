@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-113032014109",
+  "type": "statute",
+  "title": "Korteriomandiseadus",
+  "title_en": "Korteriomandiseadus",
+  "short_name": "KOS",
+  "status": "in_force",
+  "issued_date": "2000-11-15",
+  "in_force_date": "2018-01-01",
+  "url": "https://www.riigiteataja.ee/akt/113032014109.xml",
+  "description": "Official consolidated statute text (Korteriomandiseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

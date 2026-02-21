@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-230012025001",
+  "type": "statute",
+  "title": "Kaebemenetlust käsitleva lapse õiguste konventsiooni fakultatiivprotokolliga ühinemise seadus",
+  "title_en": "Kaebemenetlust käsitleva lapse õiguste konventsiooni fakultatiivprotokolliga ühinemise seadus",
+  "short_name": "ee-law-230012025001",
+  "status": "in_force",
+  "issued_date": "2025-01-22",
+  "in_force_date": "2025-02-09",
+  "url": "https://www.riigiteataja.ee/akt/230012025001.xml",
+  "description": "Official consolidated statute text (Kaebemenetlust käsitleva lapse õiguste konventsiooni fakultatiivprotokolliga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud kaebemenetlust käsitleva lapse õiguste konventsiooni fakultatiivprotokolliga, mis on vastu võetud Ühinenud Rahvaste Organisatsiooni Peaassambleel 2011. aasta 19. detsembril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Teha ühinemisel fakultatiivprotokolli artikli 12 lõike 1 kohane deklaratsioon, et Eesti Vabariik tunnustab lapse õiguste komitee pädevust võtta vastu ja vaadata läbi selle sätte alusel esitatud kaebusi."
+    }
+  ],
+  "definitions": []
+}

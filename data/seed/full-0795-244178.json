@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-244178",
+  "type": "statute",
+  "title": "Kütuseaktsiisi seadus",
+  "title_en": "Kütuseaktsiisi seadus",
+  "short_name": "KütAS",
+  "status": "in_force",
+  "issued_date": "1993-06-17",
+  "in_force_date": "2003-04-01",
+  "url": "https://www.riigiteataja.ee/akt/244178.xml",
+  "description": "Official consolidated statute text (Kütuseaktsiisi seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

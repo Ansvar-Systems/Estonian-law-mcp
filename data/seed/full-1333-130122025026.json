@@ -1,0 +1,960 @@
+{
+  "id": "ee-law-130122025026",
+  "type": "statute",
+  "title": "Tervishoiuteenuste korraldamise seadus",
+  "title_en": "Tervishoiuteenuste korraldamise seadus",
+  "short_name": "TTKS",
+  "status": "in_force",
+  "issued_date": "2001-05-09",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.riigiteataja.ee/akt/130122025026.xml",
+  "description": "Official consolidated statute text (Tervishoiuteenuste korraldamise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Seadus sätestab tervishoiuteenuste osutamise korralduse ja nõuded ning tervishoiu juhtimise, rahastamise ja järelevalve korra.\n(2) Käesolevat seadust kohaldatakse tervishoiuteenuste osutamise korraldusele Kaitseministeeriumi valitsemisalas koos kaitseväeteenistuse seadusest ja Kaitseväe korralduse seadusest tulenevate erisustega.\n(2^1) Käesolevat seadust kohaldatakse tervishoiuteenuste osutamise korraldusele vanglates koos vangistusseadusest tulenevate erisustega.\n(2^2) Käesolevat seadust kohaldatakse koolitervishoiuteenuse osutamise korraldusele koolides koos põhikooli- ja gümnaasiumiseadusest tulenevate erisustega.\n(2^3) Käesolevat seadust kohaldatakse proviisori ja farmatseudi kutsetegevusele apteegiteenuse osutamisel käesoleva seaduse § 2 lõikes 1^1 ning § 3 lõigetes 4 ja 5 sätestatud ulatuses.\n(2^4) Hädaolukorras kohaldatakse tervishoiukorraldusele hädaolukorra seaduse sätteid, arvestades käesoleva seaduse erisusi.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Tervishoiuteenus",
+      "content": "(1) Tervishoiuteenus on tervishoiutöötaja tegevus haiguse, vigastuse või mürgistuse ennetamiseks, diagnoosimiseks ja ravimiseks eesmärgiga leevendada inimese vaevusi, hoida ära tema tervise seisundi halvenemist või haiguse ägenemist ning taastada tervist. Tervishoiuteenuste loetelu kehtestab valdkonna eest vastutav minister.\n(1^1) Proviisor ja farmatseut osutavad kutsetegevuse raames tervishoiuteenuseid vaid seaduses sätestatud juhul.\n(2) Statsionaarne on tervishoiuteenus, mille osutamiseks on vajalik inimese ööpäevaringne viibimine haiglas.\n(3) Ambulatoorne on tervishoiuteenus, mille osutamiseks inimese ööpäevaringne viibimine haiglas ei ole vajalik."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Tervishoiutöötaja",
+      "content": "(1) Tervishoiutöötajad käesoleva seaduse tähenduses on arst, hambaarst, õde ja ämmaemand, kui nad on registreeritud Terviseametis.\n(2) Tervishoiutöötaja võib osutada tervishoiuteenuseid selle omandatud kutse või eriala piirides, mille alusel ta on registreeritud tervishoiukorralduse infosüsteemis.\n(3)\n(4) Tervishoiutöötajad on ka ravimiseaduse tähenduses üldapteegis või haiglaapteegis apteegiteenust osutavad proviisor ja farmatseut, kui nad on vastavalt ravimiseaduse § 55 lõikele 1 registreeritud tervishoiukorralduse infosüsteemis.\n(5) Proviisor ja farmatseut võivad osutada apteegiteenust omandatud kutse piirides.\n(6) Kui isik osutab ravi ja on registreeritud tervishoiukorralduse infosüsteemis, on tervishoiutöötajaga võrdsustatud:\n1) füsioterapeut;\n2) kliiniline psühholoog;\n3) logopeed."
+    },
+    {
+      "provision_ref": "para3^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3^1",
+      "title": "§ 3^1. Patsient",
+      "content": "Patsient käesoleva seaduse tähenduses on füüsiline isik, kes on avaldanud soovi saada või kes saab tervishoiuteenust."
+    },
+    {
+      "provision_ref": "para3^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3^2",
+      "title": "§ 3^2. Patsiendiohutus ja tervishoiuteenuse kvaliteet",
+      "content": "(1) Patsiendiohutus käesoleva seaduse tähenduses on tervishoiuteenuse osutamisega kaasneva välditava tervisekahju riski eesmärgipärane vähendamine. Patsiendiohutuse süsteem hõlmab tegevusi, mis on seotud patsiendiohutusjuhtumite dokumenteerimise, patsiendiohutuse andmekogu pidajale teabe edastamise ning dokumenteeritud ja edastatud teabe alusel patsiendiohutusjuhtumite analüüsi, ennetamise ning juhtumitest õppimisega.\n(2) Patsiendiohutusjuhtum on tervishoiuteenuse osutamisega seotud juhtum, mis oleks võinud põhjustada või põhjustas patsiendile välditava tervisekahju.\n(3) Tervishoiuteenuse kvaliteet käesoleva seaduse tähenduses on tervishoiuteenuse omaduste kogum, mis iseloomustab osutatud tervishoiuteenuse vastavust kehtestatud nõuetele, tänapäeva teadmistele, olemasolevatele ressurssidele, kutse- ja erialastele nõuetele ning patsiendi terviseseisundist tulenevatele vajadustele ja patsiendi rahulolule.\n(4) Tervishoiutöötaja on kohustatud dokumenteerima tervishoiuteenuse osutamisega kaasnenud patsiendiohutusjuhtumid, mis oleks võinud põhjustada või põhjustasid patsiendile välditavat tervisekahju. Dokumenteeritud patsiendiohutusjuhtumitele ja nende analüüsimisega seotud dokumentatsioonile on lubatud juurdepääs üksnes tervishoiuteenuse osutajale ning uurimist teostavale organile kriminaalmenetluses tõe väljaselgitamise huvides.\n(5) Valdkonna eest vastutav minister kehtestab määrusega patsiendiohutusjuhtumite dokumenteerimise ja patsiendiohutuse andmekogusse andmete esitamise tingimused ja korra, milles esitatakse:\n1) juhtumiga otseselt seotud tervishoiutöötajate ja asjakohaste töötajate andmed;\n2) patsiendi üldised isikuandmed;\n3) patsiendiohutusjuhtumiga seonduvad andmed;\n4) patsiendiohutuse andmekogusse esitatavate patsiendiohutusjuhtumite loetelu;\n5) patsiendiohutuse andmekogusse juhtumi kohta esitatavad andmed.\n(6) Patsiendiohutusjuhtumit tõendavaid dokumente võib luua ja säilitada digitaalselt. Paberdokumendid, mis on digiteeritud, võib enne tähtaega hävitada, kui on tagatud nende terviklikkuse ja autentsuse säilimine ettenähtud säilitustähtaja jooksul.\n(7) Patsiendiohutusjuhtumit tõendavaid dokumente säilitatakse 30 aastat patsiendiohutusjuhtumi registreerimisest arvates.\n(8) Tervishoiuteenuse osutaja:\n1) analüüsib tervishoiuteenuse osutamisel aset leidnud ja dokumenteeritud patsiendiohutusjuhtumeid ja töötab välja meetmed juhtumite ennetamiseks;\n2) teavitab patsiendiohutuse andmekogu pidajat patsiendiohutusjuhtumitest viisil, mis ei võimalda juhtumiga seotud patsiendi ja tervishoiutöötaja isikut otseselt tuvastada.\n(9) Tervishoiuteenuste kvaliteedi ja patsiendi ohutuse tagamise nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Tervishoiuteenuse osutaja",
+      "content": "Tervishoiuteenuse osutaja on tervishoiutöötaja või tervishoiuteenuseid osutav juriidiline isik."
+    },
+    {
+      "provision_ref": "para4^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4^1",
+      "title": "§ 4^1. Isikuandmete töötlemine",
+      "content": "(1) Tervishoiuteenuse osutajal, kellel on seadusest tulenev saladuse hoidmise kohustus, on õigus andmesubjekti nõusolekuta töödelda isikuandmeid, sealhulgas eriliiki isikuandmeid:\n1) tervishoiuteenuse osutamiseks;\n2) tervishoiuteenuse osutamise kavandamiseks, lähtudes käesoleva seaduse § 2 lõikes 1 nimetatud eesmärgist;\n3) käesoleva seaduse § 3^2 lõigetes 5 ja 9 sätestatud ulatuses ja eesmärgil.\n(1^1)\n(1^2) Käesoleva paragrahvi lõike 1 punktis 2 nimetatud andmete töötlemise õigus tervishoiuteenuse osutamise kavandamiseks laieneb perearstiabi ja koolitervishoiu teenuse osutamiseks. Andmete töötlemise õigus tervishoiuteenuse osutamise kavandamiseks laieneb eriarstiabi ning iseseisva füsioteraapia, logopeedilise ravi, psühholoogilise ravi, õendusabi ja ämmaemandusabi osutajale üksnes varem sõlmitud tervishoiuteenuse lepingu olemasolul ning ennetustegevused on ellu viidud mõistliku aja jooksul lepingu lõppemisest.\n(1^3) Käesoleva paragrahvi lõike 1 punktides 2 ja 3 sätestatud isikuandmete, sealhulgas eriliiki isikuandmete töötlemise põhjus ja eesmärk tuleb dokumenteerida.\n(2) Haiglas viibiva andmesubjekti terviseseisundit kajastavate andmete edastamine või nendele juurdepääs on lubatud tema lähedastele, välja arvatud juhul, kui\n1) andmesubjekt on andmetele juurdepääsu või nende edastamise keelanud;\n2) uurimist teostav organ on andmetele juurdepääsu või nende edastamise keelanud kuriteo tõkestamise, kurjategija tabamise või kriminaalmenetluses tõe väljaselgitamise huvides.\n(3) Tervishoiuteenuse osutamisel on lubatud surnu isikuandmete töötlemine temaga seotud üleneja või alaneja, samuti õe või venna elu ja tervise kaitseks."
+    },
+    {
+      "provision_ref": "para4^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4^2",
+      "title": "§ 4^2. Tervishoiuteenuse osutamise ja terviseandmete dokumenteerimine ning säilitamine",
+      "content": "(1) Tervishoiuteenuse osutamise dokumenteerimisel on kohustuslik järgida dokumenteerimise nõudeid, kasutada riigi infosüsteemis ettenähtud klassifikaatoreid, loendeid, aadressiandmeid ja tervise infosüsteemi standardeid.\n(2) Tervishoiuteenuse osutamist tõendavaid dokumente võib luua ja säilitada digitaalselt. Paberdokumendid, mis on digiteeritud, võib enne tähtaega hävitada, kui on tagatud nende terviklikkuse ja autentsuse säilimine ettenähtud säilitustähtaja jooksul.\n(2^1) Tervishoiuteenuse osutaja tagab isikuandmete töötlemise jälgitavuse teenuseosutaja infosüsteemis.\n(3) Valdkonna eest vastutav minister kehtestab määrusega tervishoiuteenuste dokumenteerimise tingimused ja korra, milles esitatakse:\n1) tervishoiuteenuse osutaja andmed;\n2) patsiendi üldised isikuandmed;\n3) patsiendi terviseandmed;\n4) muud teenuse osutamisega seotud andmed.\n(4) Käesoleva paragrahvi lõike 3 alusel kogutud andmetest säilitatakse ambulatoorse ning statsionaarse tervishoiuteenuse osutamist tõendavaid andmeid 30 aastat patsiendile osutatud teenuse andmete kinnitamisest.\n(5) Erinevalt käesoleva paragrahvi lõikes 4 nimetatud tähtajast säilitatakse järgmisi tervishoiuteenuse osutamist tõendavaid andmeid järgmiselt:\n1) õpilase tervisekaardi andmeid viis aastat kooli lõpetamisest või koolist lahkumisest, samuti kiirabikaardi andmeid ja saatekirja ning saatekirja vastust viis aastat andmete kinnitamisest;\n2) surmateatise ja surma põhjuse teatise andmeid kümme aastat andmete kinnitamisest;\n3) elupuhuse patomorfoloogilise uuringu tegemiseks võetud terviseandmeid sisaldav koeproov säilitatakse lähtuvalt tervisehoiuteenuse osutamise vajadusest, kuid mitte kauem kui 30 aastat andmete kinnitamisest;\n4) lahangu protokolli andmeid 30 aastat andmete kinnitamisest;\n5) verekaardi, transfusiooniprotokolli ja transfusioonijärgse reaktsiooni protokolli andmeid 30 aastat isiku surmast.\n(6) Digitaalselt säilitatavate andmete töötlemisel määratakse logide säilitamise tähtaeg käesoleva paragrahvi lõike 3 alusel sätestatud ministri määruses.\n(7) Sellise tervishoiutöötaja suhtes, kes on nõuetekohaselt dokumenteerinud patsiendiohutusjuhtumi, millest on teavitatud ka patsiendiohutuse andmekogu pidajat, ei algata korrakaitseorgan esitatud teabe alusel järelevalvemenetlust, samuti ei saa tööandja öelda dokumenteeritud patsiendiohutusjuhtumi alusel töölepingut üles ega teha töölepingu ülesütlemiseks vajalikke ettevalmistavaid toiminguid, välja arvatud järgmistel juhtudel:\n1) tervishoiutöötaja tegevuses oli tahtluse tunnuseid;\n2) tervishoiutöötaja põhjustas patsiendiohutusjuhtumi alkoholi, narkootilise või psühhotroopse aine või muu joovastava aine tarvitamisest põhjustatud joobeseisundis;\n3) tegemist oli tervishoiuteenuse osutamise nõuete või hea kliinilise tava ilmse ja tõsise eiramisega, millega otseselt põhjustati kahju inimese tervisele ja elule.\n(8) Käesoleva paragrahvi lõikes 7 sätestatud regulatsiooni kohaldatakse ka sellise tervishoiutöötaja suhtes, kellel ei olnud objektiivsetel põhjustel võimalik või otstarbekas esitada teavet enda tegevuse või tegevusetuse kohta, kuid patsiendiohutusjuhtumi kohta on esitanud teabe teine tervishoiutöötaja või tervishoiuteenuse osutaja volitatud kvaliteedi ja ohutuse eest vastutav isik."
+    },
+    {
+      "provision_ref": "para4^3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4^3",
+      "title": "§ 4^3. Tervishoiuteenuse osutamisel osalemine",
+      "content": "(1) Tervishoiuteenuse osutamisel osaleb:\n1) arst, kes ei ole omandanud eriala, sealhulgas arst-resident;\n2) kutse omandamise eesmärgil vastaval õppekaval õppiv üliõpilane;\n2^1) käesoleva seaduse § 30 lõikes 3^2 nimetatud isik;\n3) isik, kes tegutseb tulenevalt tema kutse või erialasest pädevusest spetsialisti või tehnikuna;\n4) proviisor ja farmatseut, kes tegelevad retseptiravimite väljastamisega;\n5) isik, kes vahetult müüb meditsiiniseadmeid meditsiiniseadme kaardi alusel.\n(2) Arst-residendi ja vastaval õppekaval õppiva üliõpilase tegevus loetakse selle isiku tegevuseks, kelle juhendamisel ja vastutusel ta tegutseb. Arst või hambaarst, kes ei ole omandanud eriala ja ei õpi residentuuris, võib osaleda eriarstiabi osutamisel ning tema rakendamise ulatuse tervishoiuteenuse osutamisel määrab tervishoiuteenuse osutaja sõltuvalt tervishoiuteenuse sisust ning arsti või hambaarsti pädevusest ja kogemusest.\n(2^1) Käesoleva seaduse § 30 lõikes 3^2 nimetatud isik osaleb tervishoiuteenuse osutamisel sellise juhendaja juhendamisel ja vastutusel, kellel on sama või samaväärne kvalifikatsioon, mille tööpraktikal osaleja on välisriigis omandanud, ja vähemalt viieaastane erialane töökogemus. Käesoleva seaduse § 30 lõikes 3^2 nimetatud isiku tegevus loetakse selle isiku tegevuseks, kelle juhendamisel ja vastutusel ta tegutseb.\n(3) Käesoleva paragrahvi lõike 1 punktides 1–4 nimetatud isikud võivad osaleda tervishoiuteenuse osutamisel, kui nad on registreeritud tervishoiukorralduse infosüsteemis.\n(4) Käesoleva paragrahvi lõike 1 punktides 4 ja 5 nimetatud isikute osalemine tervishoiuteenuse osutamisel on reguleeritud vastavalt ravimiseaduse ja meditsiiniseadme seadusega.\n(5) Käesoleva paragrahvi lõikes 1 nimetatud tervishoiuteenuse osutamisel osalevate isikute loetelu ja osalemise kord kehtestatakse valdkonna eest vastutava ministri määrusega."
+    },
+    {
+      "provision_ref": "para4^4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4^4",
+      "title": "§ 4^4. Tervishoiuteenuse osutaja kohustuslik vastutuskindlustus",
+      "content": "Tervishoiuteenuse osutaja peab täitma tervishoiuteenuse osutaja kohustusliku vastutuskindlustuse seadusest tulenevaid kohustusi."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "5",
+      "title": "§ 5. Vältimatu abi mõiste",
+      "content": "Vältimatu abi käesoleva seaduse tähenduses on tervishoiuteenus, mida tervishoiutöötaja osutab olukorras, kus abi edasilükkamine või selle andmata jätmine võib põhjustada abivajaja surma või püsiva tervisekahjustuse."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "6",
+      "title": "§ 6. Vältimatu abi osutamine",
+      "content": "(1) Igal Eesti Vabariigi territooriumil viibival inimesel on õigus saada vältimatut abi.\n(2) Tervishoiutöötaja on kohustatud osutama vältimatut abi oma pädevuse ja tema kasutuses olevate võimaluste piires.\n(3) Kohustusliku ravikindlustusega kindlustatud isikule ja temaga võrdsustatud isikule (edaspidi ravikindlustusega hõlmatud isik ) osutatud vältimatu abi eest tasutakse riigieelarves Tervisekassa eelarvesse ettenähtud vahenditest.\n(4) Ravikindlustusega hõlmamata isikule osutatud vältimatu abi eest tasutakse Tervisekassa eelarvest Tervisekassa tervishoiuteenuste loetelus sätestatud alustel, tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para6^1",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "6^1",
+      "title": "§ 6^1. Ravikindlustusega hõlmamata isikule rahvastiku tervise kaitseks osutatavad tervishoiuteenused",
+      "content": "(1) Ravikindlustusega hõlmamata isikul on õigus saada käesoleva paragrahvi lõike 3 alusel kehtestatud tervishoiuteenuseid, mille eesmärk on tagada rahvastiku tervise kaitse.\n(2) Ravikindlustusega hõlmamata isikule rahvastiku tervise kaitseks osutatavate tervishoiuteenuste kulud tasutakse Tervisekassa eelarvest Tervisekassa tervishoiuteenuste loetelus sätestatud alustel, tingimustel ja korras.\n(3) Ravikindlustusega hõlmamata isikule rahvastiku tervise kaitseks osutatavate tervishoiuteenuste loetelu kehtestab valdkonna eest vastutav minister määrusega, kuulates enne ära Tervisekassa nõukogu arvamuse."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "7",
+      "title": "§ 7. Perearstiabi mõiste",
+      "content": "(1) Perearstiabi on ambulatoorne tervishoiuteenus, mida osutavad perearst ja temaga koos töötavad tervishoiutöötajad.\n(1^1) Perearstiabi osutajad osutavad üldhuviteenust majandustegevuse seadustiku üldosa seaduse § 5 tähenduses.\n(2) Perearst on sellekohase eriala omandanud eriarst, kes tegutseb:\n1) perearsti nimistu alusel;\n2) nimistuta eriarstina.\n(2^1) Perearstiabi osutaja võib lisaks nimistu alusel tegutsemisele osutada perearstiabi teise nimistusse kuuluvale isikule, kui see on vajalik perearstiabi kättesaadavuse tagamiseks.\n(2^2) Nimistuvälise teenindamise tingimused, ulatuse ja korra kehtestab valdkonna eest vastutav minister määrusega.\n(3) Käesoleva paragrahvi lõike 2 punktis 2 nimetatud perearsti tegevusele kohaldatakse käesoleva seaduse haiglavälise eriarstiabi osutamist reguleerivaid sätteid.\n(4) Pereõde on koos perearstiga töötav õde või ämmaemand, kes osutab tervishoiuteenust perearsti nimistusse kuuluvatele isikutele käesoleva seaduse § 8 lõike 6^1 alusel sätestatud ulatuses ja korras.\n(5) Perearstiabi osutaja, kes vastab käesoleva paragrahvi lõikes 6 sätestatud ja lõike 7 alusel kehtestatud tingimustele ning kelle elutähtsa teenuse osutajaks määramise kohta on Terviseamet kooskõlastatult Tervisekassaga teinud ettepaneku, on hädaolukorra seaduse § 36 lõike 2 punktis 1 nimetatud elutähtsa teenuse osutaja.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud elutähtsa teenuse osutaja määramisel lähtutakse:\n1) maakondades ja linnades ühtlase kättesaadavuse põhimõttest;\n2) perearstiabi osutaja või tervisekeskusena tegutsevate perearstiabi osutajate toimepidevusest;\n3) kõikide osutatavate tervishoiuteenuste, sealhulgas tervist toetavate teenuste mahust tervikuna.\n(7) Käesoleva paragrahvi lõikes 5 nimetatud elutähtsa teenuse osutaja määramise täpsemad tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega.\n(8) Terviseamet hindab perioodiliselt elutähtsa teenuse osutajate vastavust käesoleva paragrahvi lõikes 6 sätestatud ja lõike 7 alusel kehtestatud tingimustele ning esitab vajaduse korral kooskõlastatult Tervisekassaga ettepaneku elutähtsa teenuse osutajate määramise või väljaarvamise kohta.\n(9) Elutähtsa teenuse osutajast perearstiabi osutaja on kohustatud viivitamata teavitama Terviseametit, kui muutuvad käesoleva paragrahvi lõigete 6 ja 7 alusel arvesse võetud asjaolud, mida võeti arvesse tema elutähtsa teenuse osutajaks määramisel."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "8",
+      "title": "§ 8. Perearsti nimistu",
+      "content": "(1) Perearsti nimistu on käesoleva seaduse alusel perearsti teenindamisele kuuluvate isikute nimekiri. Käesolevas seaduses ettenähtud juhtudel teenindab perearsti nimistusse kuuluvaid isikuid muu isik.\n(2) Igal perearstil on üks nimistu.\n(3) Igal Eesti kodanikul, elamisloa või elamisõiguse alusel Eestis elaval isikul ja ajutise viibimisalusega Eestis seaduslikult viibival ning ravikindlustuse seaduse § 5 lõike 1 kohaselt kindlustatud isikul (edaspidi ajutiselt Eestis viibiv välismaalane ) on õigus registreeruda perearsti nimistusse ja vahetada kirjaliku avalduse alusel perearsti. Isiku üleminekut uue perearsti nimistusse arvestatakse isiku andmete Tervisekassa andmekogusse edastamisele järgneva kalendrikuu esimesest päevast.\n(3^1) Eestis sündinud vastsündinu, kelle ema elukoht on rahvastikuregistri alusel Eestis, registreeritakse sünni järel automaatselt tema ema perearsti nimistusse.\n(3^2) Kui vastsündinu ema ei ole registreeritud perearsti nimistusse, registreeritakse laps vanema või eestkostja kirjaliku avalduse alusel avalduses märgitud perearsti nimistusse või määrab lapsele perearsti Tervisekassa.\n(4) Perearsti nimistu moodustub perearsti juurde registreerunud isikutest ning käesoleva paragrahvi lõikes 4^1 sätestatud nimistu piirsuurust arvestades Eesti rahvastikuregistri elukoha aadressi ja ajutiselt Eestis viibiva välismaalase tegeliku elukoha alusel Tervisekassa määratud isikutest.\n(4^1) Perearsti nimistu piirsuurus on:\n1) 1200–2000 isikut;\n2) 2001–2400 isikut, kui nimistusse kantud isikutele osutab perearstiabi koos perearstiga vähemalt üks arsti kvalifikatsiooniga tervishoiutöötaja;\n3) perearstile nimistu esmakordsel kinnitamisel kuni kaheks aastaks perearstiga kokkuleppel ja teeninduspiirkonna teisi nimistuid arvestades väiksem kui käesoleva lõike punktis 1 või 2 sätestatud nimistu ülemine piirmäär.\n(4^2)\n(4^3) Tervisekassa määrab perearsti nimistusse mitteregistreerunud isiku tema kirjaliku avalduse alusel nimistusse ning teeb muudatuse isikule ja perearstile teatavaks kirjalikult või elektrooniliselt seitsme tööpäeva jooksul otsuse tegemisest arvates.\n(4^4) Tervisekassa arvab isiku perearsti nimistust välja, kui nimistusse kantud isik ei ole Eesti rahvastikuregistri andmesubjektiks või kui ravikindlustamata isiku elukoht Eesti rahvastikuregistri andmetel ei asu Eesti Vabariigis ning kui käesolevas seaduses ei ole sätestatud teisiti. Tervisekassa teavitab isikut nimistusse määramisest ja nimistust väljaarvamisest kirjalikult või elektrooniliselt seitsme tööpäeva jooksul otsuse tegemisest arvates. Kui dokument on vaja kätte toimetada rohkem kui 100 isikule või kui isiku elukoha andmed ei ole Tervisekassale teada, avaldatakse otsus ametlikus väljaandes Ametlikud Teadaanded.\n(4^5) Kui perearsti nimistusse kantud isikute arv ületab nimistu piirsuurust või nimistu jaoks, kuhu isik kuulub, ei ole konkursi korras leitud perearsti ega asendajat, võib Tervisekassa nimistu piirsuurust arvestades määrata isiku Eesti rahvastikuregistri elukoha aadressi alusel teise perearsti nimistusse. Kui käesoleva paragrahvi lõike 4^1 punktis 1 sätestatud piirsuurusega nimistusse kuulub rohkem kui 800 ravikindlustamata isikut, on Tervisekassal õigus perearsti avalduse alusel määrata ravikindlustamata isik, kelle rahvastikuregistrijärgne elukoht ei ole nimetatud perearsti teeninduspiirkonnas, teise perearsti nimistusse. Tervisekassa teavitab isikut ja perearsti isiku nimistusse määramisest kirjalikult või elektrooniliselt seitsme tööpäeva jooksul otsuse tegemisest arvates.\n(4^6) Valdkonna eest vastutav minister kehtestab määrusega perearsti nimistu moodustamise, muutmise ja võrdlemise alused ja korra ning perearsti nimistute piirarvu.\n(4^7) Nimistute piirarvu kehtestamisel lähtub valdkonna eest vastutav minister Eesti rahvastikuregistri andmesubjektiks olevate isikute arvust ning perearstiabi parema korralduse ja kättesaadavuse tagamise kaalutlustest.\n(4^8) Terviseamet avaldab oma veebilehel järgmised perearsti nimistu andmed:\n1) perearsti ja temaga koos töötava tervishoiutöötaja nimi;\n2) perearsti teeninduspiirkond ja tegevuskoht;\n3) perearsti ja pereõe iseseisva vastuvõtu ajad ja kontaktandmed;\n4) tegevuskoha lahtiolekuajad ja kontaktandmed;\n5) tegevuskoha veebilehe olemasolul selle aadress;\n6) nimistu piirsuurus;\n7) andmed perearsti asendamise kohta;\n8) selle füüsilisest isikust ettevõtja või äriühingu ärinimi, mille kaudu perearst perearstiabi osutab.\n(4^9) Perearstiabi osutamise tegevusloa omaja esitab Terviseametile digitaalselt allkirjastatud teate, märkides perearsti nime ja tegevuskoha aadressi ning selle füüsilisest isikust ettevõtja või äriühingu ärinime, mille kaudu perearst perearstiabi osutab, muudatuse jõustumise kuupäeva ja käesoleva seaduse § 4^3 lõike 1 punktides 1–3 nimetatud isikute koosseisu. Andmed edastatakse muudatuste korral viivitamata. Perearstiabi osutamise tegevusloa omaja esitab Terviseameti iseteenindusportaali kaudu järgmised andmed:\n1) perearstiga koos töötava tervishoiutöötaja nimi;\n2) perearsti ja pereõe iseseisva vastuvõtu ajad ja kontaktandmed;\n3) tegevuskoha lahtiolekuajad ja kontaktandmed;\n4) tegevuskoha veebilehe olemasolul selle aadress.\n(5)\n(6) Perearst tagab tema nimistusse kantud inimestele tervishoiuteenuste kättesaadavuse ning järjepidevuse perearsti ja temaga koos töötavate tervishoiutöötajate tööjuhendis ettenähtud ulatuses ja korras.\n(6^1) Perearsti ja temaga koos töötavate tervishoiutöötajate tööjuhendi kehtestab valdkonna eest vastutav minister määrusega.\n(7) Perearst teavitab tema nimistusse kantud inimesi, kuhu ja kelle poole saab isik pöörduda arstiabi saamiseks väljaspool perearsti vastuvõtuaega. Tervisekassa võib sõlmida perearstiga lepingu perearstiabi osutamiseks õhtu- ja öötundidel ning puhkepäevadel.\n(8)"
+    },
+    {
+      "provision_ref": "para8^1",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "8^1",
+      "title": "§ 8^1. Nimistuga perearsti asendamine",
+      "content": "(1) Perearsti asendamine on olukord, kus perearst töölt ajutise eemalviibimise tõttu ei osuta isiklikult ja vahetult perearstiabi tema nimistusse kuuluvatele isikutele, eelkõige ei teosta isiklikult nimistusse kantud isikute ambulatoorset vastuvõttu. Perearsti asendamisel tuleb järgida samu põhimõtteid ja nõudeid nagu nimistuga perearstina tegutsedes, kui käesolevas seaduses ja selle alusel kehtestatud õigusaktides ei ole sätestatud teisiti.\n(2) Perearsti asendaja leidmise kuni kolmekuulise töölt eemalviibimise korral (edaspidi lühiajaline asendamine ) tagab perearst.\n(3) Perearsti asendaja leidmise üle kolmekuulise töölt eemalviibimise korral (edaspidi pikaajaline asendamine ) tagab perearst, esitades hiljemalt kümme kalendripäeva enne asendamise algust Terviseametile kirjalikku taasesitamist võimaldavas vormis teatise, milles märgitakse töölt ajutise eemalviibimise põhjus, asendamise kestus, asendaja nimi ja kvalifikatsioon, perearstiabi osutamise koht ja korraldus ning enda kontaktandmed asendamise ajal.\n(4) Lühiajalisest ja pikaajalisest asendamisest teavitab perearst oma teeninduspiirkonna kohaliku omavalitsuse üksust ning perearsti nimistusse kantud isikuid, märkides asendamise kestuse, asendaja nime ja kvalifikatsiooni ning perearstiabi osutamise koha ja korralduse asendamise ajal. Nimistusse kantud isikutele avaldab perearst asendamise korraldust käsitleva informatsiooni perearsti tegevuskohas.\n(5) Lühiajalise asendamise korral asendab perearsti tervishoiutöötaja, kellel on arsti kvalifikatsioon.\n(6) Pikaajalise asendamise korral asendab perearsti tervishoiutöötaja, kellel on perearsti kvalifikatsioon, või peremeditsiini residentuuris õppiv arst-resident.\n(7) Pikaajaline asendamine võib kesta kuni üks aasta, erialase enesetäiendamisega seotud koolituse korral kuni kaks aastat ja vanemapuhkuse korral vanemapuhkuse lõppemiseni.\n(8) Perearsti asendaja on kohustatud viivitamatult kirjalikku taasesitamist võimaldavas vormis teavitama perearsti ja Terviseametit perearsti asendamise ennetähtaegsest või erakorralisest lõppemisest."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "9",
+      "title": "§ 9. Perearsti teeninduspiirkond",
+      "content": "(1) Perearsti teeninduspiirkond on Tervisekassa määratud üks või mitu kohaliku omavalitsuse üksust, linnaosa või osavalda, mille piires perearst ja temaga koos töötavad tervishoiutöötajad tagavad perearstiabi osutamise nimistusse kuuluvatele isikutele, tehes vajaduse korral koduvisiite. Teeninduspiirkonnas elavale või ajutiselt viibivale isikule, kes ei kuulu perearsti nimistusse, osutab perearst vältimatut abi.\n(2) Kui perearsti teeninduspiirkond hõlmab mitme maakonna kohaliku omavalitsuse üksuse ala, peab teeninduspiirkonnas elavatele isikutele olema tagatud perearstiabi nõuetekohane kättesaadavus. Tervisekassa arvestab teeninduspiirkonna määramisel piirkonna eripärast tingitud perearstiabi nõuetekohast osutamist ja kättesaadavust mõjutavaid asjaolusid, sealhulgas vajaduse korral elanike arvu ja ühistranspordi korraldust teeninduspiirkonnas."
+    },
+    {
+      "provision_ref": "para9^1",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "9^1",
+      "title": "§ 9^1. Perearsti tegevuskoht",
+      "content": "(1) Perearsti tegevuskoht on koht, kus asuvad perearsti ruumid ning kus perearst osutab perearstiabi.\n(2) Kui perearsti tegevuskoht ei asu perearsti teeninduspiirkonnas, peab perearsti nimistusse kantud isikutele olema tagatud perearstiabi nõuetekohane kättesaadavus. Tegevuskoha ja teeninduspiirkonna vaheline vahemaa ei tohi olla ebamõistlikult pikk. Tegevuskoha ja teeninduspiirkonna vahel peab olema mõistlik ühistranspordiühendus.\n(3) Perearst teavitab oma nimistusse kantud inimesi vähemalt kuus kuud ette, kui tema tegevuskoht muutub, välja arvatud juhul, kui tegevuskoha muutumine on tingitud perearstist sõltumatutest asjaoludest."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "10",
+      "title": "§ 10. Nõuded perearsti tegevuskoha ruumidele ja sisseseadele",
+      "content": "(1) Perearsti tegevuskoha ruumidele, sisseseadele ja aparatuurile esitatavad nõuded kehtestab valdkonna eest vastutav minister.\n(2)"
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "11",
+      "title": "§ 11. Perearstiabi rahastamine",
+      "content": "(1) Ravikindlustusega hõlmatud isikule osutatud perearstiabi eest tasutakse riigieelarves Tervisekassa eelarvesse ettenähtud vahenditest ulatuses, mille eest tasumise kohustuse on üle võtnud Tervisekassa.\n(1^1) Tervisekassa määrab selliste nimistute loetelu, kus on vähem kui 1200 isikut ja mis on vajalikud regionaalse perearstiabi kättesaadavuse tagamiseks, kooskõlastades loetelu valdkonna eest vastutava ministriga.\n(2) Ravikindlustusega hõlmamata isik tasub perearstiabi eest ise."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "12",
+      "title": "§ 12. Perearstina tegutsemise õiguslik vorm",
+      "content": "Perearstid võivad tegutseda füüsilisest isikust ettevõtjana või perearstiabi osutava äriühingu kaudu."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "13",
+      "title": "§ 13. Perearstiabi osutava äriühingu erisused",
+      "content": "(1) Täisühingu või usaldusühinguna tegutseva äriühingu ühinguleping sõlmitakse kirjalikult ja lisatakse ühingu äriregistrisse kandmise avaldusele.\n(2) Perearstiabi osutav äriühing võib ühineda ainult teise perearstiabi osutava äriühinguga.\n(3) Perearstiabi osutav äriühing ei või olla osanikuks või aktsionäriks eriarstiabi osutavas äriühingus."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "14",
+      "title": "§ 14. Tegevusala",
+      "content": "(1) Perearstiabi osutaval äriühingul ei või olla muud tegevusala peale perearstiabi ning iseseisva füsioteraapia, logopeedilise ravi, psühholoogilise ravi, õendusabi ja ämmaemandusabi ning sotsiaalteenuste osutamise, tervishoiualase õppe- ja teadustöö ning kinnisasja kasutusse andmise.\n(2) Füüsilisest isikust ettevõtjana äriregistrisse kantud perearst võib äriregistrisse kantud ärinime all osutada ainult perearstiabi ning iseseisvat füsioteraapiat, logopeedilist ravi, psühholoogilist ravi, õendusabi ja ämmaemandusabi ning sotsiaalteenuseid, tegeleda tervishoiualase õppe- ja teadustööga ning kinnisasja kasutusse andmisega.\n(3) Perearstiabi osutaja võib oma tegevusloa raames osutada radioloogiateenuseid röntgeniülesvõtete ja sonograafiliste uuringute mahus, kui on täidetud käesoleva seaduse § 21 lõike 2 ning röntgeniülesvõtete tegemiseks ka kiirgusseaduse alusel kehtestatud nõuded."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "15",
+      "title": "§ 15. Perearstiabi osutava äriühingu osanik ja aktsionär",
+      "content": "(1) Perearstiabi osutava äriühingu osanik või aktsionär võib olla:\n1) selle äriühingu kaudu tervishoiuteenuseid osutav perearst;\n2) kohaliku omavalitsuse üksus või kohaliku omavalitsuse üksused, kui vähemalt ühel nende haldusterritooriumidest asub perearstiabi osutava äriühingu tegevuskoht.\n(2) Kui käesoleva paragrahvi lõike 1 punktis 1 nimetatud osanikult või aktsionärilt on perearsti nimistu ära võetud, peab ta oma osa või aktsia võõrandama perearstile, kes hakkab selle ühingu kaudu tervishoiuteenuseid osutama, või kohaliku omavalitsuse üksusele kolme kuu jooksul nimistu äravõtmisest arvates. Kui osa või aktsiat ei ole kolme kuu jooksul võõrandatud, on äriühing kohustatud osa või aktsia tühistama ja hüvitama perearstile osa või aktsia väärtuse.\n(3) Kui käesoleva paragrahvi lõikes 2 nimetatud osanik või aktsionär oli äriühingu ainus osanik või aktsionär, peab ta oma osa või aktsia võõrandama kolme kuu jooksul kohaliku omavalitsuse üksusele või perearstile, kes hakkab selle ühingu kaudu tervishoiuteenuseid osutama, või otsustama äriühingu lõpetamise. Kui perearst nimetatud õigust ei kasuta, lõpetatakse äriühing Terviseameti nõudel kohtuotsusega.\n(4) Käesoleva paragrahvi lõike 1 punktis 1 nimetatud osaniku või aktsionäri surma korral läheb äriühingu osa või aktsia üle tema pärijale juhul, kui pärija on perearst ja hakkab osutama selle ühingu kaudu tervishoiuteenuseid. Muudel juhtudel peab perearsti pärija võõrandama osa või aktsia perearstile, kes hakkab selle ühingu kaudu tervishoiuteenuseid osutama, või kohalikule omavalitsusüksusele kolme kuu jooksul pärandi vastuvõtmisest alates. Kui osa või aktsia ei ole selle aja jooksul võõrandatud, on äriühing kohustatud osa või aktsia tühistama ja hüvitama pärijale osa või aktsia väärtuse.\n(5) Kui käesoleva paragrahvi lõikes 4 nimetatud osanik või aktsionär oli äriühingu ainus osanik või aktsionär, võib pärija pärandi vastuvõtmisest alates kuue kuu jooksul võõrandada osa või aktsia kohaliku omavalitsuse üksusele või perearstile, kes hakkab selle ühingu kaudu tervishoiuteenuseid osutama, või otsustada äriühingu lõpetamise. Kui pärija ei kasuta nimetatud õigusi, lõpetatakse äriühing Terviseameti nõudel kohtuotsusega."
+    },
+    {
+      "provision_ref": "para15^1",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "15^1",
+      "title": "§ 15^1. Tervisekeskuse moodustamine",
+      "content": "(1) Tervisekeskuse moodustavad samas taristus ühiselt perearstiabi, ämmaemandusabi, füsioteraapiat ja õendusabi, sealhulgas koduõendusteenust, osutavad isikud. Tervisekeskuse võib moodustada ka üks juriidiline isik, kes pakub kõiki eelnimetatud teenuseid. Tervisekeskuse moodustajate hulka võivad lisaks kuuluda logopeedilise ravi või psühholoogilise ravi teenust osutavad isikud.\n(2) Tervisekeskuses tegutseva perearstiabi osutaja tegevusloal kajastuv tervisekeskuse asukohast erinev tegevuskoht loetakse tervisekeskuse osaks.\n(3) Tervisekeskuste liigid ja nõuded tervisekeskuste liikidele kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "16",
+      "title": "§ 16. Kiirabi mõiste",
+      "content": "(1) Kiirabi on ambulatoorne tervishoiuteenus eluohtliku haigestumise, vigastuse või mürgistuse esmaseks diagnoosimiseks ja raviks ning vajaduse korral abivajaja transpordiks haiglasse.\n(2) Õigus saada kiirabiteenust on igal Eesti Vabariigi territooriumil viibival isikul."
+    },
+    {
+      "provision_ref": "para16^1",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "16^1",
+      "title": "§ 16^1. Politsei- ja Piirivalveameti kopteri kiirabilend",
+      "content": "(1) Politsei- ja Piirivalveamet võimaldab kopteri kiirabilendu meditsiiniseadmete, vere, elundite, ravimite, tervishoiutöötajate, patsientide ja teiste asjaomaste isikute transportimiseks, kui ilma selleta ei saa või ei saa õigel ajal käesoleva seaduse § 55 lõike 1 alusel kehtestatud haiglavõrgu kavas nimetatud piirkondlik haigla vajalikku tervishoiuteenust pakkuda või see oleks oluliselt raskendatud. Politsei- ja Piirivalveameti valduses oleva kopteriga sooritatav kiirabilend loetakse riikliku ülesande täitmiseks.\n(2) Tervisekassa rahastab Politsei- ja Piirivalveameti kopteri kiirabilende Tervisekassa tervishoiuteenuste loetelus kopteri kiirabilendude eest tasumise kohta sätestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "17",
+      "title": "§ 17. Kiirabi osutamine",
+      "content": "(1) Kiirabi osutab kiirabibrigaad häirekeskuselt saadud väljasõidukorralduse või muul viisil saadud teabe alusel.\n(1^1) Kiirabibrigaadi pidaja on hädaolukorra seaduse § 36 lõike 2 punktis 1 nimetatud elutähtsa teenuse osutaja.\n(1^2)\n(2) Vabariigi Valitsus kehtestab kiirabi, haiglate ning pääste- ja politseiasutuste, Kaitseväe ning Terviseameti kiirabialase koostöö korra.\n(3) Valdkonna eest vastutav minister kehtestab:\n1) käesoleva seaduse alusel rahastatavate kiirabibrigaadide arvu;\n2)\n3) kiirabibrigaadi tööjuhendi;\n4) kiirabibrigaadi koosseisule ja varustusele, sealhulgas kiirabiautodele ja meditsiiniseadmetele esitatavad nõuded;\n5) kiirabi koostöö ja vastastikuse tasaarveldamise korra perearstidega.\n6)\n(4) Kiirabi osutatakse käesolevas seaduses ja teistes õigusaktides sätestatud nõuetest lähtudes ning käesoleva seaduse § 17^2 lõike 1 alusel sõlmitud halduslepingus kokkulepitud tingimustel.\n(4^1)\n(4^2)\n(4^3)\n(4^4)\n(4^5)\n(5) Häirekeskusel on õigus suunata kiirabibrigaad abi kohese kättesaadavuse tagamiseks teise teeninduspiirkonda.\n(6) Riigi päästeasutuse kiirabibrigaad peab vastama käesoleva seadusega ja selle alusel kiirabibrigaadile kehtestatavatele nõuetele."
+    },
+    {
+      "provision_ref": "para17^1",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "17^1",
+      "title": "§ 17^1. Kiirabi osutamise korraldamine",
+      "content": "(1) Terviseamet:\n1) korraldab kiirabi osutamist, lähtudes käesolevas seaduses ja teistes õigusaktides sätestatud nõuetest;\n2) kinnitab kiirabibrigaadide teeninduspiirkondade arvu ja paiknemise ning kiirabibrigaadide jaotuse teeninduspiirkondade kaupa;\n3) korraldab koostöös Tervisekassaga kiirabibrigaadi ajutist asendamist.\n(2) Kiirabibrigaadi teeninduspiirkond on Terviseameti poolt kinnitatud kohaliku omavalitsuse üksuse ala või nende üksuste ala, mille piires sõidab kiirabibrigaad väljakutsete korral välja."
+    },
+    {
+      "provision_ref": "para17^2",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "17^2",
+      "title": "§ 17^2. Kiirabi rahastamise leping",
+      "content": "(1) Kiirabi rahastamiseks sõlmivad Tervisekassa ja kiirabibrigaadi pidaja halduslepingu (edaspidi kiirabi rahastamise leping ) kuni viieks aastaks, lähtudes halduskoostöö seaduses sätestatud tingimustest. Esimest korda sõlmitakse selline leping kiirabibrigaadi pidajaga kuni kolmeks aastaks.\n(2) Kiirabi rahastamise lepingut ei pea sõlmima kõikide kiirabibrigaadi pidajatega.\n(3) Kiirabi rahastamise lepingu sõlmimise ja lepingu tähtaja üle otsustamisel hindab Tervisekassa järgmisi asjaolusid:\n1) konkreetse teeninduspiirkonna vajadus kiirabi järele ja kiirabi kättesaadavus;\n2) kiirabi osutamise kvaliteet ja tingimused;\n3) kiirabibrigaadi pidaja jätkusuutlikkus;\n4) kiirabibrigaadide piirarv;\n5) riigi tervishoiupoliitika arengusuunad;\n6) varasemate kiirabi rahastamise lepingute või nendega sarnaste lepingute nõuetekohane täitmine kiirabibrigaadi pidaja poolt;\n7) maksuvõlgnevuse olemasolu või puudumine ning kiirabibrigaadi pidaja üldine majanduslik seisund;\n8) tervishoiuteenuste osutamist reguleerivate õigusaktide nõuetekohane täitmine kiirabibrigaadi pidaja poolt;\n9) käesoleva seaduse § 17 lõike 3 punkti 1 alusel kehtestatud kiirabibrigaadide arv.\n(4) Kiirabi rahastamise lepingus lepitakse kokku järgmised tingimused:\n1) lepingu tähtaeg;\n2) Tervisekassa rahastatava kiirabi valmisoleku ja kiirabi osutamise eest kiirabibrigaadi pidajale makstav summa ajaühikus ning makstav kogusumma;\n3) kiirabi valmisoleku tagamise ja kiirabi osutamise eest tasumisele kuuluv hind;\n4) nende kiirabibrigaadide nimekiri, kelle valmisolekut rahastatakse ja kelle osutatud kiirabi eest tasu makstakse, ning selle nimekirja muutumisest teatamise ja Tervisekassaga kooskõlastamise kord;\n5) tundide arv ajaühikus, mille jooksul peab kiirabibrigaadi pidaja olema valmis kiirabi osutama;\n6) tähtaeg, mille jooksul peab kiirabibrigaadi pidaja esitama Tervisekassale teabe kiirabi osutamise valmisoleku tagamise ja osutatud teenuse kohta, mille alusel makstakse kiirabibrigaadi pidajale tasu;\n7) juhtumid või töökorralduslikud muudatused, mille puhul on vajalik eelnev kirjalik kooskõlastus Tervisekassaga;\n8) juhtumid, kui Tervisekassa kiirabibrigaadi pidajale tasu ei maksa või võib tasutavat summat vähendada;\n9) juhtumid, kui pooltel on õigus ühepoolselt leping lõpetada, seda muuta või selle täitmine osaliselt või täielikult peatada, ja juhtumid, kui rikkumine on vabandatav;\n10) osutatud kiirabiteenuse kohta Tervisekassale andmete esitamise sagedus ja esitatavate andmete koosseis;\n11) kiirabibrigaadi pidaja aruandluskohustuse ning kiirabi osutamise valmisoleku ja osutatud teenuse kohta andmete esitamise kohustuse ulatus ning andmete koosseis;\n12) kiirabi kvaliteedi ja efektiivsuse näitajad;\n13) lepingupoolte vastutus lepingu rikkumise korral;\n14) muud tingimused, mis on vajalikud kiirabi osutamiseks eraldatud rahaliste vahendite efektiivse ja otstarbeka kasutamise tagamiseks.\n(5) Kiirabibrigaadi pidajaga, kes on osutanud teenust vastavalt käesoleva paragrahvi lõikes 4 ja kiirabi rahastamise lepingus sätestatud tingimustele, sõlmitakse uus leping. Kiirabi rahastamise lepingu pooled võivad lepingut muuta üksnes käesoleva paragrahvi lõikes 3 sätestatud asjaolusid arvestades."
+    },
+    {
+      "provision_ref": "para17^3",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "17^3",
+      "title": "§ 17^3. Kiirabi avalik konkurss",
+      "content": "(1) Tervisekassa korraldab kiirabibrigaadi pidaja valikuks avaliku konkursi, kui esineb vähemalt üks järgmistest tingimustest:\n1) teenust seni osutanud kiirabibrigaadi pidaja loobub teenuse osutamisest ja konkreetses teeninduspiirkonnas säilib vajadus kiirabi järele endises mahus;\n2) otsustatakse teenust seni osutanud kiirabibrigaadi pidajaga uut halduslepingut mitte sõlmida või lõpetatakse kehtiv leping seetõttu, et kiirabibrigaadi pidaja või tema osutatav teenus ei vasta käesolevas seaduses ja kiirabi rahastamise lepingus sätestatud nõuetele;\n3) kiirabibrigaadi pidaja kiirabi osutamise tegevusluba on kehtetuks tunnistatud;\n4) muudetakse teeninduspiirkondade jaotust;\n5) ajutine asendamine kestab rohkem kui kolm kuud.\n(2) Konkurss kuulutatakse välja 15 päeva jooksul käesoleva paragrahvi lõikes 1 nimetatud asjaolu ilmnemisest arvates.\n(3) Kuni konkursi võitjaga lepingu sõlmimiseni korraldab Terviseamet koostöös Tervisekassaga vajaduse korral teenuse osutamise ajutise asendamise kaudu."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "18",
+      "title": "§ 18. Kiirabi osutamise õiguslik vorm",
+      "content": "(1) Kiirabibrigaadi pidaja võib olla sellekohase tegevusloaga äriühing, füüsilisest isikust ettevõtja, sihtasutus, riigi või kohaliku omavalitsuse asutus.\n(2) Kiirabibrigaadi pidaval juriidilisel isikul ei või olla teist tegevusala peale kiirabi osutamise, tervishoiualase õppe- ja teadustöö, tervishoiuteenuse osutamisega seotud patsientide veo operatiivvalve välise auto või kiirabibrigaadiga. Kiirabibrigaadi pidav füüsilisest isikust ettevõtja võib äriregistrisse kantud ärinime all osutada ainult kiirabi.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud tegevusala piirang ei laiene kiirabibrigaadi pidavatele eriarstiabi osutajatele.\n(4)"
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "19",
+      "title": "§ 19. Kiirabi rahastamine",
+      "content": "(1) Kiirabi eest tasutakse Tervisekassa eelarvest Tervisekassa ja kiirabibrigaadi pidaja vahel sõlmitud kiirabi rahastamise lepingu alusel.\n(2) Kiirabi eest tasumise korra, kiirabibrigaadi pidajale makstava tasu arvutamise metoodika ja kiirabi hinna kehtestab valdkonna eest vastutav minister määrusega Tervisekassa nõukogu ettepanekul.\n(3) Kiirabibrigaadi pidaja ei või nõuda visiiditasu kiirabi osutamise eest."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "20",
+      "title": "§ 20. Eriarstiabi mõiste",
+      "content": "(1) Eriarstiabi on ambulatoorne või statsionaarne tervishoiuteenus, mida osutavad eriarst või hambaarst ja temaga koos töötavad tervishoiutöötajad.\n(1^1) Päevaravi on ambulatoorne tervishoiuteenus, mille osutamise käigus on vajalik inimese seisundi lühiajaline jälgimine ja mille järel lahkub inimene tervishoiuteenuse osutaja juurest samal päeval.\n(2) Eriarstiabi erialade ja erialade lisapädevuste loetelu kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "21",
+      "title": "§ 21. Haiglavälise eriarstiabi osutamine",
+      "content": "(1) Haiglavälist eriarstiabi võib osutada sellekohase tegevusloaga äriühing, füüsilisest isikust ettevõtja või sihtasutus.\n(2) Haiglavälise eriarstiabi osutamiseks vajalikele ruumidele, sisseseadele ja aparatuurile esitatavad nõuded kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "22",
+      "title": "§ 22. Haigla",
+      "content": "(1) Haigla on ambulatoorsete ja statsionaarsete tervishoiuteenuste osutamiseks moodustatud majandusüksus.\n(2) Haiglat võib pidada sellekohase tegevusloaga aktsiaselts või sihtasutus.\n(3) Haiglat pidaval aktsiaseltsil ja sihtasutusel ei või olla muud tegevusala peale eriarstiabi, kiirabi ning iseseisva füsioteraapia, logopeedilise ravi, psühholoogilise ravi, õendusabi ja ämmaemandusabi ning sotsiaalteenuste osutamise, tervishoiualase õppe- ja teadustöö, haiglaapteegi pidamise, tervishoiuvaldkonna vajadusteks moodustatud riigi tegevusvaru (edaspidi riigi tervishoiuvaru ) käitlemise, täisvere ja verekomponentide tootmise, rakkude, kudede ja elundite hankimise ja käitlemise ning kinnisasja kasutusse andmise.\n(4) Eriarstiabi osutava haigla liigid on piirkondlik haigla, keskhaigla, üldhaigla, kohalik haigla, erihaigla ja taastusravihaigla. Nõuded haigla liikidele kehtestab valdkonna eest vastutav minister.\n(4^1) Käesoleva seaduse § 55 lõike 1 alusel kehtestatud haiglavõrgu haigla on hädaolukorra seaduse § 36 lõike 2 punktis 1 nimetatud elutähtsa teenuse osutaja.\n(4^2)\n(5) Haigla pidaja esitab Sotsiaalministeeriumile käesoleva seaduse § 56 lõike 1 punkti 3 alusel koostatud haigla funktsionaalse arengukava ja eelarve. Valdkonna eest vastutav minister kehtestab haigla funktsionaalse arengukava ja eelarve esitamise ning avalikustamise tingimused ja korra."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "23",
+      "title": "§ 23. Eriarstiabi rahastamine",
+      "content": "(1) Ravikindlustusega hõlmatud isikule osutatud eriarstiabi eest tasutakse riigieelarves Tervisekassa eelarvesse ettenähtud vahenditest ulatuses, mille eest tasumise kohustuse on üle võtnud Tervisekassa.\n(2) Ravikindlustusega hõlmamata isik tasub eriarstiabi eest ise."
+    },
+    {
+      "provision_ref": "para23^1",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "23^1",
+      "title": "§ 23^1. Füsioteraapia",
+      "content": "Füsioteraapia on ambulatoorne või statsionaarne tervishoiuteenus, mida ravi eesmärgil osutab füsioterapeut koos pere- või eriarstiga või iseseisvalt."
+    },
+    {
+      "provision_ref": "para23^2",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "23^2",
+      "title": "§ 23^2. Füsioteraapia iseseisev osutamine ravi eesmärgil",
+      "content": "(1) Iseseisvalt võib füsioteraapiat ravi eesmärgil osutada sellekohase tegevusloaga äriühing, sihtasutus või füüsilisest isikust ettevõtja.\n(2) Iseseisvalt võib füsioteraapiat osutada vaid ambulatoorselt.\n(3) Ravi eesmärgil iseseisva füsioteraapia osutamise tingimused ja nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para23^3",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "23^3",
+      "title": "§ 23^3. Iseseisva füsioteraapia rahastamine",
+      "content": "(1) Ravi eesmärgil ravikindlustusega hõlmatud isikule osutatud iseseisva füsioteraapia eest tasub Tervisekassa ravikindlustuse seaduses sätestatud korras.\n(2) Ravikindlustusega hõlmamata isik tasub iseseisva füsioteraapia eest ise."
+    },
+    {
+      "provision_ref": "para23^4",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "23^4",
+      "title": "§ 23^4. Logopeediline ravi",
+      "content": "Logopeediline ravi on ambulatoorne või statsionaarne tervishoiuteenus, mida osutab logopeed koos pere- või eriarstiga või iseseisvalt."
+    },
+    {
+      "provision_ref": "para23^5",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "23^5",
+      "title": "§ 23^5. Logopeedilise ravi iseseisev osutamine",
+      "content": "(1) Iseseisvalt võib logopeedilist ravi osutada sellekohase tegevusloaga äriühing, sihtasutus või füüsilisest isikust ettevõtja.\n(2) Iseseisvalt võib logopeedilist ravi osutada vaid ambulatoorselt.\n(3) Iseseisva logopeedilise ravi osutamise tingimused ja nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para23^6",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "23^6",
+      "title": "§ 23^6. Iseseisva logopeedilise ravi rahastamine",
+      "content": "(1) Ravikindlustusega hõlmatud isikule osutatud iseseisva logopeedilise ravi eest tasub Tervisekassa ravikindlustuse seaduses sätestatud korras.\n(2) Ravikindlustusega hõlmamata isik tasub iseseisva logopeedilise ravi eest ise."
+    },
+    {
+      "provision_ref": "para23^7",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "23^7",
+      "title": "§ 23^7. Psühholoogiline ravi",
+      "content": "Psühholoogiline ravi on ambulatoorne või statsionaarne tervishoiuteenus, mida osutab kliiniline psühholoog koos pere- või eriarstiga või iseseisvalt."
+    },
+    {
+      "provision_ref": "para23^8",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "23^8",
+      "title": "§ 23^8. Psühholoogilise ravi iseseisev osutamine",
+      "content": "(1) Iseseisvalt võib psühholoogilist ravi osutada sellekohase tegevusloaga äriühing, sihtasutus või füüsilisest isikust ettevõtja.\n(2) Iseseisvalt võib psühholoogilist ravi osutada vaid ambulatoorselt.\n(3) Iseseisva psühholoogilise ravi osutamise tingimused ja nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para23^9",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "23^9",
+      "title": "§ 23^9. Iseseisva psühholoogilise ravi rahastamine",
+      "content": "(1) Ravikindlustusega hõlmatud isikule osutatud iseseisva psühholoogilise ravi eest tasub Tervisekassa ravikindlustuse seaduses sätestatud korras.\n(2) Ravikindlustusega hõlmamata isik tasub iseseisva psühholoogilise ravi eest ise."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "24",
+      "title": "§ 24. Õendusabi mõiste",
+      "content": "(1) Õendusabi on ambulatoorne või statsionaarne tervishoiuteenus, mida osutavad õde ja ämmaemand koos pere-, eri- või hambaarstiga või iseseisvalt.\n(1^1)\n(2) Õendusabi erialade loetelu kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "25",
+      "title": "§ 25. Õendusabi iseseisev osutamine",
+      "content": "(1) Iseseisvalt võib õendusabi osutada sellekohase tegevusloaga äriühing, sihtasutus või füüsilisest isikust ettevõtja.\n(1^1) Käesoleva paragrahvi lõikes 1 nimetatud piirangut õendusabi osutamise õiguslikule vormile ei kohaldata sotsiaalhoolekande seaduse §-s 100 nimetatud sotsiaalteenuse osutajatele ja sotsiaalhoolekande seaduse §-s 20 nimetatud sotsiaalteenust ööpäevaringselt osutavatele asutustele käesoleva seaduse § 25 lõike 3 alusel kehtestatud määruses nimetatud koduõendusteenuse osutamise korral.\n(2) Nõuded ambulatoorse õendusabi iseseisvalt osutamiseks vajalikele ruumidele, sisseseadele, aparatuurile, töövahenditele ja ravimitele kehtestab valdkonna eest vastutav minister määrusega.\n(3) Iseseisvalt osutada lubatud ambulatoorsete õendusabiteenuste loetelu ja nende hulka kuuluvad tegevused ning õendusabiteenuste osutamise tingimused kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para25^1",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "25^1",
+      "title": "§ 25^1. Õendushaigla",
+      "content": "(1) Õendushaigla on iseseisvalt osutada lubatud ambulatoorsete ja statsionaarsete õendusabiteenuste osutamiseks moodustatud majandusüksus.\n(2) Õendushaiglat võib pidada sellekohase tegevusloaga aktsiaselts või sihtasutus.\n(3) Õendushaiglat pidaval aktsiaseltsil ja sihtasutusel, välja arvatud eriarstiabi osutava haigla pidajal, ei või olla muud tegevusala peale iseseisvalt osutada lubatud õendusabiteenuste, ambulatoorse eriarstiabi, füsioteraapiateenuse ja sotsiaalteenuste osutamise, haiglaapteegi pidamise, tervishoiualase õppe- ja teadustöö ning kinnisasja kasutusse andmise.\n(4) Õendushaiglas iseseisvalt osutada lubatud õendusabiteenuste loetelu ja nende hulka kuuluvad tegevused ning statsionaarse õendusabi iseseisvalt osutamiseks vajalikule töötajate koosseisule, ruumidele, sisseseadele, aparatuurile ja töövahenditele esitatavad nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "26",
+      "title": "§ 26. Iseseisva õendusabi rahastamine",
+      "content": "(1) Ravikindlustusega hõlmatud isikule osutatud iseseisva õendusabi eest tasutakse riigieelarves Tervisekassa eelarvesse ettenähtud vahenditest ulatuses, mille eest tasumise kohustuse on üle võtnud Tervisekassa.\n(2) Ravikindlustusega hõlmamata isik tasub iseseisva õendusabi eest ise.\n(3) Ööpäevaringse erihooldusteenuse osutamise käigus osutatud iseseisvat õendusabi rahastatakse riigieelarvest Tervisekassa kaudu sõltumata isiku ravikindlustusega hõlmatusest."
+    },
+    {
+      "provision_ref": "para26^1",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "26^1",
+      "title": "§ 26^1. Ämmaemandusabi",
+      "content": "Ämmaemandusabi on ambulatoorne või statsionaarne tervishoiuteenus, mida osutab ämmaemand koos pere- või eriarstiga või iseseisvalt."
+    },
+    {
+      "provision_ref": "para26^2",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "26^2",
+      "title": "§ 26^2. Ämmaemandusabi iseseisev osutamine",
+      "content": "(1) Iseseisvalt võib ämmaemandusabi osutada sellekohase tegevusloaga äriühing, sihtasutus või füüsilisest isikust ettevõtja.\n(2) Iseseisvalt võib ämmaemandusabi osutada vaid ambulatoorselt.\n(3) Iseseisvalt osutada lubatud ämmaemandusabiteenuste loetelu ja nende hulka kuuluvad tegevused ning kodusünnitusabi osutamise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega.\n(4) Nõuded ämmaemandusabi iseseisvalt osutamiseks vajalikele ruumidele, sisseseadele, aparatuurile, töövahenditele ja ravimitele kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para26^3",
+      "chapter": "2. peatükk - TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "26^3",
+      "title": "§ 26^3. Iseseisva ämmaemandusabi rahastamine",
+      "content": "(1) Ravikindlustusega hõlmatud isikule osutatud iseseisva ämmaemandusabi eest tasutakse riigieelarves Tervisekassa eelarvesse ettenähtud vahenditest ulatuses, mille eest tasumise kohustuse on üle võtnud Tervisekassa.\n(2) Ravikindlustusega hõlmamata isik tasub iseseisva ämmaemandusabi eest ise."
+    },
+    {
+      "provision_ref": "para26^4",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "26^4",
+      "title": "§ 26^4. Tervishoiukorralduse infosüsteem",
+      "content": "(1) Tervishoiukorralduse infosüsteemi eesmärk on:\n1) registreerida tervishoiutöötajad, proviisorid ja farmatseudid, et tagada tervishoiuteenuste ja apteegiteenuse osutamine nõutava kvalifikatsiooniga isikute poolt eesmärgiga kaitsta teenusesaajate tervist;\n2) pidada tõhusa ametliku kontrolli tagamiseks arvestust tegevusloa saanud füüsilisest ja juriidilisest isikust ettevõtjate üle;\n3) tagada vajalikud andmed tervishoiuvaldkonna juhtimise ja korraldamise ülesannete täitmiseks;\n4) tagada järelevalve;\n5) töödelda tervisestatistika ja tervishoiupoliitika tegemiseks vajalikke andmeid.\n(2) Tervishoiukorralduse infosüsteemi asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega, milles sätestatakse:\n1) infosüsteemi volitatud töötleja, kui volitatud töötleja on määratud, ja töötlejate ülesanded;\n2) infosüsteemi kogutavate andmete täpsem koosseis ja infosüsteemi kandmise kord;\n3) andmetele juurdepääsu ja andmete väljastamise täpsem kord ning avaandmete koosseis;\n4) andmeandjate loetelu ja nendelt saadavad andmed;\n5) infosüsteemi rahastamine;\n6) muud korraldusküsimused.\n(3) Tervishoiukorralduse infosüsteemis töödeldakse järgmisi andmeid:\n1) tervishoiutöötajate, tervishoiuteenuse osutamisel osalevate isikute, proviisorite ja farmatseutide eluloolised andmed;\n2) tervishoiutöötajate, proviisorite ja farmatseutide kvalifikatsiooni tõendavad andmed;\n3) tervishoiutöötajate, tervishoiuteenuse osutamisel osalevate isikute, proviisorite ja farmatseutide töökohaandmed;\n4) tervishoiutöötajate, proviisorite ja farmatseutide registreerimismenetluse andmed;\n5) tervishoiuteenuse osutaja tegevusloa ja selle menetluse andmed;\n5^1) tervishoiuteenuse osutaja vastutuskindlustuslepingu sõlmimisega seotud andmed;\n6) tervishoiuteenuse osutaja majandustegevuse üldandmed;\n7) infosüsteemi logid.\n(4) Tervishoiukorralduse infosüsteemis säilitatakse andmeid järgmiselt:\n1) tervishoiutöötaja, tervishoiuteenuse osutamisel osaleva isiku, proviisori ja farmatseudi andmeid kuni 30 aastat isiku surmast;\n2) tervishoiuteenuse osutaja andmeid 30 aastat tegevusloa kehtivuse või majandustegevuse lõppemisest;\n3) logisid ja alusandmeid vastavalt infosüsteemi põhimääruses sätestatule, kuid mitte kauem kui 30 aastat andmete infosüsteemi vastuvõtmisest.\n(5) Andmete hoidmise, säilitamise, arhiveerimise ja kustutamise täpsem kord sätestatakse käesoleva paragrahvi lõike 2 alusel kehtestatud tervishoiukorralduse infosüsteemi põhimääruses.\n(6) Tervishoiukorralduse infosüsteemi vastutav töötleja on Terviseamet.\n(7) Tervishoiuteenuse osutamise tegevusloa omaja on kohustatud teavitama Terviseametit tegevusloaga seotud andmete ja käesoleva seaduse § 59^3 lõikes 2^1 nimetatud isikute muutumisest. Andmete muutmine tagatakse elektroonilise kanali kaudu. Andmete esitamise täpsem kord sätestatakse käesoleva paragrahvi lõike 2 alusel kehtestatud tervishoiukorralduse infosüsteemi põhimääruses.\n(8) Tervishoiukorralduse infosüsteemile kohaldatakse majandustegevuse seadustiku üldosa seaduses sätestatut, arvestades käesolevas seaduses sätestatud erisusi.\n(9) Terviseamet avaldab tervishoiukorralduse infosüsteemis olevad tervishoiutöötaja kvalifikatsiooni ja tegevusloaga seotud andmed avalikuks kasutamiseks ulatuses, mis on sätestatud käesoleva paragrahvi lõike 2 alusel kehtestatud tervishoiukorralduse infosüsteemi põhimääruses.\n(10) Tervishoiukorralduse infosüsteemi kantud andmetel on õiguslik tähendus käesolevas seaduses ja ravimiseaduses sätestatud ulatuses."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "27",
+      "title": "§ 27. Registreerimise õiguslik tähendus",
+      "content": "(1) Tervishoiutöötaja registreeritakse tervishoiukorralduse infosüsteemis. Registreering annab tervishoiutöötajale õiguse osutada tervishoiuteenuseid selle omandatud kutse või eriala piirides, mille alusel ta on registreeritud.\n(2) Tervishoiutöötaja võib osutada üksnes neid tervishoiuteenuseid, mille osutajana ta on Terviseametis registreeritud."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "28",
+      "title": "§ 28. Registreerimismenetlus",
+      "content": "(1) Registreerimist taotlev isik esitab Terviseametile registreerimistaotluse ja kvalifikatsiooni tõendava dokumendi ärakirja, kui isiku kvalifikatsiooni tõendavad andmed ei sisaldu Eesti hariduse infosüsteemis, ning Euroopa kutsekaardi olemasolu korral ka andmed Euroopa kutsekaardi kohta.\n(1^1) Registreerimistaotluse läbivaatamise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määras.\n(2) Registreerimistaotluses esitatavate andmete loetelu kehtestab valdkonna eest vastutav minister.\n(3) Tervishoiutöötajate registreerimise aluseks olevate kvalifikatsiooni tõendavate dokumentide loetelu kehtestab valdkonna eest vastutav minister.\n(4) Registreerimistaotluse saamisel kontrollib Terviseamet isiku kvalifikatsiooni andmeid Eesti hariduse infosüsteemis. Kui isiku kvalifikatsiooni andmed on kantud Eesti hariduse infosüsteemi ja isik on tasunud registreerimistaotluse läbivaatamise eest riigilõivu, registreeritakse ta automaatselt tervishoiutöötajana tervishoiukorralduse infosüsteemis, välja arvatud käesoleva seaduse § 28 lõikes 9 nimetatud juhul.\n(4^1) Kui Eesti hariduse infosüsteemis kvalifikatsiooni andmeid ei ole või need on puudulikud, tuleb registreerimise taotlejal esitada Terviseametile kvalifikatsiooni tõendava dokumendi ärakiri. Terviseamet kontrollib kvalifikatsiooni tõendavas dokumendis esitatud andmete õigsust ja teeb registreerimisotsuse ühe kuu jooksul dokumendi esitamisest arvates, välja arvatud käesoleva seaduse § 29 lõikes 1^1 ja § 30 lõikes 2 nimetatud juhtudel.\n(5) Isikut ei registreerita tervishoiutöötajana, kui:\n1) isik esitas teadvalt valeandmeid või\n2) isikult on ära võetud õigus töötada registreerimistaotluses nimetatud kutse- või erialal.\n(6) Kui isikut Terviseametis ei registreerita, siis teatatakse talle sellest kirjalikult otsuse tegemise päevast alates 10 tööpäeva jooksul.\n(7)\n(8)\n(9) Eestis arsti, hambaarsti, õe või ämmaemanda kvalifikatsiooni omandanud isik, kes esitab registreerimistaotluse hiljem kui viis aastat pärast kvalifikatsiooni omandamist, peab sooritama tervishoiutöötaja teooria- ja praktikaeksami, tasuma selle eest kuni 1000 eurot ning esitama eksami sooritamist tõendava dokumendi Terviseametile.\n(10) Isik, kelle kvalifikatsiooni tõendav dokument ei sisaldu käesoleva paragrahvi lõike 3 alusel kehtestatud loetelus, peab enda tervishoiutöötajana registreerimise taotlemiseks sooritama tervishoiutöötaja teooria- ja praktikaeksami, tasuma selle eest kõige rohkem 1000 eurot ning esitama eksami sooritamist tõendava dokumendi Terviseametile.\n(11) Käesoleva paragrahvi lõigetes 9 ja 10 nimetatud tervishoiutöötaja teooria- ja praktikaeksami koostamise, korraldamise ja hindamise korra ning tasu suuruse kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "29",
+      "title": "§ 29. Euroopa Liidu liikmesriigis, Euroopa Majanduspiirkonna liikmesriigis ja Šveitsis omandatud kvalifikatsiooniga isiku registreerimine",
+      "content": "(1) Euroopa Liidu liikmesriigis, Euroopa Majanduspiirkonna liikmesriigis (edaspidi Euroopa Majanduspiirkonna liikmesriik ) või Šveitsis kvalifikatsiooni omandanud isiku registreerimise suhtes kohaldatakse käesoleva seaduse § 28 lõikeid 1–2 ning 5 ja 6.\n(1^1) Terviseamet annab registreerimist taotlevale isikule kinnituse registreerimistaotluse kättesaamise kohta ühe kuu jooksul käesoleva seaduse § 28 lõikes 1 nimetatud dokumentide esitamisest arvates ja teavitab vajaduse korral isikut puuduvatest dokumentidest. Terviseamet kontrollib kvalifikatsiooni tõendavas dokumendis esitatud andmete õigsust ja teeb registreerimisotsuse kahe kuu jooksul kõigi ettenähtud dokumentide esitamisest arvates. Kui registreerimismenetluse käigus tekib vajadus hinnata käesoleva seaduse § 29 lõikes 3 nimetatud asjaolusid, on Terviseametil õigus registreerimisotsuse tegemise tähtaega pikendada kolme kuuni, teatades registreerimist taotlevale isikule viivitamata tähtaja pikendamisest ja pikendamise põhjusest.\n(2) Euroopa Majanduspiirkonna liikmesriigis või Šveitsis omandatud kvalifikatsiooni tõendab dokument, mis annab tervishoiutöötajale õiguse osutada dokumendis märgitud kutse- või erialal tervishoiuteenuseid vastavas Euroopa Majanduspiirkonna liikmesriigis või Šveitsis.\n(3) Kui isik on Euroopa Majanduspiirkonna liikmesriigis või Šveitsis omandanud eriarstiabi eriala, mida ei ole nimetatud käesoleva seaduse § 20 lõike 2 alusel kehtestatud loetelus, või kui isiku omandatud eriala automaatselt ei tunnustata, otsustab Terviseamet vastavalt välisriigi kutsekvalifikatsiooni tunnustamise seaduses sätestatule isiku kvalifikatsiooni tunnustamise või kohustuse sooritada sobivustest.\n(4) Euroopa Majanduspiirkonna liikmesriigis või Šveitsis omandatud kvalifikatsiooni tõendavate dokumentide loetelu ja kvalifikatsiooni vastavuse hindamise korra kehtestab valdkonna eest vastutav minister.\n(5) Kui tervishoiutöötaja kutsealal on Euroopa Parlamendi ja nõukogu direktiivi 2005/36/EÜ kutsekvalifikatsiooni tunnustamise kohta (ELT L 255, 30.09.2005, lk 22–142) artikli 4a lõike 7 alusel Euroopa Komisjoni rakendusmäärusega kasutusele võetud Euroopa kutsekaart ja Euroopa Majanduspiirkonna liikmesriigi või Šveitsi pädev asutus on Eesti pädevale asutusele edastanud taotluse isiku Eestis töötamiseks, kohaldatakse Euroopa kutsekaardi taotlemisele ja taotluse menetlemisele välisriigi kutsekvalifikatsiooni tunnustamise seaduse §-e 21^1, 21^4 ja 21^5."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "30",
+      "title": "§ 30. Muus välisriigis omandatud kvalifikatsiooniga isiku registreerimine",
+      "content": "(1) Käesoleva seaduse §-s 29 nimetamata välisriigis kvalifikatsiooni omandanud isiku registreerimise suhtes kohaldatakse käesoleva seaduse § 28 lõikeid 1–2 ja 5–6.\n(1^1) Kui käesoleva seaduse §-s 29 nimetamata välisriigis omandatud kvalifikatsiooniga isiku kvalifikatsiooni on eelnevalt tunnustanud Euroopa Majanduspiirkonna liikmesriik või Šveits ja isik on omandanud tema kvalifikatsiooni tunnustanud Euroopa Majanduspiirkonna liikmesriigis või Šveitsis vastaval kutse- või erialal kolmeaastase töökogemuse, otsustab Terviseamet vastavalt välisriigi kutsekvalifikatsiooni tunnustamise seaduses sätestatule isiku kvalifikatsiooni tunnustamise või kohustuse sooritada sobivustest. Registreerimise taotlemisel esitab isik käesoleva seaduse § 28 lõikes 1 nõutavale lisaks dokumendi, mis tõendab isiku nõutavat töökogemust ja õigust osutada tervishoiuteenust Euroopa Majanduspiirkonna liikmesriigis või Šveitsis.\n(2) Terviseamet võrdleb registreerimist taotleva isiku kvalifikatsiooni Eestis nõutavaga, kontrollib kvalifikatsiooni tõendavas dokumendis esitatud andmete õigsust kolme kuu jooksul käesoleva seaduse § 28 lõikes 1 nimetatud dokumentide esitamisest arvates ning teeb registreerimisotsuse ühe kuu jooksul pärast seda, kui registreerimist taotlev isik on sooritanud vastavuseksami.\n(2^1) Välisriigis omandatud kvalifikatsiooni Eestis nõutava kvalifikatsiooniga võrdlemise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega.\n(3) Erialase kvalifikatsiooni nõuetele vastavuse hindamiseks sooritab käesoleva seaduse §-s 29 nimetamata välisriigis kvalifikatsiooni omandanud isik vastavuseksami, mille hindamise eest tasub isik Tartu Ülikoolile, Tallinna Tervishoiu Kõrgkoolile või Tartu Tervishoiu Kõrgkoolile (edaspidi kaks viimast koos tervishoiukõrgkool ) kõige rohkem 1000 eurot. Vastavuseksami hindamise tasu suurus määratakse käesoleva paragrahvi lõike 3^7 alusel kehtestatud määrusega.\n(3^1) Vastavuseksami korraldab Tartu Ülikool või tervishoiukõrgkool ning see koosneb tööpraktikast ja teooriaeksamist. Vastavuseksam sooritatakse eesti keeles.\n(3^2) Tartu Ülikool või tervishoiukõrgkool suunab isiku tööpraktikale Tartu Ülikooli residentuuri baasasutusse või tervishoiukõrgkooli praktikabaasi. Tööpraktikale suunatud isiku tasu tööpraktika ajal, Tartu Ülikooli või tervishoiukõrgkooli korralduskulud ning tööpraktika juhendamistasu kaetakse riigieelarvest Sotsiaalministeeriumi eelarve kaudu, välja arvatud, kui isik taotleb registreerimist hambaarstina. Tööpraktikale suunatud isik peab tööpraktika ajal olema registreeritud tervishoiukorralduse infosüsteemis.\n(3^3) Tööpraktika kestab üks kuni kuus kuud. Juhendaja taotlusel võib tööpraktikat pikendada kuni ühe aastani.\n(3^4) Tartu Ülikool või tervishoiukõrgkool korraldab tööpraktika sooritanud isikule teooriaeksami 12 kuu jooksul pärast tööpraktika lõppemist. Kui isikul jääb tööpraktika esimest korda sooritamata, võib ta esitada uue taotluse kvalifikatsiooni nõuetele vastavuse hindamiseks kuue kuu pärast.\n(3^5) Kui isikul jääb tööpraktika teist korda sooritamata, on Terviseametil õigus nõuda isikult täiendavaid dokumente kvalifikatsiooni nõuetele vastavuse kohta ja põhjendatud juhul keelduda kvalifikatsiooni hindamisest.\n(3^6) Kui isikul jääb teooriaeksam esimest korda sooritamata, saab ta seda teist korda teha kuue kuni 12 kuu pärast. Kui isikul jääb teooriaeksam teist korda sooritamata, võib ta esitada uue taotluse kvalifikatsiooni nõuetele vastavuse hindamiseks.\n(3^7) Välisriigis kvalifikatsiooni omandanud isikule vastavuseksami koostamise, korraldamise ja hindamise korra ning tasu suuruse kehtestab valdkonna eest vastutav minister määrusega.\n(4) Isikut ei registreerita tervishoiutöötajana, kui ta on esitanud teadvalt valeandmeid või kui isiku kvalifikatsioon ei vasta Eestis sellel kutse- või erialal töötamiseks nõutavale kvalifikatsioonile.\n(5) Käesoleva paragrahvi lõikes 1^1 nimetatud juhul, kui tervishoiutöötaja kutsealal on Euroopa Parlamendi ja nõukogu direktiivi 2005/36/EÜ artikli 4a lõike 7 alusel Euroopa Komisjoni rakendusmäärusega kasutusele võetud Euroopa kutsekaart ja Euroopa Majanduspiirkonna liikmesriigi või Šveitsi pädev asutus on Eesti pädevale asutusele edastanud taotluse isiku Eestis töötamiseks, kohaldatakse Euroopa kutsekaardi taotlemisele ja taotluse menetlemisele välisriigi kutsekvalifikatsiooni tunnustamise seaduse §-e 21^1, 21^4 ja 21^5."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "31",
+      "title": "§ 31. Tõend",
+      "content": "(1) Tervishoiutöötajale väljastatakse tema soovi korral registreeringu tõend tervishoiukorralduse infosüsteemis registreerimise kohta.\n(2) Registreeringu tõendi väljastamise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määras."
+    },
+    {
+      "provision_ref": "para31^1",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "31^1",
+      "title": "§ 31^1. Kutsekvalifikatsiooni tunnustamine",
+      "content": "(1) Kui tervishoiutöötajana registreeritud isik soovib töötada väljaspool Eesti Vabariiki, taotleb ta enda kutsekvalifikatsiooni tunnustamist käesolevas paragrahvis kehtestatud korras.\n(2) Kutsekvalifikatsiooni tunnustamist taotlev isik esitab Terviseametile taotluse, milles on järgmised andmed:\n1) ees- ja perekonnanimi;\n2) registreerimisnumber;\n3)\n4) riik, kus tunnustamist kavatsetakse taotleda;\n5) kutse või eriala, millel soovitakse tunnustamist.\n(3) Kutsekvalifikatsiooni tunnustamise taotluse läbivaatamise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määras.\n(4) Terviseamet väljastab isikule kutsekvalifikatsiooni tunnustamise tõendi kuu aja jooksul taotluse esitamisest arvates.\n(5) Kutsekvalifikatsiooni tunnustamise tõend kehtib kolm kuud selle väljaandmisest arvates.\n(6) Kutsekvalifikatsiooni tunnustamise tõendi kaotuse, varguse või hävimise korral väljastatakse isikule tema taotluse alusel tõendi duplikaat.\n(7) Kui tervishoiutöötaja kutsealal on Euroopa Parlamendi ja nõukogu direktiivi 2005/36/EÜ artikli 4a lõike 7 alusel Euroopa Komisjoni rakendusmäärusega kasutusele võetud Euroopa kutsekaart ja registreerimist taotlev isik soovib Euroopa kutsekaarti Eesti Vabariigist väljaspool töötamiseks, kohaldatakse Euroopa kutsekaardi taotlemisele ja taotluse menetlemisele välisriigi kutsekvalifikatsiooni tunnustamise seaduse §-e 21^1–21^3."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "32",
+      "title": "§ 32. Registreeringu kehtetuks tunnistamine",
+      "content": "Terviseamet tunnistab tervishoiutöötaja registreeringu tervishoiukorralduse infosüsteemis kehtetuks pärast tervishoiutöötaja surma."
+    },
+    {
+      "provision_ref": "para32^1",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "32^1",
+      "title": "§ 32^1. Registreeringu peatamine",
+      "content": "(1) Terviseamet võib peatada tervishoiutöötaja registreeringu tervishoiukorralduse infosüsteemis kuni üheks aastaks, kui tervishoiutöötaja on jätnud ettekirjutuse täitmata.\n(2) Terviseamet peatab tervishoiutöötaja registreeringu tervishoiukorralduse infosüsteemis kuni kolmeks aastaks, kui tervishoiutöötajale on kohtuotsusega kohaldatud kvalifikatsiooni tõendavas dokumendis või infosüsteemis märgitud kutse- või erialal tegutsemise keeldu."
+    },
+    {
+      "provision_ref": "para32^2",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "32^2",
+      "title": "§ 32^2. Hoiatusmehhanismi rakendamine",
+      "content": "Terviseamet rakendab hoiatusmehhanismi välisriigi kutsekvalifikatsiooni tunnustamise seaduse 3^2. peatükis kehtestatud korras."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "33",
+      "title": "§ 33. Tervishoiuteenuste ajutine osutamine",
+      "content": "Euroopa Majanduspiirkonna liikmesriigis või Šveitsis kvalifikatsiooni omandanud isik võib Eestis ajutiselt tervishoiuteenuseid osutada ilma käesoleva seaduse § 27 alusel nõutava registreerimiskohustuseta ja § 40 alusel nõutava tegevusloata, lähtudes välisriigi kutsekvalifikatsiooni tunnustamise seaduse 3. ja 3^1. peatükis sätestatust. Pädev asutus välisriigi kutsekvalifikatsiooni tunnustamise seaduse 3. ja 3^1. peatüki tähenduses on Terviseamet."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "34",
+      "title": "§ 34. Nimistu moodustamine",
+      "content": "(1) Nimistu moodustamise õiguse andmiseks viib Tervisekassa läbi avaliku konkursi valdkonna eest vastutava ministri kehtestatud korras.\n(1^1) Konkurss viiakse läbi uue nimistu moodustamise õiguse andmiseks või vabanenud nimistule perearstiabi osutamise korraldamiseks.\n(2) Nimistu moodustamise õiguse taotleja esitab Tervisekassale järgmised dokumendid ja andmed:\n1) avalduse, milles märgitakse ära taotleja nimi, isikukood või sünniaeg, elukoht, sidevahendite numbrid ning kavandatava tegevuskoha asukoht ja aadress;\n2) perearstiga koos töötavate tervishoiutöötajate nimed ja isikukoodid.\n3)\n(3) Avaliku konkursi alusel kinnitamata jäänud nimistu olemasolul on nimistuga perearstil õigus ühe aasta jooksul avaliku konkursi lõppemisest arvates konkursiväliselt taotleda Tervisekassalt perearsti nimistusse kantud isikute osalist üleandmist uue nimistuna perearsti kvalifikatsiooniga tervishoiutöötajale, kes on taotluse esitamisele eelneva kuue kuu jooksul osutanud nimistusse kantud isikutele koos perearstiga perearstiabi (edaspidi nimistu osa üleandmine ).\n(4) Nimistu osa üleandmisel tuleb lähtuda järgmistest põhimõtetest:\n1) nimistu osa üleandmisel uue nimistu kinnitamine avaliku konkursi korras kinnitamata jäänud nimistu teeninduspiirkonnaga on lubatud tingimusel, et nimistu osa üleandmist taotleva perearsti ja uue nimistu teeninduspiirkond ühtivad;\n2) nimistu osa üleandmist taotleva perearsti nimistusse kantud isikute arv ei tohi üleandmise tulemusel väheneda alla nimistu piirsuuruse miinimummäära;\n3) nimistu osa üleandmisel peab kinnitatavasse uude nimistusse kantavate isikute arv olema vähemalt 1200 isikut;\n4) nimistu osa üleandmist taotleva perearsti nimistus registreeritud isikud on andnud kirjaliku nõusoleku enda kandmiseks uude nimistusse;\n5) nimistu osa üleandmist taotleva perearsti nimistusse kantud ja uude nimistusse kantavatele isikutele on tagatud katkematu ja nõuetekohane perearstiabi osutamine.\n(5) Avaliku konkursi korras täitmata nimistu olemasolul võib nimistuga perearst Tervisekassalt motiveeritult taotleda nimistu osa üleandmist ka käesoleva paragrahvi lõikes 3 sätestamata juhul, kui nimistu osa üleandmise taotlemisel järgitakse käesoleva paragrahvi lõike 4 punktides 2–5 sätestatud põhimõtteid ning nimistu osa üleandmine soodustab taotletavas teeninduspiirkonnas perearstiabi osutamise üldist kättesaadavust ja korraldust. Taotluse esitamine ei ole lubatud, kui taotluse esitamise ajal toimub avalik konkurss taotluses nimetatud perearsti teeninduspiirkonnas nimistu moodustamise õiguse andmiseks.\n(6) Nimistu osa üleandmist taotlev perearst esitab Tervisekassale järgmised dokumendid ja andmed:\n1) taotlus, milles märgitakse taotleja nimi, isikukood või selle puudumisel sünniaeg, elukoht, sidevahendite numbrid, perearsti tegevuskoha asukoht ja aadress, perearsti teeninduspiirkond;\n2) uue nimistu kinnitamisel taotletav perearsti teeninduspiirkond;\n3) meetmete kirjeldus, millega tagatakse nimistu osa üleandmist taotleva perearsti nimistusse kantud ja uude nimistusse kantavatele isikutele katkematu ja nõuetekohane perearstiabi osutamine;\n4) perearstiga pärast nimistu osa üleandmist tööle asuvate tervishoiutöötajate nimed ja isikukoodid;\n5) isiku, kellele soovitakse nimistu osa üle anda, kirjalik avaldus nimistu osa vastuvõtmiseks, milles on märgitud avaldaja nimi, isikukood, elukoht, sidevahendite numbrid, kavandatava tegevuskoha asukoht ja aadress, samuti avaldajaga koos tööle asuvate tervishoiutöötajate nimed ja isikukoodid;\n6) nimistu osa üleandmist taotleva perearsti nimistus registreeritud isikute kirjalik nõusolek enda registreerimiseks uues nimistus.\n(7) Tervisekassal on nimistu osa üleandmise taotluse menetluses õigus nõuda täiendavate andmete või selgituste esitamist nimistu osa üleandmise vastavuse kohta käesolevas seaduses sätestatud põhimõtetele."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "35",
+      "title": "§ 35. Perearstina tegutsemise õigus",
+      "content": "(1) Nimistuga perearst võib tegutseda perearstiabi osutamise tegevusluba omava füüsilisest isikust ettevõtjana või perearstiabi osutamise tegevusluba omava äriühingu kaudu.\n(2) Perearsti nimistu kinnitab ning perearsti teeninduspiirkonna ja nimistu piirsuuruse määrab või muudab Tervisekassa.\n(3) Tervisekassa otsustab nimistu osa üleandmise taotluse rahuldamata jätmise, kui ei ole täidetud käesoleva seaduse § 34 lõigetes 3–6 sätestatud nõuded nimistu osa üleandmiseks.\n(4) Tervisekassa otsustab jätta nimistu osa üleandmise taotluse rahuldamata, kui:\n1) täiendava nimistu kinnitamine avaliku konkursi korras täitmata nimistu teeninduspiirkonnale ei ole perearstiabi parema korralduse ja kättesaadavuse tagamise kaalutlustest lähtuvalt põhjendatud;\n2) nimistu kinnitamine nimistu osa üleandmise taotluses taotletud perearsti teeninduspiirkonnaga ei ole piirkonna perearstiabi korralduse ja kättesaadavuse kaalutlustest lähtuvalt põhjendatud;\n3) nimistu osa üleandmise taotlus ei vasta käesolevas seaduses sätestatud nõuetele ning taotleja ei ole Tervisekassa määratud tähtaja jooksul puudusi kõrvaldanud;\n4) nimistu osa üleandmise taotleja keeldub käesoleva seaduse § 34 lõikes 7 sätestatud Tervisekassa nõude täitmisest;\n5) nimistu osa üleandmise taotluses on teadvalt esitatud ebaõigeid andmeid või valeandmeid;\n6) muu olulise avaliku huvi esinemisel.\n(5) Perearstiabi parema korralduse ja kättesaadavuse tagamise kaalutlustest lähtuvalt võib Tervisekassa määrata perearstile täiendava teeninduspiirkonna.\n(6) Tervisekassa teeb käesoleva paragrahvi lõigetes 2–5 nimetatud otsuse perearstile, perearsti teeninduspiirkonna kohaliku omavalitsuse üksusele ja Terviseametile teatavaks viie tööpäeva jooksul otsuse tegemisest arvates.\n(7) Perearst on kohustatud alustama perearstiabi osutamist käesoleva paragrahvi lõikes 2 nimetatud otsuses määratud kuupäeval.\n(8) Tervisekassa võib kinnitada nimistu peremeditsiini residentuuris õppivale arst-residendile tingimusel, et nimistuga perearstina tegutsemise alustamise hetkeks on tema erialaks Terviseameti registris märgitud perearst.\n(9) Tervisekassa võib perearstiabi parema korralduse ja kättesaadavuse tagamise kaalutlustest lähtuvalt liita perearsti nimistule perearstita nimistu juhul, kui nimistute liitmise tulemusena jääb isikute hulk nimistus nimistu ülemisest piirmäärast väiksemaks. Kui uues nimistus on üle 2000 isiku, on vaja perearsti nõusolekut."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "36",
+      "title": "§ 36. Andmete edastamise kohustus",
+      "content": "(1)\n(2) Perearst on kohustatud esitama Terviseametile:\n1)\n2)\n3) digitaalselt allkirjastatud teate perearstina tegutsemise ning perearstiabi osutamise õigusliku vormi või selle muutmise kohta.\n4)\n(3)\n(4) Perearst on kohustatud esitama Tervisekassale käesoleva seaduse § 37 lõike 1 punktis 1 nimetatud taotluse esimesel võimalusel, kuid hiljemalt kuus kuud enne nimistuga perearstina töötamisest loobumist."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "37",
+      "title": "§ 37. Perearstilt nimistu äravõtmine",
+      "content": "(1) Tervisekassa võtab perearstilt nimistu ära, kui:\n1) seda taotleb perearst ise;\n2) perearstile on kohtuotsusega kohaldatud perearsti erialal tegutsemise keeld;\n3) perearsti ei ole võimalik tema pikaajalise töövõimetuse korral asendada;\n4) perearsti pikaajaline asendamine on kestnud kauem kui käesoleva seaduse § 8^1 lõikes 7 kehtestatud aeg;\n5) perearst on tunnistatud teadmata kadunuks;\n6) perearst on surnud või tunnistatud surnuks.\n(2) Terviseamet võtab perearstilt nimistu ära, kui:\n1) perearst ei ole alustanud perearstiabi osutamist käesoleva seaduse § 35 lõikes 2 nimetatud otsuses määratud kuupäeval või on rohkem kui 60 kalendripäevaks katkestanud perearstiabi osutamise;\n2) osutatavate tervishoiuteenuste kvaliteet ei vasta käesoleva seaduse § 3^2 lõike 9 alusel kehtestatud nõuetele;\n3) perearst ei täida käesoleva seaduse § 8 lõike 6^1 alusel kehtestatud tööjuhendis ettenähtud nõudeid perearsti nimistusse kantud inimestele tervishoiuteenuse kättesaadavuse ja järjepidevuse tagamisel;\n4) perearst või temaga koos töötav tervishoiutöötaja rikub oluliselt isikuandmete töötlemise nõudeid;\n5) perearsti asendamine on perearsti töötamise ja asendamise kestust, sagedust, regulaarsust, episoodilisust ja pidevust koosmõjus arvestades kaotanud ajutise iseloomu ning perearstiabi järjepidev osutamine kinnitatud nimistuga perearsti poolt ei ole tagatud.\n(3) Enne käesoleva paragrahvi lõikes 2 sätestatud alusel otsuse tegemist võib Terviseamet teha perearstile ettekirjutuse.\n(4) Kui käesoleva seaduse § 35 lõike 2 alusel on perearsti nimistu kinnitanud Tervisekassa ning Terviseamet teeb käesoleva paragrahvi lõike 2 alusel otsuse perearstilt nimistu ära võtta, loetakse Tervisekassa otsusest tulenevad õigused ja kohustused lõppenuks Terviseameti otsuse kehtima hakkamisest.\n(5) Käesoleva paragrahvi lõike 1 punktides 1–4 või lõikes 2 sätestatud alusel tehtud otsus tehakse perearstile teatavaks viie tööpäeva jooksul otsuse tegemisest arvates. Perearstilt nimistu äravõtmise otsus avaldatakse ametlikus väljaandes Ametlikud Teadaanded.\n(6) Tervisekassa teeb käesoleva paragrahvi lõike 1 alusel tehtud otsuse viivitamata teatavaks Terviseametile. Terviseamet teeb käesoleva paragrahvi lõike 2 alusel tehtud otsuse viivitamata teatavaks Tervisekassale."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "38",
+      "title": "§ 38. Toimingud perearstilt nimistu äravõtmisel",
+      "content": "(1) Perearstilt nimistu äravõtmise korral korraldab Tervisekassa perearsti nimistusse kuuluvate isikute ja teeninduspiirkonna teenindamise kuni uuele perearstile nimistu kinnitamiseni.\n(1^1) Perearstilt nimistu äravõtmisel käesoleva seaduse § 37 lõikes 1 või 2 sätestatud juhul on perearstiabi osutamise tegevusloa omaja, mille kaudu perearst tegutses, kohustatud nimistut puudutavaid dokumente säilitama ning andma need üle sellele füüsilisest isikust ettevõtjale või äriühingule, mille kaudu jätkub perearstiabi osutamine nimistusse kuuluvatele isikutele, või nimetatu puudumise korral Tervisekassale käesoleva paragrahvi lõikes 2 viidatud korras.\n(2) Perearsti nimistut puudutavate dokumentide üleandmise korra kehtestab valdkonna eest vastutav minister määrusega.\n(3) Kui perearst oli perearstiabi osutava äriühingu ainus osanik või aktsionär või füüsilisest isikust ettevõtja ning temalt on nimistu ära võetud käesoleva seaduse § 37 lõike 1 punktis 5 või 6 sätestatud juhul, korraldab Tervisekassa nimistut puudutavate dokumentide säilitamise ja üleandmise sellele füüsilisest isikust ettevõtjale või äriühingule, mille kaudu jätkub perearstiabi osutamine nimistusse kuuluvatele isikutele.\n(4) Füüsilisest isikust ettevõtja või äriühing, mille kaudu jätkub perearstiabi osutamine nimistusse kuuluvatele isikutele, on kohustatud nimistut puudutavad dokumendid käesoleva paragrahvi lõigetes 1^1 ja 3 nimetatud juhtudel perearstiabi osutamise tegevusloa omajalt või Tervisekassalt vastu võtma."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "39",
+      "title": "§ 39. Perearsti tegutsemise piirangud",
+      "content": "Perearst ei või olla eriarstiabi osutamisega tegeleva äriühingu osanik või aktsionär, sellise äriühingu osanikuks või aktsionäriks oleva äriühingu osanik või aktsionär."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "40",
+      "title": "§ 40. Loakohustus",
+      "content": "(1) Tegevusluba peab olema järgmistel tegevusaladel tegutsemiseks:\n1) perearsti nimistu alusel perearstiabi osutamine;\n2) kiirabi osutamine;\n3) eriarstiabi osutamine;\n4) iseseisvalt õendusabi osutamine;\n5) iseseisvalt ämmaemandusabi osutamine;\n6) iseseisvalt füsioteraapia osutamine ravi eesmärgil;\n7) iseseisvalt logopeedilise ravi osutamine;\n8) iseseisvalt psühholoogilise ravi osutamine.\n(2) Haiglavõrgu kavas nimetatud haigla pidajale antakse tegevusluba tervishoiuteenuse osutamiseks ainult temale haiglavõrgu kavaga kinnitatud haigla liigi osas.\n(3) Tegevusluba annab õiguse osutada tervishoiuteenuseid tegevusloas märgitud tegevuskohas."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "41",
+      "title": "§ 41. Tegevusloa taotlemine",
+      "content": "(1) Tegevusloa taotluse lahendab Terviseamet tegevusloa andmise või andmisest keeldumisega 60 päeva jooksul taotluse esitamisest arvates.\n(2) Tegevusloa taotluses esitatakse lisaks majandustegevuse seadustiku üldosa seaduses sätestatud andmetele järgmised andmed:\n1) tervishoiuteenuse osutamiseks Kaitseväes või Kaitseväe kiirabi osutamise loa taotlemisel Kaitseväe struktuuriüksuse asukoht ja põhimäärus ning kõrgemalseisva valitsusasutuse nimetus;\n2) nende tervishoiuteenuste loetelu, mille osutamiseks tegevusluba taotletakse;\n3) tegevusloa taotlemisel tervishoiutöötajate kirjalik nõusolek tegevusluba taotleva tervishoiuteenuse osutaja juurde tööle asumiseks, välja arvatud perearsti nimistu alusel perearstiabi osutamise loa taotlemise korral;\n4) kiirabi osutamise loa taotlemisel riigi päästeasutuse poolt selle asutuse asukoht, riigi- ja kohaliku omavalitsuse asutuste riiklikus registris registreerimise number, põhimäärus ja kõrgemalseisva valitsusasutuse nimetus;\n5) kiirabi osutamise loa taotlemisel kiirabibrigaadide arv, koosseis ja varustus;\n6) haiglas eriarstiabi osutamiseks loa taotlemisel taotletava haigla liik;\n6^1) iseseisvalt õendusabi osutamise raames käesoleva seaduse § 25 lõike 3 alusel kehtestatud määruses nimetatud õe vastuvõtuteenuse osutamiseks loa taotlemisel õe pädevust tõendavad dokumendid;\n6^2) iseseisvalt õendusabi osutamise raames käesoleva seaduse § 25 lõike 3 alusel kehtestatud määruses nimetatud õe vastuvõtuteenuse osutamiseks loa taotlemisel konsulteeriva arsti nimi, isikukood ja kontaktandmed, kui äriühingul, sihtasutusel või füüsilisest isikust ettevõtjal endal puudub eriarstiabi tegevusluba;\n7) iseseisvalt statsionaarse õendusabi osutamiseks loa taotlemisel konsulteeriva arsti nimi, isikukood ja kontaktandmed;\n7^1) iseseisvalt ämmaemandusabi osutamise raames käesoleva seaduse § 26^2 lõike 3 alusel kehtestatud määruses nimetatud kodusünnitusabi osutamiseks loa taotlemisel ämmaemanda pädevust tõendavad dokumendid;\n7^2) iseseisvalt ravi eesmärgil füsioteraapia osutamise korral füsioterapeudi pädevust tõendavad dokumendid;\n7^3) iseseisvalt logopeedilise ravi osutamise korral logopeedi pädevust tõendavad dokumendid;\n7^4) iseseisvalt psühholoogilise ravi osutamise raames kliinilise psühholoogi pädevust tõendavad dokumendid;\n8) ruumide meditsiinitehnoloogia osa projekt, milles on andmed ruumide, sisseseade ja aparatuuri kohta;\n9)\n10) andmed tervise infosüsteemiga andmevahetuseks esitatavatele nõuetele vastamise kohta."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "42",
+      "title": "§ 42. Tegevusloa kontrolliese",
+      "content": "Tegevusluba antakse, kui:\n1) perearsti nimistu alusel perearstiabi osutamise ruumid, sisseseade ja aparatuur vastavad käesoleva seaduse alusel perearsti tegevuskohale kehtestatud nõuetele;\n2) eriarstiabi osutamiseks vajalik töötajate koosseis, ruumid, sisseseade ja aparatuur vastavad käesoleva seaduse alusel kehtestatud nõuetele;\n3) kiirabi osutamiseks kiirabibrigaadi koosseis ja varustus vastavad käesoleva seaduse alusel kehtestatud nõuetele;\n4) iseseisvalt ämmaemandusabi osutamise ruumid, sisseseade, aparatuur, töövahendid ja ravimid ning ämmaemanda pädevus vastavad käesoleva seaduse alusel kehtestatud nõuetele;\n5) iseseisvalt õendusabi osutamiseks vajalik töötajate koosseis, ruumid, sisseseade, aparatuur, töövahendid ja ravimid ning õe pädevus vastavad käesoleva seaduse alusel kehtestatud nõuetele;\n5^1) iseseisvalt ravi eesmärgil füsioteraapia osutamise tingimused ja nõuded on täidetud ning füsioterapeudi pädevus vastab käesoleva seaduse alusel kehtestatud nõuetele;\n5^2) iseseisvalt logopeedilise ravi osutamise tingimused ja nõuded on täidetud ning logopeedi pädevus vastab käesoleva seaduse alusel kehtestatud nõuetele;\n5^3) iseseisvalt psühholoogilise ravi osutamise tingimused ja nõuded on täidetud ning kliinilise psühholoogi pädevus vastab käesoleva seaduse alusel kehtestatud nõuetele;\n6) taotleja infotehnoloogiline valmisolek vastab tervise infosüsteemiga andmevahetuseks esitatavatele nõuetele."
+    },
+    {
+      "provision_ref": "para42^1",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "42^1",
+      "title": "§ 42^1. Tegevusloa kõrvaltingimused",
+      "content": "(1) Tegevusloale lisatakse kõrvaltingimusena:\n1) tervishoiuteenused, mille osutamiseks on tegevusluba välja antud;\n2) siirata lubatud elundi liik, kui eriarstiabi osutamise tegevusluba on välja antud elundi siirdamiseks;\n3) tervishoiuteenuse osutamise ajal kindlustuskaitse kohustus.\n(2) Tervishoiuteenust võib asuda osutama vastutuskindlustuslepingu järgse kindlustusperioodi algusest või tervishoiukorralduse infosüsteemis märgitud ajast, kui viimati nimetatu on hilisem. Käesolevas lõikes sätestatut kohaldatakse ka tegevusloa muutmise ja majandustegevuse peatamise lõppemise menetluses.\n(3) Vastutuskindlustuslepingu järgse kindlustusperioodi muutmine ei too kaasa tegevusloa muutmist."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "47",
+      "title": "§ 47. Tervishoiustatistika ja tervishoiualase majandustegevuse aruannete koostamise kohustus",
+      "content": "Tegevusloa saanud ettevõtja on kohustatud käesoleva seaduse § 56 lõike 1 punkti 1 alusel kehtestatud nõuete kohaselt koostama tervishoiustatistikat ja tervishoiualase majandustegevuse aruandeid ning esitama need Sotsiaalministeeriumi või valdkonna eest vastutava ministri määratud asutusele."
+    },
+    {
+      "provision_ref": "para47^1",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "47^1",
+      "title": "§ 47^1. Kaitseväe andmete esitamise erisus",
+      "content": "Kaitsevägi esitab teabe tegevusloa kontrolliesemesse kuuluvate andmete muutmisest ja muutumisest ning käesoleva seaduse §-s 47 nimetatud andmed Kaitseministeeriumile, kes edastab need Terviseametile või Sotsiaalministeeriumi või valdkonna eest vastutava ministri määratud asutusele."
+    },
+    {
+      "provision_ref": "para48^1",
+      "chapter": "3. peatükk - TERVISHOIUTEENUSTE OSUTAMISEKS ESITATAVAD NÕUDED",
+      "section": "48^1",
+      "title": "§ 48^1. Tegevusloa kehtetuks tunnistamine",
+      "content": "Terviseamet võib tunnistada tegevusloa kehtetuks, kui tervishoiuteenuse osutaja ei ole täitnud tervishoiuteenuse osutaja kohustusliku vastutuskindlustuse seaduses nõutud kindlustuskohustust."
+    },
+    {
+      "provision_ref": "para50^3",
+      "chapter": "3. peatükk - PIIRIÜLESTE TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "50^3",
+      "title": "§ 50^3. Piiriülene tervishoiuteenus",
+      "content": "(1) Piiriülene tervishoiuteenus on ravikindlustuse seaduse § 5 tähenduses kindlustatud isikule teises Euroopa Liidu liikmesriigis määratud või osutatud tervishoiuteenus, sealhulgas retseptiravimite ja meditsiiniseadmete väljakirjutamine ja väljastamine, või teises Euroopa Liidu liikmesriigis ravikindlustusega hõlmatud isikule Eestis määratud või osutatud tervishoiuteenus, sealhulgas apteegiteenuse osutamisel retseptiravimite väljastamine ja meditsiiniseadmete müük meditsiiniseadme kaardi alusel.\n(2) Kindlustajaliikmesriik on piiriülese tervishoiuteenuse puhul Euroopa Liidu liikmesriik, kes on pädev andma kindlustatud isikule eelloa vajaliku tervishoiuteenuse saamiseks väljaspool elukohaliikmesriiki vastavalt Euroopa Parlamendi ja nõukogu määrusele (EÜ) nr 883/2004 sotsiaalkindlustussüsteemide koordineerimise kohta (ELT L 166, 30.04.2004, lk 1–123); Euroopa Parlamendi ja nõukogu määrusele (EÜ) nr 987/2009, milles sätestatakse määruse (EÜ) nr 883/2004 (sotsiaalkindlustussüsteemide koordineerimise kohta) rakendamise kord (ELT L 284, 30.10.2009, lk 1–42); Euroopa Parlamendi ja nõukogu määrusele (EÜ) nr 1231/2010, millega laiendatakse määrust (EÜ) nr 883/2004 ja määrust (EÜ) nr 987/2009 kolmandate riikide kodanikele, keda nimetatud määrused veel ei hõlma üksnes nende kodakondsuse tõttu (ELT L 344, 29.12.2010, lk 1–3), või nõukogu määrusele (EÜ) nr 859/2003, millega laiendatakse määruse (EMÜ) nr 1408/71 ja määruse (EMÜ) nr 574/72 sätteid kolmandate riikide kodanikele, keda need sätted juba ei hõlma üksnes nende kodakondsuse alusel (ELT L 124, 20.05.2003, lk 1–3), või kus isik on kindlustatud või kus tal on õigus saada ravikindlustushüvitist vastavalt selle liikmesriigi õigusaktidele.\n(3) Ravi osutav liikmesriik on piiriülese tervishoiuteenuse puhul Euroopa Liidu liikmesriik, kelle territooriumil patsiendile tervishoiuteenust osutatakse. Telemeditsiini puhul loetakse, et tervishoiuteenust osutatakse liikmesriigis, kus tervishoiuteenuse osutaja on asutatud.\n(4) Piiriülese tervishoiuteenuse osutamisega kaasnevad kulud hüvitatakse Eestis kindlustatud isikule ravikindlustuse seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para50^4",
+      "chapter": "3. peatükk - PIIRIÜLESTE TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "50^4",
+      "title": "§ 50^4. Juurdepääsupiirang Eestis piiriülese tervishoiuteenuse saamisele",
+      "content": "(1) Valdkonna eest vastutav minister võib Tervisekassa nõukogu ettepanekul kehtestada määrusega teises Euroopa Liidu liikmesriigis ravikindlustusega hõlmatud patsientidele juurdepääsupiirangu Eestis piiriülese tervishoiuteenuse saamisele.\n(2) Juurdepääsupiirangu kehtestamise põhjus võib olla:\n1) vajadus tagada küllaldane ja püsiv juurdepääs kvaliteetsete tervishoiuteenuste tasakaalustatud valikule või\n2) vajadus kontrollida kulusid ja vältida rahaliste, tehniliste või inimressursside raiskamist.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud määruses sätestatakse tervishoiuteenus, millele juurdepääsupiirang kehtestatakse, piirangu kehtestamise eesmärk ja piirangu kehtestamise vajaduse ümberhindamise periood.\n(4) Juurdepääsupiirangu võib kehtestada vaid sellisele tervishoiuteenusele, mida tervishoiuteenuse osutaja osutab Tervisekassaga sõlmitud ravi rahastamise lepingu alusel.\n(5) Kehtestatud juurdepääsupiirang avalikustatakse Sotsiaalministeeriumi, Tervisekassa, asjasse puutuvate tervishoiuteenuse osutajate ja piiriüleste tervishoiuteenuste riikliku kontaktpunkti (edaspidi kontaktpunkt ) veebilehel.\n(6) Eestis piiriülese tervishoiuteenuse saamisele juurdepääsupiirangu kehtestamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para50^5",
+      "chapter": "3. peatükk - PIIRIÜLESTE TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "50^5",
+      "title": "§ 50^5. Tervishoiuteenuse osutaja, apteegiteenuse osutaja ja meditsiiniseadme müüja kohustused piiriülese tervishoiuteenuse osutamisel",
+      "content": "(1) Tervishoiuteenuse osutaja esitab patsiendile kogu võlaõigusseaduse §-s 766 loetletud asjakohase teabe, muu hulgas ravivõimaluste, tervishoiuteenuste kättesaadavuse, kvaliteedi ja ohutuse kohta, tervishoiuteenuse osutaja vastutuskindlustuskaitse või kutsealase vastutusega seotud muu individuaalse või kollektiivse kaitse vahendi üksikasjade kohta, ning selgesti mõistetavad arved ja andmed hindade kohta, patsiendi soovi korral ka andmed tegevusloa kohta.\n(2) Apteegiteenuse osutaja teavitab retseptiravimite väljastamisel ravimi saajat ravimiseaduse § 33 lõikes 5 nimetatud asjaoludest ning esitab ravimi saajale selgesti mõistetavad arved ja andmed hindade kohta, ravimi saaja soovi korral ka andmed tegevusloa kohta.\n(3) Meditsiiniseadme kaardi alusel meditsiiniseadme müüja teavitab ostjat meditsiiniseadme seaduse §-s 32^1 nimetatud asjaoludest ning esitab ostjale selgesti mõistetavad arved ja andmed hindade kohta, ostja soovi korral ka andmed tegevusloa kohta.\n(4) Tervishoiuteenuse osutaja peab kohaldama oma territooriumil teistest Euroopa Liidu liikmesriikidest pärit patsientide suhtes samasugust tervishoiuteenuste hinnaskaalat nagu Eesti patsientidele võrreldavas meditsiinilises olukorras või hinda, mis on arvutatud objektiivsete ja mittediskrimineerivate kriteeriumite alusel, kui Eesti patsientide jaoks võrreldav hind puudub.\n(5) Piiriülest tervishoiuteenust saada soovivale ja saavale patsiendile tuleb võimaldada kaugjuurdepääs oma ravidokumentidele või tagada võimalus saada nendest koopia."
+    },
+    {
+      "provision_ref": "para50^6",
+      "chapter": "3. peatükk - PIIRIÜLESTE TERVISHOIUTEENUSTE OSUTAMISE KORRALDUS",
+      "section": "50^6",
+      "title": "§ 50^6. Piiriüleste tervishoiuteenuste riiklik kontaktpunkt",
+      "content": "(1) Patsientide teavitamiseks piiriüleste tervishoiuteenuste osutamisega seonduvatest asjaoludest ning Euroopa Liidu liikmesriikide ametiasutuste, tervishoiuteenuse osutajate ja tervishoiutöötajate vahelise suhtluse hõlbustamiseks luuakse kontaktpunkt.\n(2) Kontaktpunkti ülesandeid täidab Sotsiaalministeerium või isik, kellega Sotsiaalministeerium sõlmib halduslepingu kontaktpunkti ülesannete täitmiseks.\n(3) Kontaktpunkti tegevus teabe jagamisel põhineb koostööl patsientide organisatsioonide, tervisekindlustuse pakkujate, tervishoiuteenuse osutajate ja muude huvigruppidega. Koostöövõrgustikus osalejate ja kontaktpunkti vahel sõlmitakse leping, milles määratakse kindlaks poolte õigused ja kohustused ning muud tingimused.\n(4) Tervisekassa, Terviseamet ja Ravimiamet osutavad kontaktpunktile kaasabi oma pädevusse kuuluvate küsimuste lahendamisel.\n(5) Kontaktpunkti ülesanne on jagada teavet Eesti patsientidele eelkõige piiriüleste tervishoiuteenuste kulude katmise, eellubade süsteemi olemasolu ja ulatuse kohta ning teistes Euroopa Liidu liikmesriikides ravikindlustusega hõlmatud patsientidele Eestis piiriüleste tervishoiuteenuste osutamise üldiste reeglite ja kehtestatud juurdepääsupiirangute kohta.\n(6) Piiriüleste tervishoiuteenuste riikliku kontaktpunkti täpsemad ülesanded teabe jagamisel kehtestab valdkonna eest vastutav minister määrusega.\n(7) Kontaktpunkti jagatav teave avaldatakse elektrooniliselt ja puudega isikutele kättesaadavas vormis.\n(8) Kontaktpunkti tegevust rahastab Sotsiaalministeerium."
+    },
+    {
+      "provision_ref": "para50^7",
+      "chapter": "3. peatükk - TERVISEANDMETE PIIRIÜLENE ANDMEVAHETUSPLATVORM",
+      "section": "50^7",
+      "title": "§ 50^7. Terviseandmete piiriülene andmevahetusplatvorm",
+      "content": "(1) Terviseandmete piiriülene andmevahetusplatvorm (edaspidi andmevahetusplatvorm ) on digitaalne keskkond patsiendi haigusloo kokkuvõtte ja ravimiseaduse § 33 lõikes 1^1 nimetatud elektroonilise retsepti vahendamiseks Eesti ja teise Euroopa Liidu liikmesriigi, Euroopa Majanduspiirkonna liikmesriigi ning Šveitsi vahel, kui viimane on andmevahetusplatvormiga liitunud.\n(2) Patsiendi haigusloo kokkuvõte käesoleva peatüki tähenduses on tema kohta käivate tervise infosüsteemis olevate andmete põhjal koostatud terviseseisundi kokkuvõte."
+    },
+    {
+      "provision_ref": "para50^8",
+      "chapter": "3. peatükk - TERVISEANDMETE PIIRIÜLENE ANDMEVAHETUSPLATVORM",
+      "section": "50^8",
+      "title": "§ 50^8. Andmevahetusplatvormi vahendusel töödeldavad andmed",
+      "content": "(1) Andmevahetusplatvormi vahendusel töödeldakse järgmisi patsiendi haigusloo kokkuvõttega seotud andmeid:\n1) patsiendi üldised isikuandmed;\n2) tervishoiuteenuse osutaja andmed;\n3) patsiendi terviseandmed;\n4) muud isiku terviseseisundit kajastavad olulised andmed.\n(2) Andmevahetusplatvormi vahendusel töödeldakse järgmisi ravimiseaduse § 33 lõikes 1^1 nimetatud elektroonilise retseptiga seotud andmeid:\n1) patsiendi üldised isikuandmed;\n2) väljakirjutatud ravimi andmed;\n3) retsepti koostaja andmed;\n4) ravimi väljamüügi andmed.\n(3) Andmevahetusplatvorm töötleb järgmiste andmekogude andmeid:\n1) tervishoiukorralduse infosüsteem;\n2) rahvastikuregister;\n3) Ravimiameti tegevuslubade register;\n4) ravimiregister;\n5) retseptikeskus;\n6) tervise infosüsteem.\n7)\n8)\n(4) Andmevahetusplatvormi vahendusel töödeldavate andmete täpsema koosseisu, andmevahetuse korralduse ja logide säilitamise tähtaja kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para50^9",
+      "chapter": "3. peatükk - TERVISEANDMETE PIIRIÜLENE ANDMEVAHETUSPLATVORM",
+      "section": "50^9",
+      "title": "§ 50^9. Andmevahetusplatvormi haldamine ja sellele juurdepääs",
+      "content": "(1) Andmevahetusplatvormi toimimise tagab Sotsiaalministeerium.\n(2) Välisriigi edastatud andmete korral tagatakse juurdepääs andmevahetusplatvormile käesoleva seaduse §-s 3 nimetatud tervishoiutöötajale vastavalt tema pädevusele. Välisriigi isiku juurdepääs andmevahetusplatvormile tagatakse kooskõlas selle välisriigi õigusega.\n(3) Patsiendil on õigus tervise infosüsteemi vahendusel keelata käesolevas peatükis nimetatud andmete edastamine käesoleva seaduse § 50^7 lõikes 1 nimetatud välisriiki."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "4. peatükk - TERVISHOIU RAHASTAMINE",
+      "section": "51",
+      "title": "§ 51. Tervishoiu rahastamise allikad",
+      "content": "(1) Tervishoidu rahastatakse:\n1) riigieelarvest;\n2) valla- ja linnaeelarvest;\n3) patsiendi poolt;\n4) muudest allikatest.\n(2) Käesoleva paragrahvi lõike 1 punktis 1 nimetatud tervishoiu rahastamise allika riigieelarve osa moodustub:\n1) sotsiaalmaksuseaduse § 7 lõikes 3 ja § 10 lõikes 2 sätestatud määrale vastavast sotsiaalmaksu osast;\n2) riigieelarve eraldisest, mille arvestamise aluseks on mittetöötavate pensionäride riikliku pensioni summa, millele kohaldatakse eraldise määra, mis on võrdne sotsiaalmaksuseaduse § 10 lõikes 2 sätestatud riikliku ravikindlustuse vahenditesse ülekantava sotsiaalmaksu osa määraga. Mittetöötavate vanaduspensionäride riikliku pensioni summa moodustub töötamise registri andmetel puuduva töösuhtega riikliku pensioni saajatest;\n3) muudest käesoleva seaduse §-s 52 sätestatud allikatest.\n(3) Sotsiaalkindlustusamet arvestab käesoleva paragrahvi lõike 2 punktis 2 nimetatud riigieelarve eraldise summa ja kannab selle Tervisekassale hiljemalt iga kalendrikuu viimaseks kuupäevaks.\n(4) Riigieelarve eraldise arvestamise alused, eraldise arvestamise hulka kuuluvad mittetöötavad riikliku pensioni saajad ja andmete esitamise korra kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "4. peatükk - TERVISHOIU RAHASTAMINE",
+      "section": "52",
+      "title": "§ 52. Tervishoiu rahastamine riigieelarvest",
+      "content": "(1) Riigieelarvest Sotsiaalministeeriumi kaudu rahastatakse:\n1)\n2) riigi tervishoiuvaru moodustamist, haldamist, uuendamist ja kasutuselevõtmist;\n2^1) eriolukorra, erakorralise seisukorra või sõjaseisukorra ajal Vabariigi Valitsuse määruse alusel Tervisekassa kaudu isikutele ravikindlustuse seaduses sätestatust soodsamatel tingimustel hüvitiste maksmist eriolukorrast, erakorralisest seisukorrast või sõjaseisukorrast tulenevate toimetulekuraskuste ennetamiseks ja leevendamiseks riigieelarvega ettenähtud summa piires;\n2^2) eriolukorra, erakorralise seisukorra või sõjaseisukorra ajal Vabariigi Valitsuse määruse alusel Tervisekassa kaudu tervishoiuteenuse osutajale või kiirabibrigaadi pidajale eritingimustel teenuste eest tasumist tervishoiuteenuste kvaliteedi ja kättesaadavuse tagamiseks riigieelarvega ettenähtud summa piires;\n2^3) COVID-19 põhjustava viiruse levikust tulenevalt käesoleva paragrahvi lõike 1^3 alusel kehtestatud tingimuste ja korra kohaselt Tervisekassa kaudu tervishoiuteenuse osutajale või kiirabibrigaadi pidajale teenuste eest tasumist riigieelarvega ettenähtud summa piires;\n2^4) hädaolukorrast tulenevalt või sõjas haavata saanud isikute raviks käesoleva paragrahvi lõike 1^3 alusel kehtestatud tingimuste ja korra kohaselt Tervisekassa kaudu tervishoiuteenuse osutajale või kiirabibrigaadi pidajale teenuste eest tasumist riigieelarvega ettenähtud summa piires;\n3)\n4) riiklikke tervishoiuprogramme;\n5) tervishoiualast teadus- ja arendustegevust;\n6) riiklikke investeeringuid Vabariigi Valitsuse kinnitatud haiglavõrgu kava alusel;\n7) valmisoleku tagamist tervishoiuteenuste osutamiseks hädaolukorras, kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal; tervishoiuteenuse osutaja tegevusvaru moodustamist ja uuendamist; tervishoiuteenuste osutamise korralduse ümberkorraldamise planeerimist ja ümberkorraldamist ning tervishoiuteenuse osutajate väljaõpet;\n7^1)\n8)\n9)\n10) tervishoiuteenuse osutajate ehitiste kulumit.\n11)\n12)\n(1^1) Sotsiaalhoolekande seaduses sätestatud ööpäevaringse erihooldusteenuse osutamise käigus osutatud iseseisvat õendusabi rahastatakse riigieelarvest Tervisekassa kaudu ja riigieelarves Tervisekassa eelarvesse ettenähtud vahenditest Tervisekassa tervishoiuteenuste loetelus sätestatud alustel, tingimustel ja korras.\n(1^2) Eriolukorra, erakorralise seisukorra või sõjaseisukorraga seotud hüvitisi ja teenuste eest tasumist võib rakendada kuni vajaduse äralangemiseni, kuid mitte kauem kui 60 kalendripäeva pärast eriolukorra, erakorralise seisukorra või sõjaseisukorra lõppemist.\n(1^3) Vabariigi Valitsus võib määrusega kehtestada käesoleva paragrahvi lõike 1 punktides 2^1–2^4 nimetatud hüvitiste ning teenuste eest maksmise tingimused ja korra.\n(2) Riigieelarvest Justiits- ja Digiministeeriumi kaudu rahastatakse:\n1)\n2) kohtupsühhiaatriaekspertiisi kriminaalmenetluses, tsiviilkohtumenetluse hagita menetluses ja tsiviilkohtumenetlusteovõime kontrollimise menetluses;\n3) kohtuarstlikku ekspertiisi;\n4) seksuaalkurjategijate kompleksravi ja vangistuse asemel kohaldatud üheksa kuu pikkust narkomaanide sõltuvusravi.\n(2^1) Riigieelarvest Kaitseministeeriumi kaudu rahastatakse:\n1) tervishoiuteenuste osutamist Kaitseministeeriumi valitsemisalas;\n2) kaitseväekohustuslase ja kaitseväekohustust võtta sooviva isiku terviseseisundi hindamist kaitseväeteenistuse seaduse alusel ning teenistuskohustuse täitmisel vigastada saanud Kaitseliidu liikme terviseseisundi hindamist Kaitseliidu seaduse alusel;\n3) Kaitseväes tervishoiuteenuse osutamiseks vajaliku varu moodustamist, hoidmist ja uuendamist;\n4)\n5) investeeringuid Kaitseväe meditsiinikeskuste ehitamiseks ja renoveerimiseks.\n(2^2)\n(3) Riigieelarves Tervisekassa eelarvesse ettenähtud vahenditest rahastatakse tervishoidu ravikindlustuse seaduses ja käesolevas seaduses sätestatud korras.\n(3^1) Vanglas ja arestimajas kinni peetavatele isikutele tervishoiuteenuste osutamist, sealhulgas vanglas kohapeal osutatavat hambaravi, ravimeid, meditsiiniseadmeid ja muid tervishoiuteenuste osutamisega seotud kulusid rahastatakse riigieelarvest Tervisekassa kaudu vangistusseaduse § 52 lõike 1^1 alusel ning Tervisekassa tervishoiuteenuste loetelus sätestatud alustel, tingimustel ja korras.\n(3^2) Väljasaadetava tervisekontrolli ja talle tervishoiuteenuste osutamist rahastatakse riigieelarvest Tervisekassa kaudu väljasõidukohustuse ja sissesõidukeelu seaduse § 26^9 lõike 7 alusel kehtestatud ulatuses ja korras.\n(3^3) Kinnipeetud rahvusvahelise kaitse taotleja tervisekontrolli ja talle tervishoiuteenuste osutamist rahastatakse riigieelarvest Tervisekassa kaudu välismaalasele rahvusvahelise kaitse andmise seaduse § 11 lõike 8 alusel kehtestatud ulatuses ja korras.\n(4) Tervishoiuteenuse osutajate ehitiste kulum tasutakse riigieelarvest selleks ettenähtud vahenditest Sotsiaalministeeriumi ja Tervisekassa vahel sõlmitud lepingu alusel vastavalt ravikindlustuse seadusele.\n(5) Kui süüdimõistetu on nõustunud seksuaalkurjategijate kompleksraviga või narkomaanide sõltuvusraviga vastavalt karistusseadustiku §-le 69^2, kannab riik süüdimõistetu kompleksravi ja üheksa kuu pikkuse sõltuvusravi kulud vastavalt käesoleva paragrahvi lõike 2 punktile 4.\n(6) Riigieelarvest, sealhulgas Euroopa Sotsiaalfondi toetusest Tervise Arengu Instituudi kaudu, rahastatakse Eesti alalisele elanikule, Eestis elamisloa või elamisõiguse alusel elavale isikule ning ajutise viibimisalusega Eestis seaduslikult viibivale ja töötavale isikule riiklike strateegiate ja tervishoiuprogrammide alusel osutatud tervishoiuteenuseid.\n(7) Tervise Arengu Instituut võib tervishoiuteenuste arvete menetlemise korraldada Tervise Arengu Instituudi ja Tervisekassa vahel sõlmitud halduslepingu alusel halduskoostöö seaduses sätestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "4. peatükk - TERVISHOIU RAHASTAMINE",
+      "section": "53",
+      "title": "§ 53. Tervishoiu rahastamine valla- ja linnaeelarvest",
+      "content": "Valla- või linnaeelarvest rahastatakse tervishoiuteenuste osutamist ja muid tervishoiukulusid valla- või linnavolikogu otsuse alusel."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "4. peatükk - TERVISHOIU RAHASTAMINE",
+      "section": "54",
+      "title": "§ 54. Patsient tervishoiu rahastajana",
+      "content": "Käesoleva seaduse §-des 52 ja 53 sätestamata juhtudel maksab tervishoiuteenuse osutamise eest patsient."
+    },
+    {
+      "provision_ref": "para54^1",
+      "chapter": "4. peatükk - LÄHTETOETUS",
+      "section": "54^1",
+      "title": "§ 54^1. Eriarsti ja õe lähtetoetus",
+      "content": "(1) Lähtetoetus on eriarstina või õena tööle asuvale isikule ühekordselt makstav toetus.\n(2) Lähtetoetust võib ühe aasta jooksul omandatud erialal tööle või tegutsema asumisest arvates taotleda eriarst, kes vastab käesoleva paragrahvi lõikes 3 või 4 ja käesoleva seaduse § 54^2 lõike 7 alusel kehtestatud määruses sätestatud tingimustele.\n(3) Eriarst, välja arvatud peremeditsiini eriala omandanud arst, võib taotleda lähtetoetust, kui ta asub omandatud erialal eriarstina tööle:\n1) käesoleva seaduse § 55 lõike 1 alusel kehtestatud haiglavõrgu kavas nimetatud ühes või mitmes haiglas;\n2) töökoormusega vähemalt 30 tundi nädalas töökohal või töökohtadel, mis on väljaspool Tallinna või Tartu linna.\n(4) Peremeditsiini eriala omandanud arst võib taotleda lähtetoetust, kui ta asub perearstina tegutsema perearsti nimistu alusel ning perearsti teeninduspiirkond ja tegevuskoht asuvad väljaspool Tallinna linna, Tartu linna või nendega vahetult piirnevaid kohaliku omavalitsuse üksuseid.\n(5) Lähtetoetust võib taotleda õde, kes:\n1) on olnud registreeritud tervishoiukorralduse infosüsteemis õena rohkem kui viis aastat;\n2) ei ole õena töötanud vähemalt viis aastat enne käesoleva lõike punktis 3 nimetatud asukohas töötama asumist;\n3) asub õena tööle töökoormusega vähemalt 30 tundi nädalas käesoleva seaduse § 55 lõike 1 alusel kehtestatud haiglavõrgu kavas nimetatud ühes või mitmes haiglas või ühe või mitme perearstiabi osutava tervishoiuteenuse osutaja juures väljaspool Tallinna linna, Tartu linna või nendega vahetult piirnevaid kohaliku omavalitsuse üksuseid;\n4) taotleb lähtetoetust ühe aasta jooksul arvates ajast, mil asus õena tööle käesoleva lõike punktis 3 nimetatud kohas;\n5) vastab käesoleva seaduse § 54^2 lõike 7 alusel kehtestatud tingimustele."
+    },
+    {
+      "provision_ref": "para54^2",
+      "chapter": "4. peatükk - LÄHTETOETUS",
+      "section": "54^2",
+      "title": "§ 54^2. Lähtetoetuse suurus ning lähtetoetuse taotlemine, maksmine ja tagasinõudmine",
+      "content": "(1) Lähtetoetust saama õigustatud isik esitab lähtetoetuse taotluse Terviseametile.\n(2) Terviseamet otsustab lähtetoetuse andmise kahe kuu jooksul taotluse esitamisest arvates. Lähtetoetus makstakse isiku pangakontole ühe kuu jooksul lähtetoetuse andmise otsuse tegemisest arvates.\n(3) Lähtetoetuse määr on 15 000 eurot. Lähtetoetust võib maksta kuni toetuse kolmekordses määras, kui see on tingitud tervishoiuteenuse tagamise vajadusest piirkonnas.\n(4)\n(5) Lähtetoetust saanud isik on kohustatud tagastama talle väljamakstud lähtetoetuse või osa toetusest proportsionaalselt vähem töötatud ajaga, kui tema pidev töötamine või tegutsemine käesoleva seaduse § 54^1 lõigetes 3–5 nimetatud tingimustel lõpeb enne viie aasta möödumist toetuse määramisest.\n(5^1) Kui lähtetoetust saanud arst soovib töötada vähem kui viis aastat ning teavitab sellest toetuse taotlemisel, makstakse lähtetoetust proportsionaalselt planeeritava töötamise ajaga. Sellisel juhul loetakse käesoleva paragrahvi lõikes 5 sätestatud töötamise kohustus täidetuks taotluse rahuldamisel määratud tähtaja möödumisel. Kui lähtetoetust saanud arst otsustab töötada kauem kui lähtetoetuse andmise otsuses märgitud, võib ta esitada taotluse otsuse muutmiseks ja töötamise tähtaja pikendamiseks kuni viie aastani. Terviseamet otsustab täiendavas osas lähtetoetuse maksmise 60 päeva jooksul taotluse saamisest arvates.\n(6) Lähtetoetust saanud isik ei ole kohustatud tagastama talle väljamakstud lähtetoetust juhul, kui ta on tööandjapoolse kohustuse olulise rikkumise tõttu töölepingu erakorraliselt üles öelnud või kui tööandja on töölepingu erakorraliselt üles öelnud, kuna töösuhte jätkamine kokkulepitud tingimustel muutub võimatuks töömahu vähenemise või töö ümberkorraldamise tõttu või muul töö lõppemise juhul (koondamine). Lähtetoetust saanud nimistu alusel tegutsev perearst ei ole kohustatud tagastama talle väljamakstud toetust juhul, kui tema tegevus perearstina lõpeb temast sõltumatutel asjaoludel.\n(7) Valdkonna eest vastutav minister kehtestab määrusega lähtetoetuse määramise tingimused ning taotlemise, maksmise ja tagasinõudmise korra.\n(8) Lähtetoetust saama õigustatud isiku täpsemad tööle asumise piirkonnad seoses tervishoiuteenuse tagamise vajadusega piirkonnas võib kehtestada valdkonna eest vastutav minister käesoleva paragrahvi lõikes 7 nimetatud määruses."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "5. peatükk - TERVISHOIU JUHTIMINE",
+      "section": "55",
+      "title": "§ 55. Haiglavõrgu kava",
+      "content": "(1) Vabariigi Valitsus kehtestab määrusega haiglavõrgu kava, milles määratakse:\n1) tervishoiuteenuste ühtlase kättesaadavuse tagamiseks piirkondlike haiglate, keskhaiglate, üldhaiglate, kohalike haiglate, taastusravihaiglate ja õendushaiglate loetelu (edaspidi haiglate loetelu );\n2) vajalikud investeeringud haiglate loetelus nimetatud haiglate ehitamiseks, renoveerimiseks ja ümberprofileerimiseks.\n(2)\n(3) Haiglavõrgu kava töötatakse välja vähemalt 15 aastaks ning Vabariigi Valitsus teeb selles vajaduse korral täiendusi ja muudatusi. Haiglavõrgu kava koostamist korraldab Sotsiaalministeerium, kaasates sellesse asjassepuutuvaid valitsusväliseid organisatsioone.\n(4) Haiglavõrgu kavas nimetatud haiglate loetelu võib täiendada ning muuta valdkonna eest vastutava ministri ettepaneku alusel, mis on kooskõlastatud Tervisekassaga.\n(5) Valdkonna eest vastutaval ministril on õigus teha Vabariigi Valitsusele ettepanek, mis on kooskõlastatud Tervisekassaga, haiglavõrgu kavas nimetatud haiglate loetelu täiendamiseks juhul, kui haigla pidaja on tegutsenud kooskõlas seadusega ja talle väljastatud tegevusloaga ning ta ei ole rikkunud Tervisekassaga sõlmitud ravi rahastamise lepingut.\n(6) Valdkonna eest vastutaval ministril on õigus teha Vabariigi Valitsusele ettepanek, mis on kooskõlastatud Tervisekassaga, haigla pidaja haiglavõrgu kavas nimetatud haiglate loetelust väljaarvamiseks, kui haigla pidaja ei tegutse kooskõlas seadusega, talle väljastatud tegevusloaga või ta rikub Tervisekassaga sõlmitud ravi rahastamise lepingut. Kui haiglat pidava isiku tegevusluba on tunnistatud kehtetuks või haigla tegevus on lõpetatud, teeb valdkonna eest vastutav minister Vabariigi Valitsusele ettepaneku haigla pidaja kohe haiglavõrgu kavas nimetatud haiglate loetelust välja arvata. See ettepanek ei vaja kooskõlastamist Tervisekassaga.\n(7)\n(8) Haiglate loetelus nimetatud haiglatesse riigieelarve vahenditest investeerimise tingimused ja korra kehtestab Vabariigi Valitsus.\n(9) Haiglavõrgu kava väljatöötamise kulud kaetakse riigieelarvest."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "5. peatükk - TERVISHOIU JUHTIMINE",
+      "section": "56",
+      "title": "§ 56. Valdkonna eest vastutava ministri ülesanded",
+      "content": "(1) Lisaks käesolevas seaduses nimetatud õigusaktidele kehtestab valdkonna eest vastutav minister:\n1) tervishoiustatistika ja tervishoiualase majandustegevuse aruannete koostamise nõuded, andmete koosseisu ning esitamise korra;\n2)\n3) nõuded haigla funktsionaalsele arengukavale ja ehitusprojekti meditsiinitehnoloogia osale ning haigla funktsionaalse arengukava kinnitamise korra;\n4) tervishoiuteenuste kättesaadavuse ja ravijärjekorra pidamise nõuded;\n5)\n6)\n7)\n8)\n9)\n10)\n11)\n12) perekonnaseisutoimingute seaduse § 49^1 lõikes 1 nimetatud otsuse tegemise tingimused ja korra, mille kohaselt lähtub valdkonna eest vastutava ministri moodustatud arstlik ekspertiisikomisjon otsuse tegemisel soolise ebakõla püsivusest ja tervishoiuteenuse osutajate hinnangust.\n(2) Sotsiaalministeeriumi või valdkonna eest vastutava ministri määratud asutus avaldab statistilised andmed asutuse põhimääruses sätestatud korras."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "5. peatükk - TERVISHOIU JUHTIMINE",
+      "section": "57",
+      "title": "§ 57. Terviseameti ja Tervisekassa ülesanded",
+      "content": "(1) Käesoleva seaduse 2. ja 3. peatükis sätestatud ülesandeid täidab käesolevas seaduses sätestatud ulatuses Terviseamet.\n(1^1) Käesoleva seaduse 2. peatüki 2. jaos ja 3. peatüki 2. jaos sätestatud ülesandeid täidab käesolevas seaduses sätestatud ulatuses Tervisekassa.\n(2)\n(3) Tervisekassa korraldab vajaduse korral perearsti nimistu alusel tegutsevate perearstide ajutist asendamist, tagades käesoleva seaduse § 8^1 lõigetes 2 ja 3 reguleerimata juhtudel või ettenägematu ja vältimatu vajaduse ilmnemisel perearsti ajutise asendaja leidmise, ning edastab teabe asendamise kohta Terviseametile.\n(3^1) Käesoleva paragrahvi lõikes 3 sätestatud juhul võib tervishoiutöötaja, kellel on arsti kvalifikatsioon, asendada perearsti pikaajalise asendamise korral kuni üks aasta.\n(3^2) Avaliku konkursi korras täitmata perearsti kohaga nimistu puhul võib pikaajaline asendamine kesta kauem kui üks aasta.\n(3^3) Käesoleva paragrahvi lõikes 3 sätestatud juhul võib perearsti nimistusse kuuluvaid isikuid teenindada nimistu alusel perearstiabi osutav äriühing Tervisekassa otsuse alusel:\n1) tervisekeskuses või\n2) tervisekeskuse väliselt, kui avaliku konkursi korras ei ole võimalik perearsti kohta täita ja nimistu jaoks ei ole võimalik leida asendavat arsti ega tervisekeskust.\n(3^4) Käesoleva paragrahvi lõikes 3^3 nimetatud korras teenuse osutamisel tuleb järgida samu põhimõtteid ja nõudeid nagu perearsti asendamise korral, kui käesolevas seaduses ja selle alusel kehtestatud õigusaktides ei ole sätestatud teisiti.\n(3^5) Käesoleva paragrahvi lõikes 3^3 nimetatud töökorraldus võib kesta kuni üks aasta. Kui avaliku konkursi korras ei ole võimalik perearsti kohta täita ja see on tervishoiu strateegilisi suundi arvestades vajalik, võib pikaajaline asendamine kesta kuni viis aastat.\n(3^6) Tervisekassa teavitab käesoleva paragrahvi lõikes 3^3 nimetatud otsuse tegemisest nimistu teeninduspiirkonna kohaliku omavalitsuse üksust, Terviseametit ja perearsti nimistusse kantud isikuid, märkides asendamise kestuse, perearstiabi osutava isiku, perearstiabi osutamise koha ja korralduse. See informatsioon pannakse ligipääsetavale ja nähtavale kohale välja ka senises perearsti tegevuskohas.\n(4)\n(5) Käesoleva paragrahvi lõikes 3 nimetatud juhtudel tasutakse perearstide ajutise asendamise eest Tervisekassa eelarvest ravikindlustuse seaduse alusel."
+    },
+    {
+      "provision_ref": "para57^1",
+      "chapter": "5. peatükk - TERVISHOIU JUHTIMINE",
+      "section": "57^1",
+      "title": "§ 57^1. Tervishoiustatistika ja tervishoiualase majandustegevuse aruanded",
+      "content": "(1) Tervishoiuteenuse osutajatelt tervishoiustatistika ja tervishoiualase majandustegevuse aruannete kogumine ning koondandmete avaldamine on Sotsiaalministeeriumi või valdkonna eest vastutava ministri määratud asutuse ülesanne.\n(2) Sotsiaalministeeriumi või valdkonna eest vastutava ministri määratud asutusel on õigus anda käesoleva seadusega talle pandud ülesannete täitmine halduslepinguga üle kohaliku omavalitsuse üksusele."
+    },
+    {
+      "provision_ref": "para57^2",
+      "chapter": "5. peatükk - TERVISHOIU JUHTIMINE",
+      "section": "57^2",
+      "title": "§ 57^2. Riigi antidootide varu moodustamine, hoidmine, kasutamine ja uuendamine",
+      "content": "(1) Riigi antidootide varu (edaspidi antidootide varu ) on elu ohustavate mürgistuste raviks vajaliku tervishoiuteenuse osutamiseks kasutatavate vastumürkide kogum.\n(2) Terviseamet määrab antidootide nomenklatuuri, kogused ja jaotuse.\n(3) Tervisekassa tagab antidootide varu, selle kasutamiseks andmise, säilitamise ja veo ning külmahela toimimise.\n(4) Tervisekassa annab antidoodid tervishoiuteenuse osutajale üle tasuta. Tervishoiuteenuse osutaja ei tohi saada nende eest hüvitist.\n(5) Terviseamet tagab tervishoiuteenuse osutajatele informatsiooni antidootide varu kohta.\n(6) Tervishoiuteenuse osutaja tagab Tervisekassa antud antidootide nõuetekohase hoidmise, eesmärgipärase kasutamise ja aegunud antidootide kahjutustamise ning teavitab antidootide kasutamisest Terviseametit.\n(7)"
+    },
+    {
+      "provision_ref": "para57^3",
+      "chapter": "5. peatükk - TERVISHOIU JUHTIMINE",
+      "section": "57^3",
+      "title": "§ 57^3. Tervisetehnoloogiate hindamine",
+      "content": "(1) Sotsiaalministeerium koordineerib tervisetehnoloogiate hindamisega tegelevaid asutusi ja isikuid ühendava tervisetehnoloogiate hindamise võrgustiku tegevust. Nimetatud võrgustik põhineb hea valitsemistava põhimõttel, mis hõlmab läbipaistvust, objektiivsust, eksperdihinnangute sõltumatust, õiglasi menetlusi ja asjakohaseid konsultatsioone sidusrühmadega.\n(2) Tervisetehnoloogiate hindamise võrgustiku loomise eesmärk on:\n1) toetada koostööd asutuste ja isikute vahel;\n2) toetada võrgustiku liikmeid objektiivse, usaldusväärse, õigeaegse, läbipaistva, võrreldava ja edastamiskõlbliku teabe koostamisel tervisetehnoloogiate suhtelise tõhususe ning vajaduse korral lühi- ja pikaajalise tõhususe kohta ning võimaldada kõnealuse teabe vahetamist asutuste ja isikute vahel;\n3) toetada vahetatava teabe sisu ja liigi analüüsimist;\n4) vältida hinnangute kordamist;\n5) anda vajaduse korral Sotsiaalministeeriumile, Tervisekassale, Terviseametile, Ravimiametile ja Tervise Arengu Instituudile arvamus hüvitatavate tervishoiuteenuste, meditsiiniseadmete ja ravimite loetelu koostamisel, ravimite ja immuunpreparaatide hankimisel ning rahvatervishoiu programmide koostamisel."
+    },
+    {
+      "provision_ref": "para57^4",
+      "chapter": "5. peatükk - TERVISHOIU JUHTIMINE",
+      "section": "57^4",
+      "title": "§ 57^4. Tervishoiuteenuse osutaja tegevusvaru",
+      "content": "(1) Kiirabibrigaadi pidaja ja haiglavõrgu haigla pidaja tagavad tervishoiuteenuse osutaja tegevusvaru.\n(2) Tervishoiuteenuse osutaja tegevusvaru suuruse, moodustamise, hoidmise, kasutamise, kontrollimise, uuendamise, täiendamise ja aruandluse korra kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para57^5",
+      "chapter": "5. peatükk - TERVISHOIU JUHTIMINE",
+      "section": "57^5",
+      "title": "§ 57^5. Patsiendiohutuse andmekogu",
+      "content": "(1) Patsiendiohutuse andmekogu peetakse patsiendiohutuse korraldamiseks, patsiendiohutusjuhtumite ennetamiseks ja analüüsimiseks ning juhtumitest õppimiseks, ennetusmeetmete hindamiseks, tervisepoliitika väljatöötamiseks ning statistika ja teadusliku uurimistöö tegemiseks.\n(2) Andmekogu peetakse kujul, mis ei võimalda patsiendiohutusjuhtumiga seotud patsiendi ega tervishoiutöötaja isikut otseselt tuvastada.\n(3) Andmekogusse kantud andmed on ette nähtud asutusesiseseks kasutamiseks.\n(4) Andmeid väljastatakse üksnes seadusega või seaduse alusel antud õigusaktiga ettenähtud ülesannete täitmiseks ning selleks vajalikus mahus andmekogu põhimääruses nimetatud isikutele või andmekogudele.\n(5) Andmekogu asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud põhimääruses sätestatakse:\n1) andmekogu volitatud töötleja, kui volitatud töötleja on määratud, ja töötlejate ülesanded;\n2) andmekogusse kogutavate andmete täpsem koosseis ja andmekogusse kandmise kord;\n3) andmetele juurdepääsu ja andmete väljastamise kord;\n4) andmeandjate loetelu ja nendelt saadavad andmed;\n5) muud andmekogu pidamisega seotud korraldusküsimused.\n(7) Andmekogus töödeldakse andmeid:\n1) iga teavitatud patsiendiohutusjuhtumi kohta;\n2) teavitatud patsiendiohutusjuhtumite analüüsi tulemuste kohta;\n3) tervishoiuteenuse osutaja poolt sarnaste juhtumite vältimiseks ennetusmeetmete väljatöötamise kohta.\n(8) Andmekogu vastutaval töötlejal on kohustus andmeid analüüsida, esitada vähemalt üks kord aastas üldistatud statistikat patsiendiohutusjuhtumite kohta ja teha patsiendiohutuse olukorra parandamiseks tervishoiuteenuse osutajatele, erialaühendustele, õppeasutustele, Sotsiaalministeeriumile ning muudele isikutele ja asutustele ettepanekuid, moodustades selleks vajaduse korral asjatundjate nõukojad.\n(9) Andmekogus säilitatakse andmeid 30 aastat. Logisid ja alusandmeid säilitatakse vastavalt põhimääruses sätestatule.\n(10) Andmekogu vastutav töötleja on Terviseamet."
+    },
+    {
+      "provision_ref": "para57^6",
+      "chapter": "5. peatükk - TERVISHOIU JUHTIMINE",
+      "section": "57^6",
+      "title": "§ 57^6. Riigi tervishoiuvaru moodustamine, haldamine, uuendamine ja kasutuselevõtmine",
+      "content": "(1) Riigi tervishoiuvaru on tervishoiuvaldkonna toimepidevuse tagamiseks, hädaolukorraks, eriolukorraks, erakorraliseks seisukorraks, kõrgendatud kaitsevalmiduseks ja sõjaseisukorraks valmistumiseks ning olukorra lahendamiseks vajaminevad ravimid, meditsiiniseadmed ja muud tervishoius kriitiliselt vajalikud vahendid. Riigi tervishoiuvaru moodustab, seda haldab ja uuendab ning selle kasutuselevõtmise korraldab riigi osalusel asutatud piirkondlik haigla (edaspidi varu haldaja ).\n(2) Riigi tervishoiuvaru on varu haldaja omandis.\n(3) Riigi tervishoiuvaru moodustamise metoodika otsustab valdkonna eest vastutav minister haldusaktiga, võttes arvesse ohuhinnangud, varu haldajate võimekuse varu hoida ja uuendada ning muu olulise teabe.\n(4) Riigi tervishoiuvaru moodustamise aluseks on Terviseameti otsus, mis sisaldab muu hulgas varu jaotuse varu haldajate vahel.\n(5) Riigi tervishoiuvaru moodustamise, haldamise, uuendamise ja kasutuselevõtmise kulud kaetakse riigieelarve vahenditest ja haiglaapteegile varu müügist laekunud vahendite arvelt.\n(6) Varu kasutuselevõtmise otsustab Terviseamet käesoleva paragrahvi lõike 7 alusel kehtestatud valdkonna eest vastutava ministri määrusest lähtudes ja teavitab sellest valdkonna eest vastutavat ministrit ning teisi asjaomaseid asutusi ja isikuid.\n(7) Riigi tervishoiuvaru moodustamise, haldamise, uuendamise ja kasutuselevõtmise, aegunud varu mahakandmise ja hävitamise ning aruandluse tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para58^1",
+      "chapter": "5. peatükk - TERVISHOIU JUHTIMINE",
+      "section": "58^1",
+      "title": "§ 58^1. Tervishoiukorraldus riigikaitseks valmistumisel ning kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal",
+      "content": "(1) Tervishoiukorraldus kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal määratakse ohustsenaariumidest lähtudes riigi kaitsetegevuse kavas. Käesolevas seaduses tervishoiukorralduse kohta sätestatut kohaldatakse tervishoiukorraldusele kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal, arvestades käesolevas paragrahvis ja riigi kaitsetegevuse kavas sätestatud erisusi.\n(2) Tervishoiu riigikaitseks valmistumisel on valdkonna eest vastutaval ministril lähtuvalt riigi kaitsetegevuse kavas sätestatust õigus otsustada riigikaitseülesannetega asutuste ja isikute poolt riigikaitseülesannete täitmise korraldus ja ulatus kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal.\n(3) Tervishoiu riigikaitseks valmistumisel ja riigikaitseülesannete täitmiseks kehtestab valdkonna eest vastutav minister määrusega kiirabi, statsionaarse eriarstiabi ja perearstiabi osutajatele:\n1) ülesanded riigikaitseks valmistumisel;\n2) valmisoleku tasemed ja selle sisu riigikaitseülesannete täitmiseks kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal.\n(4) Tervishoiu riigikaitseks valmistumisel Terviseamet:\n1) kavandab koostöös Kaitseministeeriumiga ja kooskõlastatult Vabariigi Valitsuse julgeolekukomisjoniga kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal riigi tervishoiuvaru moodustamist ja kasutamist;\n2) kavandab kooskõlas riigikaitseseaduses sätestatud piirangutega tervishoiutöötajate poolt töökohustuse täitmise korraldust kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal ning peab selle üle arvestust tervishoiukorralduse infosüsteemis;\n3) koostab tervishoiuteenuse osutajatele metoodika kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni aja tegevusplaanide koostamiseks;\n4) korraldab ja kontrollib tervishoiuteenuse osutajate poolt tegevusplaanide koostamist riigikaitseülesannete täitmiseks kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal ning tervishoiuteenuse osutajate valmidust tegevusplaanide täitmiseks;\n5) sõltuvalt julgeolekuolukorra muutumisest valmistab koos Kaitseministeeriumi ja Kaitseväega ette tervishoiuvaldkonda puudutavad muudatused tervishoiuteenuste toimepidevuse tagamiseks.\n(5) Tervishoiu riigikaitseks valmistumisel ja tervishoiuteenuste toimepidevuse tagamisel on tervishoiuteenuse osutaja kohustatud täitma talle riigikaitseseaduses, käesolevas seaduses ja seaduse alusel antud õigusaktides sätestatud ülesandeid.\n(6) Tervishoiu riigikaitseks valmistumisel koostab tegevusplaani tervishoiuteenuste korraldamise kohta kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal:\n1) käesoleva seaduse § 55 lõike 1 alusel kehtestatud haiglavõrgu arengukavas nimetatud haigla;\n2) kiirabiteenuse osutaja;\n3) käesoleva paragrahvi lõike 3 alusel riigikaitseks valmistumise ülesande saanud muu tervishoiuteenuse osutaja.\n(7) Käesoleva paragrahvi lõikes 6 nimetatud tegevusplaan võib hõlmata elutähtsa teenuse toimepidevuse plaani ja kriisireguleerimise plaani, arvestades riigikaitselisi erisusi.\n(8) Kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal võib valdkonna eest vastutav minister haldusaktiga:\n1) kehtestada kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal kehtivad ajutised tervishoiuteenuste kvaliteedi ja kättesaadavuse nõuded;\n2) korraldada tervishoiuteenuste osutamist.\n(9) Kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal Terviseamet:\n1) korraldab ja koordineerib tervishoiuteenuste osutamist kooskõlas käesoleva paragrahvi lõikes 8 sätestatud valdkonna eest vastutava ministri haldusaktidega;\n2) omab ülevaadet haiglate ja kiirabi hõivatusest ning koordineerib tervishoiualast infovahetust;\n3) annab valdkonna eest vastutava ministri otsustest lähtuvalt tervishoiuteenuse osutajale korraldusi tegevuse ümberkorraldamiseks ning otsustab tervishoiuteenuse osutaja tegevusvaru ümberjagamise;\n4) otsustab riigi tervishoiuvaru kasutamise, lähtudes käesoleva seaduse § 57^6 lõikest 6.\n(10) Kõrgendatud kaitsevalmiduse, sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ajal tervishoiuteenuse osutaja:\n1) osutab tervishoiuteenust lähtuvalt tervishoiuvaldkonna eest vastutava ministri ja Terviseameti haldusaktidest ning oma tegevusplaanist;\n2) teavitab Terviseametit tervishoiuteenuse osutamise takistustest;\n3) teavitab Terviseametit täiendava personali, meditsiiniseadmete ja ravimite vajadusest;\n4) teavitab Terviseametit vajadusest transportida patsiente teise tervishoiuteenuse osutaja juurde;\n5) teavitab oma patsiente tervishoiuteenuse osutamise korraldusest.\n(11) Käesoleva paragrahvi lõigetes 8–10 nimetatud ülesannete täitmisel lähtutakse ohuhinnangust."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "5. peatükk - TERVISHOIU JUHTIMINE",
+      "section": "59",
+      "title": "§ 59. Tervishoiuteenuste osutamise korraldus hädaolukorraks valmistumisel, hädaolukorra ohu korral ja hädaolukorra ajal",
+      "content": "(1) Hädaolukorraks valmistumiseks kehtestab valdkonna eest vastutav minister valmisoleku tasemed ja nende sisu hädaolukorra ohu korral ja hädaolukorra ajal.\n(2) Hädaolukorraks valmistumisel, hädaolukorra ohu korral ja hädaolukorra lahendamisel Terviseamet:\n1) määrab kindlaks tervishoiuteenuse osutajate ülesanded hädaolukorraks valmistumisel ning ülesannete jaotuse hädaolukorra ohu korral ja hädaolukorra ajal;\n2) koostab ja esitab Sotsiaalministeeriumile üks kord aastas käesoleva seaduse § 17 lõikes 1^1 ja § 22 lõikes 4^1 nimetatud tervishoiuteenuse osutajate kriisireguleerimise võimekuse hindamiseks ülevaate hädaolukorra lahendamiseks kasutusele võetavatest ja vajalikest ressurssidest ning küsib selleks vajalikke andmeid tervishoiuteenuse osutajatelt;\n3) annab tervishoiuteenuse osutajatele haldusakte, lähtudes käesoleva paragrahvi lõike 1 alusel kehtestatud valmisoleku tasemetest ja arvestades lõike 4 alusel kehtestatud haldusakte;\n4) annab haldusakte vastavalt käesoleva paragrahvi lõikele 6;\n5) otsustab tervishoiuteenuse osutaja tegevusvaru ümberjagamise;\n6) otsustab riigi tervishoiuvaru kasutamise, lähtudes käesoleva seaduse § 57^6 lõikest 6.\n(3) Hädaolukorraks valmistumisel ja hädaolukorra ohu korral kiirabibrigaadi pidaja ja haiglavõrgu haigla pidaja:\n1) kirjeldavad hädaolukorra seaduse § 39 alusel koostatud toimepidevuse plaanis oma tegevust sama seaduse § 9 lõike 1 alusel kehtestatud määruses nimetatud ohtudest põhjustatud hädaolukorra korral, mis mõjutavad tervishoiuteenuste osutamist;\n2) korraldavad personali kriisialase väljaõppe;\n3) määravad kriisireguleerimise eest vastutava pädeva isiku või isikud ja teatavad Terviseametile pädeva isiku või isikute kontaktandmed;\n4) esitavad Terviseametile tema nõudmisel hädaolukorra lahendamiseks planeeritavate ressursside ja vajalike täiendavate ressursside andmed;\n5) korraldavad hädaolukorra ohu korral tervishoiuteenuste osutamise ümber käesoleva paragrahvi lõike 1 alusel kehtestatud valmisoleku tasemete ja Terviseameti haldusaktide kohaselt, teavitavad õigeaegselt oma patsiente tervishoiuteenuste osutamise ümberkorraldusest ning teavitavad Terviseametit täiendavate ressursside vajadusest.\n(4) Hädaolukorra ajal võib valdkonna eest vastutav minister kehtestada ajutised tervishoiuteenuste kvaliteedi ja kättesaadavuse piirangud ning tervishoiuteenuste osutamise tavapärasest erinevad ajutised nõuded, lähtudes käesoleva paragrahvi lõike 1 alusel kehtestatud valmisoleku tasemetest.\n(5) Terviseametil on õigus nimetada hädaolukorra meditsiinijuht või -juhid, kes alluvad hädaolukorra lahendamist juhtivale asutusele ja koordineerivad tervishoiuteenuse osutajate tegevust tervishoiualase hädaolukorra lahendamise ajal.\n(6) Terviseametil on õigus anda tervishoiualase hädaolukorra lahendamiseks haldusakte tervishoiuteenuse osutajatele ja teistele eraõiguslikele juriidilistele isikutele nende tegevuse ajutiseks ümberkorraldamiseks ning piiramiseks, kui see on vältimatult vajalik.\n(7)\n(8) Hädaolukorra lahendamisel kiirabibrigaadi pidaja ja haiglavõrgu haigla pidaja:\n1) osutavad tervishoiuteenust, lähtudes käesoleva paragrahvi lõike 1 alusel kehtestatud valmisoleku tasemetest ja käesoleva paragrahvi lõike 4 alusel kehtestatud haldusaktidest, Terviseameti haldusaktidest ning käesoleva seaduse ja hädaolukorra seaduse alusel koostatud plaanidest;\n2) teavitavad hädaolukorra meditsiinijuhti või Terviseametit täiendava personali ning täiendavate meditsiiniseadmete ja ravimite vajadusest;\n3) teavitavad hädaolukorra meditsiinijuhti või Terviseametit patsientide teise tervishoiuteenuse osutaja juurde ümberpaigutamisest olulises mahus või abi vajadusest selle korraldamisel;\n4) teavitavad õigeaegselt oma patsiente tervishoiuteenuste osutamise ümberkorraldusest;\n5) annavad hädaolukorra meditsiinijuhile ja Terviseametile tema nõudmisel hädaolukorra lahendamise juhtimiseks vajalikku teavet.\n(9) Hädaolukorra ohu korral ja hädaolukorra lahendamisel perearstiabi osutaja:\n1) korraldab perearstiabi osutamise ümber käesoleva paragrahvi lõike 1 alusel kehtestatud valmisoleku tasemete ja käesoleva paragrahvi lõike 4 alusel kehtestatud haldusaktide kohaselt või Terviseameti haldusaktide kohaselt;\n2) teavitab õigeaegselt oma patsiente tervishoiuteenuste osutamise ümberkorraldusest;\n3) annab hädaolukorra meditsiinijuhile ja Terviseametile nende nõudmisel hädaolukorra lahendamiseks vajalikku teavet ja teavitab täiendavate ressursside vajadusest.\n(10) Teabe käesolevas paragrahvis sätestatud meetmete ja piirangute kehtestamise ning lõpetamise kohta võib avaldada massiteabevahendis, kui haldusakti adressaatide arv on suurem kui 50.\n(11) Haldusakt käesolevas paragrahvis sätestatud meetmete ja piirangute kehtestamise ning lõpetamise kohta jõustub selle teatavaks tegemisel vahetule adressaadile või selle avaldamisel massiteabevahendis, kui haldusaktis eneses ei sätestata teist tähtaega."
+    },
+    {
+      "provision_ref": "para59^1",
+      "chapter": "5. peatükk - TERVISE INFOSÜSTEEM",
+      "section": "59^1",
+      "title": "§ 59^1. Tervise infosüsteem",
+      "content": "(1) Tervise infosüsteemis töödeldakse tervishoiuvaldkonnaga seotud andmeid tervishoiuteenuse osutamise lepingu sõlmimiseks ja täitmiseks, tervishoiuteenuste kvaliteedi ja patsiendi õiguste tagamiseks ning rahvastiku tervise kaitseks, sealhulgas terviseseisundit kajastavate registrite pidamiseks, tervisestatistika tegemiseks ja tervishoiu juhtimiseks.\n(2) Tervise infosüsteemi kaasvastutavad töötlejad on Sotsiaalministeerium ja Tervisekassa.\n(3) Tervise infosüsteemi asutab ja selle põhimääruse kehtestab Vabariigi Valitsus määrusega, milles sätestatakse:\n1) infosüsteemi kaasvastutavate töötlejate ning volitatud töötleja ülesanded;\n2) infosüsteemi kogutavate andmete koosseis ja edastamise kord;\n3) andmete õigsuse tagamise kord;\n4) isiku tahteavaldused ja nende menetlemise kord;\n5) andmetele juurdepääsu ja andmete väljastamise täpsem kord;\n6) andmeandjate loetelu ja nendelt saadavad andmed;\n7) infosüsteemi rahastamine;\n8) muud korraldusküsimused.\n(4) Tervise infosüsteemis töödeldakse järgmisi andmeid:\n1) patsiendi üldandmed – isikukood ja sünniaeg, sugu, ees- ja perekonnanimi ning kontaktandmed;\n2) patsiendi muud andmed – töökoha, õppeasutuse, perearsti ja ravikindlustuse andmed ning tahteavalduse, eestkostja või esindaja andmed;\n3) patsienti puudutavad meditsiinilised andmed – raviprotsessi ja terviseseisundit kirjeldavad andmed ning kutsed;\n4) dokumendi koostaja andmed – nimi, tervishoiutöötaja registreerimiskood, tegevusluba, kutse või eriala ja kontaktandmed;\n5) ravijärjekorra ja digiregistratuuri pidamisega seotud andmed;\n6) andmetöötluse logid.\n(5) Tervise infosüsteemis säilitatakse andmeid nende infosüsteemi vastuvõtmisest alates tähtajatult, arvestades järgmisi erisusi:\n1) kiirabikaardi ning ravijärjekorra ja digiregistratuuriga seotud andmeid ja kutseid viis aastat;\n2) meditsiinilisi ülesvõtteid 30 aastat, välja arvatud hambaraviga seotud ülesvõtted, mida säilitatakse 15 aastat;\n3) surmateatise ja surma põhjuse teatise andmeid kümme aastat;\n3^1) vastavustõendeid kaks aastat, kui infosüsteemi põhimääruses ei ole sätestatud lühemat tähtaega;\n4) logisid vastavalt infosüsteemi põhimääruses sätestatule.\n(6) Käesoleva paragrahvi lõikes 1 nimetatud eesmärkide täitmiseks võib töödelda ka isiku varasemaid rahvastikuregistri üldandmeid, nagu isiku ees- ja perekonnanimi, isikukood ning sugu."
+    },
+    {
+      "provision_ref": "para59^2",
+      "chapter": "5. peatükk - TERVISE INFOSÜSTEEM",
+      "section": "59^2",
+      "title": "§ 59^2. Andmete edastamine tervise infosüsteemi",
+      "content": "(1) Tervishoiuteenuse osutaja on kohustatud edastama tervise infosüsteemi andmed:\n1) ravijärjekorra pidamiseks vastavalt käesoleva seaduse § 56 lõike 1 punkti 4 alusel sätestatule;\n2) meditsiiniliste ülesvõtete kättesaadavaks tegemiseks vastavalt käesoleva paragrahvi lõike 3 alusel sätestatule;\n3) patsiendile osutatud tervishoiuteenuse kohta ning tervishoiu juhtimiseks, sealhulgas seaduse alusel asutatud tervislikku seisundit kajastavate registrite pidamiseks, vastavalt käesoleva paragrahvi lõike 2 alusel sätestatule.\n(1^1) Riikliku ekspertiisiasutuse kohtuarst-eksperdil on kohustus edastada tervise infosüsteemi:\n1) vastavalt surma põhjuse tuvastamise seadusele andmed surma põhjuse kohta, kui kohtuarstliku ekspertiisi ja kohtuarstliku lahangu käigus selgub, et surm on saabunud haiguse või vigastuse tagajärjel;\n2) vastavalt nakkushaiguste ennetamise ja tõrje seaduse alusel kehtestatud nakkushaiguste loetelule andmed kohtuarstlikul lahangul avastatud nakkushaiguste kohta.\n(1^2) Patsiendil on õigus edastada tervise infosüsteemi isikuandmeid teenuste pakkumiseks ja temaga ühenduse võtmiseks, samuti parema tervishoiuteenuse saamiseks ja terviseseisundi hindamiseks, sealhulgas tarkvaralahenduse kasutamiseks vastavalt käesoleva seaduse § 59^1 lõike 3 alusel kehtestatud tervise infosüsteemi põhimääruses sätestatule.\n(1^3) Tervishoiuteenuse osutajal on õigus edastada tervise infosüsteemi isikuandmeid tarkvaralahenduse kasutamiseks vastavalt käesoleva seaduse § 59^1 lõike 3 alusel kehtestatud tervise infosüsteemi põhimääruses sätestatule.\n(2) Valdkonna eest vastutav minister kehtestab määrusega tervise infosüsteemi edastatavate dokumentide andmekoosseisud ning nende esitamise tingimused ja korra.\n(3) Meditsiiniliste ülesvõtete liigid, neile esitatavad infotehnoloogilised nõuded ning kättesaadavaks tegemise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para59^3",
+      "chapter": "5. peatükk - TERVISE INFOSÜSTEEM",
+      "section": "59^3",
+      "title": "§ 59^3. Tervise infosüsteemi andmetele juurdepääsu võimaldamine",
+      "content": "(1) Patsiendil on juurdepääs oma isikuandmetele tervise infosüsteemis. Patsiendi elu või tervise kaitseks võib tervishoiuteenuse osutaja andmete infosüsteemi edastamisel määrata kuni kuuekuulise tähtaja, mille jooksul saab patsient esmakordselt tutvuda isikuandmetega ainult tervishoiutöötaja vahendusel.\n(2) Tervishoiuteenuse osutajal on juurdepääs tervise infosüsteemis olevatele isikuandmetele järgmistel juhtudel:\n1) käesoleva seaduse § 4^1 lõike 1 punktides 1 ja 2 sätestatud eesmärkidel ja korras;\n2) käesoleva seaduse § 4^1 lõike 1 punktis 3 tervishoiuteenuste kvaliteedi ning patsiendiohutusjuhtumite analüüsimise ja ennetamisega seotud eesmärkidel ja korras;\n3) käesoleva seaduse § 4^1 lõikes 1^2 sätestatud eesmärkidel ja korras.\n(2^1) Lisaks käesoleva paragrahvi lõikes 2 nimetatud isikule on tervise infosüsteemis olevatele isikuandmetele juurdepääs tervishoiuteenusel osalemiseks järgmistel isikutel:\n1) arstiõppe üliõpilasel, kes on läbinud õppekavas olevad neljanda kursuse kohustuslikud ained;\n2)\n3) tegevusterapeudil;\n4)\n5)\n6) optometristil;\n7) radioloogia tehnikul;\n8) käesoleva seaduse § 30 lõikes 3^2 nimetatud isikul.\n(2^2) Käesoleva paragrahvi lõikes 2^1 nimetatud isikute ja käesoleva seaduse § 3 lõikes 6 nimetatud isikute juurdepääsu ulatuse tervise infosüsteemis olevatele isikuandmetele määrab valdkonna eest vastutav minister määrusega.\n(3) Patsiendil on õigus keelata käesoleva paragrahvi lõigetes 2 ja 2^1 nimetatud isikute juurdepääs tervise infosüsteemis olevatele isikuandmetele.\n(4) Patsiendi väljendatud tahte alusel on tervishoiuteenuse osutajal kohustus kohe keelata juurdepääs tervise infosüsteemis olevatele patsiendi isikuandmetele.\n(5) Riikliku ekspertiisiasutuse kohtuarsti eksperdil ja riiklikult tunnustatud või riikliku ekspertiisiasutuse või tema lepingupartneri kohtupsühhiaatria eksperdil on juurdepääs tervise infosüsteemis olevatele isikuandmetele kohtuarstliku ekspertiisi ning kohtupsühhiaatria ekspertiisi tegemiseks.\n(5^1)\n(5^2)\n(5^3) Terviseameti poolt riiklikku või haldusjärelevalvet tegeval isikul on juurdepääs tervise infosüsteemis olevatele isikuandmetele seaduses sätestatud järelevalvemenetluse läbiviimiseks.\n(6) Muudel isikutel on juurdepääs tervise infosüsteemis olevatele isikuandmetele, kui see õigus tuleneb seadusest.\n(7) Lisaks käesoleva paragrahvi lõikes 6 sätestatule väljastatakse isikuandmeid üksnes andmesubjekti enda nõusolekul, ilma andmesubjekti nõusolekuta teadus- ja ajaloouuringu ning riikliku statistika vajadusteks või süüteo- või kohtumenetluses tõe väljaselgitamiseks või käesoleva seaduse § 56 lõike 1 punkti 12 alusel moodustatud arstliku ekspertiisikomisjoni otsuse tegemiseks, Terviseametile ja Andmekaitse Inspektsioonile nende ülesannete täitmise tagamiseks, Kaitseministeeriumile kaitseväeteenistuse seaduses ja Kaitseliidu seaduses sätestatud terviseseisundi hindamise üle järelevalve tegemiseks ning muul juhul, kui tervise infosüsteemist andmete väljastamine või edastamine on seaduses sätestatud.\n(8) Käesoleva paragrahvi lõikes 7 sätestatu, välja arvatud andmesubjekti nõusoleku alusel isikuandmete väljastamine, kehtib ka surnud andmesubjekti isikuandmete väljastamise kohta."
+    },
+    {
+      "provision_ref": "para59^4",
+      "chapter": "5. peatükk - TERVISE INFOSÜSTEEM",
+      "section": "59^4",
+      "title": "§ 59^4. Uuringueetika komitee",
+      "content": "(1) Uuringueetika komitee hindab tervise infosüsteemist teadusuuringu või statistika vajadusteks isikuandmete väljastamise vajalikkust ja põhjendatust.\n(2) Uuringueetika komitee töö eesmärk on isikute põhiõiguste ennetava kaitse tagamine ja uuringutele rakendatavate hindamispõhimõtete ühtlustamine, et kindlustada õiguste kaitsemeetmed ning uurijate kohustused neid kaitsemeetmeid järgida.\n(3) Uuringueetika komitee lähtub oma tegevuses valdkonnale kehtestatud eetikanormidest ja rahvusvahelistest konventsioonidest, samuti Euroopa Parlamendi ja nõukogu määrusest (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus) (ELT L 119, 04.05.2016, lk 1–88) ja eriseadustes sätestatud põhimõtetest.\n(4) Taotlus isikuandmete väljastamiseks teadusuuringu või statistika vajadusteks esitatakse tervise infosüsteemi vastutavale töötlejale. Taotlus peab vastama heale teadusuuringute tavale.\n(5) Uuringueetika komitee hindab uuringu vastavust isikuandmete kaitse seaduse §-s 6 sätestatud tingimustele, eetiliste riskide suurust ning uuringu läbiviija tausta, leides tasakaalu põhiõiguste kaitse ja uuringu otstarbekuse vahel.\n(6) Uuringueetika komitee moodustab, selle töökorra, liikmete arvu ja määramise korra ning uuringu läbivaatamise tasumäärad kinnitab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "6. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "60",
+      "title": "§ 60. Riiklik järelevalve",
+      "content": "(1) Tervishoiuteenuste osutajatele kehtestatud nõuete täitmise üle teostab riiklikku järelevalvet Terviseamet. Terviseametil on õigus saada järelevalveks isikuandmeid, sealhulgas eriliiki isikuandmeid, kui need on vajalikud tema ülesannete täitmiseks.\n(2)"
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "6. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "61",
+      "title": "§ 61. Riikliku järelevalve erimeetmed",
+      "content": "(1) Terviseamet võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras.\n(2) Kiirabil on õigus käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "6. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "62",
+      "title": "§ 62. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär 640 eurot."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "64",
+      "title": "§ 64. Tegevusloa väljaandmine",
+      "content": "(1) Isik, kelle tegevusala käesoleva seaduse jõustumise ajal on tervishoiuteenuste osutamine ning kellel selle seaduse kohaselt on tervishoiuteenuste osutamiseks vaja tegevusluba, peab tegevusloa taotlema seaduse jõustumisest alates kolme aasta jooksul.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud tähtaja jooksul taotluse esitamata jätmise korral või juhul, kui isikule ei väljastata tegevusluba käesoleva seaduse § 45 lõike 1 punktides 1–4 loetletud alustel, kaotab isik õiguse osutada tervishoiuteenuseid."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "65",
+      "title": "§ 65. Perearstina tegutsemine",
+      "content": "(1) Kuni 2005. aasta 1. jaanuarini võivad nimistu alusel perearstina tegutseda üldarst ja lastearst, kui nad on saanud perearstina tegutsemise õiguse enne käesoleva seaduse jõustumist ja kui nad õpivad perearsti residentuuris või perearstiks spetsialiseerumise kursustel.\n(2) Käesoleva seaduse § 37 lõike 1 punktis 10 nimetatud perearsti töölt eemalviibimise alguskuupäeva arvestatakse 2007. aasta 1. juulist.\n(3) Perearst, kelle nimistu osas on maavanem enne 2013. aasta 1. jaanuari kooskõlastatult Eesti Haigekassaga lubanud kõrvalekaldeid kehtestatud nimistu piirsuurusest, peab viima oma nimistu vastavusse käesoleva seaduse § 8 lõigetes 4^1 ja 4^2 sätestatud nõuetega hiljemalt 2014. aasta 1. jaanuariks.\n(4) Kui käesoleva paragrahvi lõikes 3 nimetatud nimistusse kantud isikute arv ületab käesoleva seaduse § 8 lõike 4^1 punktis 1 sätestatud maksimaalse piirmäära, peab perearst hiljemalt 2015. aasta 1. jaanuariks tagama nimistusse kuuluvatele isikutele üldarstiabi osutamise selliselt, et koos perearstiga osutaks üldarstiabi vähemalt üks arsti kvalifikatsiooniga tervishoiutöötaja."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "66",
+      "title": "§ 66. Riigi ja kohalike omavalitsuste hallatavate tervishoiuasutuste ümberkujundamine",
+      "content": "(1) Riigi hallatavate tervishoiuasutuste ümberkujundamine eraõiguslikeks juriidilisteks isikuteks toimub riigi poolt eraõiguslike juriidiliste isikute asutamise ja nendes osalemise seaduses sätestatud korras.\n(2) Kohalike omavalitsuste hallatavate tervishoiuasutuste ümberkujundamine eraõiguslikeks juriidilisteks isikuteks toimub kohaliku omavalitsuse korralduse seaduses sätestatud korras.\n(3) Riigi või kohalike omavalitsuste hallatavate tervishoiuasutuste ümberkujundamisel eraõiguslikeks juriidilisteks isikuteks lähevad kehtivad töölepingud üle asutatavatele eraõiguslikele juriidilistele isikutele."
+    },
+    {
+      "provision_ref": "para66^1",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "66^1",
+      "title": "§ 66^1. Kiirabibrigaadi pidajatega sõlmitud lepingute kehtivus",
+      "content": "Enne 2007. aasta 1. jaanuari kiirabibrigaadi pidajatega sõlmitud lepinguid uuendatakse, lähtudes käesoleva seaduse § 17 lõikes 4^2 ning halduskoostöö seaduses sätestatud tingimustest."
+    },
+    {
+      "provision_ref": "para66^2",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "66^2",
+      "title": "§ 66^2. Seaduse rakendamine",
+      "content": "Enne 2008. aasta 1. jaanuari asutatud tervishoiutöötajate riiklik register ja tervishoiuteenuste osutamise tegevuslubade riiklik register viiakse kooskõlla käesoleva seaduse §-des 27^1 ja 50^1 sätestatuga 2008. aasta 1. aprilliks."
+    },
+    {
+      "provision_ref": "para66^3",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "66^3",
+      "title": "§ 66^3. Tervise infosüsteemi kasutuselevõtmise korraldamine",
+      "content": "(1) Tervise infosüsteemile ülemineku ajakava tervise infosüsteemi sisestatavate andmete kaupa kehtestab valdkonna eest vastutav minister.\n(2) Tervise infosüsteem tervikuna võetakse kasutusele hiljemalt 2013. aasta 1. jaanuaril."
+    },
+    {
+      "provision_ref": "para66^4",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "66^4",
+      "title": "§ 66^4. Lähtetoetuse taotlemine 2012. aastal",
+      "content": "Lähtetoetust võivad 2012. kalendriaastal taotleda arstid, kes omandavad käesoleva seaduse § 54^1 lõike 2 punktis 1 nimetatud eriarstiabi eriala ning lõpetavad residentuuri 2012. kalendriaastal."
+    },
+    {
+      "provision_ref": "para66^5",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "66^5",
+      "title": "§ 66^5. Üldarstiabi ning tervishoiustatistika ja tervishoiualase majandustegevuse aruandluse korraldamise ülesannete üleminek Terviseametile ja Sotsiaalministeeriumi või valdkonna eest vastutava ministri määratud asutusele",
+      "content": "(1) Üldarstiabi korralduse üleminekul Terviseameti pädevusse annavad maavanemad Terviseametile üle üldarstiabi korraldamisega seotud asjaajamise ja dokumentatsiooni.\n(2) Kõik üldarstiabi korraldusega seonduvad õigused ja kohustused, mis isikutel olid kuni 2012. aasta 31. detsembrini maavanema ees, on neil alates 2013. aasta 1. jaanuarist Terviseameti ees. Käesolevas seaduses sätestatud ajavahemikud ja tähtajad seoses üldarstiabi korralduse üleminekuga Terviseameti pädevusse ei katke.\n(3) 2012. aasta 31. detsembril füüsilisest isikust ettevõtjana üldarstiabi osutavad perearstid ja üldarstiabi osutavad äriühingud peavad hiljemalt 2014. aasta 30. juuniks taotlema Terviseametilt üldarstiabi osutamise tegevusloa. Tegevusloa taotlemine on riigilõivuvaba.\n(4) Tervishoiustatistika ja tervishoiualase majandustegevuse aruannete kogumise üleminekul Sotsiaalministeeriumi või valdkonna eest vastutava ministri määratud asutuse pädevusse annavad maavanemad asutusele üle tervisestatistika korraldamisega seotud aruandluse ja dokumentatsiooni.\n(5) Tervishoiustatistika ja tervishoiualase majandustegevuse aruanded kogub ning koondandmed avaldab alates 2013. aasta 1. jaanuarist Sotsiaalministeeriumi või valdkonna eest vastutava ministri määratud asutus.\n(6) Kõik tervishoiustatistika ja tervishoiualase majandustegevuse aruandlusega seonduvad õigused ja kohustused, mis tervishoiuteenuse osutajatel olid kuni 2012. aasta 31. detsembrini maavanema ees, on neil alates 2013. aasta 1. jaanuarist Sotsiaalministeeriumi või valdkonna eest vastutava ministri määratud asutuse ees. Käesolevas seaduses sätestatud ajavahemikud ja tähtajad seoses tervishoiustatistika ja tervishoiualase majandustegevuse aruandluse üleminekuga ei katke."
+    },
+    {
+      "provision_ref": "para66^6",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "66^6",
+      "title": "§ 66^6. Kiirabi lepinguliste kohustuste üleminek ja nende rahastamine",
+      "content": "(1) Enne 2018. aasta 1. jaanuari kehtinud Terviseameti ja kiirabibrigaadi pidaja vahel sõlmitud kiirabi osutamise halduslepingus sätestatud poolte õigused ja kohustused kehtivad kuni 2018. aasta 31. detsembrini.\n(2) Terviseameti ja kiirabibrigaadi pidaja vahel sõlmitud sihtotstarbelises rahastamislepingus sätestatud Terviseameti õigused ja kohustused kehtivad kuni 2018. aasta 31. detsembrini.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud lepingutele kohaldatakse käesoleva seaduse redaktsiooni, mis kehtis kuni 2017. aasta 31. detsembrini.\n(4) Eesti Haigekassa võtab alates 2018. aasta 1. jaanuarist Terviseameti eest üle käesoleva paragrahvi lõigetes 1 ja 2 nimetatud lepingutes sätestatud rahastamiskohustuse ning rahastab lepingutes nimetatud teenuseid, mida on osutatud alates 2018. aasta 1. jaanuarist.\n(5) Terviseamet on kohustatud esitama Eesti Haigekassale 2018. aastal igas kalendrikuus esimesel võimalusel iga kiirabibrigaadi pidaja kohta eelmisel kalendrikuul osutatud teenuse eest aruande ja rahalise kohustuse summa. Eesti Haigekassa on kohustatud tasuma rahalise kohustuse teenuseosutajale Terviseameti poolt näidatud rahalise kohustuse ulatuses viie tööpäeva jooksul aruande ja rahalise kohustuse summa saamisest arvates."
+    },
+    {
+      "provision_ref": "para66^7",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "66^7",
+      "title": "§ 66^7. Perearsti ajutise asendamise korraldamisega seotud lepinguliste kohustuste üleminek ja nende rahastamine",
+      "content": "(1) Eesti Haigekassa võtab alates 2018. aasta 1. jaanuarist Terviseameti eest üle rahastamiskohustuse, mis sisaldub sõlmitavates ajutise asendamise korraldamisega seotud lepingutes.\n(2) Terviseamet on kohustatud esitama Eesti Haigekassale alates 2018. aasta 1. jaanuarist kuni 2020. aasta 31. detsembrini igas kalendrikuus esimesel võimalusel iga asendusteenuse osutamise kohta eelmisel kalendrikuul osutatud teenuse eest aruande ja rahalise kohustuse summa. Terviseamet on kohustatud tasuma ajutise asenduse pakkujale teenuse osutamise eest asendustasu teenuse osutamisele järgneva kalendrikuu 4. kuupäevaks."
+    },
+    {
+      "provision_ref": "para66^8",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "66^8",
+      "title": "§ 66^8. Käesoleva seaduse § 51 lõike 2 punkti 2 rakendamine",
+      "content": "Käesoleva seaduse § 51 lõike 2 punktis 2 nimetatud riigieelarve eraldise määr on:\n1) 2018. aastal 7 protsenti;\n2) 2019. aastal 10 protsenti;\n3) 2020. aastal 11 protsenti;\n4) 2021. aastal 12 protsenti."
+    },
+    {
+      "provision_ref": "para66^9",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "66^9",
+      "title": "§ 66^9. Üldarstiabi korraldamise ülesannete üleminek Eesti Haigekassale",
+      "content": "Kui Terviseamet on enne 2022. aasta 1. juulit käesoleva seaduse § 34 lõike 1^1 alusel välja kuulutanud avaliku konkursi nimistu moodustamise õiguse andmiseks või vabanenud nimistule üldarstiabi osutamise korraldamiseks, viib Terviseamet nimetatud konkursi lõpuni. Terviseamet kinnitab valitud kandidaadile perearsti nimistu või loeb konkursi luhtunuks, kui konkursile kandideerimiseks avaldusi ei esitatud või kui ükski kandidaatidest ei osutunud sobivaks."
+    },
+    {
+      "provision_ref": "para66^10",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "66^10",
+      "title": "§ 66^10. Tervishoiuteenuse kvaliteedi ekspertkomisjoni tegevuse lõpetamine",
+      "content": "(1) Kuni 2024. aasta 31. oktoobrini käesoleva seaduse alusel tervishoiuteenuse kvaliteedi ekspertkomisjonile esitatud kaebuste menetlemisele ja nimetatud komisjoni tegevusele kohaldatakse käesoleva seaduse redaktsiooni, mis kehtis kuni 2024. aasta 31. oktoobrini.\n(2) Tervishoiuteenuse kvaliteedi ekspertkomisjoni tegevus lõpetatakse hiljemalt 2025. aasta 31. märtsil. Lõpetamise korraldab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "67",
+      "title": "§ 67.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "72",
+      "title": "§ 72.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para72^1",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "72^1",
+      "title": "§ 72^1. Tegevuslubade kehtivus",
+      "content": "Enne 2014. aasta 1. jaanuari hooldusravi osutamiseks välja antud eriarstiabi osutamise tegevusload kehtivad nende kehtivusaja lõpuni."
+    },
+    {
+      "provision_ref": "para72^2",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "72^2",
+      "title": "§ 72^2. Käesoleva seaduse § 4^2 lõigete 4–6 rakendamine",
+      "content": "Käesoleva seaduse § 4^2 lõigetes 4–6 sätestatud tähtaegu rakendatakse alates 2019. aasta 15. märtsist koostatud dokumentidele. Enne 2019. aasta 15. märtsi koostatud dokumente säilitatakse varem kehtestatud korras."
+    },
+    {
+      "provision_ref": "para72^3",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "72^3",
+      "title": "§ 72^3. Käesoleva seaduse § 54^1 lõike 2 rakendamine",
+      "content": "Isikul, kes asus eriarstina tööle omandatud erialal või tegutsema nimistuga perearstina perioodil 2019. aasta 1. jaanuarist kuni 2021. aasta 31. detsembrini, kellele lähtetoetust ei ole makstud ja kes vastab käesoleva seaduse § 54^1 lõigetes 3 ja 4 sätestatud tingimustele, on õigus taotleda lähtetoetust 2022. aasta 31. detsembrini."
+    },
+    {
+      "provision_ref": "para72^4",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "72^4",
+      "title": "§ 72^4. Käesoleva seaduse § 54^1 lõike 4 rakendamine",
+      "content": "Käesoleva seaduse § 54^1 lõike 4 kohaldamisel rakendatakse kuni 2025. aasta 31. detsembrini Tallinna linna ja Tartu linnaga vahetult piirnevate kohaliku omavalitsuse üksuste kindlaksmääramiseks 2017. aasta 30. juunini kehtinud Eesti territooriumi haldusüksuste jaotust."
+    },
+    {
+      "provision_ref": "para72^5",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "72^5",
+      "title": "§ 72^5. Käesoleva seaduse § 9 lõike 1 rakendamine",
+      "content": "Perearstide teeninduspiirkonnad, mis ei ole kooskõlas käesoleva seaduse § 9 lõikega 1, viiakse viidatud sättega vastavusse 2023. aasta 31. detsembriks."
+    },
+    {
+      "provision_ref": "para72^6",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "72^6",
+      "title": "§ 72^6. Füsioteraapia, logopeedilise ravi ja psühholoogilise ravi osutamine tegevusloata",
+      "content": "Ilma tegevusloata võib ravi eesmärgil füsioteraapiat ning logopeedilist ja psühholoogilist ravi osutada kuni 2024. aasta 30. juunini."
+    },
+    {
+      "provision_ref": "para72^7",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "72^7",
+      "title": "§ 72^7. Lähtetoetuste menetlemine",
+      "content": "Enne 2024. aasta 1. jaanuari esitatud eriarsti lähtetoetuse taotlusi menetleb Sotsiaalministeerium."
+    },
+    {
+      "provision_ref": "para72^8",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "72^8",
+      "title": "§ 72^8. Lähtetoetuse mõju hindamine",
+      "content": "Sotsiaalministeerium analüüsib hiljemalt 2028. aasta 1. jaanuariks õe lähtetoetuse eesmärgi saavutamist ja rakendamisega kaasnenud mõju ning esitab vajaduse korral ettepanekud regulatsiooni muutmiseks."
+    },
+    {
+      "provision_ref": "para72^9",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "72^9",
+      "title": "§ 72^9. Nimistuväliste isikute teenindamise mõju järelhindamine",
+      "content": "Sotsiaalministeerium teeb hiljemalt 2029. aasta 1. jaanuariks järelhindamise käesoleva seaduse § 7 lõigetes 2^1 ja 2^2 sätestatud regulatsiooni rakendamise mõju ja tulemuslikkuse kohta ning esitab vajaduse korral ettepanekud sätete muutmiseks."
+    },
+    {
+      "provision_ref": "para72^10",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "72^10",
+      "title": "§ 72^10. Perearstiabi osutaja poolt nimistusse kuuluvate isikute teenindamise mõju järelhindamine",
+      "content": "Sotsiaalministeerium teeb hiljemalt 2029. aasta 1. jaanuariks järelhindamise käesoleva seaduse § 57 lõike 3^3 punktis 2 ja lõikes 3^5 sätestatud perearstiabi tegevusluba omava isiku poolt tervisekeskuse väliselt perearsti nimistusse kuuluvatele isikutele asenduse korras teenuse osutamise regulatsiooni rakendamise mõju ja tulemuslikkuse kohta ning esitab vajaduse korral ettepanekud sätete muutmiseks."
+    },
+    {
+      "provision_ref": "para72^11",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "72^11",
+      "title": "§ 72^11. Käesoleva seaduse § 57^6 rakendamine",
+      "content": "(1) Enne käesoleva seaduse § 57^6 jõustumist hädaolukorra seaduse § 18^1 lõike 6 tähenduses varusse kuulunud Terviseameti haldamisel olnud tervishoiuvaldkonna varu antakse tasuta üle riigi osalusel asutatud piirkondlikule haiglale kolme kuu jooksul § 57^6 jõustumisest arvates.\n(2) Terviseamet võtab käesoleva seaduse § 57^6 lõikes 4 nimetatud otsuse vastu ühe kuu jooksul § 57^6 jõustumisest arvates."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "73",
+      "title": "§ 73. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2002. aasta 1. jaanuaril.\n(2) Käesoleva seaduse § 22 lõige 2 jõustub 2003. aasta 1. jaanuaril ja §-d 12–15 jõustuvad 2005. aasta 1. jaanuaril.\n(3) Käesoleva seaduse § 59^2 lõige 1^1 jõustub 2013. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": []
+}

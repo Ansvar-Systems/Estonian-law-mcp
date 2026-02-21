@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-204042012005",
+  "type": "statute",
+  "title": "Puuetega inimeste õiguste konventsiooni ratifitseerimise seadus",
+  "title_en": "Puuetega inimeste õiguste konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-204042012005",
+  "status": "in_force",
+  "issued_date": "2012-03-21",
+  "in_force_date": "2012-04-14",
+  "url": "https://www.riigiteataja.ee/akt/204042012005.xml",
+  "description": "Official consolidated statute text (Puuetega inimeste õiguste konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud puuetega inimeste õiguste konventsioon, mis on Ühinenud Rahvaste Organisatsiooni (edaspidi ÜRO ) Peaassamblee poolt vastu võetud 2006. aasta 13. detsembril New Yorgis ja millele Eesti Vabariik kirjutas alla 2007. aasta 25. septembril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ratifitseerimiskirja hoiule andes teha deklaratsioon, mille kohaselt Eesti Vabariik tõlgendab konventsiooni artiklit 12 selliselt, et see ei keela pidamast isikut piiratud teovõimega isikuks, kui selline vajadus tuleneb isiku võimetusest oma tegudest aru saada või neid juhtida. Piiratud teovõimega isiku õiguste kitsendamisel lähtub Eesti enda riigisisesest õigusest."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ühineda juurdelisatud puuetega inimeste õiguste konventsiooni fakultatiivprotokolliga, mis on ÜRO Peaassamblee poolt vastu võetud 2006. aasta 13. detsembril New Yorgis."
+    }
+  ],
+  "definitions": []
+}

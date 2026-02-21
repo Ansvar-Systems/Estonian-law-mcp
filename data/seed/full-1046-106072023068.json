@@ -1,0 +1,442 @@
+{
+  "id": "ee-law-106072023068",
+  "type": "statute",
+  "title": "Päästeseadus",
+  "title_en": "Päästeseadus",
+  "short_name": "PäästeS",
+  "status": "in_force",
+  "issued_date": "2010-05-05",
+  "in_force_date": "2024-01-01",
+  "url": "https://www.riigiteataja.ee/akt/106072023068.xml",
+  "description": "Official consolidated statute text (Päästeseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Päästeseadus sätestab päästeasutuse ülesanded, korralduse ja õigused, Kaitseväe ja Kaitseliidu kaasamise päästeasutuse ülesannete täitmisse ning päästeasutuse tegevuses vabatahtlikkuse alusel osalevate isikute õigused ja kohustused.\n(2) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi.\n(3) Päästeasutuse tegevuse korralduse erisused sätestavad erakorralise seisukorra seadus ja hädaolukorra seadus.\n(4) Käesolev seadus ei reguleeri tervishoiuteenuse osutamist, mis on reguleeritud tervishoiuteenuste korraldamise seadusega."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Päästeasutuse tegevuse põhialused",
+      "content": "(1) Päästeasutuse tegevuse eesmärk on turvalise elukeskkonna kujundamine ja hoidmine, ohtude ennetamine ning operatiivne ja professionaalne abistamine.\n(2) Päästeasutuse tegevus on suunatud inimeste elu, tervist ja vara ning keskkonda ohustavate päästesündmuste ennetamisele, ohu väljaselgitamisele, ohu tõrjumisele ning päästesündmuse tagajärgede leevendamisele, kui teistes seadustes ei ole sätestatud teisiti.\n(3) Päästeasutuse tegevuse planeerimise põhialuseks on piirkondlikud ohutegurid. Ohuteguriks peetakse isikut, nähtust, protsessi, objekti või muud näitajat või nende koosmõju, mille piirkondliku paiknemise ja esinemissageduse põhjal võib pidada tõenäoliseks ohu teket.\n(4) Päästeameti tegevuses võivad osaleda vabatahtlikud käesoleva seaduse 7. peatükis sätestatud alustel ja korras.\n(4^1) Häirekeskuse tegevuses, välja arvatud hädaabiteadete menetlemisel, kui tegemist ei ole võõrkeelse hädaabiteate menetlemisel ohu hindamisega, võivad osaleda avaliku teenistuse seaduses sätestatud avalikku teenistusse võtmise nõuetele vastavad vabatahtlikud.\n(4^2) Häirekeskuse tegevuses osalevate vabatahtlike töökorralduse kehtestab Häirekeskuse peadirektor käskkirjaga.\n(5) Päästeamet võib sõlmida juriidilise isikuga tsiviilõigusliku lepingu päästetööl ja ennetustööl osaleva vabatahtliku päästja tegevuse korraldamiseks.\n(5^1) Häirekeskus võib sõlmida juriidilise isikuga tsiviilõigusliku lepingu, et kaasata vabatahtlik käesoleva paragrahvi lõikes 4^1 sätestatud ülesande täitmisse.\n(6) Päästeasutus lähtub oma tegevuses ja meetmete rakendamisel seaduslikkuse, proportsionaalsuse ja otstarbekuse põhimõttest. Päästeasutuse meetmeid kohaldatakse isikute suhtes, kellest oht lähtub või kes ise on ohustatud."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Mõisted",
+      "content": "(1) Päästesündmus käesoleva seaduse tähenduses on ootamatu olukord, mis vahetult ohustab füüsikaliste või keemiliste protsesside kaudu inimese elu, tervist, vara või keskkonda tulekahju, loodusõnnetuse, plahvatuse, liiklusõnnetuse, keskkonna reostuse või muu sarnase olukorra korral.\n(1^1) Päästetöö käesoleva seaduse tähenduses on päästesündmuse toimumisel, ohu tõrjumisel ja kõrvaldamisel ning päästesündmuse tagajärgede leevendamisel viivitamata rakendatavad, vältimatud ja edasilükkamatud tegevused.\n(1^2) Demineerimistöö käesoleva seaduse tähenduses on pommiohu, lahingumoona ohu ja plahvatusohu tõrjumisega seotud tegevus.\n(1^3) Ennetustöö käesoleva seaduse tähenduses on inimeste teadlikkuse ja valmisoleku suurendamine päästesündmuse ärahoidmiseks ja päästesündmuseks valmistumiseks, teabe kogumine toimunud päästesündmuse ning inimeste teadlikkuse ja valmisoleku kohta ning selle analüüsimine.\n(2)\n(3) Käesolevas seaduses kasutatakse tuleohutuse seaduse §-s 2 nimetatud mõisteid ja korrakaitseseaduses nimetatud mõisteid seal kasutatud tähenduses.\n(4) Kriisiinfo teenus käesoleva seaduse tähenduses on erakorralise sündmuse tõttu Häirekeskuse osutatav avalikkuse teavitamise teenus, mille eesmärk on anda riigiasutuse või kohaliku omavalitsuse üksuse tellimusel teavet ja käitumisjuhiseid, ning vajaduse korral andmeid kriisiinfo teenuse osutamise tinginud sündmuses arvatavate kannatanute kohta, eelkõige ulatusliku tulekahju, plahvatuse või varingu, tõsise transpordi-, kiirgus- või tuumaõnnetuse, terrorirünnaku, massitulistamise või paljude kannatanutega massilise korratuse puhul."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - PÄÄSTEASUTUSED JA PÄÄSTEASUTUSTE ÜLESANDED",
+      "section": "4",
+      "title": "§ 4. Päästeasutused",
+      "content": "(1) Päästeasutused on:\n1) Päästeamet;\n2) Häirekeskus.\n(2)"
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - PÄÄSTEASUTUSED JA PÄÄSTEASUTUSTE ÜLESANDED",
+      "section": "5",
+      "title": "§ 5. Päästeasutuse ülesanded",
+      "content": "(1) Päästeameti ülesanded on:\n1) päästetöö tegemine maismaal ja siseveekogudel, kui teistes seadustes ei ole sätestatud teisiti;\n1^1) politsei ja piirivalve seaduse § 3 lõike 1 punktis 4 sätestatud otsingu- ja päästetöö tegemisel osalemine kaldalähedasel merealal, kui esineb vahetu oht inimese elule või tervisele;\n2) demineerimistöö tegemine maismaal ja siseveekogudel;\n3) järelevalve tuleohutuse seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle ning teistes seadustes tuleohutuse tagamiseks ettenähtud nõuete täitmise üle;\n3^1) tulekahju tekkepõhjuse väljaselgitamine Päästeameti määratud juhtudel, lähtudes asutuse strateegilistest eesmärkidest ja ülesannetest;\n4) ennetustöö;\n5)\n6) hädaolukorraks valmistumine ja selle lahendamise tagamine hädaolukorra seaduse alusel;\n7) üld- ja detailplaneeringu kooskõlastamine;\n8) ehitusseadustiku kohaselt esitatavale ehitus- või kasutusloa eelnõule kooskõlastuse andmine või sellest keeldumine kümne päeva jooksul eelnõu esitamise päevast arvates, kui ehitise suhtes on õigusaktiga kehtestatud tuleohutusnõuded;\n9) muude seadusest ja selle alusel antud õigusaktidest tulenevate ülesannete täitmine.\n(1^1) Häirekeskuse ülesanded on:\n1) hädaabinumbrile 112 saabunud hädaabikõne või muul viisil saabunud teabe vastuvõtmine, abivajaduse väljaselgitamine, ohu hindamine, Päästeameti väljasaatmine pääste- ja demineerimistööks, kiirabi väljasaatmine kiirabi osutamiseks ning politsei pädevuses oleva teabe edastamine Politsei- ja Piirivalveametile edasiseks menetlemiseks (edaspidi hädaabiteate menetlemine );\n1^1) abi- ja infoteadete menetlemine, sealhulgas kriisiinfo teenuse osutamine riigiasutustele ja kohaliku omavalitsuse üksustele, arvestades Häirekeskuse pädevust ja volitusi;\n2) muude seadusest ja selle alusel antud õigusaktidest tulenevate ülesannete täitmine.\n(2) Päästetöö ja demineerimistöö töötervishoiu ja tööohutuse nõuded kehtestab Päästeameti peadirektor.\n(3) Päästesündmusel osalevate riigi- ja kohaliku omavalitsuse asutuste ning isikute koostöö korra kehtestab Vabariigi Valitsus määrusega.\n(3^1) Käesoleva paragrahvi lõike 1 punktis 1^1 sätestatud ülesande täitmisel lähtutakse politsei ja piirivalve seaduse § 3 lõikes 4^1 sätestatud kiirema abi põhimõttest.\n(4) Hädaabiteadete menetlemise korra ja hädaabiteadete menetlemise toimimisele esitatavad nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - PÄÄSTEASUTUSED JA PÄÄSTEASUTUSTE ÜLESANDED",
+      "section": "6",
+      "title": "§ 6. Päästetöö ja demineerimistöö juht",
+      "content": "(1) Päästetööd juhib päästetöö juht, kes on päästeametnik.\n(2) Demineerimistööd juhib demineerimistöö juht, kes on päästeametnik.\n(3) Päästetöö juhile ja demineerimistöö juhile alluvad kõik päästesündmusel osalevad riigi- ja kohaliku omavalitsuse asutused ning eraõiguslikud juriidilised isikud.\n(4) Päästetöö juhil või demineerimistöö juhil on õigus anda päästetööl või demineerimistööl korraldusi teistele riigi- ja kohaliku omavalitsuse asutustele ning eraõiguslikele juriidilistele isikutele, arvestades nende asutuste ja isikute pädevust ning volitusi."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "3. peatükk - ISIKUANDMETE TÖÖTLEMINE JA ANDMEKOGUD",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "3. peatükk - ISIKUANDMETE TÖÖTLEMINE JA ANDMEKOGUD",
+      "section": "9",
+      "title": "§ 9. Päästeinfosüsteem",
+      "content": "(1) Päästeinfosüsteem on riigi infosüsteemi kuuluv andmekogu, kus töödeldakse:\n1) päästesündmuse lahendamisega seotud toimingute ja menetluste andmeid, et Päästeameti ülesandeid tõhusalt ja kiirelt täita;\n2) päästesündmuse käigus hukkunu ja vigastatu andmeid, et selgitada välja päästesündmuse asjaolud ennetustöö ja järelevalve planeerimiseks;\n3) järelevalve- ja kooskõlastamismenetluste andmeid ohutusnõuete täitmise kontrollimiseks ja järelevalve korraldamiseks;\n4) ennetustöö, koolitamise ja teavitamise käigus kogutud andmeid ning eluaseme valdaja ohutusnõustamisel isiku nõusolekul kontrollitud objekti ja objekti valdaja kohta kogutud andmeid, sealhulgas terviseandmeid, et kujundada turvaline elukeskkond ja seda hoida, ennetada ohtusid ning planeerida Päästeameti tegevust;\n5) tehnosüsteemide, sealhulgas küttesüsteemide, ja andmeandjate andmeid ning tuleohutuse seaduse § 2 lõikes 1^1 sätestatud tuleohutusteenuse osutamisega seotud andmeid, et tagada tuleohutusnõuete täitmine.\n(2) Päästeinfosüsteemi kantakse:\n1) pääste- ja demineerimistöö tegemisega seotud andmed;\n2) päästesündmuse käigus hukkunu ja vigastatu andmed;\n3) päästeteenistuja andmed;\n4) päästesündmusel osalenud isiku andmed;\n5) järelevalve- ja kooskõlastamismenetluste ning ennetustöö andmed;\n6) eluaseme valdaja tuleohutusnõustamise ja tehtud ennetustöö andmed;\n7) objekti valdaja andmed;\n8) tehnosüsteemi andmed;\n9) käesoleva paragrahvi lõike 1 punktis 5 sätestatud tuleohutusteenuse osutamisega seotud andmed;\n10) andmeandja andmed.\n(2^1) Vabatahtlik päästja või vabatahtlikuks päästjaks saada soovija edastab mootorsõidukijuhi tervisetõendi otsuse andmed tervise infosüsteemi vahendusel päästeinfosüsteemi või esitab tervisetõendi otsuse Päästeametile.\n(2^2) Päästeinfosüsteem on piiratud juurdepääsuga ja selle andmed on asutusesiseseks kasutamiseks, kui õigusaktides ei ole sätestatud teisiti.\n(2^3) Selleks et teha kättesaadavaks info elukeskkonnast tulenevate ohtude kohta, saab päästeinfosüsteemis tutvuda järgmiste andmetega, välja arvatud isikuandmete ja muu teabega, mida õigusaktide alusel ei avaldata:\n1) järelevalvemenetluse tulemusel jõustunud ettekirjutuste loetelu;\n2) kemikaaliseaduses sätestatud ulatuses kemikaaliohutuse andmed, mis on seotud nii ohtliku ettevõtte kui ka suurõnnetuse ohuga ettevõtte andmetega käitise kohta ning nende kohustuslike dokumentidega;\n3) päästeinfosüsteemi kantud küttesüsteemi korrashoiu andmed.\n(2^4) Igal isikul on õigus tutvuda päästeinfosüsteemi kantud temaga seotud ehitise või selle osa andmetega.\n(2^5) Päästeinfosüsteemis kajastatakse andmeid isikustatuna kuni viis aastat või järelevalvemenetluse lõpuni, kui see ületab viit aastat. Demineerimistöö tegemisega seotud andmeid säilitatakse infosüsteemis 75 aastat.\n(3) Päästeinfosüsteemi asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega.\n(4) Päästeinfosüsteemi põhimääruses sätestatakse päästeinfosüsteemi pidamise kord, volitatud töötleja, päästeinfosüsteemi kogutavate andmete täpne koosseis, andmeandjad, andmesaajad, andmete säilitamise täpsed tähtajad ja vajaduse korral muud andmekogu pidamisega seotud korralduslikud küsimused.\n(5) Päästeinfosüsteemi vastutav töötleja on Päästeamet.\n(6) Päästeinfosüsteemi vastutaval töötlejal on õigus isiku nõusolekul kasutada tema päästeinfosüsteemi kantud kontaktandmeid, et saata Päästeameti tegevusega seotud järgmisi teavitusi:\n1) järgmise korstnapühkimise aeg;\n2) tuletõrje veevõtukohast vee kasutamine;\n3) õigusaktide muudatused ja\n4) muu ohutust suurendav teave."
+    },
+    {
+      "provision_ref": "para9^1",
+      "chapter": "3. peatükk - ISIKUANDMETE TÖÖTLEMINE JA ANDMEKOGUD",
+      "section": "9^1",
+      "title": "§ 9^1. Hädaabiteadete ning abi- ja infoteadete andmekogu",
+      "content": "(1) Hädaabiteadete ning abi- ja infoteadete andmekogu on riigi infosüsteemi kuuluv andmekogu, kus eesmärgiga kaitsta inimese elu, tervist ja vara ning keskkonda töödeldakse andmeid, sealhulgas isikuandmeid, et menetleda hädaabiteateid kiirema abi osutamiseks, ning abi- ja infoteateid, sealhulgas kriisiinfo teenuse osutamiseks.\n(2) Hädaabiteadete ning abi- ja infoteadete andmekogusse kantakse:\n1) hädaabiteate edastaja ja sündmusega seotud isiku andmed;\n2) abivajaja andmed, sealhulgas terviseandmed;\n3) hädaabiteate andmed;\n4) hädaabiteate menetlemisega seotud toimingute andmed;\n5) hädaabiteate menetlemise teenuse registreeritud kasutaja andmed;\n6) hädaabiteate menetleja andmed;\n7) abi- ja infoteate andmed;\n8) Häirekeskuse kõneside salvestised.\n(2^1) Käesoleva seaduse § 3 lõikes 4 nimetatud kriisiinfo teenuse osutamisel arvatavate kannatanute kohta info väljastamise vajaduse üle otsustab Terviseamet, Päästeamet, Politsei- ja Piirivalveamet või Kaitsepolitseiamet vastavalt oma pädevusele.\n(2^2) Käesoleva paragrahvi lõikes 2^1 nimetatud asutus peab info väljastamise vajaduse üle otsustamisel hindama, kas:\n1) tegemist on käesoleva seaduse § 3 lõikes 4 nimetatud erakorralise sündmusega, mille korral on proportsionaalne isikuandmeid töödelda;\n2) arvatavate kannatanute lähedastele info andmiseks ei ole tavapärased teavituskanalid piisavalt tõhusad.\n(2^3) Kriisiinfo teenuse osutamisel töödeldakse hädaabiteadete ning abi- ja infoteadete andmekogus lisaks käesoleva paragrahvi lõike 2 punktides 7 ja 8 nimetatud andmetele käesoleva paragrahvi lõikes 2^4 nimetatud isikuandmeid.\n(2^4) Häirekeskus pärib hädaabiteadete ning abi- ja infoteadete andmekogu kaudu käesoleva paragrahvi lõikes 2^1 nimetatud asutuse otsuse alusel tervise infosüsteemist kriisiinfo teenuse osutamisel andmeid selle kohta, kas, kus ja millal on arvatavale kannatanule osutatud tervishoiuteenust seoses käesoleva seaduse § 3 lõikes 4 nimetatud sündmusega. Kriisiinfo teenuse osutamisel ei töötle Häirekeskus arvatava kannatanu terviseandmeid.\n(2^5) Andmeid arvatava kannatanu kohta ei edastata tervise infosüsteemist Häirekeskusele, kui arvatav kannatanu on tervise infosüsteemis keelanud oma andmete edastamise kriisiinfo teenuse osutamiseks.\n(2^6) Häirekeskus ei tee päringut tervise infosüsteemi arvatava kannatanu kohta andmete saamiseks, kui uurimist teostav asutus on andmetele juurdepääsu või nende edastamise keelanud kuriteo tõkestamise, kurjategija tabamise või kriminaalmenetluses tõe väljaselgitamise huvides.\n(2^7) Kriisiinfo teenuse osutamisel antakse arvatava kannatanu kohta tehtud päringu alusel infot päringualuse isiku lähedasele, kelleks käesoleva seaduse tähenduses on abikaasa, registreeritud elukaaslane, vanem, vanavanem, laps, lapselaps, õde, vend ja muu isik, keda saab lähtudes isiku elukorraldusest pidada õigustatuks infot saama.\n(2^8) Kriisiinfo teenuse kaudu arvatava kannatanu kohta päringu teinud isiku tuvastamise ja arvatava kannatanuga seose kontrollimise alused kehtestab valdkonna eest vastutav minister määrusega.\n(2^9) Hädaabiteadete ning abi- ja infoteadete andmekogus kajastatakse andmeid isikustatuna üks aasta ja üks kuu, pärast mida andmed anonüümitakse.\n(2^10) Hädaabiteadete ning abi- ja infoteadete andmekogu on piiratud juurdepääsuga ja selle andmed on asutusesiseseks kasutamiseks, kui õigusaktides ei ole sätestatud teisiti.\n(3) Hädaabiteadete ning abi- ja infoteadete andmekogu asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega.\n(4) Hädaabiteadete ning abi- ja infoteadete andmekogu põhimääruses sätestatakse andmekogu pidamise kord, volitatud töötleja, andmekogusse kogutavate andmete täpne koosseis, andmeandjad, andmesaajad, andmete säilitamise täpsed tähtajad ja vajaduse korral muud andmekogu pidamisega seotud korralduslikud küsimused.\n(5) Hädaabiteadete ning abi- ja infoteadete andmekogu vastutav töötleja on Häirekeskus.\n(6) Hädaabiteadete ning abi- ja infoteadete andmekogu vastutaval töötlejal on õigus kasutada andmekogusse kantud kontaktandmeid, et pärida hädaabinumbrile helistajalt või lühisõnumi saatjalt tagasisidet temale osutatud teenusega rahulolu kohta."
+    },
+    {
+      "provision_ref": "para9^2",
+      "chapter": "3. peatükk - ISIKUANDMETE TÖÖTLEMINE JA ANDMEKOGUD",
+      "section": "9^2",
+      "title": "§ 9^2. Automaatse biomeetrilise isikutuvastuse süsteemi andmekogu",
+      "content": "(1) Automaatse biomeetrilise isikutuvastuse süsteemi andmekogu (edaspidi andmekogu ABIS ) on elektrooniline andmekogu, mille eesmärk käesoleva seaduse tähenduses on töödelda abidemineerija daktüloskopeerimisel saadud biomeetrilisi andmeid, et välistada jäljed, mille abidemineerija on ekspertiisiobjektile jätnud.\n(2) Abidemineerija daktüloskopeerimisel saadud biomeetrilisi andmeid võib töödelda üksnes käesoleva seaduse § 36^2 lõikes 1 nimetatud eesmärgil.\n(3) Andmekogu ABIS asutab ja selle põhimääruse kehtestab Vabariigi Valitsus määrusega.\n(4) Andmekogu ABIS vastutavad töötlejad on Politsei- ja Piirivalveamet ning Eesti Kohtuekspertiisi Instituut.\n(5) Andmekogu ABIS andmed on juurdepääsupiiranguga ja tunnistatud asutusesiseseks kasutamiseks mõeldud teabeks."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "3. peatükk - ISIKUANDMETE TÖÖTLEMINE JA ANDMEKOGUD",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para13^1",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "13^1",
+      "title": "§ 13^1. Riikliku järelevalve erimeetmed",
+      "content": "(1) Päästeamet võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 32, 44, 49, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras.\n(2) Häirekeskus võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-s 34 sätestatud riikliku järelevalve erimeedet korrakaitseseaduses sätestatud alustel ja korras."
+    },
+    {
+      "provision_ref": "para13^2",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "13^2",
+      "title": "§ 13^2. Riikliku järelevalve erisused",
+      "content": "(1) Päästeamet võib päästesündmuse vältimiseks keelata jääle mineku siseveekogudel, kui see kujutab ohtu inimese elule, tervisele või keskkonnale.\n(1^1) Häirekeskus võib hädaabiteate menetlemisel kasutada sideettevõtja teavet hädaabinumbril 112 ühendust võtnud isiku asukoha kohta.\n(2) Päästeasutus võib valdaja nõusolekuta siseneda tema valduses olevale piiratud või tähistatud kinnisasjale, ehitisse, eluruumi ja ruumi, sealhulgas avada uksi, väravaid ning kõrvaldada muid takistusi, kui see on vajalik päästetööks või demineerimistööks.\n(3) Päästeamet võib halduskohtu loata siseneda valdaja eluruumi, kui see on vajalik päästetööks või demineerimistööks.\n(4) Kui valdaja isik on tuvastatav, tuleb teda esimesel võimalusel teavitada valdusesse sisenemisest. Kui valdusesse sisenemise tagajärjel jääb valduses valveta oluline varaline väärtus, tagab Päästeamet kuni valdaja, muu õigustatud isiku või politsei saabumiseni valduse valve."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "15",
+      "title": "§ 15. Ettekirjutus ja haldussunnivahendi kohaldamine",
+      "content": "(1) Päästeametnik võib õigusaktidest tulenevate nõuete rikkumise kõrvaldamiseks või ohu tõrjumiseks teha ettekirjutuse, milles:\n1) esitab ohu korral, mis võib kaasa tuua ulatuslike tagajärgedega päästesündmuse, nõude ehitise kasutamise, tegevuse või seadme töö peatamiseks;\n2) kohustab tegema tegevuse õiguspäraseks jätkamiseks või päästesündmuse ennetamiseks vajalikke toiminguid.\n(2) Ettekirjutuse täitmata jätmise korral võib päästeametnik rakendada sunnivahendit asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 3200 eurot."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "16",
+      "title": "§ 16. Raadioside piiramine",
+      "content": "(1) Päästeamet võib piirata raadiosidet plahvatuse tõkestamiseks plahvatusohu piirkonnas.\n(2) Päästeamet juhindub raadioside piiramisel elektroonilise side seaduse §-s 115 sätestatust."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "19",
+      "title": "§ 19. Isiku rakendamine päästetööle",
+      "content": "(1) Päästetöö juht võib rakendada päästetööle füüsilist isikut alates 18. eluaastast ohu tõrjumiseks või päästesündmuse tagajärgede leevendamiseks vajalike toimingute tegemiseks, kui:\n1) Päästeametil ei ole endal võimalik päästesündmuse iseloomust tulenevalt päästetööd tulemuslikult teha või selle tagajärgi leevendada;\n2) Päästeameti tegevuses vabatahtlikkuse alusel osalevad vabatahtlikud päästjad ei saa õigel ajal või piisavalt tulemuslikult päästetööd teha;\n3) rakendamine ei tekita ebaproportsionaalselt suurt ohtu rakendatavale isikule või tema varale.\n(2) Päästetööle rakendatud isikut ei või kasutada plahvatus-, keemia- või kiirgusohuga seotud tööde läbiviimiseks.\n(3) Käesoleva paragrahvi lõikes 1 sätestatud juhul võib isikut rakendada ainult nii kaua, kui see on päästetööks vältimatult vajalik.\n(4) Käesoleva paragrahvi lõikes 1 nimetatud isikule laienevad käesoleva seaduse §-s 41 sätestatud sotsiaalsed tagatised."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "20",
+      "title": "§ 20. Asja sundkasutusse võtmine",
+      "content": "(1) Päästetöö juht või demineerimistöö juht võib võtta vett, liiva, kruusa ning muid päästetööks või demineerimistööks vajalikke aineid, materjale, seadmeid ja abivahendeid, kui see on vältimatult vajalik päästetööks või demineerimistööks ning muud võimalused asja sundkasutamiseks puuduvad või oleksid ebamõistlikult koormavad.\n(2) Asja sundkasutus lõpeb päästetöö juhi või demineerimistöö juhi poolt määratud ajal, kuid mitte hiljem kui päästetöö või demineerimistöö lõppemisel.\n(3) Päästetöö juht või demineerimistöö juht võib kohustada sundkasutusse võetava asja omanikku või valdajat toimetama vallasasja selle üleandmiseks määratud kohta.\n(4) Käesolevas paragrahvis sätestatud meetme protokollimine on kohustuslik."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "21",
+      "title": "§ 21. Lammutustöö, kaevetöö, raie ja tõkestustule tegemine ning kraavide, ojade ja jõgede tõkestamine",
+      "content": "(1) Päästeamet võib valdaja nõusolekuta tema kinnisasjal, ehitises või ruumis teha lammutustöid, kaevetöid, maha raiuda puid, teha tõkestustuld, tõkestada kraave, ojasid või jõgesid ning teha muid samalaadseid vajalikke tegevusi, kui see on vältimatult vajalik päästetööks või demineerimistööks.\n(2) Käesolevas paragrahvis sätestatud meetme protokollimine on kohustuslik."
+    },
+    {
+      "provision_ref": "para24^1",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "24^1",
+      "title": "§ 24^1. Vahetu sunni kohaldamine ja lubatud erivahendid",
+      "content": "(1) Päästeameti ametnik või tema korraldusel päästetöötaja võib kasutada füüsilist jõudu ja erivahendeid korrakaitseseaduses sätestatud alusel ja korras, arvestades käesoleva seaduse erisusi.\n(2) Päästeameti ametniku erivahendid on:\n1) eriotstarbeline lõhkamisseadeldis, mida ei kasutata inimese vastu;\n2) teenistuskoer."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "25",
+      "title": "§ 25. Lõhkematerjali käitlemine ja nõuded lõhkamiskohale",
+      "content": "(1) Päästeameti ametnik võib demineerimistööl plahvatuse või ohtliku aine levitamise tõkestamiseks ja lahingumoona hävitamiseks või demineerimistööalase õppetöö tegemisel käidelda lõhkematerjali.\n(2) Päästeameti poolt lõhkematerjali käitlemise korra ja nõuded lõhkamiskohale kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "26",
+      "title": "§ 26. Teenistuskoera kasutamine",
+      "content": "(1) Päästeamet võib kasutada teenistuskoera:\n1) demineerimistööl lõhkematerjalide ja -ainete tuvastamiseks;\n2) päästetööl isiku otsimiseks ja ohu väljaselgitamiseks.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud juhtudel ei pea teenistuskoer kandma suukorvi.\n(3) Teenistuskoera pidamisele kohaldatakse loomakaitseseaduse nõudeid, arvestades käesolevas seaduses sätestatud erisusi."
+    },
+    {
+      "provision_ref": "para26^1",
+      "chapter": "4. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "26^1",
+      "title": "§ 26^1. Päästeametis kasutatava teenistusrelva kandmine ja kasutamine",
+      "content": "(1) Päästeameti teenistusrelvad on tulirelvad.\n(2) Demineerija kutsega päästeametnik võib teenistusülesande täitmise ajal kanda tulirelva.\n(3) Demineerija kutsega päästeametnik võib teenistusülesande täitmise ajal kasutada tulirelva üksnes hädakaitses, ületamata hädakaitse piire."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "5. peatükk - VAHETU SUND",
+      "section": "27",
+      "title": "§ 27.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "6. peatükk - RAHVUSVAHELISEL PÄÄSTETÖÖL JA DEMINEERIMISTÖÖL OSALEMINE",
+      "section": "31",
+      "title": "§ 31. Rahvusvahelisel päästetööl ja demineerimistööl osalemine",
+      "content": "(1) Rahvusvahelisel päästetööl ja demineerimistööl osalemine väljaspool Eesti Vabariigi territooriumi toimub rahvusvahelise päästekokkuleppe alusel esitatud või Euroopa Liidu liikmesriigi esitatud abipalve alusel või rahvusvahelisel tsiviilmissioonil osalemise seaduse alusel.\n(2) Euroopa Liidu liikmesriigi abipalve või rahvusvahelise päästekokkuleppe kohaselt esitatud abipalve alusel rahvusvahelisel päästetööl ja demineerimistööl osalemise otsustamise, meeskonna päästetööle ja demineerimistööle saatmise ning kulude katmise korra kehtestab Vabariigi Valitsus määrusega.\n(3) Päästeamet võib rahvusvahelise kokkuleppe alusel kaasata päästetööle ja demineerimistööle Eesti Vabariigi territooriumil teise riigi haldusorgani. Kaasatud organil on Eesti territooriumil pädevus ja volitused kooskõlas rahvusvahelise kokkuleppega.\n(4) Rahvusvahelise kokkuleppe alusel võib Eesti Päästeamet päästetööle ja demineerimistööle kaasata teise riigi territooriumil. Eesti Päästeametil on teise riigi territooriumil pädevus ja volitused kooskõlas rahvusvahelise kokkuleppega.\n(5) Käesoleva paragrahvi lõikes 1 sätestatud päästetööl ja demineerimistööl osalevale meeskonna liikmele, kellele ei kohaldata rahvusvahelisel tsiviilmissioonil osalemise seadust, laienevad päästeseaduse §-s 41 ja päästeteenistuse seaduse §-s 16 kehtestatud sotsiaalsed tagatised."
+    },
+    {
+      "provision_ref": "para31^1",
+      "chapter": "6. peatükk - KAITSEVÄE JA KAITSELIIDU KAASAMINE PÄÄSTESÜNDMUSE LAHENDAMISSE",
+      "section": "31^1",
+      "title": "§ 31^1. Kaitseväe ja Kaitseliidu kaasamine päästesündmuse lahendamisse",
+      "content": "(1) Päästesündmuse lahendamisse võib kaasata Kaitseväge ja Kaitseliitu.\n(2) Päästesündmuse lahendamisse Kaitseväe ja Kaitseliidu kaasamise korra kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "32",
+      "title": "§ 32. Vabatahtlik päästja",
+      "content": "(1) Vabatahtlik päästja on isik, kes vabatahtlikult osaleb päästetööl või ennetustööl seaduses sätestatud alustel ja korras.\n(2) Osalemine päästetööl käesoleva seaduse tähenduses on vabatahtliku päästja poolt päästetöö tegemine koos päästeametnikuga või päästeametniku korraldusel.\n(3) Vabatahtlik päästja lähtub oma tegevuses ja meetmete rakendamisel seaduslikkuse, proportsionaalsuse ja otstarbekuse põhimõttest. Vabatahtlik päästja kohaldab meetmeid isiku suhtes, kellest oht lähtub või kes ise on ohustatud."
+    },
+    {
+      "provision_ref": "para32^1",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "32^1",
+      "title": "§ 32^1. Abidemineerija",
+      "content": "(1) Abidemineerija on isik, kes osaleb vabatahtlikult demineerimistööl käesolevas seaduses sätestatud alustel ja korras.\n(2) Abidemineerija osalemine demineerimistööl käesoleva seaduse tähenduses on demineerija kutsega päästeametniku abistamine demineerimistööl.\n(3) Abidemineerija lähtub oma tegevuses ja meetmete rakendamisel seaduslikkuse, proportsionaalsuse ja otstarbekuse põhimõttest. Abidemineerija kohaldab meetmeid isiku suhtes, kellest oht lähtub või kes ise on ohustatud."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "33",
+      "title": "§ 33. Vabatahtlikule esitatavad nõuded",
+      "content": "(1) Vabatahtlikuks päästjaks võib võtta vähemalt 18-aastaseks saanud isiku, kes vastab vabatahtliku päästja kutsesobivuse nõuetele.\n(1^1) Abidemineerijaks võib võtta Eesti Vabariigi vähemalt 21-aastase kodaniku, kellel on vähemalt keskharidus ning kes oskab eesti keelt vähemalt B2-tasemel ja vastab abidemineerija kutsesobivuse nõuetele.\n(2) Vabatahtliku päästja ja abidemineerija kutsesobivuse nõuded isikuomaduste, füüsilise ettevalmistuse, väljaõppe ja terviseseisundi kohta ning nendele vastavuse kontrollimise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega.\n(2^1)\n(2^2)\n(3) Vabatahtlikuks päästjaks võib võtta ka välisriigi kutsekvalifikatsiooni omandanud isiku, kui tema kutsekvalifikatsiooni on tunnustatud välisriigi kutsekvalifikatsiooni tunnustamise seaduse kohaselt. Välisriigi kutsekvalifikatsiooni tunnustamise seaduse § 7 lõikes 2 sätestatud pädev asutus on Päästeamet."
+    },
+    {
+      "provision_ref": "para33^1",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "33^1",
+      "title": "§ 33^1. Vabatahtliku kutsesobivuse nõuetele vastavuse kontrollimiseks kogutud andmete säilitamise tähtaeg",
+      "content": "Vabatahtliku päästja ja abidemineerija kutsesobivuse nõuetele vastavuse kontrollimiseks kogutud andmeid säilitatakse kümme aastat vabatahtliku staatuse lõppemisest arvates."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "34",
+      "title": "§ 34. Isikud, keda on keelatud võtta vabatahtlikuks",
+      "content": "(1) Vabatahtlikuks päästjaks on keelatud võtta isikut:\n1) kes on piiratud teovõimega;\n2) kes on sõltuvuses alkoholi, narkootilise või psühhotroopse aine kasutamisest;\n3) kellel on raskekujuline psüühika-, isiksuse- või käitumishäire;\n4) kellel on selline füüsiline puue, mis takistab tal vabatahtliku päästja ülesannete täitmist, välja arvatud ennetustööl osalevad isikud.\n(2) Abidemineerijaks on keelatud võtta isikut:\n1) keda on karistatud tahtlikult toimepandud esimese astme kuriteo eest, olenemata karistusandmete kustutamisest;\n2) kellel on karistatus tahtlikult toimepandud kuriteo eest;\n3) kes on kriminaalmenetluses kahtlustatav või süüdistatav;\n4) kes on sõltuvuses alkoholi või narkootilise või psühhotroopse aine kasutamisest või kellel on raskekujuline psüühika-, isiksuse- või käitumishäire;\n5) kellel on tervisehäire, mis takistab tal abidemineerija ülesandeid täita;\n6) kes oma käitumise poolest ei sobi abidemineerija ülesandeid täitma ja kelle käitumine või eluviis võib ohustada tema enda või teise isiku turvalisust."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "35",
+      "title": "§ 35. Vabatahtliku vaktsineerimine",
+      "content": "Päästeamet tagab vabatahtlikule päästjale ja abidemineerijale tasuta vaktsineerimise Päästeameti määratud ulatuses ja korras."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "36",
+      "title": "§ 36. Vabatahtlikuks võtmine",
+      "content": "(1) Vabatahtlikuks võtmist korraldab Päästeamet.\n(2) Enne vabatahtlikuks võtmist kontrollitakse vabatahtlikuks päästjaks või abidemineerijaks saada soovija vastavust vabatahtlikule päästjale või abidemineerijale esitatavatele nõuetele.\n(3)\n(4) Käesoleva paragrahvi lõikes 2 ja käesoleva seaduse §-s 36^1 nimetatud kontrolli käigus tuvastatud andmed võivad olla aluseks isiku vabatahtlikuks päästjaks või abidemineerijaks võtmisest keeldumiseks.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud andmeid ning keeldumise põhjust ja keeldumise aluseks olevat asjaolu ei avaldata ulatuses, mis võib olla vältimatult vajalik, et tagada:\n1) riigi julgeolek;\n2) riigikaitse;\n3) avalik kord;\n4) süüteo tõkestamine, avastamine või menetlemine või karistuse täideviimine;\n5) andmesubjekti kaitse või teiste isikute õiguste ja vabaduste kaitse."
+    },
+    {
+      "provision_ref": "para36^1",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "36^1",
+      "title": "§ 36^1. Abidemineerija taustakontroll",
+      "content": "(1) Abidemineerija vastavust käesoleva seaduse § 34 lõike 2 punktides 1–3 ja 6 sätestatud nõuetele kontrollib Politsei- ja Piirivalveamet.\n(2) Abidemineerija sobivuse hindamiseks võib tuvastada isiku isikusamasuse, töödelda isikuandmeid, sealhulgas eriliiki isikuandmeid, ja koguda järgmisi andmeid:\n1) kontaktandmed, elukoha andmed, kodakondsuse ja isikut tõendava dokumendi andmed ning töökoha andmed;\n2) andmed isikule määratud karistuste, karistatuse ja karistusest vabastamise ning karistuste täitmisele pööramise kohta;\n3) andmed isiku vastu alustatud kriminaalmenetluste kohta, milles ta on tunnistatud kahtlustatavaks või süüdistatavaks, ja nende lahendite kohta;\n4) andmed isiku seotuse kohta organisatsiooni või liikumisega, mis oma tegevusega eirab avalikku korda või mille tegevus on suunatud Eesti Vabariigi iseseisvuse ja sõltumatuse vägivaldsele muutmisele, territoriaalse terviklikkuse vägivaldsele rikkumisele, vägivaldsele võimuhaaramisele või Eesti põhiseadusliku korra vägivaldsele muutmisele;\n5) andmed isiku välispiiri ületamise ja välisriigis viibimise kohta, et tuvastada isiku viibimine välisriigis, mis on kantud riigisaladuse ja salastatud välisteabe seaduse § 19 lõike 3 alusel kehtestatud nimekirja ning mille puhul kehtib sama paragrahvi lõikes 2 nimetatud teatamiskohustus;\n6) andmed isiku seotuse kohta välisriigi luure- või julgeolekuteenistusega.\n(3) Politsei- ja Piirivalveametil on käesoleva paragrahvi lõikes 2 nimetatud andmete õigsuse kontrollimiseks õigus:\n1) pöörduda riigi- ja kohaliku omavalitsuse üksuse asutuste, samuti füüsiliste ja juriidiliste isikute poole järelepärimisega kontrollitava isiku isikuandmete kohta;\n2) vestelda kontrollitava isiku, samuti tema tööandja ja õppeasutuse esindajate ning teiste isikutega, et selgitada välja kontrollitava isiku kõlbelised ja isikuomadused ning vajaduse korral ja isiku nõusolekul võtta temalt kirjalik seletus;\n3) kontrollida isikuandmeid riigi, kohaliku omavalitsuse üksuse või muu avalik-õigusliku isiku või eraõigusliku juriidilise isiku andmekogust;\n4) saada andmeid karistusregistri arhiivist;\n5) töödelda üldsusele mõeldud ja avalikult kättesaadavaid isikuandmeid.\n(4) Taustakontrolliks isiku kohta kogutud andmeid säilitatakse viis aastat taustakontrolli tegemise lõppemisest arvates või pärast vabatahtliku staatusest vabastamist tekkinud õigusliku vaidluse korral kuni selle lõppemiseni."
+    },
+    {
+      "provision_ref": "para36^2",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "36^2",
+      "title": "§ 36^2. Abidemineerija daktüloskopeerimine ja temalt DNA-proovi võtmine",
+      "content": "(1) Abidemineerija daktüloskopeeritakse ja temalt võetakse DNA-proov, et välistada jäljed, mille ta on ekspertiisiobjektile jätnud.\n(2) Daktüloskopeerimisel võetakse abidemineerijalt tema mõlema käe sõrmejäljed ning peopesajäljed ja kirjutaja-peopesajäljed.\n(3) Abidemineerija daktüloskopeerimisel saadud biomeetrilised andmed kantakse andmekogusse ABIS, abidemineerija biograafilised andmed pseudonüümitud kujul ning andmed daktüloskoopiaandmete võtmise kohta ning temalt võetud DNA-proovi võtmise ja selle analüüsil saadud andmed kantakse riiklikusse süüteomenetluse biomeetriaregistrisse.\n(4) Abidemineerija daktüloskopeerimisel ja DNA-proovi analüüsil saadud andmed kustutatakse riiklikest registritest kolm aastat pärast abidemineerija vabastamist vabatahtliku staatusest. Päästeamet teavitab Eesti Kohtuekspertiisi Instituuti vajadusest abidemineerija andmed riiklikest registritest kustutada.\n(5) Abidemineerija daktüloskopeeritakse, DNA-proov võetakse ning daktüloskopeerimisel saadud andmed ja DNA-proov edastatakse päästeteenistuse seaduse § 7^3 lõike 5 alusel kehtestatud korras."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "37",
+      "title": "§ 37. Vabatahtliku töökorraldus",
+      "content": "(1) Päästeamet määrab vabatahtliku päästja ja abidemineerija päästeametniku juurde.\n(2) Päästeamet peab arvestust vabatahtlike päästjate ja abidemineerijate koosseisu üle.\n(3) Vabatahtlike päästjate ja abidemineerijate töökorralduse kehtestab Päästeamet.\n(4) Vabatahtlikul päästjal ja abidemineerijal on kokkuleppel tööandjaga õigus saada vaba aega päästetööl ja demineerimistööl osalemiseks."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "38",
+      "title": "§ 38. Vabatahtliku päästja väljaõpe, osalemine päästetööl ja ennetustööl ning kohaldatavad meetmed",
+      "content": "(1) Vabatahtliku päästja väljaõpet korraldab Päästeamet.\n(2) Vabatahtliku päästja väljaõpe on kaheastmeline.\n(3) Vabatahtliku päästja esimese astme õppes omandatakse vabatahtliku päästja tööks vajalikud algteadmised ja oskused. Esimese astme õpe kestab vähemalt 16 tundi ning lõpeb arvestusega.\n(4) Esimese astme õppe läbinud vabatahtlik päästja võib päästeametniku korraldusel ja koos temaga:\n1) osaleda päästetööl;\n2) siseneda päästetööks valdusesse ja vaadata valdus läbi korrakaitseseaduses ettenähtud alusel ja korras, arvestades käesoleva seaduse §-des 13^1 ja 13^2 sätestatud erisusi;\n3) kasutada päästesündmuse käigus füüsilist jõudu korrakaitseseaduses sätestatud alusel ja korras.\n(5) Vabatahtlik päästja võib osaleda iseseisvalt ennetustööl pärast esimese astme väljaõppe läbimist.\n(6) Vabatahtliku päästja teise astme õppe eelduseks on esimese astme õppe edukas läbimine. Teise astme õpe kestab vähemalt 36 tundi ning õppes omandatakse iseseisvaks ülesande täitmiseks vajalikud teadmised ja oskused. Õpe lõpeb arvestusega.\n(7) Teise astme õppe läbinud vabatahtlik päästja võib iseseisvalt päästeametniku korraldusel:\n1) osaleda päästetööl;\n2) siseneda päästetööks valdusesse ja vaadata valdus läbi korrakaitseseaduses ettenähtud alusel ja korras, arvestades käesoleva seaduse §-des 13^1 ja 13^2 sätestatud erisusi;\n3) kasutada päästesündmuse käigus füüsilist jõudu korrakaitseseaduses sätestatud alusel ja korras.\n(8) Vabatahtliku päästja väljaõppe ja arvestuse läbiviimise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para38^1",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "38^1",
+      "title": "§ 38^1. Abidemineerija väljaõpe, osalemine demineerimistööl ja kohaldatavad meetmed",
+      "content": "(1) Abidemineerijaks saada soovija peab läbima väljaõppe, mille käigus omandatakse vajalikud teadmised ja oskused käesoleva seaduse § 32^1 lõikes 2 sätestatud ülesande täitmiseks.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud väljaõppe läbimisel võetakse arvesse isiku varasemat õpi- ja töökogemust. Päästeamet võib kogemuse arvestamisel lugeda väljaõppe osaliselt või täielikult läbituks.\n(3) Abidemineerija võib päästeametniku korraldusel:\n1) osaleda demineerimistööl;\n2) kasutada käesoleva seaduse § 26 lõike 1 punkti 1 kohaselt teenistuskoera.\n(4) Abidemineerija võib demineerimistööl osalemisel päästeametniku korraldusel ja koos temaga kohaldada korrakaitseseaduses sätestatud alusel ja korras korrakaitseseaduse §-des 44, 50 ja 51 sätestatud erimeetmeid, arvestades käesoleva seaduse erisusi.\n(5) Abidemineerija võib korrakaitseseaduse §-s 44 sätestatud erimeedet kohaldades keelata isiku viibimise teatud kohas või kohustada teda sealt lahkuma või hoiduma sellele teatud kaugusele lähenemisest.\n(6) Abidemineerija väljaõppe ja arvestuse läbiviimise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para38^2",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "38^2",
+      "title": "§ 38^2. Abidemineerijale lubatud relv ja selle kasutamine",
+      "content": "(1) Abidemineerija, kellel on relvaseaduse §-s 34 sätestatud kehtiv relvaluba, võib demineerimistööl osalemisel kanda tulirelva. Päästeamet väljastab abidemineerijale tulirelvana püstoli.\n(2) Abidemineerija võib abidemineerija ülesande täitmisel kasutada tulirelva üksnes hädakaitses, seejuures hädakaitse piire ületamata.\n(3) Käesoleva paragrahvi lõikes 1 sätestatud relvaluba ei ole tulirelva kandmiseks ja kasutamiseks vajalik, kui abidemineerija on:\n1) politseiametnik, vanglaametnik või tegevväelane, kellel on teenistus- või sõjaväerelva kandmise õigus ja kes vastab politsei-, vangla- või tegevteenistusse asumisel esitatavatele tervisenõuetele;\n2) abipolitseinik, kellele on antud abipolitseiniku seaduse §-s 12 sätestatud alusel ja korras tulirelva kandmise õigus ning kes vastab abipolitseinikule esitatavatele tervisenõuetele;\n3) Kaitseliidu tegevliige, kellel on Kaitseliidu relva kandmise luba ja relvaseaduse §-s 35^1 sätestatud kehtiv tervisetõend.\n(4) Tulirelv väljastatakse abidemineerijale üksnes talle pandud ülesande täitmise ajaks. Päästeameti peadirektor või tema volitatud ametnik võib erandkorras lubada abidemineerijale väljastatud tulirelva hoida alaliselt abidemineerija elukohas. Luba vormistatakse Päästeameti peadirektori käskkirjaga või tema volitatud ametniku kirjaliku otsusega.\n(5) Abidemineerija on kohustatud viivitamata teavitama Häirekeskust tulirelva kasutamisest abidemineerija ülesande täitmisel.\n(6) Abidemineerijale tulirelva väljastamise ning relva hoidmise, tagastamise ja kandmise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "39",
+      "title": "§ 39. Vabatahtliku tunnistus ja eritunnus",
+      "content": "(1) Vabatahtlikule päästjale ja abidemineerijale antakse vabatahtliku päästja või abidemineerija tunnistus. Oma ülesannete täitmisel kannavad vabatahtlik päästja ja abidemineerija eritunnust.\n(2) Vabatahtlik päästja ja abidemineerija peavad päästetööl, ennetustööl või demineerimistööl osalemisel esitama isikule tema nõudmisel vabatahtliku päästja või abidemineerija tunnistuse.\n(3) Vabatahtliku päästja ja abidemineerija tunnistuse ja eritunnuse kirjelduse ning eritunnuse andmise ja kandmise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "40",
+      "title": "§ 40. Kulude hüvitamine",
+      "content": "(1) Päästeamet võib hüvitada vabatahtlikule päästjale, abidemineerijale ja käesoleva seaduse § 2 lõikes 5 nimetatud juriidilisele isikule transpordi-, side- ja muud Päästeameti tegevuses osalemisega kaasnevad vajalikud kulud.\n(2) Päästeameti hüvitatavate kulude liigid ning hüvitise suuruse määramise ja maksmise korra kehtestab Päästeamet."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "41",
+      "title": "§ 41. Hüvitis vabatahtliku hukkumise, surma ja töövõime vähenemise korral",
+      "content": "(1) Kui vabatahtlik päästja või abidemineerija hukkub või sureb vabatahtliku päästja või abidemineerija ülesande täitmisega seotud õnnetusjuhtumi või tema vastu toimepandud ründe või tema poolt süüteo tõkestamise või ohu tõrjumise tagajärjel, makstakse tema lapsele, vanemale, lesele, registreeritud elukaaslasele, kellega sõlmitud kooseluleping on lõppenud surma tõttu, või abieluga sarnanevas suhtes olevale elukaaslasele ning perekonnaseaduse tähenduses tema ülalpidamisel olnud teisele isikule ühekordset hüvitist.\n(2) Kui vabatahtlikul päästjal või abidemineerijal tuvastatakse vabatahtliku päästja või abidemineerija ülesande täitmisega seotud õnnetusjuhtumi või tema vastu toimepandud ründe või tema poolt süüteo tõkestamise või ohu tõrjumise tagajärjel saadud vigastuse või tekkinud haiguse tõttu osaline või puuduv töövõime või ajutine töövõime kaotus, millega ei kaasnenud osalist või puuduvat töövõimet, makstakse talle hüvitist.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud juhtudel makstakse hüvitist samadel alustel ja korras, mis on ette nähtud hüvitise maksmisel avaliku teenistuse seaduse §-des 49 ja 49^1 sätestatud juhtudel, arvestades käesolevas paragrahvis sätestatud erisusi.\n(4) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud hüvitise arvutamise aluseks võetakse vabatahtliku päästja või abidemineerija keskmine palk või töötasu, mida maksis või maksab talle tema tööandja. Hüvitise ülempiir on Statistikaameti avaldatud viimase keskmise brutokuupalga kolmekordne suurus.\n(5) Kui käesoleva paragrahvi lõikes 4 sätestatud vabatahtliku päästja või abidemineerija palk või töötasu on väiksem kui päästja madalaim palgamäär, võetakse lõigetes 1 ja 2 nimetatud hüvitiste maksmisel aluseks päästja madalaim palgamäär.\n(6) Kui vabatahtliku päästja või abidemineerija ülesandeid täitev vabatahtlik päästja või abidemineerija hukkumisele või vigastada saamisele eelnenud ajal ei töötanud, võetakse käesoleva paragrahvi lõigetes 1 ja 2 nimetatud hüvitise arvutamise aluseks hukkumise või vigastada saamise ajal kehtinud töötasu alammäär.\n(7) Käesolevas paragrahvis nimetatud kulud kaetakse riigieelarvest Siseministeeriumi valitsemisala eelarve kaudu."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "42",
+      "title": "§ 42. Ergutamine",
+      "content": "Vabatahtlikke päästjaid, abidemineerijaid ja teisi päästetööl silma paistnud isikuid võib ergutada päästeteenistuse seaduse 5. peatükis sätestatud korras."
+    },
+    {
+      "provision_ref": "para42^1",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "42^1",
+      "title": "§ 42^1. Kriisirolliga abidemineerija",
+      "content": "(1) Kriisiroll määratakse abidemineerijale (edaspidi kriisirolliga abidemineerija ), kes annab nõusoleku abistada Päästeametit demineerimistööl hädaolukorra ohu, hädaolukorra, eriolukorra, erakorralise seisukorra, kõrgendatud kaitsevalmiduse või sõjaseisukorra ajal (edaspidi kriisiaeg ) ning kellel on ülesande täitmiseks vajalikud teadmised ja oskused.\n(2) Kriisirolliga abidemineerija pädevuses on abistada kriisiajal käesoleva seaduse § 32^1 lõike 2 kohaselt demineerija kutsega päästeametnikku.\n(3) Kriisirolliga abidemineerija võib kriisiajal kohaldada päästeametniku korraldusel ja koos temaga füüsilist jõudu korrakaitseseaduses sätestatud alusel ja korras, kui see on vältimatult vajalik käesoleva seaduse § 38^1 lõikes 4 sätestatud erimeetme eesmärgi saavutamiseks.\n(4) Kriisirolli ei saa määrata abidemineerijale, kes töötab riigikaitselise töökohustusega ameti- või töökohal või kes on arvatud Kaitseväe sõjaaja üksuse koosseisu.\n(5) Päästeametil on enne abidemineerijale kriisirolli määramist või kriisirolli jätkamist käesoleva seaduse § 42^3 lõike 3 alusel õigus saada töötamise registrist teavet isiku töötamise kohta riigikaitselise töökohustusega ameti- või töökohal ning kaitseväekohustuslaste registrist isiku kuuluvuse kohta Kaitseväe sõjaaja üksuse koosseisu."
+    },
+    {
+      "provision_ref": "para42^2",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "42^2",
+      "title": "§ 42^2. Kriisirolliga abidemineerija kaasamine Päästeameti tegevusse",
+      "content": "(1) Vabariigi Valitsus otsustab korraldusega kriisiajal kriisirolliga abidemineerija kaasamise Päästeameti tegevusse kuni 30 päevaks käesoleva seaduse § 42^4 lõigetes 1 ja 2 sätestatud juhtudel.\n(2) Ettepaneku kaasata kriisirolliga abidemineerija käesoleva seaduse § 42^4 lõigetes 1 ja 2 sätestatud juhtudel Päästeameti tegevusse teeb Vabariigi Valitsusele valdkonna eest vastutav minister.\n(3) Pärast käesoleva paragrahvi lõikes 1 nimetatud tähtaja möödumist vaatab Vabariigi Valitsus otsuse üle. Kui kriisirolliga abidemineerija kaasamine kriisiajal on endiselt vajalik, vaatab Vabariigi Valitsus otsuse üle iga 30 päeva tagant ja pikendab kriisirolliga abidemineerija kaasamist kuni 30 päeva võrra.\n(4) Käesoleva paragrahvi lõike 1 alusel antud korralduses märgitakse:\n1) kaasatavate isikute arv või selle ülempiir;\n2) kaasamise tähtaeg;\n3) territoorium, kus kaasamine on vajalik;\n4) vajaduse korral muud andmed."
+    },
+    {
+      "provision_ref": "para42^3",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "42^3",
+      "title": "§ 42^3. Kriisirolliga abidemineerija staatuse erisus",
+      "content": "(1) Kui kriisirolliga abidemineerija arvatakse Kaitseväe sõjaaja üksuse koosseisu või ta asub tööle riigikaitselise töökohustusega ameti- või töökohale või tema ameti- või töökohale määratakse riigikaitseline töökohustus, peatatakse tema kriisirolliga abidemineerija staatus. Staatuse peatamiseks esitab isik Päästeametile avalduse.\n(2) Kriisirolliga abidemineerijat ei arvata Kaitseväe sõjaaja üksuse koosseisu, välja arvatud juhul, kui see on vältimatult vajalik riigi julgeoleku tagamiseks.\n(3) Kriisirolliga abidemineerija staatus jätkub, kui isik vabastatakse riigikaitselise töökohustusega ameti- või töökohalt, tema ameti- või töökohta ei loeta enam riigikaitselise töökohustusega ameti- või töökohaks või ta arvatakse välja Kaitseväe sõjaaja üksuse koosseisust. Staatuse jätkamiseks esitab isik Päästeametile avalduse."
+    },
+    {
+      "provision_ref": "para42^4",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "42^4",
+      "title": "§ 42^4. Kriisirolliga abidemineerija töö- või teenistussuhte erisus",
+      "content": "(1) Kriisirolliga abidemineerijal on õigus keelduda tööst tööandja juures, kellega ta on sõlminud töölepingu, kui ta kaasatakse kriisiajal Päästeameti tegevusse.\n(2) Avaliku teenistuse ametikohale nimetatud kriisirolliga abidemineerija avaliku võimu teostamise õigus peatatakse, kui ta kaasatakse kriisiajal Päästeameti tegevusse.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud juhtudel esitab töötaja tööandjale tööst keeldumise ja ametnik avaliku võimu teostamise õiguse peatamise avalduse.\n(4) Kriisirolliga abidemineerijale, kes osaleb kriisiajal Päästeameti tegevuses, võib maksta hüvitist. Hüvitise arvutamise aluseks võetakse Statistikaameti avaldatud viimane keskmine brutokuupalk.\n(5) Käesoleva paragrahvi lõikes 4 sätestatud hüvitise saamiseks peab kriisirolliga abidemineerija esitama Päästeametile taotluse kümne tööpäeva jooksul Päästeameti tegevuses osalemise lõppemisest arvates. Päästeamet otsustab hüvitise maksmise 14 kalendripäeva jooksul pärast taotluse saamist ja kannab hüvitise taotleja arvelduskontole või keeldub hüvitise maksmisest.\n(6) Kui tööandjale tekib käesoleva paragrahvi lõike 1 rakendamise tõttu kahju, eelkõige saamata jäänud tulu, võib ta nõuda riigilt kahju hüvitamist."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE PÄÄSTEAMETI TEGEVUSES",
+      "section": "43",
+      "title": "§ 43. Vabatahtliku staatusest vabastamine",
+      "content": "(1) Vabatahtliku päästja või abidemineerija vabastamise vabatahtliku staatusest otsustab Päästeamet:\n1) vabatahtliku päästja või abidemineerija algatusel;\n2) vabatahtliku päästja või abidemineerija mittevastavuse korral käesoleva seaduse §-s 33 sätestatud tingimustele või §-s 34 nimetatud alustel;\n3) vabatahtlikule päästjale või abidemineerijale sobimatu käitumise korral.\n(1^1) Vabatahtlik päästja või abidemineerija vabastatakse vabatahtliku staatusest, kui menetluses tuvastatakse vabatahtliku staatusest vabastamise asjaolu. Menetlusele kohaldatakse haldusmenetluse seadust.\n(2) Käskkiri vabatahtliku päästja vabastamise kohta tehakse teatavaks teatise kättetoimetamisega."
+    },
+    {
+      "provision_ref": "para43^1",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE HÄIREKESKUSE TEGEVUSES",
+      "section": "43^1",
+      "title": "§ 43^1. Häirekeskuse tegevuses osaleva vabatahtliku sotsiaalsed tagatised ja vabatahtlikule hüvitatavad kulud",
+      "content": "(1) Kui Häirekeskuse tegevuses osalev vabatahtlik sureb või tema töövõime väheneb vabatahtliku ülesannete täitmisel, maksab riik hüvitist käesoleva seaduse §-s 41 sätestatud alusel ja korras.\n(2) Häirekeskus võib hüvitada käesoleva seaduse § 2 lõikes 4^1 nimetatud vabatahtlikule või lõikes 5 nimetatud juriidilisele isikule transpordi-, side- ja muud Häirekeskuse tegevuses osalemisega kaasnevad asjakohased kulud."
+    },
+    {
+      "provision_ref": "para43^2",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE HÄIREKESKUSE TEGEVUSES",
+      "section": "43^2",
+      "title": "§ 43^2. Häirekeskuse tegevuses osaleva vabatahtliku taustakontroll",
+      "content": "(1) Häirekeskuse tegevuses osaleva vabatahtliku vastavust käesoleva seaduse § 2 lõikes 4^1 sätestatud nõuetele kontrollib Politsei- ja Piirivalveamet.\n(2) Häirekeskuse tegevuses osaleva vabatahtliku kandidaadi sobivuse hindamiseks võib tuvastada isiku isikusamasuse ning töödelda isikuandmeid, sealhulgas eriliiki isikuandmeid, ja koguda järgmisi andmeid:\n1) kontaktandmed, elukoha andmed, kodakondsuse ja isikut tõendava dokumendi andmed ning töökoha andmed;\n2) andmed isikule määratud kriminaalkaristuste, viimase viie aasta jooksul väärteo eest määratud karistuste, karistatuse ja karistusest vabastamise ning karistuste täitmisele pööramise kohta;\n3) andmed isiku vastu algatatud kriminaalmenetluste, kus ta on tunnistatud kahtlustatavaks või süüdistatavaks, ning nendes asjades tehtud menetlust lõpetava lahendi kohta;\n4) andmed isiku seotuse kohta organisatsiooni või liikumisega, mis oma tegevusega eirab avalikku korda või mille tegevus on suunatud Eesti Vabariigi iseseisvuse ja sõltumatuse vägivaldsele muutmisele, territoriaalse terviklikkuse vägivaldsele rikkumisele, vägivaldsele võimuhaaramisele või Eesti põhiseadusliku korra vägivaldsele muutmisele;\n5) andmed isiku välispiiri ületuste ja välisriigis viibimise kohta, et tuvastada isiku viibimine välisriigis, mis on kantud riigisaladuse ja salastatud välisteabe seaduse § 19 lõike 3 alusel kehtestatud nimekirja ning mille puhul kehtib sama paragrahvi lõikes 2 nimetatud teatamiskohustus;\n6) andmed isiku seotuse kohta välisriigi luure- või julgeolekuteenistusega.\n(3) Politsei- ja Piirivalveametil on käesoleva paragrahvi lõikes 2 nimetatud andmete õigsuse kontrollimiseks õigus:\n1) pöörduda riigi- ja kohaliku omavalitsuse üksuse asutuste, samuti füüsiliste ja juriidiliste isikute poole järelepärimisega kontrollitava isiku isikuandmete kohta;\n2) vestelda kontrollitava isiku, samuti tema tööandja ja õppeasutuse esindajate ning teiste isikutega, et selgitada välja kontrollitava isiku kõlbelised ja teised isikuomadused ning vajaduse korral ja küsitletava isiku nõusolekul võtta temalt kirjalik seletus;\n3) kontrollida isikuandmeid riigi, kohaliku omavalitsuse või muu avalik-õigusliku isiku või eraõigusliku juriidilise isiku andmekogust;\n4) saada andmeid karistusregistri arhiivist;\n5) töödelda üldsusele suunatud ja avalikust allikast kättesaadavaid isikuandmeid.\n(4) Käesoleva paragrahvi lõikes 2 nimetatud asjaolu võib olla Häirekeskusele aluseks keelduda võtmast isikut Häirekeskuse tegevuses osalevaks vabatahtlikuks.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud keeldumise põhjust ja keeldumise aluseks olevat asjaolu ei avaldata ulatuses, mis võib olla vältimatult vajalik, et tagada:\n1) riigi julgeolek;\n2) riigikaitse;\n3) avalik kord;\n4) süütegude tõkestamine, avastamine, menetlemine või karistuse täideviimine;\n5) andmesubjekti kaitse või teiste isikute õiguste ja vabaduste kaitse.\n(6) Taustakontrolliks isiku kohta kogutud andmeid säilitatakse viis aastat taustakontrolli tegemise lõppemisest arvates või pärast vabatahtliku staatusest vabastamist tekkinud õigusliku vaidluse korral kuni õigusliku vaidluse lõppemiseni."
+    },
+    {
+      "provision_ref": "para43^3",
+      "chapter": "7. peatükk - VABATAHTLIKU OSALEMINE HÄIREKESKUSE TEGEVUSES",
+      "section": "43^3",
+      "title": "§ 43^3. Häirekeskuse tegevuses osaleva vabatahtliku staatusest vabastamine",
+      "content": "(1) Häirekeskuse tegevuses osalev vabatahtlik vabastatakse vabatahtliku staatusest, kui ilmneb asjaolu, et ta ei vasta avaliku teenistuse seaduses sätestatud avalikku teenistusse võtmise nõudele.\n(2) Häirekeskuse vabatahtliku staatusest vabastamise asjaolude tuvastamisele ja vabatahtliku staatusest vabastamisele kohaldatakse käesoleva seaduse § 43 lõikes 2 sätestatut."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "8. peatükk - KULUD",
+      "section": "44",
+      "title": "§ 44. Asja sundkasutusest tekkinud kulude hüvitamine",
+      "content": "(1) Riik hüvitab isikule käesoleva seaduse § 20 alusel asja sundkasutusse võtmisega tekkinud kulud. Ulatusliku või pikaajalise päästetöö või demineerimistöö korral võib riik asja sundkasutusse võtmisega tekkinud kulud hüvitada Vabariigi Valitsuse reservist.\n(2) Päästetööl või demineerimistööl asja sundkasutusse võtmisega tekkinud kulude hüvitamise ulatus ja kord kehtestatakse Vabariigi Valitsuse määrusega."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "8. peatükk - KULUD",
+      "section": "45",
+      "title": "§ 45. Ulatusliku või pikaajalise päästetöö ja demineerimistööga seotud kulude hüvitamine",
+      "content": "(1) Ulatuslikul või pikaajalisel päästetööl või demineerimistööl osalevale juriidilisele isikule, vabatahtlikule päästjale, abidemineerijale ja § 19 alusel päästetööle rakendatud füüsilisele isikule tekitatud kulud, välja arvatud saamata jäänud tulu, hüvitatakse Vabariigi Valitsuse reservist.\n(2) Ulatusliku või pikaajalise päästetöö või demineerimistööga seotud kulude hüvitamise korra juriidilisele isikule, vabatahtlikule päästjale, abidemineerijale ja päästetööle rakendatud füüsilisele isikule kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "8. peatükk - KULUD",
+      "section": "46",
+      "title": "§ 46. Ulatuslikul või pikaajalisel päästetööl ja demineerimistööl osalemise tasu maksmine",
+      "content": "(1) Ulatuslikul või pikaajalisel päästetööl või demineerimistööl osalevale vabatahtlikule päästjale, abidemineerijale ja käesoleva seaduse § 19 alusel päästetööle rakendatud füüsilisele isikule makstakse päästetööl või demineerimistööl osaletud aja eest tasu, milleks eraldatakse Päästeametile eelarvevahendid Vabariigi Valitsuse reservist.\n(2) Vabatahtlikule päästjale, abidemineerijale ja päästetööle rakendatud füüsilisele isikule ulatuslikul või pikaajalisel päästetööl või demineerimistööl osaletud aja eest tasu maksmise ulatuse ja korra kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "8. peatükk - KULUD",
+      "section": "47",
+      "title": "§ 47. Toitlustuse ja joogivee kulude hüvitamine",
+      "content": "(1) Päästeamet tagab üle nelja tunni kestval päästetööl või demineerimistööl osalejale tasuta toitlustamise ja joogivee.\n(2) Ulatusliku või pikaajalise päästetöö või demineerimistöö korral hüvitatakse päästetööl või demineerimistööl osalejale toitlustamise ja joogivee kulud Vabariigi Valitsuse reservist.\n(3) Ulatusliku või pikaajalise päästetöö või demineerimistöö korral toitlustamise ja joogivee kulude hüvitamise ulatuse ja korra kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "8. peatükk - KULUD",
+      "section": "48",
+      "title": "§ 48. Õnnetusest põhjustatud kahju",
+      "content": "Päästesündmuse käigus käesoleva seaduse §-s 21 nimetatud töödega ning korrakaitseseaduse §-des 49, 50 ja 52 nimetatud meetmete kohaldamise käigus juriidilisele või füüsilisele isikule Päästeameti poolt tekitatud kahju loetakse õnnetusest põhjustatud kahjuks."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "49",
+      "title": "§ 49. Vabatahtliku päästja väljaõpe",
+      "content": "(1) Käesoleva seaduse § 38 lõikes 3 sätestatud esimese astme õppe läbimise nõue ja § 38 lõikes 6 sätestatud teise astme õppe kestuse nõue ei laiene isikule, kellel on päästeteenistuse seaduse § 13 alusel arvestatud päästeteenistuse staaži vähemalt kolm aastat. Nimetatud isikute teise astme õpe kestab vähemalt kuus tundi.\n(2) Käesoleva seaduse § 38 lõikes 6 sätestatud vabatahtliku päästjana tegutsemise kogemuse nõue ei laiene isikule, kes on enne käesoleva seaduse jõustumist vabatahtlikuna osalenud päästetegevuses vähemalt ühe aasta.\n(3) Kui vabatahtlikuna päästetegevuses osalenud isik on enne käesoleva seaduse jõustumist läbinud käesoleva seaduse § 38 lõikes 3 nimetatud õppe, ei kohaldata tema suhtes esimese astme koolituse läbimise nõuet.\n(4) Kui vabatahtlikuna päästetegevuses osalenud isik on enne käesoleva seaduse jõustumist läbinud käesoleva seaduse § 38 lõikes 6 nimetatud õppe vähemalt 30 tunni ulatuses, kestab tema teise astme õpe vähemalt kuus tundi."
+    },
+    {
+      "provision_ref": "para49^1",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "49^1",
+      "title": "§ 49^1. Püsiva töövõimetusega isik",
+      "content": "Päästetööle kaasatud vabatahtlikul päästjal, kellel on tuvastatud osaline töövõimetus riikliku pensionikindlustuse seaduse alusel, loetakse käesoleva seaduse §-s 41 sätestatud osalise töövõime tingimus täidetuks. Päästetööle kaasatud vabatahtlikul päästjal, kellel on tuvastatud täielik töövõimetus riikliku pensionikindlustuse seaduse alusel, loetakse käesoleva seaduse §-s 41 sätestatud puuduva töövõime tingimus täidetuks."
+    },
+    {
+      "provision_ref": "para49^2",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "49^2",
+      "title": "§ 49^2. Kriisiinfo teenuse osutamine",
+      "content": "(1) Häirekeskus on valmis osutama kriisiinfo teenust Siseministeeriumi valitsemisala asutustele alates 2020. aasta 15. juulist.\n(2) Häirekeskus on valmis osutama kriisiinfo teenust riigiasutustele ja kohaliku omavalitsuse üksustele alates 2021. aasta 1. jaanuarist."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "50",
+      "title": "§ 50.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "63",
+      "title": "§ 63.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "64",
+      "title": "§ 64. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2010. aasta 1. septembril.\n(2) Käesoleva seaduse §-d 50 ja 58 jõustuvad üldises korras."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-117112021021",
+  "type": "statute",
+  "title": "Veterinaarkorralduse seadus",
+  "title_en": "Veterinaarkorralduse seadus",
+  "short_name": "VetKS",
+  "status": "in_force",
+  "issued_date": "1999-06-16",
+  "in_force_date": "2021-12-01",
+  "url": "https://www.riigiteataja.ee/akt/117112021021.xml",
+  "description": "Official consolidated statute text (Veterinaarkorralduse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

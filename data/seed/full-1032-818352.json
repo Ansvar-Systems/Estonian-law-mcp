@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-818352",
+  "type": "statute",
+  "title": "Põhja-Atlandi lepingu osalisriikide teabekaitse kokkuleppega ühinemise seadus",
+  "title_en": "Põhja-Atlandi lepingu osalisriikide teabekaitse kokkuleppega ühinemise seadus",
+  "short_name": "ee-law-818352",
+  "status": "in_force",
+  "issued_date": "2004-11-10",
+  "in_force_date": "2004-11-19",
+  "url": "https://www.riigiteataja.ee/akt/818352.xml",
+  "description": "Official consolidated statute text (Põhja-Atlandi lepingu osalisriikide teabekaitse kokkuleppega ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud Põhja-Atlandi lepingu osalisriikide teabekaitse kokkuleppega."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Seadus jõustub Riigi Teatajas avaldamisele järgneval päeval. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

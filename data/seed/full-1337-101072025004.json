@@ -1,0 +1,589 @@
+{
+  "id": "ee-law-101072025004",
+  "type": "statute",
+  "title": "Toiduseadus",
+  "title_en": "Toiduseadus",
+  "short_name": "ToiduS",
+  "status": "in_force",
+  "issued_date": "1999-02-25",
+  "in_force_date": "2025-09-01",
+  "url": "https://www.riigiteataja.ee/akt/101072025004.xml",
+  "description": "Official consolidated statute text (Toiduseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolevas seaduses sätestatakse toidu käitlemise alused, käitleja enesekontroll, toiduga varustamise tagamise abinõud, riiklik järelevalve ja vastutus toidu ohutuse ja muudele nõuetele vastavuse tagamiseks. Kus asjakohane, kohaldatakse käesoleva seaduse sätteid ka Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1935/2004 toiduga kokkupuutumiseks ettenähtud materjalide ja esemete kohta, millega tunnistatakse kehtetuks direktiivid 80/590/EMÜ ja 89/109/EMÜ (ELT L 338, 13.11.2004, lk 4–17), artikli 1 lõikes 2 nimetatud materjalide ja esemete suhtes.\n(2) Käesolevat seadust ei kohaldata Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 178/2002, millega sätestatakse toidualaste õigusnormide üldised põhimõtted ja nõuded, asutatakse Euroopa Toiduohutusamet ja kehtestatakse toidu ohutusega seotud menetlused (EÜT L 031, 01.02.2002, lk 1–24), artikli 1 lõikes 3 sätestatud oma tarbeks mõeldud toimingute suhtes. Samuti ei kohaldata käesolevat seadust nimetatud määruse artikli 1 lõikes 3 sätestatud toimingute tegemisel haridusasutuses õpilaste õpetamise või hoolekandeasutuses viibivate isikute õpetamise, arendamise või abistamise eesmärgil.\n(3) Käesolevat seadust ei kohaldata narkootiliste ja psühhotroopsete ainete, tubaka ja tubakatoodete ega ravimiseaduses sätestatud ravimite suhtes.\n(4) Alkoholi ja vee käitlemise suhtes kohaldatakse käesolevat seadust niivõrd, kuivõrd alkoholi ja vee käitlemist ei ole reguleeritud muude õigusaktidega.\n(4^1) Käesoleva seaduse 7^1. peatükis sätestatud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesolevas seaduses ja hädaolukorra seaduses sätestatud erisusi.\n(5) Euroopa Liidu õigusaktides ja käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625,mis käsitleb ametlikku kontrolli ja muid ametlikke toiminguid, mida tehakse eesmärgiga tagada toidu- ja söödaalaste õigusnormide ning loomatervise ja loomade heaolu, taimetervise- ja taimekaitsevahendite alaste õigusnormide kohaldamine, millega muudetakse Euroopa Parlamendi ja nõukogu määruseid (EÜ) nr 999/2001, (EÜ) nr 396/2005, (EÜ) nr 1069/2009, (EÜ) nr 1107/2009, (EL) nr 1151/2012, (EL) nr 652/2014, (EL) 2016/429 ja (EL) 2016/2031, nõukogu määruseid (EÜ) nr 1/2005 ja (EÜ) nr 1099/2009 ning nõukogu direktiive 98/58/EÜ, 1999/74/EÜ, 2007/43/EÜ, 2008/119/EÜ ja 2008/120/EÜ ning millega tunnistatakse kehtetuks Euroopa Parlamendi ja nõukogu määrused (EÜ) nr 854/2004 ja (EÜ) nr 882/2004, nõukogu direktiivid 89/608/EMÜ, 89/662/EMÜ, 90/425/EMÜ, 91/496/EMÜ, 96/23/EÜ, 96/93/EÜ ja 97/78/EÜ ja nõukogu otsus 92/438/EMÜ (ametliku kontrolli määrus) (ELT L 95, 07.04.2017, lk 1–142), muude Euroopa Liidu õigusaktide ja käesoleva seaduse erisusi.\n(5^1) Käesolevat seadust kohaldatakse välislepingus sätestatud juhtudel välislepingust tulenevate erisustega.\n(6) Vabariigi Valitsus või valdkonna eest vastutav minister võib oma pädevuse piires kehtestada toidualaste meetmete rakendamiseks õigusakte küsimustes, mille otsustamise õigus on vastavalt Euroopa Liidu õigusaktidele liikmesriigil."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Toit",
+      "content": "Toit käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 178/2002 artiklis 2 sätestatud aine või toode."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Esmatootmine ja esmatoode",
+      "content": "(1) Esmatootmine käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 178/2002 artikli 3 lõikes 17 sätestatud tegevus.\n(2) Esmatoode käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 852/2004 toiduainete hügieeni kohta (ELT L 139, 30.04.2004, lk 1–54) artikli 2 lõikes 1 sätestatud toode."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Käitleja ja toidu käitlemine",
+      "content": "(1) Käitleja käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 178/2002 artikli 3 lõikes 3 sätestatud isik.\n(1^1) Juriidilisest isikust käitleja seaduslik esindaja korraldab käesolevast seadusest juriidilisele isikule tulenevate kohustuste täitmise.\n(2) Toidu käitlemine (edaspidi käitlemine ) käesoleva seaduse tähenduses on tegevus Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 178/2002 artikli 3 lõikes 16 sätestatud toidu tootmise, töötlemise ja turustamise etappides.\n(3) Jaekaubandus käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 178/2002 artikli 3 lõikes 7 sätestatud tegevus."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - TEATAMIS- JA LOAKOHUSTUS",
+      "section": "7",
+      "title": "§ 7. Teatamiskohustus",
+      "content": "(1) Põllumajandus- ja Toiduametile tuleb esitada majandustegevusteade:\n1) toidu käitlemiseks Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 852/2004 artikli 6 lõikes 2 sätestatud ettevõttes;\n2) toiduga kokkupuutuvate materjalide ja esemete valmistamiseks, töötlemiseks ja turustamiseks Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1935/2004 artikli 2 lõike 2 punktis c sätestatud ettevõttes.\n(2) Lisaks majandustegevuse seadustiku üldosa seaduses sätestatud andmetele märgitakse majandustegevusteates:\n1) käesoleva paragrahvi lõike 1 punktis 1 nimetatud tegevusala puhul andmed käitlemisvaldkonna ja toidugrupi kohta;\n2) käesoleva paragrahvi lõike 1 punktis 2 nimetatud tegevusala puhul andmed toiduga kokkupuutumiseks ettenähtud materjalide ja esemete rühma kohta.\n(3) Valdkonna eest vastutav minister kehtestab määrusega käesoleva paragrahvi lõike 2 punktis 1 nimetatud käitlemisvaldkondade ja toidugruppide täpsustatud loetelu, mille puhul peab käitleja esitama majandustegevusteate.\n(4) Käesoleva paragrahvi lõike 1 punktis 1 nimetatud tegevusalal majandustegevuse alustamiseks ei pea esitama majandustegevusteadet, kui:\n1) ettevõttes toidu käitlemiseks peab olema tegevusluba käesoleva seaduse § 8 või Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 852/2004 artikli 6 lõike 3 punkti b või c kohaselt;\n2) Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 852/2004 artikli 1 lõike 2 punkti c või Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 853/2004, millega sätestatakse loomset päritolu toidu hügieeni erieeskirjad (ELT L 139, 30.04.2004, lk 55–205), artikli 1 lõike 3 punkti c kohaselt ei kohaldata ettevõtte suhtes nimetatud määrustes kehtestatud nõudeid;\n3) loomapidamisettevõte on registreeritud põllumajandusloomade registris;\n4) ettevõtjal on ravimite käitlemise tegevusluba.\n(5) Käesoleva paragrahvi lõike 1 punktis 2 nimetatud tegevusalal majandustegevuse alustamiseks ei pea esitama majandustegevusteadet, kui Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1935/2004 artikli 2 lõike 2 alapunktis c nimetatud ettevõttest tuleb teatada käesoleva seaduse § 7 lõike 1 punkti 1 kohaselt või kui nimetatud ettevõttes peab toidu käitlemiseks olema tegevusluba § 8 kohaselt.\n(6) Käesolevas paragrahvis nimetatud andmed kantakse söödaseaduse § 23 alusel asutatud riigi toidu ja sööda käitlejate registrisse.\n(7) Käesoleva paragrahvi lõikes 1 nimetatud majandustegevusteates sisalduvate andmete riigi toidu ja sööda käitlejate registrisse kandmise eest ei tasu ettevõtja riigilõivu."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - TEATAMIS- JA LOAKOHUSTUS",
+      "section": "8",
+      "title": "§ 8. Loakohustus",
+      "content": "(1) Ettevõtjal peab olema tegevusluba toidu käitlemiseks järgmistes ettevõtetes või asutustes:\n1) Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 852/2004 artikli 6 lõike 3 punktide b ja c kohane ettevõte;\n1^1) ettevõte, kus tegeletakse jaekaubandusega (edaspidi jaekaubandusettevõte ) ja käideldakse loomset toitu, mida tarnitakse sama ettevõtja jaekaubandusettevõttesse või üksnes teisele jaekaubandusega tegelevale ettevõtjale, välja arvatud juhul, kui tarnimine on käesoleva seaduse § 26 lõike 3 alusel kehtestatud nõuete kohaselt marginaalne, kohaliku ulatusega ja piiratud;\n1^2) lasteaed, põhikool, gümnaasium, tervishoiu- ja hoolekandeasutus, kinnipidamisasutus ning Kaitsevägi, kus tegeletakse toitlustamisega;\n2)\n3)\n4)\n5)\n6)\n7)\n8)\n9) komisjoni delegeeritud määruse (EL) 2019/2124, millega täiendatakse Euroopa Parlamendi ja nõukogu määrust (EL) 2017/625 looma- ja kaubasaadetiste ametliku kontrolli eeskirjadega, mida kohaldatakse läbi liidu toimuva transiidi, ümberlaadimise ja edasiveo korral, ning millega muudetakse komisjoni määruseid (EÜ) nr 798/2008, (EÜ) nr 1251/2008, (EÜ) nr 119/2009, (EL) nr 206/2010, (EL) nr 605/2010, (EL) nr 142/2011, (EL) nr 28/2012, komisjoni rakendusmäärust (EL) 2016/759 ja komisjoni otsust 2007/777/EÜ (ELT L 321, 12.12.2019, lk 73–98), artikli 23 lõike 1 kohane ettevõte, kus tegeletakse loomse toidu ladustamisega.\n(2) Tegevusluba annab ettevõtjale õiguse majandustegevuse alustamiseks ja teostamiseks tegevusloas märgitud ettevõttes või ettevõtte osas.\n(3) Valdkonna eest vastutav minister kehtestab määrusega nende käitlemisvaldkondade ja toidugruppide täpsustatud loetelu, mille puhul peab käitlejal olema tegevusluba."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - TEATAMIS- JA LOAKOHUSTUS",
+      "section": "9",
+      "title": "§ 9. Tegevusloa taotlemine",
+      "content": "(1) Tegevusloa taotluse lahendab Põllumajandus- ja Toiduamet.\n(2) Tegevusloa taotluses esitatakse lisaks majandustegevuse seadustiku üldosa seaduses nimetatud andmetele järgmised andmed ja dokumendid:\n1) nende toidugruppide loetelu, mille käitlemiseks tegevusluba taotletakse;\n2)\n3) ruumide plaan koos seadmete ja sisseseade paigutuse ning vee ja kanalisatsiooni sisevõrkude plaaniga. Veevõrgu plaanil näidatakse nummerdatult kõik veevõtukohad. Ruumide plaanil näidatakse ära toidu, pakkematerjalide, jäätmete ning töötajate liikumisteed;\n4)\n5) reguleeritava temperatuuri või õhu suhtelise niiskusega või reguleeritava temperatuuri ja õhu suhtelise niiskusega ruumide asjakohase reguleeritava parameetri arvväärtused;\n6) käitlemisprotsessi tehnoloogiline skeem koos toiduohutuse seisukohalt oluliste parameetritega ning tehnoloogia lühikirjeldus;\n7) andmed projekteeritud ning kavandatava või tegeliku käitlemisvõimsuse, sealhulgas hoiuruumide mahutavuse kohta;\n8) ettevõttes kasutatava vee analüüsi katseprotokollid veeseaduse § 85 lõike 2 alusel kehtestatud joogivee tavakontrolli käigus uuritavate näitajate kohta. Katseprotokollid peab olema väljastanud joogivee analüüsimiseks akrediteeritud laboratoorium;\n9) puhastamis- ja desinfitseerimisplaan, mis sisaldab andmeid seadmete ja ruumide puhastamiseks ning desinfitseerimiseks rakendatavate meetmete ja kasutatavate ainete kohta;\n10) kahjuritõrjeplaan, mis sisaldab andmeid kahjurite tõrjeks rakendatavate meetmete kohta;\n11) toidujäätmete, toiduks mittekasutatavate kõrvalsaaduste ja muude jäätmete kogumise, äravedamise ja kahjutustamise plaan, mis sisaldab andmeid nende kogumiseks, äravedamiseks ja kahjutustamiseks rakendatavate meetmete kohta;\n12) toiduga kokkupuutuvate töötajate toiduhügieenikoolituse kava;\n13) andmed toidu veoks kasutatavate veokite kohta ning veokite ja ringlevate veopakendite puhastamise korraldamise kirjeldus.\n(3) Käesolevas paragrahvis nimetatud andmed kantakse söödaseaduse § 23 alusel asutatud riigi toidu ja sööda käitlejate registrisse.\n(4) Käesoleva seaduse § 8 lõikes 1 nimetatud tegevusloa taotluse lahendamise eest ei tasu ettevõtja riigilõivu."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - TEATAMIS- JA LOAKOHUSTUS",
+      "section": "10",
+      "title": "§ 10. Tegevusloa kontrolliese",
+      "content": "Tegevusluba antakse ettevõtjale, kui tema ning tema poolt toidu käitlemiseks kasutatav ettevõte vastab Euroopa Parlamendi ja nõukogu määrustes (EÜ) nr 852/2004 ja nr 853/2004 ning muudes asjakohastes toidualastes õigusaktides sätestatud nõuetele."
+    },
+    {
+      "provision_ref": "para10^1",
+      "chapter": "2. peatükk - TEATAMIS- JA LOAKOHUSTUS",
+      "section": "10^1",
+      "title": "§ 10^1. Tegevusloa kõrvaltingimused",
+      "content": "Tegevusloale lisatakse järgmised kõrvaltingimused: 1 1) käitlemisvaldkond;\n2) toidugrupp."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - TOIDU SUHTES ESITATAVAD NÕUDED",
+      "section": "12",
+      "title": "§ 12. Üldnõuded",
+      "content": "(1) Turuleviidav toit peab olema ohutu inimese tervisele ning vastama käesolevas seaduses ja teistes õigusaktides sätestatud muudele nõuetele (edaspidi nõuetekohane ).\n(2) Toidus ei tohi olla selle omadusi halvendavaid või inimese tervist ohustavaid parasiite, kahjureid ega võõrkehi.\n(3) Riknenud, saastunud või mikrobioloogilistele nõuetele mittevastavat toitu või ebasobivate tehnoloogiliste võtete, antud toidule mitteomase lõhna, maitse, värvi või teiste asjaolude tõttu rikutud toitu käidelda on keelatud.\n(4) Lisaks käesolevas peatükis sätestatule peab toit vastama seda iseloomustavatele koostis- ja kvaliteedinõuetele. Koostis- ja kvaliteedinõuded toidugruppide kaupa kehtestab valdkonna eest vastutav minister määrusega.\n(5)"
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - TOIDU SUHTES ESITATAVAD NÕUDED",
+      "section": "13",
+      "title": "§ 13. Uuendtoit ja geneetiliselt muundatud toit",
+      "content": "(1) Uuendtoitu Euroopa Parlamendi ja nõukogu määruse (EL) 2015/2283, mis käsitleb uuendtoitu, millega muudetakse Euroopa Parlamendi ja nõukogu määrust (EL) nr 1169/2011 ning tunnistatakse kehtetuks Euroopa Parlamendi ja nõukogu määrus (EÜ) nr 258/97 ja komisjoni määrus (EÜ) nr 1852/2001 (ELT L 327, 11.12.2015, lk 1–22), tähenduses võib turule viia üksnes nimetatud määruse nõuete kohaselt.\n(2) Toiduks kasutatavat geneetiliselt muundatud organismi ja geneetiliselt muundatud toitu Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1829/2003 geneetiliselt muundatud toidu ja sööda kohta (ELT L 268, 18.10.2003, lk 1–23) tähenduses võib turule viia üksnes nimetatud määruse nõuete kohaselt.\n(3) Pädev asutus Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1829/2003 artikli 5 lõike 2 tähenduses on Põllumajandus- ja Toiduamet."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - TOIDU SUHTES ESITATAVAD NÕUDED",
+      "section": "14",
+      "title": "§ 14. Eritoit",
+      "content": "(1) Eritoit käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EL) nr 609/2013 imikute ja väikelaste toidu, meditsiinilisel näidustusel kasutamiseks ettenähtud toidu ning kehakaalu alandamiseks ettenähtud päevase toidu asendajate kohta, millega tunnistatakse kehtetuks nõukogu direktiiv 92/52/EMÜ, komisjoni direktiivid 96/8/EÜ, 1999/21/EÜ, 2006/125/EÜ ja 2006/141/EÜ, Euroopa Parlamendi ja nõukogu direktiiv 2009/39/EÜ ning komisjoni määrused (EÜ) nr 41/2009 ja (EÜ) nr 953/2009 (ELT L 181, 29.06.2013, lk 35–56), artikli 2 lõike 2 punktides c–h sätestatud imiku piimasegu, jätkupiimasegu, teraviljapõhine töödeldud toit, imikutoit, meditsiinilisel näidustusel kasutamiseks ettenähtud toit ja kehakaalu alandamiseks ettenähtud päevase toidu asendaja.\n(2) Sellise eritoidu esmakordsest turuleviimisest Eestis, mille puhul on kehtestatud teavitamisnõue Euroopa Parlamendi ja nõukogu määruse (EL) nr 609/2013 artikli 11 lõike 1 punkti d kohaselt, teavitab turuleviija Põllumajandus- ja Toiduametit hiljemalt turuleviimise päeval, edastades turuleviidava eritoidu puhul kasutatava märgistuse näidise koos teatisega, mis sisaldab vähemalt järgmisi andmeid:\n1) eritoidu turuleviija nimi, elu- või asukoha aadress ning sidevahendite numbrid;\n2) eritoidu nimetus;\n3) Eestis eritoidu turuleviimise kuupäev.\n(3) Põllumajandus- ja Toiduamet võib turuleviijalt nõuda teaduslikke lisaandmeid, mis kinnitavad eritoidu eriomaduste olemasolu. Kui nimetatud andmed on avalikult kättesaadavad, piisab viitest asjakohasele trükisele või muule püsivale avaldamiskohale."
+    },
+    {
+      "provision_ref": "para14^1",
+      "chapter": "3. peatükk - TOIDU SUHTES ESITATAVAD NÕUDED",
+      "section": "14^1",
+      "title": "§ 14^1. Toidulisand",
+      "content": "(1) Toidulisandina käsitatakse toitu, mille kasutamise eesmärk on tavatoitu täiendada ning mis on inimesele toitainete või muude toitainelise või füsioloogilise toimega ainete kontsentreeritud allikaks. Nimetatud ained võivad esineda üksikult või kombineeritult ning viiakse turule müügipakendisse pakendatuna kindlate annustena, nagu kapslid, pastillid, tabletid ja muu sarnane ning pulbrikotikesed, vedelikuampullid, tilgutuspudelid ja muu sarnane, mis on ette nähtud vedeliku ja pulbri tarvitamiseks väikeste mõõdetud kogustena.\n(2) Toidulisandi esmakordsel Eestis turuleviimisel teavitab turuleviija sellest Põllumajandus- ja Toiduametit hiljemalt turuleviimise päeval, edastades turuleviidava toidulisandi puhul kasutatava märgistuse näidise koos teatisega, mis sisaldab vähemalt järgmisi andmeid:\n1) turuleviija nimi, elu- või asukoha aadress ning sidevahendite numbrid;\n2) toidulisandi nimetus;\n3) toidulisandi Eestis turuleviimise kuupäev."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - TOIDU SUHTES ESITATAVAD NÕUDED",
+      "section": "15",
+      "title": "§ 15. Külmutatud toit",
+      "content": "(1) Külmutatud on toit, mis on läbinud külmutamisprotsessi ja mida seejärel säilitatakse antud toidule ettenähtud temperatuuril. Toidu nõuetekohasuse tagamiseks peab külmutamisaeg olema võimalikult lühike.\n(2) Külmutatud toitu käideldes tuleb järgida Euroopa Parlamendi ja nõukogu määrustes (EÜ) nr 852/2004 ja nr 853/2004 ja teistes õigusaktides sätestatud nõudeid ning valdkonna eest vastutava ministri määrusega kehtestatud külmutatud toidu käitlemise erinõudeid."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - TOIDU SUHTES ESITATAVAD NÕUDED",
+      "section": "16",
+      "title": "§ 16. Lisaaine",
+      "content": "(1) Lisaaine käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1333/2008 toidu lisaainete kohta (ELT L 354, 31.12.2008, lk 16–33) artikli 3 lõike 2 punktis a sätestatud aine.\n(2) Lisaainet on lubatud toidus kasutada Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 1333/2008 sätestatud nõuete kohaselt.\n(3)\n(4) Toidus on lubatud kasutada lisaainet, mis vastab komisjoni määruses (EL) nr 231/2012, millega kehtestatakse Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1333/2008 II ja III lisas loetletud toidu lisaainete spetsifikatsioonid (ELT L 83, 22.03.2012, lk 1–295), sätestatud nõuetele."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - TOIDU SUHTES ESITATAVAD NÕUDED",
+      "section": "17",
+      "title": "§ 17. Lõhna- ja maitseaine",
+      "content": "(1) Lõhna- ja maitseaine käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1334/2008, mis käsitleb toiduainetes kasutatavaid lõhna- ja maitseaineid ning teatavaid lõhna- ja maitseomadustega toidu koostisosi ning millega muudetakse nõukogu määrust (EMÜ) nr 1601/91, määrusi (EÜ) nr 2232/96 ja (EÜ) nr 110/2008 ning direktiivi 2000/13/EÜ (ELT L 354, 31.12.2008, lk 34–50), artikli 3 lõike 2 punktis a sätestatud toode.\n(1^1) Lõhna- ja maitseainet on lubatud toidus kasutada Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 1334/2008 sätestatud nõuete kohaselt.\n(2) Pädev asutus Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 2065/2003 toidus või toidu pinnal kasutatavate või kasutamiseks mõeldud suitsutuspreparaatide kohta (ELT L 309, 26.11.2003, lk 1–8) artikli 7 lõike 2 tähenduses on Põllumajandus- ja Toiduamet."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - TOIDU SUHTES ESITATAVAD NÕUDED",
+      "section": "18",
+      "title": "§ 18. Abiaine",
+      "content": "(1) Abiaine käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1333/2008 artikli 3 lõike 2 punktis b sätestatud aine.\n(2) Abiainete suhtes esitatavad nõuded, nende ainete kasutamise tingimused ja viisid ning toidus lubatud jääksisalduse piirnormid kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - TOIDU SUHTES ESITATAVAD NÕUDED",
+      "section": "19",
+      "title": "§ 19. Saasteaine",
+      "content": "(1) Saasteaine on toidus leiduv aine, mis on sinna sattunud esmatootmisel kasutatud ainete tõttu, käitlemise ajal või keskkonna saastumise tagajärjel ning mis võib olla inimese tervisele ohtlik või mis võib halvendada toidu omadusi.\n(2)\n(3) Valdkonna eest vastutav minister võib kehtestada lubatud saasteainete loetelu ja piirnormid toidugruppide kaupa."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - TOIDU SUHTES ESITATAVAD NÕUDED",
+      "section": "20",
+      "title": "§ 20. Toidu võltsimine",
+      "content": "(1) Toitu võltsida ja võltsitud toitu käidelda on keelatud.\n(2) Võltsimisena käsitatakse:\n1) toidu koostise muutmist ilma märgistust muutmata;\n2) märgistuse muutmist tegelikku koostist muutmata;\n3) toidule mis tahes viisil teise aine lisamist või sellega toidu töötlemist toidu madalama väärtuse või nõuetele mittevastavuse varjamiseks;\n3^1) tervisemärgi ja identifitseerimismärgi mittenõuetekohast kasutamist märgistusel;\n4) käitlemist, kasutades teise ettevõtja ärinime või kaubamärki ilma tema loata."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - KÄITLEMISE ÜLDNÕUDED",
+      "section": "21",
+      "title": "§ 21. Toidu nõuetekohasuse tagamine käitlemisel",
+      "content": "(1) Käitlemine peab toimuma vastavalt käesolevas seaduses ja teistes õigusaktides sätestatud nõuetele ning käitlemisel peab olema tagatud nõuetekohase toidu saamine.\n(2) Käitlemisel on keelatud kasutada aineid ja materjale, mille koostis või toime inimesele ei ole teada või mis ei vasta õigusaktides sätestatud nõuetele või mille kasutamine on õigusaktidega keelatud.\n(3) Käitlemiskohtades on keelatud hoida aineid ja materjale, mis võivad põhjustada toidu saastumise või halvendada nende omadusi.\n(4) Kui uuringute tulemusena on selgunud töötlemisviisi või aine kahjulikkus inimese tervisele, on seda keelatud toidu käitlemisel kasutada. Toidu käitlemisel keelatud töötlemisviiside ja ainete loetelu kehtestab valdkonna eest vastutav minister määrusega. Töötlemisviisi või aine kohta, mida teatud juhul võib toidu käitlemisel kasutada, kehtestab valdkonna eest vastutav minister määrusega käitlemise erinõuded, milles sätestatakse, millisel juhul ja kuidas on lubatud töötlemisviisi või ainet kasutada."
+    },
+    {
+      "provision_ref": "para21^1",
+      "chapter": "4. peatükk - KÄITLEMISE ÜLDNÕUDED",
+      "section": "21^1",
+      "title": "§ 21^1. Toidu ioniseeriva kiirgusega töötlemise luba",
+      "content": "(1) Toitu tohib ioniseeriva kiirgusega töödelda Põllumajandus- ja Toiduameti loal.\n(2) Toidu ioniseeriva kiirgusega töötlemise loa saamiseks esitab käitleja Põllumajandus- ja Toiduametile kirjaliku taotluse, mis sisaldab järgmisi andmeid ja dokumente:\n1) taotleja nimi, registrikood ja kontaktandmed;\n2) andmed ioniseeriva kiirgusega töödeldava toidu kohta;\n3) toidu ioniseeriva kiirgusega töötlemise eesmärgi kirjeldus;\n4) andmed toidu ioniseeriva kiirgusega töötlemiseks kasutatava kiirgusallika kohta;\n5) kinnitus, et käitlejale on kiirgusseaduse alusel antud kiirgustegevusluba.\n(3) Põllumajandus- ja Toiduamet otsustab toidu ioniseeriva kiirgusega töötlemise loa andmise või loa andmisest keeldumise 20 tööpäeva jooksul käesoleva paragrahvi lõikes 2 nimetatud taotluse saamisest arvates.\n(4) Põllumajandus- ja Toiduamet teeb toidu ioniseeriva kiirgusega töötlemise loa andmisest keeldumise otsuse, kui:\n1) taotlejal puudub kiirgustegevusluba;\n2) taotluses on esitatud valeandmeid või kavandatav toidu ioniseeriva kiirgusega töötlemine ei vasta käesoleva seaduse §-s 21 sätestatud või selle alusel kehtestatud asjakohastele nõuetele.\n(5) Põllumajandus- ja Toiduamet esitab toidu ioniseeriva kiirgusega töötlemise loa andmise ja selle kehtetuks tunnistamise otsuse Euroopa Komisjonile."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - KÄITLEMISE ÜLDNÕUDED",
+      "section": "22",
+      "title": "§ 22. Käitleja kohustused käitlemisel",
+      "content": "(1) Käitleja vastutab käideldava toidu ning käitlemise nõuetekohasuse eest ja on kohustatud kasutama kõiki võimalusi selle tagamiseks.\n(2) Käitleja järgib toidu pakendil või saatedokumendil märgitud säilitamisnõudeid, mille määrab toidu tootja, töötleja, sealhulgas valmistaja, või pakendaja.\n(3) Käitleja ei tohi vastu võtta, käitlemisel kasutada ega väljastada nõuetele mittevastavat toitu.\n(4) Loomset toitu on keelatud kasutada, kui loomale on manustatud ravimit või hormonaalse toimega ainet ja kui nende kasutamise järgne keeluaeg ei ole möödunud.\n(5)\n(6)\n(7)"
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - KÄITLEMISE ÜLDNÕUDED",
+      "section": "23",
+      "title": "§ 23. Toidu jälgitavus",
+      "content": "Käitleja peab tagama toidu jälgitavuse Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 178/2002 artikli 18 kohaselt."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - KÄITLEMISE ÜLDNÕUDED",
+      "section": "24",
+      "title": "§ 24. Toidu tehniline kirjeldus",
+      "content": "(1) Toidu valmistamisel, välja arvatud toitlustusettevõttes üksnes kohapeal turustatava toidu valmistamisel, peab käitleja järgima enda valitud või koostatud toidu tehnilise kirjelduse nõudeid.\n(2) Toidu tehniline kirjeldus käesoleva seaduse tähenduses on igasugune toidu omadusi ja valmistamist kirjeldav dokument, mis sisaldab toidu kohta järgmisi andmeid:\n1) nimetus;\n2) valmistoodet ja selle koostisosi iseloomustavad näitajad;\n3) kasutatavad tehnoloogilised võtted, eelkõige need, mis on olulised toidu ohutuse seisukohast;\n4) nõuetekohasuse hindamise meetodid;\n5) pakendi ja toidualase teabe kirjeldus;\n6) veo- ja säilitamistingimused.\n(3) Enda koostatud tehniline kirjeldus ja sellesse tehtavad muudatused peavad olema vormistatud dokumendina, millest peab lisaks käesoleva paragrahvi lõikes 2 toodud andmetele nähtuma vähemalt selle vormistamise kuupäev ning allkirjaga kinnitanud isiku nimi ja ametinimetus."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - KÄITLEMISE ÜLDNÕUDED",
+      "section": "25",
+      "title": "§ 25. Ettevõtte tingimused",
+      "content": "(1) Ettevõtte tehnilised tingimused ja töökorraldus peavad võimaldama järgida käesolevas seaduses ja teistes õigusaktides sätestatud nõudeid.\n(2) Kui ilmnevad asjaolud, mis toovad kaasa või võivad kaasa tuua nende tingimuste muutumise määral, mille tagajärjel ei ole tagatud toidu ohutus, peab käitleja viivitamata sellest teatama Põllumajandus- ja Toiduametile.\n(3) Käesoleva seaduse § 8 lõike 1 punktis 9 nimetatud ettevõttes loomse toidu ladustamiseks kasutatav hoone ja ruum peavad vastama komisjoni delegeeritud määruse (EL) 2019/2124 artiklis 23 sätestatud nõuetele.\n(4)"
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - KÄITLEMISE ÜLDNÕUDED",
+      "section": "26",
+      "title": "§ 26. Toiduhügieen",
+      "content": "(1) Toiduhügieen käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 852/2004 artikli 2 lõikes 1 sätestatud meetmed ja tingimused.\n(2) Toiduhügieeninõuded on sätestatud Euroopa Parlamendi ja nõukogu määrustes (EÜ) nr 852/2004 ja nr 853/2004.\n(3) Toiduhügieeninõuded küsimustes, mille otsustamise õigus on käesoleva paragrahvi lõikes 2 nimetatud määruste kohaselt liikmesriigil, või muud asjakohased nõuded kehtestab valdkonna eest vastutav minister määrusega.\n(3^1) Käesoleva paragrahvi lõikes 3 nimetatud nõuetena võib kehtestada lõikes 3^3 nimetatud loomühiku suuruse ning Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 852/2004 artiklis 1 ja artikli 13 lõikes 3 ning Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 853/2004 artiklis 1 ja artikli 10 lõikes 3 nimetatud väikesed tootekogused, ettevõtte ehituse, projektlahenduse ja seadmete hügieeninõuded ning jaekaubandusettevõttes loomse toidu käitlemise hügieeninõuded ning määrata tarnimise kohaliku ulatuse.\n(3^2) Käesoleva paragrahvi lõikes 3^1 sätestatud ettevõtte ehituse, projektlahenduse ja seadmete hügieeninõudeid tohib rakendada käitleja, kes on komisjoni soovituse 2003/361/EÜ, mis käsitleb mikroettevõtete ning väikese ja keskmise suurusega ettevõtete määratlust (ELT L 124, 20.05.2003, lk 36–41), lisa artikli 2 lõike 3 tähenduses mikroettevõtja, välja arvatud loomade tapmisega tegelev käitleja. Käitleja mikroettevõtjana käsitamiseks arvestatakse tema maksustatava käibena üksnes toidu käitlemisega seotud käivet.\n(3^3) Käesoleva paragrahvi lõikes 3^1 sätestatud ettevõtte ehituse, projektlahenduse ja seadmete hügieeninõudeid tohib rakendada loomade tapmisega tegeleva käitleja ettevõttes, kus tapetakse loomi või käideldakse ulukeid üksnes osa tööpäeva jooksul või kus tapetakse loomi ja käideldakse ulukeid kogu tööpäeva jooksul, aga mitte igal tööpäeval nädalas, ning kus tapetakse:\n1) kuni 1000 loomühikule vastaval arvul loomi aastas;\n2) kuni 200 loomühikule vastaval arvul loomi aastas, kui samas ruumis tegeletakse ka lihalõikusega, või\n3) kuni 150 000 kodulindu, jäneselist või väikeulukit aastas.\n(3^4) Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 852/2004 II lisa III peatükis nimetatud põhiliselt elamiseks kasutatavas käitlemiskohas toitu turule viimiseks valmistav käitleja, kellel toidu käitlemisega seotud maksustatav käive ei ületa 40 000 eurot kalendriaastas, tohib rakendada käesoleva paragrahvi lõikes 3^1 sätestatud jaekaubandusettevõttes loomse toidu käitlemise hügieeninõudeid.\n(4) Pädev asutus Euroopa Parlamendi ja nõukogu määruste (EÜ) nr 852/2004 ja nr 853/2004 tähenduses on Põllumajandus- ja Toiduamet.\n(5) Toiduhügieeninõuete täitmisel võib käitleja kasutada abivahendina hea hügieenitava juhendit (edaspidi juhend ), mille töötab välja käitleja, käitlejate ühendus või mõni muu huvitatud osapool koostöös muude asjaomaste osapooltega. Juhendi väljatöötamisel arvestatakse ÜRO Toidu ja Põllumajanduse Organisatsiooni (FAO) ning Maailma Terviseorganisatsiooni (WHO) ühise standardiprogrammi Codex Alimentarius standardeid.\n(6) Käesoleva paragrahvi lõikes 5 viidatud juhendis esitatud soovituste kooskõla toiduhügieeninõuetega hindab Põllumajandus- ja Toiduamet, kellel on õigus teha ettepanekuid juhendi muutmise kohta.\n(7) Käesoleva paragrahvi lõikes 5 nimetatud isik esitab Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 852/2004 artiklis 7 toodud nõuetele vastavaks hinnatud juhendi Regionaal- ja Põllumajandusministeeriumile, kes edastab selle nimetatud määruses sätestatud juhtudel Euroopa Komisjonile."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - KÄITLEMISE ÜLDNÕUDED",
+      "section": "27",
+      "title": "§ 27. Ettevõtte töötaja",
+      "content": "(1) Käitleja on kohustatud töötajale selgitama õigusaktidest tulenevaid käitlemisnõudeid ning kontrollima nende täitmist.\n(2) Toitu käitleval töötajal peavad olema kutseteadmised ning ta peab tundma ja järgima toiduhügieeninõudeid.\n(3) Töötaja, kes toitu vahetult ei käitle, peab tundma ja järgima toiduhügieeninõudeid toidu ohutuse tagamiseks vajalikus ulatuses.\n(4) Töötaja toiduhügieenialase juhendamise korraldab käitleja."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - KÄITLEMISE ÜLDNÕUDED",
+      "section": "28",
+      "title": "§ 28. Töötaja tervisekontroll",
+      "content": "Töötaja tervisekontrolli suhtes kohaldatakse nakkushaiguste ennetamise ja tõrje seadust."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - KÄITLEMISE ÜLDNÕUDED",
+      "section": "29",
+      "title": "§ 29. Toiduhügieenikoolitus ettevõttes",
+      "content": "(1) Käitleja peab koostama ettevõtte toiduga kokkupuutuvate töötajate toiduhügieenikoolituse kava, milles nähakse ette koolituse eesmärgid, maht, sagedus ja kord.\n(2) Koolituskava alusel korraldab käitleja perioodiliselt töötajate tööülesannetele vastavat toiduhügieenikoolitust ja hindab töötajate toiduhügieenialaseid teadmisi.\n(3) Koolituskava täitmist jälgib korrakaitseorgan, kellel on õigus teha ettepanekuid koolituskava muutmiseks ja täiendamiseks ning anda selgitusi selle koostamise kohta.\n(4) Käesoleva paragrahvi lõigetes 1–3 sätestatud nõuded ei laiene tootjale, kelle suhtes kohaldatakse Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 852/2004 lisa I nõudeid, ning tootjale, kelle suhtes ei kohaldata Euroopa Parlamendi ja nõukogu määruste (EÜ) nr 852/2004 ja nr 853/2004 nõudeid, kui teistes seadustes või nende alusel kehtestatud õigusaktides ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "4. peatükk - KÄITLEMISE ÜLDNÕUDED",
+      "section": "30",
+      "title": "§ 30. Puhastamine, desinfitseerimine ja kahjuritõrje",
+      "content": "(1) Käitleja peab ettevõtte, selle territooriumi ning ruumide, sisseseade ja käitlemisvahendite puhastamiseks ja desinfitseerimiseks ning kahjuritõrjeks kasutama üksnes neid vahendeid ja aineid ning ainult sel viisil, mis ei põhjusta toidu saastumist, ei halvenda selle omadusi ega ohusta inimese tervist. Puhastamis-, desinfitseerimis- ja kahjuritõrjeaineid peab kasutama vastavalt nimetatud ainete tootja koostatud kasutusjuhendile.\n(2)"
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "4. peatükk - KÄITLEMISE ÜLDNÕUDED",
+      "section": "31",
+      "title": "§ 31. Toiduga kokkupuutumiseks ettenähtud materjalid ja esemed",
+      "content": "(1) Toiduga kokkupuutumiseks ettenähtud materjalid ja esemed ei tohi põhjustada toidu saastumist, halvendada selle omadusi ega ohustada inimese tervist ning peavad vastama toiduga kokku puutuda lubatud materjalide ja esemete kohta esitatud nõuetele.\n(2) Toiduga kokku puutuda lubatud materjalide ja esemete kohta esitatavad nõuded, nende gruppide kohta esitatavad erinõuded ning nimetatud materjalide ja esemete ohutuse katsetamise meetodid kehtestab valdkonna eest vastutav minister määrusega.\n(3)\n(4)"
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - KÄITLEMISE ÜLDNÕUDED",
+      "section": "32",
+      "title": "§ 32. Kasutatav vesi",
+      "content": "(1) Ettevõte peab olema varustatud piisava hulga veeseaduse alusel kehtestatud joogivee nõuetele vastava veega (edaspidi joogivesi ).\n(2)"
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "5. peatükk - KÄITLEJA ENESEKONTROLL",
+      "section": "34",
+      "title": "§ 34. Enesekontrollikohustus",
+      "content": "(1) Käitleja on kohustatud kontrollima toidu ja selle käitlemise nõuetekohasust (edaspidi enesekontroll ) ning rakendama abinõud selle tagamiseks. Rakendatavaid abinõusid kirjeldatakse enesekontrolliplaanis. Enesekontroll koos kirjalikult vormistatud enesekontrolliplaaniga moodustab enesekontrollisüsteemi.\n(2) Käitleja peab määrama kindlaks toidu ohutuse seisukohalt olulised käitlemisetapid, sealhulgas kriitilised kontrollpunktid, kontrollima neid ning registreerima kontrolli tulemused Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 852/2004 artikli 5 ning Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 853/2004 nõuete kohaselt.\n(3)\n(4)\n(5)\n(5^1) Enesekontrolli raames võetud proovide analüüsimise korral rakendatakse asjakohast kvaliteedisüsteemi.\n(6)"
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "5. peatükk - KÄITLEJA ENESEKONTROLL",
+      "section": "35",
+      "title": "§ 35. Vastavusdeklaratsioon",
+      "content": "(1) Toidu nõuetekohasust tõendav vastavusdeklaratsioon on toidu valmistaja antud kirjalik dokument, milles kinnitatakse, et toit vastab õigusaktides sätestatud või muudele nõuetele. Vastavusdeklaratsioon antakse edasise käitleja nõudel.\n(2) Vastavusdeklaratsiooniga kinnitatakse, et toit vastab deklaratsioonis loetletud nõuetele, kui edasisel käitlemisel järgitakse väljaandja esitatud tingimusi.\n(3) Vastavusdeklaratsioon antakse kindlaksmääratud ajaks sama toidu jätkuvaks valmistamiseks või partii kohta. Partiina käsitatakse ühesuguse nimetuse ja ühesuguste omadustega ning ühesugustel tingimustel toodetud, valmistatud või pakendatud toidukogust. Partiil peab olema kindel tähistus.\n(4) Kui vastavusdeklaratsioon on antud toidu jätkuvaks valmistamiseks, peavad sellega hõlmatavad partiid olema vastavusdeklaratsiooniga seostatavad. Partii kohta antud vastavusdeklaratsioonis peab olema viide konkreetsele partiile."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "5. peatükk - KÄITLEJA ENESEKONTROLL",
+      "section": "36",
+      "title": "§ 36. Vastavusdeklaratsiooni sisu",
+      "content": "Vastavusdeklaratsioonis peavad olema järgmised andmed:\n1) väljaandja nimi, asukoha aadress ning vastavusdeklaratsiooni tähis;\n2) toidu nimetus ja teised toidu määratlemiseks vajalikud andmed;\n3) viide nõuetele, millele vastavust tõendatakse;\n4) väljaandmise kuupäev ning vastavusdeklaratsiooni välja andnud isiku nimi, allkiri ja ametikoht."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "5. peatükk - KÄITLEJA ENESEKONTROLL",
+      "section": "37",
+      "title": "§ 37. Sertifitseerimine",
+      "content": "(1) Sertifitseerimine on menetlus, mille käitleja kirjaliku taotluse alusel korraldab kolmas sõltumatu osapool (edaspidi sertifitseerimisasutus ), et tõendada käitleja kvaliteedisüsteemi või konkreetse käideldava toidu vastavust nõuetele, millele vastavuse tõendamist taotletakse.\n(2) Sertifitseerimine on vabatahtlik ning sertifitseerimiseks tehtud kulutused kannab sertifitseerimist taotlenud käitleja.\n(3) Sertifitseerimise positiivse tulemuse korral väljastab sertifitseerimisasutus kvaliteedisüsteemi või toidu nõuetele vastavust kinnitava vastavussertifikaadi."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "6. peatükk - TEABE ESITAMINE",
+      "section": "38",
+      "title": "§ 38. Teabele esitatavad nõuded",
+      "content": "(1) Toidualane teave käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EL) nr 1169/2011, milles käsitletakse toidualase teabe esitamist tarbijatele ning millega muudetakse Euroopa Parlamendi ja nõukogu määrusi (EÜ) nr 1924/2006 ja (EÜ) nr 1925/2006 ning tunnistatakse kehtetuks komisjoni direktiiv 87/250/EMÜ, nõukogu direktiiv 90/496/EMÜ, komisjoni direktiiv 1999/10/EÜ, Euroopa Parlamendi ja nõukogu direktiiv 2000/13/EÜ, komisjoni direktiivid 2002/67/EÜ ja 2008/5/EÜ ning komisjoni määrus (EÜ) nr 608/2004 (ELT L 304, 22.11.2011, lk 18–63), artikli 2 lõike 2 punktis a sätestatud teave.\n(2) Toidualane teave peab olema tõene, vastama õigusaktidega kehtestatud nõuetele ega tohi käitlejat ja tarbijat eksitada. Tarbijale müüdav või muul viisil üleantav toit peab olema märgistatud viisil, mis tagab toidu kohta vajaliku teabe saamise.\n(3) Eestis tarbijale müüdava või muul viisil üleantava toidu puhul esitatakse toidualane teave eesti keeles, välja arvatud juhul, kui teave on teises keeles või muul viisil esitatuna tarbijale arusaadav.\n(4) Toidualase teabe esitamise nõuded toidugruppide või töötlemisviiside kaupa kehtestab valdkonna eest vastutav minister määrusega.\n(5) Müügipakendisse pakendamata toidu toidualase teabe esitamise nõuded Euroopa Parlamendi ja nõukogu määruse (EL) nr 1169/2011 artikli 44 lõike 1 punkti b ja lõike 2 rakendamiseks kehtestab valdkonna eest vastutav minister määrusega.\n(6) Toidupartii tähistamise nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "6. peatükk - TEABE ESITAMINE",
+      "section": "40",
+      "title": "§ 40. Märgistuse muutmise piirang",
+      "content": "(1) Märgistuse muutmist toidu tegelikke omadusi muutmata käsitatakse toidu võltsimisena, välja arvatud märgistuse täpsustamine ja eksitava märgistuse parandamine.\n(2) Toitu, mille müügipakendile on märgitud tarvitamise tähtpäev või minimaalse säilimisaja tähtpäev, on keelatud ümber pakendada. Samuti ei tohi muuta müügipakendil olevat kuupäeva ega turustada toitu pärast tarvitamise tähtpäeva möödumist."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "7. peatükk - TOIDU EESTISSE TOIMETAMINE JA EKSPORT",
+      "section": "41",
+      "title": "§ 41. Toidu Eestisse toimetamine ja ekspordi tingimused",
+      "content": "(1) Toidu Eestisse toimetamine käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 3 punktis 40 sätestatud tegevus.\n(1^1) Toidu Eestisse toimetamine ja eksport on lubatud riigipiiri seaduse alusel rahvusvaheliseks liikluseks avatud piiripunkti kaudu.\n(2)\n(3)\n(3^1)\n(3^2) Kui toidu Eestisse toimetamise korral peab Euroopa Liidu asjakohasest õigusaktist tulenevalt kontrollima selle nõuetekohasust piiripunktis või imporditava toidu ametliku kontrollimise kohas, on lubatud sellist toitu Eestisse toimetada üksnes Põllumajandus- ja Toiduameti määratud piiripunkti või imporditava toidu ametliku kontrollimise koha kaudu.\n(4) Käesolevas peatükis sätestatud nõudeid ei kohaldata Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 47 lõike 2 punkti a alusel kehtestatud loetelus nimetatud toidu suhtes."
+    },
+    {
+      "provision_ref": "para42^1",
+      "chapter": "7. peatükk - TOIDU EESTISSE TOIMETAMINE JA EKSPORT",
+      "section": "42^1",
+      "title": "§ 42^1. Piiripunkt",
+      "content": "(1) Riigipiiri seaduse alusel rahvusvaheliseks liikluseks avatud piiripunkti omaniku või valdaja taotluse alusel määrab Põllumajandus- ja Toiduamet piiripunkti, mille kaudu on lubatud toitu Eestisse toimetada (edaspidi piiripunkt ), kui piiripunkti määramise õigus on Euroopa Liidu asjakohase õigusakti kohaselt liikmesriigil.\n(2) Piiripunktide loetelu avalikustatakse Põllumajandus- ja Toiduameti veebilehel Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artiklis 60 sätestatud nõuete kohaselt.\n(3) Põllumajandus- ja Toiduamet esitab Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 59 lõike 2 kohase teate piiripunkti määramise kavatsuse kohta Euroopa Komisjonile.\n(4) Pärast Euroopa Komisjonilt Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 59 lõigetes 3–5 sätestatud teate saamist teeb Põllumajandus- ja Toiduamet viivitamata asjakohase otsuse.\n(5) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 62 lõikes 1 ning artikli 63 lõigetes 1 ja 4 sätestatud juhul teeb Põllumajandus- ja Toiduamet asjakohase otsuse ja muudatuse piiripunktide loetelus ning teavitab sellest Euroopa Komisjoni ja teisi liikmesriike nimetatud määruse artiklite 62 ja 63 kohaselt.\n(6) Käesoleva paragrahvi lõikes 1 sätestatud piiripunkti määramise taotluse sisu nõuded ning taotluse menetlemise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para42^2",
+      "chapter": "7. peatükk - TOIDU EESTISSE TOIMETAMINE JA EKSPORT",
+      "section": "42^2",
+      "title": "§ 42^2. Imporditava toidu ametliku kontrollimise koht",
+      "content": "(1) Põllumajandus- ja Toiduamet määrab imporditava toidu ametliku kontrollimise koha isiku taotluse alusel, kui selle määramise õigus on Euroopa Liidu asjakohase õigusakti kohaselt liikmesriigil. Ametliku kontrollimise koht asub Maksu- ja Tolliameti aktsepteeritud kohas.\n(2) Põllumajandus- ja Toiduameti veebilehel avalikustatakse Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 53 lõikes 2 viidatud nõuete kohaselt imporditava toidu ametliku kontrollimise kohtade loetelu.\n(3) Kui ametliku kontrollimise koht vastab Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 53 lõike 1 punktis a viidatud nõuetele, teeb Põllumajandus- ja Toiduamet imporditava toidu ametliku kontrollimise koha määramise otsuse.\n(4) Kui ametliku kontrollimise koht ei vasta Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 53 lõike 1 punktis a viidatud nõuetele, teeb Põllumajandus- ja Toiduamet imporditava toidu ametliku kontrollimise koha määramisest keeldumise otsuse.\n(5) Põllumajandus- ja Toiduamet teeb käesoleva paragrahvi lõikes 3 või 4 sätestatud otsuse 30 tööpäeva jooksul imporditava toidu ametliku kontrollimise koha määramise taotluse saamisest arvates.\n(6) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 62 lõikes 1 ning artikli 63 lõigetes 1 ja 4 sätestatud juhul ning artikli 53 lõiget 2 arvestades teeb Põllumajandus- ja Toiduamet asjakohase otsuse ja muudatuse imporditava toidu ametliku kontrollimise kohtade loetelus ning teavitab sellest Euroopa Komisjoni ja teisi liikmesriike nimetatud määruse artiklite 62 ja 63 kohaselt.\n(7) Käesoleva paragrahvi lõikes 1 sätestatud imporditava toidu ametliku kontrollimise koha määramise taotluse sisu nõuded ning taotluse menetlemise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "7. peatükk - TOIDU EESTISSE TOIMETAMINE JA EKSPORT",
+      "section": "43",
+      "title": "§ 43. Ametlik kontroll ja muud ametlikud toimingud toidu eksportimise korral",
+      "content": "(1)\n(2)\n(3)\n(4) Toidu eksportimise korral väljastab Põllumajandus- ja Toiduamet ametliku sertifikaadi (edaspidi sertifikaat ), kui selle esitamist nõutakse väljaspool Euroopa Liidu tolliterritooriumi asuvas riigis.\n(5) Põllumajandus- ja Toiduamet avalikustab sertifikaadi tüübi ja vormi ning sertifikaadil oleva asjakohase teabe toidu kohta oma veebilehel, võttes aluseks väljaspool Euroopa Liidu tolliterritooriumi asuva riigi nõuded.\n(6) Sertifikaadi saamiseks esitatakse Põllumajandus- ja Toiduametile kirjalik taotlus vähemalt 24 tundi enne toidu eksportimist.\n(7) Käesoleva paragrahvi lõikes 6 nimetatud taotlus peab sisaldama asjakohaseid andmeid, mis võimaldavad teha ametlikku kontrolli ja täita sertifikaadi vormi. Põllumajandus- ja Toiduamet võib nõuda, et taotleja esitab vajalikud andmed ka sihtriigi keeles.\n(8) Sertifikaati ei väljastata, kui Põllumajandus- ja Toiduamet on kindlaks teinud vähemalt ühe järgmistest asjaoludest:\n1) toit ei vasta asjakohastele nõuetele;\n2) taotlus ei ole esitatud käesoleva paragrahvi lõigetes 6 ja 7 sätestatud nõuete kohaselt;\n3) taotluses on esitatud valeandmeid."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "7. peatükk - TOIDU EESTISSE TOIMETAMINE JA EKSPORT",
+      "section": "44",
+      "title": "§ 44. Toidu Eestisse toimetamisest teavitamine",
+      "content": "(1) Sellise toidu Eestisse toimetamisest, mida tuleb Euroopa Liidu asjakohasest õigusaktist tulenevalt ametlikult kontrollida piiripunktis või imporditava toidu ametliku kontrollimise kohas, teavitatakse Põllumajandus- ja Toiduametit vähemalt üks tööpäev enne toidu esitamist ametlikuks kontrolliks.\n(2)"
+    },
+    {
+      "provision_ref": "para46^1",
+      "chapter": "7. peatükk - TOIDUGA VARUSTAMINE",
+      "section": "46^1",
+      "title": "§ 46^1. Toiduga varustamise tagamine",
+      "content": "(1) Toiduga varustamise tagamiseks rakendatakse käesolevas peatükis ja hädaolukorra seaduses sätestatud meetmeid.\n(2) Hädaolukorras või selle ohu, eriolukorra, erakorralise seisukorra, kõrgendatud kaitsevalmiduse või sõjaseisukorra ajal tagatakse elanikkonna toiduga varustamine ulatuses, mis on vajalik elanikkonna esmavajaduste rahuldamiseks."
+    },
+    {
+      "provision_ref": "para46^2",
+      "chapter": "7. peatükk - TOIDUGA VARUSTAMINE",
+      "section": "46^2",
+      "title": "§ 46^2. Toiduga varustamise tagamine elutähtsa teenuse kaudu",
+      "content": "(1) Toiduga varustamine tagatakse eelkõige elutähtsa teenuse osutaja tegevuse kaudu tema valdkonnas.\n(2) Ettevõtja on elutähtsa teenuse osutaja hädaolukorra seaduse § 36 lõikes 5 nimetatud elutähtsa teenuse puhul, kui tema majandustegevuse katkemine või lõpetamine mõjutab märkimisväärselt elanikkonna toiduga varustamist, sealhulgas ühe valdkonna või toidugrupi korral, ja kelle valdkonna eest vastutav minister on määranud haldusaktiga elutähtsa teenuse osutajaks.\n(3) Käesoleva paragrahvi lõikes 2 sätestatud toiduga varustamise valdkonnad on:\n1) teravilja-, pagari- või makarontoodete tootmine;\n2) liha käitlemine;\n3) piima käitlemine.\n(4) Käesolevas peatükis käsitatakse konkurentsiseaduse § 2 lõike 4 tähenduses valitseva mõju kaudu seotud ettevõtjaid ning tulundusühistut ja tema liikmeid ühe ettevõtjana."
+    },
+    {
+      "provision_ref": "para46^3",
+      "chapter": "7. peatükk - TOIDUGA VARUSTAMINE",
+      "section": "46^3",
+      "title": "§ 46^3. Elutähtsa teenuse osutaja",
+      "content": "(1) Käesoleva seaduse § 46^2 lõikes 3 sätestatud valdkonnas mõjutab märkimisväärselt elanikkonna toiduga varustamist ettevõtja, kelle selle valdkonna aasta müügitulu on võrreldes teiste samas valdkonnas tegutsevate ettevõtjate müügituluga suurim.\n(2) Käesoleva seaduse § 46^2 lõike 3 punktis 1 sätestatud teravilja-, pagari- või makarontoodete tootmises võetakse aluseks selle valdkonna ettevõtja aasta müügitulu suurus.\n(3) Käesoleva seaduse § 46^2 lõike 3 punktis 2 sätestatud liha käitlemises võetakse aluseks selle valdkonna ettevõtja aasta müügitulu suurus.\n(4) Käesoleva seaduse § 46^2 lõike 3 punktis 3 sätestatud piima käitlemises võetakse aluseks selle valdkonna ettevõtja aasta müügitulu suurus."
+    },
+    {
+      "provision_ref": "para46^4",
+      "chapter": "7. peatükk - TOIDUGA VARUSTAMINE",
+      "section": "46^4",
+      "title": "§ 46^4. Elutähtsa teenuse osutaja määramine",
+      "content": "(1) Ettevõtja vastavus käesoleva seaduse §-s 46^3 sätestatud nõuetele tehakse kindlaks tema majandusaasta aruande ning riigi toidu ja sööda käitlejate registri andmete alusel.\n(2) Elutähtsa teenuse osutaja määramisel võetakse aluseks määramise aastale vahetult eelnenud kahe aasta käesoleva paragrahvi lõikes 1 sätestatud andmete keskmised andmed.\n(3) Toiduga varustamise valdkonnas elutähtsa teenuse osutaja määramise täpsemad tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para46^5",
+      "chapter": "7. peatükk - TOIDUGA VARUSTAMINE",
+      "section": "46^5",
+      "title": "§ 46^5. Elutähtsa teenuse osutaja kohustused",
+      "content": "(1) Elutähtsa teenuse osutaja tagab oma valdkonnas elutähtsa teenuse osutamise määratud aja jooksul, mahus ja hinnaga, tehes seda vajaduse korral toidugruppide või tegevuse liikide kaupa.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud elutähtsa teenuse osutamise täpsemad nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "8. peatükk - RIIKLIKU JÄRELEVALVE ÜLDINE KORRALDUS",
+      "section": "47",
+      "title": "§ 47. Riiklik ja haldusjärelevalve",
+      "content": "(1) Põllumajandus- ja Toiduamet teostab riiklikku ja haldusjärelevalvet kõigis käitlemisvaldkondades ning Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1935/2004 artikli 1 lõikes 2 nimetatud materjalide ja esemete üle.\n(2)\n(3) Põllumajandus- ja Toiduamet teeb valla- või linnavalitsusega koostööd teabe edastamisel valla või linna territooriumil toimuva sellise avaliku ürituse kohta, kus käideldakse toitu.\n(4) Järelevalvet teostatakse Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 ning muude asjakohaste õigusaktide järelevalvet käsitlevate sätete kohaselt.\n(5) Valdkonna eest vastutav minister nimetab asjaomaste ministritega kooskõlastatult Euroopa Liidu õigusaktide rakendamise eest vastutavad pädevad asutused, liikmesriikidega järelevalvekoostööd koordineerivad kontaktasutused ja muud sellised asutused ning teatab nendest Euroopa Komisjonile juhul, kui selliste asutuste nimetamine on ette nähtud Euroopa Liidu õigusaktis.\n(6) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 109 lõikes 2 nimetatud mitmeaastase kontrollikava eest vastutav asutus ja artiklis 115 nimetatud situatsiooniplaani koostamist koordineeriv asutus on Põllumajandus- ja Toiduamet. Põllumajandus- ja Toiduamet esitab mitmeaastase kontrollikava ning kava täitmise aastaaruande Euroopa Komisjonile nimetatud määruse artikli 113 kohaselt.\n(7) Vabariigi Valitsus võib kehtestada korrakaitseorganite vahelise koostöö korra käesoleva paragrahvi lõikes 6 nimetatud situatsioonplaani ja mitmeaastase kontrollikava väljatöötamiseks."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "8. peatükk - RIIKLIKU JÄRELEVALVE ÜLDINE KORRALDUS",
+      "section": "48",
+      "title": "§ 48. Riikliku järelevalve erimeetmed",
+      "content": "(1) Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50, 51, 52 ja 53 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud õigused on ka Euroopa Komisjoni eksperdil Euroopa Liidu õigusaktis sätestatud nõuete täitmise kontrollimisel Euroopa Liidu õigusaktis sätestatud tingimustel ja korras.\n(3) Korrakaitseorgan kohaldab Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artiklis 138 sätestatud meetmeid järgmiste rikkumiste tuvastamise korral:\n1) mittenõuetekohane toit;\n2) toidu mittenõuetekohane käitlemine;\n3) mittenõuetekohased toiduga kokkupuutumiseks ettenähtud materjalid ja esemed;\n4) toiduga kokkupuutumiseks ettenähtud materjalide ja esemete mittenõuetekohane valmistamine, töötlemine ja turustamine.\n(4) Mittenõuetekohase toidu ning mittenõuetekohaste toiduga kokkupuutumiseks ettenähtud materjalide ja esemete Eestisse toimetamise korral kohaldab korrakaitseorgan Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artiklites 66–69 sätestatud meetmeid."
+    },
+    {
+      "provision_ref": "para48^1",
+      "chapter": "8. peatükk - RIIKLIKU JÄRELEVALVE ÜLDINE KORRALDUS",
+      "section": "48^1",
+      "title": "§ 48^1. Kiirhoiatussüsteemi rakendamine ning järelevalvekoostöö Euroopa Liidu liikmesriikidega",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 178/2002 artiklis 50 nimetatud kiirhoiatussüsteemi kontaktasutus Eestis on Põllumajandus- ja Toiduamet.\n(2) Kui riikliku järelevalve käigus on kindlaks tehtud, et toit on otseselt või kaudselt inimese tervisele ohtlik ja seda võidakse turule viia mõnes muus Euroopa Liidu liikmesriigis, või kui selline toit on avastatud kauba Eestisse toimetamisel, teavitab Maksu- ja Tolliamet ohust Põllumajandus- ja Toiduametit, kes teavitab sellest käesoleva paragrahvi lõikes 1 nimetatud kiirhoiatussüsteemi kaudu Euroopa Komisjoni.\n(3) Kui Euroopa Komisjon on käesoleva paragrahvi lõikes 1 nimetatud kiirhoiatussüsteemi kaudu edastanud Põllumajandus- ja Toiduametile ohuteate mõnes Euroopa Liidu liikmesriigis tuvastatud ohtlikust toidust, edastab Põllumajandus- ja Toiduamet selle teate Maksu- ja Tolliametile ning Terviseametile. Korrakaitseorganid viivad läbi uurimise võimaliku ohu esinemise kohta Eestis ning teavitavad saadud tulemustest Põllumajandus- ja Toiduametit.\n(4) Põllumajandus- ja Toiduamet on järelevalvekoostöö kontaktasutus Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 103 lõike 1 tähenduses.\n(5) Muu korrakaitseorgan, haldusorgan või valitsusasutus teatab Põllumajandus- ja Toiduametile viivitamata, kui esineb järgmine võimalik nõuete rikkumine seoses toiduga, sealhulgas toidualase teabega, toidu käitlemisega ning toiduga kokkupuutumiseks ettenähtud materjalide ja esemetega:\n1) rikkumine, mis võib kujutada ohtu inimese tervisele või keskkonnale;\n2) rikkumine, mis on toime pandud tegelikest asjaoludest teadvalt ebaõige ettekujutuse loomise teel."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "8. peatükk - RIIKLIKU JÄRELEVALVE ÜLDINE KORRALDUS",
+      "section": "49",
+      "title": "§ 49. Riikliku järelevalve erisused",
+      "content": "(1) Korrakaitseorgani ametnikul on ametitõendi esitamisel õigus kontrollida:\n1) ettevõtte, selle territooriumi, ruumide, seadmete, sisseseade ning veovahendite seisundit ja kasutamist;\n2) toidu koostisosi, abiaineid ja muid toidu valmistamiseks kasutatavaid tooteid;\n3) toitu, sealhulgas toitu selle valmistamise käigus;\n4) toiduga kokkupuutumiseks ettenähtud materjale ja esemeid;\n5) puhastamis-, desinfitseerimis- ja kahjuritõrjevahendeid, -aineid ning -viise;\n6) toidu käitlemist, sealhulgas toidu töötlemis-, valmistamis- ja säilitamisviise;\n7) toidualase teabe esitamist.\n(2) Lisaks käesoleva paragrahvi lõikes 1 sätestatule on korrakaitseorganil õigus:\n1) kontrollida oma tööülesannete tõttu otseselt või kaudselt käesoleva paragrahvi lõike 1 punktides 2–5 nimetatuga kokkupuutuvate isikute hügieeninõuete täitmist, sealhulgas nende isiklikku puhtust ja riietust, sõltumata käesoleva seaduse § 28 lõikes 1 nimetatud tervisekontrolli läbimisest, ning hinnata töötajate hügieeniteadmisi;\n2) kontrollida enesekontrollinõuete täitmist ja tutvuda enesekontrolli tulemustega ning ettevõttesse paigutatud mõõtevahendite mõõtmistulemustega ja kontrollida nende õigsust, kasutades korrakaitseorgani mõõtevahendeid.\n(3) Ettevõttes, kus käideldakse üksnes liha, võimaldab käitleja järelevalvetoimingute tegemiseks vajaliku töötamiskoha, töövahendid ja -riided.\n(4) Kui on põhjust arvata, et teatud toit võib olla ohtlik inimese tervisele või keskkonnale, peatab asjaomase korrakaitseorgani juht sellise toidu käitlemise. Otsustus vormistatakse korrakaitseorgani juhi käskkirjana, milles näidatakse ära toidu nimetus, vajaduse korral andmed vastava partii kohta ning teised ohtlikku toitu identifitseerida võimaldavad andmed ja käitlemisvaldkonnad, milles käitlemine tuleb peatada. Korrakaitseorgani juht teavitab käskkirjast kohe avalikkust ning teave avaldatakse korrakaitseorgani veebilehel.\n(5) Korrakaitseorgani juht edastab oma käskkirja viivitamata valdkonna eest vastutavale ministrile, kes otsustab toidu käitlemise peatamise käskkirjas näidatud asjaoludel ja tingimustel ning kehtestab sellekohase määruse. Määruses märgitakse lisaks korrakaitseorgani juhi käskkirjas sisalduvatele andmetele ka piirangu tähtaeg, korrakaitseorganite ja isikute kohustused ning ohu kõrvaldamise viis. Korrakaitseorgani juhi käskkiri kehtib kuni valdkonna eest vastutava ministri määruse jõustumiseni.\n(6) Käitlemise piirangu kehtimise ajal määravad asjaomased korrakaitseorganid koostöös kindlaks ohu ulatuse, võtavad tarvitusele vastavad meetmed ja pärast ohu kõrvaldamist teeb käskkirja andnud korrakaitseorgani juht valdkonna eest vastutavale ministrile kirjaliku ettepaneku käitlemise peatamise lõpetamiseks ning valdkonna eest vastutav minister kehtestab vastava määruse.\n(7) Kui eluruumi kasutatakse ka äriruumina, võib korrakaitseorgan selle töö- või lahtioleku ajal läbi vaadata ilma korrakaitseseaduse § 51 lõikes 2 sätestatud halduskohtu loata."
+    },
+    {
+      "provision_ref": "para49^1",
+      "chapter": "8. peatükk - TOIDUJÄRELEVALVE TASU",
+      "section": "49^1",
+      "title": "§ 49^1. Toidujärelevalve tasu",
+      "content": "(1) Toidujärelevalve tasu (edaspidi järelevalvetasu ) on teatamis- või loakohustusega ning selle kohustuse täitnud ettevõtja ettevõtte, toidu ja toidu käitlemise nõuetekohasuse ametliku kontrolli ja muude ametlike toimingute (edaspidi järelevalvetoiming ) tegemise eest käesoleva seaduse alusel kehtestatud määras tasutav summa. Järelevalvetasu makstakse ka toiduga kokkupuutumiseks ettenähtud materjalide ja esemetega seotud järelevalvetoimingu tegemise eest.\n(2) Järelevalvetasu makstakse jaekaubandusettevõttes tehtava ning toiduga seotud järelevalvetoimingu tegemise eest, välja arvatud Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 IV lisa II peatükis nimetatud ettevõttes loomse toiduga seotud järelevalvetoimingu tegemise eest.\n(3) Järelevalvetasu ei maksta esmatootmisega seotud järelevalvetoimingu tegemise eest.\n(4) Järelevalvetasu ei maksa riigi- või kohaliku omavalitsuse üksuse eelarvest rahastatav haridusasutus, sotsiaalasutus või tervishoiuteenuse osutaja asutusesisese toitlustamisega seotud järelevalvetoimingu tegemise eest."
+    },
+    {
+      "provision_ref": "para49^2",
+      "chapter": "8. peatükk - TOIDUJÄRELEVALVE TASU",
+      "section": "49^2",
+      "title": "§ 49^2. Järelevalvetasu maksmiseks kohustatud isik",
+      "content": "(1) Järelevalvetasu maksma kohustatud isik (edaspidi kohustatud isik ) on isik, kelle suhtes on tehtud käesoleva seaduse §-s 49^1 sätestatud järelevalvetoiming.\n(2) Mitu kohustatud isikut vastutavad ühise järelevalvetoimingu eest järelevalvetasu maksmise korral solidaarselt."
+    },
+    {
+      "provision_ref": "para49^3",
+      "chapter": "8. peatükk - TOIDUJÄRELEVALVE TASU",
+      "section": "49^3",
+      "title": "§ 49^3. Järelevalvetasu määramise põhimõtted",
+      "content": "(1) Järelevalvetasu määra arvutamise aluseks võetakse Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artiklis 81 nimetatud kulud, mis on seotud Põllumajandus- ja Toiduameti järelevalvetoimingute tegemisega, sealhulgas veterinaarseaduse § 84 lõikes 3 nimetatud veterinaarjärelevalve toimingute tegemisega.\n(2) Järelevalvetasu võetakse käesoleva seaduse § 49^1 kohaselt tehtavate järelevalvetoimingute eest tunnitasuna, välja arvatud käesoleva paragrahvi lõikes 9 sätestatud laboratoorsete lisauuringute tegemise eest.\n(3) Kohustatud isik maksab tunnitasu toidu järelevalve toimingu tegemisele kulunud aja eest, kuid mitte rohkem kui kaheksa tunni eest järelevalvetoimingu kohta. Järelevalvetoimingule kulutatud aeg arvestatakse poole tunni täpsusega. Arvesse ei võeta järelevalvetoimingu tegemise paika sõiduks kulutatud aega.\n(4) Tunnitasu määra arvutamise aluseks võetakse Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artiklis 81 sätestatud kulud, mis on seotud Põllumajandus- ja Toiduameti toidujärelevalve toimingute tegemisega. Toidujärelevalve toimingutega seotud töötasu ja majanduskulu, sealhulgas laboratoorsete analüüside ja uuringute kulu arvutamisel lähtutakse tegelikust kulust toimingueelsel kalendriaastal. Nimetatud ajavahemikul toidujärelevalve toimingutega seotud kogukulu jagatakse samal ajavahemikul järelevalvetoimingute tegemisele, välja arvatud laboratoorsete analüüside ja uuringute tegemisele, kulunud töötundidega.\n(4^1) Käesoleva paragrahvi lõikes 4 nimetatud toidujärelevalve toimingutega seotud majanduskulu arvutamisel ei võeta arvesse lõikes 9 nimetatud laboratoorsete lisauuringute kulu.\n(5) Toidu järelevalve toimingu tegemise eest võetava tunnitasu määra igaks aastaks kehtestab valdkonna eest vastutav minister.\n(6) Sellise toidu puhul, mida tuleb Euroopa Liidu asjakohasest õigusaktist tulenevalt ametlikult kontrollida piiripunktis või imporditava toidu ametliku kontrollimise kohas, tasub kohustatud isik järelevalvetoimingute tegemise eest järelevalvetasu tunnitasuna kõigi tariifsete klassifikatsioonide kohta ühel tollideklaratsioonil.\n(7) Toidu järelevalve toimingu käigus on Põllumajandus- ja Toiduametil õigus võtta hilinenud kaubasaadetise ooteaja ja isiku taotlusel väljaspool tööaega tehtud järelevalvetoimingu eest lisatasu järgmiselt:\n1) hilinenud kaubasaadetise ooteaja eest tööajal võetakse lisatasu tunnitasuna järelevalvetoimingut teinud ametniku kohta käesoleva paragrahvi lõike 3 kohaselt;\n2) hilinenud kaubasaadetise ooteaja eest väljaspool tööaega ja isiku taotlusel väljaspool tööaega tehtud järelevalvetoimingu eest võetakse lisatasu kahekordse tunnitasuna järelevalvetoimingut tegeva ametniku kohta käesoleva paragrahvi lõike 3 kohaselt.\n(8) Käesoleva paragrahvi lõike 7 alusel makstavale lisatasule kohaldatakse käesoleva seaduse §-s 49^4 sätestatud korda.\n(9) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 79 lõike 2 punktis c sätestatud juhul maksab kohustatud isik toidujärelevalve lisatoimingute eest järelevalvetasu tunnitasuna käesoleva paragrahvi lõike 3 kohaselt. Kui tuvastatud nõuete rikkumisega seoses on vaja teha laboratoorseid lisauuringuid, maksab kohustatud isik järelevalvetasu ka nende uuringute kogukulu ulatuses."
+    },
+    {
+      "provision_ref": "para49^4",
+      "chapter": "8. peatükk - TOIDUJÄRELEVALVE TASU",
+      "section": "49^4",
+      "title": "§ 49^4. Järelevalvetasu maksmine",
+      "content": "(1) Põllumajandus- ja Toiduamet teeb eelmise kalendrikuu jooksul tehtud toidujärelevalve toimingute eest järelevalvetasu sissenõudmise otsuse iga kalendrikuu seitsmendaks kuupäevaks.\n(2) Järelevalvetasu sissenõudmise otsus tehakse kohustatud isikule teatavaks viie tööpäeva jooksul otsuse tegemise päevast arvates elektroonilise kättetoimetamisega, kui isik on andnud selleks nõusoleku.\n(2^1) Käesoleva paragrahvi lõikes 2 sätestatud juhul loetakse järelevalvetasu sissenõudmise otsus haldusmenetluse seaduse § 27 lõike 2 punktides 3 ja 4 nimetamata kohustatud isikule kätte toimetatuks, kui kohustatud isiku e-posti aadressil on saadetud otsus või otsuse väljavõte.\n(2^2) Kui kohustatud isik ei ole andnud nõusolekut, et järelevalvetasu sissenõudmise otsus tehakse talle teatavaks elektroonilise kättetoimetamisega, teeb Põllumajandus- ja Toiduamet nimetatud otsuse isikule teatavaks, toimetades otsuse paberärakirja või -väljavõtte talle kätte otse või posti teel viie tööpäeva jooksul otsuse tegemise päevast arvates.\n(3) Kohustatud isik kannab järelevalvetasu üle otsuses näidatud pangakontole 28 päeva jooksul järelevalvetasu sissenõudmise otsuse saamise päevast arvates.\n(3^1) Kui kohustatud isik ei maksa järelevalvetasu käesoleva paragrahvi lõikes 3 nimetatud tähtaja jooksul, on Põllumajandus- ja Toiduametil õigus anda järelevalvetasu sissenõudmise otsus sundtäitmisele täitemenetluse seadustikus sätestatud korras.\n(4) Toidu Eestisse toimetamise korral maksab kohustatud isik järelevalvetasu enne kauba tolliprotseduurile suunamist Põllumajandus- ja Toiduameti esitatud järelevalvetasu sissenõudmise otsuses märgitud summas.\n(5) Põllumajandus- ja Toiduamet võib toidu Eestisse toimetamise korral vabastada kohustatud isiku järelevalvetasu maksmisest enne kauba tolliprotseduurile suunamist, kui on täidetud mõlemad järgmised tingimused:\n1) kohustatud isik on esitanud küllaldase garantii;\n2) kohustatud isik on varem maksnud järelevalvetasu õiges suuruses ja õigel ajal.\n(6) Järelevalvetasu maksmise, sularahas vastuvõtmise ja maksmise kontrollimise korra kehtestab valdkonna eest vastutav minister määrusega.\n(7)\n(8)"
+    },
+    {
+      "provision_ref": "para49^5",
+      "chapter": "8. peatükk - TOIDUJÄRELEVALVE TASU",
+      "section": "49^5",
+      "title": "§ 49^5. Enammakstud järelevalvetasu tagastamine",
+      "content": "(1) Põllumajandus- ja Toiduamet teeb enammakstud järelevalvetasu tagastamise otsuse ning tagastab kohustatud isikule ettenähtust suuremas summas makstud järelevalvetasu (edaspidi enammakstud järelevalvetasu ) esimesel võimalusel, kuid hiljemalt kahe kuu möödumisel järelevalvetasu sissenõudmise otsuse tegemise kuupäevast.\n(2) Kohustatud isikul on õigus taotleda enammakstud järelevalvetasu tagastamist kahe aasta jooksul järelevalvetasu maksmise päevast arvates, kui enammakstud järelevalvetasu ei ole käesoleva paragrahvi lõike 1 kohaselt tagastatud.\n(3) Enammakstud järelevalvetasu tagastamise taotlemiseks esitab kohustatud isik Põllumajandus- ja Toiduametile sellekohase kirjaliku taotluse ja järelevalvetasu maksmist tõendava dokumendi.\n(4) Käesoleva paragrahvi lõikes 3 sätestatud juhul teeb Põllumajandus- ja Toiduamet enammakstud järelevalvetasu tagastamise või sellest keeldumise otsuse kümne tööpäeva jooksul taotluse saamisest arvates.\n(5) Enammakstud järelevalvetasu ei tagastata, kui ei ole võimalik kindlaks teha järelevalvetasu maksnud isikut või isikut, kelle eest on järelevalvetasu makstud, või kui isikul puudub tagasimakse saamise õigus.\n(6) Enammakstud järelevalvetasu tagastamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para51^3",
+      "chapter": "9. peatükk - PROOVIDE VÕTMINE JA ANALÜÜSIMINE NING LABORATOORIUMID",
+      "section": "51^3",
+      "title": "§ 51^3. Proovide võtmine ja analüüsimine ametliku kontrolli ja muude ametlike toimingute tegemisel",
+      "content": "(1) Ametliku kontrolli ja muude ametlike toimingute tegemisel võib vallasasja läbivaatusel võtta isiku kulul proove. Kui läbi vaadatud vallasasja ei ole võimalik pärast läbivaatust tavapäraselt kasutada, ei hüvitata isikule vallasasja või vallasasja tavapäraseks kasutamiseks taastamise maksumust.\n(2) Toidu ja selle käitlemise nõuetekohasuse kontrollimiseks kehtestab valdkonna eest vastutav minister määrusega toidugruppide või määratavate näitajate kaupa proovide võtmise ja analüüsimise meetodid.\n(3)\n(4) Isikul on õigus nõuda, et lisaks käesoleva paragrahvi lõikes 1 nimetatud proovile võetakse samadel tingimustel isiku kulul lisaproov, mis jääb isiku käsutusse.\n(4^1) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artiklis 35 sätestatud teisest eksperdiarvamusest tuleneva Põllumajandus- ja Toiduameti ning käitleja vahelise vaidluse korral võib käitleja taotleda omal kulul algse analüüsi dokumentide läbivaatamist ning vajaduse korral lasta käesoleva paragrahvi lõikes 4 nimetatud proovi omal kulul analüüsida teises, nimetatud määruse artikli 37 lõikes 1 sätestatud laboratooriumis.\n(5) Teise eksperdiarvamuse taotlemisest sõltumata rakendab Põllumajandus- ja Toiduamet Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artiklis 66 või 138 sätestatud vajalikke meetmeid."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "9. peatükk - PROOVIDE VÕTMINE JA ANALÜÜSIMINE NING LABORATOORIUMID",
+      "section": "52",
+      "title": "§ 52. Laboratooriumi volitamine ametliku kontrolli ja muude ametlike toimingute tegemisel võetud proovide analüüsimiseks",
+      "content": "(1) Ametliku kontrolli ja muude ametlike toimingute tegemisel võetud proove analüüsitakse asjakohaste analüüside tegemiseks volitatud ametlikus laboratooriumis (edaspidi volitatud laboratoorium ), mis vastab Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artiklis 37 sätestatud nõuetele.\n(1^1) Volitatud laboratooriumina tegutsema võib Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artiklites 40 ja 42 sätestatud juhtudel volitada ka akrediteerimata laboratooriumi.\n(2)\n(2^1) Kui volitatud laboratooriumina on vaja tegutsema volitada Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 37 lõikes 2 sätestatud laboratoorium, pöördub Põllumajandus- ja Toiduamet asjaomase laboratooriumi poole nõusoleku saamiseks ning algatab nõusoleku korral haldusmenetluse volituse andmiseks.\n(3) Volitatud laboratooriumina tegutsemiseks volituse andmise otsuse teeb 30 tööpäeva jooksul laboratooriumi kirjaliku taotluse saamisest arvates Põllumajandus- ja Toiduamet. Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 37 lõikes 2 sätestatud laboratooriumi volitamise korral teeb Põllumajandus- ja Toiduamet otsuse 45 tööpäeva jooksul asjaomase laboratooriumi nõusoleku saamisest arvates. Volitatud laboratooriumina tegutsemise volituse andmise otsuses märgitakse sama määruse artikli 37 lõikes 3 sätestatud üksikasjalikud andmed ja kirjeldus.\n(4) Volitatud laboratooriumina tegutsemiseks volituse andmise taotluse sisunõuded, taotlusele lisatavate dokumentide loetelu ning taotluse menetlemise korra kehtestab valdkonna eest vastutav minister.\n(5) Põllumajandus- ja Toiduamet võib keelduda volitatud laboratooriumina tegutsemiseks volituse andmisest, kui laboratoorium ei vasta Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 37 lõigetes 4 ja 5 sätestatud nõuetele.\n(5^1) Põllumajandus- ja Toiduamet tunnistab volituse kehtetuks Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 39 lõikes 2 sätestatud juhtudel.\n(6) Laboratooriumile esmakordse volituse andmise taotluse läbivaatamise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määras."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "9. peatükk - PROOVIDE VÕTMINE JA ANALÜÜSIMINE NING LABORATOORIUMID",
+      "section": "53",
+      "title": "§ 53. Referentlaboratoorium",
+      "content": "(1) Riiklik referentlaboratoorium (edaspidi referentlaboratoorium ) käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artiklis 100 sätestatud laboratoorium, kes täidab referentlaboratooriumi ülesandeid toidu valdkonnas.\n(2) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artikli 93 lõikes 1 viidatud iga Euroopa Liidu toidualase referentlaboratooriumi kohta volitatakse tegutsema referentlaboratoorium.\n(3) Referentlaboratooriumina tegutsemise volitus antakse 20 tööpäeva jooksul laboratooriumi kirjaliku taotluse saamisest arvates valdkonna eest vastutava ministri käskkirjaga, milles kirjeldatakse volituse ulatust.\n(4)\n(5) Referentlaboratoorium tegutseb valdkonna eest vastutavale ministrile esitatud ja regulaarselt ajakohastatud tegevuskava alusel. Tegevuskava täitmist rahastatakse riigieelarves Regionaal- ja Põllumajandusministeeriumile eraldatud vahenditest.\n(6) Kui referentlaboratoorium oma ülesandeid nõuetekohaselt ei täida, on valdkonna eest vastutaval ministril õigus anda puuduste kõrvaldamiseks kuni kolmekuuline tähtaeg. Kui puudusi ei ole kõrvaldatud, tunnistatakse volitus osaliselt või täielikult kehtetuks. Puuduste kõrvaldamiseks ettenähtud ajal loetakse volitus peatatuks.\n(7) Referentlaboratooriumina tegutsemiseks volituse andmise taotluse sisunõuded, taotlusele lisatavate dokumentide loetelu ning taotluse menetlemise korra kehtestab valdkonna eest vastutav minister.\n(8) Referentlaboratooriumina tegutsemiseks esmakordse volituse andmise taotluse läbivaatamise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määras.\n(9) Valdkonna eest vastutav minister või tema volitatud isik võib sõlmida teises Euroopa Majanduspiirkonna lepinguriigis asuva laboratooriumiga tsiviilõigusliku lepingu referentlaboratooriumi ülesannete täitmiseks Eestis toiduvaldkonnas.\n(10) Referentlaboratooriumi ülesannete täitmiseks tsiviilõigusliku lepingu sõlmimise otsustamisel ja lepingu tingimuste määramisel lähtutakse Euroopa Parlamendi ja nõukogu määruse (EL) 2017/625 artiklites 100 ja 101 sätestatust ning muudest tähtsust omavatest asjaoludest."
+    },
+    {
+      "provision_ref": "para53^1",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "53^1",
+      "title": "§ 53^1. Toidu käitlemine ettevõttes, milles toidu käitlemiseks on vajalik teatamiskohustuse täitmine ning tegevusluba",
+      "content": "(1) Ettevõttes, milles toidu käitlemiseks on vajalik tegevusluba, samuti tegevusloa andmisel valitsenud tingimusi muutvate ehituslike, tehnoloogiliste, töökorralduslike või muude ümberkorralduste järel järelevalveametniku loata toidu käitlemise alustamise eest, samuti toidu käitlemise eest ettevõttes, mida ei ole esitatud majandustegevusteates, – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot.\n(3) Käesolevas paragrahvis sätestatud väärteo katse on karistatav."
+    },
+    {
+      "provision_ref": "para53^2",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "53^2",
+      "title": "§ 53^2. Toidu suhtes esitatud nõuete rikkumine",
+      "content": "(1) Toidu suhtes esitatud nõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui see on toime pandud viisil, mis ohustab inimese tervist või keskkonda, – karistatakse rahatrahviga kuni 300 trahviühikut.\n(3) Käesoleva paragrahvi lõikes 1 sätestatud teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2600 eurot.\n(4) Käesoleva paragrahvi lõikes 2 sätestatud teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para53^3",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "53^3",
+      "title": "§ 53^3. Toidu käitlemise ning toiduga kokkupuutumiseks ettenähtud materjalide ja esemete kohta esitatud nõuete rikkumine",
+      "content": "(1) Toidu käitlemise ning toiduga kokkupuutumiseks ettenähtud materjalide ja esemete kohta esitatud nõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2000 eurot."
+    },
+    {
+      "provision_ref": "para53^5",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "53^5",
+      "title": "§ 53^5. Teabe esitamise nõuete rikkumine",
+      "content": "(1) Toidualase teabe esitamise nõuete rikkumise eest – karistatakse rahatrahviga kuni 150 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 1300 eurot."
+    },
+    {
+      "provision_ref": "para53^6",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "53^6",
+      "title": "§ 53^6. Toidu kohta valeandmete esitamine",
+      "content": "(1) Toidu koostise, omaduste, lisa- või saasteainete või mikroorganismide sisalduse või muude nõuete kohta valeandmete esitamise või saate-, müügi- või muudes tõendusdokumentides valeandmete esitamise eest – karistatakse rahatrahviga kuni 250 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2600 eurot."
+    },
+    {
+      "provision_ref": "para53^7",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "53^7",
+      "title": "§ 53^7. Menetlus",
+      "content": "(1)\n(2) Põllumajandus- ja Toiduamet või kohus võib kohaldada § 53^2 lõigetes 2 ja 4 sätestatud väärteo toimepanemise vahetuks objektiks olnud aine või eseme konfiskeerimist vastavalt karistusseadustiku §-le 83.\n(3) Käesoleva seaduse §-des 53^1–53^6 sätestatud väärtegude kohtuväline menetleja on:\n1) Põllumajandus- ja Toiduamet.\n2)\n3)\n(4)"
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "57",
+      "title": "§ 57.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "62",
+      "title": "§ 62.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para63^1",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "63^1",
+      "title": "§ 63^1. Sellisest ettevõttest teavitamine ja sellise ettevõtte tunnustamine, kus käideldakse toitu 2006. aasta 1. juulil",
+      "content": "(1) Sellisest ettevõttest, kus käideldakse toitu 2006. aasta 1. juulil ja mis sellest kuupäevast alates kuulub teavitamisele ja mida ei ole tunnustatud, tuleb käesoleva seaduse § 7 kohaselt teavitada pädevat järelevalveasutust hiljemalt 2006. aasta 1. novembriks.\n(2) 2006. aasta 1. juulist teavitamisele kuuluv ettevõte, mis on tunnustatud enne nimetatud kuupäeva, loetakse teavitatuks käesoleva seaduse § 7 kohaselt.\n(3) 2006. aasta 1. juulist tunnustamisele kuuluv ettevõte, mis on tunnustatud 2006. aasta 1. jaanuarini kehtinud õigusaktide alusel ja korras, loetakse tunnustatuks alates 2006. aasta 1. jaanuarist kehtivate õigusaktide alusel ja korras.\n(4) Enne 2006. aasta 1. juulit tehtud tähtajaline tunnustamise otsus loetakse tingimuslikuks tunnustamise otsuseks käesoleva seaduse § 10 lõike 2 tähenduses."
+    },
+    {
+      "provision_ref": "para63^2",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "63^2",
+      "title": "§ 63^2. Toiduga kokkupuutumiseks ettenähtud materjalide ja esemete rühma kohta andmete esitamine sellise ettevõtja puhul, kelle sellekohase tegevuse kohta on majandustegevuse registris registreering 2010. aasta 1. jaanuaril",
+      "content": "Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1935/2004 artikli 2 lõike 2 alapunktis c nimetatud ettevõtte puhul esitab ettevõtja, kelle sellekohase tegevuse kohta on majandustegevuse registris registreering kaubandustegevuse seaduse alusel 2010. aasta 1. jaanuaril, andmed toiduga kokkupuutumiseks ettenähtud materjalide ja esemete rühma kohta majandustegevuse registrisse kandmiseks 2010. aasta 1. juuniks."
+    },
+    {
+      "provision_ref": "para63^3",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "63^3",
+      "title": "§ 63^3. Enne 2010. aasta 1. jaanuari piiripunktide ja imporditava toidu üle järelevalve teostamise kohtade loetelusse kantud piiripunkt ja järelevalve teostamise koht",
+      "content": "Enne 2010. aasta 1. jaanuari Veterinaar- ja Toiduameti veebilehel piiripunktide ja imporditava toidu üle järelevalve teostamise kohtade loetelusse kantud piiripunkt ja järelevalve teostamise koht on nimetatud loetelus kuni Veterinaar- ja Toiduameti poolt piiripunkti või järelevalve teostamise koha nimetatud loetelust väljaarvamise otsuse tegemiseni."
+    },
+    {
+      "provision_ref": "para63^4",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "63^4",
+      "title": "§ 63^4. Ametliku kontrolli teostamise kohad",
+      "content": "Piiripunktide ja imporditava toidu üle järelevalve teostamise kohtade loetelusse kantud järelevalve teostamise kohad loetakse ametliku kontrolli teostamise kohtadeks."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "64",
+      "title": "§ 64.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "65",
+      "title": "§ 65. Järelevalveasutuste töö ümberkorraldamine",
+      "content": "(1) Vabariigi Valitsus lõpetab käesolevast seadusest tuleneva järelevalveasutuste töö ümberkorraldamise 2001. aasta 1. jaanuariks.\n(2) Kuni ümberkorraldamiseni täidavad järelevalveasutused oma seniseid ülesandeid, kui muudest seadustest ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para65^2",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "65^2",
+      "title": "§ 65^2. Laboratooriumi volituse kehtivus",
+      "content": "Enne 2007. aasta 1. juulit valdkonna eest vastutava ministri käskkirjaga laboratooriumile järelevalve käigus võetud proovide analüüsimiseks antud volitus kehtib kuni Veterinaar- ja Toiduameti poolt uue volituse andmiseni või selle andmisest keeldumiseni, kuid mitte kauem kui 2008. aasta 1. jaanuarini."
+    },
+    {
+      "provision_ref": "para65^3",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "65^3",
+      "title": "§ 65^3. Eritoidu märgistamise ja muul viisil teabe edastamise erinõuete kehtivus",
+      "content": "Käesoleva seaduse § 38 lõike 5 kuni 2014. aasta 13. detsembrini kehtinud redaktsiooni alusel kehtestatud eritoitude, sealhulgas meditsiinilisel näidustusel kasutamiseks ettenähtud toidu märgistamise ja muul viisil teabe edastamise erinõuded ja kord kehtivad kuni 2016. aasta 20. juulini."
+    },
+    {
+      "provision_ref": "para65^4",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "65^4",
+      "title": "§ 65^4. Eritoidu koostis- ja kvaliteedinõuete, eritoidu valmistamiseks kasutatavate ainete ja eritoidu käitlemise kohta esitatavate nõuete ning toidualase teabe esitamise nõuete kehtivus",
+      "content": "(1) Valdkonna eest vastutav minister kehtestab eritoidu koostis- ja kvaliteedinõuded, eritoidu valmistamiseks kasutatavate ainete ja eritoidu käitlemise kohta esitatavad nõuded ning eritoidu kohta toidualase teabe esitamise nõuded kehtivusajaga kuni Euroopa Parlamendi ja nõukogu määruse (EL) nr 609/2013 artikli 11 lõike 1 alusel kehtestatud õigusakti kohaldamise alguse tähtpäevani samas õigusaktis sätestatud tingimustel.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud nõuete kehtestamisel arvestatakse eritoidu kasutamise eesmärki ja toidugruppide eriomadusi."
+    },
+    {
+      "provision_ref": "para65^5",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "65^5",
+      "title": "§ 65^5. Imiku piimasegust, meditsiinilisel näidustusel kasutamiseks ettenähtud eritoidust ja väga väikese energiasisaldusega eritoidust teavitamine",
+      "content": "Imiku piimasegu, meditsiinilisel näidustusel kasutamiseks ettenähtud eritoidu ja väga väikese energiasisaldusega eritoidu esmakordsel turuleviimisel teavitamisele kohaldatakse toiduseaduse § 14 lõigete 5^1 ja 5^3 kuni 2016. aasta 19. juulini kehtinud redaktsiooni. Seda kohaldatakse kuni Euroopa Parlamendi ja nõukogu määruse (EL) nr 609/2013 artikli 11 lõike 1 alusel kehtestatud õigusakti kohaldamise alguse tähtpäevani samas õigusaktis sätestatud tingimustel."
+    },
+    {
+      "provision_ref": "para65^6",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "65^6",
+      "title": "§ 65^6. Tunnitasu määra kohaldamine",
+      "content": "Kuni 2019. aasta 31. detsembrini võetakse toidujärelevalve toimingute tegemise eest tunnitasu käesoleva seaduse § 49^3 lõike 5 alusel 2019. aastaks kehtestatud määras."
+    },
+    {
+      "provision_ref": "para65^7",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "65^7",
+      "title": "§ 65^7. Teatamiskohustus ettevõtte puhul, milles toidu käitlemiseks asendub tegevusloakohustus 2021. aasta 1. aprillist teatamiskohustusega",
+      "content": "Ettevõtjal, kellel on tegevusluba toidu käitlemiseks ettevõttes, mille puhul alates 2021. aasta 1. aprillist on tegevusloakohustuse asemel teatamiskohustus, loetakse teatamiskohustus täidetuks."
+    },
+    {
+      "provision_ref": "para65^8",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "65^8",
+      "title": "§ 65^8. Toidu ioniseeriva kiirgusega töötlemise loakohustus sellise ettevõtja puhul, kes on kasutanud toidu ioniseeriva kiirgusega töötlemisviisi Põllumajandus- ja Toiduameti loal enne 2024. aasta 1. juulit",
+      "content": "Ettevõtjal, kes on Põllumajandus- ja Toiduameti loal kasutanud toidu ioniseeriva kiirgusega töötlemisviisi enne 2024. aasta 1. juulit, loetakse käesoleva seaduse § 21^1 lõikes 1 sätestatud toidu ioniseeriva kiirgusega töötlemise loakohustus täidetuks."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "66",
+      "title": "§ 66. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2000. aasta 1. jaanuaril, välja arvatud volitusnormid, mis jõustuvad käesoleva paragrahvi lõikes 2 sätestatud ajal, ning § 34 ja § 52 lõige 2, mis jõustuvad 2002. aasta 1. jaanuaril, ning § 52 lõige 1, mis jõustub 2000. aasta 1. juulil.\n(2) Käesolevas seaduses sisalduvad volitusnormid Vabariigi Valitsuse või ministri määruste andmiseks jõustuvad kümnendal päeval pärast seaduse avaldamist Riigi Teatajas. Volitusnormi alusel antavat määrust ei jõustata enne käesoleva seaduse jõustumist."
+    }
+  ],
+  "definitions": []
+}

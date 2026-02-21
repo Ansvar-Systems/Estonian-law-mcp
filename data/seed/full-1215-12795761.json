@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-12795761",
+  "type": "statute",
+  "title": "Riigisaladuse seadus",
+  "title_en": "Riigisaladuse seadus",
+  "short_name": "RSS",
+  "status": "in_force",
+  "issued_date": "1999-01-26",
+  "in_force_date": "2008-01-01",
+  "url": "https://www.riigiteataja.ee/akt/12795761.xml",
+  "description": "Official consolidated statute text (Riigisaladuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

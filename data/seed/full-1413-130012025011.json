@@ -1,0 +1,463 @@
+{
+  "id": "ee-law-130012025011",
+  "type": "statute",
+  "title": "Töötervishoiu ja tööohutuse seadus",
+  "title_en": "Töötervishoiu ja tööohutuse seadus",
+  "short_name": "TTOS",
+  "status": "in_force",
+  "issued_date": "1999-06-16",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.riigiteataja.ee/akt/130012025011.xml",
+  "description": "Official consolidated statute text (Töötervishoiu ja tööohutuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab töötajate ja ametnike (edaspidi töötaja ) tööle esitatavad töötervishoiu ja tööohutuse nõuded, tööandja ja töötaja õigused ja kohustused tervisele ohutu töökeskkonna loomisel ja tagamisel, töötervishoiu ja tööohutuse korralduse ettevõtte ja riigi tasandil ning vastutuse töötervishoiu ja tööohutuse nõuete rikkumise eest.\n(2) Käesolevat seadust kohaldatakse kaitseväelaste ja asendusteenistujate teenistustingimuste ning Politsei- ja Piirivalveameti, julgeolekuasutuste ja päästeasutuste töötajate töö suhtes niivõrd, kuivõrd eriseadustega või nende alusel kehtestatud õigusaktidega ei ole sätestatud teisiti ning see ei lähe vastuollu riigisaladuse ja salastatud välisteabe seadusega.\n(3) Käesolevat seadust kohaldatakse ka:\n1) kinnipeetava tööle vanglas vangistusseaduses sätestatud erisustega;\n2) õpilase ja üliõpilase tööle õppepraktikal;\n3) juriidilise isiku juhatuse või seda asendava juhtorgani liikme tööle;\n4) teenuse osutamise lepingu alusel töötava füüsilise isiku (edaspidi teenuseosutaja ) tööle käesoleva seaduse § 12 lõigetes 4–9 ja § 24 lõikes 2 sätestatud ulatuses.\n(4) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seadust, arvestades käesolevast seadusest tulenevaid erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Töötervishoid ja tööohutus",
+      "content": "(1) Käesolevas seaduses mõistetakse töötervishoiuna töötaja tervisekahjustuse vältimiseks töökorraldus- ja meditsiiniabinõude rakendamist, töö kohandamist töötaja võimetele ning töötaja füüsilise, vaimse ja sotsiaalse heaolu edendamist.\n(2) Käesolevas seaduses mõistetakse tööohutusena töökorraldusabinõude ja tehnikavahendite süsteemi sellise töökeskkonna seisundi saavutamiseks, mis võimaldab töötajal teha tööd oma tervist ohtu seadmata.\n(3)"
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "2. peatükk - TÖÖKESKKOND",
+      "section": "3",
+      "title": "§ 3. Üldnõuded",
+      "content": "(1) Töökeskkond on ümbrus, milles inimene töötab.\n(2) Töökeskkonnas toimivad füüsikalised, keemilised, bioloogilised, füsioloogilised ja psühhosotsiaalsed tegurid ei või ohustada töötaja ega muu töökeskkonnas viibiva isiku elu ega tervist.\n(3) Töökeskkonna keemiliste ohutegurite ja käesoleva seaduse § 6 lõike 1 punktis 1 loetletud füüsikaliste ohutegurite parameetrid ei tohi ületada piirnorme.\n(4) Töökeskkonna ohutegurite piirnormid ja ohutegurite parameetrite mõõtmise korra kehtestab Vabariigi Valitsus.\n(5) Kui õnnetuse või haigestumise ohtu ei ole võimalik vältida või kui töökeskkonna ohuteguri parameetrit ei ole võimalik viia vastavusse kehtestatud piirnormiga tehnilisi ühiskaitsevahendeid või töökorralduslikke abinõusid kasutades, annab tööandja töötajale isikukaitsevahendid. Isikukaitsevahendite valiku ja kasutamise korra kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - TÖÖKESKKOND",
+      "section": "4",
+      "title": "§ 4. Töökoht",
+      "content": "(1) Käesolevas seaduses mõistetakse töökohana füüsilisest isikust ettevõtja või äriühingu ettevõtte, riigi või kohaliku omavalitsuse asutuse, mittetulundusühingu või sihtasutuse (edaspidi ettevõte) territooriumil või tööruumis paiknevat töötamiskohta ja selle ümbrust või muid töötamiskohti, kuhu töötajal on töötamise ajal juurdepääs või kus ta töötab tööandja loal või korraldusel.\n(2) Tööandja kujundab ja sisustab töökoha nii, et on võimalik vältida tööõnnetusi ja tervisekahjustusi ning säilitada töötaja töövõime ja heaolu.\n(3) Kui tööprotsessiga kaasneb ohtliku suitsu, tolmu, gaasi, auru või vedeliku eraldumine koguses, mis võib töötaja tervist kahjustada, tuleb vältida heitme levikut töökeskkonda, tagada selle eemaldamine tekkekohast ja muutmine kahjutuks.\n(3^1) Töötervishoiu ja tööohutuse nõuded töötamisel plahvatusohtlikus keskkonnas kehtestab Vabariigi Valitsus.\n(4) Terviseriski vältimiseks või vähendamiseks peavad töökohas olema kaitse-, pääste- ja esmaabivahendid, ohutusmärgid ning muud ohutusvahendid. Ohumärguannete kasutamise nõuded kehtestab valdkonna eest vastutav minister määrusega.\n(4^1) Töökoht ja töövahendid peavad olema tehniliselt heas seisukorras ja korrapäraselt hooldatud. Ohtude vältimiseks ettenähtud kaitsevahendid ja ohutusseadised peavad olema korrapäraselt hooldatud ja kontrollitud. Kõik leitud puudused, mis võivad mõjutada töötajate ohutust ja tervist, tuleb kõrvaldada võimalikult kiiresti.\n(4^2) Kui töökohas on ohualad, kus töö laadi tõttu esineb õnnetuse või tervisekahjustuse oht, tuleb need alad märgistada ning rakendada abinõusid, et sinna ei pääseks asjakohase juhendamise ja väljaõppeta töötajad ega teised isikud. Kui ohualasse sisenemine on vajalik, võib seda teha ainult asjakohase juhendamise ja väljaõppe saanud töötaja juuresolekul. Ohualal töötajate kaitseks tuleb rakendada asjakohaseid abinõusid.\n(4^3) Töökoha territoorium, trepikojad, liikumisteed ning töö- ja olmeruumid peavad olema piisavalt valgustatud. Valgustite paiknemine ei tohi töötajat ohustada. Valgustus peab tagama ohumärguannete ja hädaseiskamislülitite hea nähtavuse.\n(4^4) Välitöö tuleb korraldada nii, et seal paiknevad töökohad, liikumisteed ja muud tööga seotud piirkonnad ning töövahendid, mida töötajad töö käigus kasutavad, ei ohustaks inimesi ega takistaks sõidukite liiklust.\n(4^5) Töökohale esitatavad töötervishoiu ja tööohutuse nõuded kehtestab Vabariigi Valitsus.\n(5) Tegevusalade töötervishoiu ja tööohutuse nõuded kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - TÖÖKESKKOND",
+      "section": "5",
+      "title": "§ 5. Töövahend",
+      "content": "(1) Töövahend on masin, seade, paigaldis, transpordivahend, tööriist või muu tööks kasutatav vahend. Töövahendi kasutamine – sellega töötamine, selle käivitamine, seiskamine, transport, teisaldamine, paigaldamine, parandamine, seadistamine, hooldus ja puhastamine – ei tohi ohustada töövahendi kasutaja ega teiste isikute tervist ning töö- ja elukeskkonda.\n(2) Tööandja tagab, et töövahend sobib tööülesande täitmiseks, vastab kasutaja kehamõõtmetele ning füüsilistele ja vaimsetele võimetele.\n(3) Tööandja tagab, et töötaja kasutusse antav töövahend vastab järgmistele tingimustele:\n1) on tõkestatud pääs selle ohualale;\n2) juhtimisseadis vastab ergonoomianõuetele;\n3) kõrge või madala temperatuuriga pinnad on isoleeritud või piirestatud;\n4) täidetud on elektri-, tule- ning plahvatusohutusnõuded;\n5) on välditud juhukäivitus ning vajaduse korral on võimalik töövahend või selle osa kohe seisata, energiavarustus katkestada ja ohtlik leke tõkestada;\n6) müra, vibratsiooni, kiirguse ja muude ohutegurite tase on võimalikult madal ega ületa piirnorme.\n(4) Töövahendi kasutamise töötervishoiu ja tööohutuse nõuded kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - TÖÖKESKKOND",
+      "section": "6",
+      "title": "§ 6. Füüsikalised ohutegurid",
+      "content": "(1) Füüsikalised ohutegurid on:\n1) müra, vibratsioon, ioniseeriv kiirgus, mitteioniseeriv kiirgus (ultraviolettkiirgus, laserkiirgus, infrapunane kiirgus) ja elektromagnetväli;\n2) õhu liikumise kiirus, õhutemperatuur ja -niiskus, kõrge või madal õhurõhk;\n3) masinate ja seadmete liikuvad või teravad osad, valgustuse puudused, kukkumis-, elektrilöögi- ja plahvatusoht ning muud samalaadsed tegurid.\n(2) Tööandja peab rakendama abinõusid, et füüsikalistest ohuteguritest tulenevat terviseriski vältida või viia see võimalikult madalale tasemele.\n(3) Tööandja tagab, et radioaktiivset ainet kasutades või seda ainet sisaldava töövahendiga töötades järgitaks kiirgusseaduses sätestatud ohutusnõudeid ning et aine või töövahend ei satuks kõrvalise isiku kätte.\n(3^1) Tööruumide õhu radoonisisalduse viitetase, õhu radoonisisalduse mõõtmise kord ja tööandja kohustused kõrgendatud radooniriskiga töökohtadel sätestatakse kiirgusseaduse § 97 lõike 3 alusel kehtestatud määruses.\n(4) Töökoha sisekliima – õhutemperatuur ja -niiskus ning õhu liikumise kiirus – peab olema tööülesande täitmiseks sobiv, tagada tuleb töökohtade varustatus värske õhuga. Sobiva sisekliima määramisel tuleb arvestada töötajate arvu ruumis, töötajate vaimset ja füüsilist koormust, tööruumi suurust, kasutatavate töövahendite spetsiifikat ning tehnoloogilise protsessi laadi.\n(5) Töökeskkonna müra ja vibratsioon peavad olema sellise tasemega, et nende kahjulik toime töötajale oleks välditud või viidud võimalikult madalale tasemele ka pikaajalise töötamise vältel. Kontsentreerumist, mõtlemist, otsustamist ja suhtlemist vajava töö puhul ei tohi müra segada tööülesande täitmist. Müra ei tohi segada helisignaalide arusaadavust.\n(6) Töötervishoiu ja tööohutuse nõuded füüsikalistest ohuteguritest mõjutatud töökeskkonnale kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - TÖÖKESKKOND",
+      "section": "7",
+      "title": "§ 7. Keemilised ohutegurid",
+      "content": "(1) Keemilised ohutegurid on ettevõttes käideldavad ohtlikud kemikaalid ja neid sisaldavad materjalid.\n(2) Ohtlike kemikaalide ja neid sisaldavate materjalide käitlemist reguleerivad kemikaaliseadus ja käesolev seadus.\n(3) Ohtlike kemikaalide ja neid sisaldavate materjalide kasutamise nõuded kehtestab Vabariigi Valitsus.\n(4) Tööandjal on õigus töödelda uuringute ja analüüside andmeid keemiliste ohutegurite mõõtmise kohta töötaja organismis ulatuses, mis on vajalik töökeskkonna riskianalüüsist tulenevate abinõude rakendamiseks, et kaitsta töötajaid keemilistest ohuteguritest põhjustatud tervisekahjustuste tekkimise eest."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - TÖÖKESKKOND",
+      "section": "8",
+      "title": "§ 8. Bioloogilised ohutegurid",
+      "content": "(1) Bioloogilised ohutegurid on mikroorganismid (bakterid, viirused, seened jm), sealhulgas geneetiliselt muundatud mikroorganismid, rakukultuurid ja inimese endoparasiidid ning muud bioloogiliselt aktiivsed ained, mis võivad põhjustada nakkushaigust, allergiat või mürgistust.\n(2) Kaitseks töökohas toimivate bioloogiliste ohutegurite eest peab tööandja võtma tarvitusele abinõud, arvestades ohuteguri nakatamisvõimet.\n(3) Bioloogilistest ohuteguritest mõjutatud töökeskkonna töötervishoiu ja tööohutuse nõuded kehtestab Vabariigi Valitsus.\n(4) Tööandjal on õigus töödelda uuringute ja analüüside andmeid bioloogiliste ohutegurite mõõtmise kohta töötaja organismis ning vaktsineerimise andmeid ulatuses, mis on vajalik töökeskkonna riskianalüüsist tulenevate abinõude rakendamiseks, et kaitsta töötajaid bioloogilistest ohuteguritest põhjustatud tervisekahjustuste tekkimise eest."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - TÖÖKESKKOND",
+      "section": "9",
+      "title": "§ 9. Füsioloogilised ohutegurid",
+      "content": "(1) Füsioloogilised ohutegurid on füüsilise töö raskus, sama tüüpi liigutuste kordumine ja üleväsimust põhjustavad sundasendid ja -liigutused töös ning muud samalaadsed tegurid, mis võivad aja jooksul põhjustada tervisekahjustusi.\n(2) Töötaja füüsilise ülekoormuse vältimiseks peab tööandja kohandama töö töötajale võimalikult sobivaks ja võimaldama töötajale tööpäeva või töövahetuse jooksul tööaja hulka arvatavaid vaheaegu. Töökoha kujundamisel ja töö korraldamisel tuleb arvestada töötaja kehalisi, vaimseid, soolisi ja ealisi iseärasusi ning tema töövõime muutumist tööpäeva või vahetuse jooksul.\n(3) Raskuste käsitsi teisaldamise töötervishoiu ja tööohutuse nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para9^1",
+      "chapter": "2. peatükk - TÖÖKESKKOND",
+      "section": "9^1",
+      "title": "§ 9^1. Psühhosotsiaalsed ohutegurid",
+      "content": "(1) Psühhosotsiaalsed ohutegurid on õnnetus- või vägivallaohuga töö, ebavõrdne kohtlemine, kiusamine ja ahistamine tööl, töötaja võimetele mittevastav töö, pikaajaline töötamine üksinda ja monotoonne töö ning muud juhtimise, töökorralduse ja töökeskkonnaga seotud tegurid, mis võivad mõjutada töötaja vaimset või füüsilist tervist, sealhulgas põhjustada tööstressi.\n(2) Tööandja peab psühhosotsiaalsest ohutegurist tuleneva tervisekahjustuse ennetamiseks rakendama abinõusid, sealhulgas kohandama töökorralduse ja töökoha töötajale sobivaks, optimeerima töötaja töökoormust, võimaldama töötajale tööpäeva või töövahetuse jooksul tööaja hulka arvatavaid vaheaegu ning parandama ettevõtte psühhosotsiaalset töökeskkonda."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - TÖÖKESKKOND",
+      "section": "10",
+      "title": "§ 10. Rasedad ja rinnaga toitvad töötajad",
+      "content": "(1) Rasedatele ja rinnaga toitvatele naistele peab tööandja looma sobivad töö- ja olmetingimused.\n(2) Tööandja järgib rasedate ja rinnaga toitvate naiste töölerakendamisel nende ohutuse tagamiseks õigusaktidega sätestatud piiranguid.\n(3) Töötervishoiu ja tööohutuse nõuded rasedate ja rinnaga toitvate naiste tööks kehtestab Vabariigi Valitsus määrusega.\n(4) Tööandja on kohustatud andma rasedale arsti või ämmaemanda otsuses näidatud ajal vaba aega sünnituseelseks läbivaatuseks, mis arvatakse tööaja hulka.\n(5) Last rinnaga toitval emal on õigus saada lisavaheaegu rinnaga toitmiseks kuni lapse poolteiseaastaseks saamiseni. Lisavaheaeg antakse iga kolme tunni järel kestusega iga kord mitte alla 30 minuti. Kahe või enama kuni poolteiseaastase lapse toitmiseks antava vaheaja kestus peab olema vähemalt üks tund.\n(6) Vaheajad lapse toitmiseks arvatakse tööaja hulka ja nende eest makstakse töölepingu seaduse § 29 lõike 8 alusel arvutatud keskmist töötasu riigieelarve vahenditest, välja arvatud, kui emale makstakse vanemahüvitist lapse kasvatamise eest.\n(7) Riigieelarvest hüvitatava keskmise töötasu maksmise korra ja hüvitamise taotluse andmete loetelu kehtestab valdkonna eest vastutav minister määrusega.\n(8) Keskmise töötasu riigieelarvest hüvitamisel lähtutakse töölepingu seaduse § 66 lõigetes 4–8 sätestatust."
+    },
+    {
+      "provision_ref": "para10^1",
+      "chapter": "2. peatükk - TÖÖKESKKOND",
+      "section": "10^1",
+      "title": "§ 10^1. Alaealised ja tervisekahjustusega töötajad",
+      "content": "(1) Alaealistele ja tervisekahjustusega töötajatele peab tööandja looma sobivad töö- ja olmetingimused.\n(2) Tööandja rakendab riskianalüüsist lähtuvaid abinõusid alaealise töötaja terviseriskide vältimiseks. Alaealise töötaja riske tuleb hinnata enne alaealise tööle asumist ja juhul, kui töötingimustes on toimunud oluline muudatus. Riskide hindamisel pööratakse tähelepanu järgmistele seikadele:\n1) tööruumi ja -koha kujundus ja sisustus;\n2) töökeskkonna ohutegurite mõju alaealise töötaja tervisele;\n3) töövahendite ja nende kasutamise sobivus alaealisele töötajale;\n4) töökorralduse sobivus alaealisele töötajale;\n5) alaealise töötaja juhendamine ja väljaõpe.\n(3) Tööandja on kohustatud töö- ja teenistussuhteid reguleerivates seadustes sätestatud korras andma tema ettevõttes tööõnnetuse või kutsehaiguse tagajärjel töövõime osaliselt kaotanud töötajale võimaluse jätkata sobival tööl ettevõttes.\n(4) Tervisekahjustusega töötaja töö, töövahendid ja töökoht tuleb kohandada tema kehalistele ja vaimsetele võimetele. Kohandamine seisneb tööandja ehitise, tööruumi, töökoha või töövahendi tervisekahjustusega isikule ligipääsetavaks ja kasutatavaks muutmises. See nõue kehtib ka üldkasutatavate liikumisteede ja olmeruumide kohta, mida tervisekahjustusega töötajad kasutavad."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - TÖÖKESKKOND",
+      "section": "11",
+      "title": "§ 11. Tööolme",
+      "content": "(1) Olmeruumid on riietus-, pesemis-, tualett- ja puhkeruumid, soojakud välitöödel, einestamisruumid ning muud elukondlikud ruumid.\n(2) Töötajate olmeruumid peavad olema ehitatud ja sisustatud, arvestades töötingimusi ning töötajate arvu ja soolist koosseisu.\n(3) Tööandja tagab tööriietust kandvatele töötajatele riietusruumi, välitöödel töötavatele töötajatele riidekuivatusruumi ja soojaku või muu samaväärse koha.\n(4) Töö laadist olenevalt peab töötajatel olema võimalus kasutada puhkeruumi, kui see on vajalik töötajate tervise ja ohutuse tagamiseks. Puhkeruum peab olema küllaldase suurusega ning sisustatud laudade ja seljatoega istmetega. Puhkeruumis ei tohi suitsetada.\n(5) Töö laadist olenevalt peab töötajal olema võimalik kasutada pesemisruumi, mis on varustatud valamute või duššidega ning sooja ja külma veega.\n(6) Tööandja tagab, et olmeruume hoitakse puhtana.\n(7) Olmeruumid peavad olema ventileeritavad ja nende temperatuur peab vastama kasutusotstarbele.\n(8) Töötajatele peab olema tagatud nõuetele vastav kvaliteetne joogivesi koos ühekordsete või pestavate jooginõudega."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "12",
+      "title": "§ 12. Töötervishoiu ja tööohutuse üldised nõuded",
+      "content": "(1) Tööandja tagab töötervishoiu ja tööohutuse nõuete täitmise igas tööga seotud olukorras. Kui tööülesandeid täidetakse renditööna, tagab kasutajaettevõtja töötervishoiu ja tööohutuse nõuete täitmise kasutajaettevõtja juures. Kui tööülesandeid täidetakse kaugtööna, tagab tööandja töötervishoiu ja tööohutuse nõuete täitmise niivõrd, kuivõrd see on kaugtöö eripärasid arvestades võimalik ning lähtudes käesoleva seaduse §-s 13^5 sätestatust.\n(2) Tööandja ei tohi lubada tööle asuda töötajal, kellel puuduvad vajalikud erialateadmised ja oskused ning töötervishoiu- ja tööohutusalased teadmised.\n(3) Tööandja ja töötajad on kohustatud ohutu töökeskkonna nimel tegema koostööd. Tööandja konsulteerib töötajate või töötajate esindajaga küsimustes, mis puudutavad töökeskkonna parandamise abinõude kavandamist, juhendamise ja väljaõppe ning töötervishoiuteenuse osutamise korraldamist, päästetööde ja esmaabi korraldust ning uue tehnoloogia ja uute töövahendite valikut ja rakendamist. Tööandja arvestab võimaluse korral tehtud ettepanekuid ja kaasab töötajad kavandatu elluviimisesse.\n(4) Teenuseosutaja tagab igas tööolukorras temale kuuluvate töövahendite, isikukaitsevahendite ja muude seadmete korrasoleku ja nõuetekohase kasutamise.\n(5) Kui töökohal töötavad samal ajal vähemalt kahe tööandja töötajad, kooskõlastavad tööandjad oma tegevuse ohtlike olukordade vältimiseks. Tööandjad teavitavad üksteist ja oma töötajaid või töökeskkonnavolinikke ühisel töökohal esinevatest ohtudest ja nende vältimise abinõudest ning päästetööde ja esmaabi korraldusest.\n(6) Kui lisaks ühe või mitme tööandja töötajatele töötab töökohal teenuseosutaja, teavitab tööandja teenuseosutajat vajaduse korral käesoleva paragrahvi lõikes 5 nimetatud asjaoludest.\n(7) Käesoleva paragrahvi lõigetes 5 ja 6 nimetatud juhul võivad tööandjad sõlmida kokkuleppe lõikes 5 nimetatud kohustuse täitmise kohta või määrata töid korraldava isiku, kes kohustusi täidab. Kui tööandjad kokkulepet ei sõlmi ja töid korraldavat isikut ei määra, vastutavad nad lõikes 5 nimetatud kohustuse täitmata jätmise korral solidaarselt.\n(8) Käesoleva paragrahvi lõikes 6 nimetatud juhul teavitab teenuseosutaja töid korraldavat isikut või tema puudumise korral tööandjat oma tegevusega seotud ohtudest ja tagab, et tema tegevus ei ohusta töötajaid.\n(9) Teenuseosutajad, kes töötavad ühes töökeskkonnas, teavitavad üksteist oma tegevusega seotud ohtudest ja tagavad, et nende tegevus ei ohusta töötegijaid."
+    },
+    {
+      "provision_ref": "para12^1",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "12^1",
+      "title": "§ 12^1. Tööandja ennetustegevus",
+      "content": "(1) Tööandja ennetustegevus on meetmete kavandamine ja rakendamine terviseriskide vältimiseks või vähendamiseks ettevõtte töö kõikides etappides ning töötaja kehalise, vaimse ja sotsiaalse heaolu edendamiseks.\n(2) Tööandja rakendab käesoleva paragrahvi lõikes 1 nimetatud meetmeid järgmiste üldiste ennetuspõhimõtete alusel:\n1) riskide tekkimise vältimine;\n2) vältimatute riskide hindamine;\n3) riskide kõrvaldamine nende tekkekohas või kui see ei ole võimalik, nende vähendamine vastuvõetava tasemeni;\n4) ohtliku teguri asendamine ohutu või vähem ohtlikuga;\n5) töö, töökoha ja töökorralduse kohandamine töötajale võimalikult sobivaks;\n6) töövahendite ja -meetodite kohandamine tehnika arengule;\n7) ühiskaitsemeetmete ja -vahendite eelistamine isikukaitsevahendite kasutamisele;\n8) ühtse ja üldise ennetuspoliitika väljatöötamine, mis hõlmab tehnoloogiat, töökorraldust, töötingimusi, sotsiaalsuhteid ja töökeskkonnaga seotud tegurite mõju.\n(3) Töötervishoidu, tööohutust ja -hügieeni käsitlevate meetmete kavandamine ja rakendamine ei tohi tuua töötajatele kaasa rahalisi kulutusi."
+    },
+    {
+      "provision_ref": "para12^2",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "12^2",
+      "title": "§ 12^2. Tööandja makstav haigushüvitis",
+      "content": "(1) Tööandja maksab töötajale hüvitist haiguse, vigastuse või karantiini korral neljanda kuni kaheksanda kalendripäeva eest 70 protsenti töölepingu seaduse § 29 lõikes 8 sätestatud korras arvutatud töötaja keskmisest töötasust (edaspidi haigushüvitis ).\n(2) Tööandja ei maksa haigushüvitist:\n1) töötaja haigestumise või vigastuse korral, mille eest Tervisekassa maksab kindlustatud isikule haigushüvitist ravikindlustuse seaduse § 54 lõike 1 punktide 6–8 ning § 56 lõigete 1^2, 1^3 ja 1^4 alusel;\n2) ravikindlustuse seaduse §-s 60 sätestatud juhtudel.\n(3) Tööandja maksab haigushüvitist haiguslehel märgitud töö- või teenistuskohustuste täitmisest vabastuse neljandast kalendripäevast alates.\n(4) Tööandja maksab haigushüvitist, kui töötaja on tööandjat elektroonilise haiguslehe lõpetamisest teavitanud või töötaja on tööandjale paberil haiguslehe või teda välisriigis ravinud arsti või hambaarsti väljakirjutatud pabertõendi (edaspidi tõend ) esitanud hiljemalt 90. kalendripäeval alates haiguslehel või tõendil märgitud töö- või teenistuskohustusi täitma asumise päevast.\n(5) Tööandja maksab haigushüvitise välja palgapäeval või 30 kalendripäeva jooksul alates töötajalt elektroonilise haiguslehe lõpetamisest teadasaamisest või nõuetekohase paberil haiguslehe või tõendi esitamisest tööandjale."
+    },
+    {
+      "provision_ref": "para12^3",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "12^3",
+      "title": "§ 12^3. Tööandja makstav vabatahtlik töövõimetushüvitis",
+      "content": "(1) Tööandja võib maksta töötajale töövõimetuslehe alusel lisaks käesoleva seaduse § 12^2 alusel makstud haigushüvitisele ning ravikindlustuse seaduses või selle alusel antud määruses sätestatud kindlustusjuhtumi korral makstud töövõimetushüvitisele vabatahtlikku töövõimetushüvitist.\n(2) Tööandja ei maksa vabatahtlikku töövõimetushüvitist ravikindlustuse seaduse § 51 lõike 1 punktide 3–4^1 alusel ega §-s 60 sätestatud juhtudel.\n(3) Vabatahtlik töövõimetushüvitis ei tohi koos käesoleva seaduse § 12^2 alusel makstava haigushüvitisega ületada töölepingu seaduse § 29 lõike 8 alusel arvutatud töötaja keskmist töötasu (edaspidi keskmine töötasu ).\n(4) Kui töötajale maksab töövõimetushüvitist Tervisekassa, siis arvutab tööandja maksimaalse vabatahtliku töövõimetushüvitise suuruse, lahutades töötaja keskmisest töötasust ravikindlustuse seaduses sätestatud töövõimetushüvitise protsendile vastava keskmise töötasu summa ja käesoleva seaduse § 12^2 alusel makstava summa.\n(4^1) Ravikindlustuse seaduse § 54 lõikes 1^1 sätestatud ajutise töövõimetuse hüvitise ülempiiri rakendamise korral võib tööandja keskmise töötasu ja ajutise töövõimetuse hüvitise ülempiiri vahe töötajale hüvitada.\n(5) Tööandja maksab vabatahtliku töövõimetushüvitise välja käesoleva seaduse § 12^2 lõikes 5 sätestatud ajal."
+    },
+    {
+      "provision_ref": "para12^4",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "12^4",
+      "title": "§ 12^4. Haiguslehe alusel töötamine",
+      "content": "(1) Töötajal ja tööandjal on õigus kirjalikus vormis kokku leppida ajutiselt terviseseisundile vastava töö tegemises haiguslehe alusel, kui töötaja haiguslehele märgitud töö- või teenistuskohustuste täitmisest vabastuse päevast on möödas rohkem kui 60 kalendripäeva ja töö- või teenistuskohustuste täitmisest vabastus kestab vähemalt 90 kalendripäeva, kuni ravikindlustuse seaduse § 57 lõikes 1 sätestatud tähtajani. Ametniku haiguslehe alusel teenistuses olemine vormistatakse käskkirjaga.\n(2) Tööandja ja töötaja on kohustatud järgima haiguslehele märgitud terviseseisundile vastavaid töötingimusi.\n(3) Kui tööandjal ei ole võimalik pakkuda töötajale tema terviseseisundile vastavaid töötingimusi, ei tohi töötaja haiguslehe alusel töötada.\n(4) Tööandja ei või haiguslehe alusel töötamise eest maksta töötasu vähem kui 50 protsenti enne haiguslehele märgitud töö- või teenistuskohustuste täitmisest vabastuse päevale eelnenud päeval kehtinud töötasust.\n(5) Lisaks tööandja makstavale töötasule saab töötaja haigushüvitist ravikindlustuse seaduses ette nähtud tingimustel ja korras.\n(6) Töötaja ja tööandja võivad käesoleva paragrahvi lõikes 1 nimetatud kokkuleppe igal ajal üles öelda."
+    },
+    {
+      "provision_ref": "para12^5",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "12^5",
+      "title": "§ 12^5. Raseda ja emapuhkuse õigusega töötaja haiguslehe alusel töötamine",
+      "content": "(1) Rasedal ja emapuhkuse õigusega töötajal on õigus nõuda ajutiselt terviseseisundile vastavat tööd haiguslehe alusel, kui tema terviseseisund ei võimalda ettenähtud tööülesandeid kokkulepitud tingimustel täita.\n(2) Käesoleva paragrahvi lõike 1 alusel töötamisele kohaldatakse käesoleva seaduse § 12^4 lõigetes 2 ja 4–6 sätestatut.\n(3) Rase ja emapuhkuse õigusega töötaja võib keelduda haiguslehe alusel tööülesannete täitmisest, kui tööandjal ei ole võimalik talle anda tema terviseseisundile vastavat tööd, või loobuda pakutavast tööst."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "13",
+      "title": "§ 13. Tööandja kohustused ja õigused",
+      "content": "(1) Tööandja on kohustatud:\n1) viima läbi süstemaatilist töökeskkonna sisekontrolli, mille käigus ta kavandab, korraldab ja jälgib töötervishoiu ja tööohutuse olukorda ettevõttes vastavalt käesolevas seaduses või selle alusel kehtestatud õigusaktides sätestatud nõuetele. Töökeskkonna sisekontroll on ettevõtte tegevuse lahutamatu osa, millesse on kaasatud töötajad ja mille aluseks on töökeskkonna riskianalüüsi tulemused;\n2) vaatama igal aastal läbi töökeskkonna sisekontrolli korralduse ja analüüsima selle tulemusi ning vajaduse korral kohandama abinõud muutunud olukorrale;\n3) korraldama töökeskkonna riskianalüüsi;\n4)\n5)\n5^1) tagama, et ohualal töötab ainult asjakohase juhendamise ja väljaõppe saanud töötaja või tööd tehakse sellise töötaja järelevalve all;\n5^2) teavitama alaealist ja alla 15-aastase alaealise seaduslikku esindajat alaealise tööga seotud riskidest ning tema ohutuse ja tervise kaitseks rakendatud abinõudest;\n6)\n6^1) rakendama töötaja tervisekahjustuse vältimiseks ja käesoleva seaduse §-des 6–9^1 loetletud töökeskkonna ohutegurite mõju neutraliseerimiseks töö- ja kollektiivlepingutes sätestatud abinõusid;\n6^2)\n7) korraldama töötervishoiuteenuse osutamist;\n7^1)\n8) tagama töötajale esmaabi ja esmaabivahendite kättesaadavuse töökohal;\n9)\n10) viima töötaja töö- ja teenistussuhteid reguleerivates seadustes sätestatud korras tema nõudmisel ja arsti otsuse alusel ajutiselt või alaliselt teisele tööle või kergendama ajutiselt tema töötingimusi;\n11) oma kulul andma töötajale isikukaitsevahendid, tööriietuse ning puhastus- ja pesemisvahendid, kui töö laad seda nõuab, ning korraldama töötajale isikukaitsevahendi kasutamise väljaõppe;\n12) kontrollima töötervishoiu ja tööohutuse nõuete täitmist;\n13) korraldama töötaja juhendamise ja väljaõppe;\n14) töökeskkonna riskianalüüsi alusel koostama ohutusjuhendi tehtava töö ja kasutatava töövahendi kohta;\n15) kõrvaldama töölt alkoholi-, narkootilises või toksilises joobes või psühhotroopse aine mõju all oleva töötaja;\n16)\n17)\n18) tegema Tööinspektsiooni ettekirjutuse teatavaks töötajatele, töökeskkonnaspetsialistile, töökeskkonnanõukogule, töökeskkonnavolinikele ja teistele töötajate esindajatele;\n19) täitma Tööinspektsiooni ettekirjutuse tähtpäevaks ja teavitama selle täitmisest Tööinspektsiooni töökeskkonna andmekogu kaudu või kirjalikku taasesitamist võimaldavas vormis.\n(2) Tööandjal on õigus kehtestada ettevõttes õigusaktides ettenähtust rangemaid töötervishoiu ja tööohutuse nõudeid."
+    },
+    {
+      "provision_ref": "para13^1",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "13^1",
+      "title": "§ 13^1. Töötervishoiuteenus",
+      "content": "(1) Tööandja korraldab töötervishoiuteenuse osutamist.\n(2) Töötervishoiuteenust osutab töötervishoiuarst, kaasates vajaduse korral teisi spetsialiste.\n(3) Töötervishoiuteenuse osutamisel töötervishoiuarst:\n1) tutvub töökeskkonna riskianalüüsiga ja külastab vajaduse korral töökeskkonda;\n2) analüüsib ettevõtte töötervishoiu olukorda tervikuna;\n3) teeb töötajate tervisekontrolli, võttes aluseks töökeskkonna riskianalüüsi;\n4) teeb tööandjale ettepanekud töötingimuste parandamiseks ja töötajate tervise edendamiseks;\n5) nõustab tööandjat töökeskkonna ja töötingimuste kohandamise ja töötajate tervise edendamise küsimustes;\n6) nõustab töötajat tervise edendamise küsimustes.\n(4) Tervisekontroll tuleb korraldada töötajale, kelle tervist võib töökeskkonna riskide hindamise tulemusel mõjutada järgmine töökeskkonna ohutegur või töö laad:\n1) müra;\n2) vibratsioon;\n3) elektromagnetväljad;\n4) tehislik optiline kiirgus;\n5) ioniseeriv kiirgus;\n6) ohtlikud kemikaalid ja neid sisaldavad materjalid, sealhulgas kantserogeenid, mutageenid ja reproduktiivtoksilised ained;\n7) bioloogilised ohutegurid;\n8) kuvariga töö;\n9) raskuste käsitsi teisaldamine;\n10) korduvaid liigutusi sisaldav töö või töö pidevas sundasendis, sealhulgas istuvas või seisvas asendis;\n11) muu ohutegur või töö laad.\n(5) Sõltumata riskide hindamise tulemustest tuleb tervisekontroll korraldada öötöötajale ja töötajale, kes puutub kokku plii ja selle ühenditega ning asbestitolmuga.\n(6) Tööandja korraldab töötaja tervisekontrolli nelja kuu jooksul töötaja tööle asumisest arvates. Kui töötaja on viimase kuue kuu jooksul läbinud teise tööandja juures tervisekontrolli samade töökeskkonna ohutegurite ja sama töö laadi suhtes, võib tööandja korraldada tervisekontrolli töötaja esitatud tervisekontrolli otsuses märgitud ajal.\n(7) Tööandja korraldab töötaja tervisekontrolli enne bioloogiliste ohutegurite, kantserogeenide, mutageenide, reproduktiivtoksiliste ainete, plii ja selle ühendite ning asbestitolmuga kokkupuute algust ja öötöötaja tervisekontrolli enne öötööle asumist.\n(8) Tööandja korraldab lisaks käesoleva paragrahvi lõigetes 6 ja 7 nimetatud ajale töötaja tervisekontrolli töötervishoiuarsti määratud ajavahemiku järel, kuid vähemalt üks kord kolme aasta jooksul ning alaealise töötaja puhul vähemalt üks kord aastas.\n(9) Käesoleva paragrahvi lõikes 4 nimetatud töökeskkonna ohuteguri või töö laadi põhise tervisekontrolli täpsustavad nõuded võib kehtestada Vabariigi Valitsus määrusega.\n(10) Käesoleva paragrahvi lõike 4 punktis 9 nimetatud töö laadi põhise tervisekontrolli täpsustavad nõuded kehtestab valdkonna eest vastutav minister määrusega.\n(11) Tööandja kannab töötervishoiuteenuse osutamisega seotud kulud. Töötajate tervisekontroll tehakse tööajal ja töötajale makstakse sellel ajal keskmist tööpäevatasu.\n(12) Käesoleva paragrahvi lõike 3 punktis 2 nimetatud ettevõtte töötervishoiu olukorra analüüsi korraldab tööandja regulaarselt vastavalt vajadusele, kuid vähemalt üks kord kolme aasta jooksul.\n(13) Tööandja rakendab töötervishoiuarsti ettepanekuid töökeskkonna ja töötingimuste parandamiseks ja töötajate tervise edendamiseks, kui sellega ei kaasne tööandjale ebaproportsionaalselt suuri kulusid. Tööandja lisab ettepanekud vajaduse korral riskianalüüsi tegevuskavasse.\n(14) Töötervishoiuarst edastab tööandjale töötaja terviseandmed, mis on vältimatult vajalikud tööandjale töökeskkonna ja töötingimuste parandamiseks ning töötajate tervise edendamiseks ning on vahetult seotud eeltoodud tegevustega. Tööandjal ei ole õigust saada diagnooside andmeid.\n(15) Töötervishoiuteenuse osutamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(16) Töötervishoiuteenuse osutaja säilitab töötervishoiuteenuse osutamisega seotud andmeid 30 aastat osutamisest arvates. Tööandja säilitab töötervishoiuteenuse osutamise korraldamisega seotud andmeid kümme aastat osutamisest arvates.\n(17) Tööandja säilitab töötervishoiuteenuse osutamisega seotud andmeid 40 aastat arvates töötaja viimasest kokkupuutest kantserogeeni või mutageeniga ja viis aastat arvates töötaja viimasest kokkupuutest reproduktiivtoksilise ainega."
+    },
+    {
+      "provision_ref": "para13^2",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "13^2",
+      "title": "§ 13^2. Esmaabi",
+      "content": "(1) Tööandja peab esmaabi andmiseks:\n1) määrama töötajate hulgast vähemalt ühe esmaabiandja, võttes arvesse töötajate arvu, tervisekahjustuste esinemise sagedust, ettevõtte piirkondlikku jagunemist ja tegevuse iseloomu;\n2) võimaldama esmaabiandjal täita oma ülesandeid tööajal;\n3) korraldama esmaabiandjale omal kulul ja tööajal koolituse ühe kuu jooksul arvates tema määramisest ja täienduskoolituse iga kolme aasta järel, makstes esmaabiandjale koolituse ja täienduskoolituse ajal keskmist tööpäevatasu;\n4) paigutama nähtavale kohale esmaabi andmise juhised, hädaabinumbri 112 ning esmaabiandja nime ja telefoninumbri;\n5) tagama töötajatele esmaabivahendite kättesaadavuse, juurdepääsetavuse ja märgistuse vastavalt käesoleva seaduse § 4 lõikes 4 sätestatud nõuetele, sealhulgas tööülesannete täitmiseks kasutatavates autodes, traktorites, liikur- ja eritöömasinates;\n6) tagama esmaabiruumi või selleks kohandatava ruumi, millel on märgistus vastavalt käesoleva seaduse § 4 lõikele 4 ning millele pääseb ligi kanderaamiga, kui see on vajalik töötajate arvu, ettevõtte tegevuse iseloomu või tervisekahjustuste esinemise sageduse tõttu;\n7) tagama tervisekahjustuse saanud töötaja toimetamise vastavalt arsti korraldusele tervishoiuasutusse või koju.\n(2) Esmaabiandjale ei pea koolitust korraldama, kui esmaabiandja igapäevane töö eeldab erakorralise meditsiini, anestesioloogia, intensiivravi või kiirabi teenuse osutamist.\n(3) Esmaabiandja täidab järgmisi ülesandeid:\n1) annab tervisekahjustuse korral esmaabi töötajale ja käesoleva seaduse § 1 lõikes 3 nimetatud isikule;\n2) kutsub kiirabi;\n3) kontrollib regulaarselt esmaabivahendite olemasolu ja vastavust ettevõtte vajadustele.\n(4) Esmaabiandja koolituse ja täienduskoolituse viib läbi täienduskoolitusasutus vastavalt täiskasvanute koolituse seaduse nõuetele.\n(5) Esmaabiandja koolituse ja täienduskoolituse korra täienduskoolitusasutuses kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para13^3",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "13^3",
+      "title": "§ 13^3. Juhendamine ja väljaõpe",
+      "content": "(1) Tööandja juhendab töötajat enne tööle asumist. Juhendamise käigus tehakse eelkõige teatavaks:\n1) ettevõtte töötervishoiu ja tööohutuse nõuded ning töökeskkonnavoliniku ja töökeskkonnaspetsialisti kontaktandmed;\n2) töökeskkonna riskide hindamise tulemused, sealhulgas töötaja töökeskkonna ohutegurid, terviseriskid ja tervisekahjustuste vältimiseks rakendatavad abinõud;\n3) tehtava töö ja kasutatava töövahendi ohutusnõuded;\n4) ergonoomiliselt õiged tööasendid ja -võtted;\n5) ühis- ja isikukaitsevahendite kasutamine;\n6) tegutsemine tervisekahjustuse korral, sealhulgas esmaabi andmise juhised, esmaabivahendite kasutamine ja nende asukoht, hädaabinumber 112 ning esmaabiandja kontaktandmed;\n7) elektri- ja tuleohutusnõuded;\n8) õnnetusohu ja õnnetusjuhtumi korral käitumise juhised, töökohal kasutatavad ohumärguanded, evakuatsioonipääsude ja -teede ning tulekustutusvahendite asukohad;\n9) keskkonna saastamisest hoidumise juhised.\n(2) Tööandja korraldab töötajale töökohal väljaõppe ohutute töövõtete omandamiseks, võttes muu hulgas arvesse töötaja töö eripära ja ohtlikkust.\n(3) Tööandja peab töötaja juhendamist ja väljaõpet vajalikus osas ja mahus kordama, kui:\n1) muutub ettevõtte töötervishoiu ja tööohutuse korraldus;\n2) muutuvad töötaja tööülesanded või tööandja annab töötaja kasutusse uue töövahendi või tehnoloogia;\n3) töötaja on pikka aega töölt eemal viibinud;\n4) töötaja rikkus tööohutuse nõudeid ja see põhjustas või oleks võinud põhjustada õnnetusjuhtumi, sealhulgas tööõnnetuse;\n5) töötaja, tööandja või Tööinspektsioon peab seda vajalikuks.\n(4) Tööandja lubab töötaja tööle, kui ta on veendunud, et töötaja tunneb ettevõtte töötervishoiu ja tööohutuse korraldust ning oskab ohutuid töövõtteid praktikas rakendada.\n(5) Tööandja registreerib juhendamise ja väljaõppe toimumise kuupäeva ja sisu kirjalikult või kirjalikku taasesitamist võimaldavas vormis. Töötaja kinnitab juhendamist ja väljaõpet kirjalikult või kirjalikku taasesitamist võimaldavas vormis."
+    },
+    {
+      "provision_ref": "para13^4",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "13^4",
+      "title": "§ 13^4. Töökeskkonna riskianalüüs",
+      "content": "(1) Tööandja selgitab töökeskkonna riskianalüüsi koostamisel välja töökeskkonna ohutegurid, mõõdab vajaduse korral nende parameetrid ning hindab riske töötaja tervisele ja ohutusele.\n(2) Riskianalüüs sisaldab tegevuskava, milles nähakse ette kõikidel ettevõtte tegevusaladel ja juhtimistasanditel rakendatavad abinõud töötajate terviseriski vältimiseks ja vähendamiseks, samuti abinõude rakendamise ajakava ja rakendajad. Tööandja eraldab tegevuskava täitmiseks vajalikud vahendid.\n(3) Riskianalüüsis tuleb arvestada töötaja ealisi, soolisi ja tervisest tulenevaid iseärasusi, sealhulgas eririske käesoleva seaduse §-des 10 ja 10^1 nimetatud töötajatele, ning töökohtade ja töövahendite kasutamise ja töökorraldusega seotud riske.\n(4) Tööandja uuendab riskianalüüsi, kui:\n1) töötingimused või töökeskkond on oluliselt muutunud;\n2) töövahendeid või tehnoloogiat on vahetatud või uuendatud;\n3) on ilmnenud uued andmed ohuteguri mõju kohta inimese tervisele;\n4) õnnetuse või ohtliku olukorra tõttu on riskitase esialgse tasemega võrreldes muutunud;\n5) töötervishoiuarst on tervisekontrolli käigus tuvastanud töötaja tööga seotud haigestumise;\n6) tööinspektor on järelevalve käigus tuvastanud, et riskianalüüsis ei ole piisavalt hinnatud töökeskkonnas esinevaid riske, sealhulgas ei ole mõõdetud ohutegurite parameetreid, või ei ole ette nähtud abinõusid ohtude maandamiseks.\n(5) Tööandja teavitab töötajaid ja nende esindajaid riskianalüüsist.\n(6) Tööandja koostab riskianalüüsi kirjalikku taasesitamist võimaldavas vormis.\n(7) Tööandja koostab riskianalüüsi töökeskkonna andmekogus või edastab selle kirjalikku taasesitamist võimaldavas vormis Tööinspektsioonile.\n(8) Riskianalüüse säilitatakse töökeskkonna andmekogus, välja arvatud juhul, kui tööandjal puudub kohustus riskianalüüsi andmekogusse lisada.\n(9) Tööandja säilitab töökeskkonna andmekogusse kandmata või enne 2021. aasta 1. märtsi koostatud riskianalüüse 55 aastat riskianalüüsi koostamisest arvates."
+    },
+    {
+      "provision_ref": "para13^5",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "13^5",
+      "title": "§ 13^5. Tööandja kohustused kaugtöö korral",
+      "content": "(1) Tööandja on kohustatud:\n1) kajastama töö iseloomust tulenevad võimalikud riskid töökeskkonna riskianalüüsis ning kaugtöö erisusi arvestades rakendama abinõusid töötaja terviseriskide vältimiseks või vähendamiseks;\n2) juhendama töötajat enne kaugtööle lubamist ning regulaarselt vastavalt vajadusele, lähtudes käesoleva seaduse §-s 13^3 sätestatust ja arvestades kaugtöö erisusi;\n3) tagama tööülesannete täitmiseks sobilikud töövahendid;\n4) korraldama töötaja tervisekontrolli vastavalt käesoleva seaduse §-s 13^1 sätestatule;\n5) uurima tööõnnetusi ja kutsehaigestumisi vastavalt käesoleva seaduse §-s 24 sätestatule;\n6) maksma haigushüvitist vastavalt käesoleva seaduse §-s 12^2 sätestatule.\n(2) Kaugtöö töökoht sisustatakse töötaja ja tööandja kokkuleppel.\n(3) Tööandja täidab käesoleva paragrahvi lõikes 1 nimetamata töötervishoiu- ja tööohutusalaseid kohustusi niivõrd, kuivõrd see on kaugtöö eripärasid arvestades võimalik."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "14",
+      "title": "§ 14. Töötaja kohustused ja õigused",
+      "content": "(1) Töötaja on kohustatud:\n1) osalema ohutu töökeskkonna loomisel, järgides töötervishoiu ja tööohutuse nõudeid;\n1^1) kujundama kaugtööl ohutu töökoha ja töötingimused lähtuvalt tööandja antud juhistest;\n2) järgima tööandja kehtestatud töö- ja puhkeaja korraldust;\n3) läbima tervisekontrolli vastavalt kehtestatud korrale;\n4) kasutama ettenähtud isikukaitsevahendeid nõuetekohaselt ning hoidma neid töökorras;\n5) tagama vastavalt väljaõppele ja tööandja antud juhistele, et tema töö ei ohustaks tema enda ega teiste elu ja tervist ega saastaks keskkonda;\n6) kohe teatama tööandjale või tema esindajale ja töökeskkonnavolinikule õnnetusjuhtumist või selle tekkimise ohust, tööõnnetusest või tööülesande täitmist takistavast tervisehäirest ning kõikidest kaitsesüsteemide puudustest;\n7) täitma tööandja, töökeskkonnaspetsialisti, töökeskkonnavoliniku, töötervishoiuarsti ja Tööinspektsiooni töötervishoiu- ja tööohutusalaseid juhiseid;\n8) kasutama töövahendeid ja ohtlikke kemikaale nõuetekohaselt;\n9) hoiduma omavoliliselt lahti ühendamast, muutmast või eemaldamast töövahenditele või ehitistele paigaldatud ohutusseadiseid ja kasutama neid seadiseid nõuetekohaselt;\n10) tagama, et töötamine või teenuse osutamine teise tööd andva isiku juures ei ohusta tema enda ega teiste elu ja tervist.\n(1^1) Töökohustuste täitmisel töötaja terviseandmeid töötleval isikul on nende andmete suhtes tähtajatu saladuse hoidmise kohustus.\n(2) Töötajal on keelatud töötada alkoholi-, narkootilises või toksilises joobes või psühhotroopse aine mõju all.\n(3)\n(4) Töötaja töötervishoiu- ja tööohutusalased kohustused ei vabasta tööandjat asjakohasest vastutusest, välja arvatud juhul, kui tööülesandeid täidetakse kaugtööna ja tööandja on täitnud kõik käesoleva seaduse §-s 13^5 nimetatud kohustused.\n(5) Töötajal on õigus:\n1) nõuda tööandjalt töötervishoiu ja tööohutuse nõuetele vastavaid töötingimusi ning ühis- ja isikukaitsevahendeid;\n2) saada teavet töökeskkonna ohuteguritest, töökeskkonna riskianalüüsi tulemustest, tervisekahjustuste vältimiseks rakendatavatest abinõudest, tervisekontrolli tulemustest ja Tööinspektsiooni ettekirjutusest tööandjale;\n3) tõsise ja vältimatu õnnetusohu korral peatada töö ning lahkuda oma töökohalt või ohualalt;\n4) keelduda tööst või peatada töö, mille täitmine seab ohtu tema või teiste isikute tervise või ei võimalda täita keskkonnaohutuse nõudeid, teatades sellest viivitamata tööandjale või tema esindajale ja töökeskkonnavolinikule;\n5) nõuda tööandjalt arsti otsuse alusel enda üleviimist ajutiselt või alaliselt teisele tööle või oma töötingimuste ajutist kergendamist;\n5^1) nõuda enda üleviimist sobivale päevasele tööle, kui ööajal töötamine on isikule arsti otsuse alusel tervise tõttu vastunäidustatud ning tööandjal on võimalik töötajat vastavale tööle üle viia;\n6) saada tööst põhjustatud tervisekahjustuse eest hüvitist võlaõigusseaduses sätestatud ulatuses;\n7) pöörduda töökeskkonnavoliniku, töökeskkonnanõukogu liikmete ja teiste töötajate esindajate ning Tööinspektsiooni poole, kui tema arvates tööandja poolt rakendatavad abinõud ja antud vahendid ei taga töökeskkonna ohutust."
+    },
+    {
+      "provision_ref": "para14^1",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "14^1",
+      "title": "§ 14^1. Leppetrahv töötervishoiu ja tööohutuse nõuete rikkumise eest",
+      "content": "(1) Tööandja ja töötaja töölepingu seaduse tähenduses võivad kokku leppida leppetrahvi töötervishoiu ja tööohutuse nõuete rikkumise eest võlaõigusseaduses sätestatud tingimustel ja korras.\n(2) Leppetrahvis lepitakse kokku juhul, kui tööandja on töötajat eelnevalt juhendanud ja välja õpetanud vastavalt käesoleva seaduse §-s 13^3 sätestatule.\n(3) Leppetrahvi kokkulepe sõlmitakse kirjalikult.\n(4) Leppetrahvi kokkuleppes määratakse kindlaks nii töötaja kui ka tööandja tegevused, mida saab käsitada töötervishoiu ja tööohutuse nõuete rikkumisena ja mis võivad kaasa tuua ohu töötaja tervisele.\n(5) Töötaja töötervishoiu ja tööohutuse nõuete rikkumise eest kokku lepitav leppetrahv ei tohi ületada töötaja ühe kuu keskmist töötasu, mis arvutatakse töötaja keskmise tööpäevatasu alusel."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - TÖÖANDJA JA TÖÖTAJA KOHUSTUSED JA ÕIGUSED",
+      "section": "15",
+      "title": "§ 15. Õnnetusoht ja õnnetusjuhtum",
+      "content": "(1) Käesolevas seaduses mõistetakse õnnetusohuna olukorda, mis võib lõppeda õnnetusjuhtumiga töökohal. Õnnetusjuhtum käesoleva seaduse tähenduses on töökohal toimunud tulekahju, plahvatus või muu juhtum, mis võib ohustada töötajate ja teiste isikute elu ja tervist.\n(2) Võimaliku õnnetusjuhtumi puhuks on tööandja kohustatud:\n1) korraldama sideühenduse hädaabinumbriga 112;\n2) ettevõtte suurusest ja tegevuse laadist olenevalt määrama kindlaks tegevuskava inimeste ohualast väljaviimiseks ja päästetööde tegemiseks;\n3) määrama inimeste ohualast väljaviimise ja päästetööde tegemise eest vastutavad töötajad, korraldama neile väljaõppe ning teavitama nendest ettevõtte töötajaskonda. Nende töötajate arv, väljaõpe ja nende käsutuses olev varustus peavad vastama ettevõtte suurusele ja ohu eripärale;\n4) määrama kindlaks töövahendite seiskamise ja väljalülitamise korra;\n5) andma töötajatele juhised töö peatamiseks ja ohualalt lahkumiseks tõsise ja vältimatu õnnetusohu tekkimisel.\n(3) Tööandja on kohustatud õnnetusohu tekkimise korral teatama ohust ja rakendatavatest abinõudest võimalikult kiiresti kõigile töötajatele, kes on või võivad sattuda tõsisesse ohtu.\n(4) Töötajad peavad tõsise ja ähvardava õnnetusohu korral võtma tarvitusele abinõud vastavalt oma teadmistele ja kättesaadavatele tehnilistele vahenditele võimalike tagajärgede vältimiseks ka sellisel juhul, kui vahetu ülemusega ei ole võimalik kohe ühendust saada.\n(5) Tõsise ja vältimatu õnnetusohu korral peab töötajatel olema võimalik lahkuda oma töökohalt või ohualalt kiiresti ja ohutult. Selleks peavad evakuatsioonipääsud ja -teed olema takistuseta ning varustatud piisava turvavalgustusega ja evakuatsioonimärkidega.\n(6) Tõsise ja vältimatu õnnetusohu korral oma töökohalt või ohualalt lahkumisest peab töötaja esimesel võimalusel teatama tööandjale. Omavoliliselt lahkunud töötajat ei tohi selle eest karistada ega asetada ebasoodsasse olukorda.\n(7) Tööandja ei tohi kutsuda töötajaid tööd jätkama enne, kui õnnetusoht on kõrvaldatud.\n(8) Tööandja peab registreerima kõik ettevõttes tekkinud olukorrad, mis oleksid võinud lõppeda õnnetusjuhtumiga, ja nendest töötajaid teavitama ning rakendama abinõusid selliste olukordade kordumise vältimiseks."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "4. peatükk - TÖÖTERVISHOIU JA TÖÖOHUTUSE KORRALDUS",
+      "section": "16",
+      "title": "§ 16. Töökeskkonnaspetsialist",
+      "content": "(1) Töökeskkonnaspetsialist on töökeskkonnaalaste teadmiste ja oskustega töötaja, keda tööandja on volitanud ettevõttes täitma töötervishoiu- ja tööohutusalaseid kohustusi.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud töötaja puudumisel peab tööandja kasutama pädevat ettevõttevälist spetsialisti.\n(2^1) Töökeskkonnaspetsialistide arv ettevõttes peab olema piisav, et korraldada kaitse- ja ennetusmeetmete rakendamist, võttes arvesse ettevõtte suurust ja ohutegureid, millega töötajad kokku puutuvad.\n(3) Töökeskkonnaspetsialisti ametisse määramine või tööle võtmine ei vabasta tööandjat vastutusest töötervishoiu ja tööohutuse valdkonnas.\n(4) Töökeskkonnaspetsialist peab tundma töötervishoidu ja tööohutust reguleerivaid õigusakte ja ettevõtte töötingimusi, neid jälgima ja kontrollima ning võtma tarvitusele abinõud töökeskkonna ohutegurite mõju vähendamiseks.\n(5) Töökeskkonnaspetsialist on kohustatud peatama ajutiselt töö ohtlikus töölõigus või keelama ohtliku töövahendi kasutamise, kui on tekkinud otsene oht töötaja elule või tervisele ja kui ohtu ei ole võimalik muul viisil kõrvaldada.\n(6) Ohutu töökeskkonna loomiseks ning töötajate töövõime säilitamiseks teeb töökeskkonnaspetsialist koostööd töötajate, töökeskkonnanõukogu liikmete, töökeskkonnavolinike ja teiste töötajate esindajatega ning töötervishoiuteenuse osutajaga.\n(7) Tööandja varustab töökeskkonnaspetsialisti tööks vajalike vahenditega.\n(8) Tööandja teavitab töökeskkonnaspetsialisti ja käesoleva paragrahvi lõikes 2 nimetatud ettevõttevälist teenuseosutajat teadaolevatest töökeskkonna ohuteguritest, mis mõjutavad või võivad mõjutada töötajate ohutust ja tervist, nende vältimiseks rakendatavatest abinõudest ja käesoleva seaduse § 15 lõikes 2 nimetatud abinõudest, ning tagab neile juurdepääsu riskianalüüsile, sealhulgas tegevuskavale.\n(9) Tööandja võib ise täita töökeskkonnaspetsialisti kohustusi, kui tal on töökeskkonnaalased teadmised ja oskused.\n(10) Tööandja teavitab määratud töökeskkonnaspetsialistist Tööinspektsiooni töökeskkonna andmekogu kaudu või kirjalikku taasesitamist võimaldavas vormis kümne päeva jooksul määramisest arvates, esitades tema ees- ja perekonnanime, ametikoha ja kontaktandmed."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "4. peatükk - TÖÖTERVISHOIU JA TÖÖOHUTUSE KORRALDUS",
+      "section": "17",
+      "title": "§ 17. Töökeskkonnavolinik",
+      "content": "(1) Töökeskkonnavolinik on töötajate valitud esindaja töötervishoiu ja tööohutuse küsimustes ning tema volituste kehtivusaja otsustab töötajate koosolek.\n(1^1) Ettevõtte üleminekul kehtivad töökeskkonnavoliniku volitused nende lõppemiseni, kuid mitte kauem kui üks aasta üleminekust arvates.\n(1^2) Võlaõigusseaduse §-s 181 sätestatud piiranguid töökeskkonnavoliniku volituste üleminekul ei kohaldata.\n(2) Ettevõttes, kus töötab 10 või rohkem töötajat, valivad töötajad enda hulgast ühe töökeskkonnavoliniku. Kui ettevõttes on töötajaid vähem kui 10, on tööandja kohustatud konsulteerima töötajatega tööohutuse ja töötervishoiu küsimustes.\n(3) Ettevõttes, mis koosneb mitmest territoriaalselt eraldatud struktuuriüksusest või kus töötatakse vahetustega ja kus struktuuriüksuses või vahetuses töötab korraga üle kümne töötaja, valivad töötajad igasse struktuuriüksusse või vahetusse ühe töökeskkonnavoliniku.\n(4) Tööandja korraldab töökeskkonnavolinike valimisteks ettevõtte, ettevõtte struktuuriüksuse või vahetuse töötajate koosoleku, milles on töötajatel võimalik osaleda kas otse või lihtkirjalikult volitatud isiku kaudu. Valimised loetakse toimunuks, kui neis on osalenud vähemalt 50 protsenti ettevõtte, ettevõtte struktuuriüksuse või vahetuse töötajatest. Valimiste kord sätestatakse kollektiivlepingus või muus tööandja ja töötajate vahelises kirjalikus kokkuleppes. Tööandja teeb valitud töökeskkonnavolinike nimed ja ametid Tööinspektsioonile teatavaks töökeskkonna andmekogu kaudu või kirjalikku taasesitamist võimaldavas vormis kümne päeva jooksul valimistest arvates.\n(5) Töökeskkonnavoliniku kohustused on:\n1) jälgida, et töökohas oleksid rakendatud töötervishoiu ja tööohutuse abinõud ning et töötajad oleksid varustatud töökorras isikukaitsevahenditega;\n2) osaleda oma töölõigus toimunud tööõnnetuse ja kutsehaigestumise uurimisel;\n3) teatada ohuolukorrast või töökeskkonnas avastatud puudusest viivitamata töötajatele ja tööandjale või tema esindajale ning nõuda tööandjalt puuduse kõrvaldamist võimalikult lühikese aja jooksul;\n4) tunda töötajatele kohustuslikke juhendeid ja õigusakte;\n5) jälgida, et töötajad saaksid töötervishoiu ja tööohutuse valdkonnas vajalikud teadmised, juhendamise ja väljaõppe;\n6) jälgida, et tööandja on korraldanud töötervishoiuteenuse osutamise.\n(6) Töökeskkonnavolinikul on õigus:\n1) nõuda tööandjalt ettenähtud töötervishoiu ja tööohutuse abinõude rakendamist, töötajate varustamist töökorras isikukaitsevahenditega ning teha ettepanekuid ohuallika kõrvaldamiseks ja töökeskkonna parandamiseks;\n2) pääseda ettevõttes kõigisse tema ülesannete täitmiseks vajalikesse töökohtadesse, saada tööandjalt oma kohustuste täitmiseks vajalikku teavet käesoleva seaduse § 13^4 lõigetes 1–3 ning § 24 lõikes 3 nimetatud andmete ja dokumentide kohta ning teavet Tööinspektsiooni ettekirjutusest tööandjale;\n3) pöörduda Tööinspektsiooni;\n4) peatada ajutiselt töö ohtlikus töölõigus või keelata ohtliku töövahendi kasutamine, kui töötaja elu või tervis on otseselt ohus ja kui ohtu ei ole võimalik muul viisil kõrvaldada. Ohust tuleb viivitamata teatada tööandjale või tema esindajale. Tööd ei tohi jätkata enne, kui oht on kõrvaldatud.\n(7) Töökeskkonnavolinik ei tohi oma ülesannete täitmise tõttu sattuda ebasoodsasse olukorda, kui ilmneb tema ja tööandja huvide konflikt.\n(8) Tööandja võimaldab töökeskkonnavolinikul täita oma kohustusi tööajal. Töökeskkonnavolinikule makstakse sellel ajal keskmist tööpäevatasu.\n(9) Töökeskkonnavoliniku ülesannete täitmise aeg nähakse ette kollektiivlepingus või muus tööandja ja töötajate kirjalikus lepingus. Ülesannete täitmise aeg sõltub ettevõtte suurusest ja töötingimustest ning muudest asjaoludest, kuid ta ei tohi olla lühem kui kaks tundi nädalas."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "4. peatükk - TÖÖTERVISHOIU JA TÖÖOHUTUSE KORRALDUS",
+      "section": "18",
+      "title": "§ 18. Töökeskkonnanõukogu",
+      "content": "(1) Töökeskkonnanõukogu on tööandja ja töötajate esindajate koostöökogu, kus lahendatakse ettevõtte töötervishoiu ja tööohutusega seotud küsimusi.\n(2) Vähemalt 150 töötajaga ettevõttes moodustatakse tööandja algatusel töökeskkonnanõukogu, kus on võrdselt tööandja määratud esindajaid ja töötajate valitud esindajaid. Nõukogu liikmeid on vähemalt neli. Tööandja esindaja volituste kehtivusaja otsustab tööandja. Töötajate esindaja valitakse käesoleva seaduse § 17 lõikes 4 kehtestatud korras ja tema volituste kehtivusaja otsustab töötajate koosolek.\n(3) Sõltuvalt ettevõtte ohuteguritest ning ettevõttes asetleidnud tööõnnetuste ja kutsehaigusjuhtude arvust on Tööinspektsioonil õigus nõuda töökeskkonnanõukogu moodustamist ka alla 150 töötajaga ettevõttes.\n(4) Töökeskkonnanõukogu valib oma liikmete hulgast esimehe ja tema asetäitja. Nõukogu võtab otsused vastu konsensuspõhimõttel.\n(5) Töökeskkonnanõukogu liikmete nimed ja nende volituste kehtimise ajad pannakse välja nähtavale kohale.\n(5^1)\n(6) Töökeskkonnanõukogu:\n1) analüüsib korrapäraselt ettevõtte töötingimusi, registreerib tekkivad probleemid ja teeb tööandjale ettepanekuid nende lahendamiseks ning jälgib vastuvõetud otsuste täitmist;\n2) osaleb ettevõtte töötervishoiu ja tööohutuse arenduskava ning ettevõtte rekonstrueerimise, remondi, tehnoloogiliste uuenduste ja muude plaanide koostamisel;\n3) tutvub ettevõtte töökeskkonna sisekontrolli tulemustega ning vajaduse korral teeb ettepanekuid puuduste kõrvaldamiseks;\n4) analüüsib tööõnnetusi ning kutsehaigestumisi ja muid tööga seotud haigestumisi ning jälgib, et tööandja rakendab abinõusid nende ennetamiseks;\n5) aitab luua töötajatele, sealhulgas käesoleva seaduse §-des 10 ja 10^1 nimetatud töötajatele, sobivad töötingimused ja töökorralduse.\n(7) Töökeskkonnanõukogu esitab oma ettepanekud tööandjale kirjalikult.\n(8) Kui tööandja ei pea esitatud ettepanekute arvestamist võimalikuks, esitab ta selle kohta nõukogule ettepanekute saamisest arvates kolme nädala jooksul kirjaliku vastulause, milles põhjendab arvestamata jätmist.\n(9) Tööandja vabastab töökeskkonnanõukogu liikme põhitööst ajaks, millal ta täidab töökeskkonnanõukogu liikme kohustusi. Nõukogu liikmele säilitatakse selleks ajaks keskmine töötasu. Töötajaid esindaval töökeskkonnanõukogu liikmel on töölepingu seaduses või avaliku teenistuse seaduses ning kollektiiv- ja töölepingus ettenähtud tagatised. Põhitööst vabastamise tingimused nähakse ette kollektiivlepingus või muus tööandja ja töötajate kirjalikus lepingus. Põhitööst vabastamise aeg ei tohi olla lühem kui üks tund nädalas. Kui töökeskkonnanõukogu liige on ka töökeskkonnavolinik, siis kummakski tööks ettenähtud aeg liidetakse.\n(10)\n(11)"
+    },
+    {
+      "provision_ref": "para18^1",
+      "chapter": "4. peatükk - TÖÖTERVISHOIU JA TÖÖOHUTUSE KORRALDUS",
+      "section": "18^1",
+      "title": "§ 18^1. Töökeskkonnavoliniku ja töökeskkonnanõukogu liikme koolitus ja täienduskoolitus",
+      "content": "(1) Tööandja korraldab töökeskkonnavolinikule ja töökeskkonnanõukogu liikmele tema kohustuste täitmiseks vajaliku koolituse kahe kuu jooksul tema valimisest arvates.\n(2) Tööandja korraldab töökeskkonnavolinikule ja töökeskkonnanõukogu liikmele täienduskoolituse, kui töökeskkonnas on uued ohutegurid või terviseriskid, kui töötervishoidu ja tööohutust reguleerivates õigusaktides on toimunud olulisi muudatusi või kui töökeskkonnavolinik, töökeskkonnanõukogu liige, tööandja või Tööinspektsioon peab seda vajalikuks.\n(3) Koolituse ja täienduskoolituse viib läbi täienduskoolitusasutus vastavalt täiskasvanute koolituse seaduse nõuetele. Kui täienduskoolituse vajadus tuleneb uutest töökeskkonna ohuteguritest või terviseriskidest, võib täienduskoolituse läbi viia tööandja, kui tal on selleks vajalikud teadmised ja oskused.\n(4) Tööandja korraldab koolituse ja täienduskoolituse omal kulul ja tööajal. Koolituse ja täienduskoolituse ajal makstakse töökeskkonnavolinikule ja töökeskkonnanõukogu liikmele keskmist tööpäevatasu.\n(5) Koolituse ja täienduskoolituse korra täienduskoolitusasutuses kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "4. peatükk - TÖÖTERVISHOIU JA TÖÖOHUTUSE KORRALDUS",
+      "section": "19",
+      "title": "§ 19. Töötervishoiuteenus ja selle osutaja",
+      "content": "(1) Lisaks käesoleva seaduse § 13^1 lõikes 3 nimetatud töötervishoiuteenusele võivad töötervishoiuarst, töötervishoiuõde, tööhügieenik, tööpsühholoog, tööfüsioterapeut ja ergonoom (edaspidi töötervishoiuspetsialist ) osutada järgmisi töötervishoiuteenuseid:\n1) töökeskkonna riskianalüüsi tegemine, sealhulgas ohutegurite parameetrite mõõtmine;\n2) tööandja nõustamine töö kohandamisel töötaja võimetele ja terviseseisundile vastavaks;\n3) tööandja nõustamine töövahendite ja isikukaitsevahendite valikul ja kasutamisel ning töötingimuste parandamisel;\n4) töötajate taastusravi korraldamine;\n5) tööandja ja töötaja psühholoogiline nõustamine.\n(2)\n(3) Töötervishoiuteenust osutav isik peab olema pädev mõõtja mõõteseaduse tähenduses, kui osutatav töötervishoiuteenus sisaldab töökeskkonna ohutegurite parameetrite mõõtmist, mille korral on õigusaktides sätestatud pädeva mõõtja nõue.\n(4) Töötervishoiuteenuse osutamisel peab töötervishoiuteenust osutava isiku heaks lepingu alusel tegutsema füüsiline isik, kellel on töötervishoiuspetsialisti erialast pädevust tõendav diplom, spetsialiseerumise või täiendusõppe tunnistus."
+    },
+    {
+      "provision_ref": "para19^1",
+      "chapter": "4. peatükk - TÖÖTERVISHOIU JA TÖÖOHUTUSE KORRALDUS",
+      "section": "19^1",
+      "title": "§ 19^1. Tegutsemine töötervishoiuteenuse osutajana",
+      "content": "(1) Töötervishoiuarsti ja töötervishoiuõe tööülesannete täitmist hõlmava töötervishoiuteenuse osutamiseks kohaldatakse tervishoiuteenuste korraldamise seaduses sätestatut.\n(2) Juriidiline isik või füüsilisest isikust ettevõtja peab tegutsemiseks töötervishoiuteenuse osutajana esitama majandustegevuse seadustiku üldosa seaduse § 14 lõikes 1 nimetatud majandustegevusteate.\n(3) Majandustegevusteade peab lisaks majandustegevuse seadustiku üldosa seadusega sätestatud majandustegevusteates sisalduvatele andmetele sisaldama järgmisi andmeid:\n1) osutatav töötervishoiuteenus;\n2) töötervishoiuspetsialisti nimi;\n3) töötervishoiuspetsialisti kontaktandmed (telefoninumber, elektronposti aadress);\n4) andmed töötervishoiuspetsialisti erialast pädevust tõendava diplomi, spetsialiseerumise või täiendusõppe tunnistuse kohta, eelkõige eriala, tunnistuse number, väljaandmise koht ja kuupäev ning kehtivusaeg;\n5) juriidilise isiku või füüsilisest isikust ettevõtja kirjalik kinnitus, et lepingu alusel tegutseb tema heaks töötervishoiuspetsialist;\n6) juriidilise isiku või füüsilisest isikust ettevõtja kirjalik kinnitus, et isik vastab käesoleva seaduse § 19 lõikes 3 sätestatud nõudele."
+    },
+    {
+      "provision_ref": "para19^2",
+      "chapter": "4. peatükk - TÖÖTERVISHOIU JA TÖÖOHUTUSE KORRALDUS",
+      "section": "19^2",
+      "title": "§ 19^2. Töötervishoiuspetsialisti kohustused",
+      "content": "(1) Töötervishoiuspetsialist järgib oma töös järgmisi kutse-eetika põhimõtteid:\n1) hoiab oma tegevuse tõttu teatavaks saanud tootmis- ja ärisaladust, välja arvatud juhul, kui selle põhimõtte järgimisest tuleb loobuda töötajate tervise ja ohutuse kaitseks;\n2) tagab töötajate tervise- ja eraeluandmete konfidentsiaalsuse;\n3)\n4) teavitab töötajaid kutsetöö ja töökeskkonnaga seotud ohtudest.\n(2) Tööandja ja töötaja peavad andma töötervishoiuspetsialistile tema tööülesannete täitmiseks vajalikku teavet.\n(3)"
+    },
+    {
+      "provision_ref": "para20^1",
+      "chapter": "4. peatükk - TÖÖTERVISHOIU JA TÖÖOHUTUSE KORRALDUS",
+      "section": "20^1",
+      "title": "§ 20^1. Terviseameti ülesanded töötervishoiu valdkonnas",
+      "content": "Terviseamet:\n1) osaleb töötervishoiuprogrammide väljatöötamises ja korraldab nende elluviimist;\n2) analüüsib andmeid töötajate kutsehaigestumise ja tööst põhjustatud haigestumise kohta;\n3) korraldab töötervishoiuspetsialistide täienduskoolitust.\n4)"
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - TÖÖTERVISHOIU JA TÖÖOHUTUSE KORRALDUS",
+      "section": "21",
+      "title": "§ 21. Töökeskkonna Nõukoda",
+      "content": "(1) Töökeskkonna Nõukoda on Majandus- ja Kommunikatsiooniministeeriumi juures asuv valitsusasutuste ning tööandjate ja töötajate keskliitude töötervishoiu ja tööohutuse asjatundjatest koosnev nõuandekogu töökeskkonna küsimustes.\n(2) Nõukoja põhiülesanne on teha ettepanekuid ja avaldada arvamust töökeskkonnapoliitika väljatöötamiseks ja rakendamiseks.\n(3) Nõukoda täidab järgmisi ülesandeid:\n1) hindab korrapäraselt riigi töökeskkonna seisundit;\n2) kogub, vaatab läbi ja arutab sotsiaalpartnerite töökeskkonna parandamise ettepanekuid;\n3) analüüsib töökeskkonna parandamise abinõude tõhusust;\n4) teeb valdkonna eest vastutavale ministrile ettepanekuid ja annab soovitusi töökeskkonna küsimustes;\n5) arutab Riigikogule, Vabariigi Valitsusele ja valdkonna eest vastutavale ministrile esitatavate seaduste ja määruste eelnõusid ning annab nendele hinnangu;\n6) teeb ettepanekuid õigusaktide muutmiseks ja täiendamiseks.\n(4) Töökeskkonna Nõukoja töökord kehtestatakse põhimäärusega, mille kinnitab valdkonna eest vastutav minister. Nõukoja koosseisu kinnitab valdkonna eest vastutav minister valitsusasutuste ning tööandjate ja töötajate keskliitude ettepanekute alusel."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "5. peatükk - TÖÖÕNNETUS JA KUTSEHAIGESTUMINE",
+      "section": "22",
+      "title": "§ 22. Tööõnnetus",
+      "content": "(1) Tööõnnetus on töötaja tervisekahjustus või surm, mis toimus tööandja antud tööülesannet täites või muul tema loal tehtaval tööl, tööaja hulka arvataval vaheajal või muul tööandja huvides tegutsemise ajal. Tööõnnetusena ei käsitata tervisekahjustust või surma, mis toimus loetletud juhtudel, kuid mis ei ole põhjuslikus seoses töötaja töö või töökeskkonnaga.\n(2)\n(3) Arst teatab Tööinspektsioonile viivitamata kirjalikult või kirjalikku taasesitamist võimaldavas vormis surmaga lõppenud tööõnnetusest ja tööõnnetusest, mille tagajärjel määrati töötajale ajutine töövõimetus.\n(3^1) Tööinspektsioon teavitab tööandjat viivitamata töökeskkonna andmekogu kaudu või kirjalikku taasesitamist võimaldavas vormis käesoleva paragrahvi lõikes 3 nimetatud teate saamisest.\n(4) Tööandja teatab eluohtliku seisundi tekitanud või surmaga lõppenud tööõnnetusest viivitamata Tööinspektsioonile ja surmaga lõppenud tööõnnetusest ka politseile."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "5. peatükk - TÖÖÕNNETUS JA KUTSEHAIGESTUMINE",
+      "section": "23",
+      "title": "§ 23. Kutsehaigus ja tööga seotud haigus",
+      "content": "(1) Kutsehaigus on haigus, mille on põhjustanud kutsehaiguste loetelus nimetatud töökeskkonna ohutegur või töö laad. Kutsehaiguste loetelu kehtestab valdkonna eest vastutav minister.\n(2) Tööga seotud haigus on kutsehaigus või tööst põhjustatud haigus.\n(3) Tööst põhjustatud haigus on töökeskkonna ohuteguri põhjustatud haigus, mida ei loeta kutsehaiguseks.\n(4) Töötajal tööga seotud haigust kahtlustav arst saadab töötaja töötervishoiuarsti juurde.\n(5) Kutsehaiguse ja tööst põhjustatud haiguse diagnoosib töötervishoiuarst, kes teeb kindlaks töötaja terviseseisundi ning kogub andmed töötaja praeguste ja varasemate tööolude ja töö laadi kohta, kaasates vajaduse korral teisi tervishoiuteenuse osutajaid. Selleks töötervishoiuarst:\n1) nõuab tööandjatelt töötaja eelnevate tervisekontrollide andmed ja töökeskkonna riskianalüüsi tulemused või riskianalüüsi puudumise korral seletuskirja töötaja tööolude ja töö laadi kohta;\n2) vestleb tööandjaga ja vajaduse korral külastab töökeskkonda;\n3) vestleb töötajaga ja vajaduse korral küsib töötajalt täiendavaid terviseandmeid.\n(6) Kutsehaigestumisest teatab töötervishoiuarst kirjalikult või kirjalikku taasesitamist võimaldavas vormis hiljemalt viie päeva jooksul pärast haiguse diagnoosimist tööandjale, Tööinspektsioonile ja töötaja töötervishoiuarsti juurde suunanud arstile.\n(7) Tööst põhjustatud haigestumisest teatab töötervishoiuarst kirjalikult või kirjalikku taasesitamist võimaldavas vormis hiljemalt viie päeva jooksul pärast haiguse diagnoosimist Tööinspektsioonile, esitades järgmised andmed:\n1) töötaja ees- ja perekonnanime, ameti;\n2) haiguse diagnoosimise kuupäeva;\n3) haiguse ja selle tekkepõhjused;\n4) tööandja ja tema aadressi.\n(8) Tööinspektsioon edastab Terviseametile hiljemalt iga aasta 1. märtsiks kirjalikult eelmise aasta kutsehaigestumiste ja tööst põhjustatud haigestumiste statistilised andmed."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "5. peatükk - TÖÖÕNNETUS JA KUTSEHAIGESTUMINE",
+      "section": "24",
+      "title": "§ 24. Tööõnnetuse ja kutsehaigestumise uurimine ning registreerimine",
+      "content": "(1) Tööandja uurib kõiki tööõnnetusi ja kutsehaigestumisi. Tööõnnetuse ja kutsehaigestumise uurimise eesmärk on välja selgitada tööõnnetuse ja kutsehaigestumise asjaolud ja põhjused ning kindlaks määrata abinõud samalaadse juhtumi kordumise vältimiseks. Uurimises osaleb hääleõigusega töökeskkonnavolinik, tema puudumisel muu töötajate esindaja. Kui tööandjal puuduvad vajalikud teadmised, peab ta uurimisse kaasama pädeva eksperdi.\n(2) Kui tööõnnetus on toimunud teenuseosutajaga käesoleva seaduse § 12 lõikes 6 sätestatud olukorras, teeb kõik käesolevas peatükis sätestatud tööõnnetusega seotud toimingud töid korraldav isik või tema puudumise korral tööandja.\n(3) Tööandja registreerib kõik tööõnnetused ja kutsehaigestumised ning teeb sellekohased andmed, sealhulgas uurimise tulemused, teatavaks kannatanule, töökeskkonnaspetsialistile, töökeskkonnanõukogule, töökeskkonnavolinikule ja teistele töötajate esindajatele.\n(4) Tööandja koostab kutsehaigestumise uurimise tulemuste kohta raporti ja esitab selle kirjalikult või töökeskkonna andmekogu kaudu Tööinspektsioonile ning kannatanule või tema huvide kaitsjale kirjalikult.\n(4^1) Tööandja koostab tööõnnetuse uurimise tulemuste kohta raporti juhul, kui tööõnnetuse tagajärg on ajutine töövõimetus või surm. Tööandja koostab tööõnnetuse uurimise tulemuste kohta raporti töökeskkonna andmekogus või edastab selle kirjalikult Tööinspektsioonile ning esitab raporti kannatanule või tema huvide kaitsjale kirjalikult.\n(5) Tööinspektsioon uurib vajaduse korral tööõnnetusi ja kutsehaigestumisi.\n(6) Tööinspektsioon ei uuri tööõnnetust, millega seoses toimub kriminaalmenetlus.\n(7) Pärast kriminaalmenetluse lõpetamist uurib Tööinspektsioon surmaga lõppenud tööõnnetusi, raske tervisekahjustusega lõppenud tööõnnetusi, mille puhul alustati kriminaalmenetlust töötervishoiu ja tööohutuse nõuete eiramise tõttu, ja vajaduse korral tööõnnetusi, mille puhul alustati kriminaalmenetlust ettevaatamatusest töötervishoiu ja tööohutuse nõuete eiramise tõttu.\n(8) Tööinspektsioonil on õigus nõuda tööandjalt täiendavat uurimist ja tööõnnetuse või kutsehaigestumise raporti muutmist juhul, kui ta tuvastab, et uurimist ei ole tehtud või raport ei ole koostatud nõuetekohaselt.\n(9)\n(10) Tööõnnetuse ja kutsehaigestumise registreerimise, teatamise ja uurimise korra kehtestab Vabariigi Valitsus määrusega.\n(11) Tööõnnetuse ja kutsehaigestumise uurimise andmeid säilitatakse 55 aastat. Tööõnnetuse ja kutsehaigestumise uurimise tulemuste kohta koostatud raportit säilitatakse töökeskkonna andmekogus.\n(12) Tööandjal on õigus töödelda töötaja terviseandmeid ulatuses, mis on vajalik tööõnnetuse ja kutsehaiguse uurimiseks, eelkõige andmeid tööõnnetusega seotud tervisekahjustuse ja kutsehaiguse tuvastamise kohta. Tööõnnetusega seotud andmed edastab tööandjale töötaja või Tööinspektsioon, kutsehaigusega seotud andmed töötervishoiuarst."
+    },
+    {
+      "provision_ref": "para24^1",
+      "chapter": "5. peatükk - TÖÖÕNNETUS JA KUTSEHAIGESTUMINE",
+      "section": "24^1",
+      "title": "§ 24^1. Töökeskkonna andmekogu",
+      "content": "(1) Töökeskkonna andmekogu eesmärk on edendada tööohutust, võimaldades Tööinspektsioonil töödelda töötervishoiu ja tööohutusega seotud andmeid ettevõtete töökeskkonna hindamiseks, ennetus- ja järelevalvetegevuse planeerimiseks ja teostamiseks ning töövaidluste ja lepituste menetlemiseks. Tööandjatel ja töötajatel võimaldab andmekogu töötervishoiu ja tööohutusega seotud õigusi kasutada ja kohustusi täita.\n(2) Andmekogu vastutav töötleja on Tööinspektsioon.\n(3) Andmekogus töödeldakse järgmisi andmeid:\n1) füüsilise isiku ja ettevõtte üldandmed;\n2) andmed ettevõtte töökeskkonna kohta;\n3) andmed Tööinspektsiooni järelevalvetegevuse ja -toimingute kohta;\n4) andmed kohtuvälise menetleja poolt läbiviidud väärteomenetluste kohta;\n5) andmed töökeskkonnas juhtunud õnnetuste, tööõnnetuste, kutsehaigestumiste ja tööst põhjustatud haigestumiste kohta;\n6) andmed töövaidlusasjade lahendamise ja lepitusmenetluste kohta.\n(4) Andmekogusse kantud andmeid säilitatakse nende andmekogusse kandmisest arvates järgmiselt:\n1) järelevalveandmeid kuni kümme aastat;\n2) väärteomenetluse andmeid viis aastat;\n3) õnnetuse, tööõnnetuse, kutsehaigestumise ja tööst põhjustatud haigestumise andmeid kuni 55 aastat;\n4) töövaidluse andmeid kuni 55 aastat;\n5) riskianalüüsi andmeid kuni 55 aastat.\n(5) Töökeskkonna andmekogu asutab ja põhimääruse kehtestab valdkonna eest vastutav minister määrusega, milles sätestatakse:\n1) volitatud töötlejad ja nende ülesanded;\n2) andmeandjad, kogutavate andmete täpsem koosseis ja nende andmekogusse kandmise kord;\n3) andmetele juurdepääsu ja andmete väljastamise kord;\n4) andmete säilitamise täpsem kord;\n5) muud korraldusküsimused.\n(6) Töökeskkonna andmekogu andmed ei ole avalikud."
+    },
+    {
+      "provision_ref": "para24^2",
+      "chapter": "5. peatükk - TÖÖÕNNETUSEST JA KUTSEHAIGUSEST TINGITUD KAHJU HÜVITAMINE SOTSIAALKINDLUSTUSAMETI POOLT",
+      "section": "24^2",
+      "title": "§ 24^2. Tööõnnetusest ja kutsehaigusest tingitud tervisekahjustuse ja surma tõttu tekitatud varalise kahju hüvitamine Sotsiaalkindlustusameti poolt",
+      "content": "(1) Sotsiaalkindlustusamet hüvitab tööandja õigusjärglaseta lõppemise korral tööandja poolt isikule tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse või surma tõttu tekitatud varalise kahju.\n(2) Sotsiaalkindlustusamet hüvitab tööandja õigusjärglaseta lõppemise korral tööandja poolt 16-aastasele kuni vanaduspensioniealisele isikule tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse tõttu tekitatud varalise kahju, kui isik on läbinud töövõime hindamise Eesti Töötukassas ning isikul on tuvastatud osaline või puuduv töövõime töövõimetoetuse seaduses sätestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para24^3",
+      "chapter": "5. peatükk - TÖÖÕNNETUSEST JA KUTSEHAIGUSEST TINGITUD KAHJU HÜVITAMINE SOTSIAALKINDLUSTUSAMETI POOLT",
+      "section": "24^3",
+      "title": "§ 24^3. Töövõime kaotuse tuvastamine tööõnnetusest ja kutsehaigusest tingitud tervisekahjustuse tõttu tekitatud varalise kahju hüvitamiseks",
+      "content": "(1) Sotsiaalkindlustusamet kaasab tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse tõttu tekitatud varalise kahju hüvitamiseks arstiõppe läbinud isiku, kes tuvastab isikul töövõime kaotuse ulatuse.\n(2) Arstiõppe läbinud isik tuvastab terviseseisundit arvesse võttes isikul töövõime kaotuse protsentides skaalal 10–100 ja eraldi tööõnnetusest või kutsehaigusest tingitud töövõime kaotuse protsentides skaalal 10–100.\n(3) Arstiõppe läbinud isik tuvastab 16-aastasel kuni vanaduspensioniealisel isikul töövõime kaotuse:\n1) 100 protsenti, kui Eesti Töötukassas töövõime hindamise tulemusena on isikul tuvastatud puuduv töövõime või\n2) 10–90 protsenti, kui Eesti Töötukassas töövõime hindamise tulemusena on isikul tuvastatud osaline töövõime."
+    },
+    {
+      "provision_ref": "para24^4",
+      "chapter": "5. peatükk - TÖÖÕNNETUSEST JA KUTSEHAIGUSEST TINGITUD KAHJU HÜVITAMINE SOTSIAALKINDLUSTUSAMETI POOLT",
+      "section": "24^4",
+      "title": "§ 24^4. Tööõnnetusest ja kutsehaigusest tingitud tervisekahjustuse korral kahjuhüvitise maksmine",
+      "content": "(1) Sotsiaalkindlustusamet vähendab tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse korral makstavat igakuist kahjuhüvitist Eesti Töötukassa poolt isikule makstud töövõimetoetuse osa võrra, mis võrdub makstud töövõimetoetuse ning tööõnnetusest või kutsehaigusest tingitud töövõime kaotuse protsendi ja isiku kogu töövõime kaotuse protsendi jagatise korrutisega.\n(2) Sotsiaalkindlustusamet määrab 16-aastasele kuni vanaduspensioniealisele isikule tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse korral kahjuhüvitise Eesti Töötukassa poolt tuvastatud isiku osalise või puuduva töövõime kestuse lõpuni.\n(3) Vanaduspensioniikka jõudnud isikule, kellel enne vanaduspensioniikka jõudmist on Eesti Töötukassa tuvastanud osalise või puuduva töövõime ja kellele Sotsiaalkindlustusamet on hüvitanud tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse tõttu tekitatud varalise kahju, jätkab Sotsiaalkindlustusamet viimati määratud kahjuhüvitise igakuist maksmist tähtajatult.\n(4) Sotsiaalkindlustusamet määrab vanaduspensioniealisele isikule tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse korral igal kuul makstava kahjuhüvitise tähtajatult.\n(5) Sotsiaalkindlustusamet määrab alla 16-aastasele isikule tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse korral igal kuul makstava kahjuhüvitise kuni 16-aastaseks saamiseni."
+    },
+    {
+      "provision_ref": "para24^5",
+      "chapter": "5. peatükk - TÖÖÕNNETUSEST JA KUTSEHAIGUSEST TINGITUD KAHJU HÜVITAMINE SOTSIAALKINDLUSTUSAMETI POOLT",
+      "section": "24^5",
+      "title": "§ 24^5. Andmevahetus tööõnnetusest ja kutsehaigusest tingitud tervisekahjustuse tekitatud varalise kahju hüvitamiseks",
+      "content": "(1) Sotsiaalkindlustusametil on isikult õigus saada tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse korral makstava kahjuhüvitise määramiseks ja maksmiseks tema isikuandmeid.\n(2) Sotsiaalkindlustusametil on isiku nõusolekul tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse korral makstava kahjuhüvitise määramiseks ja maksmiseks ning välislepingu alusel andmete töötlemiseks juurdepääs tervise infosüsteemi andmeid esitanud arsti ees- ja perekonnanimele.\n(3) Arstiõppe läbinud isikul on isiku nõusolekul õigus saada töövõime kaotuse tuvastamiseks ning välislepingu alusel andmete töötlemiseks järgmisi terviseandmeid tervise infosüsteemist:\n1) andmed andmete esitaja kohta;\n2) andmed ambulatoorsete visiitide ja haiglas viibimiste kohta;\n3) andmed ravimite kohta.\n(4) Töövõime kaotuse tuvastamiseks ja välislepingu alusel andmete töötlemiseks vajalike tervise infosüsteemi andmete loetelu ja päringute perioodid kehtestab valdkonna eest vastutav minister määrusega.\n(5) Kui käesoleva paragrahvi lõikes 3 sätestatud andmed tervise infosüsteemis puuduvad või on ebapiisavad, edastab arst need tervise infosüsteemi või arstiõppe läbinud isikule kümne tööpäeva jooksul vastavasisulise taotluse saamisest arvates.\n(6) Sotsiaalkindlustusametil on õigus saada tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse korral makstava kahjuhüvitise määramiseks ja maksmiseks vajalikke töötamise registri andmeid, milleks on andmed isiku töötamise alustamise, peatumise ja lõpetamise kohta ning töötamise liigi kohta.\n(7) Sotsiaalkindlustusametil on õigus saada tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse korral makstava kahjuhüvitise määramiseks ja maksmiseks vajalikke Maksu- ja Tolliameti andmeid isiku sotsiaalmaksuga maksustatavalt tulult deklareeritud sotsiaalmaksu summa kohta kalendrikuude kaupa."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "6. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "25",
+      "title": "§ 25. Riiklik ja haldusjärelevalve",
+      "content": "(1) Riiklikku ja haldusjärelevalvet käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle teostab Tööinspektsioon.\n(2) Töötervishoiuteenuse osutaja ja tema majandustegevuse vastavuse üle käesoleva seaduse § 13^1 lõigetes 2, 3, 15 ja 16 ning §-des 19–19^2 sätestatud nõuetele teostab riiklikku järelevalvet Terviseamet tervishoiuteenuste korraldamise seaduses sätestatud tingimustel ja korras.\n(3)\n(4)\n(5) Tööinspektsioon on muu hulgas kohustatud:\n1) uurima vajaduse korral tööõnnetusi ja kutsehaigestumisi;\n2) teostama järelevalvet tööõnnetuste uurimise ning tööõnnetuste ja kutsehaiguste ennetamise abinõude rakendamise üle;\n3) kontrollima vajaduse korral uue või rekonstrueeritud ehitise töötingimuste vastavust kehtestatud nõuetele;\n4) peatama töötaja või teiste isikute elule ohtliku töö tegemise ning keelama eluohtliku töövahendi kasutamise."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "6. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "26",
+      "title": "§ 26. Riikliku järelevalve erimeetmed",
+      "content": "Tööinspektsioon võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid ja § 78^1 punktis 12 sätestatud erivahendit korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para27^1",
+      "chapter": "7. peatükk - VASTUTUS",
+      "section": "27^1",
+      "title": "§ 27^1. Töökohale kehtestatud töötervishoiu ja tööohutuse nõuete rikkumine",
+      "content": "(1) Käesoleva seaduse § 4 lõigetes 2, 3 ja 4^1–4^4 ning lõigete 3^1, 4, 4^5 ja 5 alusel töökohale kehtestatud töötervishoiu ja tööohutuse nõuete rikkumise eest, kui sellega kaasnes oht töötaja tervisele või elule, tööandja, tema juhatuse liikme või muu esindaja poolt, kellele oli vastavate nõuete täitmise tagamise kohustus delegeeritud, – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para27^2",
+      "chapter": "7. peatükk - VASTUTUS",
+      "section": "27^2",
+      "title": "§ 27^2. Töövahendile kehtestatud töötervishoiu ja tööohutuse nõuete rikkumine",
+      "content": "(1) Käesoleva seaduse § 5 lõigetes 2 ja 3 ning lõike 4 alusel töövahendile kehtestatud töötervishoiu ja tööohutuse nõuete rikkumise eest, kui sellega kaasnes oht töötaja tervisele või elule, tööandja, tema juhatuse liikme või muu esindaja poolt, kellele oli vastavate nõuete täitmise tagamise kohustus delegeeritud, – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para27^3",
+      "chapter": "7. peatükk - VASTUTUS",
+      "section": "27^3",
+      "title": "§ 27^3. Füüsikalistest, keemilistest, bioloogilistest, füsioloogilistest ja psühhosotsiaalsetest ohuteguritest mõjutatud töökeskkonnale kehtestatud nõuete rikkumine",
+      "content": "(1) Füüsikalistest, keemilistest, bioloogilistest, füsioloogilistest või psühhosotsiaalsetest ohuteguritest mõjutatud töökeskkonnale kehtestatud nõuete rikkumise eest, kui sellega kaasnes oht töötaja tervisele või elule, tööandja, tema juhatuse liikme või muu esindaja poolt, kellele oli vastavate nõuete täitmise tagamise kohustus delegeeritud, – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para27^4",
+      "chapter": "7. peatükk - VASTUTUS",
+      "section": "27^4",
+      "title": "§ 27^4. Töötaja juhendamise ja väljaõppe korraldamata jätmine",
+      "content": "(1) Töötaja juhendamise või väljaõppe korraldamata jätmise eest, kui sellega kaasnes oht töötaja tervisele või elule, tööandja, tema juhatuse liikme või muu esindaja poolt, kellele oli juhendamise ja väljaõppe korraldamise kohustus delegeeritud, – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para27^5",
+      "chapter": "7. peatükk - VASTUTUS",
+      "section": "27^5",
+      "title": "§ 27^5. Tööõnnetuse ja kutsehaigestumise uurimata jätmine",
+      "content": "(1) Käesoleva seaduse § 24 kohaselt tööõnnetuse või kutsehaigestumise uurimata jätmise või kirjaliku raporti koostamata jätmise eest tööandja, tema juhatuse liikme või muu esindaja poolt, kellele oli vastava kohustuse täitmine delegeeritud, – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para27^6",
+      "chapter": "7. peatükk - VASTUTUS",
+      "section": "27^6",
+      "title": "§ 27^6. Menetlus",
+      "content": "Käesoleva seaduse §-des 27^1–27^5 sätestatud väärtegude kohtuväline menetleja on Tööinspektsioon."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "31",
+      "title": "§ 31. Eesti Vabariigi töökaitseseaduse alusel kehtestatud õigusaktide kehtivus",
+      "content": "Eesti Vabariigi töökaitseseaduse alusel kehtestatud õigusaktid kehtivad pärast käesoleva seaduse jõustumist niivõrd, kuivõrd need ei ole vastuolus käesoleva seadusega, ja seni, kuni need kas tühistatakse või viiakse käesoleva seadusega vastavusse."
+    },
+    {
+      "provision_ref": "para31^1",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "31^1",
+      "title": "§ 31^1. Töötervishoiu Keskuse tegevuse lõpetamine",
+      "content": "Sotsiaalministeeriumi hallatava riigiasutuse Töötervishoiu Keskuse tegevus lõpetatakse 2004. aasta 15. augustil."
+    },
+    {
+      "provision_ref": "para31^2",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "31^2",
+      "title": "§ 31^2. Kahju hüvitise indekseerimine",
+      "content": "Tööst põhjustatud tervisekahjustusega või surma põhjustamisega tekitatud kahju hüvitist, mida Sotsiaalkindlustusamet maksab perioodiliste maksetena käesoleva seaduse § 24^2 lõike 1, § 31^4 lõike 2 ning § 31^5 lõigete 1 ja 3 alusel, indekseeritakse iga aasta 1. aprillil riikliku pensionikindlustuse seaduse § 26 lõike 6 alusel kinnitatud indeksiga. Hüvitist ei indekseerita, kui indeksi väärtus on väiksem kui 1,000."
+    },
+    {
+      "provision_ref": "para31^3",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "31^3",
+      "title": "§ 31^3. Haigushüvitiste maksmine",
+      "content": "(1) Käesoleva seaduse §-s 12^2 sätestatud haigushüvitist maksab tööandja haiguslehtede alusel, millele märgitud töö- või teenistuskohustuste täitmisest vabastus algab 2009. aasta 1. juulil või hiljem.\n(2) Enne 2021. aasta 1. jaanuari väljakirjutatud haiguslehtedele kohaldatakse käesoleva seaduse kuni 2020. aasta 31. detsembrini kehtinud redaktsiooni.\n(3) Enne 2023. aasta 1. jaanuari väljakirjutatud haiguslehtedele kohaldatakse käesoleva seaduse kuni 2022. aasta 31. detsembrini kehtinud redaktsiooni.\n(4) Enne 2023. aasta 1. juulit väljakirjutatud haiguslehtedele kohaldatakse käesoleva seaduse kuni 2023. aasta 30. juunini kehtinud redaktsiooni."
+    },
+    {
+      "provision_ref": "para31^4",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "31^4",
+      "title": "§ 31^4. Kahju hüvitamine Sotsiaalkindlustusameti poolt",
+      "content": "(1)\n(2) Isikule, kellele Sotsiaalkindlustusamet maksab käesoleva paragrahvi jõustumisel hüvitist Eesti NSV tsiviilkoodeksi § 473 lõike 1 alusel, jätkatakse tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse või surma põhjustamisega tekitatud varalise kahju hüvitamist senises korras."
+    },
+    {
+      "provision_ref": "para31^5",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "31^5",
+      "title": "§ 31^5. Tööõnnetusest ja kutsehaigusest tingitud tervisekahjustuse korral makstava kahjuhüvitise määramine, ümberarvutamine ja maksmise jätkamine",
+      "content": "(1) Sotsiaalkindlustusamet maksab enne 2016. aasta 1. juulit määratud tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse korral makstavat kahjuhüvitist kuni Sotsiaalkindlustusameti tuvastatud püsiva töövõimetuse kestuse lõpuni.\n(2) Sotsiaalkindlustusamet arvutab enne 2016. aasta 1. juulit määratud tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse korral makstava kahjuhüvitise ümber, kui isik on läbinud töövõime hindamise Eesti Töötukassas ning isikul on tuvastatud osaline või puuduv töövõime töövõimetoetuse seaduses sätestatud tingimustel ja korras.\n(3) Vanaduspensioniealisele isikule, kellele Sotsiaalkindlustusamet on määranud tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse korral makstava kahjuhüvitise enne 2016. aasta 1. juulit, jätkab Sotsiaalkindlustusamet määratud kahjuhüvitise maksmist tähtajatult.\n(4) Käesoleva seaduse § 24^2 lõige 2 ei kohaldu isikutele, kellel on õigus tööõnnetusest või kutsehaigusest tingitud tervisekahjustuse korral kahjuhüvitisele Eesti Vabariigi ja Ukraina vahelise sotsiaalkindlustuslepingu alusel, kuni selle muutmiseni. Kahjuhüvitist makstakse nimetatud isikutele tähtajatult."
+    },
+    {
+      "provision_ref": "para31^6",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "31^6",
+      "title": "§ 31^6. Ohutu tööelu andmekogu andmete kasutamine ja hävitamine",
+      "content": "(1) Tööandjal on võimalik kasutada ohutu tööelu andmekogu kuni 2021. aasta 31. augustini.\n(2) Ohutu tööelu andmekogu andmed hävitatakse hiljemalt 2021. aasta 31. detsembril."
+    },
+    {
+      "provision_ref": "para31^7",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "31^7",
+      "title": "§ 31^7. Käesoleva seaduse § 13^4 lõike 6 rakendamine",
+      "content": "Kehtiva töökeskkonna riskianalüüsi, mis on koostatud enne 2021. aasta 1. märtsi, on tööandja kohustatud esitama töökeskkonna andmekogusse või edastama Tööinspektsioonile hiljemalt 2021. aasta 1. septembriks."
+    },
+    {
+      "provision_ref": "para31^8",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "31^8",
+      "title": "§ 31^8. Käesoleva seaduse § 24 lõike 11 rakendamine",
+      "content": "Enne käesoleva seaduse § 24 lõike 11 teise lause jõustumist kogutud tööõnnetuse ja kutsehaigestumise uurimise andmeid säilitab tööandja 55 aastat, kui need andmed ei ole üle antud töökeskkonna andmekogusse."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "32",
+      "title": "§ 32.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "36",
+      "title": "§ 36.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    }
+  ],
+  "definitions": []
+}

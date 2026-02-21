@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-113032014110",
+  "type": "statute",
+  "title": "Korteriühistuseadus",
+  "title_en": "Korteriühistuseadus",
+  "short_name": "KÜS",
+  "status": "in_force",
+  "issued_date": "1995-06-27",
+  "in_force_date": "2018-01-01",
+  "url": "https://www.riigiteataja.ee/akt/113032014110.xml",
+  "description": "Official consolidated statute text (Korteriühistuseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

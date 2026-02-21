@@ -1,0 +1,470 @@
+{
+  "id": "ee-law-115032014012",
+  "type": "statute",
+  "title": "Meediateenuste seadus",
+  "title_en": "Meediateenuste seadus",
+  "short_name": "ee-law-115032014012",
+  "status": "in_force",
+  "issued_date": "2010-12-16",
+  "in_force_date": "2014-07-01",
+  "url": "https://www.riigiteataja.ee/akt/115032014012.xml",
+  "description": "Official consolidated statute text (Meediateenuste seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "Meediateenuste seadus sätestab:\n1) audiovisuaalmeedia teenuste ja raadioteenuse (edaspidi koos meediateenus ) osutamise korra, tegevuspõhimõtted ja nõuded meediateenuse osutajatele;\n2) eraõiguslikele isikutele televisiooni- ja raadioteenuse osutamiseks tegevusloa andmise ning tellitava audiovisuaalmeedia teenuse osutamise registreerimiskorra;\n3) ajakirjanduslikul eesmärgil informatsiooni töötlevale isikule infot andnud isiku (edaspidi informatsiooniallika ) kaitse põhimõtted."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Seaduse kohaldamine",
+      "content": "(1) Käesolevat seadust kohaldatakse meediateenuse osutajale, kui:\n1) meediateenuse osutaja juhtorgan asub Eestis ja toimetusotsused meediateenuse kohta tehakse Eestis;\n2) oluline osa meediateenuse osutamises osalevatest töötajatest ja meediateenuse osutaja juhtorgan asuvad Eestis, kuid toimetusotsused meediateenuse kohta tehakse muus Euroopa Liidu liikmesriigis või piiriülese televisiooni Euroopa konventsiooniga ühinenud riigis (edaspidi koos liikmesriik või konventsiooniga ühinenud riik );\n3) meediateenuse osutaja juhtorgan asub Eestis, kuid oluline osa meediateenuse osutamises osalevatest töötajatest töötab mitmes liikmesriigis või konventsiooniga ühinenud riigis;\n4) oluline osa meediateenuse osutamises osalevatest töötajatest ei tööta liikmesriigis või konventsiooniga ühinenud riigis, kuid meediateenuse osutaja on alustanud oma tegevust kõigepealt Eestis Eesti seaduste kohaselt ja oluline osa tema majandustegevusest toimub püsivalt ja tegelikult Eestis või on oluliselt Eestiga seotud;\n5) meediateenuse osutaja juhtorgan asub liikmesriigis või konventsiooniga ühinenud riigis, aga otsused meediateenuse kohta tehakse kolmandas riigis või vastupidi, kuid oluline osa meediateenuse osutamises osalevatest töötajatest töötab Eestis.\n(2) Meediateenuse osutajale, kelle suhtes ei saa kohaldada käesoleva paragrahvi lõike 1 sätteid, kohaldatakse käesolevat seadust juhul, kui ta kasutab Eestis asuvat satelliitside juhtimiskeskust või Eestile kuuluvat satelliidi sagedusressurssi.\n(3) Kui meediateenuse osutajale ei saa kohaldada käesoleva paragrahvi lõiget 1, määratletakse meediateenuse osutaja asukoht Euroopa Liidu toimimise lepingu artiklite 49–55 kohaselt.\n(4) Eesti Rahvusringhäälingule kohaldatakse käesolevat seadust niivõrd, kuivõrd Eesti Rahvusringhäälingu seadus ei sätesta teisiti. Teistele ajakirjanduslikul eesmärgil informatsiooni töötlevatele isikutele, keda ei ole käesoleva paragrahvi lõigetes 1–3 nimetatud, kohaldatakse üksnes käesoleva seaduse § 15. Elektroonilise side ettevõtjale, kes taasedastab meediateenust, kohaldatakse käesoleva seaduse §-e 51, 52, 55 ja 56.\n(5) Käesoleva seaduse §-des 8–12, 14, 20, 22 ja 23 sätestatud nõudeid ei kohaldata nendele audiovisuaalmeedia teenuse osutajatele, kelle teenused on mõeldud vastuvõtmiseks ainult kolmandates riikides ja need ei ole ühes või mitmes liikmesriigis või konventsiooniga ühinenud riigis üldkasutatavate vastuvõtuvahenditega otseselt või kaudselt üldsusele kättesaadavad."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Haldusmenetluse seaduse kohaldamine",
+      "content": "Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Meediateenus",
+      "content": "(1) Audiovisuaalmeedia teenus on meediateenus, mida osutatakse audiovisuaalmeedia teenuse osutaja toimetusvastutuse all peamise eesmärgiga pakkuda üldsusele teavituslikke, hariduslikke või meelelahutuslikke saateid elektroonilise side võrgu kaudu. Audiovisuaalmeedia teenused on:\n1) televisiooniteenus, mida osutatakse saatekava alusel saadete samaaegseks vaatamiseks. Televisiooniteenused on eelkõige telesaade, teleprogramm ja äriteade;\n2) tellitav audiovisuaalmeedia teenus, mida osutatakse programmikataloogi alusel saadete vaatamiseks teenuse kasutaja valitud ajal, valikul ja taotlusel;\n3) audiovisuaalne äriteade, mis on eelkõige telereklaam, sponsorteave, otsepakkumised ja tootepaigutus;\n4) teised majandustegevuses osutatavad sellesarnased teenused, välja arvatud teenused, mis ei konkureeri televisiooniteenusega.\n(2) Raadioteenus on meediateenus, mida osutatakse raadioteenuse osutaja toimetusvastutuse all saatekava alusel saadete samaaegseks kuulamiseks peamise eesmärgiga pakkuda üldsusele teavituslikke, hariduslikke või meelelahutuslikke saateid elektroonilise side võrgu kaudu. Raadioteenused on eelkõige raadiosaade, raadioprogramm ja äriteade."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5",
+      "title": "§ 5. Meediateenuse osutaja",
+      "content": "Meediateenuse osutaja on juriidiline või füüsiline isik, kes osutab televisiooni-, tellitava audiovisuaalmeedia või raadioteenust, kellel on toimetusvastutus meediateenuse sisu valikul ja kes määrab selle esitamise järjestuse ning edastamise viisi."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "6",
+      "title": "§ 6. Toimetusvastutus",
+      "content": "Toimetusvastutus on meediateenuse osutaja teostatav kontroll saadete valiku, sisu ja ülesehituse ning nende programmi või programmikataloogi paigutamise üle."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "7",
+      "title": "§ 7. Saade, programm ja programmikataloog",
+      "content": "(1) Saade on liikuvate kujutiste heliga või helita ajaliselt piiritletud kogum või ainult heli ajaliselt piiritletud kogum, mis moodustab programmi või programmikataloogi eraldi osa.\n(2) Programm on televisiooni- ja raadioteenuse osutaja poolt teadlikult järjestatud saadete kogum, mille ülesehitust väljendab saatekava. Programmil on oma nimi.\n(3) Programmikataloog on tellitava audiovisuaalmeedia teenuse osutaja pakutud ja tema toimetusvastutuse alla kuuluv saadete nimekiri."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "8",
+      "title": "§ 8. Programmi struktuur",
+      "content": "(1) Televisiooni- ja raadioteenuse osutaja varub vähemalt kuuel päeval nädalas programmi päevamahust vähemalt viis protsenti enda toodetud uudistesaadete edastamiseks, välja arvatud riiklike pühade programmis. Enda toodetud uudistesaateks loetakse ka sellist uudistesaadet, mis sisaldab vähemalt kahe eri uudistetootja toodetud uudiseid.\n(2) Televisiooniteenuse osutaja varub teleprogrammi iga kalendrikuu mahust, millest on maha arvatud uudiste-, spordi- ja mänge sisaldavate saadete ning reklaami, otsepakkumise ja teleteksti maht, vähemalt kümme protsenti omatoodangu edastamiseks. Televisiooniteenuse osutaja edastab omatoodangu miinimummahust vähemalt 50 protsenti ajavahemikus kella 19.00-st kuni 23.00-ni.\n(3) Televisiooniteenuse osutaja varub teleprogrammi aastamahust, millest on maha arvatud uudiste-, spordi- ja mänge sisaldavate saadete ning reklaami, otsepakkumise ja teleteksti maht, vähemalt 51 protsenti Euroopa päritoluga audiovisuaalsete teoste edastamiseks.\n(4) Televisiooniteenuse osutaja varub teleprogrammi aastamahust, millest on maha arvatud uudiste-, spordi- ja mänge sisaldavate saadete ning reklaami, otsepakkumise ja teleteksti maht, vähemalt kümme protsenti selliste Euroopa päritoluga audiovisuaalsete teoste edastamiseks, mille on loonud sellest televisiooniteenuse osutajast sõltumatud tootjad. Nimetatud teoste hulgas peab olema teoseid, mille tootmisest ei ole möödunud rohkem kui viis aastat.\n(5) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatud nõuete kohaldamisel võib teha televisiooniteenuse osutamise tegevusloa tingimustes ja kõrvaltingimustes erandi valdavalt muusika-, spordi-, filmi- või muu teemaprogrammi edastamiseks luba omava televisiooniteenuse osutaja põhjendatud taotluse alusel.\n(5^1) Käesoleva paragrahvi lõikes 1 sätestatud nõude kohaldamisel võib teha üleriigilise raadioteenuse osutamise tegevusloa tingimustes ja kõrvaltingimustes erandi muusikaprogrammi edastamiseks luba omava meediateenuse osutaja põhjendatud taotluse alusel.\n(6) Teleprogrammidele, mis edastavad vaid telereklaami ja otsepakkumist või üksnes enesetutvustust, ei kohaldata käesoleva paragrahvi lõigetes 1–4 sätestatud nõudeid.\n(7) Käesoleva paragrahvi lõigetes 3 ja 4 sätestatud nõudeid ei kohaldata nende teleprogrammide suhtes, mis on mõeldud kohalikele vaatajatele ning mida edastatakse regionaalse televisiooniteenuse osutamise loa alusel.\n(8) Käesoleva paragrahvi lõigetes 1–4 sätestatud nõudeid ei kohaldata programmide suhtes, mida edastatakse televisiooni- ja raadioteenuse osutamise ajutise tegevusloa alusel.\n(9)\n(10) Televisiooniteenuse osutaja esitab Tehnilise Järelevalve Ametile igal aastal 15. veebruariks andmed käesoleva paragrahvi lõigetes 1–4 nimetatud nõuete täitmise kohta eelmisel kalendriaastal."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "9",
+      "title": "§ 9. Programmi nädalamaht",
+      "content": "Programmi nädalamaht peab olema vähemalt:\n1) 84 tundi raadioprogrammi edastamisel;\n2) 56 tundi teleprogrammi edastamisel vaba või tingimusjuurdepääsuga üleriigilise televisiooniteenuse tegevusloa alusel;\n3) 21 tundi teleprogrammi edastamisel vaba või tingimusjuurdepääsuga regionaalse televisiooniteenuse tegevusloa alusel."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "10",
+      "title": "§ 10. Omatoodang",
+      "content": "Omatoodang on audiovisuaalmeedia teenuse osutaja enda või koostöös Euroopa Liidu liikmesriigi tootjaga toodetud või Euroopa sõltumatult tootjalt tellitud saade või programm, mis käsitleb Eesti tänapäeva või kultuuripärandit."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "11",
+      "title": "§ 11. Euroopa päritoluga audiovisuaalne teos",
+      "content": "(1) Euroopa päritoluga audiovisuaalne teos (edaspidi Euroopa teos ) on:\n1) Euroopa Liidu liikmesriigist pärinev teos;\n2) piiriülese televisiooni Euroopa konventsiooni osaliseks olevast kolmandast Euroopa riigist pärinev teos;\n3) teos, mis on toodetud ühistoodanguna Euroopa Liidu liikmesriigi ja kolmanda riigi vahel sõlmitud lepingu raames ja vastab lepingus määratletud tingimustele.\n(2) Euroopa Liidu liikmesriigist või piiriülese televisiooni Euroopa konventsiooni osaliseks olevast kolmandast riigist pärinev teos, mis on põhiosas valminud koostöös ühes või mitmes nimetatud riigis elavate autorite ja töötajatega, on Euroopa teos, kui teos vastab ühele järgmistest tingimustest:\n1) teose on valmistanud vähemalt üks tootja, kes on asutatud vähemalt ühes nimetatud riigis;\n2) teose tootmist korraldab ja kontrollib üks või mitu tootjat, kes on asutatud ühes või mitmes nimetatud riigis;\n3) nende riikide ühistootjate panus moodustab ühistootmise kogukuludest rohkem kui poole ja ühistootmist ei kontrolli ükski väljaspool kõnealuseid riike asutatud tootja.\n(3) Käesoleva paragrahvi lõike 1 punkte 2 ja 3 kohaldatakse tingimusel, et Euroopa Liidu liikmesriikide teoste suhtes ei kohaldata selles kolmandas riigis diskrimineerivaid meetmeid.\n(4) Teost, mis ei ole Euroopa teos käesoleva paragrahvi lõikes 1 määratletud tähenduses, kuid mis on toodetud Euroopa Liidu liikmesriigi ja kolmanda riigi vahelise kahepoolse ühistootmislepingu raames, käsitatakse Euroopa teosena tingimusel, et Euroopa Liidu liikmesriigi ühistootjad katavad suurema osa tootmise kogukuludest ja et tootmist ei kontrolli ükski väljaspool Euroopa Liidu liikmesriikide territooriumi asutatud tootja."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "12",
+      "title": "§ 12. Euroopa sõltumatu tootja",
+      "content": "Euroopa sõltumatu tootja on:\n1) tootja, kelle aktsiate enamus või aktsiate jaotusega määratud häälte enamus kuulub liikmesriigi või konventsiooniga ühinenud riigi juriidilisele või füüsilisele isikule;\n2) tootja, kelle seaduse või lepingu alusel üleantud autoriõigused või autoriõigusega kaasnevad õigused toodangule kuuluvad liikmesriigi või konventsiooniga ühinenud riigi juriidilisele või füüsilisele isikule;\n3) tootja, kes viimase kahe aasta jooksul on tootnud oma audiovisuaaltoodangut vähemalt kahele audiovisuaalmeedia teenuse osutajale."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - Meediateenuse osutaja tegevuspõhimõtted",
+      "section": "13",
+      "title": "§ 13. Tegevusvabadus",
+      "content": "(1) Meediateenuse osutajal on õigus seadusest ning televisiooni- ja raadioteenuse osutamise tegevusloa tingimustest ja kõrvaltingimustest kinni pidades vabalt otsustada oma saate ja programmi või programmikataloogi sisu ja paigutuse üle.\n(2) Kohus võib oma menetluses olevates asjades seaduses ettenähtud alustel ja korras keelata saate või selle osa edastamise."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - Meediateenuse osutaja tegevuspõhimõtted",
+      "section": "14",
+      "title": "§ 14. Poliitiline tasakaalustatus aktiivse valimisagitatsiooni ajal",
+      "content": "Kui televisiooni- ja raadioteenuse osutaja annab erakonnale või poliitilisele liikumisele oma seisukohtade tutvustamiseks saateaega, peab ta Euroopa Parlamendi, Riigikogu või kohalike omavalitsuste volikogude valimiste aktiivse valimisagitatsiooni ajal andma samaväärse esinemisvõimaluse põhjendamatu viivituseta ka teisele erakonnale või poliitilisele liikumisele tema kirjalikult edastatud soovi korral."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - Meediateenuse osutaja tegevuspõhimõtted",
+      "section": "15",
+      "title": "§ 15. Informatsiooniallika kaitse",
+      "content": "(1) Ajakirjanduslikul eesmärgil informatsiooni töötleval isikul on õigus jätta avaldamata andmed, mis võimaldavad tuvastada informatsiooniallika.\n(2) Ajakirjanduslikul eesmärgil informatsiooni töötlev isik ei tohi informatsiooniallika nõusolekuta tema tuvastamist võimaldavaid andmeid avaldada.\n(3) Käesoleva paragrahvi lõikes 2 sätestatud kohustus ei kehti juhul, kui informatsiooniallikas on ajakirjanduslikul eesmärgil informatsiooni töötlevale isikule andnud teadvalt valeinformatsiooni.\n(4) Käesoleva paragrahvi lõikeid 1–3 kohaldatakse ka isikule, kes ametialaselt puutub kokku andmetega, mis võimaldavad tuvastada ajakirjanduslikul eesmärgil informatsiooni töötleva isiku informatsiooniallika.\n(5) Ajakirjanduslikul eesmärgil informatsiooni töötleva isiku või isiku, kes ametialaselt puutub kokku andmetega, mis võimaldavad tuvastada ajakirjanduslikul eesmärgil informatsiooni töötleva isiku informatsiooniallika, otsene või kaudne mõjutamine informatsiooniallika tuvastamiseks on keelatud.\n(6) Ajakirjanduslikul eesmärgil informatsiooni töötlev isik ja isik, kes ametialaselt puutub kokku andmetega, mis võimaldavad tuvastada ajakirjanduslikul eesmärgil informatsiooni töötleva isiku informatsiooniallika, on kohustatud need andmed esitama kriminaalmenetluse seadustikus sätestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - Meediateenuse osutaja tegevuspõhimõtted",
+      "section": "16",
+      "title": "§ 16. Avalik teave meediateenuse osutaja kohta",
+      "content": "(1) Audiovisuaalmeedia teenuse osutaja teeb enda kohta arusaadavalt ja püsivalt kättesaadavaks vähemalt järgmise teabe:\n1) nime;\n2) postiaadressi;\n3) kontaktandmed, sealhulgas elektronposti aadressi või veebilehe aadressi;\n4) vastutava toimetaja nime ja kontaktandmed;\n5) viite Tehnilise Järelevalve Ameti kui riikliku järelevalve tegija kontaktandmetele.\n(2) Televisiooniteenuse osutaja edastatava teleprogrammi nimi avalikustatakse tema valitud ajal teleprogrammis vähemalt 12 korda saatepäeva jooksul, samuti märgitakse vähemalt samal saatepäeval teleprogrammis olevate saadete pealkirjad elektroonilises saatekavas, kui selleks on olemas tehnilised võimalused.\n(3) Raadioteenuse osutaja teeb enda kohta arusaadavalt teatavaks vähemalt järgmise teabe:\n1) raadioprogrammis – nime, kontaktandmed, sealhulgas elektronposti või veebilehe aadressi vähemalt neli korda saatepäeva jooksul;\n2) veebilehel selle olemasolu korral – nime ja postiaadressi, elektroniposti aadressi, vastutava toimetaja nime ja kontaktandmed ning viite Tehnilise Järelevalve Ameti kui riikliku järelevalve tegija kontaktandmetele."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - Meediateenuse osutaja tegevuspõhimõtted",
+      "section": "17",
+      "title": "§ 17. Vastutav toimetaja",
+      "content": "(1) Meediateenuse osutaja määrab edastatavale programmile või programmikataloogile vastutava toimetaja.\n(2) Vastutav toimetaja tagab edastatavas programmis või programmikataloogis käesoleva seaduse nõuetest ja heast ajakirjandustavast kinnipidamise ning sõnavabaduse põhimõtete järgimise.\n(3) Meediateenuse osutaja säilitab vastutavate toimetajate nimekirja ühe aasta jooksul pärast saate edastamise kuupäeva programmis või saate paigutamise lõpetamist programmikataloogi."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - Meediateenuse osutaja tegevuspõhimõtted",
+      "section": "18",
+      "title": "§ 18. Hädaohuteadete edastamine",
+      "content": "Televisiooni- ja raadioteenuse osutaja edastab viivitamata ja tasuta kõigis oma tele- ja raadioprogrammides:\n1) ühiskonna julgeolekut või põhiseaduslikku korda ähvardava ohu korral Riigikogu, Vabariigi Presidendi ning Vabariigi Valitsuse ametlikke teateid;\n2) teavet, mis on vajalik inimese elu, tervise ja julgeoleku kaitseks või varalise kahju või hädaohu ärahoidmiseks, samuti keskkonnakahjustuse ärahoidmiseks või selle vähendamiseks."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - Meediateenuse osutaja tegevuspõhimõtted",
+      "section": "19",
+      "title": "§ 19. Alaealiste kaitse ja kõlbluse ning seaduslikkuse tagamine",
+      "content": "(1) Meediateenuseid osutades ei tohi üheski saates õhutada vihkamist soo, rassilise või etnilise päritolu, veendumuste või usutunnistuse alusel või alavääristada õiguskuulekat käitumist või kutsuda üles õigusrikkumisele.\n(2) Televisiooni- ja raadioteenuse osutaja ei tohi edastada alaealiste füüsilist, vaimset või kõlbelist arengut oluliselt kahjustavaid saateid, eelkõige selliseid, mis sisaldavad pornograafiat või propageerivad vägivalda või julmust pornograafilise sisuga ja vägivalda või julmust propageerivate teoste leviku reguleerimise seaduse § 1 lõike 2 mõistes.\n(3) Saateid, mis oma sündsusetu sisu, vägivalda või julmust sisaldavate stseenide või õigusvastase käitumise demonstreerimisega võivad tõenäoliselt kahjustada alaealiste füüsilist, vaimset või kõlbelist arengut ja on neile ealiselt sobimatud, ei tohi televisiooni- ja raadioteenuse osutaja edastada ajavahemikus kella 6.00-st kuni 22.00-ni.\n(4) Kui käesoleva paragrahvi lõikes 3 nimetatud saadet edastatakse väljaspool märgitud ajavahemikku, siis tuleb enne saadet edastada vaatajale arusaadaval viisil hoiatus, mis teatab, et järgnev saade on alaealistele sobimatu, või peab kogu telesaate ajal olema ekraanil näha asjakohane sümbol selle saate sobimatusest alaealistele või alaealiste mõnele eagrupile.\n(5) Käesoleva paragrahvi lõigetes 3 ja 4 kehtestatud nõudeid ei kohaldata juhul, kui televisiooniteenuse osutaja tagab vastava tehnilise meetmega, et alaealised ei saa selliseid saateid tavaliste vahenditega vastu võtta.\n(6) Kui programmis on saateid, mille sisu vastab käesoleva paragrahvi lõikes 3 sätestatud tingimustele, ei tohi televisiooni- ja raadioteenuse osutaja nimetatud saateid oma programmis tutvustades edastada piirangut põhjustanud saatelõike ega tõsta saatest neid kohti esile.\n(7) Tellitav audiovisuaalmeedia teenus, mis võib oluliselt kahjustada alaealise füüsilist, vaimset või kõlbelist arengut, tehakse tellitava audiovisuaalmeedia teenuse osutaja poolt isiklike tunnuskoodide või teiste asjakohaste tehniliste lahenduste abil kättesaadavaks üksnes viisil, mis ei ole alaealisele tavaolukorras kättesaadav."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - Meediateenuse osutaja tegevuspõhimõtted",
+      "section": "20",
+      "title": "§ 20. Vastulause esitamise õigus",
+      "content": "(1) Igal füüsilisel või juriidilisel isikul, sõltumata tema kodakondsusest või asukohast, kelle seaduslikke õigusi, eriti mainet, on televisiooni- või raadioteenuses kahjustatud ebaõigete faktide esitamisega, on õigus esitada vastulause või taotleda muude võrdväärsete ja õigusaktidega kooskõlas olevate vahendite rakendamist.\n(2) Televisiooni- või raadioteenuse osutaja tagab vastulause esitamise võimaluse või muude võrdväärsete vahendite rakendamise ega tee takistusi põhjendamatute tähtaegade või tingimuste esitamisega. Vastulause esitamise soovist tuleb televisiooni- või raadioteenuse osutajale kirjalikult teatada 20 päeva jooksul pärast taotluse põhjustanud saate edastamist. Televisiooni- või raadioteenuse osutaja edastab vastulause tasuta samas programmis 20 päeva jooksul pärast põhjendatud taotluse saamist.\n(3) Vastulause taotluse võib tagasi lükata, kui vastulause ei ole õigustatud ja kui taotlus sisaldab karistatavat tegu või kui taotluse rahuldamine tooks televisiooni- või raadioteenuse osutajale kaasa tsiviilvastutuse või kui sellega eiratakse üldtunnustatud moraalinorme."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "2. peatükk - Meediateenuse osutaja tegevuspõhimõtted",
+      "section": "21",
+      "title": "§ 21. Saadete säilitamise kohustus",
+      "content": "(1) Televisiooni- ja raadioteenuse osutaja tagab edastatud programmi salvestamise.\n(2) Salvestisi säilitatakse vähemalt 20 päeva jooksul pärast programmi edastamist.\n(3) Kohus võib oma menetluses olevates asjades määrata konkreetse salvestise säilitamiseks pikema tähtaja."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "2. peatükk - Meediateenuse osutaja tegevuspõhimõtted",
+      "section": "22",
+      "title": "§ 22. Eneseregulatsioon",
+      "content": "Meediateenuse valdkonnas tegutsevad isikud võivad omaalgatuse korras luua süsteemi, millega liitunud osapooled määratlevad vabatahtlikult ühised soovitused ja reeglid, kehtestades tegevusjuhendina standardid eesmärgiga korrastada valdkonnas toimuvat ning määrata osapooltele hea ja halva tava piirid. Eneseregulatsiooni ühendused määravad vabatahtlikult ka kehtestatud reeglitest kinnipidamise korra ja osapoolte vastutuse neist kinnipidamise eest."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "2. peatükk - Meediateenuse osutaja tegevuspõhimõtted",
+      "section": "23",
+      "title": "§ 23. Nägemis- ja kuulmispuudega inimeste juurdepääs audiovisuaalmeedia teenusele",
+      "content": "Audiovisuaalmeedia teenuse osutaja teeb oma teenuse kättesaadavaks nägemis- ja kuulmispuudega inimestele, kasutades selleks muu hulgas saate varustamist subtiitritega, viipekeelset tõlget, eraldi audiokanaleid, teleteksti ja teisi lisateenuseid, mis võimaldavad nägemis- ja kuulmispuudega inimestel pakutavat teenust kasutada."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "2. peatükk - Meediateenuse osutaja tegevuspõhimõtted",
+      "section": "24",
+      "title": "§ 24. Euroopa teoste tootmise ja kättesaadavuse edendamine tellitava audiovisuaalmeedia teenuse osutaja poolt",
+      "content": "(1) Tellitav audiovisuaalmeedia teenus peab edendama Euroopa teoste tootmist ja kättesaadavust, arvestades teenuse eripära ja võimalusi. Euroopa teoste tootmise ja kättesaadavuse edendamine on muu hulgas tellitava audiovisuaalmeedia teenuse osutaja poolt:\n1) rahalise toetuse andmine Euroopa teoste tootmiseks, teoste tellimine või teoste edastamise õiguste omandamine;\n2) Euroopa teoste, sealhulgas viimase viie aasta jooksul valminud teoste esiletoomine programmikataloogis koos nende teoste päritolumaa ja valmimise aastaga;\n3) omatoodangu tunnustele vastavate teoste ja nende valmimisaasta esiletoomine programmikataloogis.\n(2) Tellitava audiovisuaalmeedia teenuse osutaja esitab Tehnilise Järelevalve Ametile igal aastal 15. veebruariks andmed käesoleva paragrahvi lõikes 1 sätestatud nõuete täitmise kohta andmete esitamisele eelnenud kalendriaastal."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "3. peatükk - Äriteated",
+      "section": "25",
+      "title": "§ 25. Äriteated",
+      "content": "(1) Äriteade on heli või pildiga esitatav teave, mis on mõeldud majandustegevusega tegeleva füüsilise või juriidilise isiku kaupade või teenuste otseseks või kaudseks tutvustamiseks, enesetutvustuseks või maine edendamiseks ja mis kaasneb saatega või on sellesse lisatud tasu või muu samalaadse hüvitise eest.\n(2) Meediateenuse osutaja edastatavad äriteated peavad olema selgelt äratuntavad ja eristatud muust programmi osast.\n(3) Äriteadetele kohaldatakse reklaamiseaduses ja teistes seadustes reklaamile sätestatud nõudeid."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "3. peatükk - Äriteated",
+      "section": "26",
+      "title": "§ 26. Varjatud äriteated",
+      "content": "(1) Varjatud äriteade on tootja või teenuse osutaja kaupade, teenuste, nime, kaubamärgi või tegevuse esitamine saates sõnas või pildis, kui meediateenuse osutaja eesmärk on selle esitusega edastada reklaami ja kui see võib avalikkust esituse olemuse osas eksitada. Sellist esitamist käsitatakse eelkõige tahtlikuna, kui seda tehakse tasu või muu samalaadse hüvitise eest.\n(2) Varjatud äriteate edastamine on keelatud."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "3. peatükk - Äriteated",
+      "section": "27",
+      "title": "§ 27. Tegevusjuhend audiovisuaalsete äriteadete edastamiseks lastesaadetes",
+      "content": "(1) Meediateenuse valdkonnas tegutsevad isikud võivad kehtestada eneseregulatsiooni korras tegevusjuhendi lastesaadetes või nende ajal edastatavate ebasobivate audiovisuaalsete äriteadete kohta, kus tutvustatakse toite ja jooke, mis sisaldavad toitaineid ja toitainelise või füsioloogilise mõjuga aineid, eelkõige rasvu, transrasvhappeid, soola, naatriumi ja suhkrut, mille liigne tarbimine toidus ei ole lastele soovitav.\n(2) Kultuuriminister kehtestab määrusega käesoleva paragrahvi lõikes 1 nimetatud tegevusjuhendi juhul, kui meediateenuse valdkonnas tegutsevad isikud ei ole seda eneseregulatsiooni korras kehtestanud."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "3. peatükk - Äriteated",
+      "section": "28",
+      "title": "§ 28. Tele- ja raadioreklaam ning otsepakkumine",
+      "content": "(1) Tele- ja raadioreklaam on majandus- või kutsetegevusega seotud teadaanne, mida juriidiline või füüsiline isik edastab programmis tasu või muu samalaadse hüvitise eest või enesetutvustuseks eesmärgiga soodustada tasu eest pakutavate kaupade või teenuste pakkumist, mis hõlmab ka kinnisvara ning õigusi ja kohustusi.\n(2) Otsepakkumine on avalikkusele tele- ja raadioprogrammis edastatav pakkumine tasu eest kaupade turustamiseks ning teenuste osutamiseks, mis hõlmab ka kinnisvara ning õigusi ja kohustusi.\n(3) Tele- ja raadioreklaam ning otsepakkumine peavad olema kergelt äratuntavad ja eristatavad saadetest ning saate muust osast visuaalse või helilise tähise või paigutuse abil, arvestades reklaamitehnikast tulenevate võimaluste kasutamist.\n(4) Televisiooniteenuse osutaja edastab telereklaami ja otsepakkumist lõikude plokkidena kahjustamata saadete terviklikkust, võttes arvesse saate loomulikke pause, kestust ja vormi ning õiguste valdajate õigusi. Erandjuhul on lubatud üksikud reklaami- ja otsepakkumise lõigud, välja arvatud spordiülekannetes.\n(5) Uudistesaateid, kino- ja telefilme, välja arvatud telesarju ja dokumentaalfilme, võib telereklaamiks või otsepakkumiseks katkestada üks kord iga vähemalt 30-minutilise programmiaja kohta.\n(6) Lastesaadet võib tele- ja raadioreklaamiks või otsepakkumiseks katkestada üks kord iga vähemalt 30-minutilise programmiaja kohta juhul, kui saade kestab kauem kui 30 minutit.\n(7) Usutalitust sisaldava saate ajal ei tohi edastada tele- ja raadioreklaami ega otsepakkumist.\n(8) Käesoleva seaduse nõudeid kohaldatakse teleprogrammidele, mis edastavad vaid telereklaami ja otsepakkumist või üksnes enesetutvustust niivõrd, kuivõrd see ei ole vastuolus edastatava teleprogrammi olemusega.\n(9) Tele- ja raadioreklaami hulka ei loeta televisiooni- ja raadioteenuse osutaja poolt avalikes huvides edastatavaid või heategevusele kutsuvaid teateid, kui seaduses ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "3. peatükk - Äriteated",
+      "section": "29",
+      "title": "§ 29. Tele- ja raadioreklaami ning otsepakkumise maht",
+      "content": "(1) Tele- ja raadioreklaamilõikude ja otsepakkumise lõikude maht ühes tunnis ei tohi ületada 12 minutit, välja arvatud teadaanded, mida televisiooni- ja raadioteenuse osutaja edastab seoses oma saadetega ning otseselt nendest saadetest tulenevate lisatoodete, sponsorteadete või tootepaigutuse suhtes.\n(2) Otsepakkumise saade peab kestma katkestusteta vähemalt 15 minutit."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "3. peatükk - Äriteated",
+      "section": "30",
+      "title": "§ 30. Sponsorlus",
+      "content": "(1) Sponsorlus käesoleva seaduse tähenduses on meediateenuse osutamises või saate tootmises mitteosaleva juriidilise või füüsilise isiku igasugune osalemine meediateenuse või saate rahastamises eesmärgiga edendada oma mainet või tutvustada oma nime, kaubamärki, tegevust või tooteid.\n(2) Sponsorteave on meediateenuse osutaja edastatud teave sponsorluse kohta meediateenustes.\n(3) Spondeeritud meediateenus ja saade peavad vastama järgmistele nõuetele:\n1) sponsorlus ei tohi mõjutada meediateenuse osutaja toimetusvastutust ega sõltumatust;\n2) sponsorluse abil ei tohi otseselt soodustada kaupade või teenuste ostmist või rentimist, eelkõige tehes konkreetseid müüki edendavaid vihjeid kõnealuste kaupade või teenuste kohta;\n3) vaatajaid tuleb selgelt teavitada sponsorlepingu olemasolust;\n4) sponsori kohta edastatakse vaatajale teavet viisil, mis on selgelt eristatav äriteate teistest vormidest.\n(4) Tehnilise Järelevalve Ametil on õigus saada meediateenuse osutajalt teavet kehtivate sponsorlepingute kohta, et kontrollida edastatud sponsorteabe erinevust äriteate teistest vormidest.\n(5) Spondeeritud saade tuleb selgelt eristada muust programmist, kasutades saate seisukohalt sobival viisil sponsori nime, logo või muud sümbolit, nagu viidet sponsori toodetele või teenustele või eristavat märgistust saate alguses, lõpus või selle kestel.\n(6) Sponsorteated tuleb programmis vaataja jaoks selgelt arusaadavalt eristada äriteate teistest vormidest.\n(7) Meediateenust või saadet ei tohi spondeerida ettevõtjad, kelle põhitegevuseks on sigarettide ja muude tubakatoodete tootmine ja müük.\n(8) Ettevõtja, kelle tegevuse hulka kuulub ravimite valmistamine või müük ja raviteenuste osutamine, võib spondeeritud audiovisuaalmeedia teenuses või saates reklaamida ettevõtja nime või mainet, kuid ei tohi reklaamida retseptiravimeid ega arsti määratavaid raviteenuseid.\n(8^1) Hasartmängukorraldaja võib spondeeritud audiovisuaalmeedia teenuses või saates eksponeerida üksnes ettevõtja nime ja kaubamärki. Kaubamärgi eksponeerimisel kohaldatakse reklaamiseaduse § 21 lõikest 4 tulenevaid tingimusi.\n(9) Uudiste- ja poliitikasaate spondeerimine on keelatud.\n(10) Sponsori logo näitamine lastesaates ja usulise sisuga saates on keelatud."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "3. peatükk - Äriteated",
+      "section": "31",
+      "title": "§ 31. Tootepaigutus",
+      "content": "(1) Tootepaigutus on igasugune audiovisuaalse äriteate vorm, mis seisneb saates tasu või muu samalaadse hüvitise eest toote, teenuse või selle kaubamärgi kaasamises või sellele osutamises.\n(2) Tootepaigutus on keelatud, välja arvatud käesolevas paragrahvis nimetatud juhtudel.\n(3) Tootepaigutus on lubatud:\n1) kino- ja telefilmis ja telesarjas;\n2) spordisaates;\n3) meelelahutussaates;\n4) juhul, kui selle eest ei võeta tasu, vaid pakutakse tasuta kaupu ja teenuseid eesmärgiga lisada neid saatesse nagu saate tootmiseks vajalikke rekvisiite ja auhindu.\n(4) Tootepaigutust sisaldav saade peab vastama järgmistele nõuetele:\n1) tootepaigutus ei tohi mõjutada meediateenuse osutaja toimetusvastutust ega sõltumatust;\n2) saate abil ei tohi otseselt soodustada kaupade või teenuste ostmist või rentimist, tehes eelkõige konkreetseid müüki edendavaid vihjeid nende kaupade või teenuste kohta;\n3) saates ei tohi tõsta konkreetset toodet põhjuseta esile;\n4) vaataja selge ja arusaadava teavitamise eesmärgil tuleb tootepaigutust sisaldav saade märgistada saate alguses ja lõpus ning pärast iga reklaamipausi vastava teksti või eneseregulatsiooni korras kokkulepitud ühtse sümboliga.\n(5) Tootepaigutus lastesaates on keelatud.\n(6) Tootepaigutus on keelatud järgmiste toodete puhul:\n1) tubakatooted ja sigaretid või selliste ettevõtjate kaubad, kelle põhitegevuseks on sigarettide ja muude tubakatoodete tootmine ja müük;\n2) retseptiravimid või arsti määratavad raviteenused.\n(7) Käesoleva paragrahvi lõike 4 punktis 4 sätestatud nõuet ei kohaldata saate puhul, mille on tootnud väljaspool liikmesriiki või konventsiooniga ühinenud riiki asuv ettevõtja."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - Televisiooni- ja raadioteenuse osutamise tegevusload ja tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "section": "32",
+      "title": "§ 32. Televisiooni- ja raadioteenuse osutamise tegevusluba",
+      "content": "Televisiooni- või raadioteenust võib pakkuda üksnes televisiooni- või raadioteenuse osutamise tegevusloa (edaspidi tegevusluba ) alusel, mis antakse füüsilisele või juriidilisele isikule järgmistel tingimustel:\n1) tema programm vastab käesolevas seaduses sätestatud nõuetele;\n1^1) ta on esitanud nõuetekohase tegevusloa taotluse;\n1^2) ta on esitanud andmed, mis tõendavad tema jätkusuutlikkust teenuse osutamisel, välja arvatud televisiooni- ja raadioteenuse osutamisel ajutise tegevusloa alusel;\n2) tema tegevusega ei kaasne Eesti Vabariigi poolt võetud lepinguliste kohustuste rikkumist;\n3) ta ei ole juhtimise üle valitseva mõju kaudu seotud ettevõtjaga, kellele on antud tegevusluba televisiooni- ja raadioteenuse osutamiseks ja tegevusloa andmine võib oluliselt kahjustada konkurentsi meediateenuste turul, eelkõige turgu valitseva seisundi tekkimise või tugevnemise kaudu."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - Televisiooni- ja raadioteenuse osutamise tegevusload ja tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "section": "33",
+      "title": "§ 33. Vaba juurdepääsuga televisiooniteenuse osutamise tegevusluba",
+      "content": "(1) Vaba juurdepääsuga televisiooniteenuse osutamise tegevusluba antakse kuni kümneks aastaks, kui on täidetud käesoleva seaduse §-s 32 nimetatud tingimused ja § 40 lõike 4 alusel kehtestatud tegevusloa kõrvaltingimused ning taotleja osutus valikmenetluses parimaks pakkujaks.\n(2) Vaba juurdepääsuga televisiooniteenuse osutamiseks antakse välja järgmisi tegevuslubasid:\n1) vaba juurdepääsuga regionaalne televisiooniteenuse osutamise tegevusluba ühe või mitme maakonna levipiirkonnas, kus elab kuni 50 protsenti Eesti elanikkonnast;\n2) vaba juurdepääsuga üleriigiline televisiooniteenuse osutamise tegevusluba levipiirkonnas, kus elab üle 50 protsendi Eesti elanikkonnast."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - Televisiooni- ja raadioteenuse osutamise tegevusload ja tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "section": "34",
+      "title": "§ 34. Tingimusjuurdepääsuga televisiooniteenuse osutamise tegevusluba",
+      "content": "Tingimusjuurdepääsuga televisiooniteenuse osutamiseks antakse, juhul kui on täidetud käesoleva seaduse §-s 32 nimetatud tingimused ja § 40 lõike 6 alusel määratud tegevusloa kõrvaltingimused, kuni viieks aastaks välja järgmisi tegevuslubasid:\n1) tingimusjuurdepääsuga regionaalne televisiooniteenuse osutamise tegevusluba ühe või mitme maakonna levipiirkonnas, kus elab kuni 50 protsenti Eesti elanikkonnast;\n2) tingimusjuurdepääsuga üleriigiline televisiooniteenuse osutamise tegevusluba levipiirkonnas, kus elab üle 50 protsendi Eesti elanikkonnast."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - Televisiooni- ja raadioteenuse osutamise tegevusload ja tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "section": "35",
+      "title": "§ 35. Raadioteenuse osutamise tegevusluba",
+      "content": "(1) Raadioteenuse osutamise tegevusluba antakse kuni viieks aastaks, kui on täidetud käesoleva seaduse §-s 32 nimetatud tingimused ja § 40 lõike 4 alusel kehtestatud tegevusloa kõrvaltingimused ning taotleja osutus valikmenetluses parimaks pakkujaks.\n(2) Raadioteenuse osutamiseks antakse välja järgmisi tegevuslubasid:\n1) regionaalne raadioteenuse osutamise tegevusluba ühe või mitme maakonna levipiirkonnas, kus elab kuni 50 protsenti Eesti elanikkonnast;\n2) üleriigiline raadioteenuse osutamise tegevusluba levipiirkonnas, kus elab üle 50 protsendi Eesti elanikkonnast;\n3) rahvusvaheline raadioteenuse osutamise tegevusluba välisriigile suunatud raadioprogrammi edastamiseks."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "4. peatükk - Televisiooni- ja raadioteenuse osutamise tegevusload ja tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "section": "36",
+      "title": "§ 36. Satelliittelevisiooni teenuse osutamise tegevusluba",
+      "content": "Satelliittelevisiooni teenuse osutamise tegevusluba välisriigile suunatud teleprogrammi edastamiseks antakse kuni viieks aastaks, kui on täidetud käesoleva seaduse §-s 32 nimetatud tingimused ja Tehnilise Järelevalve Amet on eelnevalt pidanud nõu teleprogrammi sihtriigi asjaomase asutusega, kas kavandatava teleprogrammi sisu vastab sihtriigis kehtivatele nõuetele, eelkõige telereklaami ja alaealiste kaitse osas."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "4. peatükk - Televisiooni- ja raadioteenuse osutamise tegevusload ja tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "section": "37",
+      "title": "§ 37. Televisiooni- ja raadioteenuse osutamise ajutine tegevusluba",
+      "content": "Televisiooni- ja raadioteenuse osutamise ajutine tegevusluba (edaspidi ajutine tegevusluba ) antakse juhul, kui on täidetud käesoleva seaduse §-s 32 nimetatud tingimused, kuni üheks kuuks programmi edastamiseks, mis on ajutise iseloomuga ning mille edastamise eesmärk on kajastada konkreetset sündmust."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "4. peatükk - Televisiooni- ja raadioteenuse osutamise tegevusload ja tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "section": "39",
+      "title": "§ 39. Tegevusloa taotlemine",
+      "content": "(1) Tegevusloa taotluse lahendab Tehnilise Järelevalve Amet.\n(2) Tegevusloa taotluses märgitakse taotletava loa liik, programmi iseloomustus, andmed edastatava programmi levipiirkonna kohta ja muud andmed, mis on vajalikud, et kinnitada programmi pakkuja tegevuse vastavust tegevusloa tingimustele ja kõrvaltingimustele.\n(3) Programmi iseloomustuses märgitakse:\n1) programmi struktuur;\n1^1) programmi nimi;\n1^2) programmi edastamise alustamise kuupäev;\n2) tegevusloa taotleja ja teiste tootjate toodetud saadete osakaal programmis;\n3) programmi peamine sihtauditoorium;\n4) programmi ööpäevane maht tundides;\n5) muusikateoste ja sõnasaadete, sealhulgas uudistesaadete osakaal programmis.\n(4) Televisiooniteenuse osutamise tegevusloa taotluses märgitakse lisaks kino-, tele- ja dokumentaalfilmide ning laste-, ühiskonna- ja meelelahutussaadete osakaal programmis.\n(5) Majandus- ja kommunikatsiooniminister kehtestab määrusega tegevusloa taotluse vormi.\n(6) Tegevusloa taotlusele lisatakse:\n1) investeerimisprogramm ja äriplaan;\n2) juriidilisest isikust taotleja puhul taotleja isiku esindaja volitusi tõendav dokument, kui volitus ei tulene seadusest või juriidilise isiku põhikirjast;\n3) taotluse esitamisele eelnenud majandusaasta aruanne, kui taotlejaks on juriidiline isik, kellel puudub kohustus esitada majandusaasta aruanne äriregistrile.\n(7) Kui taotletakse tegevusluba televisiooniteenuse osutamiseks, märgitakse taotluses ka teleprogrammi edastamise tehniline vorm, nagu maapealne levi, kaabellevi, satelliitlevi või elektroonilise side muu liik elektroonilise side seaduse tähenduses.\n(8) Tegevusloa taotluse läbivaatamise eest tasutakse riigilõiv riigilõivuseaduses sätestatud määra järgi."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "4. peatükk - Televisiooni- ja raadioteenuse osutamise tegevusload ja tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "section": "40",
+      "title": "§ 40. Tegevusloa väljaandmine",
+      "content": "(1) Vaba juurdepääsuga televisiooniteenuse ja raadioteenuse osutamise tegevusloa väljaandmiseks kuulutab Tehnilise Järelevalve Ameti peadirektor välja konkursi. Konkursi väljakuulutamine, väljaantavate tegevuslubade liigid ja arv, tegevusloa taotluste esitamise tähtpäev ning muud tingimused tehakse teatavaks nii Kultuuriministeeriumi kui ka Tehnilise Järelevalve Ameti veebilehel.\n(2) Tehnilise Järelevalve Amet teavitab vaba juurdepääsuga televisiooniteenuse ja raadioteenuse osutamise tegevusloa eelseisvast konkursist Kultuuriministeeriumi vähemalt kaks kuud enne konkursi väljakuulutamist.\n(3) Vaba juurdepääsuga televisiooniteenuse, tingimusjuurdepääsuga televisiooniteenuse ja raadioteenuse osutamise tegevusloa kõrvaltingimustena võib selleks, et tagada teenuste mitmekesisus, kehtestada Eesti autorite teoste ja Eesti riigi rahalisel toetusel valminud audiovisuaalteoste miinimummahu programmis, muusikasaadete, sõnasaadete, sealhulgas uudistesaadete osakaalu programmis, levipiirkonna elu kajastavate saadete mahu programmis, levipiirkonna, peamise sihtrühma ning sõnasaadete keele nõude.\n(4) Vaba juurdepääsuga televisiooniteenuse ja raadioteenuse osutamise tegevusloa kõrvaltingimuste kehtestamise vajaduse olemasolu otsustab kultuuriminister ning kehtestab sel juhul üks kuu enne tegevusloa konkursi väljakuulutamist tegevusloa kõrvaltingimused ja nende hindamise alused valikmenetluses parima pakkumise väljaselgitamiseks.\n(5) Vaba juurdepääsuga televisiooniteenuse ja raadioteenuse osutamise tegevusloa väljaandmise, väljaandmisest keeldumise või taotluse läbi vaatamata jätmise kohta teeb Tehnilise Järelevalve Ameti peadirektor otsuse kolme kuu jooksul pärast tegevusloa taotluste esitamise tähtpäeva.\n(6) Tingimusjuurdepääsuga televisiooniteenuse osutamise, satelliittelevisiooni teenuse osutamise ja ajutise tegevusloa annab Tehnilise Järelevalve Ameti peadirektor esitatud taotluse alusel konkurssi välja kuulutamata. Tingimusjuurdepääsuga televisiooniteenuse osutamise tegevusloale võib määrata kõrvaltingimusi vastavalt kultuuriministri eelnevalt esitatud ettepanekule.\n(7) Tingimusjuurdepääsuga televisiooniteenuse osutamise tegevusloa ja ajutise tegevusloa väljaandmise, väljaandmisest keeldumise või taotluse läbi vaatamata jätmise kohta teeb Tehnilise Järelevalve Ameti peadirektor otsuse ühe kuu jooksul pärast taotluse saamist.\n(8) Satelliittelevisiooni teenuse osutamise tegevusloa väljaandmise, väljaandmisest keeldumise või taotluse läbi vaatamata jätmise kohta teeb Tehnilise Järelevalve Ameti peadirektor otsuse kuue kuu jooksul pärast taotluse saamist."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "4. peatükk - Televisiooni- ja raadioteenuse osutamise tegevusload ja tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "section": "41",
+      "title": "§ 41. Komisjon",
+      "content": "Tehnilise Järelevalve Ameti peadirektor moodustab tegevuslubade taotluste hindamiseks nõuandva komisjoni, millesse kuuluvad meediateenustega seotud asutuste ja juriidiliste isikute ning meediavaldkonna asjatundjate esindajad, sealhulgas Kultuuriministeeriumi esindaja. Komisjoni koosseisu ja töökorralduse kinnitab Tehnilise Järelevalve Ameti peadirektor käskkirjaga."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "4. peatükk - Televisiooni- ja raadioteenuse osutamise tegevusload ja tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "section": "43",
+      "title": "§ 43. Parima pakkumise väljaselgitamine valikmenetluses",
+      "content": "(1) Vaba juurdepääsuga televisiooniteenuse ja raadioteenuse osutamise tegevusluba, mille väljaandmiseks korraldatakse konkurss, antakse välja taotlejale, kes tegi valikmenetluses parima pakkumise.\n(2) Parima pakkuja väljaselgitamisel hinnatakse pakkumise vastavust käesoleva seaduse §-s 32 nimetatud tingimustele ning § 40 lõike 4 alusel kultuuriministri kehtestatud kõrvaltingimustele, lähtudes kõrvaltingimuste hindamise alustest."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "4. peatükk - Televisiooni- ja raadioteenuse osutamise tegevusload ja tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "section": "44",
+      "title": "§ 44. Tegevusloa andmisest keeldumise erisused",
+      "content": "(1) Tehnilise Järelevalve Ameti peadirektor keeldub tegevusloa väljaandmisest, kui taotleja kavandatav tegevus ei vasta käesoleva seaduse §-s 32 nimetatud tingimustele või tegevusloa kõrvaltingimustele või taotleja ei osutunud valikmenetluses parimaks pakkujaks.\n(2) Satelliittelevisiooni teenuse osutamise tegevusloa andmisest võib Tehnilise Järelevalve Ameti peadirektor keelduda, kui sellise loa alusel edastatav teleprogramm rikuks oluliselt sihtriigis kehtivaid nõudeid, eelkõige telereklaami ja alaealiste kaitse osas."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "4. peatükk - Televisiooni- ja raadioteenuse osutamise tegevusload ja tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "section": "45",
+      "title": "§ 45. Tegevusloa kehtetuks tunnistamise erisused",
+      "content": "Tehnilise Järelevalve Ameti peadirektor tunnistab tegevusloa kehtetuks, kui tegevusloal märgitud isik ei ole edastanud tegevusloa tingimustele või kõrvaltingimustele vastavat programmi enam kui ühe kuu jooksul."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "4. peatükk - Televisiooni- ja raadioteenuse osutamise tegevusload ja tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "section": "46",
+      "title": "§ 46. Tegevusloa peatamine programmi tehnilise edastamise võimatuse tõttu",
+      "content": "Tehnilise Järelevalve Ameti peadirektor võib tegevusloa omaniku taotluse alusel peatada programmi edastamise tegevusloa kuni üheks kuuks, kui programmi tehnilisel edastamisel on ilmnenud olulisi takistavaid asjaolusid."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "4. peatükk - Televisiooni- ja raadioteenuse osutamise tegevusload ja tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "section": "47",
+      "title": "§ 47. Tellitava audiovisuaalmeedia teenuse osutaja teatamiskohustus",
+      "content": "(1) Tellitava audiovisuaalmeedia teenuse osutamiseks tuleb esitada majandustegevusteade.\n(2) Teates esitatakse lisaks majandustegevuse seadustiku üldosa seaduses sätestatule järgmised andmed:\n1) teenuse osutaja veebilehe aadress;\n2) tellitava audiovisuaalmeedia teenuse nimi ja liik ning teenust iseloomustav teave;\n3) pakutava teenuse kättesaadavuse vormid ja levipiirkonnad;\n4) programmikataloogi vastutava toimetaja nimi ja tema kontaktandmed;\n5) viide Tehnilise Järelevalve Ametile kui riikliku järelevalve tegijale."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "5. peatükk - Ainuõigused ja lühilõikude edastamine",
+      "section": "49",
+      "title": "§ 49. Teleülekande ainuõiguse kasutamise piirang",
+      "content": "(1) Televisiooniteenuse osutaja ei tohi kasutada omandatud teleülekande ainuõigusi nii, et sellega võetakse oluliselt osalt teise liikmesriigi või konventsiooniga ühinenud riigi elanikkonnalt võimalus jälgida nende riikide poolt ühiskondlikult oluliste sündmuste nimekirja arvatud ja Euroopa Liidu audiovisuaalmeedia teenuste direktiivi või piiriülese televisiooni Euroopa konventsiooni nõuete kohaselt kinnitatud sündmusi täielikult või osaliselt otseülekandes või hilisema edastusena.\n(2) Ühiskondlikult olulise sündmuse teleülekande ainuõiguse omandanud televisiooniteenuse osutaja peab liikmesriigi või konventsiooniga ühinenud riigi televisiooniteenuse osutajale tagama uudiste lühilõikude jaoks õiglase, mõistliku ja mittediskrimineeriva juurdepääsu sündmusele.\n(3) Kui ühe riigi televisiooniteenuse osutaja soovib juurdepääsu ühiskondlikult olulise sündmuse teleülekandele, millele on teleülekande ainuõigused omandanud sama riigi teine televisiooniteenuse osutaja, peab esimene seda taotlema sellelt teiselt sama riigi televisiooniteenuse osutajalt."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "5. peatükk - Ainuõigused ja lühilõikude edastamine",
+      "section": "50",
+      "title": "§ 50. Lühilõikude edastamine",
+      "content": "(1) Televisiooniteenuse osutajal, kes ei ole omandanud ühiskondlikult olulise sündmuse teleülekande ainuõigusi, on õigus vabalt valida ainuõigusi omava edastava televisiooniteenuse osutaja signaalist lühilõike üldisesse uudistesaatesse, viidates nende allikale.\n(2) Käesoleva seaduse § 49 lõigetes 2 ja 3 nimetatud tingimustel saadud juurdepääsu alusel loodud lühilõikude kasutamisel tuleb järgida järgmisi nõudeid:\n1) lühilõik sündmusest võib uudistesaates olla kuni 90 sekundit ning lühilõigu tegemiseks mõeldud juurdepääs ei hõlma üldjuhul selle pikemat salvestamist ega ülekannet;\n2) neil tingimustel loodud lühilõiku võib kasutada sündmuse toimumise päeva ja sellele järgneva päeva uudistesaadetes, viidates sellele televisiooniteenuse osutajale, kellelt lühilõik on saadud;\n3) ainuõigusi omav televisiooniteenuse osutaja võib nõuda lühilõigu kasutajalt kõnealuse lühilõigu esmanäitamist uudistesaates alles pärast ainuõigusi omava televisiooniteenuse osutaja teleülekannet sündmusest;\n4) lühilõigu edasise kasutamise tingimused määratakse teleülekande ainuõigusi omava televisiooniteenuse osutaja ja lühilõiku kasutava televisiooniteenuse osutaja kokkuleppel;\n5) sündmusele teleülekande ainuõigusi omaval televisiooniteenuse osutajal on õigus saada lühilõigu tegemist taotlevalt televisiooniteenuse osutajalt hüvitist teleülekande jaoks sündmusele ja signaalile juurdepääsu tagamisega otseselt seotud lisakulude eest.\n(3) Tellitavas audiovisuaalmeedia teenuses võib lühilõike üldistes uudistesaadetes kasutada ainult siis, kui tellitava audiovisuaalmeedia teenuse osutaja pakub saadet ajaliselt pärast ainuõigusi omava televisiooniteenuse osutaja uudistesaate edastamist."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "6. peatükk - Meediateenuse vastuvõtmise ja taasedastamise vabadus",
+      "section": "51",
+      "title": "§ 51. Televisiooni- ja raadioteenuse vastuvõtmise ja taasedastamise vabadus",
+      "content": "(1) Teisest riigist pärit televisiooni- ja raadioteenuse vastuvõtmist ja taasedastamist ei piirata, välja arvatud käesolevas paragrahvis sätestatud juhtudel.\n(2) Tehnilise Järelevalve Amet teeb liikmesriigist või konventsiooniga ühinenud riigist pärit teleprogrammi taasedastajale taasedastamise lõpetamise ettekirjutuse järgmistel põhjustel:\n1) teisest riigist pärit teleprogramm on oluliselt rikkunud viimase aasta jooksul vähemalt kahel korral käesoleva seaduse § 19 lõigetes 1–5 sätestatud nõudeid;\n2) Tehnilise Järelevalve Amet on kirjalikult teavitanud käesoleva lõike punktis 1 nimetatud rikkumisest ja taasedastamise lõpetamise ettekirjutuse tegemisest teise riigi järelevalveasutust, televisiooniteenuse osutajat, teleprogrammi taasedastajat ja Euroopa Komisjoni;\n3) konsultatsioonid vastava riigi järelevalveasutusega ja Euroopa Komisjoniga ei ole andnud rahuldavat lahendust 15 päeva jooksul pärast käesoleva lõike punktis 2 nimetatud teatamist ja rikkumine jätkub.\n(3) Tehnilise Järelevalve Amet loobub kavandatud või juba tehtud taasedastamise lõpetamise ettekirjutusest, kui Euroopa Komisjon otsustab, et Eesti tegevus käesoleva paragrahvi lõike 2 alusel ei ole kooskõlas Euroopa Liidu õigusega.\n(4) Kui teleprogrammi taasedastamine, mis ei ole pärit liikmesriigist või konventsiooniga ühinenud riigist, rikub oluliselt ja korduvalt käesoleva seaduse § 19 lõigetes 1–5 sätestatud nõudeid, on Tehnilise Järelevalve Ametil õigus teha teleprogrammi taasedastajale teleprogrammi taasedastamise lõpetamise ettekirjutus.\n(5) Kui teisest riigist pärit raadioprogrammi taasedastaja rikub oluliselt ja korduvalt käesoleva seaduse § 19 lõigetes 1–3 sätestatud nõudeid, on Tehnilise Järelevalve Ametil õigus teha raadioprogrammi taasedastamise lõpetamise ettekirjutus.\n(6) Taasedastaja võib pakkuda oma teenuses teleprogrammi, mille edastamiseks on olemas asukohamaa sellekohane luba või muu õiguslik alus asukohamaa õigusaktide kohaselt."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "6. peatükk - Meediateenuse vastuvõtmise ja taasedastamise vabadus",
+      "section": "52",
+      "title": "§ 52. Tellitava audiovisuaalmeedia teenuse vastuvõtmise ja taasedastamise vabadus",
+      "content": "(1) Teisest riigist pärit tellitava audiovisuaalmeedia teenuse vastuvõtmist ja taasedastamist ei piirata, välja arvatud käesolevas paragrahvis sätestatud juhtudel.\n(2) Tehnilise Järelevalve Amet võib teha Euroopa Liidu liikmesriigist pärit taasedastajale programmikataloogi pakkumise lõpetamise ettekirjutuse juhul, kui see on vajalik ja proportsionaalne ja kui programmikataloog takistab või ohustab vähemalt üht järgmist põhimõtet:\n1) avaliku korra kaitset, eelkõige kuritegude ennetamist, uurimist, avastamist ja nende eest vastutusele võtmist, sealhulgas alaealiste kaitset ning rassilise, soolise, usulise ja rahvusliku vaenu õhutamise ja üksikisikuid puudutava inimväärikuse rikkumise vastu võitlemist;\n2) rahvatervise kaitset;\n3) avalikku julgeolekut, sealhulgas riigi julgeoleku ja kaitse tagamist;\n4) tarbijate, sealhulgas investorite kaitset.\n(3) Enne programmikataloogi pakkumise lõpetamise ettekirjutuse tegemist ja piiramata võimalusi kohtumenetluseks, peab Tehnilise Järelevalve Amet:\n1) taotlema meediateenuse osutaja üle jurisdiktsiooni omavas Euroopa Liidu liikmesriigis järelevalveasutuselt meetmete rakendamist;\n2) juhul, kui Euroopa Liidu liikmesriigi järelevalveasutus ei ole nõutud meetmeid rakendanud või need on olnud ebapiisavad, teatama Euroopa Komisjonile ja Euroopa Liidu liikmesriigi järelevalveasutusele kavatsusest rakendada selliseid meetmeid.\n(4) Edasilükkamatutel asjaoludel, nagu avalikku julgeolekut selgelt ähvardava ohu korral, võib teha erandeid käesoleva paragrahvi lõike 3 tingimustest. Sel juhul teavitab Tehnilise Järelevalve Amet viivitamata Euroopa Komisjoni ja Euroopa Liidu liikmesriigi järelevalveasutust, näidates ära põhjused, miks Tehnilise Järelevalve Amet peab juhtumit edasilükkamatuks ja kiiret tegutsemist nõudvaks.\n(5) Tehnilise Järelevalve Amet võib loobuda kavandatud või juba tehtud programmikataloogi pakkumise lõpetamise ettekirjutusest, kui Euroopa Komisjon otsustab, et ettekirjutus ei ole kooskõlas Euroopa Liidu õigusega.\n(6) Euroopa Liitu mittekuuluvast riigist pärit programmikataloogi puhul võib Tehnilise Järelevalve Amet ühel käesoleva paragrahvi lõikes 2 sätestatud alusel teha programmikataloogi pakkuvale taasedastajale programmikataloogi pakkumise lõpetamise ettekirjutuse.\n(7) Taasedastaja võib pakkuda oma teenuses programmikataloogi, mille edastamiseks on olemas asukohamaa sellekohane luba või muu õiguslik alus asukohamaa õigusaktide kohaselt."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "7. peatükk - Teabevahetus Euroopa Komisjoni ja liikmesriigi või konventsiooniga ühinenud riigi järelevalveasutusega",
+      "section": "53",
+      "title": "§ 53. Teabevahetus Euroopa Komisjoni ja liikmesriigi või konventsiooniga ühinenud riigi järelevalveasutusega",
+      "content": "(1) Tehnilise Järelevalve Amet on kohustatud andma teavet käesoleva seaduse rakendamisega seotud küsimustes Euroopa Komisjonile ja võib anda teavet ka liikmesriigi või konventsiooniga ühinenud riigi järelevalveasutusele nende soovi korral.\n(2) Kui Tehnilise Järelevalve Amet leiab, et teabe avaldamine Euroopa Liidu liikmesriigi järelevalveasutusele ei ole põhjendatud, teavitab ta Euroopa Komisjoni, et ei soovi teabe avaldamist, ning esitab sellekohased põhjendused.\n(3) Kui teabe avaldamine Euroopa Komisjonile või liikmesriigi või konventsiooniga ühinenud riigi järelevalveasutusele puudutab Eestis asuvat meediateenuse osutajat, teavitab Tehnilise Järelevalve Amet teabe avaldamisest ka meediateenuse osutajat.\n(4) Kui mõni liikmesriigi või konventsiooniga ühinenud riigi jurisdiktsiooni alla kuuluv televisiooniteenuse osutaja teenus on tervikuna või põhiosas suunatud Eesti elanikkonnale ja televisiooniteenuse osutaja on asutatud teises liikmesriigis või konventsiooniga ühinenud riigis ilmse eesmärgiga hoiduda kõrvale käesoleva seadusega sätestatud nõuetest ja rikub neid järjekindlalt, võtab Tehnilise Järelevalve Amet ühendust liikmesriigi või konventsiooniga ühinenud riigi järelevalveasutusega, et leida mõlemapoolselt rahuldav lahendus.\n(5) Kui käesoleva paragrahvi lõikes 4 sätestatud teabevahetuses Euroopa Liidu liikmesriigi järelevalveasutusega ei ole leitud mõlemaid pooli rahuldavat lahendust, on Tehnilise Järelevalve Ametil õigus pöörduda Euroopa Komisjoni poole hinnangu saamiseks, kas Tehnilise Järelevalve Ameti poolt kavandatavad meetmed on põhjendatud, objektiivselt vajalikud ja mittediskrimineerivad.\n(6) Kui Euroopa Komisjon on otsustanud, et need meetmed on vastavuses Euroopa Liidu õigusega ja Eesti hinnangud on asjakohased ning piisavalt põhjendatud, võib Tehnilise Järelevalve Amet erandkorras teha käesoleva paragrahvi lõikes 4 nimetatud teleprogrammi taasedastajale teleprogrammi taasedastamise lõpetamise ettekirjutuse.\n(7) Kui mõni liikmesriigi või konventsiooniga ühinenud riigi järelevalveasutus teavitab Tehnilise Järelevalve Ametit asjaolust, et Eestis asuv audiovisuaalmeedia teenuse osutaja, kelle teenused on mõeldud vastuvõtmiseks tervikuna või osaliselt ühes või mitmes liikmesriigis või konventsiooniga ühinenud riigis, rikub järjekindlalt ja oluliselt nimetatud riigis audiovisuaalmeediateenuste osutamisele sätestatud nõudeid, on Tehnilise Järelevalve Ametil õigus teha vajaduse korral audiovisuaalmeediateenuse osutajale nimetatud nõuete järgimise ettekirjutus. Tehnilise Järelevalve Amet teavitab liikmesriigi või konventsiooniga ühinenud riigi järelevalveasutust kasutusele võetud meetmetest ja nende tulemustest kahe kuu jooksul pärast teabe saamist.\n(8) Tehnilise Järelevalve Ametil on õigus teavitada Euroopa Komisjoni käesoleva paragrahvi lõikes 7 nimetatud juhtumist, kui Tehnilise Järelevalve Amet ei nõustu Euroopa Liidu liikmesriigi järelevalveasutuselt saadud teabega."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "8. peatükk - Riiklik järelevalve",
+      "section": "54",
+      "title": "§ 54. Riiklik järelevalve",
+      "content": "Käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuete täitmise üle, välja arvatud käesoleva seaduse §-s 15 sätestatud nõuete täitmise üle, teostab riiklikku järelevalvet Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "8. peatükk - Riiklik järelevalve",
+      "section": "55",
+      "title": "§ 55. Riikliku järelevalve erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-s 30 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "8. peatükk - Riiklik järelevalve",
+      "section": "56",
+      "title": "§ 56. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral võib korrakaitseorgan rakendada sunnivahendit asendustäitmise ja sunniraha seaduses ettenähtud korras. Sunniraha ülemmäär on 15 000 eurot, ettekirjutuse korduva täitmata jätmise korral 30 000 eurot."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "9. peatükk - Vastutus",
+      "section": "57",
+      "title": "§ 57. Alaealiste kaitse nõuete rikkumine",
+      "content": "(1) Käesoleva seaduse §-s 19 sätestatud nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "9. peatükk - Vastutus",
+      "section": "58",
+      "title": "§ 58. Äriteadetele kehtestatud nõuete rikkumine",
+      "content": "(1) Käesoleva seaduse § 26 lõikes 2 ja §-des 28–31 sätestatud nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "9. peatükk - Vastutus",
+      "section": "59",
+      "title": "§ 59. Menetlus",
+      "content": "(1) Käesoleva seaduse §-des 57 ja 58 sätestatud väärtegudele kohaldatakse karistusseadustiku ja väärteomenetluse seadustiku sätteid.\n(2) Käesoleva seaduse §-des 57 ja 58 sätestatud väärtegude kohtuväline menetleja on Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "10. peatükk - Rakendussätted",
+      "section": "60",
+      "title": "§ 60. Nägemis- ja kuulmispuudega inimeste juurdepääs audiovisuaalmeedia teenustele",
+      "content": "Käesoleva seaduse §-s 23 sätestatud nõuet rakendavad audiovisuaalmeedia teenuste osutajad järk-järgult pärast käesoleva seaduse jõustumist. Audiovisuaalmeedia teenuste osutajad esitavad teabe oma pakutavate teenuste kättesaadavaks tegemise kohta nägemis- ja kuulmispuudega inimestele esmakordselt 2011. aasta 15. novembriks Kultuuriministeeriumile ja seejärel alates 2013. aastast iga aasta 15. veebruariks Tehnilise Järelevalve Ametile."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "10. peatükk - Rakendussätted",
+      "section": "61",
+      "title": "§ 61. Tegevusjuhend audiovisuaalsete äriteadete edastamiseks lastesaadetes",
+      "content": "Kultuuriminister kehtestab käesoleva seaduse § 27 lõikes 2 sätestatud tegevusjuhendi äriteadete edastamiseks lastesaadetes poolteise aasta jooksul pärast käesoleva seaduse jõustumist juhul, kui meediateenuse valdkonnas tegutsevad isikud ei ole nimetatud tegevusjuhendit eneseregulatsiooni korras välja töötanud aasta jooksul pärast käesoleva seaduse jõustumist."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "10. peatükk - Rakendussätted",
+      "section": "62",
+      "title": "§ 62. Tootepaigutusele sätestatud nõuete kohaldamise erisused",
+      "content": "Käesoleva seaduse §-s 31 sätestatud nõudeid tootepaigutusele kohaldatakse üksnes nende saadete suhtes, mis on toodetud pärast 2009. aasta 19. detsembrit."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "10. peatükk - Rakendussätted",
+      "section": "63",
+      "title": "§ 63. Väljaantud ringhäälingulubade kehtivus",
+      "content": "(1) Ringhäälinguseaduse alusel välja antud ringhäälinguload jäävad kehtima kuni neil näidatud tähtaja lõpuni.\n(2) Ringhäälinguluba üleriigilise maapealse leviga digitaalringhäälinguvõrgus võrdsustatakse vaba juurdepääsuga üleriigilise televisiooniteenuse osutamise tegevusloaga.\n(3) Kaabellevivõrgu ringhäälinguloa omajad teatavad Tehnilise Järelevalve Ametile kahe kuu jooksul pärast käesoleva seaduse jõustumist levipiirkonna, lähtudes käesoleva seaduse §-s 34 sätestatud nõuetest. Kehtivad ringhäälinguload kaabellevivõrgus võrdsustatakse tingimusjuurdepääsuga televisiooniteenuse osutamise tegevuslubadega vastavalt levipiirkonna suurusele.\n(4) Kohaliku ja regionaalse raadiovõrgu ringhäälinguloa omajad teatavad Tehnilise Järelevalve Ametile kahe kuu jooksul pärast käesoleva seaduse jõustumist levipiirkonna, lähtudes käesoleva seaduse § 35 lõike 2 punktides 1 ja 2 sätestatud nõuetest. Kehtivad ringhäälinguload kohalikus või regionaalses raadiovõrgus võrdsustatakse regionaalse või üleriigilise raadioteenuse osutamise tegevuslubadega vastavalt levipiirkonna suurusele.\n(5) Ringhäälinguload raadio rahvusvahelises analoogvõrgus võrdsustatakse rahvusvahelise raadioteenuse osutamise tegevuslubadega."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "10. peatükk - Rakendussätted",
+      "section": "64",
+      "title": "§ 64. Tellitavate audiovisuaalteenuste osutajate registreerimise erisus",
+      "content": "Kuni käesoleva seaduse §-de 47 ja 48 jõustumiseni esitavad Tehnilise Järelevalve Ametile teate need ettevõtjad, kes soovivad hakata osutama tellitavaid meediateenuseid, märkides andmed teenuse osutaja kohta, osutatava teenuse nimetuse ja liigi, teenuse kättesaadavuse vormi ja levipiirkonna ning programmikataloogi vastutava toimetaja nime."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "10. peatükk - Rakendussätted",
+      "section": "65",
+      "title": "§ 65. Ainuõiguste omandamise erisus",
+      "content": "Käesoleva seaduse § 49 lõikes 1 sätestatud nõue kehtib ainuõigustele, mis on omandatud pärast 1997. aasta 30. juulit."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "10. peatükk - Rakendussätted",
+      "section": "66",
+      "title": "§ 66.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para77",
+      "chapter": "10. peatükk - Rakendussätted",
+      "section": "77",
+      "title": "§ 77.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para78",
+      "chapter": "10. peatükk - Rakendussätted",
+      "section": "78",
+      "title": "§ 78. Seaduse jõustumine",
+      "content": "Käesoleva seaduse §-d 47 ja 48 jõustuvad 2011. aasta 1. juulil."
+    }
+  ],
+  "definitions": []
+}

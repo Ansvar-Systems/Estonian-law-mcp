@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-12907064",
+  "type": "statute",
+  "title": "Teenetemärkide seadus",
+  "title_en": "Teenetemärkide seadus",
+  "short_name": "ee-law-12907064",
+  "status": "in_force",
+  "issued_date": "1996-12-11",
+  "in_force_date": "2008-03-01",
+  "url": "https://www.riigiteataja.ee/akt/12907064.xml",
+  "description": "Official consolidated statute text (Teenetemärkide seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

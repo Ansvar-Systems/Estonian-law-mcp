@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-227062024001",
+  "type": "statute",
+  "title": "Euroopa Tuumauuringute Organisatsiooni asutamiskonventsiooni ja selle juurde kuuluva finantsprotokolli ning eesõiguste ja puutumatuse protokolliga ühinemise seadus",
+  "title_en": "Euroopa Tuumauuringute Organisatsiooni asutamiskonventsiooni ja selle juurde kuuluva finantsprotokolli ning eesõiguste ja puutumatuse protokolliga ühinemise seadus",
+  "short_name": "ee-law-227062024001",
+  "status": "in_force",
+  "issued_date": "2024-06-19",
+  "in_force_date": "2024-07-07",
+  "url": "https://www.riigiteataja.ee/akt/227062024001.xml",
+  "description": "Official consolidated statute text (Euroopa Tuumauuringute Organisatsiooni asutamiskonventsiooni ja selle juurde kuuluva finantsprotokolli ning eesõiguste ja puutumatuse protokolliga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud Euroopa Tuumauuringute Organisatsiooni asutamiskonventsiooni ja selle juurde kuuluva finantsprotokolliga, mis on koostatud 1953. aasta 1. juulil Pariisis ja mida on viimati muudetud 1971. aasta 17. jaanuaril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühineda juurdelisatud Euroopa Tuumauuringute Organisatsiooni eesõiguste ja puutumatuse protokolliga, mis on koostatud 2004. aasta 18. märtsil Genfis."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ee-law-22216",
+  "type": "statute",
+  "title": "Seadus kohtuväliselt represseeritud ja alusetult süüdimõistetud isikute rehabiliteerimise kohta",
+  "title_en": "Seadus kohtuväliselt represseeritud ja alusetult süüdimõistetud isikute rehabiliteerimise kohta",
+  "short_name": "KRASS",
+  "status": "in_force",
+  "issued_date": "1992-02-19",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/22216.xml",
+  "description": "Official consolidated statute text (Seadus kohtuväliselt represseeritud ja alusetult süüdimõistetud isikute rehabiliteerimise kohta) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Riigikohtul on õigus tunnistada isikud, kes on süüdi genotsiidis või muudes inimsusevastastes kuritegudes või sõjavangide või tsiviilisikute tahtlikus tapmises, neile üliraskete või raskete kehavigastuste tahtlikus tekitamises või nende piinamises, §-s 2 toodud alustel rehabiliteerimisele mittekuuluvaks.\n(2) Riigikohus vaatab 1.lõikes näidatud isikute kriminaalasjad läbi kohtuotsuste uuesti läbivaatamise korras kodanike, nende ühenduste, kohaliku omavalitsuse või riigiorganite taotlusel.\n(3) 2.lõikes näidatud kohtuasjade arutamine toimub avalikul kohtuistungil, millest võivad osa võtta süüdimõistetu või tema esindaja või õigusjärglased ning kriminaalasja läbivaatamist taotlenud kodanikud, kodanike ühenduste, kohaliku omavalitsuse ning riigiorganite esindajad."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Tunnistada õigustühiseks §-des 1 ja 2 näidatud isikute vara konfiskeerimine või muul viisil õigusvastaselt võõrandamine.\n(2) 1.lõikes näidatud isikute vara konfiskeerimine või muul viisil õigusvastaselt võõrandamine on õigustühine ka juhul, kui isik tunnistatakse rehabiliteerimisele mittekuuluvaks vastavalt §-le 3."
+    },
+    {
+      "provision_ref": "para5",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "(1) Riigikohtul on õigus rehabiliteerida ajavahemikus 1940.aasta 16.juunist kuni 1991.aasta 20.augustini Eestis või endise NSV Liidu territooriumil kohtute poolt süüdimõistetud isikuid nende taotlusel, kui on tõendatud, et süüdimõistmise aluseks olnud teod olid võitluseks Eesti Vabariigi iseseisvuse eest või Eesti rahvale tehtud ülekohtu vastu.\n(2) 1.lõikes näidatud isikud ei kuulu rehabiliteerimisele, kui on tõendatud nende süüdimõistmise aluseks olnud tegude ilmne mittevastavus 1.lõikes näidatud eesmärkidele või kui nad on süüdi § 3 1.lõikes näidatud kuritegudes."
+    },
+    {
+      "provision_ref": "para6",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "(1) Käesoleva seaduse alusel rehabiliteeritud isikutele tagastatakse või kompenseeritakse neilt õigusvastaselt võõrandatud vara 1991.aasta 13.juuni \"Eesti Vabariigi omandireformi aluste seaduses\" ettenähtud korras.\n(2) Avaldused õigusvastaselt võõrandatud vara tagastamiseks või kompenseerimiseks tuleb esitada õigusvastaselt võõrandatud vara asukoha järgsele maakonna- või linnavalitsusele kahe kuu jooksul rehabiliteerimise päevast arvates, kui vastavat avaldust ei ole seni esitatud."
+    },
+    {
+      "provision_ref": "para7",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "(1) Käesoleva seaduse §-s 1 ja paragrahvi 2 1. lõikes näidatud isikutel piisab õigusvastaselt võõrandatud vara tagastamise või kompenseerimise taotlemisel ning rehabiliteeritutele ettenähtud muude õiguste realiseerimisel dokumentide esitamisest, millest nähtub kohtuväline represseerimine või paragrahvi 2 1. lõikes loetletud paragrahvide järgi süüdimõistmine.\n(2) 1.lõikes näidatud isikutele võidakse nende soovil välja anda rehabiliteerimistunnistus. Nende väljaandmise korra määrab Eesti Vabariigi Valitsus.\n(3) Käesoleva seaduse § 5 alusel rehabiliteeritud isikutele annab rehabiliteerimistunnistuse Riigikohus."
+    },
+    {
+      "provision_ref": "para8",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Isikute rehabiliteerimise avaldused, mis on esitatud Riigikohtule ning on käesoleva seaduse vastuvõtmise päevaks lahendamata või jäetud rahuldamata, vaatab läbi Riigikohus § 5 alusel, kui avalduse esitajat ei loeta rehabiliteerituks §-de 1 ja 2 alusel."
+    },
+    {
+      "provision_ref": "para9",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Tunnistada kehtetuks Eesti NSV Ülemnõukogu Presiidiumi 1990.aasta 19.veebruari seadlus \"Kohtuväliselt represseeritud ja alusetult süüdimõistetud isikute rehabiliteerimisest\"."
+    },
+    {
+      "provision_ref": "para10",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "Käesolev seadus jõustub vastuvõtmise päevast."
+    }
+  ],
+  "definitions": []
+}

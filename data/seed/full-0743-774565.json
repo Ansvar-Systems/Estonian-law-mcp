@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-774565",
+  "type": "statute",
+  "title": "Konventsiooni tulevasest mitmepoolsest koostööst kalanduse valdkonnas Atlandi ookeani loodeosas denonsseerimise seadus",
+  "title_en": "Konventsiooni tulevasest mitmepoolsest koostööst kalanduse valdkonnas Atlandi ookeani loodeosas denonsseerimise seadus",
+  "short_name": "ee-law-774565",
+  "status": "in_force",
+  "issued_date": "2004-06-17",
+  "in_force_date": "2004-06-30",
+  "url": "https://www.riigiteataja.ee/akt/774565.xml",
+  "description": "Official consolidated statute text (Konventsiooni tulevasest mitmepoolsest koostööst kalanduse valdkonnas Atlandi ookeani loodeosas denonsseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Denonsseerida konventsioon tulevasest mitmepoolsest koostööst kalanduse valdkonnas Atlandi ookeani loodeosas (RT II 1993, 5, 4), mille Eesti Vabariik ratifitseeris 1993. aasta 10. veebruaril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Käesolev seadus jõustub Riigi Teatajas avaldamisele järgneval päeval."
+    }
+  ],
+  "definitions": []
+}

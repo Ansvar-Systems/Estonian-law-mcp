@@ -1,0 +1,540 @@
+{
+  "id": "ee-law-129062018082",
+  "type": "statute",
+  "title": "Jahiseadus",
+  "title_en": "Jahiseadus",
+  "short_name": "ee-law-129062018082",
+  "status": "in_force",
+  "issued_date": "2013-04-25",
+  "in_force_date": "2019-01-01",
+  "url": "https://www.riigiteataja.ee/akt/129062018082.xml",
+  "description": "Official consolidated statute text (Jahiseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "Käesolev seadus sätestab jahipiirkonna moodustamise ja kasutamise, jahiulukite seire, küttimismahu ja -struktuuri ning muud jahipidamise alused, määrab kindlaks jahipidamisõigust tõendavad dokumendid, sätestab jahiulukite tekitatud kahju hüvitamise ning riikliku järelevalve ja vastutuse."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Seaduse kohaldamine",
+      "content": "(1) Kaitstava loodusobjekti piires kohaldatakse jahipidamisele käesoleva seaduse nõudeid, kui looduskaitseseadus või selle alusel kehtestatud kaitsekord ei sätesta teisiti.\n(2) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Jahimaa",
+      "content": "(1) Jahimaa on jahiuluki vabaks elamiseks sobiv ja jahipidamiseks kasutatav ala.\n(2) Jahimaa hulka ei kuulu:\n1) planeeringuga määratud linna, alevi ja aleviku ning küla selgelt piiritletav kompaktse asustusega ala (edaspidi tiheasustusala ), samuti puhke- ja virgestusala, kus ohutu jahipidamine ei ole võimalik;\n2) kaitseala vöönd, kus jahipidamine on seadusega või seaduse alusel kehtestatud õigusaktidega keelatud."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Jahiulukid",
+      "content": "(1) Jahiulukid (edaspidi uluk ) jaotatakse nende kaitse ja ohjeldamise eesmärgil suur- ja väikeulukiteks.\n(2) Suurulukid on:\n1) põder;\n2) punahirv;\n3) metskits;\n4) metssiga;\n5) pruunkaru;\n6) hunt;\n7) ilves;\n8) hallhüljes.\n(3) Väikeulukite loetelu sätestatakse jahieeskirjas, mille kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5",
+      "title": "§ 5. Jahipiirkond",
+      "content": "Jahipiirkond on suurulukijahi pidamiseks moodustatud ala, mille jahimaa pindala ühes ringpiiris on vähemalt 5000 hektarit."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "6",
+      "title": "§ 6. Maaomaniku õigused jahinduses",
+      "content": "Maaomanikul on õigus käesoleva seadusega sätestatud ulatuses ja korras: 1 1) korraldada oma maal väikeulukijahti;\n2) sõlmida kokkulepe jahindustegevuse korraldamiseks oma kinnisasjal;\n3) seada oma maal jahipidamiseks tingimusi või jahipidamine keelata;\n4) algatada jahipiirkonna kasutaja väljavahetamine;\n5) teha ettepanekuid jahindusnõukogule jahipiirkonna piiride muutmiseks."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "7",
+      "title": "§ 7. Jahipidamisõigus ja tasu jahipidamisõiguse eest",
+      "content": "(1) Jahipidamisõigus on füüsilise isiku õigus jahti pidada, kui tal on jahipidamisõigust tõendavad dokumendid ning ta on tasunud jahipidamisõiguse tasu.\n(2) Jahipidamisõiguse eest makstakse tasu kord aastas keskkonnatasude seaduse ja selle alusel kehtestatud õigusaktide järgi."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "8",
+      "title": "§ 8. Jahiaasta",
+      "content": "Jahiaasta on ajavahemik 1. märtsist järgmise aasta veebruari viimase päevani."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "9",
+      "title": "§ 9. Jahindusnõukogu",
+      "content": "(1) Jahindusnõukogu moodustatakse regionaalse jahindustegevuse korraldamiseks võrdsetel alustel jahipiirkonna kasutajate ja maaomanike esindajatest. Jahindusnõukokku nimetatakse ka riigi esindaja. Jahindusnõukogu tööpiirkond ei tohi olla suurem kui maakond.\n(2) Jahindusnõukogu moodustab ning selle koosseisu ja töökorra kinnitab Keskkonnaameti peadirektor.\n(3) Jahindusnõukogu pädevusse kuulub:\n1) ettepanekute tegemine Keskkonnaametile pruunkaru, hundi ja ilvese küttimise korraldamiseks;\n2) põdra, punahirve, metskitse ja metssea (edaspidi ka uluksõralised ) küttimismahu ja -struktuuri kokkuleppimine;\n3) ettepanekute tegemine jahipiirkonna kasutusõiguse loa andjale jahipiirkonna kasutusõiguse loa kehtetuks tunnistamiseks, kui on rikutud käesoleva seaduse § 22 lõike 1 alusel kokkulepitut;\n4) ettepanekute tegemine jahipiirkonna kasutusõiguse loa andjale jahipiirkonna piiri muutmiseks;\n5) seisukoha andmine jahipiirkonna kasutusõiguse loa andjale jahipiirkonna kasutusõiguse loa kehtivuse pikendamise kohta."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "10",
+      "title": "§ 10. Halduskoostöö jahinduses",
+      "content": "(1) Riik võib kaasata jahindustegevuse korraldamisse eraõiguslikust juriidilisest isikust jahindusorganisatsiooni. Jahindusorganisatsioonide kaasamiseks võib valdkonna eest vastutav minister sõlmida halduslepingu käesoleva seaduse § 29 lõikes 3, § 36 lõikes 8, § 40 lõikes 6^2 ja § 42 lõikes 8 nimetatud ülesande üleandmiseks halduskoostöö seaduses sätestatud korras.\n(2) Järelevalvet käesoleva paragrahvi lõike 1 kohaselt sõlmitud halduslepingu täitmise üle teostab Keskkonnaministeerium.\n(3) Kui haldusleping lõpetatakse ühepoolselt või kui esineb muu põhjus, mis takistab haldusülesande täitmise jätkamist, on täitmise edasine korraldaja Keskkonnaamet."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - Jahipiirkonna moodustamine ja kasutamine",
+      "section": "11",
+      "title": "§ 11. Jahipiirkonna moodustamine",
+      "content": "(1) Jahimaa jaotatakse jahipiirkondadeks.\n(2) Jahipiirkonna moodustab Keskkonnaameti peadirektor käskkirjaga. Sama käskkirjaga kinnitatakse ka jahipiirkonna kaart. Käskkiri peab sisaldama järgmisi andmeid:\n1) jahipiirkonna nimetus;\n2) jahipiirkonna ja jahimaa pindala;\n3) jahipiirkonna piirikirjeldus.\n(3) Kui saare pindala ei võimalda käesoleva seaduse §-s 5 sätestatud suurusega jahipiirkonda moodustada ja saar ei ole liidetud mõne teise jahipiirkonnaga, võib moodustada §-s 5 sätestatust väiksema pindalaga jahipiirkonna.\n(4) Mere, Lämmijärve, Võrtsjärve, Peipsi ja Pihkva järve ning teiste veekogude, mis ei asu tervikuna ühes jahipiirkonnas, jahipidamiseks sobiv akvatooriumi osa jaotatakse jahipiirkonna moodustamise käigus akvatooriumiga piirnevate jahipiirkondade vahel võrdsete kauguste põhimõttel.\n(5) Jahipiirkonna moodustamisel ja selle piiride muutmisel kohaldatakse avatud menetluse sätteid, arvestades käesoleva seaduse erisusi.\n(6) Käesoleva paragrahvi lõikes 2 nimetatud jahipiirkonna moodustamise otsuse, samuti jahipiirkonna kaardi avalikustab Keskkonnaamet oma veebilehel ning asjakohane teade jahipiirkonna moodustamise kohta avaldatakse väljaandes Ametlikud Teadaanded ja vähemalt ühes üleriigilise levikuga ajalehes või kohalikus ajalehes."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - Jahipiirkonna moodustamine ja kasutamine",
+      "section": "12",
+      "title": "§ 12. Jahipiirkonna piiride muutmine",
+      "content": "(1) Jahipiirkonna piire muudetakse, kui:\n1) jahipiirkonna jahimaa jääb väiksemaks kui 5000 hektarit;\n2) jaotatakse kasutusse andmata jahipiirkond;\n3) jahipiirkonnaga liidetakse jahimaa, mis ei ole arvatud ühegi jahipiirkonna koosseisu;\n4) jahipiirkond jaotatakse jahipiirkonna kasutaja soovil;\n5) piirnevate jahipiirkondade kasutajad on jahipiirkondade piiride muutmises kokku leppinud;\n6) jahindusnõukogu on esitanud põhjendatud ettepaneku.\n(2) Käesoleva paragrahvi lõike 1 punktides 4 ja 5 sätestatud juhul tuleb esitada Keskkonnaametile kirjalik taotlus, mis peab sisaldama:\n1) taotleja nime, registrikoodi, asukoha- ja kontaktandmeid;\n2) jahipiirkonna piiride muutmise kirjeldust;\n3) taotluse esitamise kuupäeva ja taotleja esindaja allkirja.\n(3) Kui jahipiirkonna piiride muutmise taotlus vastab nõuetele, algatab Keskkonnaamet jahipiirkonna muutmise menetluse ja teatab sellest taotlejale posti teel või elektrooniliselt seitsme päeva jooksul nõuetekohase taotluse saamisest arvates.\n(4) Keskkonnaamet teeb otsuse jahipiirkonna piiride muutmise kohta kolme kuu jooksul pärast nõuetekohase taotluse saamist või ettepaneku tegemist. Otsus tehakse taotlejale või jahindusnõukogule teatavaks posti teel seitsme päeva jooksul otsuse tegemisest arvates.\n(5) Käesoleva paragrahvi lõike 1 punktides 4 ja 5 nimetatud juhul tasutakse jahipiirkonna piiride muutmise taotluse läbivaatamise eest riigilõivu riigilõivuseaduses sätestatud määra järgi."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - Jahipiirkonna moodustamine ja kasutamine",
+      "section": "13",
+      "title": "§ 13. Jahipiirkonna kasutusõigus",
+      "content": "Jahipiirkonna kasutusõigus on õigus korraldada jahipiirkonnas jahti ja teha jahiulukite seiret seaduses ja selle alusel kehtestatud õigusaktis sätestatud alustel ja korras."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - Jahipiirkonna moodustamine ja kasutamine",
+      "section": "14",
+      "title": "§ 14. Jahipiirkonna kasutusõiguse luba",
+      "content": "(1) Jahipiirkonna kasutusõigus antakse jahipiirkonna kasutusõiguse loaga.\n(2) Jahipiirkonna kasutusõiguse luba on õigus saada:\n1) Eestis registreeritud juriidilisel isikul;\n2) riigiasutusel.\n(3) Jahipiirkonna kasutusõiguse loa annab ja lubade üle peab arvestust Keskkonnaamet (edaspidi loa andja ).\n(4) Jahipiirkonna kasutusõiguse luba antakse kümneks aastaks.\n(5) Jahipiirkonna kasutusõiguse luba antakse tingimusel, et loa taotlejal on samas jahipiirkonnas kinnisasi või vähemalt ühe samas jahipiirkonnas kinnisasja omava maaomanikuga kirjalik kokkulepe jahindustegevuse korraldamiseks tema kinnisasjal.\n(6) Kui ühe ja sama jahipiirkonna kasutusõiguse saamiseks on esitatud kaks või enam taotlust ja kõik taotlejad ei nõustu nendele ühise kasutusõiguse andmisega, eelistatakse taotlejat, kellel on jahipiirkonna piires suurema pindala ulatuses kokkulepe maaomanikega jahipidamise korraldamiseks nende kinnisasjadel.\n(7) Jahipiirkonna kasutusõiguse loale kantakse:\n1) jahipiirkonna kasutaja nimi, registrikood, asukoha- ja kontaktandmed;\n2) loa kehtivuse algus- ja lõpptähtaeg;\n3) seadusest või kaitstava loodusobjekti kaitse-eeskirjast tulenevad piirangud ja tingimused;\n4) jahiulukite seire korraldamise kohustus;\n5) jahiulukite teadusuuringute korraldamisega seotud piirangud ja tingimused.\n(8) Jahipiirkonna kasutusõiguse loale lisatakse jahipiirkonna piirikirjeldus ja kaart.\n(9) Jahipiirkonna kasutusõiguse loa vormi kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - Jahipiirkonna moodustamine ja kasutamine",
+      "section": "15",
+      "title": "§ 15. Jahipiirkonna kasutusõiguse loa taotlemine",
+      "content": "(1) Jahipiirkonna kasutusõiguse loa saamiseks esitatakse loa andjale kirjalik taotlus, mis peab sisaldama:\n1) taotleja nime, registrikoodi, asukoha- ja kontaktandmeid;\n2) taotletava jahipiirkonna nimetust;\n3) jahipiirkonna kasutusõiguse loa kättetoimetamise soovitud viisi ning kättetoimetamiseks vajalikke kontaktandmeid;\n4) taotluse esitamise kuupäeva ja taotleja esindaja allkirja.\n(2) Taotlusele lisatakse taotleja selles jahipiirkonnas asuva kinnisasja andmed või käesoleva seaduse § 14 lõikes 5 nimetatud kirjalik kokkulepe, sealhulgas kokkulepete nimekiri, mis peab sisaldama:\n1) taotleja nime, registrikoodi, asukoha- ja kontaktandmeid;\n2) maaomaniku nime, isiku- või registrikoodi, kontaktandmeid, katastriüksuse numbrit ja pindala;\n3) maaomaniku nõusoleku andmise kuupäeva ja maaomaniku allkirja.\n(3) Taotlusi võetakse vastu 30 päeva jooksul jahipiirkonda moodustava otsuse jõustumisest või käesoleva seaduse § 20 lõikes 4 sätestatud teate avaldamisest arvates.\n(4) Loa andja registreerib jahipiirkonna kasutusõiguse loa taotluse viivitamata pärast selle saamist.\n(5) Kui jahipiirkonna kasutusõiguse loa taotlus vastab nõuetele, algatab loa andja loa andmise menetluse ja teatab sellest taotlejale posti teel või elektrooniliselt seitsme päeva jooksul nõuetekohase taotluse saamisest arvates.\n(6) Jahipiirkonna kasutusõiguse loa taotluse läbivaatamise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määra järgi."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - Jahipiirkonna moodustamine ja kasutamine",
+      "section": "16",
+      "title": "§ 16. Jahipiirkonna kasutusõiguse loa taotluse avalikustamine",
+      "content": "(1) Jahipiirkonna kasutusõiguse loa saamiseks esitatud nõuetekohase taotluse kohta avaldab loa andja 14 päeva jooksul taotluse saamise päevast arvates teadaande väljaandes Ametlikud Teadaanded.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud teadaandes avaldatakse:\n1) taotletava jahipiirkonna nimetus ning taotleja nimi, registrikood ja asukohaandmed;\n2) kohaliku omavalitsuse üksus, mille ala jahipiirkond hõlmab;\n3) taotlusega tutvumise võimaluse aeg ja koht ning viide ettepanekute ja vastuväidete esitamise võimalusele."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - Jahipiirkonna moodustamine ja kasutamine",
+      "section": "17",
+      "title": "§ 17. Jahipiirkonna kasutusõiguse loa andmine ja sellest keeldumine",
+      "content": "(1) Loa andja annab jahipiirkonna kasutusõiguse loa või keeldub loa andmisest kahe kuu jooksul nõuetekohase taotluse saamisest arvates.\n(2) Loa andja keeldub jahipiirkonna kasutusõiguse loa andmisest, kui:\n1) jahipiirkonna kasutusõiguse loa taotlejal on karistatus jahindusalase õigusakti nõude rikkumise eest;\n2) loa taotleja ei vasta käesoleva seaduse § 14 lõigetes 2 ja 5 sätestatud nõuetele;\n3) loa taotleja on teadlikult esitanud valeandmeid;\n4) jahipiirkond on juba kasutusel.\n(3) Loa andmise või sellest keeldumise otsus tehakse taotluse esitajale teatavaks posti teel seitsme päeva jooksul otsuse tegemisest arvates.\n(4) Jahipiirkonna kasutusõiguse luba tehakse avalikult teatavaks 14 päeva jooksul loa andmisest arvates väljaandes Ametlikud Teadaanded ning Keskkonnaameti veebilehel."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - Jahipiirkonna moodustamine ja kasutamine",
+      "section": "18",
+      "title": "§ 18. Jahipiirkonna kasutusõiguse loa kehtivuse pikendamine",
+      "content": "(1) Jahipiirkonna kasutusõiguse loa kehtivust pikendatakse järgmiseks kümneks aastaks, kui jahipiirkonna senine kasutaja on esitanud kuus kuud enne jahipiirkonna kasutusõiguse loa kehtivuse lõppemist jahipiirkonna kasutusõiguse loa andjale vastava taotluse koos jahindusnõukogu seisukohaga.\n(2) Jahipiirkonna kasutusõiguse loa kehtivust ei pikendata, kui:\n1) loa taotleja on teadlikult esitanud valeandmeid;\n2) jahindusnõukogu ei ole loa kehtivuse pikendamist toetanud;\n3) jahipiirkonna kasutaja ei ole täitnud jahipiirkonna kasutusõiguse loas sätestatud kohustusi.\n(3) Loa andja vaatab käesoleva paragrahvi lõikes 1 nimetatud taotluse läbi ja teeb otsuse loa kehtivuse pikendamise kohta kahe kuu jooksul nõuetekohase taotluse saamisest arvates.\n(4) Loa kehtivuse pikendamise või sellest keeldumise otsus tehakse taotluse esitajale teatavaks posti teel seitsme päeva jooksul otsuse tegemisest arvates.\n(5) Jahipiirkonna kasutusõiguse loa kehtivuse pikendamise otsus avalikustatakse 14 päeva jooksul loa kehtivuse pikendamise otsuse tegemisest arvates ametlikus väljaandes Ametlikud Teadaanded ning Keskkonnaameti veebilehel."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - Jahipiirkonna moodustamine ja kasutamine",
+      "section": "19",
+      "title": "§ 19. Jahipiirkonna kasutusõiguse loa muutmine",
+      "content": "Jahipiirkonna kasutusõiguse luba muudetakse, kui: 1 1) käesoleva seaduse § 15 lõike 1 punktis 1 nimetatud andmed on muutunud;\n2) jahipiirkonna kasutusõiguse loas esitatud nõuete aluseks olnud õigusnormid on muutunud ja avalik huvi jahipiirkonna kasutusõiguse loa muutmiseks kaalub üles isiku usalduse;\n3) loa omaja on esitanud selleks põhjendatud taotluse."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - Jahipiirkonna moodustamine ja kasutamine",
+      "section": "20",
+      "title": "§ 20. Jahipiirkonna kasutusõiguse loa kehtivuse lõppemine ja loa kehtetuks tunnistamine",
+      "content": "(1) Jahipiirkonna kasutusõiguse loa kehtivus lõpeb, kui:\n1) jahipiirkonna kasutusõiguse loa saanud juriidiline isik või riigiasutus likvideeritakse;\n2) jahipiirkonna kasutaja teatab kasutusõigusest loobumisest;\n3) jahipiirkonna kasutusõiguse loa kehtivuse tähtaeg on möödunud.\n(2) Jahipiirkonna kasutusõiguse luba tunnistatakse kehtetuks, kui:\n1) loa taotlemisel on teadlikult esitatud valeandmeid;\n2) maaomanikud, kellele kuulub vähemalt 51 protsenti jahipiirkonna jahimaa kinnisasjadest ning vähemalt 51 protsenti jahimaa pindalast, on selleks esitanud ühise taotluse;\n3) jahindusnõukogu on esitanud selleks põhjendatud ettepaneku;\n4) jahipiirkonna jahimaa jääb väiksemaks kui 5000 hektarit;\n5) jahipiirkond jaotatakse jahipiirkonna kasutaja soovil;\n6) jahipiirkonna kasutaja ei täida jahipiirkonna kasutusõiguse loas sätestatud kohustusi;\n7) jahipiirkonna kasutajal on rohkem kui üks karistatus käesoleva seaduse või selle alusel kehtestatud õigusakti nõuete rikkumise eest.\n(3) Käesoleva paragrahvi lõike 2 punktis 2 nimetatud juhul peab taotlus sisaldama:\n1) jahipiirkonna nimetust;\n2) jahipiirkonna kasutusõiguse loa kehtetuks tunnistamist taotleva iga maaomaniku nime, ärinime, isiku- või registrikoodi, kontaktandmeid, kinnistu numbrit ning katastriüksuse numbrit ja pindala;\n3) iga maaomaniku allkirja ja tema nõusoleku andmise kuupäeva.\n(4) Jahipiirkonna kasutusõiguse loa kehtivuse lõppemise või loa kehtetuks tunnistamise kohta avaldab loa andja teate väljaandes Ametlikud Teadaanded ning vähemalt ühes üleriigilise levikuga ajalehes või kohalikus ajalehes. Loa kehtivuse lõppemise või kehtetuks tunnistamise teates avaldatakse muu hulgas teave vabanenud jahipiirkonna kasutusõiguse saamise taotluse esitamise võimaluste kohta."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - Jahiulukite seire, küttimismaht ja -struktuur",
+      "section": "21",
+      "title": "§ 21. Jahiulukite seire",
+      "content": "(1) Jahiulukiasurkonna seisundi jälgimiseks korraldatakse ulukite seiret.\n(2) Jahipiirkonna kasutaja on kohustatud teostama ulukite seiret oma jahipiirkonna piires.\n(3) Seireandmete loetelu ja kogumise korra kehtestab ning riiklikku seiret korraldama volitatud asutuse määrab valdkonna eest vastutav minister määrusega.\n(4) Igal aastal koostab käesoleva paragrahvi lõike 3 alusel määratud asutus ulukite seire aruande. Seirearuanne peab sisaldama järgmisi andmeid:\n1) ulukiasurkonna seisundi kirjeldus;\n2) ulukiasurkonna seisundi muutus;\n3) ulukiasurkonna seisundi prognoos ja ohutegurid;\n4) uluki soovituslik küttimismaht ja -struktuur.\n(5) Seirearuanne avalikustatakse käesoleva paragrahvi lõike 3 alusel määratud asutuse veebilehel.\n(6) Kui seirearuande tulemustest nähtub, et liigi soodne seisund on ohus, või kui liigi arvukuse suurenemisest on tingitud oluline negatiivne mõju keskkonnale või oht inimese tervisele või varale, koostatakse looduskaitseseaduse §-s 49 nimetatud tegevuskava."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - Jahiulukite seire, küttimismaht ja -struktuur",
+      "section": "22",
+      "title": "§ 22. Jahiulukite küttimismaht ja -struktuur",
+      "content": "(1) Põdra, punahirve, metssea ja metskitse küttimismaht ja -struktuur lepitakse igal jahiaastal jahipiirkondade kaupa kokku jahindusnõukogus, lähtudes käesoleva seaduse § 21 lõikes 4 nimetatud aruandest ja jahipiirkonna kasutaja ettepanekust.\n(2) Pruunkaru, hundi, ilvese ja hallhülge küttimismahu kehtestab igal jahiaastal Keskkonnaamet, lähtudes käesoleva seaduse § 21 lõikes 4 nimetatud aruandest ning jahindusnõukogu ettepanekust.\n(3) Väikeuluki küttimismahu otsustab igal jahiaastal:\n1) oma kinnisasja piires – maaomanik;\n2) jahipiirkonnas – jahipiirkonna kasutaja, kui maaomanik ei ole seadnud piiranguid.\n(4) Keskkonnaametil on õigus seada lisapiiranguid ja -tingimusi, lähtudes käesoleva seaduse § 21 lõikes 6 nimetatud tegevuskavast. Piirangud ja tingimused tehakse teatavaks jahipiirkonna kasutajale posti teel või elektrooniliselt ja avaldatakse väljaandes Ametlikud Teadaanded ning vähemalt ühes üleriigilise levikuga ajalehes või kohalikus ajalehes."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - Jahipidamine",
+      "section": "23",
+      "title": "§ 23. Jahipidamine",
+      "content": "(1) Jahipidamine ehk küttimine on uluki jälitamine, püüdmine, tabamine või surmamine.\n(2) Jahipidamisega on võrdsustatud jahisaaduse, jahitulirelva, jahikoera, koos lõikurotsikuga nooltega jahivibu või püünisega looduses viibimine.\n(3) Jahipidamiseks ei peeta:\n1) tiheasustusalale tunginud uluki jälitamist, püüdmist, tabamist või surmamist;\n2) uluki surmamist ulukite tehiskeskkonnas hoidmise kohas, mis on registreeritud Keskkonnaametis;\n3) liiklusõnnetuses või muus õnnetuses viga saanud uluki surmamist sündmuskohal;\n4) jahimaal viibimist püssikotis või kabuuris oleva laadimata jahitulirelvaga või lõastatud jahikoeraga;\n5) jahimaal viibimist vibukotis või kohvris oleva jahivibuga;\n6) jahikoera jooksutamist, katsetamist või õpetamist selleks lubatud ajal ja kohas;\n7) uluki jälitamist, püüdmist, tabamist või surmamist teaduseesmärgil looduskaitseseadusega kehtestatud korras.\n(4) Keskkonnaamet korraldab jahipidamist:\n1) inimese elule või tervisele tekkiva ohu vältimiseks;\n2) loodusesse sattunud jahieeskirjas nimetamata võõrliigi surmamiseks;\n3) uluki tekitatud kahjustuse vältimiseks väljaspool jahiaega;\n4) vigastatud uluki hukkamiseks väljaspool jahiaega;\n5) uluki kaudu leviva haiguse tõkestamiseks;\n6) kasutusse andmata jahipiirkonnas või jahimaal või avaliku veekogu osas, mis jääb väljapoole jahipiirkonda;\n7) kaitstaval loodusobjektil, mis ei ole liidetud jahipiirkonnaga.\n(5) Käesoleva paragrahvi lõike 4 punktides 6 ja 7 sätestatud juhul kehtestab jahipidamise korraldamise alused ning jahiloa kehtivuse aja ja hinna uluki liikide kaupa valdkonna eest vastutav minister määrusega.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud jahiloa hinna ülemmäär on 500 eurot ja alammäär 0,5 eurot.\n(7) Suurulukitele jahipidamine on lubatud jahipiirkonnas, mille jahimaa pindala ühes ringpiiris on vähemalt 5000 hektarit, välja arvatud käesoleva seaduse § 11 lõikes 3 sätestatud juhul."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - Jahipidamine",
+      "section": "24",
+      "title": "§ 24. Jahipidamisvahendid ja -viisid",
+      "content": "(1) Lubatud jahipidamisvahendid on:\n1) sile- ja vintraudne ja kombineeritud tulirelv, välja arvatud täisautomaattulirelv;\n2) jahipidamise otstarbel registreeritud poolautomaattulirelv, mille salve mahub kuni kaks padrunit;\n3) püstol ja revolver;\n4) jahivibu;\n5) püünis;\n6) peibutis ehk peibutusvahend;\n7) jahikoer;\n8) piirdelipp.\n(2) Lubatud jahipidamisviisid on:\n1) hiilimisjaht;\n2) varitsusjaht;\n3) peibutusjaht;\n4) ajujaht;\n5) otsijaht;\n6) urujaht;\n7) uluki püüdmine.\n(3) Lubatud jahipidamisvahendi ja -viisi ning jahiaja uluki liikide kaupa kehtestab valdkonna eest vastutav minister jahieeskirjas.\n(4) Keelatud on jahipidamine:\n1) inimesele ohtlikul viisil;\n2) looma elupaika kahjustaval ja hävitaval viisil, kui seadus või selle alusel kehtestatud õigusakt ei sätesta teisiti;\n3) iselaskja, lõhkelaengu, elektri, linnuliimi, silmuse, võrgu, mürgi, gaasi ja suitsu abil;\n4) mootoriga veesõiduki, mootor- ja maastikusõidukiga ulukit taga ajades, mootoriga veesõidukist, mootor- ja maastikusõidukist ulukit lastes ning mootoriga veesõidukit, mootor- ja maastikusõidukit uluki laskmiseks muul viisil kasutades;\n5) kunstliku valgusallika abil;\n6) õhusõidukilt;\n7) ambu, õhkrelva ning laser- ja öösihikut kasutades;\n8) loodusõnnetuse eest põgenevale ulukile;\n9) abitus seisundis olevale ulukile, kui seadus ei sätesta teisiti;\n10) jahikulli kasutades;\n11) tulirelvaga, mis ei ole jahitulirelv;\n12) vibuga, mis ei ole jahivibu käesoleva seaduse § 27 lõike 1 tähenduses.\n(5) Tasku- ja otsmikulampi võib kasutada lasketulemuse selgitamiseks ning haavatud ja surnud uluki otsimiseks.\n(6) Käesoleva paragrahvi lõike 4 punktis 4 sätestatud keeld ei laiene veelinnu-, kopra- ega mingijahile seisva mootoriga veesõidukist.\n(7) Keskkonnaametil on õigus kehtestada sigade Aafrika katku tõrjumise eesmärgil ajavahemik, mille jooksul on lubatud metssigade laskmine seisva mootoriga mootor- ja maastikusõidukist, mootor- ja maastikusõidukit muul viisil kasutades ning kunstliku valgusallika abil."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - Jahipidamine",
+      "section": "25",
+      "title": "§ 25. Kinnisasja kasutamine jahipidamiseks",
+      "content": "(1) Kinnisasjal jahipidamiseks tuleb kinnisasja omanikuga sõlmida leping. Riigimaa jahindusliku kasutamise leping sõlmitakse riigimaa valitseja määratud isikuga.\n(2) Kui maaomanik ei ole oma maal jahipidamist keelanud, tohib ilma lepinguta jahti pidada piiramata või tähistamata kinnisasjal päikesetõusust päikeseloojanguni, kuid mitte lähemal kui 200 meetri kaugusel hoonest.\n(3) Maaomanik ei või keelata oma kinnisasjal:\n1) jahisaaduse äraviimist;\n2) jahipidamise käigus haavatud ja muul põhjusel vigastatud uluki jälitamist ja surmamist;\n3) jahipidamist uluki kaudu leviva haiguse tõkestamiseks Keskkonnaameti peadirektori kehtestatud korra kohaselt."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - Jahipidamine",
+      "section": "26",
+      "title": "§ 26. Jahitulirelva ja laskemoona kasutamine",
+      "content": "(1) Jahitulirelv on tulirelv, mis on omandatud relvaseaduse alusel jahipidamise otstarbel.\n(2) Püstolit ja revolvrit võib kasutada püütud väikeuluki surmamiseks.\n(3) Suurulukijahil ei tohi vintraudsesse püssi laadida täismantelkuuliga laetud padrunit ega sellise padruniga tulistada.\n(4) Põtra, pruunkaru, punahirve, metssiga ja hallhüljest võib tulistada ainult kuuliga.\n(5) Põdra, pruunkaru, punahirve, metssea ja hallhülge küttimisel vintraudse püssiga peab vintraua kaliiber olema vähemalt 6,5 millimeetrit ning padrunis kasutatava kuuli kaal vähemalt 9,0 grammi.\n(6) Ääretulepadrunit võib kasutada püütud väikeuluki surmamiseks ning kährikkoera, nugise, tuhkru, mingi, ondatra ja lindude, välja arvatud hanelise ja laugu küttimiseks.\n(7) Pliihaavli kasutamine veelinnujahil on keelatud."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - Jahipidamine",
+      "section": "27",
+      "title": "§ 27. Jahivibu kasutamine",
+      "content": "(1) Jahivibu käesoleva seaduse tähenduses on relvaseaduse § 18 lõike 1 punktis 8 nimetatud sportvibu tõmbejõuga 20 kuni 45 kilogrammi, mida kasutatakse jahipidamisel ja millele on kantud ilmastikukindlalt jahivibu kasutaja jahitunnistuse number.\n(2) Jahivibuga jahipidamiseks on lubatud kasutada vibunooli kaaluga vähemalt 20 grammi, mis on varustatud lõikurotsikuga, mille kaal on vähemalt 6,4 grammi ja lõikediameeter minimaalselt 24 millimeetrit ning millele on kantud ilmastikukindlalt jahivibu kasutaja jahitunnistuse number.\n(3) Jahivibu on lubatud kasutada väikeulukitele jahipidamisel.\n(4) Jahivibu kasutamise täpsustatud nõuded kehtestab valdkonna eest vastutav minister jahieeskirjas."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - Jahipidamine",
+      "section": "28",
+      "title": "§ 28. Püünise kasutamine",
+      "content": "(1) Püünisena on lubatud kasutada:\n1) kastlõksu, mis ei vigasta ulukit;\n2) varesemõrda;\n3) ondatramõrda;\n4) kopramõrda;\n5) piirdevõrku ja kopra eluspüügi kahva;\n6) uluki kohe surmavat püünisrauda;\n7) püünisaeda.\n(2) Püünisel ja varjatud püünise juures peab olema nähtaval kohal märgis püünise omaniku jahitunnistuse numbriga. Märgise loetavus peab olema tagatud kogu püügiperioodi kestel.\n(3) Püünisaeda on lubatud kasutada ainult metsseajahil sigade Aafrika katku leviku piiramise eesmärgil Keskkonnaameti määratud juhtudel."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - Jahipidamine",
+      "section": "29",
+      "title": "§ 29. Jahikoera kasutamine",
+      "content": "(1) Jahipidamisel tohib kasutada jahikoera, kellel on jahikoerapass või muu jahikoera tõugu tõendav dokument ning kes on kiibistatud või tätoveeringuga märgistatud. Jahikoeraga jahipidamisel peab kaasas olema jahikoerapass või muu jahikoera tõugu tõendav dokument.\n(2) Jahipidamisel kasutada lubatud koeratõugude nimekirja kehtestab valdkonna eest vastutav minister jahieeskirjas.\n(3) Jahikoerapassi annab ja antud jahikoerapasside arvestust peab Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik.\n(4) Jahikoerapassi taotlemise ja andmise korra ning passi vormi kehtestab valdkonna eest vastutav minister määrusega.\n(5) Väljaspool jahikoeraga jahipidamiseks lubatud aega tohib jahikoera:\n1) kasutada haavatud, surnud ning liiklusõnnetuses ja muul viisil viga saanud uluki otsimiseks;\n2) jooksutada ilma ulukit laskmata jahipiirkonna kasutaja kirjaliku loaga määratud kohas 1. septembrist 30. septembrini;\n3) katsetada ja õpetada maaomaniku või jahipiirkonna kasutaja ettepanekul Keskkonnaameti kirjaliku loaga määratud ajal ja kohas."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "4. peatükk - Jahipidamine",
+      "section": "30",
+      "title": "§ 30. Peibutusvahendi kasutamine",
+      "content": "(1) Peibutusvahendina võib uluki ligimeelitamiseks kasutada kuju, lõhnapreparaati ja uluki häälitsust järeleaimavat vahendit, välja arvatud elektroonilist vahendit.\n(2) Peibutusvahendina ei tohi kasutada elusat looma."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "4. peatükk - Jahipidamine",
+      "section": "31",
+      "title": "§ 31. Ühisjaht",
+      "content": "(1) Ühisjaht on suurulukitele peetav mitme isiku osavõtul toimuv jaht, mida korraldatakse vähemalt ühele jahist osavõtvale isikule antud jahiloa alusel.\n(2) Ühisjahi korraldamiseks valitakse jahist osavõtvate isikute hulgast jahijuhataja, kes koostab jahist osavõtjate nimekirja, mis peab jahipidamisel kaasas olema. Jahijuhatajal peab olema kehtiv jahitunnistus.\n(3) Jahist osavõtjate nimekiri peab sisaldama:\n1) vähemalt ühe jahiloa numbrit;\n2) kõikide jahist osavõtjate nimesid ja allkirju;\n3) jahi toimumise aega ja kohta;\n4) jahijuhataja nime ja allkirja.\n(4) Jahist osavõtjate nimekirja kantud isikul ei pea olema jahipidamiseks vajalikke dokumente ja jahipidamisvahendi kasutamist tõendavaid dokumente, kui ta ei kasuta dokumendi olemasolu eeldavat jahipidamisvahendit või temale antud jahiluba ei ole lisatud jahist osavõtjate nimekirjale.\n(5) Jahijuhataja on kohustatud:\n1) kõrvaldama jahilt joobeseisundis või ilmsete haigustunnustega isiku;\n2) teavitama jahist osavõtjaid jahiohutuse nõuetest, küttida lubatud jahiulukitest ja loale märgitud erinõuetest;\n3) juhatama ise või määrama isiku, kes juhatab, ühisjahil kütid või ajajad vastavalt laskekohale või aju alguskohale koos aju suuna kättenäitamisega;\n4) võtma tarvitusele vajalikud abinõud õnnetusjuhtumite korral;\n5) tegema jahiuluki surmamise ja haavamise korral märke jahiloale;\n6) esitama jahipiirkonna kasutajale jahist osavõtjate nimekirja jahiaasta lõpuks.\n(6) Ühisjahist osavõtja on kohustatud:\n1) täitma jahijuhataja õiguspäraseid korraldusi;\n2) andma jahist osavõtjate nimekirjale allkirja jahiohutuse ja jahipidamise nõuetest teadlik olemise kohta."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - Jahipidamine",
+      "section": "32",
+      "title": "§ 32. Ohutusnõuded jahipidamisel",
+      "content": "Ohutusnõuded jahipidamisel kehtestab valdkonna eest vastutav minister jahieeskirjas."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - Jahipidamine",
+      "section": "33",
+      "title": "§ 33. Marutauditunnustega uluki surmamine ja sellest teavitamine",
+      "content": "(1) Ilmsete marutauditunnustega uluki võib surmata jahiloata.\n(2) Surmatud marutauditunnustega ulukist tuleb viivitamata teatada piirkonda teenindavale volitatud veterinaararstile või järelevalveametnikule. Kui marutauditunnustega uluki hukkamiseks puudus jahiluba, tuleb viivitamata informeerida ka Keskkonnainspektsiooni."
+    },
+    {
+      "provision_ref": "para33^1",
+      "chapter": "4. peatükk - Jahipidamine",
+      "section": "33^1",
+      "title": "§ 33^1. Sigade Aafrika katku tunnustega metssea surmamine ja sellest teavitamine",
+      "content": "(1) Sigade Aafrika katku ilmsete tunnustega metssea võib surmata jahiloata.\n(2) Sigade Aafrika katku tunnustega metssea surmamisest tuleb viivitamata teatada piirkonda teenindama volitatud veterinaararstile või järelevalveametnikule. Kui sigade Aafrika katku tunnustega metssea surmamiseks puudus jahiluba, tuleb surmamisest viivitamata teatada ka Keskkonnainspektsioonile."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - Jahipidamine",
+      "section": "34",
+      "title": "§ 34. Jahisaadus",
+      "content": "(1) Jahisaadus käesoleva seaduse tähenduses on jahipidamise käigus surmatud uluk ja surmatud uluki liha, nahk või muu toore.\n(2) Jahisaadus kuulub jahiloa saanud isikule, kes surmas uluki, kui jahipidamise heast tavast ja jahist osavõtvate isikute kokkuleppest ei tulene teisiti.\n(3) Jahisaaduse valdaja peab tõendama jahisaaduse päritolu.\n(4) Liiklusõnnetuses hukkunud ja liiklusõnnetuse tõttu surmatud suurulukist ning tema osadest tuleb viivitamata teavitada jahipiirkonna kasutajat või Keskkonnainspektsiooni.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud suuruluk ja tema osa kuuluvad jahipiirkonna kasutajale, kes surnud tarbimisväärtuseta suuruluki utiliseerib või matab kohapeal kokkuleppel maaomanikuga."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "5. peatükk - Jahipidamisõigust tõendav dokument",
+      "section": "35",
+      "title": "§ 35. Jahipidamisõigust tõendavad dokumendid",
+      "content": "(1) Jahipidamisõigust tõendavad dokumendid on:\n1) jahitunnistus;\n2) jahiluba;\n3) jahist osavõtjate nimekiri;\n4) suuruluki laskekatse tunnistus;\n5) vibujahi laskekatse tunnistus.\n(2) Jahipidamisõigust tõendavad dokumendid peavad jahipidamise ajal kaasas olema või olema vormistatud elektrooniliselt, välja arvatud käesoleva seaduse § 31 lõikes 4 nimetatud juhul.\n(3) Jahist osavõtjate nimekiri on nõutav üksnes ühisjahi puhul.\n(4) Käesoleva seaduse § 23 lõikes 4 nimetatud juhul võib Keskkonnaamet korraldada jahipidamist ulukite loetellu mittekuuluvale ulukile suuruluki jahiloa alusel."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "5. peatükk - Jahipidamisõigust tõendav dokument",
+      "section": "36",
+      "title": "§ 36. Jahitunnistus",
+      "content": "(1) Jahitunnistus on paberil või elektrooniliselt vormistatud dokument, mis tõendab füüsilise isiku oskust jahti pidada.\n(2) Jahitunnistuse tohib anda vähemalt 16-aastasele isikule, kes on läbi teinud jahindusalase koolituse ning edukalt sooritanud jahiteooriaeksami.\n(3) Kui jahitunnistuse taotleja ei soovi jahipidamisel kasutada jahitulirelva, tehakse jahitunnistusele vastav märge ja ta ei pea sooritama laskekatset.\n(4) Jahitunnistus kehtib kümme aastat.\n(5) Jahitunnistust ei anta isikule, kellelt on karistusena ära võetud jahipidamise õigus ja kelle karistusandmeid ei ole karistusregistrist kustutatud või kes ei vasta käesoleva paragrahvi lõikes 2 sätestatud nõuetele.\n(5^1) Jahitunnistust ei anta isikule, kelle suhtes on jõustunud täitemenetluse seadustiku § 177^2 lõike 1 punkti 1 ja lõike 2 alusel tehtud kohtumäärus. Käesoleva lõike esimeses lauses nimetatud keeld lõpeb täitemenetluse seadustiku § 177^5 lõike 1 alusel tehtud kohtumääruse jõustumisel.\n(6) Välisriigis antud kehtiva jahitunnistuse alusel antakse selle saanud isikule tema soovil, ilma et ta jahindusalase koolituse läbiks ning jahiteooriaeksami sooritaks, jahitunnistus kehtivusajaga kuni üks aasta kümne päeva jooksul pärast taotluse esitamist ja käesoleva paragrahvi lõikes 10 sätestatud riigilõivu või tasu tasumist.\n(7) Jahitunnistuse kehtivusaja pikendamise, andmete muutmise, jahitunnistuse kaotamise, kasutamiskõlbmatuks muutumise ja jahitunnistuse kehtivuse peatamise korral pikendatakse jahitunnistuse kehtivusaega või antakse uus jahitunnistus või taastatakse jahitunnistuse kehtivus kümne päeva jooksul pärast taotluse esitamist ja käesoleva paragrahvi lõikes 10 nimetatud riigilõivu või tasu tasumist.\n(8) Jahitunnistuse annab paberil või elektrooniliselt ja jahitunnistuse üle peab arvestust, samuti korraldab jahiteooriaeksami ja laskekatse läbiviimist Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik (edaspidi koos tunnistuse andja ).\n(9) Jahitunnistuse vormi, jahiteooriaeksami ja laskekatse sooritamise ning jahitunnistuse taotlemise ja andmise korra, samuti jahindusalasele koolitusele ja koolitajale esitatavad nõuded ning koolitamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(10) Jahitunnistuse saamise, kehtivusaja pikendamise, vahetamise ja kehtivuse taastamise taotluse läbivaatamise, samuti jahiteooriaeksami ja laskekatse vastuvõtmise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määrade järgi, või kui haldusülesande täitmine on halduslepinguga üle antud, siis halduslepingus sätestatud tasu.\n(11) Käesoleva paragrahvi lõikes 10 nimetatud tasu peab olema kulupõhine, selge ja lähtuma võrdse kohtlemise põhimõttest ning kujundatud selliselt, et see kataks asjaomase teenusega seotud põhjendatud kulutused. Tasu suurus sätestatakse käesoleva seaduse § 10 lõike 1 alusel sõlmitud halduslepinguga ning see ei tohi ületada teenusele kehtestatud riigilõivu määra."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "5. peatükk - Jahipidamisõigust tõendav dokument",
+      "section": "37",
+      "title": "§ 37. Jahitunnistuse kehtivuse peatamine",
+      "content": "(1) Jahitunnistuse kehtivus peatatakse kuni kolmeks aastaks, kui:\n1) tunnistuse saanud isiku suhtes on jõustunud jahipidamisõiguse äravõtmise otsus;\n2) tunnistuse saanud isikut on karistatud käesoleva seaduse §-des 50–63 nimetatud tegevuste eest.\n(2) Jahitunnistuse kehtivus peatatakse tunnistuse andja otsusega, mis toimetatakse viivitamata tunnistuse omanikule kätte väljastusteatega tähtkirjaga.\n(3) Isiku jahitunnistuse kehtivus peatub tähtajatult, kui tunnistuse saanud isiku suhtes on jõustunud täitemenetluse seadustiku § 177^2 lõike 1 punkti 1 alusel tehtud jahipidamisõiguse peatamise kohtumäärus."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "5. peatükk - Jahipidamisõigust tõendav dokument",
+      "section": "38",
+      "title": "§ 38. Jahitunnistuse kehtivuse peatamise tagajärjed ning kehtivuse taastamine ja uuendamine",
+      "content": "(1) Pärast jahitunnistuse kehtivuse peatamist on tunnistuse saanud isik kohustatud kehtivuse peatamise otsuse või kohtumääruse kättetoimetamisele järgneval tööpäeval andma jahitunnistuse üle tunnistuse andjale. Kehtivuse peatamise tähtaeg hakkab kulgema jahitunnistuse kehtivuse peatamise otsuse või kohtumääruse kättetoimetamisest.\n(1^1) Elektroonilise jahitunnistuse kehtivuse peatamise kohta teeb tunnistuse andja märke asjaomases elektroonilises infosüsteemis.\n(2) Kui jahitunnistuse kehtivuse peatamise otsuse peale esitati vaie või kaebus kohtule ja vaiet lahendav haldusorgan või kohus tunnistas jahitunnistuse kehtivuse peatamise seadusega vastuolus olevaks, on tunnistuse andja kohustatud jahitunnistuse pärast otsuse jõustumist viivitamata tagastama ja elektroonilise jahitunnistuse puhul elektroonilises infosüsteemis kehtivuse peatamise märke eemaldama.\n(2^1) Täitemenetluse seadustiku § 177^2 lõike 1 punktis 1 sätestatud jahipidamisõiguse kehtivuse peatatus lõpeb täitemenetluse seadustiku § 177^5 lõike 1 alusel tehtud kohtumääruse jõustumisel. Käesoleva lõike esimeses lauses nimetatud põhjusel jahipidamisõiguse kehtivuse peatatuse lõppemisel tagastab jahitunnistuse andja hoiulevõetud jahitunnistuse ja elektroonilise jahitunnistuse puhul eemaldab elektroonilises infosüsteemis kehtivuse peatamise märke.\n(3) Kui jahitunnistuse kehtivus on peatatud kauemaks kui 12 kuuks, saab isik jahitunnistuse kehtivuse taastada üksnes siis, kui sooritab edukalt jahiteooriaeksami.\n(4) Kui isik ei ole pikendanud jahitunnistuse kehtivusaega 12 kuu jooksul selle kehtivusaja möödumisest arvates, saab ta jahitunnistuse kehtivust uuendada, kui sooritab edukalt jahiteooriaeksami."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "5. peatükk - Jahipidamisõigust tõendav dokument",
+      "section": "39",
+      "title": "§ 39. Jahitunnistuse kehtetuks tunnistamine",
+      "content": "(1) Jahitunnistus tunnistatakse kehtetuks, kui isik on selle saanud pettuse teel või kui talle on jahitunnistus antud võltsitud või valeandmeid sisaldava dokumendi alusel.\n(2) Jahitunnistuse kehtetuks tunnistamise otsuse teeb tunnistuse andja.\n(3) Otsuse tegija teatab asjaomasele isikule jahitunnistuse kehtetuks tunnistamise otsusest väljastusteatega tähtkirjaga kümne päeva jooksul tunnistuse kehtetuks tunnistamise otsuse tegemisest arvates ning isik on kohustatud jahitunnistuse üle andma otsuse tegijale."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "5. peatükk - Jahipidamisõigust tõendav dokument",
+      "section": "40",
+      "title": "§ 40. Jahiluba",
+      "content": "(1) Jahiluba annab õiguse pidada ulukile jahti. Jahiluba antakse kehtivat jahitunnistust omavale isikule.\n(2) Jahilubadeks on suur- ja väikeuluki jahiluba.\n(3) Jahiloa annab ja selle kehtivusaja määrab:\n1) jahipiirkonna kasutaja jahipidamiseks jahipiirkonnas;\n2) Keskkonnaamet käesoleva seaduse § 23 lõike 4 punktides 6 ja 7 sätestatud juhtudel.\n(4) Jahipiirkonna kasutaja on kohustatud kehtiva jahitunnistuse alusel andma tasuta jahiloa väikeulukite küttimiseks oma kinnisasjal jahti pidavale maaomanikule või tema määratud isikutele. Keskkonnaametil on õigus riikliku loomatauditõrje komisjoni ettepanekul kehtestada sigade Aafrika katku tõrjumise eesmärgil ajavahemik ja piirkond, mille jooksul ja kuhu jahipiirkonna kasutaja on kohustatud kehtiva jahitunnistuse alusel andma tasuta jahiloa metssigade küttimiseks oma kinnisasjal jahti pidavale maaomanikule.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud juhul määrab küttida lubatud jahiulukid ja loa kehtivusaja kuni üheks jahiaastaks maaomanik, välja arvatud maaomaniku määratud isikule antud jahiloa puhul, mille kehtivusaeg ei tohi olla lühem kui kümme päeva.\n(6) Jahiluba väljastatakse viie tööpäeva jooksul taotluse esitamisest arvates.\n(6^1) Välisriigis antud kehtiva jahitunnistuse alusel käesoleva seaduse § 36 lõike 6 kohaselt jahitunnistuse saanud isikule antakse veelinnujahiks väikeuluki jahiluba pärast jahindusalase koolituse läbimist.\n(6^2) Käesoleva paragrahvi lõikes 6^1 nimetatud jahindusalase koolituse läbiviimist korraldab Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik.\n(7) Jahiloa andja peab jahilubade andmise ja tagastamise ning jahiloale kantud andmete arvestust.\n(8) Jahiloale kantakse:\n1) jahiloa number;\n2) loa andja nimi ja asukoht;\n3) loa saaja ees- ja perekonnanimi;\n4) loa andmise aeg ning loa kehtivusaeg;\n5) ala, kus jahipidamine on lubatud;\n6) küttida lubatud uluki liik, suuruluki jahiloale vajaduse korral uluki vanus ja sugu;\n7) loa andnud isiku allkiri.\n(9) Jahiloale tohib kanda kuni kolm loa kasutajat.\n(10) Suuruluki jahiluba antakse eraldi iga isendi küttimiseks.\n(11) Jahiloa kehtivusaega ei pikendata.\n(12) Jahiluba annab jahipidamise õiguse ainult loale kantud isikule, välja arvatud käesoleva seaduse §-s 31 sätestatud ühisjahi puhul.\n(13) Jahiloa vormi kehtestab valdkonna eest vastutav minister määrusega.\n(14) Välisriigis antud kehtiva jahitunnistuse alusel jahitunnistuse saanud isikule veelinnujahiks väikeuluki jahiloa andmisel läbitavale jahindusalasele koolitusele ja koolitajale esitatavad nõuded ning koolituse mahu ja läbiviimise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "5. peatükk - Jahipidamisõigust tõendav dokument",
+      "section": "41",
+      "title": "§ 41. Jahiloa täitmine, tagastamine ja säilitamine",
+      "content": "(1) Uluki tabamisel teeb asjaomase märke jahiloale:\n1) jahiloa omanik üksikjahil suuruluki puhul viivitamata pärast suuruluki haavamist või surmamist ja väikeuluki puhul jahipäeva lõpus;\n2) jahijuhataja ühisjahil viivitamata pärast suuruluki haavamist või surmamist.\n(2) Suuruluki haavamise korral märgitakse jahiloale viivitamata haavamise kuupäev ja kellaaeg. Kui haavatud suurulukit 24 tunni jooksul ei tabata, lõpetatakse jahiloa kehtivus märkega, et haavatud suurulukit ei leitud.\n(3) Haavatud suuruluki tabamise korral märgitakse jahiloale lisaks tabamise ajale ka jahipiirkond, kus suuruluk tabati.\n(4) Suurulukit ei tohi enne jahiloale tabamise kohta märke tegemist tabamiskohast ära viia.\n(5) Jahiluba tagastatakse selle andjale vahetu üleandmisega või väljastusteatega tähtkirjaga kümne päeva jooksul jahiloale märgitud tähtaja lõppemisest arvates. Loa andja säilitab tagastatud jahilube ja temale saadetud jahist osavõtjate nimekirju kolm aastat nende saamisest arvates."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "5. peatükk - Jahipidamisõigust tõendav dokument",
+      "section": "42",
+      "title": "§ 42. Suuruluki laskekatse tunnistus ja vibujahi laskekatse tunnistus",
+      "content": "(1) Suuruluki laskekatse tunnistus on jahitunnistust omavale isikule antav paberil või elektrooniline dokument, mis tõendab tema õigust osaleda suurulukijahil kütina ja kasutada uluki laskmiseks jahipüssikuuliga laetud padrunit.\n(2) Vibujahi laskekatse tunnistus on jahitunnistust omavale isikule antav paberil või elektrooniline dokument, mis tõendab tema õigust osaleda väikeulukijahil kütina ja kasutada väikeuluki laskmiseks jahivibu.\n(3) Suuruluki laskekatse tunnistuse ja vibujahi laskekatse tunnistuse taotlemise, andmise ja arvestuse pidamise korra, katse sooritamise nõuded ning suuruluki laskekatse tunnistuse vormi ja vibujahi laskekatse tunnistuse vormi kehtestab valdkonna eest vastutav minister määrusega.\n(4) Kui isikule on välisriigis väljastatud suuruluki laskekatse või vibujahi laskekatse sooritamist kinnitav tunnistus ja viimase laskekatse sooritamisest ei ole möödunud rohkem kui kaks aastat, ei nõuta temalt suuruluki laskekatse või vibujahi laskekatse sooritamist.\n(5) Suuruluki laskekatse tunnistus ja vibujahi laskekatse tunnistus antakse kaheks aastaks.\n(6) Suuruluki laskekatse tunnistuse ja vibujahi laskekatse tunnistuse kehtivusaja möödumisel uuendatakse tunnistuse kehtivusaega pärast suuruluki laskekatse või vibujahi laskekatse sooritamist.\n(7) Suuruluki laskekatse tunnistuse ja vibujahi laskekatse tunnistuse kaotamise või kasutamiskõlbmatuks muutumise korral antakse uus laskekatse tunnistus laskekatse sooritamist nõudmata pärast taotluse esitamist kümne päeva jooksul.\n(8) Suuruluki laskekatsete ja vibujahi laskekatsete läbiviimist korraldab ning suuruluki laskekatse tunnistusi ja vibujahi laskekatse tunnistusi annab paberil või elektrooniliselt Keskkonnaamet või käesoleva seaduse § 10 lõike 1 alusel Keskkonnaministeeriumiga halduslepingu sõlminud isik.\n(9) Suuruluki laskekatse tunnistuse ja vibujahi laskekatse tunnistuse andmise, kehtivusaja pikendamise ja laskekatse läbiviimise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määrade järgi, või kui haldusülesande täitmine on halduslepinguga üle antud, siis halduslepingus sätestatud tasu.\n(10) Käesoleva paragrahvi lõikes 9 nimetatud tasu peab olema kulupõhine, selge ja lähtuma võrdse kohtlemise põhimõttest ning kujundatud selliselt, et see kataks asjaomase teenusega seotud põhjendatud kulutused. Tasu suurus sätestatakse käesoleva seaduse § 10 lõike 1 alusel sõlmitud halduslepinguga ning see ei tohi ületada teenusele kehtestatud riigilõivu määra."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "6. peatükk - Uluki tekitatud kahju hüvitamine",
+      "section": "43",
+      "title": "§ 43. Uluki tekitatud kahju hüvitamine jahipiirkonna kasutaja vahenditest",
+      "content": "Jahipiirkonna kasutaja hüvitab uluki tekitatud kahju maaomanikule käesoleva seaduse § 25 lõikes 1 nimetatud lepingu kohaselt maaomaniku nõudel."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "6. peatükk - Uluki tekitatud kahju hüvitamine",
+      "section": "44",
+      "title": "§ 44. Uluki tekitatud kahju osaline hüvitamine jahipiirkonna kasutaja vahenditest lepingu puudumisel",
+      "content": "(1) Käesoleva seaduse § 25 lõikes 1 nimetatud lepingu puudumise korral on kinnisasja omanikul või tema nõusolekul muul isikul õigus nõuda jahipiirkonna kasutajalt põllumajanduskultuuridele ning metsamaal kasvavatele okaspuudele uluksõraliste tekitatud kahju osalist hüvitamist ühe vegetatsiooniperioodi jooksul kuni 100 eurot hektari kohta aastas ulukikahjustuste ennetamise teatises näidatud kohas.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud põllumajanduskultuurid on komisjoni määruses (EÜ) nr 1200/2009, millega rakendatakse Euroopa Parlamendi ja nõukogu määrust (EÜ) nr 1166/2008, mis käsitleb põllumajandusettevõtete struktuuriuuringuid ja põllumajanduslike tootmismeetodite uuringut loomühikute koefitsientide ja karakteristikute määratluste osas (ELT L 329, 15.12.2009, lk 1–28), nimetatud põllumajanduskultuurid.\n(3) Maaomanik või tema nõusolekul muu isik esitab jahipiirkonna kasutajale ulukikahjustuste ennetamise teatise, milles näitab ära kaitset vajava põllumajanduskultuuri, okaspuu-uuenduse või okaspuupuistu asukoha ning vara kaitseks rakendatud või planeeritavad kaitseabinõud.\n(4) Põllumajanduskultuuridele ning metsamaal kasvavatele okaspuudele uluksõraliste tekitatud kahju hindamise alused ja metoodika, nõuded hindamisaktile, kahju hüvitamise täpsustatud ulatuse ja hüvitamise korra ning hüvitatavate okaspuude nimekirja kehtestab valdkonna eest vastutav minister määrusega.\n(5) Jahipiirkonna kasutaja ei ole kohustatud hüvitama uluksõraliste tekitatud kahju, kui:\n1) maaomanik või tema nõusolekul muu isik on kirjalikult keelanud jahipidamise oma kinnisasjal;\n2) põllumajanduskultuuri kasvupindala kahjustatud ala on väiksem kui 100 ruutmeetrit;\n3) põllumajanduskultuuri kahjustus üle viie hektari suurusel põllumaal on tekkinud välispiirist esimese kümne meetri ulatuses;\n4) uuendataval metsamaal on vähemalt 1500 kahjustamata okaspuud hektari kohta;\n5) puistus on esimeses ja teises rindes kokku 1200 kahjustamata okaspuud hektari kohta;\n6) maaomanik või tema nõusolekul muu isik ei ole jooksva aasta 1. maiks esitanud jahipiirkonna kasutajale ulukikahjustuste ennetamise teatist;\n7) maaomanik või tema nõusolekul muu isik ei ole rakendanud käesoleva paragrahvi lõikes 3 nimetatud teatises toodud meetmeid;\n8) maaomanik või tema nõusolekul muu isik on takistanud ulukikahjustuste ennetamise teatises näidatud kohas jahipidamist."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "6. peatükk - Uluki tekitatud kahju hüvitamine",
+      "section": "45",
+      "title": "§ 45. Reservfond ja fondist makstud summade kompenseerimine",
+      "content": "(1) Jahipiirkonna kasutaja või kasutajaid ühendav organisatsioon moodustab maaomanikule uluki tekitatud kahjust tulenevate nõuete katmiseks reservfondi, mille vahenditeks on liikmetelt kogutud maksed, toetused ning muud tulud.\n(2) Sihtasutus Keskkonnainvesteeringute Keskus toetab käesoleva paragrahvi lõike 1 alusel moodustatud reservfondist tasutud nõuete osalist katmist mahus, mis on minimaalselt 10 protsenti ja maksimaalselt 30 protsenti reservfondi aastas tehtud väljamaksetest ning mis ei ületa taotletavale aastale eelneva aasta jahipidamisõiguse tasu riigieelarvesse laekumise aastast mahtu.\n(3) Sihtasutus Keskkonnainvesteeringute Keskus toetab esmajärjekorras käesoleva seaduse §-s 44 kirjeldatud nõuete osalist katmist.\n(4) Kui taotletav summa ületab eelmisel aastal jahipidamisõiguse tasu riigieelarvesse laekumise aastast mahtu, vähendatakse Sihtasutuse Keskkonnainvesteeringute Keskus poolt makstavat toetust proportsionaalselt kõigil taotlejatel."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "6. peatükk - Uluki tekitatud kahju hüvitamine",
+      "section": "46",
+      "title": "§ 46. Uluki tekitatud kahju hüvitamine riigi poolt",
+      "content": "(1) Uluki tekitatud kahju hüvitab osaliselt Keskkonnaamet, lähtudes käesoleva seaduse §-s 44 sätestatud kriteeriumitest ning sama paragrahvi lõike 4 alusel kehtestatud metoodikast, kui:\n1) kahju tekib kaitstava loodusobjekti territooriumil, kus kahju tekitanud uluki küttimisele on seaduse või kaitse-eeskirjaga seatud piirangud;\n2) kahju tekib alal, kus Keskkonnaamet on käesoleva seaduse § 22 lõike 4 alusel peatanud jahipidamise kahju tekitanud ulukile;\n3) kahju tekib alal, mis jääb ühe kilomeetri raadiusesse ala piirist, kus looduskaitseseaduse alusel või kaitse-eeskirjaga on jahipidamine keelatud;\n4) kahju tekib jahipiirkonnaga liitmata jahimaal või alal, mis jääb ühe kilomeetri raadiusesse jahipiirkonnaga liitmata jahimaa piirist.\n(2) Käesoleva paragrahvi lõike 1 punktides 3 ja 4 loetletud aladel on ulukite lisasöötmine keelatud\n(3) Käesoleva paragrahvi lõikes 1 nimetatud juhul tekkinud kahju hüvitamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(4) Pruunkaru, hundi, ilvese, hane ja lagle tekitatud kahju hüvitatakse looduskaitseseaduse alusel kehtestatud korras."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "7. peatükk - Riiklik järelevalve ja keskkonnale tekitatud kahju",
+      "section": "47",
+      "title": "§ 47. Riiklik järelevalve",
+      "content": "Riiklikku järelevalvet käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuete täitmise üle teostab Keskkonnainspektsioon."
+    },
+    {
+      "provision_ref": "para47^1",
+      "chapter": "7. peatükk - Riiklik järelevalve ja keskkonnale tekitatud kahju",
+      "section": "47^1",
+      "title": "§ 47^1. Riikliku järelevalve erimeetmed",
+      "content": "Keskkonnainspektsioon võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 45, 46, 47, 49, 50, 51, 52 ja 53 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para47^2",
+      "chapter": "7. peatükk - Riiklik järelevalve ja keskkonnale tekitatud kahju",
+      "section": "47^2",
+      "title": "§ 47^2. Riikliku järelevalve erisused",
+      "content": "(1) Keskkonnainspektsioon võib jahipidamiseks kasutatavate püüniste läbivaatust teostada ilma korrakaitseseaduse § 49 lõikes 2 nimetatud isiku juuresolekuta.\n(2) Tähistatud kinnisasjale võib Keskkonnainspektsioon siseneda valdaja või muu õigustatud isiku juuresolekuta, kui:\n1) see on vajalik olulise ohu väljaselgitamiseks või tõrjumiseks ja nimetatud isikute kaasamisega kaasneks viivitus, mis seaks ohtu meetme kohaldamise eesmärgi saavutamise, või\n2) valdusesse sisenemise eesmärk on läbipääsu tagamine teisele kinnisasjale või veekogule.\n(3) Käesoleva paragrahvi lõike 2 punktis 2 sätestatud alusel valdusesse sisenemisest ei pea Keskkonnainspektsioon hiljem valdajat teavitama, kui valduses ei viidud pärast sisenemist läbi järelevalve- või süüteomenetluse toiminguid.\n(4) Keskkonnainspektsioonil on korrakaitseseaduse §-s 52 sätestatud korras õigus eemaldada paiknemiskohast ja võtta vallasasjana hoiule jahipidamisvahend, mis peab olema õigusaktist tulenevalt selle omaniku kindlakstegemist võimaldaval viisil märgistatud, kuid millel märgistus puudub või see ei võimalda kuuluvust tuvastada. Jahipidamisvahendiga samas paiknemiskohas olev jahisaadus võetakse hoiule koos jahipidamisvahendiga.\n(5) Keskkonnainspektsiooni ametnik võib järelevalve teostamise eesmärgil viibida ja liikuda sõidukiga, sealhulgas maastikusõidukiga ja ujuvvahendiga, maa- või veealal, kus viibimine ja liikumine on keskkonnakaitse eesmärgil õigusaktiga keelatud või piiratud."
+    },
+    {
+      "provision_ref": "para47^3",
+      "chapter": "7. peatükk - Riiklik järelevalve ja keskkonnale tekitatud kahju",
+      "section": "47^3",
+      "title": "§ 47^3. Vahetu sunni kasutamine",
+      "content": "(1) Keskkonnainspektsioonil on lubatud kasutada füüsilist jõudu, erivahendeid ja teenistusrelvi korrakaitseseaduses sätestatud alusel ja korras.\n(2) Keskkonnainspektsiooni erivahendid on käerauad.\n(3) Keskkonnainspektsiooni teenistusrelvad on tulirelvad."
+    },
+    {
+      "provision_ref": "para47^4",
+      "chapter": "7. peatükk - Riiklik järelevalve ja keskkonnale tekitatud kahju",
+      "section": "47^4",
+      "title": "§ 47^4. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär 32 000 eurot."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "7. peatükk - Riiklik järelevalve ja keskkonnale tekitatud kahju",
+      "section": "48",
+      "title": "§ 48. Keskkonnale tekitatud kahju",
+      "content": "Uluki ebaseadusliku hukkamise ning uluki elupaiga hävitamise ja kahjustamisega keskkonnale tekitatud kahju arvestamise alused ja kahjumäärad uluki liikide kaupa kehtestab Vabariigi Valitsus./dyn=129062018082&id=129052013010 määrusega, arvestades, et: 1 1) uluki ebaseadusliku hukkamisega keskkonnale tekitatud kahju ülemmäär on 2000 eurot ja alammäär 3 eurot;\n2) uluki elupaiga hävitamise ja kahjustamisega keskkonnale tekitatud kahju ülemmäär on 96 eurot."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "49",
+      "title": "§ 49. Jahitunnistuseta jahipidamine",
+      "content": "Jahitunnistuseta jahipidamise eest – karistatakse rahatrahviga kuni 300 trahviühikut või arestiga."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "50",
+      "title": "§ 50. Jahiloata jahipidamine",
+      "content": "Jahiloata jahipidamise eest – karistatakse rahatrahviga kuni 200 trahviühikut või arestiga."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "51",
+      "title": "§ 51. Suuruluki laskekatse tunnistuseta jahipidamine",
+      "content": "Suuruluki laskekatse tunnistuseta jahipidamise eest – karistatakse rahatrahviga kuni 100 trahviühikut või arestiga."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "52",
+      "title": "§ 52. Vibujahi laskekatse tunnistuseta jahipidamine",
+      "content": "Vibujahi laskekatse tunnistuseta jahipidamise eest – karistatakse rahatrahviga kuni 100 trahviühikut või arestiga."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "53",
+      "title": "§ 53. Jahipidamine jahipidamisõiguse eest tasumata",
+      "content": "Jahipidamise eest ilma jahipidamisõiguse eest tasumata – karistatakse rahatrahviga kuni 100 trahviühikut."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "54",
+      "title": "§ 54. Jahipidamine jahikoeraga, kellel puudub jahikoerapass ning muu jahikoera tõugu tõendav dokument",
+      "content": "Jahipidamise eest jahikoeraga, kellel puudub jahikoerapass või muu jahikoera tõugu tõendav dokument, – karistatakse rahatrahviga kuni 100 trahviühikut."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "55",
+      "title": "§ 55. Jahikoera katsetamine ja õpetamine keelatud ajal ning ilma loata",
+      "content": "Jahikoera katsetamise või õpetamise eest keelatud ajal või ilma asjaomase loata – karistatakse rahatrahviga kuni 100 trahviühikut."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "56",
+      "title": "§ 56. Jahipidamiseks vajaliku dokumendi jahipidamisel kaasasoleku nõude rikkumine",
+      "content": "Jahitunnistuse, jahiloa, suuruluki laskekatse tunnistuse, vibujahi laskekatse tunnistuse, jahist osavõtjate nimekirja, jahikoerapassi või muu jahikoera tõugu tõendava dokumendi jahipidamisel kaasasoleku nõude rikkumise eest – karistatakse rahatrahviga kuni 100 trahviühikut."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "57",
+      "title": "§ 57. Keelatud vahendiga ja viisil, keelatud ajal ja keelatud kohas jahipidamine",
+      "content": "Keelatud vahendiga, keelatud viisil, keelatud ajal või keelatud kohas jahipidamise eest – karistatakse rahatrahviga kuni 200 trahviühikut või arestiga."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "58",
+      "title": "§ 58. Jahipidamise nõuete rikkumine",
+      "content": "Jahipidamise nõuete rikkumise eest jahipidamise vahendite kasutamisel või jahiohutuse nõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "59",
+      "title": "§ 59. Uluki tabamise ja haavamise kohta jahiloale märke tegemata jätmine ning teadvalt vale märke tegemine",
+      "content": "Uluki tabamise või haavamise kohta jahiloale märke õigeaegse tegemata jätmise või teadvalt vale märke tegemise eest – karistatakse rahatrahviga kuni 100 trahviühikut."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "60",
+      "title": "§ 60. Jahiloa andmise, tagastamise ja jahiloale kantud andmete arvestuse nõuete rikkumine",
+      "content": "(1) Jahiloa andmise, tagastamise või jahiloale kantud andmete arvestuse nõuete rikkumise eest – karistatakse rahatrahviga kuni 100 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "61",
+      "title": "§ 61. Keskkonnaameti kehtestatud küttimismahu ja -struktuuri rikkumine",
+      "content": "(1) Keskkonnaameti kehtestatud küttimismahu või -struktuuri rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "62",
+      "title": "§ 62. Jahipiirkonna kasutusõiguse loaga kaasnevate kohustuste täitmata jätmine",
+      "content": "(1) Jahipiirkonna kasutusõiguse loaga kaasnevate kohustuste täitmata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "63",
+      "title": "§ 63. Maaomanikule väikeuluki jahiloa andmise nõuete täitmata jätmine",
+      "content": "(1) Maaomanikule väikeuluki jahiloa andmise nõuete täitmata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "64",
+      "title": "§ 64. Konfiskeerimine",
+      "content": "Keskkonnainspektsioon ja kohus võivad kohaldada käesoleva seaduse §-des 49–54 ja 57–59 sätestatud väärteo toimepanemise vahendi, väärteo vahetuks objektiks olnud eseme ja jahisaaduse konfiskeerimist karistusseadustiku § 83 järgi."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "8. peatükk - Vastutus",
+      "section": "65",
+      "title": "§ 65. Menetlus",
+      "content": "(1)\n(2) Käesoleva seaduse §-des 49–63 sätestatud väärtegude kohtuväline menetleja on Keskkonnainspektsioon."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "9. peatükk - Rakendussätted",
+      "section": "66",
+      "title": "§ 66. Jahiseaduse kehtetuks tunnistamine",
+      "content": "Jahiseadus tunnistatakse kehtetuks."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "9. peatükk - Rakendussätted",
+      "section": "67",
+      "title": "§ 67. Üleminekusätted",
+      "content": "(1) Enne käesoleva seaduse jõustumist jahipiirkonna moodustamiseks kehtestatud õigusakt kehtib kuni jahipiirkonna piiride muutmiseni käesoleva seaduse § 12 alusel.\n(2) Käesoleva seaduse jõustumisel kehtiv jahipiirkonna kasutusõiguse luba kehtib kümme aastat pärast käesoleva seaduse jõustumist ulatuses, milles see ei ole vastuolus käesolevas seaduses sätestatuga.\n(3) Jahikorralduse seaduse alusel moodustatud rendijahipiirkond, mille baasil ei ole moodustatud jahipiirkonda, loetakse jahipiirkonnaks käesoleva seaduse tähenduses ja selle moodustamiseks kehtestatud õigusakt kehtib kuni jahipiirkonna piiride muutmiseni käesoleva seaduse § 12 alusel."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "9. peatükk - Rakendussätted",
+      "section": "68",
+      "title": "§ 68.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "9. peatükk - Rakendussätted",
+      "section": "71",
+      "title": "§ 71.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "9. peatükk - Rakendussätted",
+      "section": "72",
+      "title": "§ 72. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2013. aasta 1. juunil."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-210032016001",
+  "type": "statute",
+  "title": "Testamendiregistri loomise konventsiooni ratifitseerimise seadus",
+  "title_en": "Testamendiregistri loomise konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-210032016001",
+  "status": "in_force",
+  "issued_date": "2001-05-16",
+  "in_force_date": "2016-03-20",
+  "url": "https://www.riigiteataja.ee/akt/210032016001.xml",
+  "description": "Official consolidated statute text (Testamendiregistri loomise konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud testamendiregistri loomise konventsioon, mis on Euroopa Nõukogu poolt vastu võetud Baselis 1972. aasta 16. mail ning millele Eesti Vabariik on alla kirjutanud 2000. aasta 3. oktoobril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Nimetada käesoleva konventsiooni artikli 3 lõikes 1 sätestatud institutsiooniks Notarite Koda."
+    }
+  ],
+  "definitions": []
+}

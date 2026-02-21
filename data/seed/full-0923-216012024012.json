@@ -1,0 +1,57 @@
+{
+  "id": "ee-law-216012024012",
+  "type": "statute",
+  "title": "Naftareostusest põhjustatud kahju korral kehtiva tsiviilvastutuse 1969. aasta rahvusvahelise konventsiooni ja naftareostusest põhjustatud kahju kompenseerimise rahvusvahelise fondi asutamise 1971. aasta rahvusvahelise konventsiooni muutmise 1992. aasta protokollidega ühinemise seadus",
+  "title_en": "Naftareostusest põhjustatud kahju korral kehtiva tsiviilvastutuse 1969. aasta rahvusvahelise konventsiooni ja naftareostusest põhjustatud kahju kompenseerimise rahvusvahelise fondi asutamise 1971. aasta rahvusvahelise konventsiooni muutmise 1992. aasta protokollidega ühinemise seadus",
+  "short_name": "ee-law-216012024012",
+  "status": "in_force",
+  "issued_date": "2004-06-17",
+  "in_force_date": "2023-07-01",
+  "url": "https://www.riigiteataja.ee/akt/216012024012.xml",
+  "description": "Official consolidated statute text (Naftareostusest põhjustatud kahju korral kehtiva tsiviilvastutuse 1969. aasta rahvusvahelise konventsiooni ja naftareostusest põhjustatud kahju kompenseerimise rahvusvahelise fondi asutamise 1971. aasta rahvusvahelise konventsiooni muutmise 1992. aasta protokollidega ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud 1992. aasta 27. novembril Londonis koostatud protokolliga naftareostusest põhjustatud kahju korral kehtiva tsiviilvastutuse 1969. aasta rahvusvahelise konventsiooni muutmise kohta ning lugeda seega Eesti Vabariik ühinenuks naftareostusest põhjustatud kahju korral kehtiva tsiviilvastutuse 1992. aasta rahvusvahelise konventsiooniga (edaspidi 1992. aasta vastutuse konventsioon ) vastavalt protokolli artikli 11 punktile 2."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühineda juurdelisatud 1992. aasta 27. novembril Londonis koostatud protokolliga naftareostusest põhjustatud kahju kompenseerimise rahvusvahelise fondi asutamise 1971. aasta rahvusvahelise konventsiooni muutmise kohta ning lugeda seega Eesti Vabariik ühinenuks naftareostusest põhjustatud kahju kompenseerimise rahvusvahelise fondi asutamise 1992. aasta konventsiooniga (edaspidi 1992. aasta fondi konventsioon ) vastavalt protokolli artikli 27 punktile 2."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Transpordiamet väljastab laevale 1992. aasta vastutuse konventsiooni nõuetele vastava kindlustuslepingu või muu rahalise tagatise, nagu pangagarantii või rahvusvahelise kompensatsioonifondi sertifikaadi olemasolu tõendava tunnistuse (edaspidi tunnistus ), kui laevaomanik esitab kindlustuslepingu, pangagarantii või rahvusvahelise kompensatsioonifondi sertifikaadi, mis vastab 1992. aasta vastutuse konventsiooni nõuetele ning võimaldab hüvitada naftareostusest põhjustatud kahju 1992. aasta vastutuse konventsiooni artikli V lõikega 1 sätestatud piirmäära ulatuses."
+    },
+    {
+      "provision_ref": "para3^1",
+      "section": "3^1",
+      "title": "§ 3^1.",
+      "content": "Kui Transpordiamet väljastab tunnistuse elektrooniliselt, peab see vastama meresõiduohutuse seaduse § 1 lõikes 7^1 sätestatud tingimustele."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Kliimaministeerium esitab 1992. aasta fondi konventsiooni artiklis 15 nimetatud andmed rahvusvahelisele naftareostusest põhjustatud kahju kompenseerimise fondile."
+    },
+    {
+      "provision_ref": "para5",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Keskkonnaamet teostab järelevalvet naftareostusest põhjustatud kahju kompenseerimise fondi kontributsiooni maksvate isikute üle."
+    },
+    {
+      "provision_ref": "para6",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Transpordiamet kontrollib nõuetekohase tunnistuse olemasolu sadamasse saabuvatel ja sadamast lahkuvatel laevadel ning territoriaalmeres asuvatesse terminalidesse saabuvatel ja nendest lahkuvatel laevadel."
+    }
+  ],
+  "definitions": []
+}

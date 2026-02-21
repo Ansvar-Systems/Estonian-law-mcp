@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-719339",
+  "type": "statute",
+  "title": "Põhja-Atlandi lepinguga ühinemise seadus",
+  "title_en": "Põhja-Atlandi lepinguga ühinemise seadus",
+  "short_name": "ee-law-719339",
+  "status": "in_force",
+  "issued_date": "2004-03-10",
+  "in_force_date": "2004-03-18",
+  "url": "https://www.riigiteataja.ee/akt/719339.xml",
+  "description": "Official consolidated statute text (Põhja-Atlandi lepinguga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud Põhja-Atlandi lepinguga, mis on koostatud 1949. aasta 4. aprillil Washingtonis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Seadus jõustub Riigi Teatajas avaldamisele järgneval päeval. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

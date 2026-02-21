@@ -1,0 +1,554 @@
+{
+  "id": "ee-law-114032025010",
+  "type": "statute",
+  "title": "Äriregistri seadus",
+  "title_en": "Äriregistri seadus",
+  "short_name": "ÄRS",
+  "status": "in_force",
+  "issued_date": "2022-04-13",
+  "in_force_date": "2025-01-01",
+  "url": "https://www.riigiteataja.ee/akt/114032025010.xml",
+  "description": "Official consolidated statute text (Äriregistri seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "Äriregistri seadus sätestab äriregistri andmekoosseisu, kannete tegemise ning registri pidamise korra, järelevalve ja vastutuse."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Äriregister",
+      "content": "(1) Äriregister on riigi infosüsteemi kuuluv andmekogu, mille pidamise eesmärk on koguda, säilitada ja avalikustada teavet Eesti õiguse järgi asutatud eraõiguslike juriidiliste isikute, Eestis tegutsevate füüsilisest isikust ettevõtjate ja välismaa äriühingute filiaalide kohta.\n(2) E-äriregister on veebiplatvorm, mille kaudu saab äriregistrisse avaldusi esitada ning juriidiliste isikute ja füüsilisest isikust ettevõtjate kohta avalikustatud andmetega tutvuda. E-äriregistris võib peale äriregistri andmete avalikustada ka teistest andmekogudest ja teiste teenuste kaudu kättesaadavaid avalikke andmeid."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Äriregistrisse kandmine",
+      "content": "(1) Äriregistrisse kantakse eraõiguslikud juriidilised isikud.\n(2) Äriregistrisse võib kanda Eestis tegutseva välismaa äriühingu filiaali.\n(3) Seaduses sätestatud ulatuses kantakse äriregistrisse ka Eestis tegutsevad füüsilisest isikust ettevõtjad."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Teiste seaduste kohaldamine",
+      "content": "(1) Äriregistri menetlusele kohaldatakse tsiviilkohtumenetluse seadustikus registriasjade kohta sätestatut, kui käesolevast seadusest ei tulene teisiti.\n(2) Äriregistrile ja selle pidamisele kohaldatakse avaliku teabe seaduses andmekogude kohta sätestatut käesolevas seaduses sätestatud erisustega."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - Registripidamise korraldus",
+      "section": "5",
+      "title": "§ 5. Äriregistri pidamine",
+      "content": "(1) Äriregistrit peab Tartu Maakohtu registriosakond (edaspidi registripidaja ).\n(2) Äriregistrit peetakse elektrooniliselt.\n(3) Äriregistri vastutav töötleja on Justiits- ja Digiministeerium ning volitatud töötlejad on registripidaja ja valdkonna eest vastutava ministri määratud e-äriregistri haldaja."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - Registripidamise korraldus",
+      "section": "6",
+      "title": "§ 6. Asendusäriregistri pidamine",
+      "content": "(1) Kui äriregistrisse kannete tegemine ei ole ajutiselt võimalik äriregistri infosüsteemi tehnilise rikke tõttu ja riket ei ole võimalik kõrvaldada mõistliku aja jooksul, võib registriosakonna eest vastutava kohtudirektori otsusel teha kandeid asendusäriregistrisse.\n(2) Asendusäriregistrisse kannete tegemisel lähtutakse äriregistri pidamise põhimõtetest.\n(3) Kui äriregistrisse kannete tegemine on taas võimalik, salvestatakse asendusäriregistrisse tehtud kanded viivitamata äriregistrisse."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - Registripidamise korraldus",
+      "section": "7",
+      "title": "§ 7. Registripidamise kord",
+      "content": "(1) Täpsema korra seaduses sätestamata registripidamisega seotud tehniliste ja e-äriregistri kasutamisega seotud küsimuste reguleerimiseks kehtestab valdkonna eest vastutav minister määrusega.\n(2) Valdkonna eest vastutav minister kehtestab määrusega:\n1) arvutiandmetöötluseks vajalikud nõuded registripidajale esitatavate dokumentide vormi ja esitamise tehniliste tingimuste kohta;\n2) korra, mille alusel registripidaja ja iga huvitatud isik saab kontrollida taotletava ärinime senistest ärinimedest eristatavust;\n3) äriregistri elektroonilise keskandmebaasi pidamise korra."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - Registripidamise korraldus",
+      "section": "8",
+      "title": "§ 8. Töökeel",
+      "content": "(1) Äriregistrit peetakse eesti keeles.\n(2) Võõrkeelsed dokumendid esitatakse registripidajale vandetõlgi tehtud eestikeelse tõlkega. Samuti võib dokumendid esitada registripidajale notari tehtud eestikeelse tõlkega, kui notar on koostanud notariaalakti või -märke võõrkeeles tõestamisseaduse § 5 lõike 2 alusel.\n(3) Eestikeelsed dokumendid võib esitada ka koos võõrkeelse tõlkega. Dokumendid avalikustatakse äriregistris juriidilise isiku soovil lisaks eesti keelele ka võõrkeelsena.\n(4) Registripidaja ei kontrolli võõrkeelsete dokumentide sisu ega vastuta nende eestikeelsetele dokumentidele mittevastavuse eest. Kui esitatud osaliselt või täielikult võõrkeelsed dokumendid ei vasta nõuetele, juhindub registripidaja talle esitatud eestikeelsetest dokumentidest või tekstiosadest.\n(5) Juriidiline isik ise ei või tugineda enda esitatud tõlkele, kui see erineb originaaldokumendist. Kolmas isik võib registripidajale esitatud dokumendi tõlkele tugineda, välja arvatud juhul, kui juriidiline isik tõendab, et kolmas isik teadis tõlke ebaõigsusest."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "9",
+      "title": "§ 9. Äriregistri andmed",
+      "content": "Äriregistris sisalduvad: 1 1) registrikaardi andmed;\n2) avaliku toimiku andmed;\n3) registritoimiku andmed."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "10",
+      "title": "§ 10. Äriregistris avalikustatavad ja dokumentides sisalduvad isikuandmed",
+      "content": "(1) Kui seadus nõuab äriregistris avaldatavates andmetes ja registripidajale esitatavas dokumendis isikukoodi näitamist, peab registripidajale esitama Eesti isikukoodi, selle puudumise korral välismaise isikukoodi ning sünnipäeva, -kuu ja -aasta. Välismaise isikukoodi puudumise korral peab registripidajale esitama isikukoodi asendava muu tunnuse, kui see on olemas, ning sünnipäeva, -kuu ja -aasta.\n(2) Eesti isikukoodi puudumise korral kantakse registrisse isiku välismaine isikukood ning sünnipäev, -kuu ja -aasta. Välismaise isikukoodi puudumise korral kantakse registrisse isikukoodi asendav muu tunnus, kui see on olemas, ning sünnipäev, -kuu ja -aasta. Välismaise isikukoodi või isikukoodi asendava muu tunnuse registrisse kandmiseks peab taotleja avalduses olema märgitud isikukoodi või seda asendava muu tunnuse andnud riik.\n(3) Isiku aadressina peab registripidajale esitama isiku elu- või asukoha aadressi aadressiandmete süsteemi infosüsteemis registreeritud hoone või hooneosa koha-aadressi täpsusega. Kui isik on rahvastikuregistri andmesubjekt, sisestatakse infosüsteemi isiku rahvastikuregistrisse kantud elukoha andmed.\n(4) Välisriigi puhul näidatakse elu- ja asukoha ning aadressi andmetes ka osariik, provints või muu haldusüksus, kui see on olemas, ning välisriik.\n(5) Füüsilisest isikust ettevõtja, äriühingu juhatuse liige ja nõukogu esimees, täis-, usaldus- ja osaühingu osanik, välismaa äriühingu filiaali juhataja, samuti äriühingu likvideerija, kes ei ole Eesti rahvastikuregistri andmesubjektiks, peab registripidajale esitama oma kontaktaadressi ja elektronposti aadressi ning teatama viivitamata nende muutumisest. Sama kohaldatakse täis-, usaldus- või osaühingu osanikule, kes ei ole kantud Eesti äriregistrisse. Äriühingu nõukogu liige, kes ei ole Eesti rahvastikuregistri andmesubjektiks, peab registripidajale esitama oma kontaktaadressi või elektronposti aadressi."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "11",
+      "title": "§ 11. Registrikaardi andmed",
+      "content": "Registrikaardile kantakse üksnes seaduses sätestatud andmed."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "12",
+      "title": "§ 12. Registrikaardi andmed juriidilise isiku kohta",
+      "content": "Juriidilise isiku kohta kantakse registrikaardile järgmised andmed: 1 1) nimi (ettevõtjal ärinimi);\n2) registrikood;\n3) õiguslik vorm ja vajaduse korral selle alaliik;\n4) põhikirja jõustumise aeg;\n5) asukoht, aadress ja elektronposti aadress;\n6) kontaktisiku andmed;\n7) juhatuse liikmete nimed, isikukoodid ja seadusega lubatavad erisused nende esindusõiguses;\n8) likvideerija nimi, isikukood ja esindusõiguse kord, kui see erineb seaduses sätestatust;\n9) andmed ühinemise, jagunemise ja ümberkujundamise ning lõpetamise, tegevuse jätkamise, registrist kustutamise ja registrisse ennistamise kohta;\n10) tegutsemistähtaeg, kui juriidiline isik on tähtajaline;\n11) majandusaasta algus ja lõpp;\n12) likvideeritud juriidilise isiku dokumentide hoidja andmed;\n13) maksejõuetusmenetluse andmed;\n14) kannete andmed, sealhulgas järjekorranumber, kandeliik, kande kuupäev, kandeavalduseta kande korral viide kande tegemise õiguslikule alusele;\n15) viited hilisematele kannetele ja muud märkused;\n16) muud seaduses sätestatud andmed."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "13",
+      "title": "§ 13. Täiendavad andmed osaühingu ja aktsiaseltsi kohta",
+      "content": "Osaühingu ja aktsiaseltsi kohta kantakse registrikaardile täiendavalt: 1 1) osa- või aktsiakapitali rahaline suurus ning andmed selle suurendamise ja vähendamise kohta;\n2) prokuristi andmed, sealhulgas nimi, isikukood ja esindusõiguse erisused;\n3) märge osaühingu osade registreerimise kohta Eesti väärtpaberite registris või märge aktsiaseltsi aktsiaraamatu pidaja kohta;\n4) osaühingute kohta lisaks osaühingu osanike nimekiri vastavalt käesoleva seaduse §-le 14, märge osa võõrandamise ja pantimise käsutustehingu notariaalse vormi nõudest loobumise kohta ja märge osaühingu sissemakseta asutamise kohta;\n5) aktsiaseltsil nimiväärtuseta aktsiate arv."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "14",
+      "title": "§ 14. Osaühingu osanike nimekiri",
+      "content": "(1) Osanike nimekirja kantakse:\n1) osanike nimed ja isiku- või registrikoodid;\n2) osade nimetused ja nimiväärtused.\n(2) Osa pantimise kohta kantakse osanike nimekirja järgmised andmed:\n1) pandipidaja nimi ja isiku- või registrikood;\n2) panditava osa nimiväärtus;\n3) pandipidajate kaasomandi korral kaasomandiosa suurus hariliku murruna.\n(3) Osanike nimekirja kantakse äriseadustiku § 182 lõigetes 1^3 ja 1^4 nimetatud märgete kohta:\n1) õigustatud isiku nimi, kelle kasuks on märge kantud, ja tema isiku- või registrikood;\n2) märke sisu."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "15",
+      "title": "§ 15. Täiendavad andmed täis- ja usaldusühingu kohta",
+      "content": "Täis- ja usaldusühingu kohta kantakse registrikaardile täiendavalt järgmised andmed: 1 1) täisosanike nimed ja isiku- või registrikoodid;\n2) ühingut esindama õigustatud osanikud ning kes neist on õigustatud esindama ühingut ühiselt;\n3) ühingut esindama õigustatud isikud, kes ei ole osanikud, nende nimed ja isiku- või registrikoodid;\n4) prokuristi andmed, sealhulgas nimi, isikukood ja esindusõiguse erisused;\n5) usaldusühingu kohta usaldusosanikud ja nende sissemaksete suurused."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "16",
+      "title": "§ 16. Täiendavad andmed tulundusühistu kohta",
+      "content": "Tulundusühistu kohta kantakse registrikaardile täiendavalt järgmised andmed: 1 1) osakapitali suurus;\n2) prokuristi andmed, sealhulgas nimi, isikukood ja esindusõiguse erisused;\n3) ühistu liikmete andmed, kui põhikirjaga on ette nähtud ühistu liikmete täielik isiklik vastutus või lisavastutus;\n4) hooneühistu kohta kinnisasja kinnistusraamatu registriosa number ja aadress;\n5) hooneühistu liikmete nimekirja kantakse käesoleva seaduse §-s 14 nimetatud andmed, hooneühistu liikmesuse number ja sellega seotud ainukasutuses oleva hooneosa pindala. Hooneühistu liikmete nimekirja ei kanta käesoleva seaduse § 14 lõike 1 punktis 2 nimetatud andmeid."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "17",
+      "title": "§ 17. Täiendavad andmed korteriühistu kohta",
+      "content": "Korteriühistu kohta kantakse registrikaardile täiendavalt järgmised andmed: 1 1) korteriühistu täiendav nimi;\n2)\n3) valitseja nimi ja registrikood;\n4) märkus korteriomandi- ja korteriühistuseaduse §-s 36 sätestatud laenu kohta."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "18",
+      "title": "§ 18. Täiendavad andmed maaparandusühistu kohta",
+      "content": "Maaparandusühistu kohta kantakse registrikaardile täiendavalt selle tegevuspiirkonnas paikneva maaparandussüsteemi kood."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "19",
+      "title": "§ 19. Täiendavad andmed usulise ühenduse kohta",
+      "content": "Usulise ühenduse kohta kantakse registrikaardile täiendavalt järgmised andmed: 1 1) usulise ühenduse esmamainimise või asutamise aeg;\n2) juhatuse liikmete kiriklikud nimed."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "20",
+      "title": "§ 20. Registrikaardi andmed välismaa äriühingu filiaali kohta",
+      "content": "Välismaa äriühingu filiaali kohta kantakse registrikaardile järgmised andmed: 1 1) filiaali registrikood;\n2) filiaali ja äriühingu ärinimed;\n3) filiaali asukoht ja Eesti aadress ning äriühingu asukoht ja aadress;\n4) register, kuhu äriühing on kantud, ning registrinumber, kui äriühingu asukohamaa seadusega on ette nähtud registrisse kandmine;\n5) äriühingu õiguslik vorm;\n6) millise maa seaduse alusel äriühing asukohamaal tegutseb;\n7) äriühingu osa- või aktsiakapitali suurus, kui see kantakse äriühingu asukohamaa registrisse;\n8) äriühingu põhikirja vastuvõtmise aeg ja põhikirja muudatuste tegemine, kui see kantakse äriühingu asukohamaa registrisse;\n9) filiaali juhatajate nimed ja isikukoodid;\n10) kes juhatajatest võib esindada filiaali erinevalt äriseadustiku § 385 lõikes 3 sätestatust;\n11) välismaa äriühingu seadusjärgsete esindajate nimed ja isikukoodid;\n12) äriühingu majandusaasta algus ja lõpp ning kas ühing peab majandusaasta aruande avaldama;\n13) muud seaduses sätestatud andmed."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "21",
+      "title": "§ 21. Registrikaardi andmed füüsilisest isikust ettevõtja kohta",
+      "content": "Füüsilisest isikust ettevõtja kohta kantakse registrikaardile järgmised andmed: 1 1) ettevõtja registrikood;\n2) ettevõtja isikunimi ja isikukood;\n3) ettevõtte aadress;\n4) ettevõtja ärinimi;\n5) elektronposti aadress;\n6) prokuristi andmed, sealhulgas nimi, isikukood ja esindusõiguse erisused;\n7) majandusaasta algus ja lõpp;\n8) andmed ettevõtja tegevuse peatamise, hooajalise või ajutise tegutsemise kohta;\n9) ümberregistreeritud ettevõtja maksukohustuslaste registris registreerimise alguskuupäev;\n10) muud seaduses sätestatud andmed."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "22",
+      "title": "§ 22. Registrikood",
+      "content": "(1) Äriregistrisse kandmisel antakse juriidilisele isikule, välismaa äriühingu filiaalile ja füüsilisest isikust ettevõtjale kordumatu registrikood.\n(2) Registrikood ei muutu juriidilise isiku ümberkujundamisel. Juriidiliste isikute ühinemise korral säilib registrikood ühendaval ühingul ning jagunemise korral eraldumise teel jaguneval juriidilisel isikul."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "23",
+      "title": "§ 23. Andmed maksejõuetusmenetluse kohta",
+      "content": "(1) Äriregistrisse kantakse juriidilise isiku maksejõuetusmenetluse kohta järgmised andmed:\n1) ajutise pankrotihalduri nimetamine, kui võlgnikul on vara käsutamiseks vajalik tema nõusolek;\n2) pankroti väljakuulutamine koos pankrotihalduri nime ja isikukoodiga ning märge, et tema käsutab pankrotivara, samuti pankrotihalduri ametist vabastamine või asendamine;\n3) kompromissi lõppemine seoses selle tähtaja möödumisega ning pankrotihalduri vabastamine;\n4) pandikirjaseaduse alusel tagatisvara halduri nimetamine koos tema nime ja isikukoodiga, samuti märge, et tema esindab krediidiasutust pandikirjaportfellide valitsemisel ja käsutamisel.\n(2) Kui kohus lõpetas menetluse põhjusel, et võlgnikul ei jätku vara pankrotimenetluse kulude katteks, kantakse äriregistrisse pankrotimenetluse raugemine pankrotti välja kuulutamata. Koos sellega kantakse äriregistrisse juriidilise isiku ajutise pankrotihalduri nimi ja isikukood ning märgitakse, et tema korraldab juriidilise isiku likvideerimise. Kui pankrotivõlgnik on füüsilisest isikust ettevõtja, kustutatakse ta viivitamata äriregistrist.\n(3) Kui kohus lõpetas menetluse põhjusel, et kolmas isik rahuldas võlausaldajate nõuded või andis pandi nende tagamiseks, kantakse väljakuulutatud pankroti raugemine koos juriidilise isiku tegevuse jätkamise kandega äriregistrisse. Märge, mille kohaselt pankrotivara käsutab pankrotihaldur, kustutatakse.\n(4) Kui kohus lõpetas menetluse põhjusel, et pankrotivarast ei jätkunud pankrotimenetlusega seotud väljamaksete tegemiseks, kantakse äriregistrisse väljakuulutatud pankroti raugemine koos juriidilise isiku registrist kustutamisega. Kui pankrotihaldur ei ole teisiti avaldanud, märgitakse ta äriregistrisse kustutatud juriidilise isiku dokumentide hoidjana.\n(5) Kui kohus kinnitas pankrotihalduri lõpparuande, kantakse äriregistrisse pankrotimenetluse lõpetamine koos juriidilise isiku registrist kustutamise või tegevuse jätkamisega. Kustutamise korral, kui pankrotihaldur ei ole teisiti avaldanud, märgitakse ta äriregistrisse kustutatud juriidilise isiku dokumentide hoidjana. Tegevuse jätkamise korral kustutatakse märge, mille kohaselt pankrotivara käsutab pankrotihaldur.\n(6) Äriregistrisse kantakse kompromiss ja selle tähtaeg koos tegevuse jätkamise kandega, kui kohus oli eelnevalt pankroti välja kuulutanud. Ühtlasi tehakse äriregistrisse märge, mille kohaselt pankrotihaldur täidab pankrotiseaduse §-des 188–190 ettenähtud ülesandeid. Märge, mille kohaselt pankrotihaldur käsutab pankrotivara, kustutatakse.\n(7) Äriregistrisse kantakse kompromissi tühistamine ja väljakuulutatud pankrotimenetluse taastumine. Koos sellega tehakse registrisse märge, et pankrotivara käsutab pankrotihaldur.\n(8) Käesoleva paragrahvi lõike 1 punktis 1 nimetatud juhul on juriidilisest isikust pankrotivõlgniku juhatuse liige pärast juriidilise isiku registrist kustutamist dokumentide hoidjaks ja märgitakse sellena registrisse, kui ei ole teisiti kokku lepitud või kohtulahendi alusel teisiti määratud."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "24",
+      "title": "§ 24. Kontaktisik",
+      "content": "(1) Juriidiline isik, sealhulgas välismaa äriühing, kellel on Eestis filiaal, võib määrata isiku, kellele saab Eestis kätte toimetada juriidilise isiku menetlusdokumente ja talle suunatud tahteavaldusi (edaspidi kontaktisik ).\n(2) Kontaktisiku peab määrama, kui juriidilise isiku aadress on välisriigis.\n(3) Käesoleva paragrahvi lõikes 2 sätestatud kohustust ei kohaldata välismaa äriühingule, kellel on Eestis filiaal.\n(4) Kontaktisikuks võib käesoleva paragrahvi lõikes 2 nimetatud juhul määrata üksnes notari, advokaadi, advokaadibüroo pidaja, vandeaudiitori, audiitorettevõtja, mitteresidendi maksuesindaja maksukorralduse seaduse tähenduses või rahapesu ja terrorismi rahastamise tõkestamise seaduse §-s 8 nimetatud usaldushalduse ja äriühingute teenuse pakkuja. Laeva lipuõiguse ja laevaregistrite seaduse § 2 lõikes 2^1 nimetatud äriühingu kontaktisikuks võib lisaks määrata vastutava isiku laeva lipuõiguse ja laevaregistrite seaduse tähenduses.\n(5) Registripidajale peab esitama kontaktisiku nime, isiku- või registrikoodi ning juriidilise isiku menetlusdokumentide ja juriidilisele isikule suunatud tahteavalduste kättetoimetamise Eesti aadressi ja elektronposti aadressi. Registripidajale peab esitama ka kontaktisiku digitaalallkirjastatud või notari kinnitatud nõusoleku tema kontaktisikuna äriregistrisse kandmiseks. Kontaktisik võib esitada registripidajale avalduse, et tema käesolevas lõikes nimetatud andmeid muudetaks.\n(6) Registripidajale peab esitama kontaktisikuks oleku tähtaja. Tähtaja pikendamisest tuleb registripidajale teatada. Tähtaja möödumisel eemaldatakse kontaktisiku andmed äriregistrist automaatselt.\n(7) Registrisse kantud kontaktisikul on õigus menetlusdokumente ja tahteavaldusi juriidilise isiku nimel vastu võtta, kuni kanne registrist kustutatakse ja kustutamine avaldatakse, välja arvatud juhul, kui vastuvõtuvolituse puudumine oli kolmandale isikule teada. Menetlusdokumendi või tahteavalduse kontaktisikule kättetoimetamisel loetakse see juriidilisele isikule kätte toimetatuks. Kontaktisiku aadress loetakse sellisel juhul ka juriidilise isiku aadressiks."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "25",
+      "title": "§ 25. Avalik toimik",
+      "content": "(1) Peale registrikaardi andmete avalikustatakse juriidilise isiku kohta äriregistris ka muud andmed ja dokumendid, mille juriidiline isik või muu isik või asutus on seaduse kohaselt registripidajale esitanud.\n(2) Avaliku toimiku andmetel ja dokumentidel on informatiivne tähendus, kui seadusest ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "26",
+      "title": "§ 26. Avaliku toimiku andmed ja dokumendid",
+      "content": "(1) Äriregistri avalikus toimikus sisalduvad muu hulgas:\n1) juriidilise isiku asutajate nimed ja isiku- või registrikoodid ning kontaktaadressid;\n2) osaühingu osanike andmed, kui osaühing on äriseadustiku § 149 lõike 6 alusel loobunud osa võõrandamise käsutustehingu notariaalse vormi nõudest või andnud osanike nimekirja pidamise üle Eesti väärtpaberite registri pidajale;\n3) ettevõtja põhitegevusala Eesti majanduse tegevusalade klassifikaatori järgi;\n4) juriidilise isiku veebiaadress ja telefoninumber;\n5) pankrotitoimkonna liikmete nimed ja isikukoodid ning kontaktaadressid;\n6) juriidilise isiku nõukogu liikmete, audiitorettevõtja ja muude seaduse järgi juriidilise isikuga seotud isikute, keda ei kanta registrikaardile, andmed;\n7) andmed kehtivate ärikeeldude ja ettevõtluskeeldude kohta, sealhulgas teave Eestis tunnustatud välisriikide ärikeeldude kohta;\n8) asutamisleping või asutamisotsus ja põhikiri või muud alusdokumendid;\n9) krediidiasutuse, makseasutuse või e-raha asutuse teatis osa- või aktsiakapitali sissemakse kohta;\n10) mitterahalise sissemakse tegemisel sissemakse üleandmise leping ja sissemakse väärtust tõendavad dokumendid;\n11) äriühingu mitterahalise sissemakse hindamist kontrollinud audiitorettevõtja andmed ja vandeaudiitori arvamus mitterahalise sissemakse hindamise kohta;\n12) juriidilise isiku kande aluseks olev organi otsus koos koosoleku protokolliga või hääletusprotokolliga või protokolli väljavõttega;\n13) juhatuse liikme nõusolek juhatuse liikmeks oleku kohta ja kinnitus, et ei esine asjaolusid, mis seaduse kohaselt välistavad juhatuse liikmeks oleku;\n14) majandusaasta aruanded;\n15) tulundusühistu revisjonikomisjoni liikmete või revidentide andmed;\n16) juriidiliste isikute ühinemise ja jagunemise korral ühinemislepingud, jagunemislepingud või jagunemiskavad ning ühinemise, jagunemise ja ümberkujundamise korral vastavad aruanded;\n17) juriidilise isiku likvideerimisaruanne, likvideerimise vahearuanne ja likvideerimise lõpparuanne;\n18) usulise ühenduse liikmeskoguduste ja liikmeskloostrite andmed;\n19) muud seaduses sätestatud andmed.\n(2) Füüsiliste isikute kohta tehakse avalikus toimikus kättesaadavaks nimi ja isikukood."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "27",
+      "title": "§ 27. Registritoimik",
+      "content": "(1) Juriidilise isiku andmeid ja dokumente, mida ei kanta õigusaktide kohaselt registrikaardile ega avalikustata avalikus toimikus, säilitatakse registritoimikus.\n(2) Kui esmakandeavaldus jäetakse rahuldamata või võetakse enne kande või kandemääruse tegemist tagasi, säilitatakse kõiki selle isiku dokumente registritoimikus."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "3. peatükk - Äriregistri andmed",
+      "section": "28",
+      "title": "§ 28. Registritoimiku andmed ja dokumendid",
+      "content": "Registritoimiku andmed ja dokumendid on muu hulgas: 1 1) juriidilise isiku organi liikme ametiaja kestus;\n2) juriidilise isiku organi liikme kontaktandmed;\n3) usulise ühenduse liikmeskonna andmeid sisaldavad dokumendid;\n4) kontaktisikuks oleku tähtaeg;\n5) määruskaebus;\n6) kohtulahend, kandemäärus ja registripidaja omal algatusel tehtud määrus;\n7) tõend riigilõivu tasumise kohta;\n8) kirjavahetus ja väljastusteated."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - Andmete ja dokumentide õiguslik tähendus ja avalikkus ning nendega tutvumine",
+      "section": "29",
+      "title": "§ 29. Andmete ja dokumentide õiguslik tähendus",
+      "content": "(1) Äriregistri kanne on tehtud, kui see on salvestatud äriregistri kannete tegemiseks ettenähtud andmebaasi. Kandel on õiguslik tähendus arvates ajast, kui e-äriregistris on avaldatud kande andmed.\n(2) Kui registrisse kandmisele kuuluvaid asjaolusid ei ole registrisse kantud või registri kaudu avalikustamisele kuuluvaid dokumente avalikustatud, on neil asjaoludel ja dokumentidel kolmanda isiku suhtes õiguslik tähendus üksnes juhul, kui kolmas isik neist teadis.\n(3) Registrikanne kehtib kolmanda isiku suhtes õigena, välja arvatud juhul, kui juriidiline isik tõendab, et kolmas isik teadis, et kanne ei ole õige. Kannet ei loeta kehtivaks tehingute ja muude õigustoimingute suhtes, mis tehakse 15 päeva jooksul pärast kande tegemist, kui kolmas isik tõendab, et ta kande sisu ei teadnud.\n(4) Seaduses sätestatud juhul omandavad juriidilise isiku kandega väljendatud andmed õigusliku jõu registrikande tegemisest arvates.\n(5) Informatiivne tähendus on:\n1) äriregistri avaliku toimiku kaudu avalikustatud andmetel, kui seadusest ei tulene teisiti;\n2) sundlõpetamise ja maksejõuetusmenetluse kannetel;\n3) muudel andmetel, mille informatiivsus tuleneb seadusest."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "4. peatükk - Andmete ja dokumentide õiguslik tähendus ja avalikkus ning nendega tutvumine",
+      "section": "30",
+      "title": "§ 30. Äriregistri avalikkus",
+      "content": "Igaühel on õigus tutvuda äriregistri registrikaardi ning avaliku toimiku andmete ja dokumentidega."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "4. peatükk - Andmete ja dokumentide õiguslik tähendus ja avalikkus ning nendega tutvumine",
+      "section": "31",
+      "title": "§ 31. Andmete ja dokumentidega tutvumise ning nende väljastamise kord",
+      "content": "(1) Äriregistri registrikaardi andmete ning avaliku toimiku andmete ja dokumentidega saab tutvuda e-äriregistri kaudu või notaribüroos.\n(2) Äriregistri kinnitatud väljatrükke on võimalik saada notaribüroost. Isiku nõudel annab notar tõendi, et kannet ei ole muudetud või et teatud kannet registris ei ole või et teatud kannet ei ole muudetud.\n(3) Registritoimikuga võib e-äriregistri kaudu tutvuda juriidiline isik ise, pädev riigiasutus, muu hulgas kohus, kohtutäitur, pankrotihaldur, ajutine haldur ja notar ametiülesannete täitmiseks. Muu isik, kellel notar on tuvastanud selleks õigustatud huvi, võib tutvuda registritoimikuga notaribüroos. Tutvumisest keeldumisele kohaldatakse notariaadiseaduse § 41."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - Andmete ja dokumentide õiguslik tähendus ja avalikkus ning nendega tutvumine",
+      "section": "32",
+      "title": "§ 32. Elektroonilise registri andmete väljastamise tasud",
+      "content": "(1) Äriregistri ja kommertspandiregistri andmete väljastamine on tasuline.\n(2) Tasumäärad kuni kaks eurot ühe päringu või päringuobjekti kohta kehtestab valdkonna eest vastutav minister määrusega.\n(3) Äriregistri ja kommertspandiregistri andmete väljastamise tasu maksmisest on vabastatud isik enda kohta veebipäringu tegemisel ja kehtivate registrikaardiandmete kohta veebipäringu tegemisel ning käesoleva paragrahvi lõike 4 alusel valdkonna eest vastutava ministri poolt määratud isikud avalik-õiguslike ülesannete täitmiseks.\n(4) Avalik-õiguslike juriidiliste isikute ja teiste isikute loetelu, kellele väljastatakse tasuta andmeid seaduses sätestatud avalik-õiguslike ülesannete täitmiseks, kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "33",
+      "title": "§ 33. Kande õiguslik alus",
+      "content": "Äriregistri kanne tehakse juriidilise isiku ja füüsilisest isikust ettevõtja avalduse alusel, jõustunud või viivitamata täidetava kohtulahendi alusel, registripidaja algatusel või muul seaduses sätestatud alusel."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "34",
+      "title": "§ 34. Registripidajale esitatava avalduse ja muude dokumentide nõuded",
+      "content": "(1) Registripidajale esitatavas avalduses ja dokumendis peavad olema märgitud seaduses ettenähtud andmed.\n(2) Registripidajale esitatakse dokumendi originaal või notariaalselt või ametlikult kinnitatud ärakiri. Ametlikult kinnitatud ärakiri võib olla elektrooniline. Sellisel juhul asendab kinnituse andnud isiku nime ja allkirja ning asutuse pitserit isiku kvalifitseeritud e-allkiri või asutuse kvalifitseeritud e-tempel.\n(3) Registripidaja on kohustatud vastu võtma kõik asjakohased dokumendid. Vastuvõetud dokumendid registreeritakse infosüsteemis või võetakse arvele kirjavahetuse registreerimiseks ettenähtud korras."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "35",
+      "title": "§ 35. Registriandmete ja dokumentide säilitamine, paberdokumentide digiteerimine",
+      "content": "Registriandmete ja dokumentide säilitamise ja digiteerimise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "36",
+      "title": "§ 36. Kande tegemine ja muude andmete sisestamine",
+      "content": "(1) Kanne tehakse üheselt arusaadavalt. Kandes võib kasutada ainult üldtuntud lühendeid.\n(2) Kande muutmisel tehakse uus kanne registrisse uue järjekorranumbriga. Hilisema kande tõttu tähenduse kaotanud kanne kuvatakse süsteemis selgelt eristatavalt kehtetuna."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "37",
+      "title": "§ 37. Äriregistri kanne avalduse alusel",
+      "content": "(1) Registrisse kantud andmete muutumise korral, sealhulgas juhatuse liikme ja likvideerija nimetamisel ja tagasikutsumisel ja nende esindusõiguse muutumisel ning lõpetatud juriidilise isiku tegevuse jätkamisel ja registrist kustutatud juriidilise isiku registrisse ennistamisel, tuleb viivitamata esitada avaldus andmete muutmiseks. Juriidilise isiku nimel avalduse esitamiseks õigustatud isik on kohustatud seda tegema.\n(2) Juriidiline isik on kohustatud registripidajale esitama kande või selle muutmise aluseks olevad dokumendid.\n(3) Organi koosoleku protokolli asemel võib registripidajale esitada protokolli väljavõtte, millesse on kantud üksnes registriandmete aluseks olev otsus. Väljavõttele ei pea lisama otsuse suhtes eriarvamusele jäänud isiku eriarvamust, kirjalikke ettepanekuid ja avaldusi. Protokolli väljavõte peab olema notariaalselt kinnitatud, kui sama koosoleku kohta koostatud protokoll on notariaalselt tõestatud. Muus osas kohaldatakse protokolli väljavõtte sisule, allkirjastamisele ja väljavõttele lisatavatele dokumentidele vastava organi koosoleku protokolli kohta sätestatut.\n(4) Kui jõustunud või viivitamata täitmisele kuuluva kohtulahendiga on keelatud kande tegemiseks avaldust esitada, võib kande teha üksnes juhul, kui isik, kelle taotlusel kohtulahend tehti, kande tegemisega nõustub."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "38",
+      "title": "§ 38. Kindlal kuupäeval kande tegemine",
+      "content": "(1) Mõjuval põhjusel võib taotleda andmete muutmise kande sidumist kindla kuupäevaga. Kande soovitud kuupäev võib olla ajavahemikus kuni kuus kuud alates kandeavalduse esitamise kuupäevast.\n(2) Kandemäärus tehakse käesoleva seaduse §-s 41 sätestatud korras ja sellest teatatakse avalduse esitajale viivitamata. Kanne jõustub määruses näidatud kuupäeval."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "39",
+      "title": "§ 39. Kindlal kuupäeval taotletava kande tühistamine",
+      "content": "(1) Käesoleva seaduse § 38 korras tehtud kandemääruse tühistamist võib taotleda registripidajale esitatava avaldusega vähemalt viis tööpäeva enne kande jõustumist.\n(2) Kui taotletakse kandemääruse tühistamist käesoleva paragrahvi lõikes 1 nimetatud korras, tühistab registripidaja kandemääruse ja kanne ei jõustu. Kandemääruse enne kande jõustumist tühistamise korral ei tagastata tasutud riigilõivu."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "40",
+      "title": "§ 40. Registripidajale esitatava avalduse vorm ja edastamise viis",
+      "content": "(1) Registripidajale esitatav avaldus peab olema notariaalselt kinnitatud või digitaalallkirjastatud. Avaldusele tuleb lisada kande tegemiseks vajalikud dokumendid. Avaldusel olevad allkirjad võib kinnitada ka välisriigi ametiisik, kellel on õigus tõestada allakirjutanu isikusamasust. Välisriigis kinnitatud dokument peab olema legaliseeritud või kinnitatud tunnistusega (apostilliga), kui välisleping ei sätesta teisiti. Juriidilise isiku registrisse kandmise avaldus võib sisalduda ka notariaalselt tõestatud asutamislepingus või asutamisotsuses.\n(2) Avalduse allkirjastab juriidilise isiku nimel selleks õigustatud isik, eelkõige seaduslik esindaja. Registripidajale esitatavale avaldusele alla kirjutama õigustatud isik võib allkirjastama volitada teise isiku. Avalduse allkirjastamiseks antud volikiri peab vastama kandeavalduse vorminõuetele.\n(3) Kui digitaalallkirjastatud avalduse ja kande tegemiseks vajalikud dokumendid saab esitada otse e-äriregistri kaudu, ei või neid esitada posti ega elektronposti teel. Vastasel juhul tagastab registripidaja postiga esitatud dokumendid, märkides ära tagastamise põhjuse.\n(4) Kui avalduse esitamine e-äriregistri kaudu ei ole võimalik infosüsteemi püsiva tehnilise rikke tõttu, võib avaldusi ja nendele lisatud dokumente esitada posti või elektronposti teel. Esitatud dokumendid registreeritakse äriregistris esimesel võimalusel pärast rikke kõrvaldamist ja avaldus vaadatakse läbi viie tööpäeva jooksul arvates avalduse infosüsteemis registreerimisest.\n(5) Notariaalselt kinnitatud avaldus esitatakse koos kande tegemiseks vajalike dokumentidega registripidajale avalduse kinnitanud notari vahendusel notarite infosüsteemi (edaspidi e-notar ) kaudu. Mõjuval põhjusel võib avalduse ja kande tegemiseks vajalikud dokumendid esitada teise notari vahendusel. Notar selgitab isikule, millised dokumendid tuleb avaldusele lisada ja millised nõuded neile kehtivad. Notar, kes on tõestanud või kinnitanud registriosakonnale esitatud avalduse, on volitatud esindama avaldajaid asjaajamises registripidajaga.\n(6) Arvutiandmetöötluseks vajalikud nõuded registripidajale esitatavate dokumentide vormi ja esitamise tehniliste tingimuste kohta ning täpsemad tingimused ja korra käesoleva paragrahvi lõikes 5 nimetatud dokumentide esitamiseks kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "41",
+      "title": "§ 41. Kandeavalduse lahendamine",
+      "content": "(1) Registripidaja ei tee kannet registrisse, kui avaldus või sellele lisatud dokumendid ei vasta seadusele või on esitatud enne seaduses lubatud aega või pärast seaduses ettenähtud tähtaega. Registripidajal ei ole õigust keelduda kande tegemisest, kui kõik seaduses nõutavad dokumendid on esitatud ja vastavad seaduse nõuetele.\n(2) Registripidaja võib juriidiliselt isikult nõuda ka täiendavaid dokumente, kui need on vajalikud kande aluseks olevate asjaolude väljaselgitamiseks. Võimaluse korral kontrollitakse kande tegemise eeldusi automatiseeritult, ka teisi andmebaase kasutades.\n(3) Kandeavaldus vaadatakse läbi viie tööpäeva jooksul arvates avalduse saabumisest. Selle tähtaja arvestamisel loetakse pärast tööpäeva lõppu, kuid enne kella 00.00, puhkepäeval ja riigipühal registripidajale saabunud avalduse esitamise ajaks avalduse saabumisele järgnev tööpäev. Kandeavalduse muutmise või täiendava dokumendi esitamise korral hakkab menetlustähtaeg kulgema kandeavalduse muutmisest või dokumendi esitamisest.\n(4) Kui avaldajale on määrusega antud tähtaeg puuduste kõrvaldamiseks ja ta on kõik puudused kõrvaldanud, vaadatakse kandeavaldus uuesti läbi viie tööpäeva jooksul.\n(5) Registripidaja võib erilist kontrollimist vajavate asjaolude puhul läbivaatamise tähtaega pikendada kuni kolme kuuni.\n(6) Äriregistrisse ei tehta kannet, kui ärikeelu all olev või ettevõtluskeelu saanud isik, välja arvatud osaühingu osanik, kes ei ole samaaegselt juriidilise isiku juhtorgani liige, on kandeavaldusele alla kirjutanud või andnud selleks volituse või on osalenud avalduse aluseks oleva nõukogu otsuse tegemises või kui taotletakse sellise isiku, kaasa arvatud osaühingu osaniku kandmist registrisse juriidilise isiku juhatuse liikme, täisosaniku, prokuristi, likvideerija või pankrotihaldurina.\n(7) Ärikeelu või ettevõtluskeelu all oleva isiku juhatuse liikmena või muu esindusõigusliku isikuna registrisse kandmise avalduse esitamisel või registrisse kantud esindusõiguslikule isikule ärikeelu või ettevõtluskeelu määramisel kohustab registripidaja juriidilise isiku juhatuse koosseisu seadusega kooskõlla viima."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "42",
+      "title": "§ 42. Kandeavalduse lahendamine kiirmenetluses",
+      "content": "(1) Kiirmenetluses kandeavalduse lahendamisele kohaldatakse käesoleva seaduse §-s 41 sätestatut koos käesolevas paragrahvis sätestatud erisustega.\n(2) Kiirmenetluses vaadatakse avaldus läbi hiljemalt järgmisel tööpäeval arvates avalduse saabumisest. Selle tähtaja arvestamisel loetakse pärast tööpäeva lõppu, kuid enne kella 00.00, puhkepäeval ja riigipühal registripidajale saabunud avalduse esitamise ajaks avalduse saabumisele järgnev tööpäev.\n(3) Kiirmenetlusse võetakse kandeavaldus avaldaja taotlusel, kui:\n1) avalduse ja muud seaduse kohaselt nõutavad dokumendid (kandedokumendid) esitavad neid seaduse kohaselt allkirjastavad isikud digitaalallkirjastatult käesoleva seaduse § 7 lõike 2 punkti 1 alusel kehtestatud korras;\n2) osaühingu avaldusele on lisatud äriseadustiku §-s 139^1 sätestatud põhikiri juhul, kui avaldusele tuleb lisada põhikiri koos või ilma asutamislepinguta;\n3) registripidaja saab kandega seotud füüsilisest isikust ettevõtja, äriühingu asutaja ning täis- ja usaldusosaniku isikuandmeid, juriidilise isiku puhul ka esindaja seadusjärgset esindusõigust ning äriühingu juhatuse ja nõukogu liikme, likvideerija, audiitorettevõtja ning ettevõtja prokuristi isikuandmeid käesoleva seaduse § 7 lõike 2 punkti 1 alusel kehtestatud korras arvutivõrgu kaudu automatiseeritult kontrollida;\n4) osaühingu osakapitali tehakse asutamisel ja osakapitali suurendamisel üksnes rahalisi sissemakseid ning juhul kui asutamisel on sissemakse üle 50 000 euro ja see on laekunud deposiidina registripidaja kontole või rahapesu ja terrorismi rahastamise tõkestamise seaduse § 27 lõikes 2 nimetatud kontole;\n5) äriregistrisse kantava või osakapitali suurust muutva osaühingu osad ei ole registreeritud Eesti väärtpaberite registris;\n6) riigilõiv äriregistri kande eest on laekunud selleks määratud arvelduskontole riigilõivuseaduses sätestatud määras;\n7) osa- või aktsiakapitali sissemakse tegemisel ning äriregistri kande eest riigilõivu tasumisel on kasutatud äriseadustiku § 520 lõikes 1 nimetatud asutamisnumbrit, registrisse kantud isiku puhul tema registrikoodi;\n8) kandedokumentidele on alla kirjutanud isik ise või juriidilise isiku seadusjärgne esindaja;\n9) tegevusala on näidatud äriseadustiku § 4 lõigete 5 ja 6 kohaselt;\n10) avaldusega ei taotleta kindlal kuupäeval kande tegemist;\n11) avaldusega ei taotleta juriidilise isiku ühinemise, jagunemise, ümberkujundamise, lõpetamise või osakapitali vähendamise ja tegevuse jätkamise äriregistrisse kandmist, äriregistrist kustutamist ega registrisse ennistamist ega riigi või omavalitsuse poolt eraõigusliku juriidilise isiku asutamise äriregistrisse kandmist;\n12) avaldusega ei taotleta välismaa äriühingu filiaali äriregistrisse kandmist.\n(4) Kandeavaldust ja muid kandedokumente ei võeta kiirmenetlusse, kui need ei vasta käesoleva paragrahvi lõike 3 nõuetele või kui neis esineb sisuline puudus."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "43",
+      "title": "§ 43. Kande tegemine ja sellest teavitamine",
+      "content": "(1) Kandeavaldust rahuldades kannab registripidaja viivitamata kande teksti registrisse ja allkirjastab selle digitaalselt.\n(2) Registripidaja teatab kande tegemisest või sellest keeldumisest avaldajale viivitamata. Kui registrisse on kantud pankrotihaldur või ajutine haldur või kui avaldajat esindas kandeavalduse esitamisel notar, teavitatakse ka neid.\n(3) Kande või märke tegemisest teatamiseks edastatakse asjaosalisele registri kehtivate kannetega kinnitamata väljatrükk, vajaduse korral ka kandemääruse ärakiri. Notarile teatatakse määruse, kande või märke tegemisest e-notari vahendusel.\n(4) Andmed määruse edastamise ja kättetoimetamise kohta märgitakse infosüsteemi."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "44",
+      "title": "§ 44. Ühinemise, jagunemise ja ümberkujundamise kande tegemisest keeldumine",
+      "content": "Kui ühinemisel, jagunemisel või ümberkujundamisel osaleval juriidilisel isikul on tähtpäevaks esitamata majandusaasta aruanne, ei tee registripidaja ühinemise, jagunemise ega ümberkujundamise kannet äriregistrisse enne, kui juriidiline isik on esitanud puudu oleva majandusaasta aruande."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "45",
+      "title": "§ 45. Muude andmete ja dokumentide esitamine",
+      "content": "(1) Juriidiline isik on kohustatud registripidajale esitama lisaks registrikaardile kantavatele andmetele ka muud seaduses sätestatud andmed ja dokumendid.\n(2) Registripidajale esitamisele kuuluvate andmete ja dokumentide muutumisest peab juriidiline isik viivitamata registripidajale teatama, samuti esitama muudetud dokumendid. Juriidilise isiku nimel andmete või dokumentide esitamiseks õigustatud isik on kohustatud seda tegema.\n(3) Majandusaasta aruanne ja sellega koos esitatavad dokumendid, samuti seaduses sätestatud andmed kasumi jaotamise või kahjumi katmise kohta ning volitus eespool nimetatud dokumentide ja andmete esitamiseks esitatakse registripidajale raamatupidamise seaduse § 14^1 lõike 1 alusel kehtestatud korras. Juriidilise isiku taotlusel edastab tema majandusaasta aruande elektrooniliselt registripidajale notar."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "46",
+      "title": "§ 46. Määruskaebuse menetlemine",
+      "content": "(1) Määruskaebus registreeritakse, edastatakse menetlemiseks määruse teinud kohtunikuabile ja säilitatakse registritoimikus.\n(2) Kui määruskaebus tuleb edastada maakohtusse, edastatakse menetlemiseks digiteeritud dokumendid."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "47",
+      "title": "§ 47. Euroopa Liidu äriregistrite sidestamise süsteem",
+      "content": "(1) Teabevahetus Euroopa Liidu äriregistrite vahel toimub Euroopa Liidu äriregistrite sidestamise süsteemi kaudu vastavalt Euroopa Parlamendi ja nõukogu direktiivi (EL) 2017/1132 äriühinguõiguse teatavate aspektide kohta (ELT L 169, 30.06.2017, lk 46–127) artiklile 22.\n(2) Välismaa äriühingu filiaalile antakse kordumatu tunnus, mis võimaldab teda selgelt tuvastada Euroopa Liidu äriregistrite sidestamise süsteemi kaudu toimuvas registrite teabevahetuses.\n(3) Registripidaja teeb Euroopa Liidu äriregistrite sidestamise süsteemi kaudu viivitamata kättesaadavaks järgmise teabe:\n1) aktsiaseltsi ja osaühingu ning Euroopa Majanduspiirkonna lepinguriigi õigusele alluva äriühingu Eesti filiaali äriregistri kanded ja esitatud avalikud dokumendid, sealhulgas majandusaasta aruanded ning likvideerimis- ja maksejõuetusmenetluse andmed;\n2) teave äriühingu mis tahes likvideerimis- või maksejõuetusmenetluse algatamise ja lõpetamise ning äriühingu registrist kustutamise kohta, juhul kui see toob äriühingu registrijärgses liikmesriigis kaasa õiguslikke tagajärgi;\n3) teave piiriülese ühinemise jõustumise kohta.\n(4) Euroopa Liidu äriregistrite sidestamise süsteemi kaudu edastatavate andmete saatmise ja kättesaamise kinnitused antakse tehniliste võimaluste olemasolu korral automatiseeritult."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "48",
+      "title": "§ 48. Teabevahetus Euroopa Liidu äriregistrite vahel",
+      "content": "(1) Registripidaja teeb selle liikmesriigi äriregistrile, kus on asutatud välismaa äriühing, mille filiaal Eesti äriregistris registreeriti või registrist kustutati, Euroopa Liidu äriregistrite sidestamise süsteemi kaudu viivitamata kättesaadavaks järgmise teabe:\n1) teave äriühingu filiaali registreerimise ja sulgemise kohta vastavalt Euroopa Parlamendi ja nõukogu direktiivi (EL) 2017/1132 artikli 28a lõikele 7 ja artiklile 28c;\n2) muudatused Eestis registreeritud äriühingu andmetes ja dokumentides vastavalt Euroopa Parlamendi ja nõukogu direktiivi (EL) 2017/1132 artiklile 30a.\n(2) Kui registripidaja saab Euroopa Liidu äriregistrite sidestamise süsteemi kaudu käesoleva paragrahvi lõikes 1 nimetatud teabe, kannab ta selle ise äriregistrisse.\n(3) Euroopa Liidu äriregistrite vahel vahetatakse Euroopa Liidu äriregistrite sidestamise süsteemi kaudu ärikeeldude kohta andmeid vastavalt Euroopa Parlamendi ja nõukogu direktiivi (EL) 2017/1132 artiklile 13i."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "49",
+      "title": "§ 49. Kohtulahendi alusel kande tegemine ja muude andmete avalikustamine",
+      "content": "(1) Kohtulahendi alusel kantakse äriregistri registrikaardile või avalikustatakse avalikus toimikus seaduses sätestatud andmed selleks eraldi kandemäärust vormistamata.\n(2) Kui kanne on tehtud kohtulahendi alusel, tehakse selle kohta kandesse märge, märkides muu hulgas lahendi teinud kohtu nime, lahendi tegemise aja ja kohtuasja numbri. Kohtulahendi muutmisel või tühistamisel asendatakse märge uue märke tegemisega registrikaardile.\n(3) Kui kohus on tunnistanud kehtetuks juriidilise isiku organi otsuse, mille alusel on äriregistrisse tehtud kanne, tehakse kanne kohtulahendi kohta registris samasse kohta, kus on kehtetuks tunnistatud otsuse alusel tehtud kanne."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "50",
+      "title": "§ 50. Ebaõigete andmete parandamise nõue",
+      "content": "Kui registrikanne on ebaõige, võib huvitatud isik nõuda juriidiliselt isikult ebaõige kande parandamist. Kui kande parandamiseks on vajalik ka kolmanda isiku nõusolek, eelkõige kui kande parandamine puudutab ka kolmanda isiku õigusi, võib huvitatud isik nõuda kande parandamise nõusolekut ka kolmandalt isikult."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "51",
+      "title": "§ 51. Registripidaja järelevalvekohustus",
+      "content": "(1) Registripidajal on andmete ja dokumentide esitamise ja nõuetekohasuse tagamiseks üldine järelevalvekohustus. Selleks võib registripidaja kohustada trahvi ähvardusel nii juriidilist isikut kui ka selle nimel andmete ja dokumentide esitamiseks kohustatud isikuid esitama andmeid ja dokumente või teha kandeid omal algatusel.\n(2) Registripidaja kontrollib äriregistrile esitatud andmete ja dokumentide nõuetekohasust ja vajaduse korral laseb neid täpsustada või parandatult esitada. Majandusaasta aruannet kontrollib registripidaja valdkonna eest vastutava ministri määratud ulatuses."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "52",
+      "title": "§ 52. Ametiasutuse ja muu isiku teatamiskohustus",
+      "content": "Kohus, riigi- või kohaliku omavalitsuse asutus, registrite pidajad ning väärtpaberite registri pidamise seaduse § 12 lõikes 1 nimetatud väärtpaberite keskdepositoorium, notar, kohtutäitur ja audiitorettevõtja on kohustatud teatama registripidajale neile teatavaks saanud äriregistri andmete ebaõigsusest ja registrile esitamata andmetest."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "53",
+      "title": "§ 53. Kande tegemine avalduseta",
+      "content": "(1) Kui registripidajal on andmeid tehtud kande või muude registripidajale esitatud andmete ebaõigsuse kohta või kande puudumise kohta, võib ta teha vastavaid järelepärimisi ja kohustada esitama õigeid või täielikke andmeid.\n(2) Kui registripidaja teeb kindlaks kande puudumise või ebaõigsuse, teatab ta sellest juriidilisele isikule, kelle avalduse alusel tulnuks kanne teha. Kui kahe nädala jooksul teatamisest arvates ei ole kande tegemisele või parandamisele vastu vaieldud, teeb või parandab registripidaja kande omal algatusel. Vastuväidete saamise korral otsustab registripidaja nende põhjendatuse üle kandemäärusega.\n(3) Kande tegemise avalduse puudumine ei vabasta avalduse esitama pidanud juriidilist isikut kohustusest tasuda kande tegemiseks ettenähtud riigilõiv. Kui kande ebaõigsus tekkis registripidaja tegevuse tõttu, vabastab registripidaja juriidilise isiku määrusega riigilõivu tasumisest."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "54",
+      "title": "§ 54. Väiksema paranduse tegemine ja kande tegemine automatiseeritult",
+      "content": "(1) Registripidaja parandab andmesisestuse puudused, mida on võimalik määruse ja kande sisu muutmata parandada. Seaduses sätestatud ulatuses võib registriandmeid muuta automatiseeritult valdkonna eest vastutava ministri määratud korras.\n(2) Juriidilise isiku elektronposti aadress muudetakse majandusaasta aruande esitamisel registripidaja omal algatusel.\n(3) Automatiseeritult võib muu hulgas:\n1) muuta aadressiandmeid;\n2) muuta elektronposti aadressi;\n3) teha registrikaardile märke osade registreerituse kohta Eesti väärtpaberite registris ja kustutada märke registrikaardilt Eesti väärtpaberite registrist saadud andmete alusel;\n4) eemaldada registrikaardilt kontaktisiku andmed käesoleva seaduse §-s 24 sätestatud korras.\n(4) Registripidaja kontrollib enne isikuandmete parandamist kande aluseks oleva muudatuse olemasolu vastavas registris. Kui registripidajal ei ole elektroonilist ligipääsu äriregistri kandes isikuandmete parandamise aluseks oleva muudatuse kontrollimiseks vastavast registrist, võib isikuandmeid parandada sellekohase teate ning vastava registri kinnitatud väljavõtte või muu usaldusväärse tõendi alusel. Välisriigis väljaantud dokument peab olema legaliseeritud või kinnitatud tunnistusega (apostilliga), kui välisleping ei sätesta teisiti.\n(5) Füüsilise isiku nimi ja isikukood parandatakse äriregistri kandes sellekohase teate ja rahvastikuregistris toimunud muudatuse alusel riigilõivuvabalt, tehnilise võimaluse olemasolul automatiseeritult. Sätet kohaldatakse ka surnud isiku andmete äriregistrist kustutamisel, kui kanne ei kajasta päritavaid osaniku- või muid selliseid õigusi.\n(6) Juriidilise isiku nimi, õiguslik vorm ja registrikood parandatakse teise juriidilise isiku kohta tehtud äriregistri kandes sellekohase teate alusel riigilõivuvabalt, tehnilise võimaluse olemasolul automatiseeritult.\n(7) Äriregistrisse kantud andmete muutmisel on registripidaja kohustatud 15 päeva jooksul tegema kande muutmisest tulenevad vajalikud muudatused kommertspandiregistris, tehnilise võimaluse olemasolul automatiseeritult.\n(8) Kui kanne või märge kaotab hilisema kande tõttu tähenduse, märgitakse tähenduse kaotanud varasem kanne või märge kehtetuks. Kui hilisemal kandel või selle osal ei ole iseseisvat tähendust ning selle sisuks on üksnes varasema kande või märke kehtetuks tunnistamine, märgitakse kehtetuks ka hilisem kanne või selle osa ise."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "55",
+      "title": "§ 55. Märge juriidilise isikuga kontakteerumise raskuste kohta",
+      "content": "(1) Registripidaja võib juriidilise isiku kohta teha märke kontakteerumisraskuste kohta ja avalikustada selle e-äriregistris, kui registripidajal ei õnnestu juriidilise isikuga tema poolt registripidajale esitatud kontaktandmeid kasutades ühendust saada.\n(2) Kontakteerumisraskusega on muu hulgas tegemist, kui juriidilise isiku poolt registripidajale esitatud elektronposti aadressile vähemalt kolmepäevase vahega saadetud kahele e-kirjale tuleb vastuseks veateade või tähitud postiga saadetud kiri tagastatakse saatjale hoiutähtaja möödumise tõttu või teatega, et isik ei asu sellel aadressil, või selleks ettenähtud infosüsteemi kaudu ei ole dokumenti vastu võetud 14 päeva jooksul.\n(3) Registripidaja kustutab märke, kui juriidilise isikuga kontakteerumine tema esitatud andmeid kasutades taas õnnestub."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "56",
+      "title": "§ 56. Registripidaja tehtud määruse avalikustamine",
+      "content": "(1) Registripidaja võib e-äriregistris avalikustada füüsilisele isikule tsiviilkohtumenetluse seadustiku § 601 alusel tehtud määruse kohta järgmise teabe:\n1) määruse liik;\n2) määruse tegemise kuupäev;\n3) määruse teinud kohtu nimi.\n(2) Teabe käesoleva paragrahvi lõikes 1 nimetatud määruste kohta võib e-äriregistris avalikustada, kui ühe isiku suhtes tehtud määruste arv on vähemalt viis."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "57",
+      "title": "§ 57. Majandusaasta aruande esitamata jätmise eest trahvi määramine",
+      "content": "(1) Kui juriidiline isik ei ole esitanud registripidajale seaduses ettenähtud tähtaja jooksul majandusaasta aruannet, võib registripidaja määrata talle ilma hoiatusmäärust tegemata tsiviilkohtumenetluse seadustiku §-s 601 nimetatud trahvi korduvalt kuni majandusaasta aruande esitamise kohustuse täitmiseni.\n(2) Trahvi määramisel tuleb arvestada muu hulgas:\n1) mitu korda on majandusaasta aruanne tähtaegselt esitamata;\n2) kui pikk aeg on möödunud majandusaasta aruande esitamise tähtpäevast;\n3) muid olulisi registripidajale teadaolevaid asjaolusid.\n(3) Kui majandusaasta aruande esitamiseks kohustatud muu isik ei ole seaduses ettenähtud tähtaja jooksul esitanud majandusaasta aruannet, võib registripidaja määrata ka talle trahvi käesoleva paragrahvi lõigetes 1 ja 2 nimetatud tingimustel."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "58",
+      "title": "§ 58. Juriidilise isiku sundlõpetamine registripidaja algatusel",
+      "content": "(1) Registripidaja võib algatada juriidilise isiku sundlõpetamise, kui:\n1) selle põhikiri ei sisalda seaduses nõutavaid sätteid või mõni põhikirja sätetest on olulisel määral vastuolus seadusega;\n2) selle juhatuse koosseis ei vasta seaduse nõuetele;\n3) see ei ole määranud kohustuslikku kontaktisikut;\n4) see ei ole esitanud majandusaasta aruannet.\n(2) Kohus võib sundlõpetamise otsustada, kui registripidaja määratud tähtaja jooksul ei ole käesoleva paragrahvi lõikes 1 nimetatud puudusi kõrvaldatud. See tähtaeg ei või lõike 1 punktides 1 ja 2 nimetatud juhul olla lühem kui kuus kuud, punktis 3 nimetatud juhul lühem kui üks kuu ja punktis 4 nimetatud juhul lühem kui kolm kuud."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "59",
+      "title": "§ 59. Füüsilisest isikust ettevõtja registrist kustutamine",
+      "content": "(1) Füüsilisest isikust ettevõtja kustutatakse äriregistrist tema avalduse alusel või seaduses sätestatud muul alusel. Füüsilisest isikust ettevõtjat ei kustutata registrist tema avalduse alusel, kui ta peab vastavalt seadusele olema registrisse kantud.\n(2) Füüsilisest isikust ettevõtja, kes tegutseb ajutiselt, kustutatakse äriregistrist registripidaja omal algatusel pärast äriseadustiku § 3 lõikes 3 sätestatud lõppkuupäeva möödumist.\n(3) Registripidaja võib füüsilisest isikust ettevõtja äriregistrist kustutada omal algatusel, kui isik ei vasta äriseadustiku §-s 1 sätestatud ettevõtja määratlusele ning ta ei ole teatanud oma tegevuse peatamisest või lõpetamisest."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "60",
+      "title": "§ 60. Juriidilise isiku registrist kustutamine",
+      "content": "(1) Juriidiline isik kustutatakse äriregistrist isiku enda avalduse alusel või seaduses sätestatud muul alusel.\n(2) Juriidilise isiku võib registrist kustutada, kui:\n1) juriidilisel isikul ei ole kinnistusraamatust, laevakinnistusraamatust, äriregistrist ega Eesti väärtpaberite registrist nähtuvalt vara;\n2) juriidiline isik ei osale menetlusosalisena üheski käimasolevas kohtumenetluses, kriminaalmenetluses ega täitemenetluses;\n3) registrist kustutamisele on andnud nõusoleku käesoleva paragrahvi lõike 3 alusel valdkonna eest vastutava ministri poolt määratud isikud ja asutused.\n(3) Nende isikute ja asutuste loetelu, kelle nõusolek on juriidilise isiku registrist kustutamiseks vajalik, kehtestab valdkonna eest vastutav minister määrusega.\n(4) Käesoleva paragrahvi lõike 2 punktis 3 nimetatud nõusoleku saamiseks esitab registripidaja taotluse. Nõusoleku andmisest ei või keelduda, kui juriidilise isiku vastu nõudeid ei ole või juriidilise isiku suhtes ei ole käimas maksukontrolli. Kui nõusolekut ei ole saadud kümne tööpäeva jooksul pärast taotluse esitamist, loetakse see antuks.\n(5) Registripidaja avaldab väljaandes Ametlikud Teadaanded teate juriidilise isiku registrist kustutamise kavatsuse kohta vähemalt kolm kuud enne kustutamist, välja arvatud juhul, kui likvideerija on avaldanud Ametlikes Teadaannetes teate likvideerimismenetluse kohta.\n(6) Juriidilist isikut teavitatakse elektronposti teel tema registrist kustutamisest.\n(7) Kui juriidilise isiku likvideerimise lõpulejõudmisel ei esitata avaldust tema registrist kustutamiseks, on registripidajal õigus isik registrist kustutada omal algatusel."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "61",
+      "title": "§ 61. Kustutamine majandusaasta aruande esitamata jätmise tõttu",
+      "content": "(1) Kui juriidiline isik ei ole seaduses ettenähtud tähtaja möödumisel esitanud nõutavat majandusaasta aruannet, määrab registripidaja juriidilisele isikule registrist kustutamise hoiatusega tähtaja majandusaasta aruande esitamiseks. Hoiatuse võib saata tähtaja möödumisel automatiseeritult.\n(2) Juriidilise isiku võib registrist kustutada, kui juriidiline isik ei ole esitanud registripidaja määratud tähtaja jooksul majandusaasta aruannet ja seaduses ettenähtud esitamistähtpäevast on möödunud vähemalt kolm kuud."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "62",
+      "title": "§ 62. Kustutamine kontaktisiku puudumise tõttu",
+      "content": "(1) Kui juriidiline isik, kellel on vastav kohustus, ei ole määranud kontaktisikut, annab registripidaja juriidilisele isikule registrist kustutamise hoiatusega tähtaja kontaktisiku määramiseks. Hoiatuse võib saata tähtaja möödumisel automatiseeritult.\n(2) Juriidilise isiku võib registrist kustutada, kui juriidiline isik registripidaja antud tähtaja jooksul ei määra kontaktisikut ja registripidaja antud tähtpäevast on möödunud vähemalt kolm kuud."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "63",
+      "title": "§ 63. Kustutamine taotluse alusel",
+      "content": "Osaühing võib taotleda registripidajalt enda registrist kustutamist, kui osaühing ei ole tegevust alustanud ning seda kinnitavad kõik juhatuse liikmed ja kõik osanikud."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "64",
+      "title": "§ 64. Registrisse ennistamine tegevuse jätkamiseks",
+      "content": "(1) Käesoleva seaduse §-de 61 ja 62 alusel registrist kustutatud juriidilise isiku saab registripidaja tegevuse jätkamiseks registrisse ennistada, kui juriidiline isik esitab puudu olevad andmed.\n(2) Avalduse registrisse ennistamiseks saab esitada kolme aasta jooksul kustutamisest arvates. Avaldusele lisatakse dokument, milles kajastub pädeva organi otsus registrisse ennistamise kohta."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "5. peatükk - Kanne registrisse ning muude andmete ja dokumentide kogumine",
+      "section": "65",
+      "title": "§ 65. Registrisse ennistamine täiendavaks likvideerimiseks",
+      "content": "(1) Seaduses sätestatud juhul ennistatakse registrist kustutatud juriidiline isik registrisse täiendavaks likvideerimiseks.\n(2) Käesoleva paragrahvi lõiget 1 kohaldatakse ka juhul, kui likvideerimist ei ole läbi viidud."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "66",
+      "title": "§ 66. Vastutus esitatud andmete õigsuse eest",
+      "content": "(1) Kui registripidajale esitatakse ebaõigeid andmeid, vastutavad avaldusele alla kirjutanud isikud sellega süüliselt kolmandale isikule tekitatud kahju eest solidaarselt.\n(2) Registripidajale seaduses sätestatud andmete või dokumendi esitamata jätmisega kolmandale isikule süüliselt tekitatud kahju eest vastutavad solidaarselt kõik andmete või dokumendi esitamiseks kohustatud isikud."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "67",
+      "title": "§ 67. Riigi vastutus registripidamisel tekitatud kahju eest",
+      "content": "Registripidaja õigusvastase ja süülise tegevuse tagajärjel tekkinud kahju hüvitab riik."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "68",
+      "title": "§ 68. Tähtaeg kontaktandmete esitamiseks ja juriidilise isiku aadressi muutmine",
+      "content": "(1) Juriidiline isik ja füüsilisest isikust ettevõtja peavad viima oma registrikaardile kantud kontaktandmed seadusega kooskõlla 2023. aasta 30. aprilliks.\n(2) Kui juriidilisel isikul on äriregistri registrikaardile kantud ainult juhatuse asukoha aadress, loetakse see aadressiks käesoleva seaduse tähenduses.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud juhul tehakse juriidilise isiku aadressi muutmise kanne registrisse registripidaja omal algatusel ja võimaluse korral automatiseeritult."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "69",
+      "title": "§ 69. Tähtaeg kontaktisiku andmete esitamiseks",
+      "content": "Juriidiline isik peab viima kontaktisiku andmed seadusest tulenevate nõuetega kooskõlla 2023. aasta 30. aprilliks."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "70",
+      "title": "§ 70. Osaühingu osanike andmete registrikaardile kandmine",
+      "content": "(1) Äriregistri äritoimikus sisalduvad äriseadustiku § 182 lõikes 1 nimetatud osaühingu osanike andmed kantakse äriregistri registrikaardile registripidaja omal algatusel ja võimaluse korral automatiseeritult.\n(2) Käesoleva paragrahvi lõikes 1 sätestatut ei kohaldata äriseadustiku § 149 lõike 6 alusel osa võõrandamise ja pantimise käsutustehingu vorminõudest loobunud osaühingutele."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "71",
+      "title": "§ 71. Tähtaeg osaniku andmete õigsuse kohta vastuväite esitamiseks",
+      "content": "(1) Käesoleva seaduse §-s 14 nimetatud osanike andmete õigsuse kohta võib puudutatud isik kuni 2024. aasta 31. augustini esitada põhistatud vastuväite.\n(2) Registripidaja kannab puudutatud isiku esitatud vastuväite registrikaardile osaniku andmete juurde ja annab asja lahendamiseks üle kohtunikule.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatut ei kohaldata käesoleva seaduse § 70 lõikes 2 nimetatud osaühingu osanike andmete suhtes."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "72",
+      "title": "§ 72. Tähtaeg usulisele ühendusele esindusõiguse ja juhatuse vastutuse tingimuste seadusega kooskõlla viimiseks",
+      "content": "Usulised ühendused peavad esindusõiguse ja juhatuse vastutuse tingimused viima seadusest tulenevate nõuetega kooskõlla 2025. aasta 28. veebruariks."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "73",
+      "title": "§ 73.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para101",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "101",
+      "title": "§ 101.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para102",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "102",
+      "title": "§ 102. Äriregistri seaduse muutmine",
+      "content": "Äriregistri seaduse § 13 punkti 4 täiendatakse pärast sõnu „osaühingute kohta lisaks” tekstiosaga „osaühingu osanike nimekiri vastavalt käesoleva seaduse §-le 14,”."
+    },
+    {
+      "provision_ref": "para103",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "103",
+      "title": "§ 103.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para104",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "104",
+      "title": "§ 104. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2023. aasta 1. veebruaril.\n(2) Käesoleva seaduse § 48 lõige 3 jõustub 2023. aasta 1. augustil.\n(3) Käesoleva seaduse § 14, § 16 punkt 5, §-d 70, 71, 81 ja 102 ning § 103 punktid 36, 40–45 ja 51–55 jõustuvad 2023. aasta 1. septembril.\n(4) Käesoleva seaduse §-d 38, 39, 72, 77 ja 83, § 85 punkt 14, § 96 punktid 6, 8, 9, 15, 18, 20 ja 23 ning § 103 punkt 5 jõustuvad 2024. aasta 1. märtsil."
+    }
+  ],
+  "definitions": []
+}

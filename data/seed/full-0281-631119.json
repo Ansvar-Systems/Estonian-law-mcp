@@ -1,0 +1,39 @@
+{
+  "id": "ee-law-631119",
+  "type": "statute",
+  "title": "Eesti Vabariigi põhiseaduse täiendamise seadus",
+  "title_en": "Eesti Vabariigi põhiseaduse täiendamise seadus",
+  "short_name": "PSTS",
+  "status": "in_force",
+  "issued_date": "2003-09-14",
+  "in_force_date": "2004-01-06",
+  "url": "https://www.riigiteataja.ee/akt/631119.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi põhiseaduse täiendamise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Eesti võib kuuluda Euroopa Liitu, lähtudes Eesti Vabariigi põhiseaduse aluspõhimõtetest."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Eesti kuulumisel Euroopa Liitu kohaldatakse Eesti Vabariigi põhiseadust, arvestades liitumislepingust tulenevaid õigusi ja kohustusi."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Käesolevat seadust saab muuta ainult rahvahääletusega."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Käesolev seadus jõustub kolm kuud pärast väljakuulutamist."
+    }
+  ],
+  "definitions": []
+}

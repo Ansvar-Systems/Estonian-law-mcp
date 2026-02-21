@@ -1,0 +1,539 @@
+{
+  "id": "ee-law-170210",
+  "type": "statute",
+  "title": "Planeerimis- ja ehitusseadus",
+  "title_en": "Planeerimis- ja ehitusseadus",
+  "short_name": "ee-law-170210",
+  "status": "in_force",
+  "issued_date": "1995-06-14",
+  "in_force_date": "2002-07-01",
+  "url": "https://www.riigiteataja.ee/akt/170210.xml",
+  "description": "Official consolidated statute text (Planeerimis- ja ehitusseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse eesmärk ja reguleerimisala",
+      "content": "(1) Käesoleva seaduse eesmärk on tagada võimalikult paljude ühiskonnaliikmete huvisid arvestavad tingimused keskkonna kujundamiseks, selle kestvaks ja säästvaks arenguks, maakasutuseks ning sotsiaal-majandusliku ja territoriaalse planeerimise sidumiseks.\n(2) Käesolev seadus reguleerib riigi, kohalike omavalitsuste ja teiste isikute vahelisi suhteid planeeringute koostamisel, ehituslikul projekteerimisel, ehitamisel ja ehitiste kasutamisel."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Planeerimise ja ehitamise põhimõtted",
+      "content": "(1) Uute hoonete ehitamine ja olemasolevatele hoonetele juurdeehitiste tegemine ning maa-alade jaotamine kruntideks ja olemasolevate kruntide piiride muutmine linnades ja teistes tiheasustusega paikades on lubatud ainult kohaliku omavalitsuse kehtestatud detailplaneeringu alusel (planeeringu kohustuslikkus tiheasustuses).\n(2) Hajaasustuses on uute hoonete ehitamine ja olemasolevatele hoonetele juurdeehitiste tegemine lubatud kohaliku omavalitsuse antud projekteerimistingimuste alusel (projekteerimistingimuste kohustuslikkus hajaasustuses).\n(3) Planeerimisalane tegevus on avalik, tagamaks huvitatud isikute õigeaegne informeeritus ja võimalus kaitsta oma huvisid (avalikustamise kohustuslikkus).\n(4) Ehituse alustamine on lubatud ehitusprojekti alusel pärast ehitusloa saamist kohalikult omavalitsuselt (ehitusprojekti ja ehitusloa kohustuslikkus).\n(5) Ehitise kasutuselevõtmine on lubatud pärast kasutusloa saamist kohalikult omavalitsuselt (kasutusloa kohustuslikkus)."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Planeerimis-, projekteerimis- ja ehitusala korraldamine",
+      "content": "(1) Planeerimise üleriigiline korraldamine kuulub Keskkonnaministeeriumi pädevusse, projekteerimis- ja ehitusala üleriigiline korraldamine kuulub Majandusministeeriumi pädevusse. Käesoleva seadusega maavanemale või maavalitsusele pandud ülesannete täitmist korraldab maavanem tema poolt volitatud maavalitsuse osakonna või ametiisiku kaudu.\n(2) Planeerimis-, projekteerimis- ja ehitusalase tegevuse korraldamine oma territooriumil kuulub kohaliku omavalitsuse pädevusse. Kohalik omavalitsus:\n1) tagab maakasutuse ja ehitamise aluseks olevad planeeringud;\n2) tagab kõigi huvitatud isikute huvide arvessevõtmise ja kooskõlastamise, mis on planeeringu kehtestamise eeldus;\n3) tagab kehtestatud planeeringute järgimise ja elluviimise;\n4) korraldab ehitusjärelevalvet;\n5) võtab vastu valla või linna ehitusmääruse.\n(3) Planeerimis-, projekteerimis- ja ehitusalaste vaidluste lahendamiseks ja otsuste vaidlustamiseks on igal isikul õigus pöörduda kohtusse."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Valla või linna ehitusmäärus",
+      "content": "Valla või linna ehitusmäärus kehtestatakse kohalike olude arvestamiseks, üldiste ehitus- ja maakasutustingimuste seadmiseks hajaasustuses, kohaliku omavalitsuse siseste ülesannete jaotuse ning käesoleva seadusega kehtestatud nõuete täpsustamiseks planeerimise ja ehitamise korraldamisel."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Seaduse kohaldamine riigisaladuse puhul",
+      "content": "(1) Detailplaneeringute koostamisel, kooskõlastamisel, järelevalvel ja kehtestamisel, projekteerimistingimuste väljaandmisel, projekti ja ehituse dokumentatsiooni säilitamisel, ehitusloa ja kasutusloa andmisel ning järelevalveinseneri määramisel detailplaneeringute ja ehitiste puhul, mis vastavalt riigisaladuse seadusele (RT I 1994, 45, 720) sisaldavad riigisaladuseks tunnistatud teavet, ei kohaldata käesoleva seaduse 3. ja 4. peatüki, paragrahv 2 3.-5. lõike, paragrahvide 3, 51-53, 57 ja 58, paragrahv 33 1. ja 3. lõike, paragrahv 56 2. lõike ning paragrahv 59 punktide 2 ja 3 sätteid.\n(2) Käesoleva paragrahvi 1. lõikes nimetatud juhtudel toimub detailplaneeringute koostamine, kooskõlastamine, järelevalve ja kehtestamine, projekteerimistingimuste väljaandmine, projekti ja ehituse dokumentatsiooni säilitamine, ehitusloa ja kasutusloa andmine ning järelevalveinseneri määramine Vabariigi Valitsuse kehtestatud korras."
+    },
+    {
+      "provision_ref": "para5^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5^1",
+      "title": "§ 5^1. Kaitsejõudude harjutusvälja kavandamise ja ehitamise erandkord",
+      "content": "(1) Käesolevat erandkorda kasutatakse kaitseväe keskpolügooni, õhuväepolügooni ja mereväepolügooni kavandamisel ja ehitamisel (edaspidi kaitseväepolügoon ).\n(2) Käesolevat erandkorda võib rakendada üksnes siis, kui kaitseväepolügooni esialgsest asukohavalikust lähtuvalt on peetud läbirääkimisi esialgse võimaliku asukoha üle kohaliku omavalitsusüksuse või kõigi esialgsete võimalike asukohtade vastavate kohalike omavalitsusüksustega ning kohalik omavalitsusüksus või kohalikud omavalitsusüksused ei ole nõustunud muutma kehtivaid planeeringuid nii, et oleks võimalik vajadustele vastava kaitseväepolügooni ehitamine. Esialgse asukohavaliku kinnitab Vabariigi Valitsus koos otsusega asutada vastav kaitseväepolügoon.\n(3) Otsuse erandkorra kohaldamiseks teeb Vabariigi Valitsus, nähes oma otsuses ette kaitseväepolügooni kavandatava asukoha ja seal üldplaneeringu algatamise. Vabariigi Valitsuse otsus peab olema põhistatud majanduslike, tehniliste, keskkonnamõjude ja muude määravaks saanud asjaolude osas. Enne otsuse tegemist peab olema tehtud keskkonnamõjude hindamine.\n(4) Üldplaneeringuala suuruse määrab kaitseväepolügooni asukoha järgne maavanem. Üldplaneeringuala suuruse määramisel kuulatakse ära kohalikud omavalitsused, keda kaitseväepolügooni ehitamine puudutab. Planeeringuala suurus kooskõlastatakse keskkonnaministriga.\n(5) Kaitseväepolügooni lõpliku asukoha määrava üldplaneeringu koostamise korraldamisel ja kehtestamisel, ehitise projekteerimise aluseks oleva detailplaneeringu koostamise algatamisel, korraldamisel ja kehtestamisel, kaitseväepolügooni ehitusloa ja kasutusloa väljastamisel ning ehitusjärelevalve korraldamisel täidab käesoleva seadusega seatud kohaliku omavalitsuse ülesandeid Kaitseministeerium Vabariigi Valitsuse esindajana, korraldades planeeringu koostamist koostöös kaitseväepolügooni asukoha järgse kohaliku omavalitsuse ja maavanemaga.\n(6) Kaitseväepolügooni üldplaneeringu ja detailplaneeringu koostamise üle teostab järelevalvet Keskkonnaministeerium.\n(7) Kaitseväepolügooni üldplaneeringu kinnitamise korral algatatakse maakonna ja kohaliku omavalitsuse üldplaneeringu muutmine, kaitseväepolügooni detailplaneeringu kinnitamise korral detailplaneeringu muutmine, kui see on vajalik."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - PLANEERINGUTE LIIGID",
+      "section": "6",
+      "title": "§ 6. Üleriigiline planeering",
+      "content": "(1) Üleriigiline planeering on riigi territoriaalse arengu kava, mis koostatakse kogu riigi territooriumi kohta.\n(2) Üleriigilise planeeringu ülesanded on:\n1) riigi territoriaalse arengu strateegia ja kontseptsioonide kujundamine;\n2) kestva ja säästva arengu põhimõtete sidumine territoriaal-majandusliku arenguga;\n3) asustuse suunamine;\n4) territoriaal-majanduslike aluste loomine riigi regionaalpoliitika kujundamiseks;\n5) maakasutuse riiklike tingimuste määratlemine;\n6) üleriigilise tähtsusega teede, raudteede ja tehnovõrkude trasside, sadamate, lennuväljade ning muude tehnorajatiste paigutuse määramine;\n7) kaitsealade ja nende kasutamistingimuste arvestamine planeeringus ning ettepanekute tegemine uute kaitsealade loomiseks;\n8) ettepanekute tegemine eritüübiliste ökosüsteemide ja maastike säilitamise tagamiseks ning süsteemi loomine looduslikest ja poollooduslikest kooslustest asustuse ja majandustegevuse mõju tasakaalustamiseks ja kompenseerimiseks;\n9) üleriigilise tähtsusega puhkealade määramine ning nende kasutamistingimuste määratlemine;\n10) muude territoriaalse arengu põhisuundade ja tingimuste määratlemine;\n11) keskkonnamõju hindamine.\n(3) Üleriigilisi planeeringuid koostatakse vastavalt vajadusele.\n(4) Heakskiidetud üleriigiline planeering on aluseks maakonnaplaneeringutele."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - PLANEERINGUTE LIIGID",
+      "section": "7",
+      "title": "§ 7. Maakonnaplaneering",
+      "content": "(1) Maakonnaplaneering on planeering, mis koostatakse kogu maakonna territooriumi või selle osa kohta.\n(2) Maakonnaplaneeringut võib koostada mitme maakonna või nende osade kohta huvitatud maavalitsuste kokkuleppel.\n(3) Maakonnaplaneeringut võib koostada teemaplaneeringutena käesoleva paragrahvi 4. lõikes nimetatud teemade kohta.\n(4) Maakonnaplaneeringu ülesanded on:\n1) maakonna üldise territoriaal-majandusliku arengu strateegia ja kontseptsioonide kujundamine;\n2) riiklike ja kohalike huvide tasakaalustamine;\n3) kestva ja säästva arengu aluste kujundamine ning sidumine territoriaal-majandusliku arenguga;\n4) majandusliku planeerimise ja territoriaalse planeerimise sidumine;\n5) asustuse suunamine;\n6) tiheasustuse ja hajaasustusega alade määramine;\n7) väärtuslike põllumaade, maastike ja looduskoosluste säilimise tagamine;\n8) maa- ja veealade üldiste kasutamistingimuste ja territooriumi funktsionaalse tsoneerimise põhialuste määratlemine;\n9) loodusvarade kasutamistingimuste määratlemine;\n10) põhiliste teede, raudteede ja tehnovõrkude trasside, sadamate, lennuväljade ja muude tehnorajatiste paigutuse määramine;\n11) kaitsealade ja nende kasutamistingimuste arvestamine planeeringus. Ettepanekute tegemine kasutamistingimuste täpsustamiseks või uute kaitsealade loomiseks;\n12) puhkealade määramine ja nende kasutamistingimuste määratlemine;\n13) vajadusel ettepanekute tegemine heakskiidetud üleriigilise planeeringu muutmiseks;\n14) keskkonnamõju hindamine.\n(5) Kehtestatud maakonnaplaneering on aluseks valla ja linna üldplaneeringutele."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - PLANEERINGUTE LIIGID",
+      "section": "8",
+      "title": "§ 8. Üldplaneering",
+      "content": "(1) Üldplaneering on planeering, mis koostatakse valla või linna territooriumi kohta.\n(2) Vallal või linnal peab olema üldplaneering, mida võib koostada valla või linna osade kaupa.\n(3) Üldplaneeringuid võib koostada mitme valla või linna või nende osade kohta kohalike omavalitsuste omavahelise kokkuleppe alusel.\n(4) Üldplaneeringu ülesanded on:\n1) territoriaal-majandusliku arengu põhisuundade kavandamine;\n2) kestva ja säästva arengu tingimuste määratlemine ning nende sidumine territoriaal-majandusliku arenguga;\n3) maakonnaplaneeringus antud tiheasustuse ja hajaasustuse piiri täpsustamine või määramine, kui kehtestatud maakonnaplaneering puudub;\n4) väärtuslike põllumaade, maastike ja looduskoosluste säilimise tagamine ning kasutamistingimuste määratlemine;\n5) maa- ja veealade üldiste kasutamis- ja ehitustingimuste kehtestamine;\n6) territooriumi funktsionaalne tsoneerimine, mis määrab territooriumi või selle osa kasutamise juhtfunktsiooni;\n7) põhiliste teede ja tänavate, raudteede, sadamate ja lennuväljade asukoha ning liikluskorralduse üldiste põhimõtete määramine;\n8) põhiliste tehnovõrkude trasside ja tehnorajatiste asukoha määramine;\n9) puhke- ja virgestusalade määramine;\n10) ranna ja kalda ulatuse täpsustamine;\n11) muinsuskaitse-, looduskaitse- ja muude kaitsealuste alade ja objektide ning nende kasutamistingimuste arvestamine planeeringus vastavalt kehtestatud kaitse-eeskirjadele või põhimäärustele ja vajadusel ettepanekute tegemine kaitse-eeskirjade või põhimääruste täpsustamiseks;\n12) vajadusel ettepanekute tegemine maa-alade ja üksikobjektide kaitse alla võtmiseks;\n13) riigikaitseliste maa-alade määramine;\n14) vajadusel ettepanekute tegemine kehtiva maakonnaplaneeringu muutmiseks;\n15) keskkonnamõju hindamine.\n(5) Valla üldplaneeringuga määratakse piirkonnad, kus detailplaneeringute koostamine hajaasustuses on kohustuslik.\n(6) Kehtestatud üldplaneering on aluseks detailplaneeringutele ning maakorraldusele hajaasustuses.\n(7) Üldplaneeringuga määratakse detailplaneeringute koostamise vajadus ja järjestus ning näidatakse majanduslikud võimalused üldplaneeringu elluviimiseks."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - PLANEERINGUTE LIIGID",
+      "section": "9",
+      "title": "§ 9. Detailplaneering",
+      "content": "(1) Detailplaneering on planeering, mis koostatakse valla või linna territooriumi väiksema osa kohta ja mis on lähiaastate ehitustegevuse aluseks.\n(2) Detailplaneeringuga määratakse:\n1) planeeritava ala kruntideks jaotamine;\n2) krundi ehitusõigus;\n3) tänavate maa-alad ja liikluskorralduse põhimõtted;\n4) haljastus ja heakorrastus;\n5) ehitistevahelised kujad;\n6) tehnovõrkude ja -rajatiste paigutus;\n7) keskkonnakaitse abinõud;\n8) maakasutuse ja ehitamise erinõuded kaitsealadel ja kaitsealustel objektidel vastavalt kaitstavate loodusobjektide seadusele (RT I 1994, 46, 773), muinsuskaitseseadusele (RT I 1994, 24, 391) ja teistele seadustele ning nende seaduste alusel kehtestatud kaitse-eeskirjadele, põhimäärustele, kaitsekohustuse teatistele või muudele kasutamistingimustele, samuti ettepanekute tegemine kaitse-eeskirjade, põhimääruste ja muude kasutamistingimuste täpsustamiseks;\n9) vajadusel ettepanekud maa-alade ja objektide kaitse alla võtmiseks;\n10) olulisemad arhitektuurinõuded ehitistele;\n11) servituutide vajadus;\n12) riigikaitselised maa-alad;\n13) muud seadustest tulenevad kinnisomandi kitsendused.\n(3) Krunt on ehitamiseks mõeldud, piiritletud maatükk tiheasustuses või detailplaneeringu kohustusega aladel hajaasustuses.\n(4) Krundi ehitusõigus sisaldab:\n1) krundi kasutamise sihtotstarvet;\n2) lubatud ehitiste arvu krundil;\n3) ehitiste lubatud suurimat ehitusalust pinda;\n4) ehitiste lubatud kõrgust.\n(5) Kuja on ehitiste lubatud väikseim vahekaugus.\n(6) Detailplaneeringuga võib teha ettepaneku kehtiva üldplaneeringu muutmiseks.\n(7) Kehtestatud detailplaneering on aluseks ehitiste projekteerimisele ja uute kinnistute moodustamisele ning olemasolevate kinnistute piiride muutmisele tiheasustuses ja detailplaneerimise kohustusega aladel hajaasustuses.\n(8) Kohalik omavalitsus võib nõuda detailplaneeringule illustreerivate jooniste või makettide lisamist, et muuta planeering arusaadavamaks avalikustamises ja otsustamises osalejatele.\n(9) Naaberkruntide piire võib muuta ilma detailplaneeringut koostamata, kui piiride muutmine ei too endaga kaasa krundi ehitusõiguse ja seniste kasutamistingimuste muutumist ning toimub naabrite kokkuleppel.\n(10) Detailplaneeringute koostamisel arvestatakse kehtivaid tervisekaitse-, keskkonna-, riigikaitse-, tuleohutusalaseid ning muid seadusi ja norme ning keskkonnamõju hindamise tulemusi."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "3. peatükk - PLANEERINGUTE KOOSTAMINE JA AVALIKKUSE OSALEMINE SELLES",
+      "section": "10",
+      "title": "§ 10. Planeeringu koostamise algatamine ja korraldamine",
+      "content": "(1) Planeeringu koostamist võib algatada Vabariigi Valitsus, ministeerium, maavalitsus, kohalik omavalitsus või muu huvitatud isik.\n(2) Üleriigilise planeeringu koostamist korraldab Keskkonnaministeerium.\n(3) Maakonnaplaneeringute koostamist korraldab maavanem ning koordineerib Keskkonnaministeerium.\n(4) Üldplaneeringute koostamist korraldab kohalik omavalitsus ning koordineerivad maavalitsus ja Keskkonnaministeerium.\n(5) Detailplaneeringu koostamist korraldab kohalik omavalitsus.\n(6) Kohalik omavalitsus võib sõlmida lepingu detailplaneeringu koostamise korraldamise ja finantseerimise õiguse andmiseks kinnisasja omanikule või teistele isikutele, kes on huvitatud vastava maa-ala kohta planeeringu koostamisest."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "3. peatükk - PLANEERINGUTE KOOSTAMINE JA AVALIKKUSE OSALEMINE SELLES",
+      "section": "11",
+      "title": "§ 11. Planeeringukavatsusest informeerimine",
+      "content": "Kohalik omavalitsus informeerib avalikkust kavatsetavatest üldplaneeringutest ja detailplaneeringutest kohalike ja maakondlike massiteabevahendite kaudu vähemalt kord aastas."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - PLANEERINGUTE KOOSTAMINE JA AVALIKKUSE OSALEMINE SELLES",
+      "section": "12",
+      "title": "§ 12. Algatatud planeeringust informeerimine",
+      "content": "(1) Ministeerium, maavalitsus või kohalik omavalitsus tutvustab iga tema poolt algatatud planeeringu eesmärke vastavalt kas üleriigilistes, maakondlikes või kohalikes massiteabevahendites kuu aja jooksul pärast planeeringu algatamise otsuse tegemist.\n(2) Teade üleriigilise planeeringu algatamisest avaldatakse Riigi Teataja Lisas.\n(3) Maavalitsus informeerib kohalikke omavalitsusi nende territooriumi käsitleva maakonnaplaneeringu algatamisest kahe nädala jooksul, arvates planeeringu algatamise otsuse tegemise päevast.\n(4) Kui algatatav detailplaneering võib kaasa tuua kinnisasja sundvõõrandamise vajaduse, senise maakasutuse või krundi ehitusõiguse muutmise, teatab kohalik omavalitsus tähitud kirjaga detailplaneeringu algatamisest vastava kinnisasja omanikule kahe nädala jooksul, arvates planeeringu algatamise otsuse tegemise päevast."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - PLANEERINGUTE KOOSTAMINE JA AVALIKKUSE OSALEMINE SELLES",
+      "section": "13",
+      "title": "§ 13. Planeeringu tegemise õigus",
+      "content": "Planeeringut võivad koostada või selle koostamist juhtida vastavate erialade kõrgharidusega spetsialistid, kellele planeeringu koostamist korraldav ministeerium, maavalitsus, kohalik omavalitsus või kinnisasja omanik on planeeringu koostamise ülesandeks teinud."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - PLANEERINGUTE KOOSTAMINE JA AVALIKKUSE OSALEMINE SELLES",
+      "section": "14",
+      "title": "§ 14. Planeeringu koostamiseks vajaliku informatsiooni kättesaadavus ja säilitamine",
+      "content": "(1) Planeeringu koostamiseks vajalikku informatsiooni on planeeringualal asuvad või planeeringuala kohta käivat informatsiooni valdavad isikud kohustatud tasuta andma planeeringu koostamist korraldavale ministeeriumile, maavalitsusele või kohalikule omavalitsusele või nende poolt volitatud planeeringu koostajale.\n(2) Planeeringu koostamist korraldav ministeerium, maavalitsus või kohalik omavalitsus on kohustatud tagama planeeringu koostamise käigus kogutud informatsiooni ja materjalide säilimise ning kättesaadavuse huvitatud isikutele."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - PLANEERINGUTE KOOSTAMINE JA AVALIKKUSE OSALEMINE SELLES",
+      "section": "15",
+      "title": "§ 15. Ajutine ehituskeeld planeeringu koostamise ajal",
+      "content": "(1) Kohalik omavalitsus võib kehtestada planeeringu koostamise ajal ajutise ehituskeelu planeeringualal või selle osal, kui algatatud üldplaneering või detailplaneering muudab selle maa-ala varem kehtestatud detailplaneeringut, sellega määratletud maakasutus- ja ehitustingimusi ning krundi ehitusõigust.\n(2) Ajutise ehituskeelu võib kehtestada kuni kaheks aastaks.\n(3) Ajutine ehituskeeld ei laiene ehitisele, millele on antud ehitusluba enne keelu kehtestamist.\n(4) Ajutine ehituskeeld tehakse tähitud kirjaga teatavaks kinnisasja omanikule, keda ehituskeeld puudutab, kahe nädala jooksul, arvates ehituskeelu otsuse tegemise päevast."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - PLANEERINGUTE KOOSTAMINE JA AVALIKKUSE OSALEMINE SELLES",
+      "section": "16",
+      "title": "§ 16. Koostöö planeeringute koostamisel",
+      "content": "(1) Üldplaneeringu ja detailplaneeringu koostamisse kaasatakse planeeringuala kinnisasjade omanikud, elanikud ja teised huvitatud isikud. Planeeringu lähteseisukohtade ja eskiislahenduste tutvustamiseks korraldab kohalik omavalitsus avalikke arutelusid.\n(2) Planeeringud koostatakse koostöös:\n1) üleriigiline planeering - maavalitsuste ja kohalike omavalitsuste liitudega ning ministeeriumidega, kelle valitsemisalas olevaid küsimusi planeering käsitleb;\n2) maakonnaplaneering - planeeringuala kohalike omavalitsuste, planeeringuala naabrusesse jäävate maavalitsuste ja Keskkonnaministeeriumiga ning teiste ministeeriumidega, kelle valitsemisalas olevaid küsimusi planeering käsitleb;\n3) üldplaneering - planeeringuala naabrusesse jäävate kohalike omavalitsuste ja vastava maavalitsusega."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - PLANEERINGUTE KOOSTAMINE JA AVALIKKUSE OSALEMINE SELLES",
+      "section": "17",
+      "title": "§ 17. Planeeringu kooskõlastamine",
+      "content": "(1) Üleriigiline planeering kooskõlastatakse ministeeriumidega, kelle valitsemisala küsimusi planeering käsitleb, ning planeeringuala maavalitsuste ja kohalike omavalitsuste liitudega.\n(2) Enne planeeringu avalikku väljapanekut kooskõlastatakse see liigist olenevalt:\n1) maakonnaplaneering - planeeringuala naabrusesse jäävate maavalitsuste ja planeeringuala kohalike omavalitsustega;\n2) üldplaneering - planeeringuala naabrusesse jäävate kohalike omavalitsustega;\n3) üldplaneering ja detailplaneering - riigi vastava ameti või inspektsiooniga, kui planeeringualal asuvad riikliku kaitse all olevad mälestised, loodus- või muud objektid või planeeringuga tehakse ettepanek nende kaitse alla võtmiseks või kui planeeringualal asub riigi omandisse kuuluv maavara või altkaevandatud maa-ala.\n(3) Järelevalvet teostav maavanem või Keskkonnaministeerium määrab planeeringu teiste kooskõlastuste vajaduse, mis tuleb hankida enne planeeringu avalikku väljapanekut."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - PLANEERINGUTE KOOSTAMINE JA AVALIKKUSE OSALEMINE SELLES",
+      "section": "18",
+      "title": "§ 18. Planeeringu avalik väljapanek",
+      "content": "(1) Kohalik omavalitsus teeb otsuse planeeringu vastuvõtmise kohta ja korraldab planeeringu avaliku väljapaneku.\n(2) Planeeringu avalik väljapanek korraldatakse:\n1) üldplaneering - linna või valla keskuses, valla suuremates asulates või planeeritavas asulas;\n2) detailplaneering - linna keskuses ja vastavas linnaosas või valla keskuses ja vastavas asulas.\n(3) Maavanem teeb otsuse maakonnaplaneeringu vastuvõtmise kohta ja korraldab maakonnaplaneeringu avaliku väljapaneku maakonna keskuses ja teistes linnades ning planeeringuala valdade keskustes.\n(4) Üleriigilise planeeringu põhiseisukohti tutvustab selle koostamist korraldav ministeerium avalikkusele üleriigilistes ja maakondlikes massiteabevahendites.\n(5) Kui planeering võib tuua kaasa sundvõõrandamise vajaduse, muudab senist maakasutust või krundi ehitusõigust, teatab kohalik omavalitsus tähitud kirjaga vastava kinnisasja omanikule avalikust väljapanekust hiljemalt kaks nädalat enne avaliku väljapaneku algust.\n(6) Kohalik omavalitsus või maavalitsus teatab kohalikes ja maakondlikes massiteabevahendites avaliku väljapaneku koha, alguse ja kestuse hiljemalt nädal enne avaliku väljapaneku algust.\n(7) Avaliku väljapaneku ajal peab olema tagatud huvitatud isikute juurdepääs kõigile planeeringuga seotud materjalidele ja infole, mis on planeeringu koostamist korraldava maavalitsuse või kohaliku omavalitsuse käsutuses, välja arvatud riigisaladuseks tunnistatud info."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - PLANEERINGUTE KOOSTAMINE JA AVALIKKUSE OSALEMINE SELLES",
+      "section": "19",
+      "title": "§ 19. Avaliku väljapaneku kestus",
+      "content": "Avaliku väljapaneku kestus on:\n1) detailplaneeringutel kaks nädalat;\n2) üldplaneeringutel neli nädalat;\n3) maakonnaplaneeringutel kuus nädalat."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - PLANEERINGUTE KOOSTAMINE JA AVALIKKUSE OSALEMINE SELLES",
+      "section": "20",
+      "title": "§ 20. Ettepanekute esitamise kord",
+      "content": "(1) Planeeringuala kinnisasjade omanikel, elanikel ja teistel isikutel on õigus avaliku väljapaneku kestel esitada parandusi ja täiendusi ning vaidlustada planeeringut.\n(2) Kirjalikele ettepanekutele vastab üldplaneeringute ja detailplaneeringute puhul kohalik omavalitsus ning maakonnaplaneeringute puhul maavalitsus tähitud kirjaga nelja nädala jooksul pärast avaliku väljapaneku lõppemist."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - PLANEERINGUTE KOOSTAMINE JA AVALIKKUSE OSALEMINE SELLES",
+      "section": "21",
+      "title": "§ 21. Avaliku väljapaneku tulemuste arvestamine",
+      "content": "(1) Avaliku väljapaneku tulemustest teatab kohalik omavalitsus või maavalitsus kohalikes ja maakondlikes massiteabevahendites.\n(2) Kohalik omavalitsus korraldab üldplaneeringu ja detailplaneeringu ning maavalitsus maakonnaplaneeringu avaliku väljapaneku tulemuste tutvustamiseks avaliku arutelu.\n(3) Kohalik omavalitsus või maavalitsus teatab avaliku arutelu toimumise koha ja aja vastavalt käesoleva seaduse paragrahv 18 5. ja 6. lõikes kehtestatud teatamise korrale.\n(4) Avaliku väljapaneku ja avaliku arutelu tulemuste alusel teeb kohalik omavalitsus või maavalitsus planeeringus vajalikud parandused ja täiendused ning esitab selle järelevalve teostajale koos informatsiooniga lahendamata planeeringuvaidluste kohta.\n(5) Kui avaliku väljapaneku ja avaliku arutelu tulemuste alusel tehtud vajalike paranduste tõttu muutuvad planeeringu põhilahendused, korratakse avalikku väljapanekut ja avalikku arutelu planeeringu parandamise järel vastavalt käesoleva seaduse paragrahvidele 18-21."
+    },
+    {
+      "provision_ref": "para21^1",
+      "chapter": "3. peatükk - PLANEERINGUTE KOOSTAMINE JA AVALIKKUSE OSALEMINE SELLES",
+      "section": "21^1",
+      "title": "§ 21^1. Detailplaneeringu koostamise lihtsustatud kord",
+      "content": "(1) Kohalik omavalitsus võib detailplaneeringu koostamisel loobuda käesoleva seaduse paragrahv 12 lõikes 1 ja paragrahvides 18-21 sätestatud planeeringute avalikustamise nõuete täitmisest, asendades need planeeritava krundi ja naaberkruntide omanike kooskõlastustega, kui detailplaneering koostatakse:\n1) olemasoleval hoonestusalal kuni kolme ühepereelamu, suvila või aiamaja krundi detailplaneerimiseks;\n2) olemasoleva hoonestuse vahele jääva ühe tühja krundi detailplaneerimiseks linnas või asulas, kui krundile kavandatava ehitise põhifunktsioon on elamu ja selle maht ei muuda piirkonna linnaehituslikku miljööd.\n(2) Kohalik omavalitsus võib detailplaneeringu puhul, mis koostatakse olemasolevatele hoonetele ja rajatistele krundi suuruse määramiseks aladel, kuhu ei rajata uusi ehitisi ning kus säilib hoonete kasutamise senine otstarve, loobuda:\n1) käesoleva seaduse paragrahv 9 lõike 2 punktides 2, 4, 5, 7-10 ja 12 sätestatud nõuete täitmisest;\n2) käesoleva seaduse paragrahv 12 lõikes 1 ja paragrahvides 18-21 sätestatud planeeringute avalikustamise nõuete täitmisest, asendades need planeeritava krundi ja naaberkruntide omanike kooskõlastustega.\n(3) Detailplaneeringu koostamise lihtsustatud kord ei laiene muinsuskaitse või looduskaitse all olevatele aladele ja ehitistele ning ranna ja kalda kaitse seadusega (RT I 1995, 31, 382) sätestatud ranna- ja kaldaaladele."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - JÄRELEVALVE PLANEERINGUTE KOOSTAMISE ÜLE, PLANEERINGUTE KEHTESTAMINE JA TÜHISTAMINE",
+      "section": "22",
+      "title": "§ 22.",
+      "content": "Järelevalve planeeringute koostamise üle.\n(1) Järelevalvet teostavad:\n1) maakonnaplaneeringute üle - Keskkonnaministeerium;\n2) üldplaneeringute ja detailplaneeringute üle - maavanem.\n(2) Järelevalve teostaja pädevusse kuulub:\n1) planeeringu seadustele ja normidele vastavuse kontrollimine;\n2) planeeringu kehtivatele üldisematele planeeringutele vastavuse kontrollimine;\n3) nõusoleku andmine kehtiva üldisema planeeringu muutmiseks järelevalve teostajale esitatud planeeringu kehtestamisel;\n4) riigi huvide järgimise kontroll planeeringus, kui planeeringuala kohta puuduvad üldisemad planeeringud;\n5) planeeringu avalikul väljapanekul kirjalikke ettepanekuid esitanud isikute ning vaidluse teiseks pooleks oleva maavalitsuse või kohaliku omavalitsuse ärakuulamine ja seisukoha andmine vaidluse kohta, juhul kui ettepanekuid ei arvestatud.\n(3) Kui käesoleva paragrahvi 2. lõike punktis 5 nimetatud isikud ei lepi kokku vaidluse lahendamises, saadab järelevalve teostaja nendele isikutele oma kirjaliku seisukoha vaidluse kohta kahe nädala jooksul pärast vaidluse poolte ärakuulamist.\n(4) Planeeringu järelevalve teostaja võib nõuda täiendavat keskkonnamõju hindamist. Hindamise kulud kannab planeeringu algataja.\n(5) Järelevalve teostaja pädevusse kuuluvates küsimustes tekkivad vaidlused kohaliku omavalitsuse ja järelevalvet teostava maavanema vahel lahendab keskkonnaminister, vaidlused kohalike omavalitsuste vahel lahendab maavanem.\n(6) Järelevalve teostaja annab oma heakskiidu planeeringule pärast järelevalve teostaja pädevusse kuuluvate nõuete täitmist ja käesoleva paragrahvi 5. lõikes nimetatud vaidluste lahendamist ning tagastab selle maavalitsusele või kohalikule omavalitsusele kehtestamiseks.\n(7) Detailplaneeringu üle ei teostata käesolevas paragrahvis sätestatud järelevalvet ja maavanema heakskiit detailplaneeringule ei ole vajalik, kui:\n1) detailplaneeringusse ei ole jäänud lahendamata planeeringuvaidlusi;\n2) detailplaneering käsitleb käesoleva seaduse paragrahvis 21.1 nimetatud juhtumeid."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - JÄRELEVALVE PLANEERINGUTE KOOSTAMISE ÜLE, PLANEERINGUTE KEHTESTAMINE JA TÜHISTAMINE",
+      "section": "23",
+      "title": "§ 23. Üleriigilise planeeringu heakskiitmine",
+      "content": "(1) Keskkonnaminister esitab üleriigilise planeeringu Vabariigi Valitsusele heakskiitmiseks pärast seda, kui sellele on saadud kõik käesoleva seaduse paragrahv 17 1. lõikes nõutud kooskõlastused.\n(2) Kui kehtestatud maakonnaplaneering muudab heakskiidetud üleriigilist planeeringut ja Keskkonnaministeerium on järelevalve käigus muudatustega nõustunud, kantakse muudatused üleriigilisse planeeringusse ning keskkonnaminister esitab need heakskiitmiseks Vabariigi Valitsusele."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - JÄRELEVALVE PLANEERINGUTE KOOSTAMISE ÜLE, PLANEERINGUTE KEHTESTAMINE JA TÜHISTAMINE",
+      "section": "24",
+      "title": "§ 24. Planeeringu kehtestamine",
+      "content": "(1) Keskkonnaministri poolt heakskiidetud maakonnaplaneeringu kehtestab maavanem.\n(2) Üldplaneeringu või detailplaneeringu kehtestab kohalik omavalitsus.\n(3) Kui kehtestatud üldplaneering muudab kehtivat maakonnaplaneeringut ja maavanem on järelevalve käigus muudatustega nõustunud, kannab maavalitsus vastavad muudatused maakonnaplaneeringusse ja maavanem kehtestab need.\n(4) Kui kehtestatud detailplaneering muudab kehtivat üldplaneeringut ja maavanem on järelevalve käigus muudatustega nõustunud, kannab kohalik omavalitsus vastavad muudatused üldplaneeringusse ja kehtestab need."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - JÄRELEVALVE PLANEERINGUTE KOOSTAMISE ÜLE, PLANEERINGUTE KEHTESTAMINE JA TÜHISTAMINE",
+      "section": "25",
+      "title": "§ 25. Planeeringu kehtestamisest teatamine",
+      "content": "(1) Üleriigilise planeeringu heakskiitmisest teatatakse Riigi Teatajas ja üleriigilistes massiteabevahendites.\n(2) Maakonnaplaneeringu kehtestamisest teatatakse kohalikes, maakondlikes ja üleriigilistes massiteabevahendites ning Riigi Teataja Lisas.\n(3) Maakonnaplaneeringu kehtestamise otsuse saadab maavanem planeeringuala kohalikele omavalitsustele ning Keskkonnaministeeriumile.\n(4) Üldplaneeringu ja detailplaneeringu kehtestamisest teatatakse kohalikes ja maakondlikes massiteabevahendites.\n(5) Üldplaneeringu ja detailplaneeringu kehtestamise otsuse saadab kohalik omavalitsus järelevalvet teostavale maavanemale ja riigi maakatastri pidajale.\n(6) Isikutele, kelle kirjalikke ettepanekuid järelevalve käigus ei arvestatud, saadab kohalik omavalitsus tähitud kirjaga planeeringu kehtestamise otsuse ärakirja ühe nädala jooksul pärast kehtestamise otsuse vastuvõtmist."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - JÄRELEVALVE PLANEERINGUTE KOOSTAMISE ÜLE, PLANEERINGUTE KEHTESTAMINE JA TÜHISTAMINE",
+      "section": "26",
+      "title": "§ 26. Planeeringute kehtestamise vaidlustamine",
+      "content": "(1) Isikutel, kelle kirjalikke ettepanekuid avaliku väljapaneku ja järelevalve käigus ei arvestatud, on õigus üldplaneeringu ja detailplaneeringu kehtestamist vaidlustada kohtus ühe kuu jooksul, arvates päevast, mil isik sai teada või pidi teada saama planeeringu kehtestamisest.\n(2) Kohaliku omavalitsuse kehtestatud üldplaneeringu või detailplaneeringu vastuolu korral seaduse või maakonnaplaneeringuga teeb järelevalvet teostav maavanem kohalikule omavalitsusele ettepaneku planeeringu korrigeerimiseks. Ettepaneku tagasilükkamisel pöördub maavanem kohtusse planeeringu vaidlustamiseks.\n(3) Kui kehtestatud maakonnaplaneering on vastuolus kehtiva üldplaneeringuga või riivab kohaliku omavalitsuse seaduslikke õigusi, teeb kohalik omavalitsus maavalitsusele ettepaneku planeeringu korrigeerimiseks. Ettepaneku tagasilükkamisel pöördub kohalik omavalitsus kohtusse planeeringu vaidlustamiseks."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - JÄRELEVALVE PLANEERINGUTE KOOSTAMISE ÜLE, PLANEERINGUTE KEHTESTAMINE JA TÜHISTAMINE",
+      "section": "27",
+      "title": "§ 27. Kehtestatud planeeringu tühistamine",
+      "content": "(1) Maakonnaplaneeringu tühistab selle kehtestanud maavanem.\n(2) Üldplaneeringu või detailplaneeringu tühistamise kavatsusest teatab planeeringu kehtestanud kohalik omavalitsus kohalikes ja maakondlikes massiteabevahendites.\n(3) Üldplaneeringu või detailplaneeringu tühistab selle kehtestanud kohalik omavalitsus, kuid mitte varem kui ühe kuu möödumisel tühistamise kavatsusest teatamisest.\n(4) Kehtestatud planeeringu tühistamisest teatab maavalitsus või kohalik omavalitsus käesoleva seaduse paragrahv 25 kohaselt.\n(5) Detailplaneeringu tühistamise võib kohtus vaidlustada planeeringualal asuva kinnisasja omanik, kes on ühe kuu jooksul pärast planeeringu tühistamise kavatsusest teatamist esitanud kohalikule omavalitsusele kirjaliku protesti.\n(6) Planeeringu tühistamine ei laiene ehitistele, millele on antud ehitusluba enne planeeringu tühistamist.\n(7) Enne planeeringu tühistamist tuleb selgitada selle senise elluviimise tulemusi ning põhjendada edasisest elluviimisest loobumist."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - JÄRELEVALVE PLANEERINGUTE KOOSTAMISE ÜLE, PLANEERINGUTE KEHTESTAMINE JA TÜHISTAMINE",
+      "section": "28",
+      "title": "§ 28. Kehtestatud planeeringu kättesaadavus",
+      "content": "(1) Igaühel on õigus tutvuda kehtestatud planeeringuga.\n(2) Kehtestatud planeeringuga tutvumine tagatakse:\n1) üleriigiline planeering - Keskkonnaministeeriumis ja planeeringuala maavalitsustes;\n2) maakonnaplaneering - vastavas maavalitsuses ja planeeringuala kohalikes omavalitsustes;\n3) üldplaneering ja detailplaneering - planeeringuala kohalikes omavalitsustes.\n(3) Kohalik omavalitsus tagab oma territooriumi kehtestatud üldplaneeringu ja detailplaneeringu koopiate omandamise võimaluse."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - JÄRELEVALVE PLANEERINGUTE KOOSTAMISE ÜLE, PLANEERINGUTE KEHTESTAMINE JA TÜHISTAMINE",
+      "section": "29",
+      "title": "§ 29. Kehtestatud planeeringu ülevaatamise kohustus",
+      "content": "(1) Kehtestatud planeeringu ülevaatamisega selgitatakse planeeringukohase arengu tulemused, planeeringu edasise elluviimise võimalused, planeeringu põhilahenduste muutmise või planeeringu tühistamise vajadus ja muud planeeringu elluviimisega seotud küsimused.\n(2) Heakskiidetud üleriigilise planeeringu vaatab üle Keskkonnaministeerium ja esitab tulemused ning ülevaate planeerimisalasest olukorrast riigis Vabariigi Valitsusele hiljemalt aasta jooksul pärast korralisi Riigikogu valimisi.\n(3) Kehtestatud maakonnaplaneeringu vaatab üle maavanem ja esitab ülevaatuse tulemused Keskkonnaministeeriumile hiljemalt aasta jooksul pärast kohalike omavalitsuste korralisi valimisi.\n(4) Kehtestatud üldplaneeringu ja detailplaneeringu vaatab üle kohalik omavalitsus ja esitab ülevaatuse tulemused maavalitsusele hiljemalt kuue kuu jooksul pärast kohalike omavalitsuste korralisi valimisi.\n(5) Kehtestatud üleriigiliste planeeringute ja maakonnaplaneeringute ülevaatuse tulemustest informeeritakse avalikkust üleriigiliste ja maakondlike massiteabevahendite kaudu, kehtestatud üldplaneeringute ja detailplaneeringute ülevaatuse tulemustest kohalike ja maakondlike massiteabevahendite kaudu."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "5. peatükk - KAHJU HÜVITAMINE JA SUNDVÕÕRANDAMINE",
+      "section": "30",
+      "title": "§ 30. Üldplaneeringu või detailplaneeringu kehtestamisel jõustunud kitsendustest tekkiva kahju hüvitamine",
+      "content": "(1) Kui üldplaneeringu või detailplaneeringu kehtestamisega kitsendatakse senist maakasutust või krundi ehitusõigust, teatab kohalik omavalitsus sellest kinnisasja omanikule tähitud kirjaga kahe nädala jooksul pärast planeeringu kehtestamist.\n(2) Kinnisomandile võib planeeringute alusel seada kitsendusi:\n1) detailplaneeringu kohustusega aladel - kehtestatud detailplaneeringu alusel ja vastavalt seadustele;\n2) detailplaneeringu kohustuseta aladel hajaasustuses - kehtestatud üldplaneeringu alusel ja vastavalt seadustele.\n(3) Kinnisasja omanikul on õigus nõuda käesoleva paragrahvi 1. lõikes nimetatud kitsendustest või detailplaneeringu tühistamisest tuleneva kahju õiglast ja kohest hüvitamist. Üleriigilisest planeeringust või maakonnaplaneeringust tulenevate kitsenduste puhul hüvitab kahju riik, muudel juhtudel kohalik omavalitsus või detailplaneeringu koostamisest huvitatud isik.\n(4) Hüvitise suurus määratakse kinnisasja omaniku ja kahju hüvitamise kohustatud isiku kokkuleppel. Kui kokkulepet ei saavutata, määrab hüvitise suuruse kohus huvitatud isiku nõudel.\n(5) Kohalik omavalitsus on kohustatud kinnisasja omaniku nõudel võõrandama kinnisasja kohese ja õiglase tasu eest, kui kehtestatud detailplaneeringu või üldplaneeringuga:\n1) nähakse ette kinnisasja kasutamine avalikul otstarbel;\n2) piiratakse oluliselt kinnisasja senist kasutamist või muudetakse senine kasutamine võimatuks."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "5. peatükk - KAHJU HÜVITAMINE JA SUNDVÕÕRANDAMINE",
+      "section": "31",
+      "title": "§ 31. Sundvõõrandamise kohaldamine planeeringu elluviimiseks",
+      "content": "Üldplaneeringu või detailplaneeringu elluviimiseks võidakse kohaldada kinnisasja sundvõõrandamist kinnisasja sundvõõrandamise seaduses (RT I 1995, 30, 380) ettenähtud alusel."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "6. peatükk - EHITUSLIK PROJEKTEERIMINE",
+      "section": "32",
+      "title": "§ 32. Projekteerimistööde tegemise õigus",
+      "content": "(1) Kõrgharidusega arhitekt ja ehitusinsener võivad iseseisvalt ja omal vastutusel teha või juhtida oma erialal arhitektuurseid või ehituslikke projekteerimistöid.\n(2) Tegutsemisluba antakse ettevõtjale nendeks projekteerimistöödeks, mille juhtimiseks on ettevõtjal vastava eriala vastutav kõrgharidusega arhitekt või ehitusinsener.\n(3) Ühepereelamut, taluhooneid, suvilat, aiamaja, kuni kahe sõiduautokohaga eraldi seisvat garaazi ning muid lihtsaid ja väikesemahulisi ehitisi võib enda tarbeks projekteerida ka erihariduseta isik kohaliku omavalitsuse poolt väljaantud ühekordse projekteerimisloa alusel. Ühekordse projekteerimisloa väljaandmise tingimused ja korra kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "6. peatükk - EHITUSLIK PROJEKTEERIMINE",
+      "section": "33",
+      "title": "§ 33. Projekteerimise alused",
+      "content": "(1) Linnades, teistes tiheasustusega paikades ja detailplaneeringu kohustusega aladel hajaasustuses on projekteerimise aluseks kehtestatud detailplaneeringud. Kohalik omavalitsus võib välja anda kehtestatud detailplaneeringu nõudeid täpsustavaid projekteerimistingimusi.\n(2) Hajaasustuses on projekteerimise aluseks projekteerimistingimused.\n(3) Projekteerimistingimused väljastab kohalik omavalitsus hiljemalt nelja nädala jooksul, arvates taotluse esitamisest või projekteerimise alustamisest informeerimisest.\n(4) Projekteerimistingimustega määratakse arhitektuursed, ehituslikud ja muud projekteerimise lähteandmed ning isikud, kellega projekt tuleb kooskõlastada.\n(5) Projekteerimistingimused väljastab kohalik omavalitsus kinnisasja omanikule või isikule, kelle kasuks on seatud võõral maal ehitise omamist võimaldav asjaõigus.\n(6) Taluhoonete projekteerimisel tuleb koos esimese taluhoone projektiga koostada talu õueplaan, kus näidatakse talu kõigi olulisemate hoonete ja tehnorajatiste paigutus ning antakse lähteandmed ja tingimused nende projekteerimiseks.\n(7) Kohaliku omavalitsuse poolt heakskiidetud talu õueplaan kehtib järgmiste taluhoonete projekteerimistingimusena kolme aasta jooksul, arvates selle väljastamise päevast."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "6. peatükk - EHITUSLIK PROJEKTEERIMINE",
+      "section": "34",
+      "title": "§ 34. Kohaliku omavalitsuse informeerimine projekteerimise alustamisest tiheasustuses",
+      "content": "Ehitusprojekti tellija informeerib kohalikku omavalitsust kirjalikult projekteerimise alustamisest tiheasustuses, täpsustades projekteerimistingimuste vajaduse."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "6. peatükk - EHITUSLIK PROJEKTEERIMINE",
+      "section": "35",
+      "title": "§ 35. Projekteerija kohustused",
+      "content": "(1) Projekteerija on kohustatud tagama:\n1) ehitusprojekti vastavuse kehtivale detailplaneeringule ja projekteerimistingimustele;\n2) ehitusprojekti vastavuse kehtivatele normidele ja standarditele;\n3) projekteeritava ehitise vastavuse käesoleva seaduse paragrahvis 43 sätestatud nõuetele.\n(2) Projekteerija on kohustatud hüvitama tema süül projekti tellijale tekitatud kahju.\n(3) Projekteerija ja projekti tellija õigused ja kohustused, ehitusprojekti ja projekteerimiseks vajalike uurimistööde maht, ehitusprojekti valmimise tähtaeg ja vastuvõtmise kord ning vastutavad projekteerijad määratakse projekteerimislepinguga. Projekteerimislepingule esitatavad nõuded sätestatakse Vabariigi Valitsuse kehtestatud korras.\n(4) Projekteerimisettevõtja peab säilitama täies ulatuses kõik tema poolt koostatud ehitusprojektid."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "6. peatükk - EHITUSLIK PROJEKTEERIMINE",
+      "section": "36",
+      "title": "§ 36. Ehitusprojekt",
+      "content": "(1) Käesoleva seaduse paragrahvides 38-41 nimetatud ehitiste ehitamine toimub ehitusprojekti alusel, välja arvatud paragrahv 40 2. lõikes sätestatud juhul.\n(2) Ehitusprojekt peab olema koostatud mahus, mis võimaldab anda hinnangut projekteeritud ehitisele, selle järgi ehitada ja ehitamist kontrollida.\n(3) Nõuded ehitusloa taotlemisel esitatavale ehitusprojektile sätestatakse Vabariigi Valitsuse kehtestatud korras.\n(4) Ehitusprojekt peab olema koostatud või kontrollitud kõrgharidusega arhitekti või vastava ehituseriala inseneri poolt. Nende vastutus määratakse Vabariigi Valitsuse kehtestatud korras."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "6. peatükk - EHITUSLIK PROJEKTEERIMINE",
+      "section": "37",
+      "title": "§ 37. Projekteerimiseks vajalikud uurimistööd",
+      "content": "(1) Ehitise projekteerimiseks vajalike ehitusgeoloogiliste uurimistööde teostamiseks annab loa kohalik omavalitsus.\n(2) Ehitusprojekti tellija on kohustatud ehitusgeoloogiliste ja -geodeetiliste uurimistööde tulemused teatavaks tegema kohalikule omavalitsusele.\n(3) Ehitusgeoloogiliste ja -geodeetiliste uurimistööde teostamise, tulemuste teatavakstegemise ning andmete säilitamise kord määratakse Vabariigi Valitsuse kehtestatud korras."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "7. peatükk - MÕISTED JA ÜLDSÄTTED",
+      "section": "38",
+      "title": "§ 38. Ehitis",
+      "content": "(1) Ehitis on hoone või rajatis.\n(2) Hoone on maapinnaga püsivalt ühendatud, katuse, välispiirete ja siseruumiga ehitis.\n(3) Rajatis käesoleva seaduse tähenduses on maapinnaga püsivalt ühendatud, inimtegevuse tulemusena valminud ehitis, mis ei ole hoone. Rajatiseks loetakse muu hulgas mere või siseveekogu põhja selle süvendamise teel õiguslikul alusel rajatud laevateed (laevakanal)."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "7. peatükk - MÕISTED JA ÜLDSÄTTED",
+      "section": "39",
+      "title": "§ 39. Ehitamine",
+      "content": "Ehitamiseks käesoleva seaduse tähenduses loetakse:\n1) ehitise püstitamist maa peale ja maapõue;\n2) ehitise laiendamist juurde-, peale- või allaehitamise teel;\n3) ehitise konstruktsioonide, ruumijaotuse või välisilme konstruktsioonilist muutmist;\n4) tehnoloogilise ümberseadistamisega seotud ehitus- ja paigaldustöid;\n5) ehitise lammutamist."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "7. peatükk - MÕISTED JA ÜLDSÄTTED",
+      "section": "40",
+      "title": "§ 40. Väikehoone",
+      "content": "(1) Väikehooneks käesoleva seaduse tähenduses loetakse kuni 12-ruutmeetrise ehitusaluse pinnaga ühekordset keldrita hoonet, mida ei kasutata elamiseks ja millel ei ole tehnilisi või avalikke funktsioone.\n(2) Väikehoonet võib ehitada kohaliku omavalitsuse kirjalikul nõusolekul ilma ehitusprojekti, ehitusloa, kasutusloa ja ehitusjärelevalveta."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "7. peatükk - MÕISTED JA ÜLDSÄTTED",
+      "section": "41",
+      "title": "§ 41. Ajutine ehitis",
+      "content": "Ajutine ehitis on piiratud ajavahemikuks, kuid mitte kauemaks kui viieks aastaks püstitatud ehitis, mis likvideeritakse kohaliku omavalitsuse määratud ja ehitusloas näidatud tähtajaks."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "7. peatükk - MÕISTED JA ÜLDSÄTTED",
+      "section": "42",
+      "title": "§ 42. Omavoliline ehitis",
+      "content": "Ilma ehitusloata püstitatud ehitis on omavoliline ehitis, välja arvatud käesoleva seaduse paragrahv 40 2. lõikes nimetatud juhul."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "7. peatükk - MÕISTED JA ÜLDSÄTTED",
+      "section": "43",
+      "title": "§ 43. Ehitisele esitatavad nõuded",
+      "content": "(1) Ehitis peab olema projekteeritud ja ehitatud hea ehitustava ja üldtunnustatud ehitusreeglite järgi ning kehtivatele nõuetele vastavatest materjalidest nii, et:\n1) see sobiks kokku ümbrusega;\n2) see ei tekitaks ohtu elule, varale, tervisele ja keskkonnale;\n3) see võimaldaks energia ja materjalide säästlikku kasutamist;\n4) see oleks piisava kandevõime, püsivuse ja kestusega;\n5) see oleks piisavalt kaitstud tulekahju puhkemise ja levimise ning teiste õnnetuste eest;\n6) pidevaks korrashoiuks oleks tagatud juurdepääs selle kõikidele osadele;\n7) selle remondi, korrashoiu ja kasutamise kulud oleksid võimalikult väikesed.\n(2) Ehitise laiendamine, ümberehitamine ja remont peavad olema tehtud viisil, mis arvestab ehitise arhitektuurilist ja ajaloolist väärtust.\n(3) Ehitise üldkasutatavad ruumid ja osad peavad olema ligipääsetavad ja kasutatavad liikumisraskustega isikutele ja teistele vaeguritele. Selle nõude rakendamise korra ja aja olemasolevate ehitiste puhul kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "7. peatükk - MÕISTED JA ÜLDSÄTTED",
+      "section": "44",
+      "title": "§ 44. Ehitusnormid ja -standardid",
+      "content": "(1) Ehitusmaterjalidele, -toodetele ja -konstruktsioonidele ning ehituse ohutusele esitatavad nõuded kehtestatakse normide ja standarditega.\n(2) Normide väljatöötamise ja kehtestamise korra kehtestab Vabariigi Valitsus.\n(3) Välisriikide ja rahvusvaheliste normide kasutamise korra kehtestab Vabariigi Valitsus.\n(4) Ehitusnormidega kehtestatavad nõuded peavad olema praktiliselt kontrollitavad."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "7. peatükk - MÕISTED JA ÜLDSÄTTED",
+      "section": "45",
+      "title": "§ 45. Ehitusmaterjalide ja -toodete kvaliteedi tagamine",
+      "content": "(1) Ehitusmaterjale ja -tooteid tohib kasutada ehituses, kui nende vastavus normidele ja standarditele on kontrollitud ja tõendatud vastavalt Vabariigi Valitsuse kehtestatud korrale.\n(2) Ehitusmaterjalide ja -toodete kvaliteedi ning tehnilistele normidele ja nõuetele vastavuse tagavad:\n1) kohalike toodete puhul nende tootjad ja müüjad;\n2) imporditud toodete puhul nende maaletoojad ja müüjad.\n(3) Käesoleva paragrahvi 2. lõikes nimetatud isikud peavad varustama turustatavad ehitusmaterjalid ja -tooted informatsiooniga nende omaduste ja kasutusala kohta vastavalt Vabariigi Valitsuse kehtestatud korrale."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "7. peatükk - MÕISTED JA ÜLDSÄTTED",
+      "section": "46",
+      "title": "§ 46. Ehitustööde tegemise õigus",
+      "content": "(1) Tegevusluba antakse ettevõtjale nendeks ehitustöödeks, mille juhtimiseks on ettevõtjal vastava ehituseriala vastutav spetsialist, kellele esitatavad nõuded sätestatakse Vabariigi Valitsuse kehtestatud korras.\n(2) Ühepereelamu, taluhoonete, suvila, aiamaja, kasvuhoone ja kuni kahe sõiduautokohaga eraldi seisva garaaži ehitustöid võivad enda tarbeks kohaliku omavalitsuse kirjalikul nõusolekul teha ja juhtida nende omanikud."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "7. peatükk - MÕISTED JA ÜLDSÄTTED",
+      "section": "47",
+      "title": "§ 47. Teede ja tehnovõrkude väljaehitamine",
+      "content": "Detailplaneeringukohaste teede ja tehnovõrkude väljaehitamise kuni ehituskrundini tagab kohalik omavalitsus enne ehitusloa andmist, kui ehitusloa taotleja ja kohalik omavalitsus ei ole kokku leppinud teisiti."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "7. peatükk - MÕISTED JA ÜLDSÄTTED",
+      "section": "48",
+      "title": "§ 48. Siltide ja õhuliinide kinnitamine",
+      "content": "(1) Reklaami, plakatite, elektri-, side- ja muude õhuliinide ning siltide paigaldamine ehitisele või krundi piiretele võib toimuda kinnisasja omaniku loal. Tekitatud kahju kompenseerib kinnisasja omanikule paigaldaja.\n(2) Kinnisasja omanik peab lubama paigutada oma krundile või kinnitada oma ehitise külge tehnovõrkude ja kaablite tähistamise märke ja reepereid. Nende paigutamisega tekitatud kahju tasub kinnisvara omanikule märkide või siltide omanik."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "8. peatükk - EHITUSJÄRELEVALVE",
+      "section": "49",
+      "title": "§ 49. Ehitusjärelevalve kohaldamine",
+      "content": "(1) Käesoleva seaduse 8. peatüki sätteid ei kohaldata järgmistele rajatistele:\n1) torujuhtmed;\n2) elektri- ja telekommunikatsiooniliinid;\n3) tänavad, maanteed ja raudteed;\n4) maavarade ja maa-ainese kaevandamisega seotud kaeveõõned;\n5) allmaakaeveõõnte abil rajatud ehitised;\n6) veehoidlad, tammid ja lüüsid.\n(2) Käesoleva paragrahvi 1. lõikes nimetatud rajatiste ehitusjärelevalve kord kehtestatakse eraldi seadustega."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "8. peatükk - EHITUSJÄRELEVALVE",
+      "section": "50",
+      "title": "§ 50. Ehitusjärelevalve mõiste",
+      "content": "Ehitusjärelevalve käesoleva seaduse mõistes on:\n1) ehitusprojekti kehtestatud seadustele ja normidele, detailplaneeringutele ja projekteerimistingimustele vastavuse kontrollimine;\n2) ehitusprojekti ekspertiisi korraldamine vastavalt vajadusele;\n3) ehituslubade väljaandmine;\n4) ehitustööde kontrollimine;\n5) ehitustööde teostaja vastavuse kontrollimine käesoleva seaduse paragrahv 46 1. lõikes nimetatud nõuetele;\n6) ehitise kasutuslubade väljaandmine;\n7) ehitise kasutamise ja korrashoiu kontrollimine ning ettekirjutuste tegemine avastatud puuduste kõrvaldamiseks;\n8) ehitus- ja hooneregistri informeerimine ehitusloa ja kasutusloa väljaandmisest;\n9) ehitistega toimunud avariide põhjuste uurimise korraldamine;\n10) omanikujärelevalve teostaja kinnitamine."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "8. peatükk - EHITUSJÄRELEVALVE",
+      "section": "51",
+      "title": "§ 51. Ehitusjärelevalve teostamine",
+      "content": "(1) Ehitusjärelevalve teostamine oma territooriumil kuulub kohaliku omavalitsuse pädevusse.\n(2) Ehitusjärelevalve teostamise korra ja ehitamise dokumenteerimise nõuded sätestatakse Vabariigi Valitsuse kehtestatud korras.\n(3) Ehitusjärelevalve teostamisega seotud kulud kannab ehitise omanik, tasudes need kohalikule omavalitsusele.\n(4) Muinsuskaitse, tervisekaitse, keskkonnakaitse ja teiste valdkondade järelevalve teostaja peab informeerima kohalikku omavalitsust ehitusel teostatud järelevalve tulemustest."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "8. peatükk - EHITUSJÄRELEVALVE",
+      "section": "52",
+      "title": "§ 52. Järelevalveinsener",
+      "content": "(1) Ehitusjärelevalve teostamiseks määrab kohalik omavalitsus igale ehitusele litsentseeritud järelevalveinseneri.\n(2) Ehituslikult lihtsa ja väikese ehitise ehitamisel võib kohalik omavalitsus jätta järelevalveinseneri määramata.\n(3) Järelevalveinseneride litsentseerimise korra kehtestab Vabariigi Valitsus.\n(4) Järelevalveinseneril on õigus:\n1) nõuda ehitusprojekti kontrollimiseks vajalikke andmeid;\n2) pääseda takistamatult ehitisele ja selle juurde kuuluvale krundile ehitustööde kontrollimiseks;\n3) teha ettekirjutusi ehitise omanikule või ehitusettevõtjale, kui ehitis ei ole projektikohane, ei vasta ehitusnormidele või on muutunud avariiohtlikuks, ning määrata tähtaeg puuduste kõrvaldamiseks;\n4) teha kohalikule omavalitsusele ettepanek ehitusloa peatamiseks või tühistamiseks, kui ehitise omanik või ehitusettevõtja ei täida tema ettekirjutusi.\n(5) Järelevalveinseneri ettekirjutuse täitmata jätmisel võib kohalik omavalitsus rakendada sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras.\n(6) Käesoleva paragrahvi 5. lõikes nimetatud sunniraha ülemmäär on 10 000 krooni."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "8. peatükk - EHITUSJÄRELEVALVE",
+      "section": "53",
+      "title": "§ 53. Ehitusluba",
+      "content": "(1) Kohalik omavalitsus annab ehitusloa ehituse alustamiseks kinnisasja omanikule või isikule, kelle kasuks on seatud võõral maal ehitise omamist võimaldav asjaõigus.\n(2) Kohalik omavalitsus vastab ehitusloa taotlusele kahe nädala jooksul, arvates taotluse esitamise päevast.\n(3) Kohalikul omavalitsusel on õigus ehitusluba tühistada, kui ehitust ei ole alustatud ühe aasta jooksul, arvates ehitusloa väljaandmise päevast, või kui ehitusloa taotlemisel on esitatud valeandmeid.\n(4) Ehitusloaga kehtestatakse ehituse lõpetamise tähtaeg kooskõlastatult ehitise omanikuga.\n(5) Ehitusloaga määratakse ehitusjärelevalve teostamise kord ja tingimused ehitusloa saanud ehitisel.\n(6) Kohalik omavalitsus võib anda nõusoleku lihtsa ja väikese ehitise lammutamiseks ilma ehitusprojekti ja ehitusloata."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "8. peatükk - EHITUSJÄRELEVALVE",
+      "section": "54",
+      "title": "§ 54. Ehitusloa andmisest keeldumine",
+      "content": "Ehitusluba ei anta, kui:\n1) ehitusprojekt ei vasta kehtestatud detailplaneeringule ja projekteerimistingimustele;\n2) ehitusprojekti ei ole koostanud või kontrollinud kõrgharidusega arhitekt ja vastava ehituseriala kõrgharidusega insener;\n3) projekteeritud ehitis kahjustab asjaõigusseaduse (RT I 1993, 39, 590; 1995, 26-28, 355) paragrahvides 143-154 sätestatud naabrusõigusi ja naabriga ei ole saavutatud kokkulepet;\n4) ehitusprojekt ei vasta ehitusnormidele ja teistele õigusaktidele."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "8. peatükk - EHITUSJÄRELEVALVE",
+      "section": "55",
+      "title": "§ 55. Ehitusprojekti ekspertiis",
+      "content": "(1) Ehitusprojektile tehakse vajaduse korral ehitusekspertiis.\n(2) Ekspertiisi tegemine on kohustuslik:\n1) [kehtetu]\n2) riigieelarvest ja selle vahendite kaasamisega finantseeritavate ehitiste projektidele;\n3) suurte rahvahulkade kogunemisega seotud ehitiste projektidele.\n(3) Ehitusprojektide ekspertiisi tegemise kord määratakse Vabariigi Valitsuse kehtestatud korras."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "8. peatükk - EHITUSJÄRELEVALVE",
+      "section": "56",
+      "title": "§ 56. Ehituse dokumentatsiooni säilitamine",
+      "content": "(1) Ehitise omanik on kohustatud tagama kogu ehitusprojekti säilitamise.\n(2) Kohalik omavalitsus peab säilitama kogu ehitusprojekti ja ehitisega seotud dokumentatsiooni ehitise olemasolu jooksul."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "8. peatükk - EHITUSJÄRELEVALVE",
+      "section": "57",
+      "title": "§ 57. Ehituse alustamisest teatamine",
+      "content": "Ehitise omanik teatab ehituse alustamisest kohalikule omavalitsusele vähemalt kolm tööpäeva enne ehitustööde algust, kui ehitusloaga ei ole ette nähtud teisiti."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "8. peatükk - EHITUSJÄRELEVALVE",
+      "section": "58",
+      "title": "§ 58. Ehitise kasutusluba",
+      "content": "(1) Ehitise kasutusluba on luba, mille kohalik omavalitsus annab ehitusloa alusel projekti kohaselt valminud ehitisele.\n(2) Kasutusluba antakse pärast ehitise ülevaatamist, ehitusjärelevalve ettekirjutuste täitmist ja ehituse dokumentatsiooni üleandmist.\n(3) Ehitise võib kasutusloa alusel kasutusele võtta ka valminud osade kaupa.\n(4) Ehitist võib hakata kasutama pärast kasutusloa saamist kohalikult omavalitsuselt.\n(5) Ehitist võib kasutada ainult kasutusloas näidatud otstarbel.\n(6) Ehitise või mõne tema osa kasutamise otstarbe muutmiseks, kui see ei too kaasa ehitustöid, tuleb kohalikult omavalitsuselt hankida uus kasutusluba.\n(7) Ehitis kantakse ehitiste kohta peetavasse registrisse pärast kasutusloa saamist."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "9. peatükk - EHITISE OMANIKU JA EHITUSETTEVÕTJA KOHUSTUSED",
+      "section": "59",
+      "title": "§ 59. Ehitise omaniku kohustused",
+      "content": "Ehitise omanik on kohustatud:\n1) tagama temale kuuluva ehitise ning selle juurde kuuluva krundi korrashoiu ja ohutuse ehituse ajal, ehitise kasutamisel ja selle lammutamisel;\n2) ehitustööde alustamisel krundile välja panema kogu ehituse ajaks plakati informatsiooniga ehitise omaniku, ehitusettevõtja, ehitusloa, ehituse lõpetamise tähtaja ja ehitise otstarbe kohta;\n3) tagama ehitustööde kontrollimiseks järelevalveinseneri ja teiste valdkondade järelevalve teostajate juurdepääsu ehitisele ja ehitisega seotud dokumentatsioonile;\n4) tagama omanikujärelevalve ehitamise üle;\n5) tagama ehitise kasutusloakohase kasutamise."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "9. peatükk - EHITISE OMANIKU JA EHITUSETTEVÕTJA KOHUSTUSED",
+      "section": "60",
+      "title": "§ 60. Omanikujärelevalve",
+      "content": "(1) Pideva järelevalve korraldamine ehitusloa saanud ehitusel on ehitise omaniku kohustus.\n(2) Omanikujärelevalve teostaja määratakse ehitise omaniku ja kohaliku omavalitsuse kokkuleppel.\n(3) Omanikujärelevalvet võib teostada ehitise projekteerija või litsenseeritud järelevalveinsener.\n(4) Ehituslikult lihtsa ja väikese ehitise ehitamisel võib omanikujärelevalvet teostada selle omanik.\n(5) Omanikujärelevalve kord sätestatakse Vabariigi Valitsuse kehtestatud korras."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "9. peatükk - EHITISE OMANIKU JA EHITUSETTEVÕTJA KOHUSTUSED",
+      "section": "61",
+      "title": "§ 61. Omavolilise ehitise likvideerimine",
+      "content": "(1) Ehitise omanik on kohustatud kohaliku omavalitsuse ettekirjutusel omavolilise ehitise likvideerima.\n(2) Käesoleva paragrahvi 1. lõikes nimetatud ettekirjutuse täitmata jätmisel võib kohalik omavalitsus rakendada asendustäitmist asendustäitmise ja sunniraha seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "9. peatükk - EHITISE OMANIKU JA EHITUSETTEVÕTJA KOHUSTUSED",
+      "section": "62",
+      "title": "§ 62. Ajutise ehitise likvideerimine",
+      "content": "(1) Ajutise ehitise likvideerimisel on ehitise omanik kohustatud tagama ehitise püstitamise eelse olukorra taastamise ning ehitisega seotud maa-ala heakorrastamise vastavalt kohaliku omavalitsuse esitatud nõuetele.\n(2) Kui ehitise omanik ei lammuta ajutist ehitist ehitusloas ja kasutusloas näidatud tähtajaks, võib kohalik omavalitsus teha ehitise omanikule ettekirjutuse käesoleva paragrahvi 1. lõikes nimetatud kohustuste täitmiseks.\n(3) Käesoleva paragrahvi 2. lõikes nimetatud ettekirjutuse täitmata jätmisel võib kohalik omavalitsus ehitise lammutamiseks ja ehitisega seotud maa-ala heakorrastamiseks rakendada asendustäitmist asendustäitmise ja sunniraha seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "9. peatükk - EHITISE OMANIKU JA EHITUSETTEVÕTJA KOHUSTUSED",
+      "section": "63",
+      "title": "§ 63. Ehitusjärelevalve nõuete täitmise kohustuslikkus",
+      "content": "(1) Kui ehitusjärelevalveinsener on tuvastanud, et ehitus ei ole projektikohane või ehitist ei kasutata kasutusloa kohaselt või ei ole täidetud ehitusnormide nõudeid, peab ehitise omanik tagama järelevalveinseneri ettekirjutuste täitmise määratud tähtajaks.\n(2) Kui ehitise omanik järelevalveinseneri ettekirjutusi ei täida, võib kohalik omavalitsus peatada või tühistada ehitusloa või kasutusloa. Kohalik omavalitsus ennistab ehitusloa või kasutusloa pärast järelevalveinseneri ettekirjutuste täitmist."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "9. peatükk - EHITISE OMANIKU JA EHITUSETTEVÕTJA KOHUSTUSED",
+      "section": "64",
+      "title": "§ 64. Ehitusettevõtja kohustused",
+      "content": "(1) Ehitusettevõtja on kohustatud tagama:\n1) ehitamise käigu dokumenteerimise;\n2) projektikohase ehitamise;\n3) standarditele ja tehnilistele nõuetele vastavate ehitusmaterjalide ja -toodete kasutamise;\n4) ehitustööde kvaliteedi;\n5) ehitise ja ehitusplatsi korrashoiu ja ohutuse.\n(2) Ehitusettevõtja on kohustatud hüvitama tema süül ehitise omanikule tekitatud kahju.\n(3) Ehitusettevõtja ja ehitise omaniku õigused ja kohustused, ehitise valmimise ja omanikule üleandmise kord ning ehitustööde vastutavad juhid määratakse ehituse tööettevõtulepinguga. Tööettevõtulepingule esitatavad nõuded sätestatakse Vabariigi Valitsuse kehtestatud korras."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "9. peatükk - EHITISE OMANIKU JA EHITUSETTEVÕTJA KOHUSTUSED",
+      "section": "65",
+      "title": "§ 65. Avariiohtlik ehitis",
+      "content": "(1) Kui ehitis on muutunud avariiohtlikuks, peab omanik või ehitusettevõtja kohe kõrvaldama avariiohu.\n(2) Kui ehitise omanik või ehitusettevõtja ei ole kõrvaldanud avariiohtu, võib kohalik omavalitsus teha ehitise omanikule või ehitusettevõtjale ettekirjutuse avariiohu kõrvaldamiseks.\n(3) Käesoleva paragrahvi 2. lõikes nimetatud ettekirjutuse täitmata jätmisel võib kohalik omavalitsus rakendada asendustäitmist asendustäitmise ja sunniraha seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "9. peatükk - EHITISE OMANIKU JA EHITUSETTEVÕTJA KOHUSTUSED",
+      "section": "66",
+      "title": "§ 66. Ehitise garantiiaeg",
+      "content": "(1) Kasutusloa saanud ehitisel on vähemalt kaheaastane garantiiaeg.\n(2) Garantiiajal ilmsiks tulnud ehitusvead kõrvaldab ehitaja omal kulul ehitise omanikuga kokkulepitud tähtajaks.\n(3) Garantiiajal ilmsiks tulnud projekteerimisvigadest informeerib ehitise omanik projekteerijat, kes korraldab projekteerimisest tingitud vigade kõrvaldamise omal kulul ehitise omanikuga kokkulepitud tähtajaks või lepib ehitise omanikuga kokku vigade kõrvaldamise teistsuguses korraldamises.\n(4) Kui projekteerimis- või ehitusvead ei ole kõrvaldatud kokkulepitud tähtajaks või tähtaja suhtes kokkulepet ei saavutatud, kõrvaldatakse need ehitaja või projekteerija kulul."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "10. peatükk - VASTUTUS SEADUSE RIKKUMISE EEST",
+      "section": "67",
+      "title": "§ 67. Vastutus seaduse rikkumise eest",
+      "content": "Käesoleva seaduse rikkumine toob kaasa Eesti Vabariigi õigusaktides ettenähtud kriminaal-, haldus-, tsiviil- või distsiplinaarvastutuse."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "68",
+      "title": "§ 68. Seni kehtivate planeeringute ülevaatamine",
+      "content": "(1) Käesoleva seaduse jõustumisel jäävad kehtima kuni käesoleva paragrahvi 2. lõikes nõutud ülevaatuse tulemuste kohta otsuse tegemiseni enne käesoleva seaduse jõustumist kehtinud rajooniplaneerimise skeemid ja projektid, linnade ja alevite generaalplaanid, detailplaneerimise projektid, linnade tööstusrajoonide planeerimisprojektid, ettevõtete gruppide generaalplaani skeemid, maa-asulate planeerimise ja hoonestamise projektid ning muud planeerimisprojektid.\n(2) Käesoleva paragrahvi 1. lõikes nimetatud skeemid, plaanid ja projektid tuleb vaadata üle kuue kuu jooksul pärast seaduse jõustumist ning määrata nende kehtivus, muutmine või tühistamine, arvestades käesoleva seaduse nõudeid.\n(3) Skeemid, plaanid ja projektid vaatab üle:\n1) Keskkonnaministeerium - üleriigilised planeeringuskeemid ja -projektid;\n2) maavalitsus - rajooniplaneerimise skeemid ja projektid;\n3) kohalik omavalitsus - kohaliku omavalitsuse territooriumi käsitlevad skeemid, plaanid ja projektid.\n(4) Kohalik omavalitsus esitab ülevaatuse tulemused maavalitsusele hiljemalt seitse kuud pärast käesoleva seaduse jõustumist.\n(5) Maavanem esitab ülevaatuse tulemused Keskkonnaministeeriumile hiljemalt üheksa kuud pärast käesoleva seaduse jõustumist.\n(6) Keskkonnaminister esitab ülevaate planeerimisalasest olukorrast riigis Vabariigi Valitsusele hiljemalt üks aasta pärast käesoleva seaduse jõustumist."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "69",
+      "title": "§ 69. Maakonnaplaneeringute koostamise kohustus",
+      "content": "Maavalitsused on kohustatud tagama maakonnaplaneeringute koostamise kolme aasta jooksul pärast käesoleva seaduse jõustumist."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "70",
+      "title": "§ 70. Seaduse kohaldamine ehitise kui vallasasja suhtes",
+      "content": "(1) Käesoleva seaduse sätteid kohaldatakse ka ehitise kui vallasasja ning selle omaniku või valdaja suhtes.\n(2) Ehitusluba ja projekteerimistingimusi võib välja anda ka enne 1991. aasta 1. novembrit tekkinud maakasutusõiguse alusel, kui sellega ei rikuta maareformi õigustatud subjekti õigusi.\n(3) Enne käesoleva seaduse jõustumist püstitatud omavolilisele ehitisele võib anda kasutusloa pärast ehitise ülesmõõtmisprojekti koostamist, ehitise ülevaatamist ja ehitise ülevaatamisel leitud puuduste kõrvaldamist. Kõik kasutusloa andmisega seotud kulud kannab omavolilise ehitise omanik. Kohalik omavalitsus võib ehitusnormide ja käesoleva seaduse paragrahvis 43 ehitisele esitatavate nõuete rikkumise korral nõuda omavolilise ehitise likvideerimist käesoleva seaduse paragrahviga 61 kehtestatud korras.\n(4) Käesolevas seaduses sätestatud kinnisasja omaniku õigused planeeringu läbiviimisel laienevad ka enne 1991. aasta 1. novembrit tekkinud maakasutusõiguse omajale."
+    },
+    {
+      "provision_ref": "para70^1",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "70^1",
+      "title": "§ 70^1. Tegevusloa kehtivus",
+      "content": "Ettevõtja, kellele on majandusministri poolt ehitusalaseks ettevõtluseks väljastatud tegevusluba, mille kehtivuse tähtaeg lõpeb pärast 2002. aasta 1. oktoobrit, kuid enne 2002. aasta 31. detsembrit, võib tegevusloa alusel tegutseda 2002. aasta 31. detsembrini."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "71",
+      "title": "§ 71.",
+      "content": "[Käesolevast tekstist välja jäetud]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ehitus",
+      "definition": "ja hooneregistri informeerimine ehitusloa ja kasutusloa väljaandmisest",
+      "source_provision": "para50"
+    }
+  ]
+}

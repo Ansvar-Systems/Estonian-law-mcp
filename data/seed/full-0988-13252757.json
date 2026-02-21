@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-13252757",
+  "type": "statute",
+  "title": "Piirivalveteenistuse seadus",
+  "title_en": "Piirivalveteenistuse seadus",
+  "short_name": "PVTS",
+  "status": "in_force",
+  "issued_date": "2007-02-14",
+  "in_force_date": "2010-01-01",
+  "url": "https://www.riigiteataja.ee/akt/13252757.xml",
+  "description": "Official consolidated statute text (Piirivalveteenistuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Kehtetu – RT I 2009, 62, 405 – jõust. 1.01.2010"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-27141",
+  "type": "statute",
+  "title": "Vara merepääste 1989. aasta rahvusvahelise konventsiooniga ühinemise seadus",
+  "title_en": "Vara merepääste 1989. aasta rahvusvahelise konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-27141",
+  "status": "in_force",
+  "issued_date": "2001-06-13",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/27141.xml",
+  "description": "Official consolidated statute text (Vara merepääste 1989. aasta rahvusvahelise konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud vara merepääste 1989. aasta rahvusvahelise konventsiooniga (edaspidi konventsioon ), mis on koostatud 1989. aasta 28. aprillil Londonis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Konventsiooni artikli 4 lõike 1 alusel kohaldab Eesti Vabariik konventsiooni sõjalaeva ja riigile kuuluva või riigi käsutuses oleva muu laeva suhtes, millele rahvusvahelise õiguse üldtunnustatud põhimõtete järgi on päästeoperatsiooni ajaks antud riiklik puutumatus."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Konventsiooni artikli 30 lõike 1 alusel reserveerib Eesti Vabariik endale õiguse loobuda konventsiooni kohaldamisest, kui:"
+    }
+  ],
+  "definitions": []
+}

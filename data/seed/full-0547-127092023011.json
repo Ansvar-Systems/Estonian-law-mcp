@@ -1,0 +1,428 @@
+{
+  "id": "ee-law-127092023011",
+  "type": "statute",
+  "title": "Geograafilise tähise kaitse seadus",
+  "title_en": "Geograafilise tähise kaitse seadus",
+  "short_name": "GTKS",
+  "status": "in_force",
+  "issued_date": "1999-12-15",
+  "in_force_date": "2023-08-31",
+  "url": "https://www.riigiteataja.ee/akt/127092023011.xml",
+  "description": "Official consolidated statute text (Geograafilise tähise kaitse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus reguleerib loodusliku, põllumajandusliku, käsitööndusliku või tööstusliku päritoluga kaupade ja teenuste tähistamiseks kasutatavate geograafiliste tähiste õiguskaitset, välja arvatud Euroopa Liidu tasandil kaitstavate põllumajandustoodete, toiduainete ja alkohoolsete jookide geograafilisi tähiseid ja päritolunimetusi.\n(2) Euroopa Parlamendi ja nõukogu määruses (EL) nr 1151/2012 põllumajandustoodete ja toidu kvaliteedikavade kohta (ELT L 343, 14.12.2012, lk 1–29) sätestatud siseriiklikke toiminguid ning Euroopa Liidu tasandil kaitstavate alkohoolsete jookide geograafiliste tähiste ja päritolunimetuste osas ettenähtud siseriiklikke toiminguid teeb Regionaal- ja Põllumajandusministeerium."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Eesti Vabariigi ja välisriigi isiku õiguste ja kohustuste võrdsus",
+      "content": "Geograafilise tähise õiguskaitset käsitlevates õigusaktides ettenähtud õigused ja kohustused kehtivad, arvestades käesolevas seaduses sätestatud piiranguid, võrdselt Eesti Vabariigi ja välisriigi isiku (edaspidi isik ) suhtes."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Geograafiline tähis ja geograafiline ala",
+      "content": "(1) Geograafiline tähis on:\n1) geograafilise ala nimi või vihje sellele alale, mis näitab kauba või teenuse kindlat geograafilist päritolu, kui selliselt tähistatud kauba või teenuse konkreetne omadus, maine või muu tunnus on olulisel määral seostatav geograafilise alaga, kus kaupa toodetakse, töödeldakse või müügiks ette valmistatakse või kus teenust osutatakse;\n2) muu sõna, sõnaühend või sümbol, mis on pikaajalise ja pideva kasutamise tulemusena muutunud olulisel määral seotuks geograafilise alaga, kus kaupa toodetakse, töödeldakse või müügiks ette valmistatakse või kus teenust osutatakse.\n(2) Geograafiline ala käesoleva seaduse tähenduses on riigi territoorium, selle teatud piirkond või koht. Geograafiline ala ei pea kokku langema samanimelise haldusüksuse või asustusüksusega. Geograafilise ala nimi geograafilise tähisena ei pea vastama selle geograafilise ala praegusele ametlikule nimele."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Geograafilise tähise vorm",
+      "content": "(1) Geograafiline tähis võib vormilt olla sõnaline või kujunduslik.\n(2) Sõnalises vormis geograafiline tähis võib olla sõna või sõnaühend, mis on geograafilise ala nimi, sisaldab seda nime või viitab sellele.\n(3) Kujunduslikus vormis geograafiline tähis võib olla geograafilise ala kartograafiline kujund või sümbol, mis viitab kindlale geograafilisele alale."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - GEOGRAAFILISE TÄHISE ÕIGUSKAITSE ALUSED",
+      "section": "5",
+      "title": "§ 5. Geograafilise tähise õiguskaitse tagamine",
+      "content": "(1) Geograafilise tähise õiguskaitse antakse geograafilise tähise registreerimisega riiklikus geograafiliste tähiste registris (edaspidi register ) käesolevas seaduses sätestatud korras.\n(2) Geograafilise tähise õiguskaitse tagatakse riikliku järelevalvega (edaspidi järelevalve ) ja riikliku sunni kohaldamisega käesolevas seaduses ettenähtud alustel ja korras."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - GEOGRAAFILISE TÄHISE ÕIGUSKAITSE ALUSED",
+      "section": "6",
+      "title": "§ 6. Geograafilise tähise õiguskaitse ulatus",
+      "content": "Geograafilise tähise õiguskaitse ulatus määratakse geograafilise tähise registreeringu (edaspidi registreering ) andmetega."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - GEOGRAAFILISE TÄHISE ÕIGUSKAITSE ALUSED",
+      "section": "7",
+      "title": "§ 7. Geograafilise tähise õiguskaitse kestus",
+      "content": "Geograafilise tähise õiguskaitse on tähtajatu."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - GEOGRAAFILISE TÄHISE ÕIGUSKAITSE ALUSED",
+      "section": "8",
+      "title": "§ 8. Geograafilise tähisena mittekaitstav tähis",
+      "content": "Õiguskaitset ei tagata tähisele, mis:\n1) eksitab avalikkust kauba või teenuse geograafilise päritolu suhtes;\n2) tähistab kaupa või teenust, mille konkreetne omadus, maine või muu iseloomulik tunnus ei ole olulisel määral seostatav kauba või teenuse geograafilise päritoluga;\n3) vaatamata kauba või teenuse tegeliku geograafilise päritolu tõepärasele kajastamisele võib tekitada avalikkuses vale arusaama, et kaup või teenus pärineb teiselt geograafiliselt alalt;\n4) on vastuolus avaliku korra või heade tavadega;\n5) on algse geograafilise päritolu tähenduse kaotanud ja muutunud kauba või teenuse üldnimeks ja on kasutusel kauba või teenuse liigi, kvaliteedi, sordi või muude omaduste või tunnuste tähistamiseks;\n6) sisaldab loomatõu või taimesordi nime või on sellega eksitavalt sarnane;\n7) ei ole saanud õiguskaitset oma päritoluriigis või mille õiguskaitse on seal lõpetatud või mille kasutamisest on seal loobutud."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - GEOGRAAFILISE TÄHISE ÕIGUSKAITSE ALUSED",
+      "section": "9",
+      "title": "§ 9. Õigus taotleda geograafilise tähise registreerimist",
+      "content": "(1) Geograafilise tähise registreerimise taotlemise õigus on:\n1) isikul, kes tegutseb tähisega tähistatava kauba tootjana, töötlejana või müügiks ettevalmistajana või teenuse osutajana tähises näidatud geograafilisel alal;\n2) tarbijate või käesoleva lõike punktis 1 nimetatud isikute ühendusel, sõltumata selle asukohast ja juriidilisest vormist;\n3) kauba või teenuse päritoluriigi pädeval ametiasutusel.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud isik võib taotleda ainult sellise tähise registreerimist, mis vastab geograafilisele tähisele esitatud nõuetele ja on kooskõlas käesoleva seaduse §-s 4 sätestatuga ega ole §-s 8 sätestatu järgi mittekaitstav.\n(3) Geograafilise tähise registreerimise taotlemiseks pädevate Eesti ametiasutuste loetelu kinnitab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - GEOGRAAFILISE TÄHISE ÕIGUSKAITSE ALUSED",
+      "section": "10",
+      "title": "§ 10. Geograafilise tähise kasutaja",
+      "content": "Registreeritud geograafilist tähist võib kauba või teenuse tähistamiseks kasutada isik, kes tegutseb registreeringus märgitud kauba tootja, töötleja või müügiks ettevalmistajana või teenuse osutajana registreeringus märgitud geograafilisel alal ja kelle kaubal või teenusel on kõik registreeringus märgitud omadused, maine või muud iseloomulikud tunnused."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - GEOGRAAFILISE TÄHISE ÕIGUSKAITSE ALUSED",
+      "section": "11",
+      "title": "§ 11. Geograafilise tähise õigusvastane kasutamine",
+      "content": "(1) Keelatud on:\n1) geograafilise tähise või sellega eksitavalt sarnase tähise kasutamine kauba või teenuse tähistamiseks isikul, kes ei tegutse registreeringus märgitud kauba tootja, töötleja või müügiks ettevalmistajana ega teenuse osutajana registreeringus märgitud geograafilisel alal;\n2) geograafilise tähise või sellega eksitavalt sarnase tähise kasutamine kauba või teenuse tähistamiseks, kui kaubal või teenusel puudub kas või üks registreeringus märgitud omadus, maine või muu iseloomulik tunnus;\n3) geograafilise tähise või sellega eksitavalt sarnase tähise kasutamine kauba või teenuse tähistamiseks, mida registreering ei hõlma, kuid mis on registreeringuga hõlmatud kauba või teenusega samaliigiline;\n4) geograafilise tähise või sellega eksitavalt sarnase tähise kasutamine muu kauba või teenuse tähistamiseks, kui see võib kaasa tuua kaitstud geograafilise tähise maine pahauskse ärakasutamise;\n5) eksitava teabe kasutamine kauba või teenuse päritolu, olemuse või põhiomaduste kohta kauba või teenuse sise- või välispakendil, reklaammaterjalis või sellega seotud dokumentides;\n6) sellise tähise kasutamine, mis, vaatamata kauba või teenuse tegeliku geograafilise päritolu tõepärasele kajastamisele, võib tekitada avalikkuses vale arusaama, et kaup või teenus pärineb teiselt alalt, isegi juhul, kui tegelik päritolu on näidatud;\n7) teised toimingud, mis võivad avalikkust kauba või teenuse tegeliku päritolu suhtes eksitada.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud keeld ei laiene oma ärinime kasutamisele äritegevuses, välja arvatud juhud, kui seda nime kasutatakse avalikkust eksitaval viisil.\n(3) Kauplemine kaubaga, mis on õigusvastaselt tähistatud registreeritud geograafilise tähisega, on keelatud, sõltumata sellest, kas vahendajat, müüjat või tarbijat kauba vastavast eripärast teavitatakse. See ei mõjuta kauba võõrandamiseks tehtud tehingu kehtivust."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - GEOGRAAFILISE TÄHISE ÕIGUSKAITSE ALUSED",
+      "section": "12",
+      "title": "§ 12. Geograafilist tähist sisaldava kaubamärgi varemkasutamisõigus",
+      "content": "(1) Kaubamärki, mis on heauskselt registreerimiseks esitatud või heauskselt registreeritud kas enne käesoleva seaduse jõustumise kuupäeva või enne, kui geograafiline tähis on oma päritoluriigis kaitse saanud, ei saa kehtetuks tunnistada, selle registreerimisest ei saa keelduda või selle kasutamist keelata põhjusel, et kaubamärk sisaldab registreeritud geograafilist tähist või on sellega eksitavalt sarnane, kui käesolev seadus ei sätesta teisiti.\n(2) Kaubamärgi registreerimiseks esitamine või registreerimine on heauskne, kui seda teinud isik ei teadnud ega pidanudki teadma, et tegemist on tähisega, mis näitab, et kaup või teenus on pärit kindlalt geograafiliselt alalt, kui kauba või teenuse konkreetne omadus, maine või muu iseloomulik tunnus on olulisel määral seostatav kauba või teenuse geograafilise päritoluga."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - GEOGRAAFILISE TÄHISE ÕIGUSKAITSE ALUSED",
+      "section": "13",
+      "title": "§ 13. Hoiatustähis",
+      "content": "Registreeritud geograafilise tähise kasutaja võib sellele lisada hoiatustähise «Registreeritud geograafiline tähis» või lühendi «G»."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - ALKOHOOLSE JOOGI GEOGRAAFILISTE TÄHISTE ÕIGUSKAITSE ERISUSED",
+      "section": "14",
+      "title": "§ 14. Veinide homonüümsed geograafilised tähised",
+      "content": "(1) Veinide homonüümsed geograafilised tähised (edaspidi homonüümsed tähised ) käesoleva seaduse tähenduses on identsed või eksitavalt sarnased sõnalised või kujunduslikud tähised, mida kasutatakse erinevate veinide tähistamiseks.\n(2) Sõnalises vormis homonüümsetel tähistel võib olla:\n1) sama hääldus ja sama kirjapilt;\n2) sama hääldus, kuid erinev kirjapilt;\n3) erinev hääldus, kuid sama kirjapilt."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - ALKOHOOLSE JOOGI GEOGRAAFILISTE TÄHISTE ÕIGUSKAITSE ERISUSED",
+      "section": "15",
+      "title": "§ 15. Homonüümsete tähiste eristamise kriteeriumid",
+      "content": "Homonüümsete tähiste üksteisest eristamisel arvestatakse vaidlustamise korral:\n1) eristava teabe olemasolu ja piisavust homonüümse tähisega veini etiketil;\n2) homonüümse tähise ametlikku tunnustamist selle päritoluriigis;\n3) homonüümse tähise kasutamise kestust;\n4) homonüümse tähise kasutamise heausksust."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - ALKOHOOLSE JOOGI GEOGRAAFILISTE TÄHISTE ÕIGUSKAITSE ERISUSED",
+      "section": "16",
+      "title": "§ 16. Homonüümsete tähiste õiguskaitse tagamine",
+      "content": "Õiguskaitse antakse igale homonüümsele tähisele eraldi."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - ALKOHOOLSE JOOGI GEOGRAAFILISTE TÄHISTE ÕIGUSKAITSE ERISUSED",
+      "section": "17",
+      "title": "§ 17. Homonüümse tähise kasutamise eritingimus",
+      "content": "Homonüümse tähise kasutaja on kohustatud kandma veinietiketile teabe, mis on piisav ühe homonüümse tähise eristamiseks teisest eesmärgiga mitte eksitada tarbijat."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - ALKOHOOLSE JOOGI GEOGRAAFILISTE TÄHISTE ÕIGUSKAITSE ERISUSED",
+      "section": "18",
+      "title": "§ 18. Registreeritud geograafilise tähise õigusvastane kasutamine alkohoolse joogi tähistamisel",
+      "content": "Lisaks käesoleva seaduse § 11 lõigetes 1 ja 3 sätestatule on keelatud kasutada registreeritud geograafilist tähist sellise alkohoolse joogi tähistamiseks, mis ei pärine selle geograafilise tähisega osutatud geograafiliselt alalt, kaasa arvatud juhud, kui alkohoolse joogi tegelik päritolu on näidatud, kui geograafilist tähist kasutatakse tõlgitult või kui sellega kaasnevad väljendid «liik», «tüüp», «stiil», «imitatsioon» või muu seesugune."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - ALKOHOOLSE JOOGI GEOGRAAFILISTE TÄHISTE ÕIGUSKAITSE ERISUSED",
+      "section": "19",
+      "title": "§ 19. Alkohoolse joogi geograafilise päritolu suhtes eksitav geograafiline tähis registreeritud kaubamärgi koosseisus",
+      "content": "Asjast huvitatud isik võib nõuda alkohoolse joogi tähistamiseks enne käesoleva seaduse jõustumise kuupäeva registreeritud kaubamärgi kehtetuks tunnistamist, kui kaubamärk sisaldab registreeritud geograafilist tähist või on sellega eksitavalt sarnane ja sellega tähistatav alkohoolne jook ei pärine selle geograafilise tähisega osutatud geograafiliselt alalt."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - ALKOHOOLSE JOOGI GEOGRAAFILISTE TÄHISTE ÕIGUSKAITSE ERISUSED",
+      "section": "20",
+      "title": "§ 20. Alkohoolse joogi geograafilise tähise varemkasutamisõigus",
+      "content": "Eesti kodanik või isik, kelle alaline elu- või asukoht on Eestis ja kes on alkohoolse joogi tähistamiseks registreeritud geograafilist tähist kasutanud kas pidevalt ja heauskselt enne 1994. aasta 15. aprilli või pidevalt vähemalt 10 aasta jooksul enne seda kuupäeva, võib pärast tähise registreerimist jätkata tähise kasutamist identsete või samaliigiliste kaupade või teenuste tähistamiseks endises mahus."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "21",
+      "title": "§ 21. Register",
+      "content": "(1) Registri asutab ja registri pidamise põhimääruse kinnitab Vabariigi Valitsus.\n(2) Registri vastutav töötleja on Patendiamet.\n(3) Geograafilise tähise registreerimise taotlust (edaspidi registreerimistaotlus ) menetleb ning otsuseid ja registrikandeid teeb Patendiamet.\n(4) Registrit peetakse eesti keeles. Võõrkeelsed dokumendid esitatakse registrile koos eestikeelse tõlkega."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "22",
+      "title": "§ 22. Registrikanne",
+      "content": "(1) Registrikanded on registreerimistaotluse menetluse kanne, registreeringu andmete kanne, registreeringu andmete muutmise kanne ja registreeringu kustutamise kanne.\n(2) Registrikanne jõustub selle tegemise päeval.\n(3) Registreeringu andmete kande, registreeringu andmete muutmise kande ja registreeringu kustutamise kande kohta avaldatakse teade Patendiameti ametlikus väljaandes.\n(4) Registreeringu andmete muutmise kande eest tasutakse riigilõivu."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "23",
+      "title": "§ 23. Registreering",
+      "content": "(1) Registreering tehakse geograafilise tähise registreerimise otsuse alusel.\n(2) Registreeringud nummerdatakse geograafiliste tähiste registreerimise järjekorras.\n(3) Registreering hakkab tagasiulatuvalt kehtima registreerimistaotluse esitamise kuupäevast.\n(4) Registreeringu andmed on:\n1) registreeringu number;\n2) registreeringu andmete kande tegemise kuupäev;\n3) geograafilise tähise reproduktsioon;\n4) kaupade ja teenuste loetelu, mille tähistamiseks geograafilist tähist kasutatakse;\n5) geograafilise ala määratlus;\n6) kirjeldus, mis näitab kauba või teenuse konkreetse omaduse, maine või muu iseloomuliku tunnuse seost kauba või teenuse geograafilise päritoluga ja määratleb geograafilise ala (edaspidi kirjeldus );\n7) kirjelduse lühikokkuvõte;\n8) andmed geograafilise tähise kaitstuse kohta selle päritoluriigis või andmed päritoluriigi pädeva ametiasutuse kohta, kes on tõendanud kauba või teenuse konkreetse omaduse, maine või muu iseloomuliku tunnuse seost kauba või teenuse geograafilise päritoluga, ning andmed päritoluriigi pädeva ametiasutuse kohta, kes on tõendanud geograafilise tähise registreerimise taotleja (edaspidi taotleja ) õigust taotleda geograafilise tähise registreerimist käesoleva seaduse § 9 lõikes 1 sätestatu järgi;\n9) taotleja nimi, tema elu- või asukoha aadress;\n10) taotleja esindaja nimi, kui taotlejal on esindaja;\n11) registreerimistaotluse number;\n12) registreerimistaotluse esitamise kuupäev."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "24",
+      "title": "§ 24. Registreerimistaotlus",
+      "content": "(1) Taotleja võib ühes registreerimistaotluses taotleda ainult ühe geograafilise tähise registreerimist.\n(2) Registreerimistaotlus peab koosnema järgmistest dokumentidest:\n1) geograafilise tähise registreerimise avaldus;\n2) kirjeldus;\n3) tõend geograafilise tähise kaitstuse kohta selle päritoluriigis või päritoluriigi pädeva ametiasutuse tõend, mis kinnitab kauba või teenuse konkreetse omaduse, maine või muu iseloomuliku tunnuse seost kauba või teenuse geograafilise päritoluga, ning päritoluriigi pädeva ametiasutuse tõend taotleja õiguse kohta taotleda geograafilise tähise registreerimist käesoleva seaduse § 9 lõikes 1 sätestatu järgi;\n4)\n5) volikiri, kui taotlejatel on ühine esindaja ja geograafilise tähise registreerimise avaldusele ei ole alla kirjutanud kõik taotlejad.\n(3) Käesoleva paragrahvi lõike 2 punktis 3 nimetatud tõendi väljastamiseks pädevate Eesti ametiasutuste loetelu ja tõendi väljastamise korra kinnitab Vabariigi Valitsus.\n(4) Registreerimistaotluse dokumentide vorminõuded ja esitamise korra kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "25",
+      "title": "§ 25. Geograafilise tähise registreerimise avaldus",
+      "content": "Geograafilise tähise registreerimise avalduses peab sisalduma:\n1) geograafilise tähise registreerimise sooviavaldus;\n2) geograafilise tähise reproduktsioon;\n3) taotleja nimi, elu- või asukoha aadress ja muud kontaktandmed;\n4) teave geograafilise tähise registreerimise taotlemise õiguse kohta käesoleva seaduse § 9 lõikes 1 sätestatu järgi;\n5) kirjelduse lühikokkuvõte, mis peab vastama kirjelduse sisule;\n6) taotleja esindaja nimi, kui taotlejal on esindaja;\n7) taotleja või tema esindaja allkiri."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "26",
+      "title": "§ 26. Kirjeldus",
+      "content": "(1) Kirjelduses peab sisalduma:\n1) kauba või teenuse nimi;\n2) kaupa iseloomustavad tunnused (füüsikaliste, keemiliste, mikrobioloogiliste, organoleptiliste või muude omaduste loetelu vastavalt kaubale);\n3) kauba valmistamise meetodit või teenust iseloomustavad tunnused;\n4) geograafilise ala määratlus;\n5) andmed, mis näitavad kauba või teenuse konkreetse omaduse, maine või muu iseloomuliku tunnuse seost geograafilise päritoluga.\n(2) Kirjelduses võivad sisalduda toorainet iseloomustavad tunnused, hoiatustähise kasutamise andmed ja muud andmed, mida taotleja peab vajalikuks esitada.\n(3) Kirjeldus peab andma täieliku ja täpse ettekujutuse kauba või teenuse konkreetse omaduse, maine või muu iseloomuliku tunnuse seosest kauba või teenuse geograafilise päritoluga.\n(4) Kui ühe ja sama geograafilise tähisega tähistatakse erinevate omadustega kaupu või teenuseid, esitatakse kirjeldus iga kauba või teenuse kohta eraldi."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "27",
+      "title": "§ 27. Registreerimistaotluse esitamine",
+      "content": "(1) Registreerimistaotlus esitatakse Patendiametile.\n(2)\n(3) Riigilõiv tasutakse ühe kuu jooksul registreerimistaotluse saabumise kuupäevast arvates.\n(4) Taotlejate ühisele esindajale antud volikiri esitatakse kahe kuu jooksul registreerimistaotluse saabumise kuupäevast arvates."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "28",
+      "title": "§ 28. Taotleja esindamine",
+      "content": "(1) Geograafilise tähise registreerimise ja registreeringu jõushoidmisega seotud toiminguid teostab taotleja või tema volitatud patendivolinik.\n(2) Kui taotleja elu- või asukoht on väljaspool Eesti Vabariiki, esitab registreerimistaotluse taotleja või patendivolinik. Registreerimistaotluse esitamisele järgnevaid geograafilise tähise registreerimise ja registreeringu jõushoidmisega seotud toiminguid teostab ainult taotleja volitatud patendivolinik.\n(3) Kui registreerimistaotluse esitavad ühiselt mitu taotlejat, peavad nad volitama järgnevate geograafilise tähise registreerimise ja registreeringu jõushoidmisega seotud toimingute teostamiseks patendivoliniku või valima enda hulgast esindaja (edaspidi ühine esindaja ), kelle elu- või asukoht on Eesti Vabariigis.\n(4) Volikirjas peab sisalduma:\n1) taotleja nimi ja elu- või asukoha aadress;\n2) patendivoliniku korral tema ees- ja perekonnanimi;\n3) ühise esindaja korral tema nimi ja elu- või asukoha aadress;\n4) volituse ulatus;\n5) edasivolitamise õigus, kui esindatav selle õiguse esindajale annab;\n6) volituse kehtivusaeg;\n7) esindatava allkiri;\n8) volikirja väljaandmise koht ja kuupäev.\n(5) Patendivoliniku puhul, kes esindajana teeb geograafilise tähise registreerimise ja registreeringu jõushoidmisega seotud toiminguid, eeldatakse esindusõiguse olemasolu. Esindusõiguse olemasolus kahtlemise korral on Patendiametil või tööstusomandi apellatsioonikomisjonil õigus nõuda patendivolinikult volikirja esitamist. Volikiri tuleb esitada kahe kuu jooksul nõude esitamisest arvates. Põhjendatud taotluse alusel võib Patendiamet pikendada volikirja esitamise tähtaega üks kord ühe kuu võrra.\n(6) Taotleja isiklikku osavõttu geograafilise tähise registreerimise ja registreeringu jõushoidmisega seotud toiminguga seotud menetlusest ei loeta esindajast loobumiseks, kui esindatav ei ole Patendiametile kirjalikult teatanud teisiti."
+    },
+    {
+      "provision_ref": "para28^1",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "28^1",
+      "title": "§ 28^1. Patendiameti teadete edastamine",
+      "content": "(1) Patendiamet edastab geograafilise tähise registreerimise ja registreeringu jõushoidmisega seotud toimingutega seonduvad teated taotleja või muu toimingu tegemist taotleva isiku esindajale, kui esindatav ei ole Patendiametile kirjalikult teatanud teisiti, ning esindaja puudumise korral isikule endale.\n(2) Käesoleva paragrahvi lõike 1 tähenduses loetakse esindajaks isik, kes on taotleja või muu toimingu tegemist taotleva isiku esindajana esitanud taotluse või avalduse või teinud Patendiameti menetluses muu toimingu või kes on kantud taotleja esindajana registrisse, kui esindatav ei ole Patendiametile kirjalikult teatanud teisiti.\n(3) Kui isikul on käesoleva paragrahvi lõike 2 tähenduses mitu esindajat, edastatakse teated viimati teatatud esindajale, eelistades samal kuupäeval teatatud esindajate korral patendivolinikust esindajat. Kui toiminguid ühiselt tegevatel isikutel on erinevad esindajad, edastatakse teated kõigile esindajatele.\n(4) Taotleja või muu isiku puhul, kes on taotluses või avalduses märkinud e-posti aadressi, ning patendivoliniku puhul eeldatakse nõusolekut sellega, et talle edastatakse geograafilise tähise registreerimise ja registreeringu jõushoidmisega seotud toiminguga seonduvad teated elektrooniliselt, kui isik ei ole Patendiametile kirjalikult teatanud teisiti."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "29",
+      "title": "§ 29. Saabumismärge",
+      "content": "(1) Registreerimistaotluse igale dokumendile tehakse saabumismärge, milles sisaldub registreerimistaotluse saabumise kuupäev ja registreerimistaotluse järjekorranumber (edaspidi registreerimistaotluse number ).\n(2)"
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "30",
+      "title": "§ 30. Registreerimistaotluse menetlusse võtmine",
+      "content": "(1) Registreerimistaotluse esitamise kuupäevaks loetakse selle saabumise kuupäev, kui esitatud on:\n1) geograafilise tähise registreerimise sooviavaldus;\n2) geograafilise tähise reproduktsioon;\n3) kaupade ja teenuste loetelu, mille tähistamiseks geograafilist tähist kasutatakse;\n4) geograafilise ala määratlus;\n5) taotleja nimi, elu- või asukoha aadress ja muud kontaktandmed.\n(2) Esitatud registreerimistaotlus võetakse menetlusse, kui tasutud on riigilõiv ja esitatud volikiri, kui see on nõutav."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "31",
+      "title": "§ 31. Registreerimistaotluse menetlusse võtmisest keeldumine",
+      "content": "Registreerimistaotluse menetlusse võtmisest keeldumise otsus tehakse ning registreerimistaotlus ja riigilõiv tagastatakse, kui:\n1) riigilõiv ei ole tasutud ühe kuu jooksul registreerimistaotluse saabumise kuupäevast arvates;\n2) volikiri on nõutav ja seda ei ole esitatud kahe kuu jooksul registreerimistaotluse saabumise kuupäevast või Patendiameti poolt vastava nõude esitamisest arvates.\n3)"
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "32",
+      "title": "§ 32. Registreerimistaotluse kontrollimine",
+      "content": "(1) Menetluse käigus ei kontrollita geograafilise tähise vastavust käesoleva seaduse § 8 punktides 1–3 ja 5–7 sätestatule ega registreerimistaotluses esitatud faktide õigsust.\n(2) Registreerimistaotluse dokumentide vormi ja sisu puuduste või muude menetlust takistavate asjaolude ilmnemisel teatatakse nendest taotlejale kirjalikult ning määratakse puuduste kõrvaldamiseks või asjakohaste selgituste andmiseks kahekuuline tähtaeg.\n(3) Taotleja avalduse alusel pikendatakse registreerimistaotluse puuduste kõrvaldamise või selgituste andmise tähtaega kuue kuuni käesoleva paragrahvi lõikes 2 nimetatud tähtaja algusest arvates. Avaldus peab olema esitatud ja riigilõiv tasutud enne käesoleva paragrahvi lõikes 2 määratud tähtaja lõppemist."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "33",
+      "title": "§ 33. Registreerimistaotluse parandamine ja täiendamine",
+      "content": "Taotleja võib menetluse jooksul teha registreerimistaotluses parandusi ja täiendusi, mis ei muuda registreerimistaotluse esitamise kuupäeval selles esitatud geograafilise tähise reproduktsiooni ega laienda selles antud geograafilise piirkonna määratlust, kaupade ega teenuste loetelu."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "34",
+      "title": "§ 34. Registreerimistaotluse tagasivõtmine",
+      "content": "(1) Taotleja võib registreerimistaotluse menetluse jooksul tagasi võtta, esitades sellekohase kirjaliku avalduse. Registreerimistaotlus loetakse tagasivõetuks avalduse Patendiametisse saabumisel.\n(2) Registreerimistaotlus loetakse tagasivõetuks, kui taotleja ei ole käesoleva seaduse § 32 lõigete 2 ja 3 kohaselt määratud tähtaja lõpuks kõrvaldanud registreerimistaotluse puudusi või andnud asjakohaseid selgitusi."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "35",
+      "title": "§ 35. Menetluse lõpetamine",
+      "content": "Kui registreerimistaotlus on tagasi võetud või tagasivõetuks loetud, tehakse menetluse lõpetamise otsus."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "36",
+      "title": "§ 36. Menetluse taastamine",
+      "content": "Lõpetatud menetlus taastatakse tööstusomandi apellatsioonikomisjoni (edaspidi apellatsioonikomisjon ) otsuse või kohtuotsuse alusel."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "37",
+      "title": "§ 37. Geograafilise tähise registreerimise otsus",
+      "content": "Kui registreerimistaotlus vastab käesoleva seaduse §-des 4, 24 ja 25 ning § 26 lõigetes 1 ja 4 sätestatud nõuetele ega ole vastuolus avaliku korra või heade tavadega, tehakse viivitamata geograafilise tähise registreerimise otsus."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "38",
+      "title": "§ 38. Geograafilise tähise registreerimisest keeldumise otsus",
+      "content": "Kui registreerimistaotlus ei vasta kas või ühele käesoleva seaduse §-des 4, 24 ja 25 ning § 26 lõigetes 1 ja 4 sätestatud nõuetest või on vastuolus avaliku korra või heade tavadega, tehakse viivitamata geograafilise tähise registreerimisest keeldumise otsus."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "39",
+      "title": "§ 39. Otsus ja selle vaidlustamine",
+      "content": "(1) Käesoleva seaduse §-des 31, 35, 37 ja 38 nimetatud otsustes peab sisalduma:\n1) otsuse tegemise kuupäev;\n2) otsuse põhjendus;\n3) resolutsioon;\n4) selgitus otsuse vaidlustamise korra ja tähtaja kohta;\n5) otsuse teinud ametniku nimi ja allkiri.\n(2) Käesoleva seaduse §-des 31, 35, 37 ja 38 nimetatud otsused jõustuvad nende tegemise päeval.\n(3) Käesoleva seaduse §-des 31, 35, 37 ja 38 nimetatud otsustest teatatakse taotlejale kirjalikult.\n(4) Käesoleva seaduse §-des 31, 35, 37 ja 38 nimetatud otsuseid võib taotleja vaidlustada apellatsioonikomisjonis kahe kuu jooksul otsuse tegemise päevast arvates."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "40",
+      "title": "§ 40. Registri avalikkus ja teabe väljastamine",
+      "content": "(1) Menetluse käigus on lubatud väljastada teavet ainult registreerimistaotluse numbri, esitamise kuupäeva, geograafilise tähise reproduktsiooni, geograafilise ala määratluse, kaupade või teenuste loetelu, taotleja nime ja taotleja esindaja nime kohta.\n(2) Pärast geograafilise tähise registreerimise otsuse tegemist on geograafilise tähise kohta registris olevad andmed ja dokumendid avalikud.\n(3) Registrist teabe väljastamise eest tasutakse riigilõivu, välja arvatud teabe väljastamine järelevalveasutusele, apellatsioonikomisjonile või kohtule."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "41",
+      "title": "§ 41. Geograafilise tähise registreerimise tunnistus",
+      "content": "(1) Geograafilise tähise registreerimise tunnistus (edaspidi tunnistus ) on dokument, mis tõendab registreeringut.\n(2) Tunnistus antakse välja Eesti Vabariigi nimel.\n(3) Tunnistuse numbriks on registreeringu number.\n(4) Tunnistuse vorminõuded ja vormistamise korra kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "4. peatükk - GEOGRAAFILISE TÄHISE REGISTREERIMINE",
+      "section": "42",
+      "title": "§ 42. Tunnistuse väljaandmine",
+      "content": "(1) Pärast registreeringu tegemist annab Patendiamet 10 tööpäeva jooksul taotlejale välja tunnistuse.\n(2)\n(3) Taotleja avalduse alusel väljastatakse talle elektroonilise tunnistuse ärakiri paberil. Ärakirja väljastamise eest tasutakse riigilõiv. Ärakiri väljastatakse ühe kuu jooksul avalduse esitamisest arvates, ent mitte enne nõutava riigilõivu tasumist.\n(4) Taotleja avalduse alusel võib talle välja anda tunnistuse duplikaadi. Duplikaadi väljastamise eest tasutakse riigilõiv. Duplikaat väljastatakse ühe kuu jooksul avalduse esitamisest arvates, ent mitte enne nõutava riigilõivu tasumist."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "5. peatükk - ÕIGUSTE VAIDLUSTAMINE JA KAITSE",
+      "section": "43",
+      "title": "§ 43. Registreeringu vaidlustamine",
+      "content": "(1) Asjast huvitatud isik või järelevalveasutus, kes leiab, et taotlejal ei olnud käesoleva seaduse § 9 lõikes 1 sätestatu järgi õigust esitada registreerimistaotlust, võib esitada apellatsioonikomisjonile registreeringu õigusvastaseks tunnistamise avalduse taotleja, tema pärija või õigusjärglase vastu.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud avalduse saab esitada ühe aasta jooksul registreeringu andmete kande teate avaldamise kuupäevast arvates.\n(3) Asjast huvitatud isik või järelevalveasutus, kes leiab, et taotlejal ei olnud käesoleva seaduse § 9 lõikes 2 sätestatu järgi õigust esitada registreerimistaotlust, võib esitada apellatsioonikomisjonile registreeringu õigusvastaseks tunnistamise avalduse taotleja, tema pärija või õigusjärglase vastu.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud avalduse saab esitada registreeringu kehtivusaja jooksul.\n(5) Asjast huvitatud isik, kes leiab, et registreering on vastuolus käesoleva seaduse §-s 4, 24 või 25 või § 26 lõikes 1 või 4 sätestatud nõuetega, avaliku korra või heade tavadega, võib esitada apellatsioonikomisjonile avalduse nõudega tunnistada registreering õigusvastaseks ning kohustada Patendiametit menetlust taastama ja uut otsust tegema.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud avalduse saab esitada kolme kuu jooksul registreeringu andmete kande teate avaldamise kuupäevast arvates.\n(6^1) Käesoleva paragrahvi lõikes 1, 3 või 5 nimetatud avalduse menetlusosaline, keda apellatsioonikomisjoni otsus ei rahulda, võib esitada tööstusomandi õiguskorralduse aluste seaduse § 64 lõikes 1 sätestatud tähtaja jooksul hagi teise menetlusosalise vastu registreeringu õigusvastaseks tunnistamiseks või selle aluseks oleva asjaolu puudumise kindlakstegemiseks.\n(7) Patendiamet teeb jõustunud apellatsioonikomisjoni või kohtu otsuse põhjal kande registrisse, kui käesoleva paragrahvi lõikes 1, 3 või 5 nimetatud isik esitab Patendiametile avalduse, millele on lisatud teave jõustunud otsuse kohta."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "5. peatükk - ÕIGUSTE VAIDLUSTAMINE JA KAITSE",
+      "section": "44",
+      "title": "§ 44. Registreeringu vaidlustamine registreeringu andmete muutmiseks",
+      "content": "(1) Asjast huvitatud isik või järelevalveasutus, kes leiab, et registreeringus olev kaupade või teenuste loetelu, geograafilise ala määratlus või kirjeldus on ebatäpne või ei ole piisav, võib esitada apellatsioonikomisjonile registreeringu andmete muutmise avalduse taotleja, tema pärija või õigusjärglase vastu.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud avalduse saab esitada registreeringu kehtivusaja jooksul.\n(2^1) Käesoleva paragrahvi lõikes 1 nimetatud avalduse menetlusosaline, keda apellatsioonikomisjoni otsus ei rahulda, võib esitada tööstusomandi õiguskorralduse aluste seaduse § 64 lõikes 1 sätestatud tähtaja jooksul hagi teise menetlusosalise vastu registreeringu andmete muutmiseks või selle aluseks oleva asjaolu puudumise kindlakstegemiseks.\n(3) Patendiamet teeb jõustunud apellatsioonikomisjoni või kohtu otsuse põhjal kande registrisse, kui käesoleva paragrahvi lõikes 1 nimetatud isik esitab Patendiametile avalduse, millele on lisatud teave jõustunud otsuse kohta."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "5. peatükk - ÕIGUSTE VAIDLUSTAMINE JA KAITSE",
+      "section": "45",
+      "title": "§ 45. Õiguskaitsevahendid registreeritud geograafilise tähise õigusvastase kasutamise korral",
+      "content": "Asjast huvitatud isik võib registreeritud geograafilise tähise õigusvastase kasutamise korral nõuda:\n1) registreeritud geograafilise tähise õigusvastase kasutamisega tekitatud kahju hüvitamist vastavalt võlaõigusseaduse §-le 1043;\n2) registreeritud geograafilise tähise õigusvastase kasutamise lõpetamist ja edasisest rikkumisest hoidumist vastavalt võlaõigusseaduse §-le 1055;\n3) registreeritud geograafilise tähise õigusvastase kasutamise teel saadu väljaandmist vastavalt võlaõigusseaduse §-dele 1037 ja 1039."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "5. peatükk - ÕIGUSTE VAIDLUSTAMINE JA KAITSE",
+      "section": "46",
+      "title": "§ 46. Geograafilise tähise alase vaidluse lahendamise erisused",
+      "content": "(1) Geograafilise tähise registreerimise, registreeringu kehtivuse ja registreeritud geograafilise tähise õigusvastase kasutamisega seotud kaebusi ja hagisid, hagi tagamise ja esialgse õiguskaitse taotlusi ning muid käesolevas seaduses nimetatud kaebusi ja hagisid vaatab läbi Harju Maakohus.\n(1^1)\n(2) Käesoleva seaduse § 43 lõigetes 1 ja 3 ning § 44 lõikes 1 nimetatud avalduse esitamisest teatab kohus ametlikus väljaandes Ametlikud Teadaanded ning määrab tähtaja, mille jooksul geograafilise tähise kasutajad võivad esitada kohtule avalduse protsessi astumiseks hageja või kostja poolel, kusjuures tähtaeg ei või olla lühem kui kaks kuud teate avaldamise kuupäevast arvates.\n(3) Kohus saadab Patendiametile teadmiseks geograafilise tähise kaitse alases vaidluses tehtud lahendi ärakirja ka siis, kui Patendiamet ei ole protsessis osalenud.\n(4) Isikul, kelle vastu on esitatud hagi käesoleva seaduse § 45 alusel, on õigus esitada vastuhagi § 43 lõikes 1, 3 või 5 või § 44 lõikes 1 nimetatud nõudes."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "5. peatükk - ÕIGUSTE VAIDLUSTAMINE JA KAITSE",
+      "section": "47",
+      "title": "§ 47. Esindaja geograafilise tähise alases kohtuvaidluses",
+      "content": "(1) Patendivolinik võib olla geograafilise tähise alases vaidluses esindajaks maakohtus ja ringkonnakohtus. Riigikohtus võib patendivolinik olla esindajaks koos vandeadvokaadiga.\n(2)\n(3) Geograafilise tähise õiguspärast kasutajat võib õiguste kaitsel esindada õigusvõimeline esindusorganisatsioon, mille liige ta on."
+    },
+    {
+      "provision_ref": "para47^1",
+      "chapter": "5. peatükk - RIIGILÕIV",
+      "section": "47^1",
+      "title": "§ 47^1. Riigilõiv",
+      "content": "Käesolevas seaduses ettenähtud juhtudel tasutakse registreerimistaotluse läbivaatamise, teabe väljastamise ja muude toimingute tegemise eest riigilõivu riigilõivuseaduses sätestatud määras."
+    },
+    {
+      "provision_ref": "para47^2",
+      "chapter": "5. peatükk - RIIGILÕIV",
+      "section": "47^2",
+      "title": "§ 47^2. Unikaalse viitenumbri teatamine",
+      "content": "Pärast registreerimistaotluse menetlusse võtmist või avalduse esitamist teatab Patendiamet taotlejale või avalduse esitajale unikaalse viitenumbri riigilõivu tasumiseks. Unikaalset viitenumbrit ei teatata, kui isik on riigilõivu juba tasunud."
+    },
+    {
+      "provision_ref": "para47^3",
+      "chapter": "5. peatükk - RIIGILÕIV",
+      "section": "47^3",
+      "title": "§ 47^3. Riigilõivu tasumine",
+      "content": "(1) Riigilõiv tasutakse Rahandusministeeriumi kontole.\n(2) Kui riigilõiv tasutakse unikaalse viitenumbriga, märgitakse maksedokumendile unikaalne viitenumber, mis on seotud toiminguga, mille eest riigilõiv tasutakse.\n(3) Riigilõiv loetakse tasutuks, kui see on unikaalse viitenumbri alusel laekunud ettenähtud kontole või kui Patendiametile on esitatud käesoleva seaduse § 47^4 lõikes 1 nimetatud andmed riigilõivu tasumise kohta."
+    },
+    {
+      "provision_ref": "para47^4",
+      "chapter": "5. peatükk - RIIGILÕIV",
+      "section": "47^4",
+      "title": "§ 47^4. Riigilõivu tasumise kohta andmete esitamine",
+      "content": "(1) Kui riigilõiv tasutakse ilma unikaalse viitenumbrita, esitab taotleja või muu geograafilise tähise alase toimingu tegemist taotlev isik Patendiametile riigilõivu tasumise tähtpäevaks riigilõivu tasumise kohta järgmised andmed:\n1) maksedokumendi number;\n2) makse kuupäev;\n3) maksja nimi;\n4) tasutud summa suurus;\n5) selle toimingu nimetus, mille eest riigilõiv tasutakse, või riigilõivuseaduse asjakohase paragrahvi number;\n6) registreerimistaotluse number, geograafilise tähise registreeringu number või nende puudumise korral muud andmed, mis võimaldavad geograafilise tähise tuvastada.\n(2) Andmed riigilõivu tasumise kohta esitatakse iga registreerimistaotluse või registreeringu ja iga toimingu või tegevuse kohta eraldi. Kui riigilõiv tasutakse korraga mitme toimingu tegemise eest, esitatakse loetelu tasutud summa registreerimistaotluste või registreeringute ja toimingute vahel jaotumise kohta."
+    },
+    {
+      "provision_ref": "para47^5",
+      "chapter": "5. peatükk - RIIGILÕIV",
+      "section": "47^5",
+      "title": "§ 47^5. Riigilõivu tasumise kontrollimise kord",
+      "content": "(1) Kui andmed riigilõivu tasumise kohta on esitatud tähtpäevaks, kuid riigilõiv ei ole nõutavas summas Rahandusministeeriumi kontole laekunud, võib Patendiamet tasumise kontrollimiseks nõuda andmed esitanud isikult pangaasutuse kinnitatud riigilõivu tasumist tõendava dokumendi esitamist.\n(2) Kui riigilõiv tuleb tasuda kindlaks tähtpäevaks, loetakse see tähtaegselt tasutuks ka juhul, kui ettenähtud summas riigilõiv on unikaalse viitenumbri alusel laekunud ettenähtud kontole kolme pangapäeva jooksul Patendiameti poolt unikaalse viitenumbri väljastamisest arvates."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "6. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "49",
+      "title": "§ 49. Riiklik järelevalve",
+      "content": "Käesolevas seaduses sätestatud nõuete täitmise üle teostavad riiklikku järelevalvet:\n1) Tarbijakaitse ja Tehnilise Järelevalve Amet;\n2) Põllumajandus- ja Toiduamet registreeritud geograafilise tähise nimetuse nõuetekohase kasutamise ning registreeritud geograafilise tähise kirjelduses sätestatud nõuetele vastavuse üle."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "6. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "50",
+      "title": "§ 50. Riikliku järelevalve erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 49, 50 ja 52 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "7. peatükk - VASTUTUS GEOGRAAFILISE TÄHISE ÕIGUSVASTASE KASUTAMISE EEST",
+      "section": "52",
+      "title": "§ 52.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para56^1",
+      "chapter": "8. peatükk - LÕPPSÄTTED",
+      "section": "56^1",
+      "title": "§ 56^1. Enne 2019. aasta 1. aprilli kohtule esitatud kaebuse, avalduse ja hagi menetlemine",
+      "content": "(1) Enne 2019. aasta 1. aprilli käesoleva seaduse alusel kohtule esitatud avaldust menetletakse kohtus ka juhul, kui alates nimetatud kuupäevast on asjaomase vaidluse lahendamiseks ette nähtud kohustuslik kohtueelne menetlus apellatsioonikomisjonis.\n(2) Enne 2019. aasta 1. aprilli käesoleva seaduse alusel kohtule esitatud kaebust, avaldust või hagi menetletakse muus maakohtus peale Harju Maakohtu ka juhul, kui alates nimetatud kuupäevast on asjaomase kaebuse, avalduse või hagi lahendamiseks ainupädevus Harju Maakohtul."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "8. peatükk - LÕPPSÄTTED",
+      "section": "57",
+      "title": "§ 57.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "8. peatükk - LÕPPSÄTTED",
+      "section": "63",
+      "title": "§ 63.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    }
+  ],
+  "definitions": []
+}

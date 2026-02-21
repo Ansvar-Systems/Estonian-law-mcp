@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-176011",
+  "type": "statute",
+  "title": "Eesti Vabariigi hinnaseadus",
+  "title_en": "Eesti Vabariigi hinnaseadus",
+  "short_name": "HIS",
+  "status": "in_force",
+  "issued_date": "1989-12-06",
+  "in_force_date": "2002-07-01",
+  "url": "https://www.riigiteataja.ee/akt/176011.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi hinnaseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

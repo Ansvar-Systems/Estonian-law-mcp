@@ -1,0 +1,356 @@
+{
+  "id": "ee-law-13318312",
+  "type": "statute",
+  "title": "Ringhäälinguseadus",
+  "title_en": "Ringhäälinguseadus",
+  "short_name": "ee-law-13318312",
+  "status": "in_force",
+  "issued_date": "1994-05-19",
+  "in_force_date": "2011-01-01",
+  "url": "https://www.riigiteataja.ee/akt/13318312.xml",
+  "description": "Official consolidated statute text (Ringhäälinguseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse ülesanne",
+      "content": "(1) Ringhäälinguseadus sätestab:\n1) ringhäälingus informatsiooni edastamise korra ja ringhäälingu tegevuspõhimõtted;\n2) ringhäälingus informatsiooni edastamiseks mõeldud tehniliste vahendite (saatjad, saatjate võrgud) valdamise ja omamise tingimused;\n3)\n4) ringhäälingu eraõiguslike isikute tegevuse korra ringhäälingulubade alusel.\n(2) Käesoleva seadusega luuakse õiguslikud alused Eestis tegutsevate ringhäälinguorganisatsioonide poolt edastatavate televisioonisaadete ja -programmide vastavuse tagamiseks Riigikogu poolt ratifitseeritud välislepingute nõuetele."
+    },
+    {
+      "provision_ref": "para1^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1^1",
+      "title": "§ 1^1. Seaduse kohaldamine",
+      "content": "(1) Käesolevat seadust kohaldatakse kõigile Eestis asuvatele ringhäälinguorganisatsioonidele.\n(2) Käesoleva seaduse tähenduses loetakse ringhäälinguorganisatsioon Eestis asuvaks, kui:\n1) tema juhatus asub Eestis ja toimetuse otsused teleprogrammide saatekava kohta tehakse Eestis;\n2) tema juhatus asub Eestis ja Eestis töötab oluline osa teleprogrammide edastamisega tegelevatest töötajatest, kuid otsused programmide saatekava kohta tehakse mõnes Euroopa Liidu liikmesriigis või piiriülese televisiooni Euroopa konventsiooniga ühinenud riigis;\n3) tema juhatus asub Eestis, kuid oluline osa teleprogrammide edastamisega tegelevatest töötajatest asub nii Eestis kui ka mõnes Euroopa Liidu liikmesriigis või piiriülese televisiooni Euroopa konventsiooniga ühinenud riigis;\n4) oluline osa teleprogrammide edastamisega tegelevatest töötajatest ei tööta Eestis ega mõnes Euroopa Liidu liikmesriigis või piiriülese televisiooni Euroopa konventsiooniga ühinenud riigis, kuid ringhäälinguorganisatsioon alustas Eestis esimesena teleprogrammi edastamist vastavalt Eesti seadustele ja oluline osa tema majandustegevusest toimub Eestis;\n5) tema juhatus asub Eestis või mõnes Euroopa Liidu liikmesriigis või piiriülese televisiooni Euroopa konventsiooniga ühinenud riigis, aga otsused teleprogrammide saatekava kohta tehakse kolmandas riigis või, vastupidi, tema juhatus asub kolmandas riigis, aga otsused teleprogrammide saatekava kohta tehakse Eestis või mõnes Euroopa Liidu liikmesriigis või piiriülese televisiooni Euroopa konventsiooniga ühinenud riigis, kuid oluline osa tema teleprogrammide edastamisega tegelevatest töötajatest asub Eestis.\n(3) Ringhäälinguorganisatsioonile, kelle suhtes ei saa kohaldada käesoleva paragrahvi 2. lõike sätteid ja kes ei kuulu Euroopa Liidu mõne liikmesriigi või mõne piiriülese televisiooni Euroopa konventsiooniga ühinenud riigi jurisdiktsiooni alla, kohaldatakse käesolevat seadust juhul, kui:\n1) ta kasutab Eestis antud sagedust (kanalit);\n2) ta ei kasuta Eestis antud sagedust (kanalit), kuid kasutab Eestile kuuluvat satelliidivõimsust;\n3) ta ei kasuta Eestis antud sagedust ega Eestile kuuluvat satelliidivõimsust, kuid kasutab Eestis asuvat satelliitsidet saatvat maajaama."
+    },
+    {
+      "provision_ref": "para1^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1^2",
+      "title": "§ 1^2. Haldusmenetluse seaduse kohaldamine",
+      "content": "Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Ringhääling",
+      "content": "Ringhääling käesoleva seaduse tähenduses on raadio- või televisiooniprogrammide edastamine eetri, sealhulgas satelliidi kaudu või kaabellevivõrgu kaudu analoog- või digitaalkujul, vaba juurdepääsuga või kasutades tingimusjuurdepääsu süsteeme, eesmärgiga teha need üldkasutatavate vastuvõtuvahenditega üldsusele kättesaadavaks."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Ringhäälingusaatja, -saatjate võrk ja -sagedus",
+      "content": "(1) Ringhäälingusaatja on käesoleva seaduse tähenduses tehniliste vahendite kogum, mille abil väljastatakse avatud keskkonda televisiooni- või raadiosignaal või digitaalne andmevoog, mis on ringhäälingu informatsiooni kandja.\n(2) Ringhäälingusaatjate võrk on sidekanalitega ühendatud saatjate kogum, mille abil edastatakse üheaegselt ringhäälingu ühe saatja tegevusulatusest suuremal territooriumil informatsiooni kandev signaal.\n(3) Ringhäälingusagedus on televisiooni- või raadiosignaali või digitaalse andmevoo edastamiseks ettenähtud korras eraldatud raadiosagedusspektri osa, mida võib tähistada kanalina.\n(4) Ringhäälingukanalid ja -sagedused määrab Tehnilise Järelevalve Amet kooskõlas Eesti Vabariigi välislepingute ja rahvusvaheliste kokkulepetega."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Saade ja programm",
+      "content": "(1) Saade on ajaliselt piiritletud, ringhäälingu kaudu signaalina edastatud ning heli, teksti, kujutise või nende kogumina üldkasutatavate vastuvõtuvahenditega vastuvõetav informatsioon.\n(2) Programm on teadlikult järjestatud saadete kogum, mida edastatakse kindlaksmääratud kanalitel ehk sagedustel. Programmil on oma nimi, mis avalikustatakse vähemalt kaks korda ööpäevas, sealhulgas saatepäeva alguses ja lõpus.\n(3)"
+    },
+    {
+      "provision_ref": "para4^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4^1",
+      "title": "§ 4^1. Programmi struktuur ja maht",
+      "content": "(1) Ringhäälinguorganisatsioon tagab oma saadete või programmi päevamahust vähemalt 5 protsenti tema enda poolt toodetud uudistesaadete edastamiseks, välja arvatud pühapäevases ja riiklike pühade programmis. Ringhäälinguorganisatsiooni enda poolt toodetud uudistesaateks loetakse ka sellist uudistesaadet, mis sisaldab vähemalt kahe erineva uudistetootja poolt toodetud uudiseid.\n(2) Ringhäälinguorganisatsioon tagab teleprogrammi iga kalendrikuu mahust, millest on maha arvatud uudiste-, spordi- ja mänge sisaldavate saadete ning reklaami, otsepakkumise ja teleteksti maht, vähemalt 10 protsenti omatoodangu edastamiseks. Ringhäälinguorganisatsioon edastab käesolevas lõikes sätestatud omatoodangu miinimummahust vähemalt 50 protsenti parimal vaadatavuse ajal ajavahemikus kella 19-st kuni 23-ni.\n(3) Omatoodang käesoleva seaduse tähenduses on ringhäälinguorganisatsiooni enda või koostöös Euroopa Liidu mõne liikmesriigi tootjaga toodetud või ringhäälinguorganisatsiooni poolt mõnelt Euroopa sõltumatult tootjalt tellitud saated või programmid Eesti tänapäeva või eesti kultuuripärandi vallas.\n(4) Televisiooniorganisatsioon tagab oma programmi (programmide) kalendriaasta mahust, millest on maha arvatud uudiste-, spordi- ja mänge sisaldavate saadete ning reklaami, otsepakkumise ja teleteksti maht, vähemalt 51 protsenti Euroopa päritoluga teoste edastamiseks.\n(5) Televisiooniorganisatsioon tagab oma programmi (programmide) kalendriaasta mahust, millest on maha arvatud uudiste-, spordi- ja mänge sisaldavate saadete ning reklaami, otsepakkumise ja teleteksti maht, vähemalt 10 protsenti Euroopa päritolu teoste edastamiseks, mida on loonud sellest ringhäälinguorganisatsioonist sõltumatud tootjad. Nimetatud teoste hulgas peab olema teoseid, mille tootmisest ei ole möödunud rohkem kui viis aastat.\n(6) Käesoleva paragrahvi 4. ja 5. lõikes sätestatud nõudeid ei kohaldata nende televisiooniprogrammide suhtes, mis on mõeldud kohalikele vaatajatele ning mida edastatakse ühe ringhäälingusaatja kaudu, mis ei ole osa üleriigilisest saatjatevõrgust.\n(7)\n(8) Ringhäälinguorganisatsiooni programmi nädalamaht peab olema vähemalt:\n1) 84 tundi raadiosaadete ja -programmide edastamisel;\n2) 56 tundi televisioonisaadete ja -programmide edastamisel;\n3) 21 tundi televisioonisaadete ja -programmide edastamisel kohaliku ringhäälinguloa või ringhäälinguloa kaabellevivõrgus alusel."
+    },
+    {
+      "provision_ref": "para4^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4^2",
+      "title": "§ 4^2. Euroopa päritolu teosed",
+      "content": "(1) Euroopa päritolu teosed käesoleva seaduse tähenduses on:\n1) Eestis ja Euroopa Liidu liikmesriikides toodetud teosed;\n2) piiriülese televisiooni Euroopa konventsiooniga ühinenud kolmandates riikides toodetud teosed, mis vastavad käesoleva paragrahvi 3. lõike tingimustele;\n3) muudest Euroopa kolmandatest riikidest pärinevad teosed, mis vastavad käesoleva paragrahvi 4. lõikes nimetatud tingimustele.\n(2) Käesoleva paragrahvi 1. lõike punktide 2 ja 3 sätteid kohaldatakse tingimusel, et Eesti või Euroopa Liidu liikmesriikidest pärinevate teoste suhtes ei kohaldata kõnealustes kolmandates riikides diskrimineerivaid meetmeid.\n(3) Käesoleva paragrahvi 1. lõike punktides 1 ja 2 nimetatud teosed on põhiosas valminud koostöös ühes või mitmes 1. lõike punktides 1 ja 2 nimetatud riigis elavate autorite ja töötajatega eeldusel, et need teosed vastavad vähemalt ühele järgmisest kolmest tingimusest:\n1) teose on valmistanud üks või mitu tootjat, kes asuvad ühes või mitmes nimetatud riigis;\n2) teose tootmist jälgib ja kontrollib tegelikkuses üks või mitu tootjat, kes asuvad ühes või mitmes nimetatud riigis;\n3) nendes riikides asuvate ühistootjate panus moodustab enamiku ühistootmise kuludest ja ühistootmist ei kontrolli üks ega mitu väljaspool kõnealuseid riike asuvat tootjat.\n(4) Käesoleva paragrahvi 1. lõike punktis 3 nimetatud teosed on täielikult või ühistoodanguna ühes või mitmes Euroopa Liidu liikmesriigis asuvate tootjatega valmistanud sellised tootjad, kes asuvad ühes või mitmes kolmandas Euroopa riigis, kellega Euroopa Liidul on audiovisuaalala lepingud ning need teosed on põhiosas valmistatud koostöös ühes või mitmes Euroopa riigis asuvate autorite ja töötajatega.\n(5) Teoseid, mis ei ole Euroopa päritolu teosed käesoleva paragrahvi 1. lõike tähenduses, kuid on valmistatud Euroopa Liidu liikmesriikide ja kolmandate riikide vaheliste ühistootmislepingute raames, käsitatakse Euroopa päritolu teostena tingimusel, et Euroopa Liidu ühistootjad katavad suurema osa tootmiskuludest ja et tootmist ei kontrolli üks ega mitu väljaspool Euroopa Liidu liikmesriigi territooriumi asuvat tootjat.\n(6) Teoseid, mis ei ole Euroopa päritolu teosed käesoleva paragrahvi 1. ja 5. lõike tähenduses, kuid mis põhiosas on valminud koostöös ühes või enamas liikmesriigis elavate autorite ja töötajatega, käsitatakse Euroopa päritolu teostena ulatuses, mille moodustab Euroopa Liidu ühistootjate panus tootmiskuludest."
+    },
+    {
+      "provision_ref": "para4^3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4^3",
+      "title": "§ 4^3. Euroopa sõltumatu tootja",
+      "content": "Euroopa sõltumatu tootja käesoleva seaduse tähenduses on:\n1) tootja, kelle aktsiate enamus või aktsiate jaotusega määratud häälte enamus kuulub Eesti, mõne Euroopa Liidu liikmesriigi või piiriülese televisiooni Euroopa konventsiooniga ühinenud riigi juriidilistele või füüsilistele isikutele;\n2) tootja, kelle seaduse või lepingu alusel üleantud autoriõigused või autoriõigusega kaasnevad õigused toodangule kuuluvad Eesti, mõne Euroopa Liidu liikmesriigi või piiriülese televisiooni Euroopa konventsiooniga ühinenud riigi juriidilistele või füüsilistele isikutele;\n3) tootja, kes viimase kahe aasta jooksul on tootnud mitte rohkem kui 90 protsenti oma audiovisuaaltoodangust ühele ja samale ringhäälinguorganisatsioonile."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Ringhäälinguorganisatsioon",
+      "content": "(1) Ringhäälinguorganisatsioon (raadio- või televisiooniorganisatsioon) käesoleva seaduse tähenduses on ettevõtja, mittetulundusühing, sihtasutus või avalik-õiguslik juriidiline isik, kellel on toimetusvastutus ühe või mitme programmi koostamisel ja kes edastab või laseb edastada programme ringhäälingus.\n(2) Ringhäälinguorganisatsioon edastab saateid või programme käesoleva seaduse 6. peatükis sätestatud ringhäälinguloa alusel, kui käesoleva seadusega ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para5^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5^1",
+      "title": "§ 5^1. Operaator",
+      "content": "(1) Operaator käesoleva seaduse tähenduses on ettevõtja või ringhäälinguorganisatsioon, kes edastab või taasedastab ringhäälinguorganisatsioonide saateid ja programme ringhäälingus.\n(2)\n(3) Operaator võib edastada või taasedastada ringhäälinguorganisatsioonide saateid ja programme ning peab omama selleks nende ringhäälinguorganisatsioonide luba. Operaator ei vastuta ringhäälinguorganisatsiooni ebaseadusliku tegevuse eest, välja arvatud juhul, kui ringhäälinguorganisatsioon ise on operaator."
+    },
+    {
+      "provision_ref": "para5^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5^2",
+      "title": "§ 5^2. Edastamine ja taasedastamine",
+      "content": "(1) Edastamine käesoleva seaduse tähenduses on elekterside vahendite abil ringhäälinguorganisatsiooni saadete või programmide üldsusele tajutavaks muutmine.\n(2) Edastajaks võib olla ringhäälinguorganisatsioon või operaator.\n(3) Taasedastamine on ringhäälinguorganisatsiooni saate või programmi muutmata kujul edastamine teise ringhäälinguorganisatsiooni või operaatori poolt.\n(4) Saadete ja programmide edastamine ja taasedastamine on lubatud ainult nende suhtes õigusi omavate isikute loal.\n(5) Käesoleva seaduse kohaselt välja antud ringhäälingulubade alusel tegutseval ringhäälinguorganisatsioonil ei ole õigust anda luba oma saadete ja programmide vaba juurdepääsuga taasedastamiseks väljaspool ringhäälinguloaga määratud levipiirkonda.\n(6) Ringhäälinguloaga tingimusjuurdepääsu süsteemis edastatava programmi taasedastamine vaba juurdepääsuga ringhäälinguvõrgus ei ole lubatud."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - RINGHÄÄLINGU TEGEVUSPÕHIMÕTTED",
+      "section": "6",
+      "title": "§ 6. Tegevusvabadus",
+      "content": "(1) Ringhäälinguorganisatsioonil on õigus seadustest ja ringhäälinguloa tingimustest kinni pidades vabalt otsustada oma saadete ja programmide sisu üle.\n(1^1)\n(2) Seadusega tagatud loomevabaduse piiramine on karistatav haldus- või kriminaalkorras.\n(3) Kohus võib oma menetluses olevates asjades seaduses ettenähtud alustel ja korras keelata teatud saate või selle osa edastamise ringhäälingus."
+    },
+    {
+      "provision_ref": "para6^1",
+      "chapter": "2. peatükk - RINGHÄÄLINGU TEGEVUSPÕHIMÕTTED",
+      "section": "6^1",
+      "title": "§ 6^1. Poliitiline tasakaalustatus",
+      "content": "Saateaja andmisel erakonnale või poliitilisele liikumisele oma seisukohtade tutvustamiseks peab ringhäälinguorganisatsioon tagama samas programmis võimaluse anda seda põhjendamatu viivituseta ka teisele erakonnale või poliitilisele liikumisele."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - RINGHÄÄLINGU TEGEVUSPÕHIMÕTTED",
+      "section": "7",
+      "title": "§ 7. Informatsiooniallika kaitse",
+      "content": "(1) Ringhäälinguorganisatsioon ei või avalikustada temale informatsiooni edastanud isiku andmeid, kui see isik seda ei soovi.\n(2) Ringhäälinguorganisatsioon ei ole kohustatud avalikustama temale oma tegevuses teatavaks saanud informatsiooni.\n(3) Ringhäälinguorganisatsioon peab tõe tuvastamiseks seaduses ettenähtud alustel ja korras esitama kohtule käesoleva paragrahvi 1. ja 2. lõikes nimetatud andmed ning informatsiooni."
+    },
+    {
+      "provision_ref": "para7^1",
+      "chapter": "2. peatükk - RINGHÄÄLINGU TEGEVUSPÕHIMÕTTED",
+      "section": "7^1",
+      "title": "§ 7^1. Vastuvõtu ja taasedastamise vabadus",
+      "content": "(1) Välisriikidest pärit raadio- ja telesaadete ning raadio- ja teleprogrammide vastuvõtmist ja taasedastamist ei piirata.\n(2) Erinevalt käesoleva paragrahvi 1. lõikes sätestatust võib kehtestada kooskõlas Riigikogu poolt ratifitseeritud välislepingute nõuetega ajutisi piiranguid, kui teistest riikidest pärit telesaade või programm:\n1) rikub selgelt ja tõsiselt ringhäälinguprogrammi üldtunnustatud moraalseid ja eetilisi põhimõtteid määral, mis võib kahjustada alaealiste füüsilist, vaimset või moraalset arengut;\n2) võib õhutada rassilist, soolist, usulist või rahvuslikku vihkamist;\n3) sisaldab pornograafiat või põhjendamatut vägivalda.\n(3) Euroopa Liidu liikmesriikidest ja piiriülese televisiooni Euroopa konventsiooniga ühinenud riikidest pärit televisiooniprogrammide puhul võib rakendada piiranguid üksnes juhul, kui:\n1) televisiooniorganisatsioon on käesolevas paragrahvis toodud nõudeid rikkunud vähemalt kahel korral võimaliku piirangu rakendamisele eelnenud ühe aasta jooksul;\n2) Eesti pädev asutus on televisiooniorganisatsioonile ja Euroopa Liidu pädevale institutsioonile teatanud rikkumistest ning meetmetest, mida kavatsetakse rakendada, kui samalaadne rikkumine peaks korduma;\n3) Eesti pädeva asutuse ja Euroopa Liidu pädeva institutsiooni konsultatsioonid pole 15 päeva jooksul käesoleva lõike punktis 2 sätestatud teatamisest alates viinud kokkuleppele ning väidetav rikkumine jätkub.\n(4) Käesolevas paragrahvis sätestatu laieneb kõigile telesaadetele ja -programmidele, mis võivad kahjustada alaealiste füüsilist, vaimset või moraalset arengut, välja arvatud juhul, kui saateaja valiku või tehniliste meetmetega tagatakse, et nende saadete või programmide levialas olevad alaealised ei saa neid vastu võtta.\n(5) Lisaks käesoleva paragrahvi 4. lõikes toodule tagatakse, et selliste saadete kodeerimata kujul edastamisele eelneb neile vastav hoiatus helis või selgelt tajutaval visuaalsel kujul."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - RINGHÄÄLINGU TEGEVUSPÕHIMÕTTED",
+      "section": "8",
+      "title": "§ 8. Vastulause esitamise õigus",
+      "content": "(1) Igal füüsilisel või juriidilisel isikul, sõltumata tema kodakondsusest või asukohast, kelle seaduslikke õigusi, eriti mainet, on kahjustatud ringhäälinguprogrammis ebaõigete faktide esitamisega, on õigus esitada vastulause või taotleda muude võrdväärsete vahendite rakendamist, mis peavad olema kooskõlas tsiviil-, haldus- või kriminaalõiguse sätetega.\n(2) Ringhäälinguorganisatsioon tagab vastulause esitamise võimaluse või muude võrdväärsete vahendite rakendamise ega tee takistusi põhjendamatute tähtaegade või tingimustega. Vastulause esitamise soovist tuleb ringhäälinguorganisatsioonile kirjalikult teatada 20 päeva jooksul, alates taotluse põhjustanud saate edastamisest. Ringhäälinguorganisatsioon edastab vastulause samas programmis hiljemalt 20 päeva jooksul pärast põhjendatud taotluse saamist.\n(3) Vastulause esitaja ei ole kohustatud hüvitama ringhäälingus vastulause edastamisega seotud kulutusi.\n(4) Vastulause taotluse võib tagasi lükata, kui vastulause pole õigustatud käesoleva paragrahvi 1. lõikes toodud tingimuste alusel. Samuti siis, kui taotlus sisaldab karistatavat tegu või kui taotluse rahuldamine tooks ringhäälinguorganisatsioonile kaasa tsiviilvastutuse või kui sellega eiratakse üldtunnustatud moraalinorme."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - RINGHÄÄLINGU TEGEVUSPÕHIMÕTTED",
+      "section": "9",
+      "title": "§ 9. Kõlbluse ja seaduslikkuse tagamine",
+      "content": "(1) Ringhäälinguorganisatsioon ei edasta saateid, mille sisu on kõlblusvastane või vastuolus põhiseaduse või seadustega.\n(2) Teleprogrammidele, mis tõenäoliselt võivad kahjustada alaealiste füüsilist, vaimset või moraalset arengut, laienevad käesoleva seaduse § 7 ^1 2. lõike punktis 1 ning sama paragrahvi 4. ja 5. lõikes sätestatud nõuded, välja arvatud, kui saateaja valiku või vastavate tehniliste meetmetega tehakse alaealistele võimatuks nende saadete või programmide vastuvõtmine tavaoludes.\n(3) Kui käesoleva paragrahvi 2. lõikes nimetatud saateid edastatakse kodeerimata kujul, peab sellele eelnema vastav hoiatus helis või peab see saade olema äratuntav vastava sümboli abil, mis on nähtav kogu saate jooksul."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - RINGHÄÄLINGU TEGEVUSPÕHIMÕTTED",
+      "section": "10",
+      "title": "§ 10. Hädaohuteadete edastamine",
+      "content": "(1) Ühiskonna julgeolekut või põhiseaduslikku korda ähvardava ohu korral on ringhäälinguorganisatsioon kohustatud viivitamatult kõigis oma programmides oma kulul väljastama Riigikogu, Vabariigi Presidendi ning Vabariigi Valitsuse ametlikke teateid.\n(2) Ringhäälinguorganisatsioon edastab viivitamatult ja tasuta kõigis oma programmides informatsiooni, mis on vajalik inimese elu, tervise ja julgeoleku kaitseks või varalise kahju või hädaohu ärahoidmiseks, samuti keskkonnakahjustuse ärahoidmiseks või selle vähendamiseks."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - RINGHÄÄLINGU TEGEVUSPÕHIMÕTTED",
+      "section": "11",
+      "title": "§ 11. Autoriõiguse tagamine",
+      "content": "Ringhäälinguorganisatsioon ja operaator on kohustatud oma tegevuses järgima autoriõiguse seaduses sätestatud nõudeid."
+    },
+    {
+      "provision_ref": "para11^1",
+      "chapter": "2. peatükk - RINGHÄÄLINGU TEGEVUSPÕHIMÕTTED",
+      "section": "11^1",
+      "title": "§ 11^1. Televisiooniülekande ainuõiguse kasutamise piirang",
+      "content": "(1) Vabariigi Valitsus kehtestab vastavas nimekirjas need sündmused, mida peetakse Eesti üldsuse jaoks oluliseks ning mida tuleks seetõttu edastada nii, et märkimisväärne osa üldsusest saaks neid vabalt vastu võtta mittetasulises televisioonis kas tervikuna või osaliselt otseülekandes või hiljem salvestusena.\n(2) Kui Eesti ringhäälinguorganisatsioon on hankinud endale ainuõiguse kanda üle selliseid sündmusi, mille mõni Euroopa Liidu liikmesriik või piiriülese televisiooni Euroopa konventsiooniga ühinenud riik on võtnud oma vastavasse tähtsamate sündmuste loetellu, ei saa ta ainuõigust kasutada juhul, kui märkimisväärne osa kõnealuse riigi üldsusest ei saa jälgida nende tähtsamate sündmuste ülekannet mittetasulises televisioonis.\n(3) Mittetasuline televisioon käesoleva seaduse tähenduses on saadete või programmide edastamine televisioonis nii, et vaatajad ei pea, lisaks televisiooniorganisatsiooni rahastamise üldlevinud viisile, maksma selle eest eraldi tasu.\n(4) Eesti üldsuse märkimisväärne osa käesoleva seaduse tähenduses on võrdne vähemalt 70 protsendiga Eesti elanikest."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - RINGHÄÄLINGU TEGEVUSPÕHIMÕTTED",
+      "section": "12",
+      "title": "§ 12. Saadete salvestuste säilitamise kohustus",
+      "content": "(1) Ringhäälinguorganisatsioon tagab edastatud saadete salvestamise.\n(2) Salvestused säilitatakse, arvates nende edastamisest, vähemalt 20 päeva vältel.\n(3) Kohus võib oma menetluses olevates asjades määrata konkreetsete saadete salvestuste säilitamiseks pikemaid tähtaegu."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - RINGHÄÄLINGU TEGEVUSPÕHIMÕTTED",
+      "section": "13",
+      "title": "§ 13. Vastutavad toimetajad",
+      "content": "(1) Ringhäälinguorganisatsioon määrab edastatavatele saadetele ja programmidele vastutavad toimetajad.\n(2) Vastutav toimetaja tagab edastatavates saadetes ja programmides käesoleva seaduse nõuetest ja heast ajakirjandustavast kinnipidamise ning sõnavabaduse põhimõtete järgimise.\n(3) Vastutavate toimetajate nimekiri on üldsusele kättesaadav.\n(4) Vastutavate toimetajate nimekiri säilitatakse kolme aasta vältel, arvates saate edastamise kuupäevast."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - REKLAAM, OTSEPAKKUMINE JA SPONSORLUS",
+      "section": "14",
+      "title": "§ 14. Reklaam ja otsepakkumine",
+      "content": "(1) Reklaam ringhäälingus on heli, kujutise või heli ja kujutise kogumina ringhäälingus tasu eest edastatav teade, mille eesmärk on toote või teenuse omaduste demonstreerimise, selgitamise või hinnangute andmise kaudu saavutada isiku või isikute grupi huvides tarbijate teatud käitumine.\n(2) Otsepakkumine käesoleva seaduse tähenduses on reklaami erivorm, mille eesmärk on kaupade või teenuste müügiks pakkumine. Otsepakkumise vormid on otsepakkumise lõik ja otsepakkumise saade.\n(3) Ringhäälinguorganisatsiooni programmide saateaeg, mida kasutatakse reklaamiks või otsepakkumiseks, on kaup, mida müüakse tellijale."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - REKLAAM, OTSEPAKKUMINE JA SPONSORLUS",
+      "section": "15",
+      "title": "§ 15. Reklaamile ja otsepakkumisele esitatavad nõuded",
+      "content": "(1) Reklaam ja otsepakkumine peab olema programmi muudest osadest lahus ning heli, kujutise või heli ja kujutise kogumina programmis selgelt eristatav.\n(1^1) Reklaam, mille edastamisel ei ole arvestatud käesoleva paragrahvi lõikes 1 sätestatud nõudeid, loetakse varjatud reklaamiks. Varjatud reklaam on keelatud.\n(2) Reklaamile ja otsepakkumisele ringhäälingus kohaldatakse reklaamiseaduse sätteid. Lisaks reklaamiseaduses sätestatud nõuetele kohaldatakse ringhäälingus edastatavale reklaamile ja otsepakkumisele käesolevas seaduses sätestatut.\n(3) –(6)\n(7) Üksnes enesetutvustusega tegeleva televisiooniorganisatsiooni programmi suhtes ei kohaldata käesoleva seaduse §-des 4 ^1, 4 ^2, 4 ^3 ning § 17 3. ja 4. lõikes sätestatud nõudeid. Teisi käesoleva seaduse sätteid kohaldatakse selliste televisiooniorganisatsioonide suhtes nende eripärast tulenevaid erisusi arvestades. Reklaam on üksnes enesetutvustusega tegeleva televisiooniorganisatsiooni programmis lubatud käesoleva seaduse § 17 1. ja 2. lõikes toodud mahtude ulatuses.\n(8) Üksnes otsepakkumisega tegeleva televisiooniorganisatsiooni programmi suhtes ei kohaldata käesoleva seaduse §-des 4 ^1, 4 ^2, 4 ^3 sätestatud nõudeid. Teisi käesoleva seaduse sätteid kohaldatakse selliste televisiooniorganisatsioonide suhtes nende eripärast tulenevaid erisusi arvestades. Reklaam on üksnes otsepakkumisega tegeleva televisiooniorganisatsiooni programmis lubatud käesoleva seaduse § 17 1. lõikes toodud mahtude ulatuses ning selle suhtes ei kohaldata sama paragrahvi 2. lõikes sätestatut."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - REKLAAM, OTSEPAKKUMINE JA SPONSORLUS",
+      "section": "16",
+      "title": "§ 16. Reklaami ja otsepakkumise koht programmis",
+      "content": "(1) Reklaam ja otsepakkumine tuleb paigutada saadete või saateosade vahele. Eraldiseisvad reklaamilõigud või otsepakkumise lõigud on lubatud erandina.\n(2) Kui televisioonisaates puuduvad eraldiseisvad osad, võib saadet reklaamiks ja otsepakkumise lõiguks katkestada, kui see ei kahjusta saate terviklikkust ja saate suhtes õigusi omava isiku huve, kusjuures igast katkestusest peab olema möödunud vähemalt 20 minutit.\n(3) Mängufilme ja televisioonifilme (välja arvatud seeria- ja dokumentaalfilmid ning meelelahutussaated), mille kestus on üle 45 minuti, võib reklaamiks ja otsepakkumise lõiguks katkestada üks kord iga 45-minutilise ajavahemiku järel. Edasine katkestamine on lubatud juhul, kui nende kestus on vähemalt 110 minutit.\n(4) Reklaami ega otsepakkumist ei tohi paigutada programmis vahetult enne ega pärast jumalateenistuse edastamist, samuti ei tohi jumalateenistuse edastamist reklaamiks ega otsepakkumiseks katkestada.\n(5) Uudiste-, laste- ja poliitikasaateid ning dokumentaalfilme ei tohi reklaamiks ja otsepakkumiseks katkestada, kui nende kestus on 30 minutit või vähem."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - REKLAAM, OTSEPAKKUMINE JA SPONSORLUS",
+      "section": "17",
+      "title": "§ 17. Reklaami ja otsepakkumise maht",
+      "content": "(1) Reklaami ja otsepakkumise lõikude maht ringhäälinguorganisatsiooni programmis ei tohi ületada 20 protsenti programmi päevamahust. Reklaami maht ei tohi ületada 15 protsenti programmi päevamahust.\n(2) Reklaami ja otsepakkumise lõikude maht ei tohi ületada 12 minutit tunnis.\n(3) Otsepakkumise saade peab katkestamatult kestma vähemalt 15 minutit. Maksimaalselt võib olla saatepäevas 8 otsepakkumise saadet, mille kogukestus ei tohi ületada 3 tundi.\n(4) Reklaamiks ei loeta:\n1) ringhäälinguorganisatsiooni enda programmide ning nendest tulenevate toodete tutvustamist;\n2) avalikes huvides tasuta edastatavaid teateid;\n3) heategevusele kutsuvaid saateid."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - REKLAAM, OTSEPAKKUMINE JA SPONSORLUS",
+      "section": "18",
+      "title": "§ 18. Reklaami ja otsepakkumise tellija",
+      "content": "Reklaami ja otsepakkumise tellija ei tohi mõjutada saadete sisu ega programmi struktuuri."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - REKLAAM, OTSEPAKKUMINE JA SPONSORLUS",
+      "section": "20",
+      "title": "§ 20. Sponsorlus",
+      "content": "(1) Sponsorlus käesoleva seaduse tähenduses on ringhäälinguorganisatsiooni tegevuse või audiovisuaalteoste tootmisega mitteseotud isiku osalemine selle ringhäälinguorganisatsiooni saate või programmi otseses või kaudses materiaalses toetamises eesmärgiga edendada oma nime, kaubamärki, mainet, tegevust või tooteid.\n(2) Spondeeritud saadete või programmide alguses või lõpus või nii alguses kui ka lõpus tuleb arusaadavalt esitada sponsori isik või tema kaubamärk või mõlemad. Sponsori toodangu või teenuste propageerimine saate käigus on keelatud.\n(3) Sponsor ei tohi mõjutada saate sisu või programmi struktuuri.\n(4) Sponsoriks ei tohi olla isik, kelle põhitegevusalaks on tubakatoodete valmistamine või müük.\n(5) Uudiste- ja poliitikasaadete finantseerimiseks ei tohi kasutada sponsorlust."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - OMANDIÕIGUS RINGHÄÄLINGU TEHNILISTELE VAHENDITELE NING SAADETELE JA PROGRAMMIDELE",
+      "section": "21",
+      "title": "§ 21. Omand ringhäälingu tehnilistele vahenditele",
+      "content": "(1) Avalik-õiguslike ringhäälinguorganisatsioonide programmide edastamiseks vajalikud saatjad ja saatjate võrgud kuuluvad aktsiaseltsile, mis on asutatud vastavalt käesoleva seaduse § 45 1. ja 2. lõikele ja mille üheks põhikirjaliseks ülesandeks on tagada avalik-õiguslike ringhäälinguorganisatsioonide programmide kvaliteetne vastuvõetavus kogu Eesti territooriumil.\n(2) Kogu Eesti territooriumi katvate saatjate ja saatjate võrkude rajamise otsustab ning nende võõrandamise korra kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - OMANDIÕIGUS RINGHÄÄLINGU TEHNILISTELE VAHENDITELE NING SAADETELE JA PROGRAMMIDELE",
+      "section": "23",
+      "title": "§ 23. Omand saadetele ja programmidele",
+      "content": "(1) Ringhäälingusaateid ning -programme võib omandada, luua ja vahendada igaüks.\n(2) Saateid ja programme võib ringhäälinguorganisatsiooni, -saatja või -saatjate võrgu kaudu edastada ringhäälinguluba omav eraõiguslik isik või käesoleva seaduse alusel tegutsevad avalik-õiguslikud isikud.\n(3) Ringhäälinguluba ei vaja isik, kes taasedastab avalik-õigusliku isiku või ringhäälinguluba omava eraõigusliku isiku saateid ja programme."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "6. peatükk - ERAÕIGUSLIKE ISIKUTE RINGHÄÄLINGULOAD",
+      "section": "37",
+      "title": "§ 37. Ringhäälinguluba",
+      "content": "(1) Ringhäälinguluba on tegevusluba, mis annab loal märgitud füüsilisele või juriidilisele isikule õiguse loaga määratud tingimustel edastada saateid ja programme ringhäälingus. Ringhäälinguloa annab välja Kultuuriministeerium käesoleva seadusega ettenähtud alustel ja korras.\n(2)\n(3) Ringhäälingusaadete edastamiseks antakse välja järgmisi ringhäälingulubasid:\n1) kohalik ringhäälinguluba analoogvõrgus – ühe saatja tegevusulatuses;\n2) regionaalne ringhäälinguluba raadiovõrgus – ühe saatja või saatjate võrguga osal Eesti territooriumist;\n3) üleriigiline ringhäälinguluba analoogvõrgus – saatjate võrguga üleriigiliselt või ühe saatja kaudu, mis võimaldab saadete vastuvõttu 80–100 protsendi ulatuses Eesti territooriumist;\n4) rahvusvaheline ringhäälinguluba analoogvõrgus – saatjate võrguga või ühe saatja kaudu, mis võimaldab saadete vastuvõttu teistes riikides;\n5) ajutine ringhäälinguluba – kindlas piirkonnas ja määratud ajal kestusega kuni kolm kuud;\n6) ringhäälinguluba – kaabellevivõrgus;\n7) regionaalne digitaalringhäälinguluba maapealse leviga digitaalringhäälinguvõrgus;\n8) üleriigiline digitaalringhäälinguluba maapealse leviga digitaalringhäälinguvõrgus.\n(3^1) –(3^4)\n(4) Käesoleva paragrahvi 3. lõike punktides 2–4 ja 6–8 sätestatud ringhäälinguluba antakse tähtajaga kuni viis aastat. Käesoleva paragrahvi 3. lõike punktis 1 sätestatud kohalik ringhäälinguluba raadiovõrgus antakse tähtajaga kuni viis aastat; kohalik ringhäälinguluba televisioonivõrgus antakse tähtajaga kuni kaks aastat.\n(4^1) Samaaegse kehtivusega antakse välja kuni kaks rahvusvahelist või kaks üleriigilist või üks üleriigiline ja üks rahvusvaheline ringhäälinguluba analoogtelevisioonivõrgus.\n(5) Ringhäälinguloa väljaandjal on õigus korrigeerida loa kehtivusaja pikendamise tingimusi, teatades sellest ringhäälinguloa senisele valdajale vähemalt üks aasta enne ringhäälinguloa kehtivuse lõppemist."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "6. peatükk - ERAÕIGUSLIKE ISIKUTE RINGHÄÄLINGULOAD",
+      "section": "38",
+      "title": "§ 38. Ringhäälinguloaga määratavad tingimused",
+      "content": "(1) Ringhäälinguloaga määratakse kindlaks: 1)–2)\n3) edastatavate programmide arv ja nende nimetused;\n4) iga programmi struktuur ning maht päevas ja nädalas;\n5) saatetegevuse alustamise tähtaeg;\n6)\n7) edastatava programmi levipiirkond, märkides selles olevad Eesti territooriumi haldusüksused või nende osad ja rahvusvaheliste lubade puhul riigid.\n(2) Ringhäälinguloaga võib määrata täiendavaid tingimusi, mis ei ole vastuolus seaduse ja sõnavabaduse üldtunnustatud põhimõtetega."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "6. peatükk - ERAÕIGUSLIKE ISIKUTE RINGHÄÄLINGULOAD",
+      "section": "39",
+      "title": "§ 39. Ringhäälinguloa taotlemine",
+      "content": "(1) Ringhäälinguloa taotluses märgitakse kavandatava programmi üldiseloomustus ja andmed, mis võivad olla vajalikud loa andmise otsustamiseks või aluseks käesoleva seaduse § 38 1. lõikes sätestatud tingimuste määramisele.\n(2) Ringhäälinguloa taotlusele lisatakse, kui taotleja on juriidiline isik:\n1)\n2)\n3) bilanss;\n4) isiku poolt kinnitatud investeerimisprogramm koos rahaliste vahendite allika ja tagatiste äranäitamisega;\n5)\n6) taotleja isiku esindaja volitusi tõendav dokument.\n(3) Ringhäälinguloa taotlusele lisatakse, kui taotleja on füüsiline isik:\n1)\n2) käesoleva paragrahvi 2. lõike punktides 4 ja 6 nimetatud dokumendid.\n(4)\n(5) Kui taotletakse ringhäälinguluba kaabellevivõrgus või digitaalringhäälinguluba maapealse leviga digitaalringhäälinguvõrgus tingimusjuurdepääsu süsteemis, märgitakse taotluses informatsioon levipiirkonna kohta ja käesoleva paragrahvi 1. lõikes ja 2. lõike punktis 4 sätestatud andmed.\n(6) Ringhäälinguloa taotluse läbivaatamise eest tasutakse riigilõiv riigilõivuseaduses sätestatud määra järgi."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "6. peatükk - ERAÕIGUSLIKE ISIKUTE RINGHÄÄLINGULOAD",
+      "section": "40",
+      "title": "§ 40. Ringhäälinguloa väljaandmine",
+      "content": "(1) Kultuuriministeerium:\n1) otsustab ja teeb vähemalt ühe üleriigilise leviga ajalehe kaudu teatavaks väljaantavate ringhäälingulubade liigid, arvu ning muud tingimused ja loa taotluste esitamise tähtajad, kooskõlastades eelnevalt Tehnilise Järelevalve Ametiga raadiosageduste kasutamise võimalused;\n2) kehtestab loataotluste vormid;\n3) vaatab tähtaegselt laekunud taotlused läbi ning teeb otsuse ringhäälinguloa väljaandmise, sellest keeldumise või taotluse läbi vaatamata jätmise kohta;\n4) kontrollib enne käesoleva lõike punktis 3 nimetatud otsuse tegemist, kui ringhäälinguloa taotleja on juriidiline isik, tema andmeid registris, kus juriidiline isik on registreeritud.\n(2) Ringhäälinguloa taotlus jäetakse läbi vaatamata, kui taotlus ei vasta käesoleva seaduse §-s 39 sätestatud nõuetele.\n(3) Taotluse läbivaatamata jätmisest teatatakse taotlejale esimesel võimalusel, määrates tähtaja puuduste kõrvaldamiseks.\n(3^1) Käskkiri ringhäälinguloa väljaandmise kohta saadetakse loa omanikule kolme tööpäeva jooksul pärast käskkirja väljaandmist. Loa omanik tasub käesoleva seaduse § 37 3 ^2. ja 3 ^3. lõike alusel ringhäälinguloa tasu viie tööpäeva jooksul pärast käskkirja saamist summa ulatuses, mis on vaja tasuda kuni esimese korralise tasu maksmise tähtaja saabumiseni\n(4) Kultuuriministeerium keeldub ringhäälinguloa väljaandmisest, kui:\n1) taotleja isik või tema kavandatav programm ei vasta käesolevas seaduses sätestatud nõuetele;\n2) on tehtud otsus ringhäälinguloa väljaandmiseks teisele isikule, kes konkureeris samale loale ning tegi parema pakkumise;\n3)\n4) ringhäälinguloa väljaandmisega kaasneks Eesti Vabariigi poolt võetud lepinguliste kohustuste rikkumine;\n5) taotletav tegevus on seadusevastane;\n6) ringhäälinguloa väljaandmisega tekib saatetegevuseks kavandataval territooriumil ajakirjandus- või infomonopol või kartell või koonduks ringhääling selleks kavandataval territooriumil või osal Eesti territooriumist omavahel koostööd tegevate isikute kätte;\n7) ringhäälinguloa väljaandmine rikuks saatetegevuseks kavandataval territooriumil või osal Eesti territooriumist vaba konkurentsi ja võrdsetel alustel põhineva ettevõtluse nõudeid;\n8) televisiooni- ja raadioorganisatsioonina tegutsev isik või päeva- ja nädalalehe vastutav väljaandja muutuks saatetegevuseks kavandatud territooriumil või osal Eesti territooriumist samaaegselt televisiooni- ja raadioorganisatsioonina tegutsevaks isikuks ja päeva- või nädalalehe vastutavaks väljaandjaks, kusjuures antud piirang ei laiene ringhäälinguorganisatsiooni enda poolt väljaantud saatekavalehele.\n(5) Ringhäälinguloa taotlused vaadatakse läbi kolme kuu jooksul, arvates käesoleva paragrahvi 1. lõike punktis 1 nimetatud tähtaja möödumise päevast.\n(6) Ringhäälinguloa väljaandmise tähtaega võib Kultuuriministeerium oma otsusega pikendada kuni kaheksa kuuni, informeerides sellest ringhäälinguloa taotlejat, kui see on tingitud vajadusest rahvusvaheliselt ringhäälingusagedusi kooskõlastada.\n(6^1) Käesoleva paragrahvi lõikeid 1 ja 6 ning lõike 4 punkti 2 ei kohaldata ringhäälinguloa väljaandmisel kaabellevivõrgus.\n(7) –(8)"
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "6. peatükk - ERAÕIGUSLIKE ISIKUTE RINGHÄÄLINGULOAD",
+      "section": "41",
+      "title": "§ 41. Ringhäälinguloa kehtivus ja kehtetuks tunnistamine",
+      "content": "(1) Ringhäälinguluba kehtib sellel märgitud ajani.\n(2) Ringhäälinguloal märgitud isiku surma või juriidilise isiku likvideerimise korral kaotab ringhäälinguluba kehtivuse.\n(3) Ringhäälinguloa võib kehtetuks tunnistada käesoleva paragrahvi 5. lõikes sätestatud alustel:\n1) kohus;\n2) loa välja andnud Kultuuriministeerium.\n(4)\n(5) Ringhäälinguluba tunnistatakse kehtetuks, kui loal märgitud isik:\n1) esitab sellekohase taotluse;\n2) ei täida süstemaatiliselt tegevusloaga määratud tingimusi;\n3) rikub oma tegevuses käesoleva seaduse nõudeid;\n4) esitas loa saamiseks valeandmeid; 5)–6)\n(6) –(7)"
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "7. peatükk - JÄRELEVALVE",
+      "section": "42",
+      "title": "§ 42. Järelevalvet teostavad ametnikud",
+      "content": "(1) Järelevalvet käesoleva seaduse täitmise ja ringhäälinguloa tingimustest kinnipidamise üle teostavad Kultuuriministeeriumi levitalituse ja Tehnilise Järelevalve Ameti ametnikud.\n(2) Kultuuriministeeriumi levitalituse ametnikud teostavad järelevalvet käesoleva seaduse nõuetest, samuti programmiga seotud tingimustest ja tegevuse alustamise tähtajast (käesoleva seaduse § 38 lõike 1 punktid 3–6) kinnipidamise üle.\n(3)\n(4) Järelevalvet teostaval ametnikul on õigus:\n1) saada vajadusel ringhäälinguorganisatsioonide saadete salvestisi;\n2) teha ringhäälinguorganisatsioonile käesoleva seaduse §-s 43 sätestatud korras kohustuslik ettekirjutus käesoleva seaduse või ringhäälinguloa tingimuste rikkumise korral;\n3) teha kultuuriministrile esildis ringhäälinguloa kehtivuse peatamiseks või ringhäälinguloa kehtetuks tunnistamiseks;\n4) saada vajaduse korral ringhäälinguorganisatsioonilt andmeid käesoleva seaduse täitmise ja ringhäälingulubade tingimustest kinnipidamise kohta."
+    },
+    {
+      "provision_ref": "para42^1",
+      "chapter": "7. peatükk - JÄRELEVALVE",
+      "section": "42^1",
+      "title": "§ 42^1. Andmete esitamine",
+      "content": "Televisiooniorganisatsioonid esitavad Kultuuriministeeriumile igal aastal hiljemalt 15. veebruariks andmed käesoleva seaduse § 4 ^1 2., 4. ja 5. lõikes sätestatud nõuete täitmise kohta andmete esitamisele eelnenud kalendriaastal, arvestades § 4 ^1 6. lõikes sätestatud erisust."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "7. peatükk - JÄRELEVALVE",
+      "section": "43",
+      "title": "§ 43. Ettekirjutus",
+      "content": "(1) Ettekirjutuses tuuakse ära:\n1) selle koostamise aeg ja koht;\n2) asutuse nimi ja aadress, kelle nimel ettekirjutus koostatakse;\n3) ettekirjutuse koostanud isiku ametinimetus, ees- ja perekonnanimi;\n4) õiguserikkumise koht, aeg ja kirjeldus;\n5) sätted, mis näevad ette vastutuse õiguserikkumise eest;\n6) nõue õiguserikkumise lõpetamiseks ja ettekirjutuse täitmise tähtaeg.\n(2) Ettekirjutuse mittetäitmisel või mittekohasel täitmisel kohaldatakse käesolevas seaduses või haldusõiguserikkumiste seadustikus ettenähtud vastutust."
+    },
+    {
+      "provision_ref": "para43^1",
+      "chapter": "7. peatükk - JÄRELEVALVE",
+      "section": "43^1",
+      "title": "§ 43^1. Ringhäälinguloa peatamine või kehtetuks tunnistamine",
+      "content": "(1)\n(2) Kultuuriministril on õigus vastavalt järelevalvet teostava ametniku motiveeritud esildisele oma käskkirjaga peatada ringhäälinguloa kehtivus kuni 14 päevaks või tunnistada ringhäälinguluba kehtetuks. §-d 43 ^2 –43 ^3"
+    },
+    {
+      "provision_ref": "para43^4",
+      "chapter": "7. peatükk - VASTUTUS",
+      "section": "43^4",
+      "title": "§ 43^4. Ringhäälinguloa tingimuste rikkumine",
+      "content": "Juriidilise isiku poolt ringhäälinguloa tingimuste rikkumise eest – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para43^5",
+      "chapter": "7. peatükk - VASTUTUS",
+      "section": "43^5",
+      "title": "§ 43^5. Ringhäälinguseaduse nõuete rikkumine",
+      "content": "Juriidilise isiku poolt ringhäälinguseaduse nõuete rikkumise eest – karistatakse rahatrahviga kuni 2600 eurot."
+    },
+    {
+      "provision_ref": "para43^6",
+      "chapter": "7. peatükk - VASTUTUS",
+      "section": "43^6",
+      "title": "§ 43^6. Menetlus",
+      "content": "(1) Käesoleva seaduse §-des 43 ^4 ja 43 ^5 sätestatud väärtegudele kohaldatakse karistusseadustiku üldosa ja väärteomenetluse seadustiku sätteid.\n(2) Käesoleva seaduse §-des 43 ^4 ja 43 ^5 sätestatud väärtegude kohtuväline menetleja on:\n1) Kultuuriministeerium;\n2) Tehnilise Järelevalve Amet (ringhäälinguloa tehniliste tingimuste rikkumise osas)."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "8. peatükk - LÕPPSÄTTED",
+      "section": "44",
+      "title": "§ 44. Tegevuslitsentside asendamine ringhäälingulubadega",
+      "content": "(1) Enne käesoleva seaduse jõustumist väljaantud televisiooni ja raadio tegevuslitsentsid asendatakse ringhäälingulubadega käesolevas seaduses sätestatud korras.\n(2) Litsentsi asendamiseks ringhäälinguloaga tuleb loa taotlejal kahe kuu jooksul, arvates seaduse jõustumisest, esitada Kultuuri- ja Haridusministeeriumile käesoleva seaduse nõuetele vastav taotlus. Taotlus vaadatakse läbi käesoleva seaduse alusel ja korras.\n(3) Enne käesoleva seaduse jõustumist väljaantud televisiooni ja raadio tegevuslitsentsid kaotavad kehtivuse:\n1) tegevuslitsentsi ringhäälinguloaga asendamise taotluse rahuldamise juhul – ringhäälinguloa väljaandmise otsuse tegemisele järgnevast päevast;\n2) muudel juhtudel – viie kuu möödumisel käesoleva seaduse jõustumise päevast."
+    },
+    {
+      "provision_ref": "para44^1",
+      "chapter": "8. peatükk - LÕPPSÄTTED",
+      "section": "44^1",
+      "title": "§ 44^1. Seaduse jõustumine",
+      "content": "(1) Käesoleva seaduse § 4 ^1 lõiked 4 ja 5 jõustuvad 2003. aasta 1. jaanuaril.\n(1^1) Kuni 2003. aasta 1. jaanuarini on käesoleva seaduse § 4 ^1 4. lõikes sätestatud toodangu osakaal saateajas järgmine:\n1) alates 2001. aasta 1. jaanuarist – vähemalt 40 protsenti;\n2) alates 2002. aasta 1. jaanuarist – vähemalt 45 protsenti.\n(2) Kuni 2003. aasta 1. jaanuarini on käesoleva seaduse § 4 ^1 lõikes 5 sätestatud toodangu osakaal saateajas järgmine:\n1) alates 2000. aasta 1. jaanuarist – vähemalt 5 protsenti;\n2) alates 2001. aasta 1. jaanuarist – vähemalt 6,5 protsenti;\n3) alates 2002. aasta 1. jaanuarist – vähemalt 8 protsenti.\n(3)"
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "8. peatükk - LÕPPSÄTTED",
+      "section": "45",
+      "title": "§ 45. Organisatsioonilised muudatused",
+      "content": "(1) Riigiettevõtte «Eesti Telekommunikatsioonid» Ringhäälingu Saatekeskuse tervikvara baasil asutab Vabariigi Valitsus 1996. aasta 1. jaanuariks aktsiaseltsi äriseadustikus kehtestatud korras.\n(2) Käesoleva paragrahvi 1. lõikes nimetatud aktsiaseltsi aktsiad kuuluvad asutamisel riigile. Aktsiate võõrandamine toimub riigivaraseaduses kehtestatud korras, kusjuures aktsiate võõrandamisel peab riigile jääma vähemalt 51% aktsiatega esindatud häältest.\n(3) –(6)"
+    },
+    {
+      "provision_ref": "para45^1",
+      "chapter": "8. peatükk - LÕPPSÄTTED",
+      "section": "45^1",
+      "title": "§ 45^1. Rakendussätted",
+      "content": "(1) Käesoleva seaduse §-s 31 märgitud ringhäälingunõukogu liikmed nimetab Riigikogu hiljemalt 2000. aasta 1. maiks. Riigikogu kultuurikomisjoni esimees kutsub hiljemalt 10 tööpäeva jooksul, arvates ringhäälingunõukogu moodustamisest, ringhäälingunõukogu kokku, juhatades istungit esimehe valimiseni.\n(2) Seniste ringhäälingunõukogu liikmete volitused lõpevad päeval, mil jõustub otsus käesoleva paragrahvi 1. lõikes märgitud ringhäälingunõukogu liikmete nimetamise kohta.\n(3) Käesoleva seaduse §-s 32 ^2 märgitud Eesti Raadio ja Eesti Televisiooni juhatuste liikmed määrab ringhäälingunõukogu hiljemalt 2000. aasta 1. juuliks ja nende volitused algavad hiljemalt 2000. aasta 10. juulist. Sellest päevast loetakse lõppenuks Eesti Raadio ja Eesti Televisiooni peadirektorite ja seniste juhatuste liikmete volitused.\n(4) Ringhäälingunõukogu võib Eesti Raadio peadirektori ja Eesti Televisiooni peadirektori enne volituste lõppemist ametist vabastada ja nendega töölepingu lõpetada Eesti Vabariigi töölepingu seaduses sätestatud alustel või umbusaldusotsusega, mille vastuvõtmiseks on nõutav ringhäälingunõukogu koosseisu vähemalt kahekolmandikuline häälteenamus.\n(5) Ringhäälingunõukogu viib Eesti Raadio ja Eesti Televisiooni põhikirjad käesoleva seadusega kooskõlla hiljemalt 2000. aasta 1. juuliks.\n(6) Käesoleva seaduse § 31 13. lõige jõustub 2001. aasta 1. jaanuaril.\n(7) Vabariigi Valitsus kehtestab käesoleva seaduse § 11 ^1 1. lõikes nimetatud Eesti üldsuse jaoks oluliste sündmuste nimekirja 2003. aasta 1. jaanuariks.\n(8) Käesoleva seaduse § 29 ^1 1. ja 2. lõiget rakendatakse Eesti Raadio suhtes alates 2005. aasta 1. jaanuarist. Nimetatud tähtajani on Eesti Raadiol õigus jätkata reklaami edastamist kahel kanalil, kusjuures reklaami maht ei ületa 5 protsenti päevasest programmi saatemahust. Reklaami edastamise korra, hinna, kasutamise ja mahu kehtestab ringhäälingunõukogu. Kuni 2005. aasta 1. jaanuarini moodustuvad Eesti Raadio tulud lisaks käesoleva seaduse § 35 1. lõikes nimetatud tuludele ka laekumistest, mis saadakse saateaja müügist reklaamiks.\n(9) Enne kaabelleviseaduse jõustumist Tehnilise Järelevalve Ameti väljastatud tähtajalise loa, kaabeltelevisioonivõrgu kasutusloa või kaabeltelevisioonivõrgu loa alusel tegutsevad isikud lisavad ringhäälinguloa kaabeltelevisioonivõrgus taotlusele dokumendi, mis tõendab, et nad on esitanud Tehnilise Järelevalve Ametile taotluse kaabellevivõrguloa väljastamiseks kaabelleviseaduse § 33 1. lõikes ettenähtud korras.\n(10) 2002. aastal kehtivate televisioonivõrgu ringhäälingulubade eest tasutakse ringhäälinguloa tasu 2002. aasta II poolaasta eest 2002. aasta 1. juuliks ja 1. novembriks.\n(11) Käesoleva seaduse § 37 3 ^1. lõikes nimetatud tasu suurus aastas kuni 2005. aasta 1. jaanuarini vastavalt loa liigile on:\n1) kohalik ringhäälinguluba televisioonivõrgus, kui saatja tegevusulatus katab Harjumaa või Tallinna või mõlemad – 10 000 000 krooni;\n2) üleriigiline ringhäälinguluba televisioonivõrgus – 15 000 000 krooni;\n3) rahvusvaheline ringhäälinguluba televisioonivõrgus – 15 000 000 krooni.\n(12) Käesoleva seaduse jõustumise ajal kehtivate ringhäälingulubade eest tasutakse kuni loa kehtivusaja lõpuni vastavalt 1. märtsiks, 1. juuniks ning 1. septembriks.\n(13) Käesoleva seaduse § 37 3 ^2. lõike punktis 2 märgitud tasu suureneb esmakordselt alates 2006. aasta 1. jaanuarist.\n(14)\n(15) Televisioonisaadete ja -programmide edastamine maapealse leviga analoogtelevisioonivõrgus lõpetatakse hiljemalt 2010. aasta 1. juuliks.\n(16) Käesoleva seaduse § 37 3. lõike punktide 1 ja 4 alusel välja antud televisiooni ringhäälinguload analoogvõrgus kehtivad kuni neis märgitud tähtpäevani, kuid mitte kauem kui 2010. aasta 1. juulini. Käesoleva seaduse § 37 3. lõike punkti 3 alusel välja antud televisiooni üleriigiliste ringhäälingulubade analoogvõrgus tähtaega pikendatakse kuni 2010. aasta 1. juulini.\n(17) Käesoleva seaduse § 37 3. lõike punkti 3 alusel välja antud televisiooni üleriigilise ringhäälinguloa analoogvõrgus omanikele antakse nende taotluse korral samade programmide edastamiseks erandkorras välja televisiooni üleriigilised digitaalringhäälinguload maapealses digitaalringhäälinguvõrgus kehtivusajaga alates 2010. aasta 1. juulist kuni 2015. aasta 1. jaanuarini. Käesolevas lõikes sätestatud taotlus esitatakse ringhäälinguloa väljaandjale hiljemalt 2009. aasta 1. märtsiks. Käesolevas lõikes sätestatud ringhäälinguload antakse välja hiljemalt 2009. aasta 1. juuliks.\n(18) Käesoleva seaduse § 37 3. lõike punkti 3 alusel välja antud televisiooni üleriigilise ringhäälinguloa alusel analoogvõrgus tegutsevad ringhäälinguorganisatsioonid, kes hiljemalt 2008. aasta 1. juulist taasedastavad oma programmi maapealse leviga vaba juurdepääsuga üleriigilises digitaalringhäälinguvõrgus, ei ole kohustatud tasuma käesoleva seaduse § 37 3 ^1.–3 ^4. lõigetes sätestatud ringhäälinguloa tasu alates 2009. aasta 1. jaanuarist."
+    },
+    {
+      "provision_ref": "para46",
+      "section": "46",
+      "title": "§ 46.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para47",
+      "section": "47",
+      "title": "§ 47.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    }
+  ],
+  "definitions": []
+}

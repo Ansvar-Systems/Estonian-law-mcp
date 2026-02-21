@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-244174",
+  "type": "statute",
+  "title": "Alkoholiaktsiisi seadus",
+  "title_en": "Alkoholiaktsiisi seadus",
+  "short_name": "AAS",
+  "status": "in_force",
+  "issued_date": "2000-06-14",
+  "in_force_date": "2003-04-01",
+  "url": "https://www.riigiteataja.ee/akt/244174.xml",
+  "description": "Official consolidated statute text (Alkoholiaktsiisi seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

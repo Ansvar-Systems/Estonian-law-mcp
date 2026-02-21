@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-807333",
+  "type": "statute",
+  "title": "Kaubanduslikku meresõitu teostavate laevade miinimumnõuete konventsiooni ja selle protokolli ratifitseerimise seadus",
+  "title_en": "Kaubanduslikku meresõitu teostavate laevade miinimumnõuete konventsiooni ja selle protokolli ratifitseerimise seadus",
+  "short_name": "ee-law-807333",
+  "status": "in_force",
+  "issued_date": "2004-09-29",
+  "in_force_date": "2004-10-29",
+  "url": "https://www.riigiteataja.ee/akt/807333.xml",
+  "description": "Official consolidated statute text (Kaubanduslikku meresõitu teostavate laevade miinimumnõuete konventsiooni ja selle protokolli ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud kaubanduslikku meresõitu teostavate laevade miinimumnõuete konventsioon (Rahvusvahelise Tööorganisatsiooni – ILO – konventsioon nr 147), mis on vastu võetud 1976. aasta 29. oktoobril Genfis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ratifitseerida juurdelisatud kaubanduslikku meresõitu teostavate laevade miinimumnõuete 1976. aasta konventsiooni 1996. aasta protokoll (edaspidi protokoll ), mis on vastu võetud 1996. aasta 22. oktoobril Genfis."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Protokolli artikli 3 lõike 1 alusel deklareerib Eesti Vabariik, et ta tunnustab protokolli täiendlisa osas B nimetatud konventsioone. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

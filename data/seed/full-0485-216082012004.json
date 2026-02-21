@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-216082012004",
+  "type": "statute",
+  "title": "Euroopa Liidu toimimise lepingu muudatuse ratifitseerimise seadus",
+  "title_en": "Euroopa Liidu toimimise lepingu muudatuse ratifitseerimise seadus",
+  "short_name": "ee-law-216082012004",
+  "status": "in_force",
+  "issued_date": "2012-08-08",
+  "in_force_date": "2012-08-26",
+  "url": "https://www.riigiteataja.ee/akt/216082012004.xml",
+  "description": "Official consolidated statute text (Euroopa Liidu toimimise lepingu muudatuse ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Preambul",
+      "content": "Ratifitseerida Euroopa Liidu toimimise lepingu muudatus^1, mis on vastu võetud Euroopa Ülemkogu 2011. aasta 25. märtsi otsusega. ^1 Euroopa Liidu Teataja L 91, 06.04.2011 (lk 1–2); jõust. Eesti Vabariigi suhtes 01.05.2013."
+    }
+  ],
+  "definitions": []
+}

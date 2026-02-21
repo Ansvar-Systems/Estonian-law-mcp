@@ -1,0 +1,512 @@
+{
+  "id": "ee-law-106012023001",
+  "type": "statute",
+  "title": "Ohvriabi seadus",
+  "title_en": "Ohvriabi seadus",
+  "short_name": "OAS",
+  "status": "in_force",
+  "issued_date": "2022-12-14",
+  "in_force_date": "2023-04-01",
+  "url": "https://www.riigiteataja.ee/akt/106012023001.xml",
+  "description": "Official consolidated statute text (Ohvriabi seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "Käesolev seadus sätestab riikliku ohvriabi organisatsioonilised ja õiguslikud alused ning rahastamise ja järelevalve tingimused ja korralduse."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Seaduse eesmärk",
+      "content": "Käesoleva seaduse eesmärk on säilitada või taastada kuriteo, vägivalla või kriisijuhtumi tõttu kahjustatud füüsiliste isikute toimetulekuvõime ja turvatunne ning ennetada vägivalla kordumist ohvriabi korras pakutavate teenuste ja hüvitiste kaudu."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Teiste seaduste kohaldamine",
+      "content": "(1) Käesolevas seaduses ettenähtud sotsiaalkaitsele kohaldatakse sotsiaalseadustiku üldosa seaduse sätteid, arvestades käesolevas seaduses sätestatud erisusi.\n(2) Ohvriabi osutamisel alaealisele ohvrile kohaldatakse lastekaitseseaduses sätestatut, arvestades käesolevas seaduses sätestatud erisusi."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Ohvriabi ja ohver",
+      "content": "(1) Ohvriabi käesoleva seaduse tähenduses on riigi korraldatud ohvriabiteenuste ja kuriteoohvri hüvitiste süsteem.\n(2) Ohver käesoleva seaduse tähenduses on kuriteo, vägivalla või kriisijuhtumi tagajärjel kahjustatud või hukkunud isik.\n(3) Inimkaubanduse ohver käesoleva seaduse tähenduses on isik, kes on kannatanu karistusseadustiku §-s 133–133^3, 138–140 või 175 sätestatud kuriteo tunnustel alustatud kriminaalmenetluses, või isik, keda käsitataks kannatanuna muu samalaadse välisriigis kehtivas karistusseaduses sätestatud kuriteo tunnustel alustatud kriminaalmenetluses.\n(4) Naistevastase vägivalla ohver käesoleva seaduse tähenduses on naine, kellele tema suhtes toime pandud perevägivalla või soolise vägivalla, sealhulgas sund või omavoliline vabadusest ilmajätmine, või sellega ähvardamise tulemusena on tekitatud füüsilisi, seksuaalseid, psüühilisi või majanduslikke kahjusid või kannatusi kas avalikus või eraelus.\n(5) Perevägivalla ohver käesoleva seaduse tähenduses on isik, kes on kogenud füüsilise, seksuaalse, psüühilise või majandusliku vägivalla akte perekonnas või kooselus või endise või praeguse abikaasa või partneri poolt, sõltumata sellest, kas vägivallaakti toimepanija elab või on elanud ohvriga samas elukohas.\n(6) Seksuaalvägivalla ohver käesoleva seaduse tähenduses on isik, kelle suhtes on sooritatud seksuaalseid toiminguid ilma tema nõusolekuta või keda on sunnitud seksuaalsetele toimingutele kolmanda isikuga või keda on seksuaalselt väärkoheldud.\n(7) Terrorikuriteo ohver käesoleva seaduse tähenduses on isik, kes on kannatanu karistusseadustiku §-s 237 sätestatud kuriteo tunnustel alustatud kriminaalmenetluses, kui kriminaalmenetlust alustatakse Eesti Vabariigis, või sotsiaalseadustiku üldosa seaduse § 3 lõikes 1 nimetatud isik, keda käsitataks kannatanuna karistusseadustiku §-s 237 sätestatud kuriteokoosseisule vastavas teos, mis on toime pandud välisriigis."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5",
+      "title": "§ 5. Ohvri kohtlemise põhimõtted",
+      "content": "Töös ohvriga tuleb: 1 1) arvestada ohvri kogetud sündmuse iseloomu, ohvri esmavajadusi, vanust, sugu, võimalikku puuet ja küpsust, suhet vägivalla toimepanijaga või sõltuvust temast, austades ohvri füüsilist, vaimset ja moraalset puutumatust;\n2) alaealise ohvri puhul lähtuda lapse huvidest;\n3) informeerida ohvrit tema õigustest ja abi saamise võimalustest;\n4) suhelda ohvriga selges ja arusaadavas keeles;\n5) tagada ohvri ärakuulamine ja toetamine, arvestades vägivalla, kuriteo või kriisijuhtumi mõju ohvri käitumisele ja võimekusele abi vastu võtta;\n6) vältida taasohvristamist;\n7) kaasata ohvrit abi andmise kõikides etappides;\n8) hinnata ohvri olukorda ja abivajadust terviklikult;\n9) tagada abi ohvrile võimalikult kättesaadaval moel."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "6",
+      "title": "§ 6. Ohvriabi kohta info kättesaadavuse tagamine",
+      "content": "Info ohvriabi saamise võimaluste kohta peab olema kättesaadav Sotsiaalkindlustusametis, kohaliku omavalitsuse üksuses, politsei-, pääste-, tervishoiu-, hoolekande-, haridus- ja noorsootööasutustes, prokuratuuris ja kohtus ning muudes asjaomastes asutustes ja nende veebilehtedel."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "7",
+      "title": "§ 7. Ohvri andmete edastamine Sotsiaalkindlustusametile ohvriabi saamiseks",
+      "content": "(1) Kui kriminaalmenetluses on kannatanul tuvastatud erikohtlemise ja kaitse vajadus, edastab menetleja temaga seotud andmed ohvriabi saamiseks Sotsiaalkindlustusametile esimesel võimalusel.\n(2) Kui ohvriabi vajab isik, kes ei vasta käesoleva paragrahvi lõikes 1 nimetatud tingimustele, edastab politsei või prokuratuur temaga seotud andmed ohvriabi saamiseks Sotsiaalkindlustusametile isiku soovil.\n(3) Kui ohver on abi saamiseks pöördunud riigi või kohaliku omavalitsuse asutuse, tervishoiu- või hoolekandeasutuse või vastava spetsialisti, sealhulgas vaimse tervise spetsialisti poole, edastab asjaomane asutus, teenuseosutaja või spetsialist tema ees- ja perekonnanime, kontaktandmed, juhtumi liigi ja ohvriabi saamise soovi Sotsiaalkindlustusametile.\n(4) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud andmed on:\n1) ohvri ees- ja perekonnanimi;\n2) ohvri sünniaeg või isikukood;\n3) ohvri kontaktandmed, piiratud teovõimega isiku korral ka tema seadusliku esindaja kontaktandmed;\n4) kuriteo korral ohvri suhtes eeldatavalt toime pandud kuriteo liik;\n5) juhtumi liik;\n6) sündmuse toimumise aeg;\n7) ohvri suhe vägivalla toimepanijaga;\n8) märge alaealise lapse juhtumis osalemise kohta.\n(5) Kui käesoleva paragrahvi lõigetes 1–3 nimetatud ohver, kellega seotud andmed on edastatud Sotsiaalkindlustusametile, ei soovi, et tema andmeid töödeldakse ohvriabi pakkumiseks, lõpetab Sotsiaalkindlustusamet andmete edasise töötlemise teenuste pakkumiseks kohe, kui on saanud isikult sellekohase teate."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "8",
+      "title": "§ 8. Ohvri abivajaduse hindamine",
+      "content": "(1) Ohvri abivajadust hinnates tuleb anda hinnang tema füüsilisele, tervislikule, psühholoogilisele, emotsionaalsele, sotsiaalsele ja kognitiivsele seisundile ning nendest lähtuvalt tema haavatavusele, et otsustada ohvriabiteenuste vajaduse ja mahu üle.\n(2) Kui alaealise ohvri abivajadust hinnates selgub, et tegemist on abivajava või hädaohus oleva lapsega, tuleb tagada tema abistamine lastekaitseseaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "9",
+      "title": "§ 9. Täisealise perevägivalla ohvri abivajaduse hindamise erisused",
+      "content": "(1) Täisealise perevägivalla ohvri puhul tuleb abivajadust hinnates hinnata ka perevägivallast tulenevat riski tema elule ja tervisele.\n(2) Kui käesoleva paragrahvi lõikes 1 sätestatud hindamise tulemusena selgub, et täiskasvanud ohvril esineb perevägivalla tõttu surma või raske tervisekahjustuse risk (edaspidi hädaohus olev täisealine perevägivalla ohver ), peab Sotsiaalkindlustusamet hindama ka ohvrit ohustavast isikust tulenevaid riske ohvri jaoks ning hinnangust lähtuvalt kavandama sobivad tegevused ohvri abistamiseks ja riskide maandamiseks.\n(3) Kui ohvriabi vahetult osutav isik tuvastab käesoleva paragrahvi lõikes 1 sätestatud hindamise tulemusena, et isik on hädaohus olev täisealine perevägivalla ohver, edastab ta Sotsiaalkindlustusametile käesoleva paragrahvi lõikes 2 sätestatud hinnangu andmiseks, ohvri abistamiseks ja riskide maandamiseks ohvri avaldatud andmed ohvri, tema alaealiste laste ja teda ohustava isiku kohta."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "10",
+      "title": "§ 10. Hädaohus oleva täisealise perevägivalla ohvri abistamine ja juhtumiga seotud andmete töötlemine",
+      "content": "(1) Hädaohus oleva täisealise perevägivalla ohvri puhul on Sotsiaalkindlustusametil käesoleva seaduse § 9 lõikes 2 sätestatud hinnangu andmiseks, ohvri abistamiseks ja riskide maandamiseks õigus töödelda ohvri, tema alaealiste laste ja teda ohustava isiku isikuandmeid.\n(2) Hädaohus oleva täisealise perevägivalla ohvri isikuandmed on:\n1) ees- ja perekonnanimi, isikukood, kontaktandmed ja elukoht (edaspidi üldandmed );\n2) andmed vanemluse ja eestkoste kohta;\n3) andmed võimaliku raseduse kohta;\n4) andmed tööga hõivatuse kohta;\n5) puude raskusaste ja liik;\n6) vigastustega seotud terviseandmed;\n7) vägivalla liik;\n8) välismaalase puhul Eestis viibimise õiguslik alus;\n9) andmed Häirekeskusele ning Politsei- ja Piirivalveametile viimase aasta jooksul tehtud väljakutsete kohta, mis puudutavad ohvriga seotud perevägivalda või viitavad sellele;\n10) muud juhtumiga seotud asjakohased andmed.\n(3) Hädaohus oleva täisealise perevägivalla ohvri alaealise lapse isikuandmed on:\n1) üldandmed;\n2) andmed võimaliku vanemluse või eestkoste kohta;\n3) andmed võimaliku raseduse kohta;\n4) andmed hariduse omandamise või tööga hõivatuse kohta;\n5) puude raskusaste ja liik;\n6) vigastustega seotud terviseandmed.\n(4) Hädaohus olevat täisealist perevägivalla ohvrit ohustava isiku isikuandmed on:\n1) üldandmed;\n2) andmed vanemluse, leibkonnas kasvavate alaealiste laste ja eestkoste kohta;\n3) andmed võimaliku raseduse kohta;\n4) andmed tööga hõivatuse kohta;\n5) puude raskusaste ja liik;\n6) juhtumit mõjutavad terviseandmed;\n7) vägivalla liik;\n8) välismaalase puhul Eestis viibimise õiguslik alus;\n9) Häirekeskusele ning Politsei- ja Piirivalveametile viimase aasta jooksul isikuga seoses tehtud väljakutsed;\n10) karistusregistrisse, sealhulgas karistusregistri arhiivi, kantud karistusandmed;\n11) kahtlustatava või süüdistatava isiku suhtes käimas oleva kriminaalmenetluse andmed koos selle esemeks oleva kuriteo liigi ja toimepanemise ajaga;\n12) isiku suhtes kriminaalmenetluses kohaldatud tõkendid ning kriminaal- ja tsiviilkohtumenetluses kohaldatud viibimis-, suhtlemis- ja lähenemiskeeld;\n13) isikule väljastatud relvasoetamise luba ja relvaluba ning andmed tema omandis või valduses olevate relvade ja laskemoona kohta, samuti isiku relvadele ja laskemoonale ligipääsu kohta;\n14) vahi alt, vangistusest või statsionaarselt sundravilt lahkumise aeg;\n15) muud juhtumiga seotud asjakohased andmed.\n(5) Hädaohus oleva täisealise perevägivalla ohvri puhul on Sotsiaalkindlustusametil täiendava hinnangu andmiseks, ohvri abistamiseks ja riskide maandamiseks, sealhulgas käesoleva paragrahvi lõigetes 2–4 nimetatud andmete saamiseks ja töötlemiseks, õigus kaasata asjaomaseid asutusi ja spetsialiste. Eelviidatud eesmärkide täitmiseks on õigus andmeid töödelda ka menetlusse kaasatud osapoolte vahel.\n(6) Sotsiaalkindlustusametil on õigus kaasata käesoleva paragrahvi lõikes 5 nimetatud eesmärgil järgmisi asutusi ja spetsialiste:\n1) Politsei- ja Piirivalveamet;\n2) prokuratuur;\n3) asjaomane kohaliku omavalitsuse üksus;\n4) asjaomane halduslepingu alusel ohvriabi osutav asutus;\n5) vägivallast loobumise toetamise teenuse osutaja;\n6) täisealist perevägivalla ohvrit ohustava isiku kriminaalhooldaja, kui isik on kriminaalhoolduse all;\n7) põhjendatud juhul muu asutus või spetsialist.\n(7) Isikuandmete töötlemisel käesoleva paragrahvi lõigete 1–4 alusel on Sotsiaalkindlustusametil õigus Euroopa Parlamendi ja nõukogu määruses (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus) (ELT L 119, 04.05.2016, lk 1–88) sätestatud andmesubjekti õigusi piirata kuni kolmeks aastaks eesmärgiga kaitsta hädaohus oleva täisealise perevägivalla ohvri ning tema alaealiste laste elu ja tervist.\n(8) Käesoleva paragrahvi lõike 7 alusel võib piirata järgmisi andmesubjekti õigusi:\n1) õigus saada teada tema isikuandmete töötlemisest, sealhulgas sellest, milliseid isikuandmeid töödeldakse, samuti töötlemise viisi, meetodit, eesmärki, õiguslikku alust, ulatust ja põhjust;\n2) õigus saada teada tema isikuandmete vastuvõtjaid ja avaldatavate isikuandmete kategooriaid ning sellest, kas tema isikuandmed edastatakse välisriigile või rahvusvahelisele organisatsioonile;\n3) õigus esitada vastuväiteid tema isikuandmete töötlemise kohta;\n4) õigus saada teada tema isikuandmetega seotud rikkumisest."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "11",
+      "title": "§ 11. Konfidentsiaalsuskohustus",
+      "content": "Ohvriabi vahetult osutavad isikud ja käesoleva seaduse § 10 alusel infot saanud isikud peavad hoidma konfidentsiaalsena neile ohvriabi osutamisel teatavaks saanud andmeid ohvri ja juhtunuga vahetult seotud isikute kohta, kui seaduses või kokkuleppel ohvriga ei ole ette nähtud teisiti."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - Nõuded ohvriabi vahetult osutavale isikule",
+      "section": "12",
+      "title": "§ 12. Üldnõuded ohvriabi vahetult osutavale isikule",
+      "content": "(1) Ohvriabi vahetult osutavad isikud on ohvriabitöötajad, ohvritega töötavad isikud ja ohvriabi vabatahtlikud.\n(2) Ohvriabitöötaja käesoleva seaduse tähenduses on Sotsiaalkindlustusameti ametnik või töötaja, kes täidab talle seaduses või muus õigusaktis sätestatud ohvriabi pakkumise kohustusi.\n(3) Ohvriabi vahetult osutav isik peab vastama järgmistele üldnõuetele:\n1) ta on vähemalt 18-aastane;\n2) tal on ohvriabi osutamiseks vajalikud isikuomadused;\n3) teda ei ole karistatud sellise tahtlikult toime pandud kuriteo eest, mis võib ohtu seada teenust saama õigustatud isiku elu, tervise või vara;\n4) ta vastab lastekaitseseaduse §-s 20 sätestatud nõuetele, kui abi osutatakse lapsele."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - Nõuded ohvriabi vahetult osutavale isikule",
+      "section": "13",
+      "title": "§ 13. Ettevalmistusnõuded ohvriabi vahetult osutavale isikule",
+      "content": "(1) Ohvriabi võib vahetult osutada isik, kes vastab käesoleva seaduse § 12 lõikes 3 nimetatud üldnõuetele ning kellel on vajalik erialane ettevalmistus ohvriabi osutamiseks.\n(2) Ohvriabi vahetult osutava isiku erialase ettevalmistuse nõuded, sealhulgas nõuded haridusele ja täienduskoolitusele, ning täienduskoolituse korraldamise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega.\n(3) Ohvriabi põhiteenuse osutamisel võib ohvriabitöötaja juhendamisel osaleda oma vabast ajast ja tasu saamata ka ohvriabi vabatahtlik, kelle puhul otsustab Sotsiaalkindlustusamet isiku ettevalmistuse sobivuse.\n(4) Välisriigis omandatud kvalifikatsiooni vastavuse käesolevas seaduses ja selle alusel kehtestatud nõuetele otsustab Sotsiaalkindlustusamet välisriigi kutsekvalifikatsiooni tunnustamise seaduse alusel, arvestades käesolevas seaduses sätestatud erisusi."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "14",
+      "title": "§ 14. Ohvriabi korraldamine",
+      "content": "(1) Ohvriabi korraldab Sotsiaalkindlustusamet.\n(2) Sotsiaalkindlustusameti ülesanded ohvriabi korraldamisel on:\n1) ohvriabiteenuste korraldamine;\n2) hüvitiste maksmise korraldamine;\n3) ööpäevaringse ohvriabi kriisitelefoni 116 006 pidamine;\n4) ohvriabi täienduskoolituste korraldamine;\n5) ohvriabi vabatahtlike kaasamine ja juhendamine;\n6) ennetus- ja teavitustegevuste korraldamine.\n(3) Ohvriabi korraldamisel teeb Sotsiaalkindlustusamet koostööd teiste riigi- ja kohaliku omavalitsuse asutustega ning füüsiliste ja juriidiliste isikutega."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "15",
+      "title": "§ 15. Ohvriabiteenuste eesmärk ja sisu",
+      "content": "(1) Ohvriabiteenuste eesmärk on tagada kuriteo, vägivalla või kriisijuhtumi tõttu kahjustada saanud isikutele sotsiaalne, psühholoogiline ja emotsionaalne abi (edaspidi psühhosotsiaalne abi ), et aidata kaasa nende turvatunde ja toimetulekuvõime säilitamisele või taastamisele ning edasise kahju ennetamisele.\n(2) Ohvriabiteenused on:\n1) ohvriabi põhiteenus;\n2) psühhosotsiaalne abi kriisijuhtumi korral;\n3) naiste tugikeskuse teenus;\n4) seksuaalvägivalla kriisiabi;\n5) inimkaubandusohvrite teenus;\n6) taastava õiguse teenused;\n7) vägivallast loobumise toetamine;\n8) traumast taastumist toetav vaimse tervise abi.\n(3) Sotsiaalkindlustusamet võib käesoleva paragrahvi lõike 2 punktides 2–7 nimetatud teenuste osutamise, mis on seotud haldusülesande täitmisega, anda halduslepinguga osaliselt või tervikuna üle füüsilisele või juriidilisele isikule või kohaliku omavalitsuse üksusele.\n(4) Haldusjärelevalvet ohvriabi osutaja üle teeb Sotsiaalkindlustusamet."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "16",
+      "title": "§ 16. Ohvriabiteenuste osutamise erisused",
+      "content": "(1) Käesoleva seaduse § 15 lõike 2 punktides 1 ja 2 nimetatud abi osutatakse lisaks sotsiaalseadustiku üldosa seaduse § 3 lõikes 1 nimetatud isikutele ka inimkaubanduse ohvrile ja Eestis toimunud terrorikuriteo ohvrile, sõltumata sellest, kas tal on Eestis viibimiseks seaduslik alus, kuni tema lahkumiskohustuse tähtpäeva saabumiseni või ennetähtaegse riigist lahkumiseni.\n(2) Välismaalasest ohvrile teenuse osutamine ei ole tema Eestis viibimise seaduslik alus ega lükka tema Eestist lahkumise kohustuse täitmist edasi."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "17",
+      "title": "§ 17. Ohvriabi põhiteenuse eesmärk ja sisu",
+      "content": "(1) Ohvriabi põhiteenuse eesmärk on tagada kuriteo, vägivalla või kriisijuhtumi ohvritele asjakohane toetus ja abi.\n(2) Ohvriabi põhiteenus sisaldab järgmist:\n1) ohvri informeerimine võimalikest teenustest ja kaitsemeetmetest;\n2) ohvri nõustamine ja talle psühhosotsiaalse abi tagamine;\n3) ohvri abivajaduse hindamine ja talle sobiva ohvriabiteenuse tagamine, vajaduse korral ohvri abistamine juhtumikorralduse põhimõttel;\n4) ohvri abistamine suhtlemisel riigi- ja kohaliku omavalitsuse asutustega ning asjaomaste füüsiliste ja juriidiliste isikutega.\n(3) Ohvriabi põhiteenust osutavad ohvriabitöötajad."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "18",
+      "title": "§ 18. Ohvriabi põhiteenuse osutamise erisused alaealise ohvri puhul",
+      "content": "(1) Kui Sotsiaalkindlustusamet saab käesoleva seaduse § 7 lõike 1 alusel teate alaealisest, kes võib vajada ohvriabi, selgitab ohvriabitöötaja enne ohvriabiteenuste pakkumist välja, kas ja millist abi on ohvrile ja teda kasvatavale isikule osutanud kohaliku omavalitsuse üksus lastekaitseseaduse alusel.\n(2) Alaealisele seksuaalvägivalla ohvrile osutab Sotsiaalkindlustusamet ohvriabi põhiteenust koos lastekaitseseaduse §-s 29^1 sätestatud meetmetega."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "19",
+      "title": "§ 19. Psühhosotsiaalse abi eesmärk ja sisu kriisijuhtumi korral",
+      "content": "(1) Psühhosotsiaalset abi kriisijuhtumi korral (edaspidi psühhosotsiaalne kriisiabi ) osutatakse kriisijuhtumi ohvrile, et ta tuleks juhtunuga toime, et vähendada juhtumi mõju tema igapäevasele tegutsemisele ning et taastada tema iseseisev toimetulek.\n(2) Kriisijuhtum käesoleva seaduse tähenduses on ootamatu ulatusliku mõjuga juhtum, mis võib kaasa tuua inimeste kahjustumise või hukkumise, põhjustades enamikul sellega seotud inimestest tõsiseid üleelamisi ja abivajaduse.\n(3) Psühhosotsiaalne kriisiabi sisaldab järgmist:\n1) ööpäevaringne kriisijuhtumitele reageerimine;\n2) olukorra hindamine ning seotud asutuste ja isikutega koostöö käivitamine;\n3) kriisijuhtumi ohvrite väljaselgitamine ja nende esmaste vajaduste hindamine;\n4) psühholoogilise esmaabi andmine ja muu psühhosotsiaalse abi käivitamine;\n5) spetsialistide koostöö kriisijuhtumi ohvri abistamisel."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "20",
+      "title": "§ 20. Andmete edastamine psühhosotsiaalse kriisiabi korraldamiseks",
+      "content": "(1) Häirekeskus edastab kriisijuhtumi korral Sotsiaalkindlustusametile psühhosotsiaalse kriisiabi korraldamiseks sündmuse asukoha ja kirjelduse ning info võimalike inimkahjude kohta.\n(2) Kui kriisijuhtumi ohver võib juhtumi asjaolude tõttu vajada ohvriabi enda või juhtumiga seotud teise füüsilise isiku elu ja tervise kaitseks, edastab Politsei- ja Piirivalveamet, Kaitsepolitseiamet või Päästeamet tema andmed Sotsiaalkindlustusametile esimesel võimalusel.\n(3) Kui välisriigis toimunud terrorikuriteo ohver võib juhtumi asjaolude tõttu vajada ohvriabi enda või juhtumiga seotud teise füüsilise isiku elu ja tervise kaitseks, edastab Välisministeerium tema andmed nende olemasolu korral Sotsiaalkindlustusametile esimesel võimalusel.\n(4) Käesoleva paragrahvi lõigetes 2 ja 3 nimetatud andmeteks on kriisijuhtumi ohvri ees- ja perekonnanimi, kontaktandmed ja seos kriisijuhtumiga."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "21",
+      "title": "§ 21. Naiste tugikeskuse teenuse eesmärk ja sisu",
+      "content": "(1) Naiste tugikeskuse teenuse eesmärk on aidata kaasa naistevastase vägivalla ohvri vägivallast pääsemisele, turvalisuse suurendamisele ja iseseisva toimetuleku saavutamisele.\n(2) Naiste tugikeskuse teenus sisaldab järgmist:\n1) valmisolek anda ohvrile ja tema lastele ööpäev läbi esmast psühhosotsiaalset abi;\n2) ohvri abivajaduse hindamine, et otsustada teenuse vajaduse ja mahu üle;\n3) ohvri nõustamine ja psühhosotsiaalse abi tagamine;\n4) juhtumikorralduse rakendamine juhul, kui ohver vajab iseseisva toimetuleku saavutamiseks pikaajalist ja mitmekülgset abi;\n5) psühholoogiline nõustamine või psühhoteraapia;\n6) juriidiline abi;\n7) ohvrile ja tema lastele turvaline ajutine majutus ööpäev läbi.\n(3) Käesoleva paragrahvi lõike 2 punktis 7 nimetatud teenust osutatakse kuni kuus kuud.\n(4) Naiste tugikeskuse teenust osutab erialaspetsialistidest koosnev meeskond tervikteenusena ja see on kättesaadav igas maakonnas."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "22",
+      "title": "§ 22. Seksuaalvägivalla kriisiabi eesmärk ja sisu",
+      "content": "(1) Seksuaalvägivalla kriisiabi eesmärk on tagada seksuaalvägivalla ohvrile seksuaalvägivalla tõttu vajalik meditsiiniline abi ja esmane psühhosotsiaalne abi, et aidata kaasa ohvri füüsilisele ja psühhosotsiaalsele taastumisele.\n(2) Seksuaalvägivalla kriisiabi sisaldab järgmist:\n1) ohvri seisundi esmane hindamine, et otsustada teenuse vajaduse ja mahu üle;\n2) esmane psühhosotsiaalne abi;\n3) seksuaalvägivalla tõttu vajalike tervishoiuteenuste tagamine koos kohtumeditsiinilise tõendmaterjali kogumisega;\n4) seksuaalvägivalla tõttu vajalikud ravimid ja abivahendid;\n5) ohvri psühholoogiline ja muu nõustamine.\n(3) Kui seksuaalvägivalla ohver on kindlustatud isik ravikindlustuse seaduse § 5 tähenduses, hüvitatakse käesoleva seaduse alusel isikule osutatud tervishoiuteenuste kulude see osa, mida ravikindlustus ei kata."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "23",
+      "title": "§ 23. Alaealise seksuaalvägivalla ohvri abistamine",
+      "content": "(1) Alaealisele seksuaalvägivalla ohvrile pakub Sotsiaalkindlustusamet lisaks käesoleva seaduse §-s 22 nimetatud teenusele ka lastekaitseseaduses sätestatud abi.\n(2) Lastekaitseseaduses sätestatud abi võimaldamiseks edastab seksuaalvägivalla kriisiabi osutaja esimesel võimalusel Sotsiaalkindlustusametile selle lapse andmed, kellele teenuse osutamisel ilmnes, et last on seksuaalselt väärkoheldud, või tekkis selline kahtlus.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud andmed on lapse ees- ja perekonnanimi, sünniaeg või isikukood, lapse saatja ees- ja perekonnanimi ja kontaktandmed või saatja puudumise korral lapse kontaktandmed ning tema nimetatud täiskasvanu ees- ja perekonnanimi ja kontaktandmed, teenuse osutamise aeg ja üldine kokkuvõte, arvatava väärkohtlemise aeg ning esmane hinnang lapse abivajadusele."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "24",
+      "title": "§ 24. Inimkaubandusohvrite teenuse eesmärk ja sisu",
+      "content": "(1) Inimkaubandusohvrite teenuse eesmärk on aidata kaasa ohvri turvatunde tekkimisele, füüsilisele ja psühhosotsiaalsele taastumisele ning ennetada uuesti ohvriks langemist.\n(2) Inimkaubandusohvrite teenus sisaldab järgmist:\n1) valmisolek anda ohvrile ööpäev läbi esmast psühhosotsiaalset abi;\n2) ohvri abivajaduse hindamine, et otsustada teenuse vajaduse ja mahu üle;\n3) juhtumikorralduse rakendamine juhul, kui ohver vajab iseseisva toimetuleku saavutamiseks pikaajalist ja mitmekülgset abi;\n4) ohvri nõustamine ja psühhosotsiaalse abi tagamine;\n5) turvaline ajutine majutus ööpäev läbi;\n6) toitlustus ja muu vajalik materiaalne abi;\n7) vajalike tervishoiuteenuste kättesaadavuse korraldamine;\n8) psühholoogiline nõustamine või psühhoteraapia;\n9) juriidiline abi;\n10) tõlketeenuse korraldamine käesolevas lõikes nimetatud abi võimaldamiseks.\n(3) Inimkaubanduse ohvrile osutatakse abi vajaduse äralangemiseni.\n(4) Kui Sotsiaalkindlustusametil või Tööinspektsioonil on kahtlus, et isik on inimkaubanduse ohver, võib Politsei- ja Piirivalveametilt või prokuratuurilt kinnituse saamiseni osutada isikule käesoleva paragrahvi lõikes 2 nimetatud teenuseid kuni 14 kalendripäeva.\n(5) Välismaalasele, kellele on välismaalaste seaduse § 205 alusel antud järelemõtlemisaeg, osutatakse teenust kuni tema Eestis seadusliku viibimise tähtpäeva saabumiseni või ennetähtaegse lahkumiseni. Tähtaja määramisest teavitab Politsei- ja Piirivalveamet kohe Sotsiaalkindlustusametit, kes teeb tähtpäeva saabumisel otsuse teenuste osutamise lõpetamise kohta.\n(6) Välismaalasele teenuse osutamine ei ole tema Eestis viibimise seaduslik alus ega lükka tema Eestist lahkumise kohustuse täitmist edasi.\n(7) Sotsiaalkindlustusamet lõpetab inimkaubanduse ohvrile teenuste osutamise, kui isik on Eestist lahkunud või tal puudub seaduslik alus Eestis viibida.\n(8) Kui inimkaubanduse ohver on kindlustatud isik ravikindlustuse seaduse § 5 tähenduses, hüvitatakse käesoleva seaduse alusel isikule osutatud tervishoiuteenuste kulude see osa, mida ravikindlustus ei kata."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "25",
+      "title": "§ 25. Alaealisele inimkaubanduse ohvrile abi osutamine",
+      "content": "(1) Kui inimkaubanduse ohvriks langenud isiku vanus ei ole teada ning on põhjust arvata, et ta on alla 18-aastane, käsitatakse teda alaealisena, kuni ei ole tõendatud vastupidist.\n(2) Alaealisele inimkaubanduse ohvrile võib käesoleva seaduse § 24 lõike 2 punktis 5 nimetatud teenuse asemel osutada asendushooldusteenust sotsiaalhoolekande seaduses sätestatud tingimustel ja korras.\n(3) Alaealisele inimkaubanduse ohvrile, keda on seksuaalselt väärkoheldud, osutab Sotsiaalkindlustusamet käesolevas jaos sätestatud teenust koos lastekaitseseaduse §-s 29^1 sätestatud meetmetega.\n(4) Kui inimkaubanduse ohver on saatjata alaealine välismaalane, lähtutakse tema abistamisel ka välismaalaste seaduses ja sotsiaalhoolekande seaduses saatjata alaealisele välismaalasele abi andmise kohta sätestatust."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "26",
+      "title": "§ 26. Taastava õiguse teenuste eesmärk ja sisu",
+      "content": "(1) Taastava õiguse teenuste eesmärk on erapooletu vahendaja kaasabil ohver ja juhtunuga seotud muud osapooled kokku tuua, anda neile selgitamise ja ärakuulamise võimalus ning jõuda vahendatud protsessi kaudu kokkuleppele, kuidas tekkinud kahju hüvitada ja õiglustunde taastumist toetada.\n(2) Taastava õiguse teenused sisaldavad järgmist:\n1) osapoolte teenuse kasutamise nõusoleku ja juhtumi hindamine, et otsustada teenuse vajaduse ja sobivuse üle;\n2) juhtumi osapoolte ettevalmistamine võimalikuks kohtumiseks;\n3) sobiva meetodi valimine taastava õiguse kohtumise korraldamiseks;\n4) taastava õiguse kohtumise korraldamine;\n5) vajaduse korral taastava õiguse teenust saama suunajale tagasiside andmine taastava õiguse kohtumise sisu ja sõlmitud kokkuleppe kohta.\n(3) Taastava õiguse teenuste osutamise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "27",
+      "title": "§ 27. Vahendusteenus",
+      "content": "(1) Vahendusteenus käesoleva seaduse tähenduses on taastava õiguse teenus, mis seisneb kriminaalmenetluse seadustiku §-s 203^2 sätestatud vahendusmenetluse korraldamises ja selle tulemusena sõlmitud kirjaliku kokkuleppe tingimuste täitmise kontrollimises.\n(2) Vahendusteenusena käsitatakse ka vahendusmenetluse korraldamist ning vajaduse korral vahendusmenetluse tulemusena sõlmitud kirjaliku kokkuleppe tingimuste täitmise kontrollimist, kui esineb üks järgmistest tingimustest:\n1) alaealine on võtnud kohustuse kasutada vahendusteenust väärteomenetluse seadustiku § 30 lõike 1 punkti 4 alusel;\n2) alaealise suhtes on kriminaalmenetluse lõpetamisel kohaldatud tema nõusolekul vahendusteenuse kasutamise kohustust kriminaalmenetluse seadustiku § 201 lõike 2 punkti 5 alusel;\n3) kohus on kohaldanud vahendusteenust mõjutusvahendina karistusseadustiku § 87 alusel;\n4) alaealise suhtes on jäetud kriminaalmenetluse seadustiku § 201 lõike 1 alusel kriminaalmenetlus alustamata või see on lõpetatud põhjusel, et õigusvastase teo on toime pannud oma ea tõttu süüvõimetu alaealine;\n5) alaealise suhtes on jäetud väärteomenetluse seadustiku § 29 lõike 1 punkti 1 alusel väärteomenetlus alustamata või see on lõpetatud põhjusel, et õigusvastase teo on toime pannud oma ea tõttu süüvõimetu alaealine."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "28",
+      "title": "§ 28. Vägivallast loobumise toetamise eesmärk ja sisu",
+      "content": "(1) Vägivallast loobumise toetamise eesmärk on aidata kaasa vägivalla ennetamisele ja tõkestamisele vägivalla toimepanijale rakendatavate tegevuste kaudu.\n(2) Vägivallast loobumise toetamine sisaldab järgmist:\n1) vägivalla toimepanija motivatsiooni ja psühhosotsiaalsete vajaduste hindamine eesmärgiga otsustada teenuse vajaduse ja mahu üle;\n2) vägivaldse käitumise võimaliku jätkumise riski hindamine;\n3) nõustamine vägivallast loobumiseks.\n(3) Vägivallast loobumise toetamisel tuleb pidada esmatähtsaks ohvri turvalisust, toetamist ja inimõigusi."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "29",
+      "title": "§ 29. Traumast taastumist toetava vaimse tervise abi eesmärk ja sisu",
+      "content": "(1) Traumast taastumist toetava vaimse tervise abi eesmärk on soodustada ohvri psühhosotsiaalse tasakaalu taastumist ning vähendada ohvri psüühika- ja käitumishäirete tekkimise tõenäosust või nende intensiivsust.\n(2) Traumast taastumist toetav vaimse tervise abi sisaldab psühholoogilist ja psühhoterapeutilist abi."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "30",
+      "title": "§ 30. Traumast taastumist toetavat vaimse tervise abi saama õigustatud isikud",
+      "content": "(1) Traumast taastumist toetavat vaimse tervise abi on õigus saada:\n1) kuriteoohvril, kelle suhtes toime pandud teo kohta on alustatud kriminaalmenetlus;\n2) perevägivalla või seksuaalvägivalla ohvril;\n3) käesoleva lõike punktides 1 ja 2 nimetatud ohvri lapsel, lapselapsel, vanemal ja muul last kasvataval isikul, vanavanemal, õel, vennal, ohvriga abielus või püsivas kooselus oleval või olnud isikul;\n4) isikul, kes osaleb kriminaalmenetluses tunnistajana.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud isikutel on õigus saada traumast taastumist toetavat vaimse tervise abi, kui Sotsiaalkindlustusamet on tuvastanud nende abivajaduse."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "31",
+      "title": "§ 31. Traumast taastumist toetava vaimse tervise abi saamise tingimused",
+      "content": "(1) Käesoleva seaduse § 30 lõikes 1 nimetatud isikutel on õigus saada traumast taastumist toetavat vaimse tervise abi kuni ühe Vabariigi Valitsuse kehtestatud kuutasu alammäära ulatuses.\n(2) Traumast taastumist toetavat vaimse tervise abi on kuni vajaduse äralangemiseni õigus saada:\n1) inimkaubanduse ohvril;\n2) seksuaalselt väärkoheldud lapsel;\n3) terrorikuriteo ohvril.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud isikute puhul otsustab Sotsiaalkindlustusamet abi jätkamise vajaduse iga kord, kui teenuse kasutamisel täitub Vabariigi Valitsuse kehtestatud kuutasu alammäär. Sotsiaalkindlustusamet võib küsida teenuseosutajalt hinnangut abi jätkamise vajaduse kohta.\n(4) Kui alaealine seksuaalvägivalla ohver saab 18-aastaseks käesolevas jaos sätestatud teenuse saamise ajal, on tal õigus saada teenust edasi Vabariigi Valitsuse kehtestatud kuutasu alammäära ulatuses. Sotsiaalkindlustusamet võib otsustada abi jätkamise ka nimetatud kuutasu alammäära täitumise järel käesoleva paragrahvi lõikes 3 sätestatud korras, kui see on põhjendatud alaealise suhtes toime pandud teo raskuse või muude asjaoludega.\n(5) Ohvril, kellele osutatakse käesoleva seaduse § 29 lõikes 2 nimetatud vaimse tervise abi muu ohvriabiteenuse raames, ei ole õigust samal ajal saada vaimse tervise abi käesolevas jaos sätestatud tingimustel.\n(6) Käesoleva seaduse § 30 lõike 1 punktides 1 ja 4 nimetatud isikul on õigus saada traumast taastumist toetavat vaimse tervise abi viie aasta jooksul teo toimepanemisest arvates. Karistusseadustiku § 81 lõike 7 punktis 3 nimetatud juhul on isikul õigus saada traumast taastumist toetavat vaimse tervise abi viie aasta jooksul tema täisealiseks saamisest või kriminaalmenetluse alustamisest arvates, kui viimane tähtaeg lõpeb hiljem."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "32",
+      "title": "§ 32. Traumast taastumist toetava vaimse tervise abi saamine",
+      "content": "(1) Traumast taastumist toetava vaimse tervise abi saamiseks esitab isik taotluse Sotsiaalkindlustusametile, kes hindab tema vajadust käesoleva seaduse § 29 lõikes 2 nimetatud abi järele.\n(2) Traumast taastumist toetava vaimse tervise abi taotluse andmete ja nõutavate dokumentide loetelu kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "33",
+      "title": "§ 33. Traumast taastumist toetava vaimse tervise abi eest tasu maksmise kohustuse ülevõtmine Sotsiaalkindlustusameti poolt",
+      "content": "Sotsiaalkindlustusamet võtab traumast taastumist toetava vaimse tervise abi eest tasu maksmise kohustuse käesoleva seaduse §-s 30 nimetatud õigustatud isikult üle (edaspidi tasu maksmise kohustuse ülevõtmine ), kui on täidetud järgmised tingimused: 1 1) õigustatud isik ja traumast taastumist toetava vaimse tervise abi osutaja on kokku leppinud käesoleva seaduse § 29 lõikes 2 nimetatud teenuse osutamises;\n2) traumast taastumist toetava vaimse tervise abi osutaja ja Sotsiaalkindlustusamet on sõlminud käesoleva seaduse §-s 34 nimetatud lepingu."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "3. peatükk - Ohvriabi korraldus ja ohvriabiteenused",
+      "section": "34",
+      "title": "§ 34. Tasu maksmise kohustuse ülevõtmise leping",
+      "content": "(1) Tasu maksmise kohustuse ülevõtmise leping on kokkulepe, millega Sotsiaalkindlustusamet ja traumast taastumist toetava vaimse tervise abi osutaja lepivad kokku korras ja tingimustes, millega Sotsiaalkindlustusamet võtab õigustatud isikult tasu maksmise kohustuse üle.\n(2) Sotsiaalkindlustusamet kontrollib enne lepingu sõlmimist maksuvõla puudumist. Kui ilmneb, et traumast taastumist toetava vaimse tervise abi osutajal on maksuvõlg, võib Sotsiaalkindlustusamet jätta lepingu sõlmimata.\n(3) Sotsiaalkindlustusamet sõlmib lepingu kuni kolmeaastase tähtajaga, kuid vähemalt üheks aastaks."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "35",
+      "title": "§ 35. Vägivallakuriteo mõiste",
+      "content": "(1) Käesolevas seaduses käsitatakse vägivallakuriteona otseselt isiku elu või tervise vastu toime pandud kriminaalkorras karistatavat tegu, mille tagajärg on ohvri surm või raske tervisekahjustus karistusseadustiku tähenduses.\n(2) Vägivallakuriteoks loetakse ka ohvrile või kolmandale isikule käesoleva paragrahvi lõikes 1 nimetatud tagajärje põhjustamist olukorras, kus ohver või kolmas isik tõkestas kuritegu, pidas kinni kurjategijat või abistas kuriteoohvrit.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud tegusid käsitatakse vägivallakuriteona ka siis, kui:\n1) teo toimepanija ei ole süüvõimeline;\n2) teo toimepanijat ei ole kindlaks tehtud, teda ei ole õnnestunud tabada või teda ei ole muudel põhjustel võimalik süüdi mõista ning kriminaalasjas kogutud tõendid viitavad sellele, et toime on pandud vägivallakuritegu."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "36",
+      "title": "§ 36. Hüvitist saama õigustatud isikud",
+      "content": "(1) Õigus saada kuriteoohvri hüvitist (edaspidi hüvitis ) on Eesti Vabariigi territooriumil toime pandud vägivallakuriteo Eesti kodanikust või käesoleva paragrahvi lõikes 2 sätestatud juhtudel välismaalasest ohvril, ohvri hooldajal, ohvri ülalpeetaval ja füüsilisel isikul, kes kannab vägivallakuriteo ohvri tervise taastamisega seotud kulud või matusekulud, käesolevas seaduses sätestatud tingimustel.\n(2) Välismaalasel on käesoleva paragrahvi lõikes 1 sätestatud tingimustel õigus saada hüvitist, kui ta:\n1) elab Eestis pikaajalise elaniku elamisloa või alalise elamisõiguse või tähtajalise elamisloa või elamisõiguse alusel;\n2) on Euroopa Liidu kodanik;\n3) on vägivallakuritegude ohvritele hüvitiste maksmise Euroopa konventsiooniga ühinenud riigi kodanik;\n4) on inimkaubanduse ohver või seksuaalselt väärkoheldud laps, sõltumata sellest, kas tal on Eestis viibimiseks seaduslik alus.\n(3) Kui vägivallakuriteo ohver saab kuriteo tagajärjel surma, on õigus saada hüvitist tema ülalpeetaval. Vägivallakuriteo ohvri ülalpeetav on isik:\n1) kellel on õigus toitjakaotuspensionile vastavalt riikliku pensionikindlustuse seaduse §-le 20;\n2) kes on kuriteo toimepanemise ajaks ohvri poolt eostatud, kuid sünnib pärast ohvri surma.\n(4) Käesoleva paragrahvi lõikes 1 nimetatud vägivallakuriteo ohvri hooldaja on isik, kes ohvrit hoolduslehe alusel põetab.\n(5) Välismaal toime pandud vägivallakuriteo Eesti kodanikust või Eesti alalisest elanikust ohvrile makstakse hüvitist juhul, kui tema välismaal viibimine oli tingitud õppimisest, töö- või teenistusülesannete täitmisest või muust mõjuvast põhjusest ning tal ei ole võimalik saada hüvitist kuriteo toimumise asukohariigist."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "37",
+      "title": "§ 37. Hüvitise maksmist välistavad asjaolud",
+      "content": "(1) Hüvitist ei maksta, kui vägivallakuriteo ohver:\n1) on kuriteo toimepanemise või kahju tekkimise esile kutsunud või seda soodustanud oma tahtliku käitumisega;\n2) ei ole 15 päeva jooksul kuriteost teatanud, kuigi ta oleks olnud võimeline seda tegema, ja uurimisasutus või prokuratuur ei ole ka muul viisil sellest teada saanud;\n3) on süüdi mõistetud vägivallakuriteo toimepanemise eest või karistusseadustiku § 255 lõike 1 või § 256 lõike 1 alusel ja tema karistusandmed ei ole karistusregistrist karistusregistri seaduse kohaselt kustutatud.\n(2) Täisealisele ülalpeetavale hüvitise maksmisest võib keelduda, kui tema käitumises ilmnesid käesoleva paragrahvi lõikes 1 nimetatud asjaolud.\n(3) Hüvitise maksmisest võib keelduda, kui hüvitise taotleja ei ole teinud õiguskaitseasutustega koostööd vägivallakuriteoga seotud asjaolude selgitamiseks, kurjategija kindlakstegemiseks ja tabamiseks ning kahjude tõendamiseks."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "38",
+      "title": "§ 38. Hüvitatava kahju liigid",
+      "content": "Käesolevas peatükis sätestatud tingimustel kuulub hüvitamisele vägivallakuriteoga tekitatud varaline kahju järgmiselt: 1 1) ohvri tervise taastamisega seotud kulud;\n2) ohvri prillidele, hambaproteesidele, kontaktläätsedele ja muudele keha funktsioone toetavatele abivahenditele ning isiklikele esemetele tekitatud kahju;\n3) ohvri matusekulud;\n4) ohvri ja ohvri hooldaja sissetuleku vähenemisest tulenev kahju;\n5) ülalpidaja kaotusest tulenev kahju."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "39",
+      "title": "§ 39. Ohvri tervise taastamisega seotud kulud",
+      "content": "Ohvri tervise taastamisega seotud kulud on tema vägivallakuriteojärgse füüsilise ja vaimse tervise taastamise, ravimite ja keha funktsioone toetavate abivahendite soetamise ning terviseseisundile kohase uue eriala õppimisega seotud kulud ning nimetatud tegevustega seotud sõidukulud."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "40",
+      "title": "§ 40. Ohvri prillidele, hambaproteesidele, kontaktläätsedele ja muudele abivahenditele ning isiklikele esemetele tekitatud kahju",
+      "content": "Ohvri prillidele, hambaproteesidele, kontaktläätsedele ja muudele keha funktsioone toetavatele abivahenditele ning hädavajalikele isiklikele esemetele vägivallakuriteoga tekitatud kahju kindlakstegemisel võetakse aluseks Sotsiaalkindlustusametile uurimisasutuse tõendil esitatud teave."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "41",
+      "title": "§ 41. Ohvri matusekulud",
+      "content": "Vägivallakuriteo tagajärjel hukkunud ohvri matusteks tehtud kulud hüvitatakse need kandnud isikule."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "42",
+      "title": "§ 42. Ohvri ja ohvri hooldaja sissetuleku vähenemisest tulenev kahju",
+      "content": "(1) Ohvri sissetuleku vähenemisest tulenev kahju vähemalt 16-aastase ohvri puhul on vägivallakuriteo tõttu saamata jäänud osa sotsiaalmaksuga maksustatud tulust.\n(2) Ohvri hooldaja sissetuleku vähenemisest tulenev kahju on vägivallakuriteost põhjustatud ajutise töövõimetuse tõttu saamata jäänud osa sotsiaalmaksuga maksustatud tulust.\n(3) Ohvri ja ohvri hooldaja sissetuleku vähenemisest tulenev kahju hüvitatakse ühe kalendripäeva keskmisest tulust lähtuvalt. Ühe kalendripäeva keskmine tulu arvutatakse vägivallakuriteo toimepanemisele eelnenud kuuel kalendrikuul isikule arvestatud sotsiaalmaksuga maksustatud tulu jagamisel selle perioodi kalendripäevade arvuga. Kuue kuu kalendripäevade arvust arvatakse maha nende päevade arv, millal isik oli töökohustuste või teenistusülesannete täitmisest vabastatud töövõimetuslehe alusel või töötamise registrisse märgitud töötamise peatumise tõttu.\n(4) Kui ohver või ohvri hooldaja ei saanud käesoleva paragrahvi lõikes 3 nimetatud kuue kalendrikuu jooksul sotsiaalmaksuga maksustatud tulu töötamise peatumise või ajutise töövõimetuse tõttu, arvutatakse hüvitis isiku sotsiaalmaksuga maksustatud tulust, mida ta sai viimase kuu eest enne töötamise peatumist või ajutise töövõimetuse tekkimist.\n(5) Füüsilisest isikust ettevõtjale arvutatakse hüvitis vägivallakuriteole eelnenud kalendriaastal 1. jaanuarist kuni 31. detsembrini saadud puhastulust.\n(6) Kui ohvri või ohvri hooldaja ühe kalendripäeva tulu oli väiksem kui Vabariigi Valitsuse kehtestatud kuutasu alammäära ja arvu 30 jagatis, võrdub ühe kalendripäeva keskmine tulu Vabariigi Valitsuse kehtestatud kuutasu alammäära ja arvu 30 jagatisega."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "43",
+      "title": "§ 43. Ülalpidaja kaotusest tulenev kahju",
+      "content": "Vägivallakuriteo tagajärjel hukkunud ohvri ülalpeetavale makstakse hüvitist käesoleva seaduse § 41 alusel arvutatud ohvri eelnevast tulust järgmiselt: 1 1) ühele ülalpeetavale 75 protsenti;\n2) kahele ülalpeetavale 85 protsenti;\n3) kolmele või enamale ülalpeetavale kokku 100 protsenti."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "44",
+      "title": "§ 44. Hüvitise suuruse arvutamise põhimõtted",
+      "content": "(1) Käesoleva seaduse § 38 punktis 3 nimetatud matusekulud hüvitatakse need kandnud isikule Vabariigi Valitsuse kehtestatud ühe kuutasu alammääras (edaspidi hüvitise alammäär ).\n(2) Käesoleva seaduse § 38 punktis 2 nimetatud kulud hüvitatakse vähemalt hüvitise alammääras. Nimetatud kulude alammäära ületav osa, samuti käesoleva seaduse § 38 punktides 1, 4 ja 5 nimetatud kulu hüvitatakse 80 protsendi ulatuses.\n(3) Hüvitisest arvatakse maha osa, mille vägivallakuriteo toimepanija on hüvitist saama õigustatud isikule enne hüvitise määramist maksnud, samuti ajutise töövõimetuse tõttu makstud või muust allikast saadud hüvitis. Hüvitisest ei arvata maha töövõimetoetust, toitjakaotuspensioni ega matuse korraldamiseks saadud kohaliku omavalitsuse üksuse poolt makstud toetust.\n(4) Hüvitise kogusumma ühe ohvri kohta ei või olla suurem kui 9590 eurot.\n(5) Hüvitise suuruse arvutamise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "45",
+      "title": "§ 45. Hüvitise taotlemine",
+      "content": "(1) Hüvitise taotlus (edaspidi taotlus ) esitatakse Sotsiaalkindlustusametile kolme aasta jooksul vägivallakuriteo toimepanemisest või ohvri surma päevast arvates, välja arvatud käesoleva paragrahvi lõikes 2 sätestatud juhtudel.\n(2) Taotluse võib esitada käesoleva paragrahvi lõikes 1 sätestatust hiljem, kui:\n1) ülalpeetav sai ohvri surmast teada hiljem kui üks aasta pärast surmapäeva ning taotlus on esitatud kolme aasta jooksul ohvri surmast teadasaamise päevast arvates;\n2) ohvri tervisehäire kestis üle ühe aasta ja taotluse õigeaegne esitamine ei olnud terviseseisundi tõttu võimalik ning taotlus on esitatud kolme aasta jooksul pärast terviseseisundi paranemist;\n3) hüvitise taotlemise aluseks on alaealise vastu toime pandud seksuaalkuritegu ning taotlus on esitatud kolme aasta jooksul pärast ohvri täisealiseks saamist, kui kriminaalmenetluse ajend ei ilmnenud enne tema täisealiseks saamist.\n(3) Taotluses peavad olema hüvitise taotleja andmed ning andmed vägivallakuriteo ja tekitatud kahju kohta, samuti andmed kahju muudest allikatest hüvitamise kohta.\n(4) Hüvitise taotlemise andmete ja vajalike dokumentide loetelu kehtestab valdkonna eest vastutav minister määrusega.\n(5) Hüvitise taotlemiseks vajaliku käesoleva seaduse §-s 40 nimetatud uurimisasutuse tõendi vormi kehtestab valdkonna eest vastutav minister määrusega.\n(6) Hüvitise suuruse arvutamisel lähtub Sotsiaalkindlustusamet käesoleva paragrahvi lõike 4 alusel kehtestatud määruses loetletud andmetest ja sotsiaalkaitse infosüsteemi andmeandjate andmetest."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "46",
+      "title": "§ 46. Vägivallakuriteost põhjustatud tervisekahjustuse tuvastamine",
+      "content": "(1) Käesoleva seaduse § 38 punktides 1, 2 ja 4 nimetatud varalise kahju hüvitamiseks kaasab Sotsiaalkindlustusamet arstiõppe läbinud isiku, kes tuvastab isikul vägivallakuriteost tingitud tervisekahjustuse.\n(2) Sotsiaalkindlustusameti kaasatud arstiõppe läbinud isik tuvastab seose vägivallakuriteo ja ohvri raske tervisekahjustuse vahel ning raske tervisekahjustuse kestuse või eeldusliku kestuse.\n(3) Sotsiaalkindlustusameti kaasatud arstiõppe läbinud isikul on ohvri nõusolekul käesoleva paragrahvi lõikes 2 nimetatud seose ja raske tervisekahjustuse kestuse või eeldusliku kestuse tuvastamiseks õigus saada tervise infosüsteemist andmeid:\n1) andmete esitaja kohta;\n2) ohvri ambulatoorsete visiitide, haiglas viibimise ja diagnooside ning talle osutatud raviteenuste kohta;\n3) ravimite kohta.\n(4) Käesoleva paragrahvi lõikes 2 nimetatud seose ja raske tervisekahjustuse kestuse või eeldusliku kestuse tuvastamiseks vajalike tervise infosüsteemi andmete loetelu ja päringute perioodid kehtestab valdkonna eest vastutav minister määrusega.\n(5) Kui käesoleva paragrahvi lõikes 3 sätestatud andmed tervise infosüsteemis puuduvad või on ebapiisavad, edastab ohvri pere- või eriarst puuduvad andmed tervise infosüsteemi 15 päeva jooksul Sotsiaalkindlustusametilt asjakohase taotluse saamisest arvates ning teavitab sellest Sotsiaalkindlustusametit või edastab terviseseisundit kirjeldavad andmed Sotsiaalkindlustusametile.\n(6) Sotsiaalkindlustusameti kaasatud arstiõppe läbinud isikul on õigus kontrollida taotlemise käigus isiku esitatud andmete ja dokumentide õigsust ning saada asjakohaseid lisaandmeid, mis võimaldavad hinnata vägivallakuriteo ja raske tervisekahjustuse vahelist seost ning tervisekahjustuse kestust või eelduslikku kestust. Kui kontrollitavad andmed on kantud sotsiaalkaitse infosüsteemi, kasutatakse selles olevaid andmeid. Lisateave võib puudutada eelkõige andmeid:\n1) osutatud ohvriabi kohta;\n2) lastekaitse- või sotsiaaltöötajalt ohvri suhtes kohaldatud tugimeetmete kohta;\n3) Eesti Töötukassalt töövõime vähenemise ja selle põhjuste või tööalase rehabilitatsiooni kohta;\n4) haridusasutuselt või hariduse kompetentsikeskuselt haridusliku erivajaduse kohta, kui see on tekkinud seoses vägivallakuriteoga."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "47",
+      "title": "§ 47. Hüvitise maksmise otsustamine",
+      "content": "Sotsiaalkindlustusamet teeb otsuse hüvitise maksmise kohta 30 päeva jooksul taotluse esitamisest arvates."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "48",
+      "title": "§ 48. Otsustamise edasilükkamine",
+      "content": "(1) Sotsiaalkindlustusamet võib hüvitise määramise otsustamise edasi lükata kuni otsuse tegemiseni maakohtus juhul, kui:\n1) hüvitise taotleja õigus saada hüvitist vägivallakuriteoga kahju tekitanud isikult on ebaselge;\n2) on ilmne, et vägivallakuriteoga kahju tekitanud isik hüvitab selle kahju.\n(2) Kui hüvitise taotlejal on õigus saada sama kahjuga seoses hüvitist muust allikast kui vägivallakuriteoga kahju tekitanud isikult või kui selle hüvitise suurus on ebaselge või vaieldav, võib hüvitise maksmise otsustamise edasi lükata ajani, kui nimetatud õigus või hüvitise suurus on lõplikult kindlaks tehtud ja kahju hüvitatud.\n(3) Kui hüvitise maksmise otsustamine on käesoleva paragrahvi lõigetes 1 ja 2 nimetatud alustel edasi lükatud, otsustab Sotsiaalkindlustusamet hüvitise maksmise kümne päeva jooksul arvates päevast, kui ta on otsuse edasilükkamist tinginud asjaolu äralangemisest teada saanud."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "49",
+      "title": "§ 49. Hüvitise maksmine",
+      "content": "(1) Ohvri ja ohvri hooldaja sissetuleku vähenemisest ning ülalpidaja kaotusest tuleneva kahju korral makstakse hüvitise maksmise otsustamiseni saamata jäänud summad välja korraga ja hüvitise maksmise otsustamisele järgnevast kuust alates perioodiliste maksetena:\n1) ohvri sissetuleku taastumiseni, tervise taastumiseni raskest tervisekahjustusest või ohvri surmani;\n2) ohvri hooldaja hoolduslehe perioodi lõpuni;\n3) kuni ohvri ülalpeetaval on õigus toitjakaotuspensionile vastavalt riikliku pensionikindlustuse seaduse §-le 20.\n(2) Perioodiliselt makstava hüvitise korral tehakse makseid iga kuu, kui hüvitise maksmise otsuses ei nähta ette teisiti.\n(3) Ülalpeetavatele määratakse ühine hüvitis. Ülalpeetava kirjaliku taotluse alusel võib tema osa ühisest hüvitisest eraldada.\n(4) Käesoleva seaduse § 38 punktides 1–3 nimetatud kulud hüvitatakse ühekordse maksena.\n(5) Käesoleva seaduse § 38 punktis 1 nimetatud kulud hüvitatakse kuni ohvri raskest tervisekahjustusest taastumiseni.\n(6) Hüvitise taotleja põhjendatud taotlusel võib käesoleva paragrahvi lõikes 1 nimetatud hüvitise välja maksta osadena või kogu summa korraga."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "50",
+      "title": "§ 50. Ettemaksuna makstav hüvitis",
+      "content": "(1) Kui hüvitise maksmise otsustamine lükatakse käesoleva seaduse § 48 lõigetes 1 ja 2 nimetatud juhtudel edasi, on Sotsiaalkindlustusametil õigus maksta hüvitise taotleja taotlusel hüvitist ettemaksuna, kui hüvitise taotleja õigus saada hüvitist on ilmne ja ta on majanduslikult raskes olukorras.\n(2) Ettemaksuna makstav hüvitis ei või olla suurem kui hüvitise taotlemise ajal kehtiv hüvitise alammäär.\n(3) Hüvitise määramisest keeldumise korral võib ettemaksuna makstud hüvitise tagasi nõuda üksnes siis, kui maksmine on tingitud hüvitise taotleja kuritarvitusest."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "51",
+      "title": "§ 51. Hüvitise suuruse muutmine ja hüvitise maksmise lõpetamine",
+      "content": "(1) Riiklike toetuste ja muude maksete suuruse muutmise korral teeb Sotsiaalkindlustusamet omal algatusel ümberarvutused kümne päeva jooksul muudatuse jõustumise päevast arvates.\n(2) Hüvitise suurust vähendatakse või hüvitise maksmine lõpetatakse vähendamise või lõpetamise asjaolu tekkimisele järgnevast kuust arvates.\n(3) Hüvitist suurendatakse suurendamise asjaolu tõendavate dokumentide esitamisele järgnevast kuust arvates.\n(4) Sotsiaalkindlustusamet vaatab perioodiliselt makstava hüvitise summa üle vähemalt üks kord aastas.\n(5) Perioodiliselt makstava hüvitise puhul arvestatakse hindade ja elukalliduse muutumisega.\n(6) Perioodiliselt makstava hüvitise ümberarvutamise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "52",
+      "title": "§ 52. Ettekirjutusest teavitamine",
+      "content": "Kui Sotsiaalkindlustusamet teeb isikule ettekirjutuse, kuid andmed isiku aadressi kohta puuduvad, või kui isik ei ela teadaoleval aadressil ja tema tegelik viibimiskoht ei ole teada ning ettekirjutust ei ole võimalik sotsiaalseadustiku üldosa seaduses sätestatud viisil teatavaks teha, avaldatakse ettekirjutuse resolutiivosa väljaandes Ametlikud Teadaanded."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "53",
+      "title": "§ 53. Riigi tagasinõudeõigus",
+      "content": "Pärast käesoleva seaduse alusel hüvitise maksmist läheb hüvitise saaja õigus nõuda kahju hüvitamist vägivallakuriteoga kahju tekitanud isikult hüvitisena makstud summa ulatuses üle riigile. Tagasinõutav summa ei või olla suurem tsiviilhagiga rahuldatud summast."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "54",
+      "title": "§ 54. Hüvitise maksmine muus Euroopa Liidu liikmesriigis elavale vägivallakuriteo ohvrile",
+      "content": "(1) Eesti Vabariigi territooriumil toime pandud vägivallakuriteo ohver, ohvri hooldaja, ohvri surma korral tema ülalpeetav ja isik, kes kannab vägivallakuriteo ohvri tervise taastamisega seotud kulud või matusekulud (edaspidi taotleja ), kelle alaline elukoht on muus Euroopa Liidu liikmesriigis (edaspidi ka muu liikmesriik ), esitab taotluse ja vajalikud lisadokumendid Sotsiaalkindlustusametile või oma elukohariigi pädevale asutusele.\n(2) Sotsiaalkindlustusamet edastab viivitamata muust liikmesriigist saabunud taotluse vastuvõtmise kohta taotlejale ja taotluse edastanud asutusele kinnituse, milles kajastub taotluse menetleja ja taotluse kohta otsuse tegemise tähtaeg.\n(3) Sotsiaalkindlustusamet otsustab hüvitise maksmise kolme kuu jooksul taotluse ja vajalike lisadokumentide kättesaamisest arvates. Otsus saadetakse taotlejale posti teel või elektrooniliselt kümne tööpäeva jooksul otsuse tegemise päevast arvates.\n(4) Sotsiaalkindlustusamet maksab taotlejale määratud hüvitise välja selle määramise otsustamisele järgneva kalendrikuu jooksul."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "55",
+      "title": "§ 55. Hüvitise maksmise erisused",
+      "content": "(1) Muus liikmesriigis elavale ohvrile ja ohvri hooldajale sissetuleku vähenemisest tuleneva kahju ning ohvri ülalpeetavale ülalpidaja kaotusest tuleneva kahju hüvitise arvutamise aluseks võetakse vägivallakuriteo toimepanemisele eelnenud kuue kuu palgatulu.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud kahju hüvitamise korral makstakse hüvitis välja ühe summana kogu ajavahemiku eest, mille vältel on ohvril raske tervisekahjustus või ta vastab toitjakaotuspensioni saamise tingimustele.\n(3) Matusekulud hüvitatakse taotlemise ajal kehtivas hüvitise alammääras."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "56",
+      "title": "§ 56. Hüvitise maksmine muus Euroopa Liidu liikmesriigis toime pandud vägivallakuriteo ohvrile",
+      "content": "(1) Hüvitise maksmise muus liikmesriigis toime pandud vägivallakuriteo ohvrile ja hüvitist saama õigustatud isikule, kelle alaline elukoht on Eestis, otsustab muu liikmesriigi pädev asutus oma õigusaktide alusel.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud isik pöördub Sotsiaalkindlustusametisse, kes vajaduse korral abistab teda taotluse vormistamisel. Sotsiaalkindlustusamet edastab taotluse koos lisadokumentidega 30 päeva jooksul isiku pöördumisest arvates selle liikmesriigi pädevale asutusele, kus vägivallakuritegu toime pandi.\n(3) Kui muu liikmesriigi pädev asutus soovib taotluse menetlemise ajal oma õigusaktide kohaselt ära kuulata käesoleva paragrahvi lõikes 1 nimetatud isiku, tunnistaja või eksperdi, pöördub ta Sotsiaalkindlustusameti poole, kes korraldab:\n1) nimetatud isikute ärakuulamise muu liikmesriigi pädeva asutuse esindaja poolt telefoni või videokonverentsi teel või\n2) nimetatud isikute ärakuulamise ja selle protokollimise, protokolli tõlkimise vajaduse korral ja edastamise muu liikmesriigi pädevale asutusele."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "4. peatükk - Kuriteoohvri hüvitis",
+      "section": "57",
+      "title": "§ 57. Hüvitise maksmine Eestis toime pandud vägivallakuriteo ohvrile, kes on vägivallakuritegude ohvritele hüvitise maksmise Euroopa konventsiooniga ühinenud riigi kodanik",
+      "content": "(1) Eesti Vabariigi territooriumil toime pandud vägivallakuriteo ohvrile, ohvri hooldajale, ohvri surma korral tema ülalpeetavale ja isikule, kes kannab ohvri tervise taastamisega seotud kulud või matusekulud, kui nimetatu on vägivallakuritegude ohvritele hüvitise maksmise Euroopa konventsiooniga ühinenud riigi kodanik, arvutab Sotsiaalkindlustusamet hüvitise suuruse käesoleva seaduse §-s 54 sätestatud korras.\n(2) Sotsiaalkindlustusamet maksab käesoleva paragrahvi lõikes 1 nimetatud isikule määratud hüvitise välja käesoleva seaduse § 54 lõikes 4 sätestatud korras."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "5. peatükk - Rahastamine",
+      "section": "58",
+      "title": "§ 58. Rahastamine",
+      "content": "Käesoleva seaduse alusel osutatavaid teenuseid ja makstavaid hüvitisi rahastatakse riigieelarvest."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "5. peatükk - Rahastamine",
+      "section": "59",
+      "title": "§ 59. Ohvriabi vabatahtliku kulude hüvitamine",
+      "content": "(1) Ohvriabi vabatahtliku transpordikulud ja muud Sotsiaalkindlustusameti ettenähtud ja tema ülesande täitmiseks vajalikud kulud hüvitab Sotsiaalkindlustusamet.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud kulude hüvitamise piirmäära ja korra kehtestab Sotsiaalkindlustusameti peadirektor käskkirjaga."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "60",
+      "title": "§ 60. Hüvitise maksmine",
+      "content": "(1) Enne 2023. aasta 1. aprilli määratud kuriteoohvri perioodilised hüvitised, millest on maha arvatud isikule makstud töövõimetoetus või toitjakaotuspension ning mille maksmine jätkub pärast nimetatud kuupäeva, arvutatakse ümber vastavalt käesoleva seaduse § 44 lõikele 3.\n(2) Kuriteoohvri perioodilistele hüvitistele, mis on määratud enne 2023. aasta 1. aprilli kehtinud ohvriabi seaduse (RT I 2004, 2, 3) § 11 lõike 7 alusel ja mille maksmine jätkub pärast nimetatud kuupäeva, kohaldatakse kuni 2023. aasta 1. aprillini kehtinud ohvriabi seadust."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "61",
+      "title": "§ 61. Karistusregistri seaduse muutmine",
+      "content": "Karistusregistri seaduse § 20 lõiget 1 täiendatakse punktiga 18 järgmises sõnastuses: „18) Sotsiaalkindlustusametil ohvriabi seaduse tähenduses hädaohus olevat täisealist perevägivalla ohvrit ohustava isiku kohta hinnangu andmiseks, hädaohus oleva täisealise perevägivalla ohvri abistamiseks ning tema elu ja tervist ohustavate riskide maandamiseks.”."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "62",
+      "title": "§ 62. Karistusseadustiku muutmine",
+      "content": "Karistusseadustiku § 87 lõike 1 punktis 5 ja lõike 2 punktis 5 asendatakse sõna „lepitusteenus” sõnaga „vahendusteenus”."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "63",
+      "title": "§ 63. Kriminaalmenetluse seadustiku muutmine",
+      "content": "Kriminaalmenetluse seadustikus tehakse järgmised muudatused: 1) paragrahvi 8 tekst loetakse lõikeks 1 ja paragrahvi täiendatakse lõikega 2 järgmises sõnastuses: „(2) Kui Politsei- ja Piirivalveamet, prokuratuur või kohus on käesoleva seaduse § 37^2 lõikes 1 sätestatud hindamise tulemusena tuvastanud, et kannatanu võib vajada ohvriabiteenuseid, edastatakse kannatanu andmed ohvriabi seaduses sätestatud korras Sotsiaalkindlustusametile.”; 2) paragrahvi 37^2 lõiget 1 täiendatakse pärast sõna „kaitset” tekstiosaga „, sealhulgas ohvriabiteenuseid”; 3) paragrahvi 37^2 lõiget 3 täiendatakse pärast sõnu „isiku poolt” sõnadega „või kas eriliste kaitsevajadustega kannatanu võib vajada ohvriabiteenuseid”; 4) paragrahvi 201 lõike 2 punktis 5 asendatakse sõna „lepitusteenus” sõnaga „vahendusteenus”; 5) paragrahvi 203^1 pealkiri muudetakse ja sõnastatakse järgmiselt: „ § 203^1. Kriminaalmenetluse lõpetamine kuriteoga tekitatud kahju heastamise tõttu ”; 6) paragrahvi 203^1 lõike 1 esimene lause muudetakse ja sõnastatakse järgmiselt: „Kui kriminaalmenetluse esemeks oleva teise astme kuriteo asjaolud on selged, kriminaalmenetluse jätkamiseks puudub avalik menetlushuvi ning kahtlustatav või süüdistatav on kannatanuga kokku leppinud kuriteoga tekitatud kahju heastamises käesoleva seadustiku §-s 203^2 sätestatud korras, võib prokuratuur kahtlustatava või süüdistatava ja kannatanu nõusolekul taotleda, et kohus kriminaalmenetluse lõpetaks.”; 7) paragrahvi 203^1 lõike 2 teises lauses ja lõike 3 kolmandas lauses asendatakse sõna „lepitaja” sõnaga „vahendaja” vastavas käändes; 8) paragrahvi 203^1 lõike 3 esimeses lauses asendatakse sõna „lepituskokkuleppe” sõnaga „vahenduskokkuleppe”; 9) paragrahv 203^2 muudetakse ja sõnastatakse järgmiselt: „ § 203^2. Vahendusmenetlus (1) Prokuratuur või kohus võib käesoleva seadustiku § 203^1 lõikes 1 sätestatud alustel saata kahtlustatava või süüdistatava ja kannatanu vahendusmenetlusse eesmärgiga saavutada kokkulepe kuriteoga tekitatud kahju heastamiseks. Vahendusmenetluse rakendamiseks on vajalik kahtlustatava või süüdistatava ja kannatanu nõusolek. Alaealise või psüühikahäirega isiku puhul on vajalik ka tema vanema või muu seadusjärgse esindaja või eestkostja nõusolek. (2) Prokuratuur või kohus saadab vahendusmenetluse rakendamise määruse vahendajale vahendamise korraldamiseks. (3) Vahendaja vormistab vahendamise kirjaliku vahenduskokkuleppena, millele kirjutavad alla kahtlustatav või süüdistatav ja kannatanu ning alaealise või psüühikahäirega isiku seadusjärgne esindaja või eestkostja. Vahenduskokkulepe peab sisaldama kuriteoga tekitatud kahju heastamise korda ja tingimusi. Vahenduskokkulepe võib sisaldada muid tingimusi. (4) Vahendaja saadab prokuratuurile vahenduse käiku kirjeldava aruande. Kui kahtlustatav või süüdistatav ja kannatanu on saavutanud kokkuleppe kuriteoga tekitatud kahju heastamises, lisatakse aruandele vahenduskokkuleppe koopia. (5) Pärast kriminaalmenetluse lõpetamist kontrollib vahendaja käesoleva seadustiku § 203^1 lõikes 3 sätestatud korras kohustusena kinnitatud vahenduskokkuleppe tingimuste täitmist. Vahendajal on õigus nõuda kohustuse täitmist kinnitavate dokumentide ja teabe esitamist. Kohustuse täitmisest või täitmata jätmisest teavitab vahendaja prokuratuuri. (6) Vahendajal on oma ülesannete täitmisel õigus prokuratuuri või kohtu loal ja tema määratud ulatuses tutvuda kriminaalasja materjalidega. Vahendaja on kohustatud hoidma saladuses talle seoses vahendusmenetlusega teatavaks saanud asjaolud. Kohus või prokuratuur võib vahendaja välja kutsuda suuliseks küsitlemiseks, et selgitada vahendusmenetluse kokkuleppe sisu.”."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "64",
+      "title": "§ 64. Lastekaitseseaduse muutmine",
+      "content": "Lastekaitseseaduse § 29 täiendatakse lõikega 3^1 järgmises sõnastuses: „(3^1) Kui kohaliku omavalitsuse üksus saab teada lapsest, keda kasvatav isik on hädaohus olev täisealine perevägivalla ohver ohvriabi seaduse § 9 lõike 2 tähenduses, peab kohaliku omavalitsuse üksus algatama juhtumikorralduse lapsele abi osutamiseks ning tegema koostööd Sotsiaalkindlustusameti ja teiste täisealist ohvrit abistavate asutustega.”."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "65",
+      "title": "§ 65. Sotsiaalhoolekande seaduse muutmine",
+      "content": "Sotsiaalhoolekande seaduses tehakse järgmised muudatused: 1) paragrahvi 144 lõiget 5 täiendatakse punktiga 3 järgmises sõnastuses: „3) andmed isiku käesoleva paragrahvi lõike 6 punktis 6 nimetatud ohvriabile suunamise kohta.”; 2) paragrahvi 144 lõiget 6 täiendatakse punktiga 6 järgmises sõnastuses: „6) andmed ohvriabile suunamise ja ohvriabi vabatahtlike kohta.”; 3) paragrahvi 145^1 täiendatakse lõigetega 4^1 ja 4^2 järgmises sõnastuses: „(4^1) Ohvriabile suunamise andmeid säilitatakse kümme aastat viimasest andmete sissekandest arvates juhtumipõhiselt või kümme aastat isiku täisealiseks saamisest. (4^2) Käesoleva paragrahvi lõikes 4^1 sätestatud säilitustähtaja lõppemisel kantakse andmed arhiivi, kus neid säilitatakse 50 aastat.”; 4) paragrahvi 145^1 lõikes 5 asendatakse arv „4” arvuga „4^2”."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "66",
+      "title": "§ 66. Sotsiaalseadustiku üldosa seaduse muutmine",
+      "content": "Sotsiaalseadustiku üldosa seaduses tehakse järgmised muudatused: 1) paragrahvi 38 lõike 1 punkti 2 täiendatakse pärast sõna „ohvriabi” sõnadega „teenuse osutamise”; 2) seaduse 5. peatükki täiendatakse §-ga 39^2 järgmises sõnastuses: „ § 39^2. Infosüsteemi kantud ohvriabile suunamise andmete säilitamine Kuni 2023. aasta 1. aprillini kogutud ohvriabile suunamise andmed arhiveeritakse hiljemalt 2024. aasta 1. aprillil ja neid säilitatakse kümme aastat pärast ohvriabi saamise õiguse lõppemist. Pärast nimetatud tähtaja möödumist andmed anonüümitakse.”."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "67",
+      "title": "§ 67. Täitemenetluse seadustiku muutmine",
+      "content": "Täitemenetluse seadustiku § 131 lõiget 1 täiendatakse punktiga 6^2 järgmises sõnastuses: „6^2) kuriteoohvri hüvitis;”."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "68",
+      "title": "§ 68. Välismaalaste seaduse muutmine",
+      "content": "Välismaalaste seaduses tehakse järgmised muudatused: 1) paragrahvi 203 lõike 1 punktist 1 ja lõikest 2 jäetakse välja sõnad „või tunnistaja”; 2) paragrahvi 203 täiendatakse lõikega 3 järgmises sõnastuses: „(3) Välismaalase suhtes, kes on tunnistaja kriminaalmenetluses, mille esemeks on karistusseadustiku §-s 133–133^3, 138–140, 145^1 või 175 või § 260^1 lõike 1 punktis 3 või 5 sätestatud kuritegu, kohaldatakse käesolevas seaduses kriminaalmenetluses osalemiseks tähtajalise elamisloa kohta sätestatut, kui prokuratuuri hinnangul on välismaalase Eestis viibimine kriminaalmenetluses osalemiseks vajalik.”; 3) paragrahvi 226 lõikes 2 asendatakse tekstiosa „§-des 3 ja 3^1” tekstiosaga „§-des 17–19 ja 22–25”."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "69",
+      "title": "§ 69. Väärteomenetluse seadustiku muutmine",
+      "content": "Väärteomenetluse seadustiku § 30 lõike 1 punktis 4 ja lõikes 1^2 asendatakse sõna „lepitusteenus” sõnaga „vahendusteenus” vastavas käändes."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "70",
+      "title": "§ 70. Ohvriabi seaduse kehtetuks tunnistamine",
+      "content": "Ohvriabi seadus (RT I 2004, 2, 3) tunnistatakse kehtetuks."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "71",
+      "title": "§ 71. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2023. aasta 1. aprillil.\n(2) Käesoleva seaduse §-d 65 ja 66 jõustuvad üldises korras."
+    }
+  ],
+  "definitions": []
+}

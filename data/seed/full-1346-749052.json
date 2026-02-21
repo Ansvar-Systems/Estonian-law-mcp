@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-749052",
+  "type": "statute",
+  "title": "Tollitariifiseadus",
+  "title_en": "Tollitariifiseadus",
+  "short_name": "TTS",
+  "status": "in_force",
+  "issued_date": "1997-10-14",
+  "in_force_date": "2004-05-01",
+  "url": "https://www.riigiteataja.ee/akt/749052.xml",
+  "description": "Official consolidated statute text (Tollitariifiseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

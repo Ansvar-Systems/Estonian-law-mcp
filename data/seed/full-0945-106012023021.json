@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-106012023021",
+  "type": "statute",
+  "title": "Ohvriabi seadus",
+  "title_en": "Ohvriabi seadus",
+  "short_name": "ee-law-106012023021",
+  "status": "in_force",
+  "issued_date": "2003-12-17",
+  "in_force_date": "2023-04-01",
+  "url": "https://www.riigiteataja.ee/akt/106012023021.xml",
+  "description": "Official consolidated statute text (Ohvriabi seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

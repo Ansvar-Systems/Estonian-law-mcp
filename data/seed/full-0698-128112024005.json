@@ -1,0 +1,799 @@
+{
+  "id": "ee-law-128112024005",
+  "type": "statute",
+  "title": "Kinnistusraamatuseadus",
+  "title_en": "Kinnistusraamatuseadus",
+  "short_name": "KRS",
+  "status": "in_force",
+  "issued_date": "1993-09-15",
+  "in_force_date": "2025-01-15",
+  "url": "https://www.riigiteataja.ee/akt/128112024005.xml",
+  "description": "Official consolidated statute text (Kinnistusraamatuseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Kinnistusraamatuseaduse ülesanded",
+      "content": "(1) Kinnistusraamatuseadus sätestab kinnistusraamatu pidamise korra. Kinnistusraamat on andmekogu, mille eesmärk on koguda, säilitada ja avalikustada teavet kinnisomandi tekkimise, üleandmise ja kinnisasja asjaõigusega koormamise, samuti kinnisasja koormava asjaõiguse üleandmise, koormamise, selle sisu muutmise või lõpetamise kohta.\n(1^1) Käesolevas seaduses sätestamata küsimustes juhindutakse tsiviilkohtumenetluse seadustikus registriasjade lahendamise kohta sätestatust. Kinnistamisavaldusele kohaldatakse tsiviilkohtumenetluse seadustikus kandeavalduse kohta sätestatut käesolevas seaduses sätestatud erisusi arvestades.\n(1^2)\n(2) Valdkonna eest vastutaval ministril on õigus anda määrusi käesoleva seaduse ellurakendamiseks ning kinnistusosakonna tegevuse korraldamiseks.\n(3) Valdkonna eest vastutav minister võib oma määrusega kehtestada:\n1) arvutiandmetöötluseks vajalikud nõuded kinnistusosakonnale esitatavate dokumentide vormi ja esitamise tehniliste tingimuste kohta;\n2) nõude, mille kohaselt kinnistusosakonnale esitatava avalduse ja muu notariaalselt kinnitatava dokumendi projekti peab koostama notar.\n(4) Kinnistusraamatule ja selle pidamisele kohaldatakse avaliku teabe seaduses andmekogude kohta sätestatut käesolevas seaduses sätestatud erisustega."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Kinnistusraamatu vastutav ja volitatud töötleja",
+      "content": "Kinnistusraamatu vastutav töötleja on Justiits- ja Digiministeerium ja volitatud töötlejad on Tartu Maakohtu kinnistusosakond ning Registrite ja Infosüsteemide Keskus."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Kinnistusosakonna pitsat",
+      "content": "(1) Kinnistusosakonnal on riigivapiga pitsat.\n(2) Kohtuteenistujal, kes teeb kinnistusosakonnas tõestamistoiminguid, võib olla oma nimega riigivapiga pitsat."
+    },
+    {
+      "provision_ref": "para5^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5^1",
+      "title": "§ 5^1. Kinnistu",
+      "content": "Kinnistu on kinnistusraamatusse iseseisva üksusena kantud:\n1) kinnisasi (maatükk);\n2) hoonestusõigus;\n3) korteriomand;\n4) korterihoonestusõigus."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "8",
+      "title": "§ 8. Kinnistusraamatusse kantavad kinnisasjad",
+      "content": "(1) Kinnistusraamatusse kantakse kõik kinnisasjad, kui seaduses ei ole sätestatud teisiti. Iga kinnistusraamatusse kantud kinnisasja kohta avatakse iseseisev registriosa ja sellele antakse eraldi number (kinnistu number).\n(2) Käesoleva paragrahvi 1. lõikes nimetatud registriosa loetakse kinnisasja suhtes kinnistusraamatuks.\n(3)\n(4) Kinnistusregistriosa avatakse omaniku avalduse alusel."
+    },
+    {
+      "provision_ref": "para8^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "8^1",
+      "title": "§ 8^1. Registriosa avamine",
+      "content": "(1) Enne registriosa avamist kinnistusraamatusse kandmata kinnisasja kohta avaldab kinnistusosakond selle kohta teate ametlikus väljaandes Ametlikud Teadaanded ning vajadusel muul puudutatud isikutele kättesaadaval viisil.\n(2) Teates märgitakse:\n1) sissekantava kinnisasja asukoht ja pindala;\n2) omanikuna sissekantava isiku nimi;\n3) ettepanek isikutele teatada kinnistusosakonnale ühe kuu jooksul, arvates teate avaldamisest ametlikus väljaandes Ametlikud Teadaanded, teates esitatud andmetes esinenud ebatäpsustest või vigadest;\n4) kinnistusosakonna nimetus ja asukoht.\n(3) Registriosa avamise ja tehtava kande suhtes esitatud kaebus ei takista registriosa avamist. Kaebuse esitanud isik võib nõuda märke tegemiseks avatavasse kinnistusregistri ossa nõusolekut isikult, kes kantakse omanikuna kinnistusraamatusse."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "9",
+      "title": "§ 9. Kinnistusraamatusse kantavad asjaõigused",
+      "content": "(1) Kinnistusraamatusse kantakse kinnisasjaga seotud asjaõigused.\n(2) Asjaõiguse kanne tehakse koormatava kinnisasja kinnistusregistriossa.\n(3) Kinnistu igakordsele omanikule kuuluvate piiratud asjaõiguste kohta tehakse kinnistu omaniku avalduse alusel märge ka tema kinnistu kinnistusregistriossa.\n(4) Kui käesoleva paragrahvi 3. lõikes nimetatud asjaõigus muudetakse või lõpetatakse, on kinnistusosakond kohustatud märke parandama."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - KINNISTUSRAAMATU SISU",
+      "section": "10",
+      "title": "§ 10. Kinnistusraamatu koosseis",
+      "content": "Kinnistusraamatu koosseisu kuuluvad:\n1) kinnistusregister;\n2) kinnistuspäevik;\n3) kinnistustoimik."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - KINNISTUSRAAMATU SISU",
+      "section": "11",
+      "title": "§ 11. Kinnistusregister",
+      "content": "(1) Kanded tehakse kinnistusregistrisse.\n(2)\n(3)\n(4) Kinnistusregistriosal on pealkiri ja neli jagu.\n(5)\n(6)"
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - KINNISTUSRAAMATU SISU",
+      "section": "12",
+      "title": "§ 12. Registriosa pealkiri",
+      "content": "Kinnistusregistriosa pealkirjas näidatakse:\n1)\n2) kinnistusosakonna nimetus;\n3) kinnistu number.\n4)\n5)"
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - KINNISTUSRAAMATU SISU",
+      "section": "13",
+      "title": "§ 13. Registriosa esimene jagu",
+      "content": "(1) Kinnistusregistriosa esimesse jakku «Kinnistu koosseis» kantakse:\n1) kinnistu katastritunnus;\n2) kinnistu sihtotstarve;\n3) kinnistu asukoht;\n4) kinnistu kasuks seatud piiratud asjaõigused (§ 9 lg 3);\n5) kinnistu pindala;\n6) kinnistute ühendamine ja jagamine, samuti kinnistuga kinnistu osa liitmine ja kinnistu osa eraldamine.\n(2) Käesoleva paragrahvi 1. lõike punktides 1–3 ja 5 sätestatud andmed esitab enne kinnistamist riigi maakatastri pidaja. Nimetatud andmed ei ole kanneteks asjaõigusseaduse ega käesoleva seaduse tähenduses.\n(3) Käesoleva paragrahvi 2. lõikes nimetatud andmete muutumisel, kui sellega ei kaasne kinnistu piiride muutumist looduses, parandab kinnistamiseks pädev isik need andmed registriosa esimeses jaos riigi maakatastri pidaja kirjaliku taotluse alusel.\n(3^1) Kui käesoleva paragrahvi 2. lõikes nimetatud andmete muutmise või parandamise aluseks on ümberkruntimiskava kinnitamise või maakatastri andmete muutmise või parandamise otsus, parandab kinnistamiseks pädev isik need andmed registriosa esimeses jaos riigi maakatastri pidaja kinnistamisavalduse alusel.\n(4) Kui katastriüksuse piirid muutuvad looduses, esitab riigi maakatastri pidaja kinnistamisavalduse andmete muutmiseks. Avaldusele lisatakse kinnisasja omaniku ja teiste kinnistusraamatust nähtuvate puudutatud isikute nõusolekud."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - KINNISTUSRAAMATU SISU",
+      "section": "14",
+      "title": "§ 14. Registriosa teine jagu",
+      "content": "Kinnistusregistriosa teise jakku «Omanik» kantakse:\n1) omanik;\n2) kui kinnistu on ühises omandis – omanikud, see, kas kinnistu on ühis- või kaasomandis, ning kaasomandi korral kaasomanike osade suurus."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - KINNISTUSRAAMATU SISU",
+      "section": "15",
+      "title": "§ 15. Registriosa kolmas jagu",
+      "content": "(1) Kinnistusregistriosa kolmandasse jakku «Koormatised ja kitsendused» kantakse:\n1) kinnistut koormavad piiratud asjaõigused, välja arvatud hüpoteek, kinnisomandi kitsendused ja märked nende kohta;\n2) kinnistu omaniku käsutusõiguse kitsendused, samuti muud märked omandi kohta;\n3) käesoleva paragrahvi punktides 1 ja 2 nimetatud kannete muudatused, sealhulgas puudutatud isikute kitsendused oma õiguste käsutamisel;\n4) käesoleva paragrahvi punktides 1–3 nimetatud kannete kustutamine.\n(2)\n(3) Kui käesoleva paragrahvi lõikes 1 nimetatud andmed muutuvad kinnisasjade osade vahetamise, piiride muutmise või ümberkruntimise käigus, märgib maakatastri pidaja kinnistamisavalduses registriosade kaupa registriosa kolmandas jaos olevate kannete kehtima jäämise, kustutamise või ülekandmise."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - KINNISTUSRAAMATU SISU",
+      "section": "16",
+      "title": "§ 16. Registriosa neljas jagu",
+      "content": "Kinnistusregistriosa neljandasse jakku «Hüpoteegid» kantakse:\n1) hüpoteegipidaja;\n2) hüpoteegi rahaline suurus (hüpoteegi summa);\n3)\n4)\n5) märked hüpoteegi kohta;\n6) käesoleva paragrahvi punktides 1–5 nimetatud kannete muudatused;\n7) käesoleva paragrahvi punktides 1–6 nimetatud kannete kustutamine."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - KINNISTUSRAAMATU SISU",
+      "section": "18",
+      "title": "§ 18. Registri asendusosa",
+      "content": "(1) Kui kinnistusregistriosa on hävinud, kadunud või rikutud, seab kohus kohtutoimiku taastamiseks tsiviilkohtumenetluses ettenähtud korras sisse asendusosa.\n(2) Menetlus algatatakse kinnistusosakonna juhataja või puudutatud isiku avalduse alusel. Vähemalt üks kuu enne avalduse sisulist läbivaatamist avaldab kohus väljaandes Ametlikud Teadaanded teate, milles märgitakse avalduse sisu.\n(3) Käesoleva paragrahvi 2. lõikes sätestatud tähtaja möödumisel otsustab kinnistamiseks pädev isik asendusregistriosa avamise."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - KINNISTUSRAAMATU SISU",
+      "section": "19",
+      "title": "§ 19. Kinnistuspäevik",
+      "content": "(1) Kinnistuspäevikus registreeritakse kinnistamisavaldused (§ 34), milles on väljendatud soov kande tegemiseks.\n(2) Kinnistuspäevikusse kantakse lisaks avalduse vastuvõtmise kuupäev, puudutatud kinnistu number, määruse tegemise aeg, kestus, täiendavate dokumentide saabumise aeg, kandemääruse tegemise, sissekandmise ja teatavakstegemise aeg, kinnistamist läbiviivate isikute allkirjad, tehinguväärtus ja riigilõiv."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - KINNISTUSRAAMATU SISU",
+      "section": "20",
+      "title": "§ 20. Kinnistustoimik",
+      "content": "(1) Kinnistustoimikus säilitatakse kõiki kinnistu kohta käivaid dokumente.\n(2) Kinnistusosakond tagab kinnistustoimikus säilitatavate dokumentide vastavuse algdokumentidele.\n(3) Kinnistustoimik koosneb:\n1) registriosa ärakirjast;\n2) kõigist kinnistu kohta käivatest dokumentidest.\n(4) Kinnistusosakond tagab kinnistustoimikus oleva registriosa ärakirja ja muude dokumentide vastavuse algdokumentidele."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "2. peatükk - KINNISTUSRAAMATU SISU",
+      "section": "22",
+      "title": "§ 22. Kinnistusosakonna arhiiv",
+      "content": "(1) Kinnistusosakonna arhiivi peetakse digitaalselt.\n(2) Kinnistusosakonna arhiivis hoitavate andmete ja dokumentide nimekirja ja säilitamise tähtajad, samuti arhiivi pidamise ja säilitamise korra ning arhiivile esitatavad nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - KINNISTUSREGISTRI KANDED",
+      "section": "23",
+      "title": "§ 23. Kande sisu",
+      "content": "Kinnistusregistri kanne sisaldab:\n1) kande teksti;\n2) kande tegemise kuupäeva.\n3)"
+    },
+    {
+      "provision_ref": "para23^1",
+      "chapter": "3. peatükk - KINNISTUSREGISTRI KANDED",
+      "section": "23^1",
+      "title": "§ 23^1. Kanded",
+      "content": "Kanded tehakse asjaõiguste ja märgete kohta."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - KINNISTUSREGISTRI KANDED",
+      "section": "24",
+      "title": "§ 24. Kande tekst",
+      "content": "Kande tekst sisaldab:\n1) kinnistatud asjaõiguse või märke sisu, sealhulgas isikut, kelle kasuks kanne tehakse;\n2) viidet algdokumendile ja dokumendile, mille alusel soovitakse asjaõiguse sisu täpsemalt tõendada;\n3) viidet järjekohale, kui samal päeval tehakse samasse registriossa mitu kannet (§ 49)."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "3. peatükk - KINNISTUSREGISTRI KANDED",
+      "section": "25",
+      "title": "§ 25. Kinnistusregistri kannete numeratsioon",
+      "content": "Kanded kinnistusregistriosas nummerdatakse iga registrijao piires nende tegemise järjekorras. Muutmise ja kustutamise kanded saavad selle kande numbri, mille kohta need käivad."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "3. peatükk - KINNISTUSREGISTRI KANDED",
+      "section": "26",
+      "title": "§ 26. Kande vormistamine",
+      "content": "(1) Kanded tuleb teha selgelt ja lühenditeta, välja arvatud üldkasutatavad lühendid.\n(2) Mahatõmbamised ja juurdekirjutused kande tekstis, välja arvatud õiguslikku tähendust mitteomavate kirjavigade parandamine, samuti teksti kustutamine või muul viisil loetamatuks muutmine ei ole lubatud."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "3. peatükk - KINNISTUSREGISTRI KANDED",
+      "section": "27",
+      "title": "§ 27. Märke kandmine kinnistusregistrisse",
+      "content": "(1)\n(2)\n(3)\n(4)\n(5) Registrisse ei ole lubatud kanda märget, milles ei ole ära näidatud isikut, kelle kasuks märge tehakse.\n(6) Märke kandmise avaldus peab olema notariaalselt kinnitatud, kui seaduses ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "3. peatükk - KINNISTUSREGISTRI KANDED",
+      "section": "28",
+      "title": "§ 28. Märke asukoht registris",
+      "content": "Märge kantakse:\n1) kinnistusregistriosa kolmandasse jakku, kui märge tagab omandi ülekandmise nõuet;\n2) lõpliku kande jaoks ettenähtud jakku, kui märge tagab nõuet mingi muu õiguse seadmiseks kinnistule või seda koormavale õigusele;\n3) ülejäänud juhtudel sellesse jakku, kuhu on kantud õigus, mille kohta märge käib."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "3. peatükk - KINNISTUSREGISTRI KANDED",
+      "section": "30",
+      "title": "§ 30. Kande järjekoht ja selle tähistamine",
+      "content": "(1) Kui kinnistusregistriosa ühte jakku tehakse mitu kannet, saavad need järjekoha, mis vastab registreerimise järjekohale kinnistuspäevikus. Kui avaldused on esitatud samaaegselt, antakse neile üks ja sama järjekoht.\n(2) Kui eri aegadel esitatud kinnistamisavalduste alusel tehakse kandeid eri jagudesse samal päeval, tuleb neis ära näidata, et hiljem taotletud kanne asub varem taotletud kandest järjekohas tagapool.\n(3) Käesoleva paragrahvi 1. ja 2. lõiget ei kohaldata, kui asjaosalised on määranud teisiti.\n(4)\n(5)\n(6)\n(7)"
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "3. peatükk - KINNISTUSREGISTRI KANDED",
+      "section": "31",
+      "title": "§ 31. Mitme isiku asjaõiguse kanne",
+      "content": "Üheaegselt mitmele isikule kuuluva asjaõiguse kinnistusregistrisse kandmisel märgitakse ära vastav õigussuhe ja iga isiku osa suurus."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "3. peatükk - KINNISTUSREGISTRI KANDED",
+      "section": "32",
+      "title": "§ 32. Mitme kinnistu koormamise kanne",
+      "content": "(1) Kui mitut kinnistut koormatakse sama asjaõigusega, märgitakse igas registriosas teised sama õigusega koormatud kinnistud. Sama kehtib ka siis, kui ühte kinnistut koormava õigusega koormatakse hiljem veel teist kinnistut või kui kinnistu osa ülekandmisel teise kinnistusregistriossa kantakse üle ka seda koormav asjaõigus.\n(2) Kui käesoleva paragrahvi 1. lõikes nimetatud koormatis mõne kinnistu suhtes kustutatakse, tuleb see märkida teiste kinnistute registriosades."
+    },
+    {
+      "provision_ref": "para32^1",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "32^1",
+      "title": "§ 32^1. Kohtunikuabi ja kohtuniku pädevus kinnistamisel",
+      "content": "Kohtuniku ja kohtunikuabi pädevus kinnistamisel on sätestatud tsiviilkohtumenetluse seadustikus."
+    },
+    {
+      "provision_ref": "para32^2",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "32^2",
+      "title": "§ 32^2. Kinnistussekretäri pädevus",
+      "content": "(1) Kinnistussekretär on pädev läbi vaatama kinnistamisavaldusi ja tegema kandemääruse eelnõusid.\n(2)\n(3) Kinnistusosakonna juhataja võib lubada kinnistussekretäril teha kõiki kohtunikuabi pädevuses olevaid töid peale kandemääruse tegemise."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "33",
+      "title": "§ 33. Kinnistamine",
+      "content": "(1) Kinnistamine on kinnistamiseks pädeva isiku määruse alusel kinnistusraamatusse kande tegemine, sealhulgas kande muutmine või kustutamine.\n(2) Kanne tehakse pärast lõivu tasumist, kui seaduses ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "34",
+      "title": "§ 34. Kinnistamisavaldus",
+      "content": "(1) Kinnistamisavalduse esitamise õigus on isikul, kelle õigusi kanne puudutab või kelle kasuks kanne tehakse.\n(1^1) Kinnistamisavalduse esitamise õigus on riigi maakatastri pidajal lihtsa maakorralduse, ümberkruntimise, avaliku veekogu muutuse tõttu kinnisomandi lõppemise või avalikus veekogus iseseisva kinnisasja tekkimise korral, samuti juhul, kui maakatastri kande muutmise või parandamise otsuse teeb katastripidaja. Kinnistusraamatu kande aluseks on maakatastri pidaja avaldus ja maakatastri kande aluseks olev otsus. Maakatastri pidaja esitatud kinnistamisavaldus asendab käesoleva paragrahvi lõikes 1 nimetatud isiku kinnistamisavaldust.\n(2)\n(2^1) Kinnistamisavaldus peab olema notariaalselt kinnitatud või digitaalselt allkirjastatud. Notariaalselt kinnitatud kinnistamisavaldus esitatakse koos kinnistamiseks vajalike dokumentidega kinnistusosakonnale kinnistamisavalduse kinnitanud notari vahendusel notarite elektroonilise infosüsteemi kaudu. Mõjuval põhjusel võib kinnistamisavalduse ja kinnistamiseks vajalikud dokumendid esitada teise notari vahendusel. Notar selgitab isikule, millised dokumendid tuleb kinnistamisavaldusele lisada ja millised nõuded neile kehtivad.\n(2^2) Kinnistamisavalduse esitamise volikiri peab olema notariaalselt kinnitatud või digitaalselt allkirjastatud.\n(3)\n(4)\n(5)\n(6) Kinnistamisavalduses peab olema väljendatud soov kande tegemiseks, märgitud selle registriosa number, milles taotletakse kande tegemist, ja taotletava asjaõiguse sisu. Kande taotlemisel avatavasse registriossa märgitakse kinnistamisavalduses registriosa numbri asemel katastritunnus.\n(6^1)\n(7)\n(7^1) Kui kinnistamisavaldusele tuleb seaduse kohaselt lisada notariaalselt tõestatud käsutustehing, peab kinnistamisavaldus olema notariaalselt kinnitatud. Sellisel juhul esitatakse kinnistamisavaldus koos kinnistamiseks vajalike dokumentidega kinnistusosakonnale kinnistamisavalduse kinnitanud notari vahendusel. Mõjuval põhjusel võib kinnistamisavalduse ja kinnistamiseks vajalikud dokumendid esitada teise notari vahendusel.\n(8)"
+    },
+    {
+      "provision_ref": "para34^1",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "34^1",
+      "title": "§ 34^1. Puudutatud isiku nõusolek",
+      "content": "(1) Kande tegemiseks, muutmiseks või kustutamiseks on nõutav selle isiku nõusolek, kelle kinnistusregistriossa kantud õigust kanne kahjustaks (puudutatud isik), kui seaduses ei ole sätestatud teisiti.\n(2) Kui seaduses ei ole sätestatud teisiti, on puudutatud isikuks eelkõige:\n1) asjaõiguse kinnistusraamatusse kandmisel koormatava kinnisasja omanik või koormatava asjaõiguse omaja;\n2) asjaõiguse kustutamisel või selle sisu muutmisel kustutatava või muudetava asjaõiguse omaja, samuti isik, kes omab asjaõigust kustutatavale või muudetavale asjaõigusele;\n3) asjaõiguse üleandmisel või koormamisel asjaõiguse omaja, kelle õigus üle kantakse või koormatakse;\n4) järjekoha muutmisel järjekohas tagasi astuvate õiguste omajad, nendele õigustele asjaõiguste omajad; hüpoteegi järjekohas tagasi astumise korral ka kinnisasja omanik;\n5) märke kinnistusraamatusse kandmisel kinnisasja, mille suhtes märge tehakse, omanik või asjaõiguse, mille suhtes märge tehakse, omaja;\n6) kinnisasja või asjaõigust puudutava märke muutmisel või kustutamisel märke järgi õigustatud isikud, samuti isikud, kes omavad asjaõigust märkest tulenevale õigusele;\n7) käsutuspiirangu kandmisel kinnistusraamatusse kinnisasja omanik ja puudutatud õiguse omaja.\n(3) Puudutatud isiku nõusolek võib sisalduda ka kinnistamisavalduses.\n(4) Hoonestusõiguse ja hüpoteegi kustutamiseks vastavalt hoonestaja või hüpoteegipidaja avalduse alusel on vaja kinnisasja omaniku nõusolekut.\n(4^1) Kinnisasja omaniku nõusolek kohtuliku hüpoteegi kustutamiseks ei ole vajalik, kui maksuhaldur taotleb kande kustutamist maksukorralduse seaduse § 136^1 lõike 3 alusel.\n(5) Puudutatud isiku nõusolek peab olema notariaalselt kinnitatud.\n(5^1) Puudutatud isiku notariaalselt kinnitatud nõusolek loetakse võrdseks digitaalallkirjastatud või notariaadiseaduse § 53 lõike 1 punkti 5^2 alusel kinnitatud nõusolekuga.\n(5^2) Puudutatud isiku nõusolek peab sisaldama § 34 lõikes 6 sätestatud andmeid.\n(6) Puudutatud isiku nõusolek ei ole tagasivõetav.\n(7) Puudutatud isiku nõusolek ei ole nõutav, kui:\n1) kinnistamisavaldusele on lisatud vastav jõustunud või viivitamata täitmisele kuuluv hagi tagamise, esialgse õiguskaitse kohaldamise või vara arestimise kohtumäärus;\n2) kohtutäitur taotleb kande tegemist oma seadusest tulenevate ülesannete täitmisel;\n3) Rahapesu Andmebüroo taotleb kande tegemist oma seadusest tulenevate ülesannete täitmisel;\n4) notar taotleb vastuväite kandmist kinnistusraamatusse pärast pärimistunnistuse kehtetuks tunnistamist;\n5) annakusaaja taotleb eelmärke kandmist kinnistusraamatusse kinnisasjaõiguse üleandmise tagamiseks ja kinnistamisavaldusele on lisatud vastavasisuline annakusaaja tunnistus;\n6) maakatastri pidaja taotleb kande tegemist, muutmist või kustutamist ümberkruntimiskava kinnitamise või katastrikande muutmise või parandamise otsuse alusel;\n7) kinnisasja avalikes huvides omandamise menetluse läbiviija taotleb kinnisasja omandi üleandmise kande tegemist ja piiratud asjaõiguse või märke kustutamist sundvõõrandamise otsuse alusel või piiratud asjaõiguse või märke sundkustutamist kinnisasja omandamise otsuse alusel;\n8) sundvalduse otsustaja taotleb sundvalduse märkuse kustutamist;\n9) maakatastri pidaja taotleb kande tegemist, muutmist või kustutamist avaliku veekogu kaldajoone muutuse tõttu.\n(8) Puudutatud isiku nõusolekut võib asendada jõustunud või viivitamata täitmisele kuuluv kohtulahend, millega on tuvastatud nõusoleku andmise kohustus."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "35",
+      "title": "§ 35. Kinnistamiseks vajalikud dokumendid",
+      "content": "(1) Kinnistamisavaldusele tuleb lisada järgmised dokumendid:\n1) vormikohane käsutustehing;\n2) nõutavad nõusolekud;\n3) kohtulahendi või sundenampakkumise akti ärakiri, kui kinnistamist taotletakse kohtulahendi või sundenampakkumise akti alusel;\n4)\n5)\n6) andmed, mis võimaldavad kontrollida riigilõivu tasumist;\n7) muud seadusest tulenevad kinnistamiseks vajalikud dokumendid.\n(1^1) Kinnistusosakonnale esitatakse dokumendi originaal või notariaalselt või ametlikult kinnitatud ärakiri. Ametlikult kinnitatud ärakiri võib olla elektrooniline. Sel juhul asendab kinnituse andnud isiku nime ja allkirja ning asutuse pitserit isiku digitaalallkiri või asutuse digitaalne tempel.\n(1^2) Kui dokument asub kinnistustoimikus, ei ole seda vaja uuesti esitada. Kinnistamisavalduses tuleb märkida selle dokumendi asukoht.\n(2)\n(3) Õigustatud isiku poolt kinnistusosakonnale esitatud kinnistamisavaldus ja muud kinnistamiseks vajalikud dokumendid ei muutu kehtetuks, kui õigustatud isiku käsutusõigust piiratakse pärast dokumentide kinnistusosakonnale esitamist.\n(4) Märge hagi tagamise kohta ja kohtulik hüpoteek kantakse kinnistusraamatusse kinnistamisavalduse ja kohtu määruse alusel, kui seadusest ei tulene teisiti. Puudutatud isiku nõusolek ei ole kande tegemiseks nõutav."
+    },
+    {
+      "provision_ref": "para35^2",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "35^2",
+      "title": "§ 35^2. Kinnistusosakonnale esitatavad isikuandmed",
+      "content": "(1) Kinnistamisavalduses, puudutatud isiku nõusolekus ning kinnistusraamatu kandes märgitakse isiku kohta:\n1) füüsilise isiku nimi ja Eesti isikukood;\n1^1) Eesti isikukoodi puudumisel välismaa isikukood;\n1^2) isikukoodi puudumisel isikukoodi asendav muu tunnus või sünniaeg;\n2) juriidilise isiku korral nimi ja registrikood. Registrikoodi ei pea näitama, kui isik ei kuulu avalikku registrisse kandmisele.\n(2) Kui kinnistusraamatusse tehakse kanne teise kinnistu igakordse omaniku kohta, ei kohaldata isikuandmete esitamisel käesoleva paragrahvi lõiget 1.\n(3) Isiku puhul, kes ei ole Eesti kodanik ega Eesti juriidiline isik, näidatakse kinnistamisavalduses andmed füüsilise isiku kodakondsuse kohta ning seda, kas tal on kehtiv Eesti elamisluba, juriidilise isiku puhul osutatakse, millise välisriigi õiguse või rahvusvahelise lepingu alusel ta tegutseb ning millisesse registrisse ta on kantud. Kinnistusregistriossa neid andmeid ei kanta.\n(4) Isiku puhul, kellel ei ole Eesti rahvastikuregistris registreeritud elukohta ja kes ei ole Eesti juriidiline isik, näidatakse täiendavalt tema aadress ja teatatakse kinnistusosakonnale viivitamata selle muutumisest. Aadressi ei kanta kinnistusregistriossa. Aadress peab vastama äriregistri seaduse § 10 lõigetes 3 ja 4 sätestatule.\n(5)\n(6)\n(7)\n(8)"
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "36",
+      "title": "§ 36. Ruumiandmete kättesaadavaks tegemine",
+      "content": "Kinnistusosakonnale esitatakse viide kandega seotud õiguse ruumiandmetele maakatastris, kui see on vajalik kande mõistmiseks. Viite asemel võib esitada katastrikaardi skeemi, kui ruumiandmete määramine maakatastris ei ole tehniliselt võimalik või on oluliselt raskendatud."
+    },
+    {
+      "provision_ref": "para36^1",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "36^1",
+      "title": "§ 36^1. Muud dokumendid",
+      "content": "(1) Kui isik tegutseb teise isiku nimel, peab ta kinnistusosakonnale esitama vormikohased esindusõigust tõendavad dokumendid.\n(2)\n(3) Pärimisjärglust tõendatakse pärimistunnistusega.\n(4) Äriregistri, mittetulundusühingute ja sihtasutuste registri ning abieluvararegistri andmete elektroonilise kasutamise võimaluse korral ei nõua kinnistusosakond registrikaardi ärakirja, vaid kontrollib vajalikke andmeid ise arvutivõrgu kaudu."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "37",
+      "title": "§ 37. Kinnistusraamatu kannete keel",
+      "content": "(1) Kinnistusraamatut peetakse eesti keeles.\n(2) Võõrkeelsed dokumendid esitatakse kinnistusosakonnale vandetõlgi tehtud eestikeelse tõlkega. Samuti võib võõrkeelsed dokumendid esitada kinnistusosakonnale notari tehtud eestikeelse tõlkega, kui notar on koostanud notariaalakti või -märke võõrkeeles tõestamisseaduse § 5 lõike 2 alusel.\n(3)"
+    },
+    {
+      "provision_ref": "para37^1",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "37^1",
+      "title": "§ 37^1. Kasutatav vääring",
+      "content": "Rahasummad kantakse kinnistusregistrisse eurodes."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "38",
+      "title": "§ 38. Kinnistamisavalduste vastuvõtmine",
+      "content": "(1)\n(2) Esitatud avaldusele teeb kinnistusosakonna pädev töötaja kohe oma allkirjaga pealdise selle avalduse saamise kuupäeva ja kellaaja kohta.\n(3) Posti teel esitatud kinnistamisavaldus ja selle lisadokumendid skaneeritakse ja salvestatakse viivitamata elektroonilises kinnistustoimikus ning tagastatakse nende esitaja nõudmisel. Posti teel esitatud dokumendid, mille tagastamist ei nõuta, hävitatakse pärast ühe kuu möödumist nende esitamisest.\n(4) Kinnistamisavalduse ja selle lisadokumentide skaneerimise, kinnistustoimikusse salvestamise, tagastamise ja hävitamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "39",
+      "title": "§ 39. Kinnistamisavalduse registreerimine",
+      "content": "(1) Kinnistusosakonda saabunud kinnistamisavaldus registreeritakse kohe kinnistuspäevikus ja nummerdatakse vastavalt avalduse saabumise ajale.\n(2) Samal päeval posti või e-posti teel saabunud kinnistamisavaldused loetakse üheaegselt saabunuks ja registreeritakse päevikus sellel päeval saabunud avaldustest viimastena. Vastuvõtmise kellaajaks märgitakse kinnistamisavalduste vastuvõtu lõpetamise kellaaeg.\n(3) Kui digitaalallkirjastatud avalduse saab esitada otse elektroonilise kinnistusraamatu infosüsteemi, registreeritakse avaldus ning tema laekumise aeg kinnistuspäevikus automatiseeritult ning nummerdatakse lõike 1 alusel.\n(4) Kui digitaalallkirjastatud avalduse saab esitada otse elektroonilise kinnistusraamatu infosüsteemi, ei või avaldust esitada e-posti teel. Sellisel juhul tagastab kinnistusosakond e-postiga esitatud avalduse seda kinnistuspäevikusse kandmata, märkides ära tagastamise põhjuse."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "40",
+      "title": "§ 40. Tõend kinnistamisavalduse vastuvõtmise kohta",
+      "content": "(1)\n(2) Elektroonilise kinnistusraamatu infosüsteemi esitatud kinnistamisavalduse kohta saadetakse selle esitajale automaatne vastuvõtukinnitus. Automaatne vastuvõtukinnitus ei ole esitatud dokumendi tehnilise ja õigusliku korrektsuse tunnustamise alus."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "41",
+      "title": "§ 41. Kinnistamisavalduse läbivaatamine",
+      "content": "(1)\n(2) Kui ühe kinnistu või ühe õiguse kohta on esitatud mitu kinnistamisavaldust, ei tohi hiljem esitatud avalduse alusel teha kannet enne varem esitatud avalduse alusel kande tegemist.\n(3)"
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "42",
+      "title": "§ 42. Tingimuslik avaldus",
+      "content": "(1) Kinnistamisavaldust, mille täitmine on seotud tingimusega, ei rahuldata.\n(2) Kui kinnistamisavalduses soovitakse mitut kannet, võib avaldaja seada tingimuseks, et ühte kannet ei tehtaks teist kannet tegemata."
+    },
+    {
+      "provision_ref": "para42^1",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "42^1",
+      "title": "§ 42^1. Mitme kandetaotlusega kinnistamisavaldus",
+      "content": "Kui kinnistamisavalduses taotletakse mitme kande tegemist kinnistusregistrisse, tuleb iga taotletav kanne eraldi välja tuua."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "43",
+      "title": "§ 43. Täiendavate dokumentide esitamine",
+      "content": "(1) Kuni kandemääruse tegemiseni võib kinnistamisavalduse esitanud isik esitada kinnistusosakonnale täiendavaid dokumente.\n(2) Kui kinnistamisavaldus esitati notari vahendusel, esitatakse ka täiendavad dokumendid notari vahendusel."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "46",
+      "title": "§ 46. Kandemäärus",
+      "content": "(1) Kinnistamisavalduse läbivaatamisel selgitab kinnistamiseks pädev isik välja, kas:\n1) on esitatud nõutavad dokumendid (§ 35), mis vastavad nõutavale vormile;\n2) kinnistusraamatusse kantud või märkega tagatud õigustest või seadusest tulenevalt ei ole kinnistamine välistatud.\n(2) Vaadanud kinnistamisavalduse läbi, teeb kinnistamiseks pädev isik kolme kuu jooksul avalduse vastuvõtmise päevast arvates kandemääruse. Avaldus kinnistu võõrandamise, koormamise või märke tegemise kohta vaadatakse läbi hiljemalt ühe kuu jooksul alates avalduse laekumise päevast. Kohus võib käesoleva lõike teises lauses nimetatud tähtaega kontrollimist vajavate asjaolude esinemise korral pikendada.\n(3) Kui kinnistamisavalduses esineb kande tegemist takistav puudus või puudub vajalik dokument, määrab kande tegemiseks pädev isik tähtaja puuduse kõrvaldamiseks.\n(3^1) Kinnistamisavalduse, välja arvatud kinnistu esmakordse kinnistamise avalduse läbivaatamisele ei kohaldata tsiviilkohtumenetluse seadustikus toodud aluseid menetluse peatumise ja peatamise kohta.\n(4) Kui ühe kinnisasja kohta on esitatud mitu kinnistamisavaldust ja kui takistusega seotud avaldus või avaldus, mille alusel on kinnistamine välistatud, on registreeritud kinnistuspäevikus varem, peab enne hiljem laekunud avalduse alusel kande tegemist kandma kinnistusregistri kande jaoks ettenähtud jakku varem esitatud avalduses taotletava kande kohta ametiülesande korras eelmärke või vastuväite. Eelmärge või vastuväide kustutatakse ametiülesande korras, kui takistusega seotud kanne tehakse või kui kandemääruse peale esitatud määruskaebus jäetakse rahuldamata või lükatakse tagasi.\n(5) Kui puudust määratud tähtaja jooksul ei ole kõrvaldatud, teeb kinnistamiseks pädev isik määruse avalduse rahuldamata jätmise kohta. Pärast kõigi puuduste kõrvaldamist ja nõutavate dokumentide esitamist peab kande tegemiseks pädev isik avalduse ühe kuu jooksul läbi vaatama.\n(6)"
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "48",
+      "title": "§ 48. Kandemääruse sisu",
+      "content": "Kandemääruses peab sisalduma:\n1) määruse tegemise aeg ja koht;\n2) kande tekst, samuti viide kinnistusregistriosale ja selle jaole, kuhu kanne tehakse;\n3) määruse põhistus ja õiguslik alus, kui kinnistamisavaldust ei rahuldata;\n4) määruse peale edasikaebamise kord ja tähtaeg;\n5) määruse teinud isiku nimi ja ametikoht."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "49",
+      "title": "§ 49. Kande tegemine kinnistusregistrisse",
+      "content": "(1) Kandemääruse alusel tehakse kanne kinnistusregistrisse.\n(2) Kui kinnistusregistriossa tehakse mitu kannet, siis saavad need järjekorra, mis vastab avalduse esitamise ajalisele järjekorrale.\n(3) Kui ühe kinnistusregistriosa erinevatesse jagudesse tehakse samal päeval mitu kannet, mille avaldused polnud esitatud üheaegselt, siis kantakse registriossa ametiülesande korras märkus, et hiljem esitatud avalduse alusel tehtav kanne on varem esitatud avalduse alusel tehtavast kandest järjekohas tagapool.\n(4) Käesoleva paragrahvi 2. ja 3. lõiget ei rakendata, kui sissekantavate õiguste vahel pole järjekohasuhet või puudutatud isikute poolt on kannete tegemise järjekohad määratud.\n(5) Kandele kirjutavad alla esmalt kande teostanud isik ja peale kande kandemäärusele vastavuses veendumist kandemääruse teinud isik. Kandel on allakirjutamise kuupäev. Kanne jõustub päevast, mil kandemääruse teinud isik sellele alla kirjutab.\n(6) Kui kande teostab kandemääruse teinud isik, kirjutab kandele alla vaid see isik."
+    },
+    {
+      "provision_ref": "para49^1",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "49^1",
+      "title": "§ 49^1. Kanne järelpärija kohta ja eelpärija vabastamise kohta kitsendustest ja kohustustest",
+      "content": "(1) Eelpärija kandmisel kinnistusregistrisse kantakse sinna ka märkus järelpärija kohta.\n(2) Kui testaator on eelpärija seaduses sätestatud kitsendustest ja kohustustest vabastanud, kantakse koos eelpärijaga kinnistusregistrisse ka märkus tema vabastamise kohta nimetatud kitsendustest ja kohustustest.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud märkused kantakse ametiülesande korras:\n1) kinnistusregistri kolmandasse jakku, kui pärimise esemeks on kinnisasi;\n2) kinnistusregistri kolmandasse jakku, kui pärimise esemeks on kolmandasse jakku kantud õigus;\n3) kinnistusregistri neljandasse jakku, kui pärimise esemeks on hüpoteek."
+    },
+    {
+      "provision_ref": "para49^2",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "49^2",
+      "title": "§ 49^2. Kanne testamenditäitja kohta",
+      "content": "(1) Kui testaator on testamenditäitjale andnud õiguse osaleda pärimise eseme käsutamisel, kantakse koos pärijaga kinnistusregistrisse märkus testamenditäitja kohta.\n(2) Märkus testamenditäitja kohta kantakse sõltuvalt pärimise esemest ametiülesande korras kinnistusregistri samadesse jagudesse nagu käesoleva seaduse § 49^1 lõikes 2 nimetatud märkused."
+    },
+    {
+      "provision_ref": "para49^3",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "49^3",
+      "title": "§ 49^3. Hoonestusõiguse kandmine kinnistusregistrisse",
+      "content": "(1) Kinnistu koormamisel hoonestusõigusega avatakse hoonestusõigusele ametiülesande korras iseseisev registriosa.\n(2) Hoonestusõigusele avatud registriosale antakse number üldises järjekorras. Registriosa pealkirjas näidatakse, et registriosa on avatud hoonestusõigusele.\n(3) Registriosa esimesse jakku kantakse:\n1) sõna „hoonestusõigus”, samuti koormatud kinnistu koosseisuandmed vastava registriosa esimesest jaost;\n2) hoonestusõiguse sisu;\n3) koormatud kinnistu omanik;\n4) käesoleva lõike punktide 1–3 muudatused.\n(4) Hoonestusõiguse sisu osas võib kandes viidata kinnistamisavaldusele. Käsutuspiirangud ning piirangud hoonestusõiguse tingimuste ja tähtaegade osas peavad kandest otseselt nähtuma.\n(5) Kui hoonestusõiguse sisu osas on hoonestusõiguse ja hoonestusõigusega koormatud maatüki registriosade kannetes erinevusi, on määravaks hoonestusõiguse registriosas olev kanne.\n(6) Muus osas kohaldatakse kannete tegemisel hoonestusõiguse registriossa kinnisomandi registriosade suhtes sätestatut."
+    },
+    {
+      "provision_ref": "para49^4",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "49^4",
+      "title": "§ 49^4. Kande kustutamine õigustatud isiku surma järel",
+      "content": "(1) Õigust, mis on piiratud õigustatud isiku elueaga ja mille korral on võimalikud tema kasuks tehtavate soorituste võlgnevused, võib aasta jooksul õigustatud isiku surmast või surnukstunnistamisest arvates kustutada ainult tema pärija nõusolekul.\n(2) Pärijal, kes ei anna nõusolekut käesoleva paragrahvi lõikes 1 nimetatud õiguse kustutamiseks kinnistusregistrist, on õigus nõuda võlguolevate soorituste tagamiseks vastuväite kandmist kinnistusregistrisse.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud nõusolek pole vajalik, kui kinnistusregistrisse on kantud märkus, et õiguse kustutamiseks piisab õigustatud isiku surma tõendamisest."
+    },
+    {
+      "provision_ref": "para49^5",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "49^5",
+      "title": "§ 49^5. Kande kustutamine tähtpäeva saabumisel",
+      "content": "Käesoleva seaduse § 49^4 sätteid rakendatakse vastavalt ka õiguse suhtes, mis kustub õigustatud isiku jõudmisel teatud vanuseni või mõne muu kindlaksmääratud tingimuse täitumisel. Kande kustutamiseks ei ole õigustatud isiku nõusolek vajalik."
+    },
+    {
+      "provision_ref": "para49^6",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "49^6",
+      "title": "§ 49^6. Kohtumääruse alusel tehtud märke kustutamine",
+      "content": "Kohtumääruse alusel tehtud märke kustutamiseks ei ole vaja õigustatud isiku nõusolekut, kui määrus, mille alusel märge tehti, on tühistatud jõustunud kohtumäärusega."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "50",
+      "title": "§ 50. Kandemääruse teatavakstegemine",
+      "content": "(1) Pärast kande tegemist teatatakse sellest käesoleva seaduse § 1 lõike 2 alusel kehtestatud määruses ettenähtud korras viivitamata kinnistu omanikule, kõigile kinnistusregistrist nähtuvatele isikutele, kelle kasuks kanne tehti või kelle kinnistusregistrisse kantud õigust kanne kahjustab, ja teistele seaduses sätestatud isikutele ning ametiasutustele.\n(2) Kandemäärus, millega kandeavaldus jäetakse rahuldamata või millega määratakse tähtaeg puuduste kõrvaldamiseks, toimetatakse avalduse esitajale ja avaldajat kinnistamisasjas esindanud notarile kätte tsiviilkohtumenetluse seadustikus sätestatud korras.\n(3) Määruse edastamine või kättetoimetamine märgitakse kinnistuspäevikusse."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "51",
+      "title": "§ 51. Riigilõivu tagastamine",
+      "content": "(1)\n(2) Kinnistamisavalduse rahuldamata jätmise korral tagastatakse tasutud lõiv määruse alusel. Tagastatavast lõivust arvatakse maha menetluse kulud, mis on 1/4 tasutud lõivust, aga mitte üle 30 euro.\n(3)"
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "4. peatükk - KINNISTAMINE",
+      "section": "52",
+      "title": "§ 52. Kustutamine",
+      "content": "(1) Kannete kustutamine toimub vastava kustutuskande tegemisega kinnistusregistri osa vastavasse jakku.\n(2)"
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "5. peatükk - KINNISTUTE JAGAMINE JA ÜHENDAMINE",
+      "section": "53",
+      "title": "§ 53. Uue registriosa avamine",
+      "content": "(1) Kui kinnistu jagamisel soovitakse eraldatud osast moodustada uus kinnistu, avab kinnistusosakond uue registriosa.\n(2) Endises kinnistusregistriosas näidatakse pindala vähenemine jagamise tulemusena ja uue kinnistu number.\n(2^1) Kinnistamiseks pädev isik võib kinnistusregistri ülevaatlikkuse huvides otsustada avada kõigi kinnistu jagamisel tekkinud kinnistute kohta uued registriosad. Sel juhul endine registriosa suletakse.\n(3) Uutes kinnistusregistriosades viidatakse endise kinnistusregistriosa numbrile."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "5. peatükk - KINNISTUTE JAGAMINE JA ÜHENDAMINE",
+      "section": "54",
+      "title": "§ 54. Kinnistu osa koormamine",
+      "content": "(1) Kui kinnistu osa soovitakse koormata piiratud asjaõigusega, tuleb see osa eraldada kinnistust ja sisse kanda iseseisva kinnistuna.\n(2) Kinnistu osa koormamisel servituudiga ei ole jagamine nõutav, kui sellest ei teki segadust. Koormatud osa määratakse maakatastris ruumiandmetena või tähistatakse kinnistamisavalduse juurde kuuluval katastrikaardi skeemil, kui ruumiandmete määramine maakatastris ei ole tehniliselt võimalik või on oluliselt raskendatud."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "5. peatükk - KINNISTUTE JAGAMINE JA ÜHENDAMINE",
+      "section": "55",
+      "title": "§ 55. Piiratud asjaõiguste kannete ülekandmine jagamisel",
+      "content": "(1) Kui jagatakse piiratud asjaõigusega koormatud kinnistut, mille piiratud asjaõiguse esemeks on kinnistu tervikuna, jäetakse kanne endises registriosas püsima ja tehakse kanne ka uude registriossa.\n(1^1) Kui piiratud asjaõiguse esemeks on jagatava kinnistu osa, jäetakse piiratud asjaõiguse kanne vastavas registriosas kehtima või tehakse vastavasse uude registriossa uus kanne.\n(2)\n(3)"
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "5. peatükk - KINNISTUTE JAGAMINE JA ÜHENDAMINE",
+      "section": "56",
+      "title": "§ 56. Märke ülekandmine",
+      "content": "(1) Kinnistu jagamisel jääb märge püsima endises registriosas ja kantakse üle ka uutesse registriosadesse.\n(2) Kui märge käib kinnistu ühe osa kohta, kantakse see kinnistu jagamisel isiku nõusolekul, kelle kasuks märge tehti, ainult vastavasse registriossa."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "5. peatükk - KINNISTUTE JAGAMINE JA ÜHENDAMINE",
+      "section": "57",
+      "title": "§ 57. Kinnistu osa liitmine teise kinnistuga",
+      "content": "(1) Kui ühe kinnistu osa liidetakse teise kinnistuga, tehakse muudatus mõlema kinnistu kannetes ja märgitakse nendes mõlema kinnistu number.\n(2) Muus osas kohaldatakse vastavalt §-de 53–56 ja 59–60 sätteid."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "5. peatükk - KINNISTUTE JAGAMINE JA ÜHENDAMINE",
+      "section": "58",
+      "title": "§ 58. Kinnistute ühendamine",
+      "content": "(1) Mitme kinnistu ühendamisel üheks kinnistuks tuleb kinnistusregistris sulgeda ühendatava kinnistu registriosa, märkides selles, millise kinnistuga nimetatud kinnistu ühendati.\n(2) Kinnistusregistriosas, mida edasi peetakse, märgitakse kinnistu pindala suurenemine ja suletud registriosa number.\n(3)"
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "5. peatükk - KINNISTUTE JAGAMINE JA ÜHENDAMINE",
+      "section": "59",
+      "title": "§ 59. Kannete ülekandmine ühendamisel",
+      "content": "(1) Kinnistute ühendamisel kantakse kanded edasi peetavasse kinnistusregistriossa üle ja need kehtivad kogu kinnistu kohta.\n(2) Reaalservituudid, reaalkoormatised ja ostueesõigus, mis koormavad ühte ühendatavat kinnistut teise ühendatava kinnistu kasuks, kustutatakse kinnistusosakonna poolt, kui omanik ei määra teisiti."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "5. peatükk - KINNISTUTE JAGAMINE JA ÜHENDAMINE",
+      "section": "60",
+      "title": "§ 60. Kinnistusdokumentide esitamine",
+      "content": "Kinnistu jagamisel ja ühendamisel tuleb esitada käesoleva seaduse §-des 35 ja 36 nimetatud dokumendid."
+    },
+    {
+      "provision_ref": "para62^1",
+      "chapter": "6. peatükk - KINNISTUSREGISTRI KANDE PARANDAMINE",
+      "section": "62^1",
+      "title": "§ 62^1. Kande parandamine",
+      "content": "(1) Kanne parandatakse juhul, kui:\n1) kanne on tehtud ebaõige kandemääruse alusel;\n2) kanne on muutunud ebaõigeks asjaõiguse kinnistusraamatuvälise ülemineku tõttu;\n3) kanne on muutunud ebaõigeks kinnistusraamatusse kantud isiku isikuandmete muutumise tõttu.\n(2) Kinnistusosakond parandab kande kinnistamisavalduse alusel või omal algatusel ametiülesande korras. Seaduses sätestatud juhtudel toimub kande parandamine automatiseeritult."
+    },
+    {
+      "provision_ref": "para63^1",
+      "chapter": "6. peatükk - KINNISTUSREGISTRI KANDE PARANDAMINE",
+      "section": "63^1",
+      "title": "§ 63^1. Ebaõige kandemääruse alusel tehtud kande parandamine",
+      "content": "(1) Ebaõige kandemääruse alusel tehtud kanne parandatakse kinnistamisavalduse alusel. Kande parandamiseks on vajalik puudutatud isiku nõusolek.\n(2) Õiguslikku tähendust mitteomavad kirjavead ja muud ilmsed eksimused parandab kinnistusosakond ametiülesande korras. Tsiviilkohtumenetluse seadustiku § 597 4. lõikes sätestatut ei kohaldata.\n(3) Kui asjaõigus kuulub abikaasade või registreeritud elukaaslaste ühisvara hulka, kuid kinnistusraamatusse on ebaõige kandemääruse alusel selle omajana kantud ainult üks abikaasa või registreeritud elukaaslane, tuleb kande parandamiseks kinnistamisavaldusele lisada omandiõiguse tunnistus, mis tõendab asjaõiguse kuulumist abikaasade või registreeritud elukaaslaste ühisvara hulka."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "6. peatükk - KINNISTUSREGISTRI KANDE PARANDAMINE",
+      "section": "65",
+      "title": "§ 65. Kande kustutamine õigusliku tähenduse kadumisel",
+      "content": "(1) Kui kanne on kaotanud täielikult õigusliku tähenduse, teeb kinnistamiseks pädev isik määruse kande kustutamiseks kandest puudutatud isiku avalduse ja vastava kohtulahendi alusel.\n(2) Käesoleva paragrahvi 1. lõikes nimetatud isiku kande kustutamise avalduse tagasilükkamise korral peab kinnistusosakond seda põhjendama.\n(3) Kui kinnistusosakond saab teada, et mingi kanne on kaotanud õigusliku tähenduse, kohaldatakse vastavalt käesoleva seaduse § 63^1 1. lõikes sätestatut."
+    },
+    {
+      "provision_ref": "para65^1",
+      "chapter": "6. peatükk - KINNISTUSREGISTRI KANDE PARANDAMINE",
+      "section": "65^1",
+      "title": "§ 65^1. Kande parandamine asjaõiguse kinnistusraamatuvälise ülemineku korral",
+      "content": "(1) Kui kinnistusraamat on muutunud valeks asjaõiguse kinnistusraamatuvälise ülemineku tõttu, parandab kinnistusosakond kande asjaõiguse uue omaja kinnistamisavalduse alusel. Kinnistamisavaldusele tuleb lisada asjaõiguse üleminekut tõendav dokument.\n(2) Käesoleva paragrahvi 1. lõikes sätestatut ei kohaldata, kui asjaõiguse kinnistusraamatuväline üleminek toimub juriidiliste isikute ühinemise tõttu. Sellisel juhul parandab kinnistusosakond kande ametiülesande korras selle andmekogu andmete alusel, millesse vastavad andmed on kantud põhiandmetena. Tsiviilkohtumenetluse seadustiku § 597 4. lõikes sätestatut ei kohaldata.\n(3) Kui asjaõiguse kinnistusraamatuvälise ülemineku tõttu kuulub see üheaegselt mitmele isikule, parandatakse kanne asjaõiguse ühe omaja kinnistamisavalduse alusel. Asjaõiguse ülejäänud omajad ei ole puudutatud isikuteks käesoleva seaduse tähenduses.\n(4) Kui asjaõigus on üle läinud pärijale ja pärimistunnistuse kohaselt oli abikaasade või registreeritud elukaaslaste varalise suhte liigiks ühisvarasuhe, kohaldatakse kinnistusraamatu kande parandamisele ka käesoleva seaduse § 63^1 3. lõikes sätestatut.\n(5) Kui käesoleva paragrahvi 4. lõikes nimetatud juhul kuulus asjaõigus pärandaja lahusvara hulka, tuleb kande parandamiseks kinnistamisavaldusele lisada omandiõiguse tunnistus, mis tõendab asjaõiguse kuulumist pärandaja lahusvara hulka.\n(6) Kui kinnistusraamat on muutunud valeks asjaõiguse kinnistusraamatuvälise ülemineku tõttu ja asjaõiguse uus omaja ei ole esitanud käesoleva paragrahvi 1. lõikes nimetatud kinnistamisavaldust, võib kinnistusosakond kohustada asjaõiguse omajat või testamenditäitjat trahvi ähvardusel esitama kinnistusraamatu kande parandamiseks kinnistamisavalduse ja kande tegemiseks vajalikud dokumendid."
+    },
+    {
+      "provision_ref": "para65^2",
+      "chapter": "6. peatükk - KINNISTUSREGISTRI KANDE PARANDAMINE",
+      "section": "65^2",
+      "title": "§ 65^2. Kande parandamine isikuandmete muutumise korral",
+      "content": "(1) Kinnistusraamatusse kantud isikuandmete muutumise korral, kui kinnistusraamatusse kantud isik jääb samaks, parandab kinnistusosakond kande ametiülesande korras selle andmekogu andmete alusel, millesse vastavad andmed on kantud põhiandmetena avaliku teabe seaduse tähenduses. Tsiviilkohtumenetluse seadustiku § 597 4. lõikes sätestatut ei kohaldata.\n(2) Selliste isikuandmete muutumisel, mis ei ole põhiandmetena kantud Eesti andmekogusse, parandab kinnistusosakond kande sellekohase teate ja vastava registri kinnitatud väljavõtte või muu usaldusväärse tõendi alusel. Välisriigis väljaantud dokument peab olema legaliseeritud või kinnitatud tunnistusega ( apostille ’ga), kui välisleping ei sätesta teisiti.\n(3) Tehniliste võimaluste olemasolu korral toimub käesoleva paragrahvi 1. lõikes nimetatud kande parandamine automatiseeritult."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "6. peatükk - KINNISTUSREGISTRI KANDE PARANDAMINE",
+      "section": "66",
+      "title": "§ 66. Kande parandamise viis",
+      "content": "(1) Kande parandamiseks kustutatakse ebaõige kanne ja tehakse õige kanne vastavalt käesoleva seaduse §-le 23.\n(2) Uues kandes märgitakse, et see asendab eelmist.\n(3) Kande parandamine muul viisil on keelatud."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "7. peatükk - ÜMBERKIRJUTAMINE JA -SÕNASTAMINE",
+      "section": "68",
+      "title": "§ 68. Ümberkirjutamine ebaülevaatlikkuse tõttu",
+      "content": "(1) Kui kinnistusregistriosa jagu on muutunud ebaülevaatlikuks, kirjutatakse see ametiülesande korras ümber.\n(2)\n(3) Kustutatud kanne kirjutatakse uude registrijakku ümber, kui see on vajalik kehtivate kannete mõistmiseks."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "7. peatükk - ÜMBERKIRJUTAMINE JA -SÕNASTAMINE",
+      "section": "69",
+      "title": "§ 69. Ümbersõnastamine",
+      "content": "Kui registri kannete mõistmine on raskendatud, võib need ümberkirjutamisel kinnistamiseks pädeva isiku määruse alusel ümber sõnastada nende sisu muutmata."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "8. peatükk - KAEBUSED",
+      "section": "70",
+      "title": "§ 70. Vastuväite ja keelumärke kandmine määruskaebuse esitaja avalduse alusel",
+      "content": "(1) Kandemääruse peale määruskaebuse esitaja võib nõuda vastuväite kandmist kinnistusregistrisse selle kande parandamise tagamiseks, mille kohta määruskaebus on esitatud.\n(2) Keelumärge selle õiguse käsutamise keelamiseks, mille kohta määruskaebus on esitatud, kantakse kinnistusregistrisse maakohtu või ringkonnakohtu määruse alusel. Kinnistusosakond kustutab keelumärke ametiülesande korras, kui määruskaebus võetakse tagasi või jäetakse rahuldamata."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "9. peatükk - KINNISTUSREGISTRIOSA SULGEMINE",
+      "section": "72",
+      "title": "§ 72. Kinnistusregistriosa sulgemise alused",
+      "content": "(1) Kinnistusregistriosa suletakse:\n1) kinnistu ühendamisel teise kinnistuga;\n2) kinnistusregistriosa ümberkirjutamisel;\n3)\n4)\n5) muudel seaduses sätestatud juhtudel.\n(2) Riigile või kohaliku omavalitsuse üksusele kuuluva kinnisasja kohta avatud registriosa suletakse omaniku avalduse alusel, kui kinnisasi ei ole koormatud piiratud asjaõigusega."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "9. peatükk - KINNISTUSREGISTRIOSA SULGEMINE",
+      "section": "73",
+      "title": "§ 73. Sulgemise viis",
+      "content": "Kinnistusregistriosa sulgemisel tehakse registriosa pealkirjas märge sulgemise kohta."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "10. peatükk - TUTVUMINE JA VÄLJATRÜKID",
+      "section": "74",
+      "title": "§ 74. Kinnistusraamatu avalikkus",
+      "content": "(1) Igaüks võib registriosaga tutvuda ja saada sellest väljatrükke.\n(2) Kinnistustoimikuga võib tutvuda ja sellest väljatrükke saada õigustatud huvi olemasolu korral. Kinnistu omanik, notar, kohtutäitur, kohus ja järelevalveõiguslik asutus ei pea kinnistustoimikuga tutvumiseks tõendama õigustatud huvi.\n(3) Kinnistuspäevik on mõeldud asutusesiseseks kasutamiseks ja sellega tutvumist ei võimaldata.\n(4) Kinnistusraamatu ja kinnistustoimikuga saab tutvuda notaribüroos või vastava veebilehe kaudu.\n(4^1) Käesoleva paragrahvi 4. lõikes nimetatud veebilehe kaudu kinnistusraamatu andmeid pärides võib päringu aluseks olla:\n1) kinnistu registriosa number;\n2) kinnistu katastritunnus;\n3) kinnistu aadress;\n4) juriidilise isiku nimi;\n5) juriidilise isiku registrikood.\n(4^2) Lisaks käesoleva paragrahvi 4^1. lõikes nimetatud alustele võivad kinnistusraamatu andmeid pärida füüsilise isiku nime ja isikukoodi alusel järgmised isikud:\n1) advokaat õigusteenuse osutamise eesmärgil;\n2) ajutine pankrotihaldur ja pankrotihaldur pankrotimenetluse läbiviimiseks vajalike andmete saamise eesmärgil;\n3) avalik-õiguslik juriidiline isik, kes vajab kinnistusraamatu andmeid seaduses sätestatud avalik-õiguslike ülesannete täitmiseks;\n4) isik, kes vajab kinnistusraamatu andmeid isikuandmete kaitse seaduse §-s 4 nimetatud eesmärgil;\n5) kohtutäitur;\n6) krediidiasutus, kes vajab kinnistusraamatu andmeid seaduses sätestatud ülesannete täitmiseks;\n7) notar;\n8) muu isik, kes vajab kinnistusraamatu andmeid seaduses sätestatud avalik-õiguslike ülesannete täitmiseks;\n9) usaldusisik, kes vajab kinnistusraamatu andmeid füüsilise isiku maksejõuetuse seaduse § 53 lõike 2 punktis 1 nimetatud ülesande täitmiseks.\n(5) Käesoleva paragrahvi 4. lõikes nimetatud veebilehe kaudu võib kinnistu omanik volitada teist isikut tutvuma temale kuuluva kinnistu kohta peetava kinnistustoimikuga. Volitus antakse edasivolitamise õiguseta digitaalselt allkirjastatuna. Veebilehe kaudu antud volitus võetakse tagasi veebilehe kaudu.\n(6) Kinnistustoimikuga tutvumise loa andmisest keeldumise kohta vormistatakse määrus tsiviilkohtumenetluse seadustiku § 59 6. lõike kohaselt. Kui kinnistustoimikuga tutvumise loa andmisest keeldub notar, kohaldatakse notariaadiseaduse § 41.\n(7) Kinnistusraamatuga tutvumise, volituse andmise ja volituse tagasivõtmise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para74^1",
+      "chapter": "10. peatükk - TUTVUMINE JA VÄLJATRÜKID",
+      "section": "74^1",
+      "title": "§ 74^1. Kinnistusraamatuga tutvumine",
+      "content": "(1) Kinnistusraamatuga saab tutvuda registriosa või kinnistustoimikus sisalduva dokumendi taasesitamisega kuvaril.\n(2) Tutvuja võib registriosa või kinnistustoimikus sisalduva dokumendi ise esile kutsuda, kui tehniliselt tagatakse, et lubatud tutvumise mahtu ei ületata ja tutvujal ei ole võimalik muuta registriosa või dokumendi sisu.\n(3) Tutvuja soovil võimaldatakse tal notaribüroos tutvuda registriosa või dokumendi väljatrükiga."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "10. peatükk - TUTVUMINE JA VÄLJATRÜKID",
+      "section": "75",
+      "title": "§ 75. Väljatrüki tegemine",
+      "content": "(1) Kinnistusraamatust tehakse kinnitatud ja kinnitamata väljatrükke.\n(2) Tehniliste võimaluste olemasolu korral väljastatakse digitaalselt kinnitatud väljatrükke.\n(3) Registriosa väljatrükk peab sisaldama vastava jao kõiki kehtivaid kandeid. Keelatud on teha väljatrükki üksikutest kannetest.\n(4) Taotleja soovil võib registriosa väljatrükk sisaldada ka kustutatud kandeid.\n(5) Väljatrükkide tegemise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "10. peatükk - TUTVUMINE JA VÄLJATRÜKID",
+      "section": "76",
+      "title": "§ 76. Viide esitatud avaldusele",
+      "content": "Kui kinnistusosakonnale on esitatud kinnistamisavaldus, mille kohta ei ole veel tehtud kandemäärust, peab kinnistusraamatu väljatrükk sisaldama viidet kinnistamisavaldusele, mis on kantud kinnistuspäevikusse."
+    },
+    {
+      "provision_ref": "para76^1",
+      "chapter": "10. peatükk - TUTVUMINE JA VÄLJATRÜKID",
+      "section": "76^1",
+      "title": "§ 76^1. Tõend kande puudumise või muutmatuse kohta",
+      "content": "(1) Isiku nõudel annab notar tõendi, et kannet ei ole muudetud või et teatud kannet või kandeid kinnistusraamatus ei ole.\n(1^1) Käesoleva paragrahvi lõikes 1 sätestatud tõendiks võib olla ka kinnistusraamatu väljatrükk.\n(2) Tehniliste võimaluste olemasolu korral väljastatakse käesoleva paragrahvi 1. lõikes nimetatud tõend automatiseeritult.\n(3) Käesoleva paragrahvi 1. lõikes nimetatud tõendi automatiseeritult väljastamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para77^1",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^1",
+      "title": "§ 77^1. Mõiste",
+      "content": "(1) Elektroonilise kinnistusraamatu koosseisu kuuluvad:\n1) kinnistusregister;\n2) kinnistustoimik;\n3) kinnistuspäevik.\n(2) Elektroonilise kinnistusraamatu suhtes kohaldatakse käesoleva seaduse § 1–77, kui käesolevast peatükist ei tulene teisiti.\n(3)\n(4) Kõik elektroonilise kinnistusraamatu andmed salvestatakse ja säilitatakse alaliselt ühes andmetöötluskeskuses. Valdkonna eest vastutav minister määrab elektroonilise kinnistusraamatu andmetöötluskeskuse ning kehtestab andmetöötluse korra.\n(5) Andmetöötluskeskus ei ole kinnistusosakond ega pea kinnistusraamatut, vaid tagab üksnes kinnistusraamatu andmete elektroonilise salvestamise, kestvalt muutumatu säilitamise ja taasesitamise."
+    },
+    {
+      "provision_ref": "para77^3",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^3",
+      "title": "§ 77^3. Andmetöötluse nõuded",
+      "content": "Kinnistusraamatu töötlemisel tuleb:\n1) tarvitusele võtta abinõud informatsiooni kadumise vastu, tehes iga tööpäeva lõpus andmekogudest vajalikud koopiad ning tagades originaalandmete ja koopiate nõuetekohase säilitamise;\n2) kindlustada kannete tegemine, muutmine ja kustutamine ainult selleks pädevate isikute poolt ning välistada mittepädevate isikute juurdepääs andmetele;\n3) tagada elektroonilise kinnistusraamatu andmete tõrgeteta taasesitamise võimalused kuvaril ja väljatrükis;\n4) protokollida kõik pöördumised kinnistusraamatu poole."
+    },
+    {
+      "provision_ref": "para77^4",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^4",
+      "title": "§ 77^4. Kannete väline vorm",
+      "content": "Kande taasesituse välise vormi määrab käesoleva seaduse 3. peatükk."
+    },
+    {
+      "provision_ref": "para77^5",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^5",
+      "title": "§ 77^5. Registriosa vormi erisus",
+      "content": "Registriosa pealkiri ei pea asuma iseseisval leheküljel."
+    },
+    {
+      "provision_ref": "para77^6",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^6",
+      "title": "§ 77^6. Märge sissetulnud kinnistamisavalduse kohta",
+      "content": "(1) Kinnistamisavalduse registreerimisel tuleb kanda registriosa pealkirja viide esitatud avaldusele (plomm). Plomm koosneb kinnistuspäeviku jooksvast numbrist ja aastaarvust.\n(2) Plomm peab olema nähtav nii kinnistusraamatuga tutvumisel kui ka kinnistusraamatu väljatrükil.\n(3) Plomm kustutatakse pärast kinnistuskande tegemist või eitava kandemääruse jõustumist."
+    },
+    {
+      "provision_ref": "para77^7",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^7",
+      "title": "§ 77^7. Kandemääruse tegemine",
+      "content": "(1) Elektroonilise kinnistusraamatu korral tehakse eraldi vaid määrus, mille alusel ei tehta kinnistusraamatusse kannet.\n(2) Jaatava kandemääruse asemel teeb kinnistamiseks pädev isik kohe registrikande. Kandele kirjutab erinevalt § 49 lõikest 5 alla vaid kande teinud isik.\n(3) Valdkonna eest vastutav minister võib kinnistusosakonna juhataja avalduse alusel määrata, et kinnistusosakonnas rakendatakse elektroonilise kinnistusraamatu pidamisel kinnistusraamatuseaduse §-des 47 ja 49 sätestatud korda.\n(3^1) Kandemäärus koostatakse elektroonilise kinnistusraamatu infosüsteemis ja allkirjastatakse elektrooniliselt vastavalt käesoleva seaduse §-le 77^8.\n(4) Kannet teostav isik peab kontrollima kande õigsust, täielikkust ja andmekandjale vastuvõtmist."
+    },
+    {
+      "provision_ref": "para77^8",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^8",
+      "title": "§ 77^8. Elektrooniline allkiri",
+      "content": "(1) Registrikanne või kandemäärus allkirjastatakse elektrooniliselt. Kandemäärusele lisatakse kande või kandemääruse teinud isikut identifitseeriv teave. Süsteemi sees lisatakse registrikandele kande teinud isikut identifitseeriv teave. Registriosa avalikus vaates registrikande teinud isiku nime ei kuvata.\n(2) Elektroonilist allkirja peab saama kontrollida pädev asutus."
+    },
+    {
+      "provision_ref": "para77^9",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^9",
+      "title": "§ 77^9. Kande jõustumine",
+      "content": "(1) Kande jõustumise eelduseks on selle allakirjutamine kinnistamiseks pädeva isiku poolt.\n(2) Kanne jõustub vastuvõtmisel kinnistusraamatu kannetele määratud andmekandjale.\n(3) Kõik kanded, välja arvatud § 13 lõikes 2 nimetatud, peavad olema varustatud jõustumise kuupäevaga."
+    },
+    {
+      "provision_ref": "para77^10",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^10",
+      "title": "§ 77^10. Teatamine",
+      "content": "Jaatava kandemääruse korral saadetakse puudutatud ja teistele seaduses sätestatud isikutele ning asutustele §-s 50 nimetatud kandemääruse ärakirja asemel registrikande väljatrükk."
+    },
+    {
+      "provision_ref": "para77^11",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^11",
+      "title": "§ 77^11. Kande muutmine ja kustutamine",
+      "content": "(1) Elektroonilise kinnistusraamatu kande muutmine toimub senise kande kustutamise ja uue kande tegemise teel. Senist kannet asendav uus kanne omandab senise kande järjekoha.\n(2) Kande muutmisel ja kustutamisel peab kustutatud osa olema võimalik kestvalt taasesitada.\n(3) Kinnistusraamatuga tutvumisel ja väljatrükil esitatakse kustutatud kanded vaid siis, kui seda eraldi taotletakse.\n(4) Kustutatud kannete taasesitamisel peavad need kuvaril ja väljatrükil olema eristatavad kehtivatest kannetest."
+    },
+    {
+      "provision_ref": "para77^13",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^13",
+      "title": "§ 77^13. Koostöö katastripidajaga",
+      "content": "(1) Kui kinnistusraamat on elektrooniliselt seotud maakatastriga, siis kutsub kinnistusosakond kinnistusraamatu I jao pidamiseks vajalikud maakatastriseaduse § 4 lõikes 2 nimetatud andmed maakatastrist ise välja.\n(2) Kui kinnistusraamat on elektrooniliselt seotud maakatastriga, siis kutsub katastripidaja katastri pidamiseks vajalikud maakatastriseaduse § 4 lõikes 3 nimetatud kinnistusregistri andmed ise välja.\n(3) Andmete väljakutsumiseks käesoleva paragrahvi lõigetes 1 ja 2 nimetatud juhtudel ei ole vaja eraldi luba või kokkulepet.\n(4) Kinnistusosakonna teatamiskohustus ei kehti käesoleva paragrahvi lõike 1 kohaselt maakatastrist kinnistusraamatusse ülevõetud andmete kinnistusraamatusse kandmise kohta."
+    },
+    {
+      "provision_ref": "para77^16",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^16",
+      "title": "§ 77^16. Elektroonilise kinnistusraamatu andmete väljastamise eest tasumise kord",
+      "content": "(1) Elektroonilise kinnistusraamatu andmete väljastamine on tasuline.\n(2) Valdkonna eest vastutav minister kehtestab määrusega elektroonilise kinnistusraamatu andmete väljastamise eest tasumäärad kuni kolm eurot ühe päringu või päringuobjekti kohta.\n(3) Elektroonilise kinnistusraamatu andmete väljastamise tasu maksmisest on vabastatud isik riigiportaalis ja kinnisasja omanik elektroonilise kinnistusraamatu päringusüsteemis päringu tegemisel enda kohta, samuti käesoleva paragrahvi lõike 4 alusel valdkonna eest vastutava ministri määratud isikud avalik-õiguslike ülesannete täitmiseks. Samuti on elektroonilise veebipäringu tasu maksmisest vabastatud korteriomandi omanik teistele kinnisasja kaasomanikele kuuluvate korteriomandi registriosade andmetega tutvumisel ning kinnisasja omaniku seadusjärgne esindaja ja eestkostja.\n(4) Valdkonna eest vastutav minister kehtestab määrusega avalik-õiguslike juriidiliste isikute ja teiste isikute loetelu, kellele väljastatakse tasuta andmeid seaduses sätestatud avalik-õiguslike ülesannete täitmiseks."
+    },
+    {
+      "provision_ref": "para77^17",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^17",
+      "title": "§ 77^17. Asenduskinnistusraamat",
+      "content": "(1) Kui kannete tegemine elektroonilises kinnistusraamatus või kinnistamisavalduste elektrooniline esitamine otse elektroonilise kinnistusraamatu infosüsteemi ei ole ajutiselt võimalik infosüsteemi tehnilise rikke tõttu, võib teha kandeid paberil olevasse asenduskinnistusraamatusse ja kinnistamisavaldusi esitada paberkandjal. Tehtud kanded ja esitatud dokumendid võetakse elektroonilisse kinnistusraamatusse üle esimesel võimalusel.\n(2) Valdkonna eest vastutav minister kehtestab määrusega asenduskinnistusraamatu pidamise ja kinnistamisavalduste paberkandjal esitamise tingimused ja korra."
+    },
+    {
+      "provision_ref": "para77^18",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^18",
+      "title": "§ 77^18. Elektroonilise kinnistusraamatu sulgemine",
+      "content": "(1) Suletud elektroonilise kinnistusraamatu sisu peab olema võimalik kestvalt taasesitada.\n(2) Registriosa loetakse suletuks, kui kuvarilt ja väljatrükilt nähtub, et registriosale on kantud sulgemismärge."
+    },
+    {
+      "provision_ref": "para77^19",
+      "chapter": "10. peatükk - ELEKTROONILINE KINNISTUSRAAMAT",
+      "section": "77^19",
+      "title": "§ 77^19. Andmeandjad ja nendelt saadavad andmed",
+      "content": "(1) Aadressiandmete infosüsteem edastab kinnistusraamatusse ruumiandmete seaduse § 40 lõikes 3 nimetatud andmed ja nende muudatused.\n(2) Ehitisregister edastab kinnistusraamatusse ehitusseadustiku § 60 lõike 1 punktis 1 nimetatud andmed vastavalt kinnistusraamatu päringule.\n(3) Maakataster edastab kinnistusraamatusse maakatastriseaduse § 4 lõikes 2 nimetatud andmed.\n(4) Maksukohustuslaste register edastab kinnistusraamatusse järgmised andmed:\n1) riiginõude saldo ja tasumise kuupäev;\n2) riiginõude laekumise liik ja selle määranud asutus, selgitus, arvelduskonto, summa, viitenumber ja maksja nimi.\n(5) Pärimisregister edastab kinnistusraamatusse järgmised andmed:\n1) pärimisregistrisse kantud pärija ees- ja perekonnanimi;\n2) pärija isikukood.\n(6) Rahvastikuregister edastab kinnistusraamatusse rahvastikuregistri seaduse § 21 lõike 1 punktides 1, 4, 6 ja 8 nimetatud andmed ning isiku sünni- ja surmaaja.\n(7) Äriregister edastab kinnistusraamatusse järgmised andmed:\n1) äriregistri seaduse § 12 punktides 1 ja 2 nimetatud andmed;\n2) juriidilise isikuga seotud kõikide isikute esindusõigused;\n3) juriidilise isiku staatus;\n4) korteriühistu registrikood;\n5) muudatused äriregistrile esitatud andmetes."
+    },
+    {
+      "provision_ref": "para78",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "78",
+      "title": "§ 78.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para79",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "79",
+      "title": "§ 79. Kinnistusosakonna koosseisu erisused",
+      "content": "(1)\n(2)\n(3)\n(4)\n(5) Kinnistussekretäri nimetab ametisse ja vabastab ametist kohtudirektor kinnistusosakonna juhataja ettepanekul."
+    },
+    {
+      "provision_ref": "para79^1",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "79^1",
+      "title": "§ 79^1. Andmekandja",
+      "content": "Kuni üleriigilise kinnistusraamatute andmetöötluskeskuse loomiseni võib justiitsminister lubada elektroonilise kinnistusraamatu pidamist kohalikel andmekandjatel, mis paiknevad kas kinnistusosakonnas või mõnes teises riigiasutuses."
+    },
+    {
+      "provision_ref": "para79^2",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "79^2",
+      "title": "§ 79^2. Elektroonilise kinnistusraamatu jõustamine",
+      "content": "(1) Elektrooniline kinnistusraamat asendab paberkinnistusraamatut, kui:\n1) kõigi registriosade kanded on andmekandjale salvestatud;\n2) kõik toimikus sisalduvad dokumendid on selleks ettenähtud andmekandjale salvestatud;\n3) on tagatud salvestatud andmete ning dokumentide säilivus ja nende muutumatul kujul taasesitamise võimalus;\n4) kinnistusosakond on ette valmistatud elektroonilise kinnistusraamatu ja digitaalse arhiivi pidamiseks.\n(2) Elektroonilisele kinnistustoimikule ja digitaalsele arhiivile minnakse üle toimikute kaupa.\n(3) Pärast elektroonilisele kinnistustoimikule ja digitaalsele arhiivile üleminekut ei võimaldata tutvuda pabertoimikuga.\n(4) Elektroonilisele kinnistustoimikule ja digitaalsele arhiivile ülemineku ning elektroonilise kinnistustoimiku pidamiseks mittevajalike dokumentide pabertoimikust eraldamise korra, samuti paberarhiivi säilitamise tähtajad kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para79^3",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "79^3",
+      "title": "§ 79^3. Registriosa ümberkirjutamine ja avamine ametiülesande korras",
+      "content": "(1) Paberil peetava registriosa kanded kirjutatakse ja vajadusel sõnastatakse ümber vastavalt käesoleva seaduse §-dele 68 ja 69.\n(1^1) Muudetud kande ümberkirjutamisel kantakse elektroonilisse kinnistusraamatusse üle ainult kande kehtiv sõnastus, lisades kandele märkuse kande ümberkirjutamise ja muutmise kohta.\n(1^2) Kui kanne sõnastatakse ümberkirjutamisel ümber, lisatakse kandele märkus kande ümberkirjutamise ja ümbersõnastamise kohta.\n(1^3) Kande kustutamise korral kantakse elektroonilisse kinnistusraamatusse üle ainult kande jooksev number ja sulgemise kuupäev. Kustutatud kanne kantakse tervikuna üle vaid siis, kui see on vajalik kehtivate kannete mõistmiseks.\n(1^4) Suletud registriosi ümber ei kirjutata. Nende alusel avatud registriosades näidatakse suletud registriosa number.\n(2) Ümberkirjutatud registriosa suletakse vastavalt käesoleva seaduse §-le 73 ja säilitatakse kinnistusosakonna arhiivis.\n(3) Sulgemismärkele senises kinnistusraamatus kirjutavad alla käesoleva seaduse § 49 lõikes 5 nimetatud isikud.\n(4) Andmekandjale salvestatud registriosa säilitab oma senise numbri.\n(5) Korteriomandi ja -hoonestusõiguse registriosade avamisel kinnistusraamatusse kandmata maatükkidel avab kinnistusosakond vastava maatüki registriosa ametiülesande korras.\n(6) Valdkonna eest vastutav minister kehtestab registriosade ümberkirjutamise korra."
+    },
+    {
+      "provision_ref": "para79^5",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "79^5",
+      "title": "§ 79^5. Riigi vastutus",
+      "content": "Riik vastutab elektroonilisele kinnistusraamatule üleminekuga seotud kahjude eest, mis tulenevad kinnistusraamatu pidamise, automatiseeritud andmetöötluse või andmetöötlusseadme vigadest."
+    },
+    {
+      "provision_ref": "para79^6",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "79^6",
+      "title": "§ 79^6. Kasutatava vääringu erisused",
+      "content": "(1) Enne päeva, mis on kindlaks määratud Euroopa Liidu Nõukogu otsuses Eesti Vabariigi suhtes kehtestatud erandi kehtetuks tunnistamise kohta Euroopa Liidu toimimise lepingu artikli 140 lõikes 2 sätestatud alusel (edaspidi erandi kehtetuks tunnistamise päev ), tehtud kinnistusregistri kannete puhul väljendatakse kinnistusregistris rahasummasid Eesti kroonides.\n(2) Rahasummade kandmisel kinnistusregistrisse kohaldatakse käesoleva seaduse § 37^1 ka juhul, kui kandeavaldus esitatakse kinnistusosakonnale enne erandi kehtetuks tunnistamise päeva, kuid kanne tehakse pärast erandi kehtetuks tunnistamise päeva."
+    },
+    {
+      "provision_ref": "para79^7",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "79^7",
+      "title": "§ 79^7. Kinnistusraamatu ja kinnistustoimikuga tutvumine notaribüroos",
+      "content": "Käesoleva seaduse § 74 lõige 4 ja lõike 6 teine lause jõustuvad kinnistusraamatu ja kinnistamistoimikuga notaribüroos tutvumist ja notari poolt kinnistustoimikuga tutvumise loa andmisest keeldumist käsitlevas osas 2010. aasta 1. augustil."
+    },
+    {
+      "provision_ref": "para79^8",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "79^8",
+      "title": "§ 79^8. Korteriomandi omaniku ja korteriühistu õigus tutvuda korteriomandi registriosade andmetega",
+      "content": "Käesoleva seaduse § 77^16 lõike 3 teine lause jõustub koos korteriomandi omaniku õigusega tutvuda kinnistu teistele kaasomanikele kuuluvate korteriomandite kohta avatud registriosade andmetega ja korteriühistu õigusega tutvuda korteriomandite registriosade andmetega käsitletavas osas 2018. aasta 1. jaanuaril."
+    },
+    {
+      "provision_ref": "para79^10",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "79^10",
+      "title": "§ 79^10. Riigivara valitseja kohta kantud märkuse kustutamine",
+      "content": "Riigivara valitseja kohta kantud märkus kustutatakse kinnistusraamatust ametiülesande korras 90 päeva jooksul riigi kinnisvararegistri vastava andmeteenuse süsteemi kasutusele võtmisest arvates."
+    },
+    {
+      "provision_ref": "para79^11",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "79^11",
+      "title": "§ 79^11. Kehtivate kolmanda jao kannete teksti muutmine",
+      "content": "Enne 2024. aasta 1. veebruarit seatud ja kehtivate kolmanda jao kannete tekstile lisatakse ametiülesande korras viide maakatastri ruumiandmete tunnusele 90 päeva jooksul arvates ruumiandmete kande tegemisest maakatastris."
+    },
+    {
+      "provision_ref": "para79^12",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "79^12",
+      "title": "§ 79^12. Looduskaitseseaduse § 16 alusel kantud riigi ostueesõiguse märkuse kustutamine",
+      "content": "Looduskaitseseaduse § 16 alusel riigi ostueesõiguse kohta kantud märkus kustutatakse kinnistusraamatust kolme kuu jooksul ametiülesande korras pärast looduskaitseseaduse § 16 lõigete 2–6 kehtetuks tunnistamist."
+    },
+    {
+      "provision_ref": "para79^13",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "79^13",
+      "title": "§ 79^13. Kehtivatest registrikannetest kande teinud isiku nime eemaldamine",
+      "content": "Kehtivate registrikannete registriosa avalikust vaatest eemaldatakse kande teinud isiku nimi automaatselt."
+    },
+    {
+      "provision_ref": "para80",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "80",
+      "title": "§ 80.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para81",
+      "chapter": "11. peatükk - SEADUSE RAKENDAMINE",
+      "section": "81",
+      "title": "§ 81. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub asjaõigusseaduse rakendamise seaduse jõustumisega."
+    }
+  ],
+  "definitions": []
+}

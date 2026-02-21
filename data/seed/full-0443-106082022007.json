@@ -1,0 +1,183 @@
+{
+  "id": "ee-law-106082022007",
+  "type": "statute",
+  "title": "Etendusasutuse seadus",
+  "title_en": "Etendusasutuse seadus",
+  "short_name": "EAS",
+  "status": "in_force",
+  "issued_date": "2003-06-11",
+  "in_force_date": "2022-11-01",
+  "url": "https://www.riigiteataja.ee/akt/106082022007.xml",
+  "description": "Official consolidated statute text (Etendusasutuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab etendusasutuse mõiste ning etendusasutuse tegevuse korraldamise ja rahastamise ning etendusasutuse aruandluse alused.\n(2) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seadust, arvestades käesolevast seadusest tulenevaid erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Etendusasutus",
+      "content": "(1) Etendusasutus käesoleva seaduse tähenduses on juriidiline isik või asutus:\n1) kelle põhitegevusala on teatri- ja tantsuetenduste või kontsertide lavastamine ja esitamine, muusikaline loometegevus või lavakunsti abitegevused;\n2) kes korraldab regulaarselt autorite ja esitajate loomingu avalikke esitusi etenduste või kontsertidena;\n3) kes on töösuhtes loominguliste töötajatega või võlaõiguslikus suhtes teenuse osutajatega loominguliste eesmärkide täitmiseks;\n4) kellel on loominguline juht;\n5) kes teavitab avalikkust etenduse või kontserdi toimumisest.\n(2) Käesolev seadus reguleerib sellise etendusasutuse tegevust, kes toimib riigi sihtasutusena või riigi osalusel asutatud sihtasutusena (edaspidi riigi asutatud sihtasutusena tegutsev etendusasutus ), kohaliku omavalitsuse sihtasutusena (edaspidi sihtasutusena tegutsev munitsipaaletendusasutus, koos riigi asutatud sihtasutusena tegutseva etendusasutusega sihtasutusena tegutsev etendusasutus ) või kohaliku omavalitsuse asutusena (edaspidi munitsipaaletendusasutus ).\n(2^1) Sihtasutusena tegutseval etendusasutusel ja munitsipaaletendusasutusel on lisaks käesoleva paragrahvi lõikes 1 sätestatule ka loomenõukogu.\n(3) Käesoleva paragrahvi lõikes 2 nimetamata eraõiguslike juriidiliste isikute kohta käivate seaduste alusel tegutsevate etendusasutuste (edaspidi eraetendusasutus ) tegevust reguleerib käesolev seadus niivõrd, kuivõrd see on seaduses nimetatud.\n(4)"
+    },
+    {
+      "provision_ref": "para2^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2^1",
+      "title": "§ 2^1. Kontserdiasutus",
+      "content": "(1) Kontserdiasutus käesoleva seaduse tähenduses on sihtasutusena tegutsev etendusasutus või munitsipaaletendusasutus, kes korraldab autorite ja esitajate loomingu avalikke esitusi valdavalt kontsertide või muusikalavastustena.\n(2) Kontserdiasutusele kohaldatakse käesolevas seaduses etendusasutuse kohta sätestatut niivõrd, kuivõrd käesolevast seadusest ei tulene teisiti.\n(3) Käesolevat seadust, välja arvatud § 12 lõiget 1, ei kohaldata eraetendusasutusele, kes korraldab autorite ja esitajate loomingu avalikke esitusi valdavalt kontsertide või muusikalavastustena."
+    },
+    {
+      "provision_ref": "para2^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2^2",
+      "title": "§ 2^2. Seaduse kohaldamine avaliku etenduse või kontserdi korraldajale",
+      "content": "Käesoleva seaduse § 12 lõiget 1 kohaldatakse vajalike erisustega mistahes avaliku etenduse või kontserdi korraldajale."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - ETENDUSASUTUSE TEGEVUSE KORRALDAMINE",
+      "section": "4",
+      "title": "§ 4. Etendusasutuse põhimäärus ja põhikiri",
+      "content": "(1) Etendusasutuse põhikirjas või põhimääruses nähakse ette etendusasutuse ülesanded, juhtimise korraldus, vara ja selle majandamise ning eelarvega seotud õigused ja kohustused, vajaduse korral aruandluse ja kontrolli korraldus, etendusasutuse juhi ja loomingulise juhi vaba ametikoha täitmise ja arengukava koostamise ja muutmise kord ning muud etendusasutuse tegevuse korraldamiseks olulised sätted.\n(2)\n(3)\n(4) Käesoleva paragrahvi lõiget 1 kohaldatakse ka eraetendusasutusele."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - ETENDUSASUTUSE TEGEVUSE KORRALDAMINE",
+      "section": "5",
+      "title": "§ 5. Etendusasutuse juht ja loominguline juht",
+      "content": "(1) Etendusasutuse juht tagab etendusasutuse ülesannete täitmise ning vastutab etendusasutuse üldseisundi ja arengu ning selle rahaliste vahendite sihipärase kasutamise eest. Loomingulise tegevusega seotud küsimusi otsustab etendusasutuse juht loomingulise juhi ettepanekul.\n(2) Etendusasutuse loomingulist tegevust kavandab ja koordineerib loominguline juht, kes:\n1) korraldab etendusasutuse repertuaarivalikut ning koostab repertuaariplaani või hooajakava ja esitab selle loomenõukogu olemasolu korral sellele arvamuse andmiseks;\n2) korraldab loominguliste töötajate valikut ja rakendamist;\n3) tagab etendusasutuse loominguliste eesmärkide täitmise.\n(3) Etendusasutuse loomingulise juhi ametinimetus nähakse ette etendusasutuse põhikirjas või põhimääruses.\n(4) Etendusasutuse juhi ja loomingulise juhi ülesandeid võib täita sama isik, kui selline võimalus on sätestatud etendusasutuse põhikirjas või põhimääruses.\n(5) Sihtasutusena tegutsevas etendusasutuses täidab etendusasutuse juhile pandud ülesandeid sihtasutuse juhatus põhikirjas ettenähtud korras. Etendusasutuse loomingulise juhi ülesandeid võib sihtasutuse nõukogu otsuse alusel täita juhatuse liige.\n(6) Käesoleva paragrahvi lõikeid 1–4 kohaldatakse ka eraetendusasutusele."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - ETENDUSASUTUSE TEGEVUSE KORRALDAMINE",
+      "section": "6",
+      "title": "§ 6. Etendusasutuse juhi ja loomingulise juhi vaba ametikoha täitmine",
+      "content": "(1) Etendusasutuse juhi ja riigi asutatud sihtasutusena tegutseva etendusasutuse, välja arvatud kontserdiasutuse loomingulise juhi vaba ametikoha täitmiseks korraldatakse avalik konkurss, mille korraldamise tingimused ja kord sätestatakse etendusasutuse põhikirjas või põhimääruses.\n(2) Riigi asutatud sihtasutusena tegutseva kontserdiasutuse, munitsipaaletendusasutuse ja sihtasutusena tegutseva munitsipaaletendusasutuse loomingulise juhi vaba ametikoha täitmise kord sätestatakse etendusasutuse põhikirjas või põhimääruses.\n(3) Etendusasutuse juhi ja loomingulise juhiga sõlmitakse tähtajaline tööleping kuni viieks aastaks, kui nad ei ole sihtasutusena tegutseva etendusasutuse juhatuse liikmed. Tähtajalise töölepingu asemel võib kontserdiasutuse loomingulise juhi või tema esindajaga sõlmida teenuse osutamiseks muu võlaõigusliku lepingu tähtajaga kuni viis aastat.\n(4) Sihtasutusena tegutseva etendusasutuse nõukogu või munitsipaaletendusasutuse moodustaja otsusel võib etendusasutuse juhiga sõlmitud juhatuse liikme lepingut või tähtajalist töölepingut avalikku konkurssi korraldamata pikendada üks kord.\n(5) Käesoleva paragrahvi lõiget 4 kohaldatakse ka riigi asutatud sihtasutusena tegutseva etendusasutuse, välja arvatud kontserdiasutuse loomingulise juhiga sõlmitud lepingule.\n(6) Kui sihtasutusena tegutseva etendusasutuse juhi vaba ametikohta ei ole mõjuval põhjusel võimalik avaliku konkursi korras täita, määrab sihtasutusena tegutseva etendusasutuse nõukogu etendusasutuse juhi etendusasutuse asutajate nõusolekul kuni üheks aastaks avalikku konkurssi korraldamata."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - ETENDUSASUTUSE TEGEVUSE KORRALDAMINE",
+      "section": "7",
+      "title": "§ 7. Etendusasutuse loominguline töötaja",
+      "content": "(1) Etendusasutuse loominguline töötaja (edaspidi loominguline töötaja ) on töötaja, kelle loomingulise tegevuse tulemusel kavandatakse, valmistatakse ette ning esitatakse avalikke etendusi ja kontserte.\n(2) Loomingulise töötajaga võib sõlmida tähtajalise töölepingu kuni viieks aastaks, kui seda õigustab loomingulise töö eripära."
+    },
+    {
+      "provision_ref": "para7^1",
+      "chapter": "2. peatükk - ETENDUSASUTUSE TEGEVUSE KORRALDAMINE",
+      "section": "7^1",
+      "title": "§ 7^1. Tähtajalise töölepingu järjestikuse sõlmimise ja pikendamise piirang",
+      "content": "(1) Kui loomingulise töötajaga on sõlmitud tähtajaline tööleping samas töökohas samalaadse töö tegemiseks järjestikku rohkem kui kaks korda või tähtajalist lepingut on pikendatud rohkem kui üks kord viie aasta jooksul, loetakse tema töösuhe algusest peale tähtajatuks.\n(2) Loomingulise töötajaga on lubatud sõlmida tähtajaline järjestikune tööleping rohkem kui kaks järjestikust korda või pikendada seda rohkem kui üks kord viie aasta jooksul, kui sellises võimaluses on kokku lepitud kollektiivlepingus ning tingimusel, et see on vajalik loomingulise valdkonna töö eripära tõttu ning järjestikuste tähtajaliste töölepingute koguarv ei ületa viit töölepingut ja kogukestus kümmet aastat.\n(3) Tähtajalise töölepingu sõlmimine loetakse järjestikuseks, kui ühe töölepingu lõppemise ja järgmise töölepingu sõlmimise vaheline aeg ei ületa kahte kuud.\n(4) Etendusasutuse loomingulise juhiga tähtajalise töölepingu järjestikuse sõlmimise või pikendamise korral ei muutu tema töösuhe tähtajatuks."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - ETENDUSASUTUSE TEGEVUSE KORRALDAMINE",
+      "section": "8",
+      "title": "§ 8. Loomenõukogu",
+      "content": "(1) Etendusasutuse loomenõukogu kavandab ja hindab etendusasutuse loomingulist tegevust.\n(2) Loomenõukogu moodustamise kord ja nõukogu pädevus sätestatakse etendusasutuse põhimääruses või põhikirjas.\n(3) Loomenõukogusse kuuluvad etendusasutuse loominguline juht ja loominguliste töötajate esindajad. Loomenõukogusse võivad kuuluda ka etendusasutuse juht ja asjatundjatena teised isikud."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - ETENDUSASUTUSE TEGEVUSE KORRALDAMINE",
+      "section": "9",
+      "title": "§ 9. Etendusasutuse arengukava",
+      "content": "(1) Etendusasutus koostab arengukava vähemalt neljaks aastaks.\n(2) Arengukavas nähakse ette etendusasutuse missioon ja eesmärgid ning nende täitmiseks kavandatav tegevus ja vahendid.\n(3) Arengukava koostamise ja muutmise kord sätestatakse etendusasutuse põhimääruses või põhikirjas.\n(4)\n(5) Munitsipaaletendusasutusele, sihtasutusena tegutsevale munitsipaaletendusasutusele ja eraetendusasutusele kohaldatakse käesoleva paragrahvi lõikeid 1–3, kui nad taotlevad toetust riigieelarvest käesolevas seaduses ja selle alusel kehtestatud korras."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - ETENDUSASUTUSE TEGEVUSE KORRALDAMINE",
+      "section": "10",
+      "title": "§ 10. Etendusasutuse töökorraldus",
+      "content": "(1) Etendusasutus on repertuaari valikul ja muudes kunstilistes otsustes sõltumatu.\n(2) Etendused ja kontserdid planeeritakse repertuaariplaani või hooajakava ja selle põhjal koostatud kuukava alusel."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - ETENDUSASUTUSE TEGEVUSE KORRALDAMINE",
+      "section": "11",
+      "title": "§ 11. Repertuaariplaan ja hooajakava",
+      "content": "(1) Repertuaariplaan või hooajakava koostatakse vähemalt üheks hooajaks.\n(2) Repertuaariplaani või hooajakava kinnitab etendusasutuse juht loomingulise juhi ettepaneku alusel.\n(3) Eraetendusasutusele kohaldatakse käesoleva paragrahvi lõikeid 1 ja 2, kui ta taotleb toetust riigieelarvest käesolevas seaduses ja selle alusel kehtestatud korras."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - ETENDUSASUTUSE TEGEVUSE KORRALDAMINE",
+      "section": "12",
+      "title": "§ 12. Avalikkuse teavitamine",
+      "content": "(1) Etendusasutus teeb etenduse ja kontserdi kohta avalikult kättesaadavaks järgmised andmed:\n1) etendusasutuse nimetus;\n2) esitatava teose või selle osa pealkiri;\n3) teose pealkiri originaalkeeles;\n4) tuletatud teose korral viide originaalteosele;\n5) teose autori nimi;\n6) teose põhiesitajad või esitajate kollektiiv;\n7) etenduse või kontserdi toimumise aeg ja koht;\n8)\n9) etenduse või kontserdi ja selle toimumise koha ligipääsetavuse kirjeldus.\n(2) Käesoleva paragrahvi lõiget 1 kohaldatakse ka eraetendusasutusele."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - ETENDUSASUTUSE TEGEVUSE KORRALDAMINE",
+      "section": "13",
+      "title": "§ 13. Teose jäädvustamine",
+      "content": "(1) Etendusasutus korraldab oma repertuaaris olevate teoste jäädvustamist, arvestades autoriõiguse seadusest tulenevaid nõudeid.\n(2) Jäädvustamine käesoleva seaduse tähenduses on teose esituse salvestamine mistahes andmekandjale."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - ETENDUSASUTUSE TEGEVUSE KORRALDAMINE",
+      "section": "14",
+      "title": "§ 14. Teose toimik",
+      "content": "(1) Etendusasutus koostab repertuaaris oleva teose kohta toimiku, kuhu kuuluvad näiteks tekstiraamat, kavaleht, reklaammaterjal, kujunduse kavandid või fotod, väljavõtted meediakajastustest ja muud asjakohased materjalid. Võimaluse korral lisatakse toimikusse teose salvestis.\n(2) Teose toimiku koostamist ja säilitamist korraldab etendusasutuse juht, arvestades arhiiviseadusest ja autoriõiguse seadusest tulenevaid nõudeid.\n(3) Teose toimikut võib pidada digitaalselt."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - ETENDUSASUTUSE EELARVE JA RAHASTAMINE NING KOMISJONI MOODUSTAMINE",
+      "section": "15",
+      "title": "§ 15. Eelarve ja rahastamine",
+      "content": "(1) Etendusasutusel on oma eelarve. Etendusasutuse eelarve koostamiseks kavandatakse kulud ja selgitatakse nende katteallikad.\n(2) Etendusasutuse kulude katteallikad on:\n1) pääsmete müügist laekuv tulu;\n2) põhitegevusega kaasnevast ja seda toetavast majandustegevusest saadav tulu;\n3) laekumised sihtfondidest ja -kapitalidest;\n4) annetused ja muud tulud;\n5) toetus valla- või linnaeelarvest;\n6) toetus riigieelarvest.\n(3) Etendusasutustele antava toetuse suurus määratakse vastava aasta riigieelarves.\n(4)\n(5) Etendusasutus võib saada riigieelarvest taotluse alusel toetust käesolevas seaduses ja selle alusel kehtestatud korras.\n(6) Käesoleva paragrahvi lõiget 5 ei kohaldata munitsipaalkontserdiasutusele ja sihtasutusena tegutsevale munitsipaalkontserdiasutusele.\n(7) Käesoleva paragrahvi lõige 5 ei välista etendusasutusele riigieelarvest muul õiguslikul alusel toetuse maksmist."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - ETENDUSASUTUSE EELARVE JA RAHASTAMINE NING KOMISJONI MOODUSTAMINE",
+      "section": "16",
+      "title": "§ 16. Etendusasutusele riigieelarvest toetuse määramise põhimõtted",
+      "content": "(1) Riigi asutatud sihtasutusena tegutsevale etendusasutusele määratakse riigieelarvest toetus etendusasutuse põhikirjaliste eesmärkide täitmise tagamiseks.\n(2) Munitsipaaletendusasutusele, sihtasutusena tegutsevale munitsipaaletendusasutusele ja eraetendusasutusele võib määrata riigieelarvest toetuse rahvuskultuuri edendamiseks ning etenduskunstide valdkonna mitmekesisuse ja etenduste piirkondliku kättesaadavuse tagamiseks.\n(3) Lisaks käesoleva paragrahvi lõigetes 1 ja 2 nimetatud eesmärkidel antavale etendusasutuse põhitegevuse ja arengu terviklikuks edendamiseks ettenähtud toetusele võib etendusasutusele määrata riigieelarvest sihtotstarbelise toetuse üksikuteks valdkonna arengu, rahvuskultuuri, piirkondliku mõju või rahvusvahelistumise seisukohalt olulisteks tegevusteks.\n(4) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud eesmärkidel antavate toetuste määramisel kasutatakse võrreldava ühikuna etendusasutuse loomingulise tegevusega seotud töö mahtu.\n(5) Käesoleva paragrahvi lõikeid 2–4 ei kohaldata munitsipaalkontserdiasutusele ega sihtasutusena tegutsevale munitsipaalkontserdiasutusele.\n(6) Riigieelarvest etendusasutustele antavate toetuste liigid ning toetuse taotlemise, taotleja hindamise ja toetuse määramise täiendavad tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para16^1",
+      "chapter": "3. peatükk - ETENDUSASUTUSE EELARVE JA RAHASTAMINE NING KOMISJONI MOODUSTAMINE",
+      "section": "16^1",
+      "title": "§ 16^1. Toetuse andja",
+      "content": "(1) Etendusasutustele riigieelarvest toetuse andja on valdkonna eest vastutav ministeerium.\n(2) Valdkonna eest vastutav minister võib volitada muu riigiasutuse tegutsema toetuse andjana käesoleva seaduse § 16 lõikes 3 nimetatud eesmärkidel antavate toetuste määramisel."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - ETENDUSASUTUSE EELARVE JA RAHASTAMINE NING KOMISJONI MOODUSTAMINE",
+      "section": "17",
+      "title": "§ 17. Komisjoni moodustamine",
+      "content": "(1) Etendusasutustele riigieelarvest antava toetuse jaotamiseks moodustab toetuse andja komisjoni.\n(2) Eri liiki toetuste jaotamiseks võib moodustada eraldi komisjonid.\n(3) Käesoleva seaduse § 16 lõigetes 2 ja 3 nimetatud eesmärkidel antavate toetuste jaotamiseks moodustatud komisjoni kuuluvad valdkondlike esindusorganisatsioonide ettepanekul nimetatud asjatundjatest liikmed ja valdkonna eest vastutava ministeeriumi esindajad.\n(4) Täpsemad nõuded komisjoni koosseisule ja komisjoni volituste tähtaja kehtestab valdkonna eest vastutav minister määrusega.\n(5) Komisjoni koosseisu ja töökorra kinnitab toetuse andja."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - ARUANDLUS",
+      "section": "22",
+      "title": "§ 22. Aruandlus",
+      "content": "(1) Etendusasutus esitab statistilise aruande valdkondlikku statistika andmebaasi selle haldaja määratud tähtpäevaks.\n(2) Statistilise aruande esitamise tähtpäev avalikustatakse valdkondliku statistika andmebaasi haldaja ja valdkonna eest vastutava ministeeriumi veebilehel.\n(3) Käesoleva paragrahvi lõiget 1 kohaldatakse ka eraetendusasutusele.\n(4) Käesoleva paragrahvi lõiget 1 ei kohaldata kontserdiasutusele."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "23",
+      "title": "§ 23.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para23^1",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "23^1",
+      "title": "§ 23^1. Loominguliste töötajate töölepingud",
+      "content": "(1) Loomingulise töötajaga enne 2015. aasta 1. jaanuari sõlmitud tähtajaline tööleping kehtib selles sätestatud tingimustel kuni töölepingus sätestatud tähtaja lõpuni.\n(2) Kui loomingulise töötajaga sõlmitakse pärast 2015. aasta 1. jaanuari tööleping ning sama isikuga on samal töökohal samalaadse töö tegemiseks sõlmitud varem vähemalt kaks järjestikust tähtajalist töölepingut või varem sõlmitud tähtajalist töölepingut on pikendatud rohkem kui üks kord viie aasta jooksul või sõlmitud varem käesoleva seaduse § 7^1 lõikes 2 nimetatud kollektiivlepingus kokkulepitud arv tähtajalisi töölepinguid järjestikku, loetakse töösuhe algusest peale tähtajatuks.\n(3) Kui loomingulisel töötajal on 2015. aasta 1. jaanuari seisuga kehtiv tähtajaline tööleping ning temaga on eelnevalt samas töökohas samalaadse töö tegemiseks sõlmitud tähtajalisi töölepinguid järjestikku või töölepingut on pikendatud vähemalt kümme aastat, loetakse loomingulise töötaja tööleping sõlmituks määramata ajaks ja tema töösuhe loetakse algusest peale tähtajatuks.\n(4) Käesoleva paragrahvi lõikes 3 sätestatut ei kohaldata juhul, kui loominguline töötaja avaldab kirjalikku taasesitamist võimaldavas vormis selleks tööandjale soovi kuue kuu jooksul 2015. aasta 1. jaanuarist arvates. Kui loomingulise töötaja töölepingu tähtaeg lõpeb varem kui eelmises lauses sätestatud tähtaeg, teatab ta oma soovist esimesel võimalusel."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "24",
+      "title": "§ 24. Etendusasutuse seaduse kehtetuks tunnistamine",
+      "content": "(1) Etendusasutuse seadus tunnistatakse kehtetuks.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud seaduse alusel valdkonna eest vastutava ministri määrusega kehtestatud riigietendusasutuste põhimäärused kehtivad nende muutmise või kehtetuks tunnistamiseni niivõrd, kuivõrd need ei ole vastuolus käesoleva seadusega."
+    }
+  ],
+  "definitions": []
+}

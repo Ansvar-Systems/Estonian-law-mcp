@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-123032015213",
+  "type": "statute",
+  "title": "Küttegaasi ohutuse seadus",
+  "title_en": "Küttegaasi ohutuse seadus",
+  "short_name": "KGOS",
+  "status": "in_force",
+  "issued_date": "2002-05-22",
+  "in_force_date": "2015-07-01",
+  "url": "https://www.riigiteataja.ee/akt/123032015213.xml",
+  "description": "Official consolidated statute text (Küttegaasi ohutuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-216012024003",
+  "type": "statute",
+  "title": "Bioloogilise mitmekesisuse konventsiooni Cartagena bioloogilise ohutuse protokolli ratifitseerimise seadus",
+  "title_en": "Bioloogilise mitmekesisuse konventsiooni Cartagena bioloogilise ohutuse protokolli ratifitseerimise seadus",
+  "short_name": "ee-law-216012024003",
+  "status": "in_force",
+  "issued_date": "2004-01-21",
+  "in_force_date": "2023-07-01",
+  "url": "https://www.riigiteataja.ee/akt/216012024003.xml",
+  "description": "Official consolidated statute text (Bioloogilise mitmekesisuse konventsiooni Cartagena bioloogilise ohutuse protokolli ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Protokolli ratifitseerimine",
+      "content": "Ratifitseerida juurdelisatud bioloogilise mitmekesisuse konventsiooni Cartagena bioloogilise ohutuse protokoll, mis on koostatud 2000. aasta 29. jaanuaril Montrealis ja millele Eesti Vabariik on alla kirjutanud 2000. aasta 6. septembril New Yorgis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Vastutava keskasutuse määramine",
+      "content": "Protokolli artikli 19 lõikes 1 ettenähtud keskasutuseks on Kliimaministeerium."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Pädevate asutuste määramine",
+      "content": "Protokolli artikli 19 lõike 1 tähenduses on pädevad asutused Kliimaministeerium, Sotsiaalministeerium ja Regionaal- ja Põllumajandusministeerium, kes vastutavad protokollis nimetatud ülesannete täitmise eest seadusega sätestatud pädevuse piires."
+    }
+  ],
+  "definitions": []
+}

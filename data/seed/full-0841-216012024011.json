@@ -1,0 +1,39 @@
+{
+  "id": "ee-law-216012024011",
+  "type": "statute",
+  "title": "Läänemere piirkonna merekeskkonna kaitse konventsiooni ratifitseerimise seadus",
+  "title_en": "Läänemere piirkonna merekeskkonna kaitse konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-216012024011",
+  "status": "in_force",
+  "issued_date": "1995-04-19",
+  "in_force_date": "2023-07-01",
+  "url": "https://www.riigiteataja.ee/akt/216012024011.xml",
+  "description": "Official consolidated statute text (Läänemere piirkonna merekeskkonna kaitse konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud 1992. aasta 9. aprillil Helsingis sõlmitud ja sealsamas Eesti Vabariigi poolt alla kirjutatud Läänemere piirkonna merekeskkonna kaitse konventsioon."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Läänemere merekeskkonna reostusjuhtumitest teatamise korra ja välisriikide sadamates saasteainete vastuvõtu seadmete väidetavast puudulikkusest teatamise korra kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para2^1",
+      "section": "2^1",
+      "title": "§ 2^1.",
+      "content": "Konventsiooni täitmise Eestis korraldab Kliimaministeerium."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Paragrahvis 1 nimetatud konventsiooni muudatuste heakskiitmise kooskõlas konventsiooni artiklitega 31 ja 32 otsustab Vabariigi Valitsus, kui muudatused käsitlevad ainete ja materjalide nimekirju või kui muudatused ei ole sisulist laadi ning nende rakendamiseks ei ole tarvis muuta Eesti seadusi."
+    }
+  ],
+  "definitions": []
+}

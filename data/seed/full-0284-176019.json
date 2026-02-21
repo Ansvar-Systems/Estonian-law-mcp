@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-176019",
+  "type": "statute",
+  "title": "Eesti Vabariigi rendiseadus",
+  "title_en": "Eesti Vabariigi rendiseadus",
+  "short_name": "RenS",
+  "status": "in_force",
+  "issued_date": "1990-09-26",
+  "in_force_date": "2002-07-01",
+  "url": "https://www.riigiteataja.ee/akt/176019.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi rendiseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-13061961",
+  "type": "statute",
+  "title": "Loteriiseadus",
+  "title_en": "Loteriiseadus",
+  "short_name": "LotS",
+  "status": "in_force",
+  "issued_date": "1994-06-15",
+  "in_force_date": "2009-01-01",
+  "url": "https://www.riigiteataja.ee/akt/13061961.xml",
+  "description": "Official consolidated statute text (Loteriiseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

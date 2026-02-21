@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-13148376",
+  "type": "statute",
+  "title": "Eesti Vabariigi töölepingu seadus",
+  "title_en": "Eesti Vabariigi töölepingu seadus",
+  "short_name": "ee-law-13148376",
+  "status": "in_force",
+  "issued_date": "1992-04-15",
+  "in_force_date": "2009-07-01",
+  "url": "https://www.riigiteataja.ee/akt/13148376.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi töölepingu seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Kehtetu – RT I 2009, 5, 35 / RT I 2009, 11, 67 – jõust. 1.07.2009"
+    }
+  ],
+  "definitions": []
+}

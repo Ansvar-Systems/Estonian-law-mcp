@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-27568",
+  "type": "statute",
+  "title": "Rahvusvahelise mereliikluse hõlbustamise konventsiooniga ühinemise seadus",
+  "title_en": "Rahvusvahelise mereliikluse hõlbustamise konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-27568",
+  "status": "in_force",
+  "issued_date": "2001-12-12",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/27568.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise mereliikluse hõlbustamise konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Preambul",
+      "content": "Ühineda juurdelisatud rahvusvahelise mereliikluse hõlbustamise konventsiooniga, mis on koostatud 1965. aasta 9. aprillil Londonis, ja selles tehtud muudatustega. Riigikogu esimees Toomas SAVI"
+    }
+  ],
+  "definitions": []
+}

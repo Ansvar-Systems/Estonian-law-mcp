@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-26932",
+  "type": "statute",
+  "title": "Antarktika lepinguga ühinemise seadus",
+  "title_en": "Antarktika lepinguga ühinemise seadus",
+  "short_name": "ee-law-26932",
+  "status": "in_force",
+  "issued_date": "2001-02-21",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/26932.xml",
+  "description": "Official consolidated statute text (Antarktika lepinguga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Preambul",
+      "content": "Ühineda juurdelisatud Antarktika lepinguga, mis on sõlmitud 1959. aasta 1. detsembril Washingtonis. Riigikogu esimees Toomas SAVI"
+    }
+  ],
+  "definitions": []
+}

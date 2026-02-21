@@ -1,0 +1,605 @@
+{
+  "id": "ee-law-130122025025",
+  "type": "statute",
+  "title": "Sadamaseadus",
+  "title_en": "Sadamaseadus",
+  "short_name": "SadS",
+  "status": "in_force",
+  "issued_date": "2009-06-15",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.riigiteataja.ee/akt/130122025025.xml",
+  "description": "Official consolidated statute text (Sadamaseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab:\n1) sadamateenuse osutamisele ning sadama pidajale ja sadamaoperaatorile veeliikluse ohutuse ja turvalisuse ning keskkonnakaitse nõuded;\n2) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/352, millega luuakse sadamateenuse osutamise raamistik ja sadamate finantsläbipaistvuse ühised normid (ELT L 57, 03.03.2017, lk 1‒18), kohaldamisest tingitud kaebuse lahendamise korra;\n3) riikliku järelevalvega seonduva meresadamates ning laevatatavatel sisevetel ja nendega piirnevate veekogude laevatatavates suudmetes (edaspidi laevatatavad siseveed ) asuvates sadamates;\n4) vastutuse käesoleva lõike punktis 1 nimetatud nõuete rikkumise eest.\n(2) Käesoleva seaduse kohaldamise erisused:\n1) füüsilise isiku poolt väljaspool tema majandus- või kutsetegevust isiklikuks tarbeks paigaldatud või ehitatud sildumisrajatisele käesolevat seadust ei kohaldata;\n2) väikesadamale, kus ei osutata tasulisi sadamateenuseid, ei kohaldata käesoleva seaduse 2. peatükki, välja arvatud § 4 lõikes 5 sissesõidutee kohta sätestatu ja § 4 lõige 8, ning 3. ja 6. peatükki, kui käesolevas seaduses ei ole sätestatud teisiti;\n3) riigikaitse ülesannetega sadamale ei kohaldata käesoleva seaduse peatükke 2–5, 7 ja 9, välja arvatud § 30 lõiget 3;\n4) riigihaldusülesannetega sadamale ei kohaldata käesoleva seaduse peatükki 3, § 25 lõikeid 2–12 ja § 26–29;\n5) alaliseks või ajutiseks riigikaitseobjektiks määratud sadamale kohaldatakse käesolevat seadust riigikaitseseadusest tulenevate erisustega.\n(2^1) Ettevõtja maksab järelevalvetasu konkurentsiseaduses sätestatud alustel ja korras.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Mõisted",
+      "content": "Käesoleva seaduse tähenduses on:\n1) sadam – veesõidukite sildumiseks kohandatud ja sadamateenuse osutamiseks kasutatav maa- ja veeala ning seal asuvad sadama sihtotstarbeliseks kasutamiseks vajalikud ehitised (edaspidi sadamaehitis );\n2) sadama akvatoorium (edaspidi akvatoorium ) – piiritletud veetee osa, mis on vajalik veesõidukite ohutu sildumise korraldamiseks ning kus sadama pidaja vastutab veeliikluse ohutuse, turvalisuse ja keskkonnakaitse nõuete täitmise eest;\n3) sadama pidaja – isik, kes korraldab sadama tegevust tervikuna;\n4) sadamaoperaator – isik, kes osutab sadamateenuseid sadama pidajaga sõlmitud lepingu alusel;\n5) sadama navigatsioonimärgistus – sadamasse sissesõiduks, sadamast väljasõiduks ja sadamasiseseks veeliikluseks vajalik navigatsioonimärgistus;\n6) sadama eeskiri – sadamateenuste osutamisele esitatavad käitus-, navigatsiooni-, keskkonna-, ohutus- ja muud nõuded ning info sadama kohta;\n7) sadamakapten – sadamas ohutut veeliiklust ja veesõidukite ohutut seismist korraldav isik;\n8) sadama turvaülem – sadamas turvanõuete täitmist korraldav isik;\n9) sadamarajatis – sadama maa-alal või akvatooriumil (edaspidi mõlemad koos sadamaala ) turvanõuete täitmiseks määratud laeva ja sadama vahelise koostöö ja liidese koht, mis hõlmab vajaduse korral ka sadama territooriumi, akvatooriumi ja sissesõiduteed;\n10) laeva ja sadama vaheline liides – vastastikune mõju, mis tekib ajal, mil laev on otseselt ja vahetult seotud tegevusega, mis hõlmab inimeste või kaupade liikumist või sadamateenuste osutamist laevale või laevalt;\n11) sadamarajatise turvaülem – sadamarajatise turvanõuete täitmist korraldav isik;\n12) turvaettevõtja – ettevõtja, kes võib täita käesolevas seaduses sätestatud ülesandeid, kes tegutseb turvategevuse seaduse alusel turvamise või turvaauditi tegevusalal ja kellel on käesoleva seaduse §-s 18 sätestatud tegevusluba;\n13) turvatase – riskimäär, millele vastavalt rakendatakse turvaintsidendi ärahoidmiseks kaitse- ja turvameetmeid;\n14) turvaintsident – vahejuhtum, tegu või asjaolu, mis võib ohustada laeva, laeva ja sadama vahelise liidese või sadama ja sadamarajatise turvalisust;\n15) sadama sissesõidutee (edaspidi sissesõidutee ) – laevatee osa, mis võimaldab veesõidukil sadamasse siseneda ja sadamast väljuda ning kus selleks on vajalik korraldada veeliiklust. Sissesõiduteena käsitatakse ka sadamate ühist sissesõiduteed ja sissesõiduteed, mis läbib teise sadama akvatooriumit;\n16) riigikaitse ülesannetega sadam – sadam, mis on ette nähtud üksnes sõjalaevade ja mereväe abilaevade sildumiseks ja teenindamiseks;\n17) riigihaldusülesannetega sadam – sadam, mis on ette nähtud üksnes riigihaldusülesandeid täitvate laevade sildumiseks ja teenindamiseks;\n18) väikesadam – sadam või sadama osa, kus osutatakse sadamateenuseid 24-meetrise ja väiksema kogupikkusega veesõidukitele;\n19) laevajäätmed – kõik jäätmed, mis tekivad veesõiduki töö käigus või lastimis-, lossimis- ja koristustööde ajal, sealhulgas lastijäätmed, ja mis kuuluvad rahvusvahelise laevade põhjustatava merereostuse vältimise konventsiooni (edaspidi MARPOL ) I, II, IV, V ja VI lisa kohaldamisalasse, ning kutselisel kalapüügil püügivahendiga passiivselt püütud jäätmed;\n20) lastijäätmed – pärast lastimist, lossimist ja koristustööde lõpetamist veesõiduki tekile, lastiruumi või -mahutisse jäänud lasti jäägid, sealhulgas lastimise ja lossimise ülejäägid, välja arvatud lastitolm, mis jääb tekile pärast pühkimist, või laeva välispindadel olev tolm;\n21) prügi – MARPOL V lisas määratletud veesõiduki tavapärase tegevuse käigus tekkivad mis tahes liiki toidu-, olme- ja muud jäätmed, millest on vaja pidevalt või perioodiliselt vabaneda, välja arvatud toorkala ja selle osad ning ained, mis on määratletud või nimetatud MARPOL-i teistes lisades;\n22) reovesi – MARPOL IV lisas määratletud mis tahes tüüpi tualeti, pissuaari, bidee või WC äravooluava kaudu ärajuhitud vedelik või muud jäätmed, meditsiiniruumis (dispanser, haiglasektsioon) asuva pesuvanni, pesutorustiku või äravooluava kaudu ärajuhitud vedelik, elusloomi sisaldavast ruumist ärajuhitud vedelik või eespool loetletud ärajuhitud vedelike või jäätmetega segunenud muu reovesi;\n23) lastiga seotud jäätmed – veesõiduki pardal lasti kinnitamise või käitlemise tulemusel jäätmeteks muutunud mis tahes materjalid, seahulgas näiteks pakkimispuit, tõstealused, vooderdus- ja pakkematerjalid, vineer, paber, papp, terastrossid ja -tropid ning muu selline;\n24) sadama vastuvõtuseadmed – paiksed, ankurdatud või liikuvad seadmed, millega saab vastu võtta laevajäätmeid."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Sadamateenus ja sadama lisateenus",
+      "content": "(1) Sadamateenusena käsitatakse järgmisi sadamas teostatavaid tegevusi:\n1) veesõiduki sildumise võimaldamine;\n2) veesõiduki lastimine ja lossimine;\n3) reisijate laevale mineku ja laevalt tuleku korraldamine;\n4) veeliikluse korraldamine akvatooriumil ja sissesõiduteel;\n5) veesõidukite pukseerimine ja jäämurdmine akvatooriumil;\n6) veesõiduki punkerdamine;\n7) laevajäätmete vastuvõtmine.\n(2) Sadamateenusena käsitatakse ka neid käesoleva paragrahvi lõikes 1 nimetatud tegevusi, mida ei osutata teistele isikutele.\n(3) Sadama lisateenusena käsitatakse sadamas teostatavaid avalikkusele suunatud tegevusi sõltuvalt sadama tegevuse eesmärgist.\n(4) Sadama lisateenuste loetelu kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para3^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3^1",
+      "title": "§ 3^1. Elutähtsa teenuse osutaja",
+      "content": "(1) Sadama pidaja on hädaolukorra seaduse § 36 lõike 1^1 punktis 8 nimetatud elutähtsa teenuse osutaja, kui on täidetud vähemalt üks järgmistest tingimustest:\n1) tema sadama toimimine mõjutab teise elutähtsa teenuse toimepidevuse või riigikaitse tagamist;\n2) tema sadamat läbivate reisijate arv moodustab märkimisväärse osa Eestis rahvusvaheliste reisijate arvust;\n3) tema sadama kaudu veetava kauba maht moodustab märkimisväärse osa Eestis sadamate kaudu veetavate kaupade kogumahust.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud elutähtsat teenust osutavate sadama pidajate ja nende hallatavate elutähtsa teenuse osutamiseks kasutatavate sadamate määramise metoodika kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - VEELIIKLUSE OHUTUSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "4",
+      "title": "§ 4. Akvatoorium ja sissesõidutee",
+      "content": "(1) Sadamale peab olema määratud akvatoorium.\n(2) Sadama pidaja peab tagama navigatsiooniteabes avaldatud sügavused akvatooriumil ja sissesõiduteel ning sügavuste mõõdistamise vastavalt meresõiduohutuse seaduse alusel kehtestatud korrale.\n(3) Sadama pidaja korraldab sissesõidutee, akvatooriumi ja sildumiseks vajalike sadamaehitiste haldamist ning hooldamist, sadama navigatsioonimärgistuse rajamist, haldamist, hooldamist, muutmist ja tühistamist, jälgib navigatsiooniteabes avaldatud andmete õigsust, vastutab enda esitatud andmete õigsuse eest ning tagab muutunud andmete viivituseta edastamise Transpordiametile navigatsiooniteabes avaldamiseks.\n(4) Ühise sissesõidutee puhul korraldavad sadama pidajad sissesõidutee haldamist ja hooldamist ühiselt.\n(5) Sadama pidaja peab tagama, et ehitustegevus akvatooriumil ja sissesõiduteel toimuks vastavalt meresõiduohutuse seaduse alusel kehtestatud korrale.\n(6) Sadama pidaja peab tagama läbipääsu akvatooriumist ilma selle eest tasu saamata, kui see on ainuvõimalik tee piirnevasse või ühise sissesõiduteega sadamasse või kui ilma veesõidukit ohtu seadmata või kahjustamata ei ole võimalik jõuda piirnevasse või ühise sissesõiduteega sadamasse. Läbipääsu ei pea tagama, kui see toob läbipääsu võimaldamiseks kohustatud sadama pidajale kaasa ebamõistlikke kulutusi.\n(7) Ühise akvatooriumiga sadamate puhul peavad sadama pidajad kokku leppima akvatooriumi kasutamise korra, mis tuleb lisada iga asjaomase sadama eeskirjale.\n(8) Sadama pidaja peab tagama sadama navigatsioonimärgistuse rajamise, muutmise, tühistamise ja märgistusest teavitamise vastavalt meresõiduohutuse seaduse alusel kehtestatud korrale."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - VEELIIKLUSE OHUTUSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "5",
+      "title": "§ 5. Akvatooriumi määramine",
+      "content": "(1) Akvatooriumi määrab valdkonna eest vastutav minister. Akvatooriumi määramisel kehtestab valdkonna eest vastutav minister käskkirjaga akvatooriumi piirid.\n(2) Kohalikule omavalitsusüksusele kuuluval laevatataval siseveekogul asuva sadama akvatooriumi määrab kohaliku omavalitsusüksuse volikogu. Akvatooriumi määramisel kehtestab volikogu otsusega akvatooriumi piirid.\n(3) Sadama akvatooriumi määramisel kehtestab akvatooriumi määraja vajaduse korral täiendavad tingimused sadamasse sissesõidu korraldamiseks ja sissesõidutee märgistamiseks looduses.\n(4) Akvatooriumi määraja võib akvatooriumi kasutamisele kehtestada muid täiendavaid tingimusi."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - VEELIIKLUSE OHUTUSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "6",
+      "title": "§ 6. Akvatooriumi määramise taotlemine",
+      "content": "(1) Taotlus akvatooriumi määramiseks esitatakse Kliimaministeeriumile.\n(2) Kohalikule omavalitsusüksusele kuuluval laevatataval siseveekogul asuva sadama akvatooriumi määramiseks esitatakse taotlus valla- või linnavalitsusele.\n(3) Kui akvatooriumi määramist taotlevad mitu üksteisega piirneva kinnistu või maatüki omanikku või kui sissesõidutee on ühine teise sadamaga, võib esitada taotluse ühise akvatooriumi määramiseks.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud ühise akvatooriumi määramise taotlemise korral tuleb taotlusele lisada taotlejate vaheline kokkulepe ohutu veeliikluse tagamiseks vajalike tööde ja kulutuste kandmise osas ning ühise akvatooriumi kasutamise kord.\n(5) Akvatooriumi määramiseks peab taotleja koos taotlusega esitama:\n1) akvatooriumi piiripunktide koordinaadid;\n2) akvatooriumi plaani;\n3) põhjenduse akvatooriumi suuruse otstarbekuse kohta;\n4) akvatooriumil kavandatava veeliikluse kirjelduse;\n5) kui üld- või detailplaneeringus on määratud sadama asukoht, siis väljavõtte vastavast planeeringust;\n6) omandi- või kasutusõigust tõendavad dokumendid sadama maa-ala kinnistu või maatüki kohta;\n7) piirneva kinnistu või maatüki omaniku notariaalselt kinnitatud või digitaalselt allkirjastatud nõusoleku, kui taotletava akvatooriumi kaldapiiripunktid asuvad väljaspool taotleja omandis oleva või muul õiguslikul alusel kasutatava kinnistu või riigi omandis oleva maaüksuse puhul taotleja valduses oleva maaüksuse piire."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - VEELIIKLUSE OHUTUSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "7",
+      "title": "§ 7. Akvatooriumi määramise kooskõlastamine ja määramise otsustamine",
+      "content": "(1) Akvatooriumi määramiseks peab olema Transpordiameti kooskõlastus, mille taotleb Kliimaministeerium või valla- või linnavalitsus.\n(2) Kui akvatooriumi määrab või selle kehtivust pikendab valdkonna eest vastutav minister, peab lisaks käesoleva paragrahvi lõikes 1 nimetatud kooskõlastusele olema valla- või linnavolikogu kooskõlastus, välja arvatud juhul, kui kehtiva üld- või detailplaneeringuga on juba määratud sadama asukoht.\n(3) Kui sadam piirneb teise kavandatava või olemasoleva sadamaga või neil on ühine sissesõidutee või taotletav akvatoorium mõjutaks veeliikluse ohutust või turvalisust muul viisil, võib Transpordiamet veeliikluse ohutuse või turvalisuse tagamiseks teha ettepaneku ühise akvatooriumi määramiseks või taotletava akvatooriumi piiride muutmiseks. Kui veeliikluse ohutust või turvalisust tagavat kokkulepet ühise akvatooriumi määramise osas ei saavutata või kui taotleja ei nõustu ettepanekuga taotletava akvatooriumi piiride muutmiseks, võib Transpordiamet taotletava akvatooriumi kooskõlastamata jätta.\n(4) Otsus akvatooriumi määramise või sellest keeldumise kohta tehakse 30 tööpäeva jooksul pärast käesoleva paragrahvi lõigetes 1 ja 2 nimetatud kooskõlastuste saamist."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - VEELIIKLUSE OHUTUSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "8",
+      "title": "§ 8. Akvatooriumi määramisest keeldumine",
+      "content": "Akvatooriumi määramisest keeldutakse, kui:\n1) puudub Transpordiameti kooskõlastus;\n2) valdkonna eest vastutav minister määratava akvatooriumi korral puudub valla- või linnavolikogu kooskõlastus või sadama asukohta ei ole määratud kehtivas üld- või detailplaneeringus;\n3) ühise akvatooriumi määramise taotlemisel puudub käesoleva seaduse § 6 lõikes 4 nimetatud kokkulepe ja ühise akvatooriumi kasutamise kord;\n4) kavandatav sadamasisese veeliikluse korraldus häirib taotletava akvatooriumi suuruse tõttu veeliiklust üldkasutataval veeteel;\n5) taotletav akvatoorium ei taga veesõidukite ohutut sildumist ja manööverdamist;\n6) taotletav akvatoorium või sadamasisese veeliikluse korraldus ei taga läbipääsu akvatooriumist, kui see on ainuvõimalik tee piirnevasse või ühise sissesõiduteega sadamasse või kui ilma veesõidukit ohtu seadmata või kahjustamata ei ole võimalik jõuda piirnevasse või ühise sissesõiduteega sadamasse;\n7) taotletava akvatooriumi kaldapiiripunktid asuvad väljaspool taotleja omandis oleva või muul õiguslikul alusel kasutatava kinnistu või maaüksuse piire ja puudub piirneva kinnistu või maatüki omaniku notariaalselt kinnitatud või digitaalselt allkirjastatud nõusolek või\n8) esineb põhjendatud avalik huvi akvatooriumi määramisest keeldumiseks."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - VEELIIKLUSE OHUTUSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "9",
+      "title": "§ 9. Akvatooriumi piiride muutmine ja akvatooriumi määramise kehtetuks tunnistamine",
+      "content": "(1) Akvatooriumi piire muudab ja akvatooriumi määramise tunnistab kehtetuks akvatooriumi määraja.\n(2) Kui akvatooriumi määrab valdkonna eest vastutav minister, siis võib akvatooriumi piiride muutmist või akvatooriumi määramise kehtetuks tunnistamist taotleda sadama pidaja, Transpordiamet ja valla- või linnavolikogu.\n(3) Valla- või linnavolikogu määratud akvatooriumi piiride muutmist või akvatooriumi määramise kehtetuks tunnistamist võib taotleda sadama pidaja, Transpordiamet ja valla- või linnavalitsus. Taotlus esitatakse valla- või linnavalitsusele. Kui taotleja on valla- või linnavalitsus, esitatakse taotlus valla- või linnavolikogule.\n(4) Määratud akvatooriumi piirid vaadatakse üle, kui olemasoleva akvatooriumi kõrvale taotletakse teise akvatooriumi määramist ning taotletava akvatooriumi piiripunktid piirnevad või kattuvad olemasoleva akvatooriumi piiripunktidega või olemasoleval ja rajataval sadamal on ühine sissesõidutee.\n(5) Taotlusega koos tuleb esitada:\n1) põhjendus akvatooriumi piiride muutmise või akvatooriumi määramise kehtetuks tunnistamise kohta;\n2) akvatooriumi piiride muutmise korral uued akvatooriumi piiripunktide koordinaadid;\n3) väljavõte kehtivast üld- või detailplaneeringust, kui akvatooriumi piiride muudatus või akvatooriumi määramise kehtetuks tunnistamine tuleneb planeeringust;\n4) sadama pidaja arvamus.\n(6) Akvatooriumi piire võib muuta, kui:\n1) sadamasisese veeliikluse korraldus häirib akvatooriumi suuruse tõttu veeliiklust üldkasutataval veeteel;\n2) akvatooriumi piirid ei taga veesõidukite ohutut sildumist ja manööverdamist;\n3) akvatoorium või sadamasisese veeliikluse korraldus ei taga läbipääsu akvatooriumist, kui see on ainuvõimalik tee piirnevasse või ühise sissesõiduteega sadamasse või kui ilma veesõidukit ohtu seadmata või kahjustamata ei ole võimalik jõuda piirnevasse või ühise sissesõiduteega sadamasse;\n4) akvatooriumi kaldapiiripunktid asuvad väljaspool sadama pidaja omandis oleva või muul õiguslikul alusel kasutatava kinnistu või riigi omandis oleva maaüksuse puhul sadama pidaja valduses oleva maaüksuse piire ja puudub piirneva kinnistu või maatüki omaniku notariaalselt kinnitatud või digitaalselt allkirjastatud nõusolek;\n5) ühise akvatooriumi korral puudub käesoleva seaduse § 6 lõikes 4 nimetatud kokkulepe ja ühise akvatooriumi kasutamise kord või\n6) esineb põhjendatud avalik huvi akvatooriumi piiride muutmiseks.\n(7) Akvatooriumi määramine tunnistatakse kehtetuks, kui:\n1) esineb käesoleva paragrahvi lõike 6 punktis 1, 2, 3, 5 või 6 loetletud asjaolu, kuid akvatooriumi piiride muutmine ei ole võimalik;\n2) väikesadamas lõpetatakse tasulise sadamateenuse osutamine;\n3) esineb põhjendatud avalik huvi akvatooriumi määramise kehtetuks tunnistamiseks.\n(8)"
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - VEELIIKLUSE OHUTUSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "10",
+      "title": "§ 10. Nõuded sadamakaptenile ja sadamakapteni atesteerimine",
+      "content": "(1) Sadama pidaja peab määrama sadamale sadamakapteni.\n(2) Sadamakapten peab olema atesteeritud. Sadamakapteniks võib olla vähemalt keskharidust omav Eesti kodanik või Euroopa Liidu liikmesriigi või Euroopa Majanduspiirkonna lepingu osalisriigi kodanik, kellel on selleks tööks vajalikud teadmised.\n(3) Sadamakapteni atesteerimise aluseks on Transpordiametile sadama pidaja esitatud taotlus, milles märgitakse sadamakapteni kandidaadi nimi, isikukood, kvalifikatsioon ja sadama nimi.\n(4) Sadamakapten peab valdama eesti keelt vähemalt B2-tasemel. Sadamakapten peab oskama lisaks inglise keelt tööülesannete täitmiseks vajalikul tasemel.\n(5) Sadamakapten peab lisaks käesoleva paragrahvi lõigetes 2 ja 4 sätestatule vastama järgmistele nõuetele:\n1) laevu kogumahutavusega 7500 ja enam teenindavas sadamas peab sadamakaptenil olema 3000-se ja suurema kogumahutavusega laeva kapteni meresõidudiplom;\n2) laevu kogumahutavusega 500–7500 (välja arvatud) teenindavas sadamas peab sadamakaptenil olema vähemalt 3000-se kogumahutavusega laeva vanemtüürimehe meresõidudiplom või väiksema kui 3000-se kogumahutavusega laeva kapteni meresõidudiplom;\n3) laevu kogumahutavusega alla 500 teenindavas sadamas peab sadamakaptenil olema vähemalt väiksema kui 3000-se kogumahutavusega laeva vanemtüürimehe meresõidudiplom või väiksema kui 500-se kogumahutavusega laeva kapteni kutsetunnistus.\n(6) Laevatatavatel sisevetel asuva sadama sadamakapten peab vastama käesoleva paragrahvi lõigetes 2 ja 4 sätestatud nõuetele ning omama kutselise laevajuhi diplomit või kutsetunnistust.\n(7) Sadamakapteni kandidaati atesteerib Transpordiamet. Sadamakapteni kandidaat atesteeritakse iga sadama kohta eraldi. Atesteerimisel kontrollitakse kandidaadi sadama navigatsioonitingimuste, sadama eeskirja ja sadama tegevusega seonduvate õigusaktide tundmist.\n(8) Väikesadama sadamakapten atesteerimisele ei kuulu. Väikesadama sadamakaptenil peab olema vähemalt väikelaevajuhi tunnistus.\n(9) Isiku sadamakapteniks atesteerimiseks esitamise eest tuleb tasuda riigilõivu."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - VEELIIKLUSE OHUTUSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "11",
+      "title": "§ 11. Sadamakapteni õigused ja kohustused",
+      "content": "(1) Sadamakaptenil on ohutu veeliikluse korraldamiseks õigus nõuda sadamas viibivatelt isikutelt õigusaktidest, sadama eeskirjast ja heast merepraktikast tulenevate nõuete täitmist.\n(2) Sadamakapten on kohustatud veeliikluse ohutusega seotud puuduste korral viivitamata võtma tarvitusele meetmed nende kõrvaldamiseks ja teavitama puudustest sadama pidajat.\n(3) Sadamakapten kehtestab vajaduse korral veesõidukite sadamasse sisenemise ja sadamast väljumise erikorra ning suurimad veesõiduki mõõtmed, millega võib sadamasse siseneda.\n(4) Sadamakapten koordineerib ja kontrollib vastavalt õigusaktidele ja sadama eeskirjale veesõidukitega veetava ohtliku lasti üle arvestuse pidamist sadamas.\n(5) Sadamakapten peab teavitama Transpordiametit laevast:\n1)\n2)\n3) mis on sadamas ja millel on ilmseid nõuetest kõrvalekaldeid, mis võivad ohustada laeva ohutut juhtimist või mis on põhjendamatu oht merekeskkonnale."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - VEELIIKLUSE OHUTUSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "12",
+      "title": "§ 12. Sadama eeskiri ja sadamatasud",
+      "content": "(1) Sadamal peab olema sadama eeskiri. Sadama eeskirja kinnitab sadama pidaja. Sadama pidaja peab tagama sadama eeskirja ajakohastamise.\n(2) Sadama eeskiri peab olema eestikeelne ning sadamas tegutsevatele või viibivatele isikutele kättesaadav. Välisriigi veesõidukeid teenindava sadama eeskiri peab olema tõlgitud inglise keelde.\n(3) Sadama eeskirja nõuded on kohustuslikud kõigile sadamas tegutsevatele ja viibivatele isikutele.\n(4) Sadama pidaja peab asjakohaselt teavitama käesoleva paragrahvi lõikes 3 nimetatud isikuid sadama eeskirjast tulenevatest nõuetest.\n(5) Informatsioon sadamatasude kohta peab olema huvitatud isikutele kättesaadav. Välisriigi veesõidukeid teenindavas sadamas peab informatsioon sadamatasude kohta olema tõlgitud inglise keelde.\n(6) Sadama eeskirjas peavad olema kirjeldatud vähemalt:\n1) sadama üldandmed;\n2) veesõidukite sadamasse sisenemise korraldus;\n3) veeliikluse korraldus sadama akvatooriumil;\n4) veesõidukite sadamas seismise korraldus;\n5) veesõidukite sadamast lahkumise korraldus;\n6) osutatavad sadamateenused ja sadamateenuste osutamise korraldus;\n7) reisijate teenindamise korraldus sadamas;\n8) meditsiiniabi korraldus sadamas;\n9) tuleohutusnõuded sadamas ja päästetööde korraldus;\n10) Päästeameti ja muu abi andva või järelevalvet teostava asutuse väljakutsumise kord.\n(7) Sadama eeskirjas kajastatavate andmete loetelu kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para12^1",
+      "chapter": "2. peatükk - VEELIIKLUSE OHUTUSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "12^1",
+      "title": "§ 12^1. Sadamaoperaatori ja sadama pidaja kohustused seoses reisijate õiguste kaitsega",
+      "content": "Sadamaoperaator või tema puudumisel sadama pidaja peab reisijaveoteenuse korraldamisel järgima Euroopa Parlamendi ja nõukogu määrusest (EL) nr 1177/2010, mis käsitleb meritsi ja siseveeteedel reisijate õigusi ning millega muudetakse määrust (EÜ) nr 2006/2004 (ELT L 334, 17.12.2010, lk 1–16), tulenevaid kohustusi."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - TURVANÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "13",
+      "title": "§ 13. Peatüki kohaldamine, turvanõuded ja elektroonilise turvalisuse tagamine",
+      "content": "(1) Käesolevas peatükis sätestatud turvanõudeid kohaldatakse sadamale, mis teenindab rahvusvahelises meresõidus sõitvaid reisilaevu või 500-se ja enama kogumahutavusega laevu.\n(2)\n(3) Turvanõuded sadamateenuse osutamisel tulenevad rahvusvahelisest konventsioonist inimelude ohutusest merel ning selle alusel kehtestatud rahvusvahelisest laevade ja sadamarajatiste turvalisuse koodeksist, samuti Euroopa Parlamendi ja nõukogu määrusest (EÜ) nr 725/2004 laevade ja sadamarajatiste turvalisuse tugevdamise kohta (ELT L 129, 29.04.2004, lk 6–91).\n(4)"
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - TURVANÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "14",
+      "title": "§ 14. Pädev asutus",
+      "content": "(1) Transpordiamet on Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 725/2004 mõistes sadamate osas pädev asutus ja informatsiooni vahendav asutus ning täidab administratsiooni kohustusi.\n(2) Transpordiamet on sadama turvalisuse informatsiooni vahendav asutus Euroopa Parlamendi ja nõukogu direktiivi 2005/65/EÜ sadamate turvalisuse tugevdamise kohta (ELT L 310, 25.11.2005, lk 28–39) artikli 12 mõistes."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - TURVANÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "15",
+      "title": "§ 15. Turvalisuse riskianalüüs ja selle läbiviimine",
+      "content": "(1) Sadama ja sadamarajatise turvalisuse riskianalüüsi viib läbi Transpordiamet. Riskianalüüsi läbiviimise kohta koostatakse riskianalüüsi aruanne.\n(2) Sadamarajatiste arvu ja piirid sadamas määrab Transpordiamet turvalisuse riskianalüüsi tulemuste põhjal, arvestades vajaduse korral sadama pidaja ettepanekut.\n(3) Transpordiamet kaasab turvalisuse riskianalüüsi läbiviimisesse Päästeameti ja julgeolekuasutuse ning arvestab sadama ja sadamarajatise riskianalüüsi koostamisel nende ettepanekutega.\n(4) Sadama ja sadamarajatise turvalisuse riskianalüüsi aruanne tuleb üle vaadata ja vajaduse korral riskianalüüs uuesti läbi viia vähemalt iga viie aasta järel, võttes arvesse muutuvaid ohte ning muudatusi sadamas ja sadamarajatisel. Riskianalüüs tuleb läbi viia kohe, kui sadamas ja sadamarajatisel või selle ümbruses toimuvad olulised ehituslikud, töökorralduslikud või muud muudatused. Sadama pidaja ja sadamarajatise valdaja peavad teavitama Transpordiametit sadamas ja sadamarajatises aset leidnud olulistest ehituslikest, töökorralduslikest või muudest muudatustest.\n(5) Sadama ja sadamarajatise turvalisuse riskianalüüs peab kirjeldama sadama turvalisusega seonduvaid varasid, sadama infrastruktuuri, sadama piirkondi, sadamale lähtuvaid ohte ja nende võimalikke tagajärgi, ohu vältimise meetmeid ning sadama pidaja ja sadamarajatise valdaja kohustusi ja tegevusi turvalisuse tagamisel.\n(6) Sadama ja sadamarajatise turvalisuse riskianalüüsis kajastatavate teemade täpsustatud loetelu ja riskianalüüsi läbiviimise korra kehtestab valdkonna eest vastutav minister määrusega.\n(7) Sadama ja sadamarajatise turvalisuse riskianalüüsi läbiviimise eest tasub vastavalt sadama pidaja või sadamarajatise valdaja riigilõivu. Riigilõiv tuleb tasuda kümne tööpäeva jooksul pärast kirjalikult riskianalüüsi läbiviimisest teatamist. Enne riigilõivu tasumist ei väljasta Transpordiamet turvalisuse riskianalüüsi aruannet."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - TURVANÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "16",
+      "title": "§ 16. Turvaplaan ja selle koostamine",
+      "content": "(1) Sadama pidaja peab tagama, et sadama kohta oleks sadama turvalisuse riskianalüüsi alusel koostatud ja rakendatud turvaplaan. Sadama turvaplaani ajakohastamise eest vastutab sadama pidaja.\n(2) Sadamarajatise valdaja peab tagama, et tema valduses oleva sadamarajatise kohta oleks sadamarajatise turvalisuse riskianalüüsi alusel koostatud ja rakendatud sadamarajatise turvaplaan. Sadamarajatise turvaplaani ajakohastamise eest vastutab sadamarajatise valdaja. Kui sadamarajatise valdajaid on mitu, täidavad nad käesolevas lõikes sätestatud kohustust ühiselt.\n(3) Sadama turvaplaani koostab sadama pidaja või turvaettevõtja.\n(4) Sadamarajatise turvaplaani koostab sadamarajatise turvaülem või turvaettevõtja.\n(5) Transpordiamet võib lubada mitme sadamarajatise kohta koostada ühise turvaplaani.\n(6) Sadama ja sadamarajatise turvaplaanid ning nendes tehtud muudatused tuleb esitada kooskõlastamiseks Transpordiametile enne nende rakendamist. Sadamarajatise turvaplaan tuleb enne Transpordiametile esitamist kooskõlastada sadama pidajaga.\n(7) Turvaplaanis esinevate puuduste korral tuleb need Transpordiameti määratud tähtaja jooksul kõrvaldada.\n(8) Sadama ja sadamarajatise turvaplaanid tuleb ajakohastada vastavalt muudatustele sadama ja sadamarajatise turvalisuse riskianalüüsis ning seoses muudatustega turvaplaaniga seotud turvatoimingutes, -meetmetes, -varustuses või andmetes.\n(9) Kui sadamaalal tegutseval ettevõtjal peab seaduse või selle alusel kehtestatud õigusakti kohaselt olema koostatud hädaolukorra lahendamise plaan, lisatakse see sadama ja sadamarajatise turvaplaanidele.\n(10) Sadama ja sadamarajatise turvaplaanides sätestatakse vastavalt turvalisuse riskianalüüsile sadama turvalisuse korraldus, sealhulgas iga turvataseme puhul järgitavad turvatoimingud, rakendatavad turvameetmed ja kohustuslikud tegevused.\n(11) Sadama ja sadamarajatise turvaplaanides peavad olema kirjeldatud:\n1) sadamasse ja sadamarajatisse sissepääsu korraldus;\n2) isikut tõendavate dokumentide, pagasi ja lasti kontrollimise korraldus;\n3) koostöö lasti, pagasi ja reisijate kontrollimisega tegelevate asutuste vahel;\n4) tegevused kahtlase leiu puhul või isikuga seotud probleemide lahendamiseks;\n5) turvalisuse seisukohalt olulises piirkonnas läbiviidava tegevuse kontrollimise korraldus;\n6) sadama ja sadamarajatise märgistamise korraldus;\n7) infovahetuse korraldus;\n8) pädevatele asutustele turvaintsidentidest teatamise korraldus;\n9) hädaolukorra lahendamise, reostustõrje- ning muude ennetus- ja vastutegevusplaanide seosed turvaplaaniga;\n10) turvaalaste koolituste ja õppuste läbiviimise korraldus;\n11) sadama ja sadamarajatise turvalisust toetava turvaekspertgrupi koosseis ning selle töökord;\n12) sadama pidaja ja sadamarajatise valdaja turvaalased kohustused;\n13) sadama ja sadamarajatise turvaplaani ajakohastamise korraldus.\n(12)\n(13)\n(14) Sadama ja sadamarajatise turvaplaanide ning nendes tehtud muudatuste läbivaatamise eest tuleb tasuda riigilõivu.\n(15) Riigilõivu ei võeta sadama või sadamarajatise turvaplaani kontaktandmete lisamise ja nende muutmise eest, turvaekspertgrupi andmete muutmise ning turvaplaanile dokumentide lisamise ja nende muutmise eest, kui need dokumendid on eelnevalt teine järelevalveasutus kinnitanud või kui õigusaktidest tulenevalt ei nõuta nende dokumentide eelnevat kooskõlastamist."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - TURVANÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "17",
+      "title": "§ 17. Turvaõppus ja turvaharjutus",
+      "content": "(1) Sadama turvaõppuse ja turvaharjutuse korraldab sadama pidaja ning sadamarajatise turvaõppuse ja turvaharjutuse korraldab sadamarajatise valdaja.\n(2) Turvaõppuse ja turvaharjutuse eesmärk on kontrollida turvaplaani rakendamist.\n(3) Sadamas ja sadamarajatises korraldatava turvaõppuse üheks osaks peab olema vastavas sadamas ja sadamarajatises ohtlike ainete käitlemine.\n(4) Sadamas ja sadamarajatises korraldatakse sadama ja sadamarajatise turvaplaani üksikute osade katsetamiseks turvaõppus vähemalt iga kolme kuu järel.\n(5) Turvaharjutust, milles osalevad sadamarajatiste turvaülemad koos sadamas selles valdkonnas riiklikku järelevalvet teostavate ametiisikutega ja sadamate ning võimaluse korral laevade turvaülemad, korraldatakse sadamas ja sadamarajatistes vähemalt üks kord kalendriaastas ning turvaharjutuste korraldamise vaheline aeg ei tohi olla rohkem kui 18 kuud.\n(6) Sadama ja sadamarajatise turvaõppuse ja turvaharjutuse läbiviimise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - TURVANÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "18",
+      "title": "§ 18. Loakohustus",
+      "content": "(1) Turvaettevõtjal peab olema tegevusluba käesolevas seaduses sätestatud ülesannete täitmiseks.\n(2)"
+    },
+    {
+      "provision_ref": "para18^1",
+      "chapter": "3. peatükk - TURVANÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "18^1",
+      "title": "§ 18^1. Tegevusloa kontrolliese",
+      "content": "Tegevusluba antakse, kui: 1 1) ettevõtja vastab Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 725/2004 III lisa punktis 4.5 ning Euroopa Parlamendi ja nõukogu direktiivi 2005/65/EÜ IV lisas sätestatud nõuetele;\n2) ettevõtja tegutseb turvategevuse seaduse alusel turvamise või turvaauditi tegevusalal;\n3) ettevõtjal on kvalifikatsiooninõuetele vastavad töötajad."
+    },
+    {
+      "provision_ref": "para18^2",
+      "chapter": "3. peatükk - TURVANÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "18^2",
+      "title": "§ 18^2. Tegevusloa taotlemine",
+      "content": "Tegevusloa taotluse lahendab Transpordiamet."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - TURVANÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "19",
+      "title": "§ 19. Sadama turvaülem",
+      "content": "(1) Sadama pidaja peab määrama sadamale turvaülema.\n(2) Sadama turvaülem vastutab sadama turvaplaani rakendamise eest.\n(3) Sadama turvaülem on kohustatud sadamas avastatud turvaalaste puuduste korral viivitamata võtma tarvitusele meetmed nende kõrvaldamiseks ning teavitama puudustest sadama pidajat.\n(4) Sadama turvaülem koordineerib ja kontrollib vastavalt õigusaktidele, sadama turvaplaanile ning sadama eeskirjale turvanõuete täitmist sadamas."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - TURVANÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "20",
+      "title": "§ 20. Sadamarajatise turvaülem",
+      "content": "(1) Sadamarajatise valdaja peab määrama igale tema valduses olevale sadamarajatisele turvaülema. Sadamarajatise turvaülema ülesandeid võib täita sadama turvaülem.\n(2) Sadamarajatise turvaülem vastutab sadamarajatise turvaplaani koostamise ja rakendamise eest.\n(3) Sadamarajatise turvaülem on kohustatud sadamarajatisel avastatud turvaalaste puuduste korral viivitamata võtma tarvitusele meetmed nende kõrvaldamiseks ning teavitama puudustest sadamarajatise valdajat ja sadama turvaülemat.\n(4) Sadamarajatise turvaülem koordineerib ja kontrollib vastavalt õigusaktidele, sadama turvaplaanile ja sadama eeskirjale turvanõuete täitmist sadamarajatises."
+    },
+    {
+      "provision_ref": "para20^1",
+      "chapter": "3. peatükk - TURVANÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "20^1",
+      "title": "§ 20^1. Sadama ja sadamarajatise turvaülema väljaõppe korraldamine",
+      "content": "(1) Sadama ja sadamarajatise turvaülema väljaõppe korraldamiseks peab olema tegevusluba.\n(2) Tegevusloa taotluse lahendab Transpordiamet.\n(3) Tegevusloa taotluses esitatakse lisaks majandustegevuse seadustiku üldosa seaduses sätestatule:\n1) sadamarajatise turvaülema kursuse õppekava, mis hõlmab rahvusvahelises konventsioonis inimelude ohutusest merel ning selle alusel kehtestatud rahvusvahelises laevade ja sadamarajatiste turvalisuse koodeksis esitatud sadamarajatise turvaülema pädevuse nõudeid;\n2) koolitajate nimekiri ja nende kvalifikatsiooni tõendavate dokumentide koopiad.\n(4) Tegevusloa taotluse läbivaatamise eest tuleb tasuda riigilõivu."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - TURVANÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "21",
+      "title": "§ 21. Nõuded sadama ja sadamarajatise turvaülemale",
+      "content": "(1) Sadama ja sadamarajatise turvaülemaks võib olla vähemalt 21-aastane keskharidust omav Eesti kodanik või Euroopa Liidu liikmesriigi või Euroopa Majanduspiirkonna lepingu osalisriigi kodanik, kes on läbinud turvaülema väljaõppe tegevusloa saanud ettevõtja juures.\n(2) Sadama ja sadamarajatise turvaülem peab valdama eesti keelt vähemalt B2-tasemel ja inglise keelt tööülesannete täitmiseks vajalikul tasemel.\n(3) Sadama ja sadamarajatise turvaülemana on keelatud töötada isikul, kes kannab karistust kuriteo eest või kelle karistusandmed kuriteo kohta ei ole karistusregistrist kustutatud."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - TURVANÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "23",
+      "title": "§ 23. Turvataseme kehtestamine, turvaalase teabe edastamine ja turvadeklaratsiooni säilitamine",
+      "content": "(1) Sadama ja sadamarajatise turvataseme kehtestab valdkonna eest vastutav minister. Turvatase kehtestatakse vastavalt rahvusvahelise konventsiooni inimelude ohutusest merel ning selle alusel kehtestatud rahvusvahelise laevade ja sadamarajatiste turvalisuse koodeksi ja Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 725/2004 nõuetele.\n(2)\n(3) Sadama ja sadamarajatise turvaalase teabe edastamise ja vastuvõtmise korra kehtestab Vabariigi Valitsus.\n(4) Turvadeklaratsiooni säilitatakse sadamarajatises kolm aastat."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - TURVANÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "24",
+      "title": "§ 24. Sadamarajatise turvatunnistus ja selle väljastamine",
+      "content": "(1) Sadamarajatisele peab olema väljastatud turvatunnistus. Ilma turvatunnistuseta on keelatud osutada sadamateenuseid käesoleva seaduse § 13 lõikes 1 nimetatud laevadele.\n(2) Turvatunnistuse väljastamiseks viiakse läbi turvaalase olukorra ülevaatus (edaspidi turvaülevaatus ). Turvaülevaatus on sadamarajatise turvasüsteemi ülevaatamine ja kontrollimine, turvalisust tagavate seadmete ja varustuse kontrollimine ning tegeliku olukorra vastavuse hindamine sadamarajatise turvaplaanis sätestatule. Turvaülevaatuse viib läbi Transpordiamet.\n(3) Turvaülevaatused liigitatakse järgmiselt:\n1) esmane ülevaatus;\n2) korraline ülevaatus;\n3) täisülevaatus;\n4) erakorraline ülevaatus.\n(4) Sadamarajatise valdaja:\n1) teavitab turvaülevaatusega seotud sadamarajatise töötajaid ülevaatuse eesmärkidest ja ulatusest;\n2) nimetab oma esindaja ülevaatuse ajaks;\n3) tagab ülevaatuse läbiviijate poolt nõutud tõendusmaterjalide kättesaadavuse;\n4) teeb koostööd ülevaatuse läbiviijatega, et tagada ülevaatuse eesmärkide saavutamine.\n(5) Esmane ülevaatus viiakse läbi hiljemalt 30 kalendripäeva jooksul pärast sadamarajatise turvaplaani esmakordset kooskõlastamist Transpordiametiga.\n(6) Korraline ülevaatus tehakse sadamarajatises üks kord viie aasta jooksul, teise ja kolmanda aasta vahel, turvatunnistuse väljastamise päevast arvates.\n(7) Täisülevaatus viiakse läbi turvatunnistuse kehtivusaja lõppemisel, selle kehtetuks tunnistamisel või uue turvatunnistuse väljastamise taotlemisel.\n(8) Erakorraline ülevaatus viiakse läbi, kui on põhjendatud vajadus kontrollida sadamarajatise turvaplaani efektiivset funktsioneerimist.\n(9) Pärast esmase ülevaatuse või täisülevaatuse läbiviimist väljastab Transpordiamet sadamarajatise kohta turvatunnistuse. Tunnistus kehtib viis aastat tingimusel, et sadamarajatis on läbinud kõik nõutud turvaülevaatused. Korralise ülevaatuse läbiviimise kohta tehakse tunnistusele vastav märge. Erakorralist ülevaatust tunnistusel ei kajastata.\n(10) Turvatunnistust ei väljastata, turvatunnistusele ei tehta käesoleva paragrahvi lõikes 9 sätestatud korralise ülevaatuse läbiviimise märget ning väljastatud turvatunnistuse võib kehtetuks tunnistada, kui sadamarajatise turvasüsteem, turvalisust tagavad seadmed ja varustus ning sadamarajatise tegelik olukord ei vasta sadamarajatise turvaplaanis sätestatule.\n(11) Käesoleva paragrahvi lõikes 10 nimetatud puuduste ilmnemisel teeb Transpordiamet ettekirjutuse nende kõrvaldamiseks. Kui ettekirjutust ei täideta Transpordiameti määratud tähtaja jooksul, tunnistatakse turvatunnistus kehtetuks ning uue tunnistuse väljastamiseks tuleb läbi viia uus täisülevaatus.\n(12) Sadamarajatise turvaülevaatuse läbiviimise ning turvatunnistuse väljastamise korra ja tunnistuse vormi kehtestab valdkonna eest vastutav minister määrusega.\n(13) Sadamarajatise esmase, korralise ja täisülevaatuse tegemise eest tuleb tasuda riigilõivu."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - KESKKONNAKAITSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "25",
+      "title": "§ 25. Laevajäätmete vastuvõtmine ning üleandmine",
+      "content": "(1) Sadama pidaja korraldab laevajäätmete, välja arvatud lastijäätmete vastuvõtmise laevadelt ja muudelt veesõidukitelt (edaspidi käesolevas peatükis laev ), mida see sadam teenindab.\n(2) Lasti käitlev sadama pidaja või sadamaoperaator on kohustatud korraldama laeva tegevuse käigus tekkinud lastijäätmete vastuvõtmise laevadelt, mida see sadam või sadamaoperaator teenindab, sealhulgas lastijäätmete vastuvõtmise laevadelt, mida selles sadamas remonditakse, kui õigusaktide või rahvusvaheliste konventsioonide nõuete kohaselt ei ole kokku lepitud teisiti.\n(3) Laeva kapten on kohustatud andma enne sadamast lahkumist üle kõik laevajäätmed.\n(4) Laeva kapten ei pea kõiki laevajäätmeid üle andma, kui käesoleva seaduse § 27 lõikes 1 nimetatud eelteatises esitatud informatsioonist selgub, et olemasolevad laeva hoidlad on piisavad juba kogunenud ja kavandatava reisi ajal kogunevate laevajäätmete mahutamiseks kuni üleandmissadamasse jõudmiseni, välja arvatud, kui:\n1)\n2) laevajäätmete üleandmissadam või sihtsadam ei ole teada;\n3) on alust arvata, et kavandatavas üleandmissadamas ei ole piisavaid vastuvõtuseadmeid ja laevale on esitatud sellekohane teave;\n4) tegemist on üleandmiseks kokku kogutud prügiga, välja arvatud toidujäätmed;\n5) tegemist on veotankide eelpesust pärit X- ja Y-kategooria keskkonnaohtlike kemikaalidega, välja arvatud rahvusvahelise konventsiooni merereostuse vältimiseks laevadelt lisa II reegli 16 lõigetes 6 ja 7 kirjeldatud juhtudel.\n(4^1) Käesoleva paragrahvi lõikes 4 nimetatud laeva hoidla ladustamismaht loetakse piisavaks, kui see vastab Euroopa Parlamendi ja nõukogu direktiivi (EL) 2019/883, milles käsitletakse sadama vastuvõtuseadmeid laevajäätmete üleandmiseks ja muudetakse direktiivi 2010/65/EL ning millega tunnistatakse kehtetuks direktiiv 2000/59/EÜ (ELT L 151, 07.06.2019, lk 116–142), artikli 7 lõike 4 alusel kehtestatud Euroopa Komisjoni rakendusmäärusele.\n(5) Kui käesoleva paragrahvi lõikes 4 sätestatud erandite suhtes on rahvusvahelise konventsiooniga kehtestatud rangemad nõuded, kohaldatakse nimetatud konventsiooni nõudeid.\n(6) Lisaks käesoleva paragrahvi lõikes 4 sätestatule ei pea lastijäätmeid üle andma, kui:\n1) rahvusvahelise konventsiooni merereostuse vältimiseks laevadelt kohaselt ei ole üleandmine nõutav;\n2) laeval on järgmise sissesõidusadama pidajaga kirjalik kokkulepe, mille kohaselt võetakse selles sadamas vastu seda liiki lastijäätmeid;\n3) uueks lastiks on sama aine, mis oli eelmiseks lastiks, või kui lasti jäägid kõrvaldatakse tuulutamisega merel või kui lastiraamatusse tehakse sissekanne, milles põhjendatakse lastijäätmete laevale jätmine ning sissekande kinnitab meresõiduohutuse seaduse kohaselt tunnustatud kemikaalitankerite lastimisoperatsioonide ülevaataja.\n(7)\n(8) Sadama pidaja tagab laevajäätmete vastuvõtmise ja käitlemise kavale vastavate piisavate vastuvõtuseadmete kättesaadavuse sadamas, et täita laevajäätmete vastuvõtmisel sadamat tavaliselt külastavate laevade vajadused neile viivitusi põhjustamata.\n(9) Vastuvõtuseadmed on piisavad, kui need suudavad vastu võtta sellist liiki laevajäätmeid sellises koguses, nagu sadamat külastavatel laevadel tavaliselt tekib, võttes arvesse sadama kasutajate tööga seotud vajadusi, sadamat külastavate laevade tüüpi, sadama suurust ja geograafilist asukohta ning käesoleva seaduse §-s 29 sätestatud erandeid laevajäätmete üleandmise kohta.\n(9^1) Kui sadama pidaja ei tegele ise vahetult jäätmekäitlusega, peab tal olema sõlmitud kirjalik leping jäätmete vastuvõtjaga, kes omab vastavat keskkonnakaitseluba ja kellel on teenuse osutamiseks käesoleva seaduse § 26 lõikes 1 nimetatud laevajäätmete vastuvõtmise ja käitlemise kavale vastavad piisavad vastuvõtuseadmed.\n(10) Kui sadama pidajal ei ole võimalik korraldada laevajäätmete vastuvõttu vastuvõtuseadmete ebapiisavuse tõttu, väljastab sadama pidaja laevale teatise ebapiisavate vastuvõtuseadmete kohta.\n(11) Sadama vastuvõtuseadmete väidetavatest puudustest peab laeva kapten elektroonilise mereinfosüsteemi kaudu teavitama Keskkonnaametit ja välisriigis lisaks sadama asukohariigi pädevat asutust.\n(11^1) Käesoleva paragrahvi lõikes 11 nimetatud teate saamisel kontrollib Keskkonnaamet teates nimetatud sadama vastuvõtuseadmete vastavust käesoleva seaduse § 26 lõikes 1 nimetatud laevajäätmete vastuvõtmise ja käitlemise kavale.\n(11^2) Keskkonnaamet teavitab kontrolli tulemustest elektroonilise mereinfosüsteemi kaudu Rahvusvahelist Mereorganisatsiooni ja käesoleva paragrahvi lõikes 11 nimetatud teate esitanud laeva lipuriigi pädevat asutust.\n(12) Laevajäätmete üleandmist ja vastuvõtmist puudutava teabe esitamise nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - KESKKONNAKAITSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "26",
+      "title": "§ 26. Laevajäätmete vastuvõtmise ning käitlemise kava",
+      "content": "(1) Sadama pidaja koostab ja rakendab nõuetekohase laevajäätmete vastuvõtmise ning käitlemise kava. Laevajäätmete vastuvõtmise ning käitlemise kava võib koostada piirkondlikult kõigi sadamate osalusel tingimusel, et vastuvõtuseadmete vajadus ja nende olemasolu täpsustatakse kavas iga sadama puhul eraldi.\n(1^1) Laevajäätmete vastuvõtmise ja käitlemise kava koostamisel ja kava olulisel muutmisel konsulteerib sadama pidaja sadama kasutajate või nende esindajatega, vajaduse korral kohaliku omavalitsuse üksuse pädevate asutuste, jäätmekäitlejate, laiendatud tootjavastutuse kohustusi täitvate organisatsioonide ja kodanikuühiskonna esindajatega.\n(2) Laevajäätmete vastuvõtmise ning käitlemise kava esitab sadama pidaja heakskiitmiseks Keskkonnaametile sadamaregistri vahendusel.\n(3) Laevajäätmete vastuvõtmise ning käitlemise kava tuleb esitada heakskiitmiseks järgmistel juhtudel:\n1) enne sadama registreerimist sadamaregistris;\n2) olemasoleva sadama puhul enne kava rakendamist;\n3) vähemalt iga viie aasta järel;\n4) pärast olulisi muudatusi sadama töös.\n(4) Laevajäätmete vastuvõtmise ning käitlemise kava peab sisaldama järgmisi andmeid ja kirjeldusi:\n1) hinnangut sadama vastuvõtuseadmete vajaduse kohta, arvestades sadamat tavaliselt külastavate laevade vajadusi;\n2) sadama vastuvõtuseadmete liigi ja võimsuse kirjeldust ning asukohta kaide ääres;\n3) laevajäätmete vastuvõtmise ja kogumise protseduuride kirjeldust;\n4) vajaduse korral eelkäitlemise seadmete ja protsesside kirjeldust;\n5) laevajäätmete vastuvõtmisega seotud kulude katmise süsteemi kirjeldust ja laevajäätmete vastuvõtmise tasude suurust;\n6) sadama vastuvõtuseadmete puudustest teatamise korda;\n7)\n7^1) kava muutmisel konsulteerimise korra kirjeldust;\n8) vastuvõetavate ja käideldavate laevajäätmete liike ja koguseid;\n9) vastuvõetavate laevajäätmete kogust näitavate meetodite kirjeldust;\n10) viiteid laevajäätmete üleandmist reguleerivatele õigusaktidele ja laevajäätmete üleandmise protseduuride kokkuvõtet;\n11) kava rakendamise eest vastutava isiku või isikute kontaktandmeid;\n12) sadama vastuvõtuseadmete tegelikku kasutust näitavate meetodite kirjeldust;\n13) laevajäätmete edasise töötlemise kirjeldust.\n(5) Välisriigi veesõidukeid teenindaval sadamal peab käesoleva paragrahvi lõike 4 punktides 2, 3, 5, 8 ja 11 sätestatud teave olema tõlgitud inglise keelde.\n(6) Keskkonnaamet ei kiida laevajäätmete vastuvõtmise ja käitlemise kava heaks, kui see ei vasta käesoleva paragrahvi lõigetes 4 ja 5 sätestatud nõuetele.\n(7) Käesoleva paragrahvi lõigetes 1–6 sätestatud nõudeid ei kohaldata väikesadamale:\n1) kus ei osutata tasulisi sadamateenuseid;\n2) mis on liitunud korraldatud jäätmeveoga;\n3) mille pidaja on taganud, et sadamasse saabunud väikelaevu teavitatakse laevajäätmete vastuvõtmise ja üleandmise korrast, ning\n4) mis on saanud käesoleva paragrahvi lõikes 9 sätestatud Keskkonnaameti hinnangu käesoleva lõike punktides 1–3 sätestatud tingimustele vastavuse kohta.\n(8) Käesoleva paragrahvi lõike 7 punktides 1–3 sätestatud tingimustele vastava väikesadama pidaja teeb vastava info kättesaadavaks sadamaregistris ja teavitab nõuete täitmisest Keskkonnaametit sadamaregistri vahendusel.\n(9) Keskkonnaamet hindab, kas väikesadam vastab käesoleva paragrahvi lõike 7 punktides 1–3 sätestatud tingimustele, ja teavitab oma hinnangust sadama pidajat sadamaregistri vahendusel."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - KESKKONNAKAITSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "27",
+      "title": "§ 27. Laevajäätmetest teavitamine ja laevajäätmete üle arvestuse pidamine",
+      "content": "(1) Kui laeva kogumahutavus on 300 või enam, esitab kapten või laevaagent elektroonilise mereinfosüsteemi kaudu sissesõidusadamale jäätmete eelteatise sadamas üleantavate ning laevale jäävate laevajäätmete liigi ja koguse kohta (edaspidi eelteatis ):\n1) vähemalt 24 tundi enne sadamasse saabumist, kui sissesõidusadam on teada;\n2) viivitamata sissesõidusadama selgumisel, kui see teave on kättesaadav vähem kui 24 tundi enne sissesõidusadamasse saabumist;\n3) hiljemalt lahkumisel eelmisest sissesõidusadamast, kui reis järgmisesse sadamasse kestab alla 24 tunni.\n(2) Eelteatist ei pea esitama:\n1) kalalaev, ajalooline laev ja vaba aja veetmiseks kasutatav veesõiduk, mille pikkus on alla 45 meetri;\n2) sõja- ja piirivalvelaev ning muu riigihaldusülesannet täitev laev;\n3) käesoleva seaduse §-s 29 nimetatud vabastustõendit omav laev.\n(3) Eelteatist säilitatakse kirjalikku taasesitamist võimaldavas vormis laeva pardal vähemalt järgmisest sissesõidusadamast väljumiseni.\n(4) Sadama pidaja teavitab viivitamata elektroonilise mereinfosüsteemi kaudu Keskkonnaametit ja Transpordiametit, kui käesoleva paragrahvi lõikes 2 nimetamata laev ei esita eelteatist või ei anna üle laevajäätmeid või kui laeval avastatakse muid laevajäätmete üleandmise nõuete rikkumisi või tekib kahtlus, et nimetatud nõudeid rikutakse.\n(5) Sadama pidaja korraldab laevadelt vastu võetud laevajäätmete arvestust eelteatiste ning teiste laevajäätmete vastuvõttu tõendavate dokumentide alusel laevade ja laevajäätmete liikide kaupa.\n(6) Sadama pidaja määratud isik või jäätmete vastuvõtja esitab viivituseta elektroonilise mereinfosüsteemi kaudu laeva kaptenile laevajäätmete üleandmise akti üleantud laevajäätmete kohta. Akt või sellel sisalduvad andmed on kättesaadavad Keskkonnaametile ja Transpordiametile elektroonilise mereinfosüsteemi kaudu.\n(7) Laevajäätmete üleandmise akti säilitatakse kirjalikku taasesitamist võimaldavas vormis laeva pardal vähemalt kaks aastat."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - KESKKONNAKAITSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "28",
+      "title": "§ 28. Laevajäätmete vastuvõtmise tasu",
+      "content": "(1) Sadama pidaja on üleantavast kogusest ja sadama vastuvõtuseadmete tegelikust kasutamisest sõltumata kohustatud sadamatasu hulka arvestatud või eraldi kindlaks määratud laevajäätmete vastuvõtmise tasu (edaspidi jäätmetasu ) eest vastu võtma laevajäätmed, välja arvatud lastijäätmed ja heitgaaside puhastussüsteemide tekitatud jäätmed.\n(2) Jäätmetasu peab katma käesoleva paragrahvi lõikes 1 nimetatud laevajäätmete vastuvõtuseadmete käitamise ja haldamisega seotud otsesed ja kaudsed kulud.\n(3) Kui käesoleva paragrahvi lõikes 1 nimetatud üleantavate laevajäätmete maht ületab eelteatises nimetatud maksimaalset ladustamismahtu, tasub jäätmete äraandja või vastuvõtuseadmete kasutaja maksimaalset ladustamismahtu ületavate ja üleantavate laevajäätmete eest jäätmetasu nende liigi ja koguse alusel.\n(4) Lastijäätmete ja heitgaaside puhastussüsteemide tekitatud jäätmete üleandmise eest tasub jäätmete äraandja või vastuvõtuseadmete kasutaja tegelikult üleantud liigi ja koguse alusel.\n(5) Jäätmetasu suuruse määramise alused kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - KESKKONNAKAITSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "29",
+      "title": "§ 29. Laevajäätmete eelteatise esitamisest ja nende üleandmise kohustusest ning jäätmetasu maksmisest vabastamine",
+      "content": "(1) Transpordiamet võib vabastada eelteatise esitamisest, laevajäätmete üleandmisest ja jäätmetasu maksmisest Eesti sadamat külastava laeva, mis teeb kindlal liinil regulaarreise ja külastab sadamat vähemalt üks kord kahe nädala jooksul, kui:\n1) Transpordiametile esitatakse tõendid, et laevajäätmete üleandmine ja jäätmetasu maksmine on tagatud vähemalt ühes laeva teekonnale jäävas sadamas;\n2) vabastuse andmise tulemusel ei vähene laeva meresõiduohutus, ei ole ohustatud inimese tervis, ei halvene töö- ja elamistingimused laeval ega avaldu negatiivne mõju merekeskkonnale.\n(2) Vabastuse saamiseks esitatavas taotluses tuleb Transpordiametile tõendada, et:\n1) laeva reederil on sõlmitud vähemalt ühe laeva teekonnale jääva sadama pidajaga või jäätmekäitlejaga leping jäätmete üleandmiseks ja laeval on laevajäätmete üleandmist tõendavad laevajäätmete üleandmise aktid;\n2) käesoleva lõike punktis 1 nimetatud sadama pidajal või jäätmekäitlejal on piisavad vastuvõtuseadmed;\n3) käesoleva lõike punktides 1 ja 2 nimetatud tingimuste täitmisest on teavitatud kõiki laeva teekonnale jäävaid sadamaid.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud taotluse menetlemise eest tasub taotleja riigilõivu riigilõivuseaduses sätestatud määras.\n(4) Transpordiamet väljastab laevale vabastuse andmisel Euroopa Parlamendi ja nõukogu direktiivi (EL) 2019/883 lisa 5 kohase vabastustõendi ning esitab vabastustõendil oleva teabe elektroonilisse mereinfosüsteemi.\n(5) Laev, millele on väljastatud vabastustõend, peab sadamas laevajäätmed üle andma ja tasuma jäätmetasu, kui juba kogunenud ja kogunevate laevajäätmete ladustamiseks ei ole laeval piisavat ladustamismahtu kuni järgmisesse sissesõidusadamasse jõudmiseni."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "4. peatükk - KESKKONNAKAITSE NÕUDED SADAMATEENUSE OSUTAMISEL",
+      "section": "30",
+      "title": "§ 30. Reostuse kõrvaldamine akvatooriumil",
+      "content": "(1) Sadamas tuleb tagada reostuse viivitamatu lokaliseerimine ja likvideerimine asjakohaste tehniliste vahenditega, arvestades sadama suurust, osutatavaid sadamateenuseid, käideldavaid kaupu ja sadama asukohta.\n(2) Sadama pidaja koostöös sadamaoperaatoriga korraldab sadamas reostuse avastamise ja likvideerimise. Sadama pidaja teavitab viivitamata Häirekeskust reostusjuhtumist. Häirekeskus edastab teabe Kaitseväele, Keskkonnaametile, Politsei- ja Piirivalveametile ning Transpordiametile.\n(3) Sadama pidaja peab koostama akvatooriumilt reostuse avastamise ja likvideerimise kohta sadama reostustõrje plaani.\n(4) Sadama reostustõrje plaanis peavad olema kirjeldatud vähemalt:\n1) tegevused reostuse korral;\n2) reostuse lokaliseerimiseks ja likvideerimiseks kasutatavate tehniliste vahendite nimekiri koos nende sadamas paiknemise skeemiga;\n3) sadama pidaja kohustused reostuse avastamisel ja likvideerimisel;\n4) sadamaoperaatori kohustused reostuse avastamisel ja likvideerimisel oma tegevusalal.\n(5) Sadama reostustõrje plaan esitatakse sadamaregistri vahendusel Kliimaministeeriumile kooskõlastamiseks iga viie aasta järel ning kohe, kui sadamateenuste osutamisel toimub olulisi muudatusi.\n(6) Täpsemad nõuded sadama reostustõrje plaani sisule ja reostustõrje tehnikale kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "5. peatükk - LASTI KÄITLEMINE SADAMAS",
+      "section": "31",
+      "title": "§ 31. Ohtliku lasti käitlemine",
+      "content": "(1) Ohtlikku lasti käideldakse sadamas vastavalt kemikaaliseaduse ja selle alusel kehtestatud õigusaktide ning rahvusvahelise konventsiooni inimelude ohutusest merel VII peatüki ja rahvusvahelise konventsiooni merereostuse vältimiseks laevadelt lisade I kuni III alusel kehtestatud rahvusvaheliste ohtlike lastide mereveo eeskirjade nõuetele.\n(2) Ohtliku lasti käitlemisega tegelev sadama pidaja või sadamaoperaator on kohustatud tagama kontrolli ohtliku lasti sadamasse sisseveo, ladustamise, hoiustamise ja ümberlaadimise üle. Ohtliku lasti käitlemisega tegelev sadama pidaja või sadamaoperaator peab täitma ohtlike ettevõtete ja suurõnnetuse ohuga ettevõtete kohta kehtestatud nõudeid vastavalt kemikaaliseadusele.\n(3) Sadamaoperaator on kohustatud enne ohtliku lasti sadamasse sissevedu, ladustamist, hoiustamist ja ümberlaadimist informeerima sadama pidajat.\n(4) Saabuvast ohtlikust lastist tuleb sadama pidajale ette teatada vähemalt kümme ööpäeva, sadama pidaja nõusolekul võib seda tähtaega lühendada 24 tunnini.\n(5) Ohtliku lasti käitlemisega tegelev sadama pidaja või sadamaoperaator peab määrama ohtlikust lastist teatamise, ohtliku lasti käitlemise, ohtliku lasti üle arvestuse pidamise ja ohtliku lasti vastuvõtmise ja ärasaatmise eest vastutava isiku ning edastama tema kontaktandmed sadamakaptenile.\n(6) Isik, kelle vahetu tööülesanne on ohtliku lasti käitlemine, peab olema läbinud selleks vajaliku väljaõppe ja omama koolituse läbimist tõendavat dokumenti.\n(7) Sadama pidaja või sadamaoperaator peab korraldama käesoleva paragrahvi lõigetes 5 ja 6 nimetatud isikutele vähemalt iga viie aasta järel koolitusi Keskkonnaameti ja Transpordiameti poolt heaks kiidetud programmi alusel."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "5. peatükk - LASTI KÄITLEMINE SADAMAS",
+      "section": "32",
+      "title": "§ 32. Puistlasti käitlemine",
+      "content": "(1) Puistlasti lastimise ja lossimisega tegelev sadama pidaja või sadamaoperaator on kohustatud puistlastilaevade lastimisel ja lossimisel järgima meresõiduohutuse seaduses sätestatud nõudeid.\n(2) Sadama pidaja või sadamaoperaator, kes tegeleb puistlastilaevade, millele kohaldub meresõiduohutuse seaduse § 41 lõike 6 alusel kehtestatud kord, lastimise ja lossimisega, peab tagama, et tema ettevõttes on loodud ja rakendatud nõuetekohane kvaliteedijuhtimise süsteem. Kvaliteedijuhtimise süsteem peab olema sertifitseeritud EVS-EN ISO 9001 ja auditeeritud EVS-EN ISO 19011 või samaväärsete standardite kohaselt."
+    },
+    {
+      "provision_ref": "para32^1",
+      "chapter": "5. peatükk - SADAMATEENUSE OSUTAMINE JA SADAMA FINANTSILISE LÄBIPAISTVUSE TAGAMINE ÜLEEUROOPALISE TRANSPORDIVÕRGU MERESADAMAS",
+      "section": "32^1",
+      "title": "§ 32^1. Kohaldamisala",
+      "content": "Käesolevat peatükki kohaldatakse Euroopa Parlamendi ja nõukogu määruse (EL) nr 1315/2013 üleeuroopalise transpordivõrgu arendamist käsitlevate liidu suuniste kohta ja millega tunnistatakse kehtetuks otsus nr 661/2010/EL (ELT L 348, 20.12.2013, lk 1‒128) II lisas loetletud üleeuroopalise transpordivõrgu meresadamate suhtes."
+    },
+    {
+      "provision_ref": "para32^2",
+      "chapter": "5. peatükk - SADAMATEENUSE OSUTAMINE JA SADAMA FINANTSILISE LÄBIPAISTVUSE TAGAMINE ÜLEEUROOPALISE TRANSPORDIVÕRGU MERESADAMAS",
+      "section": "32^2",
+      "title": "§ 32^2. Konsultatsioonid",
+      "content": "(1) Sadama pidaja konsulteerib Euroopa Parlamendi ja nõukogu määruse (EL) 2017/352 artiklis 15 nimetatud sihtrühmadega samas artiklis nimetatud tema pädevusse jäävates valdkondades, kui ta kavandab nende valdkondade korralduses teha muudatusi.\n(2) Konsultatsioonid korraldatakse sadama pidaja algatusel. Sadama pidaja protokollib konsultatsioonide käigu ja sisu."
+    },
+    {
+      "provision_ref": "para32^3",
+      "chapter": "5. peatükk - SADAMATEENUSE OSUTAMINE JA SADAMA FINANTSILISE LÄBIPAISTVUSE TAGAMINE ÜLEEUROOPALISE TRANSPORDIVÕRGU MERESADAMAS",
+      "section": "32^3",
+      "title": "§ 32^3. Kaebuste lahendamine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/352 kohaldamisest tingitud kaebusi lahendab Konkurentsiamet.\n(2) Kaebuse lahendamisel on Konkurentsiametil õigus nõuda poolelt asjakohast teavet. Teave esitatakse Konkurentsiameti määratud tähtaja jooksul, mis ei ületa üht kuud ja mida võib põhjendatud juhul pikendada kahe nädala võrra.\n(3) Konkurentsiamet teeb kaebuse kohta otsuse kolme kuu jooksul asjakohase teabe saamisest arvates. Otsusega jätab Konkurentsiamet kaebuse rahuldamata või teeb ettekirjutuse rikkumise kõrvaldamiseks.\n(4) Konkurentsiamet jätab kaebuse rahuldamata, kui:\n1) kaebus on põhjendamata või tõendamata;\n2) kaebuse esitaja ei võimalda Konkurentsiametile viimase määratud tähtajaks juurdepääsu tema käsutuses olevale teabele, mis on vajalik kaebuse lahendamiseks;\n3) kaebuse põhjal ei tuvastata rikkumist sadama pidaja tegevuses.\n(5) Käesoleva paragrahvi lõikes 3 nimetatud ettekirjutuse täitmata jätmise korral võib Konkurentsiamet asendustäitmise ja sunniraha seaduses sätestatud korras rakendada sunniraha ülemmääraga 3500 eurot."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "6. peatükk - RIIGIKAITSE ÜLESANNETEGA SADAM",
+      "section": "33",
+      "title": "§ 33. Riigikaitse ülesannetega sadam",
+      "content": "(1) Vabariigi Valitsus määrab korraldusega riigikaitse ülesannetega sadama ning riigikaitse ülesannetega sadama akvatooriumi valdkonna eest vastutava ministri ettepanekul.\n(2) Riigikaitse ülesannetega sadam on suletud kaubanduslikuks meresõiduks ja sellega seonduvaks tegevuseks.\n(3) Käesoleva paragrahvi lõike 1 alusel eraõigusliku isiku omandis oleva sadama määramiseks riigikaitse ülesannetega sadamaks peab Kaitseministeeriumil olema sadama kasutamise kohta sõlmitud sadama maa-ala omanikuga sellekohane kokkulepe. Kokkuleppe olemasolu puhul ja sadama määramisel riigikaitse ülesannetega sadamaks loetakse sellise sadama pidajaks Kaitseministeerium.\n(4) Lisaks käesoleva paragrahvi lõikes 1 nimetatud sadamale on Vabariigi Valitsusel põhjendatud juhtudel õigus valdkonna eest vastutava ministri ettepanekul kehtestada korraldusega piiranguid muus sadamas osutatavatele sadamateenustele perioodiks, mil sadamas viibivad riigikaitse ülesandeid täitvad laevad. Kulud, mis tekivad sadamale seoses kehtestatud piirangutega, kannab piirangu kehtestaja."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "6. peatükk - RIIGIKAITSE ÜLESANNETEGA SADAM",
+      "section": "34",
+      "title": "§ 34. Riigikaitse ülesannetega sadama sadamakapten",
+      "content": "(1) Riigikaitse ülesannetega sadama sadamakapteni määrab ametikohale ja vabastab ametikohalt mereväe ülem.\n(2) Riigikaitse ülesannetega sadamale sadamakapteni määramiseks atesteeritakse sadamakapteni kandidaati vastavalt kaitseväeteenistuse seadusele."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "6. peatükk - RIIGIKAITSE ÜLESANNETEGA SADAM",
+      "section": "35",
+      "title": "§ 35. Riigikaitse ülesannetega sadama eeskiri",
+      "content": "(1) Riigikaitse ülesannetega sadama eeskirja kehtestab kaitseväe juhataja või tema poolt volitatud ülem.\n(2) Riigikaitse ülesannetega sadama eeskirjas peavad olema kirjeldatud vähemalt:\n1) sadama üldandmed;\n2) veesõidukite sadamasse sisenemise korraldus;\n3) veeliikluse korraldus sadama veealal;\n4) veesõidukite seismise korraldus sadamas;\n5) veesõidukite lahkumise korraldus sadamast;\n6) meditsiiniabi korraldus sadamas;\n7) tuleohutusnõuded sadamas ja päästetööde korraldus;\n8) Päästeameti ja muu abi andva või järelevalvet teostava asutuse väljakutsumise kord."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "6. peatükk - RIIGIKAITSE ÜLESANNETEGA SADAM",
+      "section": "36",
+      "title": "§ 36. Riigikaitse ülesannetega sadama turvaülem",
+      "content": "(1) Riigikaitse ülesannetega sadama turvaülema määrab ametikohale ja vabastab ametikohalt mereväe ülem.\n(2) Riigikaitse ülesannetega sadama turvaülemat atesteeritakse vastavalt kaitseväeteenistuse seadusele."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "7. peatükk - SADAMAREGISTER",
+      "section": "37",
+      "title": "§ 37. Sadamaregister",
+      "content": "(1) Sadamaregister on andmekogu, mis peab arvestust sadamate üle, et tagada riigiasutustele seadustest ja teistest õigusaktidest tulenevate veeliikluse ohutuse, turvalisuse ja keskkonnakaitse valdkondliku juhtimise ja korraldamise ülesannete täitmiseks ning riikliku järelevalve teostamiseks vajalikud andmed.\n(2) Sadam peab olema kantud sadamaregistrisse. Taotluse sadama registreerimiseks sadamaregistris esitab sadama pidaja.\n(3) Sadamaregistri vastutav töötleja on Kliimaministeerium. Sadamaregistrit peetakse elektrooniliselt.\n(4) Sadamaregistri pidamise põhimääruse ja käesoleva seaduse § 38 lõikes 1 loetletud registrisse kantavate andmete täpsustatud koosseisu kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "7. peatükk - SADAMAREGISTER",
+      "section": "38",
+      "title": "§ 38. Sadamaregistrisse kantavad andmed",
+      "content": "(1) Sadamaregistrisse kantakse sadama kohta järgmised andmed:\n1) sadama pidaja isiku- või registrikood ning kontaktandmed;\n2) sadama kohta käivad üldandmed, sealhulgas sadama ülesanne ja sadama põhifunktsioonid;\n3) sadama asukoha andmed, sealhulgas geograafilised koordinaadid;\n4) andmed akvatooriumi kohta;\n5) andmed sadama maa-ala kohta;\n6) andmed sadama ehitiste, ujuvkaide ja sadamarajatiste kohta;\n7) andmed sadama ja sadamarajatise turvasüsteemi kohta;\n8) andmed sadama tehniliste vahendite kohta;\n9) andmed sadama navigatsioonimärgistuse kohta;\n10) andmed osutatavate sadamateenuste ja sadamaoperaatorite kohta;\n11) andmed sadamas käideldavate kaubagruppide kohta;\n12) andmed sadamas teenindatavate veesõidukite liikide ja suuruse kohta;\n13) andmed sadama abilaevastiku kohta;\n14) andmed navigatsiooniperioodi kohta;\n15) andmed sadamas laevajäätmete vastuvõtmise kohta;\n16) andmed keskkonnamõju hindamise teostamise kohta ning selle tulemused;\n17) andmed sadamas teostatava riikliku järelevalve kohta, sealhulgas riikliku järelevalve tulemused ja riiklikku järelevalvet teostava ametiisiku tehtud ettekirjutused;\n18) vajaduse korral muud registri eesmärgiga kooskõlas olevad sadama kohta käivad andmed.\n(2) Sadamaregistrisse kantud andmed on avalikud, arvestades seadusest tulenevaid piiranguid. Sadamaregistrisse kantud avalikud andmed tehakse kättesaadavaks sadamaregistri veebilehel."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "7. peatükk - SADAMAREGISTER",
+      "section": "39",
+      "title": "§ 39. Sadamaregistrisse andmeandjad",
+      "content": "(1) Sadamaregistrile esitavad andmeid sadama pidaja ning käesoleva seaduse § 38 lõike 1 punktis 17 nimetatud andmete puhul sadamas riiklikku järelevalvet teostav järelevalveasutus.\n(2) Sadamaregistrisse kantavate andmete muutumisel peab andmeandja esitama viivitamata Transpordiametile muutunud andmed või tegema võimaluse korral kande sadamaregistrisse ise.\n(3) Sadamaregistrisse andmeandja vastutab esitatud andmete õigsuse eest."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "7. peatükk - SADAMAREGISTER",
+      "section": "40",
+      "title": "§ 40. Sadama registreerimine sadamaregistris",
+      "content": "(1) Sadama registreerimiseks sadamaregistris esitab sadama pidaja Transpordiametile käesoleva seaduse § 38 lõike 1 punktides 1–16 loetletud andmed.\n(2) Transpordiametil on õigus küsida täiendavaid dokumente ja lisaandmeid, kui see on kooskõlas registri eesmärgiga ja vajalik sadama registrisse kandmiseks.\n(3) Transpordiamet registreerib sadama sadamaregistris 30 tööpäeva jooksul pärast käesoleva seaduse § 38 lõike 1 punktides 1–16 loetletud andmete ning käesoleva paragrahvi lõike 2 kohaste lisaandmete ja dokumentide esitamist.\n(4) Sadama registreerimise eest tuleb tasuda riigilõivu. Registrikande muutmise eest tasutakse riigilõivu, välja arvatud sadama sadamaregistrist kustutamise eest, sadama pidaja tehtud registrikande muutmise eest ning käesoleva seaduse § 1 lõike 2 punktis 2 nimetatud väikesadama registreerimise eest.\n(5) Sadama registreerimistaotlusel kajastatavate andmete loetelu kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "7. peatükk - SADAMAREGISTER",
+      "section": "41",
+      "title": "§ 41. Sadama sadamaregistrist kustutamine",
+      "content": "Sadam kustutatakse sadamaregistrist järgmistel juhtudel:\n1)\n2) juriidilisest isikust sadama pidaja lõpetamisel ilma õigusjärgluseta;\n3)\n4) kui sadamas lõpetatakse sadamateenuste osutamine."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "8. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "42",
+      "title": "§ 42. Riiklik järelevalve",
+      "content": "(1) Riiklikku järelevalvet laevadelt ja muudelt veesõidukitelt laevajäätmete vastuvõtmise üle sadamas, sadama laevajäätmete vastuvõtmise ja käitlemise kava ning reostustõrje plaani väljatöötamise ja rakendamise üle, kaasa arvatud järelevalvet nõukogu määruse (EÜ) nr 41/2007/EÜ, millega määratakse 2007. aastaks kindlaks teatavate kalavarude ja kalavarurühmade püügivõimalused ning tingimused, mida kohaldatakse ühenduse vetes ning ühenduse kalalaevade suhtes püügipiirangutega vetes (ELT L 15, 20.01.2007, lk 1–213), kohaste laevade, mille puhul on kinnitust leidnud tegelemine ebaseadusliku kalapüügiga, sadamas toidu, kütuse ja muude teenustega varustamise nõuete täitmise üle teostab Keskkonnaamet.\n(2) Riiklikku järelevalvet laevadelt ja muudelt veesõidukitelt laevajäätmete üleandmise üle teostavad Keskkonnaamet ja Transpordiamet, arvestades muu hulgas Euroopa Parlamendi ja nõukogu direktiivi (EL) 2019/883 artikli 11 lõike 2 alusel kehtestatud Euroopa Komisjoni rakendusmääruses sätestatut.\n(3) Riiklikku järelevalvet teiste käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle teostab Transpordiamet.\n(4) Riiklikku järelevalvet §-s 12^1 sätestatud nõuete täitmise üle teostab Tarbijakaitse ja Tehnilise Järelevalve Amet.\n(5)"
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "8. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "43",
+      "title": "§ 43. Riikliku järelevalve erimeetmed",
+      "content": "(1) Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras.\n(2)"
+    },
+    {
+      "provision_ref": "para43^1",
+      "chapter": "8. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "43^1",
+      "title": "§ 43^1. Riikliku järelevalve erisused",
+      "content": "Keskkonnaamet võib korrakaitseseaduse §-des 49 ja 50 sätestatud erimeetmeid kohaldada ka olulise ohu väljaselgitamiseks ja tõrjumiseks ning korrarikkumise kõrvaldamiseks."
+    },
+    {
+      "provision_ref": "para43^2",
+      "chapter": "8. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "43^2",
+      "title": "§ 43^2. Vahetu sunni kasutamine",
+      "content": "Keskkonnaametil on lubatud kasutada füüsilist jõudu korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "8. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "44",
+      "title": "§ 44. Sunniraha määr",
+      "content": "(1) Ettekirjutuse täitmata jätmise korral võib korrakaitseorgan rakendada asendustäitmist või sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on füüsilisele isikule 960 eurot, juriidilise isiku puhul 3200 eurot.\n(2)"
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "48",
+      "title": "§ 48. Sadama ja sadamarajatise turvanõuete rikkumine",
+      "content": "(1) Sadama ja sadamarajatise turvanõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "51",
+      "title": "§ 51. Laevajäätmetest ja ohtlikust lastist teavitamise ning laevajäätmete ja ohtliku lasti üleandmise ja vastuvõtmise nõuete rikkumine",
+      "content": "(1) Laevajäätmetest ja ohtlikust lastist teavitamise või laevajäätmete ja ohtliku lasti üleandmise või vastuvõtmise nõuete rikkumise või ebapiisavate vastuvõtuseadmete kohta laevale või muule veesõidukile teatise esitamata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para56^1",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "56^1",
+      "title": "§ 56^1. Puudega või piiratud liikumisvõimega reisijale sadamas abi osutamata jätmine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 1177/2010 artiklis 10 sätestatud nõude täitmata jätmise eest – karistatakse rahatrahviga kuni 150 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para56^2",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "56^2",
+      "title": "§ 56^2. Tühistatud või hilinenud väljumisest reisija teavitamise nõude eiramine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 1177/2010 artiklis 16 sätestatud nõude täitmata jätmise eest – karistatakse rahatrahviga kuni 150 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para56^3",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "56^3",
+      "title": "§ 56^3. Reisiteabe andmata jätmine sadamas",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 1177/2010 artiklis 22 sätestatud nõude täitmata jätmise eest – karistatakse rahatrahviga kuni 150 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "9. peatükk - VASTUTUS",
+      "section": "57",
+      "title": "§ 57. Menetlus",
+      "content": "(1) Käesoleva seaduse §-des 48 ja 51 sätestatud väärtegude kohtuväline menetleja on Transpordiamet.\n(1^1)\n(2) Käesoleva seaduse §-s 51 sätestatud väärteo kohtuväline menetleja on Keskkonnaamet.\n(3) Käesoleva seaduse §-des 56^1–56^3 sätestatud väärtegude kohtuväline menetleja on Tarbijakaitse ja Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "10. peatükk - RAKENDUSSÄTTED",
+      "section": "58",
+      "title": "§ 58. Reostustõrje plaanide kooskõlastamiseks esitamine",
+      "content": "Käesoleva seaduse jõustumisel tuleb sadama reostustõrje plaan esitada Keskkonnaministeeriumile kooskõlastamiseks hiljemalt 2010. aasta 1. jaanuariks."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "10. peatükk - RAKENDUSSÄTTED",
+      "section": "59",
+      "title": "§ 59. Käesoleva seaduse 7. peatüki rakendamine",
+      "content": "(1) Enne käesoleva seaduse jõustumist sadamaregistrisse kantud sadama kannab registri volitatud töötleja üle käesoleva seaduse alusel asutatud sadamaregistrisse.\n(2) Käesoleva paragrahvi lõikes 1 sadamaregistrisse kantud sadama sadama pidaja peab registriandmed üle vaatama ja ajakohastama hiljemalt 2010. aasta 1. jaanuariks.\n(3) Sadam, mis ei ole enne käesoleva seaduse jõustumist kantud sadamaregistrisse, tuleb kanda sadamaregistrisse hiljemalt 2010. aasta 1. jaanuariks."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "10. peatükk - RAKENDUSSÄTTED",
+      "section": "60",
+      "title": "§ 60. Käesoleva seaduse kohaldamine olemasolevatele akvatooriumitele",
+      "content": "Enne käesoleva seaduse jõustumist kehtestatud akvatoorium kehtib kuni selle käesoleva seaduse alusel muutmise või kehtetuks tunnistamiseni."
+    },
+    {
+      "provision_ref": "para60^1",
+      "chapter": "10. peatükk - RAKENDUSSÄTTED",
+      "section": "60^1",
+      "title": "§ 60^1. Enne 2021. aasta 1. juunit väljastatud tegevusload",
+      "content": "(1) Enne 2021. aasta 1. juunit väljastatud sadama turvaettevõtja tähtajaline tegevusluba muutub alates 2021. aasta 1. juunist tähtajatuks.\n(2) Isikul, kellel on enne 2021. aasta 1. juunit väljastatud kehtiv reederi ning laeva, sadama ja sadamarajatise turvaülema väljaõppe korraldamise tegevusluba, on sama tegevusloa alusel õigus alates 2021. aasta 1. juunist tegutseda sadama ja sadamarajatise turvaülema väljaõppe korraldamise tegevusalal."
+    },
+    {
+      "provision_ref": "para60^2",
+      "chapter": "10. peatükk - RAKENDUSSÄTTED",
+      "section": "60^2",
+      "title": "§ 60^2. Käesoleva seaduse § 26 lõike 3 punkti 3 kohaldamine varem heaks kiidetud laevaheitmete ja lastijäätmete vastuvõtmise ning käitlemise kavadele",
+      "content": "Käesoleva seaduse § 26 lõike 3 punktis 3 sätestatud viieaastast tähtaega kohaldatakse ka enne käesoleva paragrahvi jõustumist Keskkonnaameti heaks kiidetud laevaheitmete ja lastijäätmete vastuvõtmise ning käitlemise kavadele, mille heakskiitmisest on käesoleva paragrahvi jõustumise ajaks möödunud vähem kui kolm aastat."
+    },
+    {
+      "provision_ref": "para60^3",
+      "chapter": "10. peatükk - RAKENDUSSÄTTED",
+      "section": "60^3",
+      "title": "§ 60^3. Sadama lisateenuste loetelu täiendamine",
+      "content": "Kliimaministeerium on kohustatud alates 2026. aastast igal kalendriaastal hindama käesoleva seaduse § 3 lõikes 4 nimetatud sadama lisateenuste loetelu ajakohasust ning vajaduse korral seda täiendama."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "10. peatükk - RAKENDUSSÄTTED",
+      "section": "61",
+      "title": "§ 61.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "10. peatükk - RAKENDUSSÄTTED",
+      "section": "69",
+      "title": "§ 69.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "sadam",
+      "definition": "veesõidukite sildumiseks kohandatud ja sadamateenuse osutamiseks kasutatav maa- ja veeala ning seal asuvad sadama sihtotstarbeliseks kasutamiseks vajalikud ehitised (edaspidi sadamaehitis )",
+      "source_provision": "para2"
+    },
+    {
+      "term": "sadama akvatoorium (edaspidi akvatoorium )",
+      "definition": "piiritletud veetee osa, mis on vajalik veesõidukite ohutu sildumise korraldamiseks ning kus sadama pidaja vastutab veeliikluse ohutuse, turvalisuse ja keskkonnakaitse nõuete täitmise eest",
+      "source_provision": "para2"
+    },
+    {
+      "term": "sadama pidaja",
+      "definition": "isik, kes korraldab sadama tegevust tervikuna",
+      "source_provision": "para2"
+    },
+    {
+      "term": "sadamaoperaator",
+      "definition": "isik, kes osutab sadamateenuseid sadama pidajaga sõlmitud lepingu alusel",
+      "source_provision": "para2"
+    },
+    {
+      "term": "sadama navigatsioonimärgistus",
+      "definition": "sadamasse sissesõiduks, sadamast väljasõiduks ja sadamasiseseks veeliikluseks vajalik navigatsioonimärgistus",
+      "source_provision": "para2"
+    },
+    {
+      "term": "sadama eeskiri",
+      "definition": "sadamateenuste osutamisele esitatavad käitus-, navigatsiooni-, keskkonna-, ohutus- ja muud nõuded ning info sadama kohta",
+      "source_provision": "para2"
+    },
+    {
+      "term": "sadamakapten",
+      "definition": "sadamas ohutut veeliiklust ja veesõidukite ohutut seismist korraldav isik",
+      "source_provision": "para2"
+    },
+    {
+      "term": "sadama turvaülem",
+      "definition": "sadamas turvanõuete täitmist korraldav isik",
+      "source_provision": "para2"
+    },
+    {
+      "term": "sadamarajatis",
+      "definition": "sadama maa-alal või akvatooriumil (edaspidi mõlemad koos sadamaala ) turvanõuete täitmiseks määratud laeva ja sadama vahelise koostöö ja liidese koht, mis hõlmab vajaduse korral ka sadama territooriumi, akvatooriumi ja sissesõiduteed",
+      "source_provision": "para2"
+    },
+    {
+      "term": "laeva ja sadama vaheline liides",
+      "definition": "vastastikune mõju, mis tekib ajal, mil laev on otseselt ja vahetult seotud tegevusega, mis hõlmab inimeste või kaupade liikumist või sadamateenuste osutamist laevale või laevalt",
+      "source_provision": "para2"
+    },
+    {
+      "term": "sadamarajatise turvaülem",
+      "definition": "sadamarajatise turvanõuete täitmist korraldav isik",
+      "source_provision": "para2"
+    },
+    {
+      "term": "turvaettevõtja",
+      "definition": "ettevõtja, kes võib täita käesolevas seaduses sätestatud ülesandeid, kes tegutseb turvategevuse seaduse alusel turvamise või turvaauditi tegevusalal ja kellel on käesoleva seaduse §-s 18 sätestatud tegevusluba",
+      "source_provision": "para2"
+    },
+    {
+      "term": "turvatase",
+      "definition": "riskimäär, millele vastavalt rakendatakse turvaintsidendi ärahoidmiseks kaitse- ja turvameetmeid",
+      "source_provision": "para2"
+    },
+    {
+      "term": "turvaintsident",
+      "definition": "vahejuhtum, tegu või asjaolu, mis võib ohustada laeva, laeva ja sadama vahelise liidese või sadama ja sadamarajatise turvalisust",
+      "source_provision": "para2"
+    },
+    {
+      "term": "sadama sissesõidutee (edaspidi sissesõidutee )",
+      "definition": "laevatee osa, mis võimaldab veesõidukil sadamasse siseneda ja sadamast väljuda ning kus selleks on vajalik korraldada veeliiklust. Sissesõiduteena käsitatakse ka sadamate ühist sissesõiduteed ja sissesõiduteed, mis läbib teise sadama akvatooriumit",
+      "source_provision": "para2"
+    },
+    {
+      "term": "riigikaitse ülesannetega sadam",
+      "definition": "sadam, mis on ette nähtud üksnes sõjalaevade ja mereväe abilaevade sildumiseks ja teenindamiseks",
+      "source_provision": "para2"
+    },
+    {
+      "term": "riigihaldusülesannetega sadam",
+      "definition": "sadam, mis on ette nähtud üksnes riigihaldusülesandeid täitvate laevade sildumiseks ja teenindamiseks",
+      "source_provision": "para2"
+    },
+    {
+      "term": "väikesadam",
+      "definition": "sadam või sadama osa, kus osutatakse sadamateenuseid 24-meetrise ja väiksema kogupikkusega veesõidukitele",
+      "source_provision": "para2"
+    },
+    {
+      "term": "laevajäätmed",
+      "definition": "kõik jäätmed, mis tekivad veesõiduki töö käigus või lastimis-, lossimis- ja koristustööde ajal, sealhulgas lastijäätmed, ja mis kuuluvad rahvusvahelise laevade põhjustatava merereostuse vältimise konventsiooni (edaspidi MARPOL ) I, II, IV, V ja VI lisa kohaldamisalasse, ning kutselisel kalapüügil püügivahendiga passiivselt püütud jäätmed",
+      "source_provision": "para2"
+    },
+    {
+      "term": "lastijäätmed",
+      "definition": "pärast lastimist, lossimist ja koristustööde lõpetamist veesõiduki tekile, lastiruumi või -mahutisse jäänud lasti jäägid, sealhulgas lastimise ja lossimise ülejäägid, välja arvatud lastitolm, mis jääb tekile pärast pühkimist, või laeva välispindadel olev tolm",
+      "source_provision": "para2"
+    },
+    {
+      "term": "prügi",
+      "definition": "MARPOL V lisas määratletud veesõiduki tavapärase tegevuse käigus tekkivad mis tahes liiki toidu-, olme- ja muud jäätmed, millest on vaja pidevalt või perioodiliselt vabaneda, välja arvatud toorkala ja selle osad ning ained, mis on määratletud või nimetatud MARPOL-i teistes lisades",
+      "source_provision": "para2"
+    },
+    {
+      "term": "reovesi",
+      "definition": "MARPOL IV lisas määratletud mis tahes tüüpi tualeti, pissuaari, bidee või WC äravooluava kaudu ärajuhitud vedelik või muud jäätmed, meditsiiniruumis (dispanser, haiglasektsioon) asuva pesuvanni, pesutorustiku või äravooluava kaudu ärajuhitud vedelik, elusloomi sisaldavast ruumist ärajuhitud vedelik või eespool loetletud ärajuhitud vedelike või jäätmetega segunenud muu reovesi",
+      "source_provision": "para2"
+    },
+    {
+      "term": "lastiga seotud jäätmed",
+      "definition": "veesõiduki pardal lasti kinnitamise või käitlemise tulemusel jäätmeteks muutunud mis tahes materjalid, seahulgas näiteks pakkimispuit, tõstealused, vooderdus- ja pakkematerjalid, vineer, paber, papp, terastrossid ja -tropid ning muu selline",
+      "source_provision": "para2"
+    },
+    {
+      "term": "sadama vastuvõtuseadmed",
+      "definition": "paiksed, ankurdatud või liikuvad seadmed, millega saab vastu võtta laevajäätmeid",
+      "source_provision": "para2"
+    }
+  ]
+}

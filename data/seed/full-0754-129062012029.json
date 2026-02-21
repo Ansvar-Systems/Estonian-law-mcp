@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-129062012029",
+  "type": "statute",
+  "title": "Korruptsioonivastane seadus",
+  "title_en": "Korruptsioonivastane seadus",
+  "short_name": "ee-law-129062012029",
+  "status": "in_force",
+  "issued_date": "1999-01-27",
+  "in_force_date": "2013-04-01",
+  "url": "https://www.riigiteataja.ee/akt/129062012029.xml",
+  "description": "Official consolidated statute text (Korruptsioonivastane seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

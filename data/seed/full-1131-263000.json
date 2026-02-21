@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-263000",
+  "type": "statute",
+  "title": "Rahvusvahelise õhuveo nõuete ühtlustamise konventsiooni ratifitseerimise seadus",
+  "title_en": "Rahvusvahelise õhuveo nõuete ühtlustamise konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-263000",
+  "status": "in_force",
+  "issued_date": "2003-01-29",
+  "in_force_date": "2003-03-15",
+  "url": "https://www.riigiteataja.ee/akt/263000.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise õhuveo nõuete ühtlustamise konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud rahvusvahelise õhuveo nõuete ühtlustamise konventsioon, mis on koostatud 1999. aasta 28. mail Montrealis ning millele Eesti Vabariik on alla kirjutanud 2002. aasta 4. veebruaril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Konventsiooni artiklis 24 nimetatud vedaja vastutuse piirmäärade muutmise kinnitamise otsustab Vabariigi Valitsus. Riigikogu aseesimees Tunne KELAM"
+    }
+  ],
+  "definitions": []
+}

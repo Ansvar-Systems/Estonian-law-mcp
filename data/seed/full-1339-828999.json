@@ -1,0 +1,39 @@
+{
+  "id": "ee-law-828999",
+  "type": "statute",
+  "title": "Tolliasutuste vastastikuse abi ja koostöö konventsiooniga ühinemise seadus",
+  "title_en": "Tolliasutuste vastastikuse abi ja koostöö konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-828999",
+  "status": "in_force",
+  "issued_date": "2004-12-08",
+  "in_force_date": "2005-01-07",
+  "url": "https://www.riigiteataja.ee/akt/828999.xml",
+  "description": "Official consolidated statute text (Tolliasutuste vastastikuse abi ja koostöö konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Konventsiooniga ühinemine",
+      "content": "Ühineda juurdelisatud tolliasutuste vastastikuse abi ja koostöö konventsiooniga (edaspidi konventsioon ), mis on koostatud Brüsselis 1997. aasta 18. detsembril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Deklaratsioonid",
+      "content": "Kooskõlas konventsiooni artikli 20 lõikega 6 tehakse ühinemisel järgmised deklaratsioonid:\n1) vastavalt konventsiooni artikli 20 lõike 2 punktile a deklareerib Eesti Vabariik, et teise liikmesriigi jälitavatel ametnikel ei ole õigus Eesti Vabariigi territooriumil isikut kinni pidada;\n2) vastavalt konventsiooni artikli 20 lõikele 3 deklareerib Eesti Vabariik, et jälitus, mida jätkatakse pärast piiriületamist, ei ole ruumiliselt ega ajaliselt piiratud;\n3) vastavalt konventsiooni artikli 20 lõike 4 punktile e deklareerib Eesti Vabariik, et jälitavad ametnikud võivad kanda oma teenistusrelva vastastikkuse põhimõttel;\n4) vastavalt konventsiooni artikli 26 lõikele 4 deklareerib Eesti Vabariik, et Eesti kohus võib taotleda pooleliolevas asjas Euroopa Ühenduste Kohtu eelotsust konventsiooni tõlgendamise kohta, kui Eesti kohtu arvates on tõlgendamise küsimus vaja lahendada otsuse tegemiseks;\n5) vastavalt konventsiooni artikli 32 lõikele 4 deklareerib Eesti Vabariik, et konventsiooni, välja arvatud artiklit 23, kohaldatakse Eesti Vabariigi ja samasuguse deklaratsiooni teinud liikmesriigi vahelistes suhetes."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Juhtimisüksuse määramine",
+      "content": "Maksu- ja Tolliameti peadirektoril määrata konventsiooni artikli 5 lõikes 1 nimetatud keskne juhtimisüksus."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4. Pädevate asutuste määramine",
+      "content": "Määrata tolliasutuste vastastikuse abi ja koostöö konventsiooni:\n1) artikli 20 lõikes 1 ja artikli 21 lõikes 1 nimetatud teabe edastajaks Maksu- ja Tolliamet;\n2) artikli 21 lõikes 1 nimetatud asutuseks, kellele saadetakse piiriülese jälgimise taotlus, Maksu- ja Tolliamet. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

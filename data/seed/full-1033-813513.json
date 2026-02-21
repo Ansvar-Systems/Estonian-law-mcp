@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-813513",
+  "type": "statute",
+  "title": "Põhja-Atlandi lepingu osalisriikide vahelise relvajõudude staatust reguleeriva kokkuleppega ja protokolliga Põhja-Atlandi lepingu alusel loodud rahvusvaheliste sõjaliste peakorterite staatuse kohta ühinemise seadus",
+  "title_en": "Põhja-Atlandi lepingu osalisriikide vahelise relvajõudude staatust reguleeriva kokkuleppega ja protokolliga Põhja-Atlandi lepingu alusel loodud rahvusvaheliste sõjaliste peakorterite staatuse kohta ühinemise seadus",
+  "short_name": "ee-law-813513",
+  "status": "in_force",
+  "issued_date": "2004-10-20",
+  "in_force_date": "2004-11-05",
+  "url": "https://www.riigiteataja.ee/akt/813513.xml",
+  "description": "Official consolidated statute text (Põhja-Atlandi lepingu osalisriikide vahelise relvajõudude staatust reguleeriva kokkuleppega ja protokolliga Põhja-Atlandi lepingu alusel loodud rahvusvaheliste sõjaliste peakorterite staatuse kohta ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud Põhja-Atlandi lepingu osalisriikide vahelise relvajõudude staatust reguleeriva kokkuleppega, mis on sõlmitud 1951. aasta 19. juunil Londonis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühineda juurdelisatud protokolliga Põhja-Atlandi lepingu alusel loodud rahvusvaheliste sõjaliste peakorterite staatuse kohta, mis on sõlmitud 1952. aasta 28. augustil Pariisis."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Käesolev seadus jõustub Riigi Teatajas avaldamisele järgneval päeval. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

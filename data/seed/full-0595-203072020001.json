@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-203072020001",
+  "type": "statute",
+  "title": "Isikuandmete automatiseeritud töötlemisel isiku kaitse konventsiooni muutmise protokolli ratifitseerimise seadus",
+  "title_en": "Isikuandmete automatiseeritud töötlemisel isiku kaitse konventsiooni muutmise protokolli ratifitseerimise seadus",
+  "short_name": "ee-law-203072020001",
+  "status": "in_force",
+  "issued_date": "2020-06-18",
+  "in_force_date": "2020-07-13",
+  "url": "https://www.riigiteataja.ee/akt/203072020001.xml",
+  "description": "Official consolidated statute text (Isikuandmete automatiseeritud töötlemisel isiku kaitse konventsiooni muutmise protokolli ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud isikuandmete automatiseeritud töötlemisel isiku kaitse konventsiooni muutmise protokoll, mis on koostatud 2018. aasta 18. mail ja millele Eesti Vabariik on alla kirjutanud 2018. aasta 10. oktoobril Strasbourgis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Protokolli artikli 37 lõike 3 alusel deklareerib Eesti Vabariik, et kohaldab protokolli ajutiselt kuni selle jõustumiseni."
+    }
+  ],
+  "definitions": []
+}

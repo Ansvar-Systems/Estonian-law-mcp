@@ -1,0 +1,373 @@
+{
+  "id": "ee-law-103072014022",
+  "type": "statute",
+  "title": "Teadus- ja arendustegevuse korralduse seadus",
+  "title_en": "Teadus- ja arendustegevuse korralduse seadus",
+  "short_name": "ee-law-103072014022",
+  "status": "in_force",
+  "issued_date": "1997-03-26",
+  "in_force_date": "2015-01-01",
+  "url": "https://www.riigiteataja.ee/akt/103072014022.xml",
+  "description": "Official consolidated statute text (Teadus- ja arendustegevuse korralduse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Teadus- ja arendustegevuse korralduse seaduse ülesanne",
+      "content": "Teadus- ja arendustegevuse korralduse seaduse ülesanne on sätestada teadus- ja arendustegevuse korralduse alused, kindlustada teadus- ja tehnoloogialoome kui eesti kultuuri ja majanduse koostisosa säilimise ning edasise arengu õiguslikud vahendid."
+    },
+    {
+      "provision_ref": "para1^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1^1",
+      "title": "§ 1^1. Haldusmenetluse seaduse kohaldamine",
+      "content": "Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi"
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Seaduses kasutatavad mõisted",
+      "content": "Käesolevas seaduses kasutatakse mõisteid järgmises tähenduses:\n1) alusuuringud – algupärased teoreetilised või eksperimentaalsed uuringud uute teadmiste saamiseks nähtuste ja sündmuste põhialuste kohta, seadmata eesmärgiks saadud teadmiste kohest rakendamist;\n2) arendustegevus – uuringute ja kogemuste kaudu saadud teadmiste rakendamine uute materjalide, toodete ja seadmete tootmiseks, protsesside, süsteemide ja teenuste juurutamiseks või nende oluliseks täiustamiseks;\n3) baasfinantseerimine – teadus- ja arendustegevuse finantseerimine teadus- ja arendusasutuse arengueesmärkide saavutamiseks, sealhulgas riigisiseste ja -väliste projektide kaasfinantseerimiseks, uute uurimissuundade avamiseks ning infrastruktuuri investeerimiseks;\n4)\n5) innovatsioon – uute ideede ja teadmiste kasutamine uudsete lahenduste rakendamiseks, mis hõlmab toodete ja teenuste väljatöötamist ning uuendamist (tooteinnovatsioon); vastavate turgude hõivamist ja laiendamist (turuinnovatsioon); uute tootmis-, tarne- ja müügimeetodite loomist ning juurutamist (protsessiinnovatsioon); uuendusi juhtimises ja töökorralduses (organisatsiooniinnovatsioon) ning töötingimuste ja personali oskuste arendamist (personaliinnovatsioon);\n5^1) järeldoktor – teadlane, kellel on doktorikraadi kaitsmisest või välisriigi samaväärse kvalifikatsiooni omandamisest möödunud mitte rohkem kui viis aastat, välja arvatud lapsehoolduspuhkusel ning kaitseväeteenistuses viibimise aeg, ning kes viib kas uurija-professori, juhtivteaduri, vanemteaduri, professori või dotsendi juhendamisel läbi alus- ja rakendusuuringuid või arendustegevust, täidab iseseisvalt uurimis- või arendustegevuse uurimisteemat või projekti või vastutab selle oluliste lõikude täitmise eest. Järeldoktor võib juhendada doktorante;\n6) rakendusuuringud – algupärased uuringud uute teadmiste saamiseks esmase eesmärgiga rakendada saadud teadmisi kindlas valdkonnas suhteliselt lühikese aja jooksul;\n7) teadustegevus – isiku loomevabadusel põhinev tegevus, mille eesmärk on teaduslike uuringute abil uute teadmiste saamine inimese, looduse ja ühiskonna ning nende vastastikuse toime kohta;\n7^1) teadustöötaja atesteerimine – teadustöötaja töötulemuste ja ametikohale esitatavatele nõuetele vastavuse perioodiline hindamine, mille eesmärk on toetada teadustöötaja arengut ja karjäärivõimalusi ning määrata kindlaks atesteeritava töötaja sobivus ametikohale;\n8) uurimistoetus – teadus- ja arendusasutuse kõrgetasemelise teadus- ja arendustegevuse ja sellega kaasnevate tegevuste (uurimisteemade) rahastamiseks, teadus- ja arendusasutuse teadus- ja arendustegevuse järjepidevuse tagamiseks ning selleks vajaliku infrastruktuuri ajakohastamiseks, täiendamiseks ning ülalpidamiseks eraldatav toetus (institutsionaalne uurimistoetus) või teadus- ja arendusasutuses töötava isiku või uurimisrühma kõrgetasemelise teadus- ja arendustegevuse projekti rahastamiseks eraldatav toetus (personaalne uurimistoetus), sealhulgas magistrandi ja doktorandi teadustöö stipendium ja järeldoktori teadustöö toetamiseks eraldatav toetus."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Teadus- ja arendusasutused",
+      "content": "(1) Teadus- ja arendusasutus on juriidiline isik või asutus, mille:\n1) põhitegevus on alusuuringute, rakendusuuringute või arendustegevuse või mitme nimetatud tegevuse läbiviimine;\n2) põhitegevusega kaasnevaks tegevuseks on levitada teadmisi õpetamise, publitseerimise või tehnoloogiasiirde kaudu;\n3) liikmeskonda kuuluvad põhitegevuse läbiviimiseks vajalikud teadustöötajad;\n4) hooned, ruumid, sisustus ja muu vara on piisavad ning sobivad põhitegevuse läbiviimiseks;\n5) riigieelarvelistest vahenditest finantseeritud põhitegevuse tulemused, millega ei kaasne intellektuaalomandiõigused, on avalik teave;\n6) käesoleva lõike punktides 1 ja 2 nimetatud tegevuste tulemustest, sealhulgas intellektuaalomandiõigustest saadud kasum, investeeritakse teadus- ja arendustegevusse, selle tulemuste levitamisse või õpetamisse;\n7) majandustegevus (toodete ja teenuste pakkumine teataval turul) ja käesoleva lõike punktides 1 ja 2 nimetatud tegevused, mis vastavad punktide 5 ja 6 nõuetele (mittemajanduslik tegevus), nende kulud ja rahastamine on teadus- ja arendusasutuse raamatupidamises selgelt eristatud.\n(2) Teadus- ja arendusasutusel on õigus taotleda käesolevas seaduses sätestatud alusel oma teadus- ja arendustegevuse finantseerimist riigieelarvest juhul, kui tema teadus- ja arendustegevus on vähemalt ühes valdkonnas korraliselt positiivselt evalveeritud."
+    },
+    {
+      "provision_ref": "para3^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3^1",
+      "title": "§ 3^1. Eesti Teadusinfosüsteem",
+      "content": "(1) Eesti Teadusinfosüsteem on riiklik register avaliku teabe seaduse mõistes, milles koondatakse ühtseks tervikuks Eesti teadus- ja arendustegevusega seotud andmed.\n(2) Eesti Teadusinfosüsteemi vastutav töötleja on Haridus- ja Teadusministeerium.\n(3) Eesti Teadusinfosüsteemi kuuluvad järgmised alamregistrid:\n1) teadus- ja arendustegevusega seotud asutuste alamregister, milles peetakse arvestust teadus- ja arendusasutuste ning teiste teadus- ja arendustegevusega seotud juriidiliste isikute ja asutuste üle;\n2) teadus- ja arendustegevusega seotud isikute alamregister, milles peetakse arvestust teadus- ja arendusasutuste teadustöötajate, teadus- ja arendustegevust administreeriva personali ja finantseerimise või evalveerimise taotlustes nimetatud isikute üle;\n3) teadus- ja arendustegevuse finantseerimise ning evalveerimise alamregister, milles kogutakse teadus- ja arendustegevusega seotud asutuste tegevuse planeerimiseks ja rahastamiseks ning eelarvete koostamiseks vajalikke andmeid;\n4) teadus- ja arendustegevuse ning selle tulemuste alamregister, milles kogutakse teadus- ja arendustegevusega seotud asutuste ja isikute edukuse ja tulemlikkuse hindamiseks vajalikke andmeid.\n(4) Eesti Teadusinfosüsteemi asutab ja registri pidamise põhimääruse kehtestab Vabariigi Valitsus määrusega.\n(5) Eesti Teadusinfosüsteemi valdkondlikud klassifikaatorid kinnitab valdkonna eest vastutav minister käskkirjaga.\n(6) Eesti Teadusinfosüsteemi kantud andmetel on informatiivne tähendus. Andmete Eesti Teadusinfosüsteemi kandmine ei too endaga kaasa õiguslikke tagajärgi, kui käesolevas seaduses või teistes õigusaktides ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Eesti Teaduste Akadeemia",
+      "content": "(1) Eesti Teaduste Akadeemia on kõrge teadusliku kvalifikatsiooniga teadlaste ühendus, mille ülesandeks on aidata kaasa Eesti teaduse arengule ja taseme tõstmisele ning teadustulemuste rakendamisele Eesti huvides.\n(2) Eesti Teaduste Akadeemia on avalik-õiguslik juriidiline isik, kes tegutseb Eesti Teaduste Akadeemia seaduse, käesoleva seaduse, teiste õigusaktide ja oma põhikirja alusel."
+    },
+    {
+      "provision_ref": "para4^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4^1",
+      "title": "§ 4^1. Teadusraamatukogu",
+      "content": "(1) Teadusraamatukogu on avalikku teenust osutav raamatukogu, mille ülesanne on teadusinformatsiooni kogumine, säilitamine, töötlemine ja kättesaadavaks tegemine.\n(2)\n(3) Teadusraamatukogule esitatavad nõuded, teadusraamatukogu nimetamise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega. Teadusraamatukogud nimetab valdkonna eest vastutav minister käskkirjaga.\n(4) Eesti Rahvusraamatukogu tegevust reguleerib Eesti Rahvusraamatukogu seadus."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - TEADUS- JA ARENDUSASUTUSTE TEGEVUSE KORRALDAMINE",
+      "section": "5",
+      "title": "§ 5. Teadus- ja arendusasutuste õiguslik seisund",
+      "content": "(1) Teadus- ja arendusasutus võib olla asutatud riigiasutusena, kohaliku omavalitsuse asutusena, avalik-õigusliku juriidilise isikuna, avalik-õigusliku juriidilise isiku asutusena, eraõigusliku juriidilise isikuna või eraõigusliku juriidilise isiku asutusena.\n(2) Teadus- ja arendusasutuse autonoomia seisneb õiguses:\n1) määrata oma struktuur ja töökorraldus;\n2) valida teadus- ja arendustegevuse viise ja meetodeid;\n3) sõlmida, muuta ja lõpetada lepinguid õigusaktidega kehtestatud alustel ja korras;\n4) otsustada oma tegevuse tulemuste kasutamise üle, kui seda ei piira seadus, selle alusel väljaantud õigusakt või leping.\n(2^1) Avalik-õigusliku juriidilise isiku asutusena tegutseva teadus- ja arendusasutuse:\n1) põhimääruse kinnitab avalik-õiguslik juriidiline isik;\n2) juhtorganid on avalik-õigusliku juriidilise isiku kehtestatud tingimustel ja korras valitud teadusnõukogu ja direktor;\n3) pädevusse kuulub lepingute sõlmimine, muutmine ja lõpetamine avalik-õigusliku juriidilise isiku kehtestatud tingimustel ja korras;\n4) finantseerimine avalik-õiguslikule juriidilisele isikule riigieelarvest eraldatud vahenditest toimub avalik-õigusliku juriidilise isiku kehtestatud tingimustel ja korras ning kooskõlas õigusaktides sätestatud nõuetega;\n5) ümberkorraldamine ning tegevuse lõpetamine toimub avalik-õigusliku juriidilise isiku kehtestatud tingimustel ja korras.\n(3) Teadus- ja arendusasutused tegutsevad käesoleva seaduse, teiste õigusaktide ja oma põhimääruse või põhikirja alusel.\n(4)\n(5) Riigiasutusena, avalik-õigusliku juriidilise isikuna või tema asutusena asutatud teadus- ja arendusasutus registreeritakse riigi- ja kohaliku omavalitsuse asutuste riiklikus registris selle registri põhimääruses sätestatud korras."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - TEADUS- JA ARENDUSASUTUSTE TEGEVUSE KORRALDAMINE",
+      "section": "6",
+      "title": "§ 6. Teadus- ja arendusasutuse asutamine, ümberkorraldamine, ümberkujundamine ja tegevuse lõpetamine",
+      "content": "(1) Riigiasutusena tegutseva teadus- ja arendusasutuse moodustab, korraldab ümber ja selle tegevuse lõpetab Vabariigi Valitsus. Kohaliku omavalitsuse asutusena tegutseva teadus- ja arendusasutuse moodustab, korraldab ümber ja selle tegevuse lõpetab kohaliku omavalitsuse volikogu.\n(2) Avalik-õigusliku juriidilise isikuna tegutsev teadus- ja arendusasutus asutatakse ja lõpetatakse seadusega. Avalik-õigusliku juriidilise isiku asutusena tegutseva teadus- ja arendusasutuse asutab, korraldab ümber ja selle tegevuse lõpetab avalik-õiguslik juriidiline isik.\n(3) Eraõigusliku juriidilise isikuna või selle asutusena tegutsev teadus- ja arendusasutus asutatakse, kujundatakse ümber ja lõpetatakse õigusaktidega sätestatud korras."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - TEADUS- JA ARENDUSASUTUSTE TEGEVUSE KORRALDAMINE",
+      "section": "7",
+      "title": "§ 7. Teadus- ja arendusasutuse juhtimine",
+      "content": "(1) Riigi-, kohaliku omavalitsuse või avalik-õigusliku juriidilise isiku asutusena tegutsevat teadus- ja arendusasutust juhib direktor, kes kannab vastutust teadus- ja arendusasutuse üldseisundi ja arengu ning rahaliste vahendite õiguspärase ja otstarbeka kasutamise eest.\n(2) Direktor valitakse avaliku konkursi korras, mille viib läbi teadus- ja arendusasutuse teadusnõukogu. Asutatava või moodustatava teadus- ja arendusasutuse direktor valitakse avaliku konkursi korras, mille viib läbi ministri, kelle juhitava ministeeriumi valitsemisalasse teadus- ja arendusasutus kuulub, vallavanema, linnapea või avalik-õigusliku juriidilise isiku juhi moodustatud ajutine komisjon. Avaliku konkursi tulemuse alusel sõlmib direktoriga kuni viieks aastaks töölepingu minister, kelle juhitava ministeeriumi valitsemisalasse teadus- ja arendusasutus kuulub, vallavanem, linnapea või avalik-õigusliku juriidilise isiku juht või tema volitatud esindaja.\n(2^1) Direktori konkursi läbiviimise tingimused ja korra kehtestab minister, kelle juhitava ministeeriumi valitsemisalasse teadus- ja arendusasutus kuulub, valla- või linnavalitsus või avalik-õigusliku juriidilise isiku vastav organ.\n(2^2) Direktoriga tähtajalise töölepingu järjestikku sõlmimisel või tähtajalise töölepingu pikendamisel ei muutu töösuhe tähtajatuks.\n(3) Riigi-, kohaliku omavalitsuse või avalik-õigusliku juriidilise isiku asutusena tegutseva teadus- ja arendusasutuse tegevusega seotud küsimuste lahendamiseks põhikirjas või põhimääruses määratud ulatuses moodustatakse vähemalt viieliikmeline teadusnõukogu, mille koosseisu kinnitab direktori ettepanekul minister, kelle juhitava ministeeriumi valitsemisalasse teadus- ja arendusasutus kuulub, vallavanem, linnapea või avalik-õigusliku juriidilise isiku juht.\n(4) Avalik-õigusliku või eraõigusliku juriidilise isikuna tegutsevas teadus- ja arendusasutuses täidab direktori ülesandeid avalik-õigusliku või eraõigusliku juriidilise isiku juht ja teadusnõukogu ülesandeid avalik-õigusliku või eraõigusliku juriidilise isiku vastav organ.\n(5) Eraõigusliku juriidilise isiku asutusena tegutsevas teadus- ja arendusasutuses täidab teadus- ja arendusasutuse direktori ülesandeid eraõigusliku juriidilise isiku määratud isik ja teadusnõukogu ülesandeid eraõigusliku juriidilise isiku määratud organ.\n(6) Avalik-õigusliku või eraõigusliku juriidilise isikuna tegutseva teadus- ja arendusasutuse teadusnõukogu:\n1) kinnitab teadus- ja arendusasutuse põhikirja;\n2) kinnitab teadus- ja arendusasutuse struktuuriüksuste põhimäärused;\n3) võtab vastu teadus- ja arendusasutuse arengukava;\n4) kinnitab teadus- ja arendusasutuse eelarve ja majandusaasta aruande;\n5) kehtestab teadus- ja arendusasutusele eraldatud riigieelarveliste vahendite jaotamise ja kasutamise korra;\n6) kehtestab teadustöötajate konkursi läbiviimise tingimused ja korra;\n7) otsustab teisi seaduse või põhikirjaga tema pädevusse antud küsimusi.\n(7) Riigi- või kohaliku omavalitsuse asutusena tegutseva teadus- ja arendusasutuse teadusnõukogu ülesanded määratakse kindlaks selle teadus- ja arendusasutuse põhimääruses."
+    },
+    {
+      "provision_ref": "para7^1",
+      "chapter": "2. peatükk - TEADUS- JA ARENDUSASUTUSTE TEGEVUSE KORRALDAMINE",
+      "section": "7^1",
+      "title": "§ 7^1. Teadus- ja arendusasutuse liikmeskond",
+      "content": "Teadus- ja arendusasutuse liikmeskonda kuuluvad: 1 1) teadustöötajad – alus- ja rakendusuuringuid või arendustegevust läbiviivad valdavalt teaduskraadiga, erandina kõrgharidusega isikud, kes töötavad teadustöötaja ametikohal või spetsialistina või insenerina, ning teadus- ja arendusasutuste ja nende struktuuriüksuste juhid, kes korraldavad teadus- ja arendustegevuse kavandamist ja elluviimist. Teadus- ja arendusasutuses töötavad õppejõud võivad osaleda teadus- ja arendustegevuse läbiviimises;\n2) tehnikud – teadustöötajate juhtimisel alus- ja rakendusuuringuid või arendustegevust läbiviivad isikud, kellel on vastav ettevalmistus;\n3) abipersonal – alus- ja rakendusuuringute või arendustegevuse läbiviimisesse kaasatud isikud, kelle tööülesanded ei ole otseselt seotud alus- ja rakendusuuringute või arendustegevuse läbiviimisega, ning teised teadus- ja arendusasutuse ülesannete täitmist toetavad isikud;\n4) teised õigusaktides nimetatud isikud."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - TEADUS- JA ARENDUSASUTUSTE TEGEVUSE KORRALDAMINE",
+      "section": "8",
+      "title": "§ 8. Teadustöötajate ametikohad",
+      "content": "(1) Teadus- ja arendusasutuste teadustöötajate ametikohad on nooremteaduri, teaduri, vanemteaduri ja juhtivteaduri ametikoht. Teadus- ja arendusasutuste juhid ning teadus- ja arendusasutuste teaduslike struktuuriüksuste juhid loetakse teadustöötajateks, kui nad osalevad teadusteema või uurimisprojekti täitmises.\n(1^1) Nooremteadur on teadustöötaja, kes osaleb juhendaja juhendamisel teadustöös. Nooremteaduri ametikohale võib kandideerida isik, kellel on vähemalt magistrikraad või sellele vastav kvalifikatsioon.\n(2) Teadur on teadustöötaja, kes osaleb teadusteema või uurimisprojekti täitmises. Teaduri ametikohale võib kandideerida isik, kellel on Eesti teaduskraad või sellele vastav välisriigi kvalifikatsioon.\n(3) Vanemteadur on oma eriala tunnustatud teadlane, kes juhib teadusteemat või uurimisprojekti või vastutab selle oluliste lõikude täitmise eest. Vanemteaduri ametikohale võib kandideerida isik, kellel on Eesti doktorikraad või sellele vastav välisriigi kvalifikatsioon.\n(4) Juhtivteadur on oma eriala rahvusvaheliselt tunnustatud teadlane, kes juhib teadus- ja arendusasutuses oma eriala uuringuid ning juhendab doktorante. Juhtivteaduri ametikohale võib kandideerida isik, kellel on Eesti doktorikraad või sellele vastav välisriigi kvalifikatsioon, kes on töötanud dotsendi, vanemteaduri või ülikooli professorina kokku vähemalt kümme aastat ning kelle juhendamisel on kaitstud vähemalt üks doktoriväitekiri või kelle juhendamisel tehtud teadustöö on viinud patentidega kaitstud toodete või protsessideni."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - TEADUS- JA ARENDUSASUTUSTE TEGEVUSE KORRALDAMINE",
+      "section": "9",
+      "title": "§ 9. Teadustöötajate ametikohtade täitmine",
+      "content": "(1) Teadustöötaja valib teadusnõukogu või avalik-õigusliku või eraõigusliku juriidilise isiku vastav organ avaliku konkursi korras.\n(2) Teadustöötaja valimise konkursi tingimused ja korra kehtestab riigi- või kohaliku omavalitsuse asutusena tegutsevas teadus- ja arendusasutuses teadusnõukogu ning avalik-õigusliku juriidilise isikuna või selle asutusena või eraõigusliku juriidilise isikuna või selle asutusena tegutsevas teadus- ja arendusasutuses juriidilise isiku vastav organ.\n(3) Teadus- ja arendusasutuse juht võib konkurssi välja kuulutamata täita teadustöötaja ametikoha kvalifikatsiooninõuetele vastava teadustöötaja ametisse nimetamisega ja sõlmida temaga tähtajalise töölepingu, kui:\n1) teadustöötaja valimise konkurss on luhtunud või\n2) ametikohal tehtav töö on ajutise tähtajalise iseloomuga.\n(4) Käesoleva paragrahvi lõike 3 punktis 1 nimetatud juhul sõlmitakse tähtajaline tööleping kuni ametikoha täitmiseni konkursi korras, kuid mitte kauemaks kui viieks aastaks.\n(5) Teadusnõukogu või avalik-õigusliku või eraõigusliku juriidilise isiku vastava organi kehtestatud tingimustel ja korras võib käesoleva paragrahvi lõikes 1 nimetatud konkursi võitmisega samaväärseks lugeda väljaspool teadus- ja arendusasutust korraldatud avaliku konkursi tulemuse, millega kaasneb isiku teadus- ja arendustegevuse finantseerimine vastava teadusprojekti elluviimise ajal."
+    },
+    {
+      "provision_ref": "para9^1",
+      "chapter": "2. peatükk - TEADUS- JA ARENDUSASUTUSTE TEGEVUSE KORRALDAMINE",
+      "section": "9^1",
+      "title": "§ 9^1. Uurija-professor",
+      "content": "(1) Uurija-professor on oma eriala tunnustatud teadlane, kes juhib teadus- ja arendusasutuses vastava ala uuringuid ning juhendab doktorante. Uurijaprofessoriks võib kandideerida isik, kellel on Eesti doktorikraad või sellele vastav välisriigi akadeemiline kraad, kes on töötanud vanemteaduri või ülikooli professorina kokku vähemalt kümme aastat ning kelle juhendamisel on kaitstud doktoriväitekirju.\n(2) Uurija-professori valimisi korraldab ja uurija-professori valib Eesti Teaduste Akadeemia avaliku konkursi korras kuni viieks aastaks. Uurija-professori valimise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega.\n(3) Teadus- ja arendusasutusel on õigus uurija-professorile luua tähtajaline uurija-professori ametikoht ja sõlmida temaga tööleping kuni viieks aastaks.\n(4) Uurija-professorile makstakse uurija-professori tasu riigieelarvest Haridus- ja Teadusministeeriumi eelarve kaudu."
+    },
+    {
+      "provision_ref": "para9^2",
+      "chapter": "2. peatükk - TEADUS- JA ARENDUSASUTUSTE TEGEVUSE KORRALDAMINE",
+      "section": "9^2",
+      "title": "§ 9^2. Teadustöötajate atesteerimine",
+      "content": "(1) Teadus- ja arendusasutus atesteerib oma teadustöötajaid nende iga viie tööaasta jooksul vähemalt ühe korra.\n(2) Kui teadustöötaja ei läbi atesteerimist, võib temaga sõlmitud töölepingu erakorraliselt üles öelda töölepingu seaduses sätestatud tingimustel ja korras.\n(3) Teadustöötajate atesteerimise tingimused ja korra kehtestab riigi- või kohaliku omavalitsuse asutusena tegutsevas teadus- ja arendusasutuses teadusnõukogu ning avalik-õigusliku juriidilise isikuna või selle asutusena või eraõigusliku juriidilise isikuna või selle asutusena tegutsevas teadus- ja arendusasutuses juriidilise isiku vastav organ."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "3. peatükk - TEADUS- JA ARENDUSTEGEVUSE RIIKLIK KORRALDAMINE",
+      "section": "10",
+      "title": "§ 10. Vabariigi Valitsus",
+      "content": "Teadus- ja arendustegevuse korraldamisel Vabariigi Valitsus:\n1) kujundab Eesti eeldusi, tingimusi ning vajadusi arvestavat teadus- ja arenduspoliitikat ning valmistab ette riigi teadus- ja arendustegevust suunavaid valdkonna arengukavasid;\n2) vähemalt kord aastas esitab peaminister Riigikogule Vabariigi Valitsuse nimel ülevaate teadus- ja arendustegevuse olukorrast ning valitsuse poliitikast selles valdkonnas;\n3) tagab ministeeriumidevahelise koostöö teadus- ja arenduspoliitika elluviimisel, arvestades Teadus- ja Arendusnõukogu ettepanekuid;\n4)\n4^1) kehtestab teaduspoliitika komisjoni moodustamise korra ja töökorra ning kinnitab valdkonna eest vastutava ministri ettepanekul kuni kolmeks aastaks selle koosseisu;\n4^2) kehtestab innovatsioonipoliitika komisjoni moodustamise korra ja töökorra ning kinnitab valdkonna eest vastutava ministri ettepanekul kuni kolmeks aastaks selle koosseisu;\n5) moodustab, korraldab ümber ja lõpetab riigi teadus- ja arendusasutuste tegevuse neid haldava ministeeriumi ettepanekul, kuulanud ära Teadus- ja Arendusnõukogu seisukoha;\n6) otsustab Eesti osalemise rahvusvahelises teadus- ja arendustegevusalases koostöös riiklikul tasemel;\n7)\n7^1) kehtestab riigi teaduspreemiate põhimääruse;\n7^2) moodustab riigi teaduspreemiate komisjoni ja kinnitab valdkonna eest vastutava ministri ettepanekul selle koosseisu;\n8) määrab riigi teaduspreemiad valdkonna eest vastutava ministri esildisel riigi teaduspreemiate komisjoni ettepanekute alusel;\n9) täidab muid talle seadusega pandud ülesandeid teadus- ja arendustegevuse valdkonnas."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "3. peatükk - TEADUS- JA ARENDUSTEGEVUSE RIIKLIK KORRALDAMINE",
+      "section": "11",
+      "title": "§ 11. Teadus- ja Arendusnõukogu",
+      "content": "(1) Teadus- ja Arendusnõukogu on Vabariigi Valitsuse juures asuv nõuandev kogu, kes:\n1) nõustab Vabariigi Valitsust teadus- ja arendustegevust suunavate valdkonna arengukavade küsimustes;\n1^1) nõustab Vabariigi Valitsust rahvusvahelise koostöö osas teadus- ja arendustegevuse vallas;\n2) esitab Vabariigi Valitsusele oma seisukoha Vabariigi Valitsusele kinnitamiseks esitatud riiklike teadus- ja arendusprogrammide kohta;\n2^1) nõustab Vabariigi Valitsust riigi jaoks oluliste teadus- ja arendusalaste projektide algatamisel;\n3) esitab Vabariigi Valitsusele igal aastal Eesti teadus- ja arendustegevuse aruande ning eelseisva perioodi teadus- ja arenduspoliitilised eesmärgid;\n4) nõustab Vabariigi Valitsust riigieelarve eelnõu kujundamisel teadus- ja arendustegevuseks ettenähtud summade osas erinevate ministeeriumide ning teadus- ja arendustegevuse finantseerimise liikide kaupa;\n5) nõustab Vabariigi Valitsust riigi teadus- ja arendusasutuste asutamisel, ümberkorraldamisel ja tegevuse lõpetamisel;\n6)\n6^1)\n7) täidab muid talle seadusega pandud või Vabariigi Valitsuse antud ülesandeid.\n(2) Teadus- ja Arendusnõukogu on 12-liikmeline ning selle koosseisu kinnitab kuni kolmeks aastaks Vabariigi Valitsus.\n(3) Teadus- ja Arendusnõukogu koosseisu kuuluvad ametikoha järgi peaminister, haridus- ja teadusminister, majandus- ja kommunikatsiooniminister, üks peaministri nimetatud Vabariigi Valitsuse liige ning kaheksa Vabariigi Valitsuse nimetatud liiget.\n(4) Teadus- ja Arendusnõukogu esimeheks on ametikoha järgi peaminister.\n(5) Teadus- ja Arendusnõukogu tehnilise teenindamise tagab Riigikantselei.\n(6) Teadus- ja Arendusnõukogu tegevuse alused ja töökord kehtestatakse põhimäärusega, mille kinnitab Vabariigi Valitsus.\n(7) Teadus- ja Arendusnõukogu nõustavad tema töös valdkonna eest vastutavale ministrile nõuandev teaduspoliitika komisjon ning valdkonna eest vastutavale ministrile nõuandev innovatsioonipoliitika komisjon käesolevas seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para12^1",
+      "chapter": "3. peatükk - TEADUS- JA ARENDUSTEGEVUSE RIIKLIK KORRALDAMINE",
+      "section": "12^1",
+      "title": "§ 12^1. Eesti Teadusagentuur",
+      "content": "(1) Eesti Teadusagentuur on riigi sihtasutus, mis:\n1) korraldab ja viib läbi uurimistoetuste taotluste hindamist;\n2) teeb valdkonna eest vastutavale ministrile institutsionaalsete uurimistoetuste määramise või nende mahu muutmise ettepanekuid;\n3) määrab personaalsed uurimistoetused;\n4) korraldab teadusprogrammides, sealhulgas rahvusvahelistes teadusprogrammides osalemiseks võetud kohustuste täitmist;\n5) analüüsib uurimistoetuste kasutamise tulemuslikkust ja mõju ühiskonnas;\n6) jälgib ja analüüsib uurimistoetuste kasutamise tulemusena tekkinud teadusliku informatsiooni avalikku kättesaadavust, intellektuaalse omandi tekkimist ja kasutamist ning teadusele omaste eetiliste põhimõtete ja heade tavade järgimist;\n7) täidab teisi talle õigusaktidega pandud ülesandeid.\n(2) Eesti Teadusagentuur:\n1) kaasab oma tegevusse pädevaid eksperte ning arvestab otsuste tegemisel nende hinnanguid;\n2) tegutseb kooskõlas teadus- ja arendustegevust suunavate valdkonna arengukavadega;\n3) lähtub oma tegevuses teadusele omastest eetilistest põhimõtetest ja headest tavadest.\n(3) Eesti Teadusagentuuril on kuni 15-liikmeline eri teadus- ja arendustegevuse valdkondade tunnustatud teadlastest koosnev hindamisnõukogu, mis hindab uurimistoetuste taotlusi järjepidevalt, asjatundlikult ja sõltumatult.\n(4) Hindamisnõukogu liikmete kandidaate saavad esitada teadus- ja arendusasutused, mille teadus- ja arendustegevust on vähemalt ühes valdkonnas korraliselt positiivselt evalveeritud, Eesti Teaduste Akadeemia ja teadlaste esindusorganisatsioonid.\n(5) Eesti Teadusagentuuri hindamisnõukogu moodustamise korra ja töökorra kehtestab valdkonna eest vastutav minister määrusega.\n(6) Eesti Teadusagentuuris teostab riigi asutajaõigusi Haridus- ja Teadusministeerium.\n(7) Hindamisnõukogu koosseisu kinnitab Eesti Teadusagentuuri nõukogu kooskõlastatult valdkonna eest vastutava ministriga."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - TEADUS- JA ARENDUSTEGEVUSE RIIKLIK KORRALDAMINE",
+      "section": "13",
+      "title": "§ 13. Teadus- ja arendustegevuse riiklik korraldamine ministeeriumides",
+      "content": "(1) Kõigi ministeeriumide ülesanded teadus- ja arendustegevuse valdkonnas on:\n1) oma valitsemisalale tarviliku teadus- ja arendustegevuse ning selle finantseerimise korraldamine, arvestades evalveerimiste tulemusi ning nendega kaasnevaid hinnanguid ja soovitusi;\n2) riiklike teadus- ja arendusprogrammide väljatöötamine ning nende täitmise korraldamine ning oma valitsemisala teadus- ja arendusprogrammide väljatöötamine ning nende täitmise korraldamine;\n3) oma valitsemisalasse kuuluvate riigi teadus- ja arendusasutuste põhimääruste kinnitamine;\n4) oma valitsemisalasse kuuluva teadus- ja arendustegevuse finantseerimiseks vajalike vahendite põhjendamine ja määramine valitsemisala eelarve projekti koostamisel ning nende teadus- ja arendusasutuste eelarvete kinnitamine riigieelarves valitsemisala teadus- ja arendustegevuseks eraldatud summade ulatuses.\n(2) Lisaks käesoleva paragrahvi lõikes 1 sätestatule Haridus- ja Teadusministeerium:\n1) teostab riiklikku teaduspoliitikat ning korraldab teadus- ja arendustegevust;\n2) töötab välja ja esitab Vabariigi Valitsusele ettepanekuid teaduspoliitika kohta;\n3) korraldab teadus- ja arendusasutuste teadus- ja arendustegevuse finantseerimist;\n4) korraldab teadusraamatukogudele teadusinformatsiooni hankimise finantseerimist;\n5) koordineerib riiklikul tasandil rahvusvahelist teadusalast koostööd ja korraldab selle finantseerimist;\n6) koordineerib teadusraamatukogude ühtse komplekteerimiskava koostamist;\n7) korraldab teadus- ja arendustegevuse evalveerimist või volitab selleks vastava halduslepingu sõlmimisega riigi asutatud sihtasutust ning teostab selle üle järelevalvet;\n8) korraldab teaduse valdkonna riiklikke konkursse ja kehtestab nende läbiviimise tingimused ja korra;\n9) täidab muid käesoleva lõike punktides 1–8 nimetatud valdkondades temale seadusega või seaduse alusel pandud ülesandeid.\n(3) Lisaks käesoleva paragrahvi lõikes 1 sätestatule Majandus- ja Kommunikatsiooniministeerium:\n1) korraldab tehnoloogilist arendustegevust ja innovatsiooni;\n2) töötab välja ja esitab Vabariigi Valitsusele ettepanekuid tehnoloogilise arendustegevuse ning innovatsioonipoliitika kohta;\n3) korraldab rakendusuuringute, arendustegevuse ja innovatsiooni finantseerimist;\n4) koordineerib ja korraldab rahvusvahelist tehnoloogiaalast koostööd ning vajadusel korraldab selle Eesti-poolset finantseerimist;\n5) täidab muid käesoleva lõike punktides 1–4 nimetatud valdkondades temale seadusega või seaduse alusel pandud ülesandeid.\n(4) Valdkonna eest vastutav minister määrusega teadus- ja arendustegevuse valdkondade loetelu."
+    },
+    {
+      "provision_ref": "para13^1",
+      "chapter": "3. peatükk - TEADUS- JA ARENDUSTEGEVUSE RIIKLIK KORRALDAMINE",
+      "section": "13^1",
+      "title": "§ 13^1. Teaduspoliitika komisjon",
+      "content": "Teaduspoliitika komisjon on valdkonna eest vastutava ministri nõuandev organ, kes:\n1) nõustab valdkonna eest vastutavat ministrit Teadus- ja Arendusnõukogule arutamiseks esitatavate teemade ettevalmistamisel ning Teadus- ja Arendusnõukogu poolt valdkonna eest vastutavale ministrile pandud ülesannete täitmisel;\n2) teeb ettepanekuid Eesti teaduspoliitika kujundamiseks;\n3) teeb ettepanekuid teadus- ja arendusasutuste finantseerimise põhimõtete ja strateegia kujundamiseks;\n4) teeb, tulenevalt evalveerimise tulemustest, ettepanekuid riigi teadus- ja arendusasutuste moodustamise, nende ümberkorraldamise või tegevuse lõpetamise ning Haridus- ja Teadusministeeriumi valitsemisalasse kuuluvate riigi teadus- ja arendusasutuste direktorite nimetamise kohta;\n5) teeb koostöös innovatsioonipoliitika komisjoniga ettepanekuid Eesti teadus- ja arendustegevust suunavate valdkonna arengukavade kohta;\n6) täidab teisi talle õigusaktidega pandud ülesandeid."
+    },
+    {
+      "provision_ref": "para13^2",
+      "chapter": "3. peatükk - TEADUS- JA ARENDUSTEGEVUSE RIIKLIK KORRALDAMINE",
+      "section": "13^2",
+      "title": "§ 13^2. Innovatsioonipoliitika komisjon",
+      "content": "Innovatsioonipoliitika komisjon on valdkonna eest vastutava ministri nõuandev organ, kes:\n1) nõustab valdkonna eest vastutavat ministrit Teadus- ja Arendusnõukogule arutamiseks esitatavate teemade ettevalmistamisel ning Teadus- ja Arendusnõukogu poolt valdkonna eest vastutavale ministrile pandud ülesannete täitmisel;\n2) teeb ettepanekuid Eesti tehnoloogilist arendustegevust ning innovatsiooni toetava poliitika kujundamiseks ning osaleb vastavate strateegiadokumentide väljatöötamises;\n3) teeb ettepanekuid riigi eelarvestrateegia ning iga-aastaste riigieelarve eelnõude osas tehnoloogilise arendustegevuse ning innovatsiooni toetamiseks;\n4) teeb ettepanekuid tehnoloogilist arendustegevust ning innovatsiooni toetavate meetmete rakendamiseks või hindamiseks;\n5) annab hinnangu tehnoloogilist arendustegevust ning innovatsiooni toetava poliitika rakendamisele;\n6) teeb koostööd teaduspoliitika komisjoniga teaduspoliitika ja tehnoloogilist arendustegevust ning innovatsiooni toetava poliitika koordineerituse tagamisel;\n7) täidab teisi talle õigusaktidega pandud ülesandeid."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "4. peatükk - FINANTSEERIMINE JA HALDUSJÄRELEVALVE",
+      "section": "14",
+      "title": "§ 14. Finantseerimise üldpõhimõtted",
+      "content": "(1) Teadus- ja arendustegevust finantseeritakse riigieelarvest, valla või linna eelarvest, sihtannetustest, teadus- ja arendusasutuste teadusteemade majandustegevusest laekuvast tulust ja muudest allikatest.\n(2) Teadus- ja arendustegevust finantseeritakse riigieelarvest järgmiste meetmete kaudu:\n1) baasfinantseerimine;\n2) uurimistoetused;\n3) arendustoetused;\n4) tippkeskuste toetamine;\n5) riiklikud teadus- ja arendusprogrammid;\n6) teadus- ja arendusasutuste infrastruktuuri ülalpidamiskulude hüvitamine.\n(3) Teadusinformatsiooni hankimist teadusraamatukogudele finantseeritakse riigieelarvest Haridus- ja Teadusministeeriumi eelarve kaudu.\n(4) Valdkonna eest vastutav minister:\n1) kehtestab määrusega teadusraamatukogude ühtse komplekteerimiskava koostamise põhimõtted ja teadusraamatukogude teadusinformatsiooni finantseerimise taotlemise, taotluste läbivaatamise ning finantseerimise otsustamise korra;\n2) kinnitab käskkirjaga teadusraamatukogude teadusinformatsiooni hankimise finantseerimise iga-aastase mahu;\n3) kehtestab teaduskollektsioonidele esitatavad nõuded ning teaduskollektsioonide finantseerimise taotlemise, taotluste läbivaatamise ja finantseerimise otsustamise tingimused ja korra;\n4) kinnitab käskkirjaga teaduskollektsioonide finantseerimise iga-aastase mahu.\n(5) Teadus- ja arendustegevuse finantseerimise taotlemise tingimustes võib põhjendatud juhul sätestada, et taotluste esitamine toimub inglise keeles.\n(6) Käesoleva paragrahvi lõike 2 punktides 2–5 nimetatud meetmetest finantseerimise taotlemise tingimustes sätestatakse finantseerimismeetme eesmärkide saavutamiseks planeeritud teadustöötajate tööaja ning eelarves määratud otseste ja kaudsete kulude osakaalu kohta käivate andmete esitamise täpsemad nõuded.\n(7) Käesoleva paragrahvi lõike 2 punktides 2–5 nimetatud meetmetest finantseeritakse:\n1) teadus- ja arendustegevusega seotud otseste kulude katmist, sealhulgas teadustöötajate töötasusid;\n2) teadus- ja arendustegevusega seotud kaudsete kulude katmist, sealhulgas teadus- ja arendustegevuseks vajaliku infrastruktuuri ülalpidamist, ajakohastamist ja täiendamist."
+    },
+    {
+      "provision_ref": "para15^1",
+      "chapter": "4. peatükk - FINANTSEERIMINE JA HALDUSJÄRELEVALVE",
+      "section": "15^1",
+      "title": "§ 15^1. Baasfinantseerimine",
+      "content": "(1) Teadus- ja arendusasutuste baasfinantseerimine toimub riigieelarvest Haridus- ja Teadusministeeriumi eelarve kaudu.\n(2) Baasfinantseerimist eraldatakse teadus- ja arendusasutusele, mille teadus- ja arendustegevust on korraliselt positiivselt evalveeritud.\n(3) Baasfinantseerimise määramisel lähtutakse järgmistest kriteeriumidest:\n1) kõrgetasemeliste publikatsioonide arv rahvusvahelist tunnustust omavates ajakirjades, kõrgetasemeliste teadusmonograafiate arv ning registreeritud patentide ja patenditaotluste arv;\n2) teadus- ja arendustegevuse finantseerimise maht käesoleva paragrahvi lõikes 4 nimetatud määruses sätestatud tingimustel ja korras;\n3) asutuse osalus doktoriõppes;\n4) rahvusteaduste arendamise vajadused.\n(4) Baasfinantseerimise tingimused ja korra kinnitab valdkonna eest vastutav minister määrusega.\n(5) Baasfinantseerimise iga-aastase mahu kinnitab valdkonna eest vastutav minister käskkirjaga."
+    },
+    {
+      "provision_ref": "para15^2",
+      "chapter": "4. peatükk - FINANTSEERIMINE JA HALDUSJÄRELEVALVE",
+      "section": "15^2",
+      "title": "§ 15^2. Institutsionaalne uurimistoetus",
+      "content": "(1) Institutsionaalsed uurimistoetused eraldatakse riigieelarvest Haridus- ja Teadusministeeriumi eelarve kaudu.\n(2) Institutsionaalset uurimistoetust on õigus taotleda teadus- ja arendusasutusel, mille teadus- ja arendustegevus on taotlemise hetkel vähemalt ühes valdkonnas korraliselt positiivselt evalveeritud.\n(3) Institutsionaalse uurimistoetuse taotlusega koos esitatakse andmed teadus- ja arendustegevuse uurimisteema põhjendatuse, olulisuse, oodatavate tulemuste, täitmises osalevate isikute kvalifikatsiooni ning täitmiseks vajaliku infrastruktuuri olemasolu ja seisundi kohta.\n(4) Institutsionaalse uurimistoetuse taotlemise, määramise ja selle mahu muutmise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega.\n(5) Institutsionaalse uurimistoetuse taotluste hindamise korraldab Eesti Teadusagentuur ning viib läbi Eesti Teadusagentuuri hindamisnõukogu käesoleva paragrahvi lõikes 3 nimetatud andmete alusel.\n(6) Institutsionaalsete uurimistoetuste iga-aastase mahu kinnitab Eesti Teadusagentuuri ettepaneku alusel valdkonna eest vastutav minister käskkirjaga.\n(7) Eesti Teadusagentuur jälgib uurimisteema täitmise edukust igal aastal teadus- ja arendusasutuse esitatud aruande põhjal.\n(8) Eesti Teadusagentuur hindab teadus- ja arendusasutuste uurimisteemasid esimest korda pärast poole institutsionaalse uurimistoetusega finantseerimise perioodi möödumist ja teist korda pärast uurimisteema riigieelarvest finantseerimise lõppu. Uurimisteemat, millele on määratud institutsionaalne uurimistoetus kuni kolmeks aastaks, hinnatakse pärast uurimisteema riigieelarvest finantseerimise lõppu.\n(9) Institutsionaalse uurimistoetuse maksmise jätkamise ja selle mahu muutmise aluseks on:\n1) käesoleva paragrahvi lõikes 7 nimetatud hinnang uurimisteema täitmise edukusele;\n2) käesoleva paragrahvi lõikes 8 nimetatud hindamise tulemused, välja arvatud juhul, kui uurimisteemat hinnatakse pärast riigieelarvest finantseerimise lõppu."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "4. peatükk - FINANTSEERIMINE JA HALDUSJÄRELEVALVE",
+      "section": "16",
+      "title": "§ 16. Arendustoetused",
+      "content": "(1)\n(2) Riigieelarves arendustoetusteks ettenähtud raha eraldatakse Majandus- ja Kommunikatsiooniministeeriumi eelarve kaudu riigi poolt asutatud vastavale sihtasutusele.\n(3) Riigi poolt asutatud sihtasutus eraldab arendustoetusteks ettenähtud raha avaliku konkursi korras esitatud projektidele."
+    },
+    {
+      "provision_ref": "para16^1",
+      "chapter": "4. peatükk - FINANTSEERIMINE JA HALDUSJÄRELEVALVE",
+      "section": "16^1",
+      "title": "§ 16^1. Personaalne uurimistoetus",
+      "content": "(1) Personaalset uurimistoetust taotletakse avalikul konkursil Eesti Teadusagentuuri kehtestatud ning Haridus- ja Teadusministeeriumiga kooskõlastatud tingimustel ja korras.\n(2) Personaalse uurimistoetuse taotluste hindamise korraldab Eesti Teadusagentuur ja viib läbi Eesti Teadusagentuuri hindamisnõukogu.\n(3) Personaalse uurimistoetuse määramise otsustab Eesti Teadusagentuur.\n(4) Personaalseteks uurimistoetusteks ettenähtud raha eraldatakse Eesti Teadusagentuurile Haridus- ja Teadusministeeriumi kaudu.\n(5) Käesolevas paragrahvis sätestatud korras määratud magistrantide ja doktorantide teadustöö stipendiumid on riiklikud stipendiumid."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "4. peatükk - FINANTSEERIMINE JA HALDUSJÄRELEVALVE",
+      "section": "17",
+      "title": "§ 17. Riiklikud teadus- ja arendusprogrammid",
+      "content": "(1) Riiklike teadus- ja arendusprogrammide koostamise ja elluviimise eesmärk on teadus- ja arendustegevust suunavatest valdkonna arengukavadest tulenevate ja sotsiaal-majandusliku ning kultuurilise arengu seisukohalt oluliste valdkondade edendamine ning riigi vastava valdkondliku poliitika kujundamiseks ja realiseerimiseks vajalike uuringute korraldamine.\n(2) Riiklik teadus- ja arendusprogramm koostatakse ministeeriumidevahelisena ning programmi juhtministeeriumi määrab Vabariigi Valitsus korraldusega.\n(3) Juhtministeerium korraldab riikliku teadus- ja arendusprogrammi koostamise ja Vabariigi Valitsusele kinnitamiseks esitamise ning kinnitatud programmi juhtimist, täitmist ja aruandlust.\n(4) Riikliku teadus- ja arendusprogrammi koostamise, juhtimise, täitmise ja aruandluse korraldamisel võtab juhtministeerium arvesse evalveerimiste, akrediteerimiste ja teiste uuringute otsuseid, järeldusi ja soovitusi.\n(5) Riiklikus teadus- ja arendusprogrammis ettenähtud tegevusi finantseeritakse riigieelarvest kaasatud ministeeriumide eelarvete kaudu vastavalt programmis kindlaksmääratud tegevustele."
+    },
+    {
+      "provision_ref": "para17^1",
+      "chapter": "4. peatükk - FINANTSEERIMINE JA HALDUSJÄRELEVALVE",
+      "section": "17^1",
+      "title": "§ 17^1. Teaduse tippkeskused",
+      "content": "(1) Teaduse tippkeskus on mitme oma valdkonnas rahvusvaheliselt tunnustatud uurimisrühma ühendus, mille eesmärk on kõrgetasemeliste uurimisrühmade koostöö kaudu tõsta läbiviidavate teadusuuringute taset ja tulemuslikkust.\n(2) Teaduse tippkeskuste nimetamise ja finantseerimise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega.\n(3) Teaduse tippkeskused nimetab valdkonna eest vastutav minister käskkirjaga seitsmeks aastaks.\n(4) Teaduse tippkeskuste tegevust finantseeritakse riigieelarvest Haridus- ja Teadusministeeriumi eelarve kaudu käesoleva paragrahvi lõikes 2 nimetatud valdkonna eest vastutava ministri määruses kehtestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "4. peatükk - FINANTSEERIMINE JA HALDUSJÄRELEVALVE",
+      "section": "18",
+      "title": "§ 18. Infrastruktuurikulud",
+      "content": "(1) Riigi teadus- ja arendusasutuse infrastruktuurikulud, mida ei kaeta institutsionaalsest uurimistoetusest, kaetakse riigieelarvest selle ministeeriumi eelarve kaudu, kelle valitsemisalasse teadus- ja arendusasutus kuulub.\n(2) Kohaliku omavalitsuse teadus- ja arendusasutuse infrastruktuurikulud, mida ei kaeta institutsionaalsest uurimistoetusest, kaetakse vastava valla või linna eelarvest.\n(3) Avalik-õigusliku juriidilise isikuna või selle asutusena tegutseva teadus- ja arendusasutuse infrastruktuurikulude katmist toetatakse riigieelarves selleks sihtotstarbeliselt ettenähtud vahenditest Haridus- ja Teadusministeeriumi eelarve kaudu.\n(4) Riigiasutusena tegutseva teadus- ja arendusasutuse infrastruktuurikulud kaetakse ja avalik-õigusliku juriidilise isikuna või selle asutusena tegutseva teadus- ja arendusasutuse infrastruktuurikulude katmist toetatakse riigieelarve vahenditest, kui teadus- ja arendusasutuse tegevust on finantseeritud käesoleva seaduse §-s 15 sätestatud alustel.\n(5) Eraõigusliku juriidilise isikuna või selle asutusena tegutseva teadus- ja arendusasutuse infrastruktuurikulud katab eraõiguslik juriidiline isik. Eraõigusliku juriidilise isikuna või selle asutusena tegutsev teadus- ja arendusasutus võib saada sihtotstarbelist toetust infrastruktuurikulude katmiseks riigieelarvest või valla või linna eelarvest."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "4. peatükk - FINANTSEERIMINE JA HALDUSJÄRELEVALVE",
+      "section": "19",
+      "title": "§ 19. Aruandlus ja haldusjärelevalve",
+      "content": "(1) Paragrahvi 14 lõike 2 punktides 2–5 nimetatud meetmetest saadud finantseeringu kasutamise aruandes esitab riigiasutusena, kohaliku omavalitsuse asutusena või avalik-õigusliku või eraõigusliku juriidilise isikuna tegutsev teadus- ja arendusasutus andmed meetme kaudu finantseeritud summaarse teadustöötajate tööaja, otseste kulude jaotuse tööjõukulude, stipendiumide, soetatud põhivara ja muude tegevuskulude kaupa ning soetatud põhivara kaalutud keskmise amortisatsiooninormi.\n(2) Haridus- ja Teadusministeerium (edaspidi haldusjärelevalve teostaja ) teostab haldusjärelevalvet teadus- ja arendusasutuse, välja arvatud Haridus- ja Teadusministeeriumi valitsemisalasse kuuluva teadus- ja arendusasutuse tegevuse üle käesoleva seaduse ja selle alusel kehtestatud õigusaktidega sätestatud nõuete täitmisel.\n(3) Haldusjärelevalve teostajal on õigus kaasata haldusjärelevalve teostamisele eksperte.\n(4) Oma eesmärgi elluviimiseks on haldusjärelevalve teostajal õigus:\n1) tutvuda teadus- ja arendusasutuse käsutuses olevate tõendite ja andmetega, mille alusel on võimalik kindlaks teha haldusjärelevalve teostaja ülesannete täitmiseks olulised asjaolud, saada dokumentidest ärakirju või väljavõtteid;\n2) teha ettekirjutusi käesoleva seaduse ja selle alusel kehtestatud õigusaktidega sätestatud nõuete rikkumise lõpetamiseks, edasiste rikkumiste ärahoidmiseks ja rikkumisega tekitatud tagajärgede kõrvaldamiseks.\n(5) Oma ülesannete täitmisel on haldusjärelevalve teostaja kohustatud olema hinnangutes erapooletu ning tuginema oma otsustustes õigusaktidele ja usaldusväärsele teabele.\n(6) Haldusjärelevalve tulemusel tehtud ettekirjutuses peavad sisalduma:\n1) ettekirjutuse tegemise alused koos viitega vastavatele õigusakti sätetele;\n2) ettekirjutuse tegemise kuupäev;\n3) ettekirjutuse täitmise tähtaeg;\n4) haldusjärelevalvet teostanud ametiisiku nimi, ametikoht ja allkiri;\n5) ettekirjutuse vaidlustamise võimalused, tähtaeg ja kord.\n(7) Ettekirjutuse täitmata jätmise korral võib haldusjärelevalve teostaja rakendada sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 640 eurot.\n(8) Ministeerium või kohalik omavalitsus, kelle valitsemisalasse teadus- ja arendusasutus kuulub, teeb teadus- ja arendusasutuse tegevuse üle teenistuslikku järelevalvet seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "4. peatükk - FINANTSEERIMINE JA HALDUSJÄRELEVALVE",
+      "section": "20",
+      "title": "§ 20. Evalveerimine",
+      "content": "(1) Evalveerimine on teadus- ja arendustegevuse välishindamine, mis viiakse läbi kas korralise evalveerimisena teadus- ja arendusasutuse vastava teadus- ja arendustegevuse valdkonna taseme hindamiseks või sihtevalveerimisena teaduspoliitika kujundamiseks ning teadus- ja arendustegevuse korraldamiseks vajaliku teabe saamiseks.\n(2) Evalveerimise tulemused ning nendega kaasnevad hinnangud ja soovitused on avalikud, kui seaduses ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para20^1",
+      "chapter": "4. peatükk - FINANTSEERIMINE JA HALDUSJÄRELEVALVE",
+      "section": "20^1",
+      "title": "§ 20^1. Korraline evalveerimine",
+      "content": "(1) Korralisel evalveerimisel hinnatakse teadus- ja arendusasutuse vastava teadus- ja arendustegevuse valdkonna teadus- ja arendustegevuse taset, võrreldes seda rahvusvaheliselt tunnustatud kriteeriumidega.\n(2) Teadus- ja arendustegevuse korralise evalveerimise taotlemise, läbiviimise ja tulemuse kinnitamise täpsemad tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega.\n(3) Korralist evalveerimist taotleb teadus- ja arendusasutus või juhul, kui taotletakse juriidilise isiku struktuuri kuuluva teadus- ja arendusasutuse teadus- ja arendustegevuse evalveerimist, avalik-õiguslik või eraõiguslik juriidiline isik.\n(4) Korralise evalveerimise viib läbi 3- kuni 16-liikmeline erinevate valdkondade välisekspertidest koosnev hindamiskomisjon, mille liikmed on teadus- ja arendustegevuse hindamise kogemusega oma valdkonna tunnustatud teadlased. Hindamiskomisjoni moodustab ja selle töökorra kinnitab valdkonna eest vastutav minister.\n(5) Hindamiskomisjon lähtub korralisel evalveerimisel taotlusest, andmetest teadus- ja arendusasutuse vastava valdkonna teadustöötajate, teadus- ja arendustegevuse tulemuste, sihtfinantseeringute ja uurimistoetuste, uurimiskeskkonna ja olemasolu korral doktoriõppe kohta ning teadus- ja arendusasutuse külastamise tulemustest.\n(6) Valdkonna eest vastutav minister kinnitab hindamiskomisjoni põhjendatud ettepaneku alusel korralise evalveerimise otsuse evalveerida teadus- ja arendusasutuse teadus- ja arendustegevus vastavas valdkonnas positiivselt või negatiivselt.\n(7) Korralise evalveerimise positiivse otsuse kehtivusaeg on seitse aastat, kuid mitte kauem kui järgmise korralise evalveerimise otsuse kinnitamiseni. Kui uut korralist evalveerimist on taotletud vähemalt aasta enne korralise evalveerimise positiivse otsuse kehtivusaja lõppemist, kuid taotlejast mitteolenevatel põhjustel ei ole evalveerimist läbi viidud, pikeneb korralise evalveerimise positiivse otsuse kehtivusaeg kuni uue korralise evalveerimise otsuse kehtima hakkamiseni.\n(8) Korralise evalveerimisega seotud kulud kaetakse riigieelarvest Haridus- ja Teadusministeeriumi eelarve kaudu, välja arvatud juhtudel, kui:\n1) evalveeritakse eraõigusliku juriidilise isiku või tema asutusena tegutseva teadus- ja arendusasutuse vastava valdkonna teadus- ja arendustegevust;\n2) taotleja vastava valdkonna teadus- ja arendustegevus on viimasel korralisel evalveerimisel evalveeritud negatiivselt.\n(9) Kui taotleja võtab pärast käesoleva paragrahvi lõikes 4 nimetatud hindamiskomisjoni moodustamist korralise evalveerimise taotluse tagasi, katab ta vastava teadus- ja arendustegevuse valdkonna järgmise korralise evalveerimisega seotud kulud ise."
+    },
+    {
+      "provision_ref": "para20^2",
+      "chapter": "4. peatükk - FINANTSEERIMINE JA HALDUSJÄRELEVALVE",
+      "section": "20^2",
+      "title": "§ 20^2. Sihtevalveerimine",
+      "content": "(1) Haridus- ja Teadusministeeriumil on õigus korraldada omal algatusel või teiste ministeeriumide ettepanekul sihtevalveerimisi teadus- ja arendustegevust suunavate valdkonna arengukavade või muude teaduspoliitiliste otsuste ja meetmete ettevalmistamiseks või nende mõjude ning rakendamise hindamiseks ja analüüsimiseks.\n(2) Sihtevalveerimine korraldatakse kas ühes või mitmes teadus- ja arendustegevuse valdkonnas.\n(3) Sihtevalveerimise teema, osalejad, läbiviijad ja täpsema korralduse kinnitab valdkonna eest vastutav minister käskkirjaga, kooskõlastades selle juhul, kui sihtevalveerimine puudutab teise ministeeriumi haldusala, vastava ministeeriumiga.\n(4) Sihtevalveerimisel osalevad käesoleva paragrahvi lõikes 3 nimetatud käskkirja kohaselt teadus- ja arendusasutused, mille teadus- ja arendustegevust on sihtevalveerimisele eelnenud aastal riigieelarvest finantseeritud, ning võivad osaleda ka teised teadus- ja arendusasutused.\n(5) Sihtevalveerimisega seotud kulud kaetakse riigieelarvest Haridus- ja Teadusministeeriumi eelarve kaudu."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "5. peatükk - SEADUSE RAKENDAMINE",
+      "section": "21",
+      "title": "§ 21. Üleminek",
+      "content": "(1) Teadus- ja arendusasutuste põhikirjad ja põhimäärused viiakse käesoleva seadusega vastavusse kuue kuu jooksul, arvates käesoleva seaduse jõustumisest.\n(1^1) Teadus- ja arendusasutuste põhikirjad ja põhimäärused viiakse käesoleva seaduse §-ga 2, § 7 lõigetega 2 ja 2^1, § 8 lõikega 2, § 14 lõikega 4, § 15 lõikega 3 ning § 20 lõigetega 1, 2, 4, 6 ja 7 vastavusse 2004. aasta 1. jaanuariks.\n(2) Vabariigi Valitsusel on õigus riigi teadus- ja arendusasutust haldava valitsusasutuse ettepanekul lubada riigi teadus- ja arendusasutusel ühineda avalik-õigusliku ülikooli või Eesti Teaduste Akadeemiaga. Ühinemine sätestatakse vastavas lepingus, mille sõlmivad riigi teadus- ja arendusasutust haldav valitsusasutus ja avalik-õiguslik ülikool või Eesti Teaduste Akadeemia.\n(3) Vabariigi Valitsus esitab kuue kuu jooksul, arvates käesoleva seaduse jõustumisest, Riigikogule seaduseelnõud nende teadus- ja arendusasutuste tegevuse reguleerimiseks, mis säilitavad avalik-õigusliku juriidilise isiku staatuse.\n(4) 2004. aasta 1. jaanuarini loetakse positiivselt evalveerituks ka nende Haridus- ja Teadusministeeriumis registreeritud teadus- ja arendusasutuste teadus- ja arendustegevus, mis läbisid Rootsi Kuningliku Teaduste Akadeemia evalveerimise 1991. aastal või Teadus- ja Arendusnõukogu evalveerimise 1995. aastal.\n(5) Käesoleva seaduse § 9 lõiget 4^1 kohaldatakse alates 2012. aasta 1. jaanuarist ülikooli immatrikuleeritud doktorantidele.\n(6) Teadus- ja arendusasutused viivad oma tegevuse käesoleva seaduse § 5 lõikega 2^1 ning § 7 lõigetega 6 ja 7 kooskõlla hiljemalt 2012. aasta 1. septembriks.\n(7) Käesoleva seaduse § 14 lõiget 6 ja § 19 lõiget 1 kohaldatakse alates 2012. aasta 1. märtsist taotletavatele eraldistele ja sõlmitavatele lepingutele.\n(8) Käesoleva seaduse § 17 lõikeid 2–5 kohaldatakse alates 2012. aasta 1. jaanuarist koostatavatele ja kinnitatavatele riiklikele teadus- ja arendustegevuse programmidele.\n(9) Teadus- ja arendusasutus viib oma tegevuse käesoleva seaduse §-ga 8^1 kooskõlla 2016. aasta 1. jaanuariks."
+    },
+    {
+      "provision_ref": "para21^1",
+      "chapter": "5. peatükk - SEADUSE RAKENDAMINE",
+      "section": "21^1",
+      "title": "§ 21^1. Sihtfinantseerimise, baasfinantseerimise ning teadus- ja uurimistöö tegemiseks elamisloa taotlemine 2009. aastal",
+      "content": "(1) Riigi- või kohaliku omavalitsuse asutusena, avalik-õigusliku juriidilise isikuna või selle asutusena tegutseval teadus- ja arendusasutusel, mille teadus- ja arendustegevuse uue evalveerimise kohustus tuleneb käesoleva seaduse § 20 lõikes 1 sätestatud tähtajast, kuid mille tegevust pole uuesti evalveeritud, on 2009. aastal õigus taotleda sihtfinantseerimist ja baasfinantseerimist käesolevas seaduses sätestatud tingimustel ja korras.\n(2) Eraõigusliku juriidilise isikuna tegutseval teadus- ja arendusasutusel, mille evalveerimisotsuse kehtivusaeg on lõppenud, kuid mille tegevust pole uuesti evalveeritud, on 2009. aastal õigus taotleda sihtfinantseerimist ja baasfinantseerimist käesolevas seaduses sätestatud tingimustel ja korras.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud teadus- ja arendusasutus loetakse kuni 2009. aasta 31. detsembrini välismaalaste seaduse § 13^3 lõike 12^1 punktis 3 sätestatud nõudele vastavaks."
+    },
+    {
+      "provision_ref": "para21^2",
+      "chapter": "5. peatükk - SEADUSE RAKENDAMINE",
+      "section": "21^2",
+      "title": "§ 21^2. Korralise evalveerimise ja sihtevalveerimise regulatsiooni rakendumine",
+      "content": "(1) Käesolevas seaduses sätestatud tingimustel ja korras viiakse korralisi evalveerimisi ja sihtevalveerimisi läbi alates 2010. aasta 1. jaanuarist.\n(2) Enne 2010. aasta 1. jaanuari toimunud evalveerimiste tulemused kehtivad nende kinnitamisest arvates kaheksa aastat.\n(3) Kui ei ole sätestatud teisiti, loetakse teadus- ja arendusasutuse teadus- ja arendustegevuse positiivse evalveerituse nõue täidetuks, kui teadus- ja arendusasutuse teadus- ja arendustegevus on vastava valdkonna korralisel evalveerimisel evalveeritud positiivselt."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "5. peatükk - SEADUSE RAKENDAMINE",
+      "section": "22",
+      "title": "§ 22. Välisriigi diplomite ja akadeemiliste kraadide tunnustamine",
+      "content": "(1) Eesti Vabariik tunnustab välisriikide diplomeid ja akadeemilisi kraade, kui välislepingus ei ole sätestatud teisiti.\n(2) Eesti Vabariik tunnustab enne 1991. aasta 20. augustit endise NSV Liidu territooriumil kaitstud teaduskraade ja diplomeid välisriikide teaduskraadide ja diplomitena.\n(3) NSV Liidu kandidaadikraadi ingliskeelse vastena on lubatud kasutada nimetust Doctor of Philosophy, lühend Ph. D, või muud vastavale valdkonnale omast doktorikraadi nimetust."
+    },
+    {
+      "provision_ref": "para22^1",
+      "chapter": "5. peatükk - SEADUSE RAKENDAMINE",
+      "section": "22^1",
+      "title": "§ 22^1. Haridus- ja Teadusministeeriumis registreeritud teadus- ja arendusasutused",
+      "content": "(1) Haridus- ja Teadusministeeriumis registreeritud teadus- ja arendusasutused, mille põhitegevus põhikirja või põhimääruse järgi ei ole teadus- ja arendustegevus, kustutatakse 2002. aasta 1. jaanuarist teadus- ja arendusasutuste registrist.\n(2) Teadus- ja arendusasutused, mis viivad oma tegevuse 2002. aasta 1. jaanuariks käesoleva seaduse § 3 nõuetega vastavusse, esitavad selleks tähtajaks Haridus- ja Teadusministeeriumi teadus- ja arendusasutuste registri volitatud töötlejale järgmised dokumendid:\n1) vastavasisuliste muudatustega teadus- ja arendusasutuse põhikirja või põhimääruse;\n2) eraõigusliku juriidilise isikuna tegutseva teadus- ja arendusasutuse äriregistri või mittetulundusühingute ja sihtasutuste registri registrikaardi koopia."
+    },
+    {
+      "provision_ref": "para22^2",
+      "chapter": "5. peatükk - SEADUSE RAKENDAMINE",
+      "section": "22^2",
+      "title": "§ 22^2. Sõlmitud töölepingute kehtivus",
+      "content": "(1) Töölepingud, mis on sõlmitud isikutega, kes ei vasta käesoleva seaduse § 8 lõikes 2 sätestatud nõuetele, kehtivad töölepingus määratud tähtaja lõpuni.\n(2) Töölepingud, mis on sõlmitud isikutega käesoleva seaduse §-s 9^1 sätestatud tingimustel ja korras, kehtivad töölepingus määratud tähtaja lõpuni.\n(3) Käesoleva seaduse kuni 2012. aasta 1. juulini kehtinud § 9 lõike 4^1 alusel sõlmitud tähtajaline tööleping nooremteadurina töötamiseks lõpeb tähtaja möödumisel või töölepingu ülesütlemisel.\n(4) Doktorandiga, kes on enne 2012. aasta 1. juulit esitanud käesoleva seaduse kuni 2012. aasta 1. juulini kehtinud § 9 lõike 4^1 alusel teda immatrikuleerinud teadus- ja arendusasutusele taotluse nooremteaduri töölepingu sõlmimiseks, sõlmib teadus- ja arendusasutuse volitatud isik konkurssi välja kuulutamata tähtajalise töölepingu nooremteadurina töötamiseks doktoriõppe õppekava nominaalkestuse ajaks. Nimetatud tööleping lõpeb tähtaja möödumisel või töölepingu ülesütlemisel.\n(5) Teadustöötajaga enne 2015. aasta 1. jaanuari sõlmitud tähtajaline tööleping kehtib selles sätestatud tingimustel ja korras kuni töölepingus nimetatud tähtaja lõpuni.\n(6) Kui teadustöötajaga sõlmitakse tööleping pärast 2015. aasta 1. jaanuari ning sama isikuga on samalaadse töö tegemiseks sõlmitud varem vähemalt kaks järjestikust tähtajalist töölepingut või on varem sõlmitud tähtajalist töölepingut pikendatud rohkem kui üks kord viie aasta jooksul, loetakse töösuhe algusest peale tähtajatuks. Tähtajaliste töölepingute sõlmimine loetakse järjestikuseks, kui ühe töölepingu lõppemise ja järgmise töölepingu sõlmimise vaheline aeg ei ületa kahte kuud."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "5. peatükk - SEADUSE RAKENDAMINE",
+      "section": "23",
+      "title": "§ 23. Eesti Teadusfondi ja Eesti Innovatsioonifondi ümberkujundamine",
+      "content": "Eesti Teadusfondi ja Eesti Innovatsioonifondi ümberkujundamine toimub Vabariigi Valitsuse korraldusega vastavalt äriseadustiku §-le 509."
+    },
+    {
+      "provision_ref": "para23^1",
+      "chapter": "5. peatükk - SEADUSE RAKENDAMINE",
+      "section": "23^1",
+      "title": "§ 23^1. Teadus- ja arendusasutusena registreerimise taotlemine seoses teadus- ja arendusasutuse ümberkorraldamise, ühinemise, jagunemise või ümberkujundamisega",
+      "content": "(1) Kui teadus- ja arendusasutuste alamregistrisse kandmist taotletakse seoses teadus- ja arendusasutuse, mille teadus- ja arendustegevust on evalveeritud, ümberkorraldamise, ühinemise, jagunemise või ümberkujundamisega, ei kohaldata taotlejale käesoleva seaduse § 5^1 lõike 3 punkte 2 ja 3.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud juhtudel esitatakse registreerimise taotlemisel evalveerimise aeg ja tulemus ümberkorraldatud, ühinenud, jagunenud või ümberkujundatud teadus- ja arendusasutuse teadus- ja arendustegevuse kohta, mis jätkub teadus- ja arendusasutusena registreerimist taotlevas asutuses või juriidilises isikus."
+    },
+    {
+      "provision_ref": "para23^2",
+      "chapter": "5. peatükk - SEADUSE RAKENDAMINE",
+      "section": "23^2",
+      "title": "§ 23^2. Teadus- ja arendusasutuse tegevuse nõuetega kooskõlla viimine",
+      "content": "Teadus- ja arendusasutused viivad oma tegevuse käesoleva seaduse §-ga 3 kooskõlla hiljemalt 2010. aasta 1. jaanuariks."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "5. peatükk - SEADUSE RAKENDAMINE",
+      "section": "24",
+      "title": "§ 24. Seaduse kehtetuks tunnistamine",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para24^1",
+      "chapter": "5. peatükk - SEADUSE RAKENDAMINE",
+      "section": "24^1",
+      "title": "§ 24^1. Teaduskompetentsi Nõukogu volituste lõppemine ja ülesannete üleandmine Eesti Teadusagentuurile",
+      "content": "(1) Teaduskompetentsi Nõukogu volitused lõppevad 2012. aasta 28. veebruaril.\n(2) Riigi asutajaõiguste teostaja korraldab hiljemalt 2012. aasta 1. märtsiks Eesti Teadusagentuuri ülesandeid täitma hakkava riigi sihtasutuse põhikirja kooskõlla viimise käesoleva seaduse § 12^1 lõikes 1 nimetatud ülesannetega."
+    },
+    {
+      "provision_ref": "para24^2",
+      "chapter": "5. peatükk - SEADUSE RAKENDAMINE",
+      "section": "24^2",
+      "title": "§ 24^2. Enne 2012. aasta 1. märtsi tehtud sihtfinantseerimise otsused ja määratud uurimistoetused",
+      "content": "(1) Teadusteemat, millele on enne 2012. aasta 1. märtsi määratud sihtfinantseerimine, finantseeritakse finantseerimisotsuse tegemise ajal kehtinud tingimustel ja korras kuni otsuses määratud sihtfinantseerimise perioodi lõpuni.\n(2) Teema sihtfinantseerimise otsuse tegemise ajal kehtinud tingimustel ja korras sihtfinantseerimise jätkamise aluseks alates 2012. aasta 1. märtsist on Eesti Teadusagentuuri hinnang tehtud töö tulemustele. Teadus- ja arendusasutuse teadusteemasid hinnatakse esimest korda pärast poole sihtfinantseerimise taotluses näidatud sihtfinantseerimise perioodi möödumist ja teist korda pärast teadusteema riigieelarvest finantseerimise lõppu.\n(3) Enne 2012. aasta 1. märtsi määratud uurimistoetused eraldatakse nende määramise ajal kehtinud tingimustel ja korras kuni uurimistoetuse perioodi lõpuni."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "5. peatükk - SEADUSE RAKENDAMINE",
+      "section": "25",
+      "title": "§ 25. Jõustumine",
+      "content": "(1) Käesoleva seaduse § 4^1, § 13 lõike 2 punktid 4 ja 6 ning § 14 lõige 3 jõustuvad 2002. aasta 1. jaanuaril.\n(2) Haridus- ja Teadusministeeriumi teadus- ja arendusasutuste registrisse kantud teadus- ja arendusasutused, mille teadus- ja arendustegevus ei ole evalveeritud, esitavad käesoleva seaduse § 5^1 lõike 3 punktides 2 ja 3 loetletud andmed hiljemalt 2006. aasta 1. jaanuariks.\n(3) Haridus- ja Teadusministeeriumi teadus- ja arendusasutuste alamregistrisse kantud teadus- ja arendusasutused, mille teadus- ja arendustegevust ei ole evalveeritud, peavad taotlema evalveerimist hiljemalt 2007. aasta 1. jaanuariks."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "alusuuringud",
+      "definition": "algupärased teoreetilised või eksperimentaalsed uuringud uute teadmiste saamiseks nähtuste ja sündmuste põhialuste kohta, seadmata eesmärgiks saadud teadmiste kohest rakendamist",
+      "source_provision": "para2"
+    },
+    {
+      "term": "arendustegevus",
+      "definition": "uuringute ja kogemuste kaudu saadud teadmiste rakendamine uute materjalide, toodete ja seadmete tootmiseks, protsesside, süsteemide ja teenuste juurutamiseks või nende oluliseks täiustamiseks",
+      "source_provision": "para2"
+    },
+    {
+      "term": "baasfinantseerimine",
+      "definition": "teadus- ja arendustegevuse finantseerimine teadus- ja arendusasutuse arengueesmärkide saavutamiseks, sealhulgas riigisiseste ja -väliste projektide kaasfinantseerimiseks, uute uurimissuundade avamiseks ning infrastruktuuri investeerimiseks",
+      "source_provision": "para2"
+    },
+    {
+      "term": "5) innovatsioon",
+      "definition": "uute ideede ja teadmiste kasutamine uudsete lahenduste rakendamiseks, mis hõlmab toodete ja teenuste väljatöötamist ning uuendamist (tooteinnovatsioon); vastavate turgude hõivamist ja laiendamist (turuinnovatsioon); uute tootmis-, tarne- ja müügimeetodite loomist ning juurutamist (protsessiinnovatsioon); uuendusi juhtimises ja töökorralduses (organisatsiooniinnovatsioon) ning töötingimuste ja personali oskuste arendamist (personaliinnovatsioon)",
+      "source_provision": "para2"
+    },
+    {
+      "term": "rakendusuuringud",
+      "definition": "algupärased uuringud uute teadmiste saamiseks esmase eesmärgiga rakendada saadud teadmisi kindlas valdkonnas suhteliselt lühikese aja jooksul",
+      "source_provision": "para2"
+    },
+    {
+      "term": "teadustegevus",
+      "definition": "isiku loomevabadusel põhinev tegevus, mille eesmärk on teaduslike uuringute abil uute teadmiste saamine inimese, looduse ja ühiskonna ning nende vastastikuse toime kohta",
+      "source_provision": "para2"
+    },
+    {
+      "term": "uurimistoetus",
+      "definition": "teadus- ja arendusasutuse kõrgetasemelise teadus- ja arendustegevuse ja sellega kaasnevate tegevuste (uurimisteemade) rahastamiseks, teadus- ja arendusasutuse teadus- ja arendustegevuse järjepidevuse tagamiseks ning selleks vajaliku infrastruktuuri ajakohastamiseks, täiendamiseks ning ülalpidamiseks eraldatav toetus (institutsionaalne uurimistoetus) või teadus- ja arendusasutuses töötava isiku või uurimisrühma kõrgetasemelise teadus- ja arendustegevuse projekti rahastamiseks eraldatav toetus (personaalne uurimistoetus), sealhulgas magistrandi ja doktorandi teadustöö stipendium ja järeldoktori teadustöö toetamiseks eraldatav toetus",
+      "source_provision": "para2"
+    }
+  ]
+}

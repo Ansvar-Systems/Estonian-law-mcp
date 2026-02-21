@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-25037",
+  "type": "statute",
+  "title": "Rahvusvahelise kohtumenetluse lihtsustamise konventsiooniga ühinemise seadus",
+  "title_en": "Rahvusvahelise kohtumenetluse lihtsustamise konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-25037",
+  "status": "in_force",
+  "issued_date": "1995-12-07",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/25037.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise kohtumenetluse lihtsustamise konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud rahvusvahelise kohtumenetluse lihtsustamise konventsiooniga, mis on alla kirjutatud 1980. aasta 25. oktoobril Haagis."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ühinemisel deklareerida konventsiooni artikli 16 alusel, et Eesti Vabariik ei võta vastu otse esitatud taotlusi. Toomas SAVI Õiend Akti avaldamismärked täiendatud, akt tehniliselt korrastatud."
+    }
+  ],
+  "definitions": []
+}

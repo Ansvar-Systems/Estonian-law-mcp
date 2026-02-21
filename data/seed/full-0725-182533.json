@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-182533",
+  "type": "statute",
+  "title": "Kohtute seadus",
+  "title_en": "Kohtute seadus",
+  "short_name": "ee-law-182533",
+  "status": "in_force",
+  "issued_date": "1991-10-23",
+  "in_force_date": "2002-07-29",
+  "url": "https://www.riigiteataja.ee/akt/182533.xml",
+  "description": "Official consolidated statute text (Kohtute seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

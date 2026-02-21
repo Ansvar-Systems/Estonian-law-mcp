@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-24929",
+  "type": "statute",
+  "title": "Piiriveekogude ja rahvusvaheliste järvede kaitse ja kasutamise konventsiooni ratifitseerimise seadus",
+  "title_en": "Piiriveekogude ja rahvusvaheliste järvede kaitse ja kasutamise konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-24929",
+  "status": "in_force",
+  "issued_date": "1995-05-03",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/24929.xml",
+  "description": "Official consolidated statute text (Piiriveekogude ja rahvusvaheliste järvede kaitse ja kasutamise konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud 1992. aasta 17. märtsil Helsingis sõlmitud ja sealsamas Eesti Vabariigi poolt alla kirjutatud piiriveekogude ja rahvusvaheliste järvede kaitse ja kasutamise konventsioon."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vabariigi Valitsusel korraldada konventsiooni täitmine Eestis. Riigikogu esimees Toomas SAVI Õiend Akti avaldamisandmed täiendatud, lisatud andmed väljakuulutamise kohta."
+    }
+  ],
+  "definitions": []
+}

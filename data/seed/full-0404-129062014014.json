@@ -1,0 +1,610 @@
+{
+  "id": "ee-law-129062014014",
+  "type": "statute",
+  "title": "Ehitusseadus",
+  "title_en": "Ehitusseadus",
+  "short_name": "ee-law-129062014014",
+  "status": "in_force",
+  "issued_date": "2002-05-15",
+  "in_force_date": "2018-01-01",
+  "url": "https://www.riigiteataja.ee/akt/129062014014.xml",
+  "description": "Official consolidated statute text (Ehitusseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab nõuded ehitistele, ehitusmaterjalidele ja -toodetele ning ehitusprojektidele ja ehitiste mõõdistusprojektidele, samuti ehitiste projekteerimise, ehitamise ja kasutamise ning ehitiste arvestuse alused ja korra, vastutuse käesoleva seaduse rikkumise eest ning riikliku järelevalve ja ehitusjärelevalve korralduse.\n(2) Käesolev seadus sätestab nõuded eri liiki ehitistele, nende ehitamisele ja kasutamisele ning neid ehitavatele isikutele niivõrd, kuivõrd seda ei ole reguleeritud teiste seadustega.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesolevast seadusest tulenevaid erisusi.\n(4) Käesolevas seaduses käsitletud ehitusmaterjali ja -toote tootjale, tootja volitatud esindajale, importijale ja levitajale, teavitatud asutusele, samuti ehitusmaterjali ja -toote vastavushindamisele ning turujärelevalvele kohaldatakse toote nõuetele vastavuse seaduse sätteid, arvestades käesolevast seadusest tulenevaid erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Terminid",
+      "content": "(1) Ehitis on aluspinnasega kohtkindlalt ühendatud ja inimtegevuse tulemusena ehitatud terviklik asi. Ehitised jagunevad hooneteks ja rajatisteks.\n(2) Hoone on väliskeskkonnast katuse ja teiste välispiiretega eraldatud siseruumiga ehitis.\n(2^1) Hoone, mille ruumiõhu kvaliteedi tagamiseks, sealhulgas temperatuuri hoidmiseks, tõstmiseks või langetamiseks, kasutatakse energiat, on sisekliima tagamisega hoone.\n(3) Rajatis on mis tahes ehitis, mis ei ole hoone. Funktsionaalselt koos toimivatest rajatistest koosnevat ehituslikku kompleksi võib käsitleda käesoleva seaduse tähenduses ühe rajatisena. Rajatis on muu hulgas ka mere või siseveekogu põhja süvendamise teel rajatud laevakanal, seikluspark, mänguväljak.\n(4) Projekteerimine on:\n1) ehitise või selle osa arhitektuurne ja ehituslik kavandamine;\n2) ehitise tehnosüsteemide kavandamine;\n3) ehitises kasutatava tehnoloogia kavandamine;\n4) ehitise elueast lähtuv ehitise nõuetele vastava kasutamise ja hooldamise tehnomajanduslik hindamine.\n(5) Projekteerimise tulemuseks on ehitusprojekt.\n(6) Ehitamine on:\n1) ehitise püstitamine;\n2) ehitise laiendamine;\n3) ehitise rekonstrueerimine;\n4) ehitise tehnosüsteemi või selle osa muutmine või tehnosüsteemi terviklik asendamine;\n5) ehitise lammutamine.\n(7) Ehitise laiendamine on olemasolevale ehitisele juurde- (külge-), peale- või allaehitamine.\n(8) Ehitise rekonstrueerimine on ehitise piirdekonstruktsioonide muutmine ning kande- ja jäigastavate konstruktsioonide muutmine ja asendamine.\n(8^1) Oluline rekonstrueerimine on selline rekonstrueerimine, mille puhul on hoone piirdekonstruktsioonide muutmisega ning kande- ja jäigastavate konstruktsioonide muutmisega ja asendamisega või välispiirete ja tehnosüsteemide või nende osade muutmisega või tehnosüsteemi tervikliku asendamisega seotud kulud suuremad kui üks neljandik rekonstrueeritava hoonega samaväärse hoone keskmisest ehitusmaksumusest.\n(9) Üksikelamu, suvila, aiamaja, taluhoone, väikeehitise või kahe ja mitme korteriga elamus ühe korteri, trepikoja või keldri piires välimistes seintes olevate avade sulgemiseks mõeldud ehitise osade (avatäidete) asendamine, kui asendamisel jääb avatäidete asukoht konstruktsioonis samaks ning ei muutu ehitise tuleohutusomadused ja välisilme, ei ole käesoleva seaduse tähenduses ehitamine, välja arvatud käesoleva seaduse § 16 lõike 1 punktides 4 ja 5 nimetatud juhtudel.\n(10) Ehitise tehnosüsteem käesoleva seaduse tähenduses on ehitise piires ehitise toimimiseks ja ohutuse tagamiseks vajalike seadmete või kommunikatsioonide kogum koos nende toimimiseks vajalike konstruktsioonielementidega.\n(11) Olulise energiatarbega tehnosüsteem käesoleva seaduse tähenduses on küttesüsteem, vee soojendamise süsteem, õhu jahutamise süsteem ja ventilatsioonisüsteem ning nende kombinatsioon.\n(12) Energiatõhususe miinimumnõuded on olemasolevate või ehitatavate hoonete summaarse energiatarbimise piirmäärad, lähtudes hoonete kasutamise otstarbest ja arvestades tehnilisi näitajaid, olulise energiatarbega tehnosüsteemidele esitatavaid nõudeid või tingimusi taastuvenergia kasutuselevõtuks hoonetes. Energiatõhususe miinimumnõuded võivad hõlmata ka teistele tehnosüsteemidele esitatavaid nõudeid, kui süsteemide talitluse tõttu suureneb hoone energiavajadus olulisel määral."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Ehitisele esitatavad nõuded",
+      "content": "(1) Ehitis peab olema projekteeritud ja ehitatud hea ehitustava ning ehitamist ja ehitusprojekti käsitlevate õigusaktide kohaselt ega või tekitada ohtu inimese elule, tervisele või varale või keskkonnale.\n(2) Ehitisele mõjuvad koormused ja muud mõjud ei või põhjustada ehitise, selle osa või naabruses olevate teiste ehitiste varisemist ning ehitisele, selle aluspinnale või naabruses olevatele teistele ehitistele või nende aluspinnale vastuvõetamatult suuri deformatsioone. Samuti ei või ehitisele mõjuvad koormused ja muud mõjud põhjustada ehitise, selle osade, sisseseade ega paigaldatud seadmete kahjustusi konstruktsioonide suure deformeerumise tõttu, kusjuures erakorralise sündmuse tõttu tekkinud mõjude kahjustused ei või olla ebaproportsionaalselt suured.\n(3) Ehitis peab tulekahju korral säilitama ettenähtud aja jooksul oma kandevõime. Ehitises peab olema takistatud iseeneslik tule ja suitsu levimine, samuti tule levik naaberehitistele. Ehitisest peab olema võimalik inimesi evakueerida, inimestel peab olema võimalus ehitisest ise evakueeruda ning tulekahju korral peavad olema tagatud päästemeeskondade ohutus ja tegutsemisvõimalused.\n(4) Ehitis ei või ohustada selle kasutajate ega teiste inimeste elu, tervist või vara ega keskkonda. Ehitisest tingitud ohtlike kemikaalide kemikaaliseaduse tähenduses eritumine peab olema takistatud. Samuti tuleb vältida müra ning inimest ohustava kiirguse levikut ja vee või pinnase saastumist või mürgitamist ning ehitisega seonduva heitvee, suitsu ja tahkete või vedelate jäätmete puudulikku ärajuhtimist. Ehitise osades ega pindadel ei või koguneda niiskust inimese elu, tervist või vara ohustaval määral.\n(5) Ehitise kasutamine ja hooldamine ei või selle kasutajale põhjustada ettearvamatuid riske ega õnnetusi, nagu näiteks libisemine, kukkumine, kokkupõrge, põletused ja elektrilöögid ning vigastused plahvatuse tagajärjel.\n(6) Ehitises võib olla selle kasutajate poolt tajutav müra tasemel, mis ei ohusta inimese elu ega tervist ning võimaldab rahuldavates tingimustes elada või töötada.\n(7) Ehitise välispiirded ning olulise energiatarbega tehnosüsteemid peavad tagama ehitises tarbitava energiahulga vastavuse ehitise asukoha klimaatilistele tingimustele ning ehitise kasutamise otstarbele. Sisekliima tagamisega hoone välispiirded ning olulise energiatarbega tehnosüsteemid peavad olema projekteeritud ja ehitatud selliselt, et nende koostoimel oleks võimalik tagada energiatõhususe miinimumnõuete täitmine.\n(7^1) Energiatõhususe miinimumnõuete järgimine ei ole nõutav järgmiste sisekliima tagamisega hoonete puhul:\n1) üld- või detailplaneeringu alusel miljööväärtuslikule hoonestusalale jäävad või väärtusliku üksikobjektina määratletud hooned või hooned, mis on tunnistatud kultuurimälestisteks, mis asuvad muinsuskaitsealal muinsuskaitseseaduse alusel või mis kuuluvad UNESCO maailmapärandi nimekirja ning mille olemust või välisilmet muudaks energiatõhususe miinimumnõuete täitmine oluliselt;\n2) kultus- ja tavandihooned;\n3) hooned, mille kasutusiga on kuni kaks aastat;\n4) tööstushooned, töökojad ja madala energiavajadusega, eluruumideta põllumajandushooned;\n5) hooned, mida kasutatakse elamiseks vähem kui neli kuud aastas;\n6) hooned, mille ruumide kasutamise otstarbele vastavate pindade ja ruumide teenindamiseks vajalike pindade summa (edaspidi kasulik pind ) on kuni 50 m^2.\n(7^2) Käesoleva seaduse § 2 lõikes 12 sätestatud energiatõhususe miinimumnõuded ja arvväärtused sisekliima tagamisega uutele ja oluliselt rekonstrueeritavatele hoonetele kehtestab Vabariigi Valitsus määrusega.\n(7^3) Hoonete energiatõhususe arvutamise metoodika, tehnosüsteemidele esitatavad nõuded ning hoonetes taastuvenergia kasutuselevõtu tingimused kehtestab valdkonna eest vastutav minister määrusega.\n(7^4) Ehitises kasutatavate ehitustoodete puhul peab järgima Euroopa Parlamendi ja nõukogu määruses (EL) nr 305/2011, millega sätestatakse ehitustoodete ühtlustatud turustustingimused ning tunnistatakse kehtetuks nõukogu direktiiv 89/106/EMÜ (ELT L 88, 04.04.2011, lk 5‒43), ning toote nõuetele vastavuse seaduses ja selle alusel kehtestatud õigusaktis sätestatud nõudeid.\n(7^5) Ehitisse tööstuslikult töötlemata loodusliku ehitusmaterjali, traditsioonilisel teel valmistatud rahvusliku ehitustoote või taaskasutatud ehitustoote püsivalt paigaldamisel peab olema tagatud ehitise vastavus käesoleva paragrahvi lõigetes 2‒7 sätestatud nõuetele.\n(8) Käesoleva paragrahvi lõigetes 2–7^1 sätestatud nõuded kehtivad ehitise kasutusaja jooksul.\n(9) Kui ehitise kasutamise otstarve seda eeldab, peavad ehitis ja selle üldkasutatavad osad ning ruumid või alad olema ligipääsetavad ja kasutatavad liikumis-, nägemis- ja kuulmispuudega inimestele.\n(10) Nõuded liikumis-, nägemis- ja kuulmispuudega inimeste liikumisvõimaluste tagamiseks üldkasutatavates ehitistes kehtestab valdkonna eest vastutav minister.\n(11) Vabariigi Valitsus võib ehitise omadustest ja kasutamise ohutusnõuetest tulenevalt kehtestada nõuded ehitisele või selle osale."
+    },
+    {
+      "provision_ref": "para3^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3^1",
+      "title": "§ 3^1. Energiamärgis",
+      "content": "(1) Energiamärgis on dokument, mis antakse projekteeritava või olemasoleva sisekliima tagamisega hoone kohta ja mille eesmärk on anda teada, milline on selle hoone projekteeritud energiavajadus või tegelik energiatarbimine, ning vajaduse korral tõendada hoone vastavust energiatõhususe miinimumnõuetele. Energiamärgisele lisatakse soovitused hoone energiatõhususe parandamiseks, välja arvatud juhul, kui selliseks parandamiseks puudub mõistlik võimalus.\n(1^1) Ettevõtja, kes annab energiamärgise, kannab energiamärgise andmed üksnes elektrooniliselt riiklikusse ehitisregistrisse.\n(2)\n(3) Energiamärgise kehtivusaeg on kümme aastat. Hiljem antud energiamärgis tunnistab varem samale ehitisele või ehitise osale antud energiamärgise kehtetuks.\n(4) Energiamärgise vormi ja väljaandmise korra kehtestab valdkonna eest vastutav minister.\n(5) Vabariigi Valitsus kehtestab loetelu suurte rahvahulkade kogunemisega seotud üle 500-ruutmeetrise kasuliku pinnaga sisekliima tagamisega hoonete liikidest, mille puhul on nõutav energiamärgise olemasolu. Energiamärgis tuleb nimetatud hoonetes paigaldada külastajate jaoks nähtavale kohale.\n(5^1) Sisekliima tagamisega hoonetes, milles riigi- või kohaliku omavalitsuse asutuse valduses on rohkem kui 500 ruutmeetrit kasulikku pinda, ning alates 2015. aasta 9. juulist hoonetes, milles riigi- või kohaliku omavalitsuse asutuse valduses on rohkem kui 250 ruutmeetrit kasulikku pinda, tuleb energiamärgis paigaldada külastajate jaoks nähtavale kohale.\n(6) Käesoleva seaduse § 3 lõikes 7^1 nimetatud sisekliima tagamisega hoonete puhul ei ole energiamärgis nõutav ning neile ei kohaldata § 3^2 nõudeid."
+    },
+    {
+      "provision_ref": "para3^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3^2",
+      "title": "§ 3^2. Energiamärgis hoone püstitamisel ja tasu eest võõrandamisel või üürile andmisel või liisingulepingu sõlmimisel",
+      "content": "(1) Projekteerimisettevõtja annab energiamärgise sisekliima tagamisega hoone kui terviku kohta selle püstitamisel või laiendamisel, kui laiendatava osa piirdekonstruktsioonide, kande- ja jäigastavate konstruktsioonide ning tehnosüsteemide maksumus on suurem kui üks neljandik laiendatava hoonega samaväärse hoone ehitusmaksumusest, või olulisel rekonstrueerimisel.\n(2) Sisekliima tagamisega hoone püstitamisel, mille kasulik pind on suurem kui 50 m^2 ja millel puudub ehitusprojekt, lisatakse energiamärgis kohalikule omavalitsusele esitatavale kirjaliku nõusoleku taotlusele.\n(3) Hoone eraldi kasutatavale osale võib anda iseseisva energiamärgise, kui hoones puudub ühine küttesüsteem.\n(4) Lisaks käesoleva seaduse § 3^1 lõikes 1 nimetatule peab projekteerimisettevõtja energiamärgisel kinnitama, et projekteeritud hoone vastab energiatõhususe miinimumnõuetele.\n(5)\n(6)\n(7) Sisekliima tagamisega hoone või selle eraldi kasutatava osa üürileandja või müüja võimaldab hoone või selle osa tasulisel võõrandamisel või kasutusse andmisel lepingu sõlmimisest huvitatud isikul energiamärgisega tutvuda. Sisekliima tagamisega hoone või selle eraldi kasutatava osa tasu eest võõrandamise või kasutusse andmise kuulutus peab kohustusliku teabena sisaldama energiamärgise andmetest vähemalt energiatõhususarvu või kaalutud energia erikasutust ja sellele vastavat klassi."
+    },
+    {
+      "provision_ref": "para3^3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3^3",
+      "title": "§ 3^3. Soojus- ja jahutusseadmete registreerimine ja nende energiatõhusa talitluse tagamine",
+      "content": "(1) Kui sisekliima tagamisega hoone või hoone kütte- või jahutussüsteemi ehitamisel on nõutav ehitusprojekt, peab:\n1) projekteerija nõustama ehitise omanikku kuumaveekatla, soojuspumba ja jahutusseadme (edaspidi soojus- ja jahutusseadme ) valikul, asendamisel ning tehnosüsteemi muude muudatuste ja võimalike lahenduste puhul, et hinnata soojus- ja jahutusseadme energiatõhusust ja kohast võimsust;\n2) ettevõtja, kes paigaldab soojus- ja jahutusseadme, registreerima riiklikus ehitisregistris paigaldatud soojus- ja jahutusseadme tehnilised andmed, kui soojusseadme nimivõimsus on suurem kui 20 kilovatti ning jahutusseadme nimivõimsus on suurem kui 12 kilovatti.\n(1^1) Kui sisekliima tagamisega hoone või hoone kütte- ja jahutussüsteemi ehitamisel ei ole ehitusprojekt nõutav, peab ettevõtja, kes levitab või paigaldab soojus- ja jahutusseadme:\n1) nõustama ehitise omanikku soojus- ja jahutusseadme valikul ja asendamisel ning tehnosüsteemi muude muudatuste ja võimalike lahenduste puhul, et hinnata soojus- ja jahutusseadme energiatõhusust ja kohast võimsust;\n2) registreerima riiklikus ehitisregistris paigaldatud soojus- ja jahutusseadme tehnilised andmed, kui soojusseadme nimivõimsus on suurem kui 20 kilovatti ning jahutusseadme nimivõimsus on suurem kui 12 kilovatti.\n(2) Registreeritavate soojus- ja jahutusseadmete täpse määratluse ja andmete loetelu ning andmete edastamise korra kehtestab valdkonna eest vastutav minister.\n(3)\n(4)\n(5)"
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Ehitise garantii",
+      "content": "(1) Käesoleva seaduse tähenduses on garantii ehitusettevõtja poolt võetud kohustus tagada, et tema tehtud ehitustöö vastab lepingu tingimustele ning ehitustöö tulemusena ehitatud ehitisel või selle osal säilivad määratud aja jooksul sihipärase kasutamise ja hooldamise korral ehitise või selle osa kasutamiseks vajalikud ohutuse ja kasutamise omadused ning kvaliteet.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud garantii kestus on vähemalt kaks aastat ehitamise lõppemise päevast arvates, seejuures ehitamise lõppemise päeva määravad ehitusettevõtja ja ehitise või valmiva ehitise omanik (edaspidi ehitise omanik ) omavahelises lepingus. Kui lepingus ei ole määratud ehitamise lõppemise päeva, loetakse ehitise garantii alguse ajaks ehitusettevõtja poolt ehitise või selle osa ehitise omanikule üleandmise päev. Ehitustöö käigus ehitisse püsivalt paigaldatud seadmetele kohaldatakse nende tootja poolt ettenähtud garantiid, kusjuures ehitusettevõtja poolt antav seadmete garantii kestus ei või olla lühem kui kuus kuud.\n(3) Ehitise garantii kestuse ajal ilmsiks tulnud ehitusvead kõrvaldab ehitusettevõtja oma kulul mõistliku aja jooksul.\n(4) Käesoleva paragrahvi lõigetes 1–3 sätestatu ei välista ega piira ehitusettevõtja vastutust ega nõuete aegumist võlaõigusseaduse ja tsiviilseadustiku üldosa seaduse alusel. Garantiitähtaja jooksul ilmnenud lepingutingimustele mittevastavuse puhul eeldatakse, et see oli olemas töö üleandmise ajal, kui selline eeldus ei ole vastuolus töö või puuduse olemusega."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - EHITUSMATERJAL JA EHITUSTOODE",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - EHITUSMATERJAL JA EHITUSTOODE",
+      "section": "9",
+      "title": "§ 9. Tehnilise hindamise asutus",
+      "content": "(1) Valdkonna eest vastutav minister annab õiguse tegutseda Eesti tehnilise hindamise asutusena isikule, kes vastab Euroopa Parlamendi ja nõukogu määruses (EL) nr 305/2011 sätestatud nõuetele. Tegutsemisõiguse ulatus Eesti tehnilise hindamise asutusena nähakse ette valdkonna eest vastutava ministri ning isiku vahelises halduslepingus.\n(2) Eesti tehnilise hindamise asutusena tegutseda sooviv isik esitab valdkonna eest vastutavale ministrile taotluse, milles ta kinnitab, et on võimeline täitma Euroopa Parlamendi ja nõukogu määruses (EL) nr 305/2011 sätestatud kohustusi.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud taotluse saamisel moodustab valdkonna eest vastutav minister oma käskkirjaga komisjoni isiku nõuetele vastavuse hindamiseks."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "12",
+      "title": "§ 12. Ehitamisele esitatavad nõuded",
+      "content": "(1) Ehitada tuleb vastavalt ehitusprojektile, välja arvatud käesolevas seaduses ettenähtud juhtudel väikeehitise ehitamise korral. Ehitamisel tuleb vältida ehitamise kahjulikke mõjusid naaberehitisele, ümbrusele ja teistele isikutele.\n(2) Ehitamiseks peab olema ehitusluba, välja arvatud väikeehitise, käesoleva paragrahvi lõikes 2^1 nimetatud avaliku veekogu põhjale toetuva kuni 60 m^2 veesõidukite sildumiseks kohandatud rajatise või muude käesoleva seaduse § 16 lõike 1 punktides 1 ja 2 nimetatud ehitiste või nende osade ehitamise korral, mille puhul on nõutav kirjalik nõusolek, või § 16 lõikes 6 nimetatud ehitise ehitamise korral, mille puhul ehitise omanik teavitab kohalikku omavalitsust kavatsusest ehitada väikeehitist. Ehitusluba, kirjalik nõusolek või kohaliku omavalitsuse teavitamine ei anna õigust ehitada ilma maaüksuse või ehitise omaniku loata.\n(2^1) Avaliku veekoguga piirneva kaldakinnisasja omanikul on õigus ehitada kaldakinnisasjale üle kinnisasja piiri ulatuv ning veekogu põhjale toetuv veesõidukite sildumiseks kohandatud rajatis, mis ei takista veesõidukite liiklemist ja mille ehitisealune pind ei ületa 60 m^2. Sellise rajatise ehitamiseks, mille ehitisealune pind on 20–60 m^2, avalike veekogude hulka kuuluvate jõgede puhul 10–60 m^2, on nõutav kirjalik nõusolek, mille annab kohalik omavalitsus, kelle haldusterritooriumil kaldakinnisasi asub.\n(3) Ehitada võib ehitusettevõtja, kes vastab käesoleva seaduse §-s 41 sätestatud nõuetele.\n(4) Üksikelamu, suvila, aiamaja, taluhoone ja väikeehitise enda tarbeks ehitamise korral ei pea järgima käesoleva paragrahvi lõikes 3 sätestatut."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "13",
+      "title": "§ 13. Teede ning tehnovõrkude ja -rajatiste ehitamine",
+      "content": "Detailplaneeringukohase avalikult kasutatava tee ja üldkasutatava haljastuse, välisvalgustuse ja vihmaveekanalisatsiooni väljaehitamise kuni ehitusloale märgitud maaüksuseni tagab kohalik omavalitsus, kui kohalik omavalitsus ja detailplaneeringu koostamise taotleja või ehitusloa taotleja ei ole kokku leppinud teisiti."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "15",
+      "title": "§ 15. Väikeehitis",
+      "content": "(1) Väikeehitis käesoleva seaduse tähenduses on:\n1) kuni 60 m^2 ehitisealuse pinnaga ühel kinnistul asuv ehitis, mille projekteeritud kõrgus maapinnast on kuni viis meetrit ja millel ei ole avalikkusele suunatud funktsioone;\n2) olemasolevate ehitiste teenindamiseks vajalik rajatis, mis ühendatakse võrguettevõtjale elektrituruseaduse tähenduses kuuluva elektriliini või sellega liituva ehitisega, gaasiettevõtjale maagaasiseaduse tähenduses kuuluva gaasivõrguga, vee-ettevõtjale ühisveevärgi ja -kanalisatsiooni seaduse tähenduses kuuluva liitumispunktiga või sideettevõtjale elektroonilise side seaduse tähenduses kuuluva liinirajatisega.\n(1^1) Avalikku veekogusse ehitatud kaldaga püsivalt ühendamata ehitist ei loeta olenemata funktsioonist ja ehitisealuse pinna suurusest käesoleva seaduse tähenduses väikeehitiseks.\n(2) Väikeehitise ehitamiseks ei ole ehitusprojekt nõutav, välja arvatud juhul, kui käesoleva seaduse §-s 16 nimetatud kirjaliku nõusoleku andmisele eelneb ehitusprojekti esitamise nõue või taotletakse kasutusluba.\n(3)"
+    },
+    {
+      "provision_ref": "para15^1",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "15^1",
+      "title": "§ 15^1. Ajutine ehitis",
+      "content": "Ajutine ehitis on piiratud ajavahemikuks, kuid mitte kauemaks kui viieks aastaks ehitatud ehitis. Ajutise ehitise ehitamise korral määrab kohalik omavalitsus ehitise kasutamise aja kirjalikus nõusolekus, ehitusloas või kasutusloas."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "16",
+      "title": "§ 16. Kirjalik nõusolek",
+      "content": "(1) Kohaliku omavalitsuse kirjalik nõusolek on nõutav, kui:\n1) ehitatakse väikeehitist, mille ehitisealune pind on 20–60 m^2;\n2) muudetakse ehitise tehnosüsteemi või asendatakse kogu tehnosüsteem samaväärsega;\n3) püstitatakse detailplaneeringu koostamise kohustusega aladel maa-ala piiramiseks piirdeaedasid, mille ehitamiseks on vajalikud kaevetööd;\n4) asendatakse detailplaneeringu kohustusega miljööväärtuslikel hoonestusaladel üksikelamu, suvila, aiamaja, taluhoone, väikeehitise või kahe ja mitme korteriga elamus ühe korteri, trepikoja või keldri piires välimisi avatäiteid;\n5) asendatakse kahe ja mitme korteriga elamus korteri, trepikoja või keldri piires välimisi avatäiteid, kui vahetamisel jääb avatäidete asukoht konstruktsioonis samaks ning ei halvene ehitise tuleohutusomadused, kuid muutub ehitise välisilme.\n(1^1) Kirjaliku nõusoleku taotluse esitab maaüksuse või ehitise omanik või ehitise kaasomanik kaasomanike enamuse otsuse kohaselt, kui sellele enamusele kuulub suurem osa ühises asjas, või korteriomanik korteriomanike häälteenamuse alusel.\n(2) Kirjalikus nõusolekus sisalduvad:\n1) ehitise asukoha aadress, katastritunnus ja koordinaadid;\n2) kohaliku omavalitsuse nimi ning ametniku nimi, ametinimetus ja allkiri;\n3) kirjaliku nõusoleku andmise aeg;\n4) ehitise kasutamise otstarve;\n5) ehitise olulised tehnilised andmed;\n6) ehitisele antud riikliku ehitisregistri kood;\n7) ajutise ehitise korral selle kasutamise aeg.\n(3) Kohalikul omavalitsusel on õigus enne kirjaliku nõusoleku andmist nõuda põhjendatud juhtudel taotlejalt ehitusprojekti. Põhjendatud juhtudeks on muu hulgas:\n1) ehitise ohutuse tagamise vajadus;\n2) ehitise või ehitamise tehniline keerukus;\n3) detailplaneeringust, projekteerimistingimustest või ehitise arhitektuursetest ja ehituslikest lisatingimustest tulenevad nõuded või kui muudetakse tehnosüsteemi või selle osa toimimise põhimõtteid.\n(4) Kirjaliku nõusoleku andmisest keeldutakse, kui:\n1) ehitusprojekt ei vasta sellele esitatavatele nõuetele või\n2) ehitusprojekt ei vasta kehtivale detailplaneeringule või\n3) ehitise asukoht ei vasta kehtivale detailplaneeringule või\n4) ehitusprojekt ei vasta projekteerimistingimustele või\n5) ehitis ei vasta ehitise arhitektuursetele ja ehituslikele lisatingimustele või\n6) ehitis pärast selle tehnosüsteemide muutmist ei vasta ehitisele esitatavatele nõuetele.\n(5) Kohalik omavalitsus annab käesoleva paragrahvi lõikes 1 nimetatud kirjaliku nõusoleku või keeldub selle andmisest 10 päeva jooksul kirjaliku nõusoleku taotluse saabumise päevast arvates või ehitusprojekti nõude korral ehitusprojekti esitamise päevast arvates.\n(6) Detailplaneeringu kohustusega aladel peab ehitise omanik kuni 20 m^2 ehitisealuse pinnaga väikeehitise püstitamise kavatsusest teavitama kohalikku omavalitsust. Teavitamiseks tuleb kümme tööpäeva enne väikeehitise püstitamise alustamist esitada valdkonna eest vastutava ministri kehtestatud vormi kohane taotlus ehitise püstitamiseks ja ehitise asukoha kirjeldus krundil. Kui kohalik omavalitsus ei esita nimetatud tähtaja jooksul väikeehitise püstitamisele täiendavaid tuleohutusnõudeid või krundi ja ümbruse varasemast hoonestusest tulenevaid nõudeid või ei nõua ehitise omanikult lisaandmeid, võib ehitise omanik alustada väikeehitise püstitamist. Ehitise omanik esitab ehitise teatise viie tööpäeva jooksul väikeehitise püstitamise päevast arvates.\n(7) Ehitise teatises esitatakse andmed ehitise omaniku ja ehitise asukoha kohta ning ehitise olulised tehnilised andmed.\n(8) Ehitise teatise vorminõuded ja esitamise korra kehtestab valdkonna eest vastutav minister.\n(9) Kirjalik nõusolek on tähtajatu. Kirjalik nõusolek kaotab kehtivuse, kui ehitamist ei ole alustatud kahe aasta jooksul kirjaliku nõusoleku andmise päevast arvates. Kirjalik nõusolek avalikustatakse riikliku ehitisregistri veebilehel.\n(10) Kirjaliku nõusoleku taotluse läbivaatamise eest tasutakse riigilõiv riigilõivuseaduses sätestatud määra järgi."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "17",
+      "title": "§ 17. Kirjaliku nõusoleku taotlus",
+      "content": "(1) Kirjaliku nõusoleku taotluses sisalduvad:\n1) taotleja nimi, kontaktandmed, äriregistri või muu registri kood või isikukood, viimase puudumise korral sünniaeg;\n2) väikeehitise asukoha aadress, katastritunnus ning väikeehitise asendiplaan või koordinaadid ja nimetus;\n3) väikeehitise kasutamise otstarve;\n4) väikeehitise kavandatav kasutuselevõtmise aeg;\n5) ehitusprojekti olemasolu korral ehitusprojekti koostaja nimi ja ehitusprojekti kontrollija olemasolu korral tema nimi ning nende kontaktandmed, äriregistri või muu registri kood või isikukood, viimase puudumise korral sünniaeg;\n6) omanikujärelevalve tegija nimi, kontaktandmed, äriregistri või muu registri kood või isikukood, viimase puudumise korral sünniaeg, kui omanikujärelevalve tegija on teada;\n7) ehitamist teostava isiku nimi, kontaktandmed, äriregistri või muu registri kood või isikukood, viimase puudumise korral sünniaeg, kui ehitamist teostav isik on teada;\n8) väikeehitise olulised tehnilised andmed;\n9) ajutise ehitise ehitamise korral ehitise kasutamise taotletav aeg;\n10) andmed riigilõivu tasumise kohta.\n(2) Kirjaliku nõusoleku taotluses võib esitada taotluse mitme väikeehitise ehitamise kohta.\n(2^1) Kui väikeehitise püstitamiseks on nõutav ehitusprojekt, lisatakse energiamärgis kohalikule omavalitsusele esitatavale kirjaliku nõusoleku taotlusele.\n(3) Kui kirjaliku nõusoleku taotleja esitatud dokumendid on puudulikud, peab kohalik omavalitsus võimaldama taotlejal puudused kõrvaldada, määrates selleks taotlejale tähtaja, mis ei või olla lühem kui viis tööpäeva.\n(4) Kirjaliku nõusoleku taotluse vorminõuded ja esitamise korra kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "18",
+      "title": "§ 18. Ehitusprojekt",
+      "content": "(1) Ehitusprojekt on ehitise või selle osa ehitamiseks ja kasutamiseks vajalike dokumentide kogum, mis koosneb tehnilistest joonistest, seletuskirjast, hooldusjuhendist ja muudest asjakohastest dokumentidest.\n(2) Ehitusprojekt peab olema koostatud selliselt, et selle järgi ehitatav ehitis vastaks käesoleva seaduse §-s 3 sätestatud nõuetele. Ehitusprojekti koostamisel tuleb arvesse võtta geodeetilisele süsteemile esitatavaid nõudeid avaliku teabe seaduse tähenduses.\n(3) Ehitusprojekt koostatakse detailsuses ja ulatuses (eelprojekt, põhiprojekt ja tööprojekt), mis võimaldab:\n1) selle järgi ehitusluba väljastada ja ehitada;\n2) ehitist kasutada ja hooldada;\n3) kontrollida ehitamise vastavust ehitusprojektile;\n4) kontrollida ehitise vastavust õigusaktides kehtestatud nõuetele.\n(4) Ehitusprojekt, välja arvatud väikeehitise ehitusprojekt, mille järgi ehitatakse, peab olema:\n1) koostatud või kontrollitud käesoleva seaduse §-s 47 nimetatud projekteerimises pädeva vastutava spetsialisti poolt või\n2) kontrollitud käesoleva seaduse §-s 47 nimetatud ehitusprojektide ekspertiiside tegemises pädeva vastutava spetsialisti poolt.\n(5) Nõuded ehitusprojektile kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "19",
+      "title": "§ 19. Ehitusprojekti koostamise lähteandmed",
+      "content": "(1) Ehitise püstitamiseks ja laiendamiseks koostatava ehitusprojekti aluseks on:\n1) detailplaneeringu koostamise kohustuse korral kehtestatud detailplaneering ning olemasolu korral kohaliku omavalitsuse väljastatud lisatingimused, mis täpsustavad ehitise arhitektuurseid ja ehituslikke tingimusi, mida detailplaneering ei sisalda;\n2) detailplaneeringu koostamise kohustuse puudumise korral projekteerimistingimused.\n(2) Ehitise asukoha maaüksuse omadustest tulenevalt võivad lisaks käesoleva paragrahvi lõikes 1 nimetatule olla ehitise püstitamiseks koostatava ehitusprojekti aluseks projekteeritava ehitise asukoha maaüksuse ehitusgeoloogiliste ja -geodeetiliste tööde tulemused.\n(3) Projekteerimistingimused on kohaliku omavalitsuse kinnitatud konkreetsele ehitisele kohaldatavad arhitektuursed ja ehituslikud tingimused. Projekteerimistingimuste väljastamisel võtab kohalik omavalitsus aluseks planeeringutes või muul viisil maakasutust korraldavates dokumentides sisalduvaid ehituslikke tingimusi. Projekteerimistingimused koostatakse ja väljastatakse huvitatud isiku taotluse alusel hiljemalt 30 päeva jooksul sellekohase taotluse esitamise päevast arvates.\n(3^1) Kui taotletakse projekteerimistingimusi avalikku veekogusse kaldaga püsivalt ühendatud ehitise ehitamiseks, koostab ja väljastab projekteerimistingimused see kohalik omavalitsus, kelle haldusterritooriumil kaldakinnisasi asub. Projekteerimistingimused avalikku veekogusse kaldaga püsivalt ühendatud ehitise ehitamiseks koostatakse ja väljastatakse 60 päeva jooksul sellekohase taotluse esitamise päevast arvates. Põhjendatud juhul on projekteerimistingimuste koostajal õigus nimetatud tähtaega pikendada, teavitades tähtaja pikendamisest ja selle põhjusest projekteerimistingimuste taotlejat.\n(3^2) Käesoleva paragrahvi lõikes 3^1 nimetatud projekteerimistingimused kooskõlastab kohalik omavalitsus enne nende väljastamist Tehnilise Järelevalve Ametiga. Projekteerimistingimused saadab kohalik omavalitsus Tehnilise Järelevalve Ametile kooskõlastamiseks 30 päeva jooksul sellekohase taotluse esitamise päevast arvates. Tehnilise Järelevalve Amet korraldab projekteerimistingimuste kooskõlastamise arvestusega, et kohalik omavalitsus saaks kinni pidada käesoleva paragrahvi lõikes 3^1 projekteerimistingimuste koostamise ja väljastamise tähtaja kohta sätestatust. Projekteerimistingimused esitatakse Tehnilise Järelevalve Ametile kooskõlastamiseks elektrooniliselt.\n(3^3) Tehnilise Järelevalve Amet saadab projekteerimistingimused, mille kohalik omavalitsus on esitanud kooskõlastamiseks, seisukoha võtmiseks Keskkonnaametile, Kaitseministeeriumile, Siseministeeriumile, Veeteede Ametile ning Lennuametile (edaspidi seisukohavõtja ). Seisukohavõtjad esitavad oma seisukoha projekteerimistingimuste kohta Tehnilise Järelevalve Ametile 15 päeva jooksul projekteerimistingimuste kättesaamise päevast arvates. Kui seisukohavõtja ei esita oma seisukohta nimetatud tähtaja jooksul, loetakse, et tal ei ole projekteerimistingimuste osas vastuväiteid.\n(3^4) Tehnilise Järelevalve Ametil on õigus projekteerimistingimuste kooskõlastamisest põhjendatud juhul keelduda. Põhjendatud juhuks peetakse avalikku huvi, eelkõige kui kavandatav kaldaga püsivalt ühendatud ehitis:\n1) võib kahjustada keskkonda, kaitstavat loodusobjekti või loodusobjekti, mille kaitse alla võtmine on menetluses;\n2) on vastuolus riigi julgeolekuhuvidega;\n3) häiriks lennu- või laevaliiklust.\n(3^5) Kui Tehnilise Järelevalve Amet avalikku veekogusse kaldaga püsivalt ühendatud ehitise ehitamiseks taotletavaid projekteerimistingimusi ei kooskõlasta, jätab kohalik omavalitsus need väljastamata.\n(3^6) Avalikku veekogusse kaldaga püsivalt ühendamata ehitise ehitamiseks koostab ja väljastab projekteerimistingimused Tehnilise Järelevalve Amet. Projekteerimistingimused väljastatakse isikule, kellel on veeseaduse § 22^5 lõikes 1 sätestatud hoonestusluba.\n(4) Kohalik omavalitsus määrab valla või linna ehitusmääruses:\n1) ehitise arhitektuursete ja ehituslike lisatingimuste määramise korra;\n2) projekteerimistingimuste avalikustamise korra;\n3) ajutise ehitise ehitamise korra ja alad;\n4) linna või valla osade, sealhulgas miljööväärtuslike hoonestusalade planeerimise ja ehitamise põhimõtted ja nõuded;\n5) kohaliku omavalitsuse ülesannete jaotuse ja tähtajad planeerimis- ja ehitusvaldkonna korraldamisel."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "20",
+      "title": "§ 20. Ehitusgeoloogilised ja -geodeetilised tööd",
+      "content": "(1) Ehitusgeoloogiliste ja -geodeetiliste tööde (edaspidi ehitusuuringud ) eesmärgiks on saada vajalikke lähteandmeid maa-alade planeerimiseks, ehitusprojekti koostamiseks ja ehitamiseks.\n(2) Ehitusuuringuid tegev ettevõtja on kohustatud ehitusuuringute tulemused esitama kohalikule omavalitsusele 10 päeva jooksul ehitusuuringute lõpetamise päevast arvates. Ehitusuuringute tulemused võib esitada elektrooniliselt. Ehitusuuringute tegemisel tuleb arvesse võtta geodeetilisele süsteemile esitatavaid nõudeid avaliku teabe seaduse tähenduses.\n(3) Kohalik omavalitsus peab säilitama ehitusuuringute tulemusi vähemalt 99 aastat ehitusuuringute tulemuste esitamise päevast arvates.\n(4) Ehitusuuringute tegemise korra kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "21",
+      "title": "§ 21. Ehitusprojekti ekspertiis",
+      "content": "(1) Ehitusprojekti ekspertiis on ehitusprojekti vastavuse hindamine ehitusprojektile ettenähtud nõuetele, sealhulgas ehitusprojekti järgi ehitatava ehitise nõuetele vastavuse osas.\n(2) Ehitusprojekti ekspertiis on kohustuslik suurte rahvahulkade kogunemise, suurõnnetuse ohu või muul moel kõrgendatud riskiga seotud ehitise ehitusprojektile.\n(3) Ehitusprojektile ei või ekspertiisi teha sama ehitusprojekti koostanud või seda kontrollinud isik.\n(4) Ehitusprojekti ekspertiisi tegemise korra kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "22",
+      "title": "§ 22. Ehitusluba",
+      "content": "(1) Ehitusluba on kohaliku omavalitsuse või riigi nõusolek:\n1) püstitada ehitusloale märgitud maaüksusele või veekogusse ehitis ja ehitise teenindamiseks vajalikke rajatisi;\n2) laiendada ehitusloale märgitud ehitist või selle osa;\n3) rekonstrueerida ehitusloale märgitud ehitist või selle osa;\n4) lammutada ehitusloale märgitud ehitist või selle osa.\n(2) Ehitusloaga, mis annab õiguse ehitise laiendamiseks või rekonstrueerimiseks, võib ehitusloa väljastaja anda ka õiguse sama ehitise tehnosüsteemi muutmiseks või kogu tehnosüsteemi asendamiseks samaväärsega.\n(3) Ehitusloaga, mis annab õiguse ehitise laiendamiseks, võib ehitusloa väljastaja anda õiguse ka sama ehitise rekonstrueerimiseks.\n(4) Ehitusloa andmed avalikustatakse riikliku ehitisregistri veebilehel.\n(4^1) Kui ehitusloa väljastamisele eelneb keskkonnamõju hindamine, avaldab ehitusloa väljastaja teate ehitusloa väljastamise kohta ka ühes maakondlikus või kohalikus ajalehes. Teates avaldatakse:\n1) ehitusloa sisu ja tingimused;\n2) ehitusloa väljastamise põhjendus ja vajaduse korral kahjulike mõjude vältimise, vähendamise ja võimaluse korral kõrvaldamise meetmete kirjeldus;\n3) teave üldsuse kaasamise kohta.\n(5) Ehitusloa vorminõuded kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "23",
+      "title": "§ 23. Ehitusloa väljastamine",
+      "content": "(1) Ehitusloa väljastab ja tunnistab kehtetuks kohalik omavalitsus. Avalikku veekogusse kaldaga püsivalt ühendatud ehitise ehitamiseks väljastab ehitusloa ja tunnistab selle vajaduse korral kehtetuks see kohalik omavalitsus, kelle haldusterritooriumil kaldakinnisasi asub. Avalikku veekogusse kaldaga püsivalt ühendamata ehitise ehitamiseks väljastab ehitusloa ja tunnistab selle vajaduse korral kehtetuks Tehnilise Järelevalve Amet.\n(1^1) Ehitusloa taotluse esitab maaüksuse või ehitise omanik või ehitise kaasomanik kaasomanike enamuse otsuse kohaselt, kui sellele enamusele kuulub suurem osa ühises asjas, või korteriomanik korteriomanike häälteenamuse alusel.\n(2) Ehitusloa saamiseks tuleb:\n1) esitada ehitusloa taotlus;\n2) esitada ehitusprojekt, mis vastab ehitusloa taotlemisel ehitusprojektile esitatavatele nõuetele ja on koostatud või kontrollitud käesoleva seaduse §-s 47 nimetatud projekteerimises pädeva või kontrollitud käesoleva seaduse §-s 47 nimetatud ehitusprojektide ekspertiiside tegemises pädeva vastutava spetsialisti poolt ja mis on seadustega ettenähtud juhtudel heaks kiidetud;\n2^1) esitada energiamärgis, kui see on nõutav;\n3) tasuda riigilõiv.\n(3) Ehitusluba antakse ehitusloa taotlejale, välja arvatud käesoleva paragrahvi lõigetes 4, 5 ja 5^1 nimetatud juhtudel.\n(4) Ehitusluba ehitise lammutamiseks väljastatakse ehitise omanikule. Kui ehitis on mitme isiku ühises omandis, peavad ehitusloa taotluse ehitise lammutamiseks esitama ehitise omanikud ühiselt.\n(5) Ehitusluba avalikku veekogusse kaldaga püsivalt ühendatud ehitise ehitamiseks väljastatakse isikule, kes on kaldakinnisasja omanik või hoonestaja. Ehitusluba avalikku veekogusse kaldaga püsivalt ühendamata ehitise ehitamiseks väljastatakse isikule, kellel on veeseaduse § 22^5 lõikes 1 sätestatud hoonestusluba. Ehitusluba teisele isikule kuuluvale kinnisasjale tehnovõrgu või -rajatise ehitamiseks väljastatakse kinnisasja omaniku nõusolekul. Kinnisasja omaniku nõusolek ei ole vajalik, kui ehitusloa taotleja kasuks on seatud sundvaldus. Ehitusloa väljastamisest teavitatakse kinnisasja omanikku. Avalikku veekogusse ehitatava veekaabelliini ehitamiseks on vajalik veeseaduse § 22^2 kohane nõusolek.\n(5^1) Elektrituruseaduses sätestatud võrgu või liini ehitamiseks väljastatakse ehitusluba, arvestades käesoleva paragrahvi lõikes 5 sätestatut, järgmiselt:\n1) jaotusvõrgu ehitamiseks väljastatakse ehitusluba sellele jaotusvõrguettevõtjale, kelle tegevusloas märgitud teeninduspiirkonnas võrgu ehitamiseks ehitusluba taotletakse. Sätet ei kohaldata käesoleva lõike punktides 2–4 nimetatud liini ehitamise suhtes;\n2) põhivõrgu ja riigipiiri ületava suurema kui 35 kV pingega vahelduvvooluliini ehitamiseks väljastatakse ehitusluba põhivõrgu kaudu võrguteenuse osutamiseks tegevusluba omavale põhivõrguettevõtjale;\n3) riigipiiri ületava alalisvooluliini ehitamiseks väljastatakse ehitusluba liinivaldajale, kellel on tegevusluba selle liini kaudu elektrienergia edastamiseks;\n4) otseliini ehitamiseks väljastatakse ehitusluba liinivaldajale, kellel on tegevusluba selle liini kaudu elektrienergia edastamiseks.\n(6) Lisaks käesoleva seaduse § 21 lõikes 2 nimetatule on ehitusloa väljastajal õigus nõuda põhjendatud juhtudel ehitise ohutusest lähtuvalt enne ehitusloa väljastamist:\n1) ehitusprojekti või selle osa ekspertiisi tulemi esitamist või\n2) ehitusuuringut või selle osa, välja arvatud riigisaladusega või salastatud välisteabega seotud ehitise ja riigikaitselise ehitise ehitamise korral.\n(7) Nõuetele vastavuse kontrollimiseks täiendavalt tellitud ehitusprojekti või selle osa ekspertiisi või täieliku või osalise ehitusuuringu kulud tasub ehitusloa väljastaja, kui ekspertiisi või ehitusuuringu käigus tuvastatakse, et ehitusprojekt või selle osa vastab sellele kehtestatud nõuetele või kui täielik või osaline korduv ehitusuuring ei olnud vajalik.\n(8) Ehitusloa väljastaja väljastab ehitusloa või keeldub selle väljastamisest 20 päeva jooksul ehitusloa taotluse ja ehitusprojekti ning vastava nõude olemasolu korral ehitusprojekti ekspertiisi esitamise päevast arvates.\n(8^1) Ehitusloa omanik peab taotlema uue ehitusloa, kui ehitusloa taotlemise aluseks olnud ehitusprojekti muudetakse selliselt, et muutuvad ehitise olulised tingimused, nagu näiteks tuleohutus, energiatõhusus, ehitise kasutusotstarve, mõjuvad koormused (kandevõime) või ehitusloa taotluses näidatud muud olulised tehnilised näitajad.\n(8^2) Kohalik omavalitsus teavitab avalikku veekogusse kaldaga püsivalt ühendatud ehitise ehitamiseks ehitusloa väljastamisest Tehnilise Järelevalve Ametit viivitamata, kuid mitte hiljem kui viie tööpäeva jooksul ehitusloa väljastamisest arvates.\n(9) Ehitusloa väljastaja peab säilitama ehitusloa väljastamisega seotud dokumente kuni ehitise lammutamiseni või arhiiviseaduses sätestatud korras arhiivi üleandmiseni.\n(10) Nõuded ehitusloa taotlemisel esitatavale ehitusprojektile kehtestab valdkonna eest vastutav minister.\n(11) Nõuded ehitusloa taotlemisel esitatavale riigisaladusega või salastatud välisteabega seotud ehitise ja riigikaitselise ehitise ehitusprojektile kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "24",
+      "title": "§ 24. Ehitusloa väljastamisest keeldumine",
+      "content": "(1) Ehitusloa väljastamisest keeldutakse, kui:\n1) ehitusprojekt ei vasta ehitusprojektile esitatavatele nõuetele või ehitusprojekti koostamise lähteandmetele, sealhulgas kehtestatud detailplaneeringule või projekteerimistingimustele;\n2) ehitusprojektis ei ole arvestatud ehitisele esitatavaid nõudeid;\n3) ehitusprojekti koostamisel ei ole arvestatud ehitusprojekti koostamisele sätestatud nõudeid või käesoleva seaduse §-s 47 sätestatud nõudeid ehitusprojekti koostajale või kontrollijale;\n4) ehitise, välja arvatud üksikelamu, suvila, aiamaja, taluhoone ja väikeehitise püstitamiseks koostatud ehitusprojekt ei tugine ehitatava ehitise asukoha ehitusuuringute tulemustele;\n5) ehitusloa taotlus ei vasta nõuetele;\n6) ehitusloa taotlemisel on teadvalt esitatud valeandmeid;\n7) ajutise ehitise ehitamise korral ehitise kasutamise taotletav aeg ei ole sama, mis kohaliku omavalitsuse määratud ehitise kasutamise aeg;\n8) ei ole tasutud riigilõiv;\n9) oluline keskkonnamõju on hindamata ja keskkonnamõju hindamine on nõutav või kui keskkonnamõju on hinnatud, kuid keskkonnamõju hindamise aruande kohaselt kaasneks tegevusega oluline keskkonnamõju, mida ei ole võimalik vältida ega leevendada või\n10) kohalik omavalitsus on algatanud ehitusprojekti koostamise aluseks oleva detailplaneeringu kehtetuks tunnistamise menetluse;\n11) puudub vee erikasutusluba ja seaduse kohaselt on vee erikasutusluba nõutav või\n12) taotletakse ehitusluba kaldaga püsivalt ühendamata ehitise ehitamiseks avalikku veekogusse, kuid puudub veeseaduse § 22^5 lõikes 1 sätestatud hoonestusluba või ehitusprojekt ei vasta hoonestusloa tingimustele.\n(2) Kui ehitusloa taotlemisel esitatud dokumendid on puudulikud, võimaldab ehitusloa väljastaja ehitusloa taotlejal puudused kõrvaldada, määrates selleks taotlejale tähtaja, mis ei või olla lühem kui viis tööpäeva.\n(3) Kui ehitusloa väljastamisest keeldutakse põhjusel, et oluline keskkonnamõju on hindamata ja keskkonnamõju hindamine on nõutav, avaldab ehitusloa väljastaja teate ehitusloa väljastamisest keeldumise kohta maakondlikus või kohalikus ajalehes. Teates avaldatakse:\n1) otsuse sisu;\n2) otsuse aluseks olevad põhjendused ja vajaduse korral kahjulike mõjude vältimise, vähendamise ja võimaluse korral kõrvaldamise meetmete kirjeldus;\n3) teave üldsuse kaasamise kohta."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "25",
+      "title": "§ 25. Ehitusloa kehtivus",
+      "content": "(1) Ehitusluba on tähtajatu, välja arvatud käesoleva paragrahvi lõikes 2 nimetatud juhul.\n(2) Ehitusluba kaotab kehtivuse, kui ehitamist ei ole alustatud kahe aasta jooksul ehitusloa väljastamise päevast arvates.\n(3) Ehitamise alustamise päevaks loetakse esimest ehitusprojektile vastavate tööde tegemise päeva."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "26",
+      "title": "§ 26. Ehitusloa taotlus",
+      "content": "(1) Ehitusloa taotluses sisalduvad:\n1) taotleja nimi, kontaktandmed, äriregistri või muu registri kood või isikukood, viimase puudumise korral sünniaeg;\n2) ehitise asukoha aadress, katastritunnus, koordinaadid ja ehitise nimetus ning olemasolu korral ehitise riikliku ehitisregistri kood;\n3) ehitise kasutamise otstarve;\n4) ehitise kavandatav kasutuselevõtmise aeg;\n5) ehitusprojekti koostaja nimi, kontaktandmed, äriregistri või muu registri kood või isikukood, viimase puudumise korral sünniaeg;\n6) ehitusuuringute korral ehitusuuringuid tegeva ettevõtja nimi, kontaktandmed, äriregistri või muu registri kood või isikukood, viimase puudumise korral sünniaeg;\n7) ehitise olulised tehnilised andmed;\n8) ajutise ehitise ehitamise korral ehitise kasutamise taotletav aeg;\n9) andmed riigilõivu tasumise kohta.\n(2) Ehitusloa taotluse vorminõuded ja esitamise korra kehtestab valdkonna eest vastutav minister.\n(3) Ehitusloa taotluse ja sellega koos esitatava ehitusprojekti võib esitada elektrooniliselt. Ehitusloa taotluses võib esitada taotluse ehitise või selle osa või ehitise ja selle teenindamiseks vajalike rajatiste ehitamise kohta.\n(4) Ehitise tehniliste andmete loetelu ja pindade arvestamise alused kehtestab valdkonna eest vastutav minister.\n(5) Ehitise kasutamise otstarvete loetelu kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "27",
+      "title": "§ 27. Ehitusloale kantavad andmed",
+      "content": "Ehitusloale kantakse:\n1) ehitise asukoha aadress, katastritunnus ja koordinaadid;\n2) ehitusloa väljastaja nimi ning ametniku nimi, ametinimetus ja allkiri;\n3) ehitusloa väljastamise kuupäev;\n4) ehitusloa number;\n5) ehitise olulised tehnilised andmed;\n6) ehitise kasutamise otstarve;\n7) ehitisele antud riikliku ehitisregistri kood;\n8) ajutise ehitise ehitamise korral ehitise kasutamise aeg."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "28",
+      "title": "§ 28. Ehitusloa kehtetuks tunnistamine",
+      "content": "(1) Ehitusloa väljastajal on õigus ehitusluba kehtetuks tunnistada, kui:\n1) ehitatav ehitis on ohtlik inimese elule, tervisele või varale või keskkonnale;\n2) ehitise omanik või ehitist ehitav isik ei täida käesoleva seaduse § 61 lõikes 1 või § 64 lõikes 3 nimetatud ettekirjutust;\n3) ehitusloa taotlemisel on teadvalt esitatud valeandmeid;\n4) ehitise omanik taotleb ehitusloa kehtetuks tunnistamist;\n5) korteriomanditeks jagatud kinnisasja korteriomanik taotleb teisele korteriomanikule väljastatud ehitusloa kehtetuks tunnistamist, kui taotleja leiab, et ehitusloaga on rikutud tema õigusi;\n6) muutuvad ehitise olulised tehnilised andmed, mis on kantud ehitusloale;\n7) ehitamise käigus muudetakse või soovitakse muuta ehitise kasutamise otstarvet;\n8) ajutise ehitise ehitamise käigus soovitakse muuta ehitise kasutamise aega;\n9) on rikutud muinsuskaitseseadusest tulenevaid kohustusi ja piiranguid või\n10) väljastatakse uus ehitusluba käesoleva seaduse § 23 lõikes 8^1 nimetatud alusel.\n(2) Ehitusluba tunnistatakse kehtetuks või keeldutakse ehitusloa kehtetuks tunnistamisest kümne päeva jooksul vastava taotluse esitamise päevast arvates või ehitusloa väljastajale käesoleva paragrahvi lõikes 1 nimetatud asjaolude teatavaks saamise päevast arvates.\n(3) Ehitusloa kehtetuks tunnistamisel, välja arvatud käesoleva paragrahvi lõike 1 punktis 10 nimetatud alusel, peab ehitusloale märgitud maaüksuse või ehitise omanik taastama kehtetuks tunnistatud ehitusloa alusel ehitamisele eelnenud olukorra maaüksusel. Kui ehitusloa kehtetuks tunnistamisel ei ole endise olukorra taastamine täies ulatuses mõistlik või rikub kolmandate isikute õigusi, määrab kohalik omavalitsus endise olukorra taastamise taseme."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "29",
+      "title": "§ 29. Ehitise omaniku kohustused ja õigused",
+      "content": "(1) Ehitise omanik on kohustatud tagama:\n1) enne ehitamise alustamist ehitusloa olemasolu, kui ehitusluba on nõutav;\n2) enne ehitamise alustamist kohaliku omavalitsuse kirjaliku nõusoleku olemasolu, kui kirjalik nõusolek on nõutav;\n2^1) detailplaneeringu kohustusega aladel kohaliku omavalitsuse teavitamise kuni 20 m^2 ehitisealuse pinnaga väikeehitise püstitamise kavatsusest;\n3) ehitusprojekti kohase ehitamise, kui ehitusprojekt on nõutav;\n4) ehitise ning selle asukoha maaüksuse korrashoiu ja ohutuse ümbruskonnale ehitamise ajal ja ehitise kasutamisel, sealhulgas takistama juurdepääsu varisemisohtlikule või muude lagunemistunnustega ehitisele kuni selle lammutamiseni või korrastamiseni ja paigaldama sellise ehitise ümber hoiatussildid;\n5)\n6) riikliku järelevalve teostaja juurdepääsu ehitisele ja ehitamise tehnilistele dokumentidele, kusjuures juhul, kui riikliku järelevalve teostajal on õigus korraldada avariide põhjuste uurimist, siis juurdepääsu riigisaladust või salastatud välisteavet sisaldavale ehitisele ja riigikaitselisele ehitisele ning sellise ehitise ehitamise tehnilistele dokumentidele;\n7) käesoleva seaduse § 31 lõikes 2 nimetatud dokumentide ning olemasolu korral ehitise mõõdistusprojekti säilitamise ehitise lammutamiseni või arhiiviseaduses sätestatud korras arhiivi üleandmiseni;\n8) vajaduse korral ehitusprojekti ekspertiisi tegemise;\n9) vajaduse korral ehitise ekspertiisi tegemise;\n10) ehitamise isiku poolt, kellel on vastav pädevus ja õigus;\n11) kasutusloa olemasolu, kui see on nõutav;\n12) ehitise kasutamise vastavalt kasutamise otstarbele;\n13) õigusaktis sätestatud juhtudel ehitise, selle osa ja ehitise tehnosüsteemi tehnilise kontrolli teostamise;\n14) ajutise ehitise lammutamise ehitise kasutamise aja lõppemisel;\n15) Tehnilise Järelevalve Ameti teavitamise esimesel võimalusel ehitise kasutamisel toimunud avariist või õnnetusjuhtumist, mis võis tuleneda ehitise käesoleva seaduse §-s 3 sätestatud nõuetele mittevastavusest;\n16) Tehnilise Järelevalve Ameti ametiisikule ja teistele volitatud ametiisikutele igakülgse abi andmise avarii ja sellega kaasnenud õnnetusjuhtumi põhjuste väljaselgitamisel, säilitades põhjuste väljaselgitamiseni avarii ja õnnetusjuhtumi tagajärjel tekkinud olukorra, kui see ei põhjusta edasisi kahjustusi.\n(2) Lisaks käesoleva paragrahvi lõikes 1 nimetatule on ehitise omanik kohustatud:\n1) korraldama ehitamise ajal pideva järelevalve ehitamise üle (edaspidi omanikujärelevalve ), tagades sealjuures omanikujärelevalvele võimaluse tutvuda järelevalve tegemise lähtealuseks oleva informatsiooni ja ehitamise tehnilise dokumentatsiooniga;\n2) esitama ehitusloa väljastajale vähemalt kolm tööpäeva enne ehitise, välja arvatud väikeehitise, ehitamise alustamist teatise ehitamise alustamise kohta;\n3) panema ehitamise alustamisel, kui ehitatakse ehitis, mis ei ole väikeehitis, üksikelamu, suvila, aiamaja, taluhoone, riigisaladust või salastatud välisteavet sisaldav ehitis, riigikaitseline ehitis või ehitise teenindamiseks vajalik rajatis, nähtavale kohale kogu ehitamise ajaks informatsioonitahvli, milles sisaldub informatsioon ehitise, ehitusloa, ehitamise alustamise aja ja lõpetamise tähtaja, projekteerimisettevõtja, ehitusettevõtja ja omanikujärelevalve tegija kohta;\n4) taotlema ehitamise lõpetamisel ehitisele kasutusluba või esitama ehitise likvideerimise korral ehitise teatise;\n5) tagama, et ehitise ehitamisel peetakse kinni maakorralduslikest, tuleohutus-, keskkonnakaitse- ja muudest õigusaktides sätestatud nõuetest;\n6) tagama sisekliima tagamisega hoone või selle osa tasulisel võõrandamisel või kasutusse andmisel energiamärgise olemasolu, kui energiamärgis on nõutav, ning võimaldama sellega tutvuda;\n7) kindlustama, et sisekliima tagamisega hoonel või selle eraldi kasutataval osal oleks kehtiv energiamärgis, kui see on nõutav ja kui hoone on püstitatud või tasu eest omandatud pärast 2009. aasta 1. jaanuari.\n(2^1) Lisaks käesoleva paragrahvi lõikes 2 sätestatule on tehnorajatise omanik kohustatud teavitama ehitamise alustamisest puudutatud kinnisasja omanikke tähitud kirjaga või isiklikult allkirja vastu.\n(3) Ehitise omanikul on õigus nõuda enne ehitamise algust ettevõtjaga lepingu sõlmimist, milles lepitakse kokku tagatise liigis ja suuruses ettevõtja tegevusest tekkida võiva kahju hüvitamiseks ehitise omanikule. Tagatiseks võib olla krediidi- või finantseerimisasutuse või kindlustusseltsi garantii või rahasumma deponeerimine ehitise omaniku arvelduskontole.\n(4) Kui ehitis on mitme isiku ühises omandis, peab käesoleva paragrahvi lõike 1 punktides 1–10 ja 13 ning lõikes 2 nimetatud kohustused täitma ehitada sooviv või ehitusluba taotlenud ehitise omanik. Käesoleva paragrahvi lõike 1 punktides 11 ja 12 nimetatud kohustusi peavad täitma kõik isikud, kelle ühises omandis on ehitis.\n(5)\n(6) Ehitamise alustamise teatises esitatakse andmed ehitise, ehitamise alustamise aja, omanikujärelevalve tegija ja ehitamist teostava isiku nimede, isiku- või äriregistri või muu registri koodide või isikukoodi puudumise korral sünniaegade ning omanikujärelevalve tegija ja ehitamist teostava isiku kontaktandmete kohta.\n(7) Ehitamise alustamise teatise vorminõuded ja esitamise korra kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "30",
+      "title": "§ 30. Omanikujärelevalve",
+      "content": "(1) Ehitise omanik peab tagama ehitamise üle omanikujärelevalve tegemise.\n(1^1) Omanikujärelevalvet võib teha isik, kes vastab käesoleva seaduse §-s 41 sätestatud nõuetele ja kes ei ole sama ehitist projekteerinud või seda ehitav isik.\n(2) Omanikujärelevalve tegemise eesmärk on tagada:\n1) ehitusprojektikohane ehitamine;\n2) ehitamise tehniliste dokumentide koostamine;\n3) ehitustööde nõuetekohane kvaliteet.\n(3) Omanikujärelevalvet peab tegema ehitise ehitamise alustamisest kuni ehitise kasutusloa saamiseni.\n(4) Ehitise omanik võib omanikujärelevalvet teha ilma käesoleva paragrahvi lõikes 1^1 sätestatud nõuetele vastamata, kui ehitatakse:\n1) väikeehitist;\n2) üksikelamut;\n3) suvilat;\n4) aiamaja;\n5) taluhoonet;\n6) ehitise teenindamiseks vajalikku rajatist;\n7) riigisaladusega või salastatud välisteabega seotud ehitist;\n8) riigikaitselist ehitist.\n(5) Omanikujärelevalvet tegeva isiku ülesandeks on kontrollida:\n1) ehitusprojekti vastavust nõuetele;\n2) nõuetele vastavate ehitustoodete kasutamist;\n3) ehitise ning selle asukoha maaüksuse korrashoidu ja ohutust ümbruskonnale;\n4) keskkonnaohutuse tagamist;\n5) tehtud ettekirjutuste täitmist;\n6) teostatavate ehitustööde kvaliteeti ja tööde täitmise tähtaegu, teavitades ehitise omanikku, kui teostatavate ehitustööde kvaliteet või tööde täitmise tähtaeg ei vasta kokkulepitule;\n7) ehitamise vastavust ehitusprojektile, õigusaktidest ning ehitise omaniku ja ehitusettevõtja vahel sõlmitud lepingust tulenevatele nõuetele.\n(6) Omanikujärelevalve tegijal on õigus nõuda:\n1) ehitusprojekti koostajalt ehitusprojekti nõuetele vastavusse viimist;\n2) ehitusettevõtjalt kasutatud ehitustoodete toimivusdeklaratsioonide ja paigaldatud seadmete dokumentide, nagu näiteks garantiikirjad, hooldus- või kasutusjuhendid, originaalide või koopiate esitamist;\n3) ehitusettevõtja poolt kasutatud ehitustoote asendamist selle mittevastavuse korral ehitusprojektile või kehtestatud nõuetele;\n4) ehitusettevõtjalt nõuetele mittevastavate ehitustööde ümbertegemist;\n5) ehitusettevõtjalt ehitusprojektile mittevastavate ehitustööde ümbertegemist;\n6) ehitustööde peatamist avariiohu tekkimise, ehitusalastes õigusaktides sätestatud nõuete rikkumise, ehitusloa või kirjaliku nõusoleku tingimuste täitmata jätmise ja ehitusprojektile mittevastava ehitamise korral;\n7) ehitusettevõtjalt ehitamise nõuetekohast ja õigeaegset dokumenteerimist.\n(7) Omanikujärelevalve tegija peab omanikujärelevalve tegemisel täitma ehitamise käigus ehitise ja ehitamise ohutuse eesmärgil kehtestatud nõudeid.\n(8) Omanikujärelevalve tegemise korra kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "31",
+      "title": "§ 31. Ehitamise dokumenteerimine",
+      "content": "(1) Ehitamise käigus tehtavad tööd dokumenteerib ehitamist teostav isik.\n(2) Ehitamise tehnilised dokumendid on:\n1) ehitusprojekt ja selle muudatused;\n1^1) teostusjoonised;\n2) ehitustööde päevik;\n3) kaetud tööde aktid;\n4) töökoosolekute protokollid;\n5) muud ehitamist iseloomustavad dokumendid.\n(3) Eri liiki ehitiste ehitamise tehnilistele dokumentidele esitatavad nõuded kehtestab valdkonna eest vastutav minister.\n(4) Väikeehitise ehitamise korral ei ole nõutav ehitamise käigus tehtavate tööde dokumenteerimine."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "32",
+      "title": "§ 32. Ehitise kasutusluba",
+      "content": "(1) Ehitise kasutusluba (edaspidi kasutusluba ) on kohaliku omavalitsuse või riigi nõusolek, et valminud ehitis või selle osa vastab ehitisele ettenähtud nõuetele ja seda võib kasutada vastavalt kavandatud kasutamise otstarbele.\n(1^1) Kasutusloaga antakse nõusolek, et valminud ehitis või selle osa vastab ehitusloa või kirjaliku nõusoleku taotlemisel esitatud ehitusprojektile.\n(2) Ehitise kasutamiseks peab olema kasutusluba, välja arvatud riigisaladusega või salastatud välisteabega seotud ehitise, riigikaitselise ehitise ja elamiseks mittekasutatava väikeehitise kasutamiseks.\n(3) Valminud ehitist või selle osa võib kasutada vaid ettenähtud kasutamise otstarbel.\n(4) Kasutusloale kantavad andmed avalikustatakse riikliku ehitisregistri veebilehel.\n(5) Kasutusloa vorminõuded kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "33",
+      "title": "§ 33. Kasutusloa väljastamine",
+      "content": "(1) Kasutusloa väljastab ja tunnistab kehtetuks asutus, kelle pädevuses on ehitusloa väljastamine (edaspidi kasutusloa väljastaja ).\n(2) Kasutusloa saamiseks tuleb:\n1) esitada kasutusloa taotlus;\n2) esitada ehitusprojekt, mille kohaselt ehitis on ehitatud;\n3) esitada lisaks ehitusprojektile ehitamise tehniliste dokumentide originaalid või dokumendi väljastaja, ehitustoote importija, ehitise omaniku või kohaliku omavalitsuse kinnitatud koopiad, kui kasutusloa taotlejal on ehitamise tehniliste dokumentide säilitamise kohustus;\n4) esitada õigusaktis sätestatud juhtudel dokument, mis tõendab ehitise kasutusele võtmisele eelneva ehitise, selle osa või ehitise tehnosüsteemi tehnilise kontrolli teostamist;\n5) esitada õigusaktis sätestatud juhtudel kirjalik nõusolek ehitise või selle osa kasutusele võtmiseks;\n5^1) esitada energiamärgis, kui see on nõutav;\n6) tasuda riigilõiv.\n(2^1) Kui avalikku veekogusse kaldaga püsivalt ühendatud ehitise ehitamisel muutus kaldajoon ja suurenes kaldakinnisasja ulatus, väljastatakse kasutusluba üksnes pärast seda, kui kinnisomandi suurenemine on kantud maakatastrisse ja kinnistusraamatusse ning vastavalt veeseadusele on tasutud avaliku veekogu ehitisega koormamise tasu.\n(3) Kasutusluba väljastatakse, kui ehitis vastab õigusaktidega ettenähtud nõuetele. Kasutusloa väljastajal on õigus põhjendatud juhtudel ehitise ohutusest lähtuvalt enne kasutusloa väljastamist nõuda ehitise või selle osa ekspertiisi tulemi esitamist. Ehitise nõuetele vastavuse täiendavaks kontrollimiseks tellitud ehitise või selle osa ekspertiisi kulud tasub kasutusloa väljastaja, kui tuvastatakse, et ehitis vastab sellele kehtestatud nõuetele.\n(4) Kasutusluba väljastatakse pärast ehitise ülevaatust ja nõuetele vastavaks tunnistamist. Kasutusloa väljastajal on õigus kaasata ehitise ülevaatuse tegemisse selleks pädevaid isikuid ja institutsioone, kes esitavad oma arvamuse kirjalikult.\n(5) Kasutusluba väljastatakse valminud ehitisele kui tervikule. Kasutusloa võib ehitise püstitamisel väljastada ka ehitise osale, kui seda on võimalik funktsionaalselt ja ohutult kasutada. Ehitise osale väljastatud kasutusluba kehtib kuni ehitisele kui tervikule väljastatud kasutusloa väljastamiseni. Ehitisele kasutusloa väljastamisel arvestatakse eelnevalt ehitise osale väljastatud kasutusloaga ja selle loa väljastamiseks esitatud dokumentidega.\n(5^1) Ehitise täieliku lammutamise korral esitab ehitise omanik kasutusloa väljastajale kümne päeva jooksul lammutustööde lõpetamisest arvates ehitise teatise lammutustööde lõpetamise kohta.\n(6) Kasutusloa väljastaja väljastab kasutusloa või keeldub selle väljastamisest 20 päeva jooksul kasutusloa väljastamiseks vajaliku viimase dokumendi esitamise päevast arvates.\n(6^1) Kui kasutusloa väljastamisele eelneb keskkonnamõju hindamine, avaldab kasutusloa väljastaja teate kasutusloa väljastamise kohta ehitisregistri veebilehel ja ühes maakondlikus või kohalikus ajalehes. Teates avaldatakse:\n1) kasutusloa sisu ja tingimused;\n2) kasutusloa väljastamise põhjendus ja vajaduse korral kahjulike mõjude vältimise, vähendamise ja võimaluse korral kõrvaldamise meetmete kirjeldus;\n3) teave üldsuse kaasamise kohta.\n(7) Kasutusloa väljastaja peab säilitama kasutusloa väljastamisega seotud dokumente ehitise lammutamiseni või arhiiviseaduses sätestatud korras arhiivi üleandmiseni.\n(8) Ehitise kasutusluba väljastatakse ehitise kohta. Kasutusloa taotluse esitab ehitise omanik või ehitise kaasomanik kaasomanike enamuse otsuse alusel, kui sellele enamusele kuulub suurem osa ühises asjas, või korteriomanik korteriomanike häälteenamuse otsuse alusel. Teisele isikule kuuluvale kinnisasjale ehitatud tehnovõrgu või -rajatise kasutusluba väljastatakse tehnovõrgu või -rajatise omanikule. Võõrale maale ehitatud tehnovõrgu või -rajatise kasutusloa taotlemisel peab tehnovõrgu või -rajatise omanik esitama kinnituse oma omandiõiguse kohta tehnovõrgu või -rajatise suhtes.\n(8^1) Avalikku veekogusse ehitatud kaldaga püsivalt ühendatud ehitisele kasutusloa väljastamisest teavitab kohalik omavalitsus Tehnilise Järelevalve Ametit viivitamata, kuid mitte hiljem kui viie tööpäeva jooksul kasutusloa väljastamisest arvates.\n(9) Ajutise ehitise korral võib kasutusloa taotluse esitada ehitusloa taotleja.\n(10) Ehitise ülevaatuse korra kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "34",
+      "title": "§ 34. Kasutusloa väljastamisest keeldumine",
+      "content": "(1) Kasutusloa väljastamisest keeldutakse, kui:\n1) ehitis ei vasta kasutamise taotletud otstarbeks ettenähtud ehitisele kehtestatud nõuetele või\n2) ehitise omanik taotleb ehitisele kasutamise otstarvet, mis ei vasta avalikele huvidele või\n3) ehitise omanik taotleb ehitisele kasutamise otstarvet, mis ei vasta ehitise või selle osa ehitamisel väljastatud projekteerimistingimustele nende olemasolu korral või\n4) kasutusloa taotlus ei vasta nõuetele või\n5) kasutusloa taotlemisel esitatav ehitusprojekt ei vasta nõuetele või\n6) kasutusloa taotlemisel esitatav ehitise mõõdistusprojekt ei vasta nõuetele või\n6^1) kasutusloa taotlemisel esitatav ehitusprojekt erineb ehitusprojekti muudatuste või ehitamise ajal tehtud muudatuste tõttu oluliselt ehitusloa taotlemisel esitatud ehitusprojektist või\n6^2) ehitamise tulemusena ei vasta valminud ehitis ehitusloa väljastamise ajal kehtinud energiatõhususe miinimumnõuetele või\n7) kasutusloa taotlemisel on esitatud valeandmeid või\n8) ehitis ei vasta õigusaktis ettenähtud nõuetele või\n9) ajutise ehitise ehitamise korral ehitise kasutamise taotletav aeg ei ole sama, mis kohaliku omavalitsuse määratud ehitise kasutamise aeg või\n10) ei ole tasutud riigilõiv või\n11) ei ole esitatud ehitamise tehnilisi dokumente või\n12) ehitamise tehnilised dokumendid ei vasta nõuetele või\n13) ei ole esitatud dokumenti, mis tõendab ehitise kasutusele võtmisele eelneva ehitise, selle osa või ehitise tehnosüsteemi ehitamiseks tehnilise kontrolli teostamist või kirjalikku nõusolekut ehitise või selle osa kasutamisele võtmiseks ja selline dokument või kirjalik nõusolek on nõutav või\n14) oluline keskkonnamõju on hindamata ja keskkonnamõju hindamine on nõutav või\n15) käesoleva seaduse § 3^1 lõike 5 alusel kehtestatud Vabariigi Valitsuse määruses nimetatud liiki kuuluva hoone energiamärgis ei ole paigaldatud nähtavale kohale või\n16) puudub energiamärgis, kui selle olemasolu on nõutav;\n17) avalikku veekogusse ehitatud kaldaga püsivalt ühendatud ehitise puhul ei ole täidetud käesoleva seaduse § 33 lõikes 2^1 sätestatud nõudeid.\n(2) Kui kasutusloa taotleja esitatud dokumendid on puudulikud, peab kasutusloa väljastaja võimaldama taotlejal puudused kõrvaldada, määrates selleks taotlejale tähtaja, mis ei või olla lühem kui viis tööpäeva. Kui puuduse kõrvaldamine on võimatu ja kui puudus ei ole ehitise ohutust arvestades oluline, otsustab kasutusloa väljastaja kasutusloa väljastamise esitatud dokumentide alusel.\n(3) Kui kasutusloa väljastamisest keeldutakse põhjusel, et oluline keskkonnamõju on hindamata ja keskkonnamõju hindamine on nõutav, avaldab kasutusloa väljastaja teate kasutusloa väljastamisest keeldumise kohta maakondlikus või kohalikus ajalehes. Teates avaldatakse:\n1) otsuse sisu;\n2) otsuse aluseks olevad põhjendused ja vajaduse korral kahjulike mõjude vältimise, vähendamise ja võimaluse korral kõrvaldamise meetmete kirjeldus;\n3) teave üldsuse kaasamise kohta."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "35",
+      "title": "§ 35. Kasutusloa kehtivus",
+      "content": "(1) Kasutusluba on tähtajatu, välja arvatud käesoleva paragrahvi lõikes 2 nimetatud juhul.\n(2) Ajutisele ehitisele väljastatakse kasutusluba tähtajaliselt kuni viieks aastaks."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "36",
+      "title": "§ 36. Kasutusloa taotlus",
+      "content": "(1) Kasutusloa taotluses sisalduvad:\n1) ehitise omaniku nimi, kontaktandmed, äriregistri või muu registri kood või isikukood, viimase puudumise korral sünniaeg;\n2) ehitise asukoha aadress, katastritunnus, koordinaadid ja ehitise nimetus ning olemasolu korral ehitise riikliku ehitisregistri kood ja ehitusloa number;\n3) ehitusprojekti või ehitise mõõdistusprojekti koostanud isiku nimi, kontaktandmed, äriregistri või muu registri kood või isikukood, viimase puudumise korral sünniaeg;\n4) ehitamist teostanud isiku nimi, kontaktandmed, äriregistri või muu registri kood või isikukood, viimase puudumise korral sünniaeg;\n5) omanikujärelevalve tegija nimi, kontaktandmed, äriregistri või muu registri kood või isikukood, viimase puudumise korral sünniaeg;\n6) ehitise kasutamise otstarve;\n7) ehitise olulised tehnilised andmed;\n8) ajutise ehitise ehitamise korral ehitise kasutamise taotletav aeg;\n9) andmed riigilõivu tasumise kohta.\n(2) Kasutusloa taotluses võib taotleda ühele ehitisele mitut kasutamise otstarvet, mis kantakse samale kasutusloale. Samuti võib kasutusloa taotluses esitada taotluse ehitise või selle osa või ehitise ja selle teenindamiseks vajalike rajatiste kasutamise kohta. Mitme ehitise andmeid sisaldava kasutusloa taotluse korral väljastab kasutusloa väljastaja kasutusloa igale ehitisele eraldi.\n(3) Kasutusloa taotluse vorminõuded ja esitamise korra kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "37",
+      "title": "§ 37. Kasutusloale kantavad andmed",
+      "content": "Kasutusloale kantakse:\n1) ehitise asukoha aadress, katastritunnus ja koordinaadid;\n2) kasutusloa väljastaja nimi ning ametniku nimi, ametinimetus ja allkiri;\n3) kasutusloa väljastamise aeg;\n4) kasutusloa number;\n5) ehitise kasutamise otstarve;\n6) ehitise olulised tehnilised andmed;\n7) ehitisele antud riikliku ehitisregistri kood;\n8) ajutise ehitise korral selle kasutamise aeg;\n9) muud seaduses sätestatud andmed."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "38",
+      "title": "§ 38. Kasutusloa kehtetuks tunnistamine",
+      "content": "(1) Kasutusloa väljastajal on õigus kasutusluba kehtetuks tunnistada, kui:\n1) ehitis on ohtlik inimese elule, tervisele või varale või keskkonnale või\n2) ehitise omanik ei täida käesoleva seaduse § 61 lõikes 1 või § 64 lõikes 3 nimetatud ettekirjutust või\n3) kasutusloa taotlemisel on teadvalt esitatud valeandmeid või\n4) ehitis on lammutatud.\n(2) Ehitise omanikul on õigus esitada taotlus kasutusloa kehtetuks tunnistamise kohta käesoleva paragrahvi lõikes 1 nimetatud juhtudel.\n(3) Kasutusloa väljastaja tunnistab käesoleva paragrahvi lõikes 1 nimetatu korral kasutusloa kehtetuks 10 päeva jooksul vastava taotluse esitamise päevast või lõikes 1 nimetatu kasutusloa väljastajale teadasaamise päevast arvates."
+    },
+    {
+      "provision_ref": "para38^1",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "38^1",
+      "title": "§ 38^1. Energiaaudit",
+      "content": "(1) Energiaaudit on mõõtmistele ja kogutud andmetele tuginev analüüs, mis selgitab välja energiakasutuse sisekliima tagamisega hoones või selle eraldi kasutatavas osas, annab ülevaate hoone tehnilisest seisukorrast, energiakadudest ning võimalikest meetmetest energia kokkuhoiuks ja sisekliima parandamiseks hoones. Energiaauditi aruanne kajastab eelkõige hoone seisukorra kirjeldust, tarbitavate ressursside hinda ja kogust iseloomustavaid andmeid, nende analüüsi ja selle põhjal tehtud järeldusi.\n(2) Elamute energiaauditi aruande vorminõuded ja väljastamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "39",
+      "title": "§ 39. Ehitise ekspertiis",
+      "content": "(1) Ehitise ekspertiis on ehitise vastavuse hindamine ehitisele ettenähtud nõuetele.\n(2) Ehitise ekspertiisi tegemise korra kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "3. peatükk - EHITAMISELE ESITATAVAD NÕUDED",
+      "section": "40",
+      "title": "§ 40. Ohtliku, ajutise või ehitusloata püstitatud ehitise likvideerimine",
+      "content": "(1) Inimese elule, tervisele või varale või keskkonnale ohtliku ehitise omanik peab sellise ehitise kas viima vastavusse ehitisele esitatavate nõuetega või lammutama linna- või vallavalitsuse korraldusega või avalikku veekogusse ehitatud kaldaga püsivalt ühendamata ehitise puhul Tehnilise Järelevalve Ameti peadirektori käskkirjaga tehtud ettekirjutusega määratud tähtpäevaks, viisil ja tingimustel.\n(2) Õigusliku aluseta ehitatud ehitise omanik peab sellise ehitise lammutama linna- või vallavalitsuse korraldusega tehtud ettekirjutusega määratud tähtpäevaks, viisil ja tingimustel. Õigusliku aluseta avalikku veekogusse ehitatud kaldaga püsivalt ühendamata ehitis on Eesti Vabariigi omandis ja selle lammutamise otsustab Vabariigi Valitsus oma korraldusega.\n(3) Ajutine ehitis tuleb lammutada või muul viisil likvideerida kohaliku omavalitsuse määratud tähtpäevaks.\n(4) Kui käesolevas paragrahvis nimetatud ehitis määratud tähtpäevaks ei vasta ehitisele esitatavatele nõuetele või seda ei lammutata, korraldab ehitise nõuetele vastavusse viimise või lammutamise kohalik omavalitsus asendustäitmise ja sunniraha seaduses sätestatud korras. Kui avalikku veekogusse ehitatud kaldaga püsivalt ühendamata ehitis, mis on ohtlik inimese elule, tervisele või varale või keskkonnale, ei vasta määratud tähtpäevaks ehitisele esitatavatele nõuetele või seda ei lammutata, korraldab ehitise nõuetele vastavusse viimise või lammutamise Tehnilise Järelevalve Amet asendustäitmise ja sunniraha seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "4. peatükk - ETTEVÕTJALE ESITATAVAD NÕUDED",
+      "section": "41",
+      "title": "§ 41. Ettevõtja tegutsemine ehitusalal",
+      "content": "(1) Ettevõtjal on lubatud tegutseda ehitamise, projekteerimise, ehitusuuringute, energiaauditite, omanikujärelevalve, ehitusprojektide ja ehitiste ekspertiiside tegemise ning energiamärgiste väljastamise tegevusalal, kui tal on vastavasisuline õigussuhe käesoleva seaduse §-s 47 nimetatud pädeva isikuga (edaspidi vastutav spetsialist ) või kui füüsilisest isikust ettevõtja on ise vastutav spetsialist,\n(2) Ettevõtja võib teha töid üksnes vastutava spetsialisti pädevuse ulatuses.\n(3) Kui ettevõtja tegutseb ehitamise tegevusalal, mis ei hõlma teiste töö juhtimist ja korraldamist, võib ta tegutseda ilma vastutava spetsialistita, kuid tööd tegeval töötajal peab olema asjaomane kutse. Ettevõtja võib tegutseda tema töötajale antud kutse ulatuses.\n(4) Käesoleva paragrahvi lõikes 1 nimetatud tegevusalade alaliikide loetelu kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "4. peatükk - ETTEVÕTJALE ESITATAVAD NÕUDED",
+      "section": "42",
+      "title": "§ 42. Teatamiskohustus",
+      "content": "(1) Majandustegevusteate peab majandustegevuse registrisse esitama järgmistel tegevusaladel tegutsemiseks:\n1) ehitamine, välja arvatud käesoleva seaduse § 41 lõikes 3 nimetatud ettevõtjad;\n2) projekteerimine;\n3) omanikujärelevalve tegemine;\n4) ehitusuuringute tegemine;\n5) ehitusprojektide ekspertiiside tegemine;\n6) ehitiste ekspertiiside tegemine.\n(2) Majandustegevusteates märgitakse lisaks majandustegevuse seadustiku üldosa seaduses sätestatud andmetele käesoleva seaduse § 41 lõike 4 alusel sätestatud tegevusala alaliik ning ettevõtjaga õigussuhtes oleva vastutava spetsialisti kohta majandustegevuse seadustiku üldosa seaduse § 15 lõikes 2 nimetatud andmed.\n(3) Majandustegevusteade loetakse esitatuks, kui majandustegevuse registris on olemas vastutava spetsialisti kinnitus oma õigussuhte kohta ettevõtjaga.\n(4) Kui majandustegevuse seadustiku üldosa seaduse § 58 lõikes 1 nimetatud teadet ei esitata Eesti teabevärava kaudu, siis esitatakse see koos vastutava spetsialisti kinnitusega Tehnilise Järelevalve Ametile, kes kannab teates ja vastutava spetsialisti kinnituses sisalduvad andmed majandustegevuse registrisse.\n(5) Kui vastutav spetsialist ei esita kinnitust Eesti teabevärava kaudu, siis esitab ta selle Tehnilise Järelevalve Ametile, kes kannab kinnituse majandustegevuse registrisse.\n(6) Vastutava spetsialisti ja ettevõtja vahelise õigussuhte katkemise korral on vastutaval spetsialistil õigus kinnitusest loobuda.\n(7) Kui vastutav spetsialist ei esita kinnitusest loobumist Eesti teabevärava kaudu, siis esitab ta selle Tehnilise Järelevalve Ametile, kes kannab kinnitusest loobumise majandustegevuse registrisse.\n(8) Käesolevas paragrahvis sätestatud teatamiskohustus täidetakse üksnes Eesti teabevärava või notari kaudu."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "4. peatükk - ETTEVÕTJALE ESITATAVAD NÕUDED",
+      "section": "47",
+      "title": "§ 47. Vastutav spetsialist",
+      "content": "(1) Vastutav spetsialist on isik, kes:\n1) on pädev kas ehitamise, projekteerimise, ehitusuuringute, omanikujärelevalve, energiaauditite, ehitusprojektide või ehitiste ekspertiiside tegemise või energiamärgiste väljastamise tegevusalal tegutsema ja loetletud tegevusi kontrollima ning\n2) teostab, kontrollib või juhib käesoleva lõike punktis 1 nimetatud tegevusala töid, esitab ettevõtja nimel tehnilisi seisukohti, korraldab ressursside jagamist ja teiste tööd, vastutab selle töö eest ning tagab käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete järgimise.\n(2) Vastutaval spetsialistil peab olema ehitamise, projekteerimise, ehitusuuringute, omanikujärelevalve, energiaauditite, ehitusprojektide või ehitiste ekspertiiside tegemise või energiamärgiste väljastamise tegevusalal iseseisvaks tegutsemiseks töökogemus, oskused ja teadmised, mida tõendavad talle antud kutse kutseseaduse tähenduses ja kutsetunnistus.\n(3) Käesoleva paragrahvi lõikes 2 sätestatud kutse omamise nõue jaguneb tegevusalade kaupa järgmiselt:\n1) ehitamise ja energiamärgise väljastamise tegevusalal tegutsemiseks peab vastutaval spetsialistil olema kutse vähemalt Eesti kvalifikatsiooniraamistiku viiendal kutsetasemel ja vastav kutsetunnistus;\n2) omanikujärelevalve, ehitusuuringute ja energiaauditite tegemise tegevusalal tegutsemiseks peab vastutaval spetsialistil olema kutse vähemalt Eesti kvalifikatsiooniraamistiku kuuendal kutsetasemel ja vastav kutsetunnistus;\n3) projekteerimise ning ehitusprojektide ekspertiiside tegemise tegevusalal tegutsemiseks peab vastutaval spetsialistil olema kutse vähemalt Eesti kvalifikatsiooniraamistiku seitsmendal kutsetasemel ja vastav kutsetunnistus;\n4) ehitiste ekspertiiside tegemise tegevusalal tegutsemiseks peab vastutaval spetsialistil olema kutse Eesti kvalifikatsiooniraamistiku kaheksandal kutsetasemel ja vastav kutsetunnistus.\n(4) Käesoleva paragrahvi lõikes 3 sätestatud kutsenimetuste ja kutsetasemete nõude täpse jagunemise tegevusalade alaliikide kaupa kehtestab valdkonna eest vastutav minister määrusega, lähtudes kutsestandardis esitatud pädevusnõuetest."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "4. peatükk - ETTEVÕTJALE ESITATAVAD NÕUDED",
+      "section": "48",
+      "title": "§ 48. Ehitusettevõtja kohustused",
+      "content": "Ehitusettevõtja on kohustatud:\n1) tagama ehitusprojekti kohase ehitamise;\n2) tagama ehitamise käigus tehtavate tööde dokumenteerimise;\n3) säilitama täies ulatuses kõik tema koostatud ehitamise tehnilised dokumendid või nende koopiad vähemalt seitse aastat või arhiiviseaduses sätestatud korras arhiivi üleandmiseni;\n4) paigaldama ehitisse nõuetele vastavaid ehitustooteid;\n5) tagama ehitamise nõuetekohase kvaliteedi;\n6) tagama ehitamise ohutuse ning ehitise ja ehitusplatsi korrashoiu;\n7) vältima keskkonna saastamist;\n8) teatama ehitise omanikule ja omanikujärelevalvet tegevale isikule ehitamise ajal selgunud ehitise nõuetele mittevastavusest või võimalikust mittevastavusest;\n9) täitma ehitise garantiiga seotud kohustusi;\n10) teatama Tehnilise Järelevalve Ametile esimesel võimalusel ehitamisel toimunud avariist või õnnetusjuhtumist, mis tulenes ehitise või ehitamise nõuetele mittevastavusest;\n11) andma Tehnilise Järelevalve Ameti ametiisikule ja teistele volitatud ametiisikutele igakülgset abi avarii või õnnetusjuhtumi põhjuste väljaselgitamisel, säilitades põhjuste väljaselgitamiseni avarii ja õnnetusjuhtumi tagajärjel tekkinud olukorra, kui see ei tekita ohtu inimese elule, tervisele või varale või keskkonnale."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "4. peatükk - ETTEVÕTJALE ESITATAVAD NÕUDED",
+      "section": "49",
+      "title": "§ 49. Projekteerimisettevõtja kohustused",
+      "content": "Projekteerimisettevõtja on kohustatud:\n1) koostama nõuetele vastava ehitusprojekti;\n2) tagama ehitusprojekti vastavuse lähteandmetele;\n2^1) väljastama sisekliima tagamisega hoone püstitamisel ehitusprojekti koosseisus energiamärgise;\n2^2) kinnitama, et projekteeritud hoone vastab energiatõhususe miinimumnõuetele;\n3) koostama nõuetele vastava ehitise mõõdistusprojekti;\n4) säilitama täies ulatuses kõik tema koostatud ehitusprojektid ja ehitiste mõõdistusprojektid ning nende koostamise lähteandmed vähemalt seitse aastat või arhiiviseaduses sätestatud korras arhiivi üleandmiseni."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "4. peatükk - ETTEVÕTJALE ESITATAVAD NÕUDED",
+      "section": "50",
+      "title": "§ 50. Omanikujärelevalvet tegeva ettevõtja kohustused",
+      "content": "(1) Omanikujärelevalvet tegev ettevõtja on kohustatud kontrollima:\n1) ehitusprojekti vastavust nõuetele;\n2) ehitamise vastavust ehitusprojektile;\n3) ehitamise korral nõuetele vastavate ehitustoodete kasutamist;\n4) ehitamise tehniliste dokumentide olemasolu;\n5) ehitamise tehniliste dokumentide nõuetele vastavust;\n6) ehitustööde kvaliteeti;\n7) ehitustööde ohutust kolmandate isikute suhtes, ehitise ja ehitusplatsi korrashoidu ning keskkonna saastamise vältimist;\n8) tehtud ettekirjutuste täitmist;\n9) teostatavate ehitustööde tööde täitmise tähtaegu, teavitades ehitise omanikku, kui teostatavate ehitustööde kvaliteet või tööde täitmise tähtaeg ei vasta kokkulepitule;\n10) ehitamise vastavust ehitusprojektile, õigusaktidest ning ehitise omaniku ja ehitusettevõtja vahel sõlmitud lepingust tulenevatele nõuetele.\n(2) Omanikujärelevalvet tegev ettevõtja on kohustatud ehitise omanikule teatama:\n1) ehitustoodete, ehitusprojekti või ehitise nõuetele mittevastavusest või võimalikust mittevastavusest;\n2) ehitustööde kvaliteedist ja ohutusest ning ehitise ja ehitusplatsi korrashoiust ning keskkonna saastamisest."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "4. peatükk - ETTEVÕTJALE ESITATAVAD NÕUDED",
+      "section": "51",
+      "title": "§ 51. Ehitusuuringuid tegeva ettevõtja kohustused",
+      "content": "Ehitusuuringuid tegev ettevõtja on kohustatud:\n1) tegema ehitusuuringuid vastavalt kehtestatud korrale;\n2) tagama ehitusuuringute tegemise nõuetele vastavuse;\n3) säilitama tema poolt tehtud ehitusuuringute andmeid vähemalt seitse aastat või arhiiviseaduses sätestatud korras arhiivi üleandmiseni;\n4) esitama ehitusuuringute tulemused kohalikule omavalitsusele."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "4. peatükk - ETTEVÕTJALE ESITATAVAD NÕUDED",
+      "section": "52",
+      "title": "§ 52. Ehitusprojektide ekspertiise tegeva ettevõtja kohustused",
+      "content": "Ehitusprojektide ekspertiise tegev ettevõtja on kohustatud:\n1) kontrollima ehitusprojekti vastavust nõuetele;\n2) kontrollima ehitusprojekti vastavust lähteandmetele;\n3) tagama ehitusprojekti ekspertiisi vastavuse nõuetele;\n4) kontrollima ehitise mõõdistusprojekti vastavust nõuetele;\n5) säilitama täies ulatuses kõik tema koostatud ehitusprojektide ekspertiiside andmed vähemalt seitse aastat või arhiiviseaduses sätestatud korras arhiivi üleandmiseni."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "4. peatükk - ETTEVÕTJALE ESITATAVAD NÕUDED",
+      "section": "53",
+      "title": "§ 53. Ehitiste ekspertiise tegeva ettevõtja kohustused",
+      "content": "Ehitiste ekspertiise tegev ettevõtja on kohustatud:\n1) kontrollima ehitise või selle osa vastavust nõuetele;\n2) kontrollima ehitise või selle osa vastavust ehitusprojektile;\n3) tagama ehitise ekspertiisi vastavuse nõuetele;\n4) säilitama täies ulatuses kõik tema koostatud ehitisekspertiisi andmed vähemalt seitse aastat või arhiiviseaduses sätestatud korras arhiivi üleandmiseni."
+    },
+    {
+      "provision_ref": "para53^1",
+      "chapter": "4. peatükk - ETTEVÕTJALE ESITATAVAD NÕUDED",
+      "section": "53^1",
+      "title": "§ 53^1. Hoonete energiamärgiseid väljastava ettevõtja kohustused",
+      "content": "Hoonete energiamärgiseid väljastav ettevõtja on kohustatud:\n1) tagama hoonete energiamärgiste väljastamise vastavuse nõuetele;\n2) säilitama täies ulatuses kõik hoonete energiamärgiste väljastamisega seotud andmed vähemalt seitse aastat või arhiiviseaduses sätestatud korras arhiivi üleandmiseni;\n3)"
+    },
+    {
+      "provision_ref": "para53^2",
+      "chapter": "4. peatükk - ETTEVÕTJALE ESITATAVAD NÕUDED",
+      "section": "53^2",
+      "title": "§ 53^2. Hoonete energiaauditeid tegeva ettevõtja kohustused",
+      "content": "Hoonete energiaauditeid tegev ettevõtja on kohustatud:\n1) tagama hoonete energiaauditite tegemise vastavuse nõuetele;\n2) säilitama täies ulatuses kõik hoonete energiaauditite tegemisega seotud andmed vähemalt seitse aastat või arhiiviseaduses sätestatud korras arhiivi üleandmiseni."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "5. peatükk - RIIKLIK EHITISREGISTER",
+      "section": "55",
+      "title": "§ 55. Riiklik ehitisregister",
+      "content": "(1) Riikliku ehitisregistri (edaspidi ehitisregister ) põhiülesandeks on arvestuse pidamine ehitatavate ja kasutatavate ehitiste üle. Ehitisregistri objektiks on ehitatav ja kasutatav ehitis.\n(2) Ehitisregistri asutab ja ehitisregistri pidamise põhimääruse kehtestab Vabariigi Valitsus.\n(3) Ehitisregistri vastutav töötleja on Majandus- ja Kommunikatsiooniministeerium.\n(4) Ehitisregistrit peetakse ühetasandilise elektroonilise andmebaasina."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "5. peatükk - RIIKLIK EHITISREGISTER",
+      "section": "56",
+      "title": "§ 56. Ehitisregistri andmed",
+      "content": "(1) Ehitisregistrisse kantavad andmed (edaspidi ehitisregistri andmed ) on:\n1) ehitise andmed, sealhulgas olulised tehnilised andmed ja eriomandi eseme andmed korteriomandi- ja korteriühistuseaduse tähenduses;\n2) ehitise asukoha andmed, sealhulgas katastritunnus;\n3) ehitusloa andmed;\n4) kohaliku omavalitsuse kirjaliku nõusoleku andmed;\n5) kasutusloa andmed;\n6) ehitisega seotud isikute andmed;\n7) ehitise omaniku andmed;\n8) ehitamisega seotud isikute andmed;\n9) ehitamise andmed;\n10) ehitusuuringute ja ekspertiiside ning nende tegijate andmed;\n11) vallasasjast ehitisega seotud pantide andmed;\n12) vallasasjast ehitisega seotud arestide ja keeldude andmed;\n13) kultuurimälestistega seotud andmed;\n14)\n15) riiklikku järelevalvet teostava ametiisiku ettekirjutuse andmed;\n16) energiamärgise andmed.\n(2) Ehitisregistri andmetel on informatiivne ja statistiline tähendus."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "5. peatükk - RIIKLIK EHITISREGISTER",
+      "section": "57",
+      "title": "§ 57. Ehitisregistri andmete esitaja",
+      "content": "(1) Ehitisregistrile andmete esitajad on:\n1) kohalikud omavalitsused käesoleva seaduse § 56 lõike 1 punktides 1–10, 15 ja 16 nimetatud andmete puhul;\n2) Tehnilise Järelevalve Amet käesoleva seaduse § 56 lõike 1 punktis 15 nimetatud andmete puhul;\n3) Muinsuskaitseinspektsioon käesoleva seaduse § 56 lõike 1 punktis 13 nimetatud andmete puhul;\n4) notarid käesoleva seaduse § 56 lõike 1 punktides 1, 7 ja 11 nimetatud andmete puhul;\n5) Majandus- ja Kommunikatsiooniministeerium käesoleva seaduse § 56 lõike 1 punktis 12 nimetatud andmete puhul;\n6) Tehnilise Järelevalve Amet käesoleva seaduse § 56 lõike 1 punktides 1–3, 5–10 ja 15 nimetatud andmete puhul;\n7) hoonete energiamärgiseid väljastav ettevõtja käesoleva seaduse § 56 lõike 1 punktis 16 nimetatud andmete puhul;\n8) kohtutäiturid ja rahapesu andmebüroo käesoleva seaduse § 56 lõike 1 punktis 12 nimetatud andmete puhul.\n(2) Ehitisregistrile andmete esitaja vastutab esitatud andmete õigsuse eest.\n(3) Ehitisregistrile andmete esitamise teatise vorminõuded ja esitamise korra kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "5. peatükk - RIIKLIK EHITISREGISTER",
+      "section": "58",
+      "title": "§ 58. Ehitisregistri andmete avaldamine",
+      "content": "(1) Ehitisregistri andmed on avalikud ja need avaldatakse ehitisregistri veebilehel.\n(2) Ehitisregistri andmete kinnitatud väljavõtteid väljastab kohalik omavalitsus."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "6. peatükk - EHITUSJÄRELEVALVE",
+      "section": "59",
+      "title": "§ 59.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "7. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "62",
+      "title": "§ 62. Riiklik järelevalve",
+      "content": "(1) Käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete järgimise üle teostavad riiklikku järelevalvet kohalik omavalitsus ja Tehnilise Järelevalve Amet.\n(2) Kohalik omavalitsus teostab oma territooriumil riiklikku järelevalvet, täites selleks järgmisi ülesandeid:\n1) ehitusprojektide ja ehitiste mõõdistusprojektide nõuetele vastavuse kontrollimine ning ekspertiisi tegemine ja tellimine;\n2) ehitise või selle osa nõuetele vastavuse kontrollimine ning ekspertiiside tegemine ja tellimine;\n3) ehitusloa olemasolu ja ehitusloale kantud andmete tegelikkusele vastavuse kontrollimine;\n4) kasutusloa olemasolu ja kasutusloale kantud andmete tegelikkusele vastavuse kontrollimine;\n5) ehitustööde ja ehitusprojektide nõuetele, detailplaneeringule ja projekteerimistingimustele vastavuse ning lähtuvalt ehitise ohutusest ja kasutamise otstarbest selle korrashoiu ja kasutamise kontrollimine;\n6) järelevalve avalikus veekogus kaldaga püsivalt ühendatud ehitiste üle.\n(3) Tehnilise Järelevalve Amet teostab riiklikku järelevalvet, täites selleks järgmisi ülesandeid:\n1) käesoleva paragrahvi lõike 2 punktides 1–5 sätestatud ülesanded ehitise ohutuse kontrollimiseks;\n2) järelevalve avalikus veekogus kaldaga püsivalt ühendamata ehitiste üle;\n3) käesoleva seaduse täitmise kontrollimine ehitustoote nõuetele vastavuse üle;\n4) hoonete energiamärgiste väljastamise ja hoonete energiaauditite tegemise kohta antud dokumentide kontrollimine;\n5) järelevalve ettevõtja nõuetele vastavuse üle;\n6) soojus- ja jahutusseadmete registreerimise kontrollimine.\n(4) Tehnilise Järelevalve Amet kontrollib juhuvalikut kasutades statistiliselt olulise protsendi ulatuses aasta jooksul antud energiamärgiste nõuetele vastavust. Kontrollimine hõlmab:\n1) hoone energiamärgise andmise aluseks olnud sisendandmete ja märgisele kantud tulemuste kehtivuse kontrolli;\n2) sisendandmete ja energiamärgisele kantud tulemuste, sealhulgas energiatõhususe parandamiseks esitatud soovituste asjakohasuse kontrolli või\n3) hoone energiamärgise andmise aluseks olnud sisendandmete täielikku kontrolli ja märgisele kantud tulemuste, sealhulgas energiavajaduse vähendamiseks esitatud soovituste asjakohasuse täielikku kontrolli ning võimaluse korral hoone külastust, et kontrollida energiamärgisele kantud andmete ja asjaomase hoone vastavust.\n(5) Käesoleva seaduse § 3 lõike 11 alusel kehtestatud ehitise ja selle osa tuleohutusnõuete järgimise üle teostab riiklikku järelevalvet Päästeamet."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "7. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "63",
+      "title": "§ 63. Riikliku järelevalve erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50, 51 ja 52 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para63^1",
+      "chapter": "7. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "63^1",
+      "title": "§ 63^1. Riikliku järelevalve erisused",
+      "content": "(1) Tehnilise Järelevalve Amet võib kohustada ehitise omanikku teavitama avalikkust ehitisega seotud ohtudest või ehitise omaniku kulul teavitama ise avalikkust ehitisega seotud ohtudest.\n(2) Korrakaitseseaduse §-s 50 sätestatud meedet võib kohaldada üksnes sisenemisel ehitisse või selle osasse, pärast ehitustoote turule laskmist selle ladustamis-, paigaldus- või müügikohta või ehitustoote kasutamiskohta."
+    },
+    {
+      "provision_ref": "para63^2",
+      "chapter": "7. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "63^2",
+      "title": "§ 63^2. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral võib korrakaitseorgan rakendada sunnivahendit asendustäitmise ja sunniraha seaduses sätestatud korras. Kohustuse täitmisele sundimiseks on sunniraha ülemmäär füüsilisele isikule 6400 ja juriidilisele isikule 64 000 eurot."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "65",
+      "title": "§ 65. Valeandmete esitamine",
+      "content": "(1) Füüsilise isiku poolt ehitisregistrile valeandmete esitamise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "66",
+      "title": "§ 66. Andmete muutumisest teatamata jätmine",
+      "content": "(1) Füüsilise isiku poolt kohalikule omavalitsusele ehitusuuringute tulemuste teatamata jätmise eest – karistatakse rahatrahviga kuni 150 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 1600 eurot."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "67",
+      "title": "§ 67. Nõuetele mittevastava ehitustoote turule laskmine ja ehitisse paigaldamine",
+      "content": "(1) Füüsilise isiku poolt nõuetele mittevastava ehitustoote turule laskmise või nõuetele mittevastava ehitustoote ehitisse püsivalt paigaldamise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "68",
+      "title": "§ 68. Ehitise omaniku kohustuste eiramine",
+      "content": "(1) Füüsilise isiku poolt käesoleva seaduse §-s 29 nimetatud ehitise omaniku kohustuste eiramise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para68^1",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "68^1",
+      "title": "§ 68^1. Tööde dokumenteerimise kohustuse rikkumine",
+      "content": "(1) Füüsilise isiku poolt ehitamise käigus tehtavate tööde dokumenteerimata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para68^2",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "68^2",
+      "title": "§ 68^2. Andmete säilitamise kohustuse rikkumine",
+      "content": "(1) Ehitamise tehniliste dokumentide või tehtud ehitusuuringute andmete, ehitusprojekti ekspertiisi andmete, koostatud ehitisekspertiisi andmete, hoonete energiamärgiste väljastamisega seotud andmete või hoonete energiaauditite tegemisega seotud andmete või nende koopiate täies mahus vähemalt seitsmeks aastaks säilitamata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para68^3",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "68^3",
+      "title": "§ 68^3. Soojus- ja jahutusseadme registreerimata jätmine",
+      "content": "Soojus- ja jahutusseadme paigaldamisel soojus- ja jahutusseadme riiklikus ehitisregistris registreerimata jätmise eest – karistatakse rahatrahviga kuni 1600 eurot."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "69",
+      "title": "§ 69. Ehitise omavoliline ehitamine",
+      "content": "(1) Füüsilise isiku poolt ehitise omavolilise ehitamise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para69^1",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "69^1",
+      "title": "§ 69^1. Energiamärgise puudumine hoone ja selle eraldi kasutatava osa tasulisel võõrandamisel ja kasutusse andmisel",
+      "content": "(1) Hoone või selle eraldi kasutatava osa tasulisel võõrandamisel või kasutusse andmisel energiamärgise puudumise eest – karistatakse rahatrahviga kuni 150 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 1600 eurot."
+    },
+    {
+      "provision_ref": "para69^2",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "69^2",
+      "title": "§ 69^2. Energiamärgise andmete kajastamisega ja energiamärgise kohta valeandmete esitamisega seoses tehtud ettekirjutuse täitmata jätmine",
+      "content": "(1) Olemasoleva energiamärgise andmete kuulutuses avaldamata jätmisega või kuulutuses energiamärgise kohta teadvalt valeandmete esitamisega seoses tehtud ettekirjutuse täitmata jätmise eest hoone või selle eraldi kasutatava osa tasu eest võõrandamisel või kasutusse andmisel – karistatakse rahatrahviga kuni 50 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 500 eurot."
+    },
+    {
+      "provision_ref": "para69^3",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "69^3",
+      "title": "§ 69^3. Energiamärgises ja energiaauditi aruandes teadvalt valeandmete esitamine",
+      "content": "(1) Projekteerija, energiamärgise väljastaja või energiaaudiitori poolt energiamärgises või energiaauditi aruandes teadvalt valeandmete esitamise eest tegelikkusele mittevastava energiaklassi saavutamise eesmärgil – karistatakse rahatrahviga kuni 150 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 1600 eurot."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "70",
+      "title": "§ 70. Menetlus",
+      "content": "(1) Käesoleva seaduse §-des 65–69^3 sätestatud väärtegudele kohaldatakse karistusseadustiku üldosa ja väärteomenetluse seadustiku sätteid.\n(2)\n(3) Käesoleva seaduse §-des 65–69^3 sätestatud väärtegude kohtuväline menetleja on oma pädevuse kohaselt linna- või vallavalitsus ja Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "72",
+      "title": "§ 72. Nõuded olemasolevatele ehitistele",
+      "content": "(1) Enne käesoleva seaduse jõustumist ehitatud ehitis ei pea vastama käesoleva seaduse §-s 3 sätestatud nõuetele, välja arvatud ehitise ohutusele sätestatud nõuete osas.\n(1^1) Energiatõhususe miinimumnõudeid ei rakendata sisekliima tagamisega hoonete puhul, mis on püstitatud enne 2008. aasta 1. jaanuari või mille projekteerimist on alustatud enne 2008. aasta 1. jaanuari, juhul kui ehitusluba selliste ehitiste püstitamiseks väljastatakse enne 2009. aasta 1. jaanuari.\n(1^2) Vabariigi Valitsus uuendab energiatõhususe miinimumnõudeid vähemalt üks kord iga viie aasta järel. Energiatõhususe miinimumnõuete uuendamisel arvestatakse tehnilist arengut ehitiste püstitamisel.\n(2) Enne planeerimis- ja ehitusseaduse jõustumist asjaõigusseaduse rakendamise seaduse tähenduses õiguslikul alusel ehitatud ehitist võib kasutada vastavalt ehitisele ettenähtud kasutamise otstarbele.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud ehitise omanik võib taotleda kasutusluba, sealhulgas ehitise kasutamise otstarbe muutmiseks, esitades kohalikule omavalitsusele kasutusloa taotluse ja ehitise mõõdistusprojekti ning tasudes riigilõivu. Kasutusloa taotluses esitatakse käesoleva seaduse § 36 lõike 1 punktides 1–3 ning 6, 7 ja 9 nimetatud andmed. Käesoleva paragrahvi lõikes 2 nimetatud ehitisele kasutusloa väljastamise korral ei pea kohalik omavalitsus kontrollima ehitise vastavust ettenähtud nõuetele.\n(4) Pärast planeerimis- ja ehitusseaduse jõustumist ning enne käesoleva seaduse jõustumist ehitusloata püstitatud väikeehitistele, torujuhtmetele, elektri- ja telekommunikatsiooniliinidele, veehoidlatele, tammidele ja lüüsidele võib ehitise omanik taotleda kuni 2003. aasta 31. detsembrini ehitusluba või kasutusluba. Ehitusloa taotlemise korral annab kohalik omavalitsus ehitusprojekti alusel ehitisele hinnangu ja otsustab ehitisele ehitusloa väljastamise või väljastamisest keeldumise, arvestades käesoleva seaduse §-s 23 või 24 sätestatut. Kasutusloa taotlemise korral esitatakse kohalikule omavalitsusele kasutusloa taotlus, ehitise mõõdistusprojekt ja tasutakse riigilõiv. Kasutusloa taotluses esitatakse käesoleva seaduse § 36 lõike 1 punktides 1–3 ning 6, 7 ja 9 nimetatud andmed. Käesolevas lõikes nimetatud ehitisele kasutusloa väljastamise korral ei pea kohalik omavalitsus kontrollima ehitise vastavust ettenähtud nõuetele.\n(5) Käesoleva paragrahvi lõigetes 3 ja 4 nimetatud ehitise mõõdistusprojekt on dokumentide kogum, mis koosneb arhitektuursetest ja ehituslikest joonistest, mis on mõõdetud faktiliselt ehitatud ehitise ülesmõõdistamise teel. Ehitise mõõdistusprojekti koostamisel tuleb arvesse võtta geodeetilisele süsteemile esitatavaid nõudeid avaliku teabe seaduse tähenduses.\n(5^1) Enne 2009. aasta 1. juulit ehitisregistrisse kantud avalikku veekogusse ehitatud kaldaga püsivalt ühendatud ehitis loetakse õiguslikul alusel ehitatud ehitiseks. Kui nimetatud ehitise ehitamisel muutus kaldajoon ning ehitisele on antud kasutusluba, kantakse kinnisomandi muudatused maakatastrisse ja kinnistusraamatusse maakatastriseaduse §-s 17^1 sätestatud korras.\n(5^2) Avalikku veekogusse ehitatav kaldaga püsivalt ühendatud ehitis, mille ehitamist alustati kohaliku omavalitsuse poolt antud ehitusloa alusel enne 2009. aasta 1. juulit, loetakse õiguslikul alusel ehitatud ehitiseks.\n(6) Nõuded käesoleva paragrahvi lõigetes 3 ja 4 nimetatud ehitise mõõdistusprojektile kehtestab valdkonna eest vastutav minister.\n(7) Käesoleva seaduse § 23 lõike 10 alusel kehtestatud õigusakt kehtib kuni selle kehtetuks tunnistamiseni või § 18 lõike 5 alusel õigusakti kehtestamiseni majandus- ja kommunikatsiooniministri poolt."
+    },
+    {
+      "provision_ref": "para72^1",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "72^1",
+      "title": "§ 72^1. Nõuded olemasolevate hoonete olulisel rekonstrueerimisel",
+      "content": "(1) Hoone olulise rekonstrueerimise käigus tuleb tehnilise, funktsionaalse ja majandusliku teostatavuse piires energiakasutuse tõhusust suurendada nii, et see vastaks energiatõhususe miinimumnõuetele.\n(2) Kohalik omavalitsus otsustab ehitusloa väljastamisel, kas on tegemist olulise rekonstrueerimisega.\n(3) Ehitamise oluliseks või muuks rekonstrueerimiseks või laiendamiseks liigitamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(4) Kui sisekliima tagamisega hoone laiendamisel on laiendatava osa piirdekonstruktsioonide, kande- ja jäigastavate konstruktsioonide ning tehnosüsteemide maksumus suurem kui üks neljandik laiendatava hoonega samaväärse hoone ehitusmaksumusest, peab laiendatav hoone tervikuna vastama energiatõhususe miinimumnõuetele."
+    },
+    {
+      "provision_ref": "para72^2",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "72^2",
+      "title": "§ 72^2. Energiamärgise väljastamine",
+      "content": "(1) Energiamärgiseid võivad 2010. aasta 1. jaanuarini väljastada ka ehitiste ekspertiise tegevad ettevõtjad ja neile laienevad käesoleva seaduse §-s 53^1 sätestatud kohustused.\n(2) Kui ehitusettevõtja annab pärast 2009. aasta 1. jaanuari tellijale üle sisekliima tagamisega hoone või selle eraldi kasutatava osa, mis on projekteeritud ja mille kohta on ehitusluba väljastatud enne 2009. aasta 1. jaanuari, ei pea ehitusettevõtja tellijale energiamärgist üle andma.\n(3) Kui ehitise kasutusluba väljastatakse sisekliima tagamisega hoonele, mille ehitusluba väljastati enne 2009. aasta 1. jaanuari, ei nõuta kasutusloa väljastamisel energiamärgist.\n(4) Kui sisekliima tagamisega hoone energiamärgis on antud enne 2013. aasta 9. jaanuari paberil, annab sisekliima tagamisega hoone või selle eraldi kasutatava osa võõrandaja energiamärgise üle asja omandajale või võimaldab hoone või selle osa tasulisel võõrandamisel või kasutusse andmisel lepingu sõlmimisest huvitatud isikul energiamärgisega tutvuda."
+    },
+    {
+      "provision_ref": "para72^3",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "72^3",
+      "title": "§ 72^3. Vastutava spetsialisti pädevuse tõendamise erisused",
+      "content": "Vastutav spetsialist võib oma pädevust tõendada erialase kõrghariduse ja erialase kolmeaastase töökogemusega, mida arvestatakse alates erialast kõrgharidust tõendava dokumendi väljastamise kuupäevast alljärgnevalt: 1 1) ehitamise tegevusalal kuni 30. juunini 2018. aastal;\n2) projekteerimise, ehitusuuringute, omanikujärelevalve, ehitusprojektide ja ehitiste ekspertiiside tegemise tegevusalal kuni 30. juunini 2016. aastal."
+    },
+    {
+      "provision_ref": "para72^4",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "72^4",
+      "title": "§ 72^4. Vastutava spetsialisti pädevuse kutsega tõendamise erisused",
+      "content": "(1) Kui isikul on 2014. aasta 1. juulil ehitusinseneri IV kutse üldehituse erialal, loetakse, et tal on sellele vastav ehitusinseneri 6. taseme kutse kehtivusega 2019. aasta 30. juunini üldehituse eriala hoonete ehituse alleriala ehitusjuhtimise, ehitustegevuse juhtimise ja omanikujärelevalve ametialal.\n(2) Kui isikul on 2014. aasta 1. juulil ehitusinseneri IV kutse hüdrotehnilise ehitamise erialal, loetakse, et tal on sellele vastav hüdrotehnikainseneri 6. taseme kutse kehtivusega 2019. aasta 30. juunini keskkonnatehnika ja hoonete tehnosüsteemide eriala hüdrotehnika alleriala ehitusjuhtimise, ehitustegevuse juhtimise ja omanikujärelevalve ametialal.\n(3) Kui isikul on 2014. aasta 1. juulil ehitusinseneri IV kutse veevarustuse ja kanalisatsiooni erialal, loetakse, et tal on sellele vastav veevarustuse- ja kanalisatsiooniinseneri 6. taseme kutse kehtivusega 2019. aasta 30. juunini keskkonnatehnika ja hoonete tehnosüsteemide eriala hoone veevarustuse ja kanalisatsiooni alleriala ehitusjuhtimise, ehitustegevuse juhtimise ja omanikujärelevalve ametialal.\n(4) Kui isikul on 2014. aasta 1. juulil ehitusinseneri IV kutse kütte- ja ventilatsiooni erialal, loetakse, et tal on sellele vastav kütte-, ventilatsiooni- ja jahutuseinseneri 6. taseme kutse kehtivusega 2019. aasta 30. juunini keskkonnatehnika ja hoonete tehnosüsteemide eriala kütte, ventilatsiooni ja jahutuse alleriala ehitusjuhtimise, ehitustegevuse juhtimise ja omanikujärelevalve ametialal.\n(5) Kui isikul on 2014. aasta 1. juulil diplomeeritud ehitusinseneri V kutse üldehituse erialal, loetakse, et tal on sellele vastav diplomeeritud ehitusinseneri 7. taseme kutse kehtivusega 2019. aasta 30. juunini üldehituse eriala hoonete ehituse alleriala ehitusjuhtimise, ehitustegevuse juhtimise, omanikujärelevalve ja projekteerimise ametialal.\n(6) Kui isikul on 2014. aasta 1. juulil diplomeeritud ehitusinseneri V kutse hüdrotehnilise ehitamise erialal, loetakse, et tal on sellele vastav diplomeeritud hüdrotehnikainseneri 7. taseme kutse kehtivusega 2019. aasta 30. juunini keskkonnatehnika ja hoonete tehnosüsteemide eriala hüdrotehnika alleriala ehitusjuhtimise, ehitustegevuse juhtimise, omanikujärelevalve ja projekteerimise ametialal.\n(7) Kui isikul on 2014. aasta 1. juulil diplomeeritud ehitusinseneri V kutse veevarustuse ja kanalisatsiooni erialal, loetakse, et tal on sellele vastav diplomeeritud veevarustuse- ja kanalisatsiooniinseneri 7. taseme kutse kehtivusega 2019. aasta 30. juunini keskkonnatehnika ja hoonete tehnosüsteemide eriala hoone veevarustuse ja kanalisatsiooni ning välisveevarustuse ja -kanalisatsiooni alleriala ehitusjuhtimise, ehitustegevuse juhtimise, omanikujärelevalve ja projekteerimise ametialal.\n(8) Kui isikul on 2014. aasta 1. juulil diplomeeritud ehitusinseneri V kutse kütte- ja ventilatsiooni erialal, loetakse, et tal on sellele vastav diplomeeritud kütte-, ventilatsiooni- ja jahutusinseneri 7. taseme kutse kehtivusega 2019. aasta 30. juunini keskkonnatehnika ja hoonete tehnosüsteemide eriala kütte, ventilatsiooni ja jahutuse alleriala ehitusjuhtimise, ehitustegevuse juhtimise, omanikujärelevalve ja projekteerimise ametialal.\n(9) Kui isikul on 2014. aasta 1. juulil ehitusjuhi III taseme kutse, loetakse, et tal on ehitusinseneri 6. taseme või veevarustuse- ja kanalisatsiooniinseneri 6. taseme või kütte-, ventilatsiooni- ja jahutusinseneri 6. taseme kutse omanikujärelevalve ametialal ehitusjuhi III taseme kutsestandardis ja kutsetunnistusel näidatud pädevuse ulatuses, kehtivusega kuni kutsetunnistusel märgitud tähtaja lõpuni.\n(10) Kui isikul on 2014. aasta 1. juulil ehitusinseneri IV kutse üldehituse, hüdrotehnilise või veevarustuse ja kanalisatsiooni ehitamise erialal ning ta on registreeritud majandustegevuse registris sellel erialal vastutavaks spetsialistiks projekteerimise tegevusalal, loetakse, et isik on pädev tegutsema üldehituse, hüdrotehnilise või veevarustuse ja kanalisatsiooni ehitamise eriala vastutava spetsialistina kuni 30. juunini 2019 aastal projekteerimise ametialal ehitusinseneri IV kutse pädevuse ulatuses."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "73",
+      "title": "§ 73. Nõuded ehitusvaldkonna volitatud asutusele",
+      "content": "Enne 2003. aasta 1. jaanuari ehitusvaldkonnas volitatud hindamis- või tõendamisasutusena tegutsemise õiguse saanud isik või asutus võib tegutseda teavitatud asutusena volitatud hindamis- või tõendamisasutusena tegutsemise õiguse lõppemise tähtpäeva saabumiseni, kuid mitte kauem kui 2003. aasta 1. juulini või Euroopa ühenduste ja nende liikmesriikide ning Eesti Vabariigi vahelise assotsieerumislepingu (Euroopa leping) tööstustoodete vastavushindamise ja tunnustamise protokolli ( Protocol on Conformity Assessment and Acceptance of Industrial Products ) jõustumiseni toodete osas, mida nimetatud protokolli lisad käsitlevad, või muu vastavasisulise välislepingu jõustumiseni olenevalt sellest, milline tähtpäev saabub varem."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "74",
+      "title": "§ 74. Riiklik hooneregister",
+      "content": "(1) Riikliku hooneregistri pidamise põhiülesandeks on arvestuse pidamine kasutusele võetud hoonete üle.\n(2) Riiklik hooneregister on asutatud ja selle pidamise põhimäärus kinnitatakse Vabariigi Valitsuse poolt avaliku teabe seaduses sätestatud korras.\n(3) Riikliku hooneregistri vastutav töötleja on Majandus- ja Kommunikatsiooniministeerium.\n(4) Riikliku hooneregistri andmed on:\n1) ehitise andmed, sealhulgas olulised tehnilised andmed ja reaalosa andmed korteriomandiseaduse tähenduses;\n2) ehitise asukoha andmed;\n3) ehitisega seotud isikute andmed;\n4) ehitise omaniku andmed;\n5) vallasasjast ehitisega seotud pantide andmed;\n6) vallasasjast ehitisega seotud arestide ja keeldude andmed;\n7) kultuurimälestistega seotud andmed.\n(5) Riiklikule hooneregistrile andmete esitajad on vallasasjast hoone omanik ja seadusega sätestatud juhtudel teised isikud.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud isik esitab andmed 10 tööpäeva jooksul andmete muutumise päevast arvates."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "75",
+      "title": "§ 75. Riikliku hooneregistri ja riikliku ehitusregistri tegevuse lõpetamine",
+      "content": "(1) Riikliku ehitusregistri tegevus lõpetatakse 2003. aasta 1. jaanuaril.\n(2) Riikliku hooneregistri tegevus lõpetatakse 2003. aasta 31. detsembril."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "76",
+      "title": "§ 76. Andmete esitamine ehitisregistrile",
+      "content": "(1) Riikliku ehitusregistri andmed esitatakse ehitisregistrile hiljemalt 2003. aasta 1. veebruariks riikliku ehitusregistri volitatud töötleja poolt.\n(2) Enne 2002. aasta 31. detsembrit riiklikusse hooneregistrisse kantud andmed esitatakse ehitisregistrile hiljemalt 2003. aasta 1. veebruariks riikliku hooneregistri volitatud töötleja poolt Vabariigi Valitsuse kehtestatud korras.\n(3) Võrguettevõtja elektrituruseaduse ja maagaasi seaduse tähenduses, vee-ettevõtja ühisveevärgi ja -kanalisatsiooni seaduse tähenduses, sideettevõtja elektroonilise side seaduse tähenduses või vastavas piirkonnas tegutsev võrguettevõtja kaugkütteseaduse tähenduses esitab digitaalselt Majandus- ja Kommunikatsiooniministeeriumile hiljemalt 2009. aasta 1. aprilliks riiklikusse hooneregistrisse või riiklikusse ehitusregistrisse kandmata õiguslikul alusel ehitatud elektriliini või sellega liituva ehitise või gaasivõrgu või ühisveevärgi ja -kanalisatsiooni seaduse tähenduses ühisveevärgi ja -kanalisatsiooni kohta või elektroonilise side seaduse tähenduses liinirajatise kohta käesoleva seaduse §-s 26 nimetatud andmed koos ehitise kohta käiva mõõdistusprojektiga, kui võrguettevõtja, vee-ettevõtja või sideettevõtja ei taotle nimetatud ehitistele kasutusluba. Majandus- ja Kommunikatsiooniministeerium kannab nimetatud andmed ehitisregistrisse."
+    },
+    {
+      "provision_ref": "para77",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "77",
+      "title": "§ 77.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para100",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "100",
+      "title": "§ 100.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para101",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "101",
+      "title": "§ 101. Tegevusluba",
+      "content": "Ettevõtja, kellele on enne käesoleva seaduse jõustumist majandusministri poolt ehitusalaseks ettevõtluseks väljastatud tegevusluba, mille kehtivuse tähtaeg lõpeb pärast 2003. aasta 1. jaanuari, võib tegutseda tegevusloale kantud tegevusalal tegevusloal märgitud tähtpäeva saabumiseni, kuid mitte kauem kui 2003. aasta 31. märtsini."
+    },
+    {
+      "provision_ref": "para101^1",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "101^1",
+      "title": "§ 101^1. Üleminekusäte",
+      "content": "Käesoleva seaduse § 42 lõiget 8 kohaldatakse alates 2016. aasta 1. juulist."
+    },
+    {
+      "provision_ref": "para102",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "102",
+      "title": "§ 102. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2003. aasta 1. jaanuaril.\n(2) Käesoleva seaduse § 6 lõike 1 punkt 4 ja § 7 lõige 2 jõustuvad Euroopa ühenduste ja nende liikmesriikide ning Eesti Vabariigi vahelise assotsieerumislepingu (Euroopa leping) tööstustoodete vastavushindamise ja tunnustamise protokolli ( Protocol on Conformity Assessment and Acceptance of Industrial Products ) jõustumisel toodete osas, mida nimetatud protokolli lisad käsitlevad, või muu vastavasisulise välislepingu jõustumisel või Eesti ühinemisel Euroopa Liiduga olenevalt sellest, milline tähtpäev saabub varem.\n(3) Käesoleva seaduse § 57 lõike 1 punktid 4 ja 5, § 78 punkt 2, § 81, § 82 punktid 2–4 ning 6 ja 7, §-d 83 ja 84 ning § 86 punktid 1 ja 5 jõustuvad 2004. aasta 1. jaanuaril.\n(4) Käesoleva seaduse § 65 lõige 1, § 66 lõige 1, § 67 lõige 1, § 68 lõige 1 ja § 69 lõige 1 jõustuvad karistusseadustiku jõustumisel, kuid mitte varem kui 2003. aasta 1. jaanuaril.\n(5) Käesoleva seaduse §-d 74, 88 ja 99 jõustuvad 2002. aasta 1. juulil.\n(6) Käesoleva seaduse § 3 lõige 7^2 ja § 72^1 jõustuvad 2008. aasta 1. jaanuaril.\n(7) Käesoleva seaduse §-d 3^1 ja 3^2 ning § 34 lõike 1 punkti 14 2006. aasta 27. septembril vastuvõetud redaktsioon ja punkt 15 jõustuvad 2009. aasta 1. jaanuaril.\n(8) Käesoleva seaduse 2013. aasta 8. jaanuarini kehtinud redaktsiooni § 3 lõike 7, § 3^3 lõike 1 ja § 72^1 lõike 1 sätteid kohaldatakse sisekliima tagamisega hoonete suhtes, milles ei asu riigi- või kohaliku omavalitsuse asutused, kuni 2013. aasta 8. juulini."
+    }
+  ],
+  "definitions": []
+}

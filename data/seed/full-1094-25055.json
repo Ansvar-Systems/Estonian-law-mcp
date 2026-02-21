@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-25055",
+  "type": "statute",
+  "title": "Rahvusvahelise patendiklassifikatsiooni Strasbourg'i kokkuleppega ühinemise seadus",
+  "title_en": "Rahvusvahelise patendiklassifikatsiooni Strasbourg'i kokkuleppega ühinemise seadus",
+  "short_name": "ee-law-25055",
+  "status": "in_force",
+  "issued_date": "1996-01-10",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/25055.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise patendiklassifikatsiooni Strasbourg'i kokkuleppega ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud rahvusvahelise patendiklassifikatsiooni Strasbourg'i kokkuleppega, mis on sõlmitud 1971. aasta 24. märtsil Strasbourg'is ning mida on parandatud 1979. aasta 28. septembril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühineda käesoleva seaduse paragrahvis 1 nimetatud kokkuleppe alusel moodustatud Rahvusvahelise Patendiklassifikatsiooni Spetsiaalse Liiduga (IPC Liit). Riigikogu esimees Toomas SAVI Õiend Akt tehniliselt korrastatud, lisatud andmed väljakuulutamise kohta."
+    }
+  ],
+  "definitions": []
+}

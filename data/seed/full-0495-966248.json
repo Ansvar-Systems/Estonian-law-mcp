@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-966248",
+  "type": "statute",
+  "title": "Euroopa Molekulaarbioloogia Konverentsi asutamislepinguga ühinemise seadus",
+  "title_en": "Euroopa Molekulaarbioloogia Konverentsi asutamislepinguga ühinemise seadus",
+  "short_name": "ee-law-966248",
+  "status": "in_force",
+  "issued_date": "2005-11-23",
+  "in_force_date": "2005-12-30",
+  "url": "https://www.riigiteataja.ee/akt/966248.xml",
+  "description": "Official consolidated statute text (Euroopa Molekulaarbioloogia Konverentsi asutamislepinguga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud Euroopa Molekulaarbioloogia Konverentsi asutamislepinguga, mis on koostatud 1969. aasta 13. veebruaril Genfis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühineda Euroopa Molekulaarbioloogia Konverentsiga."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Eesti esindajad Euroopa Molekulaarbioloogia Konverentsile nimetab valdkonna eest vastutav minister. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

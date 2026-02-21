@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-189894",
+  "type": "statute",
+  "title": "Hoiuste Tagamise Fondi seadus",
+  "title_en": "Hoiuste Tagamise Fondi seadus",
+  "short_name": "HTFS",
+  "status": "in_force",
+  "issued_date": "1998-04-15",
+  "in_force_date": "2002-07-01",
+  "url": "https://www.riigiteataja.ee/akt/189894.xml",
+  "description": "Official consolidated statute text (Hoiuste Tagamise Fondi seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

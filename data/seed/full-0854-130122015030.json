@@ -1,0 +1,298 @@
+{
+  "id": "ee-law-130122015030",
+  "type": "statute",
+  "title": "Maakatastriseadus",
+  "title_en": "Maakatastriseadus",
+  "short_name": "ee-law-130122015030",
+  "status": "in_force",
+  "issued_date": "1994-10-12",
+  "in_force_date": "2016-01-18",
+  "url": "https://www.riigiteataja.ee/akt/130122015030.xml",
+  "description": "Official consolidated statute text (Maakatastriseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Maakatastriseadus sätestab maakatastri (edaspidi kataster ) pidamise alused, katastri pidamise eesmärgi, katastriüksuste registreerimise korra, katastriandmete koosseisu ja nende töötlemise korra ning katastri finantseerimise korra.\n(2) Kataster on riigi põhiregister.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para1^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1^1",
+      "title": "§ 1^1. Katastri pidamise eesmärk",
+      "content": "(1) Katastri pidamise eesmärk on maa väärtust, maa looduslikku seisundit ja maa kasutamist kajastava informatsiooni registreerimine katastris ning informatsiooni kvaliteedi, säilimise ja avalikkusele kättesaadavuse tagamine.\n(2) Katastriandmed on aluseks ruumiandmeid sisaldavate infosüsteemide loomisel ja arendamisel."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Mõisted",
+      "content": "Käesolevas seaduses kasutatakse mõisteid järgmises tähenduses:\n1) maakataster (kataster) – andmekogu, mis koosneb maaregistrist koos katastrikaartidega ja katastriarhiivist;\n2) maaregister – katastriüksuste kohta registreeritavate ja peetavate andmete kogu;\n3) katastri kaardid (edaspidi kaardid ) – katastri koosseisu kuuluvad kaardid registrisse kantava informatsiooni (piiride, kitsendusi põhjustavate objektide paiknemise, maa kvaliteedi andmete jne) graafiliseks esitamiseks. Kaartideks on katastrikaart (§ 11), kitsenduste kaart (§ 12) ning maa kvaliteedi ja hindamise kaart (§ 14);\n4) katastripiirkond – haldusüksus või selle osa, mille määramisel arvestatakse omavalitsusüksuste piire;\n5) asum – katastri pidamisel kasutatav katastripiirkonna osa, mille määramisel arvestatakse olemasoleva asustuse väljakujunenud piire;\n6) katastritunnus – numbriline kood, mis on ette nähtud katastriüksuste identifitseerimiseks ja andmete sidumiseks teiste registritega;\n7) katastriüksus – katastris iseseisva üksusena registreeritud maatükk;\n8) maatükk (maaüksus) – maa või veeala piiritletud osa;\n9) katastriüksuse sihtotstarve – õigusaktidega lubatud ja nendes sätestatud korras määratud katastriüksuse kasutamise otstarve või otstarbed;\n9^1) piiripunkt – maaüksuse välispiiri punkt, millele on õigusaktides kehtestatud korras määratud koordinaadid ja mille asukohta looduses on vajaduse korral võimalik määrata;\n10) piirimärk – piiripunkti tähis looduses ja mille asukohta on võimalik taastada;\n11) kõlvik – ühetaolise majandusliku sihtotstarbe ja/või loodusliku seisundiga katastriüksuse osa, mida ei piiritleta piirimärkidega;\n12) tehingu õiend – kinnisasja või ehitise kui vallasasja või nende osade võõrandamise tehingu kohta koostatav dokument;\n13) katastri aluskaardid – katastri kaartide alusena kasutatavad topograafilist infot sisaldavad kaardid, mis ei kuulu katastri koosseisu."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Katastripidaja ja tema ülesanded",
+      "content": "(1) Katastri vastutav töötleja on Keskkonnaministeerium.\n(1^1) Katastri volitatud töötleja (edaspidi katastripidaja ) on Maa-amet.\n(2) Katastripidaja ülesandeks on katastriüksuste registreerimine, kitsenduste ja maakasutusõiguste registreerimine ning maa hindamiseks vajalike andmete kogumine ja töötlemine.\n(3) Katastrit peetakse ühtse ühetasandilise infotehnoloogilise andmebaasina ja kaartidena kogu Eesti territooriumi kohta.\n(4) Katastripidaja ülesandeks on maaregistri algdokumentide ning kaartide kättesaadavuse ja säilivuse tagamine.\n(5) Katastripidamise korra kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Katastripidaja ja Tartu Maakohtu kinnistusosakonna andmevahetus",
+      "content": "(1) Katastripidaja ja Tartu Maakohtu kinnistusosakond vahetavad andmeid.\n(2) Katastripidaja esitab Tartu Maakohtu kinnistusosakonnale:\n1) kinnistatava maaüksuse katastritunnuse, sihtotstarbe, aadressi- ja piiriandmed, pindala, katastriüksuse moodustamise viisi ning katastriüksuse plaani;\n2) käesoleva lõike punktis 1 nimetatud andmete muudatused.\n(2^1) Käesoleva paragrahvi lõikes 2 nimetatud andmete õigsuse eest vastutab katastripidaja.\n(3) Tartu Maakohtu kinnistusosakond esitab katastripidajale:\n1) andmed kinnistu numbri ja kinnistamise kuupäeva kohta;\n2) andmed omaniku ja/või hoonestaja kohta ja nendega seotud muudatused;\n3) andmed kinnistu ühendamise ja jagamise kohta.\n4)\n5)\n(3^1) Katastri ja kinnistusraamatu andmete elektroonilise ristkasutuse korral vahetatakse käesoleva paragrahvi 2. ja 3. lõikes nimetatud andmeid.\n(4) Katastripidaja ja Tartu Maakohtu kinnistusosakond võivad vahetada muid andmeid Vabariigi Valitsuse poolt kehtestatud korras ja ulatuses.\n(5) Andmed tuleb esitada mitte hiljem kui 10 päeva jooksul pärast vastava kande tegemist katastrisse või kinnistusraamatusse.\n(6) Katastripidaja ja Tartu Maakohtu kinnistusosakonna andmevahetus toimub tasuta.\n(7)"
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Katastripidaja andmevahetus kohaliku omavalitsusorganiga",
+      "content": "(1) Katastripidaja esitab kohalikule omavalitsusorganile andmed selle haldusterritooriumil asuvate katastriüksuste pindalades, kõlvikulises koosseisus, maa maksustamishinnas, kitsendustes ja kasutuspiirangutes toimunud muudatustest mitte harvem kui kord kvartalis.\n(2) Kohalik omavalitsusorgan esitab katastripidajale andmed tema poolt kinnitatud katastriüksuse sihtotstarbe, üldplaneeringu, kohaliku omavalitsuse eriplaneeringu, detailplaneeringu ja maakorralduskava, seadusjärgsete ja teiste kitsenduste muudatuste ning teiste katastri andmeid muutvate otsuste vastuvõtmise kohta mitte harvem kui kord kvartalis, kui seaduses ei ole ette nähtud teisiti.\n(3) Käesolevas paragrahvis ettenähtud andmevahetus toimub tasuta.\n(4) Katastri ja kohaliku omavalitsuse andmekogu ristkasutuse korral vahetatakse käesoleva paragrahvi 1. ja 2. lõikes nimetatud andmeid elektrooniliselt. Andmete ristkasutuse korraldamiseks sõlmivad katastri vastutav töötleja ja kohaliku omavalitsuse andmekogu vastutav töötleja lepingu."
+    },
+    {
+      "provision_ref": "para5^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5^1",
+      "title": "§ 5^1. Andmete ristkasutus teiste andmekogudega",
+      "content": "Andmete ristkasutus teiste andmekogudega toimub Vabariigi Valitsuse määratud juhtudel ja ulatuses. Sellisel juhul sõlmivad katastri vastutav töötleja ja ristkasutuses oleva andmekogu vastutav töötleja andmete ristkasutuse korraldamiseks lepingu."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Katastriandmetele juurdepääs",
+      "content": "(1) Katastriandmetele juurdepääs toimub katastriandmetega tutvumise ja nendest väljavõtete saamise teel.\n(2) Igaüks võib tutvuda katastriandmetega ja saada nendest väljavõtteid, kui seadusega ei ole sätestatud teisiti. Tehingute andmebaasi andmetega võib tutvuda ja saada nendest väljavõtteid ainult maa hindaja korralise ja erakorralise hindamise läbiviimiseks. Maa hindaja, kellel on võimaldatud tutvuda tehingute andmebaasi andmetega, on kohustatud esitama erakorralise hindamise tulemused katastripidajale.\n(3) Katastriandmetega on võimalik tutvuda katastripidaja juures ning andmesidevõrkude kaudu juhul, kui on tagatud, et lubatud tutvumise mahtu ei ületata ja et tutvuval isikul ei ole võimalik katastriandmeid muuta. Katastriandmetele juurdepääsuks piisab katastriüksuse katastritunnuse või asukoha (aadressi) ja olemasolu korral nime teadmisest. Katastriandmetele juurdepääsu sooviv isik võib korraga tutvuda ühe katastriüksuse ja sellega piirnevate katastriüksuste andmetega.\n(4) Katastri ametlikeks väljavõteteks on katastripidaja pitsati ja allkirjaga kinnitatud õiend maaüksuse registreerimise kohta maakatastris, mis peab sisaldama katastriüksuse katastritunnust, sihtotstarvet, asukohta, pindala ja katastriüksuse moodustamise õiguslikku alust, ning katastripidaja pitsati ja allkirjaga kinnitatud koopia katastriüksuse plaanist või katastripidaja pitsati ja allkirjaga kinnitatud väljavõte kaartidest.\n(5) Katastriandmetega tutvumine katastripidaja juures toimub katastriandmete taasesitamise teel kuvari ekraanil või väljatrükil.\n(6) Katastriandmetega tutvumine andmesidevõrkude vahendusel toimub katastripidaja loa alusel. Nimetatud loa väljaandmine ja katastriandmetega tutvumine toimub valdkonna eest vastutava ministri poolt kehtestatud korras.\n(7) Katastriandmetega tutvuda sooviv isik peab esitama katastripidajale isikut tõendava dokumendi, isiku esindaja ka volitusi tõendava dokumendi. Katastriandmetega tutvumiseks andmesidevõrkude vahendusel esitatakse eelmises lauses nimetatud dokumendid automatiseeritud andmetöötluse jaoks loa saamisel ning katastriandmetega tutvumisel esitatakse katastripidaja poolt väljastatud elektrooniline kasutajakood.\n(8) Katastripidaja peab arvestust katastriandmetega tutvuvate isikute, tutvumise sisu ja aja kohta.\n(9) Katastripidaja väljastab käesoleva paragrahvi 4. lõikes nimetatud väljavõtte hiljemalt 15 tööpäeva jooksul taotluse esitamisest."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "7",
+      "title": "§ 7. Katastri finantseerimine",
+      "content": "(1) Katastri pidamist finantseeritakse riigieelarvest.\n(2) Katastriandmetest väljavõtete tegemise eest tasutakse riigilõiv riigilõivuseaduses sätestatud määra järgi."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - KATASTER",
+      "section": "8",
+      "title": "§ 8. Katastripidaja õigused ja kohustused",
+      "content": "(1) Katastriüksusi registreerib ning kandeid, sealhulgas parandusi ja muudatusi teeb katastrisse katastripidaja käesolevas seaduses sätestatud alustel.\n(2) Katastripidajal on õigus keelduda katastriüksuse registreerimisest või kande või muudatuse tegemisest, kui:\n1) esitatud dokumentidest ei selgu soovitava kande õiguslik alus;\n2)\n(3) Katastriüksuse registreerimisest, kande või muudatuse tegemisest keeldumisel tuleb katastripidaja poolt esitada keeldumise otsus katastriüksuse registreerimist või kande või muudatuse tegemist taotlenud isikule ühe kuu jooksul vastava taotluse katastripidajale esitamisest.\n(4) Katastrit peetakse eesti keeles. Võõrkeelsed dokumendid esitatakse koos eestikeelse tõlkega.\n(5) Katastripidaja vastutab tehtud kande vastavuse eest algdokumendile. Katastripidaja valest kandest tekitatud kahjud hüvitatakse seaduses sätestatud korras.\n(6) Katastripidaja teatab kannet taotlenud isikule maaregistrisse kande tegemisest, selle muutmisest või kustutamisest Vabariigi Valitsuse poolt kehtestatud korras.\n(7) Katastriüksuse registreerimiseks, kande või muudatuse tegemiseks esitatavate dokumentide loetelu kehtestab Vabariigi Valitsus.\n(8) Katastrile andmete esitamise ja katastrist andmete väljastamise üle peab katastripidaja arvestust elektrooniliselt."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - KATASTER",
+      "section": "9",
+      "title": "§ 9. Maaregister",
+      "content": "(1)\n(2) Maaregister sisaldab katastriüksuse kohta järgmisi andmeid:\n1) katastritunnus;\n2) asukoht ja olemasolul nimi;\n3) omavalitsusüksuse nimetus;\n4) katastris registreerimise kuupäev, kuu ja aasta;\n5) kinnistu number;\n6) kinnistamise kuupäev;\n7) omaniku, hoonestaja nimi, aadress ja isikukood, juriidilisel isikul asukoht, postiaadress ja registreerimisnumber;\n8) kasutamise kitsendused;\n9) sihtotstarve;\n10) üldpindala;\n11) pindalad kõlvikute ja sihtotstarvete lõikes;\n12) piiripunktide andmed;\n13)\n14) maksustamishind;\n15)\n16) katastritunnus või -tunnused, millest antud katastriüksus on moodustatud.\n(2^1) Maa korralise ja erakorralise hindamise läbiviimiseks ning maa väärtust kajastavate andmete töötlemiseks moodustatakse tehingute andmebaas.\n(2^2) Tehingute andmebaas sisaldab kinnisasjade ja ehitiste kui vallasasjade või nende osade võõrandamise tehingute kohta järgmisi andmeid:\n1) tehingu identifikaator (automaatselt genereeritav järjekorranumber);\n2) tehingu liik (müük, vahetus, kinge või muu);\n3) tehinguobjekti liik (kinnisasi, hoonestusõigus, korteriomand, korterihoonestusõigus, vallasasi);\n4) tehinguobjekti katastritunnus(-ed);\n5) tehinguobjekti omandiosa suurus;\n6) tehinguobjekti pindala ja kõlvikud;\n7) tehinguobjekti sihtotstarve;\n8) andmed hoonestatuse kohta;\n9) andmed koormatiste olemasolu kohta;\n10) tehingu sooritamise kuupäev;\n11) tehinguhind, selle puudumisel tehinguväärtus;\n12) andmed tehingu poolte kohta (isiku liik, tehingu osapoolte arv).\n(3) Katastripidaja võib vajaduse korral katastrisse kanda katastriüksuse kohta muid andmeid, sealhulgas katastriüksusel asuvate ehitiste andmed, ja moodustada andmebaase.\n(4) Maaregistrisse kande tegemine, sealhulgas muutmine ja kustutamine toimub seaduse, Vabariigi Valitsuse määruse, kohtuotsuse, Tartu Maakohtu kinnistusosakonna teatise, kohaliku omavalitsusorgani otsuse või vannutatud maamõõtja või vastavat litsentsi omava isiku poolt esitatud katastriüksuse moodustamise toimiku või muude õigusaktides sätestatud dokumentide alusel. Kande tegemise aluseks võib olla ka riigi või kohaliku omavalitsusorgani ülesandel tehtud erakorralise hindamise akt.\n(4^1) Tehingute andmebaasi kande tegemine, sealhulgas muutmine ja kustutamine toimub tehingu õiendi või muude õigusaktides sätestatud dokumentide alusel.\n(5) Maaregistri juurde kuuluvad katastriüksuse plaan, katastrikaart, kitsenduste kaart ning maa kvaliteedi ja hindamise kaart."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - KATASTER",
+      "section": "10",
+      "title": "§ 10. Katastriüksuse plaan",
+      "content": "(1) Katastriüksuse plaanile peavad olema kantud katastriüksuse piirid, ehitised (hooned, rajatised), kõlvikute paiknemine ja kitsendusi põhjustavate objektide asukoht ning andmed kõlvikute pindalade kohta. Katastriüksuse plaan on katastriüksuse piiride ja kitsendusi põhjustavate objektide asukohta tõendavaks algdokumendiks katastrisse kandmisel.\n(2) Katastriüksuse plaani koostab vannutatud maamõõtja või vastavat litsentsi omav isik. Üks eksemplar sellest plaanist kuulub katastriüksuse moodustamise toimiku koosseisu.\n(3) Katastriüksuse moodustamise ajaks rajatud või kaitse alla võetud kitsendust põhjustav objekt loetakse seaduslikuks ja kitsendus seadusjärgseks ning selle asukoht (piirid) kantakse katastriüksuse plaanile."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - KATASTER",
+      "section": "11",
+      "title": "§ 11. Katastrikaart",
+      "content": "(1) Katastrikaardil ja põhikaardil kasutatakse ühist matemaatilist alust ja kartograafilist projektsiooni.\n(2) Katastrikaardi mõõtkava on 1:10 000, õigusaktidega sätestatud korras määratud tiheasustusega aladel on katastrikaardi mõõtkava 1:500 või 1:2000.\n(3) Kanded katastrikaardile teeb katastripidaja. Katastrikaardile kantakse riigipiir, maakonna, valla ja linna halduspiirid, alevi, aleviku, küla, katastripiirkonna, asumi ja katastriüksuste piirid ning katastritunnused.\n(4) Halduspiiride kaardile kandmise ja muutmise aluseks on õigusaktidega kinnitatud piirid.\n(5) Kui katastripidamise käigus katastri aluskaart vahetub ning kasutusele võetaval kaardil olev halduspiir ei lange kokku kasutusel olnud kaardil olevate situatsioonielementidega, on katastripidajal lubatud täpsustada halduspiiri katastriandmete alusel."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - KATASTER",
+      "section": "12",
+      "title": "§ 12. Kitsenduste kaart",
+      "content": "(1) Katastripidaja kannab kitsenduste kaardile katastriüksuse kasutamise kitsendust põhjustava objekti asukoha (piirid) ning vajaduse korral esitab kitsenduse ulatuse.\n(2) Kitsenduste kaardile kannete tegemine, muutmine ja kustutamine toimub Tartu Maakohtu kinnistusosakonna teatise või vannutatud maamõõtja või vastavat litsentsi omava isiku poolt esitatud katastriüksuse moodustamise toimiku või muude õigusaktides sätestatud dokumentide alusel või õigusaktis ettenähtud muudel alustel.\n(3) Kitsenduste kaardi mõõtkava võib katastripidaja otsusel olla suurem käesoleva seaduse § 11 2. lõikes ettenähtud mõõtkavast."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - KATASTER",
+      "section": "14",
+      "title": "§ 14. Maa kvaliteedi ja hindamise kaart",
+      "content": "(1) Maa kvaliteedi ja hindamise kaardile kantakse vabariigi maismaad iseloomustavad maa kvaliteedi või väärtuse näitajad, mis on aluseks maa maksustamishinna määramisel.\n(2) Maa kvaliteedi ja hindamise kaardil piiritletakse ja iseloomustatakse maa-alad, kus maa kasutamine ja majanduslik tegevus on reguleeritud seadusjärgse kitsenduse või planeeringuga, kui sellest sõltub maksustamishind.\n(3) Maa kvaliteedi ja hindamise kaart koostatakse Vabariigi Valitsuse poolt kehtestatud korras."
+    },
+    {
+      "provision_ref": "para14^1",
+      "chapter": "2. peatükk - KATASTER",
+      "section": "14^1",
+      "title": "§ 14^1. Katastri aluskaardid",
+      "content": "(1) Katastri aluskaardid on Eesti põhikaart, ortofotod ning asulaplaanid.\n(2) Eesti põhikaardi mõõtkava on 1:10 000. Ortofotode mõõtkava on asulates 1:2000 ja hajaasustusega aladel 1:10 000.\n(3) Tiheasustusega aladel kasutatakse katastri aluskaardina asulaplaane mõõtkavas 1:500 või 1:2000."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - KATASTER",
+      "section": "15",
+      "title": "§ 15. Katastriarhiiv",
+      "content": "(1) Katastripidaja peab katastri maaregistri ja kaartide kasutamiseks ning kande aluseks olevate dokumentide säilitamiseks arhiivi. Algdokumendid peavad olema kopeeritud. Koopiaid tuleb muutuste korral uuendada ja säilitada eraldi asuvas arhiivis.\n(1^1) Tehingute andmebaasi kande aluseks olevaid algdokumente säilitatakse katastriarhiivis viis aastat ja neid ei kopeerita.\n(2) Katastriarhiivi pidamise eeskirjad kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - KATASTRIPIDAMINE",
+      "section": "16",
+      "title": "§ 16. Katastriüksuse moodustamine",
+      "content": "(1) Katastriüksuse moodustamiseks teostab vannutatud maamõõtja või vastavat litsentsi omav isik maaomaniku lihtkirjaliku avalduse alusel katastrimõõdistamised. Vannutatud maamõõtja või vastavat litsentsi omav isik koostab õigusaktis sätestatud korras katastriüksuse moodustamise toimiku, mille ta esitab õigusaktis sätestatud korras katastripidajale katastriüksuse registreerimiseks.\n(2) Katastrimõõdistamisi teostav vannutatud maamõõtja või vastavat litsentsi omav isik vastutab tema poolt teostatud mõõdistamise ning koostatud katastriüksuse moodustamise toimiku õigsuse ja seaduslikkuse eest.\n(3) Katastriüksuse minimaalsuuruseks on 30 m^2. Minimaalsuurusest väiksema katastriüksuse võib moodustada kohaliku omavalitsuse volikogu otsusega."
+    },
+    {
+      "provision_ref": "para16^1",
+      "chapter": "3. peatükk - KATASTRIPIDAMINE",
+      "section": "16^1",
+      "title": "§ 16^1. Maakorraldustööde tegevuslitsentsi väljaandmine",
+      "content": "(1) Maakorraldustööde tegemise õigus on maakorraldustööde tegevuslitsentsi (edaspidi litsents ) omaval isikul.\n(1^1) Maakorraldustööde tegemise õigus on ka välisriigi kutsekvalifikatsiooni omandanud isikul, kui tema kutsekvalifikatsiooni on tunnustatud välisriigi kutsekvalifikatsiooni tunnustamise seaduse kohaselt. Välisriigi kutsekvalifikatsiooni tunnustamise seaduse § 7 lõikes 2 sätestatud pädev asutus on Maa-amet.\n(2) Litsentsi andmiseks moodustatakse Maa-ameti juurde ekspertkomisjon. Komisjoni koosseisu kinnitab Maa-ameti peadirektor. Litsentsi annab välja Maa-ameti peadirektor ekspertkomisjoni ettepanekul. Litsents antakse viieks aastaks. Litsentsi pikendamise järgmiseks kehtivuse perioodiks otsustab litsentsi omava isiku taotlusel tegevuslitsentsi väljaandja ekspertkomisjoni ettepanekul. Litsents ei ole üleantav ning selle üleandmine teisele isikule ja kasutamine teise isiku poolt on keelatud.\n(3) Litsents antakse isikule, kes on sooritanud kaks katsetööd ja eksami maakorralduse ja maareformi läbiviimise ning maakorraldustööde teostamise teoorias ja praktikas.\n(3^1) Litsentsi taotluse läbivaatamise eest tasutakse riigilõiv riigilõivuseaduses sätestatud määras.\n(4) Litsentsi väljaandja võib keelduda tegevuslitsentsi väljaandmisest juhul, kui taotleja:\n1) on litsentsi taotlemisel esitanud valeandmeid;\n2) ei sooritanud katsetöid;\n3) ei sooritanud eksamit;\n4) ei ole tasunud riigilõivu.\n(5) Litsentsi väljaandmise, peatamise ja tühistamise korra kehtestab Vabariigi Valitsus. Katsetööde, eksami ja hariduse suhtes esitatavad nõuded kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para16^2",
+      "chapter": "3. peatükk - KATASTRIPIDAMINE",
+      "section": "16^2",
+      "title": "§ 16^2. Litsentsi kehtivus, selle peatamine ja tühistamine",
+      "content": "(1) Litsents kaotab kehtivuse litsentsil märgitud kehtivusaja möödumisel, litsentsi tühistamisel, litsentsi omava isiku tegevuse lõpetamisel, isiku lõppemisel või füüsilise isiku surmaga.\n(2) Litsentsi saab ekspertkomisjoni ettepanekul tühistada litsentsi väljaandja. Litsentsi võib tühistada järgmistel juhtudel:\n1) litsentsi taotlemisel esitati valeandmeid ning see ilmnes pärast litsentsi väljaandmist;\n2) litsentsi omav isik on korduvalt esitanud katastripidajale registreerimiseks dokumentatsiooni, mis ei vasta kehtestatud nõuetele;\n3) litsentsi omava isiku taotlusel.\n(3) Litsentsi tühistamise aluseks olevate asjaolude ilmnemisel või vastava kirjaliku informatsiooni saamisel kontrollib ekspertkomisjon ilmnenud asjaolusid ja esitatud informatsiooni. Ekspertkomisjon teeb vajaduse korral litsentsi omavale isikule ettekirjutuse puuduste kõrvaldamiseks, määrates selleks tähtaja, või teeb litsentsi väljaandjale ettepaneku litsentsi tühistamiseks. Puuduste kõrvaldamiseni on ekspertkomisjonil õigus litsents peatada. Kui litsentsi omav isik ei täida ettekirjutust määratud tähtaja jooksul, on litsentsi väljaandjal õigus ekspertkomisjoni ettepanekul litsents tühistada.\n(4) Litsentsi tühistamisel võib litsentsi väljaandja ekspertkomisjoni ettepanekul määrata litsentsi omavale isikule tähtaja pooleliolevate tööde lõpetamiseks.\n(5) Litsentsi tühistamise otsus saadetakse litsentsi omavale isikule hiljemalt kolme tööpäeva jooksul, arvates otsuse tegemisest.\n(6) Maa-ametil on õigus igal ajal kontrollida litsentsi omava isiku tegevuse vastavust õigusaktidele.\n(7) Kui litsentsi väljaandmise aluseks olnud asjaolud on muutunud, on litsentsi omav isik kohustatud viivitamatult teatama litsentsi väljaandjale toimunud muudatustest ja esitama vastavad dokumendid."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - KATASTRIPIDAMINE",
+      "section": "17",
+      "title": "§ 17. Katastrimõõdistamine",
+      "content": "(1) Katastrimõõdistamisel peavad katastriüksuse piiripunktid olema seotud riikliku või kohaliku mõõdistamise põhivõrguga. Põhivõrgu punktide puudumisel tuleb vähemalt kaks piiripunkti siduda looduses tunnetatavate püsiobjektidega nii, et kõikide piiripunktide asukohad oleksid taastatavad.\n(2) Katastrimõõdistamisi teostatakse ja kontrollitakse Vabariigi Valitsuse poolt kehtestatud korras."
+    },
+    {
+      "provision_ref": "para17^1",
+      "chapter": "3. peatükk - KATASTRIPIDAMINE",
+      "section": "17^1",
+      "title": "§ 17^1. Avaliku veekogu kaldajoone muutuste katastrisse kandmine",
+      "content": "Seaduses sätestatud juhtudel ja alusel avaliku veekogu täitmisega kaasnenud kaldakinnisomandi muutused mõõdistatakse ja lisatakse kaldakinnisasja koosseisu ning kinnisasja piiride ja pindala muudatus kantakse maakatastrisse kaldakinnisasja omaniku avalduse alusel. Kinnistusraamatus uuendatakse kinnisasja piiride ja pindala andmed automaatselt elektroonilise andmevahetuse käigus."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - KATASTRIPIDAMINE",
+      "section": "18",
+      "title": "§ 18. Katastriüksuse sihtotstarbe määramine",
+      "content": "(1) Katastriüksuse registreerimisel peab katastripidaja katastris fikseerima katastriüksuse kõlvikute pindalad ja sihtotstarbe või sihtotstarbed.\n(2) Planeerimisseaduses sätestatud detailplaneeringu koostamise kohustuse korral määrab kohalik omavalitsus katastriüksuse sihtotstarbe kehtestatud detailplaneeringu alusel.\n(3) Sihtotstarvete liigid ja määramise korra kehtestab Vabariigi Valitsus.\n(4) Ehitise või selle osa kasutamise otstarbe muutmisel, kui see ei too kaasa ehitusteatise kohustusega või ehitusloakohustuslikku ehitamist, määrab kohalik omavalitsus katastriüksuse sihtotstarbe või sihtotstarbed ehitusseadustiku kohases kasutusloas nimetatud ehitise või selle osa kasutamise otstarbe või otstarvete alusel.\n(5) Kui ehitise või selle osa kasutamise otstarbe muutmisega kaasneb ehitusteatise kohustusega või ehitusloakohustuslik ehitamine, mis ei too kaasa detailplaneeringu koostamise kohustust, määrab kohalik omavalitsus katastriüksuse sihtotstarbe või sihtotstarbed ehitusseadustiku kohases ehitusloas nimetatud ehitise kasutamise otstarbe või otstarvete alusel.\n(6) Planeerimisseaduse kohase detailplaneeringu koostamise kohustuse puudumise korral määrab kohalik omavalitsus katastriüksuse sihtotstarbe planeerimisseaduse kohase üldplaneeringu alusel. Üldplaneeringu puudumise korral määrab katastriüksuse sihtotstarbe kohaliku omavalitsuse volikogu.\n(7) Ehitise, välja arvatud teede ning tehnovõrgu ja -rajatise püstitamiseks maatulundusmaa sihtotstarbega katastriüksusele, millel ei asu ehitisi, moodustatakse iseseisev ehitise alust ning selle teenindamiseks vajalikku maad hõlmav katastriüksus, mille sihtotstarbe määrab detailplaneeringu koostamise kohustuse puudumise korral kohaliku omavalitsuse volikogu ehitise kasutamise otstarbe alusel. Detailplaneeringu koostamise kohustuse korral määratakse moodustatava katastriüksuse sihtotstarve detailplaneeringu alusel.\n(8) Maatulundusmaa sihtotstarbega katastriüksusel paiknevate ehitistega ühtse kompleksi moodustavate ehitiste või maatulundusmaa sihtotstarbeliseks kasutamiseks vajalike ehitiste püstitamiseks või tehnovõrkude ja -rajatiste ehitamiseks iseseisvat katastriüksust ei moodustata ning vajaduse korral määratakse maale käesoleva paragrahvi 7. lõikes sätestatud korras mitu sihtotstarvet. Käesolevas lõikes nimetamata ehitiste püstitamise korral maatulundusmaale kohaldatakse 7. lõikes sätestatut."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - KATASTRIPIDAMINE",
+      "section": "19",
+      "title": "§ 19. Katastriüksuse sihtotstarbe muutmisest teatamine",
+      "content": "Katastriüksuse sihtotstarbe või sihtotstarvete muutmise aluseks olevast otsusest informeerib kohalik omavalitsus katastripidajat ühe kuu jooksul otsuse tegemise päevast arvates."
+    },
+    {
+      "provision_ref": "para19^1",
+      "chapter": "3. peatükk - KATASTRIPIDAMINE",
+      "section": "19^1",
+      "title": "§ 19^1. Katastriüksuse kasutamise kitsenduste selgitamine",
+      "content": "(1) Katastriüksuse kasutamise kitsenduste (edaspidi kitsendused ) selgitamine on kitsendusi põhjustavate objektide asukoha määramine nende registreerimiseks katastris. Kitsenduste selgitamiseks tellib kitsendusi põhjustava objekti omanik katastrimõõdistamise, mis teostatakse Vabariigi Valitsuse poolt kehtestatud korras.\n(2) Kitsendusi põhjustava objekti tekkimisel või katastris registreeritud kitsendusi põhjustava objekti asukoha muutmisel teostab kitsendusi põhjustava objekti omanik käesoleva paragrahvi 1. lõikes sätestatud toimingu kolme kuu jooksul kinnisomandi kitsenduse tekkimisest või kitsendusi põhjustava objekti asukoha muutmisest arvates."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "4. peatükk - LÕPPSÄTTED",
+      "section": "20",
+      "title": "§ 20. Katastripidamine maareformi ajal",
+      "content": "(1) Kuni riigi omandis oleva maa katastrisse kandmiseni on linna- ja vallavalitsused kohustatud esitama katastripidajale andmeid nende halduspiirides asuva riigi omandis oleva maa kasutamise kohta.\n(2) Maareformi ajal võib katastrikaardi alusena kasutada Eesti põhikaarti, ortofotosid ning olemasolevaid asulaplaane mõõtkavas 1:2000 ning muid sobivaid plaane ja kaarte. Eelmises lauses nimetatud kaartide, plaanide ja ortofotode kasutamise korra ja tasumäärad kehtestab valdkonna eest vastutav minister.\n(3)\n(4) Maareformi ajal toimub õigusvastaselt võõrandatud maa tagastamiseks või erastamiseks katastriüksuse moodustamine vastavat litsentsi omava isiku poolt. Käesoleva paragrahvi 5. ja 5^1. lõikes sätestatud juhtudel võib katastriüksuse moodustada ka kohaliku omavalitsuse volitatud esindaja. Vastava tellimuse esitab riigi kulul tagastatava õigusvastaselt võõrandatud maa osas maavanem või tema volitatud esindaja, muu tagastatava maa osas maa tagastamise õigustatud subjekt, ostueesõigusega erastatava maa osas vastavalt kokkuleppele kas erastamise korraldaja, tema volitatud isik või maa erastamise õigustatud subjekt, muu erastatava maa osas erastamise korraldaja või tema volitatud isik. Õigusvastaselt võõrandatud maa tagastamisel ja maa ostueesõigusega erastamisel registreeritakse katastriüksus valla- või linnavalitsuse volitatud esindaja kirjaliku avalduse alusel, muudel maa erastamise juhtudel erastamise korraldaja või tema volitatud esindaja kirjaliku avalduse alusel.\n(5) Maa tagastamisel, erastamisel, munitsipaalomandisse andmisel ja riigi omandisse jätmisel võib katastriüksusi moodustada plaani- ja kaardimaterjali alusel ilma katastrimõõdistamiseta. Maa ostueesõigusega erastamisel võib kasutada ka Vabariigi Valitsuse kehtestatud nõuetele vastavaid olemasolevaid plaane (krundiplaan vms). Katastriüksus moodustatakse katastripidaja määratud ning vajadusel linna- või vallavalitsusega kooskõlastatud plaani- või kaardimaterjalil (krundiplaan, krundijaotusplaan, maadearvestusplaan, fotoplaan, ortofoto, digitaalkaart või muu). Sobiva plaani- või kaardimaterjaliga varustab kohalikku omavalitsust katastripidaja. Maa tagastamisel või erastamisel määrab kohalik omavalitsus plaanil või kaardil maaüksuse piiri ja pindala ning tema volitatud esindaja näitab maa taotlejale plaanil või kaardil kätte maaüksuse piirid ning seaduses sätestatud juhtudel koostab piiriprotokolli. Maa riigi omandisse jätmisel koostab katastriüksuse plaani taotleja või tema volitatud esindaja. Riigimetsamaa, riigi omandisse jäävate veekogude aluse maa ning riigi omandis olevate teede ja raudteede aluse maa riigi omandisse jätmisel piiriprotokolli ei koostata. Maa munitsipaalomandisse andmisel koostab katastriüksuse plaani taotleja.\n(5^1) Kui isiku kasutuses oleva maaüksuse piiri muudetakse või maaüksuse piir määratakse vastavalt Eesti Vabariigi maareformi seaduse § 7 5. lõikele, § 9 9. lõikele, § 10 3. lõikele või § 22^1 6. lõikele, koostab kohaliku omavalitsuse volitatud esindaja või vannutatud maamõõtja või vastavat litsentsi omav isik looduses piiriprotokolli, millele kirjutavad alla maa taotleja ja piirinaabrid. Piirinaabrite allkirjad kinnitab piiriprotokolli koostaja. Kohalik omavalitsus teatab maa taotlejale ja piirinaabritele piiriprotokolli koostamise aja ja koha. Piiriprotokollis kirjeldatakse piiri ja piiripunkte ning nende asukohti püsiobjektide suhtes. Maa taotleja lisab piiriprotokollile maaüksusel paiknevate ehitiste loetelu ning kirjaliku kinnituse, et kõik maatükil paiknevad ehitised kuuluvad temale, või kokkuleppe hoonestusõiguse seadmise kohta. Kui maa taotleja on ehitiste koosseisu ja omandiõiguse kohta esitanud tegelikkusele mittevastavaid andmeid, kannab ta vajalike korrektuuride tegemisega seotud kulud. Piiriprotokolli koostamise eest juhul, kui piiriprotokolli koostamise nõue tuleneb seadusest, tasub isik, kelle omandisse antavat katastriüksust moodustatakse, muudel juhtudel tasub piiriprotokolli koostamise eest isik, kelle nõudel piiriprotokoll koostati, kui ei lepita kokku teisiti. Piiriprotokolli koostamise tasu kehtestab kohalik omavalitsus. Kui piiriprotokolli koostamisele kutsutud isik ei ilmu või keeldub piiriprotokollile alla kirjutamast, loetakse katastriüksus moodustatuks kohaliku omavalitsuse määratud piirides.\n(5^2) Kui moodustatav katastriüksus piirneb maaga, kus katastriüksus on moodustamata, on piirinaabriks vastava maatüki tagastamise või erastamise õigustatud subjekt, nimetatud isiku puudumisel kohalik omavalitsus.\n(5^3) Aiandus- või suvilaühistu välispiir peab olema seotud riikliku või kohaliku mõõdistamise põhivõrguga. Maaüksused registreeritakse katastris vastavalt ühistu kinnitatud krundijaotusplaanile. Maa taotleja või piirinaabri või ühistu nõudel koostatakse piiriprotokoll vastavalt käesoleva paragrahvi lõikele 5^1.\n(5^4) Katastriüksuse mõõdistamisel on aluseks käesoleva paragrahvi 5. lõikes nimetatud katastriüksuse moodustamise plaan või kaart ja 5^1. lõikes nimetatud piiriprotokoll. Kui katastriüksuse mõõdistamisel selgub, et plaanil olev piir ja piiriprotokolliga määratud piir ei lange kokku, võetakse aluseks piiriprotokolliga määratud piir.\n(5^5) Katastriüksuse moodustamine plaani- ja kaardimaterjali alusel toimub Vabariigi Valitsuse kehtestatud korras. Nimetatud korra kehtestab Vabariigi Valitsus kolme nädala jooksul, alates käesoleva seaduse jõustumisest. Katastriüksuse registreerimisel maakatastris ja kinnistusraamatus lisatakse kandele märge «Katastriüksus moodustatud plaani alusel».\n(6) Õigusvastaselt võõrandatud maa tagastamisel, riigi- ja munitsipaalmaa katastrisse kandmisel fikseeritakse kõlvikute pinnad käesoleva paragrahvi 2. lõikes nimetatud kaartide või plaanide alusel, korrigeerides vajaduse korral kõlvikute seisu looduses toimunud muudatusi arvestades.\n(7) Õigusvastaselt võõrandatud maa tagastamisel või ostueesõigusega erastamisel kehtib käesoleva seaduse § 18 2. lõikes nimetatud kavade puudumisel katastriüksuse ja tema koostisosade senine sihtotstarve.\n(8) Käesoleva paragrahvi 5. lõikes nimetatud maaüksuse plaanile kantakse kaitse alla võetud kitsendusi põhjustava objekti asukoht ja piirid.\n(9) Käesoleva paragrahvi 1. lõikes sätestatud kohustuse täitmist finantseeritakse riigieelarvest.\n(10) Hajaasustusega aladel asuvate plaani- ja kaardimaterjali alusel moodustatud riigi omandis olevate katastriüksuste jagamisel on lubatud mõõdistada ainult olemasolevast katastriüksusest eraldatav osa.\n(11) Katastripidajal on õigus plaani- ja kaardimaterjali alusel moodustatud katastriüksuse plaani asemel edastada Tartu Maakohtu kinnistusosakonnale ka katastripidaja pitsati ja allkirjaga kinnitatud väljavõte katastrikaardist. Väljavõte peab sisaldama samaväärset informatsiooni katastriüksuse plaaniga.\n(12) Kui katastrimõõdistamise teel moodustatud katastriüksuse katastris registreerimisel selgub, et sellega piirneva ning katastris registreeritud plaani- ja kaardimaterjali alusel moodustatud katastriüksuse piirid katastrikaardil ei lange kokku või, vastupidi, määrab katastripidaja katastriüksuse registreerimiseks lubatud vea suuruse tulenevalt katastri aluskaardist, kuid viga ei või olla suurem kui 50 meetrit katastri aluskaardi situatsioonist põhivõrgu suhtes, kusjuures looduses piirimärkidega tähistatud piiri ei muudeta.\n(13) Kui katastrimõõdistamise teel moodustatud katastriüksuse katastris registreerimisel selgub, et sellega piirneva ning katastris registreeritud plaani- ja kaardimaterjali alusel moodustatud katastriüksuse piirid looduses ei lange kokku või, vastupidi, ning on tuvastatav, et plaani- ja kaardimaterjali alusel moodustatud katastriüksuse piiride määramisel on eksitud, võetakse aluseks katastrimõõdistamisel määratud piir. Plaani- ja kaardimaterjali alusel moodustatud katastriüksuse piiride muudatus kantakse mõõdistamisandmete alusel katastrikaardile, olemasolevaid katastriüksuse plaane ei muudeta ning edaspidi on katastriüksuse piiride asukohta tõendavaks ametlikuks dokumendiks katastripidaja poolt kinnitatud väljavõte katastrikaardist.\n(14) Plaani- ja kaardimaterjali alusel moodustatud katastriüksuse piiride looduses tähistamine, samuti looduses piirimärkidega tähistatud piiri taastamine toimub katastrimõõdistamise teel katastriüksuse plaani või piiriprotokolli alusel. Katastripidaja poolt kinnitatud katastrikaardi väljavõtte alusel plaani- ja kaardimaterjali alusel moodustatud katastriüksuse piiride looduses tähistamisel või looduses piirimärkidega tähistatud piiride taastamisel arvestatakse käesoleva paragrahvi 12. lõikes sätestatud lubatud veaga."
+    },
+    {
+      "provision_ref": "para20^1",
+      "chapter": "4. peatükk - LÕPPSÄTTED",
+      "section": "20^1",
+      "title": "§ 20^1. Notari poolt andmete edastamise kohustus",
+      "content": "(1) Notar on kohustatud kümne päeva jooksul pärast ehitise kui vallasasja või selle osa võõrandamise tehingu tõestamist esitama katastripidajale tehingu õiendi, kus on järgmised andmed:\n1) notariaalregistri number;\n2) tehingu liik (müük, vahetus, kinge või muu);\n3) tehinguobjekti asukoht;\n4) tehinguobjekti liik (ehitis, ehitise reaalosa);\n5) tehinguobjekti omandiosa suurus;\n6) tehinguobjekti pindala;\n7) ehitiste loetelu ja kasutusotstarve;\n8) andmed koormatiste olemasolu kohta;\n9) tehingu sooritamise kuupäev;\n10) tehingu hind, selle puudumisel tehinguväärtus;\n11) andmed tehingu poolte kohta (isiku liik, tehingu osapoolte arv).\n(2) Notar on kohustatud kümne päeva jooksul pärast kinnistu või selle mõttelise osa võõrandamise tehingu tõestamist esitama katastripidajale võõrandaja kulul lepingu ärakirja. Ärakirja esitamise asemel võib notar Notarite Koja ja Maa-ameti kokkuleppe alusel, mis muu hulgas sisaldab andmete edastamise viisi, esitada katastripidajale tehingu õiendi, kus on järgmised andmed:\n1) notariaalregistri number;\n2) tehingu liik (müük, vahetus, kinge või muu);\n3) tehinguobjekti kinnistu number (numbrid) ja katastritunnus(ed);\n4) tehinguobjekti liik (kinnisasi, hoonestusõigus, korteriomand või korterihoonestusõigus);\n5) tehinguobjekti omandiosa suurus;\n6) tehingu sooritamise kuupäev;\n7) tehingu hind, sealhulgas andmed käibemaksu sisaldumise kohta, hinna puudumisel tehinguväärtus;\n8) andmed iga võõrandaja ja omandaja kohta tehingus (juriidilise isiku puhul registreerimisriigi tunnus, füüsilise isiku puhul alalise elukohariigi tunnus), samuti andmed nende poolt võõrandatud või omandatud kinnistu mõtteliste osade kohta;\n9) andmed koormatiste olemasolu kohta, välja arvatud juhul, kui kinnistusraamatu andmed koormatiste olemasolu kohta on katastripidajale elektrooniliselt kättesaadavad;\n10) andmed kinnistu hoonestatuse kohta, välja arvatud juhul, kui need on katastripidajale elektrooniliselt kättesaadavad.\n(3) Tehinguteks käesoleva paragrahvi mõttes ei loeta maa erastamise käigus erastaja ja riigi nimel erastamise korraldaja vahel sõlmitavaid tehinguid ning eluruumi erastamise käigus ostja (õigustatud subjekti) ja müüja (kohustatud subjekti) vahel sõlmitavaid müügilepinguid."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - LÕPPSÄTTED",
+      "section": "21",
+      "title": "§ 21. Katastri automatiseeritud andmetöötlusele üleviimine",
+      "content": "(1) Katastri registrite ja katastrikaartide pidamine viiakse üle automatiseeritud andmetöötlusele.\n(2) Katastri automatiseeritud andmetöötlusele üleviimise korra kehtestab Vabariigi Valitsus."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - LÕPPSÄTTED",
+      "section": "23",
+      "title": "§ 23.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - LÕPPSÄTTED",
+      "section": "25",
+      "title": "§ 25.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - LÕPPSÄTTED",
+      "section": "26",
+      "title": "§ 26. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub Riigi Teatajas avaldamisele järgneval päeval, välja arvatud käesoleva seaduse paragrahv 3, mis jõustub 1995. aasta 1. jaanuaril.\n(2) Käesoleva seaduse jõustumise päevaks alustatud katastritööd viiakse lõpule lepingu sõlmimise ajal kehtinud tingimustel ja registreeritakse katastripidaja poolt kuni 1995. aasta 15. aprillini."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "maakataster (kataster)",
+      "definition": "andmekogu, mis koosneb maaregistrist koos katastrikaartidega ja katastriarhiivist",
+      "source_provision": "para2"
+    },
+    {
+      "term": "maaregister",
+      "definition": "katastriüksuste kohta registreeritavate ja peetavate andmete kogu",
+      "source_provision": "para2"
+    },
+    {
+      "term": "katastri kaardid (edaspidi kaardid )",
+      "definition": "katastri koosseisu kuuluvad kaardid registrisse kantava informatsiooni (piiride, kitsendusi põhjustavate objektide paiknemise, maa kvaliteedi andmete jne) graafiliseks esitamiseks. Kaartideks on katastrikaart (§ 11), kitsenduste kaart (§ 12) ning maa kvaliteedi ja hindamise kaart (§ 14)",
+      "source_provision": "para2"
+    },
+    {
+      "term": "katastripiirkond",
+      "definition": "haldusüksus või selle osa, mille määramisel arvestatakse omavalitsusüksuste piire",
+      "source_provision": "para2"
+    },
+    {
+      "term": "asum",
+      "definition": "katastri pidamisel kasutatav katastripiirkonna osa, mille määramisel arvestatakse olemasoleva asustuse väljakujunenud piire",
+      "source_provision": "para2"
+    },
+    {
+      "term": "katastritunnus",
+      "definition": "numbriline kood, mis on ette nähtud katastriüksuste identifitseerimiseks ja andmete sidumiseks teiste registritega",
+      "source_provision": "para2"
+    },
+    {
+      "term": "katastriüksus",
+      "definition": "katastris iseseisva üksusena registreeritud maatükk",
+      "source_provision": "para2"
+    },
+    {
+      "term": "maatükk (maaüksus)",
+      "definition": "maa või veeala piiritletud osa",
+      "source_provision": "para2"
+    },
+    {
+      "term": "katastriüksuse sihtotstarve",
+      "definition": "õigusaktidega lubatud ja nendes sätestatud korras määratud katastriüksuse kasutamise otstarve või otstarbed",
+      "source_provision": "para2"
+    },
+    {
+      "term": "piirimärk",
+      "definition": "piiripunkti tähis looduses ja mille asukohta on võimalik taastada",
+      "source_provision": "para2"
+    },
+    {
+      "term": "kõlvik",
+      "definition": "ühetaolise majandusliku sihtotstarbe ja/või loodusliku seisundiga katastriüksuse osa, mida ei piiritleta piirimärkidega",
+      "source_provision": "para2"
+    },
+    {
+      "term": "tehingu õiend",
+      "definition": "kinnisasja või ehitise kui vallasasja või nende osade võõrandamise tehingu kohta koostatav dokument",
+      "source_provision": "para2"
+    },
+    {
+      "term": "katastri aluskaardid",
+      "definition": "katastri kaartide alusena kasutatavad topograafilist infot sisaldavad kaardid, mis ei kuulu katastri koosseisu",
+      "source_provision": "para2"
+    }
+  ]
+}

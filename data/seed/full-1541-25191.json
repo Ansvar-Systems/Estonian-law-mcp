@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-25191",
+  "type": "statute",
+  "title": "Ülalpidamiskohustusi käsitlevate otsuste tunnustamise ja täitmise konventsiooniga ühinemise seadus",
+  "title_en": "Ülalpidamiskohustusi käsitlevate otsuste tunnustamise ja täitmise konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-25191",
+  "status": "in_force",
+  "issued_date": "1996-11-06",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/25191.xml",
+  "description": "Official consolidated statute text (Ülalpidamiskohustusi käsitlevate otsuste tunnustamise ja täitmise konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud ülalpidamiskohustusi käsitlevate otsuste tunnustamise ja täitmise konventsiooniga, mis on sõlmitud 1973. aasta 2. oktoobril Haagis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühinemisel määrata konventsiooni kohaselt esitatud taotluste vastuvõtu- ja edastusasutuseks Justiitsministeerium."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ühinemisel teha juurdelisatud konventsiooni artikli 34 alusel reservatsioon jätta tunnustamata ja täitmata selle konventsiooni artikli 26 lõike 1 punktides 2 ja 3 nimetatud otsuseid või kokkuleppeid. Riigikogu esimees Toomas SAVI Õiend Lisatud andmed väljakuulutamise kohta."
+    }
+  ],
+  "definitions": []
+}

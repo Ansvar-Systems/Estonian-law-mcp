@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-205112015005",
+  "type": "statute",
+  "title": "Osamaksete ühtsesse kriisilahendusfondi ülekandmise ja ühiskasutusse võtmise lepingu ratifitseerimise seadus",
+  "title_en": "Osamaksete ühtsesse kriisilahendusfondi ülekandmise ja ühiskasutusse võtmise lepingu ratifitseerimise seadus",
+  "short_name": "ee-law-205112015005",
+  "status": "in_force",
+  "issued_date": "2015-10-21",
+  "in_force_date": "2015-11-15",
+  "url": "https://www.riigiteataja.ee/akt/205112015005.xml",
+  "description": "Official consolidated statute text (Osamaksete ühtsesse kriisilahendusfondi ülekandmise ja ühiskasutusse võtmise lepingu ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Lepingu ratifitseerimine",
+      "content": "Ratifitseerida juurdelisatud osamaksete ühtsesse kriisilahendusfondi ülekandmise ja ühiskasutusse võtmise leping (edaspidi leping ), millele Eesti Vabariik on alla kirjutanud 2014. aasta 21. mail Brüsselis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Deklaratsioon",
+      "content": "Eesti Vabariik deklareerib, et tõlgendab lepingut viisil, mis ei too kaasa lepinguosaliste ühisvastutust, avaliku sektori finantstoetuse andmist ega eelarvesuveräänsust ja fiskaalkohustusi mõjutavate meetmete võtmise kohustust."
+    }
+  ],
+  "definitions": []
+}

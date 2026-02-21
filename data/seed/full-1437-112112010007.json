@@ -1,0 +1,43 @@
+{
+  "id": "ee-law-112112010007",
+  "type": "statute",
+  "title": "Valla- ja linnaeelarve seadus",
+  "title_en": "Valla- ja linnaeelarve seadus",
+  "short_name": "ee-law-112112010007",
+  "status": "in_force",
+  "issued_date": "1993-06-16",
+  "in_force_date": "2012-01-01",
+  "url": "https://www.riigiteataja.ee/akt/112112010007.xml",
+  "description": "Official consolidated statute text (Valla- ja linnaeelarve seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para26",
+      "chapter": "6. peatükk - MAJANDUSAASTA ARUANNE",
+      "section": "26",
+      "title": "§ 26. Majandusaasta aruande koostamine ja kinnitamine",
+      "content": "(1) Majandusaasta aruande koostab valitsus ning esitab selle volikogule kinnitamiseks volikogu kehtestatud korras.\n(2) Majandusaasta aruande koostamisel lähtutakse raamatupidamise seaduses sätestatud põhimõtetest.\n(3) Majandusaasta aruandesse kuuluvad:\n1) raamatupidamise aastaaruanne koos eelarve täitmise aruandega;\n2) tegevusaruanne vastavalt raamatupidamise seadusele;\n3) reservfondi kasutamise aruanne;\n4)\n5) muud volikogu poolt ettenähtud andmed.\n(4) Volikogule esitatakse lisaks käesoleva paragrahvi lõike 3 punktis 2 nimetatud tegevusaruandele ülevaade valla või linna enamusosalusega äriühingute ning valla või linna poolt asutatud sihtasutuste ja mittetulundusühingute majandustegevusest.\n(5) Majandusaasta aruande kinnitab volikogu hiljemalt järgneva aasta 30. juuniks, kuulanud ära revisjonikomisjoni arvamuse."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "6. peatükk - MAJANDUSAASTA ARUANNE",
+      "section": "28",
+      "title": "§ 28. Majandusaasta aruande esitamine riigiasutustele",
+      "content": "(1) Majandusaasta kinnitatud aruande koos vandeaudiitori aruandega esitab volikogu asukohajärgsele maavalitsusele aruande kinnitamisest seitsme tööpäeva jooksul.\n(2) Kui valla- või linnavolikogu pole kinnitanud majandusaasta aruannet käesoleva seaduse § 26 lõikes 5 nimetatud tähtpäevaks, võib Vabariigi Valitsus rahandusministri ettepanekul peatada kohaliku omavalitsuse üksusele eelarvete tasandusfondist väljamaksete tegemise kuni aruande esitamiseni."
+    },
+    {
+      "provision_ref": "para28^1",
+      "chapter": "6. peatükk - MAJANDUSAASTA ARUANNE",
+      "section": "28^1",
+      "title": "§ 28^1. Seaduse rakendamine",
+      "content": "Käesoleva seaduse § 8^1 kehtib 2011. aasta lõpuni."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "6. peatükk - MAJANDUSAASTA ARUANNE",
+      "section": "29",
+      "title": "§ 29. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 1994. aasta 1. jaanuarist."
+    }
+  ],
+  "definitions": []
+}

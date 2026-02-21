@@ -1,0 +1,638 @@
+{
+  "id": "ee-law-104122015004",
+  "type": "statute",
+  "title": "Loomatauditõrje seadus",
+  "title_en": "Loomatauditõrje seadus",
+  "short_name": "ee-law-104122015004",
+  "status": "in_force",
+  "issued_date": "1999-06-16",
+  "in_force_date": "2017-01-01",
+  "url": "https://www.riigiteataja.ee/akt/104122015004.xml",
+  "description": "Official consolidated statute text (Loomatauditõrje seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDOSA",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab loomatauditõrje meetmed ja reguleerib nende rakendamist, samuti loomataudist põhjustatud kahjude hüvitamist.\n(2) Loomatauditõrjeks rakendatavate meetmete eesmärgiks on ära hoida ja likvideerida loomade nakkushaigusi ning kaitsta inimest loomadega ühiste ja loomade kaudu levivate haiguste eest.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi.\n(3^1) Käesoleva seaduse alusel teostatavale riiklikule järelevalvele kohaldatakse korrakaitseseadust käesolevas seaduses sätestatud erisustega.\n(4) Vabariigi Valitsus või valdkonna eest vastutav minister võib oma pädevuse piires kehtestada loomatauditõrje meetmete rakendamiseks õigusakte küsimustes, mille otsustamise õigus on vastavalt Euroopa Liidu õigusaktidele liikmesriigil."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDOSA",
+      "section": "2",
+      "title": "§ 2. Loom, loomsed saadused ja loomsed kõrvalsaadused",
+      "content": "(1) Käesolevas seaduses käsitletakse looma, loomseid saadusi ja nende käitlemist veterinaarkorralduse seaduse §-s 2 esitatud tähenduses.\n(2) Käesolevas seaduses koduloomade kohta sätestatut rakendatakse kõigi tehistingimustes elavate loomade suhtes (kaasa arvatud tehistingimustes peetavad metsloomad) ja metsloomade kohta sätestatut looduses vabalt elavate loomade suhtes.\n(3) Tapaloom käesoleva seaduse tähenduses on liha ja lihasaaduste tootmise eesmärgil tapmisele määratud loom.\n(4) Loomsed kõrvalsaadused käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1069/2009, milles sätestatakse muuks otstarbeks kui inimtoiduks ettenähtud loomsete kõrvalsaaduste ja nendest saadud toodete tervise-eeskirjad ning tunnistatakse kehtetuks määrus (EÜ) nr 1774/2002 (ELT L 300, 14.11.2009, lk 1–33), artikli 3 punktis 1 sätestatud loomsed kõrvalsaadused.\n(5) Loomsetest kõrvalsaadustest saadud tooted käesoleva seaduse tähenduses on Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1069/2009 artikli 3 punktis 2 sätestatud loomsetest kõrvalsaadustest saadud tooted."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDOSA",
+      "section": "3",
+      "title": "§ 3. Loomataud",
+      "content": "(1) Loomataudiks loetakse looma haigus, mis on põhjustatud bioloogiliste haigusetekitajate poolt, mis võivad kas otseselt või keskkonna vahendusel kanduda ühelt loomalt teisele, loomalt inimesele ja vastupidi. Käesoleva seaduse tähenduses loetakse loomataudiks ka selline loomade massiline haigestumine, mida põhjustaval teguril puudub omadus üle kanduda.\n(2)\n(3) Käesoleva seaduse tähenduses loetakse loomataud eriti ohtlikuks, kui selle tekitajal on omadus kiiresti levida loomapopulatsioonis, põhjustada ulatuslikku haigestumist ja suurt suremust ning millega võib kaasneda suur majanduslik kahju, samuti kui loomataud kujutab tõsist ohtu inimese elule ja tervisele."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDOSA",
+      "section": "4",
+      "title": "§ 4. Loomapidaja",
+      "content": "Käesoleva seaduse tähenduses on loomapidaja isik, kellele loom kuulub (loomaomanik) või kes tegeleb looma pidamisega rendi- või muu selletaolise suhte alusel loomaomanikuga."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDOSA",
+      "section": "5",
+      "title": "§ 5. Riiklik veterinaarjärelevalve",
+      "content": "(1) Riiklikku veterinaarjärelevalvet (edaspidi riiklik järelevalve ) käesoleva seaduse ja selle alusel kehtestatud õigusaktidest tulenevate nõuete täitmise üle tehakse veterinaarkorralduse seaduses sätestatud korras, kui käesolevast seadusest ei tulene teisiti.\n(2) Riiklikku järelevalvet Euroopa Liidu asjakohaste õigusaktide, käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuete täitmise üle teostab Veterinaar- ja Toiduamet."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDOSA",
+      "section": "6",
+      "title": "§ 6. Veterinaararsti õigused ja kohustused",
+      "content": "(1) Veterinaararsti kutsetegevuse luba omav veterinaararst (edaspidi veterinaararst ) juhib loomapidaja ning loomsete saaduste, loomsete kõrvalsaaduste ja nendest saadud toodete käitleja tähelepanu Euroopa Liidu õigusaktides, käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete rikkumisele ning teeb ettepanekuid puuduste kõrvaldamiseks.\n(2) Eriti ohtliku loomataudi puhkemise korral teeb veterinaararst loomataudi leviku tõkestamiseks ja likvideerimiseks koostööd korrakaitseorganiga.\n(3) Kui Veterinaar- ja Toiduamet vajab loomatauditõrje toimingu tegemiseks veterinaararsti kaasabi, teavitab ta sellest oma veebilehel, näidates ära loomatauditõrje toimingu kirjelduse. Loomatauditõrje toimingu tegemisel osalemise eest makstakse veterinaararstile tasu.\n(4) Loomatauditõrje toimingu tegemisel veterinaararsti osalemise tasu määrad ja veterinaararstile tasu maksmise korra kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "7",
+      "title": "§ 7. Loomade pidamise veterinaarnõuded",
+      "content": "(1) Loomakasvatushooned ja -rajatised ning loomade pidamiseks piiritletud alad peavad oma asukoha, projektlahenduse, tehnoloogia ja mikrokliima poolest vastama veterinaarnõuetele. Uusehitise ja põhjaliku tehnoloogilise ümberkorralduse projekt tuleb kooskõlastada Veterinaar- ja Toiduametiga.\n(1^1) Loomakasvatushoonete ja -rajatiste ning loomade pidamiseks piiritletud aladena käsitatakse kohti, kus loomade pidamise eesmärgid on järgmised:\n1) loomsete saaduste saamine;\n2) aretus;\n3) vahendamine müügiks ja muul viisil tasu eest või tasuta üleandmiseks;\n4) loomapartiide koostamine;\n5) avalik näitamine või muu avalikkusele suunatud meelelahutuslik eesmärk;\n6) liigi säilitamine;\n7) teaduslik uurimine.\n(2) Loomakasvatushoonete ja -rajatiste ning loomade pidamiseks piiritletud alade ning seal loomade pidamise veterinaarnõuded kehtestab valdkonna eest vastutav minister. Loomade pidamise veterinaarnõuetena käsitatakse ka kalade, limuste (hõimkond Mollusca ) ja koorikloomade (klass Crustacea ) kasvatamise nõudeid ning nõudeid loomade ning nende paljundamisega seotud tegevuste kohta, nagu haudemunade tootmine ja hautamine, sperma kogumine, embrüote kogumine ja siirdamine ning muu taoline.\n(2^1) Embrüote kogumise, töötlemise ja säilitamisega ning munarakkude in vitro viljastamisega (edaspidi embrüote käitlemine ) võib tegeleda isik, kellel on pädev personal (edaspidi embrüokogumisrühm ), kelle kasutuses on laboratoorium, kus on võimalik nõuetekohaselt embrüoid käidelda, ja muu vajalik varustus. Embrüokogumisrühma kuuluvad veterinaararst (edaspidi embrüokogumisrühma veterinaararst ), kes on pädev embrüote käitlemist nõuetekohaselt läbi viima, ja üks või mitu spetsialisti, kelle embrüokogumisrühma veterinaararst on välja õpetanud nõuetekohaseid meetodeid ja võtteid kasutama.\n(2^2) Embrüote käitlemisega võib tegeleda embrüokogumisrühma veterinaararst või spetsialist embrüokogumisrühma veterinaararsti järelevalve all. Embrüokogumisrühm peab pidama embrüote käitlemise üle arvestust. Embrüote käitlemise üle peetavale arvestusele, embrüote käitlemisega tegelevale isikule ja embrüokogumisrühmale esitatavad nõuded kehtestab valdkonna eest vastutav minister.\n(2^3)\n(2^4)\n(2^5)\n(2^6)\n(3)\n(4)"
+    },
+    {
+      "provision_ref": "para7^1",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "7^1",
+      "title": "§ 7^1. Bioohutusmeetmed",
+      "content": "Loomataudi ennetamiseks rakendab loomapidaja järgmisi bioohutusmeetmeid:\n1) isiku ja veovahendi liikumise korraldamine;\n2) loomakasvatushoonesse ja -rajatisse ning loomade pidamiseks piiritletud alale kõrvalise isiku pääsemise piiramine;\n3) loomakasvatushoonesse ja -rajatisse ning loomade pidamiseks piiritletud alale välisriigist saabunud isiku pääsemise piiramine enne 48 tunni möödumist selle isiku Eestisse saabumisest;\n4) karja juurde toodava looma pidamine muudest loomadest eraldi, lähtudes looma taudialasest staatusest;\n5) haige looma eraldamine tervetest;\n6) sööda, allapanu ja muu võimaliku nakkust edasikandva materjali käitlemise korraldamine ning nimetatud materjali korrapärane puhastamine ja desinfitseerimine;\n7) korrapärane näriliste ja putukate tõrje;\n8) loomakasvatushoonesse ja -rajatisse ning loomade pidamiseks piiritletud alale mets- ja koduloomade pääsemise takistamine ning muud asjakohased loomataudi leviku tõkestamiseks vajalikud meetmed."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "8",
+      "title": "§ 8. Põllumajandusloomade pidamisel ja loomsete saaduste käitlemisel osalevate isikute tervisekontroll",
+      "content": "Põllumajandusloomade pidamisel ja loomsete saaduste käitlemisel osalevate isikute tervisekontrolli suhtes kohaldatakse nakkushaiguste ennetamise ja tõrje seadust."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "9",
+      "title": "§ 9. Loomapidajate kohustused",
+      "content": "Loomapidaja on kohustatud:\n1) teavitama kohe veterinaararsti üle 24 kuu vanuse veise ning üle 18 kuu vanuse lamba ja kitse surmast, loomade ulatuslikust haigestumisest või hukkumisest;\n1^1) teavitama piirkonda teenindavat volitatud veterinaararsti või Veterinaar- ja Toiduameti kohalikku asutust üle 24 kuu vanuse veise ning üle 18 kuu vanuse lamba ja kitse enda tarbeks tapmisest vähemalt 24 tundi ette;\n2) teavitama korrakaitseorganit või volitatud veterinaararsti metslooma rünnakust talle kuuluvale loomale;\n3) pidama kinni käesolevast seadusest ja selle alusel kehtestatud õigusaktidest tulenevatest nõuetest loomataudide ennetamisel ja tõrjel ning järgima loomataudi esinemise tõttu kehtestatud kitsendusi."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "10",
+      "title": "§ 10. Identifitseerimisviisid",
+      "content": "(1) Loomade identifitseerimisviisid on looma märgistamine, looma kirjeldamine või looma kuuluvuse määratlemine.\n(2) Looma märgistamine on tema varustamine eristamist võimaldava püsiva ning kordumatu kunstliku tunnusega.\n(3) Looma kirjeldamist tema eristamise eesmärgil kasutatakse loomade puhul, keda ei ole võimalik või otstarbekas märgistada.\n(4) Loomad, keda ei ole võimalik või otstarbekas märgistada ja kelle kohta ei saa selle loomaliigi isendite suure välise sarnasuse tõttu koostada kirjeldust, identifitseeritakse nende kuuluvuse kaudu.\n(5) Kuuluvuse kaudu identifitseerimisel loetakse loom kuuluvaks isikule, kelle valduses, sealhulgas kelle kinnisel territooriumil või kellele kuuluvas hoones või rajatises ta asub, kui looma kuuluvusest huvitatud isik ei tõenda vastupidist."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "11",
+      "title": "§ 11. Koduloomade identifitseerimine ja põllumajandusloomade register",
+      "content": "(1) Loomaomanik on kohustatud tagama oma koduloomade identifitseeritavuse vastavalt käesoleva seaduse §-le 10. Identifitseerimiseks vajalikud vahendid väljastatakse loomapidaja kulul. Loomapidaja on kohustatud pidama peetavate põllumajandusloomade kohta arvestust ning registreerima nad riiklikus registris käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud korras. Kohalik omavalitsus korraldab koerte ja vajaduse korral teiste lemmikloomade üle arvestuse pidamist.\n(2) Identifitseerimisele kuuluvate põllumajandusloomade liikide loetelu, põllumajandusloomade identifitseerimise ning nende kohta andmete registreerimise viisid ja korra, registreerimistunnistuse väljastamise korra ja veisepassi vormi ning põllumajandusloomade arvestuse pidamise korra kehtestab valdkonna eest vastutav minister.\n(2^1) Veiste identifitseerimine ja registreerimine toimub vastavalt Euroopa Parlamendi ja Euroopa Liidu Nõukogu määrusele 1760/2000/EÜ, millega kehtestatakse veiste identifitseerimise ja registreerimise ning veiseliha ja veiselihatoodete märgistamise reeglid (ELT L 204, 11.08.2000, lk 1–10).\n(2^2) Lammaste ja kitsede identifitseerimine ja registreerimine toimub vastavalt nõukogu määrusele (EÜ) nr 21/2004, millega kehtestatakse lammaste ja kitsede identifitseerimise ja registreerimise süsteem ja muudetakse määrust (EÜ) nr 1782/2003 ning direktiive 92/102/EMÜ ja 64/432/EMÜ (ELT L 5, 09.01.2004, lk 8–17).\n(3) Põllumajandusloomade register on vastavalt avaliku teabe seadusele valdkonna eest vastutava ministri ettepanekul asutatud riiklik register.\n(4) Põllumajandusloomade registri vastutavaks töötlejaks on Maaeluministeerium ja volitatud töötlejaks Põllumajanduse Registrite ja Informatsiooni Amet.\n(5) Põllumajandusloomade registrisse kantakse loomapidaja esitatud andmed registreerimisele kuuluvate põllumajandusloomade ning selliste loomakasvatushoonete ja -rajatiste ning loomade pidamiseks piiritletud alade kohta, kus tegeletakse käesoleva seaduse § 19^6 lõikes 1 nimetatud loomade pidamisega. Registrisse kantava loomakasvatushoone, -rajatise ning loomade pidamiseks piiritletud ala geograafilise asukoha koordinaadid esitab registrile volitatud töötleja ametnik.\n(5^1) Põllumajanduse Registrite ja Informatsiooni Amet keeldub põllumajandusloomade registrisse põllumajanduslooma kohta kande tegemisest, kui isik on teadlikult esitanud valeandmeid või kui isikult on sellist liiki põllumajanduslooma pidamise õigus loomakaitseseaduse § 65 kohaselt ära võetud.\n(6) Kui riigi infosüsteemide andmevahetuskihis on avatud asjakohane teenus, siis riigi infosüsteemide andmevahetuskihi kaudu Põllumajanduse Registrite ja Informatsiooni Ametile esitatud põllumajandusloomade registrisse andmete kandmise või registriandmete muutmise taotlusele ei pea lisama digitaalallkirja.\n(7) Põllumajandusloomade registrile kohaldatakse majandustegevuse seadustiku üldosa seaduses registri kohta sätestatut, arvestades käesolevas seaduses sätestatud erisusi."
+    },
+    {
+      "provision_ref": "para11^1",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "11^1",
+      "title": "§ 11^1. Tapamaja ning loomsete kõrvalsaaduste ja nendest saadud toodete käitlemise ettevõtte andmete kandmine põllumajandusloomade registrisse",
+      "content": "(1) Põllumajandusloomade registrisse kantakse lisaks käesoleva seaduse § 11 lõikes 5 nimetatud andmetele ka andmed tegevusloa saanud ettevõtja tapamaja ning tegevusloa saanud või majandustegevuse teatise esitanud ettevõtja loomsete kõrvalsaaduste ja nendest saadud toodete käitlemise ettevõtte kohta. Veterinaar- ja Toiduamet esitab nimetatud andmed volitatud töötlejale viivitamata. Volitatud töötleja määrab ettevõtte geograafilise asukoha koordinaadid ja kannab need registrisse.\n(2)\n(3)\n(4) Käesoleva seaduse § 11 lõikes 5 ja käesoleva paragrahvi lõikes 1 nimetatud andmete õigsuse eest vastutab nende esitaja. Registrisse kantud andmete muutumise korral taotleb nende esitaja viivitamata registris muudatuse tegemist."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "12",
+      "title": "§ 12. Omanikuta ja loomapidaja juurest lahti pääsenud koduloomad",
+      "content": "(1) Omanikuta koduloomaks loetakse identifitseerimata koduloom, kelle omanikku ei ole võimalik tuvastada.\n(2) Loomapidaja juurest lahti pääsenud koduloomaks loetakse loom, kes viibib omaniku või looma eest vastutava isiku juuresolekuta väljaspool loomapidajale kuuluvat või tema kasutuses olevat territooriumi.\n(3) Kohalik omavalitsus korraldab omanikuta koduloomade püüdmist, pidamist ja hukkamist vastavalt loomakaitseseadusele. Loomapidaja juurest lahti pääsenud kodulooma püüdmist korraldab loomapidaja. Kui loomapidaja juurest lahti pääsenud kodulooma kinnipüüdmise korraldas kohalik omavalitsus, kannab kodulooma püüdmise ja pidamisega seotud kulud loomaomanik."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "13",
+      "title": "§ 13. Põllumajandusloomade liikumine",
+      "content": "(1) Käesolevas seaduses mõistetakse loomade liikumise all põllumajandusloomade asukoha ajutist või püsivat muutmist nende võõrandamisel või mõnel muul põhjusel, millega kaasneb loomade üleviimine ühest karjast teise.\n(2) Loomi on keelatud välja viia piirkonnast ja karjast, kus on loomataudi kahtluse või esinemise tõttu kehtestatud loomade liikumise piirangud.\n(3) Käesoleva seaduse tähenduses loetakse karjaks põllumajanduslooma või põllumajandusloomade rühma, keda peetakse ühes ettevõttes kui epidemioloogilist üksust. Kui ühes ettevõttes peetakse rohkem kui ühte karja, moodustab iga kari eraldi epidemioloogilise üksuse, millel on sama loomatervishoiualane staatus.\n(4) Karjast on lubatud välja viia vaid kliiniliselt tervet looma, kes on identifitseeritud ja registreeritud käesoleva seaduse § 11 alusel kehtestatud korra kohaselt ning kes vastab käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuetele.\n(4^1) Veise karjast väljaviimisel peab veisega kaasas olema veise pass, milles kajastuvad looma kohta olulised andmed, nagu andmed loomal teostatud veterinaarsete menetluste, tema liikumise ja loomapidaja kohta. Andmed veise liikumise ja loomapidaja kohta kannab veise passi loomapidaja veise karjast välja viimisel ning karja toomisel. Andmed veisel teostatud veterinaarsete menetluste kohta kannab veise passi volitatud veterinaararst.\n(5) Loomade ühest karjast teise ja tapamajja saatmise korra ning nendele loomadele esitatavad veterinaarnõuded kehtestab valdkonna eest vastutav minister.\n(6)"
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "14",
+      "title": "§ 14. Loomanäituse, -võistluse, -laada, -oksjoni ja loomade kokkutoomisega seotud muu avaliku ürituse korraldamise veterinaarnõuded",
+      "content": "(1) Loomanäitusele, -võistlusele, -laadale, -oksjonile või loomade kokkutoomisega seotud muule avalikule üritusele (edaspidi üritus ) võib tuua kliiniliselt terve ning veterinaarnõuetele vastava looma. Ürituse korraldaja peab kaasama veterinaararsti, kes kontrollib üritusele toodud looma tervislikku seisundit ja veterinaarnõuetele vastavust ning looma heaolu ürituse käigus.\n(2) Looma viimisel ürituselt tema alalisse pidamiskohta rakendab loomapidaja käesoleva seaduse §-s 7^1 nimetatud asjakohaseid bioohutusmeetmeid.\n(3) Ürituse korraldaja teavitab vähemalt kümme päeva enne korraldatava ürituse algust sellest Veterinaar- ja Toiduameti kohalikku asutust, kelle järelevalvealasel territooriumil üritus toimub.\n(4) Ürituse teates märgitakse:\n1) ürituse liik (loomanäitus, -võistlus, -laat, -oksjon või loomade kokkutoomisega seotud muu avalik üritus);\n2) ürituse alguse ja lõpu kuupäev;\n3) ürituse toimumise koht;\n4) üritusele toodavate loomade liigid;\n5) üritusele toodavate loomade päritoluriik ja -piirkond;\n6) üritusel looma tervislikku seisundit ja veterinaarnõuetele vastavust ning ürituse käigus looma heaolu kontrolliva veterinaararsti nimi ja kontaktandmed;\n7) ürituse korraldaja nimi ja kontaktandmed.\n(5) Veterinaar- ja Toiduameti kohalik asutus peab arvestust oma järelevalvealasel territooriumil toimuvate ürituste üle, registreerides tähtaja jooksul esitatud nõuetekohase teate. Andmed ürituste arvestuse kohta on avalikud ja neid säilitatakse kolm aastat ürituse registreerimise päevast arvates.\n(6) Veterinaar- ja Toiduamet võib keelata teatud liiki loomade kokkutoomise või nende üritusel kasutamise, kui riskianalüüsi tulemusena on selgunud loomataudi leviku oht.\n(7) Veterinaar- ja Toiduamet teavitab teatud liiki loomade kokkutoomise või nende üritusel kasutamise keelamisest viivitamata korraldajat ja vajaduse korral avalikkust massiteabevahendite kaudu. Ürituse korraldaja teavitab pärast loomade kokkutoomise või nende üritusel kasutamise keelamisest teadasaamist sellest üritusel osalejaid."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "15",
+      "title": "§ 15. Põllumajandusloomi vahendav isik ja loomade vahendamise veterinaarnõuded",
+      "content": "(1) Põllumajandusloomi vahendav isik (edaspidi vahendaja ) on füüsiline või juriidiline isik, kes ärilisel eesmärgil otse või kaudselt ostab ja müüb veiseid, sigu, lambaid ja kitsi, kellel on nimetatud loomadega kauplemisest püsiv käive ja kes enda omandatud loomad kuni 29 päeva jooksul kas müüb edasi või paigutab müüja ettevõttest pärinevad loomad teise loomapidaja ettevõttesse ning kes vastab talle esitatavatele nõuetele.\n(2) Nõuded põllumajandusloomade vahendaja ettevõttele kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "16",
+      "title": "§ 16. Veo veterinaarnõuded",
+      "content": "(1) Põllumajandusloomade ja loomsete saaduste veoks peab kasutama selleks ettenähtud või kohandatud veovahendeid. Loomade veol tuleb vältida keskkonna reostumist loomade väljaheidetega. Pärast iga põllumajandusloomade vedu või vajaduse korral ka enne järgmist loomade vedu, kui veovahendiga on veetud kaupa, mis võib olla loomade tervist ohustav, tuleb veovahend puhastada ja desinfitseerida Veterinaar- ja Toiduameti veebilehel avalikustatud loetelus oleva desinfektsioonivahendiga. Loetelus nimetamata desinfektsioonivahendit võib kasutada korrakaitseorgani nõusolekul.\n(2) Haigeid või haiguskahtlasi loomi tuleb vedada eraldi veosena veterinaararsti kontrolli all. Kui loom haigestub veo ajal, peab vedaja sellest kohe teavitama veterinaararsti.\n(3) Vedaja peab tagama veovahendi puhastamise ja desinfitseerimise ning kasutatud allapanu ladestamise.\n(4) Vedaja peab arvestust põllumajandusloomade veovahendile peale- ja veovahendilt mahalaadimise kuupäeva, kellaaja ja koha kohta, veetud põllumajandusloomade liigi ja arvu, nende saatja ja saaja, saatedokumentide andmete ning veovahendi puhastamise ja desinfitseerimise aja ja koha kohta. Vesiviljelusloomade veo korral peab vedaja arvestust ka veo kestel toimunud veevahetuse kohta, näidates muu hulgas ära veevahetuse toimumise asukoha. Nimetatud dokumente säilitatakse vähemalt kolm aastat.\n(5) Loomseid kõrvalsaadusi ja nendest saadud tooteid võib vedada Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 1069/2009 sätestatud nõuete kohaselt."
+    },
+    {
+      "provision_ref": "para17^1",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "17^1",
+      "title": "§ 17^1. Tapaloomade, loomsete saaduste ja nende käitlemise veterinaarnõuded",
+      "content": "(1) Käitleja peab tagama tapaloomade ja loomsete saaduste käitlemise veterinaarnõuete täitmise tapamajas ja loomsete saaduste käitlemise ettevõttes.\n(2) Loom tapetakse ja temast saadud loomseid saadusi käideldakse nõukogu määruses (EÜ) nr 1099/2009 loomade kaitse kohta surmamisel (ELT L 303, 18.11.2009, lk 1–30) ning Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 853/2004, millega sätestatakse loomset päritolu toidu hügieeni erieeskirjad (ELT L 139, 30.04.2004, lk 55–205), sätestatud asjakohaste nõuete kohaselt, kui looma ja loomseid saadusi on kontrollitud Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 854/2004, millega kehtestatakse erieeskirjad inimtoiduks ettenähtud loomsete saaduste ametlikuks kontrollimiseks (ELT L 139, 30.04.2004, lk 206–320), nõuete kohaselt.\n(3) Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 853/2004 artikli 1 lõike 3 alapunktides d ja e nimetatud juhtudel võib looma tappa ja temast saadud loomseid saadusi käidelda toiduseaduse § 26 lõike 3 ning Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 853/2004 artikli 1 lõike 4 alusel kehtestatud nõuete kohaselt.\n(4) Tapamajja saadetava looma suhtes, välja arvatud vesiviljelusloom, ei tohi olla püstitatud loomataudi kahtlust ning ta peab pärinema karjast, mille kohta ei ole loomataudi esinemise ega kahtluse tõttu kehtestatud loomade liikumise piirangut. Tapmisele määratud vesiviljelusloomal ei tohi esineda loomataudi kliinilisi tunnuseid.\n(5) Loomsete saaduste ja nende käitlemise veterinaarnõuded kehtestab valdkonna eest vastutav minister. Neid nõudeid ei kohaldata haigetelt või taudikahtlastelt loomadelt pärinevatele loomsetele saadustele ja nende käitlemisele.\n(5^1) Tauditõrje eesmärgil tapmisele määratud vesiviljelusloomade tapmise ettevõtte veterinaarnõuded kehtestab valdkonna eest vastutav minister.\n(6) Loomataudi puhkemise korral on loomade tapmise või hukkamisega ning loomsete saaduste käitlemisega tegelevad isikud kohustatud Veterinaar- ja Toiduameti ettekirjutuse kohaselt täitma oma käitlemisvaldkonnas loomataudi tõrje puhul rakendatavaid meetmeid, nagu näiteks taudistunud või taudikahtlaste loomade tapmine või hukkamine või sellistelt loomadelt pärinevate loomsete saaduste käitlemine ettenähtud viisil."
+    },
+    {
+      "provision_ref": "para18^1",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "18^1",
+      "title": "§ 18^1. Loomsete kõrvalsaaduste ja nendest saadud toodete käitlemise veterinaarnõuded",
+      "content": "(1) Loomseid kõrvalsaadusi ja nendest saadud tooteid käideldakse Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 1069/2009 sätestatud veterinaarnõuete kohaselt.\n(2)\n(3)\n(4) Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1069/2009 artikli 3 punktis 10 sätestatud pädev asutus on Veterinaar- ja Toiduamet.\n(5) Veterinaar- ja Toiduameti loal võib kooskõlas Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1069/2009 artikliga 19 ette näha loomsete kõrvalsaaduste ja nendest saadud toodete käitlemise erisusi.\n(6) Loomataudi puhkemise korral on loomsete kõrvalsaaduste ja nendest saadud toodete käitlemisega tegelev isik kohustatud osalema loomataudi tagajärgede likvideerimises oma käitlemisvaldkonnas Veterinaar- ja Toiduameti ettekirjutuse kohaselt."
+    },
+    {
+      "provision_ref": "para18^4",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "18^4",
+      "title": "§ 18^4. Euroopa Liidu õigusaktides sätestatud nõuetele mittevastava toiduks mittekasutatava loomse saaduse ladustamise veterinaarnõuded",
+      "content": "(1) Euroopa Liidu õigusaktides sätestatud nõuetele mittevastavat toiduks mittekasutatavat loomset saadust (edaspidi mittenõuetekohane toiduks mittekasutatav loomne saadus ) ladustatakse vabatsoonis, vabalaos või tollilaos loomade ja loomsete saadustega kauplemise ning nende impordi ja ekspordi seaduse nõuete kohaselt.\n(2) Mittenõuetekohase toiduks mittekasutatava loomse saaduse ladustamiseks kasutatav hoone ja ruum peavad vastama järgmistele nõuetele:\n1) olenevalt ladustatava loomse saaduse liigist ja laadist peab hoone sobima sellise loomse saaduse ladustamiseks;\n2) hoones on olenevalt ladustatava loomse saaduse liigist ja laadist eraldi ruum mittenõuetekohase toiduks mittekasutatava loomse saaduse ladustamiseks;\n3) hoones on eraldi ruum veterinaarjärelevalve ametnikule ning sidevahendite, nagu telefoni ja faksi kasutamise võimalus;\n4) hoone asub selle eest vastutava isiku alaliselt kontrollitava sisse- ja väljapääsuga suletud territooriumil, vabatsoonis asuva lao puhul on kogu tsoon suletud ning alalise tollikontrolli all.\n(3) Mittenõuetekohast toiduks mittekasutatavat loomset saadust võib ladustada samas ruumis nõuetekohase loomse saadusega üksnes juhul, kui mittenõuetekohast loomset saadust hoitakse eraldi sama ruumi lukustatavas osas."
+    },
+    {
+      "provision_ref": "para19^1",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "19^1",
+      "title": "§ 19^1. Loakohustus",
+      "content": "(1) Ettevõtjal peab olema tegevusluba järgmiste ettevõtete kasutamiseks:\n1) embrüokogumisrühma või põllumajandusloomi vahendava ettevõtja ettevõte;\n2) tauditõrje eesmärgil tapmisele määratud vesiviljelusloomade tapmise ettevõte;\n3) loomsete kõrvalsaaduste ja nendest saadud toodete käitlemise ettevõte, kus tegutsetakse Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1069/2009 artikli 24 lõikes 1 nimetatud tegevusvaldkonnas;\n4) mittenõuetekohase toiduks mittekasutatava loomse saaduse vabatsoonis, vabalaos või tollilaos ladustamise ettevõte.\n(2) Tegevusluba peab olema loomapidamiseks ettevõttes, kus tegeletakse:\n1) hobuste, sigade või veiste sperma kogumise ja säilitamisega turustamise eesmärgil;\n2) põllumajanduslindude aretuse ning haudemunade ja ööpäevaste tibude tootmisega turustamise eesmärgil;\n3) erinevatest karjadest pärinevate põllumajandusloomade ajutise pidamisega enne edasitoimetamist;\n4) põllumajandusloomade, välja arvatud ööpäevaste tibude, profülaktilise karantiini läbiviimisega;\n5) ahvide ( simiae ja prosimiae ) pidamise või aretamisega ärilisel või mitteärilisel eesmärgil nende avalikuks näitamiseks ja rahvahariduseks, liigi säilitamiseks ning teaduslikeks alus- või rakendusuuringuteks, sealhulgas ahvide aretamiseks selliste uuringute tarvis.\n(3) Tegevusluba peab olema ülemklassi Agnatha ning klassidesse Chondrichthyes ja Osteichthyes, hõimkonda Mollusca või alamhõimkonda Crustacea kuuluva veelooma (edaspidi veeloom ) pidamisel ettevõttes, kus veelooma peetakse turuleviimise eesmärgil, välja arvatud ettevõttes, kus:\n1) veelooma peetakse püügitiigis ja mis taasasustatakse registreeritud ehitisest pärit veeloomadega;\n2) peetav veeloom viiakse turule üksnes toiduks Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 853/2004, millega sätestatakse loomset päritolu toidu hügieeni erieeskirjad (ELT L 139, 30.04.2004, lk 55–205), artikli 1 lõike 3c kohaselt.\n(4) Ettevõtjale võib tegevusloa väljastada ka loomapidamiseks ettevõttes, kus peetakse muid loomi kui käesoleva paragrahvi lõike 2 punktis 5 nimetatud ahvid, EÜ nõukogu direktiivi 92/65/EMÜ, milles sätestatakse loomatervishoiu nõuded ühendusesiseseks kauplemiseks loomade, sperma, munarakkude ja embrüotega, mille suhtes ei kohaldata direktiivi 90/425/EMÜ A (I) lisas osutatud ühenduse erieeskirjades sätestatud loomatervishoiu nõudeid, ning nende impordiks ühendusse (EÜT L 268, 14.09.1992, lk 54–72) artikli 2 lõike 1 punktis b toodud tähenduses.\n(5) Tegevusluba annab ettevõtjale õiguse majandustegevuse alustamiseks ja teostamiseks üksnes tegevusloas märgitud ettevõttes või ettevõtte osas."
+    },
+    {
+      "provision_ref": "para19^2",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "19^2",
+      "title": "§ 19^2. Tegevusloa taotlemine",
+      "content": "(1) Tegevusloa taotluse lahendab Veterinaar- ja Toiduamet tegevusloa andmise või andmisest keeldumisega 90 päeva jooksul taotluse esitamise päevast arvates.\n(2) Tegevusloa taotluses esitatakse lisaks majandustegevuse seadustiku üldosa seaduses sätestatule järgmised andmed:\n1) peetav loomaliik;\n2) ettevõtte tegevuse korraldamise eest vastutava isiku nimi ja tema kontaktandmed;\n3) asendiplaan koos vee ja kanalisatsiooni välisvõrkude plaaniga;\n4) ruumide plaan koos seadmete paigutuse ning vee ja kanalisatsiooni sisevõrkude plaaniga;\n5) andmed kasutatud viimistlusmaterjalide kohta;\n6) puhastamis- ja desinfitseerimisplaan, mis sisaldab andmeid veovahendite, seadmete ja ruumide puhastamiseks ning desinfitseerimiseks rakendatavate meetmete ja kasutatavate ainete kohta;\n7) kahjuritõrjeplaan koos andmetega tõrjeks rakendatavate meetmete kohta;\n8) embrüokogumisrühma korral tegevusvaldkond (embrüote kogumine või in vitro tootmine või mõlemad), millega embrüokogumisrühm võib tegeleda;\n9) embrüokogumisrühma korral andmed kasutatava laboratooriumi kohta, mis kirjeldavad selle vastavust käesoleva seaduse § 7 lõike 2^2 alusel kehtestatud määruse nõuetele.\n(3) Veelooma pidamise ettevõtte puhul võib taotluses jätta esitamata käesoleva paragrahvi lõike 2 punktides 5–7 nimetatud andmed ning esitatakse lisaks lõikes 2 nimetatule ka järgmised andmed:\n1) tootmise eesmärk;\n2) vesiviljelussüsteemi või sisseseade tüüp;\n3) maksimaalne tootmismaht;\n4) kasvatatavate veeloomade liigid.\n(4) Käesoleva seaduse § 19^1 lõike 2 punktis 5 ja lõikes 4 nimetatud ettevõtte puhul tuleb lisaks majandustegevuse seadustiku üldosa seaduses sätestatule lisada taotlusele ka sellised andmed, mis kirjeldavad ettevõtte vastavust EÜ nõukogu direktiivi 92/65/EMÜ lisas C sätestatud veterinaarnõuetele.\n(5) Loomsete kõrvalsaaduste käitlemise ettevõtte kohta esitatakse tegevusloa taotluses lisaks majandustegevuse seadustiku üldosa seaduses sätestatule järgmised andmed ja dokumendid:\n1) veovahendi andmed;\n2) asendiplaan koos vee ja kanalisatsiooni välisvõrkude plaaniga;\n3) ruumide plaan koos seadmete paigutuse ning vee ja kanalisatsiooni sisevõrkude plaaniga;\n4) andmed käitlemisruumides kasutatud viimistlusmaterjalide kohta;\n5) käitlemisprotsessi tehnoloogiline skeem koos kasutatavate seadmete tehnilise kirjeldusega;\n6) andmed projekteeritud ning planeeritava või tegeliku tootmis- või töötlemisvõimsuse kohta;\n7) andmed ettevõtte ladude mahutavuse ja eeldatava toodangumahu kohta;\n8) puhastamis- ja desinfitseerimisplaan, mis sisaldab andmeid seadmete ja ruumide puhastamise ja desinfitseerimise meetmete ning kasutatavate ainete kohta;\n9) kahjuritõrjeplaan koos andmetega tõrjeks rakendatavate meetmete kohta;\n10) tekkinud heitvee töötlemise kirjeldus;\n11) toorme ja saaduste veo vahendite puhastamise kirjeldus.\n(5^1) Mittenõuetekohase toiduks mittekasutatava loomse saaduse vabatsoonis, vabalaos või tollilaos ladustamise ettevõtte kohta esitatakse tegevusloa taotluses lisaks majandustegevuse seadustiku üldosa seaduses sätestatule käesoleva paragrahvi lõike 2 punktides 2–7 nimetatud andmed mittenõuetekohase loomse saaduse ladustamiseks kasutatava ruumi kohta.\n(6) Tauditõrje eesmärgil tapmisele määratud vesiviljelusloomade tapmise ettevõtte tegevusloa taotluses lisaks majandustegevuse seadustiku üldosa seaduses sätestatule järgmised andmed:\n1) andmed ettevõtte heitveekäitluse süsteemi kohta;\n2) tauditõrje eesmärgil tapetavate veeloomade liikide nimetused.\n(7) Käesoleva paragrahvi lõigetes 2–6 nimetatud andmed kantakse põllumajandusloomade registrisse.\n(8) Käesoleva seaduse § 19^1 lõigetes 1–4 nimetatud tegevusloa taotluse lahendamise eest ei tasu ettevõtja riigilõivu."
+    },
+    {
+      "provision_ref": "para19^3",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "19^3",
+      "title": "§ 19^3. Tegevusloa kontrolliese",
+      "content": "Ettevõtjale antakse tegevusluba, kui tema loomakasvatushoone või -rajatis, loomade pidamiseks piiritletud ala, embrüokogumisrühm, põllumajandusloomi vahendava isiku või tauditõrje eesmärgil tapmisele määratud vesiviljelusloomade tapmise või loomsete kõrvalsaaduste või nendest saadud toodete käitlemise või mittenõuetekohase toiduks mittekasutatava loomse saaduse vabatsoonis, vabalaos või tollilaos ladustamise ettevõte vastab käesoleva seaduse ja selle alusel kehtestatud õigusaktide ning Euroopa Liidu õigusaktide nõuetele."
+    },
+    {
+      "provision_ref": "para19^4",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "19^4",
+      "title": "§ 19^4. Tegevusloa peatamise ja kehtetuks tunnistamise erisused",
+      "content": "(1) Majandushaldusasutus võib tegevusloa osaliselt või täielikult peatada või kehtetuks tunnistada, kui on rikutud käesoleva seaduse, selle alusel kehtestatud õigusaktide või Euroopa Liidu õigusaktide nõudeid, mis ei ole tegevusloa kontrolliesemeks.\n(2) Käesoleva seaduse § 19^1 lõike 2 punktis 5 ja lõikes 4 nimetatud ettevõtte tegevusluba peatatakse osaliselt või täielikult, tunnistatakse kehtetuks või selle kehtivus taastatakse EÜ nõukogu direktiivi 92/65/EMÜ, milles sätestatakse loomatervishoiu nõuded ühendusesiseseks kauplemiseks loomade, sperma, munarakkude ja embrüotega, mille suhtes ei kohaldata direktiivi 90/425/EMÜ A (I) lisas osutatud ühenduse erieeskirjades sätestatud loomatervishoiu nõudeid, ning nende impordiks ühendusse (EÜT L 268, 14.09.1992, lk 54–72) lisa C punktis 6 sätestatud alustel ja korras."
+    },
+    {
+      "provision_ref": "para19^5",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "19^5",
+      "title": "§ 19^5. Arvestuse andmete Euroopa Komisjonile edastamise kohustus",
+      "content": "Arvestuse andmete alusel esitab Veterinaar- ja Toiduamet tegevusloa saanud ettevõtjate ettevõtete andmed Euroopa Komisjonile ja liikmesriikidele Euroopa Liidu õigusaktides sätestatud nõuete kohaselt."
+    },
+    {
+      "provision_ref": "para19^6",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "19^6",
+      "title": "§ 19^6. Teatamiskohustus",
+      "content": "(1) Põllumajanduse Registrite ja Informatsiooni Ametile peab esitama majandustegevusteate loomapidamisel loomakasvatushoonetes ja -rajatistes ning loomade pidamiseks piiritletud aladel (edaspidi ettevõte ), kus tegeletakse:\n1) põllumajandusloomade, sealhulgas farmiulukite pidamisega;\n2) põllumajandusloomade sperma kogumise ja säilitamisega;\n3) põllumajanduslindude turustamise eesmärgil pidamise ja aretuse ning haudemunade ja ööpäevaste tibude tootmisega;\n4) erinevatest karjadest pärinevate põllumajandusloomade ajutise pidamisega enne edasitoimetamist;\n5) põllumajandusloomade profülaktilise karantiini läbiviimisega;\n6) veeloomade kasvatamisega kasvanduses või molluskikasvatusalal ja kasutatakse tehnoloogiat, mis on välja töötatud nimetatud veeloomade toodangu suurendamiseks üle keskkonna loomuliku tootmisvõimsuse (edaspidi vesiviljelus ), välja arvatud ettevõttes, kus peetakse veeloomi dekoratiivsel eesmärgil ning kus puudub vahetu kontakt loodusliku veekoguga või mis on varustatud heitveekäitlussüsteemiga, mis tõkestab haigusetekitaja leviku looduslikku veekogusse;\n7) mesindusega;\n8) karusloomade kasvatamisega turustamise eesmärgil;\n9) põllumajandusloomade, sealhulgas farmiulukite pidamisega alaliselt avalikuks näitamiseks, loomaliigi säilitamise või teadustöö tegemisega, sealhulgas teadustöö tegemisega seotud loomade aretuse eesmärgil.\n(2) Majandustegevusteates esitatakse lisaks majandustegevuse seadustiku üldosa seaduses sätestatule järgmised andmed:\n1) tegevuse korraldamise eest vastutava isiku nimi ja tema kontaktandmed;\n2) tegevusvaldkond, millega ettevõttes tegeletakse, näidates sealhulgas ära loomaliigi ja mesinduse puhul mesilasperede arvu;\n3) ettevõtte geograafilise asukoha koordinaadid.\n(3) Isik, kes tegeleb loomakasvatushoonetes ja -rajatistes ning loomade pidamiseks piiritletud alal käesoleva paragrahvi lõikes 1 nimetatud tegevusega muul eesmärgil kui majandustegevus, peab esitama Põllumajanduse Registrite ja Informatsiooni Ametile käesoleva paragrahvi lõikes 2 nimetatud andmed. Käesolevas lõikes sätestatud andmete esitamise kohustus ei ole teatamiskohustus majandustegevuse seadustiku üldosa seaduse tähenduses.\n(3^1) Käesoleva paragrahvi lõikes 3 nimetatud isik peab esitama Põllumajanduse Registrite ja Informatsiooni Ametile käesoleva paragrahvi lõikes 2 nimetatud andmed enne käesoleva paragrahvi lõikes 1 nimetatud tegevuse alustamist.\n(4) Põllumajanduse Registrite ja Informatsiooni Ametile peab esitama majandustegevusteate loomsete kõrvalsaaduste ja nendest saadud toodete käitlemise ettevõtte kohta, kus tegutsetakse Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1069/2009 artikli 23 lõike 1 punktis a nimetatud tegevusvaldkonnas.\n(5) Käesoleva paragrahvi lõigetes 2–4 nimetatud andmed kantakse põllumajandusloomade registrisse. Andmete registrisse kandmise eest ei pea tasuma riigilõivu.\n(6) Käesoleva paragrahvi lõikes 3 nimetatud isik peab teavitama Põllumajanduse Registrite ja Informatsiooni Ametit käesoleva paragrahvi lõikes 2 nimetatud andmete muutumisest seitsme päeva jooksul andmete muutumisest arvates."
+    },
+    {
+      "provision_ref": "para29^1",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "29^1",
+      "title": "§ 29^1. Zoonoos",
+      "content": "(1) Zoonoos on otseselt või kaudselt loomulikul teel loomade ja inimeste vahel edasikanduv haigus või nakkus. Zoonooside suhtes kohaldatakse loomataudide kohta käivaid sätteid.\n(2) Zoonoosne haigusetekitaja on viirus, bakter, seen, parasiit või bioloogiline isend, mis võib põhjustada zoonoosi."
+    },
+    {
+      "provision_ref": "para29^2",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "29^2",
+      "title": "§ 29^2. Zoonooside seire",
+      "content": "(1) Zoonooside seire on zoonooside, zoonoossete haigusetekitajate ja nendega seotud ravimresistentsuse esinemist käsitlevate andmete kogumise, analüüsimise ja avaldamise süsteem.\n(2) Ravimresistentsus käesoleva seaduse tähenduses on teatavat liiki mikroorganismide võime jääda ellu või isegi kasvada antimikroobilise aine teatud kontsentratsioonil, mis on tavaliselt piisav sama liiki mikroorganismide kasvu pidurdamiseks või nende hävitamiseks."
+    },
+    {
+      "provision_ref": "para29^3",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "29^3",
+      "title": "§ 29^3. Zoonooside seire korraldamine",
+      "content": "(1) Zoonooside seiret korraldab Veterinaar- ja Toiduamet.\n(2) Zoonooside seire korraldamisel teeb Veterinaar- ja Toiduamet inimesel leviva zoonoosi epidemioloogia osas koostööd Terviseametiga.\n(3) Zoonooside seire korraldamise nõuded kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para29^4",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "29^4",
+      "title": "§ 29^4. Toidutekkelised haiguspuhangud",
+      "content": "(1) Toidutekkeline haiguspuhang käesoleva seaduse tähenduses on teatavatel asjaoludel kahel või enamal inimesel täheldatud haigus- või nakkusjuhtumi esinemine või olukord, kus haigus- ja nakkusjuhtumite arv ületab prognoositud arvu ning kus need on seotud või on tõenäoliselt seotud sama toiduga.\n(2) Toidutekkeliste haiguspuhangute epidemioloogilist uurimist teevad Terviseamet nakkushaiguste ennetamise ja tõrje seaduse alusel ning Veterinaar- ja Toiduamet käesoleva seaduse ja toiduseaduse alusel.\n(3) Terviseamet koostab eelneva kalendriaasta jooksul tehtud toidutekkeliste haiguspuhangute epidemioloogiliste uurimiste tulemusi kokkuvõtva aruande ning esitab selle Veterinaar- ja Toiduametile iga aasta 31. märtsiks.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud aruandes sisalduvate andmete loetelu kehtestab valdkonna eest vastutav minister.\n(5) Toidutekkelise haiguspuhangu epidemioloogilise uurimise tulemusel selgitatakse välja toidutekkelise haiguspuhangu epidemioloogiline laad, võimalikud asjassepuutuvad toidud ja haiguspuhangu võimalikud põhjused. Toidutekkelise haiguspuhangu epidemioloogiline uurimine sisaldab võimaluse korral piisavaid mikrobioloogilisi uuringuid.\n(6) Valdkonna eest vastutav minister võib kehtestada toidutekkeliste haiguspuhangute uurimise täpsemad nõuded."
+    },
+    {
+      "provision_ref": "para29^5",
+      "chapter": "2. peatükk - LOOMATAUDI ENNETAMINE",
+      "section": "29^5",
+      "title": "§ 29^5. Käitleja kohustused",
+      "content": "(1) Käitleja peab tegema seireks uuringuid zoonooside ja zoonoossete haigusetekitajate esinemise kohta käesoleva seaduse § 29^3 lõike 3 alusel kehtestatud nõuete kohaselt, säilitama uuringutulemused, korraldama asjakohaste isoleeritud zoonoossete haigusetekitajate (edaspidi isolaat ) säilitamise ettenähtud aja jooksul ning esitama käesoleva seaduse § 29^3 lõikes 2 nimetatud asjakohasele asutusele tema nõudmisel uuringutulemused või isolaadid.\n(2) Kui käitleja esitab korrakaitseorganile teavet Euroopa Parlamendi ja EL Nõukogu määruse 178/2002/EÜ, millega sätestatakse toidualaste õigusnormide üldised põhimõtted ja nõuded, asutatakse Euroopa Toiduohutusamet ja kehtestatakse toidu ohutusega seotud menetlused (EÜT L 031, 01.02.2002, lk 1–24), artikli 19 lõike 3 kohaselt, säilitab ta asjakohase toidu või selle proovi, et võimaldada selle uurimist laboratooriumis või toidutekkelise haiguspuhangu epidemioloogilist uurimist.\n(3) Valdkonna eest vastutav minister võib käesoleva paragrahvi lõike 1 rakendamiseks kehtestada käitlejale täpsemad nõuded uuringute tegemiseks, nende tulemuste, samuti isolaadi säilitamiseks ja asjakohasele asutusele esitamiseks."
+    },
+    {
+      "provision_ref": "para29^6",
+      "chapter": "3. peatükk - LOOMATAUDI LABORATOORNE UURIMINE",
+      "section": "29^6",
+      "title": "§ 29^6. Proovide võtmine",
+      "content": "Korrakaitseorgan võib võtta vallasasja läbivaatusel isiku kulul proove. Kui läbivaadatud vallasasja ei ole võimalik pärast läbivaatust tavapäraselt kasutada, ei hüvitata isikule vallasasja või vallasasja tavapäraseks kasutamiseks taastamise maksumust."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "3. peatükk - LOOMATAUDI LABORATOORNE UURIMINE",
+      "section": "30",
+      "title": "§ 30. Loomataudi laboratoorse uurimisega tegelevad asutused",
+      "content": "(1) Loomataudi laboratoorne diagnoosimine, samuti riikliku järelevalve käigus võetud proovide uurimine on lubatud veterinaarkorralduse seaduse § 5 lõikes 5 loetletud laboratooriumides.\n(2) Veterinaar- ja Toidulaboratoorium tagab riiklikus loomatauditõrje programmis ettenähtud laboratoorsete uurimiste teostamise Veterinaar- ja Toiduameti esitatud mahtudes ja tähtaegadel.\n(3) Loomataudi kahtluse või puhkemise korral kindlustab Veterinaar- ja Toidulaboratoorium Veterinaar- ja Toiduameti korralduse alusel laboratoorse uurimise ja saadab kohale erialaspetsialistid."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "3. peatükk - LOOMATAUDI LABORATOORNE UURIMINE",
+      "section": "31",
+      "title": "§ 31. Loomataudi haigusetekitaja isoleerimine ja kultiveerimine teaduslikul eesmärgil",
+      "content": "(1) Teatud loomataudi põhjustavat haigusetekitajat võib teaduslikul eesmärgil isoleerida või kultiveerida teadus- ja arendustegevuse korralduse seaduse kohane teadus- või arendusasutus, kes kasutab selleks haigusetekitaja bioohutuse kategooria nõuetele vastavat laboratooriumi ja kellel on asjakohane luba.\n(2) Loomataudi põhjustava haigusetekitaja isoleerimise ja kultiveerimise loa (edaspidi luba ) andmise otsustab valdkonna eest vastutav minister. Loa saamiseks esitab teadus- ja arendusasutus valdkonna eest vastutavale ministrile taotluse koos asjakohaste andmete ja dokumentidega.\n(3) Nende loomataudi põhjustavate haigusetekitajate loetelu, mille teaduslikul eesmärgil isoleerimiseks või kultiveerimiseks on vajalik luba, täpsemad bioohutusnõuded sellise teadustöö tegemiseks kasutatavale laboratooriumile ja loa taotlusel esitatavate andmete loetelu, taotlusele lisatavate dokumentide loetelu ning taotluse menetlemise korra kehtestab valdkonna eest vastutav minister.\n(4) Valdkonna eest vastutav minister võib loa andmisest keelduda, kui selgub, et loa taotlemisel on teadlikult esitatud valeandmeid või kui esitatud andmetest ja dokumentidest selgub, et uurimistöö tegemisel ei ole võimalik täita käesoleva paragrahvi lõikes 3 nimetatud nõudeid.\n(5) Loa andmine või loa andmisest keeldumine otsustatakse 20 tööpäeva jooksul taotluse saamise päevast arvates.\n(6) Kui teadus- ja arendusasutuses ei täideta käesoleva paragrahvi lõikes 3 nimetatud nõudeid, võib valdkonna eest vastutav minister puuduste kõrvaldamiseks määrata tähtaja või loa kehtivuse osaliselt või täielikult peatada. Loa kehtivuse peatamisest teadasaamisest alates lõpetatakse laboratooriumis asjakohane tegevus. Loa kehtivus taastatakse, kui loa kehtivuse peatamise tinginud asjaolud on kõrvaldatud ning loa kehtivuse peatamise otsus on kehtetuks tunnistatud.\n(7) Valdkonna eest vastutav minister võib tunnistada loa andmise otsuse kehtetuks haldusmenetluse seaduses sätestatud alustel või kui loa omanik:\n1) on esitanud sellekohase taotluse;\n2) on loa taotlemisel teadlikult esitanud tegelikkusele mittevastavaid andmeid või võltsitud dokumente;\n3) ei ole käesoleva paragrahvi lõike 6 kohaselt määratud tähtaja jooksul puudusi kõrvaldanud või ei suuda laboratooriumis valitsevate püsiolude tõttu täita käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõudeid;\n4) ei võimalda teostada riiklikku järelevalvet asjakohastes õigusaktides sätestatud nõuete täitmise üle.\n(8) Loa väljaandmisel valitsenud tingimuste muutumisest ja ümberkorralduste tegemisest teatab teadus- ja arendusasutus viivitamata valdkonna eest vastutavale ministrile, edastades viimasele sellekohase kirjaliku teate.\n(9) Loa andmise, loa andmisest keeldumise, loa peatamise ning loa kehtetuks tunnistamise otsus toimetatakse isikule kätte posti teel lihtkirjaga või elektrooniliselt kolme tööpäeva jooksul otsuse tegemise päevast arvates."
+    },
+    {
+      "provision_ref": "para32^1",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "32^1",
+      "title": "§ 32^1. Loomataudi oht",
+      "content": "(1) Loomataudi ohuna käsitatakse eriti ohtliku loomataudi ulatuslikku levimist Euroopa Liidu liikmesriigis või Eesti naaberriigis ning kui riskianalüüsi tulemusena on selgunud oht taudi levikuks Eesti territooriumile või kui naaberriigis kehtestatud ohustatud tsoon või järelevalvetsoon ulatuks Eesti territooriumile.\n(2) Loomataudi ohu korral võib Veterinaar- ja Toiduamet võtta kasutusele loomataudi kahtluse või puhkemise korral rakendatavaid meetmeid vastavalt esineva loomataudi ohu riskianalüüsi tulemustele.\n(3) Loomataudi ohu korral teavitab Veterinaar- ja Toiduamet elanikkonda massiteabevahendite kaudu vajadusest rakendada asjakohaseid loomatauditõrje abinõusid."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "33",
+      "title": "§ 33. Loomataudi kahtlus",
+      "content": "Sõltuvalt haigusetekitaja iseloomust loetakse loomataudi kahtlus tekkinuks ühel või mitmel loomal esinevate haigusele omaste kliiniliste tunnuste, lahanguleiu või laboratoorse uurimise tulemuste alusel, samuti otsese või kaudse kontakti tõttu nakatunud karja või loomaga. Loomataudi kahtluse püstitab veterinaararst ja otsustab korrakaitseorgan."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "34",
+      "title": "§ 34. Loomataudi tekitajate esinemise kahtlus loomsete saaduste puhul",
+      "content": "Loomataudi tekitajate esinemise kahtlus loomsete saaduste puhul loetakse tekkinuks korrakaitseorgani otsusel, kui temale teada olevatel andmetel võivad need sisaldada haigusetekitajaid või olla nendega saastunud."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "35",
+      "title": "§ 35. Loomataudi kahtluse korral rakendatavad meetmed",
+      "content": "(1) Loomataudi kahtluse korral rakendatavad meetmed kehtestatakse selle loomataudi tõrje-eeskirjas.\n(2) Loomataudi kahtluse korral tuleb haiguse kliiniliseks diagnoosimiseks, vajalike proovide võtmiseks, epidemioloogilise uurimise läbiviimiseks ja loomataudi leviku vältimiseks vajalike abinõude rakendamiseks viivitamatult kohale kutsuda piirkonda teenindav volitatud veterinaararst või korrakaitseorgan.\n(3) Loomataudi kahtluse tekkimise korral korraldab loomade tapaeelset või tapajärgset kontrolli teinud korrakaitseorgan või volitatud veterinaararst tapamajja toodud taudikahtlaste loomade ning nendelt pärinevate loomsete saaduste ja kõrvalsaaduste isoleerimise, peatab loomade, loomsete saaduste ja loomsete kõrvalsaaduste töötlemise ning võtab tarvitusele abinõud loomataudi leviku tõkestamiseks.\n(4) Veterinaararst informeerib loomapidajat ja loomsete saaduste käitlejat loomataudiga kaasnevatest ohtudest ning annab tegevusjuhised oletatava loomataudi leviku vältimiseks.\n(5) Veterinaar- ja Toiduameti kohaliku asutuse juht kehtestab pärast loomataudi kahtlusest teate saamist vajaduse korral diagnoosi täpsustamiseni karjale, ettevõttele või piirkonnale kitsendused.\n(6) Kitsenduste kehtestamisest teatab korrakaitseorgan loomapidajale posti teel väljastusteatega või allkirja vastu.\n(7) Korrakaitseorgan informeerib loomapidajat ja loomsete saaduste käitlejat temale kuuluvate loomadega või loomsete saadustega ning loomapidamishoones ja -rajatises või loomsete saaduste käitlemise ettevõttes teostatavatest toimingutest."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "36",
+      "title": "§ 36. Loomataudi kahtluse lõpetamine",
+      "content": "(1) Otsuse loomataudi kahtluse korral kehtestatud kitsenduste kehtetuks tunnistamiseks teeb Veterinaar- ja Toiduameti kohaliku asutuse juht laboratoorse uurimise tulemuste või käesoleva seaduse § 37 lõikes 3 nimetatud komisjoni otsuse alusel, kui need välistavad loomataudi puhkemise.\n(2) Loomataudi kahtluse lõpetamisest teatab Veterinaar- ja Toiduameti kohaliku asutuse juht loomapidajale ja loomsete saaduste käitlejale posti teel väljastusteatega või allkirja vastu 24 tunni jooksul pärast otsuse tegemist."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "37",
+      "title": "§ 37. Loomataudi diagnoosimine",
+      "content": "(1) Loomataudi diagnoosib veterinaararst epidemioloogilise olukorra, kliiniliste tunnuste, lahanguleiu ja laboratoorse uurimise tulemuste põhjal.\n(2) Vajadusel võidakse proovide võtmise eesmärgil teha loomade kontrolltapmisi. Kontrolltapmine on looma tapmine taudikahtluse kontrollimiseks lubatud uimastamis- ja tapmisvahendiga ning lubatud uimastamis- ja tapmismeetodil. Looma kontrolltapmisele määramise õigus on korrakaitseorganil. Looma kontrolltapmisele määramise otsusest teatab korrakaitseorgan loomapidajale kirjalikult.\n(3) Loomataudi ametliku diagnoosi teatamiskohustuslike loomataudide puhul paneb korrakaitseorgan loomataudi kliiniliste tunnuste, lahanguleiu, epidemioloogiliste andmete ja laboratoorse uurimise tulemuste alusel või Veterinaar- ja Toiduameti määratud ekspertide komisjon kliiniliste tunnuste, lahanguleiu ja epidemioloogiliste andmete alusel.\n(3^1) Loomataudi kliinilisel diagnoosimisel, laboratoorsel analüüsimisel ning vajalike proovide võtmisel peavad korrakaitseorgan, volitatud veterinaararstid ning loomataudi diagnoosiva laboratooriumi spetsialistid järgima Eesti ja Euroopa Liidu õigusaktides sätestatud nõudeid ning nende puudumise korral Rahvusvahelise Episootiate Büroo ( Office International des Epizooties, OIE ) väljatöötatud põhimõtteid, meetodeid, soovitusi ja juhendeid.\n(4) Eriti ohtliku loomataudi korral kinnitab loomataudi ametliku diagnoosi Veterinaar- ja Toiduamet.\n(5) Veterinaar- ja Toiduametil ning Veterinaar- ja Toidulaboratooriumil on õigus saata proove loomataudi diagnoosimiseks välisriigi tunnustatud laboratooriumisse või rahvusvahelisse referentlaboratooriumisse."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "38",
+      "title": "§ 38. Teatamiskohustuslikud ja registreerimiskohustuslikud loomataudid",
+      "content": "(1) Teatamiskohustusliku loomataudi kahtlusest või diagnoosimisest peavad korrakaitseorganid, volitatud veterinaararstid ja veterinaararstid, samuti veterinaarlaboratooriumid ja teised isikud viivitamatult teavitama Veterinaar- ja Toiduameti kohalikku asutust.\n(2) Registreerimiskohustusliku loomataudi diagnoosimise juhud registreeritakse ja neist teavitatakse Veterinaar- ja Toiduameti kohalikku asutust regulaarse aruandluse korras, kui loomataudi tõrje-eeskiri ei sätesta teisiti.\n(3) Teatamiskohustuslikeks on kõik eriti ohtlikud loomataudid, inimesele ohtlikud loomataudid ja loomataudid, mida eesti loomapopulatsioonides pole kunagi või pikema aja vältel diagnoositud.\n(4) Teatamiskohustuslike ja registreerimiskohustuslike loomataudide loetelu kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "39",
+      "title": "§ 39. Veterinaararstide kohustused loomataudi kahtlusest ja diagnoosimisest teavitamisel",
+      "content": "(1) Teatamiskohustusliku loomataudi kahtluse korral on veterinaararst kohustatud teavitama sellest kohe korrakaitseorganit või volitatud veterinaararsti ja loomapidajat.\n(2) Veterinaar- ja Toiduameti kohaliku asutuse juhile esitatava loomataudi teatise vormi- ja sisunõuded ning esitamise korra kehtestab Veterinaar- ja Toiduameti peadirektor."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "40",
+      "title": "§ 40. Veterinaar- ja Toiduameti kohaliku asutuse juhi kohustused loomataudi kahtlusest ja diagnoosimisest teavitamisel",
+      "content": "(1) Veterinaar- ja Toiduameti kohaliku asutuse juht on kohustatud viivitamatult informeerima teatamiskohustusliku loomataudi kahtlusest ja selle diagnoosimisest Veterinaar- ja Toiduameti peadirektorit, tema äraolekul tema asetäitjat ning naaberpiirkondade Veterinaar- ja Toiduameti kohalike asutuste juhte. Teatamiskohustusliku zoonoosi või zoonoosse haigusetekitaja diagnoosimisest on Veterinaar- ja Toiduameti kohaliku asutuse juht kohustatud viivitamata teavitama Terviseametit.\n(2) Veterinaar- ja Toiduameti kohaliku asutuse juht esitab aruande Veterinaar- ja Toiduametile registreeritud loomataudide ning Terviseametile registreeritud zoonooside kohta tema järelevalvealasel territooriumil. Aruande esitamise korra kehtestab Veterinaar- ja Toiduameti peadirektor."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "41",
+      "title": "§ 41. Laboratooriumide ülesanded loomataudi kahtlusest ja diagnoosimisest teavitamisel",
+      "content": "(1) Veterinaarkorralduse seaduse § 5 lõikes 5 loetletud laboratooriumid on kohustatud teatama teatamiskohustusliku loomataudi kahtlusest või laboratoorsest diagnoosimisest viivitamatult Veterinaar- ja Toiduameti peadirektorile, tema äraolekul tema asetäitjale ning selle Veterinaar- ja Toiduameti kohaliku asutuse juhile, kelle järelevalvealalt uurimismaterjal pärines. Esitatava teatise vormi- ja sisunõuded ning esitamise korra kehtestab valdkonna eest vastutav minister.\n(2) Teatamiskohustus kehtib, olenemata sellest, kas materjal toodi uurimiseks riikliku loomatauditõrje programmi raames, diagnostiliseks uurimiseks või ettevõtte enesekontrolliks.\n(3) Registreerimiskohustusliku loomataudi laboratoorsest diagnoosimisest teatab käesoleva paragrahvi lõikes 1 nimetatud laboratoorium Veterinaar- ja Toiduametile regulaarse aruandluse korras, kui selle loomataudi tõrje-eeskiri ei näe ette teisiti. Esitatava teatise vormi- ja sisunõuded ning esitamise korra kehtestab valdkonna eest vastutav minister.\n(4) Loomsete saaduste käitlemisega tegelevate ettevõtete toodangu ohutust ja kvaliteeti kontrollivad laboratooriumid on kohustatud teavitama teatamis- või registreerimiskohustuslike loomataudide tekitajate isoleerimisest või nende esinemise kahtlusest toormes või toodangus Veterinaar- ja Toiduametit vastavalt käesoleva paragrahvi lõigetele 1–3.\n(5) Teaduslaboratooriumid, kus diagnoositakse teatamis- või registreerimiskohustuslik loomataud uurimistöö käigus, peavad teavitama sellest Veterinaar- ja Toiduametit vastavalt käesoleva paragrahvi lõigetele 1–3."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "42",
+      "title": "§ 42. Veterinaar- ja Toiduameti kohustused loomataudidest teavitamisel",
+      "content": "(1) Veterinaar- ja Toiduamet teatab rahvusvahelistele veterinaarorganisatsioonidele, Euroopa Komisjonile ning Euroopa Liidu liikmesriikide ja Eesti naaberriikide pädevatele asutustele rahvusvaheliselt teatamiskohustuslikeks tunnistatud loomataudide puhkemisest, loomatauditõrje alaste kitsenduste kehtestamisest ja nende lõpetamisest. Teatamine toimub Euroopa Ühenduse Nõukogu direktiivi 82/894/EMÜ loomahaiguste ühendusesisese teavitamise kohta (EÜT L 378, 31.12.1982, lk 58–62) ja selle alusel kehtestatud Euroopa Komisjoni vastavate otsuste sätete ning Rahvusvahelise Episootiate Büroo nõuete kohaselt.\n(2)\n(3) Veterinaar- ja Toiduamet esitab Euroopa Komisjonile ülevaate eelnenud kalendriaasta jooksul registreeritud zoonooside, zoonoossete haigusetekitajate ja nendega seotud ravimresistentsuse tendentside ja allikate ning toidutekkeliste haiguspuhangute kohta iga aasta 31. maiks.\n(4) Nõuded käesoleva paragrahvi lõikes 3 nimetatud ülevaates esitatava teabe kohta kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para42^1",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "42^1",
+      "title": "§ 42^1. Terviseameti kohustused zoonoosidest teavitamisel",
+      "content": "(1) Terviseamet on kohustatud teatama zoonooside diagnoosimisest inimestel sellele Veterinaar- ja Toiduameti kohalikule asutusele, kelle järelevalvealasel territooriumil zoonoos diagnoositi.\n(2) Teatamiskohustuslike zoonooside loetelu ning Veterinaar- ja Toiduameti kohalikule asutusele esitatava asjakohase teatise vormi nõuded ning esitamise korra kehtestab valdkonna eest vastutav minister kooskõlastatult valdkonna eest vastutava ministriga."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "43",
+      "title": "§ 43. Loomatauditõrje eeskirjad",
+      "content": "(1) Loomatauditõrje eeskirjas sätestatakse nõuded loomataudi ennetamise ja tõrje meetmete kohta, sealhulgas taudistunud loomadelt pärinevate saaduste käitlemise kohta üldjuhul eriti ohtliku loomataudi ja muu loomataudi puhul, mille ennetamise ja tõrje kohta on kehtestatud nõuded Euroopa Liidu asjakohase õigusaktiga.\n(2) Loomatauditõrje eeskirjad kehtestab valdkonna eest vastutav minister.\n(3) Transmissiivsete spongiformsete entsefalopaatiate tõrje toimub Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 999/2001, millega sätestatakse teatavate transmissiivsete spongiformsete entsefalopaatiate vältimise, kontrolli ja likvideerimise eeskirjad (EÜT 147, 31.05.2001 lk 1–40), kohaselt. Kui tapamajas on kasutusel rümpadevahelist saastumist vältiv süsteem, võib Veterinaar- ja Toiduamet veise rümba uurimisel tapamajas ja veiste spongiformse entsefalopaatia uurimise positiivse või ebaselge tulemuse korral tõrjemeetmete rakendamisel kohaldada Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 999/2001 III lisa A peatüki I osa punktis 6.5 sätestatud erisust."
+    },
+    {
+      "provision_ref": "para43^1",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "43^1",
+      "title": "§ 43^1. Ennetav vaktsineerimine",
+      "content": "(1) Loomataudi ennetamise ühe meetmena võib kasutada loomade ennetavat vaktsineerimist (edaspidi ennetav vaktsineerimine ), kui loomatauditõrje eeskirjas ei ole loomade ennetav vaktsineerimine keelatud.\n(2) Loomapidaja on kohustatud ennetavalt vaktsineerima oma koera ja kassi marutaudi vastu.\n(3) Käesoleva paragrahvi lõikes 2 nimetamata kodulooma on loomapidaja kohustatud ennetavalt vaktsineerima, kui see on ette nähtud loomatauditõrje eeskirjas.\n(4) Loomapidaja, kes peab ärilisel eesmärgil käesoleva paragrahvi lõikes 3 nimetatud kodulooma, kelle ennetav vaktsineerimine on kohustuslik, koostab loomatauditõrje eeskirjas sätestatud nõuete kohase kirjaliku vaktsineerimise programmi ning esitab selle Veterinaar- ja Toiduametile.\n(5) Veterinaar- ja Toiduamet kontrollib ennetava vaktsineerimise programmi nõuetekohasust ning teeb otsuse ennetava vaktsineerimise programmi heakskiitmise või heakskiitmata jätmise kohta 20 tööpäeva jooksul arvates ennetava vaktsineerimise programmi saamisest.\n(6) Veterinaar- ja Toiduamet teeb otsuse ennetava vaktsineerimise programmi heakskiitmata jätmise kohta, kui ennetava vaktsineerimise programm ei vasta loomatauditõrje eeskirjas sätestatud nõuetele.\n(7) Loomapidaja järgib kohustusliku ennetava vaktsineerimise korral loomatauditõrje eeskirjas sätestatud nõudeid. Lisaks järgib käesoleva paragrahvi lõikes 4 nimetatud loomapidaja Veterinaar- ja Toiduameti heakskiidetud ennetava vaktsineerimise programmi."
+    },
+    {
+      "provision_ref": "para43^2",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "43^2",
+      "title": "§ 43^2. Erakorraline vaktsineerimine",
+      "content": "(1) Kui loomataud on ametlikult diagnoositud ja epidemioloogilise uurimise tulemusena selgub, et loomataud võib levida ulatuslikult, võib selle leviku tõkestamiseks erakorralise meetmena kasutada vaktsineerimist (edaspidi erakorraline vaktsineerimine ).\n(2) Erakorralise vaktsineerimise tegemise otsustab ja korraldab Veterinaar- ja Toiduamet, järgides loomatauditõrje eeskirjas sätestatud erakorralise vaktsineerimise nõudeid."
+    },
+    {
+      "provision_ref": "para43^3",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "43^3",
+      "title": "§ 43^3. Loomatauditõrje programm",
+      "content": "(1) Loomatauditõrje programm on loomataudi ennetamise ja tõrjemenetluste täpsustatud kava.\n(2) Loomatauditõrje programmis kajastatakse vähemalt järgmised andmed:\n1) ülevaade loomataudi esinemisest ja levikust Eestis;\n2) tõrjeprogrammi kasutusele võtmise põhjused ja eesmärgid, nagu loomataudi esinemise või selle puudumise kindlakstegemine, loomataudi iseärasuste ja esinemise muutuste kindlakstegemine, loomataudi leviku kontrolli alla võtmine, loomataudi likvideerimine ja taudivaba staatuse saamine;\n3) tõrjeprogrammi rakendamise tähtaeg, mis on arvestatud tõrjeprogrammi eesmärkide saavutamiseks;\n4) tõrjeprogrammi rakendamise lõppemise tähtpäevaks oodatavad tulemused ning mitmeaastase tõrjeprogrammi puhul järgmiste aastate lõpus oodatavad tulemused;\n5) tõrjeprogrammiga hõlmatud geograafiliselt piiritletud piirkond (edaspidi geograafiline piirkond ), tsoon, ala või kari;\n6) tõrjeprogrammi eesmärkide saavutamiseks rakendatavad meetmed;\n7) tõrjeprogrammi rakendamise üle teostatava riikliku järelevalve põhimõtted;\n8) tõrjeprogrammiga hõlmatud geograafilise piirkonna, tsooni, ala või karja taudialane staatus, taudialase staatuse kindlaksmääramise nõuded ning selleks tehtavad uuringud;\n9) tegevusjuhend juhuks, kui tõrjeprogrammi raames tehtava uuringu käigus avastatakse nakatunud loom või kari;\n10) taudivaba staatuse peatamise korral rakendatavate meetmete kirjeldus.\n(3) Vajaduse korral sätestatakse täpsemad nõuded loomatauditõrje programmis esitatavate andmete kohta ning nõuded geograafilise piirkonna, tsooni või ala või karja taudialase staatuse kindlaksmääramiseks asjakohases loomatauditõrje eeskirjas või Euroopa Liidu õigusaktis.\n(4) Loomatauditõrje programmi eriti ohtliku loomataudi ja käesoleva seaduse § 55 lõike 3 alusel kehtestatud loetelus nimetatud loomataudi kohta ning sellise loomataudi kohta, mille puhul on Veterinaar- ja Toiduameti hinnangul vajalik määrata kindlaks taudialane staatus, (edaspidi riiklik tõrjeprogramm ) töötab Euroopa Liidu õigusaktis sätestatud juhul või vajaduse korral välja ja kehtestab ning korraldab selle rakendamist Veterinaar- ja Toiduamet.\n(5) Loomatauditõrje programmi muu kui käesoleva paragrahvi lõikes 4 nimetatud loomataudi kohta (edaspidi muu tõrjeprogramm ) võib välja töötada loomapidaja, põllumajandustootjate ühendus või muu isik. Muu tõrjeprogramm peab vastama käesoleva paragrahvi lõike 2 punktides 1–6, 8 ja 9 sätestatud nõuetele, olema kooskõlas asjakohase loomatauditõrje eeskirja, Euroopa Liidu õigusakti ja Rahvusvahelise Episootiate Büroo väljatöötatud põhimõtete, meetodite, soovituste ja juhenditega.\n(6) Muu tõrjeprogramm esitatakse heakskiitmiseks Veterinaar- ja Toiduametile, kes kontrollib selle vastavust käesoleva paragrahvi lõikes 5 sätestatud nõuetele.\n(7) Muu tõrjeprogrammi heakskiitmine või heakskiitmata jätmine otsustatakse 20 tööpäeva jooksul selle heakskiitmiseks esitamise päevast arvates.\n(8) Riikliku tõrjeprogrammi rakendamisega seotud kulud kaetakse riigieelarvest. Muu tõrjeprogrammi rakendamisega seotud kulud katab seda rakendav isik."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "44",
+      "title": "§ 44. Loomatauditõrje situatsioonplaan",
+      "content": "(1) Loomatauditõrje situatsioonplaan (edaspidi situatsioonplaan ) on eriti ohtlike loomataudide puhkemisel rakendatav tõrjemeetmete täpsustatud kava loomataudi kiireks ja efektiivseks likvideerimiseks. Kui korrakaitseorgani hinnangul on loomataudi tõhusamaks likvideerimiseks ja loomataudi leviku tõkestamiseks vaja koostada situatsioonplaan või kui see nähakse ette käesoleva seaduse § 43 alusel kehtestatud loomatauditõrje eeskirjas, koostatakse ja rakendatakse situatsioonplaani ka eriti ohtlike loomataudide nimekirjas nimetamata loomataudi likvideerimiseks.\n(2) Situatsioonplaani koostab ning selle tegelikkusele vastavuse eest vastutab Veterinaar- ja Toiduamet. Situatsioonplaani kinnitab Veterinaar- ja Toiduameti peadirektor. Situatsioonplaani avalikustab Veterinaar- ja Toiduamet oma veebilehel.\n(3) Situatsioonplaanis peavad olema vähemalt järgmised osad:\n1) riikliku loomatauditõrje komisjoni moodustamine;\n2) kohalike loomatauditõrje komisjonide nimekiri;\n3) üksikasjalik informatsioon loomatauditõrjes osalevate isikute, sealhulgas nende kvalifikatsiooni ja kohustuste kohta;\n4) kohalike loomatauditõrje komisjonide võimalused kontakteerumiseks loomatauditõrjega seotud isikutega;\n5) loomatauditõrjemeetmete nõuetekohaseks rakendamiseks vajalik varustus, materjalid ja desinfitseerimiseks kasutatavate desinfektsioonivahendite loetelu;\n6) üksikasjalikud juhised loomataudi puhkemise korral tegutsemiseks, sealhulgas uimastamiseks, hukkamiseks, puhastamiseks ja desinfitseerimiseks ning loomakorjuste kõrvaldamiseks;\n7)\n8) loomatauditõrjel osalevad laboratooriumid ja nende võimalused, meetmed laboratooriumide valmisoleku säilitamiseks ning laboratoorseteks uurimisteks võetavate proovide kiire transportimise võimalused;\n9) konkreetsete loomataudide tõrjeks vajaminevate vaktsiinide kogused ja nende hanke allikad;\n10) erinevate ametiasutuste loomataudi likvideerimisalase koostöö põhimõtted.\n(4) Vajaduse korral sätestatakse täpsemad nõuded situatsioonplaanis esitatavate andmete kohta asjakohases loomatauditõrje eeskirjas.\n(5) Veterinaar- ja Toiduamet korraldab õppusi situatsioonplaani rakendamise kohta loomatauditõrjeks vajalike praktiliste oskuste ning erinevate riigi- ja kohaliku omavalitsuse asutuste vahelise koostöö säilitamiseks."
+    },
+    {
+      "provision_ref": "para45^1",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "45^1",
+      "title": "§ 45^1. Kitsendused loomataudi kahtluse ja puhkemise korral",
+      "content": "(1) Loomataudi kahtluse või diagnoosimise korral võib Veterinaar- ja Toiduamet kohaldada loomataudi leviku tõkestamiseks loomatauditõrje eeskirjas või asjakohases Euroopa Liidu õigusaktis sätestatud või Rahvusvahelise Episootiate Büroo põhimõtete, meetodite, soovituste ja juhendite kohaseid järgmisi kitsendusi:\n1) piirang loomataudile vastuvõtlike loomade ja muude loomade veole ning neilt pärinevate loomsete saaduste veole ja käitlemisele;\n2) piirang sööda, allapanu, jäätmete, seadmete ja muu nakkust edasikandva eseme või materjali veole ja käitlemisele, inimeste ja veokite liikumisele ning muu asjakohane tegevuse piirang.\n(2) Lisaks käesoleva paragrahvi lõikes 1 sätestatud kitsendustele võib loomataudi kahtluse või diagnoosimise korral loomataudi leviku tõkestamiseks määrata loom tapmisele või hukkamisele või seade ja muu nakkust edasikandev ese, sööt, pakkematerjal, piim ja munad hävitamisele.\n(3) Veterinaar- ja Toiduamet otsustab käesoleva paragrahvi lõigetes 1 ja 2 sätestatud kitsenduse kohaldamise, võttes arvesse riskianalüüsi tulemusi ja määrates kindlaks kitsenduse kohaldamise ulatuse. Looma tapmisele või hukkamisele määramise korral määratakse lubatud uimastamis- ja tapmisvahend ning lubatud uimastamis- ja tapmismeetod.\n(4) Veterinaar- ja Toiduamet otsustab kitsenduse lõpetamise riskianalüüsi tulemusi arvestades pärast viimast haigusjuhtumit või desinfektsiooni, aga mitte enne asjakohases loomatauditõrje eeskirjas nimetatud tähtaja möödumist.\n(5) Käesoleva paragrahvi lõigetes 3 ja 4 nimetatud otsus toimetatakse loomapidajale kätte postiga või allkirja vastu viivitamata, kuid mitte hiljem kui kolmandal tööpäeval otsuse tegemisest arvates."
+    },
+    {
+      "provision_ref": "para45^2",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "45^2",
+      "title": "§ 45^2. Kitsenduste kohaldamise erisused",
+      "content": "(1) Veterinaar- ja Toiduamet võib asjakohases loomatauditõrje eeskirjas sätestatud juhul ning riskianalüüsi tulemuste põhjal otsustada käesoleva seaduse § 45^1 lõigete 1 ja 2 alusel kehtestatud kitsenduse kohaldamise erisuse, määrates kindlaks erisuse kohaldamise ulatuse.\n(2) Käesoleva seaduse § 51 lõikes 2 nimetatud korrakaitseorgani nõudmisel esitab isik temale käesoleva paragrahvi lõikes 1 nimetatud otsuse või selle ametliku kinnitusega ärakirja."
+    },
+    {
+      "provision_ref": "para45^3",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "45^3",
+      "title": "§ 45^3. Loomatauditõrje abinõud loomataudi kahtluse ja puhkemise korral",
+      "content": "(1) Loomataudi kahtluse või diagnoosimise korral võib Veterinaar- ja Toiduamet kohaldada loomataudi leviku tõkestamiseks loomatauditõrje eeskirjas või asjakohases Euroopa Liidu õigusaktis sätestatud või Rahvusvahelise Episootiate Büroo põhimõtete, meetodite, soovituste ja juhendite kohaseid järgmisi loomatauditõrje abinõusid:\n1) käesoleva seaduse §-s 7^1 nimetatud bioohutusmeetmete rakendamine;\n2) kitsendustega territooriumi tähistamine ja seal peetavate loomade üle arvestuse pidamine;\n3) loomade pidamise, sealhulgas karjatamise ümberkorraldamine;\n4) loomade erimärgistamine;\n5) loomakasvatushoone või -rajatise või loomade pidamiseks piiratud ala korrastamine;\n6) asjakohaste isikukaitsevahendite kasutamine;\n7) loomsete saaduste, loomsete kõrvalsaaduste ja nendest saadud toodete ning nakkust edasikandva seadme, eseme või materjali käitlemine ja vedu nakkuse levikut tõkestaval viisil;\n8) käesoleva seaduse §-s 45^2 nimetatud kitsenduse erisuse kohaldamise korral sellega hõlmatud isikute ja veovahendite loetelu koostamine ning muude kitsenduste kohaldamise või bioohutusmeetmete rakendamisega seotud või nende rakendamiseks vajalike abinõude kohaldamine.\n(2) Veterinaar- ja Toiduamet otsustab käesoleva paragrahvi lõikes 1 sätestatud abinõude kohaldamise, võttes arvesse riskianalüüsi tulemusi ja määrates kindlaks abinõude kohaldamise ulatuse koos käesoleva seaduse § 45^1 lõikes 3 nimetatud kitsenduse kohaldamise otsusega, mis lõpetatakse sama paragrahvi lõikes 4 sätestatud alustel ja tähtajal ning mis toimetatakse loomapidajale kätte sama paragrahvi lõikes 5 sätestatud korras ja tähtajal."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "46",
+      "title": "§ 46. Meetmed eriti ohtliku loomataudi puhkemisel",
+      "content": "(1) Eriti ohtliku loomataudi puhkemisel:\n1) kehtestatakse taudipunktis karantiin;\n2) määratletakse ohustatud tsoon taudipunkti ümber ning järelevalvetsoon ohustatud tsooni ümber;\n3) viiakse läbi epidemioloogiline uurimine loomataudi võimaliku leviala selgitamiseks;\n4) moodustatakse riiklik ja kohalik loomatauditõrje komisjon, mis juhivad kogu tegevust taudipunkti likvideerimisel ja loomataudi leviku tõkestamisel.\n(2) Eriti ohtliku loomataudi likvideerimiseks on Veterinaar- ja Toiduametil õigus täiendavalt käesoleva seaduse §-s 45 sätestatule:\n1) kohustada volitatud veterinaararste teostama tauditõrjetoiminguid ka väljaspool tema tööpiirkonda;\n2) kaasata menetluste teostamisse veterinaararste;\n3) teostada vajalikke tauditõrjetoiminguid ilma loomapidaja või loomsete saaduste käitleja kohalolekuta ja teda sellest eelnevalt teavitamata.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud meetmed võetakse kasutusele ka eriti ohtlike loomataudide nimekirjas nimetamata loomataudi puhul, kui see osutub korrakaitseorgani hinnangul vajalikuks, et likvideerida loomataudi ja tõkestada loomataudi levikut, või kui see nähakse ette käesoleva seaduse § 43 alusel kehtestatud loomatauditõrje eeskirjas."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "47",
+      "title": "§ 47. Loomataudide ennetamine ja tõrje metsloomade populatsioonis",
+      "content": "(1) Loomataudide ennetamist ja tõrjet metsloomade populatsioonis korraldab Veterinaar- ja Toiduamet koostöös Keskkonnainspektsiooni ning jahipidamise ja kalapüügi õigust omavate füüsiliste ja juriidiliste isikutega.\n(2) Haigustunnustega metslooma avastamisest, samuti metslooma ründest tuleb kohe teavitada veterinaararsti.\n(3) Metslooma püüdmine ühest piirkonnast teise ümberasustamise või tehistingimustes pidamise eesmärgil ning metsloomade ümberasustamine ühest piirkonnast teise on lubatud õigusaktides sätestatud nõuete kohaselt ning kooskõlastatult Veterinaar- ja Toiduametiga."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "48",
+      "title": "§ 48. Kohalik loomatauditõrje komisjon",
+      "content": "(1) Kohaliku loomatauditõrje komisjoni moodustab pärast eriti ohtliku loomataudi ametliku diagnoosi panemist Veterinaar- ja Toiduameti kohaliku asutuse juhi ettepanekul maavanem.\n(2) Kohalikku loomatauditõrje komisjoni kuuluvad maavalitsuse ja kohaliku omavalitsuse esindaja, Veterinaar- ja Toiduameti kohaliku asutuse juht ja ametnikud, Veterinaar- ja Toidulaboratooriumi esindaja vähemalt peaspetsialisti tasemel, taudipunkti piirkonda teenindav volitatud veterinaararst ning Politsei- ja Piirivalveameti esindaja ja Päästeameti esindaja.\n(3) Kohaliku loomatauditõrje komisjoni tööd juhib Veterinaar- ja Toiduameti kohaliku asutuse juht ja selle töökorraldus kehtestatakse loomatauditõrje situatsioonplaanis.\n(4) Kohaliku loomatauditõrje komisjoni ülesandeks on:\n1) käesoleva seaduse § 52 alusel epidemioloogilise uurimise läbiviimine;\n2) ohustatud ja järelevalvetsooni piiritlemine;\n3) loomatauditõrje meetmete rakendamise koordineerimine, korraldamine ja kontroll."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "49",
+      "title": "§ 49. Riiklik loomatauditõrje komisjon",
+      "content": "(1) Riikliku loomatauditõrje komisjoni moodustab pärast eriti ohtliku loomataudi ametliku diagnoosi panemist Veterinaar- ja Toiduameti peadirektori ettepanekul valdkonna eest vastutav minister.\n(2) Riiklikku loomatauditõrje komisjoni kuuluvad Veterinaar- ja Toiduameti peadirektor ja ametnikud, Veterinaar- ja Toidulaboratooriumi esindaja vähemalt peaspetsialisti tasemel, loomataudi levipiirkonna Veterinaar- ja Toiduameti kohaliku asutuse juht ning Politsei- ja Piirivalveameti ja Päästeameti esindajad vähemalt peadirektori asetäitja tasemel. Komisjoni tööd juhib Veterinaar- ja Toiduameti peadirektor.\n(3) Riikliku loomatauditõrje komisjoni ülesandeks on:\n1) tõrjemeetmete rakendamise koordineerimine ja tulemuste analüüs;\n2) loomataudi likvideerimiseks eraldatud riiklike ressursside suunamine;\n3) riikidevaheline koostöö loomataudi edasise leviku tõkestamiseks;\n4) valdkonna eest vastutavale ministrile ettepanekute tegemine Vabariigi Valitsuse tasandil lahendamist vajavate küsimuste lahendamiseks.\n5)"
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "50",
+      "title": "§ 50. Karantiini, ohustatud ja järelevalvetsooni kehtestamise kord",
+      "content": "(1) Karantiin on teatud perioodiks taudipunktis kehtestatav loomade, loomsete saaduste, loomsete kõrvalsaaduste ja nendest saadud toodete, söötade, seadmete ja inventari väljaviimise keeld ning inimeste liikumise piiramine.\n(2) Taudipunkt on piiritletud territoorium, kus haiged või nakatunud loomad asuvad.\n(3) Karantiin kehtestatakse ettevõttele või tabandunud piirkonnale pärast eriti ohtliku loomataudi diagnoosi ametlikku kinnitamist vastavalt käesoleva seaduse §-le 37.\n(4) Karantiini kehtestab Veterinaar- ja Toiduameti kohaliku asutuse juhi ettepanekul maavanem kirjaliku korraldusega, mis antakse üle loomapidajale või ettevõtte omanikule allkirja vastu ja millest teavitatakse elanikkonda massiteabevahendite kaudu.\n(5) Maavanem kehtestab kirjaliku korraldusega Veterinaar- ja Toiduameti kohaliku asutuse juhi ettepanekul taudipunkti ümber ohustatud ja järelevalvetsooni, millest teavitatakse elanikkonda massiteabevahendite kaudu.\n(6) Vajadusel muudetakse ohustatud ja järelevalvetsooni ulatust maavanema kirjaliku korraldusega käesoleva paragrahvi lõikes 5 kehtestatud korras.\n(7) Ohustatud tsoon on piiritletud ala taudipunkti ümber, kus kehtestatakse loomade, loomsete saaduste, loomsete kõrvalsaaduste ja nendest saadud toodete ning inimeste liikumise piirangud ja kus viiakse läbi loomataudile vastuvõtlike loomaliikide ulatuslik uurimine uute taudipunktide õigeaegseks avastamiseks.\n(8) Järelevalvetsoon on piiritletud ala ohustatud tsooni ümber, kus kehtestatakse inimeste, loomade, loomsete saaduste ja transpordi liikumise piirangud.\n(9) Karantiinitingimused ning tingimused ohustatud ja järelevalvetsoonis määratakse kindlaks loomataudi tõrje-eeskirjas või selle puudumisel Veterinaar- ja Toiduameti poolt kehtestatud nõuetes.\n(10) Kitsendused taudipunktis hakkavad kehtima alates kirjaliku korralduse üleandmisest loomapidajale.\n(11) Kitsendused ohustatud ja järelevalvetsoonis hakkavad kehtima massiteabevahendite kaudu teatamisest alates."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "51",
+      "title": "§ 51. Riiklik järelevalve loomataudi puhkemisel kehtestatud piirangutest kinnipidamise üle",
+      "content": "(1) Riiklikku järelevalvet karantiiniga kehtestatud meetmete täitmise üle teostab Veterinaar- ja Toiduameti kohalik asutus.\n(2) Riiklikku järelevalvet transpordivahendite, loomade ja inimeste liikumise piirangute täitmise üle taudipunktis ning ohustatud ja järelevalvetsoonis teostab politseiametnik.\n(3) Politseiametnik võib käesolevas paragrahvis sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 44, 45, 46, 48, 49, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras.\n(4) Politseiametnik võib käesolevas paragrahvis sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-s 52 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras kuni asja esimesel võimalusel Veterinaar- ja Toiduametile üleandmiseni."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "52",
+      "title": "§ 52. Loomataudi leviala määramine",
+      "content": "(1) Eriti ohtliku loomataudi puhkemisel viib kohalik loomatauditõrje komisjon läbi epidemioloogilise uurimise, mille käigus selgitab välja võimalikud nakatumise põhjused, ajavahemiku loomade nakatumise ja selle avastamise vahel, nakkuse leviku teed, kontaktsed karjad ja loomad ning selle alusel loomataudi võimaliku leviala.\n(2) Kontaktseks loetakse kari ja loom, kellega nakatunud loom või kari on olnud otseses või kaudses kokkupuutes ajal, mil nakatumine tõenäoliselt toimus, ja pärast seda. Kontaktsed karjad ja loomad loetakse taudikahtlasteks ning neilt võetakse proovid laboratoorseks uurimiseks."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "53",
+      "title": "§ 53. Karantiini ning kitsenduste lõpetamine",
+      "content": "(1) Karantiin ja kitsendused lõpetatakse pärast loomataudi likvideerimist ja selle loomataudi tõrje-eeskirja või Veterinaar- ja Toiduameti kehtestatud nõuete täitmist.\n(2) Kitsendused lõpetab Veterinaar- ja Toiduameti kohaliku asutuse juht.\n(3) Karantiini lõpetab Veterinaar- ja Toiduameti kohaliku asutuse juhi ettepanekul maavanem kirjaliku korraldusega ning sellest teavitatakse elanikkonda massiteabevahendite kaudu."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "4. peatükk - LOOMATAUDI LEVIKU TÕKESTAMINE JA TAUDIPUNKTI LIKVIDEERIMINE",
+      "section": "54",
+      "title": "§ 54. Hädaolukord ja eriolukord eriti ohtliku loomataudi puhkemise korral",
+      "content": "(1) Eriti ohtliku loomataudi ulatusliku ja kiire leviku korral on tegemist hädaolukorraga hädaolukorra seaduse § 2 lõike 1 tähenduses.\n(2) Kui eriti ohtliku loomataudi leviku tõkestamiseks on vaja viivitamata rakendada ulatuslikke abinõusid ning käesolevas seaduses ja hädaolukorra seaduses sätestatud hädaolukorra lahendamise abinõude rakendamise tulemusel ei ole võimalik piisavalt tulemuslikult kõrvaldada ohtu ja abistada kannatanuid, teeb valdkonna eest vastutav minister riikliku loomatauditõrje komisjoni ettepanekul Vabariigi Valitsusele ettepaneku kuulutada välja eriolukord hädaolukorra seaduse kohaselt."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "5. peatükk - LOOMATAUDITÕRJEGA SEOTUD KAHJU JA TAUDIKAHJUTOETUS",
+      "section": "55",
+      "title": "§ 55. Loomatauditõrjega tekkinud kahju hüvitamine",
+      "content": "(1) Loomapidajale hüvitatakse käesolevas seaduses ja Euroopa Liidu asjakohases õigusaktis sätestatud juhul, korras ja määras kooskõlas maaelu ja põllumajandusturu korraldamise seaduse § 3 lõikes 3 sätestatud nõuetega loomatauditõrjega seoses tekkinud järgmine kahju:\n1) ettekirjutuse alusel tapetud, sealhulgas kontrolltapetud, hukatud ning loomataudi tõttu hukkunud looma väärtus;\n2) ettekirjutuse alusel hävitatud seadme, sööda, pakkematerjali, piima ja munade väärtus.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud kahju hüvitatakse Vabariigi Valitsuse reservist selleks eraldatavatest riigieelarve vahenditest, juhul kui see on tekkinud seoses eriti ohtliku loomataudi või teatud mitte eriti ohtliku loomataudi tõrjega.\n(3) Käesoleva paragrahvi lõikes 2 sätestatud nende mitte eriti ohtlike loomataudide nimekirja, mille puhul käesoleva paragrahvi lõikes 1 nimetatud taudikahju hüvitatakse, kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "5. peatükk - LOOMATAUDITÕRJEGA SEOTUD KAHJU JA TAUDIKAHJUTOETUS",
+      "section": "56",
+      "title": "§ 56. Toetus loomatauditõrjega seotud kahju hüvitamiseks",
+      "content": "(1) Loomapidaja võib käesoleva seaduse § 55 lõikes 2 sätestatud loomataudi tõrjega seoses tekkinud ja käesoleva seaduse § 55 lõikes 1 sätestatud kahju hüvitamiseks osas, mille hüvitamiseks ei ole sõlmitud kindlustuslepingut, taotleda toetust (edaspidi taudikahjutoetus ).\n(2) Käesoleva seaduse § 55 lõikes 1 sätestatud kahju suurus määratakse järgmiselt:\n1) looma, välja arvatud aretuslooma arvestuslik väärtus;\n2) aretuslooma puhul põllumajandusloomade aretuse seaduse § 4 lõike 1 tähenduses eksperdiarvamuse alusel määratud aretuslooma väärtus;\n3) seadme, sööda, pakkematerjali, piima ja munade puhul nende tegelik väärtus.\n(3) Käesoleva paragrahvi lõike 2 punktis 2 nimetatud eksperdi kaasamise kulud kannab Veterinaar- ja Toiduamet.\n(4) Ekspert on:\n1) sõltumatu;\n2) vähemalt kaheaastase töökogemusega veterinaarmeditsiini alal ja teadmistega loomade tõuaretuse valdkonnas;\n3) piisavate teadmistega ekspertiisi kõrgel erialasel tasemel tegemiseks.\n(5) Nõuded eksperdi arvamusele ja looma, sealhulgas aretuslooma väärtuse arvutamise korra kehtestab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "5. peatükk - LOOMATAUDITÕRJEGA SEOTUD KAHJU JA TAUDIKAHJUTOETUS",
+      "section": "57",
+      "title": "§ 57. Taudikahjutoetuse taotlemine",
+      "content": "(1) Loomapidaja esitab taudikahjutoetuse saamiseks Veterinaar- ja Toiduametile taotluse (edaspidi taotlus ) kümne tööpäeva jooksul ettekirjutuse alusel looma tapmise, sealhulgas kontrolltapmise, hukkamise või loomataudi tõttu hukkumise päevast arvates. Loomapidaja lisab taotlusele käesoleva seaduse § 55 lõikes 1 sätestatud kahju suurust tõendavad dokumendid.\n(2) Loomapidaja, kes on sõlminud kindlustuslepingu, mille alusel on selle esemeks olev loom, aretusloom, seade, sööt, pakkematerjal, piim või munad kindlustatud käesoleva seaduse § 55 lõikes 1 sätestatud kahju vastu, märgib selle ära taotluses. Loomapidaja teavitab Veterinaar- ja Toiduametit viivitamata selle kindlustuslepingu alusel talle väljamakstud kindlustushüvitisest.\n(3) Käesolevast seadusest tulenevat menetlustähtaega ei ennistata."
+    },
+    {
+      "provision_ref": "para57^1",
+      "chapter": "5. peatükk - LOOMATAUDITÕRJEGA SEOTUD KAHJU JA TAUDIKAHJUTOETUS",
+      "section": "57^1",
+      "title": "§ 57^1. Taotluse rahuldamine ja rahuldamata jätmine",
+      "content": "(1) Veterinaar- ja Toiduamet vaatab taotluse ja sellele lisatud dokumendid läbi ning kontrollib esitatud andmete õigsust asjakohaste dokumentide ja andmekogude alusel.\n(2) Taotlus jäetakse rahuldamata, kui esineb vähemalt üks järgmistest taotluse rahuldamata jätmise alustest:\n1) loom tapeti, sealhulgas kontrolltapeti, hukati või hukkus loomataudi teadusliku uurimise eesmärgil tehtud loomkatse käigus;\n2) loom tapeti, sealhulgas kontrolltapeti, või hukati ilma asjakohase ettekirjutuseta;\n3) loom hukkus enne loomataudi kahtluse püstitamist või muul põhjusel kui loomataud;\n4) looma Eestisse toimetamisel ei täidetud loomade ja loomsete saadustega kauplemise ning nende impordi ja ekspordi seaduses sätestatud nõudeid;\n5) loom ei ole käesoleva seaduse §-s 11 sätestatud nõuete kohaselt identifitseeritud ja registreeritud;\n6) taotleja takistab loomatauditõrjeks vajaliku riikliku järelevalve tegemist või ei täida ettekirjutuse nõudeid;\n7) taotleja on teadlikult esitanud valeandmeid või mõjutab taotluse menetlemist pettuse või ähvardusega või muul õigusvastasel viisil;\n8) seade, sööt, pakkematerjal, piim või munad hävitati ilma asjakohase ettekirjutuseta;\n9) käesoleva seaduse § 55 lõikes 1 sätestatud kahju hüvitamiseks on sõlmitud kindlustusleping.\n(3) Veterinaar- ja Toiduamet otsustab taotluse rahuldamise või rahuldamata jätmise kümne tööpäeva jooksul taotluse saamise päevast arvates.\n(4) Veterinaar- ja Toiduamet esitab kümne tööpäeva jooksul taotluse rahuldamisest arvates valdkonna eest vastutavale ministrile andmed Vabariigi Valitsuse reservist raha eraldamise vajaduse kohta koos üksikasjaliku arvestuse ja asjakohase eelarvega ning põhjendusega raha kasutamise kohta. Maaeluministeerium edastab nende andmete põhjal Rahandusministeeriumile taotluse Vabariigi Valitsuse reservist loomatauditõrjel tekkinud kahju hüvitamiseks taudikahjutoetuse maksmiseks."
+    },
+    {
+      "provision_ref": "para57^2",
+      "chapter": "5. peatükk - LOOMATAUDITÕRJEGA SEOTUD KAHJU JA TAUDIKAHJUTOETUS",
+      "section": "57^2",
+      "title": "§ 57^2. Taudikahjutoetuse määr ning toetuse maksmine ja maksmisest keeldumine",
+      "content": "(1) Loomatauditõrjega seoses tekkinud kahju hüvitatakse kuni 100% ulatuses.\n(2) Veterinaar- ja Toiduamet jaotab Vabariigi Valitsuse reservist taudikahjutoetuse maksmiseks eraldatud riigieelarve vahendid loomapidajate vahel võrdeliselt vastavalt rahuldatud taotluste arvule, arvestades taotluste kaupa taudikahjutoetuseks vajaminevaid vahendeid, ja arvutab taotlejale makstava taudikahjutoetuse suuruse. Kui rahuldatud taotluste kohane taudikahjutoetuse summa ületab taudikahjutoetuse maksmiseks eraldatud vahendeid, vähendab Veterinaar- ja Toiduamet taudikahjutoetuse käesoleva paragrahvi lõikes 1 nimetatud määra võrdeliselt, arvestades taudikahjutoetuse maksmiseks ettenähtud vahendeid ja järgides taotlejate võrdse kohtlemise põhimõtet.\n(3) Veterinaar- ja Toiduamet otsustab taudikahjutoetuse maksmise või maksmata jätmise 20 tööpäeva jooksul Vabariigi Valitsuse reservist taudikahjutoetuse maksmiseks riigieelarve vahendite eraldamise päevast või eraldamata jätmise päevast arvates. Pärast taotluse rahuldamist, kuid enne taudikahjutoetuse maksmist otsustatakse jätta taudikahjutoetus maksmata, kui esineb vähemalt üks järgmistest taudikahjutoetuse maksmata jätmise alustest:\n1) taudikahjutoetuse maksmiseks puuduvad rahalised vahendid;\n2) tehakse kindlaks taotluse rahuldamata jätmise alused.\n(4) Kui taudikahjutoetuse taotleja on saanud kindlustushüvitist käesoleva seaduse § 55 lõikes 1 sätestatud kahju eest, vähendab Veterinaar- ja Toiduamet vastavalt taudikahjutoetusena makstavat summat või jätab taudikahjutoetuse välja maksmata."
+    },
+    {
+      "provision_ref": "para57^3",
+      "chapter": "5. peatükk - LOOMATAUDITÕRJEGA SEOTUD KAHJU JA TAUDIKAHJUTOETUS",
+      "section": "57^3",
+      "title": "§ 57^3. Loomatauditõrjega seotud kahju osaline katmine",
+      "content": "Taotluse käesoleva seaduse § 55 lõikes 1 sätestatud kahju osaliseks katmiseks Euroopa Liidu õigusaktides sätestatud juhul esitab Euroopa Komisjonile Veterinaar- ja Toiduamet."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "5. peatükk - LOOMATAUDITÕRJEGA SEOTUD KAHJU JA TAUDIKAHJUTOETUS",
+      "section": "58",
+      "title": "§ 58. Toetusraha tagasinõudmine",
+      "content": "Pärast taudikahjutoetuse väljamaksmist nõuab Veterinaar- ja Toiduamet taudikahjutoetuse saajalt taudikahjutoetuse täielikku või osalist tagasimaksmist maaelu ja põllumajandusturu korraldamise seaduse §-s 42 sätestatud alustel, tähtajal ja korras."
+    },
+    {
+      "provision_ref": "para58^1",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "58^1",
+      "title": "§ 58^1. Veterinaararsti kohustuste täitmata jätmine",
+      "content": "(1) Veterinaararsti kohustuste täitmata jätmise või mittenõuetekohase täitmise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2000 eurot."
+    },
+    {
+      "provision_ref": "para58^2",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "58^2",
+      "title": "§ 58^2. Loomade pidamise veterinaarnõuete rikkumine",
+      "content": "(1) Loomade pidamise veterinaarnõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2000 eurot."
+    },
+    {
+      "provision_ref": "para58^3",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "58^3",
+      "title": "§ 58^3. Põllumajanduslooma surmast, loomade ulatuslikust haigestumisest või metslooma rünnakust teatamata jätmine",
+      "content": "(1) Põllumajanduslooma surmast, loomade ulatuslikust haigestumisest või hukkumisest ja metslooma rünnakust teatamata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para58^4",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "58^4",
+      "title": "§ 58^4. Identifitseerimis- ja registreerimiskohustuse täitmata jätmine",
+      "content": "(1) Loomade identifitseerimis- ja registreerimiskohustuse täitmata jätmise või mittenõuetekohase täitmise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2000 eurot."
+    },
+    {
+      "provision_ref": "para58^5",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "58^5",
+      "title": "§ 58^5. Loomanäituse, -võistluse, -laada, -oksjoni ja loomade kokkutoomisega seotud muu avaliku ürituse korraldamise ning loomade liikumise, sealhulgas loomadega kauplemise veterinaarnõuete rikkumine",
+      "content": "(1) Loomanäituse, -võistluse, -laada, -oksjoni või loomade kokkutoomisega seotud muu avaliku ürituse korraldamise või loomade liikumise, sealhulgas loomadega kauplemise veterinaarnõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2000 eurot."
+    },
+    {
+      "provision_ref": "para58^6",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "58^6",
+      "title": "§ 58^6. Loomade, loomsete saaduste ning loomsete kõrvalsaaduste ja nendest saadud toodete veo ning loomsete saaduste ning loomsete kõrvalsaaduste ja nendest saadud toodete käitlemise või mittenõuetekohase toiduks mittekasutatava loomse saaduse vabatsoonis, vabalaos või tollilaos ladustamise veterinaarnõuete rikkumine",
+      "content": "(1) Loomade, loomsete saaduste ning loomsete kõrvalsaaduste ja nendest saadud toodete veo ning loomsete saaduste ning loomsete kõrvalsaaduste ja nendest saadud toodete käitlemise või mittenõuetekohase toiduks mittekasutatava loomse saaduse vabatsoonis, vabalaos või tollilaos ladustamise veterinaarnõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui see on toime pandud viisil, mis ohustab inimese tervist või keskkonda, – karistatakse rahatrahviga kuni 300 trahviühikut.\n(3) Käesoleva paragrahvi lõikes 1 sätestatud teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 2000 eurot.\n(4) Käesoleva paragrahvi lõikes 2 sätestatud teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para58^8",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "58^8",
+      "title": "§ 58^8. Loomataudi haigusetekitaja teaduslikul eesmärgil loata isoleerimine ja kultiveerimine ning bioohutuse nõuete rikkumine",
+      "content": "(1) Loomataudi põhjustava haigusetekitaja teaduslikul eesmärgil loata isoleerimise või kultiveerimise või loomataudi põhjustava haigusetekitaja teaduslikul eesmärgil isoleerimiseks või kultiveerimiseks kasutatava laboratooriumi bioohutuse nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para58^9",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "58^9",
+      "title": "§ 58^9. Loomataudi kahtluse korral või loomataudi tõrjeks rakendatavate meetmete eiramine ning loomatauditõrje eeskirjade nõuete rikkumine",
+      "content": "(1) Loomataudi kahtluse korral või loomataudi tõrjeks rakendatavate meetmete eiramise ning loomatauditõrje eeskirjade rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para58^10",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "58^10",
+      "title": "§ 58^10. Menetlus",
+      "content": "(1)\n(2) Veterinaar- ja Toiduamet või kohus võib kohaldada käesoleva seaduse § 58^6 lõigetes 2 ja 4 sätestatud juhul väärteo toimepanemise vahetuks objektiks olnud looma või loomse saaduse konfiskeerimist vastavalt karistusseadustiku §-le 83.\n(3) Käesoleva seaduse §-des 58^1–58^9 sätestatud väärtegude kohtuväline menetleja on Veterinaar- ja Toiduamet."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "59",
+      "title": "§ 59.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "62",
+      "title": "§ 62. Rahvusvahelised kokkulepped",
+      "content": "Kui rahvusvahelise kokkuleppe sätted erinevad käesolevas seaduses või sellest tulenevates õigusaktides kehtestatud veterinaarnõuetest, samuti koostöö ja teavitamise nõuetest, kohaldatakse rahvusvahelise kokkuleppe sätteid."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "63",
+      "title": "§ 63.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "64",
+      "title": "§ 64.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para64^1",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "64^1",
+      "title": "§ 64^1. Kasutuses oleva ettevõtte registreerimine ja tunnustamine",
+      "content": "(1) Registreerimisele kuuluvad loomakasvatushooned ja -rajatised ning loomade pidamiseks piiritletud alad, mis on kasutuses 2002. aasta 1. jaanuaril, peavad olema registreeritud hiljemalt 2003. aasta 1. jaanuariks.\n(2) Tunnustamisele kuuluvad loomakasvatushooned ja -rajatised ning loomade pidamiseks piiritletud alad, mis on kasutuses käesoleva seaduse § 7 lõike 2 alusel kehtestatud vastavate veterinaarnõuete jõustumise hetkel, peavad olema tunnustatud hiljemalt 2003. aasta 1. jaanuariks.\n(3) Käesoleva seaduse § 7 lõike 2^2 alusel kehtestatud nõuete jõustumise hetkel embrüote käitlemisega tegelev isik, kelle embrüokogumisrühm peab olema tunnustatud käesoleva seaduse § 7 lõike 2^1 alusel, peab esitama embrüokogumisrühma tunnustamise taotluse järelevalveasutusele hiljemalt 2003. aasta 1. juuliks.\n(4) Enne 2004. aasta 1. maid käesoleva seaduse § 17 lõike 2 alusel lemmikloomasööda käitlemiseks või § 19 lõike 4 alusel loomsete jäätmete käitlemiseks tunnustatud ettevõte loetakse tunnustatuks käesoleva seaduse § 18^1 lõike 2 tähenduses ning Euroopa Parlamendi ja Euroopa Liidu Nõukogu määruse 1774/2002/EÜ nõuete kohaselt vastavalt lemmikloomasööda või loomsete jäätmete käitlemiseks."
+    },
+    {
+      "provision_ref": "para64^2",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "64^2",
+      "title": "§ 64^2. Tunnustatud tapamajade ja loomsete saaduste käitlemise ettevõtete andmete kandmine põllumajandusloomade registrisse",
+      "content": "(1) Enne 2004. aasta 31. märtsi tunnustatud tapamajade ja loomsete saaduste käitlemise ettevõtete andmed annab Veterinaar- ja Toiduamet põllumajandusloomade registrile üle 2004. aasta 19. aprilliks.\n(2) Volitatud töötleja kannab käesoleva paragrahvi lõikes 1 nimetatud tapamajade ja loomsete saaduste käitlemise ettevõtete andmed registrisse 2004. aasta 1. maiks.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud ettevõtete geograafilise asukoha koordinaatide täpsustamiseks on volitatud töötlejal õigus teha käitlejale järelepärimisi põllumajandusloomade registri pidamise põhimääruses ettenähtud korras."
+    },
+    {
+      "provision_ref": "para64^3",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "64^3",
+      "title": "§ 64^3. Veterinaarsertifikaatide kehtivus",
+      "content": "Enne 2004. aasta 1. maid käesoleva seaduse § 29 alusel väljastatud veterinaarsertifikaadid kehtivad kuni 2004. aasta 30. aprillini."
+    },
+    {
+      "provision_ref": "para64^4",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "64^4",
+      "title": "§ 64^4. Teaduslikuks uurimiseks välja antud eriloa kehtivus",
+      "content": "Enne 2010. aasta 1. jaanuari välja antud eriluba loomataudi teaduslikuks uurimiseks, mille käigus isoleeritakse ja kultiveeritakse ohtlikku loomataudi põhjustavat haigusetekitajat, kehtib kuni sellel märgitud kehtivusaja lõpuni või kuni eriloa kehtetuks tunnistamiseni."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "65",
+      "title": "§ 65. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2000. aasta 1. jaanuaril, välja arvatud § 15 lõige 1, mis jõustub 2002. aasta 1. juulil, ning § 18 lõige 1, mis jõustub 2003. aasta 1. jaanuaril.\n(2) Käesoleva seaduse § 7 lõike 2 alusel kehtestatud veterinaarnõuded jõustuvad 2002. aasta 1. jaanuaril, kui nende kehtestamisel ei ole ette nähtud jõustumise hilisemat tähtpäeva.\n(3) Käesoleva seaduse § 13 lõige 4^1 jõustub enne 2003. aasta 1. jaanuari põllumajandusloomade registrisse kantud veise suhtes 2004. aasta 1. jaanuarist, välja arvatud väljaveol Euroopa Liidu liikmesriiki või kandidaatriiki.\n(4) Käesoleva seaduse § 11 lõige 2^1, § 18^1 lõiked 1–5, § 18^2 lõige 3, § 18^3, § 19^1 lõige 7, § 37 lõige 3^1, § 43 lõige 3 ja § 64^1 lõige 4 jõustuvad 2004. aasta 1. mail.\n(5) Käesoleva seaduse § 17 ja 2. peatüki 6. jagu kehtivad kuni 2004. aasta 1. maini."
+    }
+  ],
+  "definitions": []
+}

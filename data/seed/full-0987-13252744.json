@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-13252744",
+  "type": "statute",
+  "title": "Piirivalveseadus",
+  "title_en": "Piirivalveseadus",
+  "short_name": "PVS",
+  "status": "in_force",
+  "issued_date": "1994-06-30",
+  "in_force_date": "2010-01-01",
+  "url": "https://www.riigiteataja.ee/akt/13252744.xml",
+  "description": "Official consolidated statute text (Piirivalveseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

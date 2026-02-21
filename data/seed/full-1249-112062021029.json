@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-112062021029",
+  "type": "statute",
+  "title": "Seadus \"2002. aasta riigieelarve\"",
+  "title_en": "Seadus \"2002. aasta riigieelarve\"",
+  "short_name": "RES2002",
+  "status": "in_force",
+  "issued_date": "2001-12-19",
+  "in_force_date": "2003-01-01",
+  "url": "https://www.riigiteataja.ee/akt/112062021029.xml",
+  "description": "Official consolidated statute text (Seadus \"2002. aasta riigieelarve\") from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

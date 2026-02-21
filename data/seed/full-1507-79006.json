@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-79006",
+  "type": "statute",
+  "title": "Õigusabi taotluste edastamise Euroopa kokkuleppe ratifitseerimise seadus",
+  "title_en": "Õigusabi taotluste edastamise Euroopa kokkuleppe ratifitseerimise seadus",
+  "short_name": "ee-law-79006",
+  "status": "in_force",
+  "issued_date": "1998-10-21",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/79006.xml",
+  "description": "Official consolidated statute text (Õigusabi taotluste edastamise Euroopa kokkuleppe ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud õigusabi taotluste edastamise Euroopa kokkulepe, mis on sõlmitud 1977. aasta 27. jaanuaril Strasbourg'is ja millele Eesti Vabariik on alla kirjutanud 1998. aasta 25. veebruaril."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ratifitseerimisel teha selle kokkuleppe artikli 6 lõike 1 punktile b sama kokkuleppe artikli 13 alusel järgmine reservatsioon: Eesti Vabariik deklareerib, et ei aktsepteeri dokumenti, mis on prantsuse keeles või millele on lisatud tõlge prantsuse keelde, kui dokumendil puudub tõlge inglise või eesti keelde."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Nimetada õigusabi taotlusi vastuvõtvaks keskasutuseks ja edastavaks asutuseks eelnimetatud kokkuleppe artikli 2 tähenduses Justiitsministeerium. Riigikogu esimees Toomas SAVI Õiend Akti metaandmed muudetud. Teksti liik algtekst/terviktekst; redaktsiooni jõustumise kuupäev: 01.06.2002 (eRT kasutuselevõtmine)."
+    }
+  ],
+  "definitions": []
+}

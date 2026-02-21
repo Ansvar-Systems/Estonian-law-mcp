@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-176007",
+  "type": "statute",
+  "title": "Eesti NSV seadus \"Kauba sisse- ja väljaveo reguleerimise kohta\"",
+  "title_en": "Eesti NSV seadus \"Kauba sisse- ja väljaveo reguleerimise kohta\"",
+  "short_name": "ee-law-176007",
+  "status": "in_force",
+  "issued_date": "1990-01-26",
+  "in_force_date": "2002-07-01",
+  "url": "https://www.riigiteataja.ee/akt/176007.xml",
+  "description": "Official consolidated statute text (Eesti NSV seadus \"Kauba sisse- ja väljaveo reguleerimise kohta\") from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

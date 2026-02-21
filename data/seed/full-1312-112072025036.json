@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-112072025036",
+  "type": "statute",
+  "title": "Teadus- ja arendustegevuse korralduse seadus",
+  "title_en": "Teadus- ja arendustegevuse korralduse seadus",
+  "short_name": "TAKS",
+  "status": "in_force",
+  "issued_date": "1997-03-26",
+  "in_force_date": "2025-10-01",
+  "url": "https://www.riigiteataja.ee/akt/112072025036.xml",
+  "description": "Official consolidated statute text (Teadus- ja arendustegevuse korralduse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

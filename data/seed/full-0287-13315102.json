@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-13315102",
+  "type": "statute",
+  "title": "Eesti Vabariigi seadus Eesti krooni tagamise kohta",
+  "title_en": "Eesti Vabariigi seadus Eesti krooni tagamise kohta",
+  "short_name": "EEKS",
+  "status": "in_force",
+  "issued_date": "1992-05-20",
+  "in_force_date": "2011-01-01",
+  "url": "https://www.riigiteataja.ee/akt/13315102.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi seadus Eesti krooni tagamise kohta) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu jõustub päeval, mis on kindlaks määratud Euroopa Liidu Nõukogu otsuses Eesti Vabariigi suhtes kehtestatud erandi kehtetuks tunnistamise kohta Euroopa Liidu toimimise lepingu artikli 140 lõikes 2 sätestatud alusel"
+    }
+  ],
+  "definitions": []
+}

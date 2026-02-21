@@ -1,0 +1,239 @@
+{
+  "id": "ee-law-114032014034",
+  "type": "statute",
+  "title": "Kaevandamisseadus",
+  "title_en": "Kaevandamisseadus",
+  "short_name": "ee-law-114032014034",
+  "status": "in_force",
+  "issued_date": "2003-01-29",
+  "in_force_date": "2014-07-01",
+  "url": "https://www.riigiteataja.ee/akt/114032014034.xml",
+  "description": "Official consolidated statute text (Kaevandamisseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab inimese, vara ja keskkonna ohutuse ning maardlate säästliku kasutamise tagamiseks nõuded:\n1) kaevandamisel ja allmaakaeveõõne teisesel kasutamisel;\n2) kaevandamise ja allmaakaeveõõne teisese kasutamise projekti kohta;\n3) ettevõtjale, kes tegeleb kaevandamisega, allmaakaeveõõne teisese kasutamisega või nende tööde projekti koostamisega;\n4) vastutavale spetsialistile ja tema nõuetele vastavuse hindajale ja tõendajale;\n5) vastutuse ja riikliku järelevalve kohta.\n(2) Käesoleva seaduse §-st 4 tulenevad ohutusnõuded laienevad ka tegevusele, mis ei ole kaevandamine ja allmaakaeveõõne teisene kasutamine, kuid millega kaasnevad §-s 15 nimetatud enamohtlikele tegevusaladele iseloomulikud ohud.\n(3) Füüsilisest isikust kinnisasja omanikule, kellel on vastavalt maapõueseadusele õigus oma kinnisasjal asuvat maavara kaevandada isikliku majapidamise tarbeks kaevandamisloata, ei laiene käesolevas seaduses sätestatud nõuded, välja arvatud käesoleva seaduse §-s 4 sätestatud ohutusnõuded."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Teiste seaduste kohaldamine",
+      "content": "(1) Kui inimesele, varale ja keskkonnale kaevandamisest või allmaakaeveõõne teisesest kasutamisest tulenevate ohtude vältimine on reguleeritud teise seaduse või selle alusel kehtestatud õigusaktiga, kohaldatakse teisest seadusest või selle alusel kehtestatud õigusaktist tulenevaid nõudeid käesolevast seadusest tulenevate erisustega.\n(2) Töötervishoiu ja tööohutuse nõuded kaevandamisel või allmaakaeveõõne teisesel kasutamisel tulenevad töötervishoiu ja tööohutuse seadusest.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesolevast seadusest tulenevaid erisusi.\n(4) Ehitusgeoloogilistele ja -geodeetilistele töödele kohaldatakse ehitusseaduses sätestatut. Allmaaehitise ehitamisele kohaldatakse ehitusseaduses sätestatut käesolevast seadusest tulenevate erisustega. Ehitusseaduses sätestatut ei kohaldata töötava kaevanduse osaks oleva allmaaehitise ehitamisele ja kasutamisele."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Mõisted käesoleva seaduse tähenduses",
+      "content": "(1) Kaevandamine on:\n1) maavara kasutamise eesmärgil selle maapõuest väljamisel, allmaakaeveõõne rajamisel, geoloogilisel uuringul või kaevanduse osaks oleva allmaaehitise ehitamisel maapõues tehtav töö;\n2) maavara kaevandamise või esmatöötlemisega seotud vedu;\n3) maavara esmatöötlemine, sealhulgas maavara tööstuslikul viisil purustamine, sorteerimine, veetustamine, brikettimine ja ladustamine, või\n4) puistangute moodustamine, kaevandatud ala või puistangute korrastamine (rekultiveerimine).\n(2) Allmaakaeveõõs on loodusliku lasundiga kaetud tühik maapõues, kus selle suuruse ja ligipääsetavuse tõttu saavad viibida inimesed, samuti muu tühik maapõues, milles on allmaakaeveõõnele iseloomulikud ohud ja kus saavad viibida inimesed.\n(3) Allmaakaeveõõne teisene kasutamine (edaspidi kaeveõõne teisene kasutamine ) on allmaakaeveõõne kasutamine otstarbel, mis näeb ette inimese viibimise selles, kuid ei ole seotud kaevandamisega.\n(4) Allmaaehitis on inimtegevuse tulemusena allmaakaeveõõnde loodud rajatis, mis ei ole töötava kaevanduse osa.\n(5) Kaevandus on maavara kaevandamisega seonduv tootmisüksus, mis koosneb maavara kaevandamiseks vajalikest rajatistest või hoonetest. Kaevandused jagunevad pealmaakaevandusteks ehk karjäärideks ja allmaakaevandusteks."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - KAEVANDAMINE JA KAEVEÕÕNE TEISENE KASUTAMINE",
+      "section": "4",
+      "title": "§ 4. Ohutusnõuded",
+      "content": "(1) Kaevandamisel ja kaeveõõne teisese kasutamise korral tuleb tagada inimese, vara ja keskkonna ohutus.\n(2) Kaevandamise ja kaeveõõne teisese kasutamise kohal (edaspidi objekt ) tuleb rakendada meetmed:\n1) tulekahju, plahvatuse ning tervisele ohtliku keskkonna tekkimise ja leviku vältimiseks, avastamiseks ning tõkestamiseks;\n2) piisavate hoiatus- ja teiste kommunikatsioonisüsteemide olemasoluks, et tagada abistamis-, evakuatsiooni- ja päästeoperatsioonide viivitamatut alustamist ja nende tõrgeteta teostamist;\n3) ohutsoonide tähistamiseks ning piiramiseks;\n4) veega täitunud kaeveõõne läheduses töötamise korral vee läbimurde vältimiseks;\n5) maapinna vajumise ja varisemise ärahoidmiseks või juhtimiseks.\n(3) Allmaakaeveõõnes viibivate isikute üle tuleb pidada arvestust käesoleva paragrahvi lõike 5 alusel kehtestatud ohutusnõuetes ettenähtud korras. Allmaakaeveõõnes viibivad isikud peavad olema varustatud vajalike kaitsevahenditega.\n(4)\n(5) Kaevandamise ja kaeveõõne teisese kasutamise ohutusnõuded kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para4^1",
+      "chapter": "2. peatükk - KAEVANDAMINE JA KAEVEÕÕNE TEISENE KASUTAMINE",
+      "section": "4^1",
+      "title": "§ 4^1. Päästetöö allmaarajatises",
+      "content": "(1) Allmaaehitises, allmaakaeveõõnes ja nendega vahetult ühenduses olevas pealmaahoones või -rajatises (edaspidi allmaarajatis ) korraldab päästetöid mäepäästeteenistus.\n(2) Mäepäästeteenistuse allmaarajatises tagab kaevandav või allmaakaeveõõnt teiseselt kasutav isik.\n(3) Allmaarajatises päästetöö ja päästeasutustega tehtava koostöö korra ning allmaarajatises tehtava päästetöö kohta esitatavad nõuded kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - KAEVANDAMINE JA KAEVEÕÕNE TEISENE KASUTAMINE",
+      "section": "5",
+      "title": "§ 5. Kaevandamise peatamine ja lõpetamine",
+      "content": "(1) Kaevandamine tuleb kaevandamise kohal peatada või lõpetada nii, et oleks tagatud inimese, vara ja keskkonna ohutus ning kaevandamata maavara hilisem võimalik kaevandamine.\n(2) Kaevandamise peatamine on kas ajutine või pikaajaline maavara kaevandamise katkestamine majanduslikel kaalutlustel või avarii tagajärjel, mis nõuab pikemaajalisi korrastustöid. Kaevandamise peatamiseks ei loeta lühiajalist kaevandamise peatamist, mis on vajalik seadmete remondiks või objekti korrastamiseks.\n(3) Kaevandamise lõpetamine on maavara kaevandamise lõpetamine kaevanduse või karjääri sulgemise eesmärgil.\n(4) Kaevandamise peatamise ja lõpetamise korra kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - KAEVANDAMINE JA KAEVEÕÕNE TEISENE KASUTAMINE",
+      "section": "6",
+      "title": "§ 6. Kaeveõõne teisese kasutamise luba ja allmaaehitise ehitus- ja kasutusluba",
+      "content": "(1) Allmaaehitise ehitamiseks peab olema ehitusseaduse alusel väljastatav ehitusluba. Ehitusloa taotluse puhul peab nimetatud allmaaehitise ehitusprojekt vastama ehitusseaduses ehitusprojektile esitatavatele nõuetele ja arvestama vastavaid mäendustingimusi.\n(2) Allmaaehitise kasutamiseks, samuti kaeveõõne teiseseks kasutamiseks peab olema ehitusseaduse alusel väljastatav ehitise kasutusluba. Ehitise kasutusloa taotlusele tuleb lisada Tehnilise Järelevalve Ameti vastav nõusolek. Tehnilise Järelevalve Amet kontrollib nimetatud allmaaehitist või allmaakaeveõõnt, milles hakatakse tegelema kaeveõõne teisese kasutamisega. Kontrolli tulemustest lähtuvalt annab Tehnilise Järelevalve Amet oma nõusoleku allmaaehitise kasutamiseks või kaeveõõne teiseseks kasutamiseks või keeldub sellest, kui rakendatud meetmed ei taga inimese, vara ja keskkonna ohutust."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - KAEVANDAMINE JA KAEVEÕÕNE TEISENE KASUTAMINE",
+      "section": "7",
+      "title": "§ 7. Kaevandamise ja kaeveõõne teisese kasutamise projekt",
+      "content": "(1) Kaevandamise või kaeveõõne teisese kasutamise projekt (edaspidi projekt ) on kaevandamiseks või kaeveõõne teiseseks kasutamiseks vajalike dokumentide kogum, mis koosneb:\n1) kaevanduse või teiseselt kasutatava kaeveõõne plaanist;\n2) geoloogilistest joonistest;\n3) kasutatava tehnoloogia skeemidest;\n4) seletuskirjast, milles sisaldub kirjeldus inimeste, vara ja keskkonna kaitseks rakendatavate meetmete ja kaevandamise puhul kaevandatud alade rekultiveerimise ning mäendustingimuste ja kasutatava tehnoloogia kohta;\n5) muudest õigusaktides ettenähtud dokumentidest.\n(2) Projekt peab olema koostatud vastavalt lähteülesandele ning sellises mahus ja nii, et selle järgi oleks võimalik kaevandada või kaeveõõnt teiseselt kasutada.\n(3) Kaevandamise ja kaeveõõne teisese kasutamise projektile esitatavad nõuded kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - KAEVANDAMINE JA KAEVEÕÕNE TEISENE KASUTAMINE",
+      "section": "8",
+      "title": "§ 8. Markšeideritöö ja markšeideridokumentatsioon",
+      "content": "(1) Markšeideritöö on maavara kaevandamisel tehtav mõõdistamine ja dokumenteerimine.\n(2) Kaeveõõne rajamine peab olema tagatud markšeideritööga. Markšeideritööd tuleb korraldada nii, et hiljem oleks võimalik mõõdistamistulemusi dokumentaalselt kontrollida.\n(3) Markšeideritööga tuleb tagada:\n1) kaeveõõne projektikohane suunamine;\n2) teostatud tööde mõõdistamine ja dokumenteerimine;\n3) väljatud maavara koguse ning maavara varu määramine;\n4) markšeideridokumentatsiooni koostamine.\n(4) Markšeideritöö tegemisel peab mõõdistamisel lähtuma kehtivast geodeetilisest süsteemist.\n(5) Markšeideritöö korra kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "3. peatükk - UURINGU- JA KAEVANDAMISLOA OMANIK JA ETTEVÕTJA",
+      "section": "9",
+      "title": "§ 9. Uuringu- ja kaevandamisloa omanik",
+      "content": "(1) Uuringu- või kaevandamisloa omanik käesoleva seaduse tähenduses on isik, kellele nimetatud luba on maapõueseaduse alusel väljastatud või võõrandatud.\n(2) Uuringu- või kaevandamisloa omanik peab tagama, et kaevandamise projekti koostab ja kaevandab käesoleva seaduse §-s 10 nimetatud isik, kes kohustub kinni pidama uuringu- või kaevandamisloa tingimustest."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "3. peatükk - UURINGU- JA KAEVANDAMISLOA OMANIK JA ETTEVÕTJA",
+      "section": "11",
+      "title": "§ 11. Kaevandamise ja kaeveõõne teisese kasutamisega tegeleva ettevõtja kohustused",
+      "content": "Kaevandamise või kaeveõõne teisese kasutamisega tegelev ettevõtja peab tagama käesolevast seadusest tulenevate nõuete täitmise, sealhulgas:\n1) kaevandama või kaeveõõnt teiseselt kasutama kooskõlas nõuetekohase projektiga;\n2) valdama nõuetekohaseks kaevandamiseks või kaeveõõne teiseseks kasutamiseks piisavaid vahendeid;\n3) rakendama kaevandamisel või kaeveõõne teisesel kasutamisel üksnes erialase ettevalmistusega isikuid;\n4) määrama vastutava spetsialisti ja tagama vastutava spetsialisti kohustuste täitmise;\n5) tagama allmaakaeveõõnes viibivate isikute arvestuse;\n6) teatama uuringu- või kaevandamisloa omanikule uuringu- või kaevandamisloa või projekti nõuetest kõrvalekaldumisest;\n7) teavitama viivitamatult Tehnilise Järelevalve Ametit objektil toimunud õnnetusest või avariist."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - UURINGU- JA KAEVANDAMISLOA OMANIK JA ETTEVÕTJA",
+      "section": "12",
+      "title": "§ 12. Projekti koostamisega tegeleva ettevõtja kohustused",
+      "content": "Projekti koostamisega tegelev ettevõtja peab tagama käesolevast seadusest tulenevate nõuete täitmise, sealhulgas:\n1) tagama projekti nõuetele vastavuse;\n2) tagama projekti vastavuse lähteülesandele;\n3) tagama, et projekti koostavad selleks tööks piisava erialase ettevalmistusega isikud;\n4) määrama vastutava spetsialisti ja tagama vastutava spetsialisti kohustuste täitmise;\n5) säilitama täies ulatuses kõik tema koostatud projektid vähemalt seitse aastat projektikohase töö lõpetamisest arvates."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - UURINGU- JA KAEVANDAMISLOA OMANIK JA ETTEVÕTJA",
+      "section": "13",
+      "title": "§ 13. Kaevandamise ja kaeveõõne teisese kasutamisega tegeleva ettevõtja kohustuslik dokumentatsioon",
+      "content": "(1) Kaevandamise või kaeveõõne teisese kasutamisega tegeleval ettevõtjal peavad olema järgmised dokumendid:\n1) kaevandamise või kaeveõõne teisese kasutamise projekt;\n2) riskianalüüsi puudutavad dokumendid;\n3) tööohutusjuhendid ning seadmete ja masinate kasutusjuhendid;\n4) markšeideridokumentatsioon.\n(2) Allmaatöödega tegeleval ettevõtjal peavad lisaks käesoleva paragrahvi lõikes 1 nimetatud dokumentidele olema järgmised dokumendid:\n1) avarii likvideerimise plaan;\n2) maa all viibivate isikute üle arvepidamise kord;\n3) veekõrvaldus-, tuulutus- ja elektrivarustusskeem ning muud tehnoloogiaskeemid.\n(3) Maavara kaevandamisega tegelev ettevõtja peab iga kalendriaasta või aastateks jaotatud pikema perioodi kohta koostama arengukava, mis tuleb esitada kaevandamise asukoha järgsele kohalikule omavalitsusele teadmiseks viimase nõudmisel. Ettevõtja tegevust käsitleva arengukava eesmärk on tagada tõhus kontroll kaevandamisega keskkonnale avaldatava mõju üle ja tegevuse optimaalne ulatus.\n(4) Kaevandamise ja kaeveõõne teisese kasutamisega tegeleva ettevõtja kohustuslikule dokumentatsioonile esitatavad nõuded kehtestab majandus- ja kommunikatsiooniminister.\n(5) Allmaatöödega tegelev ettevõtja peab tagama allmaakaeveõõne paiknemist kajastava plaani säilimise ja Rahvusarhiivile püsivaks säilitamiseks üleandmise kooskõlas arhiiviseadusega."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "4. peatükk - VASTUTAV SPETSIALIST",
+      "section": "14",
+      "title": "§ 14. Vastutav spetsialist",
+      "content": "(1) Vastutav spetsialist on isik, kes:\n1) on pädev õigusaktides sätestatud nõuete kohaselt korraldama ja juhtima kaevandamist või kaeveõõne teisest kasutamist või vastavate projektide koostamist;\n2) võtab endale kohustuse tagada kaevandamisel või kaeveõõne teisesel kasutamisel või vastavate projektide koostamisel käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmine.\n(2) Vastutava spetsialisti määramine ei vabasta ettevõtjat kaevandamisest või kaeveõõne teisesest kasutamisest või vastavate projektide koostamisest tulenevast vastutusest."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "4. peatükk - VASTUTAV SPETSIALIST",
+      "section": "15",
+      "title": "§ 15. Teatud tegevusalade vastutavale spetsialistile esitatavad nõuded",
+      "content": "(1) Enamohtlikel tegevusaladel tegutseva ettevõtja vastutaval spetsialistil peab olema erialane ettevalmistus, töökogemus ja teadmised ulatuses, mis tagab vastaval tegevusalal tema juhitavate tööde ohutuse.\n(2) Enamohtlike tegevusalade kohta projekti koostamisega tegeleva ettevõtja vastutaval spetsialistil peab olema tegevusalale vastav ettevalmistus ja vähemalt kolmeaastane erialane töökogemus ulatuses, mis tagab nõuetekohase projekti koostamise.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud vastutava spetsialisti nõuetele vastavust peab olema hinnanud ja tõendanud käesoleva seaduse §-s 18 nimetatud isik või peab vastutav spetsialist omama kutsetunnistust kutseseaduse tähenduses, mis võimaldab tal juhendada teiste tööd ja vastutada selle eest.\n(3^1) Kui isik on välisriigis omandanud nõutaval tasemel kutsekvalifikatsiooni välisriigi kutsekvalifikatsiooni tunnustamise seaduse tähenduses, kohaldatakse selle tunnustamisele välisriigi kutsekvalifikatsiooni tunnustamise seadust.\n(4) Enamohtlikud tegevusalad käesoleva seaduse tähenduses on:\n1) allmaatööd;\n2) veealune kaevandamine sügavamal kui kaks meetrit, välja arvatud muda kaevandamine;\n3) kaevandamine, mille käigus ettevõtja teeb ise lõhketöid;\n4) põlevkivi kaevandamine;\n5) kaevandamine karjääris, mille kaevandamisloas lubatud maksimaalne aastatoodang on üle 200 000 tonni;\n6) kaevandamine karjääris, mille ee astangu kõrgus on üle viie meetri."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "4. peatükk - VASTUTAV SPETSIALIST",
+      "section": "16",
+      "title": "§ 16. Vastutava spetsialisti kohustused",
+      "content": "(1) Vastutav spetsialist on kohustatud tagama:\n1) tööde tegemise vastavalt projektile;\n2) tööde tegemisel ohutusnõuete ja teiste käesolevast seadusest tulenevate nõuete täitmise;\n3) tööde tegemise erialase ettevalmistusega isikute poolt, kelle käsutuses on tööde tegemiseks vajalik dokumentatsioon ja vahendid ning keda juhendatakse piisavalt ülesannete nõuetekohaseks täitmiseks;\n4) objekti ohutu kasutamise;\n5) tööde dokumenteerimise korraldamise.\n(2) Vastutav spetsialist võib vastavalt töö mahule ja tegevussuunale määrata vastutavaid järelevaatajaid, kelle ülesandeks on konkreetsel töölõigul töö korraldamine, töötajate juhendamine ja ohutuse tagamine."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "5. peatükk - ISIKU NÕUETELE VASTAVUSE HINDAJA JA TÕENDAJA",
+      "section": "17",
+      "title": "§ 17. Isiku nõuetele vastavuse hindamine ja tõendamine",
+      "content": "(1) Isiku nõuetele vastavuse hindamine ja tõendamine käesoleva seaduse tähenduses on menetlus, mille käigus tehakse kindlaks vastutava spetsialisti nõuetele vastavus ja tõendatakse seda vastava pädevustunnistuse väljastamisega.\n(2) Isiku nõuetele vastavuse hindamisel ja tõendamisel kontrollitakse isiku vastavust käesoleva seaduse §-s 15 sätestatud nõuetele ning kontrollitakse samuti vastavat töövaldkonda puudutavate õigusaktide tundmist.\n(3) Isiku nõuetele vastavuse hindamise ja tõendamise korra kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "5. peatükk - ISIKU NÕUETELE VASTAVUSE HINDAJA JA TÕENDAJA",
+      "section": "18",
+      "title": "§ 18. Isiku nõuetele vastavuse hindaja ja tõendaja",
+      "content": "(1)\n(2) Isiku nõuetele vastavuse hindaja ja tõendaja peab:\n1) omama vajaliku erialase ettevalmistuse, väljaõppe ja kogemusega töötajaid;\n2) valdama vahendeid isiku nõuetele vastavuse hindamiseks ja tõendamiseks;\n3) olema sõltumatu, asjatundlik, erapooletu ja mittediskrimineeriv;\n4) omama kogu isiku nõuetele vastavuse hindaja ja tõendajana tegutsemise aja jooksul kehtivat ja käesoleva seaduse §-s 19 sätestatud tingimustele vastavat vastutuskindlustust;\n5) olema isiku nõuetele vastavuse hindamiseks ja tõendamiseks akrediteeritud.\n(3) Isiku nõuetele vastavuse hindaja ja tõendaja akrediteerijale kohaldatakse toote nõuetele vastavuse seadust.\n(4) Isiku nõuetele vastavuse hindaja ja tõendaja peab pärast oma tegevuse lõpetamist ja pärast tegevusloa kehtetuks tunnistamist ühe kuu jooksul Tehnilise Järelevalve Ametile üle andma kogu isiku nõuetele vastavuse hindamist ja tõendamist puudutava dokumentatsiooni."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "5. peatükk - ISIKU NÕUETELE VASTAVUSE HINDAJA JA TÕENDAJA",
+      "section": "19",
+      "title": "§ 19. Vastutuskindlustus",
+      "content": "(1) Isiku nõuetele vastavuse hindajal ja tõendajal peab olema vastutuskindlustus kindlustussumma ulatuses, mis tagab tema tegevuse tõttu kolmandale isikule tekkida võiva kogu kahju hüvitamise ja mis on vähemalt 31 950 eurot.\n(2) Kui kindlustusleping on sõlmitud omavastutusega, hüvitab kindlustusandja tekitatud kahju kogu ulatuses ja nõuab omavastutuse summa tagasi kindlustusvõtjalt."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "6. peatükk - TEGEVUSLUBA",
+      "section": "20",
+      "title": "§ 20. Loakohustus",
+      "content": "(1) Ettevõtjal peab olema tegevusluba järgmistel tegevusaladel tegutsemiseks:\n1) kaevandamine enamohtlikul tegevusalal;\n2) kaeveõõne teisene kasutamine enamohtlikul tegevusalal;\n3) enamohtlikul tegevusalal kaevandamise või kaeveõõne teisese kasutamise projekti koostamine;\n4) isiku nõuetele vastavuse hindamine ja tõendamine.\n(2) Tegevusluba annab õiguse asjaomaseks tegevuseks ettevõtja vastutava spetsialisti pädevuse või akrediteeringu ulatuses.\n(3) Käesoleva paragrahvi lõike 1 punktides 1–3 sätestatud loakohustus puudub teises Euroopa Majanduspiirkonna liikmesriigis õiguspäraselt nimetatud töid tegeval ja seal asutatud ettevõtjal või liikmesriigi kodanikul Eestis ajutiselt nimetatud tööde tegemiseks. Selline isik teavitab Eestis tegevuse alustamisel Tehnilise Järelevalve Ametit ja järgib Eestis neile töödele kehtestatud nõudeid."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "6. peatükk - TEGEVUSLUBA",
+      "section": "21",
+      "title": "§ 21. Tegevusloa taotlemine",
+      "content": "(1) Tegevusloa taotluse lahendab Majandus- ja Kommunikatsiooniministeerium tegevusloa andmise või andmisest keeldumisega viie tööpäeva jooksul taotluse esitamisest arvates.\n(2) Kaevandamiseks või kaeveõõne teiseseks kasutamiseks tegevusluba taotlev ettevõtja esitab tegevusloa taotluses lisaks majandustegevuse seadustiku üldosa seaduses sätestatule kaevandamiskoha või kaeveõõne nimetuse ja asukoha.\n(3) Ettevõtja võib tegevusloa taotluses esitada ka täpsustatud andmed tegevusala kohta, millel ta soovib tegutseda."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "6. peatükk - TEGEVUSLUBA",
+      "section": "22",
+      "title": "§ 22. Tegevusloa kontrolliese",
+      "content": "(1) Ettevõtjale antakse tegevusluba käesoleva seaduse § 20 lõike 1 punktides 1–3 nimetatud tegevusalal tegutsemiseks, kui tema vastutav spetsialist vastab §-des 14 ja 15 sätestatud nõuetele.\n(2) Ettevõtjale antakse tegevusluba isiku nõuetele vastavuse hindaja ja tõendajana tegutsemiseks, kui ta vastab käesoleva seaduse §-s 18 sätestatud nõuetele."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "7. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "25",
+      "title": "§ 25. Riiklik järelevalve",
+      "content": "(1) Käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle teostab riiklikku järelevalvet Tehnilise Järelevalve Amet.\n(2) Tehnilise Järelevalve Ameti pädevusse kuulub:\n1) järelevalve objektil tööde ohutu korraldamise üle, samuti järelevalve isiku nõuetele vastavuse hindaja ja tõendaja tegevuse üle;\n2) objektil toimunud õnnetuse või avarii põhjuste väljaselgitamine;\n3) ettekirjutuste ja otsuste tegemine;\n4) projekti kontrollimine."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "7. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "27",
+      "title": "§ 27. Riikliku järelevalve erimeetmed",
+      "content": "(1) Tehnilise Järelevalve Amet võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras.\n(2) Tehnilise Järelevalve Amet võib korrakaitseseaduse §-s 50 sätestatud korras siseneda ettevõtja tööruumidesse."
+    },
+    {
+      "provision_ref": "para27^1",
+      "chapter": "7. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "27^1",
+      "title": "§ 27^1. Riikliku järelevalve erisused",
+      "content": "(1) Korrakaitseorgan võib korrakaitseseaduse §-s 50 sätestatud korras siseneda ettevõtja tööruumidesse.\n(2) Korrakaitseorganil on õigus teha registrisse kantud isiku kohta registrist kustutamise otsus järgmistel juhtudel:\n1) ettekirjutuse korduva täitmata jätmise korral;\n2) kui isik ei vasta sellel tegevusalal tegutsemise nõuetele."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "32",
+      "title": "§ 32. Kaevandamise ja kaeveõõne teisese kasutamise ning projekti koostamise nõuete rikkumine",
+      "content": "(1) Kaevandamise või kaeveõõne teisese kasutamise nõuete rikkumise või kaevandamise või kaeveõõne teisese kasutamise projekti koostamise nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "33",
+      "title": "§ 33. Isiku nõuetele vastavuse hindamise ja tõendamise nõuete rikkumine",
+      "content": "(1) Isiku nõuetele vastavuse hindaja ja tõendaja poolt isiku nõuetele vastavuse hindamise ja tõendamise nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "34",
+      "title": "§ 34. Menetlus",
+      "content": "(1) Käesoleva seaduse §-des 31–33 sätestatud väärtegudele kohaldatakse karistusseadustiku üldosa ja väärteomenetluse seadustiku sätteid.\n(2) Käesoleva seaduse §-des 31–33 sätestatud väärtegude kohtuväline menetleja on Tehnilise Järelevalve Amet.\n(3)"
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "35",
+      "title": "§ 35. Üleminekusätted",
+      "content": "(1) Ettevõtja, kellele on enne käesoleva seaduse jõustumist mäetööde või geoloogiliste tööde teostamiseks väljastatud tegevuslitsents, mille kehtivuse tähtaeg lõpeb pärast käesoleva seaduse jõustumist, võib tegevuslitsentsil märgitud tegevusalal tegevuslitsentsi alusel tegutseda tegevuslitsentsil märgitud tähtpäevani.\n(2) Käesoleva seaduse §-s 10 nimetatud ettevõtja võib §-s 20 nimetatud registri registreeringuta tegutseda 2004. aasta 1. maini.\n(3) Enne käesoleva seaduse jõustumist tehnilise järelevalve seaduse § 15 alusel väljastatud tunnistused kehtivad nende kehtivusaja lõpuni ning vastavalt pädevuse ulatusele loetakse need võrdväärseks vastutavalt spetsialistilt nõutava pädevustunnistusega.\n(4) Kutset omistava organi või isiku nõuetele vastavuse hindaja ja tõendaja puudumise korral täidab vastutava spetsialisti pädevuse hindamisega seonduvaid ülesandeid Tehnilise Järelevalve Amet. Ameti poolt tehtavate isiku nõuetele vastavuse hindamise ja tõendamise toimingute (pädevustunnistuse väljastamine ja selle pikendamine) eest tasutakse riigilõivu."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "36",
+      "title": "§ 36.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "39",
+      "title": "§ 39.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "40",
+      "title": "§ 40. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2003. aasta 1. detsembril.\n(2) Käesoleva seaduse § 36 jõustub 2003. aasta 1. mail.\n(3) Käesolevas seaduses ministri määruse kehtestamiseks sätestatud volitusnormid jõustuvad käesoleva seaduse Riigi Teatajas avaldamise päeval. Käesoleva seaduse alusel kehtestatavad ministri määrused jõustuvad seaduse jõustumise päeval, kui määruses ei ole sätestatud hilisemat tähtpäeva."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-13203421",
+  "type": "statute",
+  "title": "Eriolukorra seadus",
+  "title_en": "Eriolukorra seadus",
+  "short_name": "EOS",
+  "status": "in_force",
+  "issued_date": "1996-01-10",
+  "in_force_date": "2009-07-24",
+  "url": "https://www.riigiteataja.ee/akt/13203421.xml",
+  "description": "Official consolidated statute text (Eriolukorra seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

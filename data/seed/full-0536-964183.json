@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-964183",
+  "type": "statute",
+  "title": "Euroopa Ülikool-Instituudi asutamise konventsiooniga ühinemise seadus",
+  "title_en": "Euroopa Ülikool-Instituudi asutamise konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-964183",
+  "status": "in_force",
+  "issued_date": "2005-11-23",
+  "in_force_date": "2005-12-03",
+  "url": "https://www.riigiteataja.ee/akt/964183.xml",
+  "description": "Official consolidated statute text (Euroopa Ülikool-Instituudi asutamise konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud Euroopa Ülikool-Instituudi asutamise konventsiooniga, mis on koostatud 1972. aasta 19. aprillil Firenzes."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Eesti esindajad Euroopa Ülikool-Instituudi juhtorganitesse nimetab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Käesolev seadus jõustub Riigi Teatajas avaldamisele järgneval päeval. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

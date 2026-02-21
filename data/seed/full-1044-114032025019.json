@@ -1,0 +1,1345 @@
+{
+  "id": "ee-law-114032025019",
+  "type": "statute",
+  "title": "Pärimisseadus",
+  "title_en": "Pärimisseadus",
+  "short_name": "PärS",
+  "status": "in_force",
+  "issued_date": "2008-01-17",
+  "in_force_date": "2025-01-01",
+  "url": "https://www.riigiteataja.ee/akt/114032025019.xml",
+  "description": "Official consolidated statute text (Pärimisseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Pärimine ja pärandaja",
+      "content": "(1) Pärimine on isiku surma korral tema vara üleminek teisele isikule.\n(2) Pärandaja on isik, kelle vara tema surma korral teisele isikule üle läheb."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Pärand",
+      "content": "Pärand on pärandaja vara. Pärandiks ei ole pärandaja õigused ja kohustused, mis seadusest tulenevalt või oma olemuselt on lahutamatult seotud pärandaja isikuga."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Pärandi avanemine",
+      "content": "(1) Pärand avaneb isiku surma korral.\n(2) Pärandi avanemise aeg on pärandaja surmapäev.\n(3) Pärandi avanemise koht on pärandaja viimane elukoht."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Pärandi üleminek pärijale",
+      "content": "(1) Pärandi avanemisel läheb pärand üle pärijale.\n(2) Pärija võib pärandist käesolevas seaduses sätestatud korras loobuda."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Pärimisvõime",
+      "content": "(1) Pärimisvõime on isiku võime pärida.\n(2) Pärimisvõimeline on iga õigusvõimeline isik.\n(3) Pärija võib olla füüsiline isik, kes pärandaja surma ajal on elus, või juriidiline isik, kes sel ajal on olemas.\n(4) Pärast pärandi avanemist elusalt sündinud laps loetakse pärandi avanemise ajal pärimisvõimeliseks, kui ta oli eostatud enne pärandi avanemist.\n(5) Sihtasutus, mis luuakse testamendi või pärimislepingu alusel, loetakse pärandi avanemise ajal olemasolevaks, kui ta hiljem omandab juriidilise isiku õigused."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Pärimiskõlbmatus",
+      "content": "(1) Pärimiskõlbmatu on isik, kes:\n1) tahtlikult ja õigusvastaselt põhjustas pärandaja surma või püüdis seda teha;\n2) tahtlikult ja õigusvastaselt asetas pärandaja olukorda, milles viimane oli kuni oma surmani võimetu tegema või tühistama viimse tahte avaldust;\n3) sunni või pettusega takistas pärandajat tegemast või muutmast viimse tahte avaldust või samal viisil sundis teda viimse tahte avaldust tegema või tühistama, kui pärandajal ei olnud võimalik oma tegelikku viimset tahet väljendada;\n4) tahtlikult ja õigusvastaselt kõrvaldas või hävitas testamendi või pärimislepingu, kui pärandajal ei olnud enam võimalik seda uuendada;\n5) võltsis pärandaja tehtud testamendi või pärimislepingu või selle osa.\n(2) Lapse seadusjärgseks pärijaks ei saa olla tema vanem, kellelt kohus on hooldusõiguse täielikult ära võtnud.\n(3) Käesoleva paragrahvi sätteid kohaldatakse ka annakusaajate ja teiste isikute suhtes, kellel on õigus saada pärandist mingit kasu."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "7",
+      "title": "§ 7. Pärimiskõlbmatuse tagajärjed",
+      "content": "Kui pärija on pärimiskõlbmatu, on pärima õigustatud see isik, kes oleks pärinud siis, kui pärimiskõlbmatu isik oleks surnud enne pärandi avanemist."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "8",
+      "title": "§ 8. Pärimiskõlbmatuks tunnistamise hagemine",
+      "content": "(1) Vaidluse korral võib kohus tunnistada isiku pärimiskõlbmatuks huvitatud isiku nõudel.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud nõude aegumistähtaeg on kuus kuud pärimiskõlbmatuse põhjustest teadasaamisest arvates, kuid mitte pikem kui kümme aastat pärandi avanemise päevast arvates.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud nõude võib esitada pärast pärandi avanemist. Järelpärija suhtes võib lõikes 1 nimetatud nõude esitada niipea, kui pärand läheb üle eelpärijale."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "9",
+      "title": "§ 9. Pärimise alused",
+      "content": "(1) Pärimise aluseks on seadus (seadusjärgne pärimine) või pärandaja viimne tahe, mis on avaldatud testamendis (pärimine testamendi järgi) või pärimislepingus (pärimine pärimislepingu järgi).\n(2) Pärimisõigust pärimislepingu järgi eelistatakse pärimisõigusele testamendi järgi, neid mõlemaid aga pärimisõigusele seaduse järgi."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - PÄRIMINE SEADUSE JÄRGI",
+      "section": "10",
+      "title": "§ 10. Seadusjärgse pärimise kohaldamine",
+      "content": "(1) Päritakse seaduse järgi, kui pärandaja ei ole jätnud kehtivat testamenti või pärimislepingut.\n(2) Kui pärandaja testament või pärimisleping käib ainult pärandi osa kohta, päritakse ülejäänud osa seaduse järgi."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - PÄRIMINE SEADUSE JÄRGI",
+      "section": "11",
+      "title": "§ 11. Seadusjärgsed pärijad",
+      "content": "(1) Seadusjärgsed pärijad on pärandaja abikaasa, registreeritud elukaaslane ja käesolevas seaduses nimetatud sugulased.\n(2) Käesoleva seaduse §-s 18 sätestatud alusel on seadusjärgne pärija kohalik omavalitsusüksus või riik."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - PÄRIMINE SEADUSE JÄRGI",
+      "section": "12",
+      "title": "§ 12. Sugulased seadusjärgsete pärijatena",
+      "content": "(1) Sugulased pärivad kolmes järjekorras.\n(2) Teise järjekorra pärijad pärivad, kui esimese järjekorra pärijaid ei ole.\n(3) Kolmanda järjekorra pärijad pärivad, kui esimese ja teise järjekorra pärijaid ei ole.\n(4) Sugulaste seadusjärgse pärimise kohta käivaid sätteid kohaldatakse, arvestades käesoleva seaduse §-s 16 sätestatud pärandaja üleelanud abikaasa või registreeritud elukaaslase õigust pärandile."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - PÄRIMINE SEADUSE JÄRGI",
+      "section": "13",
+      "title": "§ 13. Esimese järjekorra seadusjärgsed pärijad",
+      "content": "(1) Esimese järjekorra seadusjärgsed pärijad on pärandaja alanejad sugulased.\n(2) Kui pärandaja surma ajal on elus pärandaja alaneja sugulane, ei päri selle sugulase alanejad sugulased, kes on pärandajaga suguluses tema kaudu.\n(3) Enne pärandaja surma surnud alaneja sugulase asemele astuvad need alanejad sugulased, kes on pärandajaga suguluses surnud alaneja sugulase kaudu.\n(4) Kui pärandaja ja pärija surid samal päeval ning ei ole võimalik kindlaks teha, kumb neist suri varem, loetakse, et nad on surnud ühel ajal. Sel juhul ei päri nad teineteise järel ja kohaldatakse käesoleva paragrahvi lõikes 3 sätestatut.\n(5) Pärandaja lapsed pärivad võrdsetes osades. Surnud vanema asemele astunud lapsed pärivad võrdsetes osades selle osa pärandist, millele olnuks õigus nende surnud vanemal."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - PÄRIMINE SEADUSE JÄRGI",
+      "section": "14",
+      "title": "§ 14. Teise järjekorra seadusjärgsed pärijad",
+      "content": "(1) Teise järjekorra seadusjärgsed pärijad on pärandaja vanemad ja nende alanejad sugulased.\n(2) Kui pärandi avanemise ajal on pärandaja mõlemad vanemad elus, pärivad nad kogu pärandi võrdsetes osades.\n(3) Kui pärandi avanemise ajal pärandaja isa või ema ei ole elus, astuvad surnud vanema asemele tema alanejad sugulased esimese järjekorra pärijate kohta käivate sätete järgi.\n(4) Kui surnud vanemal alanejaid sugulasi ei ole, pärib kogu pärandi pärandaja teine vanem. Kui ka teine vanem on surnud, pärivad tema alanejad sugulased esimese järjekorra pärijate kohta käivate sätete järgi."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - PÄRIMINE SEADUSE JÄRGI",
+      "section": "15",
+      "title": "§ 15. Kolmanda järjekorra seadusjärgsed pärijad",
+      "content": "(1) Kolmanda järjekorra seadusjärgsed pärijad on pärandaja vanavanemad ja nende alanejad sugulased.\n(2) Kui pärandi avanemise ajal on elus kõik vanavanemad, pärivad nad kogu pärandi võrdsetes osades.\n(3) Kui pärandi avanemise ajaks on isa- või emapoolne vanavanem surnud, astuvad tema asemele tema alanejad sugulased. Kui tal neid ei ole, pärib tema osa sama poole teine vanavanem. Kui ka teine vanavanem on surnud, pärivad tema alanejad sugulased.\n(4) Kui pärandi avanemise ajaks on surnud mõlemad isa- või emapoolsed vanavanemad ning neil ei ole alanejaid sugulasi, pärivad teise poole vanavanemad või nende alanejad sugulased.\n(5) Alanejate sugulaste astumisel oma vanemate asemele kohaldatakse esimese järjekorra pärijate kohta käivaid sätteid."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - PÄRIMINE SEADUSE JÄRGI",
+      "section": "16",
+      "title": "§ 16. Abikaasa ja registreeritud elukaaslane seadusjärgse pärijana",
+      "content": "(1) Koos pärandaja sugulastega pärib pärandaja üleelanud abikaasa või registreeritud elukaaslane seaduse järgi:\n1) esimese järjekorra pärijate kõrval võrdselt pärandaja lapse osaga, kuid mitte vähem kui ühe neljandiku pärandist;\n2) teise järjekorra pärijate kõrval poole pärandist.\n(2) Kui ei ole sugulasi esimesest ega teisest järjekorrast, pärib pärandaja abikaasa või registreeritud elukaaslane kogu pärandi.\n(3) Pärandaja abikaasa või registreeritud elukaaslane võib lisaks oma pärandiosale nõuda asjaõigusseaduse §-s 227 sätestatud asjaõiguse seadmist kinnisasjale, mis oli abikaasade või registreeritud elukaaslaste ühine kodu, eeldusel, et pärandaja abikaasa või registreeritud elukaaslase elujärg pärimise tõttu halveneks.\n(4) Üleelanud abikaasal ei ole pärimisõigust ega õigust eelosale, kui pärandaja oli enne oma surma esitanud kohtule abielu lahutamise nõude või andnud abielu lahutamiseks kirjaliku nõusoleku, samuti siis, kui pärandaja oli oma surma ajal õigustatud nõudma abielu kehtetuks tunnistamist ja oli esitanud kohtule sellekohase nõude.\n(5) Üleelanud registreeritud elukaaslasel ei ole pärimisõigust ega õigust eelosale, kui pärandaja oli enne oma surma teinud kooselulepingu lõpetamiseks notariaalselt tõestatud tahteavalduse või esitanud selleks kohtule hagi, samuti siis, kui pärandaja oli oma surma ajal õigustatud nõudma kooselulepingu kehtetuks tunnistamist ja oli esitanud selleks kohtule hagi."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - PÄRIMINE SEADUSE JÄRGI",
+      "section": "17",
+      "title": "§ 17. Abikaasa ja registreeritud elukaaslase õigus eelosale",
+      "content": "(1) Kui pärandaja üleelanud abikaasa või registreeritud elukaaslane pärib koos teise järjekorra pärijatega, saab ta peale pärandiosa eelosana abikaasade või registreeritud elukaaslaste ühise kodu tavalise sisustuse esemed, kui need ei ole kinnisasja päraldised.\n(2) Eelosale kohaldatakse annaku kohta käivaid sätteid."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - PÄRIMINE SEADUSE JÄRGI",
+      "section": "18",
+      "title": "§ 18. Kohaliku omavalitsusüksuse ja riigi seadusjärgne pärimisõigus",
+      "content": "(1) Käesoleva seaduse § 11 lõikes 1 nimetatud pärijate puudumisel on seadusjärgne pärija pärandi avanemise koha kohalik omavalitsusüksus.\n(2) Kui pärand on avanenud välisriigis ja pärimisele kohaldatakse Eesti õigust, on käesoleva seaduse § 11 lõikes 1 nimetatud pärijate puudumisel seadusjärgne pärija Eesti Vabariik."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "19",
+      "title": "§ 19. Testamendi mõiste",
+      "content": "(1) Testament on ühepoolne tehing, millega pärandaja (edaspidi testaator ) teeb oma surma puhuks pärandi kohta korraldusi.\n(2) Testamendi teeb testaator isiklikult."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "20",
+      "title": "§ 20. Testamendi liigid",
+      "content": "(1) Testament võib olla notariaalne või kodune.\n(2) Notariaalne testament võib olla notariaalselt tõestatud või notari hoiule antud testament.\n(3) Kodune testament võib olla tunnistajate juuresolekul alla kirjutatud või omakäeliselt kirjutatud testament."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "21",
+      "title": "§ 21. Notariaalselt tõestatud testament",
+      "content": "(1) Notar tõestab testamendi, mille ta on koostanud testaatori tahteavalduse kohaselt või mille on talle tõestamiseks esitanud testaator.\n(2) Testamendile kirjutab testaator alla notari juuresolekul."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "22",
+      "title": "§ 22. Notari hoiule antud testament",
+      "content": "(1) Testaator võib teha notariaalse testamendi sel teel, et annab isiklikult oma viimse tahte avalduse kinnises ümbrikus notari hoiule ning kinnitab notarile, et see on tema testament. Notar koostab testamendi hoiule andmise kohta notariaalakti, millele kirjutavad alla testaator ja notar.\n(2) Testaator võib notari hoiule antud testamendi igal ajal tagasi võtta. Tagasivõtmise kohta koostab notar notariaalakti, millele kirjutavad alla testaator ja notar."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "23",
+      "title": "§ 23. Tunnistajate juuresolekul allakirjutatud testament",
+      "content": "(1) Testaator võib teha koduse testamendi, millele ta kirjutab alla vähemalt kahe teovõimelise tunnistaja juuresolekul ning milles märgib ära testamendi tegemise kuupäeva ja aasta. Tunnistajad peavad olema testamendi allakirjutamise juures üheaegselt.\n(2) Tunnistajatele peab testaator teatama, et nad on kutsutud tunnistajateks testamendi tegemise juurde ning et testament sisaldab tema viimset tahet. Ei ole nõutav, et tunnistajad teaksid testamendi sisu.\n(3) Kohe pärast seda, kui testaator on testamendile alla kirjutanud, kirjutavad sellele alla tunnistajad. Tunnistajad kinnitavad oma allkirjaga, et testaator on testamendile ise alla kirjutanud ja et nende arusaamise kohaselt on testaator teo- ja otsustusvõimeline.\n(4) Tunnistajaks ei või olla isik, kelle enda või kelle üleneja või alaneja sugulase, venna või õe või nende alaneja sugulase, abikaasa või registreeritud elukaaslase või abikaasa või registreeritud elukaaslase üleneja või alaneja sugulase kasuks testament tehakse.\n(5) Kui testamendi tegemisel on rikutud käesoleva paragrahvi lõikes 4 sätestatud keeldu, on testamendis tühised ainult need korraldused, mis on tehtud keeldu rikkudes."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "24",
+      "title": "§ 24. Omakäeliselt kirjutatud testament",
+      "content": "(1) Testaator võib teha koduse testamendi, kirjutades selle algusest lõpuni oma käega ja märkides ära testamendi tegemise kuupäeva ja aasta. Omakäeliselt kirjutatud testamendile kirjutab testaator ise alla.\n(2) Kui omakäeliselt kirjutatud testament on esitatud notarile ja notar on selle kohta tõestamisseaduse alusel notariaalakti koostanud, kehtib see notariaalselt tõestatud testamendina.\n(3) Kui omakäeliselt kirjutatud testamendile on alla kirjutanud ka tunnistajad, kehtib see omakäeliselt kirjutatud testamendina ning selle suhtes ei kohaldata käesoleva seaduse § 23 lõigetes 4 ja 5 sätestatut."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "25",
+      "title": "§ 25. Koduse testamendi kehtivuse aeg",
+      "content": "(1) Kodune testament kaotab kehtivuse, kui selle tegemise päevast on möödunud kuus kuud ja testaator sel ajal elab.\n(2) Kui koduses testamendis ei ole märgitud selle tegemise kuupäeva ega aastat ning ka muul viisil ei ole võimalik tuvastada testamendi tegemise aega, on testament tühine."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "26",
+      "title": "§ 26. Koduse testamendi hoidmine",
+      "content": "(1) Testaator võib kodust testamenti hoida ise või anda selle hoidmiseks teisele isikule.\n(2) Saanud teada testaatori surmast, on isik, kellele testaator on testamendi hoiule andnud või kelle valduses on testament muul alusel, kohustatud testamendi viivitamata esitama notarile. Notar väljastab koduse testamendi esitajale testamendi hoiule võtmise kohta dokumendi, millele kirjutavad alla testamendi esitaja ja notar.\n(3) Kui käesoleva paragrahvi lõikes 2 nimetatud isik on süüliselt testamendi kõrvaldanud või seda varjanud, on pärandist huvitatud isikul õigus nõuda süüdlaselt pärandi selle osa hüvitamist, mis tal jäi teistelt pärijatelt saamata."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "27",
+      "title": "§ 27. Testeerimisiga",
+      "content": "Vähemalt 15 aasta vanune alaealine võib teha testamendi notariaalselt tõestatud vormis. Alaealine ei vaja testamendi tegemiseks oma seadusliku esindaja nõusolekut."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "28",
+      "title": "§ 28. Testamendi tõlgendamine",
+      "content": "Testamendi tõlgendamisel lähtutakse testaatori tegelikust tahtest."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "29",
+      "title": "§ 29. Isikute ja asjade nimetamine testamendis",
+      "content": "(1) Isikute ja asjade nimetamisel testamendis piisab seesugusest nimetamisest või kirjeldamisest, mis ei jäta testaatori tahtes kahtlust.\n(2) Kui testaatori tahtes kahtlust ei ole, ei mõjuta testamendi kehtivust eksimus asjade või isikute nimetamises või kirjeldamises ega see, et isiku või asja testamendis nimetatud omadus või tunnus on hiljem kadunud."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "30",
+      "title": "§ 30. Testament teatud isikute ringi kasuks",
+      "content": "Kui testaator on testamendis teinud korralduse teatud isikute ringi kasuks isikuid täpselt määramata, eeldatakse, et korraldus on tehtud kõigi nende kasuks, kes pärandi avanemise ajal kuulusid testamendis näidatud isikute ringi, kui testamendist ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "31",
+      "title": "§ 31. Testament alaneja sugulase kasuks, kes pärast testamendi tegemist sureb",
+      "content": "Kui testaator on testamendis teinud korralduse alaneja sugulase kasuks, kes pärast testamendi tegemist, kuid enne pärandi avanemist sureb, jättes järele alanejad sugulased, eeldatakse, et korraldus on tehtud ka alanejate sugulaste kasuks selle pärandiosa ulatuses, mille nad saaksid surnud alaneja sugulase asemele astumise korral seadusjärgselt pärides, kui testamendist ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "32",
+      "title": "§ 32. Abikaasa või registreeritud elukaaslase kasuks tehtud testamendi kehtetuse eeldused",
+      "content": "(1) Testament või selle osa, mille pärandaja on teinud oma abikaasa või registreeritud elukaaslase kasuks, on tühine, kui:\n1) abielu on lõppenud enne pärandaja surma;\n1^1) kooseluleping on lõpetatud enne pärandaja surma;\n2) pärandaja oli enne oma surma esitanud kohtule abielu lahutamise nõude või andnud abielu lahutamiseks oma kirjaliku nõusoleku;\n2^1) pärandaja oli enne oma surma teinud kooselulepingu lõpetamiseks notariaalselt tõestatud tahteavalduse või esitanud selleks kohtule hagi;\n3) pärandaja oli oma surma ajal õigustatud nõudma abielu kehtetuks tunnistamist ja oli esitanud kohtule sellekohase nõude;\n4) pärandaja oli oma surma ajal õigustatud nõudma kooselulepingu kehtetuks tunnistamist ja oli esitanud selleks kohtule hagi.\n(2) Testament ei ole tühine juhul, kui saab eeldada, et pärandaja oleks selle teinud ka käesoleva paragrahvi lõikes 1 nimetatud juhul."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "33",
+      "title": "§ 33. Korraldus kasutada pärandit heategevuseks",
+      "content": "Kui testaator on testamendis teinud korralduse kasutada pärandit või selle osa heategevuseks, täpsustamata korraldust, eeldatakse, et korraldus on tehtud testaatori viimase elukoha kohaliku omavalitsusüksuse kasuks kohustusega kasutada pärandit või selle osa heategevuseks."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "34",
+      "title": "§ 34. Isiku kirjeldamine testamendis",
+      "content": "Kui testaator on testamendis teinud korralduse isiku kasuks, keda ta on kirjeldanud mitme isiku kohta käival viisil, ning ei ole selge, keda on silmas peetud, eeldatakse, et korraldus on tehtud kõigi nende isikute kasuks võrdsetes osades."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "35",
+      "title": "§ 35. Tingimusega korraldus",
+      "content": "(1) Testaator võib testamendis pärija nimetada või annaku määrata edasilükkava tingimusega või tähtaja määramisega.\n(2) Testaator võib testamendis teha ka muid edasilükkava või äramuutva tingimusega või määratud tähtajaga korraldusi."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "36",
+      "title": "§ 36. Tingimus annakut saavale pärijale",
+      "content": "(1) Kui pärija on nimetatud tingimusega (§ 35 lõige 1) ning pärijale on testamendis määratud ka annak, kehtib tingimus ka annaku kohta, kui testamendist ei tulene teisiti.\n(2) Kui annak on pärijale määratud tingimusega (§ 35 lõige 1), ei sõltu annakusaaja pärijaks olek sellest tingimusest, kui testamendist ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "37",
+      "title": "§ 37. Edasilükkava tingimusega korraldus",
+      "content": "Kui testaator on testamendis teinud edasilükkava tingimusega korralduse, kehtib korraldus ainult siis, kui isik, kelle kasuks korraldus on tehtud, on tingimuse saabumisel elus, kui testamendist ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "38",
+      "title": "§ 38. Täiendav korraldus",
+      "content": "Kui testaator on testamendis väljendanud tahet teha edaspidi täiendavaid korraldusi, kuid ei ole neid teinud, on testament kehtiv, kui testaator ei ole testamendi kehtivust teinud sõltuvaks nendest korraldustest."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "39",
+      "title": "§ 39. Pärija nimetamine",
+      "content": "(1) Testamendijärgne pärija on isik, kellele testaator on testamendiga pärandanud kogu oma vara või mõttelise osa (murdosa) sellest.\n(2) Kui testament käib pärandi osa kohta, päritakse pärandi ülejäänud osa seaduse järgi, kui selle osa kohta ei ole sõlmitud pärimislepingut.\n(3) Kui testaator on testamendis nimetanud oma ainukesed pärijad, kuid neile jäetud pärandiosad kokku ei moodusta kogu pärandit, suurendatakse igaühe pärandiosa võrdeliselt testamendis määratud osa suurusega.\n(4) Kui testamendis nimetatud pärijatele jäetud pärandiosad kokku on suuremad kogu pärandist, vähendatakse igaühe pärandiosa võrdeliselt testamendis määratud osa suurusega."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "40",
+      "title": "§ 40. Pärijate nimetamine pärandiosi määramata",
+      "content": "(1) Kui testamendis nimetatud pärijate pärandiosad on määramata, loetakse nende pärandiosad võrdseks.\n(2) Kui testamendis on nimetatud mitu pärijat, kellest mõne pärandiosa on määratud, pärivad need pärijad, kelle osa on määramata, pärandiosadega hõlmamata osa pärandist võrdsetes osades.\n(3) Kui käesoleva paragrahvi lõikes 2 nimetatud pärandiosad kokku moodustavad terviku või ületavad selle, vähendatakse võrdeliselt kõiki pärandiosi sel määral, et pärija, kelle osa ei ole määratud, saaks pärandist sama suure osa kui pärija, kes saab kõige väiksema osa.\n(4) Kui testamendis on nimetatud pärijateks sugulased nende isikuid ja pärandiosi määramata, toimub pärimine samas korras nagu seadusjärgne pärimine."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "41",
+      "title": "§ 41. Ühe pärandiosa pärijad",
+      "content": "Kui pärijate hulgast mõned on nimetatud ühe ja sama pärandiosa saajaks, kohaldatakse selle ühise pärandiosa suhtes pärandi kui terviku kohta käivaid sätteid."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "42",
+      "title": "§ 42. Asepärija nimetamine",
+      "content": "(1) Testaator võib nimetada pärija asemele ühe või mitu asepärijat juhuks, kui pärijaks nimetatud isik sureb enne pärandi avanemist, loobub pärandist või on pärimiskõlbmatu.\n(2) Kui testamendist ei nähtu, milliseks käesoleva paragrahvi lõikes 1 nimetatud juhuks on asepärija nimetatud, loetakse, et asepärija on nimetatud kõikideks nendeks juhtudeks.\n(3) Asepärijaid nimetades võib testaator määrata, millises järjekorras asepärijad pärijaks saavad."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "43",
+      "title": "§ 43. Asepärija pärijaks saamine",
+      "content": "(1) Asepärija saab pärijaks, kui saabub tingimus, mille puhuks ta oli nimetatud (§ 42).\n(2) Teine ja järgnevad asepärijad ei kaota õigust pärida, kui neile eelnev asepärija sureb enne pärijat või järjekorras eelnevat asepärijat."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "44",
+      "title": "§ 44. Järelpärija asepärijana",
+      "content": "(1) Järelpärijat loetakse ka asepärijaks, kui testamendist ei tulene teisiti.\n(2) Kui testamendist ei nähtu, kas isik on nimetatud asepärijaks või järelpärijaks, loetakse ta asepärijaks."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "45",
+      "title": "§ 45. Järelpärija nimetamine",
+      "content": "(1) Testaator võib testamendis määrata, et teatava tähtpäeva või edasilükkava tingimuse saabumise korral läheb kogu pärand või osa sellest üle pärijalt järelpärijale. Pärija, kellele on nimetatud järelpärija, on eelpärija.\n(2) Järelpärijale ei või määrata järelpärijat.\n(3) Kui järelpärija on nimetatud edasilükkava tingimusega ja see tingimus ei ole saabunud 20 aasta jooksul pärandi avanemisest alates, muutub järelpärija nimetamine kehtetuks.\n(4) Kui testaator on määranud, et pärijaks nimetatud isik saab pärandi kätte teatava tähtpäeva või edasilükkava tingimuse saabumisel, kuid ei ole määranud eelpärijat, on eelpärijateks pärandaja seadusjärgsed pärijad.\n(5) Kui testaator on nimetanud pärijaks füüsilise isiku, kes eostatakse ja sünnib pärast pärandi avanemist, või juriidilise isiku, mis luuakse pärast pärandi avanemist, loetakse ta järelpärijaks, kui testamendist ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "46",
+      "title": "§ 46. Järelpärija nimetamine tähtpäeva ja tingimust määramata",
+      "content": "(1) Kui testaator on järelpärija nimetanud tähtpäeva või edasilükkavat tingimust määramata, pärib järelpärija eelpärija surma korral.\n(2) Kui järelpärijaks on nimetatud isik, kes pärandi avanemise ajaks ei ole veel sündinud, saab ta sündimise korral järelpärijaks. Kui järelpärijaks on nimetatud pärandi avanemise ajaks veel asutamata juriidiline isik, saab see asutamise korral järelpärijaks."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "47",
+      "title": "§ 47. Järelpärija surm",
+      "content": "Kui järelpärija sureb pärast pärandi avanemist, kuid enne järelpärimise tähtpäeva saabumist, läheb tema pärimisõigus üle tema pärijatele, kui testamendist ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "48",
+      "title": "§ 48. Eelpärija käsutusõigus",
+      "content": "(1) Eelpärija võib käsutada pärandvara hulka kuuluvaid esemeid, kui käesolevast seadusest ei tulene teisiti.\n(2) Pärandvara hulka kuuluva eseme tasuta käsutustehing või pärandvara hulka kuuluva kinnisasja või kinnisasjaõiguse käsutustehing, mille on teinud eelpärija, on järelpärimise tingimuse või tähtpäeva saabumisel tühine, kui tehing välistab või piirab järelpärija õigusi.\n(3) Pärandvara hulka kuuluva eseme käsutustehing, mis on tehtud sundtäitmise käigus või pankrotihalduri poolt, on järelpärimise tingimuse või tähtpäeva saabumisel tühine. Käsutustehing on kehtiv, kui võlausaldaja võib järelpärimise tingimuse saabumisel nõuda kohustuse täitmist pärandvara arvel ka järelpärijalt."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "49",
+      "title": "§ 49. Kulutuste hüvitamine eelpärijale",
+      "content": "(1) Eelpärija kannab pärandvara säilitamiseks ja selle tavaliseks korrashoiuks vajalikud kulutused.\n(2) Muude kui käesoleva paragrahvi lõikes 1 sätestatud pärandvara suhtes tehtud kulutuste hüvitamist saab eelpärija järelpärijalt nõuda vastavalt alusetu rikastumise sätetele.\n(3) Eelpärijal on õigus tema tehtud kulutustega loodu pärandvarast eemaldada eeldusel, et ta taastab pärandvara endise seisundi. Selline õigus on välistatud, kui eemaldamisest ei ole eelpärijale kasu või kui talle hüvitatakse vähemalt see väärtus, mis oleks kulutustega loodul tema jaoks pärast eemaldamist."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "50",
+      "title": "§ 50. Pärandvara nimekiri",
+      "content": "(1) Eelpärija peab järelpärija nõudmisel andma talle pärandvara nimekirja, millele eelpärija on alla kirjutanud.\n(2) Järelpärija võib nõuda, et teda kutsutakse pärandvara nimekirja koostamise juurde.\n(3) Pärandvara nimekirja koostamise kulud hüvitatakse pärandi arvel."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "51",
+      "title": "§ 51. Järelpärija õiguste tagamine",
+      "content": "(1) Kui eelpärija tegevuse või tema varalise seisundi tõttu tekib järelpärijal põhjendatud kahtlus, et tema õigusi võidakse oluliselt rikkuda, võib ta nõuda, et eelpärija tema õigused tagaks.\n(2) Kui eelpärija ei ole mõistliku tähtaja jooksul järelpärija õigusi taganud, võib järelpärija taotleda käesoleva seaduse §-s 112 nimetatud pärandi hooldaja määramist järelpärija õiguste kaitseks kuni järelpärimise tähtpäeva või tingimuse saabumiseni.\n(3) Kui eelpärija annab piisava tagatise, võib ta nõuda pärandvara valitsemise lõpetamist."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "52",
+      "title": "§ 52. Järelpärijale üleminev pärand",
+      "content": "(1) Kui pärimisõigus läheb üle järelpärijale, on eelpärija kohustatud pärandvara üle andma. Pärandvara peab üle andma sellises seisukorras, nagu see peaks olema üleandmiseni kestnud heaperemeheliku valitsemise korral.\n(2) Järelpärijale ülemineva pärandi hulka kuulub vara, mille eelpärija on omandanud pärandisse kuuluva õiguse alusel või pärandi arvel või hüvitisena pärandvara hulka kuuluva eseme hävimise, kahjustamise või äravõtmise eest.\n(3) Järelpärimise õiguse tekkimiseni pärandist saadud kasu kuulub eelpärijale.\n(4) Eelpärija peab järelpärija nõudel esitama talle pärandi valitsemise aruande."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "53",
+      "title": "§ 53. Eelpärija vastutus pärandvara väärtuse vähenemise eest",
+      "content": "(1) Eelpärija ei vastuta järelpärija ees pärandvara väärtuse vähenemise eest, kui ta on vara heaperemehelikult valitsenud. Eelpärija ei vastuta järelpärija ees ka siis, kui ta on pärandvara ära tarvitanud oma oludele vastava tavalise tarbimise piires.\n(2) Eelpärija peab pärandvara valitsemisel ilmutama niisugust hoolt, nagu ta rakendab oma asjades."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "54",
+      "title": "§ 54. Eelpärija vabastamine kitsendustest ja kohustustest",
+      "content": "Kui testaator on testamendis määranud, et järelpärijale läheb pärandist üle üksnes see, mis järelpärimise õiguse tekkimise ajaks on pärandist järele jäänud, või kui testamendis on ette nähtud eelpärija õigus pärandit vabalt käsutada, loetakse eelpärija seaduses sätestatud kitsendustest ja kohustustest vabastatuks."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "55",
+      "title": "§ 55. Õigussuhted järelpärimisel",
+      "content": "(1) Järelpärimise õiguse tekkimisest alates ei ole eelpärija enam pärija ja pärand läheb üle järelpärijale.\n(2) Järelpärimise tähtpäeva või tingimuse saabumisel kohaldatakse käesoleva seaduse § 110–146. Käesoleva seaduse §-s 119 nimetatud tähtaeg hakkab kulgema alates järelpärimise tähtpäevast või hetkest, kui järelpärija saab järelpärimise tingimuse saabumisest teada või peab sellest teada saama.\n(3) Kui järelpärija loobub pärandist või on pärimiskõlbmatu, jääb pärand eelpärijale, kui testamendist ei tulene teisiti.\n(4) Pärast järelpärimise tähtpäeva või tingimuse saabumist eelpärija tehtud pärandvara hulka kuuluva eseme käsutustehing on tühine. Käsutustehing on kehtiv, kui eelpärija ei teadnud järelpärimise tingimuse saabumisest ega pidanudki sellest teadma. Käsutustehing on tühine, kui kolmas isik teadis tehingu tegemisel järelpärimise tingimuse saabumisest või pidi sellest teadma.\n(5) Järelpärimise tähtpäeva või tingimuse saabumisel taastuvad pärandi avanemisel võlgniku ja võlausaldaja kokkulangemise tõttu lõppenud võlasuhted."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "56",
+      "title": "§ 56. Annaku mõiste",
+      "content": "(1) Kui testaator ei ole määranud isikule kogu oma vara ega selle mõttelist osa, vaid üksnes teatud varalise hüve, pidamata hüve saajat oma õigusjärglaseks, loetakse hüve annakuks ja hüve saaja annakusaajaks. Annaku määramise korraldus annab annakusaajale õiguse nõuda annakutäitjalt annakuks määratud eseme üleandmist.\n(2) Annakuks võib olla asi, rahasumma, õigus, nõue, kohustusest vabastamine või muu üleantav hüve."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "57",
+      "title": "§ 57. Annakutäitja",
+      "content": "(1) Testaator võib annaku täitmise teha kohustuseks pärijale või teisele annakusaajale (edaspidi kumbki annakutäitja ). Kui testaator ei ole annakutäitjat määranud, on annakutäitjaks pärija.\n(2) Kui annakutäitja on surnud, pärandist või annakust loobunud või pärimiskõlbmatu, läheb annaku täitmise kohustus üle isikule, kellele läheb üle see osa pärandist, mis oleks kuulunud väljalangenud annakutäitjale."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "58",
+      "title": "§ 58. Annaku täitmise ulatus",
+      "content": "(1) Annakutäitja on kohustatud annakut täitma pärandist saadud vara ulatuses.\n(2) Kui pärandist kõigi annakute täitmiseks ei piisa, vähendatakse annakuid võrdeliselt nende suurusega."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "59",
+      "title": "§ 59. Annakuosade määramine teise isiku poolt",
+      "content": "(1) Kui testaator määrab annaku mitmele isikule, võib ta jätta iga annakusaaja osa suuruse määramise annaku- või testamenditäitja või muu isiku otsustada.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud isik ei ole osade suurust määranud mõistliku aja jooksul pärast annaku täitmise nõude tekkimist ja keeldub seda tegemast, saavad annakusaajad annaku võrdsetes osades."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "60",
+      "title": "§ 60. Aseannakusaaja määramine",
+      "content": "Testaator võib määrata aseannakusaaja. Aseannakusaaja suhtes kohaldatakse asepärija kohta käivaid sätteid."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "61",
+      "title": "§ 61. Annaku määramine pärijale",
+      "content": "(1) Testaator võib lisaks pärandiosale määrata pärijale ka annaku.\n(2) Annakusaajast pärijal on iseenda ja annaku teiste saajate vastu samad kohustused kui teistel pärijatel, kui testamendist või pärimislepingust ei tulene teisiti.\n(3) Pärijast annakusaajal on õigus annakule ka siis, kui ta on pärandist loobunud.\n(4) Kui annak on määratud mitmele pärijale ühiselt, on neil sellele õigus võrdeliselt nende pärandiosade suurusega, kui testamendist või pärimislepingust ei tulene teisiti.\n(5) Kui annakusaajast pärijale on määratud asepärija, läheb õigus annakule üle asepärijale vaid juhul, kui see tuleneb testamendist või pärimislepingust."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "62",
+      "title": "§ 62. Annaku täitmise nõude tekkimine",
+      "content": "(1) Annaku täitmise nõue tekib pärandi avanemisel. Kui annakusaaja sureb enne pärandi avanemist ja aseannakusaajat ei ole määratud, on annak kehtetu.\n(2) Kui annak on määratud edasilükkava tingimusega või tähtpäevaga, tekib annaku täitmise nõue edasilükkava tingimuse või tähtpäeva saabumisel. Kui annakusaaja sureb enne edasilükkava tingimuse või tähtpäeva saabumist ja aseannakusaajat ei ole määratud, on annak kehtetu, välja arvatud käesoleva seaduse §-s 31 sätestatud juhul."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "63",
+      "title": "§ 63. Edasilükkava tingimusega ja tähtpäevaga määratud annak",
+      "content": "(1) Kui annak on määratud edasilükkava tingimusega või tähtpäevaga ja tingimus või tähtpäev on saabunud enne pärandi avanemist, loetakse annak määratuks tingimuse või tähtpäevata.\n(2) Kui annak on määratud edasilükkava tingimusega, kuid tingimus ei ole saabunud 20 aasta jooksul pärandi avanemisest arvates, on annak kehtetu.\n(3) Kui annaku täitmise aeg on jäetud annakutäitja määrata, kuid annakutäitja ei ole seda teinud, tekib annaku täitmise nõue annakutäitja surma päevast.\n(4) Kui annakuks on määratud kindel rahasumma või kindel hulk asendatavaid asju, kuid testaator on lubanud annakutäitjal need annakusaajale anda ositi teatud tähtpäevadel ja annakusaaja on surnud pärast pärandi avanemist, ei mõjuta annakusaaja surm annaku täitmise nõude kehtivust."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "64",
+      "title": "§ 64. Annaku vastuvõtmine ja annakust loobumine",
+      "content": "(1) Annakusaajal on õigus annak vastu võtta või annakust loobuda.\n(2) Annaku vastuvõtmise ja sellest loobumise suhtes kohaldatakse pärandi vastuvõtmise ja pärandist loobumise kohta käivaid sätteid, kui käesolevast seadusest ei tulene teisiti.\n(3) Kui annakusaaja annakust loobub, lõpeb annaku täitmise nõue, kui testamendist või pärimislepingust ei tulene teisiti.\n(4) Annakust loobumist ei loeta pärandist loobumiseks."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "65",
+      "title": "§ 65. Annaku osalise vastuvõtmise keeld",
+      "content": "(1) Annakusaajal ei ole õigust võtta talle määratud annakust vastu vaid osa või annaku osast loobuda.\n(2) Kui annakusaajale on määratud mitu annakut, võib ta loobuda kõigist annakutest või üksnes mõnest."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "66",
+      "title": "§ 66. Annakusaaja annaku täitmisest keeldumise õigus",
+      "content": "Annakusaajalt ei või annaku või sihtkäsundi täitmist nõuda enne, kui annakusaajal on õigus nõuda talle määratud annaku täitmist."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "67",
+      "title": "§ 67. Annaku täitmine",
+      "content": "(1) Kui annakuks on määratud pärandi hulka kuuluv ese, tuleb see annakusaajale anda koos annaku täitmise nõude tekkimise hetkest alates saadud kasuga.\n(2) Kui annakuks on määratud õigus, tuleb annakusaajale anda ka selle õiguse alusel saadu.\n(3) Kui annakuks on määratud asi, tuleb annakusaajale anda ka pärandi avanemise ajal olemasolevad asja päraldised.\n(4) Kui annakuks määratud ese ei kuulu pärandi avanemise ajal pärandi hulka, on annak kehtetu, välja arvatud juhul, kui testamendist või pärimislepingust tuleneb annakutäitja kohustus annakuks määratud ese muretseda.\n(5) Kui annakuks on määratud rahasumma, loetakse raha annakusaajale määratuks ka siis, kui raha pärandvara hulgas ei ole."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "68",
+      "title": "§ 68. Liigitunnusega ese annakuna",
+      "content": "(1) Kui testaator on kirjeldanud üksnes annakuks määratud eseme liigitunnuseid ja selliseid esemeid on pärandis mitu, valib eseme annakusaaja, kui testamendist või pärimislepingust ei tulene teisiti.\n(2) Kui testaator on annakut määrates kirjeldanud vaid eseme liigitunnuseid ja seda eset pärandi hulgas ei ole, peab annakutäitja andma annakusaajale pärandi arvel muretsetud samasuguste liigitunnustega eseme, kui testamendist või pärimislepingust ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "69",
+      "title": "§ 69. Nõue annakuna",
+      "content": "(1) Kui testaator on annakuks määranud temale kuuluva nõude, kuid enne pärandi avanemist on see nõue täidetud ning täitmisel saadu on pärandvara hulgas, loetakse see annakusaajale määratuks, kui testamendist või pärimislepingust ei tulene teisiti.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud nõue oli rahaline, loetakse raha annakusaajale määratuks ka siis, kui raha pärandvara hulgas ei ole, kui käesolevast seadusest ei tulene teisiti.\n(3) Kui testaator on määranud annakuks talle pärija vastu kuuluva nõude või õiguse, millega on koormatud pärija asi või õigus, ei loeta pärandi avanemisel võlgniku ja võlausaldaja kokkulangemise tõttu lõppenud võlasuhteid annakusaaja suhtes lõppenuks."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "70",
+      "title": "§ 70. Elatis annakuna",
+      "content": "(1) Kui annakuks on määramata suurusega elatis, lepivad selle suuruses kokku annakusaaja ja annakutäitja ning vaidluse korral otsustab selle kohus.\n(2) Kui annakuks on elatis alaealisele isikule, loetakse see määratuks isiku täisealiseks saamiseni, kui testamendist või pärimislepingust ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "71",
+      "title": "§ 71. Annakuks määratud eset koormavad õigused",
+      "content": "(1) Kui annakuks on pärandvara hulka kuuluv ese, ei või annakusaaja nõuda eset koormavate õiguste kõrvaldamist, kui testamendist või pärimislepingust ei tulene teisiti.\n(2) Testaatori õigus nõuda eset koormavate õiguste kõrvaldamist kuulub annaku hulka, kui testamendist või pärimislepingust ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "72",
+      "title": "§ 72. Annakutäitja vastutus",
+      "content": "Kui annakuks määratud ese on hävinud või selle väärtus on vähenenud annakutäitja süül, on annakusaajal õigus nõuda temalt kahju hüvitamist."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "73",
+      "title": "§ 73. Sihtkäsundi mõiste",
+      "content": "(1) Sihtkäsund on testaatori korraldus, millega ta testamendis või pärimislepingus paneb pärijale või annakusaajale (edaspidi kumbki sihtkäsunditäitja ) kohustuse, ilma et kellelgi tekiks sellele kohustusele vastavat õigust.\n(2) Kui testamendist ei selgu, kas testaator on teinud tingimusega korralduse (§ 35) või sihtkäsundi, loetakse, et tehtud on sihtkäsund."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "74",
+      "title": "§ 74. Sihtkäsundi täitmise nõudmine",
+      "content": "Sihtkäsundi täitmist võib nõuda:\n1) pärija;\n2) isik, kellele läheks üle sihtkäsunditäitjale määratud osa pärandist, kui sihtkäsunditäitja oleks surnud enne pärandi avanemist;\n3) testamenditäitja;\n4) kohalik omavalitsusüksus, kui sihtkäsundi täitmine on avalikes huvides."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "75",
+      "title": "§ 75. Sihtkäsundi täitmata jätmine",
+      "content": "Kui sihtkäsunditäitja rikub süüliselt sihtkäsundist tulenevat kohustust ja kohustuse täitmine ei ole enam võimalik, on ta kohustatud pärandi selle osa, mis oleks tulnud ära kulutada sihtkäsundi täitmiseks, andma teistele kaaspärijatele, nende puudumisel isikule, kellele läheks üle pärandist sihtkäsunditäitjale kuulunud osa, kui sihtkäsunditäitja oleks surnud enne pärandi avanemist."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "76",
+      "title": "§ 76. Sihtmäärangu mõiste",
+      "content": "(1) Sihtmäärang on testaatori korraldus, millega ta testamendis või pärimislepingus kohustab pärijat või annakusaajat kasutama pärandvara või annakut kindlal sihtotstarbel.\n(2) Testaator võib määrata sihtmäärangu täitmiseks isiku (sihtmäärangutäitja), kellel on sihtmäärangu täitmiseks määratud vara suhtes testamenditäitja õigused ja kohustused."
+    },
+    {
+      "provision_ref": "para77",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "77",
+      "title": "§ 77. Sihtmäärangu täitmata jätmine",
+      "content": "Kui sihtmäärangut ei täideta, võib kohus huvitatud isiku avalduse alusel määrata selle täitmiseks hooldaja, kellel on sihtmäärangu täitmiseks määratud vara suhtes testamenditäitja õigused ja kohustused."
+    },
+    {
+      "provision_ref": "para78",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "78",
+      "title": "§ 78. Testamenditäitja määramine",
+      "content": "(1) Testaator võib testamendis määrata selle täitjaks ühe või mitu isikut. Testaator võib määrata asetestamenditäitja.\n(2) Testamenditäitja võib olla üksnes teovõimeline isik."
+    },
+    {
+      "provision_ref": "para79",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "79",
+      "title": "§ 79. Pärija käsutusõiguse piirang",
+      "content": "Pärijal ei ole õigust käsutada pärandvara hulka kuuluvaid esemeid, mida testamenditäitja vajab oma kohustuste täitmiseks."
+    },
+    {
+      "provision_ref": "para80",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "80",
+      "title": "§ 80. Testamenditäitja ülesande vastuvõtmine",
+      "content": "(1) Testamenditäitja kohustuste täitmist ei või isikult nõuda enne, kui ta on testamenditäitja ülesande vastu võtnud. Keegi ei ole kohustatud vastu võtma testamenditäitja ülesannet. Kui isik on testamenditäitja ülesande vastu võtnud, ei või ta sellest mõjuva põhjuseta loobuda.\n(2) Kui testaator on testamenditäitjaks nimetanud pärija või annakusaaja ja see isik on pärandi või annaku vastu võtnud, ei või ta testamenditäitja ülesande täitmisest keelduda, kui testamendis ei ole määratud teisiti.\n(3) Testamenditäitja ülesande vastuvõtmiseks ja sellest loobumiseks tuleb teha notarile avaldus, mille notar tõestab. Notar võib määrata testamenditäitja ülesande vastuvõtmiseks või sellest loobumiseks mõistliku tähtaja, mis ei või olla pikem kui üks kuu. Kui isik ei ole notari poolt määratud tähtaja jooksul avaldust esitanud, loetakse, et ta on testamenditäitja ülesandest loobunud.\n(4) Kui isik testamenditäitja ülesandest või selle vastuvõtmisest loobub või kui testaator on testamendis jätnud testamenditäitja isiku kindlaks määramata, kuid testamendist nähtub tema tahe testamenditäitja määramise kohta, määrab notar testamenditäitjaks advokaadi või muu isiku, kes nõustub testamenditäitja ülesandeid täitma. Testamenditäitjat määrates kuulab notar ära pärijate ja annakusaajate arvamuse. Advokaadil ei ole õigust kaaluka põhjuseta testamenditäitja ülesande vastuvõtmisest keelduda."
+    },
+    {
+      "provision_ref": "para81",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "81",
+      "title": "§ 81. Testamenditäitja õigused ja kohustused",
+      "content": "(1) Testamenditäitja täidab seadusest tulenevaid ülesandeid, kui testamendist ei tulene teisiti.\n(2) Testamenditäitja võib testamendis antud ülesannetest huvitatud isikute nõusolekul kõrvale kalduda, kui see on testaatori viimse tahte täitmise huvides. Kui huvitatud isikud ülesannetest kõrvalekaldumisega ei nõustu, lahendab vaidluse testamenditäitja nõudel kohus.\n(3) Kuni pärandi vastuvõtmiseni pärija poolt on testamenditäitja kohustatud täitma käesoleva seaduse § 112 lõikes 3 nimetatud pärandi hooldaja kohustusi või taotlema pärandvara valitsemist.\n(4) Testamenditäitja on kohustatud täitma annakud, sihtkäsundid, sihtmäärangud ja muud testamendist või pärimislepingust tulenevad kohustused.\n(5) Testamenditäitja on kohustatud oma ülesannete täitmiseks vajalikku pärandvara heaperemehelikult valitsema ja tagama selle säilimise.\n(6) Testamenditäitja on kohustatud võtma pärandvara hulka kuuluva eseme oma valdusesse või tagama muul viisil selle eraldamise pärija varast, kui see on testamenditäitja ülesannete täitmiseks vajalik.\n(7) Testamenditäitjal on õigus võtta pärandi suhtes kohustusi ja käsutada pärandvara hulka kuuluvaid esemeid, kui see on testamenditäitja ülesannete täitmiseks vajalik.\n(8) Kui pärandaja on teinud korraldusi pärandvara jagamise kohta, on testamenditäitja kohustatud pärandvara pärijate vahel käesoleva seaduse §-de 152–161 kohaselt jagama.\n(9) Testamenditäitja ülesannete täitmiseks vajalikus ulatuses on testamenditäitjal õigus esindada pärijat või annakusaajat."
+    },
+    {
+      "provision_ref": "para82",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "82",
+      "title": "§ 82. Pärandi üleandmine pärijale",
+      "content": "(1) Testamenditäitja peab pärijale välja andma pärandvara hulka kuuluvad esemed, mis on tema valduses ja mida ta ei vaja oma kohustuste täitmiseks.\n(2) Kui testamenditäitja ei pea testaatori korraldust täitma isiklikult, võib ta selle täitmist nõuda pärijalt."
+    },
+    {
+      "provision_ref": "para83",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "83",
+      "title": "§ 83. Testamenditäitja vastutus",
+      "content": "(1) Testamenditäitja vastutab oma kohustuste rikkumisega pärijale või annakusaajale süüliselt tekitatud kahju eest.\n(2) Kui testaator on määranud mitu testamenditäitjat, kuid ei ole ülesandeid nende vahel jaganud, täidavad testamenditäitjad oma ülesandeid ühiselt ja vastutavad solidaarselt. Üksikult tegutseda on neil lubatud möödapääsmatu vajaduse korral. Testamenditäitjad vastutavad solidaarselt ka siis, kui nad on ülesanded omavahel ära jaganud.\n(3) Kui mõni testamenditäitja oma ülesandeid ei täida või täita ei saa, jätkavad teised testamenditäitjad testamendi täitmist."
+    },
+    {
+      "provision_ref": "para84",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "84",
+      "title": "§ 84. Testamendi täitmise kulutused ja testamenditäitja tasu",
+      "content": "(1) Vajalikud kulutused, mida testamenditäitja on oma kohustuste täitmiseks teinud, hüvitatakse pärandi arvel.\n(2) Testamenditäitja võib nõuda oma tegevuse eest mõistlikku tasu, kui testamendist ei tulene teisiti. Kui testamenditäitja on pärija või annakusaaja, tuleb tasu määramisel arvestada pärandiosa või annaku väärtust, kui testaator ei ole määranud teisiti.\n(3) Kui pärijad, annakusaajad ja testamenditäitja ei jõua tasu suuruses kokkuleppele, määrab testamenditäitja nõudel tasu suuruse kohus."
+    },
+    {
+      "provision_ref": "para85",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "85",
+      "title": "§ 85. Testamenditäitja aruanne",
+      "content": "(1) Testamenditäitja on kohustatud oma tegevusest pärijatele ja annakusaajatele aru andma.\n(2) Testamenditäitja on kohustatud viivitamata pärast oma ülesande vastuvõtmist esitama pärijale nimekirja pärandi esemetest, mida ta vajab oma kohustuste täitmiseks."
+    },
+    {
+      "provision_ref": "para86",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "86",
+      "title": "§ 86. Testamenditäitja ülesandest vabastamine",
+      "content": "Kui testamenditäitja on oma kohustusi oluliselt rikkunud, võib kohus ta pärija, annakusaaja või muu pärandist huvitatud isiku nõudel testamenditäitja ülesandest vabastada."
+    },
+    {
+      "provision_ref": "para87",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "87",
+      "title": "§ 87. Testamenditäitja tunnistus",
+      "content": "(1) Testamenditäitja soovil tõestab notar testamenditäitja tunnistuse.\n(2) Testamenditäitja tunnistuses tuleb märkida, millised on testamenditäitja õigused pärandvara valitsemisel ja käsutamisel ning pärandvara suhtes kohustuste võtmisel.\n(3)"
+    },
+    {
+      "provision_ref": "para88",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "88",
+      "title": "§ 88. Testamendi tühistamise õigus",
+      "content": "(1) Testaator võib testamendi või mõne selle osa igal ajal tühistada hilisema testamendi või pärimislepinguga.\n(2) Notariaalse testamendi võib testaator tühistada notariaalse või koduse testamendiga või pärimislepinguga. Koduse testamendi võib testaator tühistada notariaalse või koduse testamendiga või testamendi hävitamisega või pärimislepinguga.\n(3) Kui testaator on tühistanud ainult testamendi mõne osa, jääb testament muus osas kehtima.\n(4) Varem tehtud testament kaotab hilisema testamendi või pärimislepinguga kehtivuse niivõrd, kuivõrd ta on hilisema testamendi või pärimislepinguga vastuolus.\n(5) Kui testaator on testamendi tühistanud, ei jõustu tühistatule eelnenud testamendid, kui tühistavast testamendist või pärimislepingust ei tulene teisiti.\n(6) Kui testaator on notariaalse testamendi koduse testamendiga tühistanud või seda muutnud ja kodune testament on kaotanud käesoleva seaduse §-s 25 sätestatud korras kehtivuse, kehtib notariaalne testament.\n(7) Kui testamendi tegemisel esines asjaolu, mis annab vastavalt tsiviilseadustiku üldosa seadusele aluse testamendi tühistamiseks, võib pärast pärandaja surma testamendi tühistada ka isik, kes oleks õigustatud pärima testamendi või selle osa kehtetuse korral. Testamendi tühistamiseks tuleb esitada hagi kohtusse. Testamendi tühistamise hagi võib esitada kohtusse ühe aasta jooksul tühistamise aluseks olevast asjaolust teadasaamisest arvates, kuid mitte hiljem kui 30 aasta möödumisel pärandi avanemisest arvates."
+    },
+    {
+      "provision_ref": "para89",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "89",
+      "title": "§ 89. Abikaasade vastastikuse testamendi mõiste",
+      "content": "(1) Abikaasade vastastikune testament on testament, mille abikaasad teevad ühiselt ning milles nad nimetavad teineteist vastastikku pärijaks või teevad surma puhuks pärandi kohta muid korraldusi.\n(2) Abikaasade vastastikuses testamendis sõltub ühe abikaasa tehtud korralduse kehtivus teise abikaasa tehtud korralduse kehtivusest, kui võib eeldada, et ühe abikaasa korraldust ei oleks tehtud teise abikaasa korralduseta. Kui abikaasad on teinud vastastikku teineteise kasuks korraldusi või määranud, kellele läheb üle üleelanud abikaasa pärand või muu vastastikuse testamendi alusel saadu, eeldatakse, et korraldust ei oleks tehtud teise abikaasa korralduseta.\n(3) Abikaasade vastastikune testament tehakse notariaalselt tõestatud vormis."
+    },
+    {
+      "provision_ref": "para90",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "90",
+      "title": "§ 90. Abikaasade vastastikune testament kolmanda isiku kasuks",
+      "content": "(1) Abikaasad võivad abikaasade vastastikuses testamendis, millega nad on teineteist vastastikku ainupärijaks nimetanud, määrata, kellele läheb üleelanud abikaasa pärand üle tema surma korral.\n(2) Kui abikaasade vastastikuses testamendis on määratud, et üleelanud abikaasa surma korral läheb tema pärand üle kolmandale isikule, ei ole üleelanud abikaasal, kes on pärandi vastu võtnud, õigust seda abikaasade vastastikuse testamendi korraldust muuta ega oma surma korraks teistsuguseid korraldusi teha.\n(3) Kui abikaasade vastastikuses testamendis ei ole määratud, et pärand peab üle minema kolmandale isikule varem surnud abikaasa surma päeval olnud koosseisus, läheb pärand kolmandale isikule üle üleelanud abikaasa surma päeval olnud koosseisus.\n(4) Kui testamendi kohaselt peab pärand üle minema kolmandale isikule varem surnud abikaasa surma päeval olnud koosseisus, on üleelanud abikaasal pärandi kasutamisel ja käsutamisel samad õigused kui eelpärijal."
+    },
+    {
+      "provision_ref": "para91",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "91",
+      "title": "§ 91. Ühine annak abikaasade vastastikuses testamendis",
+      "content": "Kui abikaasad on vastastikuses testamendis, millega nad on teineteise vastastikku ainupärijaks nimetanud, määranud ühiselt kolmandale isikule annaku, tekib annaku täitmise nõue pärast üleelanud abikaasa surma, kui testamendist ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para92",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "92",
+      "title": "§ 92. Iseseisev annak abikaasade vastastikuses testamendis",
+      "content": "Kui abikaasad on vastastikuses testamendis määranud annaku varast, mis ei ole vajalik käesoleva seaduse § 89 lõikes 2 nimetatud korralduste täitmiseks, loetakse see iseseisvaks annakuks, mille on kohustatud täitma üleelanud abikaasa."
+    },
+    {
+      "provision_ref": "para93",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "93",
+      "title": "§ 93. Abikaasade vastastikuse testamendi tühistamine",
+      "content": "(1) Abikaasade vastastikuses testamendis sisalduva, käesoleva seaduse § 89 lõikes 2 nimetatud korralduse võib mõlema abikaasa eluajal kumbki abikaasa ühepoolselt tühistada. Testament, millega tühistatakse esimeses lauses nimetatud korraldus, peab olema notariaalselt tõestatud. Korraldus loetakse tühistatuks, kui teine abikaasa on kätte saanud notariaalses korras edastatud teate korralduse tühistamise kohta.\n(2) Pärast abikaasa surma saab teine abikaasa käesoleva seaduse § 89 lõikes 2 nimetatud korralduse tühistada üksnes juhul, kui ta loobub pärandist, mis talle vastastikuse testamendi alusel määrati.\n(3) Kui abikaasad on vastastikuses testamendis määranud isiku, kellele läheb üle üleelanud abikaasa pärand või muu vastastikuse testamendi alusel saadu, ja see isik on pärandaja, tema abikaasa või pärandaja alaneja või üleneja sugulase vastu toime pannud kuriteo või on tahtlikult ja oluliselt rikkunud oma seadusest tulenevat pärandaja ülalpidamise kohustust, saab üleelanud abikaasa omapoolse korralduse tühistada ka pärast vastastikuse testamendi alusel saadu vastuvõtmist."
+    },
+    {
+      "provision_ref": "para94",
+      "chapter": "3. peatükk - PÄRIMINE TESTAMENDI JÄRGI",
+      "section": "94",
+      "title": "§ 94. Abikaasade vastastikuse testamendi kehtetus",
+      "content": "(1) Abikaasade vastastikune testament muutub kehtetuks, kui:\n1) abielu lahutati või on lõppenud enne pärandaja surma;\n2) pärandaja oli enne oma surma esitanud kohtule abielu lahutamise nõude või andnud abielu lahutamiseks oma kirjaliku nõusoleku;\n3) pärandaja oli oma surma ajal õigustatud nõudma abielu kehtetuks tunnistamist ning oli esitanud kohtule sellekohase nõude.\n(2) Käesoleva paragrahvi lõikes 1 sätestatut ei kohaldata, kui saab eeldada pärandaja teistsugust tahet."
+    },
+    {
+      "provision_ref": "para95",
+      "chapter": "4. peatükk - PÄRIMISLEPING",
+      "section": "95",
+      "title": "§ 95. Pärimislepingu mõiste",
+      "content": "(1) Pärimisleping on pärandaja ja teise isiku kokkulepe, millega pärandaja nimetab teise lepingupoole või muu isiku oma pärijaks või määrab talle annaku, sihtkäsundi või sihtmäärangu, samuti kokkulepe pärandaja ja tema seadusjärgse pärija vahel, millega viimane loobub pärimisest.\n(2) Kokkulepe, millega on ette nähtud pärimislepingu pooleks oleva isiku kohustus, mis on pärandi, annaku, sihtkäsundi või sihtmäärangu saamise või pärimisest loobumise aluseks, ei ole pärimislepingu osa ja sellele ei kohaldata pärimislepingu kohta sätestatut.\n(3) Pärimislepingu, samuti selle muutmise või lõpetamise kokkuleppe sõlmib pärandaja isiklikult. Pärimislepingu saab pärandajana sõlmida üksnes teovõimeline isik.\n(4) Pärimislepingus sisalduvatele ühepoolsetele või käesoleva paragrahvi lõikes 1 nimetamata korraldustele kohaldatakse testamendi kohta sätestatut.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud korralduse saab tühistada ka pärimislepingus, millega tühistatakse lepingujärgne korraldus. Kui pärimisleping lõpetatakse lepingust taganemisega või uue pärimislepinguga, kaotab ühepoolne korraldus kehtivuse."
+    },
+    {
+      "provision_ref": "para96",
+      "chapter": "4. peatükk - PÄRIMISLEPING",
+      "section": "96",
+      "title": "§ 96. Pärimislepingu poolte õigused",
+      "content": "(1) Pärimislepinguga ei või kitsendada pärandaja õigust vallata, kasutada ja käsutada oma vara.\n(2) Lepingujärgne pärija või annakusaaja ei omanda pärimislepingu alusel pärandaja eluajal õigusi pärandaja varale.\n(3) Kui pärandaja on teinud kingituse eesmärgiga tekitada kahju lepingujärgsele pärijale või annakusaajale, võib lepingujärgne pärija või annakusaaja ühe aasta jooksul pärandi avanemisest arvates nõuda kinkelepingu kehtetuks tunnistamist ja kingisaajalt kingi väljaandmist alusetu rikastumise sätete kohaselt."
+    },
+    {
+      "provision_ref": "para97",
+      "chapter": "4. peatükk - PÄRIMISLEPING",
+      "section": "97",
+      "title": "§ 97. Annak pärimislepingus",
+      "content": "(1) Pärimislepinguga määratud annaku täitmisele kohaldatakse testamendiga määratud annaku täitmise kohta sätestatut.\n(2) Abikaasade või registreeritud elukaaslaste vahel sõlmitud pärimislepinguga pärandaja abikaasale, registreeritud elukaaslasele või kolmandale isikule annaku määramine muutub kehtetuks, kui:\n1) abielu on lõppenud enne pärandaja surma;\n1^1) kooseluleping on lõpetatud enne pärandaja surma;\n2) pärandaja oli enne oma surma taotlenud abielu lahutamist või andnud abielu lahutamiseks oma kirjaliku nõusoleku;\n2^1) pärandaja oli enne oma surma teinud kooselulepingu lõpetamiseks notariaalselt tõestatud tahteavalduse või esitanud selleks kohtule hagi;\n3) pärandaja oli oma surma ajal õigustatud nõudma abielu kehtetuks tunnistamist ning oli esitanud sellekohase hagi;\n4) pärandaja oli oma surma ajal õigustatud nõudma kooselulepingu kehtetuks tunnistamist ja oli esitanud kohtule selleks hagi.\n(3) Käesoleva paragrahvi lõikes 2 sätestatut ei kohaldata, kui saab eeldada pärandaja teistsugust tahet.\n(4) Kui pärandaja on pärimislepinguga annakuks määratud eseme hävitanud, seda kahjustanud või muutnud muul viisil selle üleandmise võimatuks eesmärgiga tekitada kahju lepingujärgsele annakusaajale, on annakusaajal õigus annakuna saada rahasumma, mis vastab eseme väärtusele."
+    },
+    {
+      "provision_ref": "para98",
+      "chapter": "4. peatükk - PÄRIMISLEPING",
+      "section": "98",
+      "title": "§ 98. Pärimisleping pärimisest loobumise kohta",
+      "content": "(1) Kui pärandaja seadusjärgne pärija on pärandajaga sõlmitud lepinguga loobunud oma seadusjärgsest pärimisõigusest, on pärima õigustatud isik, kes oleks pärinud siis, kui pärandist loobunu oleks surnud enne pärandi avanemist. Pärimisest loobunul ei ole sundosa saamise õigust.\n(2) Lepinguga võib loobuda ka õigusest sundosale.\n(3) Kui pärija loobub oma seadusjärgsest pärimisõigusest teise isiku kasuks, kehtib loobumine üksnes juhul, kui isik, kelle kasuks loobuti, saab pärijaks, kui lepinguga ei ole määratud teisiti.\n(4) Kui pärandaja alaneja sugulane loobub seadusjärgsest pärimisõigusest, loetakse, et loobutud on pärandaja teiste alanejate sugulaste, pärandaja abikaasa ja registreeritud elukaaslase kasuks, kui lepinguga ei ole määratud teisiti."
+    },
+    {
+      "provision_ref": "para99",
+      "chapter": "4. peatükk - PÄRIMISLEPING",
+      "section": "99",
+      "title": "§ 99. Lepinguga pärimisest loobunu alanejate sugulaste pärimisõigus",
+      "content": "Kui pärandaja alaneja või külgjoones sugulane on lepinguga pärimisest loobunud, ei päri loobunu alanejad sugulased, kui lepinguga ei ole määratud teisiti."
+    },
+    {
+      "provision_ref": "para100",
+      "chapter": "4. peatükk - PÄRIMISLEPING",
+      "section": "100",
+      "title": "§ 100. Pärimislepingu vorm",
+      "content": "Pärimisleping sõlmitakse notariaalselt tõestatud vormis."
+    },
+    {
+      "provision_ref": "para101",
+      "chapter": "4. peatükk - PÄRIMISLEPING",
+      "section": "101",
+      "title": "§ 101. Kolmas isik pärimislepingus",
+      "content": "(1) Kui kolmas isik, kes on pärimislepinguga määratud pärijaks või annaku saajaks, pärandist loobub või pärandit või annakut vastu ei võta, kaotab leping selles osas kehtivuse.\n(2) Pärimislepingu pooled võivad lepingut muuta või selle lõpetada kolmanda isiku nõusolekuta.\n(3) Abikaasade või registreeritud elukaaslaste vahel sõlmitud pärimislepingule, millega nad on nimetanud teineteise vastastikku ainupärijaks ja milles on määratud, kellele läheb üle üleelanud abikaasa või registreeritud elukaaslase pärand või muu pärimislepingu alusel saadu, kohaldatakse käesoleva seaduse §-s 90 sätestatut."
+    },
+    {
+      "provision_ref": "para102",
+      "chapter": "4. peatükk - PÄRIMISLEPING",
+      "section": "102",
+      "title": "§ 102. Pärimislepingu tühistamine",
+      "content": "(1) Pärimislepingu või selles sisalduva korralduse võib lepingupoolte eluajal tühistada lepingu sõlminud isikute vahelise notariaalselt tõestatud kokkuleppega või uue pärimislepinguga.\n(2) Kui pärimislepingu sõlmimisel esines asjaolu, mis annab vastavalt tsiviilseadustiku üldosa seadusele aluse pärimislepingu tühistamiseks, võib pärast pärandaja surma pärimislepingu tühistamist nõuda ka isik, kes oleks õigustatud pärima pärimislepingu või selles sisalduva korralduse kehtetuse korral.\n(3) Pärimislepingu tühistamiseks tuleb esitada hagi kohtusse. Pärimislepingu tühistamise hagi võib esitada kohtusse ühe aasta jooksul tühistamise aluseks olevast asjaolust teadasaamisest arvates, kuid mitte hiljem kui 30 aasta möödumisel pärandi avanemisest arvates."
+    },
+    {
+      "provision_ref": "para103",
+      "chapter": "4. peatükk - PÄRIMISLEPING",
+      "section": "103",
+      "title": "§ 103. Pärimislepingust taganemine",
+      "content": "(1) Pärandaja võib pärimislepingust taganeda, kui:\n1) taganemisõigus on pärimislepinguga kokku lepitud;\n2) õigustatud isik on pärandaja, tema abikaasa, registreeritud elukaaslase või pärandaja alaneja või üleneja sugulase vastu toime pannud kuriteo;\n3) teine lepingupool rikub tahtlikult oma seadusest tulenevat pärandaja ülalpidamise kohustust;\n4) pärimisleping on sõlmitud, pidades silmas käesoleva seaduse § 95 lõikes 2 nimetatud pärimislepingu pooleks oleva isiku kohustust, mis seisneb pärandajale tema eluajal korduvate kohustuste täitmises, eelkõige ülalpidamise tagamises, ning kohustatud isik rikub kohustust tahtlikult ja oluliselt.\n(2) Pärimislepingust taganemine toimub teisele lepingupoolele notariaalselt tõestatud avalduse tegemisega. Kui pärandaja on piiratud teovõimega, ei vaja ta taganemiseks seadusliku esindaja nõusolekut.\n(3) Kui pärimislepingus on käesoleva seaduse § 95 lõikes 1 nimetatud korraldusi teinud mõlemad lepingupooled (edaspidi vastastikune pärimisleping ), muutub käesoleva paragrahvi lõike 1 punktis 1 nimetatud juhul ühe lepingupoole taganemisel kogu leping kehtetuks, välja arvatud juhul, kui pärimislepingust ei tulene teisiti.\n(4) Vastastikuse pärimislepingu korral lõpeb taganemisõigus teise lepingupoole surmaga. Pärast lepingupoole surma võib teine pärimislepingu pool oma korralduse ühepoolselt tühistada üksnes juhul, kui ta loobub talle pärimislepinguga eraldatust."
+    },
+    {
+      "provision_ref": "para104",
+      "chapter": "5. peatükk - SUNDOSA",
+      "section": "104",
+      "title": "§ 104. Sundosa pärimine",
+      "content": "(1) Kui pärandaja on testamendi või pärimislepinguga jätnud seaduse järgi pärima õigustatud alaneja sugulase, oma vanemad või abikaasa, kelle suhtes pärandajal oli surma hetkel perekonnaseadusest tulenev kehtiv ülalpidamiskohustus, pärandist ilma või on nende pärandiosi vähendanud võrreldes sellega, mille nad oleksid saanud seadusjärgse pärimise korral, on neil õigus nõuda pärijatelt sundosa.\n(1^1) Registreeritud elukaaslasel, kelle suhtes oli pärandajal surma hetkel kehtiv ülalpidamiskohustus, on õigus nõuda pärijalt sundosa käesolevas peatükis sätestatud eeldustel ja korras.\n(2) Pärandaja vanemad ja kaugemad alanejad sugulased ei ole sundosa nõudmiseks õigustatud, kui alaneja sugulane, kes välistaks nad seadusjärgse pärimise korral, saab nõuda sundosa või võtab talle pärandatu vastu.\n(3) Kui testamendi või pärimislepinguga on isikule määratud sundosa, ei loeta seda kahtluse korral pärijaks nimetamiseks.\n(4) Sundosa nõue tekib pärandi avanemisega. Nõue on pärandatav ja üleantav.\n(5) Sundosa nõue on suunatud raha maksmisele käesoleva seaduse §-s 105 sätestatud suuruses."
+    },
+    {
+      "provision_ref": "para105",
+      "chapter": "5. peatükk - SUNDOSA",
+      "section": "105",
+      "title": "§ 105. Sundosa suurus",
+      "content": "(1) Sundosa on pool pärandiosa väärtusest, mille pärija oleks seadusjärgse pärimise korral saanud, kui pärandi oleksid vastu võtnud kõik seadusjärgsed pärijad. Isikuid, kes on lepinguga pärimisest loobunud, sundosa suuruse väljaselgitamisel arvesse ei võeta.\n(2) Kui sundosa nõudmiseks õigustatud isikule on pärandatud pärandiosa, mis on väiksem kui sundosa, siis võib ta nõuda kaaspärijatelt sundosana puuduolevat osa.\n(3) Kui mitmest pärijast on ühel sundosa saamise õigus, siis võib ta pärast pärandi jagamist keelduda mõne teise sundosa saamiseks õigustatu nõude rahuldamisest niivõrd, et talle jääks tema sundosa. Puudujääva osa eest vastutavad ülejäänud pärijad.\n(4) Kui sundosa saamiseks õigustatud isikule on määratud annak, on tal sundosanõue üksnes juhul, kui ta loobub annakust. Kui annaku väärtus on väiksem kui sundosa, võib isik nõuda pärijatelt sundosa ulatuses, mille ta annakuna sai vähem, kui ta sundosana oleks saanud."
+    },
+    {
+      "provision_ref": "para106",
+      "chapter": "5. peatükk - SUNDOSA",
+      "section": "106",
+      "title": "§ 106. Pärandi väärtus",
+      "content": "(1) Sundosa suuruse kindlakstegemisel võetakse aluseks pärandi hulka kuuluv vara pärandi avanemise päeva seisuga.\n(2) Sundosa määramisel arvestatakse pärandina ka eelpärandit, abikaasa ja registreeritud elukaaslase eelosa ja pärandaja poolt teistele isikutele sundosa vähendamise eesmärgil viimase kolme aasta jooksul enne pärandaja surma tehtud kingitusi.\n(3) Sundosa määramisel ei arvestata pärandina pärandaja matmiskulusid, pärandvara nimekirja koostamise ja pärandvara hindamise kulusid ning pärandaja ülalpidamisel olnud isikute ühe kuu ülalpidamise kulusid.\n(4) Sundosa määramisel ei arvestata pärandina õigusi ja kohustusi, mis sõltuvad edasilükkavast tingimusest. Õigused ja kohustused, mis sõltuvad äramuutvast tingimusest, võetakse arvesse mittetingimuslikena. Tingimuse saabumisel tehakse muutunud õiguslikule olukorrale vastav tasaarvestus.\n(5) Kui pärandaja on teinud kolmandale isikule kingituse eesmärgiga tekitada kahju sundosa nõudmiseks õigustatule, võib sundosa nõudmiseks õigustatu ühe aasta jooksul pärandi avanemisest arvates nõuda sundosa täiendamist summa võrra, mille võrra sundosa suureneks, kui kingitud ese loetaks pärandi hulka kuuluvaks.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud nõuet ei rahuldata, kui kingituse tegemisest on möödunud kümme aastat. Kui kingitus on tehtud pärandaja abikaasale või registreeritud elukaaslasele, ei alga tähtaeg enne abielu või registreeritud kooselu lõppemist.\n(7) Kui pärija ise on õigustatud nõudma sundosa, võib ta keelduda sundosa täiendamisest sel määral, et talle jääks tema oma sundosa, kaasa arvatud see, mis kuuluks talle sundosa täiendusena."
+    },
+    {
+      "provision_ref": "para107",
+      "chapter": "5. peatükk - SUNDOSA",
+      "section": "107",
+      "title": "§ 107. Sundosa koormatised",
+      "content": "(1) Kui pärijaks nimetatud sundosa saamiseks õigustatud isiku õigusi on piiratud järelpärija või testamenditäitja määramisega või kui teda on koormatud sihtkäsundiga, ei kehti piirang või koormatis juhul, kui talle pärandatud pärandiosa on väiksem kui pool talle seadusjärgselt kuuluvast pärandiosast.\n(2) Kui pärandatud pärandiosa on suurem, võib sundosa saamiseks õigustatud isik nõuda sundosa pärandiosast loobumise korral. Loobumistähtaeg algab hetkest, kui sundosa saamiseks õigustatu saab teada piirangust või koormamisest.\n(3) Pärijaks nimetamise piiramisega on võrdne sundosa saamiseks õigustatu nimetamine järelpärijaks."
+    },
+    {
+      "provision_ref": "para108",
+      "chapter": "5. peatükk - SUNDOSA",
+      "section": "108",
+      "title": "§ 108. Sundosast ilmajätmine",
+      "content": "(1) Pärandaja võib testamendi või pärimislepinguga sundosast ilma jätta isiku, kes on pärandaja, tema abikaasa, registreeritud elukaaslase või pärandaja alaneja või üleneja sugulase või muu pärandajale eriliselt lähedase isiku vastu toime pannud kuriteo, või isiku, kes on tahtlikult ja oluliselt rikkunud oma seadusest tulenevat pärandaja ülalpidamise kohustust. Sel juhul peab pärandaja väljendama sundosast ilmajätmise põhjuse.\n(2) Sundosast ilmajätmine on kehtetu, kui pärandaja on ilmajätmise põhjuse jätnud märkimata või põhjus ei vasta käesoleva paragrahvi lõikes 1 sätestatule."
+    },
+    {
+      "provision_ref": "para109",
+      "chapter": "5. peatükk - SUNDOSA",
+      "section": "109",
+      "title": "§ 109. Sundosa nõude aegumine",
+      "content": "(1) Sundosa nõue aegub kolme aasta möödumisel hetkest, kui sundosa saamiseks õigustatu saab teada pärandi avanemisest ja tema õigusi mõjutavast käsutusest.\n(2) Sõltumata käesoleva paragrahvi lõikes 1 sätestatust aegub sundosa nõue kümne aasta möödumisel pärandi avanemisest.\n(3) Kui sundosa nõude tekkimise eelduseks on pärandist või annakust loobumine, kohaldatakse aegumise algusele käesoleva paragrahvi lõigetes 1 ja 2 sätestatut."
+    },
+    {
+      "provision_ref": "para110",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "110",
+      "title": "§ 110. Hoiumeetmed",
+      "content": "(1) Pärandaja surma korral rakendab kohus pärandvara hoiumeetmeid, kui:\n1) pärija ei ole teada;\n2) pärija ei viibi pärandvara asukohas;\n3) ei ole teada, kas pärija on pärandi vastu võtnud;\n4) pärija on piiratud teovõimega isik ja talle ei ole määratud eestkostjat;\n5) esinevad muud seaduses sätestatud alused.\n(2) Pärandvara hoiumeetmed on:\n1) pärandvara valitsemise korraldamine;\n2) tsiviilkohtumenetluse seadustikus sätestatud hagi tagamise abinõude rakendamine.\n(3)"
+    },
+    {
+      "provision_ref": "para111",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "111",
+      "title": "§ 111. Hoiumeetmete rakendamine",
+      "content": "(1) Pärandvara hoiumeetmeid võib rakendada kuni pärandi vastuvõtmiseni pärijate poolt, kui seaduses ei ole sätestatud teisiti.\n(2) Kohus rakendab pärandvara hoiumeetmeid omal algatusel, kui seaduses ei ole sätestatud teisiti.\n(3) Kohus võib pärandvara hoiumeetmete rakendamise otsustada ka pärandaja võlausaldaja, annakusaaja või muu pärandvara suhtes nõuet omava isiku taotlusel, kui hoiumeetmete rakendamata jätmine võiks ohustada nimetatud isikule kuuluva nõude rahuldamist pärandvara arvel.\n(4) Vaidluse korral, kes on pärija, võib kohus pärandvara hoiumeetmete rakendamise otsustada ka pärimisõiguse tunnustamist nõudva isiku taotlusel.\n(5) Käesoleva paragrahvi lõigetes 3 ja 4 nimetatud juhul võib hoiumeetmete rakendamise otsustada ka pärast pärandi vastuvõtmist pärijate poolt, eelkõige juhul, kui pärija tegevus või varaline olukord võivad seada ohtu pärandvara säilimise ja nõuete rahuldamise pärandvara arvel.\n(6) Riigi- ja kohaliku omavalitsuse asutus, notar ning kohtutäitur on kohustatud teatama kohtule neile teatavaks saanud hoiumeetmete rakendamise vajadusest."
+    },
+    {
+      "provision_ref": "para112",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "112",
+      "title": "§ 112. Pärandvara valitsemine",
+      "content": "(1) Pärandvara valitsemiseks nimetab kohus pärandi hooldaja, kellele kohus võib anda korraldusi vara valdamiseks, kasutamiseks ja käsutamiseks. Koos pärandi hooldaja nimetamisega määrab kohus pärandi inventuuri tegijaks kohtutäituri, kohaldades vastavalt käesoleva seaduse § 138–141.\n(2) Hooldajaks võib olla isik, kes saab pärandvara nõuetekohaselt valitseda ja kes on sobiv hooldaja kohustusi täitma. Kohus võib hooldaja, kes pärandvara nõuetekohaselt ei valitse, hooldaja kohustustest vabastada.\n(3) Hooldaja on kohustatud:\n1) vara heaperemehelikult valitsema ning tagama selle säilimise;\n2) andma pärandvara arvel ülalpidamist käesoleva seaduse §-s 132 nimetatud isikule;\n3) täitma pärandvara arvel pärandvaraga seotud kohustused;\n4) aru andma vara valitsemisest kohtule ja pärijatele;\n5) võtma käesoleva seaduse § 111 lõikes 3 nimetatud juhul, samuti muul juhul, kui see on vajalik pärandvara säilimise tagamiseks, pärija või kolmanda isiku valduses oleva pärandvara oma valdusesse või tagama muul viisil selle eraldamise pärija varast;\n6) esitama vajaduse korral pärimismenetluse algatamise avalduse notarile või kui Eesti notar ei ole pädev pärimismenetlust läbi viima, siis rakendama muid meetmeid pärija isiku väljaselgitamiseks.\n(4) Hooldaja võib pärandvara käsutada üksnes oma kohustuste täitmiseks ja pärandvara valitsemisega seonduvate kulude katmiseks. Hooldajal ei ole õigust kohtu loata käsutada pärandvara hulka kuuluvat kinnisasja.\n(5) Pärijal ei ole õigust käsutada pärandvara, mis on antud hooldaja valitseda.\n(6) Kohus võib keelduda pärandvara valitsemise määramisest, kui pärandvara ei ole eelduslikult piisav valitsemisega seotud kulutuste hüvitamiseks. Kohus määrab sellisel juhul pärandvara valitsemise, kui valitsemist taotlenud isik tasub deposiidina selleks ettenähtud kontole summa, mis eelduslikult vastab tekkivatele kulutustele.\n(7) Kui pärija ei ole selgunud kuue kuu jooksul pärandi avanemisest arvates, samuti juhul, kui pärandi vastu võtnud pärija ei ole kuue kuu jooksul pärandi vastuvõtmisest arvates asunud pärandvara valitsema, võib pärandi hooldaja pärast inventuuri tegemist pärandvara müüa ning hoiustada pärandvara müügist saadu. Sellisel juhul ei kohaldata käesoleva paragrahvi lõikes 4 sätestatut."
+    },
+    {
+      "provision_ref": "para113",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "113",
+      "title": "§ 113. Kohustuste täitmine pärandi hooldaja poolt",
+      "content": "(1) Kui on määratud pärandvara valitsemine, peab pärandi hooldaja pärast inventuuri tegemist rahuldama pärandvara nimekirja kantud nõuded, mille täitmise tähtpäev on saabunud. Nõuded, mille täitmise tähtpäev ei ole saabunud, võib hooldaja rahuldada üksnes pärija nõusolekul. Kui hooldaja esitatud nõude vaidlustab, otsustab nõude rahuldamise võlausaldaja hagiavalduse alusel kohus.\n(2) Kui hooldus on määratud vastavalt käesoleva seaduse § 111 lõikele 3, on hooldaja kohustatud pärast pärandvara nimekirja koostamist rahuldama pärandvara arvel kõik pärandvara nimekirja kantud nõuded käesoleva seaduse §-s 142 nimetatud järjekorras. Pärandvara ei või pärijale välja anda enne nõuete rahuldamist. Kui hooldaja või pärija esitatud nõude vaidlustab, otsustab nõude rahuldamise võlausaldaja hagiavalduse alusel kohus."
+    },
+    {
+      "provision_ref": "para114",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "114",
+      "title": "§ 114. Pärandvara hooldamise tasu",
+      "content": "Pärandvara hooldajal on õigus saada pärandvara valitsemise eest pärandi arvel tasu. Hooldamise tasu suuruse määrab kohus."
+    },
+    {
+      "provision_ref": "para115",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "115",
+      "title": "§ 115. Pärandvara hoiumeetmete lõpetamine",
+      "content": "(1) Kohus lõpetab pärandvara hoiumeetmed, kui on ära langenud käesoleva seaduse §-des 110 ja 111 sätestatud hoiumeetmete rakendamise alused.\n(2) Kohus lõpetab pärandvara valitsemise juhul, kui pärandvara ei ole piisav valitsemisega seotud kulutuste hüvitamiseks ja kohtu määratud tähtaja jooksul ei tasuta deposiidina selleks ettenähtud kontole summat, mis eelduslikult vastab valitsemise käigus tekkivatele kulutustele.\n(3) Kui hoiumeetmete rakendamine on otsustatud vastavalt käesoleva seaduse § 111 lõigetele 3 ja 4, tuleb enne hoiumeetmete lõpetamist ära kuulata hoiumeetmete rakendamist taotlenud isik."
+    },
+    {
+      "provision_ref": "para116",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "116",
+      "title": "§ 116. Vastuvõtmise ja loobumise pöördumatus",
+      "content": "(1) Pärija võib pärandi vastu võtta või pärandist loobuda.\n(2) Pärast pärandi vastuvõtmist ei saa sellest enam loobuda, kui seaduses ei ole sätestatud teisiti. Pärast pärandist loobumist ei saa seda enam vastu võtta."
+    },
+    {
+      "provision_ref": "para117",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "117",
+      "title": "§ 117. Vastuvõtmine ja loobumine testamendi ja lepingu järgi",
+      "content": "(1) Kui testamendi- või lepingujärgne pärija on pärandist loobunud, ei saa ta testamendi või lepinguga temale määratud pärandit seadusjärgselt pärida, välja arvatud pärandi sundosa.\n(2) Kui pärija on õigustatud pärima nii testamendi kui ka lepingu järgi, võib ta pärandi vastu võtta omal valikul kas testamendi või lepingu järgi või mõlema järgi, kui testament ja leping ei ole omavahel vastuolus."
+    },
+    {
+      "provision_ref": "para118",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "118",
+      "title": "§ 118. Vastuvõtmise ja loobumise kord",
+      "content": "(1) Kui pärija käesoleva seaduse §-s 119 sätestatud tähtaja jooksul pärandist ei loobu, loetakse ta pärandi vastu võtnuks.\n(2) Sõltumata käesoleva paragrahvi lõikes 1 sätestatust võib pärija pärandi vastuvõtmiseks enne käesoleva seaduse §-s 119 sätestatud tähtaja möödumist teha pärimisasja lahendavale notarile avalduse, mille notar tõestab.\n(3) Pärandist loobumiseks tuleb käesoleva seaduse §-s 119 sätestatud tähtaja jooksul esitada notarile avaldus, mille notar tõestab.\n(4)"
+    },
+    {
+      "provision_ref": "para119",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "119",
+      "title": "§ 119. Loobumise tähtaeg",
+      "content": "(1) Pärandist loobumise tähtaeg on kolm kuud. Tähtaeg hakkab kulgema hetkest, kui pärija saab teada või peab teada saama pärandaja surmast ning oma pärimisõigusest.\n(2) Notar võib käesoleva paragrahvi lõikes 1 nimetatud tähtaega pärima õigustatud isiku taotlusel pikendada või määrata uue tähtaja, kui pärima õigustatud isik on lasknud tähtaja mööda mõjuval põhjusel ja kui teised pärima õigustatud isikud sellele vastu ei vaidle. Vaidluse korral lahendab asja kohus."
+    },
+    {
+      "provision_ref": "para120",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "120",
+      "title": "§ 120. Vastuvõtmise ja loobumise õiguse päritavus",
+      "content": "Kui pärima õigustatud isik sureb, jõudmata pärandit vastu võtta või sellest loobuda, on tema pärijatel õigus pärandist loobuda sama tähtaja jooksul, mille jooksul neil on õigus pärima õigustatud isiku pärandist loobuda."
+    },
+    {
+      "provision_ref": "para121",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "121",
+      "title": "§ 121. Andmed pärandi kohta",
+      "content": "Enne pärandi vastuvõtmist või sellest loobumist on pärima õigustatud isikul õigus saada andmeid pärandvara koosseisu ning testamendi ja pärimislepingu sisu kohta kohtult, notarilt ja muult isikult, kelle valduses on pärandvara, testament või pärimisleping."
+    },
+    {
+      "provision_ref": "para122",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "122",
+      "title": "§ 122. Tingimusliku vastuvõtmise ja loobumise lubamatus",
+      "content": "(1) Pärandi tingimuslik vastuvõtmine või sellest tingimuslik loobumine ei ole lubatud.\n(2) Pärandi osalise vastuvõtmise või osalise loobumise avaldus, samuti pärandi tingimusliku vastuvõtmise või sellest tingimusliku loobumise avaldus on tühine."
+    },
+    {
+      "provision_ref": "para123",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "123",
+      "title": "§ 123. Pärandi vastuvõtmise ja pärandist loobumise kehtetuks tunnistamine",
+      "content": "(1) Pärandi vastuvõtmise või pärandist loobumise võib kohus tunnistada kehtetuks tsiviilseadustiku üldosa seaduse §-des 92, 94 ja 96 sätestatud alustel.\n(2) Pärija võib taotleda eksimuse tõttu pärandi vastuvõtmise või pärandist loobumise kehtetuks tunnistamist üksnes juhul, kui ta on võtnud pärandi vastu või loobunud sellest eksimuse tõttu selles, kas ta pärib seaduse, testamendi või pärimislepingu järgi.\n(3) Kui kohus on tunnistanud pärandi vastuvõtmise või pärandist loobumise kehtetuks, loetakse, et pärija on saanud oma pärimisõigusest teada kohtuotsuse jõustumise päeval."
+    },
+    {
+      "provision_ref": "para124",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "124",
+      "title": "§ 124. Pärimine pärandist loobumise korral",
+      "content": "(1) Kui pärima õigustatud isik on pärandist loobunud, on pärima õigustatud see isik, kes oleks pärinud siis, kui pärandist loobunu oleks surnud enne pärandi avanemist.\n(2) Isik, kes astub pärandist loobunu asemele, võib pärandi vastu võtta või sellest loobuda sama tähtaja jooksul, kui selleks oli õigus loobunul. Tähtaega arvestatakse päevast, millal pärandist loobunu asemele astuja loobumisest teada sai."
+    },
+    {
+      "provision_ref": "para125",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "125",
+      "title": "§ 125. Kohalik omavalitsusüksus ja riik",
+      "content": "(1) Seadusjärgse pärimise korral ei saa riik ega kohalik omavalitsusüksus pärandist loobuda.\n(2) Seadusjärgse pärimise korral loetakse, et pärandi vastuvõtmise nõuete täitmisest olenemata on kohalik omavalitsusüksus või riik pärandi vastu võtnud.\n(3) Kui ükski pärija ei ole teada ega teata endast ühe kuu jooksul pärija väljaselgitamise üleskutsemenetluses üleskutse avaldamisest arvates või kui endast teatanud isik ei suuda ühe kuu jooksul üleskutsemenetluse tähtpäeva möödumisest arvates oma pärimisõigust tõendada, eeldatakse, et seadusjärgne pärija on pärandi avanemise koha kohalik omavalitsusüksus või käesoleva seaduse §-s 18 nimetatud juhul riik.\n(4) Pärija võib käesoleva paragrahvi lõikes 3 nimetatud juhul pärandi omavalitsusüksuselt või riigilt vastavalt käesoleva seaduse §-le 146 välja nõuda."
+    },
+    {
+      "provision_ref": "para126",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "126",
+      "title": "§ 126. Võlausaldaja õigus pärandist loobumise korral",
+      "content": "Võlausaldaja võib nõuda, et pärandist loobunu need võlad, mida ei saa loobunu varast tasuda, tasutakse temal õiguse järgi saada olevast pärandiosast. Võlgade rahuldamisest järele jäänud pärandiosa läheb üle pärijatele, kes pärivad pärandist loobunu asemel."
+    },
+    {
+      "provision_ref": "para127",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "127",
+      "title": "§ 127. Pärandiosa suurenemine juurdekasvuõiguse alusel",
+      "content": "(1) Kui pärandaja on testamendi või pärimislepinguga määranud pärijaks mitu isikut selliselt, et seadusjärgne pärimine on välistatud ja üks pärijatest enne pärandi avanemist sureb või loobub pärimisest pärimislepinguga (§ 98) või käesoleva seaduse §-s 118 sätestatud korras, jagatakse tema pärandiosa juurdekasvuõiguse alusel pärandi teiste testamendi- või lepingujärgsete pärijate vahel võrdeliselt nende pärandiosade suurusega, kui testamendist või pärimislepingust ei tulene teisiti.\n(2) Koos juurdekasvuõiguse alusel ülemineva pärandiosaga lähevad üle ka sellel osal lasuvad annakud ja muud kohustused."
+    },
+    {
+      "provision_ref": "para128",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "128",
+      "title": "§ 128. Juurdekasvuõigus testamendi- ja lepingujärgsel pärimisel",
+      "content": "Kui pärandaja on testamendi või lepinguga pärandanud mitmele pärijale ühise osa oma varast iga pärija osa määramata, jääb see pärandiosa juurdekasvuõiguse alusel teistele sama pärandiosa pärijatele, kui testamendist või pärimislepingust ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para129",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "129",
+      "title": "§ 129. Juurdekasvuõiguse kohaldamatus",
+      "content": "Juurdekasvuõigust ei kohaldata, kui pärandaja on selle testamendi või pärimislepinguga keelanud või kui pärandist loobumata ja pärandi vastu võtmata jätnud pärijal on asepärija."
+    },
+    {
+      "provision_ref": "para130",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "130",
+      "title": "§ 130. Pärandaja õiguste ja kohustuste üleminek",
+      "content": "(1) Pärandi vastuvõtmisega lähevad pärijale üle kõik pärandaja õigused ja kohustused, välja arvatud need, mis oma olemuselt on lahutamatult seotud pärandaja isikuga või mis seadusest tulenevalt ei saa ühelt isikult teisele üle minna.\n(2) Seaduses sätestatud juhtudel võivad pärandaja isikuga lahutamatult seotud õigused üle minna pärijale.\n(3) Pärija on kohustatud täitma kõik pärandaja kohustused. Pärandvara ebapiisavuse korral peab pärija need kohustused täitma oma vara arvel, välja arvatud juhul, kui ta pärast inventuuri tegemist on täitnud kohustused seaduses sätestatud korras, kui on välja kuulutatud pärandvara pankrot või kui pankrotimenetlus on lõppenud pankrotti välja kuulutamata, raugemise tõttu."
+    },
+    {
+      "provision_ref": "para131",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "131",
+      "title": "§ 131. Pärandaja matuse kulud",
+      "content": "(1) Pärija kannab pärandaja matuse kulud, arvestades tavasid ning pärandi suurust. Kui pärandvarast ei piisa pärandaja matuse kuludeks, kannab pärija need kulud oma arvel.\n(2) Iga pärija kannab pärandaja matuse kulud võrdeliselt oma pärandiosa suurusega, kui testamendist või pärimislepingust ei tulene teisiti.\n(3) Pärandaja võib testamendis või pärimislepingus määrata, kes tema matuse kulud kannab. Kui pärija või annakusaaja pärandvarast või annakust ei jätku pärandaja matuse kuludeks, kannavad teised pärijad pärandiosa või annakut ületavad matusekulud võrdeliselt oma pärandiosa suurusega."
+    },
+    {
+      "provision_ref": "para132",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "132",
+      "title": "§ 132. Pärandaja perekonnaliikmete ülalpidamise kulud",
+      "content": "Pärandaja perekonnaliikmetel, kes elasid pärandaja surmani temaga koos ja said temalt ülalpidamist, on õigus ühe kuu jooksul pärast pärandaja surma jätkata ühise majapidamise esemete kasutamist ja saada pärandi arvel ülalpidamist."
+    },
+    {
+      "provision_ref": "para133",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "133",
+      "title": "§ 133. Kohustused testamendi ja pärimislepingu järgi",
+      "content": "Pärandi vastu võtnud pärija on kohustatud täitma testamendi või pärimislepinguga ettenähtud korraldused, annakud, sihtkäsundid, sihtmäärangud, sundosa nõuded ja muud kohustused."
+    },
+    {
+      "provision_ref": "para134",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "134",
+      "title": "§ 134. Kohustuste täitmisest keeldumise õigus",
+      "content": "(1) Pärandaja kohustuse täitmist, samuti käesoleva seaduse §-des 131 ja 133 nimetatud kohustuse täitmist ei või pärijalt nõuda enne pärandi vastuvõtmist.\n(2) Kui kohus on rakendanud pärandvara hoiumeetmeid, võib pärija kuni hoiumeetmete lõpetamiseni keelduda pärandaja kohustuse täitmisest, samuti käesoleva seaduse §-s 133 nimetatud kohustuse täitmisest. See ei välista kohustuste täitmist hooldaja poolt juhul, kui on määratud pärandvara valitsemine.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatut ei kohaldata juhul, kui kohustuse täitmist nõudvale võlausaldajale kuulub kohustuse täitmise tagamiseks pandiõigus pärandvara hulka kuuluvale esemele ja pärandi avanemisest on möödunud kolm kuud või kui kohustuse täitmise tagamiseks on kinnistusraamatusse kantud eelmärge.\n(4) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatut ei kohaldata ka juhul, kui isik nõuab temale kuuluva eseme välistamist pärandvarast."
+    },
+    {
+      "provision_ref": "para135",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "135",
+      "title": "§ 135. Pärija vastutus pärandi inventuuri ajal",
+      "content": "(1) Kui pärija nõuab pärandi inventuuri, võib ta kuni inventuuri tegemiseni, ent mitte kauem kui inventuuri tähtaja lõppemiseni, keelduda pärandaja kohustuse ja käesoleva seaduse §-s 133 nimetatud kohustuse täitmisest.\n(2) Käesoleva paragrahvi lõikes 1 sätestatut ei kohaldata, kui kohustuse täitmist nõudvale võlausaldajale kuulub kohustuse täitmise tagamiseks pandiõigus pärandvara hulka kuuluvale esemele ja pärandi avanemisest on möödunud kolm kuud või kui kohustuse täitmise tagamiseks on kinnistusraamatusse kantud eelmärge.\n(3) Käesoleva paragrahvi lõikes 1 sätestatut ei kohaldata ka juhul, kui isik nõuab temale kuuluva eseme välistamist pärandvarast.\n(4) Kui pärija nõuab pärandi inventuuri, ei või pärija võlausaldajad kuni inventuuri tegemiseni, ent mitte kauem kui inventuuri tähtaja lõppemiseni rahuldada oma pärija vastu suunatud sissenõuet pärandvara arvel."
+    },
+    {
+      "provision_ref": "para136",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "136",
+      "title": "§ 136. Kohustuslik inventuur",
+      "content": "(1) Pärandi inventuur on kohustuslik, kui pärijaks on piiratud teovõimega isik, kohalik omavalitsusüksus või riik.\n(2) Kui piiratud teovõimega pärija seaduslik esindaja ei ole pärija huvides pärandi inventuuri taotlenud, vastutab ta isiklikult pärandaja nende võlgade eest, mille rahuldamiseks pärandist ei jätkunud."
+    },
+    {
+      "provision_ref": "para137",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "137",
+      "title": "§ 137. Inventuuri nõude ja pärandvara pankrotiavalduse esitamine",
+      "content": "(1) Pärandi vastu võtnud pärija võib notarile esitada inventuuri nõude. Kui pärija esitab inventuuri nõude enne pärandi vastuvõtmist, määrab notar inventuuri tegija pärast seda, kui inventuuri nõude esitaja on pärandi vastu võtnud.\n(2) Pärija võib notariaalselt tõestatud inventuuri nõude notarile esitada ka kolme kuu jooksul pärast seda, kui ta sai teada või oleks pidanud teada saama asjaoludest, millest võib järeldada, et pärandvarast ei piisa pärandaja võlausaldajate nõuete rahuldamiseks.\n(2^1) Pärija, testamenditäitja või pärandi hooldaja on kohustatud esitama avalduse pärandvara pankroti väljakuulutamiseks kohtule kolme kuu jooksul pärast seda, kui ta sai teada või oleks pidanud teada saama asjaoludest, millest võib järeldada, et pärandvarast ei piisa käesoleva seaduse § 142 lõike 1 punktides 1 ja 2 nimetatud nõuete rahuldamiseks ja pärija ei ole nõus nende rahuldamisega oma vara arvel.\n(3)"
+    },
+    {
+      "provision_ref": "para138",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "138",
+      "title": "§ 138. Inventuuri tegija määramine",
+      "content": "Notar määrab inventuuri tegijaks kohtutäituri. Kui pärand avanes välisriigis, määrab notar inventuuri tegijaks kohtutäituri, kelle tööpiirkonnas asub pärandvara hulka kuuluv kinnisasi. Kui pärand avanes välisriigis ja pärandvara hulka ei kuulu Eestis asuvat kinnisasja, määrab notar kohtutäituri omal äranägemisel."
+    },
+    {
+      "provision_ref": "para139",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "139",
+      "title": "§ 139. Inventuuri kord ja tähtajad",
+      "content": "(1) Inventuuri nõude esitaja esitab inventuuri tegijale nimekirja talle teada olevast pärandvarast ja pärandvaraga seotud kohustustest. Inventuuri tegija võib anda inventuuri nõude esitajale tähtaja esitatud nimekirja täiendamiseks.\n(2) Notar esitab inventuuri tegijale talle teada olevad andmed, mis on vajalikud inventuuri tegemiseks.\n(3) Inventuuri tegijal on õigus saada pärandvara kohta teavet pärijalt, krediidiasutuselt, samuti muult isikult, kelle valduses on pärandvara või kellel on pärandvara kohta andmeid.\n(4) Inventuuri tegemiseks annab notar tähtaja, mis ei või olla lühem kui kaks kuud ega pikem kui kolm kuud. Notar võib inventuuri tähtaega kaalukal põhjusel pikendada.\n(5) Inventuuri käigus koostatakse pärandvara nimekiri, kuhu kantakse kõik pärandi avanemise ajal olemasolevad päritavad asjad ning õigused ja kohustused, samuti nende tähistamiseks ning väärtuse kindlakstegemiseks vajalik kirjeldus ja hinnang. Pärandvara nimekiri esitatakse notarile.\n(6) Kui inventuur on tehtud pärandvara hoiumeetme rakendamise ajal, ei ole olulise põhjuseta vaja pärija nõudel pärandit uuesti inventeerida.\n(7) Kui inventuur on ühe pärija nõudel tehtud, kehtivad käesoleva seaduse §-s 143 nimetatud tagajärjed kõigi pärijate suhtes, kes on nõudnud pärandi inventuuri. Sellisel juhul ei ole olulise põhjuseta vaja teise pärija nõudel pärandit uuesti inventeerida.\n(8) Inventuuri tegemise kulud hüvitatakse pärandvara arvel.\n(9) Valdkonna eest vastutav minister võib kehtestada pärandvara inventuuri tegemise täpse korra."
+    },
+    {
+      "provision_ref": "para140",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "140",
+      "title": "§ 140. Üleskutsemenetlus pärandaja kohustuste kindlakstegemiseks",
+      "content": "(1) Pärandaja kohustuste kindlakstegemiseks tuleb inventuuri käigus viia läbi üleskutsemenetlus.\n(2) Üleskutsemenetluse läbiviimiseks avaldab inventuuri tegija ametlikus väljaandes Ametlikud Teadaanded teate, mis peab sisaldama vähemalt järgmisi andmeid:\n1) teade pärandaja surmast ja sellest, et pärija või muu õigustatud isik nõuab pärandi inventuuri;\n2) üleskutse pärandvara suhtes nõudeid ja õigusi omavatele isikutele teatada oma nõuetest ja õigustest inventuuri tegijale ühe kuu jooksul üleskutse avaldamisest arvates;\n3) nõudest või õigusest tähtaegselt teatamata jätmise tagajärjed.\n(3) Üleskutsemenetluses ei pea teatama nõuetest, mis on tagatud käsipandiga või avalikku registrisse kantud pandiga, samuti käesoleva seaduse §-des 131–133 nimetatud nõuetest."
+    },
+    {
+      "provision_ref": "para141",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "141",
+      "title": "§ 141. Pärandvara nimekirja koostamine ja notarile esitamine",
+      "content": "(1) Pärandvara nimekirja kantakse pärandvara hulka kuuluvad esemed, üleskutsemenetluses tähtaegselt esitatud nõuded ja käesoleva seaduse § 140 lõikes 3 nimetatud nõuded. Nimekirja kantakse ka pärandaja võlausaldajate nõuded, mis on inventuuri tegijale teada.\n(2) Pärandvara nimekiri esitatakse notarile. Pärast pärandvara nimekirja notarile esitamist loetakse inventuur lõppenuks."
+    },
+    {
+      "provision_ref": "para142",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "142",
+      "title": "§ 142. Kohustuste täitmise järjekord",
+      "content": "(1) Pärast inventuuri tegemist täidetakse pärandvaraga seotud kohustused järgmiselt:\n1) esimeses järjekorras tasutakse pärandaja matuse, tema perekonnaliikmete ülalpidamise, pärandvara valitsemise ning inventuuri tegemise kulud;\n2) teises järjekorras rahuldatakse üleskutsemenetluses tähtaegselt esitatud pärandaja võlausaldajate nõuded ja inventuuri käigus väljaselgitatud nõuded;\n3) kolmandas järjekorras täidetakse annakud, sihtkäsundid ja sihtmäärangud.\n(2) Järgmise järjekorra kohustused täidetakse pärast eelmise järjekorra kohustuste täielikku täitmist.\n(3) Kui ühe järjekorra kohustuste täitmiseks ei jätku pärandvara, täidetakse need pärandvara arvel võrdeliselt nende suurusega.\n(4) Kui pärija täidab kohustused muus kui käesolevas paragrahvis sätestatud järjekorras või eelistab kohustuse täitmisel üht võlausaldajat teisele, vastutab ta seeläbi ülejäänud võlausaldajatele tekitatud kahju eest.\n(5) Pärandaja võib testamendis või pärimislepingus panna kohustuse täitmise mõnele pärijale või annakusaajale, kuid ei või muuta käesoleva paragrahvi lõigetes 1–3 sätestatud kohustuste täitmise korda.\n(6) Kui pärandvarast ei jätku kõigi käesoleva paragrahvi lõike 1 punktides 1 ja 2 nimetatud nõuete rahuldamiseks ja pärija ei ole nõus nende rahuldamisega oma vara arvel, on testamenditäitja, pärandvara hooldaja või pärija kohustatud viivitamata esitama avalduse pärandvara pankroti väljakuulutamiseks."
+    },
+    {
+      "provision_ref": "para143",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "143",
+      "title": "§ 143. Pärija vastutus pärast inventuuri tegemist ja pärandvara pankrotiavalduse esitamist",
+      "content": "(1) Pärast inventuuri tegemist on pärija vastutus pärandvaraga seotud kohustuste eest piiratud pärandvara väärtusega.\n(2) Kui pärija on käesoleva seaduse § 141 lõikes 1 nimetatud nõude täitnud enne inventuuri tegemist, vastutab ta seeläbi ülejäänud võlausaldajatele tekitatud kahju eest, kui ta kohustuse täitmise hetkel teadis või pidi teadma, et pärandaja võlausaldajate nõuded võivad ületada pärandvara väärtuse.\n(3) Üleskutsemenetluses tähtaegselt esitamata nõuete täitmise eest vastutab pärija pärast inventuuri tegemist üksnes ulatuses, milles ta on temale nõudest teatamise hetkel veel pärandvara arvel rikastunud.\n(4) Pärast pankrotiavalduse esitamist on pärija vastutus pärandvaraga seotud kohustuste eest piiratud pärandvaraga. Pärija on kohustatud pankrotivarasse välja andma selle, mis ta seoses pärandi avanemisega pärandaja varast on saanud või sellest loonud. Pankrotimenetluses esitamata nõuete täitmise eest vastutab pärija pärast pankrotimenetluse lõppemist üksnes ulatuses, milles ta on temale nõudest teatamise hetkel veel pärandvara arvel rikastunud.\n(4^1) Pärandaja pärandvara suhtes läbiviidavas pankrotimenetluses ei rahuldata pankrotivõlausaldajate nõudeid pärija isikliku vara arvel, välja arvatud juhul, kui on rikutud käesoleva paragrahvi lõike 4 teises lauses nimetatud kohustust või muud seadusest tulenevat kohustust ulatuses, millega on pankrotivõlausaldajatele kahju tekitatud.\n(5) Kui pärija on enne pärandvara pankrotiavalduse esitamist võlausaldaja nõude täitnud üht võlausaldajat teisele eelistades, vastutab ta seeläbi ülejäänud võlausaldajatele tekitatud kahju eest, kui ta kohustuse täitmise hetkel teadis või pidi teadma, et pärandaja võlausaldajate nõuded võivad ületada pärandvara väärtuse."
+    },
+    {
+      "provision_ref": "para144",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "144",
+      "title": "§ 144. Pärija pahatahtlikkus pärandi nimekirja koostamisel",
+      "content": "(1) Kui pärija jätab pärandvara nimekirja kandmiseks avaldamata pärandi hulka kuuluvaid asju või õigusi või avaldab olematuid kohustusi selleks, et kahjustada pärandaja võlausaldajaid, vastutab pärija pärandaja kohustuste täitmise eest ka oma varaga.\n(2) Käesoleva paragrahvi lõikes 1 sätestatut kohaldatakse ka pärandvara pankrotimenetluse puhul."
+    },
+    {
+      "provision_ref": "para145",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "145",
+      "title": "§ 145. Inventuuri tegija vastutus",
+      "content": "Kui inventuuri tegija süüliselt ei kanna pärandvara nimekirja pärandi hulka kuuluvat asja või õigust või kannab pärandvara nimekirja olematu kohustuse selleks, et kahjustada võlausaldaja või teiste pärandist kasu saama õigustatud isikute huve, vastutab ta tekitatud kahju eest kohtutäituri seaduse alusel."
+    },
+    {
+      "provision_ref": "para146",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "146",
+      "title": "§ 146. Pärandi väljaandmine",
+      "content": "(1) Isik, kes valdab pärijana pärandvara, kuid ei ole õigustatud pärima, on kohustatud pärijale, testamenditäitjale või pärandi hooldajale pärandvara välja andma.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud isik on andnud pärandvara hulka kuuluva asja isikule, kellele ta ei oleks pidanud seda andma, on õigus nõuda asi välja ka heauskselt valdajalt.\n(3) Pärandvara välja andnud isikul on õigus üleantavast pärandvarast maha arvata pärandaja matuse kulud, mis on tema kantud, samuti seadusjärgsele pärijale ja testamendi ning pärimislepingu korralduste täitmiseks üleantu.\n(4) Koos pärandiga läheb pärijale üle kohustus, mille pärandvara vallanud isik pidi endale võtma pärandvara valdamise tõttu."
+    },
+    {
+      "provision_ref": "para147",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "147",
+      "title": "§ 147. Kaaspärijate õigussuhted",
+      "content": "Kui pärandi on vastu võtnud mitu pärijat (kaaspärijad), kuulub pärandvara neile ühiselt (edaspidi pärandvara ühisus ). Pärandvara ühisusele ja kaaspärijate vahelistele suhetele kohaldatakse kaasomandi sätteid."
+    },
+    {
+      "provision_ref": "para148",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "148",
+      "title": "§ 148. Kaaspärija mõttelise osa käsutusõigus",
+      "content": "(1) Kaaspärija võib käsutada temale kuuluvat mõttelist osa pärandvara ühisusest. Kaaspärija ei või iseseisvalt käsutada pärandvara hulka kuuluvaid esemeid või mõttelist osa nendest.\n(2) Osa omandajale lähevad üle üksnes kaaspärija varalised õigused ja kohustused, eelkõige õigus nõuda seda osa pärandvarast, mille pärandvara jagamisel oleks saanud kaaspärija. Pärandil lasuvate kohustuste täitmise eest vastutavad kaaspärija ja osa omandaja solidaarselt.\n(3) Osa omandajal ei ole otsustusõigust pärandvara hulka kuuluvate kaaspärijale erilise mälestusväärtusega esemete jagamisel, kui kaaspärijate kokkuleppest ei tulene teisiti.\n(4) Tehing, millega kaaspärija kohustub omandama või võõrandama osa pärandvara ühisusest või käsutab temale kuuluvat osa pärandvara ühisusest, peab olema notariaalselt tõestatud."
+    },
+    {
+      "provision_ref": "para149",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "149",
+      "title": "§ 149. Kaaspärija ostueesõigus",
+      "content": "(1) Kui kaaspärija müüb oma osa pärandvara ühisusest kolmandale isikule, on ülejäänud kaaspärijatel ostueesõigus.\n(2) Ostueesõiguse teostamise tähtaeg on kaks kuud.\n(3) Osa võõrandaja peab osa omandi üleandmisest viivitamata teatama kaaspärijatele.\n(4) Pärandvara ühisuse osa omandi üleandmisega kaaspärijatele vabaneb ostja vastutusest pärandvara ühisuse osa omandamisega kaasnenud pärandil lasuvate kohustuste täitmise eest."
+    },
+    {
+      "provision_ref": "para150",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "150",
+      "title": "§ 150. Tasaarvestamiskeeld",
+      "content": "Võlgnik ei või pärandi hulka kuuluvat nõuet tasaarvestada talle mõne teise kaaspärija vastu kuuluva nõudega."
+    },
+    {
+      "provision_ref": "para151",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "151",
+      "title": "§ 151. Kohustuste ja kulude jaotamine",
+      "content": "(1) Pärandil lasuvad kohustused, samuti pärandaja matuse, pärandaja perekonnaliikmete ülalpidamise, pärandvara valitsemise ja inventuuri kulud ning muud pärandiga seoses tehtud vajalikud kulutused jaotatakse kaaspärijate vahel võrdeliselt nende pärandiosaga, kui testamendist või pärimislepingust ei tulene teisiti.\n(2) Pärandvarasse kuuluva kohustuse täitmise eest vastutavad pärijad solidaarselt."
+    },
+    {
+      "provision_ref": "para152",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "152",
+      "title": "§ 152. Pärandvara jagamise mõiste ja viis",
+      "content": "(1) Pärandvara jagamist võib nõuda iga kaaspärija, kui käesoleva seaduse § 155 sätetest ei tulene teisiti. Pärandvara jagamisel määratakse kindlaks, millised pärandi hulka kuuluvad asjad või nende osad, samuti õigused ja kohustused jäävad igale kaaspärijale.\n(2) Pärandvara jagatakse pärijate vahel vastavalt nende pärandiosale, lähtudes pärandvara hulka kuuluvate esemete harilikust väärtusest jagamise hetkel. Pärijate kokkuleppel võib pärandvara hulka kuuluvat asja hinnata pärija erilise huvi alusel.\n(3) Pärandvara jagamisel kohaldatakse kaasomandis oleva asja jagamise sätteid, kui käesolevast seadusest ei tulene teisiti.\n(4) Kaaspärijad jagavad pärandvara kokkuleppel. Vaidluse korral jagab pärandvara pärija nõudel kohus."
+    },
+    {
+      "provision_ref": "para154",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "154",
+      "title": "§ 154. Pärandvara osaline jagamine",
+      "content": "(1) Kui pärandvara jagatakse vaid ühe või mõne kaaspärija nõudel, jätkavad teised kaaspärijad pärandvarast nendele jääva osa ühist valdamist, kasutamist ja käsutamist.\n(2) Vähemalt kaks kaaspärijat võivad nõuda, et neile eraldataks ühine pärandiosa, mille valdamist, kasutamist ja käsutamist nad jätkavad kaasomandi kohta käivate sätete alusel."
+    },
+    {
+      "provision_ref": "para155",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "155",
+      "title": "§ 155. Pärandvara jagamise piirangud",
+      "content": "(1) Pärandvara jagamist võib nõuda üksnes tingimusel, et on teada kõik pärijad.\n(2) Kui pärijad on sõlminud kokkuleppe, et pärandit teatud tähtajal ei jagata, ei või pärandit enne kokkulepitud tähtaja möödumist jagada. Kui tähtajas ei ole kokku lepitud või on tähtaeg pikem kui kümme aastat, loetakse tähtajaks kümme aastat pärandi avanemise päevast arvates.\n(3) Pärandvara ei või jagada testamendi või pärimislepinguga määratud tähtaja jooksul, kui pärijad ei lepi kokku teisiti. Kui testamendi või pärimislepinguga on pärandvara jagamine keelatud tähtaega määramata või on tähtaeg pikem kui 30 aastat, loetakse tähtajaks 30 aastat pärandi avanemise päevast arvates."
+    },
+    {
+      "provision_ref": "para156",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "156",
+      "title": "§ 156. Jagatav vara",
+      "content": "(1) Pärandvara hulka kuulub ka vara, mille kaaspärijad on omandanud pärandvara hulka kuuluva õiguse alusel või pärandvara arvel või hüvitisena pärandvara hulka kuuluva eseme hävimise, kahjustamise või äravõtmise eest. Pärandvara jagamisel arvestatakse käesoleva seaduse §-des 162–164 sätestatut.\n(2) Kasu jaotatakse alles pärandvara jagamisel. Kui jagamine on välistatud kauemaks ajaks kui üks aasta, võib kaaspärija nõuda iga aasta lõpul puhastulu jaotamist.\n(3) Pärandvara jagamiseks on pärijad kohustatud avaldama jagatava vara kindlakstegemiseks ja pärandi jagamiseks vajalikud andmed."
+    },
+    {
+      "provision_ref": "para157",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "157",
+      "title": "§ 157. Pärandaja nõue pärija vastu",
+      "content": "Kui pärandajal oli nõue pärija vastu, arvestatakse seda pärandvara jagamisel võlgnikule ülemineva vara määramisel."
+    },
+    {
+      "provision_ref": "para158",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "158",
+      "title": "§ 158. Tasu pärandaja abistamise eest",
+      "content": "Pärandaja alaneja sugulane, kes on kaaspärijaks ja on pärandajat ühises majapidamises või majandus- või kutsetegevuses oma vara või tööga oluliselt abistanud ja pärandvara on selle tulemusena säilinud või suurenenud, võib pärandvara jagamisel nõuda selle eest pärandvara arvel õiglast hüvitist."
+    },
+    {
+      "provision_ref": "para159",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "159",
+      "title": "§ 159. Pärandvara hulka kuuluvate esemete jaotamine",
+      "content": "(1) Pärandvara hulka kuuluvaid esemeid jaotades arvestatakse iga kaaspärija erivajadusi ja -huve ning kaaspärijate enamiku soove, samuti testamendist või pärimislepingust tulenevat testaatori viimset tahet.\n(2) Pärandvara hulka kuuluv ese, mida ei saa jagada reaalosadeks või mille pärijate kaasomandisse jätmine ei võimaldaks eset otstarbekalt kasutada, antakse ühele pärijale.\n(3) Kui pärijad ei jõua kokkuleppele, kellele ese anda, müüakse see avalikul või pärijatevahelisel enampakkumisel ja saadud raha jagatakse pärijate vahel võrdeliselt nende pärandiosa suurusega.\n(4) Kui pärandvara jagamisel osutub ühele pärijale jääva vara väärtus suuremaks tema pärandiosast, on pärija kohustatud maksma teistele pärijatele rahalise hüvitise.\n(5) Kogumisse kuuluvaid asju ei või pärandvara jagamisel üksteisest eraldada, kui kas või üks pärija on eraldamise vastu või kui testamendist või pärimislepingust ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para160",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "160",
+      "title": "§ 160. Erilise mälestusväärtusega asjad",
+      "content": "Perekonnale erilise mälestusväärtusega asju pärandvara jagamisel ei müüda, kui kas või üks pärija on selle vastu. Sellisel juhul müüakse ese pärijatevahelisel enampakkumisel."
+    },
+    {
+      "provision_ref": "para161",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "161",
+      "title": "§ 161. Pärandvara täiendav jagamine",
+      "content": "Kui pärandvara jagamise järel ilmneb, et osa varast on jäänud arvestamata, jagatakse täiendavalt ka see osa."
+    },
+    {
+      "provision_ref": "para162",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "162",
+      "title": "§ 162. Eelpärandi mõiste",
+      "content": "(1) Eelpärand on vara, mille pärandaja on kinkinud oma alanejale sugulasele, kes pärandi avanemisel oleks tema seadusjärgne pärija.\n(2) Kingitud vara on eelpärand, kui pärandaja on kinkimisel nii määranud.\n(3) Eelpärandi kohta sätestatut kohaldatakse üksnes seadusjärgsel pärimisel. Kui testamendis või pärimislepingus ei erine pärandiosade suurus seadusjärgsete pärandiosade suurusest, kohaldatakse käesoleva seaduse § 162–164 ka testamendijärgse pärimise korral."
+    },
+    {
+      "provision_ref": "para163",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "163",
+      "title": "§ 163. Eelpärandi üleminek",
+      "content": "Kui eelpärandi saanud alaneja sugulane suri pärast pärandi avanemist, on pärandist loobunud või ei ole pärandit vastu võtnud, loetakse, et eelpärandi on saanud selle alaneja sugulase asemele astunud pärija."
+    },
+    {
+      "provision_ref": "para164",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "164",
+      "title": "§ 164. Eelpärandi arvestamine",
+      "content": "(1) Jagatava pärandi suuruse määramisel arvestatakse eelpärandi väärtust. Pärandvara hulka kuuluvate esemete jaotamisel arvestatakse, et eelpärandi saanud pärija on eelpärandile vastava osa pärandist kätte saanud.\n(2) Kui eelpärand on suurem selle saanud pärija pärandiosast, ei ole pärija kohustatud pärandiosa ületavat eelpärandi osa teistele pärijatele hüvitama. Selle võrra väheneb pärandvara jagamisel teiste pärijate saadav osa.\n(3) Eelpärandi saanud pärijal on õigus anda eelpärand jagatava pärandvara hulka, kui eelpärandi väärtus ei ole pärast selle saamist oluliselt vähenenud. Sel juhul ei loeta kinki eelpärandiks.\n(4) Pärandi jagamisel ei arvestata eelpärandina saadud vara, kui seda ei ole alles ning eelpärija ei ole sellest varast kasu saanud ega ole selle hävimises süüdi."
+    },
+    {
+      "provision_ref": "para165",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "165",
+      "title": "§ 165. Notari pädevus",
+      "content": "(1) Käesolevas peatükis nimetatud notariaaltoiminguid teeb notar, kelle juures on algatatud pärimismenetlus.\n(2) Pärimismenetluse viib läbi Eesti notar, kui pärandaja viimane elukoht oli Eestis.\n(3) Kui pärandaja viimane elukoht oli välisriigis, viib Eesti notar pärimismenetluse läbi üksnes Eestis asuva vara suhtes tingimusel, et välisriigis ei ole võimalik pärimismenetlust läbi viia või välisriigis läbiviidav menetlus ei hõlma Eestis asuvat vara või Eestis ei tunnustata välisriigis koostatud pärimistunnistust.\n(3^1) Pärimismenetluse viib läbi Eesti notar, kui Euroopa Parlamendi ja nõukogu määruse (EL) nr 650/2012, mis käsitleb kohtualluvust, kohaldatavat õigust ning otsuste tunnustamist ja täitmist, ametlike dokumentide vastuvõtmist ja täitmist pärimisasjades ning Euroopa pärimistunnistuse loomist (ELT L 201, 27.07.2012, lk 107–134), kohaselt tuleb pärimismenetlus läbi viia Eestis, kohaldades nimetatud määruse artikleid 4–15 ja 17. Kui läbiviidav pärimismenetlus ei kuulu Euroopa Parlamendi ja nõukogu määruse (EL) nr 650/2012 kohaldamisalasse, kohaldatakse käesoleva paragrahvi lõigetes 2 ja 3 sätestatut.\n(4) Välisriigis koostatud pärimistunnistust tunnustatakse Eestis Euroopa Parlamendi ja nõukogu määruse (EL) nr 650/2012 kohaselt. Kui nimetatud määrus ei kohaldu, siis tunnustatakse välisriigis koostatud pärimistunnistust Eestis, kui selle koostamise menetlus ja õiguslik tähendus on võrreldavad Eesti õiguses pärimistunnistuse kohta sätestatuga. Sellisel juhul kohaldatakse tunnustamisele tsiviilkohtumenetluse seadustikus välisriigi kohtulahendi tunnustamise kohta sätestatut. Tunnustamise lahendab Harju Maakohus.\n(4^1) Käesoleva paragrahvi lõikes 4 sätestatut kohaldatakse ka muude pärimisõiguslike dokumentide tunnustamisele.\n(5) Pärandist loobumise avalduse võib tõestada iga notar. Pärast pärandist loobumise avalduse tõestamist edastab notar avalduse pärimismenetlust läbiviivale notarile.\n(6) Valdkonna eest vastutav minister kehtestab käesoleva seaduse alusel notari ametitoimingute tegemise korra."
+    },
+    {
+      "provision_ref": "para165^1",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "165^1",
+      "title": "§ 165^1. Euroopa Parlamendi ja nõukogu määruse (EL) 2020/1783 rakendamine",
+      "content": "(1) Eesti notar loetakse Euroopa Parlamendi ja nõukogu määruse (EL) 2020/1783, mis käsitleb liikmesriikide kohtute vahelist koostööd tõendite kogumisel tsiviil- ja kaubandusasjades (tõendite kogumine) (uuesti sõnastatud) (ELT L 405, 02.12.2020, lk 1–39), artikli 2 punkti 1 tähenduses kohtuks pärimisasja menetlemisel.\n(2) Eesti notari taotlusel mõnes muus Euroopa Liidu liikmesriigis tõendite kogumiseks abi osutamisele tema menetluses olevas pärimisasjas kohaldatakse käesolevas seaduses sätestatut niivõrd, kuivõrd Euroopa Parlamendi ja nõukogu määruses (EL) 2020/1783 sätestatust ei tulene teisiti.\n(3) Tõendite kogumine mõnes muus Euroopa Liidu liikmesriigis toimub Euroopa Parlamendi ja nõukogu määruses (EL) 2020/1783 sätestatud korras teise riigi kohtu abil või vahetult."
+    },
+    {
+      "provision_ref": "para166",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "166",
+      "title": "§ 166. Pärimismenetluse algatamine",
+      "content": "(1) Pärimismenetluse algatamiseks esitab pärija, pärandaja võlausaldaja, annakusaaja või muu pärandvara suhtes õigusi omav isik notarile vastava notariaalselt tõestatud avalduse.\n(2) Pärimismenetluse algataja teatab, millal pärija sai oma pärimisõigusest teada ja kas ta on pärandi vastu võtnud.\n(3) Pärimismenetluse algatamise avalduses esitab menetluse algataja andmed pärandi avanemise kohta, talle teada olevate pärijate ning võimalike sundosasaajate kohta, talle teada olevate testamentide ja pärimislepingute kohta ja talle teada olevate pärandaja kohustuste kohta.\n(4) Enne pärimismenetluse algatamise avalduse vastuvõtmist kontrollib notar pärimisregistrist, kas samas pärimisasjas on pärimismenetlus algatatud.\n(4^1) Pärimismenetluse algatamise kohta teeb notar viivitamata pärast pärimismenetluse algatamise avalduse vastuvõtmist pärimisregistrisse kande.\n(5) Pärimismenetluse viib läbi notar, kes on kantud pärimismenetluse läbiviijana pärimisregistrisse. Kui pärimisregistri andmetel on pärimismenetlus juba algatatud teisele notarile esitatud avaldusega, edastab hilisema avalduse vastu võtnud notar selle pärimismenetlust läbiviivale notarile."
+    },
+    {
+      "provision_ref": "para167",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "167",
+      "title": "§ 167. Pärimismenetluse läbiviimine",
+      "content": "(1) Notar kontrollib pärimisregistrist andmeid pärandaja testamentide ja pärimislepingute kohta ning saadab juhul, kui nimetatud dokumente ei ole pärimisregistri arhiivis, nende andmete alusel nimetatud dokumentide hoidjatele teate pärandi avanemise kohta ja palub dokumendid endale saata.\n(1^1) Pärimismenetluse algatamiseks õigustatud isiku taotluse alusel või põhjendatud vajaduse korral teeb notar pärandaja testamendi ja pärimislepingu väljaselgitamiseks päringu välisriigi vastavasse registrisse.\n(2) Notar teeb päringud pärandaja õiguste ja kohustuste kohta registritesse, mille loetelu kehtestab valdkonna eest vastutav minister määrusega.\n(3) Notar esitab pärandaja õiguste ja kohustuste kohta elektroonilises vormis järelepärimise Eesti Vabariigis tegutsevatele krediidiasutustele, mille loetelu kehtestab valdkonna eest vastutav minister määrusega. Järelepärimise saanud krediidiasutus, kellel on andmeid pärandaja õiguste ja kohustuste kohta, on kohustatud esitama need andmed notarile tasuta elektroonilises vormis kümne tööpäeva jooksul järelepärimise saamisest arvates.\n(4) Pärimismenetluse algataja või muu pärandvara suhtes õigusi omava isiku notariaalselt tõestatud avalduse alusel võib notar lisaks käesoleva paragrahvi lõikes 2 ja 3 sätestatule teha järelepärimisi ka muudele isikutele.\n(4^1) Kui pärandaja oli pärandi avanemise ajal abielus või registreeritud kooselus ja abikaasade või registreeritud elukaaslaste varasuhte liik oli varaühisus, esitab notar käesoleva paragrahvi lõigetes 2–4 sätestatud päringud ja järelepärimised ka pärandaja üleelanud abikaasa või registreeritud elukaaslase õiguste ja kohustuste kohta.\n(5) Tunnistajate juuresolekul allakirjutatud testamendi õigsuse väljaselgitamiseks on notaril õigus kuulata ära käesoleva seaduse §-s 23 nimetatud tunnistajad."
+    },
+    {
+      "provision_ref": "para168",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "168",
+      "title": "§ 168. Teade pärimismenetluse algatamise kohta",
+      "content": "(1) Notar avaldab hiljemalt kaks tööpäeva pärast pärimismenetluse algatamist selle kohta teate ametlikus väljaandes Ametlikud Teadaanded.\n(2) Notar saadab talle teada olevatele pärijatele teate pärimismenetluse algatamise kohta. Notar teavitab ka muid isikuid, kellele on testamendi või pärimislepinguga antud õigusi või pandud kohustusi.\n(3) Viimse tahte alusel toimuva pärimise puhul teavitab notar ka isikuid, kes oleksid pärinud seadusjärgse pärimise korral. Kui selline isik või tema elukoht ei ole teada, kohaldatakse käesoleva seaduse § 169.\n(4) Käesoleva paragrahvi lõigetes 1–3 nimetatud teadetes sisalduvate andmete loetelu kehtestab valdkonna eest vastutav minister määrusega.\n(5)"
+    },
+    {
+      "provision_ref": "para169",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "169",
+      "title": "§ 169. Pärija väljaselgitamise üleskutsemenetlus",
+      "content": "(1) Kui pärija ei ole teada või tema elukoha kohta puuduvad usaldusväärsed andmed, viib notar läbi pärija väljaselgitamise üleskutsemenetluse.\n(2) Notar avaldab üleskutse pärija väljaselgitamiseks ametlikus väljaandes Ametlikud Teadaanded. Notar võib üleskutse avaldada lisaks ka muus väljaandes.\n(3) Kui notar ei ole enne pärija väljaselgitamise üleskutsemenetluse läbiviimist avaldanud teadet pärimismenetluse algatamise kohta, avaldab ta üleskutse koos pärimismenetluse algatamise teatega.\n(4)\n(5)"
+    },
+    {
+      "provision_ref": "para170",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "170",
+      "title": "§ 170. Info avaldamine pärimismenetluse ajal",
+      "content": "(1) Pärimismenetluse algatamiseks õigustatud isikul on pärimismenetluse läbiviimise ajal õigus saada notarilt infot selle kohta, kes on pärandi vastu võtnud ja kes on pärandist loobunud. Sama õigus on ka viimse tahte alusel toimuva pärimise puhul isikul, kes oleks pärinud seadusjärgse pärimise korral.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud isikutel on õigus tutvuda ka käesoleva seaduse §-s 167 sätestatud päringute ja järelepärimiste tulemustega.\n(3) Viimse tahte alusel toimuva pärimise puhul on isikul, kes oleks pärinud seadusjärgse pärimise korral, testamendiga ja pärimislepinguga tutvumise õigus. See õigus on nimetatud isikul ka pärast pärimistunnistuse tõestamist."
+    },
+    {
+      "provision_ref": "para171",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "171",
+      "title": "§ 171. Pärimistunnistus",
+      "content": "(1) Notar tõestab pärimistunnistuse, kui pärija pärimisõigus ja selle ulatus on piisavalt tõendatud, kuid mitte enne ühe kuu möödumist käesoleva seaduse § 168 lõikes 1 nimetatud teate avaldamisest.\n(1^1) Notar tõestab Euroopa pärimistunnistuse Euroopa Parlamendi ja nõukogu määruse (EL) nr 650/2012 kohaselt.\n(2) Mitme pärija korral märgib notar pärimistunnistuses iga pärija pärandiosa suuruse.\n(3) Kui pärimistunnistus tõestatakse eelpärija kohta, tuleb pärimistunnistuses märkida, et pärija on eelpärija, ning nimetada järelpärija ja tingimused, millal pärand läheb järelpärijale üle. Käesoleva seaduse §-s 54 nimetatud juhtudel tuleb pärimistunnistuses märkida, et eelpärija on vabastatud piirangutest pärandvara käsutamisel ning on õigustatud pärandvara vabalt käsutama.\n(4) Kui testaator on määranud testamenditäitja, märgib notar pärimistunnistuses testamenditäitja nime ja isikukoodi.\n(5) Kui pärandaja oli pärandi avanemise ajal abielus või registreeritud kooselus, märgib notar pärimistunnistusele pärandaja üleelanud abikaasa või registreeritud elukaaslase ees- ja perekonnanime, isikukoodi, abielu või kooselulepingu sõlmimise aja ning andmed abikaasade või registreeritud elukaaslaste varasuhte kohta. Kui pärandaja abielu või kooseluleping oli enne pärandi avanemist lõppenud, kuid abikaasade või registreeritud elukaaslaste ühisvara oli jäänud jagamata, märgib notar pärimistunnistusele ka selle asjaolu ning pärandajaga abielus või registreeritud kooselus olnud isiku ees- ja perekonnanime, isikukoodi, abielu või kooselulepingu sõlmimise ja lõppemise aja, samuti andmed abikaasade või registreeritud elukaaslaste varasuhte kohta.\n(6) Kui mõistliku aja jooksul pärija väljaselgitamise üleskutsemenetluses üleskutse avaldamisest arvates ei ole pärija pärimisõigus või selle ulatus pärimistunnistuse tõestamiseks piisavalt tõendatud, tõestab notar pärimistunnistuse, milles märgib talle pärimismenetluses teatavaks saanud andmed isikute kohta, kes on pärandi vastu võtnud, samuti võimaluse korral andmed isikute kohta, kellel võib selleks õigus olla.\n(7) Kui isiku pärimisõigus tuvastatakse kohtulahendis, mis asendab pärimistunnistust, märgitakse kohtulahendi resolutsioonis ka kõik need andmed, mis seaduse kohaselt märgitakse pärimistunnistusele."
+    },
+    {
+      "provision_ref": "para172",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "172",
+      "title": "§ 172. Annakusaaja tunnistus",
+      "content": "(1) Notar tõestab pärija, testamenditäitja või annakusaaja notariaalselt tõestatud avalduse alusel tunnistuse annakust tuleneva nõude kohta (edaspidi annakusaaja tunnistus ).\n(2) Annakusaaja tunnistuses märgitakse annakusaaja ja annakuks määratud ese."
+    },
+    {
+      "provision_ref": "para173",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "173",
+      "title": "§ 173. Sundosa saaja tunnistus",
+      "content": "(1) Notar tõestab pärija, testamenditäitja või sundosa saamiseks õigustatud isiku notariaalselt tõestatud avalduse alusel tunnistuse sundosast tuleneva nõude kohta (edaspidi sundosa saaja tunnistus ).\n(2)\n(3) Sundosa saaja tunnistuses märgitakse sundosa saaja ja sundosa suurus mõttelise osana pärandist.\n(4)"
+    },
+    {
+      "provision_ref": "para174",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "174",
+      "title": "§ 174. Tunnistuse kavandi koostamine",
+      "content": "(1) Notar võib kõigepealt koostada pärimistunnistuse, annakusaaja tunnistuse, sundosa saaja tunnistuse või testamenditäitja tunnistuse kavandi ning määrata tunnistuse tõestamiseks hilisema tähtpäeva.\n(2) Notar tõestab käesoleva paragrahvi lõikes 1 sätestatud juhul eelneva kavandi kohase tunnistuse, kui talle ei ole tunnistuse tõestamise tähtpäevaks laekunud tunnistuse tõestamist keelavat kohtumäärust."
+    },
+    {
+      "provision_ref": "para175",
+      "chapter": "6. peatükk - PÄRIMISE KÄIK",
+      "section": "175",
+      "title": "§ 175. Tunnistuse kehtetuks tunnistamine",
+      "content": "(1) Kui pärast pärimistunnistuse, annakusaaja tunnistuse, sundosa saaja tunnistuse või testamenditäitja tunnistuse tõestamist ilmneb selle ebaõigsus, tunnistab notar selle asjast huvitatud isiku notariaalselt tõestatud avalduse alusel või omal algatusel kehtetuks.\n(2) Tunnistuse kehtetuks tunnistamisel viib notar läbi uue pärimismenetluse. Kui kehtetuks tunnistatud tunnistuse alusel on pärija kohta tehtud kanne kinnistusraamatusse ja võib eeldada, et kande parandamine on võimalik, esitab notar avalduse kinnistusraamatusse vastuväite kandmiseks.\n(3) Tunnistuse kehtetuks tunnistamise nõue tuleb esitada kolme aasta jooksul selle kehtetuse alusest teada saamisest või teada saama pidamisest arvates, kuid mitte rohkem kui 30 aastat pärast pärandi avanemist.\n(4) Kui notar keeldub pärimismenetluses tõestatud tunnistust kehtetuks tunnistamast, võib õigustatud huviga isik nõuda kohtus tunnistuse kehtetuks tunnistamist. Tunnistuse kehtetuks tunnistamise hagi esitatakse isiku vastu, kes on õigustatud isik tunnistuse kohaselt.\n(5) Huvitatud isiku taotlusel võib notar või kohus ennistada käesoleva paragrahvi lõikes 3 nimetatud tähtaja. Ennistamisele kohaldatakse tsiviilkohtumenetluse seadustikus menetlustähtaja ennistamise kohta sätestatut."
+    },
+    {
+      "provision_ref": "para176",
+      "chapter": "7. peatükk - PÄRIMISREGISTER",
+      "section": "176",
+      "title": "§ 176. Pärimisregistri pidamine",
+      "content": "(1)\n(2) Pärimisregistrit peab Notarite Koda (edaspidi registripidaja ).\n(2^1) Pärimisregister on elektrooniline andmekogu, mille eesmärk on aidata kaasa pärimismenetluse korrektsele läbiviimisele ning pärija ja pärandaja õiguste kaitse tagamisele, võimaldada dokumentide ja andmete elektroonilist säilimist, edastamist ning avalikkuse informeerimist.\n(2^2) Pärimisregistri vastutav töötleja on Justiits- ja Digiministeerium ning volitatud töötlejad on notarid, erikutsega konsulaarametnikud ja kohtud.\n(3) Valdkonna eest vastutav minister kehtestab määrusega pärimisregistri pidamise, pärimisregistrisse kannete tegemise ja pärimisregistrist teabe väljastamise korra.\n(4) Pärimisregistrile ja selle pidamisele kohaldatakse avaliku teabe seaduses andmekogude kohta sätestatut käesolevas seaduses sätestatud erisustega.\n(5)"
+    },
+    {
+      "provision_ref": "para176^1",
+      "chapter": "7. peatükk - PÄRIMISREGISTER",
+      "section": "176^1",
+      "title": "§ 176^1. Pärimisregistri koosseis",
+      "content": "(1) Pärimisregister koosneb registrisse kantavatest andmetest ja arhiivist. Pärimisregistrisse kantud andmetel on informatiivne tähendus.\n(2) Pärimisregistrisse kantakse andmed testamentide, pärimislepingute, pärandvara hoiumeetmete, pärimismenetluste, pärimistunnistuste, Euroopa pärimistunnistuste ja pärandvara ühisusest osa võõrandamiste ning menetlustoimingute tegijate, pärijate ja pärandajate kohta, samuti muud pärimismenetluste läbiviimist ja üleandmist ning Euroopa Parlamendi ja nõukogu määruse (EL) nr 650/2012 alusel läbiviidavate pärimismenetluste peatamist, jätkamist ja lõpetamist puudutavad andmed.\n(3) Pärimisregistri arhiivis säilitatakse testamentide, välja arvatud kodused testamendid, ja pärimislepingute digitaalseid ärakirju. Digitaalne ärakiri testamendi või pärimislepingu originaalist loetakse võrdseks originaaliga, kui pärimisregistrisse ei ole kantud märget selle kohta, et digitaalne ärakiri on tehtud testamendi või pärimislepingu ärakirjast."
+    },
+    {
+      "provision_ref": "para176^3",
+      "chapter": "7. peatükk - PÄRIMISREGISTER",
+      "section": "176^3",
+      "title": "§ 176^3. Pärimisregistrisse kantud andmete säilitustähtaeg",
+      "content": "(1) Andmeid testamentide ja pärimislepingute kohta säilitatakse alaliselt.\n(2) Andmeid pärandvara hoiumeetmete rakendamise ja muutmise kohta säilitatakse 30 aastat alates pärimisregistri kande tegemisest.\n(3) Andmeid pärimistunnistuse tõestamise ja pärandvara ühisusest osa võõrandamise kohta säilitatakse 30 aastat alates pärimisregistri kande tegemisest."
+    },
+    {
+      "provision_ref": "para177^1",
+      "chapter": "7. peatükk - PÄRIMISREGISTER",
+      "section": "177^1",
+      "title": "§ 177^1. Pärimisregistri kanded",
+      "content": "(1) Ametitoimingutega seotud pärimisregistri kanded teeb notar.\n(2) Pärimisregistri kande võib teha ka kohus või konsulaarametnik.\n(3) Testaator või isik, kellele testaator on testamendi hoiule andnud, võib teatada koduse testamendi tegemisest ning selle muutmisest ja tühistamisest:\n1) vastava veebiteenuse kaudu või\n2) esitades registripidajale vastavasisulise teatise.\n(4) Käesoleva paragrahvi lõike 3 punktis 2 nimetatud juhul ning olukorras, kui kande tegemiseks puudub muu pädev asutus, teeb pärimisregistri kande registripidaja.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud kande tegemise eest tasutakse teenustasu viis eurot."
+    },
+    {
+      "provision_ref": "para178",
+      "chapter": "7. peatükk - PÄRIMISREGISTER",
+      "section": "178",
+      "title": "§ 178. Andmete saladuses hoidmine",
+      "content": "Registrisse testamendi ja pärimislepingu kohta kantud andmeid hoitakse kuni pärandi avanemiseni saladuses."
+    },
+    {
+      "provision_ref": "para179",
+      "chapter": "7. peatükk - PÄRIMISREGISTER",
+      "section": "179",
+      "title": "§ 179. Pärimisregistrist teabe andmine",
+      "content": "(1) Pärimisregistri andmetega võib igaüks tutvuda pärast seda, kui pärandaja surm on tõendatud. Abikaasade vastastikuse testamendi kohta antakse teavet pärast ühe abikaasa surma.\n(2) Pärimisregistrisse kantud andmetega tutvumiseks piisab pärandaja ees- ja perekonnanimest ning isikukoodist.\n(2^1) Pärimisregistri andmetega on võimalik tutvuda notaribüroos või vastava veebilehe kaudu.\n(2^2) Välisriigi testamendiregistri päringutele, välisriigi pädeva asutuse päringutele Euroopa Parlamendi ja nõukogu määruse (EL) nr 650/2012 artikli 66 lõike 5 alusel ja teistele päringutele, mille puhul esineb õiguslik alus andmete saamiseks, kuid puudub pädev asutus andmete väljastamiseks, vastab registripidaja.\n(2^3) Pärimisregistri andmetega tutvumise eest notaribüroos tasutakse notari tasu notari tasu seaduse järgi, kui notari tasu seaduses ei ole sätestatud teisiti.\n(2^4) Pärimisregistrisse kantud andmed avalikustatakse ajakohasena ning viisil ja vormis, mis võimaldab üksikpäringuna saadud teabe allalaadimist masinloetaval kujul. Automatiseeritud päringuid avatakse üksnes seadusest tuleneva avalik-õigusliku ülesande täitmiseks.\n(3) Isiku soovil kinnitab notar pärimisregistri andmete väljatrüki.\n(4)\n(5) Käesoleva paragrahvi lõikes 2^2 nimetatud juhul tasub välisriigi testamendiregistri pidaja registripidajale päringule vastamise eest teenustasu kolm eurot."
+    },
+    {
+      "provision_ref": "para180",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "180",
+      "title": "§ 180. Pärimisseaduse kohaldamine",
+      "content": "Pärimisele kohaldatakse pärandi avanemise ajal kehtinud õigust, kui käesoleva seaduse rakendussätetest ei tulene teisiti. Pärimisele kohaldatava õiguse ulatus määratakse rahvusvahelise eraõiguse seaduse § 26 järgi."
+    },
+    {
+      "provision_ref": "para181",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "181",
+      "title": "§ 181. Testament",
+      "content": "(1) Testament või pärimisleping on kehtiv, kui see on tehtud kooskõlas testamendi tegemise või pärimislepingu sõlmimise ajal kehtinud seadusega.\n(2) Enne 2009. aasta 1. jaanuari tehtud testamendi teksti tõlgendamiseks kohaldatakse käesoleva seaduse §-de 28–34 sätteid."
+    },
+    {
+      "provision_ref": "para182",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "182",
+      "title": "§ 182. Annak",
+      "content": "Kui pärand on avanenud enne 2009. aasta 1. jaanuari ja annak täidetakse pärast 2009. aasta 1. jaanuari, kohaldatakse annaku täitmisel käesoleva seaduse §-de 67–69 sätteid."
+    },
+    {
+      "provision_ref": "para183",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "183",
+      "title": "§ 183. Kohustuste täitmise järjekord",
+      "content": "Kui pärand on avanenud enne 2009. aasta 1. jaanuari ja kohustus täidetakse pärandi arvel pärast 2009. aasta 1. jaanuari, kohaldatakse kohustuste täitmise järjekorda määrates käesolevas seaduses sätestatut."
+    },
+    {
+      "provision_ref": "para184",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "184",
+      "title": "§ 184. Kaaspärijate õigussuhted",
+      "content": "Kui pärand on avanenud enne 2009. aasta 1. jaanuari ja kaaspärijate õigusi teostatakse, kohustusi täidetakse või pärandvara jagatakse pärast 2009. aasta 1. jaanuari, kohaldatakse käesoleva seaduse §-de 147–157 ja 159–161 sätteid."
+    },
+    {
+      "provision_ref": "para184^1",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "184^1",
+      "title": "§ 184^1. Pärimisregistri pidamine",
+      "content": "(1) Kuni 2015. aasta 1. jaanuarini peab pärimisregistrit Harju Maakohus.\n(2) Alates 2013. aasta 1. septembrist kuni pärimisregistri pidamise üleandmiseni Notarite Kojale võivad notar, kohus ja konsulaarametnik pärimisregistrisse kande tegemise asemel esitada Harju Maakohtule vastavasisulise teatise.\n(3) Kuni pärimisregistri pidamise üleandmiseni Notarite Kojale saab pärimisregistrisse kantud andmetega tutvuda ka Harju Maakohtu pärimisregistris."
+    },
+    {
+      "provision_ref": "para185",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "185",
+      "title": "§ 185.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para189",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "189",
+      "title": "§ 189.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para190",
+      "chapter": "8. peatükk - RAKENDUSSÄTTED",
+      "section": "190",
+      "title": "§ 190. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2009. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": []
+}

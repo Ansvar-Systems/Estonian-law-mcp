@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-201112016002",
+  "type": "statute",
+  "title": "Pariisi kokkuleppe ratifitseerimise seadus",
+  "title_en": "Pariisi kokkuleppe ratifitseerimise seadus",
+  "short_name": "ee-law-201112016002",
+  "status": "in_force",
+  "issued_date": "2016-10-26",
+  "in_force_date": "2016-11-02",
+  "url": "https://www.riigiteataja.ee/akt/201112016002.xml",
+  "description": "Official consolidated statute text (Pariisi kokkuleppe ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud Pariisi kokkulepe, mis on koostatud 2015. aasta 12. detsembril Pariisis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Seadus jõustub Riigi Teatajas avaldamisele järgneval päeval."
+    }
+  ],
+  "definitions": []
+}

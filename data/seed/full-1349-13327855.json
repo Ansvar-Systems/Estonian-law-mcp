@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-13327855",
+  "type": "statute",
+  "title": "Toote ja teenuse ohutuse seadus",
+  "title_en": "Toote ja teenuse ohutuse seadus",
+  "short_name": "TTeOS",
+  "status": "in_force",
+  "issued_date": "2004-03-24",
+  "in_force_date": "2010-10-01",
+  "url": "https://www.riigiteataja.ee/akt/13327855.xml",
+  "description": "Official consolidated statute text (Toote ja teenuse ohutuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Kehtetu – RT I 2010, 31, 158 – jõust. 1.10.2010"
+    }
+  ],
+  "definitions": []
+}

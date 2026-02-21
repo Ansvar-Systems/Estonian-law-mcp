@@ -1,0 +1,483 @@
+{
+  "id": "ee-law-115032014014",
+  "type": "statute",
+  "title": "Mereteenistuse seadus",
+  "title_en": "Mereteenistuse seadus",
+  "short_name": "ee-law-115032014014",
+  "status": "in_force",
+  "issued_date": "2001-02-08",
+  "in_force_date": "2014-07-01",
+  "url": "https://www.riigiteataja.ee/akt/115032014014.xml",
+  "description": "Official consolidated statute text (Mereteenistuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolevas seaduses sätestatakse Eesti laevakinnistusraamatusse või laevapereta prahitud laevade registrisse kantud laevadel (edaspidi Eestis registreeritud laevad ) töötavate isikute töösuhtega seonduvad erisused.\n(2) Käesolevat seadust kohaldatakse § 3 lõikes 1 sätestatud laevapere liikmele. Muu isiku töösuhtele kohaldatakse käesolevat seadust seadusega ettenähtud juhtudel."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Tööseaduste kohaldamise erisused",
+      "content": "Töösuhet reguleerivaid seadusi kohaldatakse käesoleva seaduse § 1 lõikes 2 nimetatud isikutele käesolevas seaduses sätestatud erisustega."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Laevapere liige",
+      "content": "(1) Laevapere liige on isik, kes on tööle võetud töökohustuste täitmiseks laeval, et laeva käigus hoida või teenindada laeva ja/või reisijaid. Laevapere liikmega sõlmitakse meretööleping.\n(2) Laev mehitatakse meresõiduohutuse seadusega kehtestatud korras laeva käitamiseks ja ohutuks kasutamiseks vajalike töötajatega ning vajaduse korral abitöödeks ja teenuste osutamiseks teiste töötajatega, kelle ettevalmistus peab vastama nende tööülesannetele.\n(3) Laevapere liikmed kantakse munsterrolli.\n(4) Laevapere liikmeks ei loeta isikuid, kes ainult laeva sadamasoleku ajal teevad laeval kontrollimis-, lastimis-, hooldus- ja koristustöid ning lootsimist, seadmete ja mehhanismide remondi- ja kontrollimistöid või muid sarnaseid töid."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Reeder",
+      "content": "Reeder käesoleva seaduse tähenduses on ettevõtja, kes valdab laeva ja kasutab seda enda nimel ja arvel oma majandustegevuses ja sõlmib laevapere liikmega meretöölepingu."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Laeva sõidupiirkonnad",
+      "content": "(1) Laeva sõidupiirkonnad käesoleva seaduse tähenduses on kohaliku rannasõidu, lähisõidu- ja rahvusvahelise meresõidu piirkond.\n(2) Kohalik rannasõit on meresõit Eesti rannikulähedastes vetes kaugenemisega kaldast kuni 20 miili.\n(3) Lähisõit on meresõit Läänemerel sisenemiseta Kieli kanalisse ja Kattegati väinas Skageni neeme paralleelist lõuna poole jäädes.\n(4) Rahvusvaheline meresõit on meresõit väljaspool kohaliku rannasõidu piirkonda, mille ajal peatutakse välisriigi sadamas."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Seaduse imperatiivsus",
+      "content": "Käesolevas seaduses sätestatust kõrvalekalduvad kokkulepped laevapere liikme või muu laeval töötava isiku kahjuks on tühised, kui seadusega ei ole ette nähtud teisiti."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - MERETÖÖLEPING",
+      "section": "7",
+      "title": "§ 7. Meretöölepingu pooled",
+      "content": "(1) Meretöölepingu pooled on laevapere liige ja reeder või muu tööandja.\n(2) Erandina võib meretöölepingu sõlmida reederi loal kapten, kui see on tingitud ohutu meresõidu jätkamise vajadusest. Meretöölepingu sõlmimise vajadusest tuleb võimaluse korral reederile eelnevalt teatada.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud juhul võib meretöölepingu sõlmida kuni neljaks kuuks.\n(4) Käesolevas paragrahvis sätestatud nõuete rikkumine ei too kaasa meretöölepingu tühisust."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - MERETÖÖLEPING",
+      "section": "8",
+      "title": "§ 8. Meretöölepingu mõiste, tingimused ja vorm",
+      "content": "(1) Meretööleping on reederi või muu tööandja ja laevapere liikme vaheline kokkulepe, mille kohaselt laevapere liige kohustub töötama reederi huvides, alludes tema juhtimisele ja kontrollimisele, reeder aga kohustub maksma laevapere liikmele töö eest tasu ning tagama talle seaduse, muu õigusakti, meretöö- ja kollektiivlepinguga ning poolte kokkuleppel ettenähtud töötingimused.\n(2) Meretööleping sõlmitakse kirjalikult kahes eksemplaris, millest üks jääb reederile, teine laevapere liikmele.\n(3) Meretöölepingus peavad sisalduma vähemalt järgmised andmed:\n1) meretöölepingu pooled, sealhulgas laevapere liikme isikuandmed ja isikukood;\n2) meretöölepingu sõlmimise aeg ja koht;\n3) tööle asumise aeg ja koht;\n4) määratud ajaks sõlmitud meretöölepingu lõppemise tähtaeg;\n5) esimene laev, millel laevapere liige tööle asub;\n6) amet ja töö kirjeldus või viide ametijuhendile;\n7) palgamäär, makstavad lisatasud, palga arvutamise alused ning maksmise aeg ja viis;\n8) tööaeg;\n9) laevapere liikme iga-aastase puhkuse kestus ja puhkusetasu arvutamise alused;\n10) meretöölepingu lõpetamisest etteteatamise tähtajad;\n11) poolte allkirjad.\n(4) Käesolevas paragrahvis nimetatud vorminõuete eiramine ei too kaasa lepingu tühisust. Laevapere liige võib nõuda meretöölepingu vormistamist vastavalt käesolevas paragrahvis sätestatule."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - MERETÖÖLEPING",
+      "section": "9",
+      "title": "§ 9. Meretöölepingu tähtaeg",
+      "content": "(1) Meretööleping sõlmitakse:\n1) määramata ajaks;\n2) määratud ajaks, kuid mitte kauemaks kui viieks aastaks.\n(2) Määratud ajaks võib meretöölepingu sõlmida:\n1) kindlaksmääratud reisiks või reisideks;\n2) teatud töö tegemise ajaks;\n3) ajutiselt äraoleva laevapere liikme asendamiseks;\n4) tööde mahu ajutise suurenemise korral;\n5) meretöölepingus laevapere liikmele erisoodustuste ettenägemise korral;\n6) navigatsiooniperioodiks."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - MERETÖÖLEPING",
+      "section": "10",
+      "title": "§ 10. Meretöölepingu sõlmimiseks nõutavad dokumendid",
+      "content": "Reeder või muu tööandja võib meretöölepingu sõlmimiseks laevapere liikmelt nõuda järgmisi dokumente:\n1) isikut tõendav dokument;\n2)\n3) teenistusraamat või meresõidutunnistus;\n4) meresõidudiplom või kutsetunnistus nõutava kvalifikatsiooni ja hariduse kohta;\n5) tervisetõend;\n6) välismaalase puhul elamisluba;\n7) muud Veeteede Ameti poolt nõutavad kvalifikatsiooni tõendavad dokumendid."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - MERETÖÖLEPING",
+      "section": "11",
+      "title": "§ 11. Meretöölepingu täitmise erisus",
+      "content": "(1) Kui laevapere liige asub tööle või lõpetab töö laeval, mis ei asu meretöölepingu sõlmimise kohas, peab reeder korraldama oma kulul laevapere liikme sõidu laeva asukohta või meretöölepingu sõlmimise kohta ning tagama talle toitlustamise ja majutuse laevale või laevalt sõidu ajal.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud aja eest maksab reeder laevapere liikmele keskmist töötasu."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - LAEVAPERE LIIKME ÕIGUSED, KOHUSTUSED JA VASTUTUS",
+      "section": "12",
+      "title": "§ 12. Laevapere liikme kohustused",
+      "content": "(1) Laevapere liige on kohustatud:\n1) tegema meretöölepingus ja ametijuhendis ettenähtud tööd;\n2) osalema pääste- ja tuletõrjeharjutustes;\n3) täitma ilma erikorralduseta ülesandeid, mis tulenevad töö iseloomust või töö üldisest käigust;\n4) hoidma laeva ja sellel olevat vara;\n5) kandma tööajal reederi määratud töö- ja eririietust.\n(2) Laevapere liige peab täitma õigeaegselt ja täpselt kapteni või muu pädeva isiku seaduslikke korraldusi.\n(3) Laevapere liige peab täitma tööülesandeid meretöölepingus ettenähtud mahus ning järgima kehtestatud sisekorraeeskirju ja tööaega."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - LAEVAPERE LIIKME ÕIGUSED, KOHUSTUSED JA VASTUTUS",
+      "section": "13",
+      "title": "§ 13. Laeva ohutusega seotud korralduste täitmine",
+      "content": "(1) Lisaks käesoleva seaduse §-s 12 nimetatule on laevapere liige kohustatud järgima kapteni või muu pädeva isiku korraldusi, mis on vajalikud:\n1) laeval olevaid või teisi isikuid ähvardava ohu vältimiseks;\n2) laeva ohutuse tagamiseks;\n3) lasti riknemise või hävimise vältimiseks;\n4) teisi laevu ähvardava ohu vältimiseks.\n(2) Laevahuku korral on laevapere liige kohustatud osalema laeval olevate isikute ja laeva lasti päästmisel."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - LAEVAPERE LIIKME ÕIGUSED, KOHUSTUSED JA VASTUTUS",
+      "section": "14",
+      "title": "§ 14. Käitumine laeval",
+      "content": "Laevapere liikmed käituvad üksteise suhtes usalduslikult ja vajaliku viisakusega, edendavad koostööd ning tagavad laeval korra ja ohutuse."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - LAEVAPERE LIIKME ÕIGUSED, KOHUSTUSED JA VASTUTUS",
+      "section": "15",
+      "title": "§ 15. Töö tegemise koht",
+      "content": "(1) Kui meretöölepingus ei ole kokku lepitud teisiti, on laevapere liige kohustatud töötama üksnes lepingus märgitud laeval.\n(2) Laeva juhtkonda kuuluva isiku võib reeder oma ettevõtte piires ümber paigutada teisele laevale, säilitades talle vähemalt senised meretöölepinguga määratud töötingimused, kui ümberpaigutamine on ettevõtte töökorraldust arvestades vajalik ja meretöölepingus ei ole kokku lepitud teisiti."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - LAEVAPERE LIIKME ÕIGUSED, KOHUSTUSED JA VASTUTUS",
+      "section": "16",
+      "title": "§ 16. Laevaloleku kohustus laeva ähvardava ohu korral",
+      "content": "Ähvardava laevahuku või muu laeval olevaid isikuid ähvardava otsese ohu korral ei lahku laevapere liige laevalt ilma kapteni või teda asendava isiku loata."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - LAEVAPERE LIIKME ÕIGUSED, KOHUSTUSED JA VASTUTUS",
+      "section": "17",
+      "title": "§ 17. Maaleminekuõigus",
+      "content": "(1) Laevapere liikmel on laeva sadamas või reidil seismise ajal õigus väljaspool oma tööaega kapteni või teda asendava isiku loal maale minna. Loa andmisest võib keelduda, kui kapteni või teda asendava isiku arvates on laevapere liikme laevale jäämine vajalik laeva, laeval oleva isiku või lasti ohutuse tagamiseks või laeva eelseisva väljumisega seotud töökohustuste täitmiseks.\n(2) Vajaduse korral peab kapten korraldama laevapere liikmete maalemineku viisil, mis ei takista tööd laeval ega ole seotud ebamõistlike kulutustega."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - LAEVAPERE LIIKME ÕIGUSED, KOHUSTUSED JA VASTUTUS",
+      "section": "18",
+      "title": "§ 18. Laevapere liikme õigus lahkuda laevalt",
+      "content": "(1) Laevapere liige võib lahkuda laevalt ja nõuda reederilt töökoha muutmist, kui:\n1) laev, millel laevapere liige on kohustatud töötama, ei ole merekõlblik ja kapten ei täida oma kohustust kontrollida laeva merekõlblikkust vastavalt käesoleva seaduse §-s 33 sätestatule ning kavatseb väljuda sadamast;\n2) laevapere elamistingimused laeval ohustavad laevapere liikme elu või tervist ning reeder ei rakenda olukorra parandamiseks vajalikke abinõusid;\n3) laevapere liiget on laeval väärkoheldud ja kaptenil ei ole õnnestunud pakkuda talle kaitset, kuigi kaptenile on vastavatest asjaoludest teatatud;\n4) laev kaotab õiguse sõita Eesti lipu all;\n5) meretööleping on sõlmitud kindlaksmääratud reisiks ja laeva sõidu sihtkohta muudetakse;\n6) pärast töö alustamist laeval selgub, et laev võib sattuda võõrvõimu kontrolli alla või saada vigastada sõjapiirkonnas või et nimetatud oht on märgatavalt suurenenud;\n7) pärast töö alustamist laeval selgub, et sadam, kuhu on kavas suunduda, on kuulutatud epideemiapiirkonnaks.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud juhtudel on laevapere liikmel õigus laevalt lahkuda enne sõidu algust või esimeses sadamas, kus laev sildub pärast nimetatud asjaoludest teadasaamist.\n(3) Kui laevapere liige käesoleva paragrahvi lõikes 1 sätestatud juhtudel lahkub laevalt, on reeder kohustatud korraldama oma kulul laevapere liikme kojusõidu vastavalt käesoleva seaduse §-s 57 sätestatule või paigutama laevapere liikme tööle muule laevale oma ettevõttes. Kui laevapere liige asub tööle muul laeval, hüvitab reeder laevapere liikmele laeva vahetamisega seotud kulud."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - LAEVAPERE LIIKME ÕIGUSED, KOHUSTUSED JA VASTUTUS",
+      "section": "19",
+      "title": "§ 19. Laevapere liikme vastutus reederile tekitatud kahju eest",
+      "content": "(1) Laevapere liige vastutab meretöölepingu rikkumise korral reederile süüliselt tekitatud kahju eest.\n(2) Laevapere liige, kes tööülesannete täitmisel on kerge hooletusega tekitanud reederile kahju, vastutab reederile tekitatud kahju eest kuni oma keskmise kuupalga ulatuses.\n(3) Laevapere liige, kes tööülesannete täitmisel on raske hooletusega tekitanud reederile kahju, vastutab reederile tekitatud kahju eest kuni oma kaheteistkümne keskmise kuupalga ulatuses.\n(4) Kui laevapere liige on tööülesannete täitmisel tekitanud reederile tahtlikult kahju, on ta kohustatud hüvitama reederile tekitatud kahju täies ulatuses.\n(5) Laevapere liikme süü tõendamise kohustus lasub reederil. Kui kahju tekkimises on süüdi nii reeder kui ka laevapere liige, vastutavad nad proportsionaalselt oma süü astmele."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "20",
+      "title": "§ 20. Reederi kohustused",
+      "content": "Reeder on kohustatud:\n1) tagama kaptenile vajalike vahendite olemasolu seadusega ettenähtud kohustuste täitmiseks;\n2) tagama laevapere liikmele kokkulepitud töö ning laeval vajalike korralduste selge ja õigeaegse andmise;\n3) maksma töö eest tasu meretöölepinguga kindlaksmääratud tingimustel ja ajal;\n4) tagama ohutud töö- ja elamistingimused ning tervisekaitsenõuete järgimise laeval;\n5) tutvustama töölevõtmisel ja töötamise ajal laevapere liikmetele sisekorra-, tööohutus-, töötervishoiu-, keskkonna- ja tuleohutusnõudeid laeval ning töökeskkonna ohtlike ja kahjulike mõjurite taset töö- ja olmeruumides;\n6) andma ettenähtud puhkust ja maksma puhkusetasu;\n7) tagama töö- ja puhkeaja korralduse nõuete järgimise laeval ning Tööinspektsiooni kohaliku asutuse juhatajale või tööinspektorile tema nõudmisel laevapere liikmete töö- ja puhkeaja arvestuse esitamise;\n8) täitma teisi seaduse, muu õigusakti ning kollektiivlepinguga ettenähtud kohustusi."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "21",
+      "title": "§ 21. Töötasu arvestamise kohustuse tekkimise aeg",
+      "content": "(1) Töötasu arvestamise kohustus tekib alates laevapere liikme tööle asumise päevast.\n(2) Kui laev, millel laevapere liige tööle asub või töö lõpetab, ei asu meretöölepingu sõlmimise kohas, arvestab reeder töötasu laevale või laevalt sõidu alustamise hetkest, kui meretöölepingus ei ole kokku lepitud teisiti."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "22",
+      "title": "§ 22. Töötasu maksmise aja ja viisiga seonduvad erisused",
+      "content": "(1) Töötasu makstakse laevapere liikmele iga kuu lõpus, kui töötasu maksmiseks ei ole kokku lepitud lühemat tähtaega või muud tähtpäeva või kui muu tähtpäev ei ole määratud seaduse, meretöö- või kollektiivlepinguga. Töötasu maksmist sularahas võib laevapere liige nõuda üksnes laeva sadamas või reidil seismise ajal.\n(2) Laevapere liikme avalduse alusel kantakse töötasu üle laevapere liikme määratud pangaarvele.\n(3) Laevapere liikme nõusolekul võib töötasu maksta riigi valuutas, mille territoriaalvetes laev töötasunõude tekkimise ajal asub, või muus vabalt konverteeritavas valuutas.\n(4) Töötasu maksmisega seotud kulud kannab reeder.\n(5) Kui laevapere liikmete arv ettenägematu sündmuse tõttu reisi kestel väheneb ja seetõttu suureneb laevapere liikmete töökoormus, makstakse neile lisatasu laevapere vähenemise tõttu reederi poolt väljamaksmata töötasude arvel säästetud summa ulatuses."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "23",
+      "title": "§ 23. Teadetetahvel laeva töökorraldusega",
+      "content": "(1) Teadetetahvel laeva töökorraldusega paigutatakse kergesti ligipääsetavasse kohta ja sellel peab olema:\n1) iga teenistuskoha kohta vähemalt töötamise ajakava merel ja sadamas;\n2) maksimaalne tööaeg ja minimaalne puhkeaeg vastavalt seadusele, muule õigusaktile või kollektiivlepingule;\n3) meretöölepingu vorm;\n4) koopiad töö- ja puhkeaega reguleerivatest seadustest, muudest õigusaktidest ning vastavad kollektiivlepingud.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud teadetetahvlil peab informatsioon olema eesti ja inglise keeles. Teadetetahvel koostatakse standardformaadis."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "24",
+      "title": "§ 24. Laevapere liikme töö- ja eririietus",
+      "content": "Reeder tagab oma kulul laevapere liikmele töö tegemiseks vajaliku töö- ja eririietuse ning kaitsevahendid."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "25",
+      "title": "§ 25. Ametiriietus",
+      "content": "(1) Laeva juhtkonna liikmel on töökohustuste täitmise ajal kohustus kanda ametiriietust.\n(2) Laeva juhtkonna liikme ametiriietuse ja ametialaste eraldusmärkide kirjelduse kehtestab majandus- ja kommunikatsiooniminister. Laeva juhtkonna liikme ametialased eraldusmärgid võivad ühtida meresõiduohutuse seaduse § 76 lõike 9 alusel kehtestatud Veeteede Ameti järelevalveametniku eraldusmärkidega."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "26",
+      "title": "§ 26. Toitlustamine",
+      "content": "(1) Kapten korraldab reederi kulul laevaperele toidu varumise ja laevapere liikme korrapärase toitlustamise laeval. Laevapere liikme toidunormid ja toitlustamise korra laeval kehtestab sotsiaalminister.\n(2) Laevapere liikmel on keelatud toitlustamiseks üleantut võõrandamise eesmärgil laevalt välja viia.\n(3) Kohalikku rannasõitu sooritaval laeval, kus laevapere liiget ei toitlustata, maksab reeder laevapere liikmele ärajäänud toitlustamise korral saamata jäänud toidu eest hüvitist, mis lisatakse sama kuu töötasule.\n(4) Reisi ajal erandlike asjaolude tõttu tekkinud toidu- või joogiveevarude ebapiisavuse korral võib kapten toidunorme vähendada. Nimetatud juhul hüvitatakse laevapere liikmele saamata jäänud toit reederi ja laevapere liikme vahel kokkulepitud viisil. Kapten korraldab erandlike asjaolude tõttu tekkinud toidu- või joogiveevarude ebapiisavuse korral laevapere toidu- ja joogiveevarude üle arvestuse pidamist logiraamatus.\n(5) Käesoleva paragrahvi lõigetes 3 ja 4 nimetatud hüvitis maksustatakse samadel alustel nagu toiduratsiooni maksumuse maksustamine."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "27",
+      "title": "§ 27. Majutus",
+      "content": "(1) Laevapere liikmel on laevaloleku ajal õigus nõuetele vastavale majutusele. Nõuded laevapere liikme laeval majutamise tingimustele kehtestab sotsiaalminister.\n(2) Laevapere liikmel on kohustus hoida tema kasutusse antud ruume korras."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "28",
+      "title": "§ 28. Laevapere liikme tervisekontrolli ja laeval meditsiiniabi andmise nõuded",
+      "content": "(1) Laevapere liikmele tagatakse meditsiiniabi andmine laeval. Meditsiiniabi korraldamise nõuded laeval ja Eestis registreeritud laeval nõutava meditsiinivarustuse nimekirja kehtestab sotsiaalminister.\n(2) Laevapere liige läbib eelneva ja perioodilise tervisekontrolli meresõiduohutuse seaduses sätestatud korras.\n(3) Reederi või kapteni või tervisetõendi väljastanud arsti nõudmisel läbib laevapere liige ennetähtaegse tervisekontrolli, kui on põhjendatud kahtlusi laevapere liikme tervisliku seisundi mittevastavuse suhtes tööks laeval.\n(4) Käesoleva paragrahvi lõigetes 2 ja 3 nimetatud tervisekontrolli kulud kannab reeder, välja arvatud meretöölepingu sõlmimisele eelnev arstlik kontroll, mille kulud kannab isik, kes taotleb meretöölepingu sõlmimist.\n(5) Eestis registreeritud laeval tagatakse vältimatu arstiabi saamiseks ööpäevaringse riigikeelse raadiokonsultatsiooni saamise võimalus. Raadiokonsultatsiooni teenuse osutamise korraldamiseks sõlmib sotsiaalminister halduslepingu tervishoiuteenuse osutajaga, arvestades halduskoostöö seaduse ja riigihangete seaduse nõudeid. Raadiokonsultatsiooni teenuse osutamise kulud kaetakse riigieelarvest.\n(6)\n(7)"
+    },
+    {
+      "provision_ref": "para28^1",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "28^1",
+      "title": "§ 28^1. Töötervishoiu- ja tööohutusnõuded",
+      "content": "(1) Reeder tagab laevapere liikmele töötingimused, mis on kooskõlas töötervishoiu ja tööohutuse seadusega.\n(2) Reeder korraldab laevapere liikme töötervishoiu- ja tööohutusalase väljaõppe. Laeval korraldab laevapere liikme töötervishoiu- ja tööohutusalase juhendamise kapten."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "29",
+      "title": "§ 29. Haigele või vigastatud laevapere liikmele arstiabi andmine",
+      "content": "(1) Reeder või kapten korraldab merereisi ajal haigestunud või vigastatud laevapere liikmele meditsiiniabi andmist ja laevapere liikme ravi laeval või maal.\n(2) Laevapere liikmele merereisi ajal meditsiiniabi osutamisega seotud kulud ja laevapere liikme vajalikud ravikulud kannab reeder."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "30",
+      "title": "§ 30. Haige või vigastatud laevapere liikme tervishoiuasutusse saatmine",
+      "content": "(1) Kui laevapere liikme haigus või vigastus ei võimalda tema ravimist laeval või kui laevapere liikme haigus on ohtlik tema või teiste laeval olevate isikute elule või tervisele või kui ei ole võimalik võtta tarvitusele abinõusid haiguse leviku vältimiseks, saadab kapten laevapere liikme tervishoiuasutusse.\n(2) Kui haige või vigastatud laevapere liige jäetakse ravile välisriiki, korraldab kapten temale arstiabi andmise vastavas tervishoiuasutuses ja teatab sellest reederile. Kapten teatab laevapere liikme haigusest või vigastusest laevapere liikme nimetatud isikule.\n(3) Kui haige või vigastatud laevapere liige ei saa hoolitseda laeval oleva oma vara eest, korraldab kapten vara säilimise.\n(4) Käesolevas seaduses sätestatud reederi või kapteni kohustus korraldada haigele või vigastatud laevapere liikmele arsti- ja meditsiiniabi andmist lõpeb, kui laevapere liige lahkub laevalt Eesti Vabariigi territooriumil.\n(5) Kui laevapere liige on jäetud ravile välisriigis, lõpeb reederi või kapteni kohustus korraldada talle arsti- ja meditsiiniabi andmist, kui laevapere liige on jõudnud Eesti Vabariigi territooriumile.\n(6) Kui laevapere liige on jäetud ravile välisriigis, lõpeb reederi või kapteni kohustus korraldada talle arsti- ja meditsiiniabi andmist ka juhul, kui laevapere liige on õigustamatult ravi katkestanud."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "31",
+      "title": "§ 31. Tagasisõidukulud haigestumise või vigastuse korral",
+      "content": "(1) Haigestumise või vigastuse tõttu tervishoiuasutusse saadetud laevapere liikme laevale tagasisõidu kulud koos kulutustega toidule ja majutusele tagasisõidu ajal kannab reeder.\n(2) Kui haigestumise või vigastuse tõttu välisriigis ravile jäetud laevapere liige ei saa pärast ravi lõppemist laevale tagasi pöörduda, korraldab reeder tema tagasisõidu vastavalt käesoleva seaduse §-s 57 sätestatule."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "32",
+      "title": "§ 32. Laevapere liikme põhjustatud haigus või vigastus",
+      "content": "Kui haigus või vigastus tekkis laevapere liikme tahtlikkuse või raske hooletuse tagajärjel, samuti juhul, kui laevapere liige on tahtlikult varjanud oma tervislikku seisundit, võib reeder nõuda laevapere liikmelt enda kantud, käesoleva seaduse §-des 29–31 sätestatud kulude hüvitamist vastavalt käesoleva seaduse § 19 lõikele 1."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "33",
+      "title": "§ 33. Laeva merekõlblikkuse kontrollimine",
+      "content": "(1) Kui üle poole laevapere liikmetest nõuab kaptenilt laeva merekõlblikkuse kontrollimist või kui seda nõuab vanemtüürimees või vanemmehaanik nende vastutusel oleva laevaosa või varustuse suhtes, pöördub kapten merekõlblikkuse kontrollimiseks Eestis registreeritud laeva üle riiklikku järelevalvet teostava asutuse poole.\n(2) Kui kontrollimise tulemusena selgub, et käesoleva paragrahvi lõikes 1 nimetatud nõue esitati pahauskselt, hüvitavad nõude esitanud laevapere liikmed sellega reederile tekitatud kahju."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "34",
+      "title": "§ 34. Kord laeval",
+      "content": "(1) Laevapere liikmed ja teised laeval viibivad isikud peavad alluma kapteni õiguspärastele korraldustele.\n(2) Kapten tagab korra ja julgeoleku laeval ning on seadusega ettenähtud juhtudel ja korras õigustatud võtma selleks tarvitusele vajalikke abinõusid.\n(3) Laeva, sellel viibivat isikut või lasti ähvardava ohu korral, samuti laevapere liikme allumatuse või vastuhaku korral või muudel hädajuhtudel võib kapten ohu tõrjumiseks kasutada vajalikke sunnivahendeid.\n(4) Sunnivahendite kohaldamine või korda rikkuvalt isikult vabaduse ajutine võtmine on lubatud, kui muude sunnivahendite kasutamine ei ole otstarbekas või võimalik. Vabaduse võtmist võib kohaldada üksnes juhul, kui see on vajalik käesoleva paragrahvi lõigetes 2 ja 3 nimetatud kohustuste täitmiseks."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "35",
+      "title": "§ 35. Isikute laevale toomine",
+      "content": "(1) Laevapere liige ei või ilma kapteni või teda asendava isiku loata tuua laevale kõrvalisi isikuid.\n(2) Kui laev asub sadamas, ei või kapten või teda asendav isik keelduda loa andmisest laevapere liikme perekonnaliikme laevale toomiseks, kui see ei takista tööd laeval."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "36",
+      "title": "§ 36. Asjade laevale toomine",
+      "content": "(1) Laevapere liige võib laevale tuua isiklikuks tarbimiseks või kasutamiseks mõeldud asju koguses, mis on reisi kestust ja iseloomu arvestades mõistlik. Laevapere liikmele tagatakse kindel panipaik isiklike asjade hoidmiseks.\n(2) Käesoleva paragrahvi lõikes 1 nimetamata asju võib laevapere liige laevale tuua kapteni nõusolekul.\n(3) Keelatud on laevale tuua asju, mille hoidmine või vedamine laeval on keelatud või mis ohustavad laeva, laeval viibivat isikut või lasti. Alkoholi või narkootilisi aineid sisaldava ravimi laevale toomine laevapere liikme poolt on lubatud üksnes kapteni loal.\n(4) Kui asi on laevale toodud käesoleva paragrahvi lõigetes 1–3 sätestatut rikkudes, võib kapten selle enda valdusse võtta ja hoiustada. Kui asi ohustab laeva, laeval viibivat isikut või lasti või kui asja hoidmine laeval võib kaasa tuua ametivõimude sekkumise, võib kapten nõuda asja kõrvaldamist laevalt. Kui laevapere liige asja ei kõrvalda, võib kapten võtta tarvitusele meetmed selle kõrvaldamiseks laevalt või asja hävitada.\n(5) Käesoleva paragrahvi lõigetes 1–3 sätestatut rikkudes laevale toodud asja eest peab laevapere liige maksma reederile tavaliselt selletaolise asja vedamise eest võlgnetavat tasu.\n(6) Kui kaptenil on põhjendatud kahtlusi, et laevale on toodud asju käesoleva paragrahvi lõigetes 1–3 sätestatut rikkudes, võib ta korraldada laevapere ruumide ja panipaikade läbiotsimise asjassepuutuvate isikute juuresolekul."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "37",
+      "title": "§ 37. Laevapere liikme asjade hävimine või kahjustumine",
+      "content": "(1) Käesoleva seaduse § 36 lõikes 1 nimetatud asjade hävimise või kahjustumise korral laevaõnnetuse, laevahuku või reederist tuleneva asjaolu tõttu, hüvitab reeder laevapere liikmele tekkinud kahju kaubandusliku meresõidu koodeksis sätestatud korras.\n(2) Muude asjade hävimise või kahjustumise korral hüvitatakse kahju laevapere liikmele vastavalt poolte kokkuleppele."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "38",
+      "title": "§ 38. Reederi ja kapteni kohustused laevapere liikme surma korral",
+      "content": "(1) Kui laevapere liige sureb laeval või väljaspool Eesti Vabariigi territooriumi laeval töötamise ajal või ajal, kui reeder või kapten on kohustatud korraldama haigele või vigastatud laevapere liikmele arstiabi andmist, või ajal, kui laevapere liige sõidab reederi kulul töötamiskohta või tagasi, teatab reeder või kapten laevapere liikme surmast tema perekonnaliikmele ja korraldab surnukeha toimetamise Eesti Vabariigi territooriumile.\n(2) Kui surnukeha ei ole võimalik toimetada Eesti Vabariigi territooriumile, võib surnu perekonnaliikme nõusolekul korraldada surnukeha tuhastamise.\n(3) Kui surnukeha ei ole võimalik hoida laeval kuni laeva välisriigi sadamasse sisenemiseni või see ohustab laeval viibivate isikute tervist või elu- ja töökeskkonda, võib surnukeha matta merel. Matmise merel võib korraldada ka surnud laevapere liikme perekonnaliikme taotlusel.\n(4) Matmine merel on keelatud, kui tegemist on kuriteo ohvriga või kui surma põhjus on teadmata.\n(5) Surnud laevapere liikme vara hoidmise korraldab ja vara säilimise eest vastutab kapten."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "4. peatükk - REEDERI JA KAPTENI KOHUSTUSED JA VASTUTUS",
+      "section": "39",
+      "title": "§ 39. Laevapere liikme surmaga kaasnevate kulude kandmine",
+      "content": "(1) Reeder kannab laevapere liikme surnukeha Eesti Vabariigi territooriumile toimetamise kulud.\n(2) Kui laevapere liikme surnukeha ei tooda Eesti Vabariigi territooriumile või kui laevapere liige suri töökohustuste täitmisel, kannab reeder laevapere liikme matmise või surnukeha tuhastamise kulud."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "5. peatükk - PUHKUSEGA SEONDUVAD ERISUSED",
+      "section": "40",
+      "title": "§ 40. Laevapere liikme puhkus",
+      "content": "(1) Laevapere liikme iga-aastane põhipuhkus on 35 kalendripäeva.\n(2) Iga-aastast tasustatud põhipuhkust ei või hüvitada rahas, välja arvatud töösuhte lõpetamisel."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "5. peatükk - PUHKUSEGA SEONDUVAD ERISUSED",
+      "section": "41",
+      "title": "§ 41. Puhkuse andmise koht",
+      "content": "(1) Puhkus tuleb laevapere liikmele anda Eesti Vabariigi territooriumil, kui pooled ei ole kokku leppinud teisiti.\n(2) Puhkuse andmisel peab reeder korraldama laevapere liikme kojusõidu käesoleva seaduse §-s 57 sätestatud korras.\n(3) Puhkuse kestuse aja hulka ei arvata laevapere liikme kojusõidu ja laevale tagasisõidu aega.\n(4) Käesoleva paragrahvi lõigetes 2 ja 3 sätestatut kohaldatakse juhul, kui laev, millel laevapere liige peab pärast puhkuse lõppemist tööle asuma, asub väljaspool Eesti Vabariigi territooriumi."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "5. peatükk - PUHKUSEGA SEONDUVAD ERISUSED",
+      "section": "42",
+      "title": "§ 42. Laevapere liikme õigus puhkusele pärast kuuekuulist katkestuseta töötamist",
+      "content": "(1) Laevapere liikmel on pärast kuuekuulist katkestuseta töötamist samal laeval või sama reederi laeval õigus puhkusele.\n(2) Laevapere liige peab käesoleva paragrahvi lõikes 1 nimetatud juhul puhkuse soovist kaptenile teatama kaks nädalat ette.\n(3) Puhkuse andmise kohustus tekib pärast käesoleva paragrahvi lõikes 2 nimetatud tähtaja möödumist, kui laev siseneb sadamasse. Puhkuse andmise kohustust ei teki sadamas, kuhu laev siseneb punkerdamiseks, haige või vigastatud isiku kaldale viimiseks või mõne muu ettenägematu sündmuse tõttu ja kust laevapere liikme kojusaatmine ei ole mõistlikult korraldatav.\n(4) Laevapere liige jätkab pärast talle puhkuse andmise kohustuse tekkimist tööd maksimaalselt ühe kuu jooksul, kui talle ei leita vajalikku asendajat või kui on alust arvata, et selle aja jooksul jõutakse sadamasse, kust laevapere liikme kojusõitu vastavalt käesoleva seaduse §-s 57 sätestatule on lihtsam ja odavam korraldada."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "6. peatükk - TÖÖAJAGA SEONDUVAD ERISUSED",
+      "section": "43",
+      "title": "§ 43. Tööaja summeeritud arvestuse kohaldamise erisused",
+      "content": "(1) Laevapere liikmele on lubatud kohaldada tööaja summeeritud arvestust kuni kuuekuulise ajavahemiku ulatuses käesolevast seadusest tulenevate erisustega.\n(2)"
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "6. peatükk - TÖÖAJAGA SEONDUVAD ERISUSED",
+      "section": "44",
+      "title": "§ 44. Töö- ja puhkeaja piirangud",
+      "content": "(1) Tööaja summeeritud arvestuse kohaldamisel ei või laevapere liikme tööaeg ületada 12 tundi mis tahes 24-tunnise ajavahemiku jooksul ja 60 tundi mis tahes seitsmepäevase ajavahemiku jooksul tingimusel, et järgitakse käesoleva paragrahvi lõikes 3, käesoleva seaduse § 45 lõikes 2 ja § 48 lõikes 1 sätestatud piiranguid.\n(2) Lähisõitu sooritaval laeval, mille laevapere liikmete töötsükli pikkus ei ületa kahte nädalat, ei või tööaeg ületada 14 tundi mis tahes 24-tunnise ajavahemiku jooksul ja 72 tundi mis tahes seitsmepäevase ajavahemiku jooksul. Ületunnitöö tegemine käesolevas lõikes sätestatud piirnorme ületavalt on keelatud.\n(3) Laevapere liikme puhkeaega ei või jagada mis tahes 24-tunnise ajavahemiku jooksul rohkem kui kaheks osaks, millest üks peab olema vähemalt kuue tunni pikkune, ning kahe järjestikuse puhkeaja vaheline aeg ei või ületada 14 tundi.\n(4) Laevapere liikmete suhtes on tööandja tegevuskoha tööinspektori nõusolekul erandina lubatud rakendada käesoleva paragrahvi lõikes 1 sätestatust pikema töötundide arvuga tööpäeva."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "6. peatükk - TÖÖAJAGA SEONDUVAD ERISUSED",
+      "section": "45",
+      "title": "§ 45. Vahiteenistuses osalevate laevapere liikmete tööaja režiim",
+      "content": "(1) Vahiteenistuses osalevate laevapere liikmete tööaeg tuleb jagada vahtidesse, kui merereis kestab katkestamatult vähemalt 12 tundi.\n(2) Vahiteenistuses osalevate laevapere liikmete vahtide vahelist puhkeaega ei või jagada mis tahes 24-tunnise ajavahemiku jooksul rohkem kui kaheks osaks, millest üks peab olema vähemalt kuue tunni pikkune, ning kahe järjestikuse puhkeaja vaheline aeg ei või ületada 14 tundi."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "6. peatükk - TÖÖAJAGA SEONDUVAD ERISUSED",
+      "section": "46",
+      "title": "§ 46. Vahiteenistuses mitteosalevate laevapere liikmete tööaja režiim",
+      "content": "(1) Vahiteenistuses mitteosalevate laevapere liikmete tööaeg peab olema ajavahemikus kella 6.00-st kuni 20.00-ni laeva aja järgi, kui see on töö iseloomu arvestades võimalik.\n(2) Ajavahemikus kella 20.00-st kuni 6.00-ni ning pühapäeval või riigipühal võib vahiteenistuses mitteosalevaid laevapere liikmeid rakendada tööle üksnes edasilükkamatute tööde tegemiseks, välja arvatud juhul, kui laevapere liikme töö iseloom nõuab töötamist vastaval ajal."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "6. peatükk - TÖÖAJAGA SEONDUVAD ERISUSED",
+      "section": "47",
+      "title": "§ 47. Valveaeg",
+      "content": "(1) Laevapere liikme valveajaks on aeg, millal ta on vastavalt temaga sõlmitud meretöölepingule kohustatud töötsükli ajal viibima laeval ka oma puhkeajal, olemaks kättesaadav ettenägematute ja edasilükkamatute tööde tegemiseks. Valveaega ei arvata tööaja hulka.\n(2) Kui laevapere liige on valveaja kestel teinud käesoleva paragrahvi lõikes 1 nimetatud töid, võimaldab kapten laevapere liikmele tööde tegemiseks kulunud ajaga sama pikkusega lisapuhkeaja.\n(3) Valveaja kestus ja selle eest makstava lisatasu suurus ning nende rakendamise kord määratakse meretöö- või kollektiivlepingus.\n(4)\n(5) Kapten või teda asendav isik on kohustatud andma käesoleva paragrahvi lõikes 1 nimetatud juhul laevapere liikmele loa väljaspool tööaega maaleminekuks vähemalt üks kord kuuajalise töötsükli jooksul samadel tingimustel teiste laevapere liikmetega. Kui töötsükli pikkus on lühem kui üks kuu, antakse luba vähemalt üks kord ühe töötsükli jooksul."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "6. peatükk - TÖÖAJAGA SEONDUVAD ERISUSED",
+      "section": "48",
+      "title": "§ 48. Ületunnitöö tegemine",
+      "content": "(1) Laevapere liige võib ületunnitööd teha kuni kuus tundi mis tahes 24-tunnise ajavahemiku jooksul, kusjuures laevapere liikme tööaeg koos ületunnitööga ei või ületada 14 tundi mis tahes 24-tunnise ajavahemiku jooksul ja 72 tundi mis tahes seitsmepäevase ajavahemiku jooksul. Töötajale tuleb tagada käesoleva seaduse § 44 lõikes 3 ja § 45 lõikes 2 sätestatud puhkeaeg.\n(2) Laevapere liikme suhtes ei kohaldata töölepingu seaduses sätestatud ületunnitöö piirnorme."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "6. peatükk - TÖÖAJAGA SEONDUVAD ERISUSED",
+      "section": "49",
+      "title": "§ 49. Laeva ohutusega seotud edasilükkamatud tööd",
+      "content": "(1) Kapten võib laevapere liikmelt nõuda töö tegemist, kui see on seotud laeva, selle pardal olevate isikute või lasti ohutuse tagamisega või eesmärgiga abistada merehädas olevaid isikuid või laevu. Töö tegemist võib nõuda seni, kuni on taastunud normaalne olukord.\n(2) Käesoleva seaduse §-des 44–48 sätestatud piiranguid tööajale ei kohaldata laeva ohutusega seotud edasilükkamatute tööde tegemisel. Nimetatud alusel tehtud töö ei ole ületunnitöö.\n(3) Pärast käesoleva paragrahvi lõikes 1 nimetatud tööde lõpetamist peab kapten laevapere liikmele, kes oli tööl graafikujärgselt ettenähtud puhkeajal, võimaldama sama pikkusega lisapuhkeaja.\n(4) Käesoleva seaduse § 12 lõike 1 punktis 2 nimetatud pääste- ja tuletõrjeharjutused tuleb võimaluse korral korraldada viisil, mis võimalikult vähe segaks laevapere liikme puhkeaja kasutamist."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "6. peatükk - TÖÖAJAGA SEONDUVAD ERISUSED",
+      "section": "50",
+      "title": "§ 50. Õhtuse ja öötöö hüvitamise erisused",
+      "content": "Laevapere liikme suhtes ei kohaldata töölepingu seaduses sätestatud lisatasu maksmist öötöö eest."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "6. peatükk - TÖÖAJAGA SEONDUVAD ERISUSED",
+      "section": "51",
+      "title": "§ 51. Arvestuse pidamine laevapere liikme töö- ja puhkeaja kohta",
+      "content": "Kapten peab laevapere liikme töö- ja puhkeaja arvestust. Laevapere liikmel on õigus saada arvestuse koopia. Töö- ja puhkeaja arvestuse pidamise korra ja vormi kehtestab sotsiaalminister."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "7. peatükk - DISTSIPLINAARKARISTUSE MÄÄRAMISEGA SEONDUVAD ERISUSED",
+      "section": "52",
+      "title": "§ 52. Laevapere liikme süüteo arutamise kord merereisi ajal",
+      "content": "(1) Kui laevapere liiget kahtlustatakse merereisi ajal distsiplinaarsüüteo toimepanemises, arutatakse seda tegu ja langetatakse otsus 14 päeva jooksul komisjonis, mis koosneb kolmest laevapere liikmest.\n(2) Komisjoni esimeheks on kapten. Kui teo toimepanemises kahtlustatakse laevapere liiget, kes kuulub laeva juhtkonda, nimetab kapten ülejäänud kaks komisjoni liiget laeva juhtkonda kuuluvate isikute hulgast. Kui teo toimepanemises kahtlustatakse laevapere liiget, kes ei kuulu laeva juhtkonda, nimetab kapten ühe komisjoni liikme laeva juhtkonda kuuluvate isikute hulgast, teise valivad laevapere liikmed. Komisjoni esimees nimetab laevapere liikmete hulgast protokollija.\n(3) Teo arutamisel on asjaomasel laevapere liikmel õigus anda seletusi. Komisjoni liikmed võivad esitada küsimusi nii asjaomasele laevapere liikmele kui ka teistele isikutele, kelle ütlustel võib teo arutamisel tähtsust olla. Otsus tehakse häälteenamusega. Küsimused, seletused, vastused ja komisjoni põhjendatud otsus protokollitakse ning loetakse asjaosalisele ette. Protokolli õigsust kinnitavad komisjoni liikmed oma allkirjaga. Protokollile võetakse ka asjaomase laevapere liikme allkiri. Kui asjaomane laevapere liige keeldub protokollile alla kirjutamast, teeb protokollija selle kohta protokolli märkuse."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "7. peatükk - DISTSIPLINAARKARISTUSE MÄÄRAMISEGA SEONDUVAD ERISUSED",
+      "section": "53",
+      "title": "§ 53. Distsiplinaarkaristuse määramine",
+      "content": "(1) Kui komisjon tuvastab laevapere liikme süü, määratakse talle distsiplinaarkaristus, informeerides sellest reederit enne kapteni käskkirja kehtestamist.\n(2) Kui komisjon otsustab, et distsiplinaarkaristusena tuleb kohaldada meretöölepingu lõpetamist, edastab kapten komisjoni kogutud materjalid reederile. Reeder peab tegema otsuse kohaldatava distsiplinaarkaristuse kohta 30 päeva jooksul materjalide kättesaamisest arvates, aga mitte hiljem kui kuue kuu jooksul teo toimepanemisest arvates.\n(3) Pärast reederi poolt otsuse langetamist toimib kapten reederilt saadud korralduste alusel.\n(4) Komisjoni otsusega mittenõustumise korral on asjaomasel laevapere liikmel õigus pöörduda töövaidluskomisjoni või kohtusse ühe kuu jooksul, arvates päevast, mis järgnes päevale, millal ta pöördus tagasi Eesti Vabariigi territooriumile."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "8. peatükk - MERETÖÖLEPINGU LÕPPEMISEGA SEONDUVAD ERISUSED",
+      "section": "54",
+      "title": "§ 54. Laevapere liikme jäme töökohustuste rikkumine",
+      "content": "(1) Laevapere liikme jämedaks töökohustuste rikkumiseks käesoleva seaduse tähenduses on:\n1) tahtlik või raskelt hooletu laevale saabumata jäämine oma tööaja alguseks või laeva väljumise ajaks;\n2) omavoliline lahkumine laevalt oma tööajal;\n3) laeval olemine alkohoolses, narkootilises või toksilises joobes;\n4) narkootiliste või ohtlike ainete laevale toomine;\n5) tegelemine salakaubaveoga;\n6) tegevus, mis seab reaalsesse ohtu laeva, laeval viibiva isiku või laeva lasti.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud alustel on reederil või muul tööandjal õigus lõpetada meretööleping ette teatamata ja hüvitist maksmata."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "8. peatükk - MERETÖÖLEPINGU LÕPPEMISEGA SEONDUVAD ERISUSED",
+      "section": "55",
+      "title": "§ 55. Meretöölepingu lõppemine laeva merekõlbmatuks muutumise ja laevahuku korral",
+      "content": "(1) Kui laev muutub merekõlbmatuks või toimub laevahukk, on reederil õigus lõpetada meretööleping laevapere liikmega koondamise tõttu, kui reederil ei ole võimalik pakkuda laevapere liikmele tööd muul laeval oma ettevõttes.\n(2) Laevahuku korral on reederil õigus lõpetada meretööleping laevapere liikmele ette teatamata.\n(3) Laeva merekõlbmatuks muutumise korral avarii tagajärjel teatab reeder meretöölepingu lõpetamisest laevapere liikmele viis päeva ette.\n(4) Laevapere liikmega kindlaksmääratud reisiks sõlmitud meretööleping lõpeb seda reisi tegeva laeva avarii tagajärjel merekõlbmatuks muutumise või laevahuku korral."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "8. peatükk - MERETÖÖLEPINGU LÕPPEMISEGA SEONDUVAD ERISUSED",
+      "section": "56",
+      "title": "§ 56. Meretöölepingu pikenemine",
+      "content": "(1) Kui meretöölepingu lõppemise aeg saabub laeva mereloleku ajal, loetakse leping pikenenuks kuni laeva esimesse sadamasse jõudmiseni.\n(2) Meretööleping ei lõpe käesoleva paragrahvi lõikes 1 nimetatud juhtudel sadamas, kuhu laev siseneb ainult punkerdamiseks, haige või vigastatud isiku kaldale viimiseks või mõne muu ettenägematu sündmuse tõttu ja kuilaevapere liikme kojusaatmine ei ole mõistlikult korraldatav.\n(3) Kui laevapere liige jätkab tööd pärast käesoleva paragrahvi lõikes 1 nimetatud sadamasse jõudmist reederi või kapteni ettepanekul, loetakse meretööleping pikenenuks määramata ajaks, kui ei ole kokku lepitud teisiti. Kui tööd jätkatakse reederi või kapteni nõudmisel asendaja leidmiseni, kohaldatakse käesoleva paragrahvi lõikes 4 sätestatut.\n(4) Laevapere liige peab reederi või kapteni nõudmisel pärast käesoleva paragrahvi lõikes 1 nimetatud sadamasse jõudmist jätkama töötamist kuni nädal aega, kui laevapere liikme ametikohale ei ole leitud asendajat.\n(5) Kui välisriigi võimud ei luba laevapere liiget maale töölt lahkumise kohal või nõuavad tema käest tagatisi, mida laevapere liige ei saa anda, loetakse meretööleping pikenenuks kuni laeva jõudmiseni sadamasse, kus ei ole käesolevas lõikes nimetatud takistusi."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "8. peatükk - MERETÖÖLEPINGU LÕPPEMISEGA SEONDUVAD ERISUSED",
+      "section": "57",
+      "title": "§ 57. Laevapere liikme kojusõidu korraldamise kohustus",
+      "content": "(1) Meretöölepingu lõppemisel korraldab reeder oma kulul laevapere liikme sõidu, eelistatult õhutransporti kasutades, tema soovil kas:\n1) Eesti Vabariigi territooriumile,\n2) laevapere liikme elukohariiki,\n3) kollektiivlepingus kindlaksmääratud kohta,\n4) laeva väljasõidu sadamasse,\n5) meretöölepingu sõlmimise kohta või\n6) kohta, milles lepiti kokku meretöölepingu sõlmimisel.\n(2) Reeder kannab laevapere liikme toidu- ja majutuskulud alates tema lahkumisest laevalt kuni saabumiseni sihtkohta ning laevapere liikme kuni 20 kg raskuse pagasi sihtkohta transportimise kulud.\n(3) Käesoleva paragrahvi lõikes 1 sätestatud reederi kohustused loetakse täidetuks ka siis, kui laevapere liige on keeldunud temale vastavalt lõikele 1 korraldatavast sõidust.\n(4) Käesoleva paragrahvi lõikes 1 sätestatud reederi kohustused ei ole täidetud, kui laevapere liiget ei lubata lõikes 1 nimetatud riigi territooriumile või nõutakse selleks tagatisi, mida laevapere liige ei ole suuteline andma.\n(5) Kui laevapere liikmega sõlmitud meretööleping lõpetati laevapere liikme töökohustuste rikkumise, laevapere liikme suhtes usalduse kaotamise või laevapere liikme haiguse või vigastuse tõttu, mida ta meretöölepingu sõlmimisel varjas või mille ta iseendale tahtlikult tekitas, võib reeder nõuda temalt vastavalt käesoleva paragrahvi lõikele 2 kantud kulude hüvitamist ja vajaliku asendaja laevale toimetamiseks kantud kulude hüvitamist käesoleva seaduse §-s 19 sätestatud alusel.\n(6) Laevapere liikme, kes on välisriigi sadamas mitte oma süü tõttu laevalt maha jäänud, toimetab reeder oma kulul Eesti Vabariigi territooriumile või järgmisesse sadamasse, kuhu laev siirdub."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "8. peatükk - MERETÖÖLEPINGU LÕPPEMISEGA SEONDUVAD ERISUSED",
+      "section": "58",
+      "title": "§ 58. Meretöölepingu lõppemise aeg",
+      "content": "(1) Meretöölepingu lõppemise päevaks on päev, millal laevapere liige jõuab käesoleva seaduse § 57 lõikes 1 nimetatud kohta.\n(2) Kui laevapere liige keeldub temale vastavalt käesoleva seaduse § 57 lõikele 1 võimaldatavast sõidust, loetakse meretöölepingu lõppemise päevaks laevapere liikme tööloleku viimane päev.\n(3) Kui laevapere liikmega sõlmitud meretööleping lõpetati laevapere liikme algatusel või laevapere liikme töökohustuste rikkumise, laevapere liikme suhtes usalduse kaotamise või laevapere liikme haiguse või vigastuse tõttu, mida ta meretöölepingu sõlmimisel varjas või mille ta iseendale tahtlikult tekitas, loetakse meretöölepingu lõppemise päevaks laevapere liikme tööloleku viimane päev."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "8. peatükk - MERETÖÖLEPINGU LÕPPEMISEGA SEONDUVAD ERISUSED",
+      "section": "59",
+      "title": "§ 59. Meretöölepingu lõpetamine laevapere liikme algatusel",
+      "content": "(1) Laevapere liige võib lõpetada meretöölepingu, kui reeder rikub meretöölepingut või lepingu lõpetamise põhjuseks on käesoleva seaduse § 18 lõikes 1 nimetatud asjaolud. Laevapere liige peab meretöölepingu lõpetamisest teatama viis päeva ette. Meretööleping loetakse lõppenuks pärast käesolevas lõikes sätestatud tähtaja möödumist, kui laev on sisenenud sadamasse. Laevapere liikme kojusõidu korraldab reeder käesoleva seaduse §-s 57 sätestatud korras.\n(2) Kui meretööleping lõpetatakse käesoleva paragrahvi lõikes 1 sätestatud alustel, maksab reeder laevapere liikmele hüvitist kahe keskmise kuupalga ulatuses.\n(3) Määramata ajaks sõlmitud meretöölepingu lõpetamisel käesoleva paragrahvi lõike 1 alusel maksab reeder laevapere liikmele hüvitisena tema kahe kuu keskmise palga. Määratud ajaks sõlmitud töölepingu samal alusel lõpetamise korral maksab reeder laevapere liikmele tema keskmise palga lepingu tähtaja möödumiseni, kuid mitte üle kahe kuu."
+    },
+    {
+      "provision_ref": "para59^1",
+      "chapter": "8. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "59^1",
+      "title": "§ 59^1. Riikliku järelevalve teostamine",
+      "content": "(1) Riiklikku järelevalvet käesoleva seaduse ning selle alusel kehtestatud õigusaktide nõuete täitmise üle töötervishoiu, tööohutuse ja töösuhete valdkonnas teostab Tööinspektsioon ning tervisekaitse valdkonnas Terviseamet rahvatervise seaduses sätestatud tingimustel ja korras.\n(2) Tööinspektsioon ja Terviseamet teevad laevade kontrollimisel koostööd, sealhulgas vahetavad teavet Veeteede Ametiga.\n(3) Olulise rikkumise kõrvaldamiseks ettekirjutuse koostanud järelevalveametnik saadab ettekirjutuse ärakirja viivitamata Veeteede Ametile."
+    },
+    {
+      "provision_ref": "para59^3",
+      "chapter": "8. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "59^3",
+      "title": "§ 59^3. Riikliku järelevalve erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-s 30 sätestatud riikliku järelevalve erimeedet korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para59^4",
+      "chapter": "8. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "59^4",
+      "title": "§ 59^4. Riikliku järelevalve erisused",
+      "content": "Korrakaitseorgani kohaliku asutuse juhatajal ja järelevalvet teostaval ametnikul on õigus keelata laeva ruumide, seadmete ja töövahendite kasutamine, kui nende seisund ohustab laevapere liikmete ning reisijate elu ja tervist."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "60",
+      "title": "§ 60.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "61",
+      "title": "§ 61.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "62",
+      "title": "§ 62. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2001. aasta 1. aprillil.\n(2) Laevapere liikme ja reederi või muu tööandja vahel sõlmitud meretööleping peab olema viidud kooskõlla käesoleva seaduse §-s 8 sätestatuga 2001. aasta 1. oktoobriks.\n(3) Enne 2001. aasta 1. aprilli toimepandud distsiplinaarsüütegude menetlemine toimub vastavalt töötajate distsiplinaarvastutuse seaduses sätestatud korrale."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "laevapere liikme iga",
+      "definition": "aastase puhkuse kestus ja puhkusetasu arvutamise alused",
+      "source_provision": "para8"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-123042022025",
+  "type": "statute",
+  "title": "2016. aasta riigieelarve seadus",
+  "title_en": "2016. aasta riigieelarve seadus",
+  "short_name": "RES2016",
+  "status": "in_force",
+  "issued_date": "2015-12-09",
+  "in_force_date": "2017-01-01",
+  "url": "https://www.riigiteataja.ee/akt/123042022025.xml",
+  "description": "Official consolidated statute text (2016. aasta riigieelarve seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

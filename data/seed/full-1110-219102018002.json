@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-219102018002",
+  "type": "statute",
+  "title": "Rahvusvahelise tsiviillennunduse konventsiooni muutmise protokollide ratifitseerimise seadus",
+  "title_en": "Rahvusvahelise tsiviillennunduse konventsiooni muutmise protokollide ratifitseerimise seadus",
+  "short_name": "ee-law-219102018002",
+  "status": "in_force",
+  "issued_date": "2018-10-16",
+  "in_force_date": "2018-10-29",
+  "url": "https://www.riigiteataja.ee/akt/219102018002.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise tsiviillennunduse konventsiooni muutmise protokollide ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud rahvusvahelise tsiviillennunduse konventsiooni artikli 50 punkti a muutmise protokoll, mis on koostatud 2016. aasta 6. oktoobril Montréalis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ratifitseerida juurdelisatud rahvusvahelise tsiviillennunduse konventsiooni artikli 56 muutmise protokoll, mis on koostatud 2016. aasta 6. oktoobril Montréalis."
+    }
+  ],
+  "definitions": []
+}

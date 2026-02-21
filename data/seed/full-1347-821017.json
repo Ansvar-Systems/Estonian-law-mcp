@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-821017",
+  "type": "statute",
+  "title": "Tolliväärtuse määramise seadus",
+  "title_en": "Tolliväärtuse määramise seadus",
+  "short_name": "TVMS",
+  "status": "in_force",
+  "issued_date": "1995-02-08",
+  "in_force_date": "2002-07-01",
+  "url": "https://www.riigiteataja.ee/akt/821017.xml",
+  "description": "Official consolidated statute text (Tolliväärtuse määramise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

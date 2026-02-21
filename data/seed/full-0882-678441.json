@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-678441",
+  "type": "statute",
+  "title": "Mandrilava püsiplatvorme ohustava ebaseadusliku tegevuse tõkestamise protokolliga ühinemise seadus",
+  "title_en": "Mandrilava püsiplatvorme ohustava ebaseadusliku tegevuse tõkestamise protokolliga ühinemise seadus",
+  "short_name": "ee-law-678441",
+  "status": "in_force",
+  "issued_date": "2003-11-12",
+  "in_force_date": "2003-12-20",
+  "url": "https://www.riigiteataja.ee/akt/678441.xml",
+  "description": "Official consolidated statute text (Mandrilava püsiplatvorme ohustava ebaseadusliku tegevuse tõkestamise protokolliga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud mandrilava püsiplatvorme ohustava ebaseadusliku tegevuse tõkestamise protokolliga, mis on koostatud 1988. aasta 10. märtsil Roomas."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tunnistada kehtetuks terrorismi rahastamise tõkestamise rahvusvahelise konventsiooni ratifitseerimise seaduse (RT II 2002, 12, 45) § 2. Riigikogu esimees Ene ERGMA Mandrilava püsiplatvorme ohustava ebaseadusliku tegevuse tõkestamise protokoll"
+    }
+  ],
+  "definitions": []
+}

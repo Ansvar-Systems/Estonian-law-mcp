@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-12799791",
+  "type": "statute",
+  "title": "Rahvusvahelise Aatomienergiaagentuuri põhikirja ja selle muudatuste heakskiitmise seadus",
+  "title_en": "Rahvusvahelise Aatomienergiaagentuuri põhikirja ja selle muudatuste heakskiitmise seadus",
+  "short_name": "ee-law-12799791",
+  "status": "in_force",
+  "issued_date": "2007-02-14",
+  "in_force_date": "2007-03-30",
+  "url": "https://www.riigiteataja.ee/akt/12799791.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise Aatomienergiaagentuuri põhikirja ja selle muudatuste heakskiitmise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Kiita heaks juurdelisatud Rahvusvahelise Aatomienergiaagentuuri põhikiri, mis on koostatud 1956. aasta 26. oktoobril New Yorgis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Kiita heaks juurdelisatud Rahvusvahelise Aatomienergiaagentuuri põhikirja muudatused, mis on heaks kiidetud Rahvusvahelise Aatomienergiaagentuuri peakonverentsi 1999. aasta 1. oktoobri resolutsioonidega GC(43)/RES/8 ja GC(43)/RES/19. Riigikogu esimees Toomas VAREK"
+    }
+  ],
+  "definitions": []
+}

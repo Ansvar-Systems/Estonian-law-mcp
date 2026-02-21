@@ -1,0 +1,981 @@
+{
+  "id": "ee-law-116122022010",
+  "type": "statute",
+  "title": "Kohtutäituri seadus",
+  "title_en": "Kohtutäituri seadus",
+  "short_name": "ee-law-116122022010",
+  "status": "in_force",
+  "issued_date": "2009-12-09",
+  "in_force_date": "2024-01-01",
+  "url": "https://www.riigiteataja.ee/akt/116122022010.xml",
+  "description": "Official consolidated statute text (Kohtutäituri seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab kohtutäituri ametitegevuse alused, kohtutäituri üle haldusjärelevalve teostamise ja distsiplinaarvastutuse korra, kohtutäituri tasustamise korra ning kohtutäiturite ja pankrotihaldurite ühise kutseühenduse tegevuse alused.\n(2) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi. Haldusmenetluse seadust ei kohaldata täitemenetlusele."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "2",
+      "title": "§ 2. Kohtutäituri õiguslik seisund",
+      "content": "(1) Kohtutäitur peab avalik-õiguslikku ametit enda nimel ja vastutusel vaba elukutsena.\n(2) Kohtutäituri ametitegevus jaguneb ametitoiminguteks ja ametiteenusteks.\n(3) Kohtutäitur peab ametitegevuses olema erapooletu ning äratama usaldust kõigis isikutes, kelle kasuks või kelle suhtes ta toiminguid teeb.\n(4) Kohtutäitur peab järgima oma ametivannet ning käituma väärikalt ka väljaspool ametitegevust.\n(5) Kohtutäituril on ametimärk ja -pitsat.\n(6) Ametimärgi ja -pitsati kirjelduse ning nende kasutamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "3",
+      "title": "§ 3. Kohtutäiturite arv ja tööpiirkonnad",
+      "content": "Kohtutäiturite ametikohtade arvu ja tööpiirkonnad määrab valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "4",
+      "title": "§ 4. Kohtutäituri büroo",
+      "content": "(1) Kohtutäitur tegutseb oma büroo kaudu.\n(2) Kohtutäituri büroo peab asuma tema tööpiirkonnas ning sobima isikute vastuvõtuks.\n(3) Büroo lahtiolekuaeg ja kohtutäituri vastuvõtuaeg tehakse avalikkusele teatavaks Kohtutäiturite ja Pankrotihaldurite Koja (edaspidi koda ) veebilehel, samuti pannakse teave nähtavale kohale kohtutäituri büroo sissepääsu juures. Valdkonna eest vastutav minister võib määrusega kehtestada lahtioleku- ja vastuvõtuaja alampiiri.\n(4) Samas tööpiirkonnas tegutsevad kohtutäiturid võivad valdkonna eest vastutava ministri loal pidada ühist bürood. Ühist bürood pidavad kohtutäiturid määravad omavahelised õigused ja kohustused kirjaliku lepinguga. Ka ühise büroo pidamise korral teeb kohtutäitur ametitoiminguid ja osutab ametiteenuseid enda nimel ja kannab ametitegevuse eest isiklikku vastutust.\n(5) Kohtutäiturit käsitatakse raamatupidamise alal füüsilisest isikust ettevõtjana. Ühist bürood pidavatel kohtutäituritel võib olla ühine raamatupidamine."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "5",
+      "title": "§ 5. Ametialased kitsendused",
+      "content": "(1) Kohtutäitur ei või kohtutäituri ameti kõrval pidada teisi tasustatavaid ameteid ega olla muul tasustataval tööl, välja arvatud õppe-, teadus- ja loometöö ning tegutsemine pankrotihalduri või likvideerijana.\n(2) Kohtutäitur ei või tegelda ettevõtlusega ega:\n1) olla täisühingu osanik, usaldusühingu täisosanik ega sellise tulundusühistu liige, mille põhikirjas on ette nähtud liikme isiklik vastutus tulundusühistu kohustuste eest;\n2) olla äriühingu juhatuse või nõukogu liige või prokurist;\n3) olla välismaa äriühingu filiaali juhataja;\n4) olla kinnisasja sundvalitseja.\n(3) Koja veebilehel avaldatakse äriühingu, mille osad või aktsiad kohtutäiturile kuuluvad, nimi ja registrikood. Infot ei pea avaldama avalikult emiteeritud väärtpaberite omamise kohta. Andmed veebilehel avaldamiseks saadab kojale kohtutäitur."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "6",
+      "title": "§ 6. Kohtutäituri ametitoimingud",
+      "content": "(1) Kohtutäitur teeb ametitoiminguid:\n1) täitemenetluse läbiviimisel täitemenetluse seadustiku alusel;\n2) dokumentide kättetoimetamisel kohtumenetlusseaduste alusel;\n3) pärandi inventuuri tegemisel ja pärandvara valitsemisel pärimisseaduse alusel;\n4) seaduses ettenähtud juhtudel ja korras kohtu või haldusorgani taotlusel enampakkumise (edaspidi ametlik enampakkumine ) läbiviimisel väljaspool täitemenetlust;\n5) välisriigist laekuva elatise vahendamisel perehüvitiste seaduse alusel;\n6) võlgniku täitemenetlusliku profiili koostamisel.\n(2) Kohtutäitur võib keelduda ametitoimingu tegemisest ainult seaduses ettenähtud alustel ja korras."
+    },
+    {
+      "provision_ref": "para6^1",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "6^1",
+      "title": "§ 6^1. Võlgniku täitemenetlusliku profiili koostamine",
+      "content": "(1) Võlgniku täitemenetluslik profiil väljastatakse sissenõudjale, kellel on võlgniku suhtes jõustunud täitedokument. Võlgniku täitemenetluslik profiil aitab sissenõudjal hinnata nõude sissenõudmise väljavaateid.\n(2) Võlgniku täitemenetluslikus profiilis kajastatakse järgmised andmed:\n1) võlgniku suhtes sundtäitmisel olevate täiteasjade arv ja nendes sisalduvate nõuete summa kokku;\n2) kuupäev, millal on avatud varaseim täitetoimik;\n3) võlgnikule kuuluv registrisse kantud vara ja sellele seatud arestid ning keelumärked."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "7",
+      "title": "§ 7. Ametikohustuste isiklik täitmine",
+      "content": "(1) Kohtutäitur täidab isiklikult järgmisi ametikohustusi:\n1) täitemenetluse peatamine ja lõpetamine;\n2)\n3) täitemenetluses toimunud enampakkumisel müüdud vara kohta kinnistusosakonnale kinnistamisavalduse ja teistele vararegistritele omandi üleandmise avalduste esitamine;\n4) täitemenetluses vara müügist saadud tulemi jaotamine;\n5)\n6) pärandi inventuuri nimekirja allkirjastamine.\n(2) Menetlusosalisel on õigus taotleda seoses ametitoiminguga selgitusi otse kohtutäiturilt."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "8",
+      "title": "§ 8. Ametiteenuse osutamine",
+      "content": "(1) Kohtutäitur võib isiku taotlusel ametiteenusena:\n1) viia läbi vallas- ja kinnisasja enampakkumise (edaspidi eraenampakkumine );\n2) toimetada kätte dokumendi;\n3) anda õigusnõu ja koostada õigusdokumente, kui tema haridus vastab kohtute seaduse § 47 lõike 1 punktis 1 sätestatule;\n4) osutada väljaspool kohtumenetlust juriidilise fakti tuvastamise teenust;\n5) tegutseda lepitajana vastavalt lepitusseadusele;\n6) tegutseda vahekohtunikuna tsiviilkohtumenetluse seadustiku alusel.\n(2) Kohtutäitur teatab enne ametiteenuste osutamist kojale, millist liiki ametiteenuse osutamisega ta soovib tegelema hakata, ning sõlmib ametikindlustuslepingu nimetatud teenuste osutamisest tekkiva kahju hüvitamise tagamiseks käesoleva seaduse §-s 10 ettenähtud korras.\n(3) Kohtutäituril on õigus keelduda ametiteenuse osutamisest.\n(4) Kui kohtutäitur on nõustunud ametiteenuse osutamisega, ei saa ta sellest mõjuva põhjuseta loobuda.\n(5) Ametiteenuse osutamise tingimused ning tasustamise kord lepitakse teenuse taotlejaga kokku kirjalikult. Kokkulepitud tingimused ja tasu peavad olema kooskõlas hea ametitavaga.\n(6) Kohtutäitur ei või ametiteenuse osutamisel kasutada neid õigusi, mis kohtutäiturile on ametitoimingute tegemiseks seaduse alusel antud või mis tulenevad tema ametikohast.\n(7) Kohtutäitur ei või läbi viia täitemenetlust asjas, mille lahendamises ta osales vahekohtunikuna."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "9",
+      "title": "§ 9. Vastutus",
+      "content": "(1) Kohtutäitur vastutab oma ametitegevuse käigus süüliselt tekitatud kahju eest riigivastutuse seaduses sätestatud alustel ja ulatuses. Kohtutäitur vastutab ka tema büroo töötajate poolt süüliselt tekitatud kahju eest. Kohtutäitur vastutab ka politseiametniku poolt täitemenetluse seadustiku §-de 71^1 ja 71^2 alusel tegutsedes süüliselt tekitatud kahju eest.\n(2) Käesoleva seaduse §-s 96 nimetatud väljaõppel viibiva kohtutäituri poolt süüliselt tekitatud kahju eest vastutab koda.\n(3) Ametist vabastatud kohtutäitur vastutab oma ametisoleku ajal toime pandud ametikohustuste süülise rikkumise eest ka pärast ametist vabastamist.\n(4) Kohtutäituri asendaja tegevuse eest vastutab asendatav kohtutäitur, kui kohtutäituri asendajana tegutseb asendatava kohtutäituri abi. Kui kohtutäiturit asendab muu kohtutäituri abi, siis vastutab asendaja tegevuse eest koda.\n(5) Kui kahju tekitamise eest vastutab ka menetlusosaline või kolmas isik, vastutab kohtutäitur ametikohustuste süülisest rikkumisest tekkinud kahju eest ulatuses, milles menetlusosaliselt või kolmandalt isikult ei ole võimalik hüvitist saada. Kui menetlusosaliselt või kolmandalt isikult ei olnud võimalik hüvitist saada kogu ulatuses, milles ta kahju tekitas, on kohtutäituril menetlusosalise või kolmanda isiku vastu tagasinõude õigus ulatuses, mille kohtutäitur on tasunud tema eest.\n(6) Kui kohtutäituri ametitoiminguga tekitatud kahju hüvitamise nõudeid ei ole võimalik rahuldada kohtutäituri või muu kahju eest vastutava isiku vara arvel või seda ei ole võimalik teha täies ulatuses, vastutab tekkinud kahju eest koda, seejärel riik. Kojal ja riigil on tagasinõude õigus hüvitatud kahju ulatuses kohtutäituri või muu kahju eest vastutava isiku vastu. Riik võib tagasinõude esitada ka koja vastu.\n(7) Käesolevas paragrahvis nimetatuga kaasnevad koja kulud kaetakse koja kohtutäiturite ametikogu (edaspidi ametikogu ) eelarvest.\n(8) Kohtutäituri poolt kahju hüvitamisega seotud vaidlused vaadatakse läbi maakohtus.\n(9) Käesoleva paragrahvi lõikest 1 tulenev nõue aegub kolme aasta möödumisel päevast, millal kannatanu sai teada kahjust ja seda hüvitama kohustatud isikust, ning hiljemalt kümne aasta möödumisel kahju tekitamisest arvates."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "10",
+      "title": "§ 10. Ametikindlustus",
+      "content": "(1) Kohtutäituri ametitegevuses tekitatud kahju hüvitamise tagamiseks peab kohtutäitur sõlmima ametikindlustuslepingu kindlustusandjaga, kes on Eestis kindlustustegevuseks luba omav äriühing, järgmistel tingimustel:\n1) kindlustusjuhtumiks on kindlustusperioodi jooksul toimunud kohtutäituri kohustuse rikkumine, mille tõttu tekkinud kahju on kohtutäitur kohustatud käesoleva seaduse alusel hüvitama;\n2) kindlustussumma alampiir ühe kindlustusjuhtumi kohta on vähemalt 200 000 eurot ning kõigi kindlustusperioodil toimunud kindlustusjuhtumite kohta väljamakstavate kindlustushüvitiste ülempiir vähemalt 600 000 eurot;\n3) kui kindlustusleping on sõlmitud omavastutusega, hüvitab kindlustusandja kogu tekitatud kahju, kuid mitte üle kindlustussumma, ja nõuab omavastutuse summa tagasi kindlustusvõtjalt.\n(2) Kohtutäitur ei pea kindlustama kohustuse tahtlikust rikkumisest tekkivat vastutust.\n(3) Kohtutäitur võib vastutuse ametiteenuste osutamisega tekitatud kahju eest kindlustada ka ainult käesoleva seaduse § 8 lõikes 2 nimetatud ulatuses. Sellisel juhul ei või kohtutäitur kindlustuslepinguga katmata ametiteenuseid osutada.\n(4) Kohtutäitur esitab ametikindlustuslepingu ärakirja ja kindlustuspoliisi viivitamata pärast ametikindlustuslepingu sõlmimist ametikogu juhatusele. Ametikogu on kohustatud kontrollima kohtutäituri ametikindlustuse olemasolu.\n(5) Kui kohtutäituril ei ole kehtivat ametikindlustuslepingut, peatab ametikogu juhatus kohtutäituri ametivolitused.\n(6) Kohtutäitur teatab ametikogu juhatusele kirjalikult võlaõigusseaduse § 514 lõigetes 1 ja 3 loetletud asjaoludest kahe nädala jooksul nendest teadasaamisest arvates. Kohtutäitur edastab ametikogu juhatusele info kahjustatud isikule kindlustusandja poolt kindlustushüvitise väljamaksmise, hüvitise suuruse ja kindlustusjuhtumi põhjustanud sündmuse kohta kahe nädala jooksul kindlustushüvitise väljamaksmisest arvates.\n(7) Väljaõppel viibiva kohtutäituri tekitatud kahju hüvitamiseks sõlmib kindlustuslepingu ametikogu."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "11",
+      "title": "§ 11. Ametisaladuse hoidmise kohustus",
+      "content": "(1) Kohtutäitur on kohustatud hoidma ametisaladust ning mitte avaldama seoses ametitegevusega saadud andmeid. Kohustus kehtib ka pärast kohtutäituri ametist lahkumist.\n(2) Ametisaladuse hoidmise kohustust peavad järgima kohtutäituri büroo ja koja töötajad ning ka kõik muud isikud, kellele kohtutäitur on seoses oma ametitegevusega andmeid avaldanud.\n(3) Kohtutäitur peab avaldama seoses ametitegevusega saadud andmeid:\n1) menetlusosalistele;\n2) kohtule;\n3) kohtuvälisele menetlejale, uurimisasutusele ja prokuratuurile väärteo- või kriminaalmenetluses, samuti välislepingus sätestatud korras välisriigist saabunud õigusabi taotluse alusel;\n4) kojale ja Justiitsministeeriumile järelevalve- ja distsiplinaarmenetluses;\n5) muudele isikutele, kellel on seadusest tulenevalt õigus andmeid saada või kellele andmete avaldamine on seadusest tuleneva ülesande täitmiseks põhjendatult vajalik.\n(4)\n(5) Kui ametitoimingu tegemisel ilmneb, et isik on toime pannud süüteo tunnustega teo, teatab kohtutäitur sellest pädevale asutusele väärteo- või kriminaalmenetluse alustamise otsustamiseks."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "12",
+      "title": "§ 12. Erialase enesetäiendamise kohustus",
+      "content": "Kohtutäitur ja kohtutäituri abi peavad oma erialateadmisi pidevalt täiendama ning läbima käesoleva seaduse §-s 97 ettenähtud perioodilise õigusalase täiendusõppe."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "13",
+      "title": "§ 13. Ametitegevuse registreerimine",
+      "content": "(1) Kõik kohtutäituri ametitoimingud registreeritakse täitmisregistris. Kõik kohtutäituri ametiteenused registreeritakse ametiteenuste raamatus.\n(2) Isikule, kelle taotlusel või kellele ametitoiming tehti või ametiteenus osutati, väljastatakse tema kirjaliku avalduse alusel väljatrükk täitmisregistrist või väljavõte ametiteenuste raamatust.\n(3) Ametitoimingute ja -teenuste registreerimise nõuded, vormi ja ametiteenuste raamatu pidamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(4) Valdkonna eest vastutav minister võib määrata kindlaks aruandeperioodi, aruandluseks vajalike andmete loetelu ning aruande esitamise viisi."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "14",
+      "title": "§ 14. Dokumentide säilitamine",
+      "content": "(1) Kohtutäituri poolt ametitoimingute käigus loodud või saadud dokumendid on avalike ülesannete täitmise käigus loodud või saadud dokumendid arhiiviseaduse tähenduses.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud dokumentide säilitamise ja üleandmise korra ning tähtajad kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "15",
+      "title": "§ 15. Dokumentide ja asjaajamise üleandmine kohtutäituri ametist vabastamise, ametist tagandamise ning ametivolituste peatamise korral",
+      "content": "(1) Kui kohtutäitur ametist vabastatakse või tagandatakse (edaspidi koos lahkuv kohtutäitur ) või sureb, lähevad tema ametitoimingute tegemisel loodud dokumendid ning nendega seotud õigused ja kohustused, sealhulgas täitemenetluses makstud ettemaksud ning kohtutäituri ametialase arvelduskonto käsutamise õigus, üle asjaajamist ülevõtvale kohtutäiturile (edaspidi ülevõttev kohtutäitur ). Ülevõtmist korraldab ametikogu.\n(2) Lahkuv kohtutäitur ja ülevõttev kohtutäitur allkirjastavad pooleliolevate ametitoimingute, sealhulgas täitemenetlustega seotud nõuete ja nende nõuetega seotud ettemaksude üleandmise kohta üleandmis-vastuvõtmisakti, mille koopia edastatakse kojale.\n(3) Lahkuv kohtutäitur peab säilitama ametitoimingutega seotud dokumendid ja muudel teabekandjatel oleva teabe ning edastama need ülevõtvale kohtutäiturile.\n(4) Lahkuv kohtutäitur annab lõpetatud ametitoimingutega seotud toimikud arhiivi arhiivipidamist reguleerivate õigusaktide kohaselt.\n(5) Lahkuv kohtutäitur peab tagama koja poolt määratud isikutele juurdepääsu kohtutäituri büroo ruumidesse ja ametitoimingutega seotud toimikute üleandmiseks vajalikule teabele.\n(6) Valdkonna eest vastutav minister kehtestab määrusega ametitoimingutega seotud dokumentide, nendega seotud asjaajamise ning õiguste ja kohustuste üleandmise ja vastuvõtmise korra.\n(7) Kui kohtutäituri ametivolitused on peatatud ja selline seisund kestab üle kahe kuu, annab kohtutäitur teda asendavale kohtutäiturile üle enda poolt ametitoimingute tegemisel loodud dokumendid ning nendega seotud õigused ja kohustused käesoleva paragrahvi lõigetes 1, 2, 5 ja 6 sätestatud korras. Ametivolituste taastamisel antakse üleantud dokumendid ning nendega seotud õigused ja kohustused kohtutäiturile tagasi käesoleva paragrahvi lõigetes 1, 2, 5 ja 6 sätestatud korras."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "16",
+      "title": "§ 16. Kohtutäituri ametitoimingute tegemiseks kohustamine",
+      "content": "Valdkonna eest vastutaval ministril ja ametikogul on õigus kohustada kohtutäiturit tegema ametist vabastatud, ametist tagandatud või peatatud ametivolitustega kohtutäituri ametitoiminguid."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "17",
+      "title": "§ 17. Kohtutäituriks saamise tingimused",
+      "content": "(1) Kohtutäituriks võib nimetada Euroopa Liidu liikmesriigi kodaniku, kes valdab kõnes ja kirjas eesti keelt, on aus ja kõlbeline ning on omandanud riiklikult tunnustatud bakalaureusekraadi või läbinud riiklikult tunnustatud rakenduskõrgharidusõppe õiguse õppesuunal või omandanud vastava kvalifikatsiooni Eesti Vabariigi haridusseaduse § 28 lõike 2^2 tähenduses või vastava välisriigi kvalifikatsiooni ning kes on:\n1) tegutsenud kohtutäituri abina, vandeadvokaadina, kohtunikuna, notarina või pankrotihaldurina vähemalt ühe aasta või\n2) töötanud enne kohtutäituri ametisse kandideerimist vähemalt viis aastat akadeemilist või rakenduslikku juriidilist kõrgharidust nõudval tööl ja sooritanud kohtutäiturieksami.\n(2) Kohtutäituriks ei või nimetada isikut:\n1) keda on kriminaalkorras karistatud tahtlikult toimepandud kuriteo eest;\n2) kes on kohtuniku-, notari- või kohtutäituri ametist tagandatud;\n3) kes on advokatuurist välja heidetud;\n4) kes on avalikust teenistusest vabastatud distsiplinaarsüüteo eest;\n5) kes on pankrotivõlgnik;\n6) kelle audiitori kutsetegevus on lõpetatud, välja arvatud lõpetamine audiitori avalduse alusel;\n7) kellelt on pankrotihalduri, vandetõlgi või patendivoliniku kutse ära võetud, välja arvatud kutse äravõtmine isiku enda avalduse alusel."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "18",
+      "title": "§ 18. Kohtutäituri ja kohtutäituri abi ametisse kandideerija usaldusväärsuse kontrollimine",
+      "content": "Kohtutäituri ja kohtutäituri abi ametisse kandideerija usaldusväärsuse kontrollimisel kohaldatakse kohtute seaduse § 117^1."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "19",
+      "title": "§ 19. Kohtutäituri ametisse nimetamine ja ametisse asumine",
+      "content": "(1) Käesoleva seaduse § 17 lõike 1 tingimustele vastav isik võib kandideerida vabale kohtutäiturikohale.\n(2) Kohtutäituri vaba ametikoht täidetakse konkursi alusel. Konkurss kuulutatakse välja kindla tööpiirkonna kohtutäituri ametikohale.\n(3) Vaba kohtutäituri ametikoha täitmise vajaduse üle otsustab ning kohtutäituri ametikoha täitmise konkursi kuulutab välja Justiitsministeerium.\n(4) Konkursil osalemiseks esitatakse eksamikomisjonile avaldus, millele lisatakse järgmised dokumendid:\n1) isikut ja kodakondsust tõendava dokumendi ärakiri;\n2) käesoleva seaduse § 17 lõikes 1 nõutava hariduse olemasolu tõendava dokumendi ärakiri;\n3) senist töö- ja teenistuskäiku tõendava dokumendi ärakiri;\n4) elulookirjeldus;\n5) kandideerija omakäeline kinnitus selle kohta, et ta vastab käesoleva seaduse §-s 17 sätestatud tingimustele.\n(5) Kohtutäituri ametikoha täitmise konkursi läbiviimise korra kehtestab valdkonna eest vastutav minister määrusega.\n(6) Kohtutäituri ametikoha täitmise konkursi viib läbi koja eksamikomisjon (edaspidi eksamikomisjon ).\n(7) Kohtutäituri nimetab ametisse valdkonna eest vastutav minister. Kohtutäitur nimetatakse ametisse tähtajatult.\n(8) Pärast ametisse nimetamist ja enne ametisse asumist peab isik läbima käesoleva seaduse §-s 96 nimetatud väljaõppe. Väljaõppel olev kohtutäitur võib teha kohtutäituri nimel kõiki kohtutäituri ametitoiminguid ning olla kohtutäituri asendaja.\n(9) Väljaõpet ei pea läbima käesoleva seaduse § 17 lõike 1 punktis 1 nimetatud isik.\n(10) Kohtutäitur peab ametisse asuma nelja kuu jooksul pärast seda, kui eksamikomisjon loeb väljaõppe läbituks. Käesoleva paragrahvi lõikes 9 nimetatud isik peab ametisse asuma nelja kuu jooksul pärast ametisse nimetamist."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "20",
+      "title": "§ 20. Ametivanne",
+      "content": "Enne ametisse asumist annab kohtutäitur valdkonna eest vastutavale ministrile ja kohtutäituri asendaja ametikogu juhatusele kohtutäituri ametivande: «Tõotan oma au ja teadmiste juures olla truu Eesti Vabariigile ning järgida tema põhiseadust ja seadusi. Tõotan pidada oma ametit ausalt, väärikalt ja erapooletult.»"
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "21",
+      "title": "§ 21. Ametist vabastamine ja tagandamine",
+      "content": "(1) Valdkonna eest vastutav minister vabastab kohtutäituri ametist:\n1) kohtutäituri kirjaliku avalduse alusel;\n2) kohtutäituri terviseseisundi tõttu, mis ei võimalda tal kohtutäiturina püsivalt töötada.\n(2) Valdkonna eest vastutav minister tagandab kohtutäituri ametist:\n1) kui kohtutäituri suhtes on jõustunud tahtlikult toimepandud kuriteo eest süüdimõistev kohtuotsus või muu süüdimõistev kohtuotsus, millega mõistetud karistus teeb võimatuks kohtutäiturina tegutsemise;\n2) kui kohtutäiturile on kohaldatud distsiplinaarkaristusena ametist tagandamine;\n3) käesoleva seaduse § 97 lõikes 5 nimetatud alusel;\n4) kui ei ole täidetud käesoleva seaduse § 17 lõikes 1 või 2 nimetatud nõuded või kui pärast ametisse nimetamist selgub, et kohtutäitur on ametisse kandideerimisel esitanud tahtlikult valeandmeid;\n5) käesoleva seaduse § 96 lõikes 6 nimetatud alusel;\n6) kui kohtutäitur ei asu ametisse käesoleva seaduse § 19 lõikes 10 ettenähtud ajal;\n7) kui kohtutäituri suhtes on välja kuulutatud pankrot või kui pankrotimenetlus on lõpetatud raugemise tõttu;\n8) kui kohtutäitur ei hüvita temalt käesoleva seaduse § 9 lõike 1 alusel jõustunud kohtuotsusega välja mõistetud nõuet täies ulatuses mõistliku aja jooksul või kohtutäitur on esitanud seoses kõnesoleva nõudega kohtule avalduse võlgade ümberkujundamiseks."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "22",
+      "title": "§ 22. Ametivolituste peatamine",
+      "content": "(1) Ametikogu juhatus võib peatada kohtutäituri ametivolitused järgmistel asjaoludel:\n1) käesoleva seaduse § 21 lõike 1 punktis 2 sätestatud juhul kohtutäituri ametist vabastamise otsustamiseni;\n2) kohtutäituri suhtes distsiplinaarmenetluse algatamise korral distsiplinaarmenetluse lõpuni;\n3) kohtutäiturile kriminaalkorras süüdistuse esitamise korral süüdistuse esitamisest kuni kriminaalmenetluse lõpetamiseni või õigeksmõistva kohtulahendi jõustumiseni;\n4)\n5) kohtutäituri taotlusel tema erialase enesetäiendamise korral kuni üheks aastaks;\n6) kohtutäituri taotlusel, kui ta asub koja või rahvusvahelise kohtutäiturite esindusorganisatsiooni teenistusse, kuni viieks aastaks;\n7) muul mõjuval põhjusel kuni kolmeks aastaks.\n(1^1) Käesoleva paragrahvi lõike 1 punktides 2 ja 3 nimetatud juhul võib kohtutäituri ametivolitused peatada ka valdkonna eest vastutav minister.\n(2) Ametivolituste peatamise ajal ei kohaldata kohtutäiturile ametitoimingute tegemisega seotud kohtutäituri tegevust reguleerivaid õigusnorme. Ametivolituste peatamise ajal säilib kohtutäituri kohustus käituda ja tegutseda väärikalt.\n(2^1) Kohtutäituri suhtes on õigus läbi viia distsiplinaar- ja aukohtumenetlust ajal, kui tema ametivolitused on peatatud.\n(3) Ametivolituste peatamise ajal on kohtutäituril keelatud teha ametitoiminguid ja osutada ametiteenuseid.\n(4) Kohtutäituri ametivolitused taastab ametikogu juhatus viivitamata pärast ametivolituste peatamise aluse äralangemisest teadasaamist. Kui kohtutäituri ametivolitused on peatatud käesoleva paragrahvi lõikes 1^1 sätestatud korras, taastab need valdkonna eest vastutav minister."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "23",
+      "title": "§ 23. Kohtutäituri büroo töötajad",
+      "content": "(1) Kohtutäituri büroo töötajad on kohtutäituri abid ja muud büroo töötajad.\n(2) Kohtutäituri büroo töötajaks võib olla isik, kes valdab kõnes ja kirjas eesti keelt ning on aus ja kõlbeline. Kohtutäituri abi peab lisaks eelnevale olema läbinud riiklikult tunnustatud bakalaureuseõppe või rakenduskõrgharidusõppe õiguse õppesuunal, tema puhul ei või esineda käesoleva seaduse § 17 lõikes 2 nimetatud kohtutäituri ametisse nimetamist välistavaid asjaolusid, ta peab olema sooritanud kohtutäiturieksami ning kantud kohtutäituri abide nimekirja.\n(3) Kohtutäituri büroo töötaja on pädev kohtutäituri nimel ja vastutusel toimetama kätte dokumente ning abistama kohtutäiturit ametitegevuses. Kohtutäituri abi on pädev tegema kohtutäituri nimel ja vastutusel kõiki ametitoiminguid, mida kohtutäitur ei pea käesoleva seaduse § 7 lõike 1 kohaselt tegema isiklikult.\n(4) Kohtutäituri abi, kes on kohtutäituri abina asunud tööle enne kolme aasta möödumist tema kohtutäituri ametist vabastamisest käesoleva seaduse § 21 lõike 1 alusel või on vaheaegadeta töötanud kohtutäituri abina vähemalt ühe aasta, võib käesolevas seaduses ettenähtud juhtudel ja korras asendada kohtutäiturit.\n(5) Kohtutäitur, kes on ametis olnud üle kahe aasta, peab tagama, et tema büroos töötab vähemalt üks kohtutäituri abi. Ametikogu juhatus võib kohtutäituri mõjuval põhjusel nimetatud kohustuse täitmisest tähtajaliselt vabastada.\n(6) Kohtutäituri abina võib tegutseda ka kojas töötav isik, kes vastab kohtutäituri abile esitatavatele nõuetele."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "24",
+      "title": "§ 24. Kohtutäituri abide nimekiri",
+      "content": "(1) Kohtutäituri abide kohta peab nimekirja koda. Ametikogu juhatus kannab kohtutäituri taotluse alusel või omal algatusel nimekirja isikud, kes\n1) vastavad kohtutäituri abile esitatavatele nõuetele;\n2) on töösuhtes kojaga või kohtutäituriga.\n(2) Ametikogu juhatus märgib nimekirjas eraldi ära kohtutäiturite abid, kellel on õigus tegutseda kohtutäituri asendajana.\n(3) Ametikogu juhatus kustutab kohtutäituri taotluse alusel või omal algatusel nimekirjast kohtutäituri abid, kelle suhtes on ära langenud käesoleva paragrahvi lõikes 1 sätestatud nimekirja kandmise alus.\n(4) Kohtutäitur peab viivitamata taotlema ametikogu juhatuselt nimekirjas muudatuse tegemist, kui selline vajadus tuleneb seoses kohtutäituri büroos töötava abiga.\n(5) Nimekirjast kustutatud kuid kohtutäiturile esitatavatele nõuetele vastav kohtutäituri abi, kes on tegutsenud kohtutäituri abina vähemalt ühe aasta, võib seitsme aasta jooksul nimekirjast kustutamisest arvates kandideerida vabale kohtutäituri ametikohale kohtutäiturieksamit uuesti sooritamata.\n(6) Nimekirja märgitakse kohtutäituri abi nimi ja kohtutäituri nimi, kelle büroos abi töötab.\n(7) Nimekiri avaldatakse koja veebilehel. Kohtutäituri abide nimekirja pidamise ja selle avaldamise täpsemad nõuded nähakse ette koja põhikirjas."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "25",
+      "title": "§ 25. Kohtutäituri asendamine",
+      "content": "(1) Kui kohtutäitur soovib viibida ametikohustuste täitmisest eemal üle kahe kuu kalendriaastas, peab ta selleks taotlema ametikogu juhatuselt ametivolituste peatamist. Kui kohtutäitur ei saa nimetatud taotlust esitada, peatab ametikogu juhatus kohtutäituri ametivolitused omal algatusel.\n(2) Kui kohtutäitur soovib viibida või on sunnitud viibima oma ametikohustuste täitmisest eemal üle kümne tööpäeva kalendrikuus, peab ta sellest kirjalikult teavitama ametikogu, kes määrab kohtutäiturile asendaja. Kohtutäituri taotlusel võib kohtutäiturile määrata asendaja ka lühema eemalviibimise korral.\n(3) Kohtutäitur esitab koos käesoleva paragrahvi lõigetes 1 ja 2 nimetatud taotluse või teatisega ettepaneku asendajaks sobiva isiku kohta. Koja teenistuses olev kohtutäituri abi, asendatava kohtutäituri büroos töötav kohtutäituri abi ja asendatava kohtutäituriga samas piirkonnas tegutsev kohtutäitur ei või mõjuva põhjuseta asendamisest keelduda.\n(4) Asendataval kohtutäituril on keelatud teha ametitoiminguid ja osutada ametiteenuseid.\n(5) Kui kohtutäituri ametikoht on ajutiselt täitmata, võib ametikogu määrata sellele kohale asendaja. Justiitsministeeriumi nõudmisel määrab ametikogu täitmata ametikohale asendaja.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud asendaja tegutseb koja kulul, kulud kaetakse ametikogu eelarveosast. Asendaja tegevuse tulemusena laekuvad tulud on ametikogu tulud.\n(7) Kohtutäituri asendamise korra kehtestab ametikogu otsusega."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "26",
+      "title": "§ 26. Kohtutäituri asendaja",
+      "content": "(1) Kohtutäiturit võib asendada teine kohtutäitur või käesoleva seaduse § 23 lõikes 4 nimetatud kohtutäituri abi. Asendaja määramisel eelistatakse asendatava kohtutäituri büroos töötavat kohtutäituri abi.\n(2) Kui pärast kohtutäituri abi asendajaks määramist selgub, et isik ei vasta kohtutäituri asendajale esitatavatele nõuetele, jäävad asendaja poolt selle hetkeni tehtud ametitoimingud ja osutatud ametiteenused kehtima.\n(3) Kohtutäituri asendaja suhtes kohaldatakse käesolevas seaduses kohtutäituri kohta sätestatut, kui käesolevast seadusest ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "27",
+      "title": "§ 27. Kohtutäituri asendaja tasu",
+      "content": "(1) Kui kohtutäituri asendajaks määratakse teine kohtutäitur või kohtutäituri abi, kes ei ole asendatava kohtutäituri büroo töötaja, peab asendatav kohtutäitur maksma selle eest ametikogule tasu.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud tasu suuruse, samuti koja poolt asendajale makstava tasu suuruse kehtestab ametikogu otsusega. Koda ei pea maksma asendamise eest tasu kohtutäituri abile, kes on asendatava kohtutäituri büroo töötaja, välja arvatud käesoleva seaduse § 25 lõikes 5 nimetatud juhul.\n(3) Käesoleva seaduse § 25 lõikes 5 nimetatud asendajale maksab koda lisaks käesoleva paragrahvi lõikes 2 nimetatud tasule lisatasu, mille suurus võrdub poolega kohtutäituri büroo tegevuse puhaskasumist asendamise ajal."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "28",
+      "title": "§ 28. Kohtutäituri tasu ametitoimingu eest",
+      "content": "(1) Kohtutäituri ametitoiming on tasuline.\n(2) Kohtutäituril on õigus võtta tasu ametitoimingu eest ja nõuda sellega seotud kulude hüvitamist ainult käesolevas seaduses sätestatud juhtudel, ulatuses ja korras. Kohtutäituril on keelatud sõlmida kokkuleppeid käesolevas seaduses sätestatud tasumäärade või tasu võtmise korra muutmiseks.\n(3) Pärandvara valitsemise tasu määrab kohus pärimisseaduses ja tsiviilkohtumenetluse seadustikus sätestatud korras. Käesolevat seadust selle tasu puhul ei kohaldata."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "29",
+      "title": "§ 29. Kohtutäituri tasu liigid",
+      "content": "(1) Kohtutäituri tasu võib koosneda menetluse alustamise tasust, menetluse põhitasust ja täitetoimingu lisatasust.\n(2) Kohtutäituril on õigus nõuda tasu ettemaksu seaduses sätestatud juhtudel ja ulatuses. Ettemaksu ei või nõuda isikult, kes esitab täitmiseks elatusraha nõude, või füüsiliselt isikult, kes esitab täitmiseks kohtulahendi, millega on välja mõistetud hüvitis tervisekahjustusega tekitatud töövõime kaotuse eest, või kriminaalmenetluses tehtud kohtuotsuse, millega on rahuldatud talle kuriteoga tekitatud kahju hüvitamise nõue."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "30",
+      "title": "§ 30. Kohtutäituri tasu maksma kohustatud isik",
+      "content": "(1) Menetluse alustamise tasu maksab isik, kes taotleb ametitoimingu tegemist, kui seadusega ei ole sätestatud teisiti. Täitemenetluses tasub menetluse alustamise tasu võlgnik, kui seaduses ei ole sätestatud teisiti.\n(2) Täitemenetluses tasub menetluse põhitasu võlgnik, kui seaduses ei ole sätestatud teisiti. Muude ametitoimingute eest tasub menetluse põhitasu isik, kes taotleb ametitoimingu tegemist, kui seaduses ei ole sätestatud teisiti.\n(2^1) Võlgnik hüvitab riigile alaealise lapse elatise sissenõudmise eest kohtutäiturile riigi poolt makstud tasu täitemenetluse seadustiku § 38^1 lõikes 1 sätestatud korras.\n(3) Ettemaksu tasub isik, kes taotleb ametitoimingu tegemist."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "31",
+      "title": "§ 31. Kohtutäituri tasu otsus",
+      "content": "(1) Kohtutäitur teeb tasu, sealhulgas ettemaksu, sissenõudmiseks otsuse.\n(1^1) Kui kohtutäitur soovib alaealisele lapsele elatise sissenõudmise eest riigilt tasu, teeb ta selleks otsuse. Otsuse peale ei saa esitada kaebust.\n(2) Kohtutäituri tasu otsuses peab olema märgitud:\n1) kohustatud isiku nimi ja aadress;\n2) kohtutäituri nimi, kontaktandmed ja ametialase konto number;\n3) otsuse kuupäev, täiteasja number, täitedokumendi täitmise korral selle andmed;\n4) kohtutäituri tasu suurus koos käibemaksuga ja ilma selleta ning viited käesoleva seaduse sätetele, mille alusel on tasu määratud;\n5) viited tasu otsuse peale kaebuse esitamise korrale, välja arvatud käesoleva paragrahvi lõikes 1^1 nimetatud otsuse puhul.\n(3) Kohtutäituri tasu otsusele kirjutab alla kohtutäitur."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "32",
+      "title": "§ 32. Kohtutäituri tasu sissenõudmine",
+      "content": "(1) Menetluse alustamise tasu muutub sissenõutavaks menetluse alustamisega.\n(2) Rahalise nõude täitmisel muutub põhitasu sissenõutavaks täitmisteate kättetoimetamisega võlgnikule. Mitterahaliste nõuete täitmisel ja muude täitetoimingute tegemisel muutub põhitasu sissenõutavaks täitetoimingute lõpetamisega.\n(3) Kohtutäituri tasule lisandub käibemaks.\n(4) Kui rahalise nõude täitmisel täidetakse täitedokument enne selle vabatahtlikuks täitmiseks antud tähtaja möödumist või sõlmib võlgnik enne vabatahtlikuks täitmiseks antud tähtaja möödumist sissenõudjaga maksegraafiku ja täidab nõuet kuni selle nõuetekohase täitmiseni maksegraafiku kohaselt, maksab võlgnik kohtutäituri põhitasu üksnes pooles ulatuses seaduses ettenähtust ja täitemenetluse alustamise tasu.\n(4^1) Rahalise nõude täitmisel selgitatakse täitmisteates võlgnikule, et kui ta täidab täitedokumendi enne vabatahtlikuks täitmiseks antud tähtaja möödumist või sõlmib enne vabatahtlikuks täitmiseks antud tähtaja möödumist sissenõudjaga maksegraafiku ja täidab nõuet kuni selle nõuetekohase täitmiseni maksegraafiku kohaselt, siis peab ta maksma kohtutäituri põhitasu üksnes pooles ulatuses seaduses ettenähtust ja täitemenetluse alustamise tasu. Täitmisteates märgitakse numbritega kogu kohtutäituri põhitasu suurus koos käibemaksuga ning käesoleva lõike esimeses lauses nimetatud tingimustel tasumisele kuuluv pool põhitasust koos käibemaksuga.\n(5) Kui täitmisel olev rahaline nõue nõutakse sisse osaliselt, on kohtutäituril õigus saada põhitasu üksnes summas, mis on võrdeline sissenõutud summaga.\n(6) Kui täitemenetluse asi antakse ühelt kohtutäiturilt teisele üle ning menetluse alustamise tasu on selle menetluse eest juba tasutud, ei või täitemenetluse asja ülevõttev kohtutäitur nõuda menetluse alustamise tasu maksmist."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "33",
+      "title": "§ 33. Ettemaksu tasumata jätmine ja ettemaksu tagastamine",
+      "content": "(1) Kui sissenõudja ei tasu ettemaksu, võib kohtutäitur jätta täitemenetluse alustamata, tagastades sissenõudjale täitedokumendi.\n(2) Kui kohtutäitur alustab täitemenetlust ettemaksu nõudmata või selle tasumata jätmisest olenemata, ei ole tal õigust hiljem nõuda ettemaksu tasumist.\n(3) Kui kohtutäituri tasu on võlgnikult täies ulatuses sisse nõutud, tagastab kohtutäitur sissenõudjale ettemaksu ühe kuu jooksul tasu laekumisest arvates.\n(4) Kui täitemenetlus tuleb lõpetada nõuet rahuldamata, ei tagastata sissenõudjale kohtutäituri tasu ettemaksu. Täiteasja üleandmisel täitemenetluse seadustiku § 47^1 lõikes 2 sätestatud korras ei tagasta täiteasja menetlenud kohtutäitur sissenõudjale kohtutäituri tasu ettemaksu."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "34",
+      "title": "§ 34. Täitemenetluse alustamise tasu",
+      "content": "Kui täitmisteade toimetatakse võlgnikule kätte: 1 1) elektronposti aadressil või elektrooniliselt selleks ettenähtud infosüsteemi kaudu, on täitemenetluse alustamise tasu 15 eurot;\n2) muul tsiviilkohtumenetluse seadustikus sätestatud viisil, on täitemenetluse alustamise tasu 30 eurot."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "35",
+      "title": "§ 35. Sissenõude summast sõltuvad põhitasu määrad",
+      "content": "(1) Kui täitmiseks esitatakse täitedokument, millega võlgnik kohustub sissenõudjale tasuma rahasumma, arvutatakse kohtutäituri põhitasu ja kohtutäituri tasu ettemaks järgnevas tabelis toodud nõude summa järgi. Sissenõude summad kuni … eurot Kohtutäituri põhitasu määr eurodes Tasu ettemaks eurodes 35 25 20 65 40 20 130 65 20 200 90 25 300 105 25 400 115 30 500 130 30 750 175 35 1000 225 40 1500 300 45 2000 380 50 2500 450 55 3000 500 60 4000 540 191 5000 570 191 6000 610 191 7000 650 191 8000 700 191 9000 760 191 10 000 830 191 12 500 960 191 15 000 1100 191 17 500 1250 191 20 000 1350 191 25 000 1550 191 50 000 2100 191 75 000 2900 191 100 000 3600 191 150 000 4500 191 200 000 5500 191 250 000 6000 191 350 000 6500 191 500 000 7000 191 > 500 000 7000 319 [ RT I, 31.05.2018, 2 - jõust. 01.01.2019]\n(2)\n(2^1) Kui hüpoteegiga tagatud sissenõude summa on suurem kui 150 000 eurot, on kohtutäituri põhitasu määr 5000 eurot.\n(2^2) Kui hüpoteegiga tagatud sissenõude summa on suurem kui 150 000 eurot, on kohtutäituri tasu ettemaks 191 eurot.\n(3)\n(4)"
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "36",
+      "title": "§ 36. Kindla põhitasu määraga täitetoimingud",
+      "content": "(1) Kindla põhitasu määra alusel makstakse kohtutäituri tasu järgmiste täitetoimingute eest:\n1) vallasasja väljanõudmine;\n2) kinnisasja väljaandmine (väljatõstmine);\n3) lapse üleandmine ja lapsega suhtlemise võimaldamine;\n4) kaasomanikevahelise enampakkumise korraldamine;\n4^1) avaliku enampakkumise korraldamine, millega lõpetatakse kaas- või ühisomand;\n5)\n6) sundvõõrandatava kinnisasja valduse ülevõtmise ja -andmise korralduse täitmine;\n7) muu toimingu tegemiseks kohustava lahendi täitmine.\n(1^1) Kohtutäituri põhitasu käesoleva paragrahvi lõike 1 punktides 1 ja 2 nimetatud toimingu eest on 250 eurot ja kohtutäituri tasu ettemaks 92 eurot.\n(1^2) Kohtutäituri põhitasu käesoleva paragrahvi lõike 1 punktis 3 nimetatud toimingu eest on 200 eurot ja kohtutäituri tasu ettemaks 92 eurot.\n(2) Kohtutäituri põhitasu käesoleva paragrahvi lõike 1 punktis 7 nimetatud toimingu eest on 140 eurot ja kohtutäituri tasu ettemaks 92 eurot.\n(3) Kaasomanikevahelise enampakkumise korral on kohtutäituri põhitasu 450 eurot. Tasu maksab parima pakkumise teinud kaasomanik.\n(3^1) Avaliku enampakkumise korraldamise korral, millega lõpetatakse kaas- või ühisomand, on kohtutäituri põhitasu 278 eurot. Täitekulud arvestatakse maha müügitulemist ning täitekulud kannavad kaas- või ühisomanikud võrdeliselt neile väljamaksmisele kuuluva tulemi osaga.\n(4) Sundvõõrandamistoimingute põhitasu maksab sundvõõrandi saaja. Tasu arvutatakse käesoleva seaduse § 35 alusel järgmiselt:\n1)\n2) sundvõõrandatava kinnisasja valduse ülevõtmise ja -andmise korralduse täitmise eest on kohtutäituri tasu üks kolmandik tasumäärast, mis vastab sundvõõrandamise otsuses märgitud tasule."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "37",
+      "title": "§ 37. Elatusraha (elatise) sissenõudmise eest makstav tasu",
+      "content": "(1) Elatusraha sissenõudmise eest makstav menetluse alustamise tasu on ühekordne summa, mis vastab poolele Vabariigi Valitsuse kehtestatud kuupalga alammäärast. Menetluse alustamise tasu nõutakse sisse koos esimese igakuise elatusrahaga. Kui võlgnik tasub elatusraha esimese igakuise makse osaliselt, võtab kohtutäitur menetluse alustamise tasu võrdeliselt sissenõutud summaga.\n(2) Elatusraha sissenõudmise eest makstav põhitasu arvestatakse käesoleva seaduse § 35 alusel sissenõutavaks muutunud elatusraha võlgnevuse summalt. Kui võlgnik tasub elatusraha osaliselt, võtab kohtutäitur tasu võrdeliselt sissenõutud summaga. Põhitasu ei arvestata, kui võlgnik maksab elatusraha maksed enne nende sissenõutavaks muutumist."
+    },
+    {
+      "provision_ref": "para37^1",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "37^1",
+      "title": "§ 37^1. Välisriigist laekuva elatise vahendamise tasu",
+      "content": "(1) Välisriigist laekuva elatise vahendamise tasu maksab riik.\n(2) Välisriigist laekuva elatise vahendamise toimiku avamise tasu on 15 eurot.\n(3) Välisriigist laekuva elatise vahendamisega kaasnevate toimingute tegemise kuutasu on 4 eurot.\n(4) Kui kohtutäituril tekib kohustus maksta rahvusvahelise ülekande eest tasu, lisandub elatise vahendamise tasule rahvusvahelise ülekande tasu.\n(5) Välisriigist laekuva elatise vahendamise tasu maksmise täpsemad tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para37^2",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "37^2",
+      "title": "§ 37^2. Alaealisele lapsele elatise sissenõudmise eest riigi makstav tasu",
+      "content": "(1) Riik maksab kohtutäiturile tasu, kui täitmisel on kohtulahendist või notariaalselt tõestatud kokkuleppest tulenev alaealise lapse igakuise elatise nõue. Kohtutäituril on õigus tasu saada alates elatise sissenõudmise toimiku avamise kolmeteistkümnendast kalendrikuust.\n(2) Riigi makstava elatise sissenõudmise tasu suurus ühe täiteasja kohta on kuni 100 eurot kalendriaastas. Kui ühe kohtutäituri menetluses on sama võlgniku suhtes mitu täiteasja, makstakse kohtutäiturile tasu üksnes ühe täiteasja eest.\n(3) Kui võlgnikult täiteasjas või mitmes täiteasjas kalendriaasta jooksul saadud kohtutäituri põhitasu summa on väiksem käesoleva paragrahvi lõike 4 alusel kehtestatud riigi poolt kohtutäiturile makstavast tasust, on riigi poolt kohtutäiturile makstava tasu suurus määrusega kehtestatud tasu ja võlgniku poolt kohtutäiturile makstud põhitasu summa vahe. Riigi poolt ei maksta kohtutäiturile tasu:\n1) kui võlgniku makstud tasu summa on võrdne käesoleva paragrahvi lõike 4 alusel kehtestatud tasuga või sellest suurem;\n2) kui täiteasja on menetletud kalendriaastas kokku alla kuue kuu.\n(4) Riigi poolt kohtutäiturile makstava tasu suuruse kalendriaastas ning selle maksmise täpsemad tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para37^3",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "37^3",
+      "title": "§ 37^3. Riigi makstava tasu väljamaksmine",
+      "content": "Käesoleva seaduse §-des 37^1 ja 37^2 nimetatud tasu väljamaksmist kohtutäituritele korraldab koda."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "38",
+      "title": "§ 38. Hagi tagamise eest makstav põhitasu",
+      "content": "(1) Hagi tagamise määruse täitmise põhitasu sõltub hagi hinnast ja tasu makstakse järgmiselt:\n1) kuni 3200-eurose hagi hinna korral on tasu 70 eurot;\n2) 3201–12 800-eurose hagi hinna korral on tasu 140 eurot;\n3) üle 12 800-eurose hagi hinna korral on tasu 278 eurot.\n(1^1) Kui hagi tagamise määrus käsitleb laeva arestimist, on kohtutäituri põhitasu 600 eurot.\n(1^2) Hagi tagamise korras elatise sissenõudmisel on kohtutäituri põhitasu 150 eurot.\n(2) Kui hagi tagamise määrus käsitleb mitterahalist nõuet või kui hagi hind on määramata või kui hagi on hinnata, samuti hagi tagamise tühistamise määruse või kohtuotsuse täitmise korral on kohtutäituri põhitasu 100 eurot.\n(3) Kui hagi tagamise määrus käsitleb nii rahalist nõuet kui ka mitterahalist nõuet, liidetakse käesoleva paragrahvi lõigetes 1 ja 2 ettenähtud tasumäärad.\n(4) Hagi tagamise määruse täitmise eest, samuti hagi tagamise tühistamise korral maksab kohtutäituri tasu isik, kes taotles hagi tagamise abinõu rakendamist. Hagi tagamise korras määratud elatise sissenõudmise eest maksab kohtutäituri põhitasu võlgnik.\n(5) Kohtutäituri tasu muutub sissenõutavaks hagi tagamise määruse esitamisega sundtäitmiseks. Kui sissenõudja ei maksa kohtutäituri tasu, võib kohtutäitur jätta täitemenetluse algatamata.\n(6) Euroopa Parlamendi ja nõukogu määruse (EL) nr 655/2014, millega luuakse pangakontode Euroopa arestimismääruse menetlus, et hõlbustada võlgade piiriülest sissenõudmist tsiviil- ja kaubandusasjades (ELT L 189, 27.06.2014, lk 59–92), alusel tehtud Euroopa arestimismääruse täitmise eest makstava põhitasu suurusele, maksmisele ja sissenõutavusele kohaldatakse mitterahalise nõude tagamiseks tehtud hagi tagamise määruse täitmise kohta sätestatut."
+    },
+    {
+      "provision_ref": "para38^1",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "38^1",
+      "title": "§ 38^1. Täitmise tagamise või esialgse õiguskaitse kohaldamise eest makstav põhitasu",
+      "content": "(1) Kui kohtutäitur teeb halduskohtu otsuse või määruse kohaselt toiminguid rahaliste nõuete täitmise tagamiseks või esialgse õiguskaitse kohaldamiseks, on kohtutäituri põhitasu 278 eurot.\n(2) Kohtutäituri põhitasu maksab isik, kes taotles täitmise tagamise või esialgse õiguskaitse kohaldamise rakendamist, ning tasu muutub sissenõutavaks lahendi esitamisega sundtäitmiseks."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "40",
+      "title": "§ 40. Varalise karistuse mõistmiseks ja kuriteoga saadud vara konfiskeerimiseks vajalike andmete kindlakstegemise tasu",
+      "content": "(1) Kui kohtutäitur teeb uurimisasutuse määruse alusel kindlaks andmed, mida menetleja vajab varalise karistuse mõistmiseks või kuriteoga saadud vara konfiskeerimiseks, maksab kohtutäituri tasu menetleja.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud toimingu eest on kohtutäituri tasu 120 eurot. Tasu muutub sissenõutavaks alates varalise seisundi kohta koostatud õiendi esitamisest menetlejale."
+    },
+    {
+      "provision_ref": "para40^1",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "40^1",
+      "title": "§ 40^1. Kohtutäituri tasu täitmisregistri kaudu täidetud nõude puhul",
+      "content": "(1) Kui täitedokumendi täitmine on täies ulatuses võimalik täitmisregistri kaudu, maksab võlgnik kohtutäituri põhitasu üksnes pooles ulatuses seaduses ettenähtust ja täitemenetluse alustamise tasu.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud kohtutäituri tasu rakendub juhul, kui nõue täidetakse täitmisregistri kaudu kolme tööpäeva jooksul elektroonilise arestimisakti krediidiasutusse edastamisest arvates."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "41",
+      "title": "§ 41. Kohtutäituri tasu täitemenetluse lõpetamise korral nõude varasema lõppemise tõttu",
+      "content": "(1) Kui täitemenetluse käigus selgub, et võlgnik on nõude sissenõudja ees nõuetekohaselt täitnud enne sissenõudja poolt avalduse esitamist kohtutäiturile, maksab sissenõudja menetluse alustamise tasu. Kui võlgnik täidab nõuetekohaselt nõude pärast avalduse kohtutäiturile esitamist, kuid enne täitmisteate saamist, maksab võlgnik 15 eurot. Kui nõude täitmine toimus samal päeval kui täitmisteate kättetoimetamine, loetakse täitmine toimunuks pärast täitmisteate kättetoimetamist ning võlgnik maksab menetluse alustamise tasu.\n(2) Kui sissenõudja taotleb täitemenetluse lõpetamist enne nõude täielikku sissenõudmist kohtutäituri poolt ning kohtutäitur on nõude sissenõudmiseks teinud täitetoiminguid, maksab sissenõudja menetluse alustamise tasu ja pool menetluse põhitasust, arvestatuna sissenõudmata jäänud summalt.\n(3) Kui võlgnik täidab nõuetekohaselt nõude pärast vabatahtliku täitmise tähtaja möödumist sissenõudjale kohtutäituri vahenduseta, maksab võlgnik käesoleva seaduse § 29 lõikes 1 nimetatud kohtutäituri tasu ja täitekulud vastavalt kohtutäituri tasu või täitekulude otsusele."
+    },
+    {
+      "provision_ref": "para41^1",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "41^1",
+      "title": "§ 41^1. Nõude täitmise aegumise kohaldamise avalduse läbivaatamise eest makstav tasu",
+      "content": "(1) Kui võlgnik esitab kohtutäiturile täitemenetluse seadustiku § 48^1 lõike 1 punktis 1 nimetatud avalduse, on kohtutäituril õigus saada avalduse läbivaatamise eest tasu 15 eurot.\n(2) Tasu makstakse avalduse esitamisel. Kui võlgnik ei maksa tasu, võib kohtutäitur jätta avalduse tähelepanuta."
+    },
+    {
+      "provision_ref": "para41^2",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "41^2",
+      "title": "§ 41^2. Kohtutäituri tasu täitemenetluse lõpetamise korral nõude täitmise aegumise tõttu",
+      "content": "Täitemenetluse lõpetamisel nõude täitmise aegumise tõttu on kohtutäituril õigus nõuda võlgnikult menetluse põhitasu kuni pooles ulatuses arvestatuna sissenõudmata jäänud summalt. Täitemenetluse alustamise tasu kohtutäitur nõuda ei või."
+    },
+    {
+      "provision_ref": "para41^3",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "41^3",
+      "title": "§ 41^3. Käesoleva seaduse §-de 41^1 ja 41^2 kohaldamine",
+      "content": "Käesoleva seaduse §-de 41^1 ja 41^2 sätteid ei kohaldata täitemenetluse lõpetamisele täitemenetluse seadustiku §-de 202 ja 207 alusel."
+    },
+    {
+      "provision_ref": "para41^4",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "41^4",
+      "title": "§ 41^4. Kohtutäituri tasu võlgniku täitemenetlusliku profiili koostamise eest",
+      "content": "(1) Kohtutäituri tasu võlgniku täitemenetlusliku profiili koostamise eest on 15 eurot.\n(2) Võlgniku täitemenetlusliku profiili koostamise eest maksab tasu seda taotlenud isik."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "42",
+      "title": "§ 42. Väljatrüki, dokumendi koopia ja õiendi väljastamise tasu",
+      "content": "(1) Väljatrüki, dokumendi koopia ja õiendi väljastamise eest tasub väljatrükki, koopiat või õiendit taotlenud isik. Sätet ei kohaldata haldusorganile, kellel on seadusest tulenev õigus saada täitetoimikust teavet.\n(2) Kohtutäituri tasu väljatrüki või dokumendi koopia väljastamise, sealhulgas elektroonilise väljastamise eest on:\n1) A4 formaadis lehekülje eest 0,31 eurot;\n2) A3 formaadis lehekülje eest 0,44 eurot.\n(3) Täitemenetlust käsitleva õiendi väljastamise, sealhulgas elektroonilise väljastamise eest on kohtutäituri tasu 2,50 eurot.\n(4) Kui käesoleva paragrahvi lõikes 3 nimetatud õiendi väljastamine eeldab kohtutäituri käsutuses oleva teabe analüüsi või lisateabe kogumist, on kohtutäituri tasu 15 eurot."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "43",
+      "title": "§ 43. Kohtutäituri lisatasu",
+      "content": "Käesoleva seaduse §-des 44–47 nimetatud täitetoimingu eest on kohtutäituril õigus nõuda käesolevas seaduses sätestatud ulatuses lisatasu. Lisatasu otsus peab olema põhjendatud."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "44",
+      "title": "§ 44. Lisatasu arestimistoimingu tegemise eest",
+      "content": "(1) Väljaspool kohtutäituri bürood tehtava arestimistoimingu eest, mis seisneb võlgniku valduses olevate vallasasjade või kinnisasjade arestimises, arvestatakse kohtutäituri lisatasu tunnitasuna esimesest tunnist alates käesoleva seaduse §-s 47 sätestatud määras. Lisatasu väljamõistmise otsus väljastatakse maksmiseks kohustatud isikule viivitamata pärast arestimistoimingu tegemist.\n(2) Täitemenetluse seadustiku § 28 lõike 1^1 alusel võlgniku valduses olevate ruumide ja maatüki läbiotsimise kohustuse täitmisel arvestatakse kohtutäituri lisatasuks tunnitasu alates läbiotsimise esimesest tunnist käesoleva seaduse §-s 47 sätestatud määras ja mõistlikus suuruses sõidukulu."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "45",
+      "title": "§ 45. Lisatasu enampakkumise korraldamise ja läbiviimise eest",
+      "content": "(1) Enampakkumise korraldamise, läbiviimise ja tulemi jaotamise eest, kui seda on teinud kohtutäitur, on kohtutäituril õigus nõuda lisatasu kuni 5% vara müügihinnast, kuid mitte rohkem kui 3000 eurot. Lisatasu nõuda ei ole õigust enampakkumise nurjumise korral, välja arvatud siis, kui enampakkumine nurjus ostja poolt ostusumma tasumata jätmise tõttu. Sel juhul on kohtutäituril õigus saada lisatasuna 5% suurune summa ostja tasutud tagatisrahast.\n(2) Lisatasu väljamõistmise otsus väljastatakse võlgnikule ja sissenõudjale pärast enampakkumise lõppu ning tasu võetakse tulemi jaotamisel täitemenetluse seadustikus sätestatud korras."
+    },
+    {
+      "provision_ref": "para45^1",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "45^1",
+      "title": "§ 45^1. Lisatasu korteriühistu nõude töötlemise eest",
+      "content": "Täitemenetluses korteriühistu nõude töötlemise eest täitemenetluse seadustiku § 153^1 lõike 3 alusel on kohtutäituril õigus nõuda lisatasu 90 eurot."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "46",
+      "title": "§ 46. Lisatasu vara muul viisil müügi eest",
+      "content": "Vara müügi eest muul täitemenetluse seadustikus lubatud viisil on kohtutäituril õigus nõuda lisatasu kuni 1% vara tehinguväärtuselt."
+    },
+    {
+      "provision_ref": "para46^1",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "46^1",
+      "title": "§ 46^1. Lisatasu vallasvara müügi eest",
+      "content": "Vallasvara müügi eest, kui seda on teinud kohtutäitur, on kohtutäituril õigus nõuda lisatasu kuni 20% vara müügihinnast, kuid mitte rohkem kui 5000 eurot."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "47",
+      "title": "§ 47. Lisatasu tunnitasuna",
+      "content": "(1) Käesoleva seaduse §-des 36, 38 ja 38^1 nimetatud täitetoimingute tegemisel väljaspool kohtutäituri bürood on kohtutäituril õigus nõuda alates teisest pooltunnist lisatasu, mille suurus on 40 eurot tunnis. Lisatasu väljamõistmise otsus väljastatakse maksmiseks kohustatud isikule viivitamata pärast täitetoimingu tegemist.\n(2) Tunnitasuna määratud tasu puhul ümardatakse toimingu tegemiseks kulutatud aeg, mis läheb üle täis- või pooltunni, vastavalt täis- või pooltunniks."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "48",
+      "title": "§ 48. Menetlusdokumentide kättetoimetamise tasu",
+      "content": "(1) Menetlusdokumentide kättetoimetamise eest on kohtutäituril õigus nõuda kohtutäituri tasu ettemaksu 40 eurot. Ettemaksu ei või nõuda kohtu- või muult avalik-õiguslikult ametiasutuselt.\n(2) Menetlusdokumentide kättetoimetamise eest on kohtutäiturile makstav tasu 40 eurot, kui adressaadile või tema seaduslikule esindajale oli võimalik dokumendid kätte toimetada:\n1) rahvastikuregistrisse kantud aadressi või sidevahendi andmete kaudu või elektronpostiaadressi isikukood@eesti.ee kaudu;\n2) füüsilisest isikust ettevõtja või juriidilise isiku kohta Eestis peetavasse registrisse kantud aadressil või eelnimetatud registri infosüsteemis registreeritud sidevahendi andmete kaudu.\n(3) Kui menetlusdokumenti ei õnnestunud kätte toimetada, kuigi kohtutäitur on teinud kõik vajaliku ja mõistlikult võimaliku dokumendi seaduses sätestatud korras kättetoimetamiseks, on kohtutäituril õigus nõuda tasu 40 eurot, väljastades kohtutäituri tasu otsuse ja kättetoimetamisakti selle kohta, mida ta on dokumendi kättetoimetamiseks teinud.\n(4) Käesoleva paragrahvi lõigetes 2 ja 3 nimetamata juhul on kohtutäiturile menetlusdokumentide kättetoimetamise eest makstav tasu 70 eurot.\n(5) Kui isikul, kellele tuleb dokumendid kätte toimetada, on seadusest tulenev kohustus registreerida enda aadress või sidevahendi andmed käesoleva paragrahvi lõikes 2 nimetatud registris ning see isik ei ole seda kohustust kohaselt täitnud, sealhulgas kui registris olevad andmed on vananenud või muul põhjusel valed, ning seetõttu ei ole õnnestunud menetlusdokumente kätte toimetada neid andmeid kasutades, tasub käesoleva paragrahvi lõikes 4 sätestatud tasust kohtutäituri tasu otsuse alusel 35 eurot ametitoimingu taotleja ja 35 eurot isik, kellele tuli dokumendid kätte toimetada.\n(6) Kohtutäituril ei ole õigust nõuda tasu ning tasutud ettemaks tagastatakse, kui kohtutäitur ei ole kohtu poolt määratud tähtaja jooksul, selle puudumisel kahe kuu jooksul teinud kõike vajalikku ja mõistlikult võimalikku dokumentide seaduses sätestatud korras kättetoimetamiseks ja kui menetlusdokumente ei õnnestunud kätte toimetada. Käesoleva lõike esimeses lauses sätestatu ei vabasta kohtutäiturit menetlusdokumentide kättetoimetamise kohustusest."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "49",
+      "title": "§ 49. Kohtutäituri tasu pärandi inventuuri eest",
+      "content": "(1) Pärimismenetluses pärandi inventuuri tegemisel on kohtutäituri tasu maksmiseks kohustatud isik pärija. Kaaspärijad vastutavad tasu maksmise eest solidaarselt.\n(2) Kohtutäituri tasu on 0,15% pärandvara nimekirja kantud vara hulka kuuluvate õiguste koguväärtusest, kuid mitte vähem kui 35 eurot ja mitte rohkem kui 3336 eurot.\n(3) Kohtutäituri tasu pärandi inventuuri tegemise eest muutub sissenõutavaks pärandvara nimekirja esitamisest notarile."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "50",
+      "title": "§ 50. Kohtutäituri tasu ametliku enampakkumise läbiviimise eest",
+      "content": "(1) Enampakkumise läbiviimise eest tasub enampakkumise taotleja.\n(2) Enampakkumisel müüdava vara üleskirjutamise ja hindamise eest on kohtutäituri tasu pool tasumäärast, mis vastab üleskirjutatud vara hinnale hindamisakti kohaselt. Tasu arvestatakse käesoleva seaduse §-s 36 nimetatud alustel.\n(3) Enampakkumise korraldamise ja läbiviimise eest on kohtutäituri tasu 3% vara müügihinnast.\n(4) Kohtutäituril on õigus saada tasu pärast enampakkumise läbiviimist, väljastades kohtutäituri tasu otsuse. Enampakkumise nurjumisel on kohtutäituril õigus nõuda tasu käesoleva paragrahvi lõikes 2 nimetatud toimingute eest."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "51",
+      "title": "§ 51. Väljatrüki, dokumendi koopia ja õiendi väljastamise tasu",
+      "content": "(1) Käesolevas jaotises sätestatud ametitoimingutega seotud väljatrüki ja dokumendi koopia väljastamise, sealhulgas elektroonilise väljastamise eest on kohtutäituril õigus saada tasu käesoleva seaduse § 42 lõikes 2 sätestatud määras.\n(2) Käesolevas jaotises sätestatud ametitoimingu kohta õiendi väljastamise, sealhulgas elektroonilise väljastamise eest on kohtutäituri tasu 2,50 eurot.\n(3) Kui käesoleva paragrahvi lõikes 2 nimetatud õiendi väljastamine eeldab kohtutäituri käsutuses oleva teabe analüüsi või lisateabe kogumist, on kohtutäituri tasu 15 eurot."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "52",
+      "title": "§ 52. Kaebuse esitamine",
+      "content": "Kohtutäituri tasu väljamõistmise otsuse võib kohustatud isik vaidlustada täitemenetluse seadustikus kohtutäituri otsuse vaidlustamiseks ettenähtud korras."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "53",
+      "title": "§ 53. Kohtutäituri tasu tagastamine",
+      "content": "Kui kohus on tunnistanud kohtutäituri tegevuse tasu sissenõudmisel või tasu suuruse määramisel seadusvastaseks, tagastab kohtutäitur alusetult nõutud ja tasutud summa kohustatud isikule kümne päeva jooksul kohtulahendi jõustumisest arvates."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "54",
+      "title": "§ 54. Haldusjärelevalve teostaja",
+      "content": "(1) Haldusjärelevalvet kohtutäituri tegevuse üle teostavad Justiitsministeerium ja koja ametikogu juhatus. Haldusjärelevalvet koja põhikirja, organite otsuste ja koja kehtestatud hea ametitava täitmise üle teostab koja aukohus (edaspidi aukohus ).\n(2)\n(3)\n(4) Haldusjärelevalve teostamiseks võib valdkonna eest vastutav minister või tema volitatud isik anda juhiseid ning haldusjärelevalve teostamisel koja vastuvõetud otsuseid kehtetuks tunnistada."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "55",
+      "title": "§ 55. Haldusjärelevalve teostamine",
+      "content": "(1) Haldusjärelevalve teostaja kontrollib kohtutäituri ametitegevuse nõuetekohasust, sealhulgas:\n1) kohtutäituri ametialase arvelduskonto käivet;\n2) kohtutäituri tasu ettemaksu ja täitekulu, sealhulgas tasu võtmise seaduslikkust;\n3) ametitoimingute registreerimist ja infotehnoloogilise töö korraldust;\n4) õigusaktidest või heast ametitavast tulenevate muude nõuete, kohustuste ja tähtaegade järgimist.\n(1^1) Käesoleva paragrahvi lõike 1 punktis 1 nimetatud kohtutäituri ametialase arvelduskonto käivet kontrollib üksnes Justiitsministeerium.\n(1^2) Haldusjärelevalve teostaja on pädev kontrollima kohtutäituri ametitegevuse nõuetekohasust ka nendes küsimustes, mida seaduse kohaselt on võimalik lahendada kas kaebe- või hagimenetluses.\n(2) Haldusjärelevalve ei hõlma ametitoimingu tegemisel kohtutäituri valitud õigusliku lahenduse otstarbekuse hindamist. Haldusjärelevalve teostajal on õigus sekkuda kohtutäituri ametitegevuse üle haldusjärelevalvet tehes kohtutäituri otsustusmenetluse sisulistesse küsimustesse, kui kohtutäitur on eksinud selgelt sätestatud ja üheselt mõistetava õigusnormi vastu või väljakujunenud kohtupraktika vastu.\n(3) Justiitsministeeriumi poolt kohtutäituri ametitegevuse üle haldusjärelevalve teostamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(4) Koja poolt kohtutäituri ametitegevuse üle haldusjärelevalve teostamise kord sätestatakse koja põhikirjas."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "56",
+      "title": "§ 56. Kohtutäituri distsiplinaarsüüteod",
+      "content": "Kohtutäituri distsiplinaarsüüteod on:\n1) ametitegevuses ja ametipidamises õigusaktidest ning koja otsustest ja heast ametitavast tulenevate kohustuste süüline täitmata jätmine või mittenõuetekohane täitmine, sealhulgas kohtutäituri tasumääradele mittevastava tasu võtmine;\n2) vääritu tegu, mis on vastuolus üldtunnustatud kõlblusnormidega või mis vähendab usaldust kohtutäituri ameti vastu, sõltumata sellest, kas tegu pandi toime ametikohustusi täites või mitte."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "57",
+      "title": "§ 57. Distsiplinaarkaristused",
+      "content": "(1) Kohtutäiturile määratavad distsiplinaarkaristused on:\n1) noomitus;\n2) rahatrahv;\n3) ametist tagandamine.\n(2) Kui distsiplinaarmenetluse läbiviimisel tekib põhjendatud kahtlus, et ametiteenuste osutamine võib olla takistuseks kohtutäituri ametikohustuste nõuetekohasel täitmisel, võib lisaks käesoleva paragrahvi lõikes 1 nimetatud distsiplinaarkaristuse määramisele keelata kohtutäituril ametiteenuste osutamise kuni kolmeks aastaks.\n(3) Kohtutäiturile distsiplinaarkaristuse määramise õigus on Justiitsministeeriumil ja aukohtul.\n(4) Aukohus võib määrata distsiplinaarkaristuse käesoleva seaduse §-s 100 nimetatud asjade menetlemisel."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "58",
+      "title": "§ 58. Distsiplinaarmenetluse üleandmine ja lõpetamine",
+      "content": "(1) Justiitsministeerium võib anda kohtutäituri suhtes algatatud distsiplinaarmenetluse aukohtule lahendada.\n(2) Kui Justiitsministeerium on algatanud kohtutäituri suhtes distsiplinaarmenetluse, lõpetab aukohus samas asjas aukohtumenetluse."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "59",
+      "title": "§ 59. Distsiplinaarmenetluse algatamine",
+      "content": "(1) Justiitsministeerium või koja aukohus võib algatada distsiplinaarmenetluse, kui kohtutäituri ametitegevuse haldusjärelevalve tulemused või isiku kaebus või muu dokument või teade annab alust arvata, et kohtutäitur on toime pannud distsiplinaarsüüteo.\n(2) Aukohus algatab ja viib läbi aukohtumenetluse käesoleva seaduse §-des 101 ja 102 sätestatud korras.\n(3) Distsiplinaarmenetluse algatamise aluseks olevate asjaolude kohta nõuab distsiplinaarmenetluse algataja kohtutäiturilt kirjalikku seletust.\n(4) Kui aukohus esitab Justiitsministeeriumile ettepaneku kohtutäituri ametist tagandamise otsustamiseks, ei pea Justiitsministeerium algatama distsiplinaarmenetlust ning võib aukohtu poolt edastatud süüteo tuvastamise asjaolude ja esitatud ettepaneku alusel teha otsuse kohtutäituri ametist tagandamise või tagandamata jätmise kohta. Kui aukohus ei ole distsiplinaarmenetluse käigus piisavalt tõendeid kogunud, võib Justiitsministeerium ise täiendavaid tõendeid koguda või saata distsiplinaarasja tagasi aukohtule täiendavate tõendite kogumiseks."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "60",
+      "title": "§ 60. Justiitsministeeriumi määratavad distsiplinaarkaristused",
+      "content": "(1) Justiitsministeeriumi kohtutäiturile määratavad distsiplinaarkaristused on:\n1) noomitus;\n2) rahatrahv 64–16 000 eurot;\n3) ametist tagandamine.\n(2) Rahatrahv tuleb tasuda kolme kuu jooksul selle määramisest arvates. Trahv kantakse riigituludesse.\n(2^1) Justiitsministeeriumi otsus distsiplinaarkaristusena määratud rahatrahvi kohta on täitedokumendiks täitemenetluse seadustiku § 2 lõike 1 punkti 21 tähenduses.\n(3) Kohtutäituri võib ametist tagandada raske distsiplinaarsüüteo eest, kustumata või kustutamata distsiplinaarkaristuse ajal toimepandud distsiplinaarsüüteo eest või sellise vääritu teo eest, mis teeb kohtutäiturina töötamise võimatuks. Enne kohtutäituri ametist tagandamist kuulatakse ära kohtutäituri selgitused ja koja seisukoht."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "61",
+      "title": "§ 61. Distsiplinaarkaristuse määramise tähtajad",
+      "content": "(1) Distsiplinaarsüüteo eest võib distsiplinaarkaristuse määrata kolme aasta jooksul distsiplinaarsüüteo toimepanemisest arvates.\n(2) Distsiplinaarsüüteo aegumine peatub distsiplinaarasja menetluse ajal, sealhulgas menetluse ajal kohtus, samuti apellatsioon- ja kassatsioonkaebuse esitamise tähtajal.\n(3) Kui kohus tühistab määratud distsiplinaarkaristuse distsiplinaarsüüteole mittevastavuse tõttu, võib uut distsiplinaarmenetlust algatamata määrata uue karistuse ühe kuu jooksul kohtuotsuse jõustumisest arvates."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "62",
+      "title": "§ 62. Ühe distsiplinaarsüüteo eest mitme distsiplinaarkaristuse määramise keeld",
+      "content": "(1) Ühe distsiplinaarsüüteo eest võib määrata ühe distsiplinaarkaristuse.\n(2) Distsiplinaarsüüteo jätkumine pärast distsiplinaarkaristuse määramist on uus distsiplinaarsüütegu ja selle eest võib määrata uue distsiplinaarkaristuse."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "63",
+      "title": "§ 63. Distsiplinaarkaristuse ühitamine haldus-, kriminaal- ja materiaalse vastutusega",
+      "content": "Kohtutäiturile distsiplinaarkaristuse määramine ei takista tema võtmist haldus-, kriminaal- või materiaalsele vastutusele, ja vastupidi."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "64",
+      "title": "§ 64. Distsiplinaarkaristuse kustumine",
+      "content": "Distsiplinaarkaristus on kustunud, kui kohtutäiturile ei ole kolme aasta jooksul karistuse määramisest arvates määratud uut distsiplinaarkaristust."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "65",
+      "title": "§ 65. Distsiplinaarkaristuse määramise peale kaebuse esitamine",
+      "content": "Kohtutäitur võib distsiplinaarkaristuse määramise peale esitada kaebuse halduskohtule ühe kuu jooksul karistuse määramisest teadasaamisest."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "2. peatükk - KOHTUTÄITUR",
+      "section": "66",
+      "title": "§ 66. Kohtutäituri omal soovil ametist vabastamine",
+      "content": "Kui kohtutäituri suhtes on algatatud distsiplinaarmenetlus, ei vabastata teda omal soovil ametist enne, kui distsiplinaarmenetlus on lõpetatud."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "67",
+      "title": "§ 67. Koja õiguslik seisund",
+      "content": "(1) Koda on avalik-õiguslik juriidiline isik, mille liikmeteks on kõik kohtutäiturid ja pankrotihaldurina või saneerimisnõustajana tegutsemise õigust omavad isikud (edaspidi pankrotihaldur või saneerimisnõustaja ). Koja juurde kuuluvad usaldusisikud.\n(2) Koda registreeritakse riigi- ja kohaliku omavalitsuse asutuste riiklikus registris."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "68",
+      "title": "§ 68. Koja põhikiri",
+      "content": "(1) Koja põhikiri võetakse vastu ning seda muudetakse ametikogu ja kutsekogu otsusega. Põhikirja või selle muutmise eelnõu kooskõlastatakse enne vastuvõtmist Justiitsministeeriumiga.\n(2) Koja põhikirjas sätestatakse koja organite, välja arvatud metoodikakomisjoni töökorraldus, organite ja koja liikmete vahelised õigussuhted, koja asjaajamise ja majandamise kord ning reguleeritakse teisi koja tegevusega seonduvaid küsimusi."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "69",
+      "title": "§ 69. Koja arengukava",
+      "content": "(1) Koja eelarve ja tegevuse planeerimise aluseks on koja arengukava, millega seatakse koja ning kohtutäituri ametitegevuse ja pankrotihalduri ning saneerimisnõustaja kutsetegevuse arengu eesmärgid järgnevaks neljaks eelarveaastaks. Arengukava vaadatakse üle vähemalt iga kahe aasta järel.\n(2) Arengukava eelnõu koostamise korraldab koja eestseisus, arvestades kojale õigusaktidega pandud ülesandeid. Arengukava eelnõu tuleb enne ameti- ja kutsekogule vastuvõtmiseks esitamist kooskõlastada Justiitsministeeriumiga."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "70",
+      "title": "§ 70. Koja tegevuse õiguspärasuse tagamine",
+      "content": "(1) Haldusjärelevalvet koja tegevuse õiguspärasuse üle teostab Justiitsministeerium, kes võib nõuda koja eestseisuselt ja nii ameti- kui ka kutsekogu juhatuselt haldusjärelevalve teostamiseks vajalike andmete ja dokumentide esitamist ning esitada koja organi akti või toimingu peale halduskohtule protesti.\n(2) Justiitsministeeriumil on õigus kontrollida ka koja majandustegevust.\n(3) Koda esitab Justiitsministeeriumile hiljemalt iga aasta märtsis aruande koja tegevuse kohta lõppenud aastal ja töökava koja põhiülesannete täitmiseks jooksval aastal.\n(4) Kui koda ei täida talle seadusega pandud kohustusi, võib Justiitsministeerium teha kojale ettekirjutuse. Ettekirjutuse täitmise tagamiseks võib Justiitsministeerium määrata kojale sunniraha kuni 6400 eurot asendustäitmise ja sunniraha seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "71",
+      "title": "§ 71. Koja vara",
+      "content": "(1) Koja vara moodustub:\n1) kohtutäiturite, pankrotihaldurite ja saneerimisnõustajate kohustuslikest liikmemaksudest ning usaldusisikute nimekirjas olemise tasudest;\n2) aukohtu otsuse alusel laekuvatest trahvidest;\n3) koja vahendite paigutamisest saadavast tulust;\n4) annetustest;\n5) muudest laekumistest.\n(2) Koja eestseisus võib anda ametikogu eelarveosa arvelt kohtutäiturile ametitegevuse alustamiseks või ametitegevusega seotud oluliste muudatuste elluviimiseks laenu või tagada samal otstarbel kohtutäituri poolt võetavat laenu.\n(3) Justiitsministeeriumi, ameti- või kutsekogu või revisjonikomisjoni nõudel määrab eestseisus koja majandustegevuse või majandustegevuse aastaaruande audiitorkontrolli. Audiitorkontrolli viib läbi ameti- ja kutsekogu nimetatud audiitor."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "72",
+      "title": "§ 72. Koja eelarve",
+      "content": "(1) Koja eelarveaasta on kalendriaasta. Koja eelarve kinnitab eestseisus hiljemalt eelarveaastale eelneva aasta detsembris.\n(2) Koja eelarve koosneb ametikogu eelarveosast, kutsekogu eelarveosast ja ühisest eelarveosast.\n(3) Ühises eelarveosas kajastatakse ameti- ja kutsekogu ühise tegevusega seotud tulu ja kulu, ameti- ja kutsekogu tegevusega otseselt mitteseotud koja tulu ja kulu ning koja ülalpidamiskulu. Ameti- ja kutsekogu eelarveosas kajastatakse üksnes vastava kogu tegevusega seotud koja tulu ja kulu.\n(4) Ühises eelarveosas kajastatavate kulude katteks eraldatakse rahalised vahendid nii ameti- kui ka kutsekogu eelarveosa arvelt. Ühise eelarveosa jaoks eraldatav summa jaotatakse ameti- ja kutsekogu vahel proportsionaalselt, lähtudes kummagi kogu liikmete arvust, kui eestseisus ei otsusta teisiti. Otsuse poolt peab olema kaks kolmandikku eestseisuse liikmetest."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "73",
+      "title": "§ 73. Koja majandusaasta",
+      "content": "Koja majandusaasta on kalendriaasta."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "74",
+      "title": "§ 74. Koja liikmemaks",
+      "content": "(1) Koja liikmemaksu miinimummäära kehtestavad ameti- ja kutsekogu.\n(2) Kohtutäiturite liikmemaksu suuruse ja selle arvestamise alused kehtestab ametikogu, pankrotihaldurite ja saneerimisnõustajate liikmemaksu suuruse ja selle arvestamise alused kutsekogu, arvestades liikmemaksu miinimummäära. Liikmemaks tuleb kehtestada suuruses, mis tagab koja piisava rahastatuse õigusaktidega ja koja arengukavaga seatud eesmärkide saavutamiseks ning ülesannete täitmiseks.\n(2^1) Kui ameti- või kutsekogu kehtestab liikmemaksu suuruses, mis ei taga koja piisavat rahastatust õigusaktidega ja koja arengukavaga seatud eesmärkide saavutamiseks ning ülesannete täitmiseks, võib koja liikmemaksu ameti- või kutsekogu liikmetele kehtestada valdkonna eest vastutav minister määrusega.\n(2^2) Valdkonna eest vastutav minister võib kehtestada koja liikmemaksuks kuni viis protsenti kohtutäituri ametitegevusest laekunud kohtutäituri tasust, pankrotimenetluses laekunud ajutise halduri tasust ja pankrotihalduri tasust ning saneerimismenetluses saneerimisnõustaja tasust.\n(3) Liikmemaks laekub vastavalt kas ameti- või kutsekogu eelarveossa. Koja liige, kes tegutseb nii kohtutäiturina kui ka pankrotihaldurina, tasub liikmemaksu nii ametikogule kui ka kutsekogule. Kui kohtutäituri ametivolitused või isiku õigus tegutseda pankrotihaldurina või saneerimisnõustajana on peatatud, tasutakse liikmemaksu ameti- või kutsekogu kehtestatud ulatuses ja korras.\n(4) Liikmemaksu tasumise kohustuse täitmisega viivitamise korral peab oma kohustust rikkunud koja liige maksma ameti- või kutsekogule viivist võlaõigusseaduse § 113 lõikes 1 sätestatud määras."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "75",
+      "title": "§ 75. Hea ameti- ja hea kutsetava",
+      "content": "(1) Ametikogu kehtestab hea ametitava, mis on kohtutäituritele järgimiseks kohustuslik.\n(2) Kutsekogu kehtestab hea kutsetava, mis on pankrotihalduritele ja saneerimisnõustajatele järgimiseks kohustuslik. Pankrotihalduritele ja saneerimisnõustajatele võib kehtestada eraldi kutsetavad.\n(3) Hea ameti- või hea kutsetava eelnõu, samuti kummagi muutmise eelnõu tuleb enne kehtestamist kooskõlastada Justiitsministeeriumiga."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "76",
+      "title": "§ 76. Õigus kasutada riigivappi sisaldavat tähist",
+      "content": "(1) Kojal on Eesti riigivapi kujutisega pitsat.\n(2) Eesti riigivapi kujutisega pitserit kasutatakse riigivapi seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para77",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "77",
+      "title": "§ 77. Koja veebileht",
+      "content": "(1) Koda teeb oma veebilehel kättesaadavaks avalikkusele vajaliku teabe kohtutäiturite, pankrotihaldurite, saneerimisnõustajate ja usaldusisikute kohta, eelkõige büroode aadressid, vastuvõtuajad ja sidevahendite numbrid. Veebilehel avaldatakse koja põhikiri, hea ameti- ja hea kutsetava ning teised avalikud dokumendid.\n(2) Valdkonna eest vastutav minister võib kehtestada määrusega koja veebilehe kaudu kättesaadavaks tehtavate andmete loetelu."
+    },
+    {
+      "provision_ref": "para78",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "78",
+      "title": "§ 78. Koja ülesanded",
+      "content": "Koja ülesanded on muu hulgas:\n1) kohtutäiturite ameti- ning pankrotihaldurite ja saneerimisnõustajate kutsetegevuse edendamine;\n2) hea ameti- ja hea kutsetava väljatöötamine ja avaldamine ning nende järgimise üle haldusjärelevalve teostamine;\n3) kohtutäituri ametikoha täitmise konkursi korraldamine;\n4) kohtutäiturite, kohtutäituri abide, pankrotihaldurite, saneerimisnõustajate ja usaldusisikute nimekirja pidamine;\n5) kohtutäiturite, pankrotihaldurite, saneerimisnõustajate ja usaldusisikute täiendusõppe korraldamine;\n6) haldusjärelevalve kohtutäiturite ameti- ning pankrotihaldurite, saneerimisnõustajate ja usaldusisikute kutsetegevuse ning väärika käitumise üle;\n7) soovituste koostamine kohtutäiturite ameti- ning pankrotihaldurite ja saneerimisnõustajate kutsepraktika ühtlustamiseks;\n8) kohtutäiturite ning pankrotihaldurite ja saneerimisnõustajate väljaõppe läbiviimine;\n8^1) usaldusisikute esmase koolituse korraldamine;\n9) kohtutäituri, kohtutäituri abi, pankrotihalduri, saneerimisnõustaja ja usaldusisiku eksami läbiviimine;\n10) kohtutäiturite, pankrotihaldurite, saneerimisnõustajate ja usaldusisikute täiendusõppe kohustuse täitmise kontrollimine;\n11) kohtutäiturite asendamisega seotud küsimuste korraldamine ning kohtutäiturite, pankrotihaldurite, saneerimisnõustajate ja usaldusisikute kohta avalikkusele vajaliku info kättesaadavuse tagamine koja veebilehel;\n12) Justiitsministeeriumi abistamine kohtutäiturite ja pankrotihaldurite üle haldusjärelevalve teostamisel;\n13) kohtutäiturite, pankrotihaldurite, saneerimisnõustajate ja usaldusisikute tööks vajalike infosüsteemide arendamine ja haldamine;\n14) välissuhtlusega seotud küsimuste korraldamine ning koja liikmete esindamine kodu- ja välismaiste institutsioonide juures;\n15) kohtutäiturite tegevuse kohta statistiliste aruannete koostamine ja avaldamine seaduses sätestatud korras;\n16) andmete väljastamine täitmisregistrist selleks õigustatud isikutele;\n17) kohtutäiturite ja pankrotihaldurite arhiveeritavate dokumentide haldamise korraldamine ameti- või kutsekogu otsuse alusel;\n18) kohtutäiturite ameti- ja pankrotihaldurite kutsekindlustuse olemasolu kontrollimine;\n19) ameti- ja kutsekogu otsuse alusel kindlustusandjaga kohtutäiturite ja pankrotihaldurite kollektiivse ameti- või kutsekindlustuse sõlmimine;\n20) koja vara valitsemine;\n21) kohtutäituritele täitmiseks antavate avalik-õiguslike nõuete jaotamine vastavalt õigusaktidega kehtestatud korrale;\n22) täitemenetluses ja pankrotimenetluses müüdava vallasvara ühislao pidamine;\n23) Euroopa Parlamendi ja nõukogu määruse (EL) nr 655/2014 artiklis 14 sätestatud teabeasutuse ülesannete täitmine;\n24) koja vahekohtu tegevuse korraldamine."
+    },
+    {
+      "provision_ref": "para78^1",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "78^1",
+      "title": "§ 78^1. Teabeasutus Euroopa arestimismääruse menetluses",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 655/2014 artikli 14 kohaselt on pädev kontot käsitlevat teavet hankima koda.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud määruse artikli 14 lõike 5 punkti a kohaselt on kõigil Eesti Vabariigi territooriumil asuvatel krediidiasutustel ja välisriigi krediidiasutuste Eesti filiaalidel kohustus avaldada kojale järelepärimise alusel teavet konto olemasolu või puudumise kohta.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud määruse artiklis 14 sätestatud teabe hankimise taotluse läbivaatamisel on teabeasutuse toimingute tegemine tasuline.\n(4) Käesoleva paragrahvi lõikes 1 nimetatud määruse artiklis 14 sätestatud taotluse esitamisel tasub taotluse esitaja 20 eurot koja veebilehel avaldatud koja arvelduskontole. Kuni tasu ei ole laekunud, ei pea koda teabe hankimise taotluse läbivaatamisel teabeasutuse toiminguid tegema. Taotluse läbivaatamise tasu arvatakse koja tuludesse.\n(5) Koda teeb teabe hankimise taotlusega seonduvad toimingud viivitamata."
+    },
+    {
+      "provision_ref": "para78^2",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "78^2",
+      "title": "§ 78^2. Kohtutäiturite nimekiri",
+      "content": "(1) Koda peab kohtutäiturite nimekirja, kuhu kantakse järgmised andmed:\n1) ees- ja perekonnanimi;\n2) isikukood;\n3) aadress ja sihtnumber;\n4) ametitegevuse algus- ja lõpukuupäev;\n5) ametitegevuse peatamise algus- ja lõpukuupäev;\n6) põhitegevusala;\n7) Eesti majanduse tegevusalade klassifikaatori kood;\n8) ärinimi ja ärikood nende olemasolul;\n9) ametikonto andmed;\n10) e-posti aadress;\n11) kohtutäituri ametinumber;\n12) büroo esinduste aadressid, telefoni- ja faksinumbrid ning e-posti aadressid;\n13) büroo esinduste tööajad;\n14) kohtutäituri vastuvõtuajad;\n15) kohtutäituri osutatavad ametiteenused;\n16) andmed kohtutäituri hariduse kohta;\n17) andmed kohtutäituri täiendusõppe kohustuse täitmise kohta;\n18) andmed kohtutäituri ametikindlustuse kohta;\n19) ametitegevuse lõpetamise korral andmed toimikute üleandmise kohta.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud andmed on kättesaadavad avaliku teabe seaduse § 43^9 lõike 1 punkti 5 alusel kehtestatud infosüsteemide andmevahetuskihi kaudu."
+    },
+    {
+      "provision_ref": "para79",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "79",
+      "title": "§ 79. Koja organid",
+      "content": "(1) Koja organid on:\n1) ametikogu;\n2) kutsekogu;\n3) eestseisus;\n4) ametikogu juhatus;\n5) kutsekogu juhatus;\n6) eksamikomisjon;\n7) revisjonikomisjon;\n8) aukohus;\n9) metoodikakomisjon.\n(2) Koja eestseisusel on õigus moodustada komisjone koja pädevusse kuuluvate ülesannete täitmiseks."
+    },
+    {
+      "provision_ref": "para80",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "80",
+      "title": "§ 80. Ameti- ja kutsekogu",
+      "content": "(1) Ameti- ja kutsekogu on koja kõrgeimad organid.\n(2) Ametikogusse kuuluvad kõik kohtutäiturid.\n(3) Kutsekogusse kuuluvad kõik pankrotihaldurid ja saneerimisnõustajad."
+    },
+    {
+      "provision_ref": "para81",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "81",
+      "title": "§ 81. Korraline ameti- ja kutsekogu",
+      "content": "(1) Korraline ameti- ja kutsekogu kogunevad ühiselt hiljemalt iga aasta 31. märtsil.\n(2) Eestseisus teatab koja liikmetele korralise ameti- ja kutsekogu päevakorra ning kogunemise aja ja koha vähemalt üks kuu enne kogunemist.\n(3) Päevakorda võib ameti- ja kutsekogu muuta, kui selle poolt on vähemalt kaks kolmandikku ametikogu esindatud häältest ja kutsekogu esindatud häältest."
+    },
+    {
+      "provision_ref": "para82",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "82",
+      "title": "§ 82. Erakorraline ameti- ja kutsekogu",
+      "content": "(1) Erakorraline ameti- ja kutsekogu kutsutakse kokku vastavalt vajadusele. Erakorraline ameti- ja kutsekogu ei pea kokku tulema ühiselt ega ühel ajal.\n(2) Erakorralise ameti- ja kutsekogu kutsub eestseisus kokku:\n1) omal algatusel;\n2) ameti- või kutsekogu juhatuse ettepanekul;\n3) valdkonna eest vastutava ministri ettepanekul;\n4) vähemalt ühe kolmandiku ameti- või kutsekogu liikmete algatusel.\n(3) Eestseisus teatab ameti- või kutsekogusse kuuluvatele koja liikmetele erakorralise ameti- või kutsekogu päevakorra ning kogunemise aja ja koha üks kuu enne kogunemist.\n(4) Eestseisus võib erakorralise ameti- või kutsekogu kokkukutsumise asemel anda lahendamist vajava küsimuse ameti- või kutsekogule otsustamiseks käesoleva seaduse §-s 84 sätestatud korras.\n(5) Kui eestseisus ei kutsu ameti- või kutsekogu kokku ühe kuu jooksul pärast käesoleva paragrahvi lõikes 2 nimetatud ettepaneku saamist või ei anna sama aja jooksul küsimust otsustamiseks käesoleva seaduse §-s 84 sätestatud korras, on ettepaneku teinud organil või isikutel õigus erakorraline ameti- või kutsekogu ise kokku kutsuda.\n(6) Erakorralise ameti- või kutsekogu kokkukutsumise algataja määrab ka päevakorra. Päevakorda võib ameti- või kutsekogu muuta, kui selle poolt on vähemalt kaks kolmandikku ameti- või kutsekogul osalevatest liikmetest."
+    },
+    {
+      "provision_ref": "para83",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "83",
+      "title": "§ 83. Ameti- ja kutsekogu otsuste vastuvõtmine",
+      "content": "(1) Koja liige on kohustatud isiklikult osalema ameti- või kutsekogu töös.\n(2) Koja liige ei või ameti- või kutsekogus otsustatavate küsimuste otsustamises osalemisest loobuda ega keelduda.\n(3) Kui käesoleva seaduse kohaselt on otsuse vastuvõtmiseks vaja, et selle poolt on nii ameti- kui ka kutsekogu, siis on otsus vastu võetud, kui selle poolt on hääletanud üle poole korralisel või erakorralisel ametikogul osalenud liikmetest ja üle poole korralisel või erakorralisel kutsekogul osalenud liikmetest.\n(4) Ameti- või kutsekogu pädevuses olevate küsimuste otsustamiseks on otsuse vastuvõtmiseks vaja, et selle poolt on hääletanud üle poole korralisel või erakorralisel ameti- või kutsekogul osalenud liikmetest.\n(5) Igal koja liikmel on ameti- või kutsekogus, kuhu ta kuulub, üks hääl. Kui kohtutäitur kuulub nii ameti- kui ka kutsekogusse, on tal mõlemas kogus üks hääl."
+    },
+    {
+      "provision_ref": "para84",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "84",
+      "title": "§ 84. Otsuse vastuvõtmine ameti- ja kutsekogu kokku kutsumata",
+      "content": "(1) Ameti- või kutsekogu liikmetel on eestseisuse ettepanekul õigus vastu võtta otsuseid ameti- või kutsekogu pädevuses olevates küsimustes ameti- või kutsekogu kokku kutsumata. Sellisel juhul toimub otsustamine elektrooniliselt.\n(2) Ameti- või kutsekogu liige ei või keelduda ega loobuda käesoleva paragrahvi lõikes 1 sätestatud korras küsimuste otsustamises osalemisest. Liige peab otsustamises osalema isiklikult.\n(3) Kui otsus tehakse käesoleva paragrahvi lõikes 1 sätestatud korras, on otsus vastu võetud, kui selle poolt on hääletanud üle poole ameti- või kutsekogu liikmetest. Kui käesoleva seaduse kohaselt on otsuse vastuvõtmiseks vaja, et selle poolt on nii ameti- kui ka kutsekogu, siis on otsus käesoleva paragrahvi lõikes 1 sätestatud korras vastu võetud, kui selle poolt on hääletanud üle poole nii ameti- kui ka kutsekogu liikmetest.\n(4) Käesoleva paragrahvi lõikes 1 sätestatud korras ei saa valida koja organeid.\n(5) Käesoleva paragrahvi lõikes 1 sätestatud korras küsimuste otsustamise täpne kord sätestatakse koja põhikirjas."
+    },
+    {
+      "provision_ref": "para85",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "85",
+      "title": "§ 85. Koja organite valimise kord",
+      "content": "Koja organitesse ameti- või kutsekogu poolt liikmete valimisel lähtutakse järgmistest põhimõtetest:\n1) iga organi liikmed valitakse eraldi;\n2) hääletamine on salajane;\n3) valituks osutub enim hääli saanud kandidaat, kui käesolevas seaduses ei ole sätestatud teistsugust nõuet;\n4) häälte võrdse jagunemise korral korraldatakse valimise teine voor võrdselt hääli saanud kandidaatide vahel. Valituks osutub kõige rohkem hääli saanud kandidaat. Teises voorus häälte võrdse jagunemise korral heidetakse liisku;\n5) ühe valitava organi liige ei või samal ajal olla teise valitava organi liige."
+    },
+    {
+      "provision_ref": "para86",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "86",
+      "title": "§ 86. Ameti- ja kutsekogu ülesanded",
+      "content": "(1) Ameti- ja kutsekogu:\n1) võtavad vastu koja põhikirja;\n2) võtavad vastu koja arengukava;\n3) kinnitavad liikmemaksu miinimummäära;\n4) kinnitavad eestseisuse eelarveaasta tegevusaruande;\n5) kinnitavad koja majandusaasta aruande;\n6) nimetavad audiitori.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud otsuste vastuvõtmiseks on vajalik nii ameti- kui ka kutsekogu liikmete poolthäälteenamus.\n(3) Ametikogu:\n1) valib ja kutsub vajaduse korral enne tähtaja lõppemist tagasi ametikogu juhatuse;\n2) valib kaks kohtutäiturit revisjonikomisjoni töös osalemiseks;\n3) valib neli kohtutäiturit aukohtu töös osalemiseks;\n4) valib kolm kohtutäiturit ja kaks kohtutäiturite asendusliiget eksamikomisjoni töös osalemiseks;\n5) kehtestab kohtutäiturite liikmemaksu suuruse;\n6) kehtestab kohtutäiturite hea ametitava;\n7) annab juhiseid kohtutäiturite ametipraktika ühtlustamiseks;\n8) otsustab teisi seaduses ja koja põhikirjas ettenähtud küsimusi.\n(4) Kutsekogu:\n1) valib ja kutsub vajaduse korral enne tähtaja lõppemist tagasi kutsekogu juhatuse;\n2) valib kaks kutsekogu liiget revisjonikomisjoni töös osalemiseks;\n3) valib neli kutsekogu liiget aukohtu töös osalemiseks;\n4) valib kolm kutsekogu liiget ja kaks kutsekogu liikmete asendusliiget eksamikomisjoni töös osalemiseks;\n5) kehtestab pankrotihaldurite ja saneerimisnõustajate liikmemaksu suuruse;\n6) kehtestab pankrotihaldurite ja saneerimisnõustajate hea kutsetava;\n7) annab juhiseid pankrotihaldurite ja saneerimisnõustajate kutsepraktika ühtlustamiseks;\n8) otsustab teisi seaduses ja koja põhikirjas ettenähtud küsimusi."
+    },
+    {
+      "provision_ref": "para87",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "87",
+      "title": "§ 87. Eestseisus",
+      "content": "(1) Eestseisus on koja juhtorgan, kes juhib ja planeerib koja tegevust ning korraldab koja raamatupidamist ja muud aruandlust. Eestseisus tagab ameti- ja kutsekogu otsuste elluviimise ning kojale õigusaktidest tulenevate ülesannete täitmise.\n(2) Eestseisus on pädev andma nii ameti- kui ka kutsekogu juhatusele korraldusi ning delegeerima neile ülesandeid.\n(3) Eestseisus nimetab ametisse koja kantsleri ning kinnitab kantsleri ametijuhendi ja kantslerile makstava tasu suuruse.\n(4) Eestseisusesse kuuluvad nii ameti- kui ka kutsekogu juhatuse liikmed ning valdkonna eest vastutava ministri nimetatud isik. Eestseisuse liikme volitused lõpevad samal ajal kui tema volitused ameti- või kutsekogu juhatuse liikmena. Valdkonna eest vastutava ministri nimetatud eestseisuse liikme volitused lõpevad uue eestseisuse liikme nimetamisega."
+    },
+    {
+      "provision_ref": "para88",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "88",
+      "title": "§ 88. Koja esimees",
+      "content": "(1) Eestseisus valib eestseisuse liikmete hulgast koja esimehe ja aseesimehe. Koja aseesimees ei tohi kuuluda koja esimehega samasse ameti- või kutsekogusse. Esimeheks ja aseesimeheks ei või valida valdkonna eest vastutava ministri nimetatud eestseisuse liiget.\n(2) Koja esimehe ja aseesimehe volitused kestavad kolm aastat, kuid nimetatud tähtajast olenemata ei kesta need kauem kui nende volitused eestseisuse liikmena. Volituste tähtaja lõppemisel võib koja esimehe ja aseesimehe tagasi valida. Koja esimehe ja aseesimehe võib enne nende volituste tähtaja lõppemist tagasi kutsuda.\n(3) Koja esimees esindab koda kõigis õigustoimingutes, kui põhikirjas ei ole ette nähtud teisiti. Nii ameti- kui ka kutsekogu juhatuse esimees esindab koda vastavalt oma vastutusvaldkonnale koja esimehe määratud korras ja ulatuses, kui põhikirjas ei ole ette nähtud teisiti. Koja kantsler esindab koda esimehe määratud korras ja ulatuses, kui põhikirjas ei ole ette nähtud teisiti.\n(4) Koja esimees korraldab eestseisuse tegevust. Esimehe puudumisel korraldab eestseisuse tegevust koja aseesimees.\n(5) Koja esimehe töövõimetuse korral asendab teda aseesimees. Muul juhul asendab esimeest aseesimees koja esimehe määratud korras."
+    },
+    {
+      "provision_ref": "para89",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "89",
+      "title": "§ 89. Eestseisuse koosolekud ja otsuste vastuvõtmine",
+      "content": "(1) Eestseisuse koosolekud toimuvad vastavalt vajadusele, kuid mitte harvem kui kord kvartalis.\n(2) Eestseisuse koosoleku kutsub kokku koja esimees. Koosoleku kokkukutsumise ja pidamise kord nähakse ette koja põhikirjas.\n(3) Eestseisus on otsustusvõimeline, kui otsuse tegemisest võtab osa üle poole eestseisuse liikmetest, kui seadusest ei tulene teisiti.\n(4) Eestseisuse otsus on vastu võetud, kui selle poolt on hääletanud üle poole otsuse tegemisel osalenud eestseisuse liikmetest, kui seadusest ei tulene teisiti. Häälte võrdse jagunemise korral loetakse, et otsust ei ole vastu võetud.\n(5) Eestseisus võib otsuseid vastu võtta koosolekut kokku kutsumata koja põhikirjas ettenähtud korras."
+    },
+    {
+      "provision_ref": "para90",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "90",
+      "title": "§ 90. Koja kantsler",
+      "content": "Koja kantsler korraldab koja tegevust, juhatab koja kantseleid ja tagab koja organite teenindamise. Kantsleri ametiaja kestus on viis aastat. Kantsler allub koja esimehele."
+    },
+    {
+      "provision_ref": "para91",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "91",
+      "title": "§ 91. Ameti- ja kutsekogu juhatus",
+      "content": "(1) Ameti- ja kutsekogu juhatus on koja alaliselt tegutsevad juhtorganid, kes juhivad koja tegevust ja viivad ellu ameti- ja kutsekogu ning eestseisuse otsuseid. Kumbki juhatus vastutab koja ülesannete täitmise eest oma ameti- või kutsetegevuse valdkonnas.\n(2) Ametikogu juhatusse kuulub kolm kohtutäiturit. Kutsekogu juhatusse kuulub kolm kutsekogu liiget. Kummagi juhatuse liikmete volituste tähtaeg on viis aastat.\n(3) Nii ameti- kui ka kutsekogu juhatus valib oma juhatuse liikmete hulgast juhatuse esimehe, kes korraldab juhatuse tööd.\n(4) Kummagi juhatuse töökord nähakse ette koja põhikirjas."
+    },
+    {
+      "provision_ref": "para92",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "92",
+      "title": "§ 92. Ameti- ja kutsekogu juhatuse ülesanded",
+      "content": "Ameti- ja kutsekogu juhatuse ülesanded on sõltuvalt nende ameti- või kutsetegevuse valdkonnast järgmised:\n1) viia ellu vastavalt ameti- või kutsekogu otsuseid ning eestseisuse otsuseid;\n2) korraldada õigustatud isikutele teabe väljastamist täitmisregistrist ja koja arhiveeritud pankrotiasjade toimikutest;\n3) osaleda koja arengukava eelnõu koostamisel ning eelarve planeerimisel ja koostamisel;\n4) teostada haldusjärelevalvet liikmemaksu tähtaegse tasumise üle;\n5) teostada haldusjärelevalvet ameti- ja kutsekindlustuse olemasolu üle;\n5^1) teostada haldusjärelevalvet kohtutäituri ametitegevuse üle;\n6) koostada hea ameti- või hea kutsetava eelnõu;\n7) nimetada kohtutäiturile seaduses sätestatud juhtudel asendaja;\n8) nimetada pankrotihalduri kutse taotlejale juhendaja;\n9) sõlmida ametikogu liikme poolt ametitegevusega tekitatud kahju hüvitamiseks käesoleva seaduse § 10 tingimustele vastav kindlustusleping;\n10) täita muid seadusest ja koja põhikirjast tulenevaid ülesandeid."
+    },
+    {
+      "provision_ref": "para93",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "93",
+      "title": "§ 93. Eksamikomisjon",
+      "content": "(1) Eksamikomisjon moodustatakse vähemalt seitsmeliikmelisena viieks aastaks.\n(2) Eksamikomisjoni kuuluvad:\n1) kolm kohtutäiturite ametikogu määratud kohtutäiturit;\n2) kolm pankrotihaldurite kutsekogu määratud kutsekogu liiget;\n3)\n4) üks audiitorkogu määratud audiitor.\n(2^1) Valdkonna eest vastutav minister võib nimetada eksamikomisjoni liikmeks Justiitsministeeriumi esindaja.\n(3) Eksamikomisjon on otsustusvõimeline, kui otsuse tegemisel osaleb üle poole komisjoni liikmetest. Eksamikomisjoni koosolekut juhib eksamikomisjoni esimees, kelle komisjoni liikmed valivad endi hulgast lihthäälteenamusega. Otsuste vastuvõtmisel häälte võrdse jagunemise korral on otsustav eksamikomisjoni esimehe hääl.\n(4) Eksamikomisjoni koosoleku kokkukutsumise ja pidamise kord nähakse ette koja põhikirjas.\n(5) Eksamikomisjoni kohtutäiturist liiget asendab kohtutäiturist asendusliige. Eksamikomisjoni kutsekogu liikmest liiget asendab kutsekogu liikmest asendusliige. Valdkonna eest vastutava ministri määratud isikut asendab valdkonna eest vastutava ministri määratud asendusliige. Audiitorkogu määratud audiitorit asendab audiitorkogu määratud audiitor.\n(6) Eksamikomisjoni liige peab enda mitteosalemisest komisjoni töös teavitama koda võimaluse korral vähemalt kolm tööpäeva enne komisjoni koosoleku toimumist. Koda informeerib asendusliiget asendamise vajadusest.\n(7) Eksamikomisjoni liikme volitused kestavad kuni eksamikomisjoni koosseisu volituste lõppemiseni."
+    },
+    {
+      "provision_ref": "para94",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "94",
+      "title": "§ 94. Eksamikomisjoni pädevus",
+      "content": "Eksamikomisjon:\n1) korraldab ja viib läbi kohtutäituri ametikoha täitmise konkursi;\n2) korraldab ja viib läbi kohtutäituri, pankrotihalduri ja saneerimisnõustaja eksami;\n3) kontrollib kohtutäituri abi ametisse kandideerija ning pankrotihalduri ja saneerimisnõustaja kutse taotleja usaldusväärsust;\n4) viib läbi hindamisvestlusi ja otsustab kohtutäituri, kohtutäituri abi, pankrotihalduri või saneerimisnõustaja täiendavale eksamile saatmise ning eksami sooritamise tähtaja, kui kohtutäitur, kohtutäituri abi, pankrotihaldur või saneerimisnõustaja ei ole täitnud täiendusõppe kohustust käesolevas seaduses sätestatud korras;\n5) eksamineerib täiendavale eksamile suunatud kohtutäitureid, kohtutäituri abisid, pankrotihaldureid ja saneerimisnõustajaid;\n6) kehtestab juhendi erialase teadus- ja pedagoogilise töö arvestamiseks täiendusõppe kohustuse täitmise hindamisel;\n7) koostab kohtutäituri, pankrotihalduri ja saneerimisnõustaja väljaõppekava ning hindab selle täitmist."
+    },
+    {
+      "provision_ref": "para95",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "95",
+      "title": "§ 95. Eksamite korraldus ja tasu",
+      "content": "(1) Kohtutäituri eksamil, pankrotihalduri eksamil ja saneerimisnõustaja eksamil kontrollitakse eksamineeritava erialateadmisi ja isiksuseomaduste sobivust. Eksami viib läbi eksamikomisjon ja selle täpsem korraldus nähakse ette koja põhikirjas. Eksam koosneb erialateadmiste testist ja vestlusest. Vestlus viiakse läbi erialateadmiste testi sooritanud eksamineeritavaga.\n(2) Vestluse käigus hinnatakse eksamineeritava isiksuseomaduste sobivust kohtutäituri ametikohustuste täitmiseks või pankrotihaldurina või saneerimisnõustajana tegutsemiseks. Vestlusel võib esitada küsimusi erialateadmiste testi vastuste täpsustamiseks.\n(3) Kohtutäituri, pankrotihalduri ja saneerimisnõustaja eksami erialateadmiste testi valdkonnad ja eksami hindamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(4) Eksamid korraldatakse Justiitsministeeriumi ettepanekul või koja algatusel. Eksamid korraldatakse vähemalt üks kord aastas. Eksami toimumise aja ja koha ning eksamil osalemiseks vajalike dokumentide loetelu ja dokumentide esitamise tähtaja määrab eksamikomisjon. Teade eksami toimumise kohta avaldatakse koja veebilehel.\n(5) Enne pankrotihalduri, saneerimisnõustaja või kohtutäituri eksami, samuti käesoleva seaduse § 97 lõikes 4 nimetatud eksami ning korduseksami sooritamist peab eksamineeritav tasuma kojale tasu 127 eurot. Koda võib põhjendatud juhtudel eksami tasu määra alandada või isiku tasu maksmisest vabastada.\n(6) Koda võib põhikirjas ette näha pankrotihalduri, saneerimisnõustaja ja kohtutäituri eksami eest tasumise, tasu alandamise ja tasumisest vabastamise täpsema korra."
+    },
+    {
+      "provision_ref": "para96",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "96",
+      "title": "§ 96. Väljaõpe",
+      "content": "(1) Pärast kohtutäituri ametisse nimetamist valdkonna eest vastutava ministri poolt või pankrotihalduri või saneerimisnõustaja eksami sooritamist koostab eksamikomisjon isikule individuaalse väljaõppekava. Pankrotihalduri ja saneerimisnõustaja väljaõppekava koostatakse arvestusega, et selle täitmine ei takista töötamist põhitöökohal.\n(2) Väljaõpet korraldavad ameti- ja kutsekogu juhatus ning eksamikomisjon. Väljaõppe korraldus ja hindamise kord nähakse ette koja põhikirjas.\n(3) Väljaõppel olijale määrab ameti- või kutsekogu juhatus vähemalt kaks juhendajat, kes esitavad väljaõppe lõppemisel eksamikomisjonile kirjaliku põhistatud arvamuse juhendatava kohta. Saneerimisnõustaja eksami sooritanud isikule võib määrata ühe juhendaja.\n(4) Väljaõppekava täitmise kohta esitab kohtutäitur eksamikomisjonile aruande kuue kuu jooksul ja pankrotihalduri või saneerimisnõustaja eksami sooritanud isik kümne kuu jooksul väljaõppekava kinnitamisest arvates. Isiku avalduse alusel võib eksamikomisjon väljaõppekava täitmise aruande esitamise aega pikendada.\n(5) Väljaõppekava täitmise aruande ja juhendajate arvamuse alusel loeb eksamikomisjon väljaõppe läbituks või mitteläbituks. Eksamikomisjon võib jätta pankrotihalduri või saneerimisnõustaja väljaõppe tulemused hindamata ja pikendada väljaõppekava täitmise aega.\n(6) Kui eksamikomisjon hindab kohtutäituri väljaõppe mitteläbituks või tema isiksuseomaduste tõttu kohtutäiturina tegutsemiseks sobimatuks, teeb ametikogu juhatus valdkonna eest vastutavale ministrile ettepaneku kohtutäituri ametist tagandamiseks.\n(7) Kui eksamikomisjon hindab pankrotihalduri eksami sooritanud isiku väljaõppe mitteläbituks või tema isiksuseomaduste tõttu pankrotihaldurina tegutsemiseks sobimatuks, ei anta talle pankrotihalduri kutset.\n(8) Väljaõppel olevale kohtutäiturile maksab tasu koda ametikogu eelarveosast."
+    },
+    {
+      "provision_ref": "para97",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "97",
+      "title": "§ 97. Täiendusõpe",
+      "content": "(1) Kohtutäituri, pankrotihalduri ja saneerimisnõustaja täiendusõppe kohustuse täitmist kontrollib eksamikomisjon kord viie aasta jooksul (edaspidi hindamisperiood ). Nõuded täiendusõppele ja täiendusõppe mahu kehtestab valdkonna eest vastutav minister määrusega.\n(2) Eksamikomisjon saadab vähemalt kaks kuud enne hindamisperioodi lõppemist isikule teate hindamisperioodi lõppemise kohta ning selgitab, millised andmed ja milliseks tähtpäevaks tuleb täiendusõppe kohustuse täitmise kohta esitada.\n(3) Isik, kes on hindamisperioodi jooksul omandanud magistri- või doktorikraadi õigusteaduses, ei pea sel perioodil täiendusõpet läbima. Koja täiendusõpet ei pea läbima ka vandeadvokaadid ja audiitorid, kes läbivad täiendusõppe kas advokatuuris või audiitorkogus.\n(4) Kui isik ei ole hindamisperioodi jooksul läbinud täiendusõpet nõutavas mahus või ei ole määratud tähtpäevaks eksamikomisjonile täiendusõppe läbimise kohta andmeid esitanud, suunab eksamikomisjon isiku eksamile. Eksam tuleb sooritada nelja kuu jooksul eksamile suunamisest arvates. Kui isik eksamit ei soorita, suunatakse ta korduseksamile. Eksamile mõjuva põhjuseta ilmumata jätmisel loetakse eksam mittesooritatuks.\n(5) Kui kohtutäitur või kohtutäituri abi ei ilmu mõjuva põhjuseta korduseksamile või ei soorita seda, esitab ametikogu juhatus valdkonna eest vastutavale ministrile ettepaneku kohtutäituri ametist tagandamiseks või kustutab kohtutäituri abi käesoleva seaduse §-s 24 nimetatud nimekirjast.\n(6) Kui pankrotihaldur või saneerimisnõustaja ei ilmu mõjuva põhjuseta eksamile või ei soorita eksamit kahel katsel, esitab eksamikomisjon kutsekogu juhatusele ettepaneku isikult pankrotihalduri või saneerimisnõustaja kutse äravõtmiseks."
+    },
+    {
+      "provision_ref": "para97^1",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "97^1",
+      "title": "§ 97^1. Metoodikakomisjon",
+      "content": "(1) Metoodikakomisjon moodustatakse vähemalt viieliikmelisena viieks aastaks.\n(2) Metoodikakomisjoni kuulub:\n1) kolm usaldusisikut;\n2) üks kohtunik;\n3) üks õigusteadlane.\n(3) Valdkonna eest vastutav minister võib nimetada metoodikakomisjoni liikmeks ka Justiitsministeeriumi esindaja.\n(4) Metoodikakomisjon on otsustusvõimeline, kui otsuse tegemisel osaleb üle poole komisjoni liikmetest. Metoodikakomisjoni koosolekut juhib metoodikakomisjoni esimees, kelle komisjoni liikmed valivad endi hulgast lihthäälteenamusega. Otsuste vastuvõtmisel häälte võrdse jagunemise korral on otsustav metoodikakomisjoni esimehe hääl.\n(5) Metoodikakomisjoni liiget asendab asendusliige. Metoodikakomisjoni liige peab enda mitteosalemisest komisjoni töös teavitama koda võimaluse korral vähemalt kolm tööpäeva enne komisjoni koosoleku toimumist. Koda informeerib asendusliiget asendamise vajadusest.\n(6) Metoodikakomisjoni liikme volitused kestavad kuni metoodikakomisjoni koosseisu volituste lõppemiseni.\n(7) Metoodikakomisjoni liikmele hüvitatakse komisjoni töös osalemisega seotud kulutused.\n(8) Metoodikakomisjoni liikmete ja asendusliikmete nimetamise, neile kulutuste hüvitamise, koosoleku kokkukutsumise ja koosoleku pidamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(9) Metoodikakomisjoni tehnilise teenindamise tagab koda."
+    },
+    {
+      "provision_ref": "para97^2",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "97^2",
+      "title": "§ 97^2. Metoodikakomisjoni pädevus",
+      "content": "Metoodikakomisjon: 1 1) korraldab ja viib läbi usaldusisiku eksami;\n2) korraldab usaldusisiku esmase koolituse ning hindab selle täitmist;\n3) kontrollib usaldusisiku kutse taotleja usaldusväärsust;\n4) otsustab usaldusisiku täiendavale eksamile saatmise ning eksami sooritamise tähtaja, kui usaldusisik ei ole täitnud täiendusõppe kohustust;\n5) eksamineerib täiendavale eksamile suunatud usaldusisikuid;\n6) kehtestab juhendi erialase teadus- ja pedagoogilise töö arvestamiseks täiendusõppe kohustuse täitmise hindamisel;\n7) koostab usaldusisiku esmase koolituse mudelkavad."
+    },
+    {
+      "provision_ref": "para98",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "98",
+      "title": "§ 98. Revisjonikomisjon",
+      "content": "(1) Revisjonikomisjon kontrollib koja majandustegevust ja asjaajamist. Revisjonikomisjonil on õigus saada koja organitelt, koja esimehelt ja kantslerilt oma ülesannete täitmiseks vajalikke dokumente ja teavet.\n(2) Koja eestseisus esitab koja tegevusaruande ja majandusaasta aruande enne koja ameti- ja kutsekogule kinnitamiseks esitamist revisjonikomisjonile arvamuse avaldamiseks. Tegevusaruande ja majandusaasta aruande kontrollimisel jälgib revisjonikomisjon ka kontrollitava perioodi eelarve vastavust arengukavale. Revisjonikomisjon esitab oma arvamuse ameti- ja kutsekogule.\n(3) Revisjonikomisjon moodustatakse neljaliikmelisena viieks aastaks. Revisjonikomisjon valib oma liikmete hulgast esimehe."
+    },
+    {
+      "provision_ref": "para99",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "99",
+      "title": "§ 99. Aukohus",
+      "content": "(1) Aukohus moodustatakse vähemalt üheksaliikmelisena viieks aastaks.\n(2) Aukohtusse kuulub neli kohtutäiturit, neli kutsekogu liiget ja üks usaldusisik.\n(2^1) Valdkonna eest vastutav minister võib nimetada aukohtu liikmeks Justiitsministeeriumi esindaja.\n(2^2) Usaldusisikust aukohtu liikme nimetab usaldusisikute nimekirjas olevatest isikutest valdkonna eest vastutav minister.\n(3) Aukohtu liikmed valivad aukohtu esimehe kohtutäituritest, pankrotihalduritest, saneerimisnõustajatest või usaldusisikutest liikmete seast.\n(4) Aukohus arutab asja vähemalt kolmeliikmelises koosseisus.\n(5) Aukohus võtab otsuse vastu asja arutamisel osalenud liikmete häälteenamusega.\n(6) Kui aukohtu liige ei saa arutatavas asjas olla erapooletu, peab ta end asja arutamisest taandama."
+    },
+    {
+      "provision_ref": "para100",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "100",
+      "title": "§ 100. Aukohtu pädevus",
+      "content": "Aukohus võib lahendada:\n1) koja otsustest ning heast ameti- ja heast kutsetavast tulenevate kohustuste süülise täitmata jätmise või mittenõuetekohase täitmise süütegusid;\n2) kohtutäituri, pankrotihalduri, saneerimisnõustaja või usaldusisiku käitumise kohta esitatud kaebusi;\n3) kohtutäituri, pankrotihalduri, saneerimisnõustaja või usaldusisiku tegevuse kohta esitatud kaebusi või distsiplinaarasju, samuti asju, mille on arutamiseks andnud Justiitsministeerium."
+    },
+    {
+      "provision_ref": "para101",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "101",
+      "title": "§ 101. Aukohtumenetluse algatamine",
+      "content": "(1) Aukohtumenetluse algatamiseks võib koja poole pöörduda huvitatud isik. Taotlus aukohtumenetluse algatamiseks tuleb esitada kuue kuu jooksul arvates päevast, millal taotluse esitaja sai teada või oleks pidanud teada saama taotluse aluseks olevatest asjaoludest.\n(2) Aukohus algatab aukohtumenetluse huvitatud isiku, Justiitsministeeriumi või koja muu organi taotlusel, kui on alust arvata, et kohtutäitur, pankrotihaldur, saneerimisnõustaja või usaldusisik on toime pannud distsiplinaarsüüteo.\n(3) Aukohtumenetluse algatamise otsustab aukohus ühe kuu jooksul arvates päevast, millal ta sai teada distsiplinaarsüüteo tunnustele vastava teo toimepanemisest. Aukohus edastab aukohtumenetluse algatamise või algatamata jätmise otsuse viivitamata ameti- või kutsekogu juhatusele ja Justiitsministeeriumile.\n(4) Justiitsministeeriumi poolt esitatud kaebuse edastamisega aukohtule loetakse aukohtumenetlus algatatuks."
+    },
+    {
+      "provision_ref": "para102",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "102",
+      "title": "§ 102. Aukohtumenetlus",
+      "content": "(1) Aukohus võib asja lahendada kirjalikus menetluses.\n(2) Aukohtus nõuab asja arutamisel asjaosalistelt selgitusi. Aukohus on kohustatud välja selgitama menetletavas asjas olulised asjaolud ja vajaduse korral koguma selleks tõendeid omal algatusel. Aukohtu nõudel on kohtutäitur, kohtutäituri abi, pankrotihaldur, saneerimisnõustaja või usaldusisik kohustatud esitama aukohtule enda käsutuses olevad tõendid.\n(3) Aukohus lahendab distsiplinaarsüüteoasja kolme kuu jooksul aukohtumenetluse algatamisest arvates, tehes selle kohta põhistatud otsuse. Mõjuval põhjusel võib aukohus pikendada distsiplinaarsüüteoasja arutamist kuni kaks kuud. Distsiplinaarsüüteoasja menetlemise aja hulka ei arvestata aega, millal distsiplinaarsüüteoasja ei ole võimalik arutada isiku tõttu, kelle suhtes aukohtumenetlus on algatatud."
+    },
+    {
+      "provision_ref": "para103",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "103",
+      "title": "§ 103. Aukohtu otsus",
+      "content": "(1) Aukohtu määratavad distsiplinaarkaristused on noomitus ja rahatrahv 64–16 000 eurot, mis laekub vastavalt ametikogu või kutsekogu eelarveosasse. Koja aukohus võib rahatrahvi määramise otsuses ette näha, et trahv tasutakse kindlaksmääratud tähtpäevadel osade kaupa ühe aasta jooksul.\n(1^1) Aukohtu otsus distsiplinaarkaristusena määratud rahatrahvi kohta on täitedokumendiks täitemenetluse seadustiku § 2 lõike 1 punkti 21 tähenduses.\n(2) Kui aukohus on tuvastanud sellise distsiplinaarsüüteo toimepanemise, mille eest on kohane karistus ametist tagandamine või kutsealal tegutsemise õiguse äravõtmine, teeb aukohus valdkonna eest vastutavale ministrile ettepaneku kohtutäituri ametist tagandamiseks või kutsekogu juhatusele ettepaneku pankrotihaldurilt, saneerimisnõustajalt või usaldusisikult tegutsemise õiguse äravõtmiseks. Aukohus lisab ettepanekule aukohtumenetluse käigus kogutud materjalid.\n(3) Aukohtu distsiplinaarkaristuse määramise otsus tehakse pärast otsuse vaidlustamistähtaja möödumist teatavaks ameti- või kutsekogu liikmetele või usaldusisikule olenevalt sellest, kelle tegevuse peale esitatud kaebust aukohus läbi vaatas.\n(4) Aukohtu otsuse peale võivad kohtutäitur, pankrotihaldur, saneerimisnõustaja ja usaldusisik esitada kaebuse halduskohtule.\n(5) Aukohus edastab oma otsuse viivitamata Justiitsministeeriumile. Justiitsministeeriumil on õigus nõuda aukohtumenetluse asjades tutvumiseks ka muid aukohtumenetluse dokumente.\n(6) Justiitsministeerium võib esitada aukohtu otsuse peale halduskohtule protesti 30 päeva jooksul aukohtu otsuse kättesaamisest arvates."
+    },
+    {
+      "provision_ref": "para103^1",
+      "chapter": "3. peatükk - KOHTUTÄITURITE JA PANKROTIHALDURITE KODA",
+      "section": "103^1",
+      "title": "§ 103^1. Koja vahekohus",
+      "content": "(1) Koja vahekohus on vaidluste kohtuvälise lahendamise organ.\n(2) Koja vahekohus menetleb poolte kokkuleppel rahalisi nõudeid.\n(3) Koda kehtestab vahekohtu reglemendi, milles sätestatakse vahekohtu pädevus ja menetlus, arvestades tsiviilkohtumenetluse ning lepitusseaduse imperatiivseid sätteid, ja tasu."
+    },
+    {
+      "provision_ref": "para104",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "104",
+      "title": "§ 104. Kohtutäituri haridusnõude erisus",
+      "content": "Kuni 2002. aasta 1. juulini ametisse nimetatud kohtutäiturile ei kohaldata käesoleva seaduse § 17 lõikes 1 sätestatud haridusnõuet."
+    },
+    {
+      "provision_ref": "para105",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "105",
+      "title": "§ 105. Kohtutäituri distsiplinaarkaristuse aegumise erisus",
+      "content": "Enne käesoleva seaduse jõustumist määratud distsiplinaarkaristus on kustunud, kui kohtutäiturile ei ole ühe aasta jooksul karistuse määramisest arvates määratud uut distsiplinaarkaristust."
+    },
+    {
+      "provision_ref": "para106",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "106",
+      "title": "§ 106. Kohtutäituri asendamise erisus",
+      "content": "(1) Enne käesoleva seaduse jõustumist kohtutäituri asendaja eksami sooritanud või atesteerimise läbinud isikul on õigus kohtutäiturit asendada, kuni täitub viis aastat kohtutäituri asendaja eksami sooritamisest või viimasest atesteerimisest.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud kohtutäituri asendaja asendab kohtutäiturit käesolevas seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para107",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "107",
+      "title": "§ 107. Kohtutäituri tasumäärade rakendamine",
+      "content": "Enne käesoleva seaduse jõustumist tehtud kohtutäituri ametitoimingu eest võetakse tasu vastavalt toimingu tegemise ajal kehtinud tasumäärale ja tasu võtmise korrale."
+    },
+    {
+      "provision_ref": "para108",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "108",
+      "title": "§ 108. Koja liikmeks saamise tingimused",
+      "content": "(1) Kõik käesoleva seaduse jõustumisel kohtutäiturina tegutsevad isikud ja justiitsministri poolt kohtutäituri seaduse § 17 lõikes 5 nimetatud kohtutäituri asendajad saavad seaduse jõustumisel koja liikmeks.\n(2) Pankrotihaldur, vandeadvokaat ja vandeadvokaadi vanemabi, kes soovivad jätkata tegevust pankrotihaldurina, esitavad kahe kuu jooksul seaduse jõustumisest arvates Justiitsministeeriumile koja liikmeks astumise avalduse. Kui pankrotihaldur ei esita tähtaegselt avaldust koja liikmeks astumiseks, võtab justiitsminister isikult pankrotihaldurina tegutsemise õiguse."
+    },
+    {
+      "provision_ref": "para109",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "109",
+      "title": "§ 109. Esimese ameti- ja kutsekogu kokkukutsumine",
+      "content": "Justiitsminister kutsub kokku esimese ameti- ja kutsekogu, kes valivad koja organid. Kuni eestseisuse ja juhatuste valimiseni juhib koda justiitsministri määratud isik."
+    },
+    {
+      "provision_ref": "para109^1",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "109^1",
+      "title": "§ 109^1. Käesoleva seaduse § 90 rakendamine",
+      "content": "Käesoleva seaduse § 90 muudatuse jõustumisel ametis olev koja kantsler loetakse eelnimetatud sätte muudatuse jõustumisest arvates viieks aastaks ametisse nimetatuks."
+    },
+    {
+      "provision_ref": "para110",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "110",
+      "title": "§ 110. Menetluses olevate pankrotiasjade üleandmine",
+      "content": "(1) Pankrotihaldur, vandeadvokaat või vandeadvokaadi vanemabi, kes ei soovi koja liikmeks astuda, võib menetleda lõpuni pankrotiasjad, milles ta on halduriks nimetatud.\n(2) Isik, kes on pankrotimenetluses nimetatud pankrotihalduriks või ajutiseks halduriks pärast käesoleva seaduse jõustumist ning kes ei esita käesoleva seaduse § 107 lõikes 2 nimetatud tähtaja jooksul koja liikmeks astumise avaldust, on kohustatud sellest kohtule teatama. Kohus vabastab pankrotihalduri pankrotiseaduse §-s 68 sätestatud korras."
+    },
+    {
+      "provision_ref": "para111",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "111",
+      "title": "§ 111. Koja põhikiri",
+      "content": "Esimene ameti- ja kutsekogu võtavad vastu Justiitsministeeriumiga eelnevalt kooskõlastatud põhikirja. Kui esimene ameti- ja kutsekogu põhikirja vastu ei võta, kutsutakse kokku erakorraline ameti- ja kutsekogu kahe kuu jooksul esimesest ameti- ja kutsekogust arvates. Kui erakorraline ameti- ja kutsekogu ei võta vastu Justiitsministeeriumiga eelnevalt kooskõlastatud põhikirja, siis kehtestab koja põhikirja valdkonna eest vastutav minister määrusega. Justiitsministri määrus tunnistatakse kehtetuks, kui ameti- ja kutsekogu võtavad vastu eelnevalt Justiitsministeeriumiga kooskõlastatud põhikirja, mis hakkab kehtima justiitsministri määruse kehtetuks tunnistamisest."
+    },
+    {
+      "provision_ref": "para112",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "112",
+      "title": "§ 112. Liikmemaksu miinimummäär",
+      "content": "(1) Esimene ameti- ja kutsekogu kehtestavad liikmemaksu miinimummäära Justiitsministeeriumiga eelnevalt kooskõlastatud suuruses. Liikmemaksu miinimummäär peab esimesel viiel aastal olema vähemalt kolm protsenti koja eelarveaastal kohtutäituri tasuna laekunud summadest või pankrotihalduri tasuna või ajutise halduri tasuna kohtu määratud summadest, kuid mitte vähem kui 31 eurot kuus.\n(2) Kui esimene ameti- või kutsekogu liikmemaksu miinimummäära ei kehtesta, kehtestab valdkonna eest vastutav minister need määrusega. Valdkonna eest vastutav minister võib miinimummäära kehtestada tasuna kuni viis protsenti koja eelarveaastal kohtutäituri tasuna laekunud summadest või pankrotihalduri tasuna või ajutise halduri tasuna kohtu määratud summadest, kuid mitte vähem kui 31 eurot kuus.\n(3) Justiitsministri määrus tunnistatakse kehtetuks, kui ameti- ja kutsekogu kehtestavad eelnevalt Justiitsministeeriumiga kooskõlastatud liikmemaksu miinimummäärad, mida kohaldatakse justiitsministri määruse kehtetuks tunnistamisest."
+    },
+    {
+      "provision_ref": "para113",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "113",
+      "title": "§ 113. Esimene täiendusõppe kohustuse täitmise hindamisperiood ja seonduvate aktide kehtestamise aeg",
+      "content": "Kohtutäiturite ja pankrotihaldurite täiendusõppe kohustuse täitmise esimese hindamisperioodi alguseks loetakse käesoleva seaduse jõustumise päev."
+    },
+    {
+      "provision_ref": "para114",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "114",
+      "title": "§ 114. Kohtutäiturite täiskogu tegevuse lõpetamine",
+      "content": "Käesoleva seaduse jõustumisel lõpetatakse kohtutäiturite täiskogu tegevus ning see likvideeritakse. Likvideerimise viivad läbi täiskogu juhatuse liikmed. Kui nad otsustavad anda täiskogu vara üle kojale, siis jääb see vara kohtutäiturite ametikogu kasutusse."
+    },
+    {
+      "provision_ref": "para115",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "115",
+      "title": "§ 115. Pankrotimenetluste infosüsteemile ja kohtutäiturite infosüsteemile esitatavad nõuded",
+      "content": "(1) Valdkonna eest vastutav minister võib kehtestada määrusega nõudeid pankrotimenetluste infosüsteemi ning kohtutäiturite infosüsteemi sisule ja andmetöötlusele ning määrata kindlaks, millises ulatuses peavad need võimaldama digitaalset andmevahetust teiste andmekogudega.\n(2) Elektroonilise enampakkumise oksjonikeskkond võetakse kasutusele hiljemalt 2013. aasta 1. jaanuaril. Enne oksjonikeskkonna kasutuselevõtmist viiakse läbi suulised enampakkumised."
+    },
+    {
+      "provision_ref": "para116",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "116",
+      "title": "§ 116. Kindlustusjuhtumitele kohaldatav seadus",
+      "content": "Enne käesoleva seaduse jõustumist toimunud kindlustusjuhtumite suhtes kohaldatakse kindlustusjuhtumi toimumise ajal kehtinud seadust ja kindlustuslepingu tingimusi."
+    },
+    {
+      "provision_ref": "para116^1",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "116^1",
+      "title": "§ 116^1. Valdkonna eest vastutava ministri määratud eksamikomisjoni liikmete volitused",
+      "content": "Käesoleva seaduse § 93 lõike 2 punkti 3 alusel valdkonna eest vastutava ministri määratud isikute volitused eksamikomisjonis lõpevad 2019. aasta 31. detsembril."
+    },
+    {
+      "provision_ref": "para116^2",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "116^2",
+      "title": "§ 116^2. Esimese metoodikakomisjoni moodustamine",
+      "content": "(1) Esimene metoodikakomisjon moodustatakse käesoleva seaduse § 97^1 lõike 1 alusel kaheks aastaks.\n(2) Esimese metoodikakomisjoni koosseisus asendavad käesoleva seaduse § 97^1 lõike 2 punktis 1 nimetatud usaldusisikuid üks pankrotihaldur ja kaks sotsiaalhoolekandeseaduse § 45 lõike 1 punktis 1 või 2 sätestatud nõuetele vastavat isikut.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud metoodikakomisjoni liikmed nimetab valdkonna eest vastutav minister Kohtutäiturite ja Pankrotihaldurite Koja ettepanekul."
+    },
+    {
+      "provision_ref": "para117",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "117",
+      "title": "§ 117.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para131",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "131",
+      "title": "§ 131.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para132",
+      "chapter": "4. peatükk - RAKENDUSSÄTTED",
+      "section": "132",
+      "title": "§ 132. Jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2010. aasta 1. jaanuaril.\n(2) Käesoleva seaduse §-d 120, 122 ja 128 jõustuvad üldises korras."
+    }
+  ],
+  "definitions": []
+}

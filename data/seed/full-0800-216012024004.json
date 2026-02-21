@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-216012024004",
+  "type": "statute",
+  "title": "Laevade ballastvee ja selle setete kontrolli ning käitlemise 2004. aasta rahvusvahelise konventsiooniga ühinemise seadus",
+  "title_en": "Laevade ballastvee ja selle setete kontrolli ning käitlemise 2004. aasta rahvusvahelise konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-216012024004",
+  "status": "in_force",
+  "issued_date": "2018-02-14",
+  "in_force_date": "2023-07-01",
+  "url": "https://www.riigiteataja.ee/akt/216012024004.xml",
+  "description": "Official consolidated statute text (Laevade ballastvee ja selle setete kontrolli ning käitlemise 2004. aasta rahvusvahelise konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Konventsiooniga ühinemine",
+      "content": "Ühineda juurdelisatud laevade ballastvee ja selle setete kontrolli ning käitlemise 2004. aasta rahvusvahelise konventsiooniga (edaspidi konventsioon ), mis on koostatud 2004. aasta 13. veebruaril Londonis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Rahvusvahelisele Mereorganisatsioonile andmete esitamine",
+      "content": "Konventsiooni artikli 14 lõikes 1 nimetatud andmed esitab Rahvusvahelisele Mereorganisatsioonile ning asjaomasele konventsiooniosalisele Kliimaministeerium."
+    }
+  ],
+  "definitions": []
+}

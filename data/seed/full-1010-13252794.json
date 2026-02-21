@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-13252794",
+  "type": "statute",
+  "title": "Politseiteenistuse seadus",
+  "title_en": "Politseiteenistuse seadus",
+  "short_name": "PolTS",
+  "status": "in_force",
+  "issued_date": "1998-05-14",
+  "in_force_date": "2010-01-01",
+  "url": "https://www.riigiteataja.ee/akt/13252794.xml",
+  "description": "Official consolidated statute text (Politseiteenistuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,281 @@
+{
+  "id": "ee-law-130012025002",
+  "type": "statute",
+  "title": "Täiskasvanute koolituse seadus",
+  "title_en": "Täiskasvanute koolituse seadus",
+  "short_name": "TäKS",
+  "status": "in_force",
+  "issued_date": "2015-02-18",
+  "in_force_date": "2025-04-01",
+  "url": "https://www.riigiteataja.ee/akt/130012025002.xml",
+  "description": "Official consolidated statute text (Täiskasvanute koolituse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "Käesoleva seadusega sätestatakse täienduskoolitusasutusele nõuded täienduskoolituse, sealhulgas mikrokvalifikatsiooniõppe läbiviimiseks, õppija õigus õppepuhkusele, täienduskoolituse rahastamise alused ning riiklik ja haldusjärelevalve."
+    },
+    {
+      "provision_ref": "para1^1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1^1",
+      "title": "§ 1^1. Seaduse kohaldamisala",
+      "content": "(1) Käesolevat seadust kohaldatakse täienduskoolitust läbiviivale sellisele eraõiguslikule juriidilisele isikule, avalik-õiguslikule juriidilisele isikule, riigiasutusele ja kohaliku omavalitsuse üksuse asutusele ning füüsilisest isikust ettevõtjale, kellel on seaduses sätestatud kohustus taotleda täienduskoolituse läbiviimiseks tegevusluba või kes on esitanud Eesti hariduse infosüsteemi (edaspidi hariduse infosüsteem ) majandustegevusteate täienduskoolituse läbiviimise kohta (edaspidi täienduskoolitusasutus ).\n(2) Käesolevas seaduses reguleeritud eraõigusliku juriidilise isiku ja füüsilisest isikust ettevõtja majandustegevuse alustamisele, teostamisele ja lõppemisele kohaldatakse majandustegevuse seadustiku üldosa seadust, võttes arvesse käesolevas seaduses sätestatud erisusi. Majandustegevuse seadustiku üldosa seaduses ning käesolevas seaduses majandustegevuse teate esitamise, täienduskoolituse läbiviimise ja teabe avalikustamise, andmete muutumisest teatamise ning majandustegevusest loobumise kohta sätestatut kohaldatakse avalik-õigusliku juriidilise isiku ning riigi ja kohaliku omavalitsuse üksuse täienduskoolitusasutuse kohta niivõrd, kuivõrd selle eripärast ei tulene teisiti.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seadust, võttes arvesse käesolevas seaduses sätestatud erisusi."
+    },
+    {
+      "provision_ref": "para1^2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1^2",
+      "title": "§ 1^2. Formaalõpe, mitteformaalõpe, täienduskoolitus ja mikrokvalifikatsioon",
+      "content": "(1) Täiskasvanuõpe käesoleva seaduse tähenduses jaguneb formaalõppeks ja mitteformaalõppeks.\n(2) Formaalõpe käesoleva seaduse tähenduses on üldharidus-, kutse- ja kõrgkoolis õppekava alusel toimuv eesmärgistatud õpe, mille korraldust reguleerivad põhikooli- ja gümnaasiumiseadus, kutseõppeasutuse seadus, kõrgharidusseadus ning erakooliseadus.\n(3) Mitteformaalõpe käesoleva seaduse tähenduses on eesmärgistatud vabatahtlik õpe, mis toimub kindlatele huvirühmadele erinevates keskkondades.\n(4) Täienduskoolitus on õpiväljundipõhise õppekava alusel toimuv eesmärgistatud ja organiseeritud mitteformaalõppe osa, mille eesmärk on saavutada õpiväljundid. Käesolevat seadust kohaldatakse mitteformaalõppes täienduskoolitusele, sealhulgas mikrokvalifikatsiooniõppele.\n(5) Mikrokvalifikatsioon on täienduskoolitusel omandatud, tõendatud ja tunnustatud teadmiste ning oskuste kogum, mis vastab tööturu või ühiskonna vajadustele. Rakenduskõrgkoolid ja ülikoolid (edaspidi kõrgkoolid ) võivad nimetada mikrokvalifikatsiooni mikrokraadiks, kui kõrgharidustaseme õppeained moodustavad mikrokraadi õppekava mahust vähemalt poole."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Täiskasvanuhariduse nõukogu",
+      "content": "(1) Valdkonna eest vastutav minister moodustab täiskasvanuhariduse poliitika kujundamiseks ja rakendamiseks täiskasvanuhariduse nõukogu ning kinnitab selle töökorra käskkirjaga.\n(2) Täiskasvanuhariduse nõukogu on nõuandev kogu, kuhu kuuluvad asjassepuutuvate ministeeriumide, täienduskoolitusasutuste, formaalõppeasutuste, tööandjate ja töötajate esindusorganisatsioonide ning teiste täiskasvanuhariduse valdkonnas tegutsevate asutuste ja isikute esindajad."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "2. peatükk - Nõuded täienduskoolitusasutusele",
+      "section": "3",
+      "title": "§ 3. Majandustegevusteate esitamine",
+      "content": "(1) Täienduskoolitusasutusena tegutsemiseks esitab täienduskoolituse läbiviija majandustegevusteate, kui tal ei ole seadusega ette nähtud kohustust taotleda täienduskoolituse läbiviimiseks tegevusluba.\n(2) Majandustegevusteade täienduskoolituse läbiviimiseks sisaldab lisaks majandustegevuse seadustiku üldosa seaduses sätestatule loetelu käesoleva seaduse § 9 lõike 1 alusel kehtestatud täienduskoolituse õppekavarühmadest (edaspidi täienduskoolituse õppekavarühm ), milles täienduskoolitust läbi viiakse."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - Nõuded täienduskoolitusasutusele",
+      "section": "4",
+      "title": "§ 4. Täienduskoolitusasutuse nimi",
+      "content": "(1) Täienduskoolitusasutus, kes viib läbi üksnes täienduskoolitust, ei tohi täienduskoolitusasutuse nimes mingil viisil viidata formaalõppe läbiviimise võimalusele.\n(2) Sõna „rahvaülikool” võib oma nimes kasutada üksnes täienduskoolitusasutus, millel on kindel tegevuskoht ja mis pakub pidevalt täienduskoolitust vähemalt kolmes täienduskoolituse õppekavarühmas."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - Nõuded täienduskoolitusasutusele",
+      "section": "5",
+      "title": "§ 5. Täienduskoolitusasutuse veebileht ja muu avalikult ligipääsetav digikeskkond",
+      "content": "Täienduskoolitusasutus avalikustab käesoleva seaduse § 8 lõikes 2 nõutud teabe täienduskoolitusasutuse veebilehel või muus avalikult ligipääsetavas digikeskkonnas."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - Nõuded täienduskoolitusasutusele",
+      "section": "6",
+      "title": "§ 6. Täienduskoolitusasutuse täienduskoolituse läbiviimise peatamise, keelamise ja läbiviimisest loobumise erisused",
+      "content": "(1) Täienduskoolitusasutusele kehtestatud majandustegevuse nõuete olulise rikkumise korral võib Haridus- ja Teadusministeerium haldusaktiga peatada või keelata täienduskoolituse läbiviimise täienduskoolitusasutusena. Kui Haridus- ja Teadusministeerium annab täienduskoolituse läbiviimise peatamise või keelamise haldusakti või teeb ettekirjutuse, mille järgimata jätmine võib kaasa tuua täienduskoolituse läbiviimise peatamise või keelamise haldusakti andmise, avaldab Haridus- ja Teadusministeerium haldusakti resolutsiooni ja põhjendused osas, mille avaldamiseks on avalik huvi, haldusmenetluse seaduse §-s 31 sätestatud korras ning oma veebilehel.\n(2) Täienduskoolituse läbiviimisest loobumisele kohaldatakse majandustegevuse seadustiku üldosa seaduse §-s 34 sätestatut. Täienduskoolituse läbiviimisest täielikult loobunuks loetakse ka täienduskoolitusasutus, kes ei ole täitnud käesoleva seaduse § 8 lõikes 5 sätestatud andmete esitamise kohustust kuue kuu möödumisel selle kohustuse täitmise tähtaja lõppemisest arvates."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "7",
+      "title": "§ 7. Täienduskoolituse õppekorraldus ja täienduskoolitusasutuse tegevuse kvaliteedi tagamise alused",
+      "content": "(1) Täienduskoolitusasutus kehtestab täienduskoolituse õppekorralduse alused ja täienduskoolitusasutuse tegevuse kvaliteedi tagamise alused.\n(2) Täienduskoolituse õppekorralduse alustes sätestatakse õppija õppesse vastuvõtu ja õppest väljaarvamise tingimused, täienduskoolituse õppetasu maksmise ja tagastamise tingimused ning teised õppe korraldamiseks olulised tingimused.\n(3) Täienduskoolitusasutuse tegevuse kvaliteedi tagamise alustes sätestatakse vähemalt täienduskoolituse õppekavade, nende arendamise, täienduskoolitusega seotud koolitajate ja õppekeskkonna kvaliteedi tagamise tingimused ning täienduskoolituse tagasiside kogumise ja arvestamise kord."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "8",
+      "title": "§ 8. Täienduskoolitusasutust käsitleva teabe avalikustamine",
+      "content": "(1) Täienduskoolitusasutus avalikustab hariduse infosüsteemi kaudu õppekavarühmad, milles ta täienduskoolitust läbi viib, oma kontaktandmed ja veebilehe või avalikult ligipääsetava digikeskkonna aadressi.\n(2) Täienduskoolitusasutus avalikustab eesti keeles oma veebilehel või avalikult ligipääsetavas digikeskkonnas täienduskoolituse õppekorralduse alused, täienduskoolituse õppekavad, täienduskoolitusega seotud täiskasvanute koolitajate nimed koos nende kompetentsust tõendava kvalifikatsiooni, õpi- või töökogemuse kirjeldusega, täienduskoolitusasutuse tegevuse kvaliteedi tagamise alused ja loakohustusega täienduskoolituse läbiviimiseks antud tegevusloa andmed. Teave peab olema ajakohane, kergesti leitav ja üheselt mõistetav.\n(3) Täienduskoolitusasutus ei pea avalikustama tellimuskoolituste õppekavasid ja nendega seotud koolitajate andmeid. Tellimuskoolitus on tellija soovidest ja vajadustest lähtuv täienduskoolitus, mida viiakse läbi tellijaga kokku lepitud tingimustel ja korras.\n(4) Täienduskoolitusasutus teeb iga aasta 31. märtsiks hariduse infosüsteemi kaudu kättesaadavaks Eesti Vabariigi haridusseaduse § 36^6 lõike 3^2 alusel sätestatud tegevusnäitajad eelmise kalendriaasta kohta.\n(5) Täienduskoolitusasutus tagab, et käesoleva paragrahvi lõikes 4 nimetatud tegevusnäitajate õigsus on dokumentaalselt tõendatav. Täienduskoolitusasutus säilitab tegevusnäitajate aluseks olevaid dokumente kolm aastat arvates selle kalendriaasta lõpust, mil dokument loodi."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "9",
+      "title": "§ 9. Täienduskoolituse standard ja täienduskoolituse õppekava",
+      "content": "(1) Valdkonna eest vastutav minister kehtestab määrusega täienduskoolituse standardi, milles sätestatakse täienduskoolituse õppekava nõuded, täienduskoolituse läbimist ja selles osalemist tõendavate dokumentide nõuded ning täienduskoolituse õppekavarühmade loetelu.\n(2) Täienduskoolitust viiakse läbi täienduskoolitusasutuse kinnitatud õpiväljundipõhise õppekava ja õppekorralduse aluste kohaselt. Õpiväljundid on õppimise tulemusel omandatavad teadmised ja oskused, mille saavutatust on võimalik tõendada ja hinnata.\n(3) Täienduskoolituse õppekava maht määratakse akadeemilistes tundides. Üks akadeemiline tund vastab 45 minutile. Mikrokvalifikatsiooniõppe maht määratakse ainepunktides. Üks ainepunkt vastab 26 tunnile õppija tööle teadmiste ja oskuste omandamisel."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "10",
+      "title": "§ 10. Õppekeskkond",
+      "content": "Õppekeskkond on õppijate õppimist ja arengut toetav füüsiline või digitaalne keskkond. Täienduskoolitusasutuse õppekeskkond peab olema täienduskoolituseks ja õppekava õpiväljundite saavutamiseks piisav."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "11",
+      "title": "§ 11. Täiskasvanute koolitaja",
+      "content": "(1) Täiskasvanute koolitaja on käesoleva seaduse tähenduses spetsialist, kes sihipäraselt loodud õpisituatsioonis toetab täiskasvanud inimeste õppimist ja enesearendust. Täiskasvanute koolitajal peavad olema koolitatavas valdkonnas erialased ja täiskasvanute koolitaja kompetentsid. Täiskasvanute koolitaja kompetentside olemasolu hindab täienduskoolitusasutus.\n(2) Täienduskoolituse läbiviimiseks tagab täienduskoolitusasutus õppe eesmärkide ja õpiväljundite saavutamiseks vajaliku arvu õppekavas kirjeldatud kvalifikatsiooni, õpi- või töökogemusega koolitajate olemasolu.\n(3) Täiskasvanute koolitaja väljaõppe koolitajal peab lisaks käesoleva paragrahvi lõikes 1 sätestatule olema magistrikraad haridusteaduses või sellele vastav kvalifikatsioon või vähemalt 7. taseme täiskasvanute koolitaja kutse."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "12",
+      "title": "§ 12. Täienduskoolituse olulistest tingimustest teavitamine",
+      "content": "(1) Lisaks majandustegevuse seadustiku üldosa seaduse § 31 lõikes 2 sätestatule teeb täienduskoolitusasutus täienduskoolituses osalejale ja koolituse rahastajale teatavaks vähemalt järgmised andmed ja dokumendid:\n1) täienduskoolituse õppekava;\n2) täienduskoolitust läbi viiva täiskasvanute koolitaja nimi ja andmed tema kvalifikatsiooni kohta;\n3) täienduskoolituse toimumise aeg;\n4) täienduskoolituse läbiviimise koht ja aadress;\n5) õppetasu suurus ja muud õpingutega kaasnevad kulud, sealhulgas õppevahendite kulud;\n6) õppetasu tasumise kord ja tähtaeg;\n7) õppetasu tagastamise alused ja kord.\n8)\n(2)"
+    },
+    {
+      "provision_ref": "para12^1",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "12^1",
+      "title": "§ 12^1. Nõuded mikrokvalifikatsiooniõppele",
+      "content": "(1) Mikrokvalifikatsiooniõppe maht on 5 kuni 30 ainepunkti.\n(2) Mikrokvalifikatsiooniõppe lõpetanule annab täienduskoolitusasutus mikrokvalifikatsioonitunnistuse käesoleva seaduse § 9 lõike 1 alusel kehtestatud standardis esitatud tingimustel ja korras.\n(3) Mikrokvalifikatsioone on võimalik koguda ja kombineerida, et formaalõppes tõendada kvalifikatsiooni omandamist või kutsetunnistuse saamist.\n(4) Kõrgkoolid ja kutseõppeasutused võivad mikrokvalifikatsiooni andmisel arvestada varasemaid õpinguid ja töökogemust vastavalt kõrgharidusseadusele ning kutseõppeasutuse seadusele."
+    },
+    {
+      "provision_ref": "para12^2",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "12^2",
+      "title": "§ 12^2. Mikrokvalifikatsiooniõppe läbiviimise õigus",
+      "content": "Mikrokvalifikatsiooniõpet võivad läbi viia: 1 1) kõrgkool ja kutseõppeasutus selles õppekavarühmas või -grupis, milles on talle antud õppeõigus või õppe läbiviimise õigus (edaspidi õppeõigus );\n2) tegevusloa alusel kõrgkool ja kutseõppeasutus selles õppekavarühmas või -grupis, milles tal ei ole õppeõigust;\n3) tegevusloa alusel muu täienduskoolitusasutus."
+    },
+    {
+      "provision_ref": "para12^3",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "12^3",
+      "title": "§ 12^3. Mikrokvalifikatsiooniõppe õppekava esitamine",
+      "content": "(1) Käesoleva seaduse § 12^2 punktis 1 nimetatud täienduskoolitusasutus viib mikrokvalifikatsiooniõpet läbi hariduse infosüsteemi kantud mikrokvalifikatsiooniõppe õppekava alusel. Õppekava esitatakse hariduse infosüsteemi põhimääruses ettenähtud korras. Enne õppekava esitamist tasub § 12^2 punktis 1 nimetatud täienduskoolitusasutus riigilõivu riigilõivuseaduses sätestatud määras.\n(2) Käesoleva seaduse § 12^2 punktis 1 nimetatud täienduskoolitusasutus esitab hariduse infosüsteemi õppekava, mis:\n1) liigitub sellesse õppekavarühma või -gruppi, milles on talle antud õppeõigus;\n2) vastab käesoleva seaduse § 12^6 punktides 2–8 esitatud nõuetele.\n(3) Täienduskoolitusasutus tagab hariduse infosüsteemi kantud õppekava ajakohasuse.\n(4) Õppekava muutmisele kohaldatakse käesoleva seaduse §-s 12^7 esitatud tingimusi.\n(5) Õppekava kustutatakse hariduse infosüsteemist, kui kõrgkooli või kutseõppeasutuse õppeõigus vastavas õppekavarühmas või -grupis tunnistatakse kehtetuks."
+    },
+    {
+      "provision_ref": "para12^4",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "12^4",
+      "title": "§ 12^4. Tegevusluba",
+      "content": "(1) Tegevusluba annab käesoleva seaduse § 12^2 punktides 2 ja 3 nimetatud täienduskoolitusasutusele õiguse läbi viia mikrokvalifikatsiooniõpet tegevusloal märgitud õppekava alusel.\n(2) Tegevusluba kehtib viis aastat.\n(3) Tegevusloa taotlus lahendatakse käesoleva seaduse ning majandustegevuse seadustiku üldosa seaduse alusel.\n(4) Käesolevas seaduses ja majandustegevuse seadustiku üldosa seaduses tegevusloa taotlemist, taotluse lahendamist, tegevusloa kehtetuks tunnistamist, andmete muutumisest teatamist ning majandustegevusest loobumist reguleerivaid sätteid kohaldatakse ka sellele isikule ja asutusele, kes ei ole ettevõtja majandustegevuse seadustiku üldosa seaduse § 5 lõike 1 tähenduses, niivõrd, kuivõrd selle eripärast ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para12^5",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "12^5",
+      "title": "§ 12^5. Tegevusloa taotlemine",
+      "content": "(1) Tegevusloa taotluse lahendab Haridus- ja Teadusministeerium.\n(2) Käesoleva seaduse § 12^2 punktides 2 ja 3 nimetatud täienduskoolitusasutus esitab tegevusloa taotluse Haridus- ja Teadusministeeriumile hariduse infosüsteemi kaudu.\n(3) Taotluse läbivaatamise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määras.\n(4) Tegevusloa taotluses esitatakse lisaks majandustegevuse seadustiku üldosa seaduses sätestatule järgmised dokumendid:\n1) mikrokvalifikatsiooniõppe õppekava, mille alusel õpetamiseks tegevusluba taotletakse;\n2) õppekavarühma kvaliteedihindamise positiivne otsus;\n3) taotluse esitaja kinnitus, et õppekava vastab teaduslikule maailmakäsitlusele;\n4) kui õppe läbiviimine peab vastama rahvusvahelistele standarditele või kokkulepetele, siis taotluse esitaja kinnitus, et kavandatav õpe järgib neid standardeid või kokkuleppeid.\n(5) Haridus- ja Teadusministeerium vaatab tegevusloa taotluse läbi kahe kuu jooksul käesoleva paragrahvi lõikes 4 nimetatud andmete ja dokumentide esitamisest arvates."
+    },
+    {
+      "provision_ref": "para12^6",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "12^6",
+      "title": "§ 12^6. Tegevusloa kontrolliese",
+      "content": "Tegevusluba antakse, kui taotleja vastab järgmistele tingimustele: 1 1) tema mikrokvalifikatsiooniõppe õppekava liigitub õppekavarühma, millel on käesoleva seaduse § 12^10 lõike 3 punktis 1 nimetatud kvaliteedihindamise positiivne otsus;\n2) tema õppekava vastab käesolevas seaduses ja käesoleva seaduse § 9 lõike 1 alusel kehtestatud standardis esitatud nõuetele;\n3) tema õppekava maht vastab käesoleva seaduse § 12^1 lõikes 1 kehtestatud mikrokvalifikatsiooniõppe mahule;\n4) tema õppekava on liigitatud õppekavarühma rahvusvahelise ühtse hariduse liigituse ISCED ( International Standard Classification of Education ) alusel õppekava sisu arvestades;\n5) tema õppekavas on viide asjaomasele kutsestandardile või selle osale, kui õppekava koostamise aluseks on kutsestandard;\n6) tal on täienduskoolituse tegevusluba, kui õppekava avatakse tegevusalal, millel tegutsemiseks on muu seaduse alusel vajalik tegevusluba;\n7) tema õppekava alusel läbiviidav õpe vastab rahvusvahelistele standarditele või kokkulepetele, kui rahvusvahelistes standardites või kokkulepetes on esitatud nõuded selle õppekava ja õppe kohta;\n8) tema õppekava lähtub teaduslikust maailmakäsitlusest."
+    },
+    {
+      "provision_ref": "para12^7",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "12^7",
+      "title": "§ 12^7. Õppekava ja tegevusloa muutmine",
+      "content": "(1) Täienduskoolitusasutus võib tegevusloa kehtivuse ajal teha õppekavas muudatusi. Õppekava muudatused esitab täienduskoolitusasutus hariduse infosüsteemi kaudu hariduse infosüsteemi põhimääruses sätestatud korras.\n(2) Õppekavas õpiväljundite või õppemahu muutmise korral tuleb taotleda uus tegevusluba."
+    },
+    {
+      "provision_ref": "para12^8",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "12^8",
+      "title": "§ 12^8. Tegevusloa kehtetuks tunnistamine",
+      "content": "(1) Haridus- ja Teadusministeerium tunnistab lisaks majandustegevuse seadustiku üldosa seaduses sätestatud tegevusloa kehtetuks tunnistamise alustele tegevusloa kehtetuks, kui:\n1) täienduskoolitusasutuse õppekavarühma kvaliteedihindamise positiivne otsus kaotab kehtivuse või on tunnistatud kehtetuks;\n2) riikliku või haldusjärelevalve käigus ilmneb, et täienduskoolitusasutuse tegevus on vastuolus käesoleva seaduse või muude õigusaktidega;\n3) käesoleva seaduse § 12^6 punktis 6 nimetatud tegevusluba on tunnistatud kehtetuks;\n4) õppekava maht ei vasta käesoleva seaduse § 12^1 lõikes 1 kehtestatud mikrokvalifikatsiooniõppe mahule;\n5) õppekava ja selle alusel läbiviidav õpe ei vasta rahvusvahelistele standarditele või kokkulepetele, kui rahvusvahelistes standardites või kokkulepetes on esitatud nõuded selle õppekava ja õppe kohta;\n6) täienduskoolitusasutus esitab taotluse tunnistada tegevusluba kehtetuks.\n(2) Haridus- ja Teadusministeerium võib lisaks majandustegevuse seadustiku üldosa seaduses sätestatud tegevusloa kehtetuks tunnistamise alustele tunnistada tegevusloa kehtetuks, kui täienduskoolitusasutus ei täida enam käesoleva seaduse § 12^6 punktidest 4, 5 ja 8 tulenevaid nõudeid."
+    },
+    {
+      "provision_ref": "para12^9",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "12^9",
+      "title": "§ 12^9. Täienduskoolitusasutuse õppekavarühma kvaliteedihindamine",
+      "content": "(1) Hariduse infosüsteemi kantud täienduskoolitusasutuse õppekavarühma kvaliteedihindamine tehakse käesoleva seaduse § 12^2 punktides 2 ja 3 nimetatud juhul täienduskoolitusasutuse taotlusel.\n(2) Täienduskoolitusasutus esitab õppekavarühma kvaliteedihindamise taotluse hariduse infosüsteemi kaudu ja tasub enne taotluse esitamist õppekavarühma kvaliteedihindamise eest riigilõivuseaduses sätestatud riigilõivu.\n(3) Õppekavarühma kvaliteedihindamine on täienduskoolitusasutuse õppekavade ning nende alusel toimuva õppe ja õppearendustegevuse hindamine. Õppekavarühma kvaliteedihindamine koosneb täienduskoolitusasutuse eneseanalüüsist ning sõltumatute ja kompetentsete ekspertide hindamisest.\n(4) Õppekavarühma kvaliteedihindamisel antakse positiivne hinnang, kui täienduskoolitusasutus on tõendanud järgmiste nõuete täitmist:\n1) ressursid õppekavarühmas õppe läbiviimiseks on piisavad;\n2) täiskasvanute koolitajad vastavad käesolevas seaduses ja selle alusel kehtestatud nõuetele;\n3) mikrokvalifikatsiooniõppe õppekavad vastavad käesoleva seaduse § 9 lõike 1 alusel kehtestatud standardile;\n4) õppekavad ja õppetöö vastavad käesolevas seaduses ja selle alusel kehtestatud nõuetele;\n5) õppija õppimine on toetatud ja tagasisidestatud.\n(5) Õppekavarühma kvaliteedihindamise tingimused ja korra ning õppekavarühmade loetelu, milles kvaliteedihindamist tehakse, kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para12^10",
+      "chapter": "3. peatükk - Täienduskoolituse läbiviimine ja teabe avalikustamine",
+      "section": "12^10",
+      "title": "§ 12^10. Täienduskoolitusasutuse õppekavarühma kvaliteedihindamise korraldus",
+      "content": "(1) Õppekavarühma kvaliteedihindamist korraldab valdkonna eest vastutava ministri volitatud asutus (edaspidi hindamist korraldav asutus ). Hindamist korraldav asutus moodustab täienduskoolituse hindamisnõukogu, kinnitab nõukogu töökorra ja nõukogu otsuste peale esitatud vaiete lahendamise korra.\n(2) Täienduskoolituse hindamisnõukogu kehtestab käesoleva seaduse § 12^9 lõikes 4 nimetatud ja § 12^9 lõike 5 alusel kehtestatud nõuete täitmise hindamisjuhised ja metoodika ning võtab vastu õppekavarühma kvaliteedihindamise otsused.\n(3) Täienduskoolituse hindamisnõukogu hindab täienduskoolitusasutuse õppekavarühma õppetöö kvaliteeti järgmiselt:\n1) kui õppekavarühma õppetöö vastab täielikult käesolevas seaduses ja selle alusel kehtestatud nõuetele, teeb hindamisnõukogu positiivse otsuse viieks aastaks;\n2) kui õppekavarühma õppetöö vastab käesolevas seaduses ja selle alusel kehtestatud nõuetele osaliselt või ei vasta nõuetele, teeb hindamisnõukogu negatiivse otsuse.\n(4) Hindamisnõukogu otsused kvaliteedihindamise läbinud täienduskoolitusasutuse õppekavarühmade kohta avalikustatakse hariduse infosüsteemis.\n(5) Hindamisnõukogu võib õppekavarühma kvaliteedihindamise positiivse otsuse kehtetuks tunnistada, kui ilmneb vähemalt üks järgmistest asjaoludest:\n1) riikliku või haldusjärelevalve käigus selgub, et täienduskoolitusasutuse tegevus on vastuolus käesoleva seaduse või muu õigusaktiga;\n2) täienduskoolitusasutus ei ole täitnud riiklikku või haldusjärelevalvet teostava haldusorgani ettekirjutust ettekirjutuses märgitud tähtpäevaks või korras;\n3) täienduskoolitusasutus on esitanud õppekavarühma kvaliteedihindamisel valeandmeid, mis on otsust mõjutanud;\n4) täienduskoolitusasutus ei vasta käesoleva seaduse § 12^9 lõigetes 4 ja 5 ning käesoleva paragrahvi lõikes 2 nimetatud nõuetele;\n5) täienduskoolitusasutus on esitanud majandustegevusest loobumise teate."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "4. peatükk - Õppija õigus õppepuhkusele",
+      "section": "13",
+      "title": "§ 13. Õppepuhkuse taotlemine ja tasustamine",
+      "content": "(1) Töötajale ja ametnikule (edaspidi koos töötaja ) antakse tema taotluse ning õppeasutuse teatise alusel formaalõppes või täienduskoolitusasutuse läbiviidavas täienduskoolituses osalemiseks õppepuhkust kuni 30 kalendripäeva kalendriaasta jooksul. Tööandja huvidest lähtuva koolituse puhul lähtutakse töölepingu seaduse § 28 lõike 2 punktis 5 või avaliku teenistuse seaduse §-s 31 sätestatust. Õppepuhkust antakse ka välisriigi samaväärses õppeasutuses formaalõppes või täienduskoolitusel osalemiseks.\n(2) Õppeasutuse teatises tehakse märge akadeemilisel puhkusel viibimise kohta. Tööandjal on õigus keelduda õppepuhkuse andmisest selle õppekava läbimiseks või lõpetamiseks, mille alusel toimuvad õpingud on peatunud akadeemilise puhkuse tõttu.\n(3) Formaalõppes ja tööalase enesetäiendamise eesmärgil täienduskoolituses osalemiseks antud õppepuhkuse ajal makstakse töötajale keskmist kalendripäevapõhist õppepuhkusetasu 20 kalendripäeva eest töölepingu seaduse § 29 lõike 8 alusel kehtestatud korras.\n(4) Formaalõppe lõpetamiseks antakse täiendavalt õppepuhkust 15 kalendripäeva, mille eest makstakse töölepingu seaduse § 29 lõike 5 kohaselt kehtestatud töötasu alammäära alusel arvutatud õppepuhkusetasu. Puhkusetasu arvutamisel korrutatakse õppepuhkuse päevade arv töötasu alammäära alusel arvutatud ühe kuu keskmise kalendripäeva õppepuhkusetasu määraga. Ühe kuu keskmise kalendripäeva õppepuhkusetasu määra leidmiseks jagatakse töötasu alammäär kalendriaasta päevade arvu ja arvu 12 jagatisega. Tööandja võib keelduda formaalõppe lõpetamiseks puhkuse andmisest, kui ta on samale töötajale juba andnud puhkust sama õppekava lõpetamiseks.\n(5) Õppepuhkuse taotluses määrab töötaja, kas ta soovib võtta õppepuhkust õppes osalemiseks või formaalõppe lõpetamiseks.\n(6) Puhkuste ajakavasse märkimata õppepuhkuse kasutamisest teatab töötaja tööandjale kirjalikku taasesitamist võimaldavas vormis vähemalt neliteist kalendripäeva ette.\n(7) Kõrgkooli eksternõppes osalejale antakse lisaks käesoleva paragrahvi lõikes 1 nimetatule õppepuhkust formaalõppe lõpetamiseks käesoleva paragrahvi lõikes 4 nimetatud tingimustel ja käesolevas paragrahvis sätestatud korras."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "4. peatükk - Õppija õigus õppepuhkusele",
+      "section": "14",
+      "title": "§ 14. Õppepuhkuse andmisest keeldumine ja selle katkestamine",
+      "content": "(1) Tööandjal on õigus keelduda õppepuhkuse andmisest, kui õppepuhkuse päev või järjestikused õppepuhkuse päevad langevad üksnes töötaja puhkepäevadele.\n(2) Tööandjal on õigus õppepuhkus katkestada või selle andmine edasi lükata töölepingu seaduse § 69 lõikes 5 ettenähtud tingimustel. Kui puhkus katkestati või lükati edasi, on töötajal õigus kasutada kasutamata jäänud õppepuhkuse osa formaalõppes või täienduskoolituses osalemiseks talle sobival ajal, arvestades käesolevas peatükis kehtestatud piiranguid."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "5. peatükk - Täienduskoolituse rahastamise korraldus",
+      "section": "15",
+      "title": "§ 15. Täienduskoolituse rahastamine",
+      "content": "(1) Täienduskoolituse kulud katab sellest huvitatud isik või asutus.\n(2) Riigieelarvest, kohaliku omavalitsuse üksuse eelarvest ja välistoetustest on lubatud rahastada või hüvitada täienduskoolitusasutuse läbiviidavat täienduskoolitust, mis vastab käesolevas seaduses ja selle alusel kehtestatud nõuetele.\n(3) Käesoleva paragrahvi lõikes 2 kehtestatud tingimust ei kohaldata, kui täienduskoolitust viivad läbi ühe isiku või asutuse töötajad sama isiku või asutuse töötajatele või kui koolitust viib läbi riigiasutuse või kohaliku omavalitsuse asutuse töötaja teise riigiasutuse või kohaliku omavalitsuse asutuse töötajale või kui koolituse läbiviimine kuulub riigiasutuse või kohaliku omavalitsuse asutuse töötaja töö- või teenistusülesannete hulka.\n(4) Käesoleva paragrahvi lõikes 2 kehtestatud tingimuse võib põhjendatud erandina jätta kohaldamata, kui soovitud täienduskoolitust ei korralda ükski täienduskoolitusasutus või kui koolitus tellitakse väljaspool Eestit tegutsevalt täienduskoolituse pakkujalt, kes ei ole täienduskoolitusasutus käesoleva seaduse tähenduses. Käesolevas lõikes nimetatud juhul seab täienduskoolituse kvaliteedile nõuded täienduskoolituse tellija."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "5. peatükk - Täienduskoolituse rahastamise korraldus",
+      "section": "16",
+      "title": "§ 16. Riiklik täienduskoolituse tellimus",
+      "content": "(1) Ministeerium võib esitada täienduskoolitusasutusele või nende liidule riikliku tellimuse täienduskoolituse pakkumiseks (edaspidi riiklik täienduskoolituse tellimus ). Riikliku täienduskoolituse tellimuse koostamisel lähtutakse riigi strateegilistest ja valdkondlikest arengukavadest, tööjõuvajaduse uuringutest ja prognoosidest või muust infost koolitusvajaduse kohta.\n(2) Riiklik täienduskoolituse tellimus on riigieelarvest rahastatavate täienduskoolituskohtade arv.\n(3)\n(4) Riikliku täienduskoolituse tellimuse koostamise ja esitamise korra ning täienduskoolituskoha maksumuse arvestamise korra ja akadeemilise tunni või ainepunkti maksumuse kehtestab valdkonna eest vastutav minister määrusega.\n(5)\n(6) Riikliku täienduskoolituse tellimuse alusel moodustatud õppekohal õppimine on õppija jaoks tasuta, kui selle tellimuse esitamisel ei ole õppija jaoks kehtestatud omaosaluse määra."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "6. peatükk - Riiklik ja haldusjärelevalve",
+      "section": "17",
+      "title": "§ 17. Riiklik ja haldusjärelevalve täienduskoolituse läbiviija üle",
+      "content": "(1) Haridus- ja Teadusministeerium teostab riiklikku või haldusjärelevalvet täienduskoolitusasutuste ja nende tegevuse vastavuse üle käesolevas seaduses ja selle alusel kehtestatud nõuetele.\n(1^1) Haridus- ja Teadusministeerium võib riikliku või haldusjärelevalve teostamisel kaasata eksperte.\n(1^2) Mikrokvalifikatsiooniõppe ja selle läbiviija üle riikliku või haldusjärelevalve teostamisel võib Haridus- ja Teadusministeerium kaasata hindamist korraldava asutuse, kes tuvastab käesoleva seaduse § 12^9 lõikes 4 nimetatud ning § 12^9 lõike 5 ja § 12^10 lõike 2 alusel kehtestatud nõuete täitmise eelhaldusaktiga.\n(2) Haridus- ja Teadusministeerium teostab riiklikku või haldusjärelevalvet täienduskoolitust läbi viiva täienduskoolitusasutuseks mitte oleva isiku või asutuse üle, kui tema läbiviidavast täienduskoolitusest lähtub kõrgendatud või oluline oht ning muu korrakaitse- või majandushaldusorgan ei ole pädev seda ohtu tõrjuma."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "6. peatükk - Riiklik ja haldusjärelevalve",
+      "section": "18",
+      "title": "§ 18. Riikliku järelevalve erimeetmed",
+      "content": "Riiklikku järelevalvet teostav asutus võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30 ja 50 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "6. peatükk - Riiklik ja haldusjärelevalve",
+      "section": "19",
+      "title": "§ 19. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär 640 eurot."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "20",
+      "title": "§ 20. Üleminekusätted",
+      "content": "(1) Enne käesoleva seaduse jõustumist erakooliseaduse alusel tööalase või vabaharidusliku koolituse läbiviimiseks väljastatud koolitusload või tegevusload kehtivad kuni 2016. aasta 30. juunini. Nimetatud koolitusloa või tegevusloa alusel täiskasvanute koolitusasutuste pidajad on kuni loa kehtivuse lõpuni võrdsustatud täienduskoolitusasutuse pidajaga käesoleva seaduse tähenduses.\n(2) Enne käesoleva seaduse jõustumist täiskasvanute koolitusasutusena tegutsenud riigi- ja kohaliku omavalitsuse asutused ning avalik-õiguslikud juriidilised isikud on kuni 2016. aasta 30. juunini võrdsustatud täienduskoolitusasutuse pidajaga käesoleva seaduse tähenduses.\n(3) Täienduskoolitusasutuse pidajad peavad käesoleva seaduse § 7 lõikes 1 nimetatud täienduskoolitusasutuse tegevuse kvaliteedi tagamise alused kehtestama hiljemalt 2016. aasta 1. juuliks.\n(4) Täienduskoolitusasutus viib hariduse infosüsteemis ning oma veebilehel ja muus avalikult ligipääsetavas digikeskkonnas enda andmed vastavusse käesoleva seaduse § 1^1 lõikes 1 sätestatuga 2025. aasta 31. detsembriks.\n(5) Täienduskoolitust võib alates 2026. aasta 1. jaanuarist läbi viia käesoleva seaduse § 11 lõike 1 teises lauses sätestatud nõuetele vastav täiskasvanute koolitaja.\n(6) Täiskasvanute koolitaja väljaõpet võib alates 2026. aasta 1. jaanuarist läbi viia käesoleva seaduse § 11 lõikes 3 sätestatud nõuetele vastav koolitaja.\n(7) Täienduskoolitusasutus võib alates 2025. aasta 1. septembrist läbi viia mikrokvalifikatsiooniõpet, kui mikrokvalifikatsiooniõpe vastab käesolevas seaduses esitatud nõuetele."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "21",
+      "title": "§ 21.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "43",
+      "title": "§ 43.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para43^1",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "43^1",
+      "title": "§ 43^1. Täiskasvanute koolituse seaduse kehtetuks tunnistamine",
+      "content": "Täiskasvanute koolituse seadus (RT I 1993, 74, 1054) tunnistatakse kehtetuks."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "44",
+      "title": "§ 44.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "48",
+      "title": "§ 48.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "49",
+      "title": "§ 49. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2015. aasta 1. juulil."
+    }
+  ],
+  "definitions": []
+}

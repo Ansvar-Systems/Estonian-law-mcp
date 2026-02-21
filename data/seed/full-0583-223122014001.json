@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-223122014001",
+  "type": "statute",
+  "title": "Inimkaubandusvastase Euroopa Nõukogu konventsiooni ratifitseerimise seadus",
+  "title_en": "Inimkaubandusvastase Euroopa Nõukogu konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-223122014001",
+  "status": "in_force",
+  "issued_date": "2014-12-10",
+  "in_force_date": "2015-01-02",
+  "url": "https://www.riigiteataja.ee/akt/223122014001.xml",
+  "description": "Official consolidated statute text (Inimkaubandusvastase Euroopa Nõukogu konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Konventsiooni ratifitseerimine",
+      "content": "Ratifitseerida juurdelisatud inimkaubandusvastane Euroopa Nõukogu konventsioon, millele Eesti Vabariik on alla kirjutanud 2010. aasta 3. veebruaril Strasbourgis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Deklaratsioon",
+      "content": "Kooskõlas konventsiooni artikli 31 lõikega 2 deklareerib Eesti Vabariik, et jätab endale õiguse mitte kohaldada konventsiooni artikli 31 lõike 1 punkte d ja e."
+    }
+  ],
+  "definitions": []
+}

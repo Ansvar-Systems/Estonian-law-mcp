@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-13175633",
+  "type": "statute",
+  "title": "Rahvusvaheliste näituste konventsiooniga ühinemise seadus",
+  "title_en": "Rahvusvaheliste näituste konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-13175633",
+  "status": "in_force",
+  "issued_date": "2009-04-22",
+  "in_force_date": "2009-04-30",
+  "url": "https://www.riigiteataja.ee/akt/13175633.xml",
+  "description": "Official consolidated statute text (Rahvusvaheliste näituste konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud rahvusvaheliste näituste konventsiooniga, mis on koostatud 1928. aasta 22. novembril Pariisis, ja rahvusvaheliste näituste konventsiooni muutmise protokolliga, mis on koostatud 1972. aasta 30. novembril Pariisis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Käesolev seadus jõustub Riigi Teatajas avaldamisele järgneval päeval. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

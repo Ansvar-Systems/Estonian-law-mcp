@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-110032022013",
+  "type": "statute",
+  "title": "Riigikaitseliste sundkoormiste seadus",
+  "title_en": "Riigikaitseliste sundkoormiste seadus",
+  "short_name": "RKSKS",
+  "status": "in_force",
+  "issued_date": "1995-02-22",
+  "in_force_date": "2022-03-21",
+  "url": "https://www.riigiteataja.ee/akt/110032022013.xml",
+  "description": "Official consolidated statute text (Riigikaitseliste sundkoormiste seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

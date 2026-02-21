@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-123032015212",
+  "type": "statute",
+  "title": "Surveseadme ohutuse seadus",
+  "title_en": "Surveseadme ohutuse seadus",
+  "short_name": "SOS",
+  "status": "in_force",
+  "issued_date": "2002-05-22",
+  "in_force_date": "2015-07-01",
+  "url": "https://www.riigiteataja.ee/akt/123032015212.xml",
+  "description": "Official consolidated statute text (Surveseadme ohutuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-970764",
+  "type": "statute",
+  "title": "Keskkonnakasutusest laekuva raha kasutamise seadus",
+  "title_en": "Keskkonnakasutusest laekuva raha kasutamise seadus",
+  "short_name": "KeRKS",
+  "status": "in_force",
+  "issued_date": "1999-06-16",
+  "in_force_date": "2006-01-01",
+  "url": "https://www.riigiteataja.ee/akt/970764.xml",
+  "description": "Official consolidated statute text (Keskkonnakasutusest laekuva raha kasutamise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

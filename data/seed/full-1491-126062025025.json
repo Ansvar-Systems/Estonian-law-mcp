@@ -1,0 +1,841 @@
+{
+  "id": "ee-law-126062025025",
+  "type": "statute",
+  "title": "Väljasõidukohustuse ja sissesõidukeelu seadus",
+  "title_en": "Väljasõidukohustuse ja sissesõidukeelu seadus",
+  "short_name": "VSS",
+  "status": "in_force",
+  "issued_date": "1998-10-21",
+  "in_force_date": "2025-09-01",
+  "url": "https://www.riigiteataja.ee/akt/126062025025.xml",
+  "description": "Official consolidated statute text (Väljasõidukohustuse ja sissesõidukeelu seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab välismaalasele Eestist väljasõidukohustuse ning Eestisse sissesõidukeelu kohaldamise alused ja korra ning välismaalase Eestist läbisõidu korra.\n(1^1)\n(2) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi. Sissesõidukeelu kohaldamise menetluse suhtes ei rakendata haldusmenetluse seaduses sätestatut.\n(3) Käesoleva seaduse sätteid kohaldatakse Eesti Vabariigile siduvas välislepingus toodud erisusi arvestades."
+    },
+    {
+      "provision_ref": "para1^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1^1",
+      "title": "§ 1^1. Välismaalane",
+      "content": "(1) Välismaalane käesoleva seaduse tähenduses on isik, kes ei ole Eesti kodanik või Euroopa Liidu liikmesriigi, Euroopa Majanduspiirkonna liikmesriigi või Šveitsi Konföderatsiooni kodanik.\n(2) Käesoleva seaduse tähenduses ei peeta välismaalaseks Euroopa Liidu liikmesriigi, Euroopa Majanduspiirkonna liikmesriigi ega Šveitsi Konföderatsiooni kodaniku perekonnaliiget, kellel on viibimis- või elamisõigus Eestis."
+    },
+    {
+      "provision_ref": "para1^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1^2",
+      "title": "§ 1^2. Saatjata alaealine välismaalane",
+      "content": "(1) Saatjata alaealine välismaalane on alla 18-aastane välismaalane, kes saabub või on saabunud Eestisse ilma vanema, eestkostja või muu vastutava täisealise isikuta või kes jääb Eestis viibides ilma vanemast, eestkostjast või muust vastutavast täisealisest isikust.\n(2) Eeldatakse, et alaealisega Eestis koos viibival vanemal, eestkostjal või muul vastutaval täisealisel isikul on isikuhooldusõigus. Politsei- ja Piirivalveameti või Kaitsepolitseiameti nõudmisel on vanem, eestkostja või muu vastutav täisealine isik kohustatud tõendama isikuhooldusõiguse olemasolu.\n(3) Saatjata alaealiseks välismaalaseks ei peeta käesoleva paragrahvi lõikes 1 nimetatud alaealist, kellele on Eestis kohtu poolt määratud füüsilisest isikust eestkostja."
+    },
+    {
+      "provision_ref": "para1^3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1^3",
+      "title": "§ 1^3. Saatjata alaealise ja piiratud teovõimega täisealise välismaalase esindamine",
+      "content": "(1) Käesolevast seadusest tulenevaid menetlustoiminguid ei või saatjata alaealine teha seadusliku esindajata, kui käesolev seadus ei sätesta teisiti.\n(2) Saatjata alaealise ja piiratud teovõimega täisealise välismaalase esindamisele kohaldatakse perekonnaseaduses sätestatut, arvestades käesolevas paragrahvis sätestatud erisusi.\n(3) Saatjata alaealist võib esindada käesoleva paragrahvi lõikes 4 nimetatud füüsiline või juriidiline isik, kes on usaldusväärne ning kellel on saatjata alaealise esindamiseks vajalikud teadmised ja oskused.\n(4) Politsei- ja Piirivalveamet võib sõlmida käesolevas seaduses sätestatud menetlustes saatjata alaealise esindamiseks lepingu füüsilise või juriidilise isikuga."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Välismaalase Eestis viibimise seaduslikud alused",
+      "content": "(1) Eestis viibimiseks peab välismaalasel olema seaduslik alus. Välismaalasel on keelatud viibida Eestis ilma seadusliku aluseta.\n(2) Välismaalase Eestis viibimise seaduslikud alused (edaspidi viibimisalused ) sätestab välismaalaste seadus.\n(3) Euroopa Liidu, Euroopa Majanduspiirkonna liikmesriigi ja Šveitsi Konföderatsiooni kodaniku ning nende perekonnaliikmete Eestis viibimise ja elamise seaduslikud alused (edaspidi viibimisalused ) sätestab Euroopa Liidu kodaniku seadus."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Väljasõidukohustus",
+      "content": "(1) Väljasõidukohustus on välismaalase kohustus Eestist lahkuda, mis tuleneb vahetult seadusest või seaduse alusel antud haldusaktist või kohtulahendist.\n(2) Vahetult seadusest tulenevalt on väljasõiduks kohustatud välismaalane, kellel ei ole seaduslikku alust Eestis viibida.\n(3)"
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Ettekirjutus",
+      "content": "(1) Ettekirjutus on haldusakt, millega kohustatakse Eestis viibimisaluseta viibivat välismaalast käesolevas seaduses sätestatud juhtudel ja korras Eestist lahkuma või oma Eestis viibimine seadustama.\n(2) Välismaalane on kohustatud täitma ettekirjutuse lühima võimaliku aja jooksul."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Väljasaatmine",
+      "content": "Väljasaatmine on seaduses sätestatud juhtudel ja korras väljasõidukohustuse sunniviisiline täitmine."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Sissesõidukeeld",
+      "content": "(1) Sissesõidukeeld on tõkend, mille eesmärk on vältida ebasoovitava välismaalase Eestisse saabumist ja Eestis viibimist.\n(2) Schengeni sissesõidukeeluga keelatakse välismaalasel siseneda Eesti ning teise Schengeni konventsiooni ja Euroopa Liidu liikmesriigi territooriumile ja seal viibida."
+    },
+    {
+      "provision_ref": "para6^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6^2",
+      "title": "§ 6^2. Menetluse üldsätted",
+      "content": "(1) Käesolevas seaduses sätestatud menetlustele kohaldatakse välismaalaste seaduse §-des 13–15, 18, 19, 21–25, 28, § 31 lõikes 1, §-des 32, 36–40, 42, 270, 271, 281, 282 ja 284 sätestatut.\n(2) Käesoleva seaduse § 15^4 lõikes 1 nimetatud hädaolukorras ja juhul, kui välismaalase asukoht Eestis ei ole Politsei- ja Piirivalveametile teada, võib haldusorgan jätta muud haldusakti kättetoimetamise viisid kohaldamata ning avaldada haldusakti adressaadi isikuandmed ja haldusakti resolutiivosa haldusorgani veebilehel. Haldusakti resolutiivosa haldusorgani veebilehel avaldamisega loetakse haldusakt välismaalasele kättetoimetatuks ja jõustunuks.\n(3) Käesoleva seaduse § 15^4 lõikes 1 nimetatud hädaolukorras ja juhul, kui välismaalase asukoht Eestis ei ole Politsei- ja Piirivalveametile teada, võib haldusorgan jätta muud menetlusdokumentide teatavakstegemise viisid kohaldamata ning avaldada menetlusosalise isikuandmed ja menetlusdokumendi sisu haldusorgani veebilehel. Menetlusdokumendi, sealhulgas kutse sisu haldusorgani veebilehel avaldamisega loetakse menetlusdokument välismaalasele kättetoimetatuks.\n(4) Käesoleva seaduse alusel tehtud toimingu protokoll, kutse, teade või muu dokument loetakse kättetoimetatuks, kui välismaalane on pädeva haldusorgani infotehnoloogilise vahendi abil dokumendiga tutvunud ja dokumendi kättesaamist elektroonilise märkega kinnitanud. Dokument antakse välismaalase soovi korral talle paberil."
+    },
+    {
+      "provision_ref": "para6^3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6^3",
+      "title": "§ 6^3. Riiklik järelevalve",
+      "content": "(1) Riiklikku järelevalvet käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuete täitmise üle teostavad Politsei- ja Piirivalveamet ning Kaitsepolitseiamet.\n(2) Kaitsepolitseiamet teostab käesoleva paragrahvi lõikes 1 sätestatu kohaselt riiklikku järelevalvet julgeolekuasutuste seadusest tulenevate ülesannete täitmisel kuriteo tõkestamiseks.\n(3) Politsei- ja Piirivalveamet ning Kaitsepolitseiamet võivad käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 44, 45, 50 ja 51 nimetatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alustel ja korras.\n(4) Korrakaitseseaduse §-des 50 ja 51 sätestatud riikliku järelevalve erimeetmeid võib kohaldada üksnes juhul, kui on põhjendatult alust arvata, et ilma nimetatud meetmeid kohaldamata ei ole välismaalase lahkumiskohustuse täitmine tulemuslik.\n(5) Korrakaitseseaduse §-s 45 sätestatud meedet võib kohaldada üksnes politseiametnik."
+    },
+    {
+      "provision_ref": "para6^4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6^4",
+      "title": "§ 6^4. Välismaalase väljasaatmise vaatlus",
+      "content": "(1) Välismaalase väljasaatmise vaatluse eesmärk on jälgida välismaalase väljasaatmise läbiviimisel menetlusnõuete järgimist ning anda Siseministeeriumile arvamusi ja soovitusi väljasaatmise läbiviimise kohta.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud eesmärgil sõlmib Siseministeerium, Politsei- ja Piirivalveamet või Kaitsepolitseiamet lepingu asutuse või eraõigusliku juriidilise isikuga.\n(3) Välismaalase väljasaatmise vaatlust teostav asutus või eraõiguslik juriidiline isik peab olema usaldusväärne ja omama välismaalase väljasaatmise korraldamise seaduslikkuse hindamiseks vajalikke teadmisi ja oskusi.\n(4) Käesoleva paragrahvi lõikes 2 nimetatud leping annab välismaalase väljasaatmise vaatlust teostavale asutusele või isikule õiguse töödelda hindamise eesmärgil ja vajalikus ulatuses välismaalase isikuandmeid ning muid asjassepuutuvaid andmeid."
+    },
+    {
+      "provision_ref": "para6^5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6^5",
+      "title": "§ 6^5. Eraõigusliku juriidilise isiku kaasamine",
+      "content": "(1) Siseministeerium, Politsei- ja Piirivalveamet või Kaitsepolitseiamet võib kaasata välismaalase Eestist lahkumiskohustuse täitmise abistamiseks eraõigusliku juriidilise isiku.\n(2) Eraõigusliku juriidilise isiku kaasamiseks sõlmib Siseministeerium või Politsei- ja Piirivalveamet eraõigusliku juriidilise isikuga tsiviilõigusliku lepingu, milles sätestatakse tema ülesanded, õigused, kohustused ja vastutus.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud leping annab eraõiguslikule juriidilisele isikule õiguse töödelda lepingus sätestatud eesmärgil ja ulatuses välismaalase isikuandmeid ja muid asjassepuutuvaid andmeid."
+    },
+    {
+      "provision_ref": "para6^6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6^6",
+      "title": "§ 6^6. Tasuta riigi õigusabi andmine",
+      "content": "(1) Välismaalasel on õigus saada riigilt õigusabi lahkumisettekirjutuse, lahkumisettekirjutuses kohaldatud sissesõidukeelu või väljasaatmisega seotud otsuse vaidlustamiseks juhul, kui välismaalasel puuduvad piisavad rahalised vahendid õigusabi kulude kandmiseks.\n(2) Välismaalasele antakse õigusabi riigi õigusabi seaduses sätestatud korras.\n(3) Massilisest sisserändest põhjustatud hädaolukorras võib kohus ebaseaduslikult välispiiri ületanud välismaalasele anda riigi õigusabi väljasaatmise või lahkumisettekirjutuse vaidlustamiseks, kuni halduskohus on teinud otsuse, millega välismaalase esitatud kaebus on jäetud rahuldamata.\n(4) Kohus jätab riigi õigusabi taotluse rahuldamata, kui välismaalane on Eestist lahkunud."
+    },
+    {
+      "provision_ref": "para6^7",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6^7",
+      "title": "§ 6^7. Haavatavate isikute kaitse",
+      "content": "Käesolevas seaduses sätestatud menetlustes on menetlust läbiviiv haldusorgan kohustatud arvestama alaealiste, saatjata alaealiste, puuetega inimeste, eakate, rasedate, alaealiste lastega üksikvanemate ning piinamise, vägistamise või muu raske psühholoogilise, füüsilise või seksuaalse vägivalla ohvriks langenud isikute erivajadusi."
+    },
+    {
+      "provision_ref": "para6^8",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6^8",
+      "title": "§ 6^8. Välismaalase põgenemise oht",
+      "content": "Lahkumisettekirjutuse tegemisel või välismaalase kinnipidamisel hinnatakse välismaalase põgenemise ohtu. Välismaalase põgenemise oht esineb, kui: 1 1) välismaalane ei ole Eestist või teisest Schengeni konventsiooni või Euroopa Liidu liikmesriigist lahkunud pärast lahkumisettekirjutusega määratud lahkumiskohustuse vabatahtliku täitmise tähtaega;\n2) välismaalane on esitanud valeandmeid või võltsitud dokumendi Eestis viibimise seadusliku aluse või selle pikendamise, Eesti kodakondsuse, rahvusvahelise kaitse või isikut tõendava dokumendi taotlemisel;\n3) on põhjendatud kahtlus välismaalase isikusamasuses või tema kodakondsuses;\n4) välismaalane on korduvalt toime pannud tahtlikke kuritegusid või toime pannud kuriteo, mille eest on talle mõistetud vangistus;\n5) välismaalane ei ole järginud tema suhtes lahkumisettekirjutuse täitmise tagamiseks kohaldatud järelevalvemeetmeid;\n6) välismaalane on Politsei- ja Piirivalveametile või Kaitsepolitseiametile teada andnud või haldusorgan järeldab tema hoiakutest ja käitumisest, et ta ei soovi lahkumiskohustust täita;\n7) välismaalane on sisenenud Eestisse tema suhtes kohaldatud sissesõidukeelu kehtivusaja jooksul;\n8) välismaalane on kinni peetud Eesti välispiiri ebaseadusliku ületamise tõttu ning ta ei ole saanud luba või õigust Eestis viibida;\n9) välismaalane on loata lahkunud määratud elukohast või teisest Schengeni konventsiooni või Euroopa Liidu liikmesriigist;\n10) välismaalase lahkumiskohustus on kohtulahendiga pööratud sundtäitmisele."
+    },
+    {
+      "provision_ref": "para6^9",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6^9",
+      "title": "§ 6^9. Esialgse õiguskaitse kohaldamine massilisest sisserändest põhjustatud hädaolukorras",
+      "content": "(1) Massilisest sisserändest põhjustatud hädaolukorras võib kohus peatada ebaseaduslikult välispiiri ületanud välismaalase väljasaatmise või lahkumisettekirjutuse täitmise, kuni halduskohus on otsusega jätnud välismaalase esitatud kaebuse rahuldamata.\n(2) Kohus võib esialgse õiguskaitse kohaldamisel teha samas määruses otsuse välismaalasele riigi õigusabi andmise kohta, arvestades käesoleva seaduse § 6^6 lõiget 3."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "7",
+      "title": "§ 7. Lahkumisettekirjutus",
+      "content": "(1) Viibimisaluseta Eestis viibivale välismaalasele tehakse ettekirjutus Eestist lahkumiseks (edaspidi lahkumisettekirjutus ). Lahkumisettekirjutus tehakse lahkumiseks käesoleva seaduse §-s 17 nimetatud vastuvõtvasse riiki.\n(1^1) Kui lahkumisettekirjutus tehakse lahkumiseks kolmandasse riiki, peab välismaalane lahkuma lisaks Eestile teisest Schengeni konventsiooni või Euroopa Liidu liikmesriigist.\n(2) Lahkumisettekirjutusega tehakse kindlaks, et välismaalane viibib Eestis ebaseaduslikult, pannakse välismaalasele kohustus Eestist lahkuda, määratakse lahkumiskohustuse vabatahtliku täitmise tähtaeg, tehakse hoiatus välismaalase suhtes sunniraha rakendamise kohta lahkumisettekirjutuse täitmata jätmise korral, tehakse hoiatus lahkumiskohustuse sundtäitmise kohta ja vajaduse korral kohaldatakse välismaalase suhtes sissesõidukeeldu.\n(3) Lahkumisettekirjutusega võib lahkumiskohustuse täitmise tagamiseks kohaldada järelevalvemeetmeid.\n(4) Lahkumisettekirjutuses tehtud hoiatuses välismaalase suhtes sunniraha rakendamise kohta märgitakse nõutav sunniraha suurus. Sunniraha ülemmäär on 640 eurot.\n(5) Kui lahkumisettekirjutus tehakse välismaalasele, kes töötas Eestis ilma seadusliku aluseta, teavitab Politsei- ja Piirivalveamet teda välismaalaste seaduse §-s 286^1 sätestatud tööandja kohustustest ning töövaidluse lahendamise ja riigi õigusabi saamise võimalustest."
+    },
+    {
+      "provision_ref": "para7^1",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "7^1",
+      "title": "§ 7^1. Lahkumisettekirjutuse põhjendamine",
+      "content": "(1) Lahkumisettekirjutuse ja selles kohaldatava sissesõidukeelu aluseks olevaid põhjendusi, sealhulgas menetluses kogutud andmeid ja tõendeid, ei avalikustata, sealhulgas andmesubjektile, ulatuses, mis on vastuolus käesoleva seaduse § 33^6 lõikes 3 sätestatud eesmärkidega.\n(2) Politsei- ja Piirivalveamet tagab välismaalase taotlusel lahkumisettekirjutuse tõlke keelde, millest välismaalane aru saab või kõigi eelduste kohaselt on võimeline aru saama.\n(3)\n(4)\n(5)\n(6)\n(7)"
+    },
+    {
+      "provision_ref": "para7^2",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "7^2",
+      "title": "§ 7^2. Lahkumiskohustuse täitmise tähtaja määramine",
+      "content": "(1) Lahkumiskohustuse vabatahtliku täitmise tähtaeg on lahkumisettekirjutuses määratud tähtpäev, mille saabumise ajaks on välismaalane kohustatud Eestist lahkuma käesoleva seaduse § 17 lõikes 1 sätestatud vastuvõtvasse riiki.\n(1^1) Lahkumisettekirjutuses määratakse lahkumiskohustuse vabatahtliku täitmise tähtaeg.\n(2) Lahkumiskohustuse vabatahtliku täitmise tähtaja võib jätta määramata ja lahkumisettekirjutuse kohe sundtäita, kui:\n1) esineb välismaalase põgenemise oht;\n2) välismaalasele ei anta elamisluba või rahvusvahelist kaitset seetõttu, et elamisloa või rahvusvahelise kaitse saamise taotlus on põhjendamatu;\n3) välismaalane on esitanud elamisloa või rahvusvahelise kaitse saamise menetluses valeandmeid või võltsitud dokumente menetluses tähtsust omavate asjaolude kohta;\n4) välismaalane kujutab ohtu avalikule korrale või riigi julgeolekule;\n5) välismaalase kohta on tehtud käesoleva seaduse § 28^2 lõikes 1 või 1^1 sätestatud riiki mittelubamise otsus;\n6) lahkumisettekirjutus tehakse välismaalasele, kes on kinni peetud Eesti välispiiri ebaseadusliku ületamise tõttu ning kes ei ole saanud luba või õigust Eestis viibida;\n7) välismaalasel on kohustus lahkuda Eestist pärast vanglast vabanemist.\n(3) Lahkumisettekirjutuse tegemisel arvestatakse igal üksikjuhtumil kõiki olulisi asjaolusid ja kaalutakse põhjendatud huve.\n(4) Lahkumisettekirjutusega määratakse lahkumiskohustuse vabatahtliku täitmise tähtaeg ajavahemikus 7 kuni 30 päeva.\n(5) Lahkumisettekirjutuses sätestatud vabatahtliku lahkumiskohustuse tähtaega võib pikendada kuni 30 päeva võrra korraga, kui välismaalase jaoks osutub ebaproportsionaalselt koormavaks lahkumisettekirjutuse täitmine lahkumisettekirjutuses sätestatud tähtaja jooksul, võttes arvesse:\n1) välismaalase Eestis viibimise kestust;\n2) mõju koolis õppivale lapsele;\n3) välismaalase perekondlikke ja sotsiaalseid sidemeid Eestis ja\n4) muid tähtsust omavaid asjaolusid.\n(6) Kui lahkumisettekirjutusega on määratud vabatahtliku lahkumise tähtaeg, võib vabatahtliku lahkumise tähtaega lühendada ja lahkumiskohustuse sundtäita enne vabatahtliku lahkumise tähtaja lõppemist, kui:\n1) esineb välismaalase põgenemise oht;\n2) välismaalasele ei anta elamisluba või rahvusvahelist kaitset seetõttu, et elamisloa või rahvusvahelise kaitse saamise taotlus on põhjendamatu;\n3) välismaalane on elamisloa või rahvusvahelise kaitse saamise menetluses esitanud valeandmeid või võltsitud dokumente menetluses tähtsust omavate asjaolude kohta või\n4) välismaalane kujutab endast ohtu avalikule korrale või riigi julgeolekule.\n(7) Lahkumisettekirjutuse vabatahtliku lahkumise tähtaja pikendamise, pikendamisest keeldumise või lühendamise otsuse või lahkumisettekirjutusega kohaldatud sissesõidukeelu või selle kehtivusaja muutmise vaidlustamine ei lükka välismaalase lahkumiskohustuse sundtäitmise tähtaega edasi ega anna välismaalasele seaduslikku alust Eestis viibimiseks."
+    },
+    {
+      "provision_ref": "para7^3",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "7^3",
+      "title": "§ 7^3. Lahkumiskohustuse sundtäitmine",
+      "content": "(1) Pärast lahkumisettekirjutusega määratud lahkumiskohustuse täitmise tähtaja saabumist võib välismaalase lahkumiskohustuse igal ajal sundtäita.\n(2) Välismaalase lahkumiskohustus sundtäidetakse tema kinnipidamise ja Eestist väljasaatmise teel.\n(3) Välismaalase väljasaatmisel koostab sundtäitmist korraldav haldusorgan sundtäitmise toimingu protokolli.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud sundtäitmise toimingu protokollis esitatavate andmete loetelu kehtestab valdkonna eest vastutav minister määrusega.\n(5) Sundtäitmise toimingu protokolli ei koostata, kui välismaalasele ei ole käesoleva seaduse § 7^2 lõike 2 kohaselt määratud vabatahtliku lahkumise tähtaega või välismaalasele määratud vabatahtliku lahkumise tähtaega on lühendatud käesoleva seaduse § 7^2 lõike 6 alusel.\n(6)"
+    },
+    {
+      "provision_ref": "para7^4",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "7^4",
+      "title": "§ 7^4. Lahkumisettekirjutuses kohaldatava sissesõidukeelu kehtivusaja ja kohaldamisala määramine ja lahkumisettekirjutuses sissesõidukeelu kohaldamata jätmine",
+      "content": "(1) Lahkumisettekirjutuses kohaldatakse välismaalase suhtes sissesõidukeeldu kolmeks aastaks lahkumisettekirjutuse täitmise päevast arvates.\n(2) Kui välismaalasele ei anta vabatahtliku lahkumise tähtaega, kohaldatakse lahkumisettekirjutuses välismaalase suhtes sissesõidukeeldu viieks aastaks, välja arvatud juhul, kui välismaalasel on kehtiv sissesõidukeeld kauemaks kui viieks aastaks lahkumisettekirjutuse tegemise päevast arvates.\n(3) Kui sissesõidukeelu kohaldamise tähtaeg on kõiki tähtsust omavaid asjaolusid arvestades ebaproportsionaalne, võib lahkumisettekirjutuses kohaldada sissesõidukeeldu lühemaks ajaks.\n(4) Sissesõidukeelu võib humaansetel kaalutlustel jätta kohaldamata.\n(4^1) Välismaalase suhtes, kes ei ole Euroopa Liidu, Euroopa Majanduspiirkonna liikmesriigi ega Šveitsi Konföderatsiooni kodanik või tema perekonnaliige, kohaldatakse Schengeni sissesõidukeeldu.\n(4^2) Politsei- ja Piirivalveamet või Kaitsepolitseiamet piirab lahkumisettekirjutuses välismaalase suhtes kohaldatud sissesõidukeelu kehtivust Eesti Vabariigi territooriumiga, kui välismaalase vastuvõtvaks riigiks on Schengeni konventsiooni või Euroopa Liidu liikmesriik.\n(5)\n(6)\n(7)\n(8)"
+    },
+    {
+      "provision_ref": "para7^5",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "7^5",
+      "title": "§ 7^5. Sissesõidukeelu kehtivusaja muutmine",
+      "content": "(1) Lahkumisettekirjutusega kohaldatud sissesõidukeelu kehtetuks tunnistamise, selle kehtivusaja muutmise ja peatamise suhtes kohaldatakse käesoleva seaduse 5. peatükis sätestatut.\n(2) Välismaalane, kes taotleb Schengeni sissesõidukeelu kehtetuks tunnistamist või peatamist asjaolu tõttu, et ta on lahkunud Schengeni konventsiooni ja Euroopa Liidu liikmesriigi territooriumilt lahkumisettekirjutuses määratud lahkumiskohustuse vabatahtliku täitmise tähtaja jooksul, esitab Politsei- ja Piirivalveametile taotluse ja tõendid selle kohta, et ta on lahkunud Schengeni konventsiooni ja Euroopa Liidu liikmesriigi territooriumilt lahkumisettekirjutuses määratud lahkumiskohustuse vabatahtliku täitmise tähtaja jooksul.\n(3) Politsei- ja Piirivalveamet edastab käesoleva paragrahvi lõikes 2 nimetatud taotluse ja asjassepuutuvad tõendid Schengeni sissesõidukeelu kehtetuks tunnistamise või peatamise otsuse tegemiseks Siseministeeriumile.\n(4) Kui esineb käesoleva paragrahvi lõikes 2 nimetatud taotluse läbi vaatamata jätmise alus, võib Politsei- ja Piirivalveamet jätta taotluse läbi vaatamata."
+    },
+    {
+      "provision_ref": "para7^6",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "7^6",
+      "title": "§ 7^6. Lahkumisettekirjutuse tegemise erisused",
+      "content": "(1)\n(2) Inimkaubandusega seotud kuriteos kannatanule või tunnistajale, kellele on nõukogu direktiivi 2004/81/EÜ kohaselt antud tähtajaline elamisluba, kohaldatakse lahkumisettekirjutusega sissesõidukeeldu üksnes juhul, kui välismaalane kujutab endast ohtu avalikule korrale või riigi julgeolekule.\n(3) Välismaalast, kellel on seaduslik alus Schengeni konventsiooni või Euroopa Liidu liikmesriigis elamiseks või ajutiseks viibimiseks, kohustatakse lahkuma sellesse riiki. Kui välismaalane seda kohustust ei täida või välismaalase väljasaatmine on avaliku korra või riigi julgeoleku huvides, tehakse talle ettekirjutus lahkuda Eestist käesoleva seaduse § 17 lõikes 1 sätestatud vastuvõtvasse riiki."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "9",
+      "title": "§ 9. Seadustamisettekirjutus",
+      "content": "(1) Ettekirjutus kohustusega taotleda kehtestatud korras elamisluba Eestis viibimise seadustamiseks (edaspidi seadustamisettekirjutus ) tehakse Eestis viibimisaluseta viibivale välismaalasele, kes:\n1)\n2) on eesti rahvusest;\n3) on asunud Eestisse elama enne 1990. aasta 1. juulit ega ole siit lahkunud elama mõnda teise riiki ning kelle jätkuv Eestis viibimine ei kahjusta Eesti riigi huve.\n(2) Seadustamisettekirjutuses tehakse ettekirjutuse täitmata jätmise korral hoiatus välismaalase suhtes sunniraha rakendamise kohta. Hoiatuses märgitakse nõutav sunniraha suurus. Sunniraha ülemmäär on 640 eurot.\n(3) Seadustamisettekirjutus loetakse täidetuks ka juhul, kui välismaalane Eestist lahkub.\n(4) Käesoleva paragrahvi lõikes 1 nimetatud välismaalasele, kelle elamisloa või selle pikendamise taotlus on menetluses, seadustamisettekirjutust ei tehta kuni tema elamisloa või selle pikendamise taotluse suhtes otsuse tegemiseni.\n(5) Seadustamisettekirjutust ei pea tegema välismaalasele, kes lahkub Eestist 7 päeva jooksul pärast viibimisaluse lõppemist.\n(6) Käesoleva paragrahvi lõike 1 punktis 3 nimetatud välismaalasele tehakse lahkumisettekirjutus, kui see on vajalik avaliku korra, riigi julgeoleku, rahva tervise või kõlbluse kaitse tagamiseks või kuriteo ärahoidmiseks või kui talle keeldutakse elamisloa andmisest või selle pikendamisest või tema elamisluba tunnistatakse kehtetuks. Käesoleva paragrahvi lõike 1 punktis 2 nimetatud välismaalasele tehakse lahkumisettekirjutus, kui see on vajalik riigi julgeoleku kaitsmiseks või kuriteo ärahoidmiseks."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "10",
+      "title": "§ 10. Ettekirjutuse täitmise tagamine",
+      "content": "(1) Põgenemisohu vältimiseks võib Politsei- ja Piirivalveamet kohustada välismaalast ettekirjutuses või otsusega järgima järelevalvemeetmeid ning tasuma sunniraha.\n(2) Järelevalvemeetmed on:\n1) elamine kindlaksmääratud elukohas;\n2) ilmumine määratud ajavahemike järel Politsei- ja Piirivalveametisse registreerimisele;\n3) ilmumine Politsei- ja Piirivalveametisse ettekirjutuse täitmist tagavate asjaolude selgitamisele;\n3^1) ilmumine nõustamisele;\n4) Politsei- ja Piirivalveameti teavitamine oma elukohavahetusest või elukohast pikemast eemalviibimisest;\n5) Politsei- ja Piirivalveameti teavitamine perekonnaseisu muutumisest;\n6) välisriigi reisidokumendi või isikut tõendava dokumendi Politsei- ja Piirivalveametile või Kaitsepolitseiametile hoiule andmine.\n(3) Politsei- ja Piirivalveametil ning Kaitsepolitseiametil on õigus kontrollida välismaalase elamist kindlaksmääratud elukohas.\n(3^1) Välisriigi reisidokumendi ja isikut tõendava dokumendi hoiule andmise korral väljastab dokumendi hoiule võtnud asutus isikule tõendi dokumendi hoiule andmise kohta.\n(3^2)\n(4) Sunniraha rakendatakse alates 90. päevast ettekirjutuse tegemise päevast arvates.\n(5) Sunniraha rakendatakse asendustäitmise ja sunniraha seaduses sätestatud korras, kui käesolev seadus ei sätesta teisiti. Sunniraha võib korduvalt rakendada alates 90. päevast pärast eelmise sunniraha rakendamiseks antud täitekorralduse tegemise päeva.\n(6)"
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "11",
+      "title": "§ 11. Ettekirjutuse tegemise kord",
+      "content": "(1) Ettekirjutuse teeb Politsei- ja Piirivalveamet või Kaitsepolitseiamet.\n(2)\n(3)\n(3^1) Välismaalasele, kellele keeldutakse elamisluba, elamisõigust või pikaajalist viisat andmast või pikendamast, kelle elamisluba tunnistatakse kehtetuks, kelle elamisõigus lõpetatakse, kelle pikaajaline viisa tühistatakse või tunnistatakse kehtetuks või kelle viibimisaeg lõpetatakse ennetähtaegselt, võib teha lahkumisettekirjutuse vastavalt elamisloa, elamisõiguse või pikaajalise viisa andmisest või pikendamisest keeldumise, elamisloa kehtetuks tunnistamise, elamisõiguse lõpetamise, pikaajalise viisa tühistamise või kehtetuks tunnistamise või viibimisaja ennetähtaegse lõpetamise otsuses, kui välismaalasel ei ole kehtivat lahkumisettekirjutust.\n(3^2)\n(4)\n(5)\n(6)\n(7) Käesoleva paragrahvi lõikes 3^1 nimetatud juhul loetakse ettekirjutus välismaalasele kättetoimetatuks elamisloa, elamisõiguse või pikaajalise viisa andmisest või pikendamisest keeldumise, elamisloa kehtetuks tunnistamise, elamisõiguse lõpetamise, pikaajalise viisa tühistamise või kehtetuks tunnistamise või viibimisaja ennetähtaegse lõpetamise otsuse teatavakstegemisega.\n(8)\n(9) Käesoleva seaduse § 10 lõikes 1 nimetatud otsuse tegemisel kohaldatakse käesoleva paragrahvi lõigetes 1–6 sätestatut."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "12",
+      "title": "§ 12. Ettekirjutuse tegemine alaealisele",
+      "content": "(1) Alaealisele või piiratud teovõimega täisealisele välismaalasele tehtud ettekirjutuse täitmise korraldab temaga Eestis koos viibiv vanem, eestkostja või muu vastutav täisealine isik.\n(2) Eeldatakse, et alaealise või piiratud teovõimega täisealise välismaalasega Eestis koos viibival vanemal, eestkostjal või muul vastutaval täisealisel isikul on isikuhooldusõigus. Politsei- ja Piirivalveameti või Kaitsepolitseiameti nõudmisel on vanem, eestkostja või muu vastutav täisealine isik kohustatud tõendama isikuhooldusõiguse olemasolu.\n(3) Saatjata alaealisele välismaalasele tehakse lahkumisettekirjutus, kui lahkumisettekirjutuse tegemisel on tagatud saatjata alaealise välismaalase esindamine ning võetud arvesse saatjata alaealise välismaalase huve.\n(4) Saatjata alaealise välismaalase lahkumiskohustuse vabatahtliku täitmise tähtaeg jäetakse määramata, arvestades käesoleva paragrahvi lõikes 5 sätestatut.\n(5) Saatjata alaealise välismaalase lahkumiskohustus täidetakse, arvestades saatjata alaealise välismaalase huve ning kui eestkostja on veendunud, et saatjata alaealine välismaalane saadetakse tagasi tema perekonnaliikme või määratud eestkostja juurde või vastuvõtva riigi vastuvõtuasutusse.\n(6) Saatjata alaealise ja piiratud teovõimega täisealise välismaalase ettekirjutuse täitmist korraldab eestkostja.\n(7) Politsei- ja Piirivalveamet annab eestkostjale saatjata alaealise välismaalase lahkumiskohustuse täitmiseks halduskoostöö seaduses sätestatud korras ametiabi.\n(8) Politsei- ja Piirivalveamet või Kaitsepolitseiamet korraldab saatjata alaealise välismaalase perekonnaliikme, talle vastuvõtvas riigis määratud eestkostja või vastuvõtuasutuse otsimise.\n(9) Saatjata alaealisele välismaalasele osutab tema Eestis viibimise ajal Sotsiaalkindlustusamet asendushooldusteenust, mis hõlmab vähemalt rahvusvahelise kaitse andmise seaduse § 32 lõikes 1 sätestatud teenuseid."
+    },
+    {
+      "provision_ref": "para12^1",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "12^1",
+      "title": "§ 12^1. Alaealise vanuse määramine",
+      "content": "(1) Kui Politsei- ja Piirivalveametil või Kaitsepolitseiametil tekib põhjendatud kahtlus välismaalase vanuse kohta esitatud andmete õigsuses, võidakse välismaalase või tema seadusliku esindaja nõusolekul teha meditsiinilised uuringud välismaalase vanuse kindlaksmääramiseks.\n(2) Kui välismaalane keeldub meditsiinilistest uuringutest vanuse kindlaksmääramiseks, loeb Politsei- ja Piirivalveamet või Kaitsepolitseiamet isiku täisealiseks, välja arvatud juhul, kui isik on ilmselgelt alaealine.\n(3) Politsei- ja Piirivalveamet või Kaitsepolitseiamet teavitab välismaalast ja tema seaduslikku esindajat Eestis käesoleva paragrahvi lõikes 1 nimetatud meditsiinilistest uuringutest, nende teostamise viisist ning kaasneda võivatest tagajärgedest, kui välismaalane keeldub meditsiinilistest uuringutest.\n(4) Välismaalase käsitlemise alaealisena või täisealisena otsustab Politsei- ja Piirivalveamet või Kaitsepolitseiamet.\n(5) Vanuse kindlaksmääramise otsus on vaidlustatav üksnes koos haldusaktiga või sooritatud toiminguga, mille menetluse käigus vanuse kindlaksmääramise otsus tehti."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "13",
+      "title": "§ 13. Ettekirjutuse kehtivus ja vaidlustamine",
+      "content": "(1) Ettekirjutus kehtib ettekirjutuse teatavaks tegemise päevast kuni ettekirjutuses välismaalasele pandud kohustuse täitmiseni või Eestis viibimisaluse saamiseni.\n(2) Kui on tõendatud, et välismaalasele on antud Eestis viibimiseks seaduslik alus, kaotab ettekirjutus kehtivuse.\n(3) Ettekirjutuse tegemise, ettekirjutuse täitmise tagamiseks tehtud otsuse või ettekirjutusega kohaldatud sissesõidukeelu või selle kehtivusaja muutmise otsuse peale võib välismaalane halduskohtumenetluse seadustikus sätestatud korras esitada halduskohtule kaebuse kümne päeva jooksul ettekirjutuse või otsuse teatavaks tegemise päevast arvates. Nimetatud ettekirjutust ega selles sisalduvaid otsuseid ei saa vaidlustada vaidemenetluse korras, välja arvatud juhul, kui välismaalaste seaduse alusel vaidlustatakse käesoleva seaduse § 11 lõikes 3^1 nimetatud otsust.\n(4) Käesoleva seaduse § 11 lõikes 3^1 nimetatud otsust ei saa vaidlustada vaidemenetluse korras, kui ettekirjutus ja ettekirjutusega kohaldatud sissesõidukeeld on tehtud hädaolukorras või eriolukorras."
+    },
+    {
+      "provision_ref": "para13^2",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "13^2",
+      "title": "§ 13^2. Välismaalase majutamine",
+      "content": "Kui Eestis viibimisaluseta viibival välismaalasel puuduvad piisavad rahalised vahendid, võib Politsei- ja Piirivalveamet või Kaitsepolitseiamet korraldada välismaalase majutamise, kui see on vajalik humaansetel kaalutlustel või haavatava isiku kaitseks ja kui välismaalane ei saa kasutada majutusvõimalust mujal."
+    },
+    {
+      "provision_ref": "para13^3",
+      "chapter": "2. peatükk - ETTEKIRJUTUS",
+      "section": "13^3",
+      "title": "§ 13^3. Rahvusvaheline koostöö",
+      "content": "(1) Politsei- ja Piirivalveamet võib käesolevas seaduses sätestatud ülesannete täitmiseks taotleda abi Euroopa Piiri- ja Rannikuvalve Ametilt Euroopa Parlamendi ja nõukogu määruses (EL) 2016/1624, mis käsitleb Euroopa piiri- ja rannikuvalvet ning millega muudetakse Euroopa Parlamendi ja nõukogu määrust (EL) 2016/399 ning tunnistatakse kehtetuks Euroopa Parlamendi ja nõukogu määrus (EÜ) nr 863/2007, nõukogu määrus (EÜ) nr 2007/2004 ning nõukogu otsus 2005/267/EÜ (ELT L 251, 16.09.2016, lk 1–76), sätestatud alustel ja korras.\n(2) Euroopa Piiri- ja Rannikuvalve Ameti lähetatud ametnikul ei ole õigust teha lahkumisettekirjutust, muuta lahkumisettekirjutuses määratud lahkumiskohustuse tähtaega, kohustada välismaalast järgima järelevalvemeetmeid, peatada väljasaatmist või jätta väljasaatmine kohaldamata.\n(3) Euroopa Piiri- ja Rannikuvalve Ameti lähetatud ametnik võib rakendada riikliku järelevalve meetmeid ja vahetut sundi käesolevas seaduses sätestatud alustel ja korras, kui välislepingust või Euroopa Liidu õigusaktist ei tulene teisiti.\n(4) Välislepingu või Euroopa Liidu õigusakti alusel võib Politsei- ja Piirivalveameti kaasata riigis seadusliku aluseta viibiva välismaalase lahkuma kohustamise menetlusse teise riigi territooriumil. Politsei- ja Piirivalveametil on teise riigi territooriumil pädevus ja volitused välislepingu või Euroopa Liidu õigusakti kohaselt."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "14",
+      "title": "§ 14. Väljasaatmise alused",
+      "content": "(1) Välismaalane saadetakse Eestist välja lahkumisettekirjutuse sundtäitmise tähtaja saabumisel.\n(2) Välismaalane, kelle suhtes on Schengeni konventsiooni või Euroopa Liidu liikmesriik teinud otsuse, millega kohustatakse välismaalast lahkuma kolmandasse riiki, ja see otsus on kehtiv ning vabatahtliku lahkumise tähtaeg on lõppenud, saadetakse Eestist välja lahkumisettekirjutust tegemata.\n(2^1) Välismaalane, kellele kohus on lisakaristusena mõistnud väljasaatmise või kelle lahkumiskohustus on kohtulahendiga pööratud sundtäitmisele, saadetakse riigist välja ilma lahkumisettekirjutust tegemata.\n(2^2) Lahkumisettekirjutuse võib jätta tegemata käesoleva paragrahvi lõikes 2 nimetatud välismaalase suhtes, kui tema vabatahtliku lahkumise tähtaeg ei ole lõppenud ning kui ei esine käesoleva seaduse § 7^2 lõikes 2 sätestatud lahkumisettekirjutuse sundtäitmise alust.\n(3)\n(3^1)\n(3^2)\n(3^3)\n(4) Väljasaatmist ei kohaldata, kui:\n1) ettekirjutus on tühistatud või kehtetuks tunnistatud või kehtivuse kaotanud;\n2) väljasaatmine on muutunud võimatuks;\n3) väljasaatmine on käesoleva seaduse kohaselt keelatud.\n4)\n(5) Väljasaatmine peatatakse:\n1) kui kohus peatab lahkumisettekirjutuse sundtäitmise;\n2)\n3) prokuratuuri ettepanekul välismaalaste seaduse §-s 205 nimetatud järelemõtlemisaja kestuseks. Prokuratuur või prokuratuuri korraldusel uurimisasutus teavitab isikut väljasaatmise peatamise võimalustest ja selle tingimustest;\n4) Politsei- ja Piirivalveameti otsusel, kui välismaalase Eestis ajutine viibimine on põhjendatud humaansete kaalutluste või vääramatu jõu tõttu.\n(6) Kui Eestis viibimisaluseta viibiva välismaalase väljasaatmine peatatakse, ei anna see välismaalasele seaduslikku alust Eestis või teises Schengeni konventsiooni või Euroopa Liidu liikmesriigis viibida või töötada.\n(7) Politsei- ja Piirivalveamet edastab andmed välismaalase väljasaatmise peatamise kohta Schengeni infosüsteemi viivitamata, arvestades käesolevas seaduses sätestatud erisusi."
+    },
+    {
+      "provision_ref": "para14^1",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "14^1",
+      "title": "§ 14^1. Dokumendi hoiule võtmine",
+      "content": "(1) Viibimisaluseta välismaalase reisidokumendi ja isikut tõendava dokumendi võib Politsei- ja Piirivalveamet või Kaitsepolitseiamet välismaalase Eestist lahkuma kohustamise menetluse läbiviimiseks või välismaalase lahkumiskohustuse täitmise tagamiseks hoiule võtta.\n(2) Dokumendi hoiule võtmisele kohaldatakse isikut tõendavate dokumentide seaduses sätestatut."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "15",
+      "title": "§ 15. Välismaalase kinnipidamine väljasõidukohustuse kindlakstegemiseks ja väljasõidukohustusega välismaalase kinnipidamine",
+      "content": "(1) Politsei- ja Piirivalveamet või Kaitsepolitseiamet võib välismaalast ilma halduskohtu loata kinni pidada kuni 48 tundi, et kontrollida välismaalase Eestisse saabumise ja Eestis viibimise seaduslikke aluseid.\n(2) Kinnipidamine peab olema kooskõlas proportsionaalsuse põhimõttega ning kinnipidamisel peab igal üksikjuhtumil arvestama välismaalasega seotud olulisi asjaolusid.\n(3) Politsei- ja Piirivalveamet või Kaitsepolitseiamet vabastab välismaalase viivitamata, kui kinnipidamise alus on ära langenud ja ei ole tekkinud muud kinnipidamise alust.\n(4) Halduskohtunik võib pikendada käesoleva paragrahvi lõikes 1 sätestatud tähtaega kuni kolme päeva võrra ja anda loa pidada välismaalast kinni nimetatud tähtaja vältel, kui objektiivse takistuse tõttu ei ole välismaalase suhtes võimalik teha vajalikke menetlustoiminguid, et kontrollida tema Eestisse saabumise ja Eestis viibimise seaduslikke aluseid.\n(4^1) Kui on kindlaks tehtud, et välismaalane viibib Eestis viibimisaluseta, võib Politsei- ja Piirivalveamet või Kaitsepolitseiamet ta kuni 48 tunniks kinni pidada, kui esineb käesoleva seaduse § 23 lõikes 1 sätestatud alus ja on täidetud sama paragrahvi lõike 1^1 tingimused.\n(4^2) Kui viibimisaluseta välismaalast on vaja käesoleva seaduse § 23 lõikes 1 sätestatud alusel ja sama paragrahvi lõike 1^1 tingimusi arvestades kinni pidada kauem kui 48 tundi, taotleb Politsei- ja Piirivalveamet või Kaitsepolitseiamet halduskohtult loa pidada välismaalast kinni kuni kaks kuud samas paragrahvis sätestatud korras.\n(5) Kui välismaalane esitab kinnipidamise ajal rahvusvahelise kaitse taotluse, peab Politsei- ja Piirivalveamet või Kaitsepolitseiamet ta kinni ja taotleb 48 tunni jooksul rahvusvahelise kaitse taotluse esitamisest arvates halduskohtult loa pidada välismaalast kinni kuni kaks kuud, kui esinevad välismaalasele rahvusvahelise kaitse andmise seaduse § 36^1 lõikes 2 sätestatud rahvusvahelise kaitse taotleja kinnipidamise alus ja sama paragrahvi lõikes 1 nimetatud põhimõtted.\n(6) Välismaalase kinnipidamine protokollitakse."
+    },
+    {
+      "provision_ref": "para15^2",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "15^2",
+      "title": "§ 15^2. Politsei- ja Piirivalveameti hinnang välismaalase lahkumise võimalikkuse kohta",
+      "content": "(1) Politsei- ja Piirivalveamet annab prokuratuuri või vangla taotlusel hinnangu Eesti Vabariigist lahkuda sooviva välismaalase vastuvõtvasse riiki tagasipöördumise võimalikkuse kohta.\n(2) Hinnangu andmisel võetakse muu hulgas arvesse järgmisi asjaolusid:\n1) välismaalasel on Eesti Vabariigist lahkumisel kehtiv reisidokument, mis võimaldab tal vastuvõtvasse riiki tagasi pöörduda;\n2) välismaalane on Politsei- ja Piirivalveametile esitanud taotluse Eestis väljastatud elamisloa kehtetuks tunnistamiseks;\n3) välismaalane on andnud kirjaliku nõusoleku Eesti Vabariigist lahkumise kohustuse võtmiseks koos sissesõidukeeluga viieks kuni kümneks aastaks."
+    },
+    {
+      "provision_ref": "para15^3",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "15^3",
+      "title": "§ 15^3. Kinnipidamistaotluse läbivaatamine",
+      "content": "(1) Välismaalase kinnipidamise otsustab halduskohus halduskohtumenetluse seadustiku haldustoiminguks loa andmise sätete järgi.\n(2) Kui kohtule on esitatud erakordselt suur hulk välismaalase kinnipidamise taotlusi ning kohus ei saa objektiivse takistuse tõttu kinnipidamistaotlust läbi vaadata halduskohtumenetluse seadustiku 27. peatüki alusel ja selles sätestatud korras või läbivaatamine on oluliselt raskendatud, võib kohus teha välismaalase kinnipidamise määruse kirjeldava ja põhjendava osata.\n(3) Kui välismaalane soovib vaidlustada kinnipidamist, mille kohus vormistas kirjeldava ja põhjendava osata määrusega, esitab kohus välismaalasele kirjeldava ja põhjendava osa esimesel võimalusel."
+    },
+    {
+      "provision_ref": "para15^4",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "15^4",
+      "title": "§ 15^4. Välismaalase kinnipidamine hädaolukorras",
+      "content": "(1) Massilisest sisserändest põhjustatud hädaolukorras võib välismaalase Eestist lahkumise korraldamise menetlustele kohaldada käesolevas paragrahvis sätestatud erisusi.\n(2) Välismaalase Eestisse saabumise ja Eestis viibimise seaduslike aluste kontrollimiseks võib Politsei- ja Piirivalveamet või Kaitsepolitseiamet välismaalast ilma halduskohtu loata kinni pidada kuni 48 tundi.\n(3) Politsei- ja Piirivalveamet või Kaitsepolitseiamet taotleb halduskohtult loa välismaalase kinnipidamiseks kuni seitsmeks päevaks, kui massilisest sisserändest põhjustatud hädaolukorras ei ole objektiivse takistuse tõttu võimalik välismaalase suhtes teha vajalikke menetlustoiminguid, et kontrollida tema Eestisse saabumise ja Eestis viibimise seaduslikke aluseid.\n(3^1) Välismaalase kinnipidamisel hädaolukorras dokumenteeritakse kinnipidamise protokollis vähemalt iga välismaalase nimi või nimed, kinnipidamise õiguslik ja faktiline alus ja põhjendus, kuupäev, kellaaeg ja koht ning protokolli teinud haldusorgani nimetus ja ametniku nimi.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud juhul esitab Politsei- ja Piirivalveamet või Kaitsepolitseiamet halduskohtule välismaalase kinnipidamise taotluse hiljemalt 24 tunni jooksul välismaalase kinnipidamisest arvates. Taotluses kirjeldatakse vähemalt massilise sisserände olulisi asjaolusid, loetletakse välismaalased ja nendega seotud menetlustoimingud, mille tegemine on takistatud, ning märgitakse menetlustoimingute läbiviimiseks vajalik aeg.\n(4^1) Kui on kindlaks tehtud, et välismaalane viibib Eestis viibimisaluseta, kohaldatakse tema kinnipidamisele käesoleva seaduse § 15 lõikeid 4^1 ja 4^2.\n(5)\n(6) Kinnipeetud välismaalasele tagatakse vähemalt järgmiste teenuste osutamine:\n1) majutamine;\n2) vajaduse korral tervisekontrolli tegemine ja vältimatu arstiabi andmine;\n3) toitlustamine;\n4) informeerimine tema õigustest ja kohustustest;\n5) vajaduse korral keeleabi andmine käesoleva seaduse alusel tehtavates menetlustoimingutes;\n6) vajaduse korral varustamine esmavajalike riietus- ja muude tarbeesemete ning isikliku hügieeni vahenditega;\n7) välismaalase soovi korral suhtlemine ja kokkusaamiste võimaldamine, kohaldades käesoleva seaduse §-s 26^10 sätestatut ulatuses, mis on hädaolukorras võimalik;\n8) riigi õigusabi andmine käesoleva seaduse §-s 6^6 sätestatu kohaselt.\n(7) Hädaolukorras võib välismaalast kinni pidada väljaspool kinnipidamiskeskust. Välismaalane paigutatakse väljaspoole kinnipidamiskeskust halduskohtu lahendi või kinnipidamise protokolli alusel.\n(8) Kui välismaalane paigutatakse vanglasse või arestimajja, eraldatakse ta vanglakaristust kandvatest kinnipeetavatest, eelvangistust kandvatest vahistatutest ja aresti kandvatest isikutest. Vanglasse või arestimajja paigutatud välismaalase kinnipidamisele kohaldatakse vangistusseaduses vanglas või arestimajas kinnipidamise kohta sätestatut, arvestades käesolevas paragrahvis sätestatud erisusi.\n(9) Hädaolukorras kinnipeetud perekonnaliikmed paigutatakse esimesel võimalusel kokku, välja arvatud juhul, kui perekonnaliikme eraldi kinnipidamine on vajalik teiste isikute, rahvastiku tervise, avaliku korra või riigi julgeoleku kaitseks. Perekonna privaatsus tagatakse võimalikult suurel määral.\n(10) Hädaolukorra lahendamist juhtiv asutus määrab erakorraliste meetmete kohaldamise alguse ja lõpu kuupäeva ning teavitab sellest viivitamata Euroopa Komisjoni."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "16",
+      "title": "§ 16. Väljasaatmise vaidlustamine",
+      "content": "(1) Väljasaatmise võib vaidlustada halduskohtumenetluse seadustikus sätestatud korras. Väljasaatmise vaidlustamine ei lükka kohtumenetluse ajaks väljasaatmist edasi.\n(2) Pärast ettekirjutuse, mille sundtäitmiseks väljasaatmist kohaldatakse, vaidlustamise tähtaja möödumist ei saa väljasaatmise vaidlustamisel tugineda ettekirjutuse õigusvastasusele."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "17",
+      "title": "§ 17. Vastuvõttev riik",
+      "content": "(1) Viibimisaluseta Eestis viibiv välismaalane on kohustatud lahkuma või ta saadetakse välja:\n1) tema kodakondsusjärgsesse riiki;\n2) transiidiriiki Euroopa Liidu või kahepoolse tagasivõtulepingu või muu kokkuleppe kohaselt või\n3) kolmandasse riiki tingimusel, et välismaalane soovib sinna lahkuda ja ta seal vastu võetakse.\n(2)\n(3) Väljasaadetav, kellel on seaduslik alus elamiseks või ajutiseks viibimiseks Schengeni konventsiooni või Euroopa Liidu liikmesriigis, saadetakse välja sellesse riiki.\n(4) Kui välismaalase teise Euroopa Liidu liikmesriigi väljastatud ettevõtjasisese üleviimise elamisluba tunnistatakse kehtetuks või see aegub ettevõtjasisese üleviimise tähtaja jooksul, võib välismaalase välja saata ettevõtjasiseselt üleviidud töötaja elamisloa väljastanud Euroopa Liidu liikmesriiki."
+    },
+    {
+      "provision_ref": "para17^1",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "17^1",
+      "title": "§ 17^1. Väljasaatmise keeld",
+      "content": "(1) Välismaalast ei tohi välja saata riiki, kuhu väljasaatmine võib välismaalase suhtes kaasa tuua inimõiguste ja põhivabaduste kaitse konventsiooni artiklis 3, ÜRO piinamise ning muude julmade, ebainimlike või inimväärikust alandavate kohtlemis- ja karistamisviiside vastase konventsiooni artiklis 3 nimetatud tagajärje või surmanuhtluse kohaldamise.\n(2) Välismaalase väljasaatmine peab olema kooskõlas ÜRO pagulasseisundi konventsiooni (koos 31. jaanuari 1967. aasta pagulasseisundi protokolliga) artiklitega 32 ja 33."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "18",
+      "title": "§ 18. Väljasaatmise tähtaeg",
+      "content": "(1) Väljasaatmine viiakse lõpule viivitamata pärast väljasaadetava kinnipidamist.\n(2)\n(3) Väljasaadetav, kes on kriminaalasjas kahtlustatav, süüdistatav või süüdimõistetu, saadetakse välja viivitamata pärast asja menetluse lõpetamist või kohtuotsuse jõustumist. Kohtuotsuse edasikaebamise korral saadetakse väljasaadetav välja viivitamata kaebuse tagastamisest või kõrgemalseisva kohtu otsuse jõustumisest arvates. Kuni menetluse lõpetamiseni või otsuse tegemiseni kohaldatakse väljasaadetava suhtes kriminaalmenetluse seadustikus sätestatud tõkendit või paigutatakse ta halduskohtuniku otsuse alusel kinnipidamiskeskusse.\n(4) Kui väljasaadetavat karistatakse aresti või vangistusega või kui väljasaatmisele kuulub välismaalane, kes kannab aresti või vangistust, viiakse väljasaatmine lõpule viivitamata pärast aresti või vangistuse ärakandmist.\n(5) Kui väljasaadetava karistuse võib täitmisele pöörata kriminaalmenetluse seadustiku § 245^2 lõike 2, § 416 lõike 6 või § 424^1 lõike 4 alusel, peatatakse tema väljasaatmine, kuni kohus teeb lahendi mõistetud karistuse täielikult või kandmata jäänud karistuse osa täitmise kohta."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "19",
+      "title": "§ 19. Välismaalase kinnipidamise tingimused",
+      "content": "(1) Käesoleva seaduse § 15 lõike 1 alusel võib välismaalast kinni pidada politsei ametiruumis, arestimajas, vangla nõusolekul vanglas või kinnipidamiskeskuses. Välismaalase kinnipidamisel:\n1) hoitakse eraldi meessoost ja naissoost kinnipeetavaid;\n2) eraldatakse välismaalane vanglakaristust kandvast kinnipeetavast, eelvangistust kandvast vahistatust ja aresti kandvast isikust;\n3) majutatakse kokku perekonnaliikmed.\n(2) Vanglasse ei paigutata perekonnaliikmeid ja haavatavaid isikuid.\n(3) Arestimajja või vanglasse paigutatud välismaalase kinnipidamisele kohaldatakse vangistusseaduses arestimajas või vanglas kinnipidamise kohta sätestatut. Arestimajja paigutatud välismaalane on kohustatud täitma arestimaja sisekorraeeskirja.\n(4) Välismaalase kinnipidamisel politsei ametiruumis, arestimajas või vanglas tagatakse talle vähemalt:\n1) tervisekontroll ja vältimatu arstiabi;\n2) toitlustamine;\n3) informeerimine tema õigustest ja kohustustest;\n4) vajaduse korral varustamine esmavajalike riietus- ja muude tarbeesemete ning isikliku hügieeni vahenditega."
+    },
+    {
+      "provision_ref": "para19^1",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "19^1",
+      "title": "§ 19^1. Turvakontroll ja läbivaatus välismaalase kinnipidamisel",
+      "content": "(1) Välismaalase kinnipidamisel tehakse välismaalase turvakontroll, vaadatakse läbi tema vallasasjad ja põhjendatud kahtluse korral ka välismaalane ise korrakaitseseaduses sätestatud korras. Seejuures on Politsei- ja Piirivalveametil õigus kohaldada vahetut sundi.\n(2) Turvakontrolli või läbivaatuse käigus leitud dokumendid, raha, väärtasjad ja keelatud asjad võetakse kinnipidamise ajaks hoiule.\n(3) Keelatud asjad on esemed ja ained, mida ei tohi tsiviilkäibes hoida või mis võivad ohustada välismaalast ennast või teisi isikuid või mille omamine ei ole lubatud politsei ametiruumi, politsei arestimaja või kinnipidamiskeskuse sisekorraeeskirjaga.\n(4) Hoiule võetud vallasasi müüakse või hävitatakse korrakaitseseaduses sätestatud alustel ja korras."
+    },
+    {
+      "provision_ref": "para19^2",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "19^2",
+      "title": "§ 19^2. Vahetu sunni kohaldamine",
+      "content": "Politsei- ja Piirivalveamet ning Kaitsepolitseiamet võivad käesolevas seaduses sätestatud ülesannete täitmisel kasutada vahetut sundi, erivahendit ja relva korrakaitseseaduses sätestatud alustel ja korras."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "20",
+      "title": "§ 20. Väljasaatmise toimingud piiripunktis",
+      "content": "(1) Piiripunktis kantakse väljasaadetava reisidokumenti märge piiriületuse kohta ning välismaalane suunatakse välisriiki või antakse üle vastuvõtva riigi esindajale.\n(2) Väljasaatmise toimingute tegemisel piiripunktis võib juures viibida Eesti Vabariigi ja vastuvõtva riigi piiriesindaja, Välisministeeriumi ametnik ning vastuvõtva riigi esindaja.\n(3) Kuriteo toimepanemises kahtlustatav või süüdimõistetud väljasaadetav antakse välisriigi taotlusel piiripunktis üle välislepingus sätestatud korras.\n(4) Väljasaadetava piiripunkti toimetamise korra ja väljasaatmist täideviivate valitsusasutuste pädevuse käesolevas seaduses sätestatud toimingute sooritamisel kehtestab valdkonna eest vastutav minister määrusega.\n(5) Väljasaatmise korraldamisel edastab Kaitsepolitseiamet Politsei- ja Piirivalveametile andmed välismaalase kohta, kelle suhtes väljasaatmist kohaldatakse.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud andmete loetelu ja andmete edastamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para20^2",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "20^2",
+      "title": "§ 20^2. Eesti Vabariigist lahkumise kohustuse võtnud välismaalase vastuvõtvasse riiki tagasipöördumise korraldamine",
+      "content": "(1) Politsei- ja Piirivalveamet korraldab selle välismaalase tagasipöördumise vastuvõtvasse riiki, kes viibib Eestis vahistuses või vangistuses või kelle vabadust on muul seaduslikul alusel piiratud ning kes on võtnud endale kohustuse Eesti Vabariigist lahkuda.\n(2) Eesti Vabariigist lahkumise kohustus viiakse täide välismaalase kinnipidamise ja väljasaatmise teel.\n(3) Politsei- ja Piirivalveamet teavitab viivitamata prokuratuuri, kui välismaalane ei täida Eesti Vabariigist lahkumise kohustust, talle on enne lahkumiskohustuse täitmist esitatud kahtlustus uue kuriteo toimepanemises või ta pöördub tagasi enne sissesõidukeelu kehtivusaja lõppu.\n(4) Välismaalane ei täida Eesti Vabariigist lahkumise kohustust eelkõige juhul, kui ta ei ole kohtulahendiga määratud tähtajaks lahkunud vastuvõtvasse riiki, kui tal puudub Eesti Vabariigist lahkumise kohustuse täideviimisel kehtiv reisidokument, ta takistab muul viisil lahkumiskohustuse täideviimist või kui vastuvõttev riik keeldub välismaalase tagasivõtmisest."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "21",
+      "title": "§ 21. Saatjata alaealise välismaalase väljasaatmine",
+      "content": "(1) Saatjata alaealise välismaalase võib välja saata, kui vastuvõtvas riigis on korraldatud alaealise eestkoste ning tagatud tema õiguste ja huvide kaitse.\n(2) Saatjata alaealise välismaalase väljasaatmine korraldatakse kooskõlastatult vastuvõtva ning vajaduse korral transiitriigi pädevate riigiasutustega."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "22",
+      "title": "§ 22. Väljasaadetava tagasivõtmine",
+      "content": "(1) Kui vastuvõttev riik keeldub väljasaadetavat vastu võtmast või väljasaadetava piiripunkti toimetamise ajal või piiripunktis selguvad muud väljasaatmise lõpuleviimist takistavad asjaolud, peetakse väljasaadetav halduskorras kinni kuni tema väljasaatmise lõpuleviimiseni või kinnipidamiskeskusse paigutamiseni, kuid mitte kauem kui 48 tundi.\n(2) Kui välismaalase kinnipidamiseks on halduskohus andnud loa, siis võib Politsei- ja Piirivalveamet või Kaitsepolitseiamet tema kinnipidamist väljasaatmise eesmärgil jätkata loas määratud kinnipidamise tähtaja lõpuni."
+    },
+    {
+      "provision_ref": "para22^2",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "22^2",
+      "title": "§ 22^2. Väljasaatmine õhuteed pidi",
+      "content": "Väljasaatmisel õhuteed pidi kasutatakse otselendu. Kui otselennu kasutamine ei ole mõistlik, võidakse väljasaatmisel õhuteed pidi taotleda läbisõitu Euroopa Liidu liikmesriigi rahvusvaheliseks lennuliikluseks avatud lennujaama kaudu (edaspidi läbisõit )."
+    },
+    {
+      "provision_ref": "para22^3",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "22^3",
+      "title": "§ 22^3. Läbisõidu taotlemine ja läbisõiduks loa saamine",
+      "content": "(1) Väljasaatmist korraldav valitsusasutus esitab lennujaama asukohajärgse riigi pädevale asutusele kirjaliku taotluse väljasaadetava saatjaga või saatjata läbisõiduks õhuteed pidi (edaspidi taotlus ).\n(2) Taotlus esitatakse vähemalt 48 tundi enne läbisõidu alustamist. Põhjendatud juhul võib taotluse esitada vähemalt 24 tundi enne läbisõidu alustamist.\n(3) Läbisõitu ei alustata enne loa saamist. Kui taotluse saanud riik ei ole 48 tunni jooksul taotluse esitamisest arvates vastanud, võib alustada läbisõitu, saates selle kohta vastava teate.\n(4) Väljasaatmist korraldav valitsusasutus võtab vajalikud abimeetmed, et tagada läbisõit võimalikult lühikese aja jooksul. Läbisõit võib kesta kuni 24 tundi.\n(5) Taotluse vormi õhuteed pidi läbisõiduks kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para22^4",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "22^4",
+      "title": "§ 22^4. Eestist läbisõidu taotlemine ja Eestist läbisõiduks loa andmine",
+      "content": "(1) Euroopa Liidu liikmesriigi pädeva asutuse taotlusel võidakse anda luba väljasaadetava Eestist läbisõiduks õhuteed pidi (edaspidi Eestist läbisõit ).\n(2) Eestist läbisõiduks esitab Euroopa Liidu liikmesriigi pädev asutus (edaspidi taotluse esitaja ) vormikohase taotluse valdkonna eest vastutava ministri poolt volitatud Siseministeeriumi valitsemisala asutusele (edaspidi volitatud asutus ).\n(3) Volitatud asutus otsustab Eestist läbisõiduks loa andmise 48 tunni jooksul taotluse saamisest arvates. Põhjendatud juhtudel võib tähtaega pikendada 48 tunni võrra. Tähtaja pikendamisest teatatakse viivitamata taotluse esitajale.\n(4) Enne Eestist läbisõiduks loa andmist on volitatud asutus kohustatud loa andmise kooskõlastama valdkonna eest vastutava ministri poolt määratud Siseministeeriumi valitsemisala asutustega. Eestist läbisõiduks luba ei anta, kui vähemalt üks määratud kooskõlastajatest loa andmist ei kooskõlasta.\n(5) Volitatud asutus teatab taotluse esitajale viivitamata Eestist läbisõiduks loa andmisest.\n(6) Valdkonna eest vastutav minister kehtestab määrusega Eestist läbisõiduks õhuteed pidi loa andmiseks volitatud asutuse, loa andmise kooskõlastamise korra ja Eestist läbisõiduks loa andmist kooskõlastavad Siseministeeriumi valitsemisala asutused."
+    },
+    {
+      "provision_ref": "para22^5",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "22^5",
+      "title": "§ 22^5. Eestist läbisõiduks loa andmisest keeldumine",
+      "content": "(1) Eestist läbisõiduks võidakse loa andmisest keelduda, kui:\n1) väljasaadetav on vastavalt Eesti õigusaktidele süüdistatavana vastutusele võetud või on tagaotsitav seoses kohtuotsuse täitmisega,\n2) läbisõit läbisõiduriigist või väljasaadetava vastuvõtmine sihtriigis ei ole võimalik,\n3) läbisõidul tuleb vahetada lennujaama Eesti territooriumil,\n4) taotlust ei ole taotluse saamise ajal praktilistel põhjustel võimalik täita või\n5) väljasaadetav ohustab Eesti avalikku korda, riigi julgeolekut, rahvusvahelisi suhteid või teiste isikute elu ja tervist.\n(2) Käesoleva paragrahvi lõike 1 punktis 4 sätestatud juhul teatab volitatud asutus taotluse esitajale viivitamata kuupäeva, millal Eestist läbisõiduks võidakse luba anda, kui ei esine muud käesoleva paragrahvi lõikes 1 sätestatud loa andmisest keeldumise alust.\n(3) Volitatud asutus võib Eestist läbisõiduks antud loa tühistada käesoleva paragrahvi lõikes 1 sätestatud loa andmisest keeldumise aluse ilmnemisel.\n(4) Volitatud asutus teatab taotluse esitajale viivitamata Eestist läbisõiduks loa andmisest keeldumisest või antud loa tühistamisest ning loa andmisest keeldumise või antud loa tühistamise põhjuse."
+    },
+    {
+      "provision_ref": "para22^6",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "22^6",
+      "title": "§ 22^6. Eestist läbisõit",
+      "content": "(1) Eestist läbisõit võib kesta kuni 24 tundi.\n(2) Kui vaatamata käesoleva paragrahvi lõikes 3 sätestatud abimeetmete rakendamisele ei ole võimalik Eestist läbisõitu lõpule viia, võib volitatud asutus taotluse esitaja palvel ja temaga konsulteerides rakendada kõiki vajalikke meetmeid läbisõidu jätkamiseks. Nimetatud juhul võib läbisõidu tähtaega pikendada 48 tunni võrra.\n(3) Eestist läbisõidu ajal rakendab volitatud asutus vajaduse korral järgmisi abimeetmeid:\n1) väljasaadetava vastuvõtmine õhusõiduki juures ja tema saatmine lennujaama piirides, eelkõige ümberistumisega lennule,\n2) erakorralise meditsiiniabi osutamine väljasaadetavale ja tema saatjale,\n3) väljasaadetava ja tema saatja ülalpidamine,\n4) saatjata läbisõidu korral väljasaadetava reisidokumendi vastuvõtmine, hoidmine ja edasiandmine lennuki kaptenile,\n5) saatjata läbisõidu korral taotluse esitaja teavitamine kohast ja ajast, mil väljasaadetav lahkub Eesti territooriumilt ja\n6) taotluse esitaja teavitamine läbisõidu käigus aset leidnud tõsistest vahejuhtumitest, mis ohustasid läbisõitu.\n(4) Käesoleva paragrahvi lõike 3 punktides 2 ja 3 sätestatud abimeetmete rakendamise kulud kannab taotluse esitaja. Käesoleva paragrahvi lõike 3 punktides 1 ja 4–6 sätestatud kulud kannab taotluse esitaja määral, mil need on tegelikud ja mõõdetavad.\n(5) Eestist läbisõidu abimeetmete rakendamise kulude loetelu, taotluse esitaja poolt kantavate kulude määrad ja kulude sissenõudmise korra kehtestab valdkonna eest vastutav minister määrusega.\n(6) Eestist läbisõidu tagamiseks võib:\n1) paigutada väljasaadetava volitatud asutuse ametiruumi ning\n2) kasutada väljasaadetava suhtes füüsilist jõudu ja enesekaitsevahendeid, et ennetada või peatada väljasaadetava katse avaldada läbisõidu ajal vastupanu."
+    },
+    {
+      "provision_ref": "para22^7",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "22^7",
+      "title": "§ 22^7. Väljasaadetava Eestist tagasisaatmine läbisõiduks taotluse esitanud riiki",
+      "content": "(1) Väljasaadetav saadetakse Eestist läbisõiduks taotluse esitanud riiki tagasi ning taotluse esitaja on kohustatud väljasaadetava viivitamata tagasi võtma, kui:\n1) läbisõiduks loa andmisest keelduti või antud luba tühistati käesoleva seaduse § 22^5 lõikes 1 sätestatud alusel,\n2) väljasaadetav sisenes läbisõidu ajal loata Eesti territooriumile,\n3) väljasaadetava väljasaatmine teise läbisõiduriiki või sihtriiki või minek ümberistumisega lennule ebaõnnestus või\n4) läbisõit õhuteed pidi ei olnud muudel põhjustel võimalik.\n(2) Väljasaadetava tagasisaatmisega tekkinud kulud kannab taotluse esitaja.\n(3) Tagasisaatmisega seotud kulude loetelu, kulude määrad ja kulude sissenõudmise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para22^8",
+      "chapter": "3. peatükk - VÄLJASÕIDUKOHUSTUSE KINDLAKSTEGEMINE, VÄLJASAATMISE TÄIDEVIIMINE JA EESTIST LÄBISÕIT",
+      "section": "22^8",
+      "title": "§ 22^8. Saatja väljasaatmisel õhuteed pidi ja Eestist läbisõidul",
+      "content": "(1) Väljasaatmine õhuteed pidi ja väljasaadetava Eestist läbisõit võib toimuda saatjaga või ilma.\n(2) Saatja käesoleva seaduse tähenduses on taotluse esitanud riigi esindaja, kes vastutab:\n1) väljasaadetava saatmise eest,\n2) väljasaadetava reisidokumendi hoidmise ja sihtriigi esindajale üleandmise eest ning\n3) väljasaadetava sihtriigi pädeva asutuse esindajale üleandmise eest.\n(3) Saatja esitab läbisõidul läbisõiduriigi nõudel isikut tõendava dokumendi ja läbisõiduloa või käesoleva seaduse § 22^3 lõikes 3 sätestatud teate.\n(4) Saatjal on keelatud kanda relva ning vormiriietust.\n(5) Saatjal on läbisõidu ajal õigus kasutada väljasaadetava suhtes füüsilist jõudu ja ohule vastavaid enesekaitsevahendeid kooskõlas läbisõiduriigis kehtivate õigusaktidega, kui väljasaadetav ei allu saatja seaduslikele korraldustele või osutab vastupanu või on küllaldaselt alust arvata, et ta võib põgeneda, tekitada kahju teisele isikule, iseendale või varale."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUSES KINNIPIDAMINE",
+      "section": "23",
+      "title": "§ 23. Kinnipidamiskeskusse paigutamine",
+      "content": "(1) Politsei- ja Piirivalveamet või Kaitsepolitseiamet taotleb halduskohtult loa pidada Eestis viibimisaluseta viibiv välismaalane kinni ja paigutada ta kinnipidamiskeskusesse kuni kaheks kuuks, kui käesolevas seaduses sätestatud järelevalvemeetmete kohaldamine ei taga välismaalase Eestist lahkuma kohustamise menetluse läbiviimise või lahkumiskohustuse täitmise tulemuslikkust. See on eelkõige lubatud juhul, kui:\n1) esineb välismaalase põgenemise oht;\n2) välismaalane ei täida kaasaaitamiskohustust või\n3) välismaalasel puuduvad tagasipöördumiseks vajalikud dokumendid või nende hankimine vastuvõtvast või transiidiriigist viibib.\n(1^1) Halduskohus annab loa välismaalase kinnipidamiseks kuni kaheks kuuks käesoleva paragrahvi lõikes 1 sätestatud alusel, kui käesolevas seaduses sätestatud järelevalvemeetmeid ei ole võimalik tõhusalt kohaldada. Kinnipidamine peab olema kooskõlas proportsionaalsuse põhimõttega ning kinnipidamisel peab igal üksikjuhtumil arvestama välismaalasega seotud olulisi asjaolusid.\n(2)\n(3)\n(4) Politsei- ja Piirivalveamet võib väljasaadetava paigutada politsei arestimajja või teise kinnipidamiskohta, kui väljasaadetava kinnipidamine kinnipidamiskeskuses ei ole võimalik kinnipeetavate arvu ettenägematu kasvu tõttu või see on vajalik turvalisuse või tervisekaitse kaalutlustel.\n(5) Käesoleva paragrahvi lõikes 4 sätestatud juhul peab tagama välismaalasele vähemalt järgmiste teenuste osutamise:\n1) tervisekontroll ja vajaliku tervishoiuteenuse kättesaadavus käesoleva seaduse § 26^9 lõikes 7 sätestatud ulatuses;\n2) toitlustamine;\n3) informeerimine tema õigustest ja kohustustest;\n4) vajaduse korral käesoleva seaduse alusel tehtavas menetlustoimingus keeleabi andmine;\n5) vajaduse korral varustamine esmavajalike riietus- ja muude tarbeesemete ning isikliku hügieeni vahenditega;\n6) välismaalase soovi korral suhtlemise ja kokkusaamise võimaldamine käesoleva seaduse §-s 26^10 nimetatud isikuga, kui ei esine nimetatud seaduses sätestatud alust kokkusaamine keelata.\n(6) Kui välismaalane paigutatakse vangla nõusolekul vanglasse või arestimajja, eraldatakse ta vanglakaristust kandvast kinnipeetavast, eelvangistust kandvast vahistatust ja aresti kandvast isikust. Vanglasse või arestimajja paigutatud välismaalase kinnipidamisele kohaldatakse vangistusseaduses vanglas või arestimajas kinnipidamise kohta sätestatut, arvestades käesolevas paragrahvis sätestatud erisusi.\n(7) Käesoleva paragrahvi lõikes 4 sätestatud juhul majutatakse perekonnaliikmed kokku. Alaealise välismaalase suhtes kohaldatakse käesoleva seaduse § 26^5 lõigetes 7 ja 8 sätestatut.\n(8) Kui Eestist lahkuma kohustamise menetluse tagamiseks on kinnipidamiskeskusesse paigutatud välismaalane, kellele ei ole tehtud lahkumisettekirjutust, kohaldatakse tema kinnipidamisele käesolevas seaduses väljasaadetava kinnipidamiskeskuses kinnipidamise kohta sätestatut."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUSES KINNIPIDAMINE",
+      "section": "24",
+      "title": "§ 24. Väljasaadetava vabastamine",
+      "content": "(1) Kui osutub võimalikuks kinnipidamiskeskuses viibiva välismaalase väljasaatmise täideviimine, vabastatakse välismaalane kinnipidamiskeskusest ning saadetakse käesolevas seaduses sätestatud korras välja väljasaatmist täideviiva asutuse taotluse alusel.\n(1^1) Kinnipidamiskeskuse juhataja vabastab väljasaadetava viivitamata, kui kinnipidamise alus on ära langenud, kinnipidamise tähtaeg on möödunud või väljasaatmine on perspektiivitu.\n(1^2)\n(2) Kui väljasaadetav võetakse kriminaalasjas kahtlustatava või süüdistatavana vahi alla, vabastatakse väljasaadetav kinnipidamiskeskusest vahi alla võtmise määruse alusel.\n(3) Ettekirjutuse tühistamise või kehtetuks tunnistamise või välismaalasele viibimisaluse andmise otsuse korral vabastatakse välismaalane kinnipidamiskeskusest ettekirjutuse tühistamise või kehtetuks tunnistamise või viibimisaluse andmise otsuse alusel.\n(4) Ettekirjutuse tühistamisest või kehtetuks tunnistamisest või Eestis viibimisaluse andmisest teavitab Politsei- ja Piirivalveamet kohe välismaalast.\n(5) Kinnipidamiskeskusest vabastamine ei anna väljasaadetavale seaduslikku alust Eestis viibida."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUSES KINNIPIDAMINE",
+      "section": "25",
+      "title": "§ 25. Kinnipidamiskeskuses kinnipidamise tähtaja pikendamine",
+      "content": "(1) Välismaalase lahkumiskohustuse täitmiseks pikendab halduskohus Politsei- ja Piirivalveameti taotlusel väljasaadetava kinnipidamiskeskuses kinnipidamise tähtaega kuni nelja kuu kaupa, kuid kõige kauem kuueks kuuks tema kinnipidamiskeskusesse paigutamise päevast arvates, kui esinevad käesoleva seaduse § 23 lõikes 1 sätestatud alus ja sama paragrahvi lõikes 1^1 nimetatud põhimõtted.\n(2) Kui väljasaadetav ei täida jätkuvalt kaasaaitamiskohustust või tagasipöördumiseks vajalike dokumentide hankimine vastuvõtvast või transiidiriigist viibib, pikendab halduskohus pärast käesoleva paragrahvi lõikes 1 sätestatud tähtaja möödumist Politsei- ja Piirivalveameti taotlusel väljasaadetava kinnipidamiskeskuses kinnipidamise tähtaega nelja kuu kaupa, kuid kõige kauem 18 kuuks tema kinnipidamiskeskusesse paigutamise päevast arvates.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatud väljasaadetava kinnipidamise tähtaja hulka ei arvata tema esitatud rahvusvahelise kaitse saamise taotluse menetlemise aega."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUSES KINNIPIDAMINE",
+      "section": "26",
+      "title": "§ 26. Otsuse tegemine",
+      "content": "(1) Väljasaadetava kinnipidamise ja kinnipidamise tähtaja pikendamise otsustab halduskohus halduskohtumenetluse seadustiku haldustoiminguks loa andmise sätete järgi.\n(2)"
+    },
+    {
+      "provision_ref": "para26^1",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^1",
+      "title": "§ 26^1. Kinnipidamiskeskus",
+      "content": "(1) Kinnipidamiskeskus on Politsei- ja Piirivalveameti struktuuriüksus, mille ülesanne on väljasaadetavate kinnipidamise otsuste täideviimine.\n(2) Kinnipidamiskeskus on valvatava piirdega ja selgelt nähtavate tähistega märgistatud territoorium, mis võimaldab pideva järelevalve väljasaadetavate üle.\n(3) Järelevalve väljasaadetavate üle korraldatakse viisil, mis tagab väljasaadetavate kinnipidamise, kinnipidamiskeskuse sisekorraeeskirjade täitmise ja turvalisuse kinnipidamiskeskuses.\n(4) Järelevalvet väljasaadetavate üle teostab Politsei- ja Piirivalveamet visuaalse ja elektroonilise jälgimise kaudu.\n(5) Väljasaadetaval on keelatud kinnipidamiskeskusest lahkuda järelevalveta ja ilma kinnipidamiskeskuse juhataja või tema poolt määratud ametniku loata."
+    },
+    {
+      "provision_ref": "para26^2",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^2",
+      "title": "§ 26^2. Kinnipidamiskeskusesse vastuvõtmine",
+      "content": "(1) Väljasaadetav võetakse kinnipidamiskeskusesse vastu kinnipidamise protokolli või halduskohtu otsuse ärakirja ja isikut tõendava dokumendi alusel, viimase puudumise korral isikusamasuse tuvastamise dokumendi alusel.\n(2) Kinnipidamiskeskusesse vastuvõtmisel annab välismaalase kinni pidanud asutus kinnipidamiskeskusele üle tema valduses olevad andmed ja dokumendid väljasaadetava kohta.\n(3) Väljasaadetava saabumisel kinnipidamiskeskusesse tehakse talle turvakontroll, vaadatakse läbi tema vallasasjad ja põhjendatud kahtluse korral ka väljasaadetav ise korrakaitseseaduses sätestatud korras. Seejuures on Politsei- ja Piirivalveametil õigus kohaldada vahetut sundi.\n(3^1) Väljasaadetav on kohustatud kinnipidamiskeskusesse saabumisel läbima tervisekontrolli.\n(4) Kinnipidamiskeskusesse paigutatud väljasaadetavat fotografeeritakse ja daktüloskopeeritakse käesoleva seaduse §-s 33^11 sätestatud korras, kui seda ei ole varem tehtud.\n(5) Väljasaadetava vastuvõtmisel kinnipidamiskeskusesse võtab kinnipidamiskeskus hoiule väljasaadetaval kaasas oleva sularaha, dokumendid ja isiklikud asjad, mille omamine ei ole kinnipidamiskeskuses lubatud, või hävitab viimased kinnipidamiskeskuse sisekorraeeskirjas sätestatud korras.\n(6) Väljasaadetava vastuvõtmisel kinnipidamiskeskusesse avatakse väljasaadetava isiklik toimik, kuhu kantakse tema kinnipidamiskeskusesse paigutamise aluseks olevad dokumendid ja andmed, tema kinni pidanud asutuselt kinnipidamiskeskusele üleantud dokumendid ja andmed, signaleetilised fotod, daktüloskoopiline kaart ning muud kinnipidamiskeskuse sisekorraeeskirjas määratud dokumendid ja andmed.\n(7) Kui väljasaadetav on saabunud kinnipidamiskeskusesse, selgitatakse talle temale arusaadavas keeles tema õigusi ja kohustusi ning tagatakse võimalus taotleda riigi õigusabi ja saada keeleabi.\n(8) Väljasaadetavale antakse kirjalik teave väljasaatmise täideviimist reguleerivate õigusaktide, kinnipidamiskeskuse sisekorraeeskirja ja kaebuste esitamise korra kohta."
+    },
+    {
+      "provision_ref": "para26^3",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^3",
+      "title": "§ 26^3. Kinnipidamiskeskusest ajutine eemalviibimine",
+      "content": "Väljasaadetav võib väljaspool kinnipidamiskeskust viibida kinnipidamiskeskuse juhataja või tema poolt määratud ametniku loal järelevalve all, kui see on vältimatult vajalik."
+    },
+    {
+      "provision_ref": "para26^4",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^4",
+      "title": "§ 26^4. Väljasaadetava kaasaaitamiskohustus",
+      "content": "(1) Väljasaadetav on kohustatud kaasa aitama väljasaatmise korraldamisele, sealhulgas:\n1) andma väljasaatmist täideviivatele valitsusasutustele suulisi ja kirjalikke andmeid ja seletusi;\n2) esitama kõik andmed ja dokumendid ning muud tema valduses olevad tõendid, mis omavad väljasaatmisemenetluses tähtsust;\n3) aitama kaasa väljasaatmiseks vajalike dokumentide muretsemisele;\n4) aitama kaasa oma isiku tuvastamiseks ja kontrollimiseks vajalike andmete kogumisele.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud kaasaaitamiskohustus laieneb väljasaatmismenetluses ka väljasaadetava esindajale."
+    },
+    {
+      "provision_ref": "para26^5",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^5",
+      "title": "§ 26^5. Väljasaadetavate majutamine",
+      "content": "(1) Väljasaadetavate majutamiseks on kinnipidamiskeskuses elamu tubadega.\n(2) Meessoost ja naissoost väljasaadetavad majutatakse eraldi tubadesse.\n(3) Perekonnaliikmed majutatakse kokku.\n(4) Alaealised majutatakse eraldi täisealistest väljasaadetavatest, välja arvatud juhul, kui see on ilmses vastuolus alaealise õiguste ja huvidega.\n(5) Väljasaadetava võib kinnipidamiskeskuse juhataja otsusel turvalisuse kaalutlustel ja kinnipidamiskeskuse sisekorraeeskirja täitmise tagamiseks majutada eraldi käesoleva paragrahvi lõigetes 2–4 nimetatud väljasaadetavatest.\n(6) Väljasaadetavate majutamiseks ettenähtud toad peavad vastama eluruumile kehtestatud ehitustehnilistele, tervisekaitse- ja hügieeninõuetele. Toas peab olema aken, mis kindlustab ruumis nõuetekohase valgustatuse.\n(7) Vaba aja veetmiseks korraldatakse alaealisele väljasaadetavale eakohased tegevused ja tagatakse selleks vajalikud vahendid.\n(8) Koolikohustuslikule väljasaadetavale tagatakse juurdepääs haridusele vastavalt põhikooli- ja gümnaasiumiseaduses sätestatud korrale."
+    },
+    {
+      "provision_ref": "para26^6",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^6",
+      "title": "§ 26^6. Kinnipidamiskeskuses kinnipidamise tingimused",
+      "content": "(1) Äratusest kuni öörahuni võib väljasaadetav liikuda kinnipidamiskeskuse elamus sisekorraeeskirjaga ettenähtud ruumides. Muudes ruumides ja kinnipidamiskeskuse territooriumil võib väljasaadetav viibida kinnipidamiskeskuse sisekorraeeskirjadega ettenähtud juhtudel ja ajal. Öörahust kuni äratuseni on väljasaadetav kohustatud viibima talle ettenähtud toas, mis vajadusel lukustatakse.\n(2) Väljasaadetav kannab isiklikke riideid. Kui väljasaadetaval kasutamiskõlblikud riided puuduvad, antakse väljasaadetavale kinnipidamiskeskuse poolt tasuta riietus. Väljasaadetav on kohustatud kandma riietusel nimesilti.\n(3) Väljasaadetav on kohustatud hoolitsema oma riietuse puhastuse, korrashoiu ja reeglipärase vahetuse eest.\n(4) Väljasaadetaval võimaldatakse rahuldada usulisi vajadusi, kui see ei ole vastuolus sisekorraeeskirjas sätestatuga."
+    },
+    {
+      "provision_ref": "para26^7",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^7",
+      "title": "§ 26^7. Väljasaadetava toitlustamine",
+      "content": "(1) Väljasaadetava toitlustamine korraldatakse rahvatervishoiu seaduse §-s 22 sätestatud ja selle alusel kehtestatud nõuete kohaselt ning kooskõlas üldiste toitumistavadega.\n(2)\n(3) Alaealiste toitlustamine korraldatakse nende east tulenevaid vajadusi arvestades.\n(4) Võimaluse korral lubatakse väljasaadetaval järgida oma religiooni toitumistavasid.\n(5) Kinnipidamiskeskuse toidukava koostamist ja toitlustamist jälgib isik, kes tagab tervishoiuteenuse osutamise kinnipidamiskeskuses."
+    },
+    {
+      "provision_ref": "para26^8",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^8",
+      "title": "§ 26^8. Väljasaadetava tervishoid",
+      "content": "(1) Väljasaadetav peab hoolitsema oma isikliku hügieeni eest. Vähemalt üks kord nädalas, samuti kinnipidamiskeskusesse vastuvõtmisel, võimaldatakse väljasaadetavale sauna, vanni või duši kasutamine. Kord kuus tagatakse väljasaadetavale juuksuriteenus.\n(2) Kui väljasaadetav ei hoolitse oma isikliku hügieeni eest vajalikul määral ja see on toonud kaasa reaalse ohu väljasaadetava või teiste isikute tervisele, võib hügieeninõuete täitmiseks kasutada väljasaadetava suhtes vahetut sundi.\n(3) Kinnipidamiskeskus annab väljasaadetavale isikliku hügieeni vahendid, kui väljasaadetaval need puuduvad ja tal ei ole rahalisi vahendeid nende soetamiseks."
+    },
+    {
+      "provision_ref": "para26^9",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^9",
+      "title": "§ 26^9. Väljasaadetavale arstiabi osutamine",
+      "content": "(1) Väljasaadetavale tagatakse tervisekontrolli ja vajalike tervishoiuteenuste kättesaadavus. Väljasaadetava tervisekontrolli ja talle vajalike tervishoiuteenuste osutamise korraldab Tervisekassa.\n(2) Väljasaadetava terviseseisundi jälgimiseks on kinnipidamiskeskuses alaline ravipunkt.\n(3) Tervishoiuteenuseid osutab kinnipidamiskeskuses perearsti kvalifikatsiooniga isik vastavalt haiglavälise eriarstiabi osutamist reguleerivatele sätetele.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud isik on kohustatud regulaarselt jälgima väljasaadetava terviseseisundit ja suunama väljasaadetava ravile, kui väljasaadetava terviseseisund ei võimalda kinnipidamist kinnipidamiskeskuses või tema Eestist väljasaatmist.\n(5)\n(6) Väljasaadetava ravikulud käesoleva paragrahvi lõikes 3 nimetatud isiku poolt osutatud hädavajalike teenuste ja ravi eest tasutakse riigieelarvest Tervisekassa kaudu.\n(7) Väljasaadetava tervisekontrolli ja talle osutatavate vajalike tervishoiuteenuste riigieelarvest rahastamise ulatuse ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para26^10",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^10",
+      "title": "§ 26^10. Väljasaadetavale kokkusaamiste võimaldamine",
+      "content": "(1) Väljasaadetaval võimaldatakse kokkusaamine:\n1) kodakondsusjärgse riigi konsulaartöötajaga;\n2) kaitsjaga;\n3) vaimulikuga;\n4) pädevate riigiasutuste, rahvusvaheliste või valitsusväliste organisatsioonide esindajatega.\n(2) Kinnipidamiskeskuse juhataja loal võib väljasaadetav kokku saada lühiajaliselt järelevalve all käesoleva paragrahvi lõikes 1 nimetamata isikutega isiklikes, õiguslikes või ärilistes huvides, mida väljasaadetav ei saa teostada kolmandate isikute kaudu, kui kohtumised ei takista väljasaatmise täideviimist. Väljasaadetaval lubatakse kokku saada ainult isikutega, kelle maine ja motiivide osas ei ole kinnipidamiskeskuse juhatajal põhjendatud kahtlusi.\n(3) Politsei- ja Piirivalveametil on õigus teostada väljasaadetavaga kokkusaamisele lubatud isiku turvakontroll ja vaadata läbi tema vallasasjad. Kaitsja poolt kaasa toodud kirjalike materjalide sisuline läbivaatus on keelatud. Vallasasjad, mille omamine kinnipidamiskeskuses on keelatud, võetakse kokkusaamise ajaks ajutisele hoiule.\n(4) Kokkusaamise kestus on kuni kolm tundi. Kokkusaamiste kord, aeg ja ruum sätestatakse kinnipidamiskeskuse sisekorraeeskirjas või selle alusel antud Politsei- ja Piirivalveameti peadirektori käskkirjas.\n(5) Kokkusaamine väljasaadetavaga toimub Politsei- ja Piirivalveameti juuresolekul. Kokkusaamisi kaitsja ja vaimulikuga on Politsei- ja Piirivalveametil lubatud jälgida, kuid mitte pealt kuulata.\n(6) Väljasaadetavaga kokkusaamist sooviva isiku usaldusväärsuse kontrollimiseks on kinnipidamiskeskuse ametnikel õigus töödelda kokkusaamist sooviva isiku isikuandmeid.\n(7) Väljasaadetavaga ei võimaldata kokku saada, kui:\n1) kokkusaamist sooviva isiku tegevus on olnud suunatud või on suunatud Eesti riigi ja selle julgeoleku vastu;\n2) kokkusaamist sooviv isik on seotud organisatsiooni või liikumisega, mis oma tegevusega eirab avalikku korda;\n3) kokkusaamist sooviv isik on karistatud tahtlikult toime pandud kuriteo eest ja tema karistusandmeid ei ole karistusregistrist kustutatud;\n4) kokkusaamist sooviv isik on esitanud kokkusaamise taotlemisel valeandmeid või võltsitud dokumendi;\n5) kokkusaamist sooviva isiku usaldusväärsuses on põhjust kahelda;\n6) kokkusaamine väljasaadetavaga võiks mõjutada välismaalase väljasaatmise tõhusust või\n7) esinevad muud mõjuvad põhjused.\n(8) Käesoleva paragrahvi lõikes 7 nimetatud asjaolu esinemisel võib erandina kokkusaamist lubada, kui väljasaadetaval on kokkusaamiseks eraeluline või muu kaalukas põhjus."
+    },
+    {
+      "provision_ref": "para26^11",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^11",
+      "title": "§ 26^11. Väljasaadetava kirjavahetus ja sidevahendite kasutamine",
+      "content": "(1) Väljasaadetaval võimaldatakse pidada kirjavahetust, samuti on tal võimalus kasutada oma raha eest telefoni ja muid üldkasutatavaid sidekanaleid kinnipidamiskeskuse sisekorraeeskirjas sätestatud korras.\n(2) Väljasaadetavale saadetud kirjad avatakse Politsei- ja Piirivalveameti poolt väljasaadetava juuresolekul ning sealt võetakse ära asjad, mille omamine kinnipidamiskeskuses on kinnipidamiskeskuse sisekorraeeskirjaga keelatud.\n(3) Väljasaadetava kirjavahetuse ja telefoni ning muude üldkasutatavate sidekanalitega edastatavate sõnumite sisu võib kontrollida üksnes kohtu loal kriminaalmenetluse seadustikus sätestatud alustel ja korras.\n(4) Kinnipidamiskeskuse juhataja või tema poolt määratud ametnik võib väljasaadetava kirjavahetust, telefonikõnesid ja muude sidevahendite kasutamist piirata, kui see võib ohustada kinnipidamiskeskuse sisekorda või takistada väljasaatmise täideviimist.\n(5) Väljasaadetava kirjavahetust riigiasutuste, kaitsja, vaimuliku ja kodakondsusjärgse riigi konsulaarametnikuga ei piirata.\n(6) Väljasaadetaval, kellel ei ole raha, võimaldatakse kinnipidamiskeskuse kulul võtta ühendust perekonnaliikmete, riigiasutuste, kaitsja, vaimuliku ja kodakondsusjärgse riigi konsulaarametnikuga."
+    },
+    {
+      "provision_ref": "para26^12",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^12",
+      "title": "§ 26^12. Asjade soetamine",
+      "content": "(1) Väljasaadetaval on lubatud kinnipidamiskeskuse vahendusel sisekorraeeskirjas sätestatud mahus ja korras osta toiduaineid, isikliku hügieeni tarbeid ja muid asju, mille omamine kinnipidamiskeskuses on lubatud.\n(2) Väljasaadetaval on lubatud saada pakke. Politsei- ja Piirivalveamet kontrollib paki sisu paki saaja juuresolekul enne paki üleandmist.\n(2^1) Pakina ei ole lubatud üle anda toiduaineid ja ravimeid.\n(3) Politsei- ja Piirivalveamet on kohustatud kinni pidama ja väljasaadetavale mitte üle andma pakis sisalduvaid asju, mille omamine kinnipidamiskeskuses on keelatud.\n(4) Kinnipeetud asjad, välja arvatud need, mida ei ole võimalik hoiustada, võetakse kinnipidamiskeskuse sisekorraeeskirjas sätestatud korras hoiule kuni väljasaadetava vabastamiseni kinnipidamiskeskusest.\n(5) Kinnipeetud asjad, mida ei ole võimalik hoiustada, hävitatakse sisekorraeeskirjas ettenähtud korras.\n(6) Väljasaadetava või paki saatja kulul võib kinnipeetud asjad tagastada paki saatjale."
+    },
+    {
+      "provision_ref": "para26^13",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^13",
+      "title": "§ 26^13. Väljasaadetava kohustused",
+      "content": "(1) Väljasaadetav on kohustatud järgima ja täitma kinnipidamiskeskuse sisekorraeeskirja.\n(2) Sisekorraeeskirja rikkumisel, mis ohustab teisi väljasaadetavaid või teisi isikuid või ohustab muul viisil kinnipidamiskeskuse turvalisust, võib kohaldada käesoleva seaduse § 26^15 sätestatud turvaabinõusid.\n(3) Väljasaadetav on kohustatud:\n1) täitma Politsei- ja Piirivalveameti seaduslikke korraldusi;\n2) mitte takistama Politsei- ja Piirivalveametit kohustuste täitmisel;\n3) võimaldama käesolevas peatükis sätestatud toimingute sooritamist;\n4) mitte häirima teisi kinnipidamiskeskuses viibivaid isikuid;\n5) teavitama viivitamata Politsei- ja Piirivalveametit kõikidest asjaoludest, mis võivad ohustada kinnipidamiskeskuse turvalisust ja sisekorda, tema või teiste isikute elu ja tervist;\n6) suhtuma heaperemehelikult talle usaldatud esemetesse ning pidama korras ja puhastama tema kasutuses olevaid elu- ja olmeruume.\n(4)\n(4^1) Kui väljasaadetaval ei ole piisavalt raha, võib väljasaatmisega kaasnevad kulud sisse nõuda väljasaatmise otsuse teinud riigilt nõukogu otsuse 2004/191/EÜ kohaselt, millega kehtestatakse kolmandate riikide kodanike väljasaatmise otsuste vastastikust tunnustamist käsitleva direktiivi 2001/40/EÜ kohaldamisest tuleneva rahalise tasakaalustamatuse kompenseerimise kriteeriumid ja praktiline kord (ELT L 60, 27.02.2004, lk 55–57)."
+    },
+    {
+      "provision_ref": "para26^14",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^14",
+      "title": "§ 26^14. Läbivaatus",
+      "content": "(1) Politsei- ja Piirivalveamet on kohustatud keelatud asjade avastamiseks tegema kahtluse korral väljasaadetava ja tema vallasasjade ning kinnipidamiskeskuse elu- ja olmeruumide, muude ruumide ja territooriumi läbivaatuse.\n(2) Läbivaatuse käigus leitud keelatud asjad võetakse hoiule või hävitatakse kinnipidamiskeskuse sisekorraeeskirjas sätestatud korras.\n(3) Läbivaatuse käigus leitud dokumendid ja sularaha võetakse hoiule ja tagastatakse väljasaadetavale tema kinnipidamiskeskusest vabastamisel.\n(4) Väljasaadetav ja tema asjad vaadatakse läbi korrakaitseseaduses sätestatud korras.\n(5) Kinnipidamiskeskuse elu- ja olmeruumide, muude ruumide ja territooriumi läbivaatusel on Politsei- ja Piirivalveametil õigus kohaldada vahetut sundi."
+    },
+    {
+      "provision_ref": "para26^15",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^15",
+      "title": "§ 26^15. Turvaabinõud",
+      "content": "(1) Turvaabinõusid kohaldatakse väljasaadetava suhtes, kes rikub käesolevas seaduses sätestatud kohustusi või kinnipidamiskeskuse sisekorraeeskirja, ei hoolitse oma isikliku hügieeni eest vajalikul määral, ning see on toonud kaasa reaalse ohu väljasaadetava ja teiste isikute tervisele, kes tahtlikult kahjustab oma tervist või kinnipidamiskeskuse vara või on suitsiidi- või põgenemiskalduvustega, samuti väljasaadetava suhtes, kes on vägivaldne, ning tervisekontrolli mitte läbinud väljasaadetava suhtes kinnipidamiskeskusesse vastuvõtmisel, et jälgida tema tervislikku seisundit.\n(2) Turvaabinõudena on lubatud:\n1) väljasaadetava liikumis- ja suhtlemisvabaduse piiramine;\n2) isiklike esemete kasutamise keelamine;\n3) eraldatud lukustatud ruumi paigutamine.\n4)\n(2^1) Käesoleva paragrahvi lõike 2 punktis 3 sätestatud turvaabinõusid võib väljasaadetava suhtes kohaldada reaalse ja vahetu ohu korral.\n(3) Vajaduse äralangemisel lõpetatakse turvaabinõude kohaldamine.\n(4) Turvaabinõude kohaldamisel võimaldatakse väljasaadetavale tema soovil värskes õhus viibimine vähemalt ühe tunni ulatuses päevas.\n(4^1) Turvaabinõusid võib kohaldada ka väljasaadetava konvoeerimisel väljaspool kinnipidamiskeskust.\n(5) Turvaabinõude kohaldamise otsustab kinnipidamiskeskuse juhataja. Edasilükkamatul juhul otsustab turvaabinõude kohaldamise kõrgem kohalviibiv ametnik, teavitades sellest esimesel võimalusel kinnipidamiskeskuse juhatajat.\n(5^1) Turvaabinõude kohaldamisel võib kohaldada vahetut sundi.\n(6) Erakorraliste olukordade, massiliste rahutuste ja kinnipidamiskeskuse väliste rünnakute tõrjumiseks, samuti põgenenud väljasaadetavate tabamiseks töötatakse kinnipidamiskeskuses välja kaitseplaan, mille kinnitab Politsei- ja Piirivalveameti peadirektor kooskõlastatult Siseministeeriumiga."
+    },
+    {
+      "provision_ref": "para26^17",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^17",
+      "title": "§ 26^17. Erivahendid ja teenistusrelvad",
+      "content": "(1) Politsei- ja Piirivalveamet võib kinnipidamiskeskuses, väljasaadetava konvoeerimisel, väljasaadetava põgenemise takistamiseks või põgenenud väljasaadetava tabamiseks või kinnipidamiskeskusesse kõrvaliste isikute sissetungimise takistamiseks kasutada erivahendit ja teenistusrelva korrakaitseseaduses sätestatud alustel ja korras.\n(2) Kinnipidamiskeskuse erivahendite ja teenistusrelvade suhtes kohaldatakse korrakaitseseaduse §-des 78^1 ja 78^2 sätestatut.\n(3)\n(4)\n(5)\n(6)\n(7)"
+    },
+    {
+      "provision_ref": "para26^18",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^18",
+      "title": "§ 26^18. Toimingud kinnipidamiskeskusest vabastamisel",
+      "content": "(1) Käesoleva seaduse §-s 24 sätestatud juhtudel vabastatakse väljasaadetav kinnipidamiskeskusest kinnipidamiskeskuse juhataja otsuse alusel.\n(2) Kinnipidamiskeskusest vabastamisel tagastatakse väljasaadetavale kinnipidamiskeskuse hoiul olnud asjad ja dokumendid.\n(3) Väljasaatmise korral tagastatakse väljasaadetavale dokumendid ja asjad, mis võivad ohustada väljasaadetava või väljasaatmist täideviivate ametnike turvalisust, piiripunktis.\n(4) Vahi alla võetud väljasaadetava esemed ja dokumendid antakse üle väljasaadetava vahi alla võtnud ametnikule.\n(5) Kinnipidamiskeskuse juhataja otsusel võib erandlikel asjaoludel ning kui väljasaadetaval puuduvad rahalised vahendid maksta väljasaadetavale kinnipidamiskeskusest vabastamisel ühekordset rahalist toetust summas, mis ei ületa kehtivat minimaalsetest tarbimiskulutustest lähtuvat toimetulekupiiri. Nimetatud toetuse võib väljasaadetavalt või tema Eestisse kutsujalt pärast kinnipidamiskeskusest vabastamist välismaalaste seaduses ettenähtud korras sisse nõuda."
+    },
+    {
+      "provision_ref": "para26^19",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^19",
+      "title": "§ 26^19. Kinnipidamiskeskuse juhtimine ja vastutus",
+      "content": "(1) Kinnipidamiskeskuse tööd juhib kinnipidamiskeskuse juhataja.\n(2) Kinnipidamiskeskuse juhataja vastutab käesolevas peatükis sätestatud kohustuste ja sisekorraeeskirja täitmise ning turvalisuse tagamise eest kinnipidamiskeskuses.\n(3) Politsei- ja Piirivalveameti ametnik ei tohi avaldada teenistusvälistele isikutele talle seoses teenistusülesannete täitmisega teatavaks saanud asjaolusid, sealhulgas kinnipeetavate isiklikke suhteid puudutavaid asjaolusid. Ametisaladuse hoidmise kohustus on tähtajatu.\n(4) Politsei- ja Piirivalveameti ametnik on kohustatud kinnipidamiskeskuse juhatajale või tema äraolekul kõrgemale kohalviibivale ametnikule viivitamata teatama sisekorraeeskirja rikkumistest ja muudest asjaoludest, mis võivad mõjutada väljasaatmise täideviimist või turvalisust kinnipidamiskeskuses.\n(5) Kinnipidamiskeskuse juhatajal on õigus ametlikult kinnitada väljasaadetava allkirja õigsust."
+    },
+    {
+      "provision_ref": "para26^20",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^20",
+      "title": "§ 26^20. Kinnipidamiskeskuse ülesannete täitmine",
+      "content": "(1) Kinnipidamiskeskuse ülesannete ja kinnipidamiskeskuse ametnike ülesannete täitmise võib Politsei- ja Piirivalveamet halduslepingu alusel üle anda. Üle anda ei tohi kinnipidamiskeskuse juhataja või tema poolt määratud ametniku ülesandeid.\n(2) Halduslepingu alusel kinnipidamiskeskuse ülesannete täitmise kohustuse võtnud isik on kohustatud tagama nõuetekohase väljasaadetavate kinnipidamise, sisekorraeeskirja täitmise ja turvalisuse tagamise kinnipidamiskeskuses.\n(3) Halduslepingu alusel üleantud käesoleva paragrahvi lõikes 2 nimetatud ülesannete täitmisel võib kasutada isikuid, kes on täisealised, teovõimelised, eesti keelt vähemalt keeleseaduses sätestatud B2-tasemel või sellele vastaval tasemel valdavad Eesti kodanikud. Kasutada ei või isikuid, kes kannavad karistust kuriteo eest või kelle karistusandmed kuriteo eest ei ole karistusregistrist kustutatud.\n(4) Halduslepingu alusel üleantud ülesannetega kaasnevad käesolevas seaduses sätestatud õigused ja kohustused ning vastutus.\n(5) Halduslepingu alusel üleantud ülesannete täitmisel vastutavad kohustused võtnud isik ja tema töötajad tsiviil-, kriminaal- ja halduskorras samadel alustel kui Politsei- ja Piirivalveameti ametnik.\n(6) Halduslepingu alusel üleantud ülesannete täitmise kohustuse võtnud isiku töötajad on kohustatud täitma kinnipidamiskeskuse juhataja seaduslikke korraldusi.\n(7) Halduslepingu alusel üleantud ülesannete täitmise üle teostab järelevalvet Politsei- ja Piirivalveameti peadirektor või tema poolt selleks volitatud isik."
+    },
+    {
+      "provision_ref": "para26^21",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^21",
+      "title": "§ 26^21. Kinnipidamiskeskuse sisekorraeeskiri",
+      "content": "(1) Kinnipidamiskeskuse sisekorraeeskirja kehtestab valdkonna eest vastutav minister määrusega.\n(2) Kinnipidamiskeskuse sisekorraeeskirjas peab vähemalt olema sätestatud:\n1) kinnipidamiskeskuse territooriumil ja hoonetes viibimise kord;\n2) järelevalve teostamise kord kinnipidamiskeskuses;\n3) ajutiselt väljaspool kinnipidamiskeskust viibiva väljasaadetava järelevalve kord;\n4) väljasaadetavale keelatud ainete ja esemete loetelu, samuti enda juures hoitavate ja hoiustatud asjade kogukaal;\n5) isiklike asjade, sularaha ja isikut tõendavate dokumentide hoiule võtmise kord;\n6) väljasaadetavale tema isikliku toimiku tutvustamise kord;\n7) väljasaadetava isikliku toimiku säilitamise kord;\n8) kaebuste esitamise kord.\n(3) Kinnipidamiskeskuses on keelatud hoida aineid ja esemeid, mis:\n1) võivad ohustada isiku enda või teiste isikute elu või tervist;\n2) võivad ohustada kinnipidamiskeskuse turvalisust;\n3) raskendavad oluliselt kinnipidamiskeskusel hügieeninõuete täitmist;\n4) võivad häirida teisi isikuid."
+    },
+    {
+      "provision_ref": "para26^23",
+      "chapter": "4. peatükk - KINNIPIDAMISKESKUS",
+      "section": "26^23",
+      "title": "§ 26^23. Ametniku ja töötaja terviseuuring ja vaktsineerimine",
+      "content": "(1) Politsei- ja Piirivalveameti ametnikule või töötajale, kes täidab käesolevast seadusest tulenevaid ülesandeid, korraldatakse tasuta terviseuuringud ning vajaduse korral vaktsineerimine nakkushaiguste vastu.\n(2) Terviseuuringute ja vaktsineerimise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para26^24",
+      "chapter": "4. peatükk - VÄLJASAADETAVA DISTSIPLINAARNE MÕJUTAMINE",
+      "section": "26^24",
+      "title": "§ 26^24. Distsiplinaarkaristused",
+      "content": "(1) Käesoleva seaduse või kinnipidamiskeskuse sisekorraeeskirja nõuete süülise rikkumise eest võib väljasaadetava suhtes kohaldada distsiplinaarkaristust.\n(2) Väljasaadetavale kohaldatavad distsiplinaarkaristused on:\n1) noomitus;\n2) kokkusaamise keelamine;\n3) sisseostude tegemise keelamine kuni üheks kuuks;\n4) lahkumisettekirjutusega kohaldatud sissesõidukeelu kehtivusaja pikendamine, kuid mitte kauemaks kui viieks aastaks lahkumisettekirjutuse tegemise päevast arvates;\n5) eraldatud lukustatud ruumi paigutamine kuni 48 tunniks.\n(3) Käesoleva paragrahvi lõike 2 punktis 5 sätestatud distsiplinaarkaristust kohaldatakse korduva ja raske distsiplinaarrikkumise korral.\n(4) Raske distsiplinaarrikkumise korral on kinnipidamiskeskuse juhatajal õigus paigutada väljasaadetav eraldatud lukustatud ruumi enne distsiplinaarmenetluse lõpetamist."
+    },
+    {
+      "provision_ref": "para26^25",
+      "chapter": "4. peatükk - VÄLJASAADETAVA DISTSIPLINAARNE MÕJUTAMINE",
+      "section": "26^25",
+      "title": "§ 26^25. Distsiplinaarmenetlus",
+      "content": "(1) Distsiplinaarmenetluse viib läbi Politsei- ja Piirivalveameti käskkirja alusel kinnipidamiskeskuse juhataja või tema määratud ametnik.\n(2) Väljasaadetavat teavitatakse kohe distsiplinaarrikkumisest, milles teda süüdistatakse. Väljasaadetaval on õigus anda selgitusi.\n(3) Distsiplinaarmenetluse käik protokollitakse. Protokollis esitatavad andmed sätestatakse kinnipidamiskeskuse sisekorraeeskirjas."
+    },
+    {
+      "provision_ref": "para26^26",
+      "chapter": "4. peatükk - VÄLJASAADETAVA DISTSIPLINAARNE MÕJUTAMINE",
+      "section": "26^26",
+      "title": "§ 26^26. Distsiplinaarkaristuse määramine",
+      "content": "(1) Distsiplinaarkaristuse määrab Politsei- ja Piirivalveameti peadirektor või tema määratud ametnik kinnipidamiskeskuse juhataja või distsiplinaarmenetluse läbi viinud ametniku ettepanekul. Distsiplinaarkaristuse määramine vormistatakse käskkirjana ja seda peab põhjendama.\n(2) Distsiplinaarkaristuse määramise käskkiri antakse väljasaadetavale allkirja vastu.\n(3) Ühe ja sama distsiplinaarrikkumise eest võib kohaldada ainult üht distsiplinaarkaristust. Kollektiivsed karistused on keelatud.\n(4) Distsiplinaarkaristuse võib määrata kuue kuu jooksul arvates rikkumise toimepanemise päevast, kuid ühe kuu jooksul rikkumise teadasaamise päevast arvates. Distsiplinaarkaristus määratakse enne väljasaadetava kinnipidamiskeskusest vabanemist."
+    },
+    {
+      "provision_ref": "para26^27",
+      "chapter": "4. peatükk - VÄLJASAADETAVA DISTSIPLINAARNE MÕJUTAMINE",
+      "section": "26^27",
+      "title": "§ 26^27. Distsiplinaarkaristuse täideviimine",
+      "content": "(1) Distsiplinaarkaristus pööratakse kohe täitmisele.\n(2) Distsiplinaarkaristuse täideviimiseks eraldatud lukustatud ruumi paigutatud väljasaadetavat hoitakse ruumis üksinda.\n(3) Eraldatud lukustatud ruumi paigutamisel teostatakse väljasaadetava turvakontroll ja asjade läbivaatus. Väljasaadetava toas olnud isiklikud asjad antakse hoiule ning tagastatakse talle pärast eraldatud lukustatud ruumist vabastamist.\n(4) Eraldatud lukustatud ruumi paigutatud väljasaadetava kutsumine uurimisasutusse, prokuröri juurde või kohtusse ei vabasta teda distsiplinaarkaristuse edasisest kandmisest.\n(5) Lukustatud ruum peab vastama käesoleva seaduse § 26^5 lõikes 6 sätestatud tingimustele ja tagama väljasaadetava pideva visuaalse või elektroonilise jälgimise.\n(6) Lukustatud ruumi paigutatud väljasaadetaval ei ole õigust liikuda kinnipidamiskeskuse territooriumil käesoleva seaduse § 26^6 lõikes 1 sätestatud korras. Väljasaadetava soovil võimaldatakse tal vähemalt üks tund päevas viibida vabas õhus.\n(7) Lukustatud ruumi paigutatud väljasaadetava suhtes võib osaliselt või täielikult piirata käesoleva seaduse § 26^5 lõike 8 kohaldamist, sisseostude tegemist, raadio- ja televisioonisaadete jälgimist."
+    },
+    {
+      "provision_ref": "para26^28",
+      "chapter": "4. peatükk - VÄLJASAADETAVA DISTSIPLINAARNE MÕJUTAMINE",
+      "section": "26^28",
+      "title": "§ 26^28. Distsiplinaarkaristuse kustumine",
+      "content": "Distsiplinaarkaristus kustub ühe aasta jooksul arvates distsiplinaarkaristuse määramisest."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "27",
+      "title": "§ 27. Sissesõidukeelu kohaldamise erisused",
+      "content": "Käesoleva seaduse peatükis 5 sätestatut kohaldatakse ulatuses, mis ei ole vastuolus peatükis 2 sätestatuga. Lahkumisettekirjutuses kohaldatava sissesõidukeelu kehtestamise menetlusele ja sissesõidukeelu kehtivusaja määramisele ei kohaldata 5. peatükis sätestatut."
+    },
+    {
+      "provision_ref": "para27^1",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "27^1",
+      "title": "§ 27^1. Sissesõidukeelu kehtivusaeg",
+      "content": "(1) Sissesõidukeeld on tähtajaline või alaline. Tähtajalist sissesõidukeeldu võidakse kohaldada kehtivusajaga kuni 10 aastat.\n(2) Sissesõidukeelu kehtivusaeg on aastates või kuudes arvutatav ajavahemik, mille jooksul välismaalase suhtes kehtivad käesoleva seaduse §-s 28 sätestatud õiguslikud tagajärjed.\n(3) Sissesõidukeelu kehtivusaeg algab sissesõidukeelu kohaldamise otsuse tegemise päeval, kui otsuses ei nähta ette hilisemat sissesõidukeelu kehtivusaja algamise päeva.\n(4) Sissesõidukeelu kehtivusaeg lõpeb selle möödumisel või sissesõidukeelu kehtetuks tunnistamisel."
+    },
+    {
+      "provision_ref": "para27^2",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "27^2",
+      "title": "§ 27^2. Schengeni sissesõidukeelu kohaldamine",
+      "content": "Välismaalase suhtes, kes ei ole Euroopa Liidu, Euroopa Majanduspiirkonna liikmesriigi ega Šveitsi Konföderatsiooni kodanik või tema perekonnaliige, kohaldatakse Schengeni sissesõidukeeldu, välja arvatud juhul, kui välismaalasel on Schengeni konventsiooni või Euroopa Liidu liikmesriigi kehtiv pikaajaline viisa või elamisluba."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "28",
+      "title": "§ 28. Sissesõidukeelu õiguslikud tagajärjed",
+      "content": "(1) Välismaalasele, kelle suhtes kehtib sissesõidukeeld, ei anta piiripunktis luba Eestisse sisenemiseks.\n(2) Välismaalasele, kelle suhtes kehtib sissesõidukeeld, ei anta ega pikendata sissesõidukeelu kehtivusaja jooksul viibimisalust.\n(3) Välismaalasel, kelle suhtes on kohaldatud sissesõidukeeldu, ei ole lubatud Eestis viibida ning tema Eestis viibimine on ebaseaduslik, sõltumata viibimisaluse omamisest.\n(3^1)\n(3^2) Eestis viibiv välismaalane, kelle suhtes kehtib sissesõidukeeld, peetakse Politsei- ja Piirivalveameti või Kaitsepolitseiameti poolt kinni ja korraldatakse viivitamata tema Eestist väljasaatmine.\n(4) Sissesõidukeeld ei võta välismaalaselt õigust taotleda Eestis rahvusvahelist kaitset."
+    },
+    {
+      "provision_ref": "para28^1",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "28^1",
+      "title": "§ 28^1. Välismaalase Eestisse mittelubamine sissesõidukeeldu kohaldamata",
+      "content": "(1) Sissesõidukeeldu kohaldamata võib Eestisse mitte lubada välismaalast:\n1) kelle suhtes esineb mõni sissesõidukeelu kohaldamise aluseks olev asjaolu;\n2) kes on Eestis toime pannud õigusrikkumise;\n3) kellel on talle Eestis toimepandud süüteo eest määratud või mõistetud rahaline karistus tasumata;\n4) kellel on väljasaatmise kulud tasumata;\n5) kelle puhul on alust arvata, et tema Eestisse saabumine võib ohustada avalikku korda, ühiskondlikku turvalisust või riigi julgeolekut;\n6) kelle puhul on alust arvata, et tema Eestisse saabumise eesmärk ei vasta väidetavale eesmärgile;\n7) kelle puhul on alust arvata, et ta ei lahku viibimisaluse lõppedes Eestist;\n8) kelle suhtes kehtib nõukogu direktiivi 2001/40/EÜ kolmandate riikide kodanike väljasaatmise otsuste vastastikuse tunnustamise kohta (EÜT L 149, 2.06.2001, lk 34–36) artiklis 3 nimetatud alustel tehtud väljasaatmise otsus, mis ei ole otsuse teinud riigi poolt tühistatud ega peatatud.\n(2) Käesoleva paragrahvi lõiget 1 ei kohaldata välismaalase suhtes, kellel on elamisluba."
+    },
+    {
+      "provision_ref": "para28^2",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "28^2",
+      "title": "§ 28^2. Sisenemiskeelu otsus",
+      "content": "(1) Politsei- ja Piirivalveamet keelab välismaalasel, kes ei vasta välispiiri ületamise nõuetele, Eestisse siseneda ning täidab tema kohta Euroopa Parlamendi ja nõukogu määruses (EL) 2016/399, mis käsitleb isikute üle piiri liikumist reguleerivaid liidu eeskirju (ELT L 77, 23.03.2016, lk 1–52), toodud vormi (edaspidi sisenemiskeelu otsus ).\n(1^1) Politsei- ja Piirivalveamet keelab välismaalasel Eestisse siseneda ja teeb tema kohta sisenemiskeelu otsuse, kui seda näeb ette rahvusvahelist sanktsiooni või Vabariigi Valitsuse sanktsiooni kehtestav õigusakt.\n(2) Sisenemiskeelu otsuse tegemisel peab haldusorgan arvestama käesoleva seaduse §-s 17^1 sätestatuga.\n(3) Sisenemiskeelu otsuse peale võib esitada kaebuse halduskohtule halduskohtumenetluse seadustikus sätestatud korras. Sisenemiskeelu otsust ei saa vaidlustada vaidemenetluse korras.\n(4) Sisenemiskeelu otsuse peale kaebuse esitamine ei anna alust välismaalast Eestisse lubada.\n(5) Sisenemiskeelu otsuse täitmiseks peab Politsei- ja Piirivalveamet välismaalase kinni ning kohaldab käesoleva seaduse §-des 19–19^2 kinnipidamistingimuste ja riikliku järelevalve meetmete kohta sätestatut.\n(6) Kui sisenemiskeelu otsuse täitmine ei ole 48 tunni jooksul võimalik, taotleb Politsei- ja Piirivalveamet halduskohtult luba välismaalase kinnipidamiskeskusesse paigutamiseks ja kinnipidamiseks kuni kaheks kuuks.\n(7) Pärast käesoleva paragrahvi lõikes 6 sätestatud kinnipidamistähtaja möödumist võib halduskohus Politsei- ja Piirivalveameti taotlusel pikendada välismaalase kinnipidamiskeskuses kinnipidamise tähtaega nelja kuu kaupa, kuid mitte kauemaks kui 18 kuuks välismaalase kinnipidamise päevast arvates.\n(8) Välismaalase kinnipidamise korral arvestab Politsei- ja Piirivalveamet haavatava isiku erivajadusi ning võib sisenemiskeelu otsuse täitmise peatada, kui välismaalasel ei ole Eestist võimalik kohe lahkuda tema füüsilise või vaimse tervise seisundi või muu mõjuva põhjuse tõttu.\n(9) Välismaalase kinnipidamine protokollitakse.\n(10) Käesolevas paragrahvis sätestatut võib Politsei- ja Piirivalveamet kohaldada ka välismaalase suhtes, kes on vahetult tabatud välispiiri ebaseaduslikul ületamisel.\n(11) Kui Politsei- ja Piirivalveamet otsustab välismaalasele määrata lahkumiskohustuse vabatahtliku täitmise tähtaja, siis kohaldatakse sellele käesolevas seaduses lahkumisettekirjutuse kohta sätestatut."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "29",
+      "title": "§ 29. Sissesõidukeelu kohaldamise alused",
+      "content": "(1) Välismaalase suhtes võidakse sissesõidukeeldu kohaldada, kui:\n1) on põhjendatult alust arvata, et välismaalase Eestis viibimine võib ohustada Eesti Vabariigi, teise Euroopa Liidu liikmesriigi, Schengeni konventsiooni liikmesriigi või Põhja-Atlandi Lepingu Organisatsiooni liikmesriigi julgeolekut, avalikku korda või teiste isikute tervist;\n2) välismaalase kohta on andmeid või on põhjendatud alus arvata, et ta kuulub kuritegelikku ühendusse või on seotud narkootikumide, psühhotroopsete ainete või isikute ebaseadusliku toimetamisega üle riigipiiri või ajutise kontrolljoone või kuulub terroristlikku ühendusse või ta on toime pannud või on põhjendatud alus arvata, et ta võib toime panna terrorikuriteo, või ta on seotud terrorikuriteo rahastamisega, toetamisega või rahapesuga;\n3) välismaalane töötab või on olnud välisriigi luure- või julgeolekuteenistuses või on seotud või on olnud seotud välisriigi luure- või julgeolekuteenistusega või on põhjendatult alust arvata, et ta töötab või on olnud välisriigi luure- või julgeolekuteenistuses või on seotud või on olnud seotud välisriigi luure- või julgeolekuteenistusega;\n4) välismaalane on saanud või on põhjendatult alust arvata, et ta on saanud eriväljaõppe või eriettevalmistuse dessantoperatsioonideks või diversiooni või sabotaaži alal või muu eriväljaõppe, mille käigus omandatud teadmisi ja oskusi saab vahetult rakendada illegaalsete relvaformeeringute ülesehitamisel või väljaõppel;\n5) välismaalane õhutab või on põhjendatult alust arvata, et ta võib õhutada Eestis või välisriigis rahvuslikku, rassilist, usulist või poliitilist vihkamist;\n6) välismaalast on karistatud või on põhjendatult alust arvata, et teda on karistatud raske inimsusevastase või sõjakuriteo eest, sõltumata karistatuse kustumisest või kustutamisest või karistusregistrist karistusandmete kustutamisest;\n6^1) on andmeid või on põhjendatult alust arvata, et välismaalane on osalenud või aidanud kaasa välisriigis toimunud inimõiguste rikkumisele, mis on endaga kaasa toonud isiku surma, raske tervisekahjustuse, tema alusetu süüdimõistmise kuriteos poliitilistel motiividel või muu raske tagajärje;\n7) välismaalast on karistatud Eestis või välisriigis toime pandud tahtliku kuriteo või muu õiguserikkumise eest ja karistatus ei ole kustunud ega kustutatud või karistusandmed ei ole karistusregistrist kustutatud;\n8) välismaalane on rikkunud välismaalaste Eestis viibimist või riigipiiri ületamist reguleerivaid õigusakte;\n9) välismaalane on esitanud valeandmeid või võltsitud dokumendi Eestis viibimise seadusliku aluse või selle pikendamise, Eesti kodakondsuse, rahvusvaheline kaitse või isikut tõendava dokumendi taotlemisel;\n10) välismaalasel on täitmata kohustusi Eesti riigi, riigiasutuse või kohaliku omavalitsuse ees.\n(2) Alalist sissesõidukeeldu võidakse kohaldada käesoleva paragrahvi lõike 1 punktides 1–6^1 sätestatud juhtudel.\n(3) Kui välismaalase perekonnal ei ole võimalik koos elada väljaspool Eestit või kui perekonna ümberasumine välisriiki oleks sissesõidukeelu kehtestamise vajadusega võrreldes seotud ebaproportsionaalselt suurte raskustega, võib välismaalase suhtes kohaldada sissesõidukeeldu üksnes käesoleva paragrahvi lõike 1 punktides 1–6^1 sätestatud juhtudel.\n(4) Välismaalase perekonnaliikmeks loetakse Eestis seaduslikult välismaalasega ühises perekonnas koos elavat:\n1) abikaasat;\n1^1) registreeritud elukaaslast;\n2) alaealist last;\n3) vanemat, kui välismaalane on alaealine.\n(5) Kui viibimisaluse andmise või pikendamise menetluse käigus ilmnevad käesoleva paragrahvi lõikes 1 sätestatud sissesõidukeelu kohaldamise alused, keeldutakse viibimisaluse andmisest või pikendamisest ja välismaalase suhtes kohaldatakse sissesõidukeeldu."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "30",
+      "title": "§ 30. Sissesõidukeelu mittekohaldamine",
+      "content": "Sissesõidukeeldu ei kohaldata:\n1) alla 13-aastase välismaalase suhtes;\n2) Eesti rahvusest välismaalase suhtes;\n3) välismaalase suhtes, kelle rahvusvahelise kaitse taotlus on võetud Eestis menetlusse või kellele on antud Eestis rahvusvaheline kaitse."
+    },
+    {
+      "provision_ref": "para30^1",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "30^1",
+      "title": "§ 30^1. Sissesõidukeelu kohaldamise erisused",
+      "content": "(1) Sissesõidukeelu kohaldamisel ja sellest tulenevalt viibimisaluse kehtetuks tunnistamisel või elamisõiguse lõpetamisel ei pea andma välismaalasele võimalust vastuväidete ja arvamuse esitamiseks.\n(2)\n(3) Sissesõidukeelu kohaldamise aluseks olevaid põhjendusi, sealhulgas menetluses kogutud andmeid ja tõendeid, ei avalikustata, sealhulgas andmesubjektile, ulatuses, mis on vastuolus käesoleva seaduse § 33^6 lõikes 3 sätestatud eesmärkidega.\n(4)"
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "31",
+      "title": "§ 31. Sissesõidukeelu kohaldamise otsustamine",
+      "content": "(1) Sissesõidukeelu kohaldamise otsustab Siseministeerium või selleks volitatud Siseministeeriumi valitsemisala valitsusasutus põhjendamatu viivituseta.\n(2)\n(3) Sissesõidukeelu kohaldamise otsustamisel ja sissesõidukeelu kehtivusaja määramisel arvestatakse kogumis järgmisi asjaolusid:\n1) välismaalase Eestis seadusliku viibimise kestus;\n2) välismaalase vanus;\n3) välismaalase terviseseisund;\n4) välismaalase isiklikud, majanduslikud ja muud sidemed Eestiga, mis väärivad kaitsmist;\n5) sissesõidukeelu kohaldamise tagajärjed välismaalase perekonnaliikmetele;\n6) välismaalase sotsiaalne ja kultuuriline integratsioon;\n7) välismaalase sidemed päritoluriigiga;\n8) sissesõidukeelu kohaldamise aluseks olevad asjaolud;\n8^1) Euroopa Liidu liikmesriigi, Euroopa Majanduspiirkonna liikmesriigi ja Šveitsi Konföderatsiooni elamisloa või pikaajalise viisa omamine;\n9) muud asjassepuutuvad kaalutlused.\n(4)\n(5)"
+    },
+    {
+      "provision_ref": "para31^1",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "31^1",
+      "title": "§ 31^1. Ettepanek sissesõidukeelu kohaldamiseks",
+      "content": "(1) Sissesõidukeelu kohaldamiseks võib valdkonna eest vastutavale ministrile ettepaneku teha valitsusasutus või valitsusasutuse hallatav riigiasutus.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud ettepanek peab sisaldama sissesõidukeelu kohaldamise alust, põhjust ja käesoleva seaduse § 31 lõikes 3 toodud asjaolusid. Ettepanekule lisatakse võimaluse korral nimetatud asjaolusid tõendavad dokumendid."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "32",
+      "title": "§ 32. Sissesõidukeelu kehtivusaja muutmine",
+      "content": "(1) Siseministeerium või selleks volitatud Siseministeeriumi valitsemisala valitsusasutus tunnistab kehtetuks või lühendab sissesõidukeelu kehtivusaega välismaalase põhjendatud taotluse alusel või valitsusasutuse või valitsusasutuse hallatava riigiasutuse põhjendatud ettepanekul või Schengeni konventsiooni või Euroopa Liidu liikmesriigi, välja arvatud Eesti, pädeva asutuse taotlusel, kui sissesõidukeelu kohaldamise aluseks olevad asjaolud on muutunud või ära langenud, samuti humaansetel kaalutlustel, kui sellega ei ohustata riigi julgeolekut ega avalikku korda.\n(1^1) Schengeni konventsiooni või Euroopa Liidu liikmesriigi, välja arvatud Eesti, pädeva asutuse taotlusel sissesõidukeelu kehtetuks tunnistamisel käesoleva paragrahvi lõikes 1 toodud juhul kustutatakse sissesõidukeelu andmed Schengeni infosüsteemist. Valdkonna eest vastutava ministri või tema poolt volitatud Siseministeeriumi kõrgema ametniku otsusel võib sissesõidukeelu jätta kehtima ainult sissesõidukeeldude riiklikus registris.\n(1^2) Siseministeerium või selleks volitatud Siseministeeriumi valitsemisala valitsusasutus võib välismaalase põhjendatud taotluse alusel ja välismaalase esitatud asjassepuutuvate tõendite olemasolul tunnistada lahkumisettekirjutuses kohaldatud Schengeni sissesõidukeelu kehtetuks, kui välismaalane tõendab, et ta on lahkunud Schengeni konventsiooni ja Euroopa Liidu liikmesriigi territooriumilt lahkumisettekirjutuses määratud lahkumiskohustuse vabatahtliku täitmise tähtaja jooksul.\n(2) Siseministeerium või selleks volitatud Siseministeeriumi valitsemisala valitsusasutus võib valitsusasutuse või valitsusasutuse hallatava riigiasutuse algatusel pikendada sissesõidukeelu kehtivusaega või asendada tähtajalise sissesõidukeelu alalisega, kui välismaalase suhtes ilmnevad täiendavad käesoleva seaduse § 29 lõikes 1 sätestatud sissesõidukeelu kohaldamise alused. Kehtivusaja pikendamisel või tähtajalise sissesõidukeelu alalisega asendamisel kohaldatakse käesoleva seaduse § 31 lõikes 3 sätestatut.\n(3) Schengeni sissesõidukeelu kehtivusaja muutmiseks peab välismaalane pöörduma sissesõidukeelu kohaldanud Schengeni konventsiooni või Euroopa Liidu liikmesriigi poole."
+    },
+    {
+      "provision_ref": "para32^1",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "32^1",
+      "title": "§ 32^1. Sissesõidukeelu kehtivusaja peatamine",
+      "content": "(1) Siseministeerium või selleks volitatud Siseministeeriumi valitsemisala valitsusasutus võib valitsusasutuse, valitsusasutuse hallatava riigiasutuse või kohtu ettepanekul või välismaalase põhjendatud taotlusel peatada sissesõidukeelu kehtivuse määratud ajaks, kui välismaalase lühiajaline Eestisse saabumine ja Eestis viibimine on vältimatult vajalik.\n(2) Siseministeerium või selleks volitatud Siseministeeriumi valitsemisala valitsusasutus võib välismaalase põhjendatud taotluse alusel ja välismaalase esitatud asjassepuutuvate tõendite olemasolul peatada määratud ajaks lahkumisettekirjutuses kohaldatud Schengeni sissesõidukeelu kehtivuse, kui välismaalane tõendab, et ta on lahkunud Schengeni konventsiooni ja Euroopa Liidu liikmesriigi territooriumilt lahkumisettekirjutuses määratud lahkumiskohustuse vabatahtliku täitmise tähtaja jooksul."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "33",
+      "title": "§ 33. Sissesõidukeeldude riiklik register",
+      "content": "(1) Sissesõidukeeldude riikliku registri (edaspidi käesolevas paragrahvis register ) asutab Vabariigi Valitsus ja registri põhimääruse kehtestab valdkonna eest vastutav minister määrusega.\n(2) Registri pidamise eesmärk on tagada avalik kord ja riigi julgeolek välismaalaste suhtes kohaldatud sissesõidukeeldude andmete töötlemise kaudu ning rahvusvaheliste sanktsioonide rakendamine.\n(3) Registri pidamise eesmärgi ja Euroopa Liidu õigusaktis, välislepingus, seaduses või määruses sätestatud ülesande täitmiseks töödeldakse sissesõidukeelu kohaldamise, kehtivusaja muutmise või peatamise menetluses kogutud ning sellises menetluses antud haldusakti ja sooritatud toimingu kohta järgmisi andmeid:\n1) välismaalase üldandmed;\n2) välismaalase sünniaeg ja -koht ning isikut tõendava dokumendi andmed;\n3) välismaalase eriline ja objektiivne muutumatu füüsiline tundemärk;\n4) teave, kas välismaalane on relvastatud, on vägivaldne, hoiab õigusemõistmisest kõrvale või on põgenenud, on suitsiidne, kujutab endast ohtu rahvatervisele või on seotud tegevusega, millele on osutatud Euroopa Parlamendi ja nõukogu direktiivi (EL) 2017/541 terrorismivastase võitluse kohta, millega asendatakse nõukogu raamotsus 2002/475/JSK ning muudetakse nõukogu otsust 2005/671/JSK (ELT L 88, 31.03.2017, lk 6–21), artiklites 3–14;\n5) andmed sissesõidukeeldu käsitleva hoiatusteate kohta, mis kantakse Schengeni infosüsteemi;\n6) teave, kas välismaalane on Euroopa Liidu kodaniku perekonnaliige või muu isik, kellel on vaba liikumise õigus, nagu on osutatud Euroopa Parlamendi ja nõukogu määruse (EL) 2018/1861, milles käsitletakse Schengeni infosüsteemi (SIS) loomist, toimimist ja kasutamist piirikontrolli valdkonnas ning millega muudetakse Schengeni lepingu rakendamise konventsiooni ja määrust (EÜ) nr 1987/2006 ning tunnistatakse kehtetuks määrus (EÜ) nr 1987/2006 (ELT L 312, 07.12.2018, lk 14–55), artiklis 26;\n7) teave, kas riiki sisenemise ja riigis viibimise keelu otsus põhineb Euroopa Parlamendi ja nõukogu määruse (EL) 2018/1861 artikli 24 lõike 1 punktis b osutatud sissesõidukeelul või lõike 2 punktis a osutatud varasemal süüdimõistmisel, punktis b osutatud tõsisel julgeolekuohul või punktis c osutatud riiki sisenemist ja seal viibimist käsitleva Euroopa Liidu või riikliku õiguse täitmisest kõrvalehoidmisel või artiklis 25 osutatud piiraval meetmel;\n8) välismaalase kriminaalkorras karistamise andmed;\n9) välismaalase foto ja näokujutis;\n10) välismaalase daktüloskoopilised andmed;\n11) sissesõidukeelu kohaldamise ja rakendamise andmed;\n12) menetlustoimingu ja otsuse andmed ning otsuse vaidlustamise andmed.\n(4) Isiku tuvastamisel ja isikusamasuse kontrollimisel isikut tõendavate dokumentide seaduse § 15^5 tähenduses võib töödelda isiku identiteediandmeid, mis on kantud registrisse.\n(5) Registris, sealhulgas menetlustoimikus, töödeldavad andmed ei ole avalikud, kui käesolev seadus ei sätesta teisiti.\n(6) Siseministeerium või Politsei- ja Piirivalveamet võib võimaldada kontrollida avalikul veebilehel sissesõidukeelu kehtivust, avaldamata seejuures välismaalase isikuandmeid.\n(7) Registri vastutav töötleja on Politsei- ja Piirivalveamet.\n(8) Registri põhimääruses sätestatakse registri pidamise kord, sealhulgas:\n1) andmeandjad ja nendelt saadavad andmed;\n2) täpsem andmekoosseis;\n3) andmekogudevaheline andmevahetus;\n4) vastutava töötleja ülesanded;\n5) volitatud töötleja ja tema ülesanded;\n6) andmetele juurdepääsu andmise ja andmete väljastamise kord;\n7) andmete säilitamise täpsemad tähtajad;\n8) muud korralduslikud küsimused.\n(8^1) Registri andmeid säilitatakse järgmiselt:\n1) alalise sissesõidukeelu andmed – kõige kauem 75 aastat välismaalase sünnist arvates;\n2) tähtajalise sissesõidukeelu andmed – aktiivselt kõige kauem kümme aastat tähtajalise sissesõidukeelu lõppemisest arvates ja arhiiviosas kõige kauem 40 aastat.\n(8^2) Registri andmete säilitamise täpsemad tähtajad sätestatakse registri põhimääruses.\n(9) Isiku tuvastamise või isikusamasuse kontrollimise eesmärgil töödeldavad biomeetrilised andmed kustutatakse registrist viivitamata pärast võrdlusuuringu tegemist."
+    },
+    {
+      "provision_ref": "para33^1",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "33^1",
+      "title": "§ 33^1. Sissesõidukeelu rakendamine ja Schengeni infosüsteem",
+      "content": "(1) Haldusaktist, kohtulahendist või õigusaktist tuleneva sissesõidukeelu rakendamiseks kantakse andmed sissesõidukeeldude riiklikusse registrisse.\n(2) Kui välismaalasele on kohaldatud Schengeni sissesõidukeeldu, edastab Politsei- ja Piirivalveamet sissesõidukeelu andmed ka Schengeni infosüsteemi vastavalt Euroopa Parlamendi ja nõukogu määrusele (EL) 2018/1861.\n(3) Välismaalase lahkumiskohustusega kaasneva Schengeni sissesõidukeelu jõustab Politsei- ja Piirivalveamet Schengeni infosüsteemis välismaalase lahkumiskohustuse täitmisel.\n(4) Kui Schengeni sissesõidukeeldu on kohaldatud välismaalasele, kes ei viibi Schengeni konventsiooni ega Euroopa Liidu liikmesriigi territooriumil, jõustab Politsei- ja Piirivalveamet selle Schengeni infosüsteemis viivitamata pärast sissesõidukeelu kohaldamise otsuse tegemist, kui otsuses ei ole ette nähtud hilisemat sissesõidukeelu kehtivusaja algamise päeva.\n(5) Politsei- ja Piirivalveamet ei edasta Schengeni sissesõidukeelu andmeid Schengeni infosüsteemi või kustutab sinna sisestatud andmed viivitamata, kui ilmneb, et:\n1) sissesõidukeeldu on kohaldatud Euroopa Liidu, Euroopa Majanduspiirkonna liikmesriigi või Šveitsi Konföderatsiooni kodaniku või tema perekonnaliikme suhtes;\n2) sissesõidukeeldu on kohaldatud välismaalasele, kellele on Schengeni konventsiooni või Euroopa Liidu liikmesriik väljastanud kehtiva pikaajalise viisa või elamisloa;\n3) sissesõidukeeldu on kohaldatud välismaalasele, kelle vastuvõtvaks riigiks on Schengeni konventsiooni või Euroopa Liidu liikmesriik;\n4) Schengeni konventsiooni või Euroopa Liidu liikmesriik on teavitanud kavatsusest anda välismaalasele pikaajaline viisa või elamisluba või selle kehtivusaega pikendada;\n5) sissesõidukeelu andmed on sisestatud Schengeni infosüsteemi Euroopa Parlamendi ja nõukogu määruse (EL) 2018/1861 artikli 25 kohaselt;\n6) sissesõidukeelu kohaldamisala on piiratud Eesti territooriumiga;\n7) Schengeni sissesõidukeeld on peatatud, kehtetuks tunnistatud või tühistatud.\n(6) Politsei- ja Piirivalveamet võib jätta Schengeni sissesõidukeelu andmed Schengeni infosüsteemi edastamata, kui see võib kahjustada süüteo tõkestamist, avastamist, menetlemist või karistuse täideviimist.\n(7) Sissesõidukeeldude riiklikusse registrisse ja Schengeni infosüsteemi kantud sissesõidukeelu andmetel on õiguslik tähendus välismaalasele riiki sisenemise, riigis viibimise ja riigis elamise või riigist lahkuma kohustamise otsuse tegemisel. Sissesõidukeeldude riiklikusse registrisse ja Schengeni infosüsteemi kantud andmete õigsust eeldatakse.\n(8) Välismaalane võib esitada Euroopa Parlamendi ja nõukogu määruse (EL) 2018/1861 artikli 54 alusel Politsei- ja Piirivalveametile taotluse tema kohta Schengeni infosüsteemi kantud sissesõidukeelu andmetele juurdepääsu saamiseks, nende parandamiseks, kustutamiseks või selle kohta teabe või sellega seoses hüvitise saamiseks.\n(9) Käesoleva paragrahvi lõike 8 alusel esitatud taotluse kohta tehtud otsuse peale võib välismaalane esitada vaide haldusmenetluse seaduses sätestatud korras või kaebuse halduskohtule halduskohtumenetluse seadustikus sätestatud korras."
+    },
+    {
+      "provision_ref": "para33^2",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "33^2",
+      "title": "§ 33^2. Sissesõidukeelu kohaldamise, sissesõidukeelu kehtivusaja muutmise, sissesõidukeelu kehtetuks tunnistamise ja sissesõidukeelu peatamise teatavaks tegemine",
+      "content": "(1) Sissesõidukeelu kohaldamine ja selle kehtivusaeg, sissesõidukeelu kehtivusaja muutmine, sissesõidukeelu kehtetuks tunnistamine ja sissesõidukeelu peatamine loetakse välismaalasele teatavaks tehtuks vastava teabe avaldamisega Siseministeeriumi veebilehel.\n(2) Veebilehel avaldatakse välismaalase nimi, sünniaeg või isikukood ja kodakondsus, kui need andmed on teada.\n(3) Sissesõidukeelu kohaldamine, sissesõidukeelu kehtivusaja muutmine, sissesõidukeelu kehtetuks tunnistamine ja sissesõidukeelu peatamine tehakse välismaalasele kirjalikult teatavaks välismaalase algatusel."
+    },
+    {
+      "provision_ref": "para33^3",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "33^3",
+      "title": "§ 33^3. Sissesõidukeelu kohaldamise ja sissesõidukeelu kehtivusaja muutmise vaidlustamine",
+      "content": "(1) Sissesõidukeelu kohaldamise ja sissesõidukeelu kehtivusaja muutmise võib vaidlustada halduskohtumenetluse seadustikus sätestatud korras 30 päeva jooksul nende teatavaks tegemise päevast arvates.\n(2) Sissesõidukeelu kohaldamise või sissesõidukeelu kehtivusaja muutmise vaidlustamine ei lükka väljasaatmist kohtumenetluse ajaks edasi.\n(3) Pärast sissesõidukeelu kohaldamise vaidlustamise tähtaja möödumist ei saa väljasaatmise, viibimisaluse andmisest või pikendamisest keeldumise või viibimisaluse kehtetuks tunnistamise vaidlustamisel tugineda sissesõidukeelu kohaldamise õigusvastasusele."
+    },
+    {
+      "provision_ref": "para33^4",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "33^4",
+      "title": "§ 33^4. Sissesõidukeelu kohaldamisega seotud teabe avalikkus",
+      "content": "(1) Käesoleva seaduse § 33^2 lõikes 1 nimetamata teave sissesõidukeelu kohaldamise kohta ei ole avalik.\n(2) Valdkonna eest vastutav minister võib käesoleva seaduse § 33^2 lõikes 1 nimetatud teabe tunnistada asutusesiseseks kasutamiseks mõeldud teabeks, kui see on vajalik § 33^6 lõikes 3 sätestatud eesmärkide täitmiseks."
+    },
+    {
+      "provision_ref": "para33^6",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "33^6",
+      "title": "§ 33^6. Isikuandmete töötlemine",
+      "content": "(1) Käesolevas seaduses sätestatud menetluste puhul on haldusorganil õigus töödelda isikuandmeid, sealhulgas eriliiki isikuandmeid.\n(2) Haldusorgan võib menetluses tähtsust omavate asjaolude väljaselgitamiseks ja kontrollimiseks edastada käesoleva paragrahvi lõikes 1 nimetatud isikuandmeid kolmandatele isikutele. Kolmandad isikud võivad töödelda neile edastatud isikuandmeid ulatuses, mis on vajalik menetluses tähtsust omavate asjaolude väljaselgitamiseks.\n(3) Andmesubjekti õigust saada teavet ja juurdepääsu tema kohta kogutud isikuandmetele, samuti õigust tutvuda tema kohta andmekogusse kantud andmetega, sealhulgas menetlustoimikuga, võib piirata, kui see võib:\n1) takistada või kahjustada süüteo tõkestamist, avastamist, menetlemist või karistuse täideviimist;\n2) kahjustada teise isiku õigusi ja vabadusi;\n3) ohustada Eesti Vabariigi, teise Euroopa Liidu liikmesriigi, Schengeni konventsiooni liikmesriigi või Põhja-Atlandi Lepingu Organisatsiooni liikmesriigi julgeolekut;\n4) ohustada avaliku korra kaitset, sealhulgas takistada välismaalase väljasaatmist.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud andmete avaldamise piirangut kohaldatakse andmesubjekti järgmiste õiguste kohta:\n1) saada teada tema isikuandmete töötlemisest, sealhulgas sellest, milliseid isikuandmeid töödeldakse, samuti töötlemise viisi, meetodit, eesmärki, õiguslikku alust, ulatust või põhjust;\n2) saada teada tema isikuandmete vastuvõtjaid ja avaldatavate isikuandmete kategooriaid ning teavet, kas tema isikuandmed edastatakse välisriigile või rahvusvahelisele organisatsioonile;\n3) nõuda tema isikuandmete töötlemise piiramist;\n4) esitada vastuväiteid tema isikuandmete töötlemise kohta;\n5) saada teada tema isikuandmetega seotud rikkumisest.\n(5) Käesoleva paragrahvi lõikes 3 nimetatud andmete avaldamise piirangut võib kohaldada ka andmete suhtes, mis on saadud välisriigilt või rahvusvaheliselt organisatsioonilt."
+    },
+    {
+      "provision_ref": "para33^7",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "33^7",
+      "title": "§ 33^7. Isikuandmete saamine",
+      "content": "Välislepingust, Euroopa Liidu õigusaktist või muust õigusaktist tulenevate kohustuste täitmiseks võib töödelda välisriigilt või rahvusvaheliselt organisatsioonilt saadud isikuandmeid."
+    },
+    {
+      "provision_ref": "para33^11",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "33^11",
+      "title": "§ 33^11. Seadusliku aluseta Eestis viibiva välismaalase biomeetriliste andmete võtmine",
+      "content": "(1) Politsei- ja Piirivalveamet või Kaitsepolitseiamet daktüloskopeerib Eesti välispiiri ebaseaduslikult ületanud või seadusliku aluseta Eestis viibivat vähemalt 14-aastast välismaalast. Daktüloskopeerimisel võetud andmed edastatakse Eurodac-süsteemi kesküksusele võrdlemiseks vastavalt Euroopa Parlamendi ja nõukogu määrusele (EL) nr 603/2013, millega luuakse sõrmejälgede võrdlemise Eurodac-süsteem määruse (EL) nr 604/2013 (millega kehtestatakse kriteeriumid ja mehhanismid selle liikmesriigi määramiseks, kes vastutab mõnes liikmesriigis kolmanda riigi kodaniku või kodakondsuseta isiku esitatud rahvusvahelise kaitse taotluse läbivaatamise eest) tõhusaks kohaldamiseks ning mis käsitleb liikmesriikide õiguskaitseasutuste ja Europoli taotlusi sõrmejälgede andmete võrdlemiseks Eurodac-süsteemi andmetega õiguskaitse eesmärgil ning millega muudetakse määrust (EL) nr 1077/2011, millega asutatakse Euroopa amet vabadusel, turvalisusel ja õigusel rajaneva ala suuremahuliste IT-süsteemide operatiivjuhtimiseks (ELT L 180, 29.06.2013, lk 1–30).\n(1^1) Politsei- ja Piirivalveamet või Kaitsepolitseiamet võtab biomeetrilised andmed Eestis seadusliku aluseta viibivalt välismaalaselt käesoleva seaduse § 33^1 lõikes 2 ja § 33^16 lõikes 1 sätestatud kohustuse täitmiseks.\n(2) Politsei- ja Piirivalveamet või Kaitsepolitseiamet võib daktüloskopeerida ka seadusliku aluseta Eestis viibivat alla 14-aastast välismaalast, kui teisiti ei ole võimalik isikut tuvastada või tema isikusamasust kontrollida.\n(3) Alaealise daktüloskopeerimisel arvestatakse eelkõige nimetatud isiku õigusi ja huve.\n(3^1) Politsei- ja Piirivalveamet või Kaitsepolitseiamet võib daktüloskopeerida välismaalast, kelle suhtes on kohaldatud sissesõidukeeldu.\n(4) Välismaalase suhtes, kes keeldub daktüloskopeerimisest, võidakse kohaldada vahetut sundi.\n(5) Daktüloskopeerimisel kogutud biomeetrilised andmed kantakse automaatse biomeetrilise isikutuvastuse süsteemi andmekogusse (edaspidi andmekogu ABIS ).\n(6) Sõrmejälgede kaardi vormi kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para33^12",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "33^12",
+      "title": "§ 33^12. Seadusliku aluseta Eestis viibivalt välismaalaselt DNA-proovide võtmine",
+      "content": "(1) Politsei- ja Piirivalveamet või Kaitsepolitseiamet võib võtta seadusliku aluseta Eestis viibivalt välismaalaselt DNA-proovi, kui teisiti ei ole võimalik isikut tuvastada.\n(1^1) Seadusliku aluseta Eestis viibiva välismaalase DNA-proovide võtmisel lähtutakse korrakaitseseaduse § 33 lõike 5 alusel kehtestatud korrast.\n(2) Alaealiselt DNA-proovide võtmise otsustamisel arvestatakse eelkõige alaealise õiguste ja huvidega.\n(3) Välismaalase suhtes, kes keeldub DNA-proovide andmisest, võidakse kohaldada vahetut sundi.\n(4) DNA-proovide tulemusel saadud andmed kantakse riiklikusse süüteomenetluse biomeetriaregistrisse."
+    },
+    {
+      "provision_ref": "para33^14",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "33^14",
+      "title": "§ 33^14. Eestis seadusliku aluseta viibivate ja viibinud välismaalaste andmekogu",
+      "content": "(1) Eestis seadusliku aluseta viibivate ja viibinud välismaalaste andmekogu (edaspidi käesolevas paragrahvis andmekogu ) asutab ning selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega.\n(2) Andmekogu pidamise eesmärk on tagada avalik kord ja riigi julgeolek välismaalaste Eestis ebaseadusliku viibimise ja Eestist lahkumise kohustuse täitmise andmete töötlemise kaudu.\n(3) Andmekogu pidamise eesmärgi ja Euroopa Liidu õigusaktis, välislepingus, seaduses või määruses sätestatud ülesande täitmiseks töödeldakse Eestis seadusliku aluseta viibiva või viibinud välismaalase Eestis viibimise või Eestist lahkumise kohustuse täitmisega seotud menetluses kogutud ning sellises menetluses antud haldusakti ja sooritatud toimingu kohta järgmisi andmeid:\n1) välismaalase üldandmed;\n2) välismaalase isanimi, sünniaeg ja -koht, rahvus ning usuline kuuluvus;\n3) välismaalase isikut tõendava dokumendi andmed;\n4) välismaalase keeleoskuse ja hariduse andmed;\n5) välismaalase perekonnaseisuandmed;\n6) välismaalase päritolu- ja transiidiriigis viibimise ning nendest riikidest lahkumise andmed;\n7) välismaalase Eestisse saabumise andmed;\n8) välismaalase kriminaalkorras karistamise andmed;\n9) välismaalase foto ja näokujutis;\n10) välismaalase daktüloskoopilised andmed;\n11) välismaalase erivajaduse andmed;\n12) välismaalase eriline ja objektiivne muutumatu füüsiline tundemärk;\n13) välismaalase isiku, sealhulgas tema vanuse tuvastamise viis;\n14) välismaalase seadusliku esindaja üldandmed;\n15) välismaalase perekonnaliikme ja lähedase sugulase üldandmed, sünnikoht, perekonnaseisuandmed ning seos välismaalasega;\n16) välismaalase ajateenistuses, relvajõududes, kaadrisõjaväelasena või luure- või julgeolekuteenistuses teenimise ja töötamise andmed, väljaspool Eestit sõjaväelises operatsioonis osalemise andmed ning riiklikus või mitteriiklikus relvastatud organisatsioonis või üksuses teenimise andmed;\n17) välismaalasele tehtud lahkumisettekirjutuse ning sellega koos kohaldatud sissesõidukeelu ja järelevalvemeetme andmed;\n18) välismaalasele tehtud seadustamisettekirjutuse ja sellega koos kohaldatud järelevalvemeetme andmed;\n19) välismaalasega sõlmitud Eestist lahkumise kokkuleppe andmed;\n20) välismaalase kinnipidamise ja kinnipidamisest vabastamise andmed;\n21) välismaalase tervisekontrolli ja riskihindamise andmed;\n22) teave, kas välismaalane on relvastatud, on vägivaldne, hoiab õigusemõistmisest kõrvale või on põgenenud, on suitsiidne, kujutab endast ohtu rahvatervisele või on seotud tegevusega, millele on osutatud Euroopa Parlamendi ja nõukogu direktiivi (EL) 2017/541 artiklites 3–14;\n23) andmed välismaalase tagasisaatmist käsitleva hoiatusteate kohta, mis kantakse Schengeni infosüsteemi;\n24) välismaalase suhtes riikliku järelevalve meetme, turvaabinõu või vahetu sunni vahendi kohaldamise andmed;\n25) välismaalase distsiplinaarkaristuse andmed;\n26) välismaalase väljasaatmise ja üleandmise andmed;\n27) välismaalase väljasõidukohustuse sundtäitmise ja kinnipidamiskeskuses kinnipidamise kulude andmed;\n28) menetlustoimingu ja otsuse andmed ning otsuse vaidlustamise andmed.\n(3^1) Isiku tuvastamisel ja isikusamasuse kontrollimisel isikut tõendavate dokumentide seaduse § 15^5 tähenduses võib töödelda isiku identiteediandmeid, mis on kantud andmekogusse.\n(4) Eraõiguslikes ja avalik-õiguslikes suhetes võib andmekogu andmed käesoleva paragrahvi lõikes 3 nimetatud menetlustes antud haldusaktide ja sooritatud toimingute kohta võtta aluseks andmetena välismaalase Eestis ebaseadusliku viibimise ja Eestist lahkumise kohustuse täitmise kohta.\n(5) Andmekogus, sealhulgas menetlustoimikus töödeldavad andmed ei ole avalikud.\n(6) Andmekogu vastutav töötleja on Politsei- ja Piirivalveamet.\n(7) Andmekogu põhimääruses sätestatakse andmekogu pidamise kord, sealhulgas:\n1) andmeandjad ja nendelt saadavad andmed;\n2) täpsem andmekoosseis;\n3) andmekogudevaheline andmevahetus;\n4) vastutava töötleja ülesanded;\n5) volitatud töötleja ja tema ülesanded;\n6) andmetele juurdepääsu andmise ja andmete väljastamise kord;\n7) andmete säilitamise täpsemad tähtajad;\n8) muud korralduslikud küsimused.\n(7^1) Andmekogu andmeid säilitatakse aktiivselt kõige kauem kümme aastat välismaalase lahkumiskohustuse täitmisest arvates ja arhiiviosas kõige kauem 40 aastat. Andmete säilitamise täpsemad tähtajad sätestatakse andmekogu põhimääruses.\n(8) Isiku tuvastamise või isikusamasuse kontrollimise eesmärgil töödeldavad biomeetrilised andmed kustutatakse andmekogust viivitamata pärast võrdlusuuringu tegemist."
+    },
+    {
+      "provision_ref": "para33^15",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "33^15",
+      "title": "§ 33^15. Andmekogu ABIS",
+      "content": "(1) Andmekogu ABIS on elektrooniline andmekogu, mille eesmärk käesoleva seaduse tähenduses on töödelda sissesõidukeelu kohaldamise menetluses ning Eestis seadusliku aluseta viibivate ja viibinud välismaalaste Eestis viibimise ja Eestist lahkumise kohustuse täitmisega seotud menetlustes võetud biomeetrilisi andmeid isiku tuvastamiseks ja isikusamasuse kontrollimiseks.\n(2) Käesolevas seaduses sätestatud menetlustes võib isiku tuvastamiseks ja isikusamasuse kontrollimiseks töödelda isikut tõendavate dokumentide seaduse, kodakondsuse seaduse, konsulaarseaduse, kriminaalmenetluse seadustiku, vangistusseaduse, välismaalaste seaduse, välismaalasele rahvusvahelise kaitse andmise seaduse ja väärteomenetluse seadustiku alusel andmekogusse ABIS kantud andmeid.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud seaduste alusel andmekogusse ABIS kantud andmeid võib töödelda avaliku korra ja riigi julgeoleku tagamise eesmärgil isiku tuvastamiseks ja isikusamasuse kontrollimiseks üksnes juhul, kui isikut ei ole võimalik tuvastada või tema isikusamasust kontrollida käesoleva seaduse alusel andmekogusse ABIS kantud andmete alusel.\n(4) Andmekogusse ABIS kantud andmete töötlemisele kohaldatakse isikut tõendavate dokumentide seaduse §-s 15^5 sätestatut.\n(5) Andmekogu ABIS asutab ja selle põhimääruse kehtestab Vabariigi Valitsus määrusega.\n(6) Andmekogu ABIS vastutav töötleja on Politsei- ja Piirivalveamet.\n(7) Andmekogu ABIS põhimääruses sätestatakse andmekogu ABIS pidamise kord, sealhulgas:\n1) andmeandjad ja nendelt saadavad andmed;\n2) täpsem andmekoosseis;\n3) andmekogudevaheline andmevahetus;\n4) vastutava töötleja ülesanded;\n5) volitatud töötleja ja tema ülesanded;\n6) andmetele juurdepääsu andmise ja andmete väljastamise kord;\n7) andmete säilitamise täpsemad tähtajad;\n8) muud korralduslikud küsimused.\n(7^1) Käesoleva seaduse alusel andmekogusse ABIS kantud andmeid säilitatakse järgmiselt:\n1) alalise sissesõidukeelu andmed – kõige kauem 75 aastat välismaalase sünnist arvates;\n2) tähtajalise sissesõidukeelu andmed – aktiivselt kõige kauem kümme aastat tähtajalise sissesõidukeelu lõppemisest arvates ja arhiiviosas kõige kauem 40 aastat;\n3) Eestis viibimise ja Eestist lahkumise kohustuse täitmisega seotud andmed – aktiivselt kõige kauem kümme aastat välismaalase lahkumiskohustuse täitmisest arvates ja arhiiviosas kõige kauem 40 aastat.\n(7^2) Käesoleva seaduse alusel andmekogusse ABIS kantud andmete säilitamise täpsemad tähtajad sätestatakse andmekogu ABIS põhimääruses.\n(8) Andmekogus ABIS sisalduvad andmed on juurdepääsupiiranguga ning on tunnistatud asutusesiseseks kasutamiseks mõeldud teabeks."
+    },
+    {
+      "provision_ref": "para33^16",
+      "chapter": "5. peatükk - SISSESÕIDUKEELD",
+      "section": "33^16",
+      "title": "§ 33^16. Välismaalase lahkumiskohustuse andmete edastamine Schengeni infosüsteemi",
+      "content": "(1) Kui välismaalasele on tehtud ettekirjutus lahkuda Schengeni konventsiooni ja Euroopa Liidu liikmesriigi territooriumilt, edastab Politsei- ja Piirivalveamet välismaalase lahkumiskohustuse andmed viivitamata Schengeni infosüsteemi lahkumisettekirjutuse tegemise päevast arvates vastavalt Euroopa Parlamendi ja nõukogu määrusele (EL) 2018/1860 Schengeni infosüsteemi kasutamise kohta ebaseaduslikult riigis viibivate kolmandate riikide kodanike tagasisaatmiseks (ELT L 312, 07.12.2018, lk 1–13).\n(2) Politsei- ja Piirivalveamet võib jätta Schengeni infosüsteemi välismaalase lahkumiskohustuse andmed edastamata, kui välismaalast peetakse kinni.\n(3) Politsei- ja Piirivalveamet edastab Schengeni infosüsteemi välismaalase lahkumiskohustuse andmed viivitamata juhul, kui väljasaadetav vabastatakse kinnipidamisest, ilma et ta oleks välja saadetud.\n(4) Politsei- ja Piirivalveamet võib välismaalase lahkumiskohustuse andmed jätta Schengeni infosüsteemi edastamata, kui välismaalasele on tehtud välispiiril lahkumisettekirjutus, mis viiakse kohe täide.\n(5) Politsei- ja Piirivalveamet ei edasta välismaalase lahkumiskohustuse andmeid Schengeni infosüsteemi või kustutab sinna sisestatud andmed viivitamata, kui ilmneb, et:\n1) lahkumiskohustus on pandud välismaalasele, kes on Euroopa Liidu, Euroopa Majanduspiirkonna liikmesriigi või Šveitsi Konföderatsiooni kodanik või tema perekonnaliige;\n2) välismaalast vastuvõtvaks riigiks on Schengeni konventsiooni või Euroopa Liidu liikmesriik;\n3) Schengeni konventsiooni või Euroopa Liidu liikmesriik on teavitanud kavatsusest anda välismaalasele pikaajaline viisa või elamisluba või selle kehtivusaega pikendada;\n4) välismaalane on Schengeni konventsiooni või Euroopa Liidu liikmesriigi territooriumilt lahkunud või ta suudab seda tõendada;\n5) lahkumiskohustuse andmete aluseks olev haldusakt või kohtulahend on kehtetuks tunnistatud või tühistatud.\n(6) Schengeni infosüsteemi kantud välismaalase lahkumiskohustuse andmetel on õiguslik tähendus välismaalase riigis viibimise ja riigis elamise või riigist lahkuma kohustamise otsuse tegemisel. Schengeni infosüsteemi kantud andmete õigsust eeldatakse.\n(7) Välismaalane võib esitada Euroopa Parlamendi ja nõukogu määruse (EL) 2018/1861 artikli 54 alusel Politsei- ja Piirivalveametile taotluse tema Schengeni infosüsteemi kantud lahkumiskohustuse andmetele juurdepääsu saamiseks, nende parandamiseks, kustutamiseks või selle kohta teabe või sellega seoses hüvitise saamiseks.\n(8) Käesoleva paragrahvi lõike 7 alusel esitatud taotluse kohta tehtud otsuse peale võib välismaalane esitada vaide haldusmenetluse seaduses sätestatud korras või kaebuse halduskohtule halduskohtumenetluse seadustikus sätestatud korras."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "34",
+      "title": "§ 34. Sissesõidukeelu kohaldamine välismaalasele, kelle sissesõit Eestisse on enne käesoleva seaduse jõustumist tõkestatud",
+      "content": "Välismaalase suhtes, kelle sissesõit Eestisse on enne käesoleva seaduse jõustumist tõkestatud, kohaldatakse sissesõidukeeldu vastavalt käesoleva seaduse 5. peatükile."
+    },
+    {
+      "provision_ref": "para34^2",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "34^2",
+      "title": "§ 34^2. Sunniraha rakendamine",
+      "content": "Käesolevas seaduses ettenähtud sunniraha rakendatakse alates 2002. aasta 1. jaanuarist."
+    },
+    {
+      "provision_ref": "para34^3",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "34^3",
+      "title": "§ 34^3. Enne 2022. aasta 1. juulit võetud biomeetriliste andmete töötlemine",
+      "content": "(1) Eestis seadusliku aluseta viibivate ja viibinud välismaalaste andmekogu ning sissesõidukeeldude andmekogu infotehnoloogilisse andmekogusse kantud fotod, näokujutised ja sõrmejäljekujutised kantakse andmekogusse ABIS hiljemalt 2022. aasta 30. juunil.\n(2) Eestis seadusliku aluseta viibivate ja viibinud välismaalaste andmekogu ning sissesõidukeeldude andmekogu infotehnoloogilisse andmekogusse kantud fotosid, näokujutisi ja sõrmejäljekujutisi võib säilitada samal ajal andmekogus ABIS säilitatavate andmetega, kuid kõige kauem 2025. aasta 30. juunini.\n(3) Pärast andmekogu ABIS loomist kuni andmekogu ABIS üleminekusätete rakendumise lõpptähtpäevani võib töödelda fotosid, näokujutisi ja sõrmejäljekujutisi Eestis seadusliku aluseta viibivate ja viibinud välismaalaste andmekogu ning sissesõidukeeldude andmekogu infotehnoloogilises andmekogus."
+    },
+    {
+      "provision_ref": "para34^4",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "34^4",
+      "title": "§ 34^4. Massilisest sisserändest põhjustatud hädaolukorras alustatud kohtumenetluse lõpuleviimise erisus",
+      "content": "Massilisest sisserändest põhjustatud hädaolukorras alustatud kohtumenetluse võib kohus pärast hädaolukorra lõppemist lõpuni viia massilisest sisserändest põhjustatud hädaolukorra sätete kohaselt."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "35",
+      "title": "§ 35.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "36",
+      "title": "§ 36.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "6. peatükk - RAKENDUSSÄTTED",
+      "section": "37",
+      "title": "§ 37. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 1999. aasta 1. aprillil."
+    }
+  ],
+  "definitions": []
+}

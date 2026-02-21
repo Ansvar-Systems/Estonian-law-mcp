@@ -1,0 +1,624 @@
+{
+  "id": "ee-law-130122024018",
+  "type": "statute",
+  "title": "Tolliseadus",
+  "title_en": "Tolliseadus",
+  "short_name": "TS",
+  "status": "in_force",
+  "issued_date": "2017-05-31",
+  "in_force_date": "2025-01-01",
+  "url": "https://www.riigiteataja.ee/akt/130122024018.xml",
+  "description": "Official consolidated statute text (Tolliseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Reguleerimisala",
+      "content": "(1) Käesolevas seaduses sätestatakse väljastpoolt Euroopa Liidu (edaspidi liit ) tolliterritooriumi Eestisse ja Eestist väljapoole liidu tolliterritooriumi kaupade toimetamise täpsustavad nõuded osas, mis ei ole reguleeritud liidu tollialaste õigusaktidega, ning tollijärelevalve meetmed ja vastutus tollialaste õigusaktide rikkumise eest.\n(2) Kui seadusega või liidu õigusaktidega on Maksu- ja Tolliametile pandud keeldude ja piirangutega seotud kaupade üle järelevalve teostamise kohustus, kohaldab amet järelevalve teostamisel käesolevas seaduses ja teistes tollialastes õigusaktides sätestatud tollijärelevalve meetmeid.\n(3) Liidu õigusaktides, käesolevas seaduses ja selle alusel antavates õigusaktides ette nähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades liidu õigusaktide ja käesoleva seaduse erisusi. Dokumentide kättetoimetamisele kohaldatakse maksukorralduse seaduses sätestatut.\n(4) Käesolevas seaduses kasutatakse termineid Euroopa Parlamendi ja nõukogu määruse (EL) nr 952/2013, millega kehtestatakse liidu tolliseadustik (ELT L 269, 10.10.2013, lk 1–101) (edaspidi tolliseadustik ), ja selle rakendamiseks antud õigusaktide tähenduses."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Vaide menetlemine",
+      "content": "Tolli otsuse või toimingu peale vaide esitamine ning selle lahendamine toimub kooskõlas tolliseadustiku artiklitega 44 ja 45 ning maksukorralduse seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Toll ja tolliametnikud",
+      "content": "(1) Toll tolliseadustiku artikli 5 punkti 1 tähenduses on Maksu- ja Tolliamet.\n(2) Tolliametnik on Maksu- ja Tolliameti ametnik."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Maksu- ja Tolliameti ülesanded tollialaste õigusaktide rakendamisel",
+      "content": "Tollialaste õigusaktide rakendamisel on Maksu- ja Tolliameti ülesanne kaitsta ühiskonda ja majandust maksupettuste ja salakaubaveo tõkestamisega, koguda kauba importimisel tasumisele kuuluvaid makse ning hõlbustada Eesti ja liiduväliste riikide vahelist seaduslikku kaubandust."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5",
+      "title": "§ 5. Tolli tegevuseks vajalikud ruumid",
+      "content": "(1) Tollil on õigus saada ajutise ladustamise kohas, tollilaos või vabatsoonis selle valdajalt tolli tegevuseks vajalikud tööohutus- ja töötervishoiunõuetele vastavad ruumid, võimaluse korral sisustatud bürooruumid ja tasuta kasutamiseks sidevahendid. Sideteenuste eest tasub toll.\n(2) Tollil on õigus saada piiripunktis, postiteenuse osutaja asukohas, samuti sadamas, lennu- või raudteejaamas või muus transpordisõlmes selle valdajalt tolli tegevuseks vajalikud tööohutus- ja töötervishoiunõuetele vastavad ruumid, võimaluse korral sisustatud bürooruumid ja tasuta kasutamiseks sidevahendid, kui toll ei ole valdajaga kokku leppinud teisiti. Kommunaalteenuste, sealhulgas sideteenuste ja elektri eest tasub toll, kui nende eest tasumisele kuuluv summa on arvestatud eraldi."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "6",
+      "title": "§ 6. Tolliteenuse kulu arvutamine",
+      "content": "(1) Tolliseadustiku artikli 52 lõikes 2 nimetatud tolli eriteenuste eest tasu arvutamisel võetakse aluseks tolliametniku keskmine palgakulu ja transpordikulu.\n(2) Tolliametniku keskmine palgakulu arvutatakse eelmise kalendriaasta palgakulu alusel.\n(3) Transpordikulu arvutamisel lähtutakse Maksu- ja Tolliameti ametisõidukite kasutamise keskmisest kulust sõidukilomeetri kohta teenuse osutamisele eelnenud kalendriaastal.\n(4) Tolliametniku keskmine töötasu ja transpordikulu arvutamise aluseks võetav keskmine kulu sõidukilomeetri kohta avaldatakse Maksu- ja Tolliameti veebilehel.\n(5) Eriteenusena osutatud tolliteenuse kulude arvutamise ja tasumise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "7",
+      "title": "§ 7. Maksu- ja Tolliameti ametnike vormiriietus",
+      "content": "(1) Maksu- ja Tolliameti ametnikud kannavad teenistuses olles ettenähtud juhtudel vormiriietust. Vormiriietust võivad ette nähtud juhtudel kanda ka Maksu- ja Tolliameti peadirektor ja töötajad ning Sisekaitseakadeemia töötajad ja üliõpilased.\n(2) Maksu- ja Tolliameti ametnike vormiriietuse ja eraldusmärkide kirjelduse kehtestab valdkonna eest vastutav minister määrusega.\n(3) Vormiriietuse kandjad, vormiriietuse andmise ja kandmise korra ning kandmise tähtajad määrab Maksu- ja Tolliameti peadirektor või tema volitatud ametnik."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - Ohu hindamiseks andmete saamine",
+      "section": "8",
+      "title": "§ 8. Ohu hindamiseks andmete saamine riigi andmekogust",
+      "content": "Tollil on keeldude ja piirangutega seotud kaupade Eestisse sisseveo ja Eestist väljaveo nõuete rikkumise ohu hindamiseks ning liidu finantshuvide kaitsmiseks õigus saada põhjendatud taotluse alusel riigi andmekogust tasuta andmeid kauba veoga seotud erilubade ja registrikannete ning logistika, sõidukite ja isikute kohta."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - Ohu hindamiseks andmete saamine",
+      "section": "9",
+      "title": "§ 9. Ohu hindamiseks andmete saamine ettevõtjalt",
+      "content": "(1) Tollil on keeldude ja piirangutega seotud kaupade Eestisse sisseveo ja Eestist väljaveo nõuete rikkumise ohu hindamiseks ning liidu finantshuvide kaitsmiseks õigus saada ettevõtjalt, kes tegeleb Eesti ja teiste liidu liikmesriikide vahelise kaubandusega ning postisaadetiste ja reisijate veoga, andmeid kauba, kaubaga seotud isikute ja logistika ning reisijate kohta.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud andmete struktuur, edastamise viis ja tähtaeg lepitakse kokku kirjalikult."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "3. peatükk - Jälitustoimingud, salajane koostöö ja päring sideettevõtjale",
+      "section": "10",
+      "title": "§ 10. Andmete kogumine isiku jälitusteabele juurdepääsu ja teenistusse võtmise otsustamiseks",
+      "content": "(1) Maksu- ja Tolliamet võib isiku kirjalikul nõusolekul koguda tema kohta isikuandmeid kriminaalmenetluse seadustiku § 126^3 lõikes 1 nimetatud jälitustoiminguga ning päringuga sideettevõtjale elektroonilise side seaduse § 111^1 lõigetes 2 ja 3 nimetatud andmete kohta, kui see on vajalik selleks, et otsustada isiku juurdepääs jälitusteabele või isiku teenistusse võtmine Maksu- ja Tolliametisse.\n(2) Pärast otsuse tegemist teavitatakse isikut tema suhtes käesoleva paragrahvi lõikes 1 nimetatud toimingu või päringu tegemisest ning tema soovil tutvustatakse talle toimingutega kogutud andmeid."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "3. peatükk - Jälitustoimingud, salajane koostöö ja päring sideettevõtjale",
+      "section": "11",
+      "title": "§ 11. Salajane koostöö ja konspiratsioonivõtted",
+      "content": "(1) Maksu- ja Tolliametil on õigus jälitustoimingute tegemiseks, nende tegemise tagamiseks või teabe kogumiseks kaasata isikuid salajasse koostöösse ja kasutada variisikuid, samuti kasutada konspiratsioonivõtteid politsei ja piirivalve seaduses sätestatud tingimustel.\n(2) Isiku kaasamiseks annab kirjaliku loa Maksu- ja Tolliameti peadirektor või tema määratud ametnik.\n(3) Variisiku kasutamiseks annab kirjaliku loa Maksu- ja Tolliameti peadirektor.\n(4) Konspiratsioonivõtete kasutamiseks vajaliku dokumendi annab välja ning vajaliku muudatuse andmekogus või registris teeb Maksu- ja Tolliameti peadirektori või tema volitatud ametniku põhjendatud taotluse alusel haldusorgan või juriidiline isik, kelle pädevuses on vastavat liiki dokumendi väljaandmine või andmekogus või registris muudatuse tegemine."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - Jälitustoimingud, salajane koostöö ja päring sideettevõtjale",
+      "section": "12",
+      "title": "§ 12. Päringu tegemine sideettevõtjale",
+      "content": "(1) Maksu- ja Tolliamet võib teha päringu elektroonilise side ettevõtjale kriminaalmenetluse seadustiku § 126^2 lõike 1 punktides 1 ja 2 nimetatud alusel sama paragrahvi lõike 3 punktides 1 ja 2 nimetatud isikute kohta järgmiste andmete saamiseks:\n1) elektroonilise side võrgus kasutatavate identifitseerimistunnustega seotud lõppkasutaja tuvastamiseks vajalikud andmed, välja arvatud sõnumi edastamise faktiga seotud andmed;\n2) elektroonilise side ettevõtjale antud elektroonilise side seaduse § 111^1 lõigetes 2 ja 3 sätestatud andmed, mida ei ole nimetatud käesoleva lõike punktis 1.\n(2) Käesoleva paragrahvi lõike 1 punktis 2 nimetatud andmete kohta päringu tegemiseks annab loa prokuratuur. Päringu tegemise loas märgitakse kuupäeva täpsusega ajavahemik, mille kohta andmete küsimine on lubatud."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "4. peatükk - Andmekogud ja isikuandmete töötlemine",
+      "section": "13",
+      "title": "§ 13. E-tolli andmekogu",
+      "content": "(1) E-tolli andmekogu pidamise eesmärk on käesoleva seaduse §-s 4 ja tolliseadustiku artiklis 3 sätestatud ülesannete täitmiseks teabe kogumine, töötlemine ja vahetamine.\n(1^1) Andmekogu on osa maksukorralduse seaduse § 17 lõike 1 alusel asutatud maksukohustuslaste registrist. Andmekogu pidamise kord sätestatakse maksukohustuslaste registri põhimääruses.\n(2) E-tolli andmekogu andmed ei ole avalikud, välja arvatud Eesti tollitariifistiku avalikud andmed. Maksukohustuslaste registri põhimääruses sätestatakse valitsusasutused, kellele antakse nende ülesannete täitmiseks juurdepääs andmekogu andmetele.\n(3) E-tolli andmekogu vastutav töötleja võib avaldada andmekogu andmeid liidu liikmesriigi tolliasutusele, Euroopa Komisjonile ja rahvusvahelisele organisatsioonile tollialastes õigusaktides sätestatud korras.\n(4)\n(5)"
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "4. peatükk - Andmekogud ja isikuandmete töötlemine",
+      "section": "14",
+      "title": "§ 14. Tolli automaatne numbrituvastussüsteem",
+      "content": "(1) Maksu- ja Tolliamet võib käesoleva seaduse §-ga 4 pandud ülesannete täitmiseks kasutada transpordivahendi ja kaubakonteineri registreerimismärgi jäädvustamiseks automaatset foto- või videosalvestusvahendit.\n(2) Automaatse foto- või videosalvestusvahendiga saadud isikustamata andmeid töödeldakse tolli automaatse numbrituvastussüsteemi andmekogus.\n(3) Tolli automaatse numbrituvastussüsteemi andmekogu pidamise eesmärk on riiklike maksude kogumise tagamiseks ning maksupettuste ja salakaubaveo tõkestamiseks teabe kogumine Eesti territooriumile, piiripunkti ja vabatsooni sisenevate ning sealt lahkuvate transpordivahendite ja kaubakonteinerite kohta ja selle teabe töötlemine.\n(4) Tolli automaatse numbrituvastussüsteemi andmekogu andmed ei ole avalikud. Andmekogule on juurdepääs Maksu- ja Tolliametil, Politsei- ja Piirivalveametil, Rahapesu Andmebürool, Kaitsepolitseiametil, Kaitseväel ning Välisluureametil.\n(5) Tolli automaatse numbrituvastussüsteemi andmekogu vastutav töötleja võib avaldada andmekogu andmeid teise riigi tolliasutusele liidu õigusakti või välislepingu alusel toimuva tolli- või maksualase koostöö raames.\n(6) Tolli automaatse numbrituvastussüsteemi andmekogu vastutav töötleja on Maksu- ja Tolliamet.\n(7) Tolli automaatse numbrituvastussüsteemi andmekogu asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "4. peatükk - Andmekogud ja isikuandmete töötlemine",
+      "section": "15",
+      "title": "§ 15. Läbivalgustuse piltide andmekogu",
+      "content": "(1) Maksu- ja Tolliamet töötleb käesoleva seaduse § 30 lõikes 1 nimetatud tehnilise seadmega saadud pilte ja metaandmeid läbivalgustuse piltide andmekogus.\n(2) Läbivalgustuse piltide andmekogu pidamise eesmärk on riiklike maksude kogumise tagamiseks ning maksupettuste ja salakaubaveo tõkestamiseks teabe kogumine transpordivahendite ja kaubakonteinerite kohta ja selle teabe töötlemine.\n(3) Läbivalgustuse piltide andmekogu andmed ei ole avalikud. Andmekogule on juurdepääs Maksu- ja Tolliametil, Politsei- ja Piirivalveametil, Rahapesu Andmebürool, Kaitsepolitseiametil ning Välisluureametil.\n(4) Läbivalgustuse piltide andmekogu vastutav töötleja võib avaldada andmekogu andmeid teise riigi tolliasutusele liidu õigusakti või välislepingu alusel toimuva tolli- või maksualase koostöö raames.\n(5) Läbivalgustuse piltide andmekogu vastutav töötleja on Maksu- ja Tolliamet.\n(6) Läbivalgustuse piltide andmekogu asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "4. peatükk - Andmekogud ja isikuandmete töötlemine",
+      "section": "16",
+      "title": "§ 16. Reisijate nimekirjade töötlussüsteemi andmekogu",
+      "content": "(1) Maksu- ja Tolliamet töötleb käesoleva seaduse § 9 alusel ettevõtjatelt saadud andmeid riigipiiri ületavate füüsiliste isikute kohta reisijate nimekirjade töötlussüsteemi andmekogus.\n(2) Reisijate nimekirjade töötlussüsteemi andmekogu vastutav töötleja on Maksu- ja Tolliamet.\n(3) Reisijate nimekirjade töötlussüsteemi andmekogu pidamise eesmärk on keeldude ja piirangutega seotud õigusrikkumiste tõkestamiseks teabe kogumine ja töötlemine Eesti territooriumile sisenevate ning sealt lahkuvate füüsiliste isikute kohta.\n(4) Reisijate nimekirjade töötlussüsteemi andmekogu vastutav töötleja võib avaldada andmekogu andmeid teise riigi tolliasutusele liidu õigusakti või välislepingu alusel toimuva tolli- või maksualase koostöö raames.\n(5) Reisijate nimekirjade töötlussüsteemi andmekogu andmed ei ole avalikud. Andmekogule on juurdepääs Maksu- ja Tolliametil, Politsei- ja Piirivalveametil, Rahapesu Andmebürool, Kaitsepolitseiametil, Kaitseväel ning Välisluureametil.\n(6) Reisijate nimekirjade töötlussüsteemi andmekogu asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para16^1",
+      "chapter": "4. peatükk - Andmekogud ja isikuandmete töötlemine",
+      "section": "16^1",
+      "title": "§ 16^1. Eriliiki isikuandmete töötlemine",
+      "content": "Toll võib käesoleva seaduse §-s 4 nimetatud ülesannete täitmiseks, eelkõige ühiskonna ja majanduse kaitsmise eesmärgil maksupettuste ja salakaubaveo tõkestamiseks, töödelda isiku biomeetrilisi andmeid ning terviseandmeid."
+    },
+    {
+      "provision_ref": "para16^2",
+      "chapter": "4. peatükk - Andmekogud ja isikuandmete töötlemine",
+      "section": "16^2",
+      "title": "§ 16^2. Isikuandmete esitamisest keeldumine",
+      "content": "Tollil on õigus põhjendatud juhul keelduda isikule tema kohta kogutud andmete esitamisest andmesubjekti ja teiste isikute õiguste ja vabaduste kaitseks."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "5. peatükk - Esindamine",
+      "section": "17",
+      "title": "§ 17. Tolliagentuuri tegevusloa nõue, tegevusloa taotlemine ja väljastamine",
+      "content": "(1) Tolliesindajal peab olema tollideklaratsiooni esitamiseks Maksu- ja Tolliameti antud tolliagentuuri tegevusluba.\n(2) Tegevusluba ei nõuta, kui tollideklaratsioon esitatakse:\n1) tolliseadustiku artikli 18 lõike 2 teises lõigus nimetatud juhul;\n2) füüsilise isiku poolt teise füüsilise isiku tolliesindajana, kui esindamine ei ole tema majandustegevus.\n(3) Toll keeldub tolliagentuuri tegevusloa andmisest, kui:\n1) isikul on kauba importimisel või eksportimisel kogutavate maksude puhul maksuvõlg;\n2) isik ei vasta tolliseadustiku artikli 39 punktis a nimetatud tingimusele."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "5. peatükk - Esindamine",
+      "section": "18",
+      "title": "§ 18. Tolliagentuuri tegevusloa peatamine ja kehtetuks tunnistamine",
+      "content": "(1) Toll võib peatada tolliagentuuri tegevusloa, kui tolliagentuuril on tekkinud kauba importimisel või eksportimisel kogutavate maksude puhul maksuvõlg.\n(2) Tolliagentuuri tegevusluba tunnistatakse kehtetuks tolliagentuuri kirjaliku taotluse alusel või tolli algatusel.\n(3) Tolli algatusel võib tunnistada tolliagentuuri tegevusloa kehtetuks, kui:\n1) tolliagentuur ei ole tolli määratud tähtpäevaks tasunud maksuvõlga, mis oli tegevusloa peatamise aluseks;\n2) tolliagentuur ei vasta tolliseadustiku artikli 39 punktis a nimetatud tingimusele."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "5. peatükk - Esindamine",
+      "section": "19",
+      "title": "§ 19. Tolliagent",
+      "content": "(1) Tolliagentuur tegutseb tolliagentide kaudu. Tolliagent on füüsiline isik, kes on sooritanud tolliagendi eksami ja kellele toll on andnud asjakohase tunnistuse.\n(2) Toll võib tolliagendi eksamile mitte lubada isikut, kes ei vasta tolliseadustiku artikli 39 punktis a nimetatud tingimusele.\n(3) Tolliagendi eksami läbiviimise ja tunnistuse andmise korra kehtestab valdkonna eest vastutav minister määrusega.\n(4) Toll võib tunnistada tolliagendi tunnistuse kehtetuks, kui isik ei vasta tolliseadustiku artikli 39 punktis a nimetatud tingimusele."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "6. peatükk - Eesti tollitariifistik ja kauba päritolu",
+      "section": "20",
+      "title": "§ 20. Eesti tollitariifistik",
+      "content": "(1) Eesti tollitariifistik sisaldab nõukogu määrusega (EMÜ) nr 2658/87 tariifi- ja statistikanomenklatuuri ning ühise tollitariifistiku kohta (EÜT L 256, 07.09.1987, lk 1–675) kehtestatud Euroopa Liidu integreeritud tollitariifistiku (inglise keeles Integrated Tariff of the European Union, lühend TARIC ) andmeid ja Eesti õigusaktidega kehtestatud meetmeid (edaspidi riigisisene meede ), mida rakendatakse kauba tolliprotseduurile suunamisel.\n(2) Deklarandid ja tolliametnikud juhinduvad tolliformaalsuste käigus kauba suhtes meetmeid kohaldades Eesti tollitariifistikust. Eesti tollitariifistik on avaldatud Maksu- ja Tolliameti veebilehel."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "6. peatükk - Eesti tollitariifistik ja kauba päritolu",
+      "section": "21",
+      "title": "§ 21. Eesti tollitariifistiku haldamine ja muutmine",
+      "content": "(1) Eesti tollitariifistikku haldab ja selle õigsuse eest vastutab Maksu- ja Tolliamet koostöös riigisiseste meetmete õigsuse eest vastutavate ministeeriumidega.\n(2) Eesti tollitariifistikus sisalduvaid riigisiseseid meetmeid haldava ministeeriumi või valdkonna eest vastutava ministri volitatud asutuse ülesandeks on:\n1) hallatava riigisisese meetme integreeritud tollitariifistikule vastavuse tagamine;\n2) hallatava riigisisese meetme muudatuse ettevalmistamine;\n3) riigisisest meedet sisaldava õigusakti eelnõu Maksu- ja Tolliametile arvamuse avaldamiseks esitamine;\n4) hallatavat meedet puudutava informatsiooni väljastamine.\n(3) Riigisisesed meetmed sisestab Eesti tollitariifistiku haldusmoodulisse ning neid ajakohastab Maksu- ja Tolliamet."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "6. peatükk - Eesti tollitariifistik ja kauba päritolu",
+      "section": "22",
+      "title": "§ 22. Kauba mittesooduspäritolu tõendava sertifikaadi väljastamine",
+      "content": "(1) Kauba mittesooduspäritolu tõendava sertifikaadi väljastab ja kinnitab Eesti Kaubandus-Tööstuskoda. Mittesooduspäritolu tõendava sertifikaadi väljastamine ja kinnitamine on tasuline. Tasu arvutamisel võetakse aluseks kõik Eesti Kaubandus-Tööstuskoja tehtavad kulutused päritolusertifikaatide väljastamiseks ja kinnitamiseks, sealhulgas kulutused infotehnoloogiliseks lahenduseks, töötasudeks, vastutuskindlustuseks ja vormide trükkimiseks.\n(2) Mittesooduspäritolu tõendava sertifikaadi vormi, taotlemise ja väljastamise korra ning tasude suurused kinnitab Eesti Kaubandus-Tööstuskoda ja avaldab need oma avalikul veebilehel."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "7. peatükk - Toimingud kauba tolliterritooriumile toomisel ja sealt väljaviimisel ning kauba deklareerimine",
+      "section": "23",
+      "title": "§ 23. Kauba sisenemisformaalsused",
+      "content": "Täpsustavad juhised tolliseadustikus ja selle rakendamiseks antud õigusaktides sätestatud kauba sisenemisformaalsuste teostamiseks kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "7. peatükk - Toimingud kauba tolliterritooriumile toomisel ja sealt väljaviimisel ning kauba deklareerimine",
+      "section": "24",
+      "title": "§ 24. Ajutine ladustamine",
+      "content": "(1) Ajutise ladustamise koht on selle pidaja valduses olev tolli aktsepteeritud territoorium, ehitis, ruum, statsionaarne mahuti või punkrilaev, kus on tagatud tollijärelevalve all oleva kauba puutumatus.\n(2) Tolliseadustiku artiklites 144–149 nimetatud ajutise ladustamise kohta sätestatud nõudeid täpsustavad juhised kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "7. peatükk - Toimingud kauba tolliterritooriumile toomisel ja sealt väljaviimisel ning kauba deklareerimine",
+      "section": "25",
+      "title": "§ 25. Kauba hoiulevõtmine",
+      "content": "Toll võib kaupa ajutiselt ladustada isiku taotlusel, kui tolliasutuses on sellise kauba hoidmiseks ruum ja tingimused. Kauba hoidmiseks võib toll määrata tolliseadustiku artiklis 149 sätestatust lühema tähtaja."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "7. peatükk - Toimingud kauba tolliterritooriumile toomisel ja sealt väljaviimisel ning kauba deklareerimine",
+      "section": "26",
+      "title": "§ 26. Tolliformaalsused reisirongis",
+      "content": "(1) Kui liiduvälisesse riiki suunduva reisirongi reisijate ja nende pagasi tolliformaalsused teostatakse väljaspool piiripunkti, ei tohi tolliformaalsuste alustamisest kuni rongi välispiiri ületamiseni kaupu ilma tolli loata rongist maha ega rongile laadida.\n(2) Kui liiduvälisest riigist saabuva reisirongi reisijate ja nende pagasi tolliformaalsused teostatakse väljaspool piiripunkti, ei tohi välispiiri ületamisest kuni tolliformaalsuste lõpetamiseni kaupu ilma tolli loata rongist maha ega rongile laadida."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "7. peatükk - Toimingud kauba tolliterritooriumile toomisel ja sealt väljaviimisel ning kauba deklareerimine",
+      "section": "27",
+      "title": "§ 27. Tollideklaratsiooni esitamine",
+      "content": "(1) Täpsustavad juhised tolliseadustikus ja selle rakendamiseks antud õigusaktides sätestatud tollideklaratsiooni esitamiseks kehtestab valdkonna eest vastutav minister määrusega.\n(2) Isik, kes esitab tollideklaratsiooni enne kauba saabumist väikese väärtusega saadetise kohta, mille tegelik väärtus ei ületa 150 eurot, peab tollideklaratsiooni esitamisel tagama maksukohustuse täitmise, tasudes selleks ette nähtud kontole vajaliku summa ja euro vahetuskursi muutuste katteks lisaks seitse protsenti maksusummast. Ettemaksuna tasutud summa, mis ületab tollideklaratsiooni aktsepteerimisel tekkinud maksukohustuse suuruse, tagastatakse maksukorralduse seaduses sätestatud korras.\n(3) Käesoleva paragrahvi lõiget 2 ei kohaldata isikutele, kellele on antud tolliseadustiku artiklis 110 ja käibemaksuseaduse § 38 lõikes 2^1 sätestatud õigus või kes rakendavad käibemaksuseaduse §-des 43^1 ja 43^2 sätestatud erikorda."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "7. peatükk - Toimingud kauba tolliterritooriumile toomisel ja sealt väljaviimisel ning kauba deklareerimine",
+      "section": "28",
+      "title": "§ 28. Kaubasaadetis",
+      "content": "(1) Kaubasaadetis koosneb kaupadest, mis saadetakse samal ajal samast lähtekohast samalt saatjalt samale saajale samasse sihtkohta sama veodokumendiga.\n(2) Toll võib keelduda ühe kaubasaadetise osade kohta nende importimisel eraldi tollideklaratsioone aktsepteerimast."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "8. peatükk - Deklaratsiooni õigsuse kontrollimine",
+      "section": "30",
+      "title": "§ 30. Riski hindamiseks tehnilise seadme kasutamine",
+      "content": "(1) Toll võib riski hindamiseks vajaliku teabe saamiseks kasutada kauba, transpordivahendi, pagasi, postisaadetise ja reisija riiete läbivalgustamiseks tehnilist seadet.\n(2) Kui läbivalgustamise käigus kauba pakendit, transpordivahendit, reisija pagasit ega postisaadetist ei avata, ei käsitata läbivalgustamist käesoleva seaduse §-des 63–66 nimetatud läbivaatusena."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "8. peatükk - Deklaratsiooni õigsuse kontrollimine",
+      "section": "31",
+      "title": "§ 31. Läbivaatuse akt",
+      "content": "(1) Kauba, transpordivahendi, pagasi, postisaadetise või reisija läbivaatuse tulemused kajastatakse läbivaatuse aktis.\n(2) Läbivaatuse akti ei vormistata, kui:\n1) pagas vaadatakse läbi reisija juuresolekul ja läbivaatuse käigus ei avastata korrarikkumisele viitavaid asjaolusid;\n2) transpordivahendi läbivaatuse käigus selles olevat kaupa ei teisaldata;\n3) postisaadetis vaadatakse läbi postiteenuse osutaja juuresolekul ja läbivaatuse käigus ei avastata korrarikkumisele viitavaid asjaolusid\n(3) Läbivaatuse akt vormistatakse, kui asjaomane isik seda nõuab."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "8. peatükk - Deklaratsiooni õigsuse kontrollimine",
+      "section": "32",
+      "title": "§ 32. Kaubakoguste mõõtmine",
+      "content": "(1) Tollialaste õigusaktide alusel tehtud mõõtmiste korral peab mõõtetulemuste jälgitavus olema tõendatud mõõteseaduse alusel.\n(2) Tollialastes õigusaktides nimetatud juhtudel on kauba valdaja kohustatud omal kulul korraldama kaubakoguste mõõtmise tolliformaalsuste käigus ja esitama tollile mõõtmise tulemusi kajastava dokumendi.\n(3) Kauba läbivaatuse käigus korraldab kaubakoguste mõõtmise kauba valdaja, deklarant või tolliprotseduuri pidaja tolliametniku suulise korralduse alusel."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "8. peatükk - Deklaratsiooni õigsuse kontrollimine",
+      "section": "33",
+      "title": "§ 33. Kaubast proovide ja näidiste võtmine",
+      "content": "Kaubast proovide ja näidiste võtmise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "8. peatükk - Deklaratsiooni õigsuse kontrollimine",
+      "section": "34",
+      "title": "§ 34. Tollikontrolli suunatud kaup",
+      "content": "Kaubaga, mille suhtes on toll andnud teada, et soovib seda kontrollida, ei ole ilma tolli loata toimingute ja tehingute tegemine lubatud. Ilma tolli loata tehtud toiming või tehing on tühine."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "8. peatükk - Deklaratsiooni õigsuse kontrollimine",
+      "section": "35",
+      "title": "§ 35. Tollideklaratsiooni muutmine ja kehtetuks tunnistamine pärast kauba vabastamist",
+      "content": "(1) Pärast kauba vabastamist võib tollideklaratsiooni muuta või selle kehtetuks tunnistada kooskõlas tolliseadustiku artiklitega 173 ja 174, esitades tollile kirjaliku taotluse, kus on põhjendatud tollideklaratsiooni muutmise vajadust ja lisatud muudatust tõendavad dokumendid.\n(2) Toll lubab tollideklaratsiooni muuta, kui deklareeritud andmetes ilmnenud vea tõttu on muutunud:\n1) kauba märgitud kogus või tolliväärtus vähemalt statistilise läve võrra, mis on sätestatud komisjoni rakendusmääruse (EL) 2020/1197, milles sätestatakse tehnilised spetsifikatsioonid ja kord vastavalt Euroopa Parlamendi ja nõukogu määrusele (EL) 2019/2152, mis käsitleb Euroopa ettevõtlusstatistikat ning millega tunnistatakse kehtetuks 10 ettevõtlusstatistika valdkonna õigusakti (ELT L 271, 18.08.2020, lk 1–170), V lisa liite punktis j;\n2) tollimaksu summa;\n3) aktsiisimaksu summa;\n4) käibemaksu summa ja isik, kelle eest deklaratsioon on esitatud, ei ole Eesti käibemaksukohustuslane.\n(3) Käesoleva paragrahvi lõikes 2 nimetamata juhtudel ei pea toll lubama tollideklaratsiooni muutmist, kui deklareeritud andmetes ilmnenud viga ei takista deklarandil oma kohustusi täita asjakohasel tolliprotseduuril.\n(4) Kui tollideklaratsioonist tulenevat maksukohustust on muudetud maksuotsusega, siis ei saa tollideklaratsiooni muuta käesoleva paragrahvi lõigetes 1–3 sätestatud korras, vaid rakendatakse maksukorralduse seaduses sätestatud maksuotsuse muutmise ja kehtetuks tunnistamise korda.\n(5) Kui toll avastab vea tollideklaratsioonis deklareeritud andmetes, teavitatakse deklaranti ja kaudse esindamise korral ka esindatavat tollideklaratsiooni muutmise vajadusest teatisega, milles on määratud tähtaeg tollideklaratsiooni muutmise taotluse esitamiseks.\n(6) Kui deklarant või esindatav ei esita tollile käesoleva paragrahvi lõikes 5 nimetatud teatises märgitud tähtaja jooksul taotlust ega põhjendatud vastuväiteid teatises viidatud muudatustele, nõutakse maksusumma sisse maksukorralduse seaduses sätestatud korras.\n(7) Täpsustavad juhised tollideklaratsiooni muutmise ja kehtetuks tunnistamise taotluse esitamiseks kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "8. peatükk - Deklaratsiooni õigsuse kontrollimine",
+      "section": "36",
+      "title": "§ 36. Tollivõla aegumine",
+      "content": "Kui tollivõlg on tekkinud sellise toimingu tagajärjel, mille eest võis selle tegemise ajal algatada kriminaalmenetluse, on tollivõlast võlgnikule teatamise tähtajaks viis aastat."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "9. peatükk - Eriprotseduurid",
+      "section": "37",
+      "title": "§ 37. Tolliladu",
+      "content": "Tolliladu on selle pidaja valduses olev tolli aktsepteeritud territoorium, ehitis, ruum, statsionaarne mahuti või punkrilaev, kus on tagatud tollijärelevalve all oleva kauba puutumatus."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "9. peatükk - Eriprotseduurid",
+      "section": "38",
+      "title": "§ 38. Vabatsoon",
+      "content": "(1) Tolliseadustiku artiklis 243 nimetatud vabatsoon on territoorium, mis on ümbritsetud piirdega.\n(2) Vabatsooni piire peab olema täies pikkuses jälgitav, ilma abivahenditeta lahtimonteerimatu ja välistama transpordivahendi läbisõidu jälgi jätmata.\n(3) Vabatsooni sissepääsud peavad olema tähistatud sildiga, mis teavitab ilma loata sisenemise keelust."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "9. peatükk - Eriprotseduurid",
+      "section": "39",
+      "title": "§ 39. Vabatsooni määramine",
+      "content": "(1) Vabatsooni määrab Vabariigi Valitsus oma korraldusega, milles sätestatakse vabatsooni valdaja nimi, asukoht, piirid ning sisse- ja väljapääsud.\n(2) Vabatsoon määratakse Eesti territooriumi välispiiril asuvasse transpordisõlme või selle lähedusse."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "9. peatükk - Eriprotseduurid",
+      "section": "40",
+      "title": "§ 40. Vabatsooni määramise taotlemine",
+      "content": "(1) Taotluse vabatsooni määramiseks esitab territooriumi omanik või seaduslik valdaja Rahandusministeeriumile.\n(2) Vabatsooni määramise taotlusele lisatakse:\n1) tõend territooriumi seadusliku valduse kohta;\n2) vabatsooni määramise majandusliku vajaduse põhjendus;\n3) kavandatava tegevuse kirjeldus;\n4) vabatsooni territooriumi asendiplaan;\n5) vabatsooni piiripunktide ning sisse- ja väljapääsude koordinaadid;\n6) vabatsoonis tegutsema hakkavate isikute nimekiri.\n(3) Majandusliku vajaduse kindlakstegemisel hinnatakse eelkõige, kas loodetav majanduslik kasu tuleneb otseselt soovitud tegevusest vabatsoonis või on soovitud tegevust võimalik teha ka väljaspool vabatsooni ja vabatsoon ei lisa sellele tegevusele lisaväärtust."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "9. peatükk - Eriprotseduurid",
+      "section": "41",
+      "title": "§ 41. Vabatsooni määramise otsustamine",
+      "content": "(1) Rahandusministeerium kooskõlastab vabatsooni määramise taotluse tolliga.\n(2) Toll jätab taotluse kooskõlastamata, kui:\n1) tollijärelevalve teostamine vabatsoonis eeldab ebaproportsionaalseid haldusmeetmeid;\n2) vabatsoon ei vasta tollialastes õigusaktides sätestatud nõuetele.\n(3) Vabatsooni määramisest keeldutakse, kui:\n1) toll ei kooskõlasta taotlust;\n2) vabatsooni määramine ei ole majanduslikult põhjendatud.\n(4) Otsus vabatsooni määramise või sellest keeldumise kohta tehakse 120 päeva jooksul taotluse saamise päevast arvates."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "9. peatükk - Eriprotseduurid",
+      "section": "42",
+      "title": "§ 42. Vabatsooni valdaja kohustused",
+      "content": "Vabatsooni valdaja: 1 1) koostab ja kooskõlastab tolliga vabatsooni töökorralduse;\n2) teavitab vabatsoonis tegutsevaid isikuid vabatsooni töökorraldusest ja muudest vabatsooni territooriumil kehtivatest eeskirjadest;\n3) korraldab vabatsooni piiride ning sisse- ja väljapääsude valve."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "9. peatükk - Eriprotseduurid",
+      "section": "43",
+      "title": "§ 43. Vabatsooni piiride ning sisse- ja väljapääsude muutmine ning vabatsooni määramise kehtetuks tunnistamine",
+      "content": "(1) Taotluse vabatsooni piiride ning sisse- ja väljapääsude muutmiseks esitab vabatsooni valdaja Rahandusministeeriumile.\n(2) Taotlusega koos tuleb esitada:\n1) põhjendus vabatsooni piiride ning sisse- ja väljapääsude muutmiseks;\n2) vabatsooni piiripunktide ning sisse- ja väljapääsude uued koordinaadid;\n3) uus vabatsooni territooriumi asendiplaan.\n(3) Vabatsooni määramine tunnistatakse kehtetuks, kui:\n1) vabatsoon ei vasta enam tollialastes õigusaktides ette nähtud nõuetele;\n2) vabatsoon ei ole enam majanduslikult põhjendatud;\n3) seda taotleb vabatsooni valdaja.\n(4) Vabatsooni piiride ning sisse- ja väljapääsude muutmise ning vabatsooni määramise kehtetuks tunnistamise otsustab Vabariigi Valitsus korraldusega."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "9. peatükk - Eriprotseduurid",
+      "section": "44",
+      "title": "§ 44. Vabatsoonis tegutsemine",
+      "content": "(1) Vabatsoonis kauba ladustamiseks või töötlemiseks peab isikul olema tolli luba. Tolli loa saamiseks esitab isik tollile taotluse.\n(2) Isikule, kelle tegevus ei ole seotud vabatsoonis kauba ladustamise või töötlemisega, võimaldatakse tolliseadustiku artikli 244 lõikes 2 nimetatud tegevusi tollile eelnevalt esitatud kirjaliku teate alusel. Teates on täpsustatud, millist tegevust kavandatakse.\n(3) Toll teeb otsuse vabatsoonis tegutsemise loa väljastamise kohta 60 päeva jooksul taotluse saamise päevast arvates.\n(4) Täpsustavad juhised vabatsoonis tegutsemiseks kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "9. peatükk - Eriprotseduurid",
+      "section": "45",
+      "title": "§ 45. Vabatsoonis tegutsemise loa väljastamine, kehtivuse peatamine ja kehtetuks tunnistamine",
+      "content": "(1) Toll keeldub vabatsoonis tegutsemise loa väljastamisest, kui:\n1) taotletava tegevuse tagajärjel raskeneb tollijärelevalve teostamine;\n2) taotlus ei ole tolli rahuldavalt põhjendatud;\n3) isiku raamatupidamine ei võimalda tollil tema tegevust kontrollida;\n4) isikul ei ole täpset arvepidamist kauba liikumise kohta;\n5) isiku ärialane reputatsioon ei ole laitmatu;\n6) isikul on kauba importimisel ja eksportimisel kogutavate maksude maksuvõlg.\n(2) Toll võib keelduda vabatsoonis tegutsemise loa väljastamisest, kui isik ei vasta tolliseadustiku artikli 39 punktis a nimetatud tingimusele.\n(3) Toll võib peatada vabatsoonis tegutsemise loa kehtivuse kuni kaheks kuuks ja määrata peatamise aluseks olnud asjaolude kõrvaldamiseks tähtaja, kui:\n1) isik rikub vabatsoonis tegutsemise tingimusi;\n2) esineb käesoleva paragrahvi lõike 1 punktis 3, 4, 5 või 6 nimetatud asjaolu.\n(4) Vabatsoonis tegutsemise luba tunnistatakse kehtetuks isiku kirjaliku taotluse alusel või tolli algatusel.\n(5) Toll võib vabatsoonis tegutsemise loa kehtetuks tunnistada, kui:\n1) isik ei vasta tolliseadustiku artikli 39 punktis a nimetatud tingimusele;\n2) luba on peatatud käesoleva paragrahvi lõike 3 alusel ja isik ei ole tähtpäevaks kõrvaldanud asjaolusid, mis olid loa kehtivuse peatamise aluseks;\n3) vabatsooni valdaja on taotlenud vabatsooni määramise kehtetuks tunnistamist."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "9. peatükk - Eriprotseduurid",
+      "section": "46",
+      "title": "§ 46. Eriprotseduurid",
+      "content": "Tolliseadustiku artiklis 210 loetletud eriprotseduuride kohta sätestatud nõudeid täpsustavad juhised võib valdkonna eest vastutav minister kehtestada määrusega."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "10. peatükk - Tollisoodustused ja tolliformaalsuste lihtsustamine",
+      "section": "47",
+      "title": "§ 47. Liikmesriikidevahelist reisi teostavale vee- ja õhusõidukile toimetatava tarbevaru maksuvabastus",
+      "content": "(1) Liikmesriikidevahelist reisi teostavale vee- ja õhusõidukile toimetatav tarbevaru on vabastatud imporditollimaksudest.\n(2) Tarbevaru on reisi ajal tarbimiseks vajalik kaup, mis sihtpunkti jõudes on täielikult või osaliselt ära kasutatud."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "10. peatükk - Tollisoodustused ja tolliformaalsuste lihtsustamine",
+      "section": "48",
+      "title": "§ 48. Vee- ja õhusõidukile ning raudteeveeremile toimetatava varu tolliformaalsused",
+      "content": "(1) Valdkonna eest vastutav minister kehtestab määrusega tolliformaalsused, mida kohaldatakse:\n1) riikidevahelisi reise teostavale vee- ja õhusõidukile toimetatavale varule;\n2) raudteeveeremile toimetatavale varule;\n3) rahvusvahelistes vetes sõitva otsingu-, pääste-, jäämurde- või merereostustõrjetöödega tegeleva veesõiduki varule.\n(2) Käesoleva paragrahvi lõike 1 alusel kehtestatud määrust ei rakendata kauba puhul, mis toimetatakse ettevõtlusega mitteseotud huvi- või lõbusõiduks kasutatavale vee- või õhusõidukile."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "10. peatükk - Tollisoodustused ja tolliformaalsuste lihtsustamine",
+      "section": "49",
+      "title": "§ 49. Sõjalise tegevusega seoses veetava või kasutatava kauba ja välislepingu alusel maksudest vabastatud kauba tolliformaalsused",
+      "content": "(1) Valdkonna eest vastutav minister kehtestab määrusega tolliformaalsused:\n1) sõjalise tegevusega seoses veetavale või kasutatavale kaubale;\n2) välisriigi relvajõudude liikme, välisriigi relvajõudude tsiviilkoosseisu liikme, rahvusvahelise sõjalise peakorteri liikme ja nende ülalpeetavate, samuti välisriigi relvajõudude lepingupartneri töötaja ja rahvusvahelise sõjalise peakorteri lepingupartneri töötaja isiklikuks kasutamiseks mõeldud kaubale, mis on Riigikogu poolt ratifitseeritud välislepingu alusel vabastatud maksudest.\n(2) Käesolevas seaduses kasutatakse terminit „sõjalise tegevusega seoses veetav või kasutatav kaup” komisjoni delegeeritud määruse (EL) 2015/2446, millega täiendatakse Euroopa Parlamendi ja nõukogu määrust (EL) nr 952/2013 seoses liidu tolliseadustiku teatavaid sätteid täpsustavate üksikasjalike eeskirjadega (ELT L 343, 29.12.2015, lk 1–557), artikli 1 punkti 49 tähenduses."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "10. peatükk - Tollisoodustused ja tolliformaalsuste lihtsustamine",
+      "section": "51",
+      "title": "§ 51. Diplomaatilise saadetise puutumatus",
+      "content": "(1) Välisriigi ja Eesti diplomaatiline post ja konsulaarsaadetis (edaspidi diplomaatiline saadetis ) võib sisaldada üksnes ametialaseks kasutamiseks ette nähtud dokumente ja kaupa.\n(2) Diplomaatiline saadetis tähistatakse hästi nähtavate ja selle sisule viitavate väliste märkidega.\n(3) Toll ei ava ega pea kinni diplomaatilist saadetist.\n(4) Kui tollil on riski hindamisele tuginedes alust arvata, et diplomaatiline saadetis sisaldab kaupa, mis ei ole ette nähtud üksnes ametialaseks kasutamiseks, on tollil õigus paluda, et adressaat või lähetajariigi volitatud isik avaks saadetise tolliametniku juuresolekul. Saadetise avamisest keeldumise korral saadetakse see lähetaja kulul tagasi.\n(5) Rahvusvahelise sõjalise peakorteri saadetisele kohaldatakse käesoleva paragrahvi lõikeid 1–4 juhul, kui see tuleneb välislepingust.\n(6) Välisesinduse ning välisesinduse töötaja ja tema perekonnaliikme kõigist maksudest vabastatud kauba tolliformaalsused kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "10. peatükk - Tollisoodustused ja tolliformaalsuste lihtsustamine",
+      "section": "52",
+      "title": "§ 52. Ajatundlikud kaubad",
+      "content": "(1) Loomi ja linde ning kiirestiriknevat toitu, meditsiinis kasutatavaid rakke, kudesid ja elundeid ning muid ajatundlikke kaupu (edaspidi ajatundlikud kaubad ) sisaldava kaubasaadetise piiriületuse kiirendamiseks teostatakse tolliformaalsused eelisjärjekorras.\n(2) Ajatundlike kaupade nomenklatuuri kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "11. peatükk - Kauba maanteeveoga seotud erisätted",
+      "section": "53",
+      "title": "§ 53. Sõiduki massi rahvusvahelise tunnistuse väljastamine",
+      "content": "(1) Veoettevõtja soovil väljastatakse talle kaupade piirikontrolli tingimuste kooskõlastamise rahvusvahelise konventsiooni 8. lisa (edaspidi konventsiooni 8. lisa ), mis on Euroopa Liidu nimel heaks kiidetud nõukogu otsusega 2009/161/EÜ (ELT L 55, 27.02.2009, lk 21–39), teise liite kohane sõiduki massi rahvusvaheline tunnistus.\n(2) Sõiduki massi rahvusvahelise tunnistuse võib väljastada isik, kes on pädev mõõtja mõõteseaduse tähenduses ja kes vastab konventsiooni 8. lisa teises liites nimetatud tingimustele.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud isik peab sõiduki massi rahvusvahelise tunnistuse väljastamise tegevusalal tegutsemiseks esitama majandustegevusteate.\n(4) Konventsiooni 8. lisa artikli 5 lõikes 2 nimetatud teabe avaldamise ja edastamise eest vastutab Maksu- ja Tolliamet."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "11. peatükk - Kauba maanteeveoga seotud erisätted",
+      "section": "54",
+      "title": "§ 54. TIR-märkmike kasutamise loa andja",
+      "content": "(1) TIR-märkmike alusel toimuva rahvusvahelise kaubaveo konventsiooni (edaspidi TIR-konventsioon ) 9. lisa II osa kohane TIR-märkmike kasutamise loa andmiseks pädev haldusorgan on Maksu- ja Tolliamet.\n(2) Valdkonna eest vastutav minister võib TIR-märkmike kasutamise loa andmise ülesande halduslepinguga üle anda TIR-konventsiooni 9. lisa I osas nimetatud nõuetele vastavale ühingule (edaspidi garantiiühing )."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "11. peatükk - Kauba maanteeveoga seotud erisätted",
+      "section": "55",
+      "title": "§ 55. TIR-märkmike kasutamise loa taotlemine",
+      "content": "(1) Isik, kes soovib saada loa TIR-märkmike kasutamiseks, esitab taotluse TIR-märkmike kasutamise loa andjale ning lisab taotlusele enda kohta järgmised andmed ja dokumendid:\n1) auditeeritud majandusaasta aruanne või juhatuse liikme allkirjastatud majandusaasta aruanne, kui seadusest ei tulene auditeerimiskohustust;\n2) autoveoseaduse §-s 4 nimetatud ühenduse tegevusloa number ja kehtivusaeg;\n3) rahvusvahelisel veol kasutatavate sõidukite registreerimisnumbrid, nende sõidukite omanike nimed, ja kui sõiduki omanik ei ole TIR-märkmike kasutamise loa taotleja, ka sõiduki vastutava kasutaja nimi;\n4) autoveoseaduse §-s 8 sätestatud nõuetele vastavate veokorraldusjuhtide nimed, isikukoodid ja ametipädevust tõendavate dokumentide koopiad;\n5) autoveoseaduse § 36 lõike 2 punktis 1 nimetatud tingimustele vastavate veoautojuhtide nimed, isikukoodid ja autojuhi ameti- või täienduskoolituse läbimist tõendavate dokumentide koopiad;\n6) TIR-konventsiooni nõuete täitmise kinnitus vastavalt TIR-konventsiooni 9. lisa II osa punkti 1 alapunktile e.\n(2) Kui TIR-märkmike kasutamise loa taotleja ei ole käesoleva paragrahvi lõike 1 punktis 3 nimetatud sõiduki omanik, peab TIR-märkmike kasutamise loa taotleja olema märgitud sõiduki registreerimistunnistusele vastutava kasutajana."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "11. peatükk - Kauba maanteeveoga seotud erisätted",
+      "section": "56",
+      "title": "§ 56. Loakomitee",
+      "content": "(1) Loakomitee on pädevate asutuste esindajatest moodustatud organ, mille ülesandeks on hinnata TIR-märkmike kasutamise luba taotleva isiku vastavust TIR-konventsiooni nõuetele, pädevust rahvusvahelise veo teostajana, oluliste või korduvate tolli- või maksuseaduste rikkumiste puudumist ja isiku finantsolukorra usaldusväärsust.\n(2) Loakomitee koosseisu kinnitab valdkonna eest vastutav minister käskkirjaga. Loakomitee liikmeks määravad oma esindaja garantiiühing, Maksu- ja Tolliamet ning Kliimaministeerium. Igale loakomitee liikmele nimetatakse vähemalt üks asendusliige."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "11. peatükk - Kauba maanteeveoga seotud erisätted",
+      "section": "57",
+      "title": "§ 57. TIR-märkmike kasutamise loa andmine",
+      "content": "(1) TIR-märkmike kasutamise loa andja edastab käesoleva seaduse § 55 kohase taotluse loakomiteele.\n(2) Loakomitee teeb loa andmise või sellest keeldumise kohta konsensuse alusel TIR-märkmike kasutamise loa andjale põhjendatud ettepaneku.\n(3) TIR-märkmike kasutamise loa andja teeb TIR-märkmike kasutamise loa andmise või sellest keeldumise kohta kirjaliku otsuse 30 päeva jooksul käesoleva seaduse § 55 kohase taotluse saamisest arvates ning teeb selle teatavaks taotlejale ja garantiiühingule."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "11. peatükk - Kauba maanteeveoga seotud erisätted",
+      "section": "58",
+      "title": "§ 58. TIR-märkmike kasutamise võimaldamine",
+      "content": "Garantiiühing võimaldab TIR-märkmike kasutamise loa saanud isikul TIR-märkmikke kasutada lepingu alusel, kui isik on täitnud tagatise saamiseks esitatud nõuded ja tasunud TIR-märkmike kasutamise tasud. Nimetatud nõuded ja tasud avaldatakse garantiiühingu kodulehel."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "11. peatükk - Kauba maanteeveoga seotud erisätted",
+      "section": "59",
+      "title": "§ 59. TIR-märkmike kasutamise loa peatamine ja kehtetuks tunnistamine",
+      "content": "(1) TIR-märkmike kasutamise loa saanud isik teavitab viivitamata loa andjat muudatustest käesoleva seaduse § 55 lõike 1 punktides 2–5 nimetatud andmetes.\n(2) Kui loakomitee liige saab teabe, et TIR-märkmike kasutamise loa saanud isik on rikkunud TIR-konventsiooni nõudeid, esitab loakomitee liige viivitamata loa andjale kirjalikult põhjendatud ettepaneku loa peatamiseks või kehtetuks tunnistamiseks.\n(3) TIR-märkmike kasutamise loa andja otsustab loa kehtivuse peatamise või kehtetuks tunnistamise.\n(4) TIR-märkmike kasutamise loa kehtivuse peatamise korral teatab loa andja loa saanud isikule kirjalikult loa peatamise põhjused ja annab tähtaja puuduste kõrvaldamiseks. Kui TIR-märkmike kasutamise loa saanud isik ei ole puudusi määratud tähtpäevaks kõrvaldanud ega taotlenud puuduste kõrvaldamise tähtaja pikendamist, tunnistab loa andja loa kehtetuks."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "12. peatükk - Riiklik järelevalve",
+      "section": "60",
+      "title": "§ 60. Riiklik järelevalve",
+      "content": "Riiklikku järelevalvet tollialaste õigusaktide täitmise üle teostab Maksu- ja Tolliamet."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "12. peatükk - Riiklik järelevalve",
+      "section": "61",
+      "title": "§ 61. Riikliku järelevalve erimeetmed",
+      "content": "Maksu- ja Tolliamet võib käesolevas seaduses ja käesoleva seaduse § 1 lõikes 4 nimetatud liidu õigusaktides sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30–34 ja 44–52 nimetatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras käesolevas seaduses ning käesoleva seaduse § 1 lõikes 4 nimetatud liidu õigusaktides sätestatud erisustega."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "12. peatükk - Riiklik järelevalve",
+      "section": "62",
+      "title": "§ 62. Tollitõkendid",
+      "content": "(1) Tollitõkend on identifitseerimisvahend, mille tolliametnik paigaldab kaubale, pakendile või transpordivahendile kauba identifitseerimiseks või puutumatuse tagamiseks. Ühele objektile võib panna mitu tollitõkendit.\n(2) Tollitõkend peab olema paigaldatud nii, et seda rikkumata ega pakendile või transpordivahendile sissemurdmisjälgi jätmata ei ole kaubale juurdepääs võimalik.\n(3) Kui toll paigaldab või eemaldab tollitõkendi, teeb tolliametnik selle kohta märke üld- või tollideklaratsioonile, läbivaatuse aktile, väärteoprotokollile, otsusele või muule asjakohasele dokumendile.\n(4) Tollitõkendi purunemisest, kaotsiminekust või ettenägematus olukorras eemaldamisest, samuti sissemurdmisjälgedest või muudest kahjustustest peab kauba valdaja viivitamata tolli teavitama.\n(5) Tollitõkendi eemaldab toll või asjaomane isik, kui toll on andnud isikule selleks loa kirjalikult või elektroonilise andmetöötlussüsteemi vahendusel."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "12. peatükk - Riiklik järelevalve",
+      "section": "63",
+      "title": "§ 63. Kauba ja transpordivahendi läbivaatus",
+      "content": "(1) Erandina korrakaitseseaduse § 49 lõikest 3 on tollil õigus ohu ennetamiseks kaup või transpordivahend läbi vaadata ka valdaja juuresolekuta, kui kauba või transpordivahendi valdajat ei ole võimalik mõistliku aja jooksul tuvastada või kui valdaja keeldub kauba või transpordivahendi läbivaatuse juures viibimast.\n(2) Läbivaatuse akti koostamisel lähtutakse käesoleva seaduse §-s 31 sätestatust."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "12. peatükk - Riiklik järelevalve",
+      "section": "64",
+      "title": "§ 64. Pagasi läbivaatus",
+      "content": "(1) Tolliametnik võib läbi vaadata Eesti ja liiduvälise riigi vahelist piiri ületava, samuti sadama või lennujaama transiitreisijate alal viibiva reisija pagasi.\n(2) Sadama või lennujaama transiitreisijate alal viibiva reisija pagasi võib tolliametnik läbi vaadata ohukahtluse korral.\n(3) Kontrollitav isik peab tolliametnikule oma pagasi ette näitama ja lahti pakkima.\n(4) Läbivaatuse akti koostamisel lähtutakse käesoleva seaduse §-s 31 sätestatust."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "12. peatükk - Riiklik järelevalve",
+      "section": "65",
+      "title": "§ 65. Reisija läbivaatuse erisused",
+      "content": "(1) Enne reisija läbivaatust võib temaga samast soost tolliametnik reisijat ja tema riideid väliselt kombata ning tema riided läbi valgustada, et teha kindlaks deklareerimisele kuuluva, kuid tollile esitamata, samuti keeldude või piirangutega seotud kauba olemasolu.\n(2) Tolliametnik võib reisija läbi vaadata korrakaitseseaduse §-s 48 sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "12. peatükk - Riiklik järelevalve",
+      "section": "66",
+      "title": "§ 66. Postisaadetise läbivaatus",
+      "content": "(1) Kaupa sisaldav liiduvälisest riigist saabunud rahvusvaheline postisaadetis vaadatakse läbi postiteenuse osutaja ajutise ladustamise kohas enne postisaadetise väljastamist saajale, liiduvälisesse riiki lähetatav saadetis vaadatakse läbi pärast selle saatjalt vastuvõtmist või vastuvõtmise ajal.\n(2) Postisaadetise läbivaatuseks võib toll nõuda postiteenuse osutajalt saadetise avamist. Saadetise avab ja sulgeb postiteenuse osutaja vastutav töötaja tolliametniku juuresolekul.\n(3) Kui postisaadetis sisaldab kaupa, mille importimisel või eksportimisel on nõutav sanitaar-, veterinaar-, taimetervise või muu kontroll, esitab postiettevõtja tollile vastava kontrolli läbimist tõendava dokumendi.\n(4) Postisaadetise läbivaatuse kohta koostatakse akt, arvestades käesoleva seaduse §-s 31 sätestatut. Postisaadetise läbivaatuse akti koopia edastatakse postiteenuse osutajale.\n(5) Kui postisaadetise läbivaatusel avastatakse keelatud või piiranguga seotud kaup, ei vabasta toll tolliseadustiku artikli 198 lõike 1 punkti b alapunktist iv lähtudes kaupa ja peab selle kinni. Kauba kinnipidamine protokollitakse postisaadetise läbivaatuse aktis, mille koopia edastatakse postiteenuse osutajale.\n(6) Keeldude ja piirangutega seotud kaupade üle järelevalve teostamisel võib toll teisest liidu liikmesriigist saabunud või teise liidu liikmesriiki lähetatava rahvusvahelise postisaadetise läbi vaadata käesolevas paragrahvis sätestatut järgides."
+    },
+    {
+      "provision_ref": "para66^1",
+      "chapter": "12. peatükk - Riiklik järelevalve",
+      "section": "66^1",
+      "title": "§ 66^1. Sularaha ajutine kinnipidamine",
+      "content": "Tollil on õigus sularaha kuni kolmeks tööpäevaks ajutiselt kinni pidada Euroopa Parlamendi ja nõukogu määruse (EL) 2018/1672, mis käsitleb liitu toodava või liidust välja viidava sularaha kontrolli ning millega tunnistatakse kehtetuks määrus (EÜ) nr 1889/2005 (ELT L 284, 12.11.2018, lk 6–21), artikli 7 lõike 1 rakendamiseks."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "12. peatükk - Riiklik järelevalve",
+      "section": "67",
+      "title": "§ 67. Vahetu sunni kasutamine",
+      "content": "(1) Maksu- ja Tolliamet kasutab vahetut sundi korrakaitseseaduses sätestatud alusel ja korras.\n(2) Maksu- ja Tolliameti erivahendid on:\n1) käerauad;\n2) eriotstarbeline valgus- ja heliseadeldis;\n3) eriotstarbeline värvimis- ja märgistusvahend;\n4)\n5) teenistuskoer;\n6) sidumisvahendid;\n7) sõiduki sundpeatamise vahend;\n8) tehniline tõke.\n(3) Maksu- ja Tolliameti teenistusrelvad on:\n1) külmrelvadest kumminui ja teleskoopnui;\n2) gaasirelvad;\n3) tulirelvad.\n(4) Maksu- ja Tolliameti ametniku erivahendite kandmise ja hoidmise korra kehtestab valdkonna eest vastutav minister määrusega.\n(5) Maksu- ja Tolliameti ametniku enesekaitsevahendid on vahetu sunni kohaldamisel ametniku või teenistuslooma füüsilise ohutuse tagamiseks kasutatavad esemed.\n(6) Maksu- ja Tolliameti ametniku enesekaitsevahendite loetelu ja enesekaitsevahenditele esitatavad nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "12. peatükk - Riiklik järelevalve",
+      "section": "68",
+      "title": "§ 68. Tulirelva kasutamine",
+      "content": "(1) Maksu- ja Tolliameti ametnikul on õigus kanda ja kasutada tulirelva.\n(2) Tulirelva kasutamisel järgib Maksu- ja Tolliameti ametnik korrakaitseseaduse §-s 81 sätestatut.\n(3) Tulirelva on keelatud kasutada:\n1) laste, vanurite ja ilmsete rasedustunnustega naiste vastu, välja arvatud nendepoolse relvastatud ründe või grupiviisilise ründe tõrjumiseks või tõkestamiseks või nende relvitustamiseks;\n2) välisriikide diplomaatilistes esindustes, konsulaarasutustes, erimissioonides ja rahvusvaheliste organisatsioonide esindustes, samuti diplomaatilist puutumatust omavate sõidukite suhtes, välja arvatud nende esinduste või asutuste juhtide nõusolekul või välislepingutega reguleeritud juhtudel;\n3) ehitistes, kus toodetakse või hoitakse kergesti süttivaid või mürgiseid aineid või lõhkeaineid või aineid, mis erivahendite ja relvastuse kasutamise mõjul võivad ohustada inimeste elu või tervist.\n(4) Maksu- ja Tolliameti ametnik on kohustatud tulirelva kasutamise juhtudest viivitamata teatama oma struktuuriüksuse juhile."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "13. peatükk - Vastutus tollialaste õigusaktide rikkumise eest",
+      "section": "69",
+      "title": "§ 69. Kauba ebaseaduslik Eestisse või Eestist välja toimetamine",
+      "content": "(1) Deklareeritava kauba või sularaha liiduvälisest riigist Eestisse või Eestist liiduvälisesse riiki toimetamise eest tollikontrollist kõrvale hoides, kaupa või sularaha deklareerimata jättes, seda vale tariifse klassifikatsiooniga või kirjeldusega deklareerides või muul pettuslikul viisil toimides – karistatakse rahatrahviga kuni 300 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 100 000 eurot.\n(3) Käesolevas paragrahvis nimetatud väärteo katse on karistatav."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "13. peatükk - Vastutus tollialaste õigusaktide rikkumise eest",
+      "section": "70",
+      "title": "§ 70. Ebaseaduslikud toimingud Eesti ja liiduvälise riigi vahel kaubaga, mille suhtes kehtivad keelud ja piirangud",
+      "content": "(1) Kohustusliku dokumendita või riikliku registri kandeta kauba, mille suhtes kehtivad piirangud, või keelatud kauba liiduvälisest riigist Eestisse või Eestist liiduvälisesse riiki toimetamise või tolliprotseduurile deklareerimise eest – karistatakse rahatrahviga kuni 300 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 100 000 eurot.\n(3) Käesolevas paragrahvis nimetatud väärteo katse on karistatav."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "13. peatükk - Vastutus tollialaste õigusaktide rikkumise eest",
+      "section": "71",
+      "title": "§ 71. Ebaseaduslikud toimingud liidu liikmesriikide vahel kaubaga, mille suhtes kehtivad keelud ja piirangud",
+      "content": "(1) Kohustusliku dokumendita või riikliku registri kandeta kauba, mille suhtes kehtivad piirangud, või keelatud kauba teisest liidu liikmesriigist Eestisse või Eestist teise liidu liikmesriiki toimetamise eest selliste keeldude ja piirangute korral, mille riiklikku järelevalvet teostab toll, – karistatakse rahatrahviga kuni 300 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 100 000 eurot.\n(3) Käesolevas paragrahvis nimetatud väärteo katse on karistatav."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "13. peatükk - Vastutus tollialaste õigusaktide rikkumise eest",
+      "section": "72",
+      "title": "§ 72. Ebaseaduslikud toimingud Eestis oleva kaubaga",
+      "content": "(1) Liiduvälisest riigist Eestisse tollisoodustusega toimetatud või tollijärelevalve all oleva kaubaga tehtavate teadvalt ebaseaduslike toimingute või tehingute eest – karistatakse rahatrahviga kuni 300 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 100 000 eurot."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "13. peatükk - Vastutus tollialaste õigusaktide rikkumise eest",
+      "section": "73",
+      "title": "§ 73. Vabatsoonis kehtivate nõuete rikkumine",
+      "content": "(1) Vabatsoonis teadvalt tolli loata tegutsemise või ehitise rajamise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 100 000 eurot."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "13. peatükk - Vastutus tollialaste õigusaktide rikkumise eest",
+      "section": "74",
+      "title": "§ 74. Kauba ladustamise nõuete rikkumine",
+      "content": "(1) Ajutise ladustamise kohas, tollilaos või vabatsoonis kauba ladustamise või kauba üle arvestuse pidamise nõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 50 000 eurot."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "13. peatükk - Vastutus tollialaste õigusaktide rikkumise eest",
+      "section": "75",
+      "title": "§ 75. Transpordivahendiga seotud tollialaste õigusaktide rikkumine",
+      "content": "(1) Tollialastes õigusaktides ette nähtud kohas või teenistuskohustusi täitva tolliametniku märguandel transpordivahendi peatamata jätmise või tolliformaalsuste teostamisel transpordivahendiga ilma tolli loata edasisõitmise eest – karistatakse rahatrahviga kuni 200 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 50 000 eurot."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "13. peatükk - Vastutus tollialaste õigusaktide rikkumise eest",
+      "section": "76",
+      "title": "§ 76. Tollitõkendi rikkumine",
+      "content": "(1) Tollitõkendi rikkumise või omavolilise eemaldamise eest või tollitõkendiga kaitstud transpordivahendisse tungimise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 50 000 eurot."
+    },
+    {
+      "provision_ref": "para77",
+      "chapter": "13. peatükk - Vastutus tollialaste õigusaktide rikkumise eest",
+      "section": "77",
+      "title": "§ 77. Ebaseaduslikud toimingud tollijärelevalve all oleva veosega",
+      "content": "(1) Tollijärelevalve all oleva veose tahtliku avamise, ümberpakkimise, ümber- või mahalaadimise eest tolli loata, samuti sellise tegevuse tahtliku võimaldamise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 50 000 eurot."
+    },
+    {
+      "provision_ref": "para78",
+      "chapter": "13. peatükk - Vastutus tollialaste õigusaktide rikkumise eest",
+      "section": "78",
+      "title": "§ 78. Konfiskeerimine",
+      "content": "(1) Kohtuväline menetleja või kohus võib kohaldada käesoleva seaduse §-des 69–72 nimetatud väärteo toimepanemise vahetuks objektiks olnud eseme või aine konfiskeerimist vastavalt karistusseadustiku §-le 83.\n(2) Kohtuväline menetleja või kohus võib konfiskeerida tollialaste õigusaktide rikkumise eesmärgil eriliselt ümber ehitatud transpordivahendi, millega või mille abil pandi toime tollialaste õigusaktide rikkumine.\n(3) Kinni peetud, riigi omandisse üle läinud ja tolli konfiskeeritud kaupa hoitakse tolli valduses või see paigutatakse hoiule tollilattu või tolli aktsepteeritud kohta, kui kauba mõõtmed ja olemus seda võimaldavad."
+    },
+    {
+      "provision_ref": "para79",
+      "chapter": "13. peatükk - Vastutus tollialaste õigusaktide rikkumise eest",
+      "section": "79",
+      "title": "§ 79. Menetlus",
+      "content": "Käesoleva seaduse §-des 69–77 nimetatud väärtegude kohtuväline menetleja on Maksu- ja Tolliamet."
+    },
+    {
+      "provision_ref": "para80",
+      "chapter": "14. peatükk - Kauba riigi omandisse üleminek, võõrandamine ja hävitamine",
+      "section": "80",
+      "title": "§ 80. Kauba riigi omandisse üleminek tolli otsusel",
+      "content": "(1) Tolliseadustiku artikli 198 lõikes 1 nimetatud olukorras oleva kauba puhul teatab toll kirjalikult deklarandile, tolliprotseduuri pidajale või kauba valdajale oma kavatsusest teha kauba riigi omandisse ülemineku otsus.\n(2) Kui tegemist ei ole keelatud kaubaga, mille riigi omandisse üleminek tuleneb seadusest, määrab toll käesoleva paragrahvi lõikes 1 nimetatud teates tähtaja tollialastest õigusaktidest tulenevate nõuete täitmiseks.\n(3) Toll ei tee kauba riigi omandisse ülemineku otsust, kui tollialastes õigusaktides sätestatud nõuded täidetakse.\n(4) Tollil on õigus võtta konfiskeeritud kauba kaubapartiist põhjendatud kogus kaupa õigusrikkumiste ennetustöös kasutamiseks."
+    },
+    {
+      "provision_ref": "para81",
+      "chapter": "14. peatükk - Kauba riigi omandisse üleminek, võõrandamine ja hävitamine",
+      "section": "81",
+      "title": "§ 81. Kauba riigile loovutamine kauba valdaja taotlusel",
+      "content": "(1) Kui kauba valdaja soovib kauba riigile loovutada, esitab ta kauba asukoha järgsele tolliasutusele kirjaliku taotluse.\n(2) Kauba riigi omandisse ülemineku otsuse teeb toll kümne päeva jooksul sellekohase taotluse saamise päevast arvates.\n(3) Kaupa ei saa riigile loovutada, kui kaup ei ole hõlpsasti realiseeritav, selle realiseerimisega kaasnevad tarbetud halduskulud või sellise kauba vabasse ringlusse lubamine ei ole õigusaktidega lubatud.\n(4) Kauba riigile loovutamise täpsustavad juhised kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para82",
+      "chapter": "14. peatükk - Kauba riigi omandisse üleminek, võõrandamine ja hävitamine",
+      "section": "82",
+      "title": "§ 82. Riigi omandisse üle läinud kauba ja transpordivahendi võõrandamine ja hävitamine",
+      "content": "(1) Riigi omandisse üle läinud kaup võõrandatakse riigivaraseaduses sätestatud korras.\n(2) Kui riigi omandisse üle läinud kaupa ei ole võimalik võõrandada, teeb toll selle hävitamise otsuse.\n(3) Kauba hävitamise otsusele märgitakse tasu, mille kaupa liiduvälisest riigist Eestisse või Eestist liiduvälisesse riiki toimetada püüdnud isik peab tasuma hävitamise kulude katteks.\n(4) Kui ei ole võimalik leida isikut, kes püüdis toimetada kaupa liiduvälisest riigist Eestisse või Eestist liiduvälisesse riiki, tasub toll hävitamise eest oma eelarvest."
+    },
+    {
+      "provision_ref": "para83",
+      "chapter": "15. peatükk - Rakendussätted",
+      "section": "83",
+      "title": "§ 83. Tolliteenistuse staaži sooduskorras arvestamine",
+      "content": "Tolliteenistuse staaži hulka arvatakse sooduskorras kolmekordselt teenistuse aeg tolliametnikuna alates 1990. aasta 22. oktoobrist kuni 1994. aasta 31. juulini, kui isiku tolliteenistuse staaž on kokku vähemalt 20 aastat."
+    },
+    {
+      "provision_ref": "para84",
+      "chapter": "15. peatükk - Rakendussätted",
+      "section": "84",
+      "title": "§ 84.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para110",
+      "chapter": "15. peatükk - Rakendussätted",
+      "section": "110",
+      "title": "§ 110.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para111",
+      "chapter": "15. peatükk - Rakendussätted",
+      "section": "111",
+      "title": "§ 111. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2017. aasta 1. juulil."
+    }
+  ],
+  "definitions": []
+}

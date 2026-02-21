@@ -1,0 +1,1009 @@
+{
+  "id": "ee-law-108072025022",
+  "type": "statute",
+  "title": "Kiirgusseadus",
+  "title_en": "Kiirgusseadus",
+  "short_name": "KiS",
+  "status": "in_force",
+  "issued_date": "2016-06-08",
+  "in_force_date": "2025-07-18",
+  "url": "https://www.riigiteataja.ee/akt/108072025022.xml",
+  "description": "Official consolidated statute text (Kiirgusseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus sätestab:\n1) põhilised ohutusnõuded inimese ja keskkonna kaitsmiseks ioniseeriva kiirguse kahjustava mõju eest;\n2) isikute õigused ja kohustused ioniseeriva kiirguse kasutamisel;\n3) kiirgustegevuse nõuded;\n4) riikliku järelevalve korralduse käesolevas seaduses sätestatud nõuete täitmise üle;\n5) vastutuse käesolevas seaduses sätestatud nõuete täitmata jätmise eest.\n(2) Käesolev seadus reguleerib kiirgustegevust ja toiminguid, mille korral looduslikud kiirgusallikad võivad põhjustada töötajate ja elanike kiirituse olulist suurenemist ning sekkumist avarii- ja püsikiirituse olukorras.\n(3) Käesolev seadus ei reguleeri radoonist tekitatud kiiritust eluruumides, kosmilisest kiirgusest tekitatud kiiritust maapinnal ja inimtegevusest puutumatus maakoores sisalduvatest radionukliididest tekitatud kiiritust maapinna kohal."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Haldusmenetluse seaduse ja keskkonnaseadustiku üldosa seaduse kohaldamine",
+      "content": "(1) Käesolevas seaduses sätestatud haldusmenetlusele kohaldatakse haldusmenetluse seadust, arvestades käesolevas seaduses sätestatud erisusi.\n(2) Käesolevas seaduses sätestatud kiirgustegevuseks antud kiirgustegevusloa ja kiirgustegevuse registreeringu menetlusele kohaldatakse keskkonnaseadustiku üldosa seaduse 5. peatükki, arvestades käesolevas seaduses sätestatud erisusi."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Kiirgusohutus",
+      "content": "Kiirgusohutus on inimese ja keskkonna kaitsmine ioniseeriva kiirguse kahjustava mõju eest."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Kiirgustegevus",
+      "content": "(1) Kiirgustegevus on mis tahes tegevus, mis suurendab või võib suurendada inimese kiiritust tehislikest või looduslikest kiirgusallikatest.\n(2) Kiirgustegevus on muu hulgas:\n1) radioaktiivse aine tootmine, töötlemine, kasutamine, omamine, hoidmine, ladustamine, vedu, sealhulgas sisse- ja väljavedu, ning vahe- ja lõppladustamine;\n2) ioniseerivat kiirgust emiteeriva ja suurema kui 5-kilovoldise potentsiaalide vahe juures töötava elektriseadme kasutamine;\n3) tuumakäitise käitamine.\n(3) Töötlemine käesoleva seaduse tähenduses on keemilised ja füüsikalised toimingud radioaktiivse materjaliga, sealhulgas kaevandamine, muundamine, lõhustuva või fertiilse tuumamaterjali rikastamine ning kasutatud tuumkütuse ümbertöötamine.\n(4) Radioaktiivne materjal on radioaktiivseid aineid sisaldav materjal."
+    },
+    {
+      "provision_ref": "para4^1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4^1",
+      "title": "§ 4^1. Kiirgustegevuse tegija",
+      "content": "Kiirgustegevuse tegija käesoleva seaduse tähenduses on selline juriidiline isik või füüsilisest isikust ettevõtja, kellel on kiirgustegevusluba või kiirgustegevuse registreering."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5",
+      "title": "§ 5. Ioniseeriv kiirgus",
+      "content": "Ioniseeriv kiirgus on energia siire otseselt või kaudselt ioone tekitavate osakeste või elektromagnetiliste lainetena, mille lainepikkus on 100 nanomeetrit või lühem."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "6",
+      "title": "§ 6. Radioaktiivne aine, radionukliid ning aktiivsus ja aktiivsuskontsentratsioon",
+      "content": "(1) Radioaktiivne aine on üht või enamat radionukliidi sisaldav aine, mille aktiivsus või aktiivsuskontsentratsioon on kiirgusohutuse seisukohalt oluline.\n(2) Looduslik radioaktiivne aine (NORM – Naturally Occuring Radioactive Material) on peamiselt looduslikke radionukliide kaalium-40, toorium-232, uraan-235 või uraan-238 ning nende lagunemisritta kuuluvaid radionukliide sisaldav radioaktiivne aine, mille aktiivsus või aktiivsuskontsentratsioon on kiirgusohutuse seisukohalt oluline.\n(3) Radionukliid on aatom, millel on kindla aatommassi ja aatomnumbriga iseloomustatud radioaktiivselt lagunev tuum.\n(4) Aktiivsus ( A ) on mingis kindlas energiaseisundis oleva radionukliidi koguse aktiivsus etteantud ajal: A = dN / dt, kus dN on sellest energiaseisundist toimuvate spontaansete tuumasiirete arvu ooteväärtus ajavahemiku dt jooksul.\n(5) Aktiivsuskontsentratsioon on aines ühtlaselt jaotunud radionukliidi aktiivsus aine massiühiku, pindalaühiku või ruumalaühiku kohta."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "7",
+      "title": "§ 7. Kiirgusallikas",
+      "content": "(1) Kiirgusallikas on seade, radioaktiivne aine või rajatis, mis on võimeline emiteerima ioniseerivat kiirgust või radioaktiivseid aineid.\n(1^1) Elektrikiirgusseade on seade, mis tekitab ioniseerivat kiirgust, nagu röntgenikiirgus, neutronid, elektronid või muud laenguga osakesed.\n(1^2) Lahtine kiirgusallikas on kiirgusallikas, milles sisalduv radioaktiivne aine tema eesmärgipärasel kasutamisel ei ole püsivalt suletud kapslisse või ei kuulu tahke aine koostisse.\n(2) Kinnine kiirgusallikas on kiirgusallikas, mille ehitus välistab nõuetekohasel kasutamisel radioaktiivsete ainete pääsemise keskkonda.\n(2^1) Kiirgusallika konteiner on osade komplekt, mis on mõeldud kinnise kiirgusallika sulgemiseks ja mis ei ole kiirgusallika lahutamatu osa, vaid on ette nähtud kiirgusallika varjestamiseks transportimisel ja käsitsemisel.\n(3) Kõrgaktiivne kiirgusallikas on kinnine kiirgusallikas, mis sisaldab radionukliidi, mille teadaolev aktiivsus valmistamise ajal või esmakordse turuleviimise ajal on kehtestatud aktiivsustasemega võrdne või suurem.\n(4) Radionukliidide aktiivsustasemed, millega võrdse või millest suurema väärtuse korral liigitatakse kiirgusallikas kõrgaktiivseks kiirgusallikaks, kehtestab valdkonna eest vastutav minister määrusega.\n(5) Kasutusest kõrvaldatud kiirgusallikas on kiirgusallikas, mida enam ei kasutata või ei kavatseta kasutada kiirgustegevusloale või kiirgustegevuse registreeringule vastaval eesmärgil.\n(5^1) Omanikuta kiirgusallikas on kiirgusallikas, välja arvatud elektrikiirgusseade, mis ei ole käesoleva seaduse § 8 alusel reguleeriva kontrolli alt välja arvatud ega reguleeriva kontrolli all, sest see ei ole kunagi sellise kontrolli all olnud või see on maha jäetud, kaotatud, valesse kohta teisaldatud, varastatud või üle antud ilma nõuetekohase loata.\n(6) Radioaktiivse kiirgusallika kategooria on ohuaste, mis määratakse kiirgusallika potentsiaalse kiirituse hindamise alusel, võttes võimaluse korral arvesse radioaktiivse aine füüsikalisi ja keemilisi omadusi ning selles sisalduvate radionukliidide aktiivsust.\n(7) Kiirgusallika ohutustamine on kogu tegevus, mis on vajalik ohtliku kiirgusallika ohutuks muutmiseks kiirgusallikaga seotud kiirgustegevuse lõpetamisel."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "8",
+      "title": "§ 8. Väljaarvamistase ja vabastamistase",
+      "content": "(1) Väljaarvamistase on radioaktiivse aine aktiivsuse või aktiivsuskontsentratsiooni väärtus, millega võrdse või millest väiksema väärtuse korral kiirgustegevusluba või kiirgustegevuse registreeringut ei nõuta.\n(2) Vabastamistase on radioaktiivse aine aktiivsuse või aktiivsuskontsentratsiooni väärtus, millega võrdse või millest väiksema väärtuse korral võib iga kiirgustegevusluba või kiirgustegevuse registreeringut nõudva kiirgustegevuse käigus tekkivad radioaktiivsed ained või radioaktiivseid aineid sisaldavad materjalid vabastada käesoleva seaduse § 62 lõike 3 alusel kehtestatud tingimuste kohaselt käesoleva seaduse nõuete kohaldamisest.\n(3) Väljaarvamise ja vabastamise taotlusele esitatavad nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "9",
+      "title": "§ 9. Elanik",
+      "content": "Elanik on käesoleva seaduse tähenduses füüsiline isik, välja arvatud kutse- või meditsiinikiiritust saav isik."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "10",
+      "title": "§ 10. Kiirgustöötaja",
+      "content": "Kiirgustöötaja on kiirgustegevuse tegijaga töö- või teenistussuhtes olev isik, sealhulgas välistöötaja, kes saab tööl käesoleva seadusega reguleeritud kiirgustegevuse käigus kiiritust ja kelle saadud kiirgusdoos ületab või võib ületada käesoleva seaduse § 50 lõike 6 alusel elanikule kehtestatud doosi piirmäärasid."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "11",
+      "title": "§ 11. Kiiritus",
+      "content": "Kiiritus on ioniseeriva kiirguse mõju inimesele."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "12",
+      "title": "§ 12. Avarii- ja püsikiirituse olukord ning kiirgushädaolukord",
+      "content": "(1) Avariikiirituse olukord on tuuma- või kiirgusavarii, kuriteo või muu ootamatu sündmuse tagajärjel kujunenud kiiritusolukord, mille kontrolli all hoidmine nõuab inimese elu ja tervise, vara või keskkonna kaitsmiseks edasilükkamatute kaitsemeetmete rakendamist.\n(2) Püsikiirituse olukord on tavapärasest kiirgustasemest suurem looduslik kiiritus või minevikus toimunud kiirgustegevuse või avariikiirituse olukorra tagajärjel tekkinud kiiritus või muu mittetavapärane kiiritusolukord, mis ei nõua või enam ei nõua edasilükkamatute kaitsemeetmete rakendamist.\n(3) Kiirgushädaolukord on avariikiirituse olukord, millega kaasneb või võib kaasneda käesoleva seaduse § 105 lõike 3 alusel kehtestatud sekkumistasemete ületamine."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "13",
+      "title": "§ 13. Avariikiiritus ja avariitöötaja",
+      "content": "(1) Avariikiiritus on avariikiirituse olukorra tagajärjel toimunud inimeste kiiritamine, mis ei hõlma avariikutsekiiritust.\n(2) Avariitöötaja käesoleva seaduse tähenduses on iga isik, kes täidab avariikiirituse olukorras kindlaksmääratud ülesannet ja võib nimetatud ülesande täitmise käigus kiiritust saada."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "14",
+      "title": "§ 14. Elanikukiiritus, kutsekiiritus ja avariikutsekiiritus",
+      "content": "(1) Elanikukiiritus on elaniku saadav kiiritus, välja arvatud kutse- või meditsiinikiiritus.\n(2) Kutsekiiritus on kiiritus, mida kiirgustöötaja saab või võib saada kiirgustegevusloa või kiirgustegevuse registreeringu alusel toimuvast kiirgustegevusest.\n(3) Avariikutsekiiritus on kiiritus, mida saab avariitöötaja avariikiirituse olukorras."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "15",
+      "title": "§ 15. Kavandatav kiiritusolukord, normaalkiiritus ja potentsiaalne kiiritus",
+      "content": "(1) Kavandatav kiiritusolukord on kiirgusallika plaanikohase käitamise või kiiritusradu muutva inimtegevuse tõttu tekkiv kiiritusolukord, mis põhjustab või võib põhjustada inimese või keskkonna kiiritamist. Kavandatav kiiritusolukord hõlmab nii normaal- kui ka potentsiaalkiiritust.\n(2) Normaalkiiritus on rajatise käitamise või tegevuse käigus, sealhulgas hooldamisel, ülevaatamisel ja dekomissioneerimisel, normaalsete töötingimuste rakendamisel oodatav kiiritus, mis hõlmab ka väiksemaid vahejuhtumeid, mis suudetakse hoida kontrolli all.\n(3) Potentsiaalne kiiritus on kiiritus, mille saamine ei ole kindel, kuid mille esinemise tõenäosust saab eelnevalt hinnata."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "16",
+      "title": "§ 16. Meditsiinikiiritus",
+      "content": "Meditsiinikiiritus on kiiritus, mida saab:\n1) isik haiguse diagnoosimisel, ravimisel või varajasel avastamisel;\n2) kiiritatava isiku abistaja, kes aitab meditsiinikiiritusega seotud toimingu käigus meditsiinikiiritust saavat patsienti, kui selline abistamine ei ole tema kutsetöö ja ta on teadlik kiiritamisega kaasnevatest ohtudest;\n3) isik, kes on vabatahtlikult andnud nõusoleku osaleda teadusuuringus või kliinilises uuringus."
+    },
+    {
+      "provision_ref": "para16^1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "16^1",
+      "title": "§ 16^1. Mittemeditsiiniline kiiritus",
+      "content": "Mittemeditsiiniline kiiritus on kiiritus, mida isik saab ioniseeriva kiirguse kavandatud kasutamisel isiku kuvamiseks ning mille eesmärk ei ole haiguse diagnoosimine, ravimine ega varajane avastamine."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "17",
+      "title": "§ 17. Looduskiiritus",
+      "content": "Looduskiiritus on maise või kosmilise päritoluga looduslikest ioniseeriva kiirguse allikatest põhjustatud kiiritus."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "18",
+      "title": "§ 18. Tuumamaterjal",
+      "content": "Tuumamaterjal on plutoonium, välja arvatud plutooniumi isotoopide segu, milles Pu-238 sisaldus on suurem kui 80 protsenti, uraan-233, uraan-235 ja uraan-233 või uraan-235 suhtes rikastatud uraan, looduslikku isotoopide segu sisaldav uraan, mis ei esine maagi või maagi jäägina, toorium ning üht või mitut eelnimetatud tuumamaterjali sisaldav mis tahes materjal."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "19",
+      "title": "§ 19. Tuumaohutus",
+      "content": "Tuumaohutus on olukord, mis saavutatakse kiirgusohutusalase tegevusega, mille eesmärk on õigete käitamistingimuste saavutamine käitamisnõuete täitmise kaudu ning avariikiirituse vältimine ja avariikiirituse tagajärgede leevendamine, mille tulemusena suureneb töötajate ja muu elanikkonna kaitse tuumakäitiste ioniseerivast kiirgusest tulenevate ohtude eest."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "20",
+      "title": "§ 20. Tuumakäitis, tuumkütusetsükkel ja kasutatud tuumkütus",
+      "content": "(1) Tuumakäitis on rikastuskäitis, tuumkütuse valmistamise tehas, tuumaelektrijaam, töötlemiskäitis ja uurimisreaktor ning nendega vahetult seotud ja samas kohas asuv rajatis kasutatud tuumkütuse ladustamiseks, samuti rajatis radioaktiivsete jäätmete hoidmiseks, mis on eespool loetletud tuumakäitistega otseselt seotud ja asub samas kohas.\n(2) Tuumkütusetsükkel on kõik tuumaenergia tootmisega seotud toimingud, sealhulgas tuumamaterjale sisaldava maagi kaevandamine ja töötlemine, isotooprikastamine, tuumkütuse valmistamine, kasutamine ja ladustamine, kasutatud tuumkütuse ümbertöötamine ning tekkinud jäätmete käitlemine ja vahe- või lõppladustamine.\n(3) Kasutatud tuumkütus on reaktori südamikus kiiritatud ja sealt alaliselt eemaldatud tuumkütus, mida võib käsitleda kasutatava ressursina, kui seda on kavas ümber töötada, või radioaktiivse jäätmena, kui see suunatakse lõppladustamisele."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "21",
+      "title": "§ 21. Kiirgustegevuse põhjendamine",
+      "content": "(1) Kavandatavat kiirgustegevust tuleb põhjendada, tõendades, et see on kiirgustegevuse põhjustatava võimaliku tervisekahjustuse suhtes majanduslike, sotsiaalsete või muude hüvede poolest parim.\n(1^1) Tervisekahjustus käesoleva seaduse tähenduses on eluea kestuse ja elukvaliteedi vähenemine inimese kiiritamise tagajärjel, sealhulgas kahjustus, mis tuleneb koereaktsioonidest, vähktõvest ja suurtest geneetilistest kõrvalekalletest.\n(2) Kui saadakse uusi ja olulisi tõendeid olemasoleva kiirgustegevusliigi tõhususe või tagajärgede kohta, tuleb kiirgustegevuse põhjendus üle vaadata."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "22",
+      "title": "§ 22. Kiirituse optimeerimine",
+      "content": "Iga kiiritus tuleb hoida nii väikesena kui majandus- ja sotsiaaltegureid mõistlikult arvesse võttes on võimalik."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "23",
+      "title": "§ 23. Kiiritusel saadavate dooside piiramine",
+      "content": "(1) Kiiritusel saadavate dooside summa ei tohi ületada käesoleva seaduse § 50 lõike 6 alusel kehtestatud piirmäärasid. Seda nõuet ei kohaldata meditsiinikiirituse ja avariikutsekiirituse suhtes.\n(2) Efektiivdoos on inimkeha kudede ja elundite erinevat kiirgustundlikkust iseloomustavate koefaktoritega korrutatud ekvivalentdooside summa.\n(3) Ekvivalentdoos on inimkeha koe või elundi neeldumisdoosi ja toimiva kiirguse kiirgusfaktori korrutis.\n(4) Neeldumisdoos käesoleva seaduse tähenduses on inimkeha koe või elundi keskmine doos neeldunud ioniseeriva kiirguse energia aine massiühiku kohta.\n(5) Kiirgusfaktor on kiirguseliikide erinevat tervisekahjustusvõimet arvestav dimensioonitu tegur.\n(6) Koefaktor on inimkeha kudede ja elundite erinevat kiiritustundlikkust arvestav dimensioonitu tegur.\n(7) Doosikiirus on doosi kasv ajaühikus.\n(8) Doosi piirmäärad on kiirgustöötajatele ja elanikele põhjustatavate kiirgusdooside maksimumväärtused, mida kohaldatakse piiritletud ajavahemiku kestel väliskiiritusest ja radionukliidide sissevõtust saadud dooside summa suhtes. Aasta kestel radionukliidide sissevõtust tekitatav doos summeeritakse 50 aasta (lastel kuni 70 aasta) kestel.\n(8^1) Doosipiirang on isiku oodatava doosi ülempiirile seatud piirang, mis põhineb kavandatavas kiirgustegevuses kindla kiirgusallika kasutamise optimeerimisel vaadeldavate võimaluste väljaselgitamisel.\n(9) Sissevõtt on radionukliidide sisenemine kehasse hingamisteede, seedekulgla või naha kaudu."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "24",
+      "title": "§ 24. Radioaktiivsete ainete lisamine ja selliste lisanditega toiduainete ja tarbekaupade ning loomasööda sisse- ja väljavedu",
+      "content": "(1) Radioaktiivsete ainete tahtlik lisamine toiduainetele, loomasöödale, mänguasjadele, ehetele ja kosmeetikatoodetele nende valmistamisel ning selliste radioaktiivseid aineid sisaldavate kaupade sisse- ja väljavedu on keelatud.\n(2) Mänguasjades ja ehetes kasutatavate materjalide aktiveerimine nende valmistamisel ning selliste radioaktiivseid aineid sisaldavate toodete ja materjalide sisse- ja väljavedu on keelatud.\n(3) Aktiveerimine on protsess, mille käigus stabiilne nukliid muudetakse radionukliidiks, kiiritades seda sisaldavat materjali osakestega või suure energiaga footonitega.\n(4) Tarbekaup käesoleva seaduse tähenduses on toode, millesse on tahtlikult sisestatud üks või mitu radionukliidi või milles need on loodud aktiveerimise teel või mis tekitab ioniseerivat kiirgust ning mille saab müüa või elanikele kättesaadavaks teha ilma müügijärgse järelevalve või reguleeriva kontrollita.\n(5) Keskkonnaamet teavitab Euroopa Liidu liikmesriikide pädevaid asutusi käesoleva paragrahvi lõikes 4 nimetatud tarbekaupade tootmise ja sisseveo lubamisest või keelamisest."
+    },
+    {
+      "provision_ref": "para24^1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "24^1",
+      "title": "§ 24^1. Kiirgustegevuse tegija vastutus",
+      "content": "Kiirgustegevuse tegija vastutab käesolevas seaduses ja kiirgustegevusloa või kiirgustegevuse registreeringu tingimustes sätestatud kohustuste täitmise eest, et tagada kiirgusohutus ja töötajate kaitse kõigis olukordades, mis on seotud tema valduses oleva kiirgusallika või kiirgustegevusega."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "2. peatükk - Kiirgusohutuse kavandamine",
+      "section": "25",
+      "title": "§ 25. Kiirgusohutustegevuse korraldamine",
+      "content": "Kiirgusohutustegevust korraldab oma pädevuse piires Kliimaministeerium Keskkonnaameti kaudu, kaasates selleks teisi asjaomaseid asutusi ning võttes muu hulgas arvesse valdkonnapõhiseid käitamiskogemusi, otsustusprotsessi tulemusi, asjaomase tehnoloogia arengut ja teadusuuringuid."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "2. peatükk - Kiirgusohutuse kavandamine",
+      "section": "26",
+      "title": "§ 26. Kiirgusohutuse riiklik arengukava",
+      "content": "(1) Keskkonnaseadustiku üldosa seaduse §-s 1 sätestatud eesmärgi ja §-des 8–13 sätestatud põhimõtete ning käesolevas seaduses sätestatud kiirgusohutuse põhimõtete elluviimise riiklik kavandamine toimub Kliimaministeeriumi koostatud kiirgusohutuse riikliku arengukava (edaspidi arengukava ) kaudu.\n(2) Arengukavas analüüsitakse kiirgusohutuse olukorda riigis, määratakse meetmed kiirgusohutuse tõhustamiseks ning antakse hinnang, kuidas arengukava aitab ellu viia käesoleva paragrahvi lõikes 1 viidatud eesmärki ja põhimõtteid.\n(3) Arengukava kinnitab valdkonna eest vastutav minister käskkirjaga."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "2. peatükk - Kiirgusohutuse kavandamine",
+      "section": "27",
+      "title": "§ 27. Arengukava sisu",
+      "content": "Arengukavas käsitletavad valdkonnad on eelkõige kiirguskaitse ja tuumaohutuse tagamine, radioaktiivsete jäätmete käitlemine, avarii- ja püsikiirituse olukordade lahendamine, kiirgusteadlikkuse suurendamine ning loodus- ja meditsiinikiiritusega seotud probleemid."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "2. peatükk - Kiirgusohutuse kavandamine",
+      "section": "28",
+      "title": "§ 28. Tegevuskavad arengukava elluviimiseks",
+      "content": "(1) Arengukava elluviimiseks või kiirgusohutuse korraldamise ja tõhustamise eesmärkide saavutamiseks võib Kliimaministeerium koostada käesoleva seaduse §-s 27 nimetatud valdkondade kohta tegevuskavad.\n(2) Tegevuskavad kinnitab valdkonna eest vastutav minister käskkirjaga."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "2. peatükk - Kiirgusohutuse kavandamine",
+      "section": "29",
+      "title": "§ 29. Kiirgusohutuse riiklik audit ja temaatiline vastastikhindamine",
+      "content": "(1) Kiirgusohutuse riiklik audit on kiirgusohutuse suurendamise eesmärgil korraldatav audit, mille käigus hinnatakse riigi kiirgusohutuse õiguslikku ja organisatsioonilist korraldust ning kiirgus- ja tuumaohutust tagavaid asutusi. Auditisse kaasatakse rahvusvaheliselt tunnustatud kiirguseksperte.\n(1^1) Temaatiline vastastikhindamine on tuumaohutuse tagamise eesmärgil koostatav riigisisene hindamine, mille kohta koostatav aruanne esitatakse hinnangu saamiseks teistele Euroopa Liidu liikmesriikidele ja Euroopa Komisjonile. Temaatilise vastastikhindamise tulemusi võetakse arvesse käesoleva seaduse §-des 26 ja 28 nimetatud arengukava ja tegevuskavade koostamisel.\n(2) Kiirgusohutuse riikliku auditi korraldab Kliimaministeerium vähemalt iga kümne aasta järel või viivitamata, kui tuumakäitises on tekkinud avariikiirituse olukord.\n(3) Temaatilisi vastastikhindamisi korraldab Kliimaministeerium Euroopa Komisjoni juhiste kohaselt."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "2. peatükk - Kiirgusohutuse kavandamine",
+      "section": "30",
+      "title": "§ 30. Kiirgusohutuse juhend- ja teabematerjal ning teabe edastamine",
+      "content": "(1) Keskkonnaamet ja Terviseamet edendavad oma pädevuse piires kiirgusteadlikkust, heade praktikavõtete kasutamist ja kiirgusohutuse põhimõtete järgimist ning annavad välja kiirgus- ja tuumaohutuse juhend- ja teabematerjale, mis avaldatakse Keskkonnaameti ja Terviseameti veebilehel.\n(2) Keskkonnaamet ja Terviseamet jagavad asjaomastele isikutele, sealhulgas kiirgusallikate tootjatele ja tarnijatele, ning vajaduse korral ka rahvusvahelistele organisatsioonidele, kiirgusohutusteavet, mis põhineb muu hulgas uut tüüpi kiirgustegevuse tuvastamisest, inspekteerimisest ning teatatud vahejuhtumitest ja õnnetustest ning nende kohta tehtud järeldustest omandatud kogemustel."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "2. peatükk - Kiirgusohutuse kavandamine",
+      "section": "31",
+      "title": "§ 31. Kiirgusohutust tagavad tasulised teenused",
+      "content": "(1) Keskkonnaamet võib osutada oma põhitegevusega seotud kiirgusohutust tagavaid tasulisi teenuseid, kui see ei takista tema põhimäärusest tulenevate ülesannete täitmist.\n(2) Tasuliste teenuste tasu alam- ja ülemmäärad teenuste liikide kaupa on järgmised:\n1) kiirgustaseme mõõtmine ühes mõõtepunktis – 25–75 eurot;\n2) kiirgustegevuse kiirgusohutushinnangu koostamine ning kiirgusvarjestuse arvutamine – üks tund 10–30 eurot;\n3) termoluminestsentsdosimeetriga mõõtmine isikudoosi määramiseks – 13–39 eurot;\n4) aine radioaktiivsuse laboratoorne analüüs – 50–320 eurot;\n5) radoonisisalduse mõõtmine ruumi õhus – 45–135 eurot.\n(3) Arvestades käesoleva paragrahvi lõikes 2 sätestatut, kehtestab valdkonna eest vastutav minister määrusega tasuliste teenuste täpsustatud loetelu ja tasu määrad, võttes aluseks teenuse osutamiseks vajalikud tööjõu-, materjali-, seadmete ja üldkulud."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "32",
+      "title": "§ 32. Kiirgustegevuse tegija üldkohustused",
+      "content": "(1) Kiirgustegevuse tegija on kohustatud:\n1) järgima kiirgusohutuse põhimõtteid;\n2) tagama kiirgusohutuse ja enda valduses oleva kiirgusallika füüsilise kaitse, sealhulgas kontrollima vähemalt üks kord aastas, kas kiirgusallikas või seda sisaldav seade asub kasutus- või hoidmiskohas ning on väliselt heas seisundis;\n3) tagama kiirgusallika ohutuse, paigaldades ja asetades kiirgusallika ruumis õigesti, märgistama kiirgusallika ja ruumi ning kasutama kaitsevahendeid;\n4) pidama iga tema vastutusel oleva kiirgusallika ja radioaktiivse jäätme, selle asukoha ja üleandmise kohta arvestust ning tegema üks kord aastas kiirgusallikate ja radioaktiivsete jäätmete inventuuri;\n5) koostama kiirgustööde tegemiseks ja kiirgustöötajate juhendamiseks vajalikud eeskirjad ning tagama uue tehnoloogia või seadme kasutusele võtmisel nende eeskirjade ajakohastamise;\n6) korraldama kiirgustöötajate tervisekontrolli;\n7) tagama kasutatavate mõõteriistade regulaarse kontrollimise ja kalibreerimise ning vastutama nende kasutuskõlblikkuse ja asjatundliku kasutamise eest;\n8) tõendama pädeva asutuse nõudmisel radioaktiivse aine või radioaktiivset ainet sisaldava kiirgusseadme omamise seaduslikkust;\n9) tegema enne kiirgusallika üleandmist kindlaks, kas vastuvõtjal on asjakohane kiirgustegevusluba või kiirgustegevuse registreering;\n10) muutma kiirgusallika pärast kasutamise lõpetamist ohutuks vastavalt ohutustamise kavale;\n11) tagama radioaktiivsete jäätmete käitlemise viisil, mille prognoositav kahjulik mõju tulevastele põlvedele ei oleks suurem kui käesoleva seadusega või selle alusel kehtestatud õigusaktidega lubatud;\n12) katma kõik radioaktiivsete jäätmete käitlemisega seotud kulud;\n13) tagama, et tekkivate radioaktiivsete jäätmete ja heidete aktiivsus ja kogused oleksid võimalikult väikesed;\n14) leevendama avariikiirituse olukorra tagajärgi;\n15) viivitamata teavitama Keskkonnaametit ja Häirekeskust hädaabinumbril 112 kiirgusallika kadumisest, vargusest või loata kasutamisest ning kiirgustegevuse käigus toimunud juhtumist või avariist, mille tagajärjel on töötaja või elanik saanud käesoleva seaduse § 50 lõike 6 alusel kehtestatud piirmääradest suurema ekvivalent- või efektiivdoosi, ning sündmuse järel esitama Keskkonnaametile analüüsi selle tekkepõhjuste ja parandusmeetmete rakendamise kohta;\n16) kontrollima kiirgusallika terviklikkust pärast iga sündmust, kui kiirgusallikas võib olla saanud kahjustada, ning teavitama vajaduse korral Keskkonnaametit sellest sündmusest ja rakendatud abinõudest;\n17) eelistama kiirgusallika hankel tootjat, kes on nõus lisama müügilepingusse tingimuse kiirgusallika tootjale tagastamise kohta;\n18) mitte pakkuma töötajatele varalist või muud soodustust kiirgusohutusnõuete täitmata jätmise eest.\n(2) Suure ohuga kiirgustegevuse korral on kiirgustegevusloa omaja kohustatud:\n1) koostama avariikiirituse olukorra lahendamise plaani;\n2) kindlustama, et kiirgustegevuse rajatiste projekti ja uute kiirgusallikate kasutusele võtmist oleks tunnustanud kiirgusekspert.\n(3) Kiirgustegevusloa omaja peab tagama endal piisavate finantsvahendite olemasolu radioaktiivse aine, seda sisaldava kiirgusallika ja radioaktiivsete jäätmete ohutustamise kulude katmiseks.\n(4) Nõuded kiirgusallika asukohaks olevatele ruumidele, ruumide ja kiirgusallika märgistamisele ning radionukliidide aktiivsustasemed kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "33",
+      "title": "§ 33. Tuumamaterjali omava isiku kohustused",
+      "content": "(1) Tuumamaterjali omav isik on kohustatud pidama kasutatava tuumamaterjali arvestust alates selle soetamisest kuni jäätmena ladustamiseni, kahjutustamiseni või omaniku vahetuseni ja määrama tuumamaterjali arvestuse pidamise eest vastutava isiku.\n(2) Tuumamaterjali omav isik teavitab Keskkonnaametit igast tuumamaterjali koguse muudatusest viivitamata.\n(3) Tuumamaterjali arvestuse pidamiseks kasutatakse kiirgusallikaid iseloomustavate andmete loetelusid.\n(4) Tuumamaterjali arvestuse pidamiseks kasutatavate kiirgusallikaid iseloomustavate andmete loetelud kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "34",
+      "title": "§ 34. Kiirgustegevuse ohuaste",
+      "content": "(1) Eristatakse järgmiste ohuastmetega kiirgustegevusi:\n1) väga väikese ohuga kiirgustegevus;\n2) väikese ohuga kiirgustegevus;\n3) mõõduka ohuga kiirgustegevus;\n4) suure ohuga kiirgustegevus.\n(2) Kiirgustegevuse ohuaste määratakse, võttes arvesse järgmisi kiirgusallika ja kiirgustegevusega seotud riskitegureid:\n1) kiirgusohutuse ja füüsilise kaitse riskid;\n2) taristu ja ressursid;\n3) ohutuskultuur;\n4) kiirgustöötajate ja elanike potentsiaalsed hinnatavad doosid normaalsetes töötingimustes ning avarii- ja püsikiirituse olukorras;\n5) muud olulised tegurid.\n(3) Kiirgustegevuse ohuastme määramise korra kehtestab valdkonna eest vastutav minister määrusega, võttes arvesse käesoleva paragrahvi lõikes 2 sätestatut.\n(4) Keskkonnaamet määrab kiirgustegevuse ohuastme kiirgustegevusloa ja kiirgustegevuse registreeringu andmise menetluses käesoleva paragrahvi lõike 3 alusel kehtestatud korra kohaselt.\n(5) Suure ohuga kiirgustegevuseks loetakse alati järgmised kiirgustegevused:\n1) kõrgaktiivse kiirgusallikaga seotud kiirgustegevus;\n2) tuumakäitise käitamine;\n3) tuumkütusetsükli mis tahes rajatise ekspluateerimine, sulgemine ja dekomissioneerimine;\n4) radioaktiivsete jäätmete vahe- ja lõppladustamine.\n(6) Radioaktiivsete kiirgusallikate kategooriad ja kiirgusallika füüsilise kaitse nõuded kiirgusallika kategooria järgi kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "35",
+      "title": "§ 35. Kiirgusohutuse kvaliteedijuhtimise süsteem",
+      "content": "(1) Kiirgustegevuse tegija on kohustatud välja töötama ja rakendama kiirgusohutuse ning sellega seotud muu tegevuse kvaliteedijuhtimise süsteemi, mis tagab käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete ning kiirgustegevusloa või kiirgustegevuse registreeringuga määratud tingimuste täitmise.\n(2) Kiirgusohutuse kvaliteedijuhtimise süsteem käsitleb:\n1) kavandatud süstemaatilist tegevust, mille eesmärk on kiirgusohutuse tagamine;\n2) tööülesannete analüüsi ja kiirgusallika kasutamiseks vajalikke oskusi ja nõudeid, mis hõlmavad eelkõige kiirgustegevuse kirjeldust, kiirgustegevuse juhendmaterjale ja töötajate koolituse korda;\n3) materjalide ja seadmete hankimise, kasutamise ja kasutusest kõrvaldamise tingimusi;\n4) kiirgustegevuse ajal rakendatavate kiirgusohutuse protseduuride kirjeldusi;\n5) kiirgusohutuse kvaliteedijuhtimise süsteemi toimimise kontrollimise ja uuendamise korda.\n(3) Lisaks käesoleva paragrahvi lõikes 2 sätestatule käsitleb tuumakäitise kiirgusohutuse kvaliteedijuhtimise süsteem:\n1) tuumaohutuse tagamiseks tehtava süstemaatilise tegevuse kirjeldust;\n2) tööülesannete analüüsi ja tuumakäitise opereerimiseks vajaliku pädevuse nõudeid;\n3) tuumaohutusnõuete järgimise kontrollisüsteemi kirjeldust;\n4) töötajate koolituse ja juhendamise kavasid."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "37",
+      "title": "§ 37. Kiirgusallika ja radioaktiivsete jäätmete inventuuri aruanne",
+      "content": "(1) Kiirgustegevuse tegija on kohustatud esitama Keskkonnaametile aruande käesoleva seaduse § 32 lõike 1 punktis 4 nimetatud inventuuri kohta aruandeaastale järgneva aasta 1. märtsiks.\n(2) Kui kiirgustegevusloa või kiirgustegevuse registreeringu tingimustes ei ole märgitud teisiti, peavad arvestusdokumendid sisaldama kiirgusallika kohta andmeid, mis on nõutavad kiirgustegevusloa või kiirgustegevuse registreeringu taotlemisel.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud aruanne esitatakse keskkonnaotsuste infosüsteemi kaudu."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "38",
+      "title": "§ 38. Kiirgustegevusloa omaja kohustused kõrgaktiivse kiirgusallika korral",
+      "content": "Lisaks käesoleva seaduse §-s 32 sätestatud üldkohustustele on kiirgustegevusloa omaja kohustatud kõrgaktiivse kiirgusallikaga seotud kiirgustegevuse korral: 1 1) tagama, et kiirgusallikaga on kaasas kirjalik teave, mis tõendab, et kiirgusallikas on identifitseeritud kordumatu numbriga ja sisaldab ülesvõtteid kiirgusallikast, kiirgusallika konteinerist, veopakendist ning vajaduse korral vahenditest ja seadmetest;\n2) tagama, et kiirgusallika terviklikkuse kontrollimiseks ja hooldamiseks on tehtud loa andja määratud sagedusega nõuetekohased testid;\n3) tagastama iga kasutusest kõrvaldatud kiirgusallika viivitamata pärast selle kasutamise lõppu tootjale, andma üle teisele kiirgustegevusluba omavale isikule või radioaktiivsete jäätmete käitluskohta;\n4) sõlmima kiirgusallika omandamisel tootjaga lepingu, mille kohaselt tootja kohustub kiirgusallika tagasi võtma hiljemalt 15 aastat pärast kiirgusallika sissevedu, kui kiirgusallika aktiivsus kümme aastat pärast selle riiki sissevedu on suurem kui 10 MBq."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "39",
+      "title": "§ 39. Kiirgustegevusloa omaja radioaktiivsete jäätmetega seotud kohustused",
+      "content": "Lisaks käesoleva seaduse §-s 32 sätestatud üldkohustustele on kiirgustegevusloa omaja kohustatud radioaktiivsete jäätmete käitlemisega seotud kiirgustegevuse korral: 1 1) tagama radioaktiivsete jäätmete hoiuruumi ohutuse kogu selle kasutamise kestel;\n2) korraldama radioaktiivsete jäätmete töötlemise, kui see on vajalik radioaktiivsete jäätmete omaduste muutmiseks enne juhtimist keskkonda, või konditsioneerimise ning vahe- või lõppladustamise;\n3) arvestama tegevuse planeerimisel ning tegevuse käigus ka muude ohtudega ning radioaktiivsete jäätmete tekkimise eri etappe ja radioaktiivsete jäätmete vastastikust mõju;\n4) andma radioaktiivsed jäätmed viie aasta jooksul pärast nende tekkimist üle radioaktiivsete jäätmete ladustuskohta."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "40",
+      "title": "§ 40. Kiirgustegevusloa omaja kohustused tuumakäitise käitamisel",
+      "content": "Lisaks käesoleva seaduse §-s 32 sätestatud üldkohustustele on kiirgustegevusloa omaja kohustatud tuumakäitise käitamisel: 1 1) tagama tuumaohutuse meetmete rakendamise ja asjaomaste nõuete järgimise;\n2) tagama, et tuumakäitise töötajad ja alltöövõtjad järgivad tuumakäitises rakendatavat tuumaohutuskultuuri ja kiirgusohutuse kvaliteedijuhtimise süsteemi oma tööülesannetest lähtudes;\n3) hindama tuumaohutust tuumakäitises vähemalt sama sagedasti, kui see on sätestatud kiirgustegevusloa tingimustes."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "41",
+      "title": "§ 41. Radioaktiivse aine ja radioaktiivset ainet sisaldava seadme vedu",
+      "content": "(1) Radioaktiivset ainet ja radioaktiivset ainet sisaldavat seadet, mille aktiivsus või aktiivsuskontsentratsioon on suurem kui väljaarvamistase, veetakse maanteel, raudteel ning õhu- ja veeteel ohtlikke veoseid käsitlevate õigusaktidega sätestatud korras.\n(2) Radioaktiivse aine ja radioaktiivset ainet sisaldava seadme vedu üle riigipiiri toimub kooskõlas Eesti Vabariigi suhtes jõustunud välislepingutega ja õigusaktide alusel.\n(3) Radioaktiivse aine ja radioaktiivset ainet sisaldava seadme vedu on radioaktiivse aine transportimisega seotud toimingud lähtekohast sihtkohta, kaasa arvatud peale- ja mahalaadimine."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "42",
+      "title": "§ 42. Meditsiinikiirituse protseduur",
+      "content": "(1) Meditsiinikiirituse protseduuri tegemisel peab meditsiinikiirituse kasutamine olema põhjendatud ja protseduuri tegemisest tulenev eeldatav kasu üksikisikule või ühiskonnale peab kaaluma üles kiiritamisest tuleneva võimaliku isikukahjustuse.\n(1^1) Meditsiinikiirituse protseduuri tuleb teha optimeeritult, hoides protseduuri tegemisel kiirgusdoosi nii väiksena, kui see on protseduuri eesmärgi saavutamiseks võimalik ja mõistlik.\n(1^2) Patsienti peab enne meditsiinikiirituse protseduuri tegemist teavitama ioniseeriva kiirgusega kaasnevatest ohtudest ja kättesaadava teabe põhjal peavad olema välja selgitatud andmed patsiendile varem tehtud meditsiinikiirituse protseduuride kohta.\n(2) Meditsiinikiirituse protseduur on iga toiming, mis on seotud meditsiinikiiritusega.\n(2^1) Meditsiinikiiritusest tingitud võimalik isikukahjustus on üksikisikul või tema järeltulijal kliiniliselt avalduv kahjulik mõju, mis ilmneb kohe või viivitusega.\n(3)\n(4) Meditsiinikiirituse protseduuride kiirgusohutusnõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para42^1",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "42^1",
+      "title": "§ 42^1. Meditsiinikiiritusseadmete kasutamine mittemeditsiinilise kiirituse protseduuri tegemiseks",
+      "content": "(1) Kiirgustegevusloa omaja tagab meditsiinikiiritusseadmete kasutamisel mittemeditsiinilise kiirituse protseduuri tegemiseks meditsiinikiirituse protseduuride tegemisega samaväärsete nõuete täitmise.\n(2) Meditsiinikiiritusseade on meditsiinikiirituse protseduuride tegemisel kasutatav ioniseerivat kiirgust emiteeriv või registreeriv seade."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "43",
+      "title": "§ 43. Meditsiinikiirituse protseduuride kliiniline audit",
+      "content": "(1) Meditsiinikiirituse protseduuride kliinilise auditi nõuetekohase tegemise tagab kiirgustegevusloa omaja.\n(2) Meditsiinikiirituse protseduuride kliiniline audit on kliinilise tulemuslikkuse, ohutuse ja kvaliteedi parandamise eesmärgil meditsiinikiirituse praktika kavakindel läbivaatamine ja võrdlemine hea tava standarditega, vajaduse korral muutes asjakohaselt meditsiinikiirituse praktikat, kohandades standardeid ja korraldades kiirgustöötajate või meditsiinikiirituse protseduuridega seotud muude töötajate koolitust ja juhendamist.\n(2^1) Meditsiinikiirituse praktika on meditsiinikiirituse protseduuride tegemine ning protseduuriga seotud eelnevate ja järgnevate toimingute tegemine.\n(3)\n(4)\n(5) Meditsiinikiirituse protseduuride kliinilise auditi nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "44",
+      "title": "§ 44. Diagnostiline referentsväärtus",
+      "content": "(1) Diagnostilisi referentsväärtusi kasutatakse meditsiinikiirituse protseduuride optimeerimisel. Nende ületamisel tuleb kaaluda asjakohaseid meetmeid patsiendidoosi vähendamiseks.\n(2) Diagnostiline referentsväärtus on meditsiinikiirituse protseduuriga kaasneva kiirgusdoosi või radiofarmatseutilise ravimi aktiivsuse võrdlustase standardsuurusega patsiendi jaoks.\n(2^1) Diagnostiliste referentsväärtuste määramise tagab Terviseamet.\n(3) Diagnostilised referentsväärtused ja diagnostiliste referentsväärtuste määramise nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "45",
+      "title": "§ 45. Kiirgustöötajate kategooriad",
+      "content": "Kiirgustöötajate kategooriad on: 1 1) A-kategooria kiirgustöötaja, kes võib saada suurema efektiivdoosi kui kuus millisiivertit või suurema kui kolm kümnendikku käesoleva seaduse § 50 lõike 6 alusel kehtestatud silmaläätse, naha ja jäsemete ekvivalentdoosi piirmäärast;\n2) B-kategooria kiirgustöötaja, kes on kiirgustöötaja, keda ei liigitata A-kategooriasse."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "46",
+      "title": "§ 46. Kiirgusohutuse spetsialist",
+      "content": "(1) Kiirgusohutuse spetsialist on asjaomase kiirgustegevusega seotud kiirguskaitse küsimustes tehniliselt pädev isik, kelle kiirgustegevuse tegija võib määrata kiirgusohutusnõuete täitmise korraldajaks ettevõttes.\n(1^1) Sõltuvalt kiirgustegevuse laadist võib kiirgusohutuse spetsialist täita muu hulgas järgmisi tööülesandeid:\n1) tagada, et kiirgustöid tehakse kiirgustööeeskirjas ettenähtud nõuete kohaselt;\n2) kontrollida töökoha seire kava rakendamist;\n3) säilitada kõiki kiirgusallikaid käsitlevaid asjakohaseid andmeid;\n4) regulaarselt hinnata ohutus- ja hoiatussüsteemide toimimist;\n5) kontrollida kiirgustöötaja isikudooside seire kava rakendamist;\n6) kontrollida kiirgustöötaja tervisekontrolli kava rakendamist;\n7) tutvustada uutele töötajatele kiirgustööeeskirju ja -juhendeid;\n8) koostada kiirgustegevusega seotud tööplaane või osaleda nende koostamisel;\n9) esitada juhtkonnale aruandeid;\n10) osaleda avariikiirituse olukorra ennetamises ja sellele reageerimiseks valmisoleku korraldamises;\n11) juhendada kiirgustöötajaid ja korraldada nende koolitust;\n12) teha koostööd kiirguseksperdiga.\n(2) Kui tegemist on suure ohuga kiirgustegevusega või kiirgustegevuse tegijal on rohkem kui kümme kiirgustöötajat, on kiirgusohutuse spetsialisti määramine kohustuslik.\n(3) Kiirgusohutuse spetsialisti määramine ei vabasta kiirgustegevuse tegijat vastutusest kiirgusohutuse tagamise eest.\n(4) Kiirgusohutuse spetsialisti kiirgusohutusalase koolitamise nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "47",
+      "title": "§ 47. Vanusepiirang kiirgustööle lubamisel",
+      "content": "Alla 18 aasta vanuseid isikuid ei tohi määrata ühelegi kiirgustööle."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "48",
+      "title": "§ 48. Kiirgustöötaja kiirgusohutusalane koolitus ja juhendamine",
+      "content": "(1) Kiirgustegevuse tegija on kohustatud tagama kiirgustöötajale töö iseloomu ja töökoha tingimusi arvestava kiirgusohutusalase koolituse ning juhendamise.\n(2) Kiirgustöötaja kiirgusohutusalase koolitamise nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "49",
+      "title": "§ 49. Kiirgustöötaja tervisekontroll",
+      "content": "(1) Kiirgustegevuse tegija on kohustatud tagama A-kategooria kiirgustöötaja tööle võtmisel või A-kategooria kiirgustöötajaks klassifitseerimisel töötaja tervisekontrolli enne tema tööle asumist ja tema tööle asumisel vähemalt üks kord aastas. Kui enne tööle asumist tehtava tervisekontrolli tulemus näitab, et töötaja ei sobi konkreetsele ametikohale, ei tohi teda A-kategooria kiirgustöötajaks klassifitseerida ega sellele ametikohale tööle võtta.\n(2) Kui kiirgustöötajal tuvastatakse kehtestatud piirmääradest suurema kiirituse saamine, suunab kiirgustegevuse tegija ta viivitamata erakorralisse tervisekontrolli.\n(3) Kiirgustöötaja tervisekontroll toimub töötervishoiu ja tööohutuse seaduses sätestatud korras.\n(4) Tööandja esitab A-kategooria kiirgustöötaja tervisekontrolli saatmisel töötervishoiuarstile kiirgustöötaja kutsekiirituse dooside andmed, kandes need töötervishoiu ja tööohutuse seaduse § 13^1 lõike 1 punkti 8 alusel kehtestatud määruse lisas 2 esitatud vormile. Töötervishoiuarst kannab kiirgustöötaja doosiandmed tema tervisekontrolli kaardile.\n(5) Töötervishoiuteenuse osutaja täidab A-kategooria töötaja tervisekontrolli kaarti doosiandmetega niikaua, kuni töötaja kuulub sellesse kategooriasse. Pärast seda säilitab töötervishoiuteenuse osutaja kaarti niikaua, kuni kõnealune isik on või oleks saanud 75-aastaseks, kuid vähemalt 30 aastat pärast ioniseeriva kiirgusega seotud töö lõppu."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "50",
+      "title": "§ 50. Isikudooside seire",
+      "content": "(1) Kiirgustegevuse tegija korraldab kiirgustöötajate isikudooside seiret ning seireandmete esitamise doosiregistrisse.\n(1^1) Kiirgustegevuse tegija annab töötajale või välistöötajale tema soovi korral juurdepääsu tema individuaalse seire tulemustele, sealhulgas mõõtmistulemustele, mida tulemuste hindamisel võidi kasutada, või dooside hindamise tulemustele, kui hindamise aluseks oli järelevalve töökohas.\n(2) A-kategooria kiirgustöötajate isikudooside seire töökohal on pidev ja isikudooside seireandmete kontrollimine toimub vähemalt üks kord kuus.\n(3) B-kategooria kiirgustöötajate isikudooside seire peab olema piisav näitamaks, et töötaja on liigitatud B-kategooriasse õigesti.\n(4) Kui kiirgustöötaja võib saada olulist kiiritust radionukliidide sissevõtu tõttu, peab kiirgustegevuse tegija korraldatud isikudooside seire võimaldama kiirgustöötaja radionukliidide sissevõtust saadavaid isikudoose hinnata või mõõta.\n(5) Isikudooside seire käigus tehtavad mõõtmised peavad olema akrediteeritud.\n(6) Kiirgustöötaja ja elaniku efektiivdoosi ning silmaläätse, naha ja jäsemete ekvivalentdoosi piirmäärad kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "51",
+      "title": "§ 51. Välistöötaja",
+      "content": "Välistöötaja on kiirgustöötaja, kaasa arvatud praktikant ja üliõpilane, keda ei ole tööle võtnud jälgimisala või kontrolliala eest vastutav isik, kuid kes täidab neil aladel tööülesandeid."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "52",
+      "title": "§ 52. Välistöötaja kiirgusohutuse tagamine",
+      "content": "(1) Kiirgustegevuse tegija tagab välistöötajale kiirgustöötajaga võrdse kiirgusohutuse ning tema töö iseloomu ja töökoha tingimusi arvestava väljaõppe ja kiirgusohutusalase juhendamise.\n(1^1) Enne välistöötaja tööle lubamist kontrollib kiirgustegevuse tegija doosikaardile kantud andmete põhjal, et välistöötaja:\n1) sobib kiirgustööle tervisekontrolli andmete alusel;\n2) eelmise ja planeeritava kiirgustegevuse oodatavate kutsekiirituse dooside suurus ei ületa doosi kehtivaid piirmäärasid;\n3) on läbinud kiirgusohutuskoolituse.\n(2) Välistöötaja doosikaardile kantavad andmed ja doosikaardi vormistamise korra ning doosikaardi vormi kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "53",
+      "title": "§ 53. Kontrolli- ja jälgimisala",
+      "content": "(1) Kiirgusallika asukohaks oleva ruumi, ehitise, kiirgusallika liigi ning kiirgusohu suuruse järgi jaotatakse töökohad:\n1) kontrollialaks;\n2) jälgimisalaks.\n(2) Kontrollialal tagatakse kaitse ioniseeriva kiirguse eest või radioaktiivse saaste leviku tõkestamine asjakohaste reeglite kehtestamise kaudu. Juurdepääsu kontrollialale kontrollitakse.\n(3) Jälgimisalal tagatakse kaitse ioniseeriva kiirguse eest asjakohase seire kaudu.\n(4) Kontrolli- ja jälgimisala määratlemise alused ning seal kehtivad kohustused kiirgustegevuse tegijale kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "54",
+      "title": "§ 54. Seire kontrolli- ja jälgimisalal",
+      "content": "(1) Kiirgustegevuse tegija tagab kontrolli- ja jälgimisalal seire.\n(2) Sõltuvalt vajadusest sisaldab seire kontrolli- ja jälgimisalal:\n1) doosikiiruse seiret;\n2) radioaktiivsete saasteainete sisalduse seiret õhus või pindadel koos radioaktiivse saaste omaduste ning füüsikalise ja keemilise oleku määramisega.\n(3) Kiirgustegevuse tegija registreerib seire tulemused ja säilitab need kogu kiirgustegevuse jooksul."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "55",
+      "title": "§ 55. Lisameetmed kiirgusohutuse tagamiseks",
+      "content": "Kui kiirgustegevusest põhjustatud kiiritus elanikule võib ületada käesoleva seaduse § 50 lõike 6 alusel kehtestatud elaniku doosipiirmäära ühte kümnendikku aastas, konsulteerib kiirgustegevuse tegija kiirgusohutuse tagamiseks võimalike lisameetmete rakendamise vajalikkuse asjus kiirguseksperdiga."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "56",
+      "title": "§ 56. Radioaktiivsed jäätmed, NORM-jäägid ja NORM-jäätmed",
+      "content": "(1) Radioaktiivsed jäätmed on radioaktiivseid aineid sisaldavad või nendega saastunud ained või esemed, mille aktiivsus või aktiivsuskontsentratsioon on suurem käesoleva seaduse § 62 lõike 3 alusel kehtestatud vabastamistasemetest ning mida tulevikus ei kavatseta kasutada.\n(2) Radioaktiivsete jäätmete klassifikatsiooni ning radioaktiivsete jäätmete registreerimise, käitlemise ja üleandmise täpsustatud nõuded kehtestab valdkonna eest vastutav minister määrusega.\n(3) NORM-jäägid on mingi tegevuse tagajärjel tekkinud looduslikku radioaktiivset ainet sisaldavad või sellega saastunud ained, mille aktiivsus või aktiivsuskontsentratsioon on suurem kehtestatud vabastamistasemetest ja mida kavatsetakse veel tulevikus kasutada.\n(4) NORM-jäätmed on peamiselt looduslikku radioaktiivset ainet sisaldavad radioaktiivsed jäätmed, sealhulgas NORM-jäägid, mida tulevikus ei kavatseta kasutada.\n(5) NORM-jääkide käitlemise kord, sealhulgas nende hoidmine, hajutamine ja vabastamine, samuti ka NORM-jäätmete vahe- või lõppladustamine määratakse kiirgustegevusloaga."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "57",
+      "title": "§ 57. Radioaktiivsed heited",
+      "content": "(1) Radioaktiivsed heited on radioaktiivsed ained, mis vabanevad kiirgustegevuse käigus ja mis juhitakse hajutamise eesmärgil keskkonda.\n(2) Kiirgustegevuse käigus tekkivate heidete käitlemise täpsemad tingimused määratakse kiirgustegevusloaga."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "58",
+      "title": "§ 58. Radioaktiivsete jäätmete käitlemine",
+      "content": "(1) Radioaktiivsete jäätmete käitlemine on radioaktiivsete jäätmete eeltöötlemine, töötlemine, konditsioneerimine, vedu käitluskohas, hoidmine, dekomissioneerimine, vahe- või lõppladustamine ja radioaktiivsete jäätmetega seotud muu tegevus.\n(2) Radioaktiivsete jäätmete konditsioneerimine on kõik radioaktiivsete jäätmete pakendi tootmisega seotud operatsioonid, mille eesmärk on muuta pakend kergesti käideldavaks.\n(3) Radioaktiivsete jäätmete pakend peab olema vastavuses käitlemise, sealhulgas konditsioneerimise nõuetega ning selle koosseisu kuuluvad jäätmevorm ning mis tahes konteinerid ja sisebarjäärid.\n(4) Dekomissioneerimine on kõik toimingud ja meetmed, mida rakendatakse üksikisiku suhtes kiirgusohtu kujutava rajatise tegevuse osaliseks või täielikuks lõpetamiseks, mis hõlmab ka rajatise desaktiveerimist ja osalist või täielikku demonteerimist."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "59",
+      "title": "§ 59. Radioaktiivsete jäätmete hoiuruum",
+      "content": "Radioaktiivsete jäätmete hoiuruum on kiirgustegevusloaga kehtestatud nõuetele vastav ruum radioaktiivsete jäätmete kogumiseks, hoidmiseks, eeltöötlemiseks või pakendamiseks radioaktiivsete jäätmete tekitaja juures."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "60",
+      "title": "§ 60. Radioaktiivsete jäätmete käitluskoht",
+      "content": "Radioaktiivsete jäätmete käitluskoht on radioaktiivsete jäätmete nende tekitajalt vastuvõtmiseks, kogumiseks, töötlemiseks ja konditsioneerimiseks ning vahe- või lõppladustamiseks ettenähtud rajatis."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "61",
+      "title": "§ 61. Radioaktiivsete jäätmete ladustuskoht",
+      "content": "(1) Radioaktiivsete jäätmete ladustuskoht on spetsiaalselt radioaktiivsete jäätmete vahe- või lõppladustamiseks ettenähtud rajatis.\n(2) Vaheladustamine on radioaktiivsete jäätmete paigutamine selleks tehniliselt varustatud rajatisse, et tagada nende isoleerimine, kavatsusega radioaktiivsed jäätmed rajatisest edaspidi välja võtta kas vabastamiseks, töötlemiseks ja konditsioneerimiseks või lõppladustamiseks.\n(3) Lõppladustamine on radioaktiivsete jäätmete paigutamine teatud tingimustele vastavasse ladustuskohta või selleks ettevalmistatud kohta väljavõtmise kavatsuseta.\n(3^1) Eestis tekkinud radioaktiivsed jäätmed lõppladustatakse Eestis, välja arvatud juhul, kui jäätmete lõppladustamise eesmärgil väljaveo ajaks on olemas Eesti ja teise Euroopa Liidu liikmesriigi või kolmanda riigi vahel jõustunud kokkulepe lõppladustamiseks ettenähtud rajatise kasutamiseks selles riigis.\n(4) Radioaktiivsete jäätmete vahe- ja lõppladustamist korraldab Kliimaministeerium.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud kohustuse võib üle anda riigi omandis olevale äriühingule, kelle põhitegevus on radioaktiivsete jäätmete käitlemine ja kellega valdkonna eest vastutav minister on sõlminud selleks halduslepingu halduskoostöö seaduses sätestatud korras. Sellise halduslepingu sõlmimisele ei kohaldata halduskoostöö seaduse §-e 6 ja 14.\n(6) Radioaktiivsete jäätmete vahe- ja lõppladustamiseks ning käesoleva seaduse § 28 alusel kinnitatud radioaktiivsete jäätmete riikliku tegevuskava rakendamiseks vajaminevad rahalised vahendid tagab Kliimaministeerium."
+    },
+    {
+      "provision_ref": "para61^1",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "61^1",
+      "title": "§ 61^1. Radioaktiivse materjali lahjendamine",
+      "content": "(1) Radioaktiivsete materjalide sihipärane lahjendamine materjalide kiirgusseaduse nõuete täitmisest vabastamise eesmärgil ei ole lubatud.\n(2) Keskkonnaamet võib anda kiirgustegevusloa radioaktiivse materjali lahjendamiseks mitteradioaktiivse ainega taaskasutuse või ringlussevõtu eesmärgil, kui kiirgusohutushinnangu alusel on vabastamine majanduslikke, sotsiaalseid ja keskkonnategureid arvesse võttes parim lahendus."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "62",
+      "title": "§ 62. Kiirgusohutuse nõuete täitmisest vabastamine",
+      "content": "(1) Keskkonnaamet võib otsustada, et kiirgustegevuse käigus tekkinud radioaktiivse aine ja selle omaja suhtes ei kohaldata käesolevat seadust juhul, kui aine on nii väikese aktiivsuse või aktiivsuskontsentratsiooniga, et selle töötlemine ja ladustamine radioaktiivse jäätmena ei ole kiirgusohutuse seisukohalt vajalik.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud otsuse võib Keskkonnaamet teha radioaktiivse aine omaja põhjendatud taotluse alusel.\n(3) Kiirgustegevuses tekkinud radioaktiivsete ainete või radioaktiivsete ainetega saastunud esemete vabastamistasemed ning nende vabastamise, ringlusse võtmise ja taaskasutamise tingimused kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "63",
+      "title": "§ 63. Vabastatud jäätmete käitlus",
+      "content": "Käesoleva seaduse § 62 lõike 3 alusel kehtestatud tingimuste kohaselt vabastatud jäätmete käitlemisele rakendatakse jäätmeseadust."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "64",
+      "title": "§ 64. Radioaktiivsete jäätmete üleandmine radioaktiivsete jäätmete ladustuskohta",
+      "content": "(1) Kui radioaktiivseid jäätmeid ei saa juhtida hajutamise eesmärgil keskkonda või vabastada neid käesoleva seaduse või selle alusel kehtestatud õigusaktide nõuete kohaldamisest viie aasta jooksul pärast nende tekkimist, annab radioaktiivsete jäätmete tekitaja need üle radioaktiivsete jäätmete ladustuskohta.\n(2) Ladustuskohta üle antavad radioaktiivsed jäätmed peavad olema pakendatud vastavalt pakendi vastavusnäitajatele.\n(3) Pakendi vastavusnäitajad on näitajad või tunnused, mis iseloomustavad radioaktiivsete jäätmete pakendi sobivust käitlemiseks.\n(4) Pakendi vastavusnäitajad kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "65",
+      "title": "§ 65. Radioaktiivse aine, seda sisaldava seadme ja radioaktiivsete jäätmete võtmine riigi valdusse",
+      "content": "(1) Kui radioaktiivse aine, seda sisaldava seadme ja radioaktiivsete jäätmete omamine on ebaseaduslik või nendega seoses tekib põhjendatud kahtlus avariikiirituse olukorra tekkimises või kui tegemist on omanikuta kiirgusallika või omanikuta radioaktiivsete jäätmetega, võtab riik need oma valdusse.\n(1^1) Käesoleva paragrahvi lõikes 1 nimetatud radioaktiivse aine, seda sisaldava seadme ja radioaktiivsete jäätmete riigi valdusse võtmise otsustab Keskkonnaamet.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud kiirgusallikad ja jäätmed, mis võetakse riigi valdusse, antakse üle käesoleva seaduse § 107 lõike 5 alusel nimetatud radioaktiivsete jäätmete käitlejale.\n(3) Kui radioaktiivse aine, seda sisaldava seadme ja radioaktiivsete jäätmete omamine on ebaseaduslik või nendega seoses võib tekkida avariikiirituse olukord, tasub omanik nende riigi valdusse võtmise ja käitlemisega seotud kulud.\n(4) Omanikuta kiirgusallika ja omanikuta radioaktiivsete jäätmete enda valdusse võtmise ja käitlemisega seotud kulud katab riik.\n(5)"
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "66",
+      "title": "§ 66. Radioaktiivsete jäätmete ladustuskoha sulgemine",
+      "content": "(1) Kiirgustegevusloa omaja kogub ja analüüsib andmeid radioaktiivsete jäätmete ladustuskoha kasutamise kohta ja edastab need säilitamiseks Keskkonnaametile.\n(2) Keskkonnaamet võib käesoleva paragrahvi lõikes 1 nimetatud andmete alusel kohustada kiirgustegevusloa omajat esitama uue kiirgustegevusloa taotluse ladustuskoha sulgemiseks.\n(2^1) Ladustuskoha sulgemine on igasuguse tegevuse lõpetamine pärast kasutatud tuumkütuse või radioaktiivsete jäätmete paigutamist lõppladustamiseks ettenähtud rajatisse, kaasa arvatud lõplikud insenertehnilised või muud tööd, et rajatis saavutaks pikaajalise ohutuse seisundi.\n(3) Ladustuskoha sulgemise tingimused määratakse kiirgustegevusloaga."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "3. peatükk - Kiirgustegevuse nõuded",
+      "section": "67",
+      "title": "§ 67. Radioaktiivsete jäätmete ladustuskoha ohutus pärast selle sulgemist",
+      "content": "Pärast radioaktiivsete jäätmete ladustuskoha sulgemist Keskkonnaamet: 1 1) säilitab dokumendid radioaktiivsete jäätmete ladustuskoha asukoha, selle projekteerimise ja radioaktiivsete jäätmete inventuuri kohta tähtajatult;\n2) korraldab vajaduse korral kiirgusseiret ja ligipääsu piirangu kontrollimist;\n3) korraldab sekkumist, kui seireandmete põhjal või kontrollimisel tuvastatakse radioaktiivsete ainete sattumine keskkonda."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "68",
+      "title": "§ 68. Kiirgustegevusluba ja kiirgustegevuse registreering",
+      "content": "(1) Kiirgustegevusluba on vaja väikese, mõõduka ja suure ohuga kiirgustegevuse korral:\n1) tuumkütusetsükli mis tahes rajatise ekspluateerimiseks, sulgemiseks ja dekomissioneerimiseks;\n2) radioaktiivse aine ja seda sisaldavate toodete tootmiseks, kasutamiseks, hoidmiseks ning veoks, sealhulgas sisse- ja väljaveoks;\n3) elektrikiirgusseadmete kasutamiseks ja hoidmiseks;\n4) radioaktiivsete jäätmete käitlemiseks ja veoks;\n5) suurenenud looduskiiritusega seotud tegevuseks, mille korral looduslikest radionukliididest põhjustatud kiirgus on kiirgusohutuse seisukohalt oluline;\n6) kiirgusallika paigaldamiseks, remontimiseks ja hooldamiseks.\n(2) Väga väikese ohuga kiirgustegevuse korral tuleb taotleda kiirgustegevuse registreering.\n(3) Väga väikese ohuga kiirgustegevuste loetelu kehtestab valdkonna eest vastutav minister määrusega.\n(4) Kiirgustegevusluba ega kiirgustegevuse registreeringut ei ole vaja:\n1) tegevuseks radioaktiivse kiirgusallikaga, kui kasutatavate radionukliidide aktiivsus või aktiivsuskontsentratsioon on väiksem kui väljaarvamistase või sellega võrdne;\n2) kuni 30-kilovoldise potentsiaalide vahe juures töötava elektrikiirgusseadme hoidmiseks, kasutamiseks, paigaldamiseks, remontimiseks ja hooldamiseks, kui seadme töötamise ajal ei ületa doosikiirus seadme pinnast 0,1 meetri kaugusel ühte mikrosiivertit tunnis.\n(4^1) Kiirgustegevuse alustamine või tegutsemine kiirgustegevusluba või kiirgustegevuse registreeringut nõudval kiirgustööl ilma kiirgustegevusloata või kiirgustegevuse registreeringuta on keelatud.\n(5) Radionukliidide väljaarvamistasemete tuletamise alused ja väljaarvamistasemed, millega võrdse või millest väiksema väärtuse korral kiirgustegevusluba või kiirgustegevuse registreeringut ei nõuta, kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "69",
+      "title": "§ 69. Kiirgustegevusloa ja kiirgustegevuse registreeringu andja",
+      "content": "Kiirgustegevusloa ja kiirgustegevuse registreeringu annab Keskkonnaamet (edaspidi loa andja või registreeringu andja )."
+    },
+    {
+      "provision_ref": "para69^1",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "69^1",
+      "title": "§ 69^1. Kiirgustegevuse registreeringu taotlus",
+      "content": "(1) Kiirgustegevuse registreeringu taotluses esitatakse järgmised andmed:\n1) taotleja üldandmed või nimetus, registrikood ja kontaktandmed;\n2) kontaktisiku üldandmed;\n3) kiirgustegevuse eesmärk, valdkond ja asukoha andmed;\n4) kiirgusohutushinnang;\n5) kiirgusallikat iseloomustavad andmed;\n6) kiirgustöötajate üldandmed;\n7) kiirgusohutuse spetsialisti üldandmed.\n(2) Kiirgustegevuse registreeringu taotluse täpsustatud nõuded ja taotluse täpsema andmekoosseisu kehtestab valdkonna eest vastutav minister määrusega.\n(3) Kiirgustegevuse registreeringu taotlus koos lisadega esitatakse registreeringu andjale keskkonnaotsuste infosüsteemi kaudu ja taotlus kinnitatakse digitaalallkirjaga."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "70",
+      "title": "§ 70. Kiirgustegevusloa taotlus",
+      "content": "(1) Kiirgustegevusloa taotluses esitatakse lisaks keskkonnaseadustiku üldosa seaduse § 42 lõikes 1 sätestatule:\n1) kiirgusallikat ja kasutatavat tehnoloogiat ning seadmeid iseloomustavad andmed;\n2) andmed kiirgustegevuse käigus tekkivate radioaktiivsete jäätmete või heidete, nende käitlemise ja jäätmepakendite vastavusnäitajate ning radioaktiivsete jäätmete hoiuruumi kohta;\n3) kiirgusallika ohutustamise kava pärast kiirgusallika kasutamise lõpetamist;\n4) radioaktiivsete jäätmete käitlemiseks, vahe- ja lõppladustamiseks loa taotlemisel andmed käitlemise või ladustuskoha lõpliku sulgemise viiside kohta;\n5) kiirgusohutushinnang, mis annab ülevaate inimese kaitse ja kiirgusallika ohutusega seotud kiirgustegevuse aspektidest, sealhulgas kasutatavatest kaitse- ja ohutusmeetmetest ning nii normaalsetes töötingimustes kui ka avarii- ja püsikiirituse olukorras kiirgustöötajatele ja elanikele põhjustatavatest potentsiaalsetest hinnatavatest doosidest, ning millele on lisatud andmed kiirgusohutuse tagamiseks võetavate meetmete kohta;\n5^1) mõõduka ja suure ohuga kiirgustegevuse puhul kiirgustöötaja aastase ekvivalent- või efektiivdoosi ja elaniku efektiivdoosi piirangud kavandatud kiirgustegevuse korral normaalsetes töötingimustes;\n6) suure ohuga kiirgustegevuse korral avariikiirituse olukorras tegutsemise plaan, mis põhineb potentsiaalse kiirituse hinnangul;\n7) andmed radioaktiivse aine, seda sisaldava seadme ning radioaktiivsete jäätmete ohutustamiseks vajaliku finantstagatise kohta;\n8) kiirgusohutuse kvaliteedijuhtimise süsteemi kirjeldus;\n9) andmed kiirgustöötajate ja nende erialase väljaõppe kohta;\n10) kiirgustööeeskiri, mis peab sõltuvalt kiirgustöö eripärast sisaldama kiirgusallika kasutamise, kasutamise lõpetamise ning nendega seotud toiminguid;\n11) kiirgusseire kava ja andmed kiirgusseireks kasutatavate seadmete kohta.\n(2) Kiirgustegevusloa taotlusele lisatakse keskkonnaseadustiku üldosa seaduse § 42 lõikes 3 nimetatud dokumendid ja andmed.\n(3) Kui kiirgustegevusluba taotletakse radioaktiivse aine Eesti Vabariiki sisseveoks riigist, mis ei ole Euroopa Liidu liikmesriik, või Eestist väljaveoks riiki, mis ei ole Euroopa Liidu liikmesriik, esitab loa taotleja keskkonnaseadustiku üldosa seaduse § 42 lõike 1 punktides 1, 2, 5 ja 6 nimetatud andmed ning radioaktiivset ainet iseloomustavad andmed.\n(3^1) Kiirgustegevusloa taotlus koos lisadega esitatakse loa andjale keskkonnaotsuste infosüsteemi kaudu ja taotlus kinnitatakse digitaalallkirjaga.\n(4) Kiirgustegevusloa taotlusele esitatavad täpsustatud nõuded ja taotluse andmekoosseisu kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para70^1",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "70^1",
+      "title": "§ 70^1. Lepinguriigi kiirgustegevusloa tunnustamine",
+      "content": "Kui ettevõtja on registreeritud teises Euroopa Majanduspiirkonna lepinguriigis ning talle on seal väljastatud kiirgustegevusluba või muu dokument, mis tõendab õigust kiirgustegevust teha (edaspidi lepinguriigi tegevusluba ), esitab ettevõtja Eestis teenuse osutamiseks Keskkonnaametile selle tegevusloa tunnustamiseks taotluse, milles esitatakse sõltuvalt kiirgustegevuse eripärast järgmised andmed ja dokumendid: 1 1) taotleja nimi, registrikood ja kontaktandmed;\n2) kavandatava kiirgustegevuse kirjeldus;\n3) koopia asukohariigis pädeva asutuse väljastatud kiirgustegevusloast, mis on legaliseeritud või kinnitatud tunnistusega (apostilliga), kui välisleping ei sätesta teisiti;\n4) kiirgustegevusloa eestindus, mille on teinud vandetõlk või mis on notariaalselt kinnitatud;\n5) väljavõte asukohamaa äriregistri registreerimiskaardist;\n6) kiirgustegevuse asukoht ja ajaperiood Eestis;\n7) Eesti-poolse tellija esindaja kontaktandmed;\n8) andmed kiirgustöötajate, nende erialase väljaõppe ja isikudooside seire kohta;\n9) muud andmed, mis on vajalikud kiirgusohutuse hindamiseks."
+    },
+    {
+      "provision_ref": "para70^2",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "70^2",
+      "title": "§ 70^2. Tunnustamise otsustamise tähtaeg ja kehtivus",
+      "content": "(1) Keskkonnaamet teeb otsuse tunnustamise või tunnustamata jätmise kohta 30 päeva jooksul nõuetekohase taotluse saamisest arvates.\n(2) Tunnustus antakse kuni kolmeks aastaks."
+    },
+    {
+      "provision_ref": "para70^3",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "70^3",
+      "title": "§ 70^3. Tunnustamisest keeldumine ja tunnustuse kehtetuks tunnistamine",
+      "content": "(1) Keskkonnaamet keeldub lepinguriigi tegevusluba tunnustamast, kui:\n1) tunnustust taotletakse tegevuseks, milleks ei ole taotleja asukohariigis väljastatud lepinguriigi tegevusluba;\n2) tunnustust taotletakse selleks ajaks, kui taotleja asukohariigis väljastatud lepinguriigi tegevusluba ei kehti;\n3) tunnustuse taotlejal puuduvad nõutava erialase ettevalmistusega kiirgustöötajad või ei ole tagatud nende isikudooside seire;\n4) kiirgustegevuseks taotletav asukoht või muud tingimused ei võimalda täita kiirgusohutusnõudeid.\n(2) Keskkonnaamet tunnistab tunnustuse kehtetuks, kui:\n1) ilmneb, et tunnustuse saanud ettevõtja on teadlikult esitanud tunnustuse taotluses valeandmeid või võltsitud dokumendi;\n2) ilmnevad käesoleva seaduse § 77 lõike 3 punktides 2 ja 3 loetletud asjaolud."
+    },
+    {
+      "provision_ref": "para70^4",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "70^4",
+      "title": "§ 70^4. Tunnustusotsusele kantavad andmed",
+      "content": "Tunnustusotsusele märgitakse: 1 1) tunnustuse saanud ettevõtja nimi ja registrikood;\n2) tunnustuse saanud ettevõtja ning kontaktisiku aadress ja kontaktandmed;\n3) kiirgustegevuse nimetus;\n4) kiirgustegevuse asukoht;\n5) tunnustuse kehtivusaeg;\n6) kiirgustöötajate andmed;\n7) kiirgustegevusest ja selle eripärast tulenevad kiirgusohutuse ja kiirgusseire nõuded ning muud kiirgustegevust iseloomustavad andmed."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "71",
+      "title": "§ 71. Avatud menetluse kohaldamine kiirgustegevusloa taotluse läbivaatamisele",
+      "content": "Käesoleva seaduse § 68 lõike 1 punktides 1, 4 ja 5 nimetatud kiirgustegevuse korral kohaldatakse kiirgustegevusloa andmisele ja muutmisele avatud menetlust."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "72",
+      "title": "§ 72. Kohaliku omavalitsuse üksuse arvamus kiirgustegevusloa taotluse kohta",
+      "content": "Kui kiirgustegevusluba taotletakse käesoleva seaduse § 68 lõike 1 punktis 1, 4 või 5 nimetatud tegevuseks, peab loa andja esitama taotluse kohaliku omavalitsuse üksusele tema arvamuse saamiseks."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "73",
+      "title": "§ 73. Kiirgustegevusloa ja kiirgustegevuse registreeringu andmise otsustamise tähtaeg",
+      "content": "(1) Kiirgustegevusloa andmine otsustatakse 90 päeva jooksul nõuetekohase taotluse saamisest arvates.\n(2) Kui kiirgustegevusluba taotletakse suure ohuga kiirgustegevuseks, võib loa andja käesoleva paragrahvi lõikes 1 nimetatud tähtaega pikendada kuni 90 päeva võrra.\n(3) Kiirgustegevuse registreeringu andmine otsustatakse 30 päeva jooksul nõuetekohase taotluse saamisest arvates."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "74",
+      "title": "§ 74. Kiirgustegevusloa ja kiirgustegevuse registreeringu andmisest keeldumine",
+      "content": "(1) Loa andja keeldub kiirgustegevusloa andmisest lisaks keskkonnaseadustiku üldosa seaduse §-s 52 sätestatud juhtudele, kui:\n1) kavandatav tegevus ei ole kiirgustegevuse põhjustatava võimaliku tervisekahjustuse suhtes majanduslike, sotsiaalsete või muude hüvede poolest parim;\n2) tegevusega, milleks kiirgustegevusluba taotletakse, kaasneb või võib kaasneda oht riigisisesele või rahvusvahelisele julgeolekule;\n3) kiirgustegevusloa taotlejal puuduvad nõutava erialase ettevalmistusega kiirgustöötajad;\n4) kiirgustegevuseks taotletav asukoht ja muud tingimused ei võimalda kiirgusohutusnõuete täitmist;\n5) kiirgustegevusloa taotleja ei tõenda käesoleva seaduse 6. peatükis sätestatud tagatise olemasolu kiirgustegevusloa andja määratud suuruses ja tingimustel.\n(2) Registreeringu andja keeldub kiirgustegevuse registreeringu andmisest, kui:\n1) taotleja on esitanud teadlikult valeandmeid, mis mõjutavad tegevuse registreerimise otsustamist;\n2) tegevuseks on vaja kiirgustegevusluba;\n3) kiirgustegevuse registreeringu taotlejal puuduvad nõutava erialase ettevalmistusega kiirgustöötajad;\n4) kiirgustegevuseks taotletav asukoht ja muud tingimused ei võimalda kiirgusohutusnõuete täitmist;\n5) kavandatav tegevus ei vasta õigusaktidega kehtestatud nõuetele."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "75",
+      "title": "§ 75. Kiirgustegevusloale kantavad andmed",
+      "content": "(1) Kiirgustegevusloas märgitakse lisaks keskkonnaseadustiku üldosa seaduse §-s 53 sätestatule:\n1) kiirgustegevusloa number ja andmise kuupäev;\n2) kiirgustegevuse nimetus;\n3) kiirgusallikate andmed ja kirjeldus;\n4) radioaktiivsete jäätmete käitlemise viisid, piirkogused ning käitlus- ja ladustuskohad;\n5) radioaktiivsete heidete piirkogused ja keskkonda juhtimise viisid;\n6) kiirgustegevusest ja selle eripärast tulenevad kiirgusohutuse ja kiirgusseire nõuded;\n7) kiirgustegevuse ohu aste;\n8) finantstagatise olemasolu.\n(2) Kõrgaktiivse kiirgusallikaga seotud kiirgustegevuseks antav kiirgustegevusluba sisaldab lisaks käesoleva paragrahvi lõikes 1 sätestatule järgmist teavet:\n1) töötajate kiirguskaitsepädevus, sealhulgas nende teavitamine ja koolitamine;\n2) nõuded kiirgusallika, kiirgusallika konteineri ja lisaseadmete ning nende hoolduse kohta;\n3) kasutusest kõrvaldatud kiirgusallika nõuetekohane kiirgusohutusalane haldamine selle üleandmiseni tootjale, teisele kiirgustegevusluba omavale isikule või radioaktiivsete jäätmete ladustuskohta.\n(2^1) Kiirgustegevusluba ja selle andmise otsus vormistatakse keskkonnaotsuste infosüsteemi kaudu digitaalselt allkirjastatuna.\n(3) Kiirgustegevusloa andmekoosseisu kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para75^1",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "75^1",
+      "title": "§ 75^1. Kiirgustegevuse registreeringusse kantavad andmed",
+      "content": "(1) Kiirgustegevuse registreeringus märgitakse:\n1) registreeringu omaja nimi või nimetus ja isikukood või registrikood;\n2) tegevuskoha täpne asukoht ja asukoha plaan;\n3) registreeringu taotluse number;\n4) registreeringu number ja andmise kuupäev;\n5) kiirgustegevuse nimetus;\n6) kiirgusallikate andmed;\n7) kiirgustegevusest ja selle eripärast tulenevad kiirgusohutuse ja kiirgusseire nõuded;\n8) kiirgustegevuse registreeringu omaja kohustused.\n(2) Kiirgustegevuse registreeringu täpsustatud andmekoosseisu kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "76",
+      "title": "§ 76. Kiirgustegevusloa kehtivus",
+      "content": "(1) Väikese ohuga kiirgustegevuse korral määratakse kiirgustegevusloa kehtivuse tähtaeg keskkonnaseadustiku üldosa seaduse § 53 lõike 2 kohaselt.\n(2) Mõõduka ja suure ohuga kiirgustegevuse korral antakse kiirgustegevusluba tähtajaga kuni viis aastat."
+    },
+    {
+      "provision_ref": "para76^1",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "76^1",
+      "title": "§ 76^1. Kiirgustegevuse registreeringu kehtivus",
+      "content": "Kiirgustegevuse registreering on tähtajatu, välja arvatud juhul, kui taotletakse tähtajalist registreeringut."
+    },
+    {
+      "provision_ref": "para77",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "77",
+      "title": "§ 77. Kiirgustegevusloa muutmine ja kehtetuks tunnistamine",
+      "content": "(1) Kiirgustegevusluba muudetakse ja tunnistatakse kehtetuks keskkonnaseadustiku üldosa seaduse §-des 59, 60 ja 62 sätestatud korras.\n(2) Käesoleva seaduse § 78 lõike 1 punktides 1, 3, 4, 5 ja 7 nimetatud juhtudel otsustab Keskkonnaamet kiirgustegevusloa muutmise 30 päeva jooksul taotluse saamisest arvates.\n(3) Lisaks keskkonnaseadustiku üldosa seaduse §-s 62 sätestatule tunnistatakse kiirgustegevusluba kehtetuks, kui:\n1) loa omaja ei taga finantstagatise olemasolu;\n2) loa omaja ei ole korduvalt suutnud tagada kiirgusohutuse põhimõtete, kohustuste ja loas sätestatud tingimuste täitmist, millega on kaasnenud olulise kiirgusohu tekkimine;\n3) loa omaja, selle esindajad või töötajad on sihipäraselt ja pahatahtlikult takistanud Keskkonnaametit ja selle esindajaid loa omaja tegevuse kontrollimisel.\n(4) Loa andjal on õigus algatada kiirgustegevusloa kehtetuks tunnistamise menetlus, kui kõik kiirgustegevusloas märgitud kiirgusallikad on ohutustatud."
+    },
+    {
+      "provision_ref": "para77^1",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "77^1",
+      "title": "§ 77^1. Kiirgustegevuse registreeringu muutmine ja kehtetuks tunnistamine",
+      "content": "(1) Kiirgustegevuse registreerinud isik on kohustatud viivitamata teavitama registreeringu andjat nimetuse, registrikoodi, nime, isikukoodi või kontaktandmete muutumisest, samuti kiirgustegevuse muutmisest või lõpetamisest ning teistest asjaoludest, mis võivad mõjutada registreeringu alusel lubatud tegevust, ja taotlema registreeringu muutmist või uut registreeringut.\n(2) Kiirgustegevuse registreeringu muutmine otsustatakse 30 päeva jooksul nõuetekohase taotluse saamisest arvates.\n(3) Registreeringu andja tunnistab kiirgustegevuse registreeringu kehtetuks, kui:\n1) registreeringu omaja on selleks esitanud taotluse;\n2) ilmneb käesoleva seaduse § 74 lõikes 2 sätestatud alus registreerimisest keeldumiseks.\n(4) Registreeringu andjal on õigus algatada kiirgustegevuse registreeringu kehtetuks tunnistamise menetlus, kui kõik registreeringus märgitud kiirgusallikad on ohutustatud."
+    },
+    {
+      "provision_ref": "para78",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "78",
+      "title": "§ 78. Kiirgustegevuse muutmine",
+      "content": "(1) Kiirgustegevusloa omaja esitab loa andjale keskkonnaotsuste infosüsteemi kaudu taotluse, kui ta kavatseb:\n1) kasutusele võtta uue või täiendava kiirgusallika;\n2) muuta kiirgustegevusloas märgitud kiirgusallika andmeid või lõpetada selle kasutamise;\n3) anda kiirgusallika üle teisele isikule või ladustada selle radioaktiivse jäätmena;\n4) muuta kiirgustegevusloaga määratud kiirgustegevust, tekkivate radioaktiivsete jäätmete käitlemise viise, piirkoguseid või ladustuskohta;\n5) muuta kiirgustegevuse toimumise kohta, rajatisi või ruume;\n6) võtta tööle uue kiirgusohutuse spetsialisti;\n7) muuta muul viisil oluliselt loas kirjeldatud kiirgustegevust.\n(2) Käesoleva paragrahvi lõike 1 punktides 1, 4, 5 ja 7 nimetatud juhtudel, kui tegemist on kiirgusohutuse seisukohast olulise muudatusega, käsitatakse nimetatud teateid uue kiirgustegevusloa taotlusena.\n(3) Kiirgustegevuse registreeringu omaja esitab registreeringu andjale keskkonnaotsuste infosüsteemi kaudu taotluse, kui ta kavatseb:\n1) kasutusele võtta uue või täiendava kiirgusallika;\n2) muuta kiirgustegevuse registreeringus märgitud kiirgusallika andmeid või lõpetada selle kasutamise;\n3) muuta kiirgustegevuse registreeringus määratud kiirgustegevust;\n4) muuta kiirgustegevuse tegemise kohta või ruume."
+    },
+    {
+      "provision_ref": "para79",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "79",
+      "title": "§ 79. Kiirgustegevusluba uue tuumakäitise käitamiseks",
+      "content": "Kiirgustegevusluba uue tuumakäitise käitamiseks saab taotleda pärast seda, kui Riigikogu on vastu võtnud tuumakäitise kasutuselevõtu otsuse."
+    },
+    {
+      "provision_ref": "para79^1",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "79^1",
+      "title": "§ 79^1. Riigilõiv kiirgustegevusloa ja kiirgustegevuse registreeringu taotlemisel ning muutmisel",
+      "content": "(1) Kiirgustegevusloa ja kiirgustegevuse registreeringu taotlemisel tasub taotleja riigilõivu riigilõivuseaduses sätestatud korras.\n(2) Kiirgustegevusloa ja kiirgustegevuse registreeringu muutmise taotluse läbivaatamise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määras."
+    },
+    {
+      "provision_ref": "para82",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "82",
+      "title": "§ 82. Veoloa taotlemine",
+      "content": "(1) Veoloa taotlus esitatakse iga veo kohta eraldi.\n(2) Veoloa taotluse võib esitada rohkem kui ühe veo kohta tingimusel, et:\n1) kõik radioaktiivsed jäätmed, mille vedamiseks taotlus esitatakse, on sarnaste füüsikalis-keemiliste ja radioaktiivsete omadustega;\n2) vedu toimub ühelt ja samalt radioaktiivsete jäätmete omajalt samale vastuvõtjale ning veo dokumendid on kooskõlastanud ja väljastanud samad pädevad asutused;\n3) vedu toimub samade piiripunktide ja samade läbiveoriikide kaudu.\n(3) Radioaktiivsete jäätmete veoks kiirgustegevusloa (edaspidi veoluba ) taotlus esitatakse Keskkonnaametile elektrooniliselt digitaalselt allkirjastatuna."
+    },
+    {
+      "provision_ref": "para83",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "83",
+      "title": "§ 83. Radioaktiivsete jäätmete sisse-, välja- ja läbiveo dokumendid",
+      "content": "(1) Radioaktiivsete jäätmete sisse-, välja- ja läbiveo dokumendid on:\n1) veoloa taotlus;\n2) pädevate asutuste kooskõlastused;\n3) veoluba;\n4) pakendite loetelu;\n5) radioaktiivsete jäätmete vastuvõtmise teade.\n(2) Radioaktiivsete jäätmete sisse-, välja- ja läbiveo dokumentide menetlemise korra ning tähtaegade erisused lähtuvalt päritolu- ja sihtriigist kehtestab valdkonna eest vastutav minister määrusega.\n(3) Radioaktiivsete jäätmete sisse-, välja- ja läbiveo dokumentide vorm sisaldub Euroopa Komisjoni 2008. aasta 5. märtsi otsuses 2008/312/Euratom, millega kehtestatakse nõukogu direktiivis 2006/117/Euratom nimetatud radioaktiivsete jäätmete ja kasutatud tuumkütuse vedude järelevalve ja kontrolli tüüpvorm (ELT L 107, 17.04.2008, lk 32–59)."
+    },
+    {
+      "provision_ref": "para84",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "84",
+      "title": "§ 84. Veoloa ja läbiveo kooskõlastamine",
+      "content": "(1) Keskkonnaamet saadab veoloa ja läbiveo taotluse sihtriigi ja kõikide läbiveoriikide pädevatele asutustele kooskõlastamiseks.\n(2) Keskkonnaamet annab veoloa pärast kõikide vajalike asutustega kooskõlastamist."
+    },
+    {
+      "provision_ref": "para85",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "85",
+      "title": "§ 85. Veoloa ja läbiveo kooskõlastuse kehtivus",
+      "content": "(1) Ühekordne veoluba ja läbiveo kooskõlastus antakse ühele veole tähtajaliselt.\n(2) Mitmekordne veoluba ja läbiveo kooskõlastus kehtib kuni kolm aastat."
+    },
+    {
+      "provision_ref": "para86",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "86",
+      "title": "§ 86. Veoloa ja läbiveo kooskõlastamisest keeldumine",
+      "content": "Keskkonnaamet keeldub lisaks käesoleva seaduse §-s 74 sätestatule veoloa andmisest ega kooskõlasta radioaktiivsete jäätmete läbivedu, kui: 1 1) radioaktiivsete jäätmete sihtriik asub lõuna pool 60º lõunalaiust;\n2) sihtriik ei ole Euroopa Liidu liikmesriik, kuid ta on sõlminud Euroopa Liiduga radioaktiivsete jäätmete sisse- või läbivedu keelustava lepingu;\n3) on alust arvata, et sihtriigis puudub võimalus radioaktiivseid jäätmeid ohutult käidelda;\n4) radioaktiivsed jäätmed kavatsetakse Eestisse sisse vedada vahe- või lõppladustamiseks."
+    },
+    {
+      "provision_ref": "para87",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "87",
+      "title": "§ 87. Radioaktiivsete jäätmete tagastamine",
+      "content": "Kui radioaktiivsete jäätmete vedu ei ole võimalik lõpule viia või kui veo tingimused ei vasta loa taotluses või veoloas seatud tingimustele, kohaldab Keskkonnaamet asendustäitmist radioaktiivsete jäätmete tagastamise näol radioaktiivsete jäätmete algsele omanikule vastavalt asendustäitmise ja sunniraha seaduses sätestatud korrale."
+    },
+    {
+      "provision_ref": "para88",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "88",
+      "title": "§ 88. Kasutatud tuumkütuse sisse-, välja- ja läbivedu",
+      "content": "Käesolevas jaos sätestatut kohaldatakse ka kasutatud tuumkütuse sisse-, välja- ja läbiveole."
+    },
+    {
+      "provision_ref": "para89",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "89",
+      "title": "§ 89. Kiirgusekspert",
+      "content": "(1) Kiirgusekspert on isik, kes nõustab oma teadmiste ja oskuste ulatuses kiirgustegevusloa omajaid ja muid isikuid. Kiirgusekspert nõustab muu hulgas järgmistes valdkondades:\n1) kiirgustegevuseks mõeldud rajatiste projekteerimisel kiirgusohutusnõuete arvestamine;\n2) kiirgustegevuskohas töökohtade liigitamine kontrolli- ja jälgimisaladeks;\n3) kiirgustegevuskoha seireprogrammid;\n4) kaitsevahendid ja mõõteseadmed, kaasa arvatud nende valik ja kontrollimine;\n5) kiirgusohutuse kvaliteedijuhtimise süsteemi koostamine;\n6) radioaktiivsete jäätmete ohutu käitlemine;\n7) riskianalüüs ja kiirgushädaolukorra lahendamise planeerimine;\n8) kiirgustöötajate ja kiirgusohutuse spetsialistide koolitamine;\n9) uue või kohandatud kiirgusallika kasutuselevõtt.\n(2) Kiirguseksperdina tohib tegutseda sellekohase tunnistuse saanud või tunnustatud füüsiline isik."
+    },
+    {
+      "provision_ref": "para90",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "90",
+      "title": "§ 90. Kiirguseksperdi tunnistus",
+      "content": "(1) Kiirguseksperdi tunnistus väljastatakse taotluse alusel isikule, kes:\n1) on kõrgharidusega;\n2) on läbinud kiirgusohutuse koolituse, mille õppekava sisaldab kiirgusohutuse põhimõtteid ning Eesti Vabariigi ja Euroopa Liidu kiirgusalaseid õigusakte ja asjakohaseid rahvusvahelisi soovitusi ning ioniseerivat kiirgust käsitlevaid aineid sellises ulatuses, et see võimaldab tegutseda tunnistusega määratud alal;\n3) on vähemalt viieaastase töökogemusega kiirgusohutuse alal;\n4) on sooritanud kiirguseksperdi eksami;\n(2) Kiirguseksperdi tunnistuse väljastab Keskkonnaamet.\n(3) Kiirguseksperdi tunnistuse taotluse läbivaatamise eest tasub taotleja riigilõivu riigilõivuseaduses sätestatud määras.\n(4) Kiirguseksperdi koolituse õppekava, kutseoskusnõuded, tunnistuse taotlemise korra ning tunnistuse taotluse ja tunnistuse vormi kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para91",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "91",
+      "title": "§ 91. Tunnistuse kehtivus",
+      "content": "Tunnistus kehtib viis aastat."
+    },
+    {
+      "provision_ref": "para92",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "92",
+      "title": "§ 92. Tunnistuse andmisest keeldumine",
+      "content": "Keskkonnaamet keeldub tunnistuse andmisest, kui: 1 1) isik ei vasta käesoleva seaduse § 90 lõikes 1 sätestatud nõuetele;\n2) isik on kolme aasta jooksul enne tunnistuse taotlemist oma varasema tegevusega rikkunud oluliselt kiirgusseaduse ja selle alusel antud õigusaktidega kehtestatud nõudeid;\n3) tunnistus on kolme aasta jooksul enne uue tunnistuse taotlemist kehtetuks tunnistatud."
+    },
+    {
+      "provision_ref": "para93",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "93",
+      "title": "§ 93. Tunnistuse kehtetuks tunnistamine",
+      "content": "Keskkonnaamet tunnistab tunnistuse kehtetuks, sellest tunnistuse omajat eelnevalt kirjalikult teavitades, kui: 1 1) tunnistuse omaja on esitanud tegelikkusele mittevastavaid andmeid oma hariduse, kiirgusohutuse koolituse läbimise või töökogemuse kohta;\n2) tunnistuse omaja ei järgi kiirgusohutuse põhimõtteid."
+    },
+    {
+      "provision_ref": "para94",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "94",
+      "title": "§ 94. Välisriigi kutsekvalifikatsiooni tunnustamine",
+      "content": "(1) Kiirguseksperdina võib töötada ka välisriigi kutsekvalifikatsiooni omandanud isik, kui tema kutsekvalifikatsiooni on tunnustatud välisriigi kutsekvalifikatsiooni tunnustamise seaduse kohaselt.\n(2) Välisriigi kutsekvalifikatsiooni tunnustamise seaduse § 7 lõike 2 kohaselt on pädev asutus Keskkonnaamet."
+    },
+    {
+      "provision_ref": "para95",
+      "chapter": "4. peatükk - Kiirgustegevusega seotud load ja registreeringud",
+      "section": "95",
+      "title": "§ 95. Meditsiinifüüsika ekspert",
+      "content": "(1) Meditsiinifüüsika ekspert tegutseb, nõustab ja osaleb oma teadmiste ja oskuste ulatuses meditsiinivaldkonnas:\n1) meditsiinikiiritusseadme kasutamisel kiirgusfüüsikaga seonduvates küsimustes;\n2) patsiendi dosimeetria küsimustes;\n3) meditsiinikiirituse optimeerimisel;\n4) meditsiinikiirituse protseduuri kvaliteedi tagamisel;\n5) meditsiinikiiritusseadme heakskiidukatsete tegemisel;\n6) meditsiinikiiritusseadme, kaitsevahendi ja mõõteseadme hankimise ja hindamise protsessis;\n7) meditsiinikiiritusseadme ja -rajatise tehnilise kirjelduse ettevalmistamises;\n8) selliste sündmuste analüüsimises, millega kaasneb või võib kaasneda avariikiiritus või kavandamata meditsiinikiiritus;\n9) töötajate koolitamisel.\n(2) Heakskiidukatsed on meditsiinikiiritusseadme esmakordsele või ümberehitusjärgsele kasutamisele vahetult eelnevad katsed seadmele ettenähtud ohutuse ja toimimisnäitajate kontrollimiseks ning toimimisnäitajate baasväärtuse määramiseks.\n(3) Meditsiinifüüsika eksperdina tohib tegutseda füüsiline isik, kellel on volitatud biomeditsiinitehnika inseneri või sellega võrdsustatud kutsetunnistus diagnostilise radioloogia, nukleaarmeditsiini või kiiritusravi erialal."
+    },
+    {
+      "provision_ref": "para96",
+      "chapter": "5. peatükk - Looduskiiritus",
+      "section": "96",
+      "title": "§ 96. Suurenenud looduskiiritus",
+      "content": "(1) Keskkonnaamet tagab, et uuringute või muude asjakohaste meetodite abil selgitatakse välja kõik sellised toimingud, mille korral looduslikud kiirgusallikad või looduslikud radioaktiivsed ained võivad põhjustada töötajatele või elanikele suuremat kiiritust, kui on käesoleva seaduse alusel kehtestatud elaniku efektiivdoosi piirmäär.\n(1^1) Looduslik kiirgusallikas on looduslik, maapinnas sisalduv või kosmilise päritoluga ioniseeriva kiirguse allikas.\n(2) Toimingud, mille korral looduslikud kiirgusallikad või looduslikud radioaktiivsed ained võivad põhjustada töötajatele või elanikele suuremat kiiritust, kui on käesoleva seaduse alusel kehtestatud elaniku efektiivdoosi piirmäär, on muu hulgas:\n1) haruldaste muldmetallide eraldamine monatsiidist;\n2) tooriumiühendite tootmine ja tooriumi sisaldavate toodete valmistamine;\n3) nioobiumi-tantaalimaagi töötlemine;\n4) nafta ja gaasi tootmine;\n5) geotermilise energia tootmine;\n6) TiO_2 pigmendi tootmine;\n7) fosfori termiline tootmine;\n8) tsirkooni ja tsirkooniumi töötlemine;\n9) fosforväetiste tootmine;\n10) tsemendi tootmine ja klinkerahjude hooldus;\n11) kivisöega köetavate elektrijaamade käitamine ja keskküttekatelde hooldus;\n12) fosforhappe tootmine;\n13) raua esmane tootmine;\n14) tina, plii ja vase sulatamine;\n15) põhjavee puhastusjaamade käitamine;\n16) muude maakide kui uraani kaevandamine."
+    },
+    {
+      "provision_ref": "para97",
+      "chapter": "5. peatükk - Looduskiiritus",
+      "section": "97",
+      "title": "§ 97. Meetmed töötajate ja elanike kaitseks",
+      "content": "(1) Toimingute puhul, mille korral looduslikud kiirgusallikad võivad põhjustada töötajatele või elanikele suuremat kiiritust, kui on käesoleva seaduse alusel kehtestatud elaniku efektiivdoosi piirmäär, on Keskkonnaametil õigus nõuda tööandjalt:\n1) kiirgusohutushinnangu esitamist;\n2) kiiritusest põhjustatud dooside seire korraldamist;\n3) dooside suuruse arvestamist töögraafiku koostamisel;\n4) töötajate teavitamist nende tööga seotud terviseriskist ja asjakohast juhendamist;\n5) erimeetmete rakendamist naistöötajate tervise kaitseks raseduse ajal ja vajaduse korral lapse imetamise ajal;\n6) asjakohaste abinõude tarvitusele võtmist, et vältida või minimeerida töötajatel ja elanikel käesoleva seaduse alusel kehtestatud elaniku efektiivdoosi piirmäära ületava doosi saamise võimalust.\n(2) Kui Keskkonnaameti hinnangul ei ole käesoleva paragrahvi lõikes 1 sätestatud meetmete rakendamine piisav ja töötajad võivad saada elaniku efektiivdoosi piirmäärast suurema aastase efektiivdoosi, peab tööandja taotlema kiirgustegevusloa.\n(3) Tööruumide õhu radoonisisalduse viitetaseme, õhu radoonisisalduse mõõtmise korra ja tööandja kohustused kõrgendatud radooniriskiga töökohtadel kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para97^1",
+      "chapter": "5. peatükk - Looduskiiritus",
+      "section": "97^1",
+      "title": "§ 97^1. Meetmed lennumeeskonna ja kosmoselaeva meeskonna kaitseks",
+      "content": "(1) Lennumeeskonna kaitsmiseks juhul, kui see võib kosmilise kiirguse tõttu saada aastas suuremat kiiritust, kui on käesoleva seadusega kehtestatud elaniku efektiivdoosi piirmäär, peab tööandja:\n1) korraldama kiiritusest põhjustatud dooside seiret;\n2) arvestama dooside suurust töögraafiku koostamisel;\n3) teavitama töötajaid nende tööga seotud terviseriskist;\n4) rakendama erimeetmeid naistöötajate tervise kaitseks raseduse ajal.\n(2) Kui töötaja kiirgusdoos ületab 6 millisiivertit aastas, peab tööandja lisaks käesoleva paragrahvi lõikes 1 sätestatule:\n1) kooskõlastama töötajate kaitseks rakendatavad meetmed Keskkonnaametiga;\n2) tagama töötaja tervisekontrolli vähemalt üks kord aastas.\n(3) Kosmoselaeva meeskonna kaitsmiseks juhul, kui see võib kosmilise kiirguse tõttu saada aastas suuremat kiiritust, kui on käesoleva seaduse alusel kehtestatud kiirgustöötaja efektiivdoosi piirmäär, rakendatavad meetmed kooskõlastatakse Keskkonnaametiga.\n(4) Kosmoselaev käesoleva seaduse tähenduses on mehitatud sõiduk, mis on kavandatud töötama kõrgemal kui 100 kilomeetrit merepinnast."
+    },
+    {
+      "provision_ref": "para98",
+      "chapter": "6. peatükk - Finantstagatis",
+      "section": "98",
+      "title": "§ 98. Finantstagatis",
+      "content": "(1) Kiirgustegevusloa andja võib nõuda kiirgustegevusloa taotlejalt finantstagatist radioaktiivse aine, seda sisaldava seadme ja radioaktiivsete jäätmete ohutustamiseks (edaspidi tagatis ).\n(2) Tagatise vajaduse üle otsustab kiirgustegevusloa andja 20 päeva jooksul kiirgustegevusloa või selle muutmise taotluse registreerimisest arvates. Otsuse tegemisel võetakse arvesse radioaktiivse aine, seda sisaldava seadme või radioaktiivsete jäätmete ohutustamise tagamise olulisust kiirgusohutuse seisukohalt ja ohutustamise eeldatavat maksumust.\n(3) Tagatis peab olema mõeldud ainult radioaktiivse aine, seda sisaldava seadme ja radioaktiivsete jäätmete ohutustamiseks ning vajaduse korral viivitamata realiseeritav.\n(4) Tagatise suuruseks on kiirgustegevusloa taotluses esitatud andmete alusel radioaktiivse aine, seda sisaldava seadme või radioaktiivsete jäätmete ohutustamise eeldatav maksumus ning selle määrab kiirgustegevusloa andja.\n(5) Tagatise olemasolu tõendatakse kiirgustegevusloa andja aktsepteeritud Eesti või rahvusvahelise krediidi- või finantseerimisasutuse garantiiga. Kiirgustegevusloa andjal on õigus jätta garantii andja aktsepteerimata, kui garantii andja senise tegevuse, majandusliku seisundi või maine põhjal on alust kahelda tema antava tagatise usaldusväärsuses.\n(6) Tagatis peab kehtima radioaktiivse aine, seda sisaldava seadme või radioaktiivsete jäätmete ohutustamise lõpuni."
+    },
+    {
+      "provision_ref": "para99",
+      "chapter": "6. peatükk - Finantstagatis",
+      "section": "99",
+      "title": "§ 99. Tagatise suurendamine",
+      "content": "Kui kiirgustegevusloa andja tuvastab, et olemasoleva tagatise suurus ei kata radioaktiivse aine, seda sisaldava seadme või radioaktiivsete jäätmete ohutustamise kulusid, on tal õigus nõuda tagatise suurendamist."
+    },
+    {
+      "provision_ref": "para100",
+      "chapter": "7. peatükk - Kiirgusseire",
+      "section": "100",
+      "title": "§ 100. Elanike ja elanikkonna vaatlusrühma efektiiv- ja ekvivalentdoosi hindamine",
+      "content": "(1) Elanike ja elanikkonna vaatlusrühmade efektiiv- ja ekvivalentdooside hindamise tagab Keskkonnaamet.\n(2) Elanikkonna vaatlusrühm on isikute rühm, kelle mingist kiirgustegevusest põhjustatud kiiritus on ühtlane ja kes esindab sellest kiirgustegevusest enam kiiritatud elanikkonna osa.\n(3) Kiirgustegevusloa omaja, kellel on luba käesoleva seaduse § 68 lõike 1 punktis 1, 4 või 5 sätestatud kiirgustegevuseks, tagab kiirgustegevusest elanikkonna vaatlusrühmadele põhjustatud dooside hindamise.\n(4) Elaniku efektiivdooside seire ja hindamise korra, radionukliidide sissevõtust põhjustatud dooside doosikoefitsientide, kiirgus- ja koefaktori väärtused ning nende mõõtmise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para101",
+      "chapter": "7. peatükk - Kiirgusseire",
+      "section": "101",
+      "title": "§ 101. Kiirgustöötaja efektiiv- ja ekvivalentdoosi hindamine",
+      "content": "(1) Kiirgustöötaja efektiiv- ja ekvivalentdooside hindamise tagab kiirgustegevusloa omaja.\n(2) Kiirgustöötaja efektiivdooside seire ja hindamise korra, radionukliidide sissevõtust põhjustatud dooside doosikoefitsientide ning kiirgus- ja koefaktori väärtused ning nende mõõtmise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para102",
+      "chapter": "7. peatükk - Kiirgusseire",
+      "section": "102",
+      "title": "§ 102. Doosiregister",
+      "content": "(1) Kiirgustöötajate saadud kutsekiirituse dooside arvestuse pidamiseks peetakse riiklikku kiirgustöötajate doosiregistrit.\n(2) Riikliku kiirgustöötajate doosiregistri vastutav töötleja on Keskkonnaamet.\n(3) Riiklikusse kiirgustöötajate doosiregistrisse kogutakse kiirgustöötaja isikuandmed, andmed tema tööandja ja saadud kutsekiirituse dooside kohta.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud andmeid tuleb riiklikus kiirgustöötajate doosiregistris säilitada kogu kiirgustöötaja kiirgustööl töötamise aja kestel. Pärast seda säilitatakse andmeid, kuni isik saab või oleks saanud 75-aastaseks, kuid mitte vähem kui 30 aastat tema kiirgustöölt lahkumisest arvates.\n(5) Kiirgustöötaja isikudooside seire tulemustele võimaldatakse juurdepääs järgmistele isikutele:\n1) kiirgustöötajale tema isikut puudutavate andmete osas;\n2) spetsialistile, kes osutab kiirgustöötajale tervishoiuteenust;\n3) kiirgustegevusloa omajale tema kiirgustöötajate andmete osas;\n4) kiirgusohutuse kontrolli teostajale;\n5) kiirituse ja selle mõju kohta teadusuuringuid tegevale isikule andmete osas, mis ei puuduta kiirgustöötaja isikut.\n(6) Riikliku kiirgustöötajate doosiregistri asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para103",
+      "chapter": "8. peatükk - Sekkumine ja kaitsemeetmete rakendamine",
+      "section": "103",
+      "title": "§ 103. Sekkumine",
+      "content": "Sekkumine on kiirgusallikatele, kiiritusradadele ja isikutele suunatud inimtegevus, millega välditakse või vähendatakse inimeste kiiritust avarii- ja püsikiirituse olukorras."
+    },
+    {
+      "provision_ref": "para104",
+      "chapter": "8. peatükk - Sekkumine ja kaitsemeetmete rakendamine",
+      "section": "104",
+      "title": "§ 104. Kiiritusrada",
+      "content": "Kiiritusrada on tee keskkonnas, mille kaudu radioaktiivne aine liigub isikuni ja kiiritab teda."
+    },
+    {
+      "provision_ref": "para105",
+      "chapter": "8. peatükk - Sekkumine ja kaitsemeetmete rakendamine",
+      "section": "105",
+      "title": "§ 105. Sekkumis-, tegutsemis- ja viitetase",
+      "content": "(1) Sekkumistase on prognoositava doosi väärtus, mille ületamise korral tuleb kaaluda meetmete rakendamist elanike kaitsmiseks.\n(1^1) Prognoositav doos on doos, mis eeldatavalt saadakse avarii- või püsikiirituse olukorras, kui kaitsemeetmeid ei rakendata.\n(2) Tegutsemistase on doosikiiruse või aktiivsuskontsentratsiooni väärtus, mille ületamise korral rakendatakse kaitsemeetmeid.\n(2^1) Viitetase on avariikiirituse või püsikiirituse olukorras esinev efektiivdoosi, ekvivalentdoosi või aktiivsuskontsentratsiooni tase, millest kõrgema taseme puhul tuleb kaaluda meetmete võtmist kiirituse vähendamiseks, kuigi tegu ei ole piirmääraga, mida ei tohi ületada.\n(3) Sekkumis- ja tegutsemistasemed ning avariikutsekiirituse viitetasemed, mis on aluseks kiirgushädaolukorra lahendamise plaani koostamisel ja elanike kaitsmise meetmete rakendamisel, kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para106",
+      "chapter": "8. peatükk - Sekkumine ja kaitsemeetmete rakendamine",
+      "section": "106",
+      "title": "§ 106. Kaitse- ja parandusmeetmed ning nende rakendamise põhimõtted",
+      "content": "(1) Kaitsemeetmete rakendamise viis, ulatus ja kestus tuleb planeerida selliselt, et inimese tervisekahjustuse vähenemisest tekkiv kasu oleks sekkumisest põhjustatud kahjuga võrreldes maksimaalne.\n(1^1) Kaitsemeetmed on meetmed, välja arvatud parandusmeetmed, mida rakendatakse selliste dooside vältimiseks või vähendamiseks, mida vastasel juhul võidakse saada avariikiirituse või püsikiirituse olukorras.\n(1^2) Parandusmeetmed on kiirgusallika kõrvaldamine või selle võimsuse vähendamine või kiiritusraja katkestamine või selle mõju vähendamine, et ära hoida või vähendada doose, mida vastasel korral võidakse saada avariikiirituse või püsikiirituse olukorras.\n(2) Kaitsemeetmeid rakendatakse, kui kahjustuse vähenemine on kaitsemeetmete rakendamisel tekkiva kahju ja kulutuste õigustamiseks piisav."
+    },
+    {
+      "provision_ref": "para107",
+      "chapter": "8. peatükk - Sekkumine ja kaitsemeetmete rakendamine",
+      "section": "107",
+      "title": "§ 107. Sekkumine avariikiirituse olukorras",
+      "content": "(1) Sekkumisel osalejad on Päästeamet päästeseaduses sätestatud alusel ja korras, Politsei- ja Piirivalveamet politsei ja piirivalve seaduses sätestatud alusel ja korras, Keskkonnaamet, sekkumises osalev radioaktiivsete jäätmete käitleja ning vajaduse korral muud isikud.\n(2) Keskkonnaameti pädevuses on:\n1) radioaktiivse aine võimaliku ajas ja ruumis laialikandumise ning võimaliku saadava kiirituse hindamine;\n2) suurenenud kiiritusega ala väljaselgitamine ja sellel alal kiirgusseire korraldamine;\n3) mõõtmiste teostamine ja radioaktiivse saaste piirkoguste ületamisele või ületamata jäämisele hinnangu andmine;\n4) kõrgenenud kiirgustasemega alal viibinud isikute kiirgusdooside hindamine ja dokumenteerimine;\n5) kiirgusteabe vahetamine Euroopa Komisjoni ja Rahvusvahelise Aatomienergia Agentuuriga.\n(3)\n(4) Sekkumises osalev radioaktiivsete jäätmete käitleja on juriidiline isik, kellel on kiirgustegevusluba radioaktiivsete jäätmete ladustuskoha haldamiseks ja radioaktiivse aine veoks ning võimekus radioaktiivselt saastatud alalt saaste eemaldamiseks.\n(5) Sekkumises osaleva radioaktiivsete jäätmete käitleja nimetab valdkonna eest vastutav minister käskkirjaga või sõlmib sekkumises osalemise ülesande täitmiseks halduslepingu käesoleva seaduse § 61 lõikes 5 nimetatud tingimustel."
+    },
+    {
+      "provision_ref": "para108",
+      "chapter": "8. peatükk - Sekkumine ja kaitsemeetmete rakendamine",
+      "section": "108",
+      "title": "§ 108. Sekkumine kiirgushädaolukorras",
+      "content": "Vastavalt hädaolukorra seadusele koostatakse kiirgushädaolukorrale reageerimiseks valmisoleku tagamiseks kiirgushädaolukorra lahendamise plaan."
+    },
+    {
+      "provision_ref": "para109",
+      "chapter": "8. peatükk - Sekkumine ja kaitsemeetmete rakendamine",
+      "section": "109",
+      "title": "§ 109. Sekkumine püsikiirituse olukorras",
+      "content": "Keskkonnaamet tagab uuringute või muude asjakohaste meetmete abil avariikiirituse või minevikus toimunud tegevuste tagajärjel tekkinud püsikiirituse olukorra väljaselgitamise ning koostab olukorra ohjamise kava, mis sisaldab vähemalt järgmist: 1 1) püsikiirituse olukorra iseloomustus;\n2) püsikiirituse olukorra ohjamise eesmärgid;\n3) optimeeritud parandus- ja kaitsemeetmete vorm, ulatus ja kestus;\n4) parandus- ja kaitsemeetmete rakendamisega seotud kohustused;\n5) keskkonna kiirgusseire programm;\n6) püsikiirituse olukorra asjakohased viitetasemed, mis peavad jääma vahemikku 1–20 millisiivertit aastas;\n7) tingimused pikaks ajaks jääksaaste mõju alla jäänud aladel elamiseks ning sotsiaalseks ja majandustegevuseks;\n8) avalikkuse teavitamise strateegia parandus- ja kaitsemeetmete rakendamisest, püsikiirituse olukorra lahendamise käigust, võimalikest terviseriskidest ning seiretulemustest."
+    },
+    {
+      "provision_ref": "para110",
+      "chapter": "8. peatükk - Sekkumine ja kaitsemeetmete rakendamine",
+      "section": "110",
+      "title": "§ 110. Avariikiirituse olukorra mõjupiirkonnas viibinud isikute tervisekontroll",
+      "content": "(1) Keskkonnaamet tagab vajaduse korral avarii- või avariikutsekiirituse isikudooside hindamise, seire ja hindamise tulemuste esitamise tervisekontrolli tegevale arstile.\n(2) Tervisekontrolli kulud kaetakse riigieelarvest ja nõutakse hiljem sisse avariikiirituse olukorra põhjustajalt."
+    },
+    {
+      "provision_ref": "para111",
+      "chapter": "8. peatükk - Sekkumine ja kaitsemeetmete rakendamine",
+      "section": "111",
+      "title": "§ 111. Kiirgusohust varajase hoiatamise süsteem",
+      "content": "Kiirgusohust varajase hoiatamise süsteemi toimimise tagab Keskkonnaamet."
+    },
+    {
+      "provision_ref": "para112",
+      "chapter": "9. peatükk - Riiklik järelevalve",
+      "section": "112",
+      "title": "§ 112. Riiklik järelevalve",
+      "content": "(1) Kiirgusohutuse riiklikku järelevalvet teeb Keskkonnaamet.\n(2) Käesoleva seaduse § 97 lõike 3 alusel kehtestatud määruse nõuete täitmise järelevalvet teevad Tööinspektsioon ja Keskkonnaamet määruses sätestatu kohaselt."
+    },
+    {
+      "provision_ref": "para113",
+      "chapter": "9. peatükk - Riiklik järelevalve",
+      "section": "113",
+      "title": "§ 113. Riikliku järelevalve erimeetmed",
+      "content": "Keskkonnaamet võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 45, 49, 50, 51, 52 ja 53 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para114",
+      "chapter": "9. peatükk - Riiklik järelevalve",
+      "section": "114",
+      "title": "§ 114. Vahetu sunni kasutamine",
+      "content": "Keskkonnaametil on lubatud kasutada füüsilist jõudu korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para115",
+      "chapter": "9. peatükk - Riiklik järelevalve",
+      "section": "115",
+      "title": "§ 115. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär 32 000 eurot."
+    },
+    {
+      "provision_ref": "para116",
+      "chapter": "9. peatükk - Riiklik järelevalve",
+      "section": "116",
+      "title": "§ 116. Välislepingutest tulenevad kohustused",
+      "content": "Rahvusvahelistel inspektoritel, kes kontrollivad Eesti Vabariigi suhtes jõustunud välislepingute tingimuste täitmist, on juurdepääs kõikidele nende välislepingute reguleerimisalasse kuuluvatele objektidele ja asjaomastele andmetele ning õigus võtta proove."
+    },
+    {
+      "provision_ref": "para117",
+      "chapter": "10. peatükk - Vastutus",
+      "section": "117",
+      "title": "§ 117. Tegutsemine kiirgustegevusloata või loa nõudeid rikkudes",
+      "content": "(1) Tegutsemise eest kiirgustegevusloata, kui luba oli nõutav, või loa nõudeid rikkudes – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 20 000 eurot."
+    },
+    {
+      "provision_ref": "para117^1",
+      "chapter": "10. peatükk - Vastutus",
+      "section": "117^1",
+      "title": "§ 117^1. Tegutsemine kiirgustegevuse registreeringuta või registreeringu nõudeid rikkudes",
+      "content": "(1) Tegutsemise eest kiirgustegevuse registreeringuta, kui registreering oli nõutav, või registreeringu nõudeid rikkudes – karistatakse rahatrahviga kuni 150 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 10 000 eurot."
+    },
+    {
+      "provision_ref": "para118",
+      "chapter": "10. peatükk - Vastutus",
+      "section": "118",
+      "title": "§ 118. Kiirgustegevuse tegija kohustuste rikkumine",
+      "content": "(1) Käesolevas seaduses sätestatud kiirgustegevuse tegija kohustuste rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 20 000 eurot."
+    },
+    {
+      "provision_ref": "para119",
+      "chapter": "10. peatükk - Vastutus",
+      "section": "119",
+      "title": "§ 119. Radioaktiivset ainet sisaldava kauba valmistamine",
+      "content": "(1) Toiduaine, loomasööda, mänguasja või ehte valmistamisel sellele radioaktiivse aine lisamise või mänguasja või ehet valmistades selles kasutatava materjali aktiveerimise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para120",
+      "chapter": "10. peatükk - Vastutus",
+      "section": "120",
+      "title": "§ 120. Radioaktiivset ainet sisaldava kiirgusallika ja radioaktiivsete jäätmete ning kauba vedu üle riigipiiri",
+      "content": "(1) Radioaktiivset ainet sisaldava kiirgusallika, radioaktiivsete jäätmete või §-s 119 loetletud kauba veo eest üle riigipiiri sellekohase loata – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 20 000 eurot."
+    },
+    {
+      "provision_ref": "para121",
+      "chapter": "10. peatükk - Vastutus",
+      "section": "121",
+      "title": "§ 121. Radioaktiivset ainet sisaldava kiirgusallika ja radioaktiivsete jäätmete üleandmine kiirgustegevusloata või kiirgustegevuse registreeringuta isikule",
+      "content": "(1) Radioaktiivset ainet sisaldava kiirgusallika või radioaktiivsete jäätmete üleandmise eest kiirgustegevusloata või kiirgustegevuse registreeringuta isikule – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 20 000 eurot."
+    },
+    {
+      "provision_ref": "para122",
+      "chapter": "10. peatükk - Vastutus",
+      "section": "122",
+      "title": "§ 122. Menetlus",
+      "content": "Käesolevas peatükis sätestatud väärtegude kohtuväline menetleja on Keskkonnaamet."
+    },
+    {
+      "provision_ref": "para123",
+      "chapter": "11. peatükk - Rakendussätted",
+      "section": "123",
+      "title": "§ 123. Väikese ohuga kiirgustegevuse loa kehtivus",
+      "content": "Enne käesoleva seaduse jõustumist antud tähtajalised väikese ohuga kiirgustegevuse load kehtivad kuni nendes märgitud kehtivusaja lõpuni."
+    },
+    {
+      "provision_ref": "para124",
+      "chapter": "11. peatükk - Rakendussätted",
+      "section": "124",
+      "title": "§ 124. Väikese ohuga kiirgustegevuse loa andmise menetlus",
+      "content": "Enne käesoleva seaduse jõustumist algatatud väikese ohuga kiirgustegevuse loa andmise menetlus viiakse lõpule keskkonnaseadustiku üldosa seaduse ja käesoleva seaduse kohaselt."
+    },
+    {
+      "provision_ref": "para124^2",
+      "chapter": "11. peatükk - Rakendussätted",
+      "section": "124^2",
+      "title": "§ 124^2. Kiirgustegevuse registreeringule üleminek",
+      "content": "(1) Isik, kellele on kiirgustegevuse registreeringut nõudvaks tegevuseks väljastatud kiirgustegevusluba, võib esitada Keskkonnaametile taotluse samale tegevusele registreeringu saamiseks.\n(2) Enne käesoleva paragrahvi jõustumist väljastatud kiirgustegevusloa muutmise taotluse esitamisel vastavalt käesoleva seaduse § 78 lõikele 1 esitatakse ühtlasi taotlus loal olevale kiirgustegevuse registreeringut nõudvale tegevusele registreeringu saamiseks.\n(3) Kiirgustegevuse registreeringu taotlust rahuldades tunnistab Keskkonnaamet kiirgustegevusloa kehtetuks osas, milles anti registreering.\n(4) Käesolevas paragrahvis sätestatud juhtudel on kiirgustegevuse registreeringu taotleja vabastatud riigilõivu tasumisest."
+    },
+    {
+      "provision_ref": "para124^3",
+      "chapter": "11. peatükk - Rakendussätted",
+      "section": "124^3",
+      "title": "§ 124^3. Enne kiirgustegevuse registreeringu kehtestamist esitatud kiirgustegevusloa taotluse ja kiirgustegevusloa muutmise taotluse menetlemine",
+      "content": "Enne kiirgustegevuse registreeringu kehtestamist esitatud kiirgustegevusloa taotlusele ja kiirgustegevusloa muutmise taotlusele kohaldatakse taotluse menetlemise ajal kehtivat seadust."
+    },
+    {
+      "provision_ref": "para125",
+      "chapter": "11. peatükk - Rakendussätted",
+      "section": "125",
+      "title": "§ 125.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para126",
+      "chapter": "11. peatükk - Rakendussätted",
+      "section": "126",
+      "title": "§ 126.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para127",
+      "chapter": "11. peatükk - Rakendussätted",
+      "section": "127",
+      "title": "§ 127. Seaduse jõustumine",
+      "content": "Käesolev seadus ja keskkonnaseadustiku üldosa seaduse viies peatükk jõustuvad 2016. aasta 1. novembril."
+    }
+  ],
+  "definitions": []
+}

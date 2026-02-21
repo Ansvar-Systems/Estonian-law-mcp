@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-887100",
+  "type": "statute",
+  "title": "Riigilipu seadus",
+  "title_en": "Riigilipu seadus",
+  "short_name": "ee-law-887100",
+  "status": "in_force",
+  "issued_date": "1993-03-23",
+  "in_force_date": "2006-01-01",
+  "url": "https://www.riigiteataja.ee/akt/887100.xml",
+  "description": "Official consolidated statute text (Riigilipu seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

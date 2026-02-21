@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-227032018002",
+  "type": "statute",
+  "title": "Euroopa Metsainstituudi konventsiooniga ühinemise seadus",
+  "title_en": "Euroopa Metsainstituudi konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-227032018002",
+  "status": "in_force",
+  "issued_date": "2018-03-14",
+  "in_force_date": "2018-04-06",
+  "url": "https://www.riigiteataja.ee/akt/227032018002.xml",
+  "description": "Official consolidated statute text (Euroopa Metsainstituudi konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Preambul",
+      "content": "Ühineda juurdelisatud Euroopa Metsainstituudi konventsiooniga, mis on koostatud 2003. aasta 28. augustil Joensuus."
+    }
+  ],
+  "definitions": []
+}

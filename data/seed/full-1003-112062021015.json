@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-112062021015",
+  "type": "statute",
+  "title": "Planeerimis- ja ehitusseadus",
+  "title_en": "Planeerimis- ja ehitusseadus",
+  "short_name": "PES",
+  "status": "in_force",
+  "issued_date": "1995-06-14",
+  "in_force_date": "2003-01-01",
+  "url": "https://www.riigiteataja.ee/akt/112062021015.xml",
+  "description": "Official consolidated statute text (Planeerimis- ja ehitusseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

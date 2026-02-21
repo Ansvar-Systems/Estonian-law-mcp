@@ -1,0 +1,421 @@
+{
+  "id": "ee-law-130062023058",
+  "type": "statute",
+  "title": "Postiseadus",
+  "title_en": "Postiseadus",
+  "short_name": "PostiS",
+  "status": "in_force",
+  "issued_date": "2006-04-06",
+  "in_force_date": "2023-07-01",
+  "url": "https://www.riigiteataja.ee/akt/130062023058.xml",
+  "description": "Official consolidated statute text (Postiseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala ja eesmärk",
+      "content": "(1) Käesolev seadus sätestab:\n1) postiteenusele esitatavad nõuded;\n2) postiteenuse osutajale esitatavad nõuded;\n3) riikliku järelevalve korralduse;\n4) vastutuse käesoleva seaduse rikkumise eest.\n(2) Käesoleva seaduse eesmärk on tagada:\n1) universaalse postiteenuse osutamine;\n2) kvaliteetse postiteenuse osutamine;\n3) postiteenuse kasutaja õiguste kaitse.\n(2^1) Ettevõtja maksab järelevalvetasu konkurentsiseaduses sätestatud alustel ja korras.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi.\n(4)\n(5) Universaalse postiteenuse osutaja rahvusvahelisele postiteenusele kohaldatakse käesolevat seadust Eesti territooriumil toimuva postisaadetise edastamise puhul niivõrd, kuivõrd see ei ole vastuolus Eesti Vabariigile siduvate Ülemaailmse Postiliidu aktidega.\n(6) Käesoleva seaduse 3. peatükki kohaldatakse postiteenusele, mille osutamiseks nõutakse tegevusluba."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Postiteenus",
+      "content": "(1) Postiteenus on adresseeritud postisaadetise edastamine majandustegevusena.\n(2) Edastamine on protsess, mis hõlmab postisaadetiste kogumist, sorteerimist, vedu ja saajale kättetoimetamist.\n(3) Postisaadetis loetakse adresseerituks, kui see kannab postisaadetise saaja nime ja postiaadressi või sellele viitavat märgistust või on varustatud postiaadressile osutava saatedokumendiga.\n(4) Riigisisese postiteenuse puhul asuvad postisaadetise saaja ja saatja Eestis.\n(5) Rahvusvahelise postiteenuse puhul asub postisaadetise saaja või saatja väljaspool Eestit.\n(6) Postiteenus ei ole kirjalike teadete ning muude saadetiste kättetoimetamine enda nimel ja enda majandustegevuse tarbeks."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Postisaadetise saaja ja saatja ning postiteenuse kasutaja",
+      "content": "(1) Postisaadetise saaja (edaspidi saaja ) on isik, kellele või kelle postiaadressil tuleb postisaadetis saatja tahte kohaselt kätte toimetada.\n(2) Postisaadetise saatja (edaspidi saatja ) on isik, kes vastutab postisaadetise sisu eest ning kelle tahtel ja nimel on postisaadetis postiteenuse osutajale edastamiseks üle antud.\n(3) Postiteenuse kasutajad on saaja ja saatja."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Postisaadetise ja postiteenuse liigid",
+      "content": "(1) Postisaadetised on:\n1) kirisaadetis;\n2) postipakk;\n3) perioodiline väljaanne.\n(2) Kirisaadetis on postiteenuse osutajale edastamiseks üleantud adresseeritud ning nõuetekohaselt pakitud ese või esemed. Kirisaadetis on näiteks kiri, trükis ja pisipakk.\n(3) Postipakk on postiteenuse osutajale edastamiseks üleantud adresseeritud ning nõuetekohaselt pakitud ese või esemed.\n(4) Perioodiline väljaanne on saatjalt tellitav ja tema poolt postiteenuse osutajale perioodiliselt, sagedusega vähemalt üks kord kvartalis edastamiseks üleantav adresseeritud trükis.\n(5) Postiteenused on:\n1) lihtsaadetise edastamine;\n2) tähtsaadetise edastamine;\n3) väärtsaadetise edastamine;\n3^1) partiisaadetise edastamine;\n4) kullerpostisaadetise edastamine (edaspidi kullerpost );\n5) otsepostisaadetise edastamine (edaspidi otsepost );\n6) perioodilise väljaande edastamine;\n7) muud postiteenused.\n(6) Lihtsaadetisena edastatakse kirisaadetis ja postipakk:\n1) mis väljastatakse saajale või tema esindajale ilma allkirjata;\n2) mille väärtus on postiteenuse osutajale avaldamata;\n3) mille kaotsimineku või kahjustumise korral puudub postiteenuse osutajal kohustus maksta hüvitist.\n(7) Tähtsaadetisena edastatakse kirisaadetis ja postipakk:\n1) mis väljastatakse saajale või tema esindajale allkirja vastu või muu isikusamasuse tuvastamist võimaldava tunnuse alusel;\n2) mille väärtus on postiteenuse osutajale avaldamata;\n3) mille kaotsimineku või kahjustumise korral maksab postiteenuse osutaja saatjale postiteenuse osutaja eelnevalt määratud garantiisumma.\n(8) Väärtsaadetisena edastatakse kirisaadetis ja postipakk:\n1) mis väljastatakse saajale või tema esindajale allkirja vastu või muu isikusamasuse tuvastamist võimaldava tunnuse alusel;\n2) mille väärtus on postiteenuse osutajale avaldatud;\n3) mille kaotsimineku või kahjustumise korral maksab postiteenuse osutaja saatjale tema avaldatud saadetise väärtuse.\n(8^1) Partiisaadetisena edastatakse:\n1) kirisaadetis, mis antakse saatja poolt postiteenuse osutajale samaaegselt üle edastamiseks vähemalt 100 saajale;\n2) postipakk, mis antakse saatja poolt postiteenuse osutajale samaaegselt üle edastamiseks vähemalt 25 saajale.\n(9) Kullerpostisaadetisena edastatakse kirisaadetis ja postipakk:\n1) mis väljastatakse saajale või tema esindajale allkirja vastu või muu isikusamasuse tuvastamist võimaldava tunnuse alusel;\n2) mis edastatakse kulleriga kiirel ja usaldusväärsel viisil;\n3) mille saatjal on võimalus igal hetkel saada informatsiooni saadetise asukoha kohta selle teekonnal, sekkuda saadetise kättetoimetamisse ja vajaduse korral korraldada ümber selle edastamist.\n(10) Otsepostisaadetisena edastatakse kirisaadetis:\n1) mis väljastatakse saajale või tema esindajale ilma allkirjata;\n2) mille sisuks on turunduslik või avalik materjal;\n3) mida edastatakse samaaegselt vähemalt 100 saajale;\n4) mille sisu, kaal ja mõõtmed on identsed teiste samaaegselt edastatavate saadetiste omadega, välja arvatud saaja nimi, postiaadress, identifitseerimisnumber ning muud teisendused, mis ei muuda sõnumi olemust;\n5) mille pakendile on kantud märge «reklaam», «reklaam posti teel» või «otsepost».\n(11) Otsepost ei ole:\n1) arvete edastamine;\n2) käesoleva paragrahvi lõike 10 punktides 1–5 sätestatud tingimustele vastava postisaadetise edastamine koos nimetatud tingimustele mittevastava postisaadetisega.\n(12) Kui otsepostisaadetis ei vasta vähemalt ühele käesoleva paragrahvi lõike 10 punktides 1–4 sätestatud tingimusele, loetakse see lihtsaadetiseks.\n(13) Täht- ja väärtsaadetise universaalse postiteenusena edastamisele esitatavad nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Universaalne postiteenus ja universaalse postiteenuse osutaja",
+      "content": "(1) Universaalne postiteenus on käesoleva paragrahvi lõikes 2 sätestatud postiteenuste järjepidev, kvaliteetne ja taskukohase tasu eest osutamine kogu Eesti Vabariigi territooriumil õigusaktidega sätestatud alustel ja korras.\n(2) Universaalse postiteenuse moodustavad järgmised riigisisesed ja rahvusvahelised postiteenused:\n1) kirisaadetise edastamine liht-, täht- ja väärtsaadetisena kaaluga kuni 2 kilogrammi;\n2) postipaki edastamine täht- ja väärtsaadetisena kaaluga kuni 20 kilogrammi.\n(3) Universaalse postiteenuse hulka ei kuulu postisaadetise edastamine partiisaadetisena.\n(4) Universaalse postiteenuse osutaja on isik, kellele on väljastatud tegevusluba universaalse postiteenuse osutamiseks.\n(5) Universaalse postiteenuse osutaja on üldhuviteenuse osutaja majandustegevuse seadustiku üldosa seaduse tähenduses."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6. Universaalse postiteenuse osutaja määramine",
+      "content": "(1) Universaalse postiteenuse osutaja määratakse avaliku konkursiga, mille korraldab Konkurentsiamet.\n(2) Kui avalik konkurss ebaõnnestub, paneb Konkurentsiamet universaalse postiteenuse osutamise kohustuse kuni viieks aastaks postiteenuse osutajale, kellel käesoleva paragrahvi lõikes 1 nimetatud konkursi korraldamise ajal oli universaalse postiteenuse osutamise tegevusluba.\n(3) Avaliku konkursi võitnud isikule või isikule, kellele on pandud universaalse postiteenuse osutamise kohustus käesoleva paragrahvi lõikes 2 sätestatu alusel, väljastab Konkurentsiamet universaalse postiteenuse osutamise tegevusloa.\n(4) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatu alusel universaalse postiteenuse osutaja määramisel arvestatakse vajadust tagada universaalse postiteenuse osutamine lühikeses ja pikas perspektiivis kuluefektiivselt, konkurentsi kahjustamata ning taskukohase tasu eest.\n(5) Käesoleva paragrahvi lõikes 1 nimetatud avaliku konkursi läbiviimise tingimused kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para6^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6^1",
+      "title": "§ 6^1. Kasutajalt universaalse postiteenuse eest võetav taskukohane tasu",
+      "content": "(1) Käesoleva seaduse § 6 lõikes 5 nimetatud avaliku konkursi läbiviimise tingimustes peab olema märgitud taskukohase tasu suurus § 5 lõikes 2 sätestatud teenuste eest.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud taskukohase tasu suuruse määrab valdkonna eest vastutav minister määrusega. Konkurentsiameti ettepanekul iga universaalse postiteenuse alla kuuluva teenuse osas ühesugusena kogu riigi territooriumil."
+    },
+    {
+      "provision_ref": "para6^2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "6^2",
+      "title": "§ 6^2. Universaalse postiteenuse osutaja määramise erisused",
+      "content": "(1) Käesoleva seaduse § 6 lõikes 5 nimetatud avaliku konkursi läbiviimise tingimustes peab sisalduma pakkuja kohustus esitada vähemalt järgmised andmed:\n1) universaalse postiteenuse osutamisega lisanduvad kulud ja kaasnevad tulud;\n2) universaalse postiteenuse osutamise kohustuseta tehtava tavapärase äritegevuse kulud ja käesoleva seaduse § 5 lõikes 2 sätestatud teenuste osutamise eest kasutajalt võetavad tasud.\n(2) Käesoleva paragrahvi lõike 1 punktis 1 nimetatud kulude määramisel:\n1) arvestatakse üksnes universaalse postiteenuse osutamise kohustuse täitmiseks vajalikke kulutusi;\n2) jäetakse arvestamata kulud, mida postiteenuse osutaja kannaks universaalse postiteenuse osutamise kohustuseta (tavapärase äritegevuse kulud), ning kulud, mis on tehtud enne pakkumise esitamise kalendriaasta algust."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "7",
+      "title": "§ 7. Postivõrk",
+      "content": "(1) Postivõrk on seadmete ja vahendite süsteem, mida postiteenuse osutaja kasutab postisaadetise edastamiseks. Postivõrk jaguneb kogumis- ja jaotusvõrguks.\n(2) Kogumisvõrk on seadmete ja vahendite süsteem, mida postiteenuse osutaja kasutab postisaadetiste kogumiseks juurdepääsupunktidest.\n(3) Jaotusvõrk on seadmete ja vahendite süsteem, mida postiteenuse osutaja kasutab postisaadetise saajale kättetoimetamiseks.\n(4) Juurdepääsupunkt on nii tegevuskoht kui ka vahend, mida kasutatakse postiteenuse osutamiseks.\n(5) Postkontor on püsiv tegevuskoht, kus on tagatud kõigi tegevusloaga hõlmatud postiteenuste osutamine.\n(6) Kirjakast on postiteenuse osutaja kogumisvõrgus olev püsivalt paigaldatud vahend postisaadetiste kogumiseks.\n(7) Universaalse postiteenuse osutamiseks kasutatavatele juurdepääsupunktidele ja nende paiknemisele esitatavad nõuded kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "8",
+      "title": "§ 8. Postkastile ja selle paigutamisele esitatavad nõuded",
+      "content": "(1) Postkast on saaja valduses olev vahend postisaadetise kättetoimetamiseks.\n(2) Postkast ja selle paigutamine peavad tagama postisaadetise säilimise.\n(3) Postkastile märgitakse korteri või maja number või talu nimi. Juriidilise isiku postkastile märgitakse lisaks juriidilise isiku nimi.\n(4) Postiteenuse osutajale tuleb tagada juurdepääs postkastile.\n(5) Linnas, alevis ja alevikus paigaldatakse postkast eramu või ridaelamu esist piirava aia külge või kortermaja esimese korruse eesruumi. Kui eramul või ridaelamul puudub aed, paigutatakse postkast tänavapoolse välisukse lähedusse valgustatud kohta.\n(6) Külas paigutatakse postkast selle omaniku ja universaalse postiteenuse osutaja vahelise kokkuleppe kohaselt isiku elu- või asukohast mõistlikul kaugusel asuvasse ja transpordivahendiga aastaringselt ligipääsetavasse kohta.\n(7) Postkasti paigutamisest või selle asukoha muutmisest teatatakse universaalse postiteenuse osutajale tema tüüptingimustes sätestatud korras.\n(8) Käesolevas paragrahvis postkastile ja selle paigutamisele esitatavate nõuete järgimata jätmisel on postiteenuse osutajal õigus jätta postisaadetised saajale edastamata käesoleva seaduse §-s 30 sätestatud kättetoimetamise võimatuse tõttu."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "9",
+      "title": "§ 9. Postimaksevahend",
+      "content": "(1) Postimaksevahend on postmark ja frankeerimismasina jäljend või postisaadetise edastamise eest tasumist tõendav postisaadetisele kantav muu jäljend.\n(2) Postmargi kinnitamisega postisaadetisele tõendatakse postiteenuse eest tasumist. Postmargile trükitakse sõna «Eesti» ja margi nimiväärtus araabia numbritega.\n(3) Postmarki saab kasutada ainult universaalse postiteenuse eest tasumise tõendamiseks.\n(4) Postmarkide käibele laskmise ja kehtetuks tunnistamise korraldamise ainuõigus on universaalse postiteenuse osutajal.\n(5) Postmarkide käibele laskmisel ja kehtetuks tunnistamisel lähtub universaalse postiteenuse osutaja seadustest, ülemaailmsest postikonventsioonist ja rahvusvaheliselt üldtunnustatud tavadest.\n(6) Postmarkide käibele laskmise ja kehtetuks tunnistamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - TEGEVUSLUBA JA TEGEVUSEST TEATAMINE",
+      "section": "10",
+      "title": "§ 10. Loakohustus",
+      "content": "(1) Tegevusluba on nõutav järgmiste postiteenuste osutamiseks:\n1) universaalne postiteenus;\n2) kirisaadetise edastamine nii liht-, täht-, väärt- kui ka partiisaadetisena;\n3) postipaki edastamine nii liht-, täht-, väärt- kui ka partiisaadetisena.\n(2) Universaalse postiteenuse osutamiseks väljastatakse tegevusluba ainult ühele isikule.\n(3) Tegevusluba käesoleva paragrahvi lõike 1 punktis 2 või 3 nimetatud postiteenuse osutamiseks lubab asjaomast postiteenust osutada nii riigisiseselt kui ka rahvusvaheliselt, välja arvatud juhul, kui ettevõtja on taotlenud luba üksnes riigisisese postiteenuse osutamiseks.\n(4) Tegevusluba ei ole vaja perioodilise väljaande edastamiseks, otsepostiks ega kullerpostiks.\n(5) Tegevusluba antakse viieks aastaks."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - TEGEVUSLUBA JA TEGEVUSEST TEATAMINE",
+      "section": "11",
+      "title": "§ 11. Tegevusloa taotlemine",
+      "content": "(1) Tegevusloa taotluse lahendab Konkurentsiamet.\n(2) Tegevusloa taotluses esitatakse lisaks majandustegevuse seadustiku üldosa seaduses sätestatud andmetele järgmised andmed ja dokumendid:\n1) kui ettevõtja soovib käesoleva seaduse § 10 lõike 1 punktis 2 või 3 nimetatud postiteenust osutada üksnes riigisiseselt, siis vastavasisuline märge;\n2) dokumendid, mis tõendavad teenuse osutamiseks vajaliku postivõrgu olemasolu või selle kasutusõigust tegevusloa kehtivusaja ulatuses;\n3) ettepanek käesoleva seaduse § 14 lõikes 1 sätestatud tegevusloa kõrvaltingimuste kohta;\n4) postiteenuse osutamise tüüptingimused (edaspidi tüüptingimused )."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - TEGEVUSLUBA JA TEGEVUSEST TEATAMINE",
+      "section": "12",
+      "title": "§ 12. Tegevusloa kontrolliese",
+      "content": "(1) Tegevusluba antakse ettevõtjale (edaspidi taotleja ), kui ta vastab järgmistele nõuetele:\n1) taotleja ja taotluses nimetatud tegevus vastab käesolevas seaduses või selle alusel kehtestatud õigusaktis sätestatud nõuetele;\n2) taotleja ja teda juhtima õigustatud isiku kohta ei ole karistusregistris karistusandmeid ameti- või majandusalase kuriteo kohta;\n3) taotleja esitatud tüüptingimused on kooskõlas õigusaktidega ja vastavad käesoleva seaduse eesmärkidele;\n4) taotlejal on teenuse osutamiseks vajalik postivõrk või selle kasutusõigus.\n(2) Kui taotlejal on käesoleva seaduse § 10 lõike 1 punktis 2 või 3 nimetatud postiteenuse osutamiseks üksnes riigisisene tegevusluba, ei kohaldata tema suhtes nõudeid, mis on seotud asjaomase postiteenuse rahvusvahelise osutamisega."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - TEGEVUSLUBA JA TEGEVUSEST TEATAMINE",
+      "section": "14",
+      "title": "§ 14. Tegevusloa kõrvaltingimused",
+      "content": "(1) Tegevusloale lisatakse järgmised kõrvaltingimused:\n1) tegevuse alustamise kuupäev;\n2) geograafiline piirkond, kus tegevusloa omaja osutab ise teenust, ja vajaduse korral geograafiline piirkond, kus tema nimel osutab teenust teine postiteenuse osutaja;\n3) juurdepääsupunktide arv, nende asukoha andmed ja postkontorite minimaalsed lahtiolekuajad;\n4) muud tingimused, mis tulenevad käesolevas seaduses või selle alusel kehtestatud õigusaktides sätestatud õigustest või kohustustest.\n(2)\n(3) Riigisisese postiteenuse osutamisel võib käesoleva paragrahvi lõike 1 punktis 2 nimetatud geograafiliseks piirkonnaks olla:\n1) Eesti Vabariik;\n2) regioon A, mis hõlmab järgmised seitse maakonda: Harju maakond, Hiiu maakond, Järva maakond, Lääne maakond, Pärnu maakond, Rapla maakond ja Saare maakond, või\n3) regioon B, mis hõlmab järgmised kaheksa maakonda: Ida-Viru maakond, Jõgeva maakond, Lääne-Viru maakond, Põlva maakond, Tartu maakond, Valga maakond, Viljandi maakond ja Võru maakond.\n(4) Universaalse postiteenuse osutamise geograafiline piirkond on Eesti Vabariik.\n(5)\n(6) Tegevusloa kõrvaltingimuste kehtestamisel arvestatakse:\n1) taotleja ettepanekut;\n2) avalikku huvi;\n3) vajadust kaitsta postiteenuse kasutaja õigusi;\n4) käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud õigusi ja kohustusi.\n(7)"
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - TEGEVUSLUBA JA TEGEVUSEST TEATAMINE",
+      "section": "15",
+      "title": "§ 15. Tüüptingimuste ja tegevusloa kõrvaltingimuste muutmine",
+      "content": "(1) Konkurentsiamet võib muuta kehtiva tegevusloa kõrvaltingimusi ja kehtestada uusi kõrvaltingimusi õigusaktidest tuleneva kohustuse täitmiseks ja tegevusloa omaja põhjendatud taotluse alusel.\n(2) Tegevusloa kõrvaltingimuste muutmise otsustab Konkurentsiamet 30 päeva jooksul tegevusloa omaja vastava taotluse saamisest või õigusaktide muudatuste jõustumisest arvates.\n(3) Tüüptingimuste muudatuste kooskõlastamise või kooskõlastamata jätmise otsustab Konkurentsiamet 30 päeva jooksul tegevusloa omaja vastava taotluse saamisest arvates.\n(4) Konkurentsiamet keeldub tüüptingimuste muudatuste kooskõlastamisest või tegevusloa kõrvaltingimuste muutmisest, kui soovitud tüüptingimused või kõrvaltingimused on vastuolus õigusaktide nõuetega või käesoleva seaduse eesmärkidega.\n(5) Konkurentsiamet toimetab tüüptingimuste muudatuste kooskõlastamise või kooskõlastamata jätmise otsuse ning tegevusloa kõrvaltingimuste muutmise või muutmisest keeldumise otsuse tegevusloa omajale kätte viie tööpäeva jooksul otsuse tegemise päevast arvates.\n(6) Konkurentsiamet toimetab tema algatusel tegevusloa kõrvaltingimuste muutmise või uute kõrvaltingimuste kehtestamise otsuse tegevusloa omajale kätte vähemalt 60 päeva enne tegevusloa kõrvaltingimuste muudatuste või uute kõrvaltingimuste jõustumist.\n(7) Tüüptingimuste muudatus jõustub taotleja soovitud ajal, kuid mitte enne 30 päeva möödumist Konkurentsiameti otsuse tegemise päevast arvates.\n(8)"
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - TEGEVUSLUBA JA TEGEVUSEST TEATAMINE",
+      "section": "18",
+      "title": "§ 18. Avaliku konkursi korraldamise aeg",
+      "content": "Universaalse postiteenuse osutamise tegevusloa kehtivuse lõppemisel korraldab Konkurentsiamet käesoleva seaduse §-s 6 nimetatud avaliku konkursi vähemalt 180 päeva enne nimetatud tegevusloa kehtivusaja lõppu."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - TEGEVUSLUBA JA TEGEVUSEST TEATAMINE",
+      "section": "19",
+      "title": "§ 19. Tegevusloa kehtivuse peatamine",
+      "content": "(1) Kui tegevusloa omaja ei saa täita tegevusloa kõrvaltingimusi või käesolevas seaduses ettenähtud kohustusi, peab ta sellest viivitamata Konkurentsiametit kirjalikult teavitama. Teates tuleb loetleda kohustused, mida tegevusloa omaja ei suuda täita, nimetada täitmata jätmise põhjused ja tegevusloa kehtivuse peatamise tähtaeg.\n(2)\n(3)\n(4)\n(5)\n(6)"
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - TEGEVUSLUBA JA TEGEVUSEST TEATAMINE",
+      "section": "20",
+      "title": "§ 20. Tegevusloa kehtetuks tunnistamise erisused",
+      "content": "(1) Konkurentsiamet võib lisaks majandustegevuse seadustiku üldosa seaduses sätestatud alustele tegevusloa kehtetuks tunnistada ka järgmistel juhtudel:\n1) tegevusloa omaja ei ole tegevusloas nimetatud tegevust alustanud tegevusloas ettenähtud kuupäevaks või lõpetab nimetatud tegevuse tegevusloa kehtivusajal;\n2) tegevusloa omaja suhtes on välja kuulutatud pankrot.\n(2) Uue tegevusloa saamiseks esitatakse taotlus Konkurentsiametile vähemalt 60 päeva enne tegevusloa kehtivusaja lõppemist."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "2. peatükk - TEGEVUSLUBA JA TEGEVUSEST TEATAMINE",
+      "section": "21",
+      "title": "§ 21. Teatamiskohustus",
+      "content": "(1) Majandustegevusteate peab esitama järgmiste postiteenuste osutamise korral:\n1) kullerpost;\n2) otsepost;\n3) perioodilise väljaande edastamine;\n4) muud postiteenused.\n(2) Lisaks majandustegevuse seadustiku üldosa seaduses sätestatud andmetele märgitakse teates ka postiteenuse osutamise geograafiline piirkond.\n(3) Käesolevas paragrahvis sätestatud teatamiskohustus täidetakse üksnes Eesti teabevärava või notari kaudu."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - POSTITEENUSELE JA POSTITEENUSE OSUTAJALE ESITATAVAD NÕUDED",
+      "section": "22",
+      "title": "§ 22. Postiteenuse osutaja ja postiteenuse osutamine",
+      "content": "(1) Postiteenuse osutaja on ettevõtja, kes osutab ühte või mitut postiteenust. Ainult postisaadetiste vedu ei ole postiteenuse osutamine.\n(2) Postiteenuse osutaja on kohustatud osutama tegevusloaga määratud postiteenust igaühele, kes seda soovib, ja tegema seda võrdsetel tingimustel.\n(3) Postiteenuse osutamise võib peatada või lõpetada tegevusloa kehtivusajal ainult käesoleva seaduse §-des 19 ja 20 sätestatud tingimustel Konkurentsiameti vastavasisulise otsuse alusel või vääramatu jõu tõttu.\n(4) Postiteenuse osutamine peab vastama käesolevas seaduses, selle alusel kehtestatud õigusaktides, postiteenuse osutamiseks sõlmitud lepingus ja tegevusloas sätestatud nõuetele."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - POSTITEENUSELE JA POSTITEENUSE OSUTAJALE ESITATAVAD NÕUDED",
+      "section": "23",
+      "title": "§ 23. Töövõtt",
+      "content": "(1) Postiteenuse osutaja ei pea täitma postiteenuse osutamiseks sõlmitud lepingust tulenevaid kohustusi isiklikult.\n(2) Käesoleva paragrahvi lõikes 1 sätestatu ei vabasta saatjalt postisaadetise edastamiseks vastuvõtnud postiteenuse osutajat kohustusest tagada käesolevas seaduses, selle alusel kehtestatud õigusaktides, postiteenuse osutamise lepingus ning tegevusloas sätestatud nõuete täitmine."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - POSTITEENUSELE JA POSTITEENUSE OSUTAJALE ESITATAVAD NÕUDED",
+      "section": "24",
+      "title": "§ 24. Teise postiteenuse osutaja postivõrgu kasutamine",
+      "content": "(1) Teise postiteenuse osutaja postivõrgu kasutamine postiteenuse osutamise eesmärgil on lubatud üksnes vastava kirjaliku lepingu olemasolu korral (edaspidi postivõrgu kasutamise leping ). Postivõrgu kasutamise tingimused ja tasud peavad olema kõigile tasuta kättesaadavad postiteenuse osutaja veebilehel ja kõigis tema postkontorites.\n(2) Juurdepääs teise postiteenuse osutaja postivõrgule peab olema kättesaadav võrdsetel tingimustel ja sama kvaliteediga, millega teine postiteenuse osutaja seda võimaldab oma ema- ja tütarettevõtjale, klientidele või äripartneritele.\n(3) Postiteenuse osutaja võib taotleda juurdepääsu muu hulgas järgmistele postivõrgu osadele või vahenditele:\n1) postiindeksite süsteem;\n2) nimekastid;\n3) saadetiste ümbersuunamise teenus;\n4) saatjale tagastamise teenus;\n5) jaotusvõrk.\n(4) Postiteenuse osutaja on kohustatud teise postiteenuse osutaja soovi korral pidama heas usus läbirääkimisi postivõrgu kasutamise võimaldamiseks, kui see on vajalik postiteenuse osutamiseks.\n(5) Postiteenuse osutajatel on õigus vabalt kokku leppida postivõrgu kasutamise tehnilistes ja ärilistes tingimustes, arvestades käesolevas paragrahvis sätestatut.\n(6) Postivõrgu kasutamise lepingus tuleb kokku leppida kõikides olulistes tingimustes, sealhulgas:\n1) postivõrgu kasutamise ulatus;\n2) postisaadetise üleandmise protseduur;\n3) postivõrgu kasutamise tasu ja arveldamise kord;\n4) postisaadetise saajale kättetoimetamise tingimused;\n5) kättetoimetamise võimatuse tõttu edastamata postisaadetise hoiustamise ja tagastamise tingimused.\n(7) Teise postiteenuse osutaja postivõrgu kasutamise tasu peab olema kulupõhine ja võib sisaldada mõistlikku kasumit.\n(8) Postivõrgu kasutamise lepingu koos taotlusega tegevusloa kõrvaltingimuste muutmiseks edastab teise postiteenuse osutaja postivõrku kasutav postiteenuse osutaja Konkurentsiametile kolme tööpäeva jooksul lepingu sõlmimisest arvates.\n(9) Postiteenuse osutaja võib keelduda postivõrgu kasutamise lepingu sõlmimisest, kui juurdepääsu võimaluse loomine on ebamõistlikult koormav või kahjustab tema postivõrgu terviklikkust või esinevad muud objektiivsed alused, mis on sätestatud konkurentsiseaduse § 18 lõikes 2.\n(10) Postivõrgule juurdepääsuga seotud vaidlused lahendab Konkurentsiamet, juhindudes käesolevast seadusest ja konkurentsiseadusest."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "3. peatükk - POSTITEENUSELE JA POSTITEENUSE OSUTAJALE ESITATAVAD NÕUDED",
+      "section": "25",
+      "title": "§ 25. Postiteenuse osutamisest keeldumine",
+      "content": "(1) Postiteenuse osutaja keeldub postisaadetise edastamisest, kui selgub, et postisaadetis sisaldab:\n1)\n2)\n3) pisar- ja närvigaasi balloone;\n4) lõhkevaid ja kergesti süttivaid aineid;\n5) mürgiseid ja radioaktiivseid aineid;\n6) bioloogilisi nakkusohtlikke aineid;\n7) narkootilisi ja teisi psühhotroopseid aineid;\n8) happeid;\n9) kiiresti riknevaid toiduaineid;\n10) elusloomi, välja arvatud siidiussid, mesilased ja kaanid;\n11) mürgiseid taimi;\n12) esemeid, mis oma omaduste tõttu või pakendiga võivad ohustada postisaadetise saajat ja postitöötajaid või rikkuda teisi postisaadetisi;\n13) sündsusetuid ja kõlblusvastase sisuga trükiseid ja esemeid;\n14) raha;\n15) esemeid, mille sissevedu on keelatud või piiratud edastamise sihtriigi õigusaktidega;\n16) esemeid, mille sisse- või väljaveo keeld või piirang on sätestatud teiste õigusaktidega.\n(2) Postiteenuse osutaja võib täpsustada käesoleva paragrahvi lõikes 1 nimetatud loetelu oma tüüptingimustes vastavalt ülemaailmsele postikonventsioonile.\n(3) Postisaadetisest lähtuva võimaliku füüsilise ohu korral isikutele või asjadele teavitab postiteenuse osutaja sellest viivitamata häirekeskust."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "3. peatükk - POSTITEENUSELE JA POSTITEENUSE OSUTAJALE ESITATAVAD NÕUDED",
+      "section": "26",
+      "title": "§ 26. Postiteenuse tasu",
+      "content": "(1) Postiteenuse osutajal on õigus kehtestada postiteenuse kasutajale sõltuvalt postisaadetise kaalust, mõõtmetest, kättetoimetamise ajast ja käitlemise viisist erineva suurusega tasusid.\n(1^1) Postiteenuse osutajal on õigus kehtestada postiteenuse kasutajale erineva suurusega tasusid, mis sõltuvad postiteenuse osutajale üleantud postisaadetiste kogusest. Postiteenuse osutaja võib rakendada allahindlust objektiivselt põhjendatult, ühetaoliselt ning võrdselt kõigi isikute suhtes, kes vastavad allahindluse tingimustele, ning seda ei tohi siduda muu postiteenuse kasutamise kohustusega. Allahindluse määr peab olema kulupõhine ning põhjendatav suure koguse üleandmisega kaasneva kulude kokkuhoiuga.\n(2) Postiteenuse osutajal on õigus kehtestada tema postivõrku postiteenuse osutamiseks kasutavale teisele postiteenuse osutajale tasu, lähtudes postisaadetise kättetoimetamise geograafilisest piirkonnast või selle asustustihedusest.\n(3) Postiteenuse osutaja võib rakendada postiteenuse tasu puhul allahindlust, kui postisaadetise edastamise kulu on tavateenuse osutamise kulust väiksem.\n(4) Postiteenuse tasud ja allahindluse põhimõtted peavad olema kõigile tasuta kättesaadavad postiteenuse osutaja veebilehel ja kõigis tema postkontorites.\n(5) Postiteenuse osutaja tehtud allahindlus ja sellega seotud tingimused peavad olema läbipaistvad ja lähtuma võrdse kohtlemise printsiibist."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "3. peatükk - POSTITEENUSELE JA POSTITEENUSE OSUTAJALE ESITATAVAD NÕUDED",
+      "section": "27",
+      "title": "§ 27. Tüüptingimused",
+      "content": "(1) Tüüptingimused kehtivad postiteenuse osutamisel postiteenuse kasutajale, kui temaga ei ole sõlmitud teistsugust kokkulepet.\n(2) Tüüptingimustes esitatakse:\n1) postiteenuse liik või liigid;\n2) postiteenuse kirjeldus;\n3) postisaadetisele esitatavad nõuded (postisaadetise mõõtmed, kaal, lubatud sisu kirjeldus, pakendamine, postiaadressi kohustuslikud osad);\n4) postiteenuse kvaliteedinõuded (postisaadetise kättetoimetamise viis, aeg, sagedus) ja asjaolud, mida teenuse osutaja loeb vääramatuks jõuks, ning vajaduse korral käesoleva seaduse § 37 alusel kehtestatud erandid;\n5) edastamiseks keelatud esemete loetelu;\n6) postiteenuse eest tasumise kord ja viis ning tasu muutusest teavitamise kord ja viis;\n7) postisaadetise edastamise, edastamise ümberkorraldamise, tagasisaatmise ja väljastamise tingimused ning postisaadetise hoiustamise tähtajad;\n8) isikuandmete töötlemise ja kasutamise kord;\n9) postkasti paigutamisest või selle asukoha muutmisest teatamise kord universaalse postiteenuse osutamise korral;\n10) postiteenuse osutajale kaebuse esitamise ja selle lahendamise kord, sealhulgas menetlus vastutaja väljaselgitamiseks juhtudel, millesse on kaasatud rohkem kui üks ettevõtja;\n11) hüvitised postisaadetise kaotsimineku ja kahjustumise korral;\n12) viide käesolevas seaduses nimetatud võimalusele pöörduda kaebusega Konkurentsiametisse või kohtusse;\n13) muud postiteenuse osutamiseks vajalikud tingimused.\n(3) Universaalse postiteenuse osutaja tüüptingimustes sätestatud postisaadetise miinimum- ja maksimummõõtmed ning kaal peavad vastama Eesti Vabariigile siduvates Ülemaailmse Postiliidu aktides esitatule.\n(4) Tüüptingimused peavad olema kõigile tasuta kättesaadavad postiteenuse osutaja veebilehel ja kõigis tema postkontorites."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "3. peatükk - POSTITEENUSELE JA POSTITEENUSE OSUTAJALE ESITATAVAD NÕUDED",
+      "section": "28",
+      "title": "§ 28. Postisaadetise märgistamine",
+      "content": "(1) Postiteenuse osutaja märgistab postisaadetise või postiaadressile osutava postisaadetise saatedokumendi viisil, mis tagab postiteenuse osutaja ärinime, postisaadetise edastamiseks üleandmise koha ja kuupäeva tuvastamise.\n(2) Lisaks käesoleva paragrahvi lõikes 1 sätestatule eristatakse universaalse postiteenuse osutamise raames märgistusega käesoleva seaduse § 37 lõike 7 alusel kokkuleppelise kättetoimetamisajaga lihtsaadetisena edastatavad kirisaadetised.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatut ei kohaldata perioodiliste väljaannete puhul."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "3. peatükk - POSTITEENUSELE JA POSTITEENUSE OSUTAJALE ESITATAVAD NÕUDED",
+      "section": "29",
+      "title": "§ 29. Postisaadetise kättetoimetamine",
+      "content": "(1) Postisaadetis loetakse kättetoimetatuks, kui postisaadetis on saajale üle antud postkontoris, väljastatud isiklikult või postkasti kaudu.\n(2) Lihtsaadetisena edastatav kirisaadetis ja perioodiline väljaanne toimetatakse saajale kätte postkasti kaudu, kui puudub teistsugune kokkulepe."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "3. peatükk - POSTITEENUSELE JA POSTITEENUSE OSUTAJALE ESITATAVAD NÕUDED",
+      "section": "30",
+      "title": "§ 30. Postisaadetise kättetoimetamise võimatus",
+      "content": "(1) Postisaadetise kättetoimetamise võimatus käesoleva seaduse tähenduses on olukord, kus:\n1) postisaadetist ei ole võimalik saajale edastada tema postiaadressi puudumise, selle ebatäpsuse, loetamatuse või muu sellesarnase põhjuse tõttu;\n2) postisaadetise saaja ei tule postiteenuse osutaja määratud aja jooksul postisaadetisele postkontorisse järele või keeldub postisaadetist vastu võtmast;\n3) postisaadetise eest ei ole tasutud või on tasutud postiteenuse osutaja kehtestatud tasumäärast vähem ja saaja keeldub puuduvat osa tasumast;\n4) postisaadetist ei ole võimalik saajale edastada postkasti puudumise, postkastile ligipääsu puudumise või käesolevas seaduses postkasti kohta sätestatud nõuete järgimata jätmise tõttu.\n(2) Käesoleva paragrahvi lõike 1 punktis 1 nimetatud juhul peab postiteenuse osutaja tegema mõistlikke pingutusi postisaadetise saaja postiaadressi väljaselgitamiseks.\n(3) Postisaadetise kättetoimetamise võimatuse korral tagastatakse postisaadetis saatjale. Postiteenuse osutajal on õigus nõuda tagastamise eest saatjalt mõistlikku tasu.\n(4) Kui postisaadetise saatja andmed ei ole postisaadetiselt tuvastatavad või saatja keeldub talle tagastatavat postisaadetist vastu võtmast, on postiteenuse osutajal õigus postisaadetis avada vastavalt käesoleva seaduse §-s 32 sätestatule.\n(5) Kui ka postisaadetise avamisel ei selgu selle saatja või saatja keeldub talle tagastatavat postisaadetist vastu võtmast, hoiustab postiteenuse osutaja postisaadetist vastavalt käesoleva seaduse §-s 31 sätestatule.\n(6) Kui postiteenuse osutajale tagastatakse teise postiteenuse osutaja poolt edastamiseks vastuvõetud postisaadetis, on tal kohustus teist postiteenuse osutajat sellest teavitada ja korraldada talle postisaadetise üleandmine. Postisaadetise tagastamise eest on õigus võtta tasu."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "3. peatükk - POSTITEENUSELE JA POSTITEENUSE OSUTAJALE ESITATAVAD NÕUDED",
+      "section": "31",
+      "title": "§ 31. Kättetoimetamise võimatuse tõttu edastamata postisaadetise hoiustamine, müümine ja hävitamine",
+      "content": "(1) Postisaadetise hoiustamisele ja müügile kohaldatakse võlaõigusseaduse 6. peatükis sätestatut käesolevas paragrahvis toodud erisustega.\n(2) Postiteenuse osutaja on kohustatud kättetoimetamise võimatuse tõttu edastamata postisaadetist hoiustama kuus kuud kättetoimetamise võimatuse esmakordsest ilmnemisest arvates.\n(3) Kättetoimetamise võimatuse tõttu edastamata postisaadetise, mille sisu on kiiresti riknev või mis sisaldab reklaam- või turundustrükist, võib postiteenuse osutaja kohe hävitada.\n(4) Kui saaja või saatja ei ole käesoleva paragrahvi lõikes 2 nimetatud aja jooksul postisaadetist välja nõudnud, korraldab postiteenuse osutaja selle müümise või hävitamise.\n(5) Postisaadetises sisalduv kirjalik teade ja väheväärtuslikud esemed hävitatakse käesoleva paragrahvi lõikes 2 nimetatud aja möödumisel. Muu postisaadetises sisalduv müüakse tingimusel, et see ei riku saatja ega saaja eraelu puutumatust."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "3. peatükk - POSTITEENUSELE JA POSTITEENUSE OSUTAJALE ESITATAVAD NÕUDED",
+      "section": "32",
+      "title": "§ 32. Postisaadetise avamine",
+      "content": "(1) Postiteenuse osutajal on suletud postisaadetise avamise õigus:\n1) kahjustatud postisaadetise sisu kaitsmiseks või selle seisundi fikseerimiseks;\n2) postisaadetise kättetoimetamise võimatuse korral saatja kindlakstegemiseks;\n3) postisaadetise tollikontrolli võimaldamiseks.\n(2) Saaja nõudmisel avatakse täht- ja väärtsaadetis kättetoimetamisel postiteenuse osutaja juuresolekul.\n(3) Postiteenuse osutajal on õigus nõuda saatjalt täht- ja väärtsaadetise avamist nende vastuvõtmisel.\n(4) Avatud postisaadetis märgistatakse ja avamise kohta koostatakse protokoll postiteenuse osutaja kehtestatud korras.\n(5) Avatud postisaadetise sisuga on keelatud tutvuda põhjalikumalt, kui seda eeldab avamise põhjus. Postisaadetise avamise juures viibiv isik on kohustatud hoidma postisaadetise avamisel teada saadud postisaladust."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "3. peatükk - POSTITEENUSELE JA POSTITEENUSE OSUTAJALE ESITATAVAD NÕUDED",
+      "section": "33",
+      "title": "§ 33. Postisaladus",
+      "content": "(1) Postisaladus on postisaadetise sisu ja konkreetse isiku postikäivet puudutav informatsioon.\n(2) Postiteenuse osutaja, tema töötaja ja postiteenuse osutajat juhtima õigustatud isik peavad hoidma postisaladust nii teenuse osutamise ajal kui ka pärast seda.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud isikud ei tohi hankida teavet postisaadetise sisu või postikäibe täpsemate asjaolude kohta suuremas ulatuses kui postiteenuse osutamiseks vajalik. Sellise teabe kasutamine muul eesmärgil kui postiteenuse osutamine on keelatud.\n(4) Erandeid käesoleva paragrahvi lõigetes 2 ja 3 sätestatud postisaladuse hoidmise kohustusest võib teha üksnes seadusega sätestatud juhtudel ja korras."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "3. peatükk - POSTITEENUSELE JA POSTITEENUSE OSUTAJALE ESITATAVAD NÕUDED",
+      "section": "34",
+      "title": "§ 34. Isikuandmete kasutamine",
+      "content": "(1) Postiteenuse osutajal on õigus töödelda saatja ja saaja isikuandmeid postiteenuse osutamise eesmärgil ning postiteenuse osutamiseks kasutatava aadressiregistri koostamiseks ja pidamiseks õigusaktidega sätestatud korras.\n(2) Käesoleva paragrahvi lõikes 1 sätestatu ei anna õigust koguda, töödelda ja kasutada postisaadetise sisu puudutavaid andmeid.\n(3) Postiteenuse osutaja võib kogutud isikuandmeid töödelda ja kasutada oma reklaami, kliendinõustamise või turu-uuringu eesmärgil õigusaktidega sätestatud korras või isiku nõusolekul. Isikuandmete töötlemise ja kasutamise kord on sätestatud postiteenuse osutaja tüüptingimustes.\n(4) Postiteenuse osutaja ei või kasutada isikuandmeid kolmandale isikule teenuse osutamisel, välja arvatud õigusaktidega sätestatud korras.\n(5) Postiteenuse osutaja võib isikuandmeid üle anda kolmandale isikule üksnes seadusega sätestatud juhtudel ja korras.\n(6) Aadressiregistri vastutav töötleja on postiteenuse osutaja."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - UNIVERSAALNE POSTITEENUS",
+      "section": "35",
+      "title": "§ 35. Rahvusvaheline postiteenus",
+      "content": "(1) Universaalse postiteenuse osutajal on kohustus osutada rahvusvahelisi postiteenuseid vastavalt Eesti Vabariigile siduvatele Ülemaailmse Postiliidu aktidele.\n(2) Euroopa Liidu liikmesriigi universaalse postiteenuse osutajaga lõppmakse kohta sõlmitud lepingus tuleb lähtuda järgmisest:\n1) lõppmakse suurus sõltub saabuva postisaadetise töötlemise ja kättetoimetamise kuludest;\n2) lõppmakse suurus sõltub postiteenuse osutamise kvaliteedist;\n3) lõppmakse on läbipaistev ja lähtub võrdse kohtlemise printsiibist.\n(3) Lõppmaksena mõistetakse käesoleva seaduse tähenduses postisaadetise edastamiseks vastuvõtnud välisriigi postiteenuse osutaja poolt postisaadetise Eesti territooriumil kättetoimetamise eest universaalse postiteenuse osutajale makstavat tasu või universaalse postiteenuse osutaja poolt vastuvõtvale postiteenuse osutajale makstavat tasu postisaadetise kättetoimetamise eest sihtriigis."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "4. peatükk - UNIVERSAALNE POSTITEENUS",
+      "section": "36",
+      "title": "§ 36. Finantsteenused",
+      "content": "(1) Universaalse postiteenuse osutajal on kohustus osutada oma postivõrgu vahendusel üle Eesti järgmisi finantsteenuseid:\n1) pensionide ja toetuste väljamaksmine;\n2) rahasiirded.\n(2) Finantsteenuste osutamine toimub kooskõlas võlaõigusseaduses maksekäsundile sätestatud nõuetega."
+    },
+    {
+      "provision_ref": "para36^1",
+      "chapter": "4. peatükk - UNIVERSAALNE POSTITEENUS",
+      "section": "36^1",
+      "title": "§ 36^1. Perioodilise väljaande ja menetlusdokumendi edastamine",
+      "content": "(1) Universaalse postiteenuse osutajal on kohustus oma postivõrgu vahendusel edastada üle Eesti perioodilisi väljaandeid.\n(2) Perioodilise väljaande saajale kättetoimetamine tuleb tagada kuuel päeval nädalas üks kord päevas.\n(3) Universaalse postiteenuse ja kirisaadetise edastamise teenuse osutaja peab kohtu- või haldusmenetluses kättetoimetamisele kuuluvaid saadetisi edastama sõltumata nende kaalust.\n(4) Menetlusdokumentide kättetoimetamisele kohaldatakse käesolevas seaduses sätestatut ja postiteenuse osutaja tüüptingimustes postisaadetise kättetoimetamise kohta ettenähtut üksnes ulatuses, milles see ei ole vastuolus menetlusdokumentide kättetoimetamise sätetega menetlusseaduses."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "4. peatükk - UNIVERSAALNE POSTITEENUS",
+      "section": "37",
+      "title": "§ 37. Universaalse postiteenuse kvaliteet",
+      "content": "(1) Universaalse postiteenuse osutaja tagab postisaadetiste kogumise ja saajale kättetoimetamise kõigil tööpäevadel ning mitte vähem kui viiel päeval nädalas ja üks kord päevas kogu Eesti territooriumi ulatuses.\n(2)\n(3) Universaalse postiteenuse osutajal on õigus kehtestada püsivaid erandeid postisaadetiste kogumise ja kättetoimetamise sagedusest:\n1) rahvuspüha ja riigipüha ajal;\n2) saare puhul, millega puudub regulaarne praami-, laeva- või lennuühendus, mis võimaldab postisaadetise kättetoimetamist ettenähtud sagedusega.\n(4) Käesoleva paragrahvi lõike 3 punktis 2 nimetatud juhul tuleb postisaadetisi koguda ja kätte toimetada vähemalt sagedusega, mis vastab praami-, laeva- või lennuliikluse sagedusele. Erandid ei kehti postisaadetise korral, mille saatja ja saaja asuvad sama saare territooriumil ning saarel on vähemalt üks postkontor.\n(5) Vähemalt 90 protsenti lihtsaadetisena edastatavatest kirisaadetistest, mis on riigisisese postiteenuse osutamiseks universaalse postiteenuse osutajale üle antud kirjakasti või postkontori kaudu enne kirjakasti hiliseimat tühjendusaega, tuleb saajale kätte toimetada üleandmise päevale järgneval tööpäeval.\n(6) Universaalse postiteenuse osutajal on õigus pakkuda kokkuleppel postiteenuse kasutajaga käesoleva paragrahvi lõikes 5 sätestatust erinevat postisaadetise kättetoimetamise aega.\n(7) Vähemalt 90 protsenti lihtsaadetisena edastatavatest kirisaadetistest, mille kättetoimetamise aeg on kokkuleppel postiteenuse kasutajaga pikem kui saadetise üleandmise päevale järgnev tööpäev ja mis on riigisisese postiteenuse osutamiseks universaalse postiteenuse osutajale üle antud kirjakasti või postkontori kaudu enne kirjakasti hiliseimat tühjendusaega, tuleb saajale kätte toimetada mitte hiljem kui üleandmise päevale järgneval kolmandal tööpäeval.\n(8) Kui kirisaadetis antakse üle hiljem kui ettenähtud hiliseim kirjakasti tühjendusaeg, loetakse üleandmise päevaks järgmine päev, millal toimub kirisaadetiste kogumine."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "4. peatükk - UNIVERSAALNE POSTITEENUS",
+      "section": "38",
+      "title": "§ 38. Kvaliteedi kontrollimine",
+      "content": "(1) Universaalse postiteenuse osutaja tagab, et temast sõltumatu isik kontrollib universaalse postiteenuse kvaliteedi nõuetele vastavust.\n(2) Universaalse postiteenuse osutaja on kohustatud üks kord aastas koostama ja tegema avalikkusele kättesaadavaks aruande käesoleva paragrahvi lõikes 1 sätestatud kontrollimise tulemuste kohta. Aruanne peab sisaldama informatsiooni universaalse postiteenuse suhtes esitatud kaebuste arvu ja nende lahendamise kohta."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "4. peatükk - UNIVERSAALNE POSTITEENUS",
+      "section": "40",
+      "title": "§ 40. Tulu- ja kuluarvestuse eraldatus",
+      "content": "(1) Universaalse postiteenuse osutaja peab tulu- ja kuluarvestust eraldi:\n1) universaalse postiteenuse kogumisse kuuluva postiteenuse kohta;\n2) iga teenuse lõikes, mille osutamiseks kasutatakse universaalse postiteenuse kogumisse kuuluva postiteenusega ühiseid ressursse.\n(2) Universaalse postiteenuse osutaja peab rakendama tegevuspõhist kuluarvestust.\n(3) Universaalse postiteenuse osutaja tulu- ja kuluarvestus peab lähtuma universaalse postiteenuse osutamise protsessist ning selgelt piiritlema selleks vajalikud ressursid, tegevused ja teenused.\n(4) Universaalse postiteenuse osutamise korral tuleb järgida kuluefektiivsuse põhimõtet.\n(5) Universaalse postiteenuse osutaja tulu- ja kuluarvestus peab lähtuma järgnevatest põhimõtetest:\n1) põhjuslik seos – kulu peab olema seotud selle tegevuse ja teenusega, mis kulu põhjustab;\n2) objektiivsus – kulu jagamise põhimõtted peavad põhinema objektiivsetel alustel ega tohi tekitada universaalse postiteenuse osutajale põhjendamatut kasu või kahju.\n(6) Universaalse postiteenuse osutaja tulu- ja kuluarvestusele esitatavad nõuded kehtestab valdkonna eest vastutav minister määrusega.\n(7) Tulu- ja kuluarvestuse vastavust käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuetele hindab sõltumatu audiitor.\n(8) Universaalse postiteenuse osutaja esitab majandusaasta aruande lisadena raamatupidamisbilansi ja kasumiaruande tegevusalade kaupa.\n(9) Universaalse postiteenuse osutaja lisab majandusaasta aruandele selgituse temaga samasse kontserni kuuluva ettevõtja kulude jaotamise põhimõtete kohta. Nimetatud põhimõtete muudatusi ja nende tegemise põhjusi kirjeldatakse majandusaasta aruandes.\n(10) Vabariigi Valitsus võib määrusega kehtestada universaalse postiteenuse osutaja raamatupidamise ja aruannete avalikustamise suhtes kohaldatavad põhjendatud lisanõuded, et tagada universaalse postiteenuse osutamisega seotud tegevuse tulude ja kulude ning samasse kontserni kuuluvate ettevõtjate vaheliste tehingute selge eristatus."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "4. peatükk - UNIVERSAALNE POSTITEENUS",
+      "section": "41",
+      "title": "§ 41. Standardid",
+      "content": "(1) Käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud kohustuste täitmisel lähtub universaalse postiteenuse osutaja harmoneeritud standarditest.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud standardite kohta annab informatsiooni Konkurentsiamet."
+    },
+    {
+      "provision_ref": "para41^1",
+      "chapter": "4. peatükk - UNIVERSAALNE POSTITEENUS",
+      "section": "41^1",
+      "title": "§ 41^1. Universaalse postiteenuse osutamise kohustuse täitmisega seotud kulud",
+      "content": "(1) Universaalse postiteenuse osutaja võib Konkurentsiametile esitada taotluse universaalse postiteenuse osutamise kohustuse täitmisega seotud ebamõistlikult koormavate kulude hüvitamiseks. Taotlus tuleb esitada hiljemalt aruandekvartalile järgneva kuu 10. kuupäeval.\n(2) Universaalse postiteenuse osutamise kohustuse täitmisega seotud kulude hindamisel kontrollib Konkurentsiamet nimetatud kulude põhjendatust.\n(3) Kui Konkurentsiamet leiab käesoleva paragrahvi lõikes 2 nimetatud hindamise tulemusel, et universaalse postiteenuse osutajale on universaalse postiteenuse osutamise kohustuse täitmine ebamõistlikult koormav, võttes arvesse nimetatud kohustuse täitmisega kaasnevat tulu ja turueeliseid, otsustab Konkurentsiamet universaalse postiteenuse osutamise kohustusega seotud kulude hüvitamise käesoleva paragrahvi lõikes 4 sätestatud ulatuses.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud kulud hüvitatakse universaalse postiteenuse osutajale üksnes ulatuses, milles käesoleva seaduse §-s 6^1 nimetatud kasutajalt võetav tasu ei võimalda universaalse postiteenuse osutamise kohustuse täitmisega seotud põhjendatud kulude katmist ja mõistliku kasumi saamist.\n(5) Käesolevas paragrahvis nimetatud kulude hindamiseks töötab Konkurentsiamet välja ühtse, kaalutud keskmisel kapitalikulul põhineva metoodika. Asjakohane metoodika avalikustatakse Konkurentsiameti veebilehel.\n(6) Käesolevas paragrahvis nimetatud kulude hüvitamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para41^2",
+      "chapter": "4. peatükk - UNIVERSAALNE POSTITEENUS",
+      "section": "41^2",
+      "title": "§ 41^2. Universaalse postiteenuse rahastamise allikas, makse ja makse määr",
+      "content": "(1) Käesoleva seaduse §-s 41^1 nimetatud kulud hüvitatakse universaalse postiteenuse makse kohustusega (edaspidi rahastamiskohustus ) postiteenuse osutaja tasutavast universaalse postiteenuse maksest.\n(2) Universaalse postiteenuse makse on rahastamiskohustusega postiteenuse osutaja tasutav makse käesoleva seaduse §-s 41^1 nimetatud kulude hüvitamiseks. Makse suuruse kindlaksmääramisel järgitakse läbipaistvuse, mittediskrimineerimise ja proportsionaalsuse põhimõtet.\n(3) Rahastamiskohustusega postiteenuse osutaja on kohustatud universaalse postiteenuse makse tasuma tegevusloaga hõlmatud postiteenuste eelmise aruandekvartali käibest 0–5 protsenti või tegevusloaga hõlmatud postiteenuste eelmise aruandekvartali mahust lähtudes järgmiselt:\n1) kirisaadetise edastamine lihtsaadetisena, sealhulgas partiisaadetisena, 0–0,19 eurot ühiku eest;\n2) kirisaadetise edastamine täht- ja väärtsaadetisena, sealhulgas partiisaadetisena, 0–1,59 eurot ühiku eest;\n3) postipaki edastamine liht-, täht- ja väärtsaadetisena, sealhulgas partiisaadetisena, 0–1,15 eurot ühiku eest.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud makse määra kehtestab Vabariigi Valitsus määrusega valdkonna eest vastutava ministri ettepanekul.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud ettepaneku esitamisel võtab valdkonna eest vastutav minister aluseks Konkurentsiameti ettepaneku.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud ettepaneku esitamisel lähtub Konkurentsiamet:\n1) tegevusloaga hõlmatud postiteenuste mahust, käibest ja osutajate arvust;\n2) käesoleva seaduse §-s 41^1 nimetatud kulude võimalikust suurusest;\n3) käesoleva seaduse § 41^4 lõikes 5 sätestatud kasutamata universaalse postiteenuse makse suurusest."
+    },
+    {
+      "provision_ref": "para41^3",
+      "chapter": "4. peatükk - UNIVERSAALNE POSTITEENUS",
+      "section": "41^3",
+      "title": "§ 41^3. Rahastamiskohustusega postiteenuse osutaja",
+      "content": "(1) Rahastamiskohustus on postiteenuse osutajal, kes on käesoleva seaduse § 10 lõike 1 punktides 2 ja 3 nimetatud postiteenuste osutamiseks saanud tegevusloa.\n(2) Rahastamiskohustusega postiteenuse osutaja peab raamatupidamisarvestuses eraldi sisse seadma tegevusloaga hõlmatud teenuste osutamise tulu- ja kuluarvestuse.\n(3) Rahastamiskohustus lõpeb käesoleva paragrahvi lõikes 1 nimetatud isikul tegevusloa kehtetuks tunnistamisest või kehtetuks muutumisest.\n(4) Kui rahastamiskohustus tekib või lõpeb enne kalendrikuu 15. kuupäeva, arvatakse rahastamiskohustus tekkinuks või lõppenuks kalendrikuu algusest.\n(5) Kui rahastamiskohustus tekib või lõpeb pärast kalendrikuu 15. kuupäeva, arvatakse rahastamiskohustus tekkinuks või lõppenuks järgmisest kalendrikuust.\n(6) Rahastamiskohustusega postiteenuse osutaja peab Konkurentsiametile esitama kirjaliku deklaratsiooni tulu- ja kuluarvestuse andmetega hiljemalt aruandekvartalile järgneva kuu 10. kuupäeval.\n(7) Konkurentsiamet võib käesolevas paragrahvis sätestatud deklaratsiooni esitamise kohustuse täitmata jätmise korral määrata deklaratsiooni esitamiseks uue tähtaja ning teha hoiatuse, et kohustuse täitmata jätmise korral võidakse rakendada sunniraha. Sunniraha ülemmäär on maksukorralduse seaduse § 91 lõikes 4 sätestatud ülemmäär. Sunniraha rakendatakse ja nõutakse sisse vastavalt maksukorralduse seaduses sätestatule.\n(8) Käesoleva paragrahvi lõikes 2 nimetatud tulu- ja kuluarvestuse andmete deklareerimise nõuded kehtestab valdkonna eest vastutav minister määrusega. Nõuetes sätestatakse:\n1) deklaratsiooni esitamise kord;\n2) deklaratsioonis esitatavad andmed ja deklaratsiooni vorm;\n3) deklareeritud andmete kasutamise kord."
+    },
+    {
+      "provision_ref": "para41^4",
+      "chapter": "4. peatükk - UNIVERSAALNE POSTITEENUS",
+      "section": "41^4",
+      "title": "§ 41^4. Universaalse postiteenuse makse tasumine, laekumine ja kasutamine",
+      "content": "(1) Universaalse postiteenuse makse tasutakse hiljemalt aruandekvartalile järgneva kuu 25. kuupäeval.\n(2) Universaalse postiteenuse makse tasumiseks saadab Konkurentsiamet rahastamiskohustusega postiteenuse osutajale vastavasisulise teate vähemalt seitse päeva enne universaalse postiteenuse makse tasumise tähtpäeva. Konkurentsiamet hüvitab universaalse postiteenuse osutajale universaalse postiteenuse osutamise kohustusega seotud kulud käesoleva seaduse § 41^1 lõikes 4 sätestatud ulatuses hiljemalt aruandekvartalile järgneva kuu 30. kuupäeval.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud teade on haldusakt, mis peab sisaldama vähemalt järgmisi andmeid:\n1) teate koostanud ametniku ees- ja perekonnanimi ning ametikoht;\n2) teate koostamise kuupäev;\n3) rahastamiskohustusega postiteenuse osutaja nimi ja aadress;\n4) tasumisele kuuluva universaalse postiteenuse makse suurus;\n5) teate õiguslik ja faktiline alus, sealhulgas tasumisele kuuluva universaalse postiteenuse makse arvutamise alused;\n6) universaalse postiteenuse makse maksetähtpäev;\n7) hoiatus sundtäitmise algatamise kohta universaalse postiteenuse makse tähtpäevaks tasumata jätmise korral.\n(4) Kui rahastamiskohustusega postiteenuse osutaja universaalse postiteenuse makset käesoleva paragrahvi lõikes 1 nimetatud tähtpäevaks ei tasu, on Konkurentsiametil õigus anda lõikes 2 nimetatud teade sundtäitmiseks täitemenetluse seadustikus sätestatud korras.\n(5) Kui kalendriaastal tasutud universaalse postiteenuse maksed ületavad sellel kalendriaastal universaalse postiteenuse osutajale vastavalt käesoleva seaduse §-le 41^1 hüvitatud kulusid, jäetakse kalendriaastal tasutud kasutamata universaalse postiteenuse maksed tulevaste maksete ettemakseks.\n(6) Rahastamiskohustuse lõppemisel tasutud universaalse postiteenuse makseid ei tagastata.\n(7) Universaalse postiteenuse makse laekub riigieelarvesse.\n(8) Universaalse postiteenuse makse riigieelarvesse laekumise ja selle kasutamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "42",
+      "title": "§ 42. Teavitamine",
+      "content": "(1) Regionaal- ja Põllumajandusministeerium teatab Euroopa Komisjonile:\n1) universaalse postiteenuse osutaja nime, isiku- või registrikoodi ja asukoha aadressi;\n1^1) meetmetest, mis on võetud universaalse postiteenuse osutamise tagamiseks;\n2) kuidas on tagatud postiteenuse kasutaja ja postiteenuse osutaja teavitamine universaalse postiteenuse juurdepääsu tingimustest, tüüptingimustest ja tasudest;\n3) käesoleva seaduse §-s 37 sätestatud universaalse postiteenuse kvaliteedinõuded ja lubatud erandid.\n(2) Regionaal- ja Põllumajandusministeerium ning Konkurentsiamet on vastava nõude esitamise korral kohustatud andma Euroopa Komisjonile piisava ja asjakohase teabe, mida Euroopa Komisjon vajab ülesannete täitmiseks, mis tulenevad Euroopa Parlamendi ja nõukogu direktiivist 97/67/EÜ ühenduse postiteenuste siseturu arengut ja teenuse kvaliteedi parandamist käsitlevate ühiseeskirjade kohta (EÜT L 15, 21.01.1998, lk 14–25) ning Euroopa Parlamendi ja nõukogu direktiivist 2008/6/EÜ, millega muudetakse direktiivi 97/67/EÜ seoses ühenduse postiteenuste siseturu rajamise lõpuleviimisega (ELT L 52, 27.02.2008, lk 3–20).\n(3) Regionaal- ja Põllumajandusministeerium ning Konkurentsiamet võivad anda teavet postiteenuse osutajate kohta teiste Euroopa Liidu liikmesriikide, Euroopa Majanduspiirkonna liikmesriikide ja Euroopa Liidu kandidaatriikide järelevalveasutustele.\n(4) Kui Regionaal- ja Põllumajandusministeeriumi või Konkurentsiameti poolt Euroopa Komisjonile antav teave puudutab sellist informatsiooni, mis on saadud postiteenuse osutajalt, peab selle valdaja teavitama postiteenuse osutajat teabe esitamisest Euroopa Komisjonile.\n(5) Kui Regionaal- ja Põllumajandusministeerium või Konkurentsiamet leiab, et Euroopa Komisjonile esitatud teabe avaldamine teiste Euroopa Liidu liikmesriikide, Euroopa Majanduspiirkonna liikmesriikide ja Euroopa Liidu kandidaatriikide järelevalveasutustele ei ole põhjendatud, peab Regionaal- ja Põllumajandusministeerium või Konkurentsiamet Euroopa Komisjonile vastava teabe esitamisel teavitama Euroopa Komisjoni, et ta ei soovi vastava teabe avaldamist nimetatud järelevalveasutustele, ning esitama teabe avaldamata jätmise põhjendused.\n(6) Kui Regionaal- ja Põllumajandusministeerium või Konkurentsiamet on andnud teavet ühele Euroopa Liidu liikmesriigi, Euroopa Majanduspiirkonna liikmesriigi või Euroopa Liidu kandidaatriigi järelevalveasutusele, siis peab ta põhjendatud nõudmise korral andma samasisulist teavet ka teistele nimetatud järelevalveasutustele."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "43",
+      "title": "§ 43. Riiklik järelevalve",
+      "content": "(1) Käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete järgimise üle teostab riiklikku järelevalvet Konkurentsiamet (edaspidi korrakaitseorgan ).\n(2) Korrakaitseorganil on õigus kontrollida rahastamiskohustusega postiteenuse osutaja tegevusloaga määratud teenuste osutamise tulu- ja kuluarvestust.\n(3) Korrakaitseorganil on õigus kontrollida universaalse postiteenuse makse tasumise õigsust ja teha riigieelarvest väljamakseid universaalse postiteenuse osutamise kohustuse täitmisega seotud ebamõistlikult koormavate kulude hüvitamiseks universaalse postiteenuse osutajale."
+    },
+    {
+      "provision_ref": "para43^1",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "43^1",
+      "title": "§ 43^1. Riikliku järelevalve erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-s 30 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "44",
+      "title": "§ 44. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär 640 eurot."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "45",
+      "title": "§ 45. Teabe esitamise kohustus",
+      "content": "(1) Konkurentsiameti peadirektoril ja tema volitatud ametnikul on õigus nõuda postiteenuse osutajalt ja teistelt isikutelt käesoleva seadusega Konkurentsiametile pandud ülesannete ja kohustuste täitmiseks vajalikku teavet. Postiteenuse osutajalt on õigus nõuda andmeid postikäibe ning majandustegevuse rahaliste ja mitterahaliste vahendite kohta. Postiteenuse osutaja postiteenuse osutamisega seotud dokumente ja töövahendeid võib kontrollida tema tööajal.\n(2) Teabe või dokumendi saamise taotluse vormistab Konkurentsiamet kirjalikult ja määrab selles teabe või dokumendi esitamise tähtaja, mis ei või olla lühem kui kümme päeva.\n(3)\n(4) Konkurentsiameti ametnik peab tagama talle seoses tööülesannete täitmisega teatavaks saanud posti- ja ärisaladuse hoidmise ning tal on õigus kasutada nimetatud teavet ainult oma tööülesannete täitmiseks."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "46",
+      "title": "§ 46. Kaebuste lahendamine",
+      "content": "(1) Postiteenuse osutaja tegevuse peale, mis on vastuolus õigusaktidega või tema tegevusloa kõrvaltingimustega, võib iga isik esitada kirjaliku kaebuse Konkurentsiametile.\n(2) Konkurentsiameti peadirektor või tema volitatud isik vaatab käesoleva paragrahvi lõikes 1 nimetatud kaebuse läbi ja teeb selle kohta otsuse 60 päeva jooksul kaebuse saamisest arvates.\n(3) Konkurentsiameti peadirektoril ja tema volitatud isikul on õigus nõuda lisaandmeid isikult, kellel on või kellel võib olla käesoleva paragrahvi lõikes 2 nimetatud otsuse tegemiseks vajalikku teavet, ning teha ekspertiisi või korraldada kolmanda isiku poolt ekspertiisi tegemine. Käesoleva paragrahvi lõikes 2 nimetatud tähtaja kulgemine peatub Konkurentsiameti peadirektori või tema volitatud isiku poolt vastava taotluse esitamisest alates kuni nõutud lisaandmete esitamiseni või ekspertiisi tulemuste saamiseni, kuid mitte kauemaks kui 120 päevaks.\n(4) Käesoleva paragrahvi lõikes 1 nimetatud kaebuse kohta tehtud otsuse toimetab Konkurentsiamet viie tööpäeva jooksul otsuse tegemise päevast arvates kätte kaebuse esitajale ja isikule, kelle tegevuse peale kaevati."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "5. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "47",
+      "title": "§ 47. Aruandlus",
+      "content": "(1) Konkurentsiamet esitab Regionaal- ja Põllumajandusministeeriumile iga aasta teises kvartalis kirjaliku aruande postiteenuste valdkonnas toimunud arengute ja esilekerkinud probleemide ning Konkurentsiameti tegevuse kohta nimetatud valdkonnas eelmise kalendriaasta jooksul.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud aruanne peab kajastama:\n1) ülevaadet majandustegevusest postiteenuste valdkonnas koos aasta jooksul toimunud muutuste kirjelduse ja olukorra analüüsiga;\n2) ülevaadet postiteenuste kvaliteedi kohta postside valdkonnas ja olukorra analüüsi;\n3) Konkurentsiameti tegevuse analüüsi, tegevuses esile kerkinud probleeme ning ettepanekuid edasise tegevuse kavandamiseks;\n4) arvamust universaalse postiteenuse osutaja tulu- ja kuluarvestuse vastavuse kohta käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuetele;\n5) ülevaadet universaalse postiteenuse maksete kasutamise kohta ning universaalse postiteenuse makse määra ja universaalse postiteenuse taskukohase tasu prognoosi järgmiseks kalendriaastaks.\n(3) Konkurentsiamet avaldab käesoleva paragrahvi lõikes 1 nimetatud aruande oma veebilehel, jättes avaldamata asutusesiseseks kasutamiseks tunnistatud teabe."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "48",
+      "title": "§ 48.",
+      "content": "-"
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "51",
+      "title": "§ 51. Universaalse postiteenuse osutaja ainuõigus",
+      "content": "(1) Universaalse postiteenuse osutajal on kuni 50 grammi kaaluva kirja riigisisese edastamise ainuõigus 2009. aasta 31. märtsini.\n(2) Ainuõigus ei laiene:\n1) perioodilise väljaande edastamisele;\n2) otsepostile;\n3) kuni 50 grammi kaaluvale riigisisesele kirjale, mille edastamise tasu on võrdne või kõrgem kui 2,5-kordne universaalse postiteenuse osutaja poolt kirja kõige madalamale kaalukategooriale kehtestatud tasu."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "52",
+      "title": "§ 52. Postiteenuse osutajate riikliku registri tegevuse lõpetamine",
+      "content": "(1) Postiteenuse osutajate riikliku registri tegevus lõpetatakse 2006. aasta 1. oktoobril.\n(2) Postiteenuse osutajate riiklikusse registrisse kantud universaalse postiteenuse osutaja andmed kantakse üle majandustegevuse registrisse 2006. aasta 1. oktoobriks.\n(3) Postiteenuse osutajate riiklikus registris sisalduvad mitteaktuaalsed andmed kantakse üle riiklikku arhiivi 2006. aasta 1. detsembriks seadusega ettenähtud tingimustel ja korras.\n(4) Postiteenuse osutajate riikliku registri tegevust reguleerivad õigusaktid kehtivad käesoleva paragrahvi lõikes 1 sätestatud tähtpäevani."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "53",
+      "title": "§ 53. Üleminekusätted",
+      "content": "(1) Universaalse postiteenuse osutamiseks enne käesoleva seaduse jõustumist väljastatud tegevusluba kehtib kuni tegevusloas märgitud kuupäevani. Universaalse postiteenuse osutaja on kohustatud esitama tüüptingimused ja käesoleva seaduse § 11 lõike 2 punktis 4 sätestatud ettepaneku tegevusloa tingimuste kohta Konkurentsiametile hiljemalt 2006. aasta 1. oktoobriks.\n(2) Universaalse postiteenuse osutajale enne käesoleva seaduse jõustumist postiteenuse osutamiseks väljastatud tegevusload või nende vastavad osad kehtivad kuni käesoleva paragrahvi lõike 1 alusel esitatud universaalse postiteenuse tegevusloa tingimuste ja tüüptingimuste jõustumiseni.\n(3) Universaalse postiteenuse osutaja on kohustatud viima oma tulu- ja kuluarvestuse vastavusse käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatuga ning esitama Konkurentsiametile kooskõlastamiseks universaalse postiteenuse kogumisse kuuluvate teenuste tasud 2006. aasta 1. oktoobriks.\n(4) Isik, kes on enne käesoleva seaduse jõustumist saanud õiguse postiteenuse osutamiseks Konkurentsiameti vastavasisulise otsuse alusel, peab oma tegevuse viima kooskõlla käesoleva seaduse nõuetega 2006. aasta 1. oktoobriks.\n(5) Isik, kes on enne käesoleva seaduse jõustumist saanud õiguse postiteenuse osutamiseks Konkurentsiameti vastavasisulise otsuse alusel, ei pea esitama käesoleva seaduse §-s 21 sätestatud tegevuse alustamise teadet.\n(6) Isik, kes enne käesoleva seaduse jõustumist on tegelenud perioodiliste väljaannete edastamisega, peab oma tegevusest Konkurentsiametit teavitama käesoleva seaduse §-s 21 sätestatud korras 2006. aasta 1. oktoobriks.\n(7) Enne 2009. aasta 1. jaanuari tegevusloa saanud isikud peavad esitama Konkurentsiametile hiljemalt 2009. aasta 31. märtsil teabe oma tegevuse kooskõlla viimise kohta käesoleva seaduse § 14 lõikes 3, § 24 lõikes 1, § 27 lõike 2 punktis 10 ja § 41^3 lõikes 2 sätestatud nõuetega.\n(8) Konkurentsiamet vaatab käesoleva paragrahvi lõikes 7 esitatud teabe läbi ja teeb otsuse isiku tegevuse jätkamise lubamise või lubamata jätmise kohta 30 päeva jooksul alates nimetatud teabe ametisse laekumise päevast, kuid mitte varem kui 2009. aasta 31. märtsil.\n(9) Alates 2009. aasta 1. jaanuarist käesoleva seaduse § 10 lõike 1 punktide 2 ja 3 alusel väljastatud postiteenuse osutamise tegevusload kehtivad alates 2009. aasta 1. aprillist.\n(10) Enne 2009. aasta 1. jaanuari käesoleva seaduse alusel väljastatud universaalse postiteenuse osutamise tegevusluba kehtib kuni universaalse postiteenuse osutaja määramiseni käesoleva seaduse §-s 6 sätestatud korras, kuid mitte kauem kui 2009. aasta 31. detsembrini.\n(11) Käesoleva seaduse § 41^2 lõikes 3 sätestatud universaalse postiteenuse makse määra kehtestab Vabariigi Valitsus 2009. aasta 1. aprilliks.\n(12) Rahastamiskohustusega postiteenuse osutaja esitab käesoleva seaduse § 41^3 lõikes 6 sätestatud deklaratsiooni esimese aruandekvartali kohta 2009. aasta 10. juuliks.\n(13) Tegevusluba ei väljastata ajavahemikul 2009. aasta 1. jaanuarist kuni 2012. aasta 31. detsembrini postiteenuse osutajale, kellele on antud teises Euroopa Liidu liikmesriigis kuni 50 grammi kaaluva kirja riigisisese edastamise ainuõigus, samuti tema kontrollitud äriühingule.\n(14) Käesoleva seaduse § 21 lõiget 3 kohaldatakse alates 2016. aasta 1. juulist."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "54",
+      "title": "§ 54.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "55",
+      "title": "§ 55.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "56",
+      "title": "§ 56. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2006. aasta 1. juulil.\n(2) Käesoleva seaduse § 5 lõike 2 punkt 3 jõustub 2007. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-206032012002",
+  "type": "statute",
+  "title": "Euroopa Liidu Nõukogu konventsiooni sissenõudmiskulude määramise kohta kesksel tollivormistusel ratifitseerimise seadus",
+  "title_en": "Euroopa Liidu Nõukogu konventsiooni sissenõudmiskulude määramise kohta kesksel tollivormistusel ratifitseerimise seadus",
+  "short_name": "ee-law-206032012002",
+  "status": "in_force",
+  "issued_date": "2012-02-15",
+  "in_force_date": "2012-03-16",
+  "url": "https://www.riigiteataja.ee/akt/206032012002.xml",
+  "description": "Official consolidated statute text (Euroopa Liidu Nõukogu konventsiooni sissenõudmiskulude määramise kohta kesksel tollivormistusel ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Konventsiooni ratifitseerimine",
+      "content": "Ratifitseerida Euroopa Liidu Nõukogu konventsioon keskse tollivormistuse kohta seoses traditsiooniliste omavahendite ELi eelarve kasutusse andmisel endale jäetavate siseriiklike sissenõudmiskulude määramisega^1, mis on alla kirjutatud 2009. aasta 10. märtsil Brüsselis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Sissenõudmiskulude ümberjaotamine",
+      "content": "Kesksest tollivormistusest tulenevad sissenõudmiskulude ümberjaotamise maksed sooritab Maksu- ja Tolliamet iga-aastase riigieelarve seaduse kohaselt."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,204 @@
+{
+  "id": "ee-law-115062022001",
+  "type": "statute",
+  "title": "Toodete ja teenuste ligipääsetavuse seadus",
+  "title_en": "Toodete ja teenuste ligipääsetavuse seadus",
+  "short_name": "LPS",
+  "status": "in_force",
+  "issued_date": "2022-05-30",
+  "in_force_date": "2022-06-28",
+  "url": "https://www.riigiteataja.ee/akt/115062022001.xml",
+  "description": "Official consolidated statute text (Toodete ja teenuste ligipääsetavuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "Käesolevas seaduses sätestatakse seaduse kohaldamisalasse kuuluva toote ja teenuse ligipääsetavusnõuded, ettevõtja kohustused ligipääsetavuse tagamiseks, ligipääsetavusnõuetele vastavuse hindamine ja vastavuseeldus ning riiklik järelevalve ja vastutus."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Seaduse kohaldamisala",
+      "content": "(1) Käesolevat seadust kohaldatakse järgmistele toodetele:\n1) e-luger;\n2) makseterminal;\n3) piletiautomaat;\n4) registreerimisautomaat;\n5) sularaha- või makseautomaat;\n6) teavet pakkuv interaktiivne iseteenindusterminal, välja arvatud sõiduki, õhusõiduki, laeva ja veeremi integreeritud osana paigaldatud terminal;\n7) tarbija terminalseade, millel on interaktiivne andmetöötlusvõimsus ja mida kasutatakse ligipääsuks audiovisuaalmeedia teenusele;\n8) tarbija terminalseade, millel on interaktiivne andmetöötlusvõimsus ja mida kasutatakse elektroonilise side teenuse osutamisel;\n9) tarbijale kasutamiseks ette nähtud üldotstarbeline arvuti riistvarasüsteem ja selle operatsioonisüsteem.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud toodetega seotud termineid kasutatakse käesolevas seaduses järgmises tähenduses:\n1) e-luger on eriotstarbeline seade koos riist- ja tarkvaraga, mida kasutatakse raamatu elektroonilisele failile ligipääsu saamiseks, selles navigeerimiseks, selle lugemiseks ja kasutamiseks;\n2) iseteenindusterminal on iseteenindust võimaldav elektrooniline seade, mida kasutatakse infopäringute (interaktiivne teabeekraan), maksete (makseterminal), printimise (piletiautomaat) ja finantsteenuste (sularahaautomaat, makseautomaat, registreerimisautomaat) pakkumiseks, moodustades interaktiivse keskkonna;\n3) makseterminal on seade, mille peamine eesmärk on võimaldada kasutada maksete tegemisel Euroopa Parlamendi ja nõukogu direktiivi (EL) 2015/2366 makseteenuste kohta siseturul, direktiivide 2002/65/EÜ, 2009/110/EÜ ning 2013/36/EL ja määruse (EL) nr 1093/2010 muutmise ning direktiivi 2007/64/EÜ kehtetuks tunnistamise kohta (ELT L 337, 23.12.2015, lk 35–127) artikli 4 punktis 14 määratletud makseinstrumente füüsilises müügikohas, kuid mitte virtuaalses keskkonnas;\n4) tarbija terminalseade, millel on interaktiivne andmetöötlusvõimsus ja mida kasutatakse ligipääsuks audiovisuaalmeedia teenusele, on seade, mille peamine eesmärk on anda ligipääs audiovisuaalmeedia teenusele;\n5) interaktiivne andmetöötlusvõimsus on funktsionaalsus, mis toetab inimese ja seadme suhtlust ning võimaldab töödelda ja edastada andmeid, heli või videot või mis tahes kombinatsiooni nendest;\n6) tarbijale kasutamiseks ette nähtud üldotstarbeline arvuti riistvarasüsteem on riistvara kombinatsioon, mis moodustab arvuti ning mida iseloomustab mitmeotstarbeline olemus ja võime täita asjakohase tarkvara abil arvutitoiminguid, mida tarbijad kõige sagedamini soovivad;\n7) operatsioonisüsteem on tarkvara, mis muu hulgas käsitleb välisseadmete riistvara, planeerib ülesandeid ja säilitab andmeid ning on kasutaja vaikeliideseks, kui ükski rakendusliides ei ole kasutusel, hoolimata sellest, kas selline tarkvara on tarbijale kasutamiseks ette nähtud üldotstarbelise arvuti riistvara lahutamatu osa või eraldiseisev tarkvara, mis on mõeldud tarbijale kasutamiseks ette nähtud üldotstarbelise arvuti riistvaral, välja arvatud operatsioonisüsteemi laadija, põhiline sisendi- ja väljundisüsteem ning muu püsivara, mis on vajalik alglaadimisel või operatsioonisüsteemi paigaldamisel.\n(3) Käesolevat seadust kohaldatakse järgmistele tarbijale osutatavatele teenustele või nende osadele:\n1) e-kaubanduse teenus;\n2) elektroonilise side teenus, sealhulgas hädaabiühendus, välja arvatud masinatevahelise side teenus;\n3) e-raamat ja selle kasutamiseks vajalik eriotstarbeline tarkvara;\n4) finantsteenus;\n5) lennu-, bussi-, raudtee- ja veeliikluse sõitjateveoteenuse osad, milleks on veebileht, mobiilsideseadmel põhinev teenus, elektrooniline pilet, elektroonilise piletimüügi teenus, transporditeabe andmine, reaalajas reisiteabe andmine, interaktiivne teabeekraan ja iseteenindusterminal;\n6) teenus, millega antakse ligipääs audiovisuaalmeedia teenusele.\n(4) Teenus käesoleva seaduse tähenduses on teenus Euroopa Parlamendi ja nõukogu direktiivi 2006/123/EÜ teenuste kohta siseturul (ELT L 376, 27.12.2006, lk 36–68) artikli 4 punkti 1 tähenduses.\n(5) Käesoleva paragrahvi lõike 3 punktides 1, 3, 5 ja 6 sätestatud teenustega seotud termineid kasutatakse käesolevas seaduses järgmises tähenduses:\n1) e-kaubanduse teenus on vahemaa tagant osutatav teenus, mida osutatakse veebilehtede ja mobiilsideseadmetel põhinevate teenuste kaudu elektroonilisel teel tarbija isiklikul taotlusel eesmärgiga sõlmida tarbijaleping;\n2) e-raamat on raamatu digitaalse faili edastamise teenus, mis võimaldab ligipääsu raamatu elektroonilisele versioonile, selles navigeerimist, selle lugemist ja kasutamist;\n3) e-raamatu tarkvara on eriotstarbeline tarkvara, sealhulgas mobiilsideseadmetel põhinev teenus, mida kasutatakse ligipääsuks e-raamatu failidele, nendes navigeerimiseks, nende lugemiseks ja kasutamiseks ning mis ei ole e-lugeri tarkvara;\n4) lennuliikluse sõitjateveoteenus on äriline lennuteenus, mida osutatakse liikmesriigi territooriumil asuvast lennujaamast väljumisel, selle läbimisel või sinna saabumisel, hõlmates kolmandas riigis asuvast lennujaamast väljuvaid lende liikmesriigi territooriumil asuvasse lennujaama, kui teenust osutab liidu lennuettevõtja;\n5) veeliikluse sõitjateveoteenus on teenus, mille puhul pardalemineku või pardalt mahatuleku sadam asub liikmesriigi territooriumil ja mis on merematkelaevaga hõlmatud üksnes juhul, kui pardalemineku sadam asub liikmesriigi territooriumil;\n6) elektrooniline pilet on mis tahes süsteem, mille puhul ühe- või mitmekordse sõidupileti, perioodikaardi või sõidukrediidi vormis reisimise õigus on salvestatud elektrooniliselt füüsilisele transpordikaardile või muule seadmele, mitte ei ole trükitud paberile;\n7) elektroonilise piletimüügi teenus on mis tahes süsteem, mille puhul sõitja ostab pileti muu hulgas veebipõhiselt, kasutades interaktiivse andmetöötlusvõimsusega seadet, ja pilet tarnitakse ostjale elektrooniliselt nii, et seda saab trükkida paberile või kuvada sõidu ajal, kasutades interaktiivse andmetöötlusvõimsusega mobiilsideseadet;\n8) teenus, millega antakse ligipääs audiovisuaalmeedia teenusele, on elektroonilise sidevõrgu kaudu edastatav teenus, mida kasutatakse audiovisuaalmeedia teenuse kindlakstegemiseks, valimiseks, selle kohta teabe saamiseks ja vaatamiseks, ning mis tahes seonduvad funktsioonid, nagu subtiitrid kurtidele ja vaegkuuljatele, audiokirjeldused, subtiitrite pealelugemine ja viipekeelne tõlge ning elektroonilised saatekavad.\n(6) Käesoleva paragrahvi lõike 1 punktides 3–6 nimetatud toodetele kohaldatakse käesolevas seaduses sätestatud ligipääsetavusnõudeid juhul, kui neid kasutatakse lõikes 3 nimetatud teenuste osutamisel.\n(7) Käesoleva paragrahvi lõike 3 punktis 4 nimetatud teenus on:\n1) makseasutuste ja e-raha asutuste seaduse § 3 lõikes 1 nimetatud makseteenused;\n2) makseasutuste ja e-raha asutuste seaduse § 6 lõikes 1 nimetatud e-raha väljastamine;\n3) tarbijakrediidi ja elamukinnisvaraga seotud tarbijakrediidi andmine krediidiandjate ja -vahendajate seaduse § 3 tähenduses;\n4) võlaõigusseaduse § 709 lõikes 15^1 nimetatud maksekontoga seotud põhimakseteenused;\n5) väärtpaberituru seaduse § 43 lõike 1 punktides 1, 2, 4 ja 5 sätestatud investeerimisteenused ja -tegevused;\n6) väärtpaberituru seaduse § 44 punktides 1, 2, 4 ja 5 sätestatud investeerimisteenuse kõrvalteenused.\n(8) Käesoleva paragrahvi lõike 3 punktis 1 nimetatud teenusele kohaldatavaid käesoleva seaduse nõudeid kohaldatakse ka käesoleva seadusega hõlmatud toodete ja muude teenuste e-kaubanduse suhtes.\n(9) Teenuse ligipääsetavusnõudeid ei kohaldata:\n1) internetipõhisele kaardile ja kaardistamisteenusele, tingimusel et navigeerimiseks kasutatava kaardi puhul esitatakse esmatähtis teave ligipääsetaval digitaalsel kujul;\n2) kolmandale isikule pakutava veebilehe ja mobiilirakenduse sisu suhtes, mida ei rahasta ega arenda asjaomane ettevõtja ja mida ta ei saa mõjutada;\n3) sõidukisse integreeritud iseteenindusterminalile, mida kasutatakse sõitjateveoteenuse mis tahes osa osutamisel;\n4) ühistranspordiseaduse § 5 kohasele juhuveole;\n5) ühistranspordiseaduse § 4 lõike 2 kohasele valla-, linna- või maakonnaliinile, mille suhtes kohaldatakse ainult käesoleva paragrahvi lõike 1 punktis 6 sätestatud interaktiivsetele iseteenindusterminalidele ette nähtud ligipääsetavusnõudeid.\n(10) Lisaks käesoleva paragrahvi lõikes 9 nimetatule ei kohaldata teenuse ligipääsetavusnõudeid veeliikluse sõitjateveoteenusele, mida osutatakse:\n1) ekskursioonidel ja lõbureisidel, välja arvatud merematked;\n2) enne 1965. aastat projekteeritud ajaloolisel algupärasel reisilaeval ja selle üksikkoopial, mis on ehitatud valdavalt algupärasest materjalist ja on ette nähtud kuni 36 reisija vedamiseks;\n3) purjelaeval;\n4) kuni 12 reisija vedamiseks ette nähtud laeval;\n5) laeval, mille meeskond koosneb kuni kolmest meeskonnaliikmest;\n6) mis tahes laeval, kui sõitjateveo vahemaa ühes suunas on alla 500 meetri.\n(11) Käesoleva seaduse nõudeid ei kohaldata mikroettevõtjast teenuseosutaja tegevusele.\n(12) Käesolevas seaduses ette nähtud haldusmenetlusele kohaldatakse haldusmenetluse seadust käesolevas seaduses sätestatud erisustega.\n(13) Käesoleva seaduse kohaldamisalas oleva toote tootja, tema volitatud esindaja, importija ja levitaja kohustustele, toote vastavushindamisele ja turujärelevalvele ning vastutusele kohaldatakse toote nõuetele vastavuse seadust käesolevast seadusest tulenevate erisustega."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Ettevõtja, teenuseosutaja, tarbija ja mikroettevõtja",
+      "content": "(1) Ettevõtja käesoleva seaduse tähenduses on tootja, volitatud esindaja, importija, levitaja või teenuseosutaja.\n(2) Teenuseosutaja käesoleva seaduse tähenduses on füüsiline või juriidiline isik, kes osutab liidu turul teenust või teeb pakkumisi, et liidus tarbijatele teenust osutada.\n(3) Tarbija käesoleva seaduse tähenduses on füüsiline isik, kes ostab toote või tarbib teenust eesmärgil, mis ei ole seotud tema majandus- või kutsetegevusega.\n(4) Mikroettevõtja käesoleva seaduse tähenduses on ettevõtja, kellel on alla kümne töötaja ja kelle aastakäive ega aastane bilansimaht ei ületa kahte miljonit eurot."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - Ligipääsetavusnõuded",
+      "section": "4",
+      "title": "§ 4. Toote ja teenuse ligipääsetavusnõuded",
+      "content": "(1) Toode peab selle turule laskmisel ja teenus selle osutamisel vastama ligipääsetavusnõuetele, arvestades käesoleva paragrahvi lõikes 5 ja käesoleva seaduse §-s 5 sätestatud erisusi.\n(2) Toode peab olema kavandatud ja toodetud viisil, mis tagab puudega inimestele toote maksimaalse kasutatavuse. See nõue kehtib ka käesoleva seaduse § 2 lõike 1 punktides 1 ja 7–9 nimetatud toodete pakendite ja juhendite kohta. Kui see on toote olemust arvestades võimalik, lisatakse toote sisse või peale ligipääsetavusnõuetele vastavas vormingus teave toote toimimise ja ligipääsetavuselementide kohta.\n(3) Teenuse osutamisel kasutatakse funktsioone, tavasid, põhimõtteid, menetlusi ja teenuse toimimises tehtavaid muudatusi, mis vastavad puudega inimeste vajadustele, tagades neile teenuse maksimaalse kasutatavuse. Teenuse elemendid peavad olema vastavate tugitehnoloogiatega koostalitlusvõimelised. Teenuse üldtingimustes või samaväärses dokumendis esitatakse teenusele kohaldatavate ligipääsetavusnõuete kirjeldus ning teave teenuse kavandamise ja tööpõhimõtete kohta.\n(4) Toote ja teenuse funktsionaalsed ligipääsetavusnõuded ja nõuded nende kohta antavale teabele kehtestab valdkonna eest vastutav minister määrusega.\n(5) Käesolevas seaduses sätestatud ligipääsetavusnõudeid kohaldatakse tootele ja teenusele üksnes niivõrd, kuivõrd nende järgimine:\n1) ei eelda toote või teenuse märkimisväärset muutmist selliselt, et selle tagajärjel muutuks täielikult toote või teenuse põhiolemus;\n2) ei too kaasa ebaproportsionaalset koormust ettevõtjale käesoleva seaduse § 5 tähenduses."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - Ligipääsetavusnõuded",
+      "section": "5",
+      "title": "§ 5. Toote ja teenuse täielik muutmine ning ettevõtja ebaproportsionaalne koormamine",
+      "content": "(1) Kui ettevõtjal on kahtlus, et toote või teenuse vastavusse viimine käesoleva seaduse §-s 4 sätestatud ja sama paragrahvi lõike 4 alusel kehtestatud ühe või mitme ligipääsetavusnõudega võib endast kujutada toote või teenuse täielikku muutmist või tuua kaasa ebaproportsionaalse koormuse, hindab ettevõtja seda koormust.\n(2) Ettevõtja, välja arvatud toodetega tegelev mikroettevõtja, dokumenteerib käesoleva paragrahvi lõikes 1 nimetatud hindamise ja säilitab hindamistulemusi viis aastat toote viimasest turul kättesaadavaks tegemisest või teenuse viimasest osutamisest arvates.\n(3) Teenuseosutaja, kes tugineb ebaproportsionaalsele koormusele, peab seda hindama vastavalt käesoleva paragrahvi lõikele 1, kui:\n1) teenust muudetakse;\n2) seda taotleb Tarbijakaitse ja Tehnilise Järelevalve Amet või\n3) hindamisest on möödunud viis aastat.\n(4) Kui ettevõtjat rahastatakse ligipääsetavuse parandamise eesmärgil muudest ressurssidest kui ettevõtja omavahendid, ei ole tal õigust tugineda ebaproportsionaalsele koormusele.\n(5) Kui ettevõtja, välja arvatud toodetega tegelev mikroettevõtja, leiab pärast käesoleva paragrahvi lõikes 1 nimetatud hindamist, et talle ei saa kohaldada üht või mitut ligipääsetavusnõuet, teavitab ta sellest Tarbijakaitse ja Tehnilise Järelevalve Ametit ning esitab tema taotluse korral dokumenteeritud hindamise tulemuse. Toodetega tegelev mikroettevõtja esitab Tarbijakaitse ja Tehnilise Järelevalve Ametile tema taotluse korral käesoleva paragrahvi lõikes 1 nimetatud hindamise seisukohast olulised asjaolud.\n(6) Ettevõtja ebaproportsionaalse koormuse hindamise kriteeriumid ja ligipääsetavusnõuete kohaldamata jätmisest teavitamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "3. peatükk - Ettevõtja kohustused ligipääsetavuse tagamiseks",
+      "section": "6",
+      "title": "§ 6. Tootja kohustused",
+      "content": "(1) Enne toote turule laskmist koostab tootja toote kohta tehnilise dokumentatsiooni ja teeb või laseb teha toote vastavushindamise, järgides kõiki käesoleva seaduse 4. peatükis sätestatud nõudeid. Kui toode vastab ligipääsetavusnõuetele, koostab tootja Euroopa Liidu vastavusdeklaratsiooni (edaspidi vastavusdeklaratsioon ) ja kinnitab tootele vastavusmärgise.\n(2) Tootja säilitab tehnilist dokumentatsiooni ja vastavusdeklaratsiooni viis aastat pärast toote turule laskmist.\n(3) Tootja tagab, et tootega kaasas olevad juhised, teave ja märgistus on selged, arusaadavad ja mõistetavad.\n(4) Kui tootjale saab teatavaks, et tema turule lastud toode ei vasta ühele või mitmele kohaldatavale ligipääsetavusnõudele, teavitab ta mittevastavusest Tarbijakaitse ja Tehnilise Järelevalve Ametit, esitades üksikasjad toote mittevastavuse ja rakendatud parandusmeetmete kohta.\n(5) Tootja säilitab andmeid kohaldatavatele ligipääsetavusnõuetele mittevastavate turule lastud toodete ja nendega seotud kaebuste kohta."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "3. peatükk - Ettevõtja kohustused ligipääsetavuse tagamiseks",
+      "section": "7",
+      "title": "§ 7. Volitatud esindaja ülesanne",
+      "content": "Käesoleva seaduse §-s 14 sätestatud kohustusi võib täita tootja nimel ja vastutusel tootja poolt selleks volitatud esindaja. Volitatud esindaja hoiab käesoleva seaduse §-des 13 ja 14 nimetatud tehnilist dokumentatsiooni ja vastavusdeklaratsiooni Tarbijakaitse ja Tehnilise Järelevalve Ameti jaoks kättesaadavana viis aastat pärast toote turule laskmist."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "3. peatükk - Ettevõtja kohustused ligipääsetavuse tagamiseks",
+      "section": "8",
+      "title": "§ 8. Importija kohustused",
+      "content": "(1) Importija tagab, et vastavusdeklaratsiooni koopia ja tehniline dokumentatsioon on Tarbijakaitse ja Tehnilise Järelevalve Ametile käesoleva seaduse § 6 lõikes 2 sätestatud aja jooksul kättesaadav.\n(2) Importijale kohaldatakse käesoleva seaduse § 6 lõigetes 3–5 sätestatud nõudeid."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "3. peatükk - Ettevõtja kohustused ligipääsetavuse tagamiseks",
+      "section": "9",
+      "title": "§ 9. Levitaja kohustused",
+      "content": "Kui levitajale saab teatavaks, et tema turule lastud toode ei vasta ühele või mitmele kohaldatavale ligipääsetavusnõudele, teavitab ta mittevastavusest Tarbijakaitse ja Tehnilise Järelevalve Ametit, esitades üksikasjad toote mittevastavuse ja rakendatud parandusmeetmete kohta."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "3. peatükk - Ettevõtja kohustused ligipääsetavuse tagamiseks",
+      "section": "10",
+      "title": "§ 10. Toodetega tegelevate ettevõtjate kindlakstegemine",
+      "content": "Käesoleva seaduse §-des 6–9 nimetatud ettevõtja teavitab Tarbijakaitse ja Tehnilise Järelevalve Ametit tema nõudmise korral kõigist ettevõtjatest, keda ta on tootega varustanud või kes on teda tootega varustanud viie aasta jooksul alates sellest, kui talle toodet tarniti, ja viie aasta jooksul alates sellest, kui ta toodet tarnis."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "3. peatükk - Ettevõtja kohustused ligipääsetavuse tagamiseks",
+      "section": "11",
+      "title": "§ 11. Teenuseosutaja kohustused",
+      "content": "(1) Teenuseosutaja tagab teenuse vastavuse kohaldatavatele ligipääsetavusnõuetele.\n(2) Teenuseosutaja koostab teenuse vastavust kohaldatavatele ligipääsetavusnõuetele selgitava teabe, mille teeb kirjalikult ja suuliselt ligipääsetavas vormis avalikult kättesaadavaks. Teenuseosutaja säilitab teavet kogu teenuse osutamise aja jooksul.\n(3) Teenuseosutaja võtab asjakohaselt arvesse muutusi teenuse osutamise tingimustes, kohaldatavates ligipääsetavusnõuetes ja harmoneeritud standardites või tehnilistes spetsifikatsioonides, millest lähtuvalt määratakse kindlaks teenuse vastavus ligipääsetavusnõuetele.\n(4) Kui osutatav teenus ei vasta käesoleva paragrahvi lõikes 1 sätestatud nõudele, on teenuseosutaja kohustatud:\n1) rakendama teenuse ligipääsetavusnõuetega vastavusse viimiseks asjakohaseid parandusmeetmeid;\n2) teavitama mittevastavusest viivitamata Tarbijakaitse ja Tehnilise Järelevalve Ametit, esitades üksikasjad mittevastavuse ja vastavusse viimiseks rakendatavate parandusmeetmete kohta.\n(5) Teenuseosutaja teeb Tarbijakaitse ja Tehnilise Järelevalve Ametiga tema nõudmise korral igakülgset koostööd teenuse ligipääsetavusnõuetega vastavusse viimiseks parandusmeetmete rakendamisel."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "4. peatükk - Vastavushindamine ja vastavuseeldus",
+      "section": "12",
+      "title": "§ 12. Toote vastavushindamine",
+      "content": "(1) Toote ligipääsetavusnõuetele vastavust tõendatakse toote turule laskmisel tootmise sisekontrolli vastavushindamismenetlusega, mis tähendab käesoleva seaduse §-des 13 ja 14 sätestatud nõuete täitmist.\n(2) Tootja rakendab vajalikke meetmeid, et tootmisprotsess ja selle kontroll tagaks toote vastavuse käesoleva seaduse §-s 13 sätestatud tehnilisele dokumentatsioonile ning kohaldatavatele ligipääsetavusnõuetele."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "4. peatükk - Vastavushindamine ja vastavuseeldus",
+      "section": "13",
+      "title": "§ 13. Toote tehniline dokumentatsioon",
+      "content": "(1) Tootja koostab tehnilise dokumentatsiooni viisil, mis võimaldab hinnata toote vastavust kohaldatavatele ligipääsetavusnõuetele ning käsitleb hindamiseks vajalikul määral toote konstruktsiooni, valmistamist ja kasutamist.\n(2) Kui tootja tugineb toote täielikule muutmisele või ettevõtja ebaproportsionaalsele koormamisele, peab tehniline dokumentatsioon võimaldama tõendada, et üks või mitu kohaldatavat ligipääsetavusnõuet põhjustaksid toote täielikku muutmist või ebaproportsionaalset koormust.\n(3) Tehniline dokumentatsioon sisaldab asjakohases ulatuses vähemalt järgmist:\n1) toote üldkirjeldus;\n2) Euroopa Liidu Teatajas avaldatud täielikult või osaliselt kohaldatud harmoneeritud standardite ja asjakohaste tehniliste spetsifikatsioonide loetelu või kohaldatavate ligipääsetavusnõuete järgimiseks kasutatud lahenduste kirjeldus;\n3) viited osaliselt kohaldatud harmoneeritud standardite kohta või tehniliste spetsifikatsioonide nende osade kohta, mida on kohaldatud."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "4. peatükk - Vastavushindamine ja vastavuseeldus",
+      "section": "14",
+      "title": "§ 14. Toote vastavusdeklaratsioon ja vastavusmärgis",
+      "content": "(1) Tootja koostab toote kohta kirjaliku vastavusdeklaratsiooni, millega kinnitab, et tootele kohaldatavad ligipääsetavusnõuded on täidetud.\n(2) Vastavusdeklaratsiooni koostamisel tuleb järgida Euroopa Parlamendi ja nõukogu otsuse nr 768/2008/EÜ toodete turustamise ühise raamistiku kohta ja millega tunnistatakse kehtetuks nõukogu otsus 93/465/EMÜ (ELT L 218, 13.08.2008, lk 82–128) III lisas sätestatud näidise ülesehitust. Vastavusdeklaratsiooni ajakohastatakse pidevalt.\n(3) Kui tootjale ei saa kohaldada üht või mitut ligipääsetavusnõuet toote täieliku muutmise või ettevõtja ebaproportsionaalse koormamise tõttu, peab vastavusdeklaratsioonis olema märgitud, millise ligipääsetavusnõude suhtes on käesoleva seaduse § 4 lõikes 5 ja §-s 5 sätestatud erandit kohaldatud.\n(4) Vastavusmärgis kinnitatakse igale ligipääsetavusnõuetele vastavale tootele või selle andmeplaadile nähtaval, loetaval ja kustutamatul viisil. Kui toote laadist tingituna ei ole võimalik või otstarbekas vastavusmärgist tootele kinnitada, kinnitatakse see pakendile ja lisatakse tootega kaasas olevatele dokumentidele."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "4. peatükk - Vastavushindamine ja vastavuseeldus",
+      "section": "15",
+      "title": "§ 15. Toote ja teenuse vastavuseeldus",
+      "content": "(1) Kui toote või teenuse vastavuse hindamisel on järgitud ligipääsetavusnõudeid hõlmavat harmoneeritud standardit või selle osa, eeldatakse, et sellisele standardile või selle osale vastav toode või teenus vastab standardi või selle osaga kaetud nõuete puhul ligipääsetavusnõuetele.\n(2) Kui toote või teenuse vastavuse hindamisel on järgitud ligipääsetavusnõudeid hõlmavat tehnilist spetsifikatsiooni või selle osa, eeldatakse, et sellisele tehnilisele spetsifikatsioonile või selle osale vastav toode või teenus vastab tehnilise spetsifikatsiooni või selle osaga kaetud nõuete puhul ligipääsetavusnõuetele."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "5. peatükk - Riiklik järelevalve",
+      "section": "16",
+      "title": "§ 16. Järelevalveasutus",
+      "content": "Käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle teeb riiklikku järelevalvet Tarbijakaitse ja Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "5. peatükk - Riiklik järelevalve",
+      "section": "17",
+      "title": "§ 17. Järelevalve erimeetmed",
+      "content": "Tarbijakaitse ja Tehnilise Järelevalve Amet võib käesolevas seaduses sätestatud riikliku järelevalve tegemiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50, 51 ja 52 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "5. peatükk - Riiklik järelevalve",
+      "section": "18",
+      "title": "§ 18. Järelevalve erisused",
+      "content": "(1) Tarbijakaitse ja Tehnilise Järelevalve Ametil on õigus:\n1) nõuda ettevõtjalt asjakohaste meetmete viivitamatut rakendamist toote või teenuse kõigi kohaldatavate ligipääsetavusnõuetega vastavusse viimiseks;\n2) juhul, kui ettevõtja ei ole käesoleva lõike punktis 1 nimetatud asjakohaseid meetmeid rakendanud, keelata või piirata toote või teenuse kättesaadavaks tegemist riigisisesel turul või nõuda toote või teenuse viivitamatut turult kõrvaldamist või toode turult kõrvaldada.\n(2) Kui ettevõtja tugineb toote või teenuse täielikule muutmisele või ettevõtja ebaproportsionaalsele koormamisele, on Tarbijakaitse ja Tehnilise Järelevalve Ametil õigus:\n1) kontrollida, kas ettevõtja on teinud käesoleva seaduse §-s 5 nimetatud hindamise;\n2) vaadata läbi käesoleva seaduse §-s 5 nimetatud hindamise tulemused ja hindamiskriteeriumide nõuetekohane kasutamine;\n3) kontrollida vastavust kohaldatavatele ligipääsetavusnõuetele."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "5. peatükk - Riiklik järelevalve",
+      "section": "19",
+      "title": "§ 19. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär 10 000 eurot."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "20",
+      "title": "§ 20. Ligipääsetavusnõuetele mittevastava teenuse osutamine",
+      "content": "(1) Ligipääsetavusnõuetele mittevastava teenuse osutamise eest – karistatakse rahatrahviga kuni 100 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 20 000 eurot."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "21",
+      "title": "§ 21. Menetlus",
+      "content": "Käesolevas peatükis sätestatud väärtegude kohtuväline menetleja on Tarbijakaitse ja Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "22",
+      "title": "§ 22. Ligipääsetavusnõuete kohaldamise erisused",
+      "content": "(1) Käesoleva seaduse nõudeid kohaldatakse alates 2025. aasta 28. juunist turule lastava toote ja osutatava teenuse suhtes.\n(2) Enne 2025. aasta 28. juunit sõlmitud teenuseleping, mille tingimused kohalduvaid ligipääsetavusnõudeid ei arvesta, kehtib edasi muutmata kujul kuni selle kehtivusaja lõpuni, kuid kõige kauem 2030. aasta 28. juunini.\n(3) Käesoleva seaduse § 2 lõike 1 punktides 2–6 nimetatud iseteenindusterminali, mida teenuseosutaja kasutab teenuse osutamiseks enne 2025. aasta 28. juunit, võib jätkuvalt kasutada sellise teenuse osutamiseks kuni selle majanduslikult kasuliku tööea lõpuni, kuid kõige kauem 20 aastat pärast selle kasutuselevõttu.\n(4) Teenuseosutaja võib jätkata teenuse osutamist kuni 2030. aasta 28. juunini, kasutades toodet, mida ta kasutas sellise teenuse osutamiseks ka enne 2025. aasta 28. juunit.\n(5) Teenuse ligipääsetavusnõudeid ei kohaldata veebilehe ja mobiilirakenduse järgmise sisu suhtes:\n1) eelsalvestatud ajas muutuv meedium, mis on avaldatud enne 2025. aasta 28. juunit;\n2) kontoritarkvara failiformaat, mis on avaldatud enne 2025. aasta 28. juunit;\n3) veebilehe ja mobiilirakenduse sisu, mida pärast 2025. aasta 28. juunit ei ajakohastata ega muudeta."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "23",
+      "title": "§ 23. Seaduse järelhindamine",
+      "content": "Sotsiaalministeerium analüüsib hiljemalt 2028. aastal käesoleva seaduse rakendamise mõju ja tulemuslikkust."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "24",
+      "title": "§ 24. Meediateenuste seaduse muutmine",
+      "content": "Meediateenuste seaduse §-s 65^3 asendatakse tekstiosa „2025. aastal” tekstiosaga „2024. aastal”."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "25",
+      "title": "§ 25. Meediateenuste seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse muutmine",
+      "content": "Meediateenuste seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse § 6 tekst muudetakse ja sõnastatakse järgmiselt: „Käesoleva seaduse § 1 punkt 45 jõustub 2025. aasta 28. juunil.”."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "26",
+      "title": "§ 26. Toote nõuetele vastavuse seaduse muutmine",
+      "content": "Toote nõuetele vastavuse seaduses tehakse järgmised muudatused: 1) paragrahvi 50 lõiget 5 täiendatakse punktiga 12^3 järgmises sõnastuses: „12^3) tooted, millele kehtestatud ligipääsetavusnõuete täitmise üle järelevalve tegemine on tema pädevusse antud seaduse või selle alusel kehtestatud õigusaktiga;”; 2) seaduse normitehnilist märkust täiendatakse tekstiosaga järgmises sõnastuses: „Euroopa Parlamendi ja nõukogu direktiiv (EL) 2019/882 toodete ja teenuste ligipääsetavusnõuete kohta (ELT L 151, 07.06.2019, lk 70–115).”."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "27",
+      "title": "§ 27. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2022. aasta 28. juunil."
+    }
+  ],
+  "definitions": []
+}

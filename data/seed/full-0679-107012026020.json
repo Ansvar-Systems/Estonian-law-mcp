@@ -1,0 +1,596 @@
+{
+  "id": "ee-law-107012026020",
+  "type": "statute",
+  "title": "Keskkonnaseadustiku üldosa seadus",
+  "title_en": "Keskkonnaseadustiku üldosa seadus",
+  "short_name": "KeÜS",
+  "status": "in_force",
+  "issued_date": "2011-02-16",
+  "in_force_date": "2026-01-17",
+  "url": "https://www.riigiteataja.ee/akt/107012026020.xml",
+  "description": "Official consolidated statute text (Keskkonnaseadustiku üldosa seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse eesmärk",
+      "content": "Käesoleva seaduse eesmärk on tagada: 1 1) keskkonnahäiringute vähendamine võimalikult suures ulatuses, et kaitsta keskkonda, inimese tervist, heaolu ja vara ning kultuuripärandit;\n2) säästva arengu edendamine, et kindlustada tervise- ja heaoluvajadustele vastav keskkond praegusele põlvele ja tulevastele põlvedele;\n3) loodusliku mitmekesisuse säilimine ja kaitse;\n4) keskkonna hea seisund;\n5) keskkonnale kahju tekitamise vältimine ja keskkonnale tekitatud kahju heastamine."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Haldusmenetluse seaduse kohaldamine",
+      "content": "Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Keskkonnahäiring",
+      "content": "(1) Keskkonnahäiring on inimtegevusega kaasnev vahetu või kaudne ebasoodne mõju keskkonnale, sealhulgas keskkonna kaudu toimiv mõju inimese tervisele, heaolule või varale või kultuuripärandile. Keskkonnahäiring on ka selline ebasoodne mõju keskkonnale, mis ei ületa arvulist normi või mis on arvulise normiga reguleerimata.\n(2) Kui seaduses ei ole sätestatud teisiti, eeldatakse olulise keskkonnahäiringu tekkimist:\n1) käesoleva seaduse § 7 lõikes 3 sätestatud keskkonna kvaliteedi piirväärtuse ületamisel;\n2) käesoleva seaduse § 7 lõikes 5 sätestatud saastatuse põhjustamisel;\n3) keskkonnakahju põhjustamisel;\n4) olulise keskkonnamõju põhjustamisel;\n5) olulise ebasoodsa mõju tekitamisel Euroopa Liidu Natura 2000 (edaspidi Natura ) võrgustiku alale."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Keskkonnarisk",
+      "content": "Keskkonnarisk on vähendamist vajava keskkonnahäiringu tekkimise võimalikkus."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5",
+      "title": "§ 5. Keskkonnaoht",
+      "content": "Keskkonnaoht on olulise keskkonnahäiringu tekkimise piisav tõenäosus."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "6",
+      "title": "§ 6. Käitis ja käitaja",
+      "content": "(1) Käitis on paikne või liikuv tehniline üksus, milles toimub tootmistegevus või tootmisega võrdsustatav, tootmisega otseselt liituv ja sellega tehnilist seost omav tegevus, millega kaasneb saastamine või saastatus.\n(2) Käitaja on isik, kes käitab või valdab käitist, kontrollib selle tööd ja vastutab käitise tehnilise toimimise eest."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "7",
+      "title": "§ 7. Heide, heite piirväärtus, keskkonna kvaliteedi piirväärtus, saastamine ja saastatus",
+      "content": "(1) Heide on õhku, vette või pinnasesse otseselt või kaudselt väljutatav aine, organism, energia, kiirgus, vibratsioon, soojus, valgus, lõhn või müra.\n(2) Heite piirväärtus on heidet iseloomustava näitaja suhtes väljendatud heite mass, hulk, kontsentratsioon või tase, mida kindlaksmääratud ajavahemikus või ajavahemikes ei tohi ületada või mille piiresse tuleb jääda.\n(3) Keskkonna kvaliteedi piirväärtus on keskkonna keemilisele, füüsikalisele või bioloogilisele näitajale kehtestatud piirväärtus, mida ei tohi inimese tervise ja keskkonna kaitsmise huvides ületada.\n(4) Saastamine on heite väljutamine nii, et see põhjustab keskkonnaohu või keskkonnariski.\n(5) Saastatus on saastamisest põhjustatud oluline ebasoodne muutus õhu, vee või pinnase kvaliteedis."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - Keskkonnakaitse põhimõtted ja põhikohustused",
+      "section": "8",
+      "title": "§ 8. Keskkonna kõrgetasemelise ja tervikliku kaitse põhimõte",
+      "content": "Keskkonnakaitse meetmed peavad tagama kõrgetasemelise kaitse, seejuures tuleb tagada keskkonna terviklik kaitse ja arvestada keskkonnamõju võimalikku ülekandumist ühelt keskkonnaelemendilt teisele."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - Keskkonnakaitse põhimõtted ja põhikohustused",
+      "section": "9",
+      "title": "§ 9. Lõimimispõhimõte",
+      "content": "Keskkonnakaitse kõrget taset tagavad kaalutlused peavad olema arvesse võetud kõikide eluvaldkondade arengu suunamisel, et tagada säästev areng."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - Keskkonnakaitse põhimõtted ja põhikohustused",
+      "section": "10",
+      "title": "§ 10. Vältimispõhimõte",
+      "content": "Keskkonnaohtu tuleb vältida. Keskkonnaohtu või olulist keskkonnahäiringut tuleb taluda, kui tegevus on vajalik ülekaaluka huvi tõttu, puudub mõistlik alternatiiv ja keskkonnaohu või olulise keskkonnahäiringu vähendamiseks on võetud vajalikud meetmed."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - Keskkonnakaitse põhimõtted ja põhikohustused",
+      "section": "11",
+      "title": "§ 11. Ettevaatuspõhimõte",
+      "content": "(1) Keskkonnariski tuleb kohaste ettevaatusmeetmete võtmisega võimalikult suurel määral vähendada.\n(2) Keskkonnariskiga tegevuste suhtes otsuste tegemisel selgitatakse välja nende tegevuste mõju keskkonnale. Seaduses sätestatud juhtudel ja korras tuleb läbi viia keskkonnamõju hindamise menetlus."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - Keskkonnakaitse põhimõtted ja põhikohustused",
+      "section": "12",
+      "title": "§ 12. Keskkonna kasutamisega seotud kulude kandmine",
+      "content": "(1) Keskkonnahäiringu, -ohu, -riski või -kahju hindamise, vältimise, vähendamise või heastamisega seotud kulud kannab nende põhjustaja, kui seadusest ei tulene teisiti.\n(2) Keskkonnakasutus on tasuline seaduses sätestatud juhtudel. Keskkonna kui rahvusliku rikkuse kasutuse eest makstakse tasu, mille suurus määratakse käesolevas jaos sätestatud keskkonnakaitse põhimõtete alusel ning mille kasutamise eesmärk on käesoleva seaduse §-s 1 sätestatud eesmärkide saavutamisele kaasaaitamine."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - Keskkonnakaitse põhimõtted ja põhikohustused",
+      "section": "13",
+      "title": "§ 13. Loodusvarade säästliku kasutamise põhimõte",
+      "content": "Taastuvaid ja taastumatuid loodusvarasid tuleb kasutada säästlikult, arvestades nende looduslikku täienemist ja varude jätkumist võimalikult pikaks ajaks. Seaduses sätestatud juhul kehtestatakse taastuva ja taastumatu loodusvara kasutusmäärad."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - Keskkonnakaitse põhimõtted ja põhikohustused",
+      "section": "14",
+      "title": "§ 14. Hoolsuskohustus",
+      "content": "Igaüks peab rakendama meetmeid oma tegevuse või tegevusetusega põhjustatava keskkonnahäiringu vähendamiseks niivõrd, kuivõrd seda on mõistlik eeldada."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - Keskkonnakaitse põhimõtted ja põhikohustused",
+      "section": "15",
+      "title": "§ 15. Kohustus omandada teadmisi keskkonnaohu vältimiseks",
+      "content": "Igaüks peab enne sellise tegevuse alustamist, mis põhjustab keskkonnaohu, omandama mõistlikus ulatuses teadmisi, mis tegevuse laadi ja ulatust arvesse võttes on vajalikud keskkonnaohu vältimiseks."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - Käitaja ja juriidilise isiku esindaja kohustused",
+      "section": "16",
+      "title": "§ 16. Kohustus vältida keskkonnaohtu ja rakendada ettevaatusmeetmeid",
+      "content": "(1) Käitaja on kohustatud rakendama vajalikke meetmeid keskkonnaohu vältimiseks ja kohaseid ettevaatusmeetmeid keskkonnariski vähendamiseks.\n(2) Käitaja peab enne sellise tegevuse alustamist, millega kaasneb keskkonnaoht või keskkonnarisk, omandama teadmised, mis tegevuse laadi ja ulatust arvesse võttes on vajalikud keskkonnaohu vältimiseks või ettevaatusmeetmete rakendamiseks.\n(3) Käitaja peab vältima niisuguste ainete, segude või organismide kasutamist, millega kaasneb keskkonnarisk, kui neid on võimalik asendada ainete, segude või organismidega, millega kaasneb väiksem keskkonnarisk."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - Käitaja ja juriidilise isiku esindaja kohustused",
+      "section": "17",
+      "title": "§ 17. Kohustus kasutada toorainet, loodusvarasid ja energiat säästlikult",
+      "content": "Käitaja peab kasutama toorainet, loodusvarasid ja energiat säästlikult ning võimaluse korral eelistama taastuvaid energiaallikaid."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - Käitaja ja juriidilise isiku esindaja kohustused",
+      "section": "18",
+      "title": "§ 18. Käitise asukoha valik",
+      "content": "(1) Isik, kes kavandab käitise püstitamist, peab selle asukoha valikul lähtuma eesmärgist vähendada võimalikult suures ulatuses keskkonnahäiringuid, eelkõige arvestades ala tundlikkust kavandatava tegevuse suhtes, kaugust elamupiirkonnast ning senist ja võimalikku sihtotstarvet.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud kriteeriume võetakse arvesse ka käitise tegevuse laiendamisel või muul viisil ümberkujundamisel."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - Käitaja ja juriidilise isiku esindaja kohustused",
+      "section": "19",
+      "title": "§ 19. Keskkonnakaitsealane väljaõpe käitises",
+      "content": "Käitaja peab põhjendatud ulatuses tagama käitises tegutsevate isikute keskkonnakaitsealase väljaõppe."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - Käitaja ja juriidilise isiku esindaja kohustused",
+      "section": "20",
+      "title": "§ 20. Teatamiskohustus",
+      "content": "(1) Käitisest lähtuvast olulisest keskkonnahäiringust teatab käitaja viivitamata Keskkonnaametile või seaduses sätestatud juhul muule asutusele.\n(2) Käitaja peab viivitamata teavitama loa andjat käitise toimimisviisis kavandatavast muudatusest, käitise laiendamisest või muust tegevusest, mis võib kaasa tuua olulise keskkonnahäiringu või olla aluseks loa muutmisele."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - Käitaja ja juriidilise isiku esindaja kohustused",
+      "section": "21",
+      "title": "§ 21. Keskkonnakaitse nõuded käitise tegevuse lõpetamisel",
+      "content": "Käitaja peab käitise tegevuse lõpetamisel ja selle järel tagama, et ei teki olulisi keskkonnahäiringuid."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - Käitaja ja juriidilise isiku esindaja kohustused",
+      "section": "22",
+      "title": "§ 22. Kohustuste rakendamine",
+      "content": "Käesolevas peatükis sätestatud käitaja kohustusi tuleb rakendada niivõrd, kuivõrd seda saab mõistlikult eeldada."
+    },
+    {
+      "provision_ref": "para22^1",
+      "chapter": "3. peatükk - Käitaja ja juriidilise isiku esindaja kohustused",
+      "section": "22^1",
+      "title": "§ 22^1. Juriidilise isiku organi, selle liikme, juhtivtöötaja ja pädeva esindaja kohustused",
+      "content": "Juriidilise isiku organ, selle liige, juhtivtöötaja või pädev esindaja on kohustatud korraldama esindatava käesolevast seadusest, jäätmeseadusest, veeseadusest, atmosfääriõhu kaitse seadusest, maapõueseadusest, kiirgusseadusest, looduskaitseseadusest, metsaseadusest, kalapüügiseadusest, jahiseadusest, tööstusheite seadusest, keskkonnatasude seadusest ja keskkonnavastutuse seadusest ning nende seadustega reguleeritavate valdkondade Euroopa Liidu määrustest tulenevate rahaliste ja mitterahaliste kohustuste tähtaegse ja täieliku täitmise."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "23",
+      "title": "§ 23. Õigus tervise- ja heaoluvajadustele vastavale keskkonnale",
+      "content": "(1) Igaühel on õigus tervise- ja heaoluvajadustele vastavale keskkonnale, millega tal on oluline puutumus.\n(2) Oluline puutumus on isikul, kes viibib tihti mõjutatud keskkonnas, kasutab sageli mõjutatud loodusvara või kellel on muul põhjusel eriline seos mõjutatud keskkonnaga.\n(3) Käesoleva paragrahvi lõike 2 kohaldamisel peetakse mõjutatud keskkonnaks või loodusvaraks ka tõenäoliselt mõjutatud keskkonda või loodusvara.\n(4) Hinnates keskkonna vastavust tervise- ja heaoluvajadustele, võetakse arvesse teiste isikute õigusi, avalikke huve ja piirkonna eripära. Keskkonna mittevastavust tervise- ja heaoluvajadustele eeldatakse, kui on ületatud keskkonna kvaliteedi piirväärtus.\n(5) Käesoleva paragrahvi lõikes 1 nimetatud õiguse tagamiseks on õigus nõuda haldusorganilt keskkonna säästmist ning mõistlike meetmete võtmist, et tagada keskkonna vastavus tervise- ja heaoluvajadustele."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "24",
+      "title": "§ 24. Õigus küsida keskkonnateavet",
+      "content": "(1) Igaühel on õigus küsida keskkonnaalast avalikku teavet (edaspidi keskkonnateave ), esitades selgitustaotluse märgukirjale ja selgitustaotlusele vastamise seaduse alusel või teabenõude avaliku teabe seaduse või muu seaduse alusel.\n(2) Keskkonnateave on kirjalikus, nähtavas, kuuldavas, elektroonilises või mis tahes muus materiaalses vormis olev teave, mis käsitleb:\n1) selliste keskkonnaelementide nagu õhu, atmosfääri, vee, pinnase, maa, maastike ja looduslike alade, sealhulgas märg-, ranna- ja merealade seisundit, looduslikku mitmekesisust ja looduse koostisosade, sealhulgas geneetiliselt muundatud organismide seisundit ning nende vastastikust toimet;\n2) selliseid tegureid nagu ained, energia, müra, vilkuv valgus, vibratsioon, kiirgus või jäätmed, sealhulgas radioaktiivsed jäätmed ja heited, mis mõjutavad või tõenäoliselt mõjutavad käesoleva lõike punktis 1 nimetatud keskkonnaelemente;\n3) selliseid meetmeid, sealhulgas haldusmeetmeid, nagu õigusaktid, kavad, programmid, planeeringud, keskkonnakokkulepped ja tegevused, mis mõjutavad või tõenäoliselt mõjutavad käesoleva lõike punktides 1 ja 2 nimetatud keskkonnaelemente ja tegureid, ning samuti nende keskkonnaelementide kaitseks kavandatud meetmeid või tegevusi;\n4) aruandeid keskkonnaalaste õigusaktide rakendamise kohta;\n5) tulu ja kulu analüüse ning muid majandusanalüüse ja prognoose, mida kasutatakse käesoleva lõike punktis 3 nimetatud meetmete ja tegevuste raames;\n6) inimeste tervist ja ohutust, sealhulgas joogivee ja toiduahela saastatust, ning inimeste elutingimusi ning kultuuriväärtuste ja ehitiste olukorda sel määral, kui neid mõjutab või võib mõjutada käesoleva lõike punktis 1 nimetatud keskkonnaelementide seisund või nende elementide kaudu käesoleva lõike punktides 2 ja 3 nimetatud mis tahes tegurid, meetmed või tegevused.\n(3) Teabe küsija ei pea avaldama keskkonnateabe küsimise eesmärki ega muul viisil põhjendama teabe küsimist.\n(4) Teabe küsija soovil selgitab teabe valdaja andmete kogumise meetodeid ning võimaldab juurdepääsu teabele proovivõtu ja analüüsi meetodite kohta.\n(5) Teabe valdajal on õigus tunnistada keskkonnateave asutusesiseseks kasutamiseks mõeldud teabeks:\n1) kui teabe avalikustamine võib kahjustada intellektuaalomandiõigusi;\n2) kui teave on haldusorganile esitatud vabatahtlikult ilma õigusliku kohustuseta ning selle teabe esitaja ei ole nõus keskkonnateabe väljastamisega.\n(6) Kui teabe valdajal on seaduse alusel õigus keelduda keskkonnateabe väljastamisest, peab ta selle teabe väljastamise otsustamisel iga kord kaaluma, kas väljastamisest keeldumise huvi kaalub üles väljastamisega kaasneva avaliku huvi.\n(7) Kui keskkonnateavet sisaldav dokument on alles koostamisel, teatatakse teabe küsijale dokumendi koostaja andmed ja eeldatavalt koostamiseks kuluv aeg."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "25",
+      "title": "§ 25. Õigus saada keskkonnateavet keskkonnaohu ilmnemisel",
+      "content": "(1) Keskkonnaohu ilmnemisel, samuti looduslikest teguritest keskkonnale põhjustatud olulise ebasoodsa mõju esinemise piisava tõenäosuse ilmnemisel teavitatakse viivitamata igaühte, keda ohu realiseerumisest tekkinud oluline ebasoodne mõju võib puudutada, edastades teabe, mis võimaldab võtta mõju vältivaid või vähendavaid meetmeid. Kui seaduses ei ole sätestatud teisiti, on teavitamiskohustus Kliimaministeeriumil.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud teave edastatakse ringhäälingu, trükiajakirjanduse või interneti vahendusel või muul asjakohasel viisil, mis tagab tõhusalt teabe jõudmise potentsiaalselt mõjutatud isikute kätte ega too kaasa ebamõistlikke kulusid.\n(3)\n(4) Kui selgub, et oht puudus või on kõrvaldatud, on ohust teavitanud haldusorgan kohustatud teavitama ohuteatega samas vormis ja mahus ohu puudumisest, kui seda nõuab isik, kelle õigusi teavitamisega kahjustati, või kui selleks on kaalukas avalik huvi."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "26",
+      "title": "§ 26. Keskkonnateabe kogumine, säilitamine ja avalikustamine",
+      "content": "(1) Haldusorgan kogub ja säilitab oma ülesannete täitmiseks vajalikku keskkonnateavet viisil, mis tagab selle arusaadavuse, täpsuse, võrreldavuse ja ajakohasuse ning võimaldab selle tõhusat avalikustamist.\n(2) Keskkonnateave avalikustatakse internetis või muul asjakohasel viisil, mis tagab avalikkuse tõhusa teavituse.\n(3) Avalikustatav keskkonnateave hõlmab vähemalt järgmise teabe:\n1) keskkonnaga seonduvate rahvusvaheliste lepete, Euroopa Liidu ja riigisiseste õigusaktide elluviimise aruanded;\n2) keskkonnaga seonduvad programmid ja kavad, sealhulgas valdkonna arengukavad ja strateegiad ning nende elluviimise aruanded;\n3) keskkonnaseire andmed;\n4) aruanded keskkonnaseisundi kohta;\n5) keskkonnakaitseload ja muud haldusaktid, mis annavad aluse olulise keskkonnamõjuga tegevusele, ning keskkonnaalased halduslepingud ja vaba tahte lepingud;\n6) keskkonnamõju hindamise aruanded, keskkonnamõju strateegilise hindamise aruanded ning keskkonnaalased riskianalüüsid.\n(4) Käesoleva paragrahvi lõike 3 alusel ei avalikustata juurdepääsupiiranguga teavet."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "27",
+      "title": "§ 27. Keskkonnateabe ja teabele juurdepääsu kohta ülevaate avalikustamine veebilehel",
+      "content": "(1) Haldusorgan avalikustab oma veebilehel:\n1) selgitava kokkuvõtte oma keskkonnaalastest ülesannetest;\n2) selgitava kokkuvõtte enda valduses olevast keskkonnateabest;\n3) viited teiste asjassepuutuvate haldusorganite veebilehtedele;\n4) selgituse õiguse kohta küsida keskkonnateavet;\n5) selgituse, kuidas võimaldatakse juurdepääs teabele.\n(2) Kui see tagab avalikkusele tõhusama juurdepääsu keskkonnateabele, võib käesoleva paragrahvi lõikes 1 nimetatud teabe avaldada muul veebilehel või viisil, viidates oma veebilehel kohale, kus teave avaldatakse.\n(3) Kui teabe valdajal ei ole avaliku teabe seaduse kohaselt kohustust pidada veebilehte ning tal puudub veebileht, avalikustatakse käesoleva paragrahvi lõigetes 1 ja 2 nimetatud teave selle haldusorgani veebilehel, kellega teabevaldaja on halduslepingu alusel või muul põhjusel kõige rohkem seotud."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "28",
+      "title": "§ 28. Õigus osaleda olulise keskkonnamõjuga otsuse tegemisel",
+      "content": "(1) Igaühel on õigus osaleda olulise keskkonnamõjuga tegevuseks loa andmise menetluses ning olulise keskkonnamõjuga tegevuse planeerimises.\n(2) Avalikkust teavitatakse olulise keskkonnamõjuga otsuse tegemise menetlusest tõhususega, mis ei too kaasa ebamõistlikke kulusid, kuid mis tagab teabe jõudmise nende isikute kätte, kellel on oluline puutumus mõjutatud keskkonnaga.\n(3) Avalikkus kaasatakse olulise keskkonnamõjuga otsuste tegemisse tõhusalt ja varajases etapis enne lõplike lahenduste väljavalimist.\n(4) Avalikkuse kaasamisel peab menetlustähtaja pikkus olema selline, mis asja mahukust ja keerukust arvestades võimaldab avalikkusel tõhusalt osaleda, sealhulgas peab menetlustähtaeg võimaldama piisavat ettevalmistusaega.\n(5) Asjas tähtsust omavad materjalid peavad olema avalikkusele lihtsalt juurdepääsetavad internetis või muul viisil."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "29",
+      "title": "§ 29. Õigus osaleda keskkonda oluliselt mõjutavate õiguse üldaktide väljatöötamisel",
+      "content": "(1) Riigikantselei ja ministeeriumid avaldavad oma veebilehel asjakohast teavet selle kohta, milliseid keskkonda oluliselt mõjutavaid määruse ja seaduseelnõusid nad kavatsevad koostada, tehes teatavaks koostamise kavatsuse, ajakava, eelnõu koostamise käigus planeeritavad uuringud, vastutavad isikud, koostamises osalemise võimalused, küsimused, milles oodatakse avalikkuse seisukohti, ja konsultatsioonide tulemused.\n(2) Kui see aitab avalikkusel tõhusamalt jälgida eelnõude väljatöötamist ning avalikkust tõhusamalt kaasata, võib käesoleva paragrahvi lõikes 1 nimetatud teabe avaldada muul veebilehel või viisil, viidates oma veebilehel kohale, kus teave avaldatakse."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "30",
+      "title": "§ 30. Juurdepääs õiguskaitsele keskkonnaasjades",
+      "content": "(1) Isik, kelle õigust on rikutud, sealhulgas õigust tervise- ja heaoluvajadustele vastavale keskkonnale, võib esitada vaide haldusorganile haldusmenetluse seaduses sätestatud korras või kaebuse halduskohtusse halduskohtumenetluse seadustikus sätestatud korras.\n(2) Kui keskkonnaorganisatsioon vaidlustab haldusakti või sooritatud toimingu halduskohtumenetluse seadustikus või haldusmenetluse seaduses sätestatud korras, eeldatakse, et tema huvi on põhjendatud või et tema õigusi on rikutud, kui vaidlustatud haldusakt või toiming on seotud organisatsiooni keskkonnakaitseliste eesmärkide või senise keskkonnakaitselise tegevusvaldkonnaga."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "31",
+      "title": "§ 31. Valitsusväline keskkonnaorganisatsioon",
+      "content": "(1) Valitsusväline keskkonnaorganisatsioon (edaspidi keskkonnaorganisatsioon ) käesoleva seaduse tähenduses on:\n1) mittetulundusühing ja sihtasutus, kelle põhikirjaline eesmärk on keskkonnakaitse ning kes oma tegevusega edendab keskkonnakaitset;\n2) juriidiliseks isikuks mitteolev ühendus, kes liikmete kirjaliku kokkuleppe alusel edendab keskkonnakaitset ja esindab olulise osa kohalike elanike seisukohti.\n(2) Keskkonnakaitse edendamiseks käesoleva paragrahvi lõike 1 tähenduses peetakse ka keskkonnaelementide kaitset inimese tervise ja heaolu tagamise eesmärgil, samuti looduse ja loodusliku kultuuripärandi uurimist ja tutvustamist.\n(3) Keskkonnakaitse edendamise hindamisel tuleb arvesse võtta ühenduse võimet oma põhikirjalisi eesmärke ellu viia, arvestades ühenduse senist tegevust, selle puudumise korral aga organisatsioonilist ülesehitust, liikmete arvu ja liikmeks saamise põhikirjalisi eeldusi."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "32",
+      "title": "§ 32. Võõral maatükil viibimine",
+      "content": "(1) Teise isiku omandis oleval maatükil (edaspidi võõras maatükk ) võib viibida üksnes omaniku loal.\n(2) Luba viibida võõral maatükil, välja arvatud õuemaal, eeldatakse olevat, kui omanik ei ole maatükki piiranud või tähistanud viisil, millest ilmneb tahe piirata võõraste viibimist maatükil, või kui tahe piirata viibimist ei ilmne muudest asjaoludest.\n(2^1) Käesoleva paragrahvi lõikes 2 nimetatud loa olemasolu ei eeldata mootor- või maastikusõidukiga võõral maatükil viibimise puhul.\n(3) Võõral maatükil viibides tuleb järgida seaduses sätestatud piiranguid ja maatüki omaniku õiguspäraseid nõudeid ning võimalikult suures ulatuses vähendada keskkonnahäiringute teket.\n(4) Võõral maatükil viibides tuleb arvestada maatüki omaniku huve, eelkõige vältida omandi kahjustamist ja kodurahu häirimist.\n(4^1) Koeraga võõral maatükil liikudes peab koer olema lõastatud, kui maaomanikuga ei ole kokku lepitud teisiti. Lõastatud ei pea olema teenistuskoerad teenistusülesannete täitmisel ja jahikoerad jahipidamise ajal.\n(5) Riik või kohaliku omavalitsuse üksus võib piirata enda omandis oleval maatükil viibimist, kui see on vajalik avalikes huvides või kolmandate isikute, sealhulgas maakasutajate huvide kaitseks."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "33",
+      "title": "§ 33. Võõral maatükil asuva tee ja raja kasutamine",
+      "content": "(1) Avalikult kasutatavaid teid ja erateid võib kasutada igaüks seadustes sätestatud ulatuses.\n(2) Teid, mis ei ole rajatised, (edaspidi rada ) võib kasutada jalgsi, jalgrattaga või muul sellesarnasel viisil liikumiseks, kui seaduses ei ole sätestatud teisiti.\n(3) Omanik ei või keelata eratee ega raja kasutamist jalgsi, jalgrattaga ega muul sellesarnasel viisil liikumiseks, kui kasutus põhineb väljakujunenud taval ega ole talle koormav. Eratee või raja kasutamise liigset koormavust eeldatakse õuemaal asuva eratee või raja korral, kui seaduses ei ole sätestatud teisiti."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "34",
+      "title": "§ 34. Marjade, seente, pähklite, mahalangenud okste ja muude sarnaste loodussaaduste korjamine võõral maatükil",
+      "content": "Võõral maatükil võib korjata looduses vabalt kasvavaid marju, seeni, pähkleid, mahalangenud oksi ja muid sarnaseid loodussaadusi, kui omanik ei ole määranud teisiti."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "35",
+      "title": "§ 35. Lühiajaline telkimine ja muu püsivam peatumine võõral maatükil",
+      "content": "(1) Võõral maatükil võib telkida või muul viisil püsivamalt peatuda üksnes omaniku loal.\n(2) Luba telkimiseks või muuks püsivamaks peatumiseks eeldatakse olevat väljaspool selgelt piiritletavat kompaktse asustusega ala, kui omanik ei ole maatükki piiranud või tähistanud viisil, millest ilmneb tahe telkimist või muud püsivamat peatumist piirata, või kui tahe piirata viibimist ei ilmne muudest asjaoludest. Loa olemasolu ei eeldata kauemaks kui ööpäevaks.\n(3) Telkimise ja muu püsivama viibimise korral selleks ettevalmistamata ja tähistamata kohas tuleb hoiduda väljapoole elumaja arvestatavat nähtavus- ja kuuldekaugust. Avatud maastikul tuleb hoiduda elumajast vähemalt 150 meetri kaugusele."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "36",
+      "title": "§ 36. Võõral maatükil lõkke tegemise keeld",
+      "content": "(1) Võõral maatükil võib lõket teha üksnes omaniku loal.\n(2) Omaniku luba eeldatakse olevat omaniku poolt lõkke tegemiseks ettevalmistatud ja tähistatud kohas."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "37",
+      "title": "§ 37. Veekogu avalik kasutamine",
+      "content": "(1) Veekogu avalik kasutamine on suplemine, veesport, veel ja jääl liikumine, kalapüük, veevõtt ning muul viisil veekogu kasutus, mis vastavalt veeseadusele ei ole vee erikasutus.\n(2) Mootorsõidukiga vees või jääl liikumine ei ole veekogu avalik kasutus.\n(3) Veekogu avalikku kasutust võib piirata vastavalt seadusele.\n(4) Veekogu määratakse avalikuks kasutamiseks veeseaduses sätestatud tingimustel ja korras.\n(5) Veekogu avalikku kasutust ei või kaldaomanik takistada, sealhulgas ei või ta sulgeda vooluveekogu veeliikluseks suuremas ulatuses kui üks kolmandik selle laiusest.\n(6) Avalikul ja avalikult kasutataval veekogul võib tasuta ja püügiõigust vormistamata püüda kala ühe lihtkäsiõngega, järgides kalapüügiseadusega või selle alusel sätestatud piiranguid.\n(7) Veekogu, mis ei ole avalikult kasutatav, võib kasutada üksnes omaniku loal. Luba veekogu avalikuks kasutuseks eeldatakse olevat, kui veekogu ei ole piiratud ega tähistatud viisil, millest ilmneb tahe piirata veekogu kasutamist, või kui tahe piirata veekogu kasutamist ei ilmne muudest asjaoludest.\n(8) Riik ja kohaliku omavalitsuse üksus võivad piirata enda omandis oleval veekogul viibimist, kui see on vajalik avalikes huvides või kolmandate isikute, sealhulgas veekogu kasutajate huvide kaitseks."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "38",
+      "title": "§ 38. Kallasrada",
+      "content": "(1) Kallasrada on kaldariba avalikult kasutatava veekogu ääres veekogu avalikuks kasutamiseks ja selle ääres viibimiseks, sealhulgas selle kaldal liikumiseks.\n(2) Kallasraja laius on laevatatavatel veekogudel kümme meetrit ning teistel veekogudel neli meetrit. Kallasraja laiust arvestatakse lamekaldal põhikaardile kantud veekogu piirist ja kõrgkaldal kaldanõlva ülemisest servast, arvates viimasel juhul kallasrajaks ka vee piirjoone ja kaldanõlva ülemise serva vahelise maariba.\n(3) Kui kallasrada on üle ujutatud, on kallasrajaks kahe meetri laiune kaldariba veeseisu piirjoonest (edaspidi ajutine kallasrada ).\n(4) Kaldaomanik peab igaühel lubama kallasrada kasutada.\n(5) Kalda omanik või valdaja võib kallasrada tõkestada kohaliku omavalitsuse üksuse või Maa- ja Ruumiameti kirjalikul nõusolekul ja põhjendatud vajaduse korral, nagu seda on loomade karjatamine või maa kuivendamine, kuid ta peab tagama tõkkest üle- või läbipääsu kallasrada mööda liikumiseks.\n(6) Kui ajutisel kallasrajal liikumine on takistatud, peab kaldaomanik tagama läbipääsu mujalt oma kinnisasjal, kui see ei ole talle ülemäära koormav.\n(7) Kohaliku omavalitsuse üksus peab planeeringutega tagama avaliku juurdepääsu kallasrajale.\n(7^1) Kalda omanik või valdaja peab tagama kallasrajale juurdepääsu planeeringuga kehtestatud tingimustel.\n(8) Purre, sild või muu veekogus või selle kohal asuv ehitis ei ole kallasraja osa ning sellist ehitist võib kasutada üksnes omaniku loal. Kasutamise luba eeldatakse olevat, kui omanik ei ole ehitist piiranud või tähistanud viisil, millest ilmneb tahe piirata ehitise kasutamist võõraste poolt, või kui tahe piirata kasutamist ei ilmne muudest asjaoludest. Omanik peab lubama ehitise kasutamist, kui see on vajalik kallasrada mööda liikumiseks.\n(9) Kui isik on tõkestanud kallasraja või sellele juurdepääsu vastuolus käesolevas paragrahvis sätestatuga, ei teki tal vastavalt haldusmenetluse seadusele õiguspärast ootust tõkestamise õiguspärasuse kohta."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "39",
+      "title": "§ 39. Kallasraja sulgemine ja sellest möödapääsu võimaldamine",
+      "content": "(1) Kallasraja võib sulgeda ülekaaluka avaliku huvi korral.\n(2) Kallasraja võib sulgeda ka ülekaaluka erahuvi korral sellise õiguslikul alusel püstitatud ehitise vahetus läheduses, mille ehitamisele vastavalt looduskaitseseadusele ei laiene ehituskeeld ehituskeeluvööndis või mille ehitamiseks on ehituskeeluvööndit õiguspäraselt vähendatud.\n(3) Kallasraja sulgemine otsustatakse üldplaneeringuga.\n(4) Kallasraja sulgemise korral peab suletud kallasraja tähistama ja võimaldama suletud kallasrajast möödapääsu.\n(5) Kui isik on sulgenud kallasraja vastuolus käesolevas paragrahvis sätestatuga, ei teki tal vastavalt haldusmenetluse seadusele õiguspärast ootust sulgemise õiguspärasuse kohta."
+    },
+    {
+      "provision_ref": "para39^1",
+      "chapter": "4. peatükk - Keskkonnaalased õigused",
+      "section": "39^1",
+      "title": "§ 39^1. Kallasraja puudumine",
+      "content": "(1) Avalikult kasutataval veekogul puudub kallasrada:\n1) sadamas;\n2) joogi- ja tootmisvee veehaarde vähimas võimalikus teeninduspiirkonnas;\n3) enne asjaõigusseaduse jõustumist õiguspäraselt kallasrajale ehitatud ehitisel;\n4) hüdrograafiateenistuse ja seirejaama ehitisel;\n5) kalakasvatusehitisel;\n6) hüdroelektrijaama vähimas võimalikus teeninduspiirkonnas.\n(2) Vähim vajalik teeninduspiirkond määratakse detailplaneeringuga, mis kooskõlastatakse Keskkonnaametiga."
+    },
+    {
+      "provision_ref": "para39^2",
+      "chapter": "4. peatükk - Keskkonnateabe kogumine ja avaldamine",
+      "section": "39^2",
+      "title": "§ 39^2. Keskkonnaportaal",
+      "content": "(1) Keskkonnaportaal on veebileht, mis võimaldab internetikeskkonnas keskset juurdepääsu riigi andmekogudes hoitavale keskkonnateabele.\n(2) Keskkonnaportaali eesmärk on eri andmekogudes hoitavate keskkonnaandmete esitamine viisil, mis võimaldab saada keskkonnast, selle seisundist ja kvaliteedist ning sellele avalduvatest surveteguritest tervikliku, nii põhjuslikult kui ka ruumiliselt seostatud ülevaate. Keskkonnaportaali kaudu tagatakse keskkonnateabele juurdepääs viisil, mis on tehniliselt võimalik ja majanduslikult otstarbekas.\n(3) Keskkonnaportaalis võib kajastada ka Eesti geoportaali kaudu avaldatavaid andmeid, kui see teeb keskkonnateabe üldsusele lihtsamini mõistetavaks ja kättesaadavamaks.\n(4) Keskkonnaportaali haldamise ja arendamise tagab valdkonna eest vastutava ministri käskkirjaga määratud asutus.\n(5) Valdkonna eest vastutav minister võib määrusega kehtestada keskkonnaportaali haldamise, arendamise ja kasutamise, teabe kättesaadavaks tegemise ning andmekogu keskkonnaportaaliga liidestamise nõuded ja korra."
+    },
+    {
+      "provision_ref": "para39^3",
+      "chapter": "4. peatükk - Keskkonnateabe kogumine ja avaldamine",
+      "section": "39^3",
+      "title": "§ 39^3. Keskkonnaseisundi andmete avalikustamine",
+      "content": "(1) Valdkonna eest vastutava ministri määratud asutus koostab ja avalikustab vähemalt üks kord nelja aasta järel koondülevaate keskkonnaseisundi kohta, sealhulgas ülevaate olulistest keskkonnaseisundi muutustest.\n(2) Ülevaade keskkonnaseisundi kohta peab sisaldama teavet keskkonna kvaliteedi ja sellele avalduva surve kohta."
+    },
+    {
+      "provision_ref": "para39^4",
+      "chapter": "4. peatükk - Keskkonnateabe kogumine ja avaldamine",
+      "section": "39^4",
+      "title": "§ 39^4. Juurdepääs andmekogudes hoitavale keskkonnateabele",
+      "content": "Riigi andmekogusse, mille peamine eesmärk on keskkonnaandmete kogumine, kantud avalikule keskkonnateabele peab olema tagatud elektroonilisel teel otsejuurdepääs isikut tuvastamata."
+    },
+    {
+      "provision_ref": "para39^5",
+      "chapter": "4. peatükk - Keskkonnateabe kogumine ja avaldamine",
+      "section": "39^5",
+      "title": "§ 39^5. Eesti looduse infosüsteem",
+      "content": "(1) Eesti looduse infosüsteem on riigi infosüsteemi kuuluv andmekogu, mille eesmärk on koguda ja avalikustada süstematiseeritult teavet järgmiste keskkonnaga seotud ruumiobjektide kohta:\n1) kaitstav loodusobjekt ja Natura 2000 võrgustiku ala looduskaitseseaduse tähenduses;\n2) lõhe, jõeforelli, meriforelli ja harjuse kudemis- ja elupaik looduskaitseseaduse tähenduses;\n3) jahipiirkond jahiseaduse tähenduses;\n4) vääriselupaik metsaseaduse tähenduses;\n5) nitraaditundlik ala, sealhulgas olulised allika- ja karstialad, veeseaduse tähenduses;\n6) põhjavesi veeseaduse tähenduses;\n7) üleujutusega seotud oluline riskipiirkond veeseaduse tähenduses;\n8) suur üleujutusala looduskaitseseaduse tähenduses;\n9) geneetiliselt muundatud organismi keskkonda viimise ala;\n10) veekogu veeseaduse tähenduses;\n11) keskkonnaseire jaam, ala ja koht keskkonnaseire seaduse tähenduses;\n12) keskkonnakaitseloaga määratud käitis või muu loaga määratud ruumiobjekt, kui õigusakt näeb ette sellise ruumiobjekti andmete kandmise Eesti looduse infosüsteemi, ning sellele seadusega või seaduse alusel määratud kaitsevööndi või eriliste kasutusnõuetega ala ulatus.\n(2) Eesti looduse infosüsteemi kantud ruumiobjektile võib vajaduse korral või Euroopa Liidu õigusaktist või rahvusvahelisest õigusest tulenevalt lisada kirjeldavaid andmeid, nagu objekti erinimetus või -liigitus, või muid objektiga seotud andmeid.\n(3) Eesti looduse infosüsteemis võib kajastada andmeid käesoleva paragrahvi lõikes 1 nimetamata ruumiobjektide kohta ja muid andmeid, kui selliseid andmeid kogutakse või on kogutud riigi keskkonnakaitseülesannete täitmisel.\n(4) Käesoleva paragrahvi lõikes 1 nimetatud ruumiobjektide kohta, mille piirid kehtestatakse õigusaktiga, esitab ruumiobjekti piirid Eesti looduse infosüsteemi vastutavale või volitatud töötlejale õigusakti ettevalmistanud asutus. Käesoleva paragrahvi lõikes 1 nimetatud ruumiobjektide kohta, mis määratakse loaga, esitab ruumiobjekti paiknemise andmed Eesti looduse infosüsteemi vastutavale või volitatud töötlejale loa andja.\n(5) Käesoleva paragrahvi lõikes 1 nimetatud ruumiobjektide kohta, mille piire ei kehtestata, kogub andmeid Eesti looduse infosüsteemi vastutav või volitatud töötleja.\n(6) Eesti looduse infosüsteemi andmed, välja arvatud isikuandmed, avalikustatakse käesolevas seaduses sätestatud korras keskkonnaportaali kaudu.\n(7) Käesolevas peatükis sätestatud ruumiandmete töötlemisele kohaldatakse ruumiandmete seadust.\n(8) Eesti looduse infosüsteemi kogutud keskkonnateavet säilitatakse tähtajatult.\n(8^1) Eesti looduse infosüsteemis töödeldakse infosüsteemi andmed esitanud isiku nime, isikukoodi ja kontaktandmeid.\n(8^2) Eesti looduse infosüsteemi andmed esitanud registreeritud kasutajate nime ja isikukoodi säilitatakse tähtajatult ning kontaktandmed kustutatakse kasutajaõiguste peatamise korral või üks aasta pärast viimast andmete andmekogusse esitamist.\n(8^3) Eesti looduse infosüsteemi vastutav töötleja on Kliimaministeerium.\n(9) Eesti looduse infosüsteemi põhimääruse kehtestab valdkonna eest vastutav minister määrusega, milles sätestatakse:\n1) andmekogu volitatud töötlejad ning vastutava ja volitatud töötleja ülesanded;\n2) täpsem andmekoosseis;\n3) andmeandjad, nendelt saadavad andmed ja andmete infosüsteemi kandmise kord;\n4) andmetele juurdepääsu ja andmete väljastamise kord;\n5) andmete säilitamise tähtajad ning andmete täpsem säilitamise kord;\n6) muud korraldusküsimused."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "40",
+      "title": "§ 40. Keskkonnakaitseload",
+      "content": "(1) Keskkonnakaitseluba on:\n1) keskkonnaluba;\n2) keskkonnakompleksluba;\n3) kui seadusega ei ole ette nähtud keskkonnaloa ega keskkonnakompleksloa nõuet, muu luba, mille nõue nähakse seadusega ette keskkonnariski vähendamise eesmärgil mõnel tegevusalal tegutsemiseks.\n(2) Keskkonnaluba annab õiguse vähemalt üheks käesoleva seaduse § 41 lõikes 1 nimetatud tegevuseks. Keskkonnaloa andmise menetlus sätestatakse käesolevas peatükis ja loa tegevusvaldkondi reguleerivates seadustes.\n(3) Keskkonnakompleksluba annab õiguse tegevuseks seaduse alusel määratud tegevusvaldkonnas või allvaldkonnas viisil, mis tagab keskkonnahäiringute vähendamise võimalikult suures ulatuses.\n(4) Keskkonnakompleksloa andmisel hinnatakse kavandatava tegevusega tekkivate heidete mõjusid keskkonnaelementidele kompleksselt. Kompleksloaga sätestatavad nõuded peavad tagama vee, välisõhu ja pinnase kaitse ning käitises tekkinud jäätmete käitlemise viisil, mis hoiab ära saastatuse kandumise ühest keskkonnaelemendist teise. Keskkonnaelementideks on näiteks vesi, välisõhk ja pinnas.\n(5) Seadusega sätestatud juhtudel kohaldatakse keskkonnakaitseloa andmisele käesolevas peatükis sätestatud menetlust."
+    },
+    {
+      "provision_ref": "para40^1",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "40^1",
+      "title": "§ 40^1. Keskkonnaotsuste infosüsteem",
+      "content": "(1) Keskkonnaotsuste infosüsteem on andmekogu, mille eesmärk on võimaldada teha järgmisi toiminguid:\n1) keskkonnakasutusega seotud andmete avalikustamine;\n2) keskkonnakomplekslubade, keskkonnalubade ja kiirgustegevuslubade taotlemine ja menetlemine, loaga seotud seire-, aruandlus- ja muude kohustuste täitmine;\n3) üldgeoloogilise uurimistöö lubade, geoloogilise uuringu lubade, ehitamisel ja maaparandussüsteemi ehitamisel üle jääva kaevise tarbimise või võõrandamise lubade ning maavara ja maavarana arvele võtmata kivimi ning setendi võtmise lubade taotlemine ja menetlemine;\n4) atmosfääriõhu kaitse seaduse, jäätmeseaduse, kiirgusseaduse, tööstusheite seaduse ja veeseaduse alusel tehtavate registreeringute taotlemine ja menetlemine ning registreeringuga seotud aruandluskohustuse täitmine;\n5) keskkonnatasude seaduse tähenduses tasukohustuse täitmine;\n6) ohtlike jäätmete ja välislepinguga reguleeritavate jäätmete veolubade taotlemine, menetlemine ja saatedokumentide koostamine ning selliste jäätmete riikidevahelise veo, milleks veoluba ei ole vaja, saatedokumentide koostamine ja esitamine;\n7) jahipiirkonna kasutusõiguse lubade taotlemine ja menetlemine;\n8) sügavallapanusõnniku hoidmiseks auna ja sügavallapanusõnniku kompostimiseks auna rajamise teatiste koostamine ja esitamine;\n9) veekaitsevööndis puu- ja põõsarinde raieks nõusoleku taotlemine ja menetlemine;\n10) biomassile kehtestatud säästlikkusnõuetele ja -kriteeriumidele vastavuse tõendamise auditi aruannete esitamine;\n11) keskkonnamõju hindamise ja keskkonnamõju strateegilise hindamise dokumentide avalikustamine ning kättesaadavuse ja kasutamise lihtsustamine;\n12) jäätmeveo saatekirjade koostamine ja esitamine.\n(2) Keskkonnaotsuste infosüsteemi põhimääruse kehtestab valdkonna eest vastutav minister määrusega, milles sätestatakse:\n1) vastutava ja volitatud töötleja ülesanded;\n2) täpsem andmekoosseis;\n3) andmeandjad, nendelt saadavad andmed ja andmete infosüsteemi kandmise kord;\n4) andmetele juurdepääsu ja andmete väljastamise kord;\n5) andmete säilitamise tähtajad ning andmete täpsem säilitamise kord;\n6) muud korraldusküsimused.\n(3) Kiirgusallikate ja tuumamaterjalide omadusi ning nende asukohaks olevaid ruume ja füüsilise kaitse meetmeid käsitlev teave on keskkonnaotsuste infosüsteemis asutusesiseseks kasutamiseks, et tagada kiirgusallikate ja tuumamaterjali ohutus ja füüsiline kaitse.\n(3^1) Käesoleva paragrahvi lõikes 3 sätestatud teabele ning avaliku teabe seaduse § 35 lõike 1 punktide 9 ja 10 alusel kiirgusallikat või tuumamaterjali puudutavale teabele kehtestatava juurdepääsupiirangu puhul ei kohaldata avaliku teabe seaduse § 40 lõikes 1 sätestatud juurdepääsupiirangu tähtaega. Juurdepääsupiirang kehtestatakse kuni kiirgustegevuse lõppemiseni, esialgu maksimaalselt 75 aastaks. Asutuse juht võib juurdepääsupiirangu tähtaega pikendada viie aasta kaupa, kuni juurdepääsupiirangu kehtestamise põhjus püsib.\n(4) Keskkonnaotsuste infosüsteemi kaasvastutavad töötlejad on Keskkonnaamet ja Keskkonnaagentuur ning volitatud töötleja määratakse andmekogu põhimääruses."
+    },
+    {
+      "provision_ref": "para40^2",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "40^2",
+      "title": "§ 40^2. Keskkonnaotsuste infosüsteemis töödeldavad isikuandmed ja andmete säilitamise tähtaeg",
+      "content": "(1) Keskkonnaotsuste infosüsteemis töödeldakse isiku üldandmeid.\n(2) Keskkonnaotsuste infosüsteemi andmeid säilitatakse tähtajatult. Põhimääruses võib sätestada lühemad andmete säilitamise tähtajad."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "41",
+      "title": "§ 41. Keskkonnaluba",
+      "content": "(1) Keskkonnaluba annab isikule õiguse teha ühte või üheaegselt mitut järgnevat tegevust:\n1) vee erikasutus;\n2) saasteainete viimine paiksest heiteallikast välisõhku;\n3) jäätmete käitlemine;\n4) maavara kaevandamine.\n5)\n(2) Keskkonnaloa olemasolu käesoleva paragrahvi lõikes 1 nimetatud tegevuseks on vajalik seadusega sätestatud juhtudel.\n(3) Keskkonnaluba ei anta tegevuseks, milleks on vajalik keskkonnakompleksluba.\n(4) Kui käesoleva paragrahvi lõikes 1 nimetatud tegevused on omavahel ruumiliselt või tehnoloogiliselt seotud, antakse nendeks tegevusteks üks keskkonnaluba.\n(5) Keskkonnaloa annab Keskkonnaamet (edaspidi loa andja või keskkonnaloa andja ), kui seadus ei sätesta teisiti."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "42",
+      "title": "§ 42. Keskkonnaloa taotlus",
+      "content": "(1) Keskkonnaloa taotluses märgitakse:\n1) taotleja nimi ja isikukood või registrikood;\n2) taotleja ning kontaktisiku aadress ja kontaktandmed;\n3) taotluse selgelt sõnastatud sisu;\n4) loa taotletav kehtivusaeg;\n5) kavandatava tegevuse eesmärk ja põhjendus;\n6) kavandatava tegevuse iseloomustus;\n7) andmed tekkida võiva keskkonnahäiringu ja selle tekkepiirkonna kohta, sealhulgas tegevuse täpne asukoht, vajaduse korral geograafiliste koordinaatidega, piirkonna kommunikatsioonid, maastik, lähimad hooned, keskkonnaseisund;\n8) andmed kasutatava tehnoloogia ja seadmete kohta;\n9) kavandatavad investeeringud parima võimaliku tehnika kasutusele võtmiseks, kui parima võimaliku tehnika nõue on sätestatud õigusaktiga;\n10) muud asjaolud, mis võivad mõjutada taotletavast tegevusest lähtuva keskkonnariski suurust;\n11) meetmed keskkonnariski vähendamiseks;\n12) keskkonnaseire kava ja andmed keskkonnaseireks kasutatavate seadmete kohta;\n13)\n14) taotluse esitamise kuupäev ja taotleja allkiri;\n15) muud seadusega või käesoleva paragrahvi lõike 7 alusel kehtestatud õigusaktiga nõutavad andmed.\n(2) Seadusega võib ette näha, et mõne tegevuse jaoks keskkonnaloa taotlemisel ei pea käesoleva paragrahvi lõikes 1 nimetatud andmeid esitama.\n(3) Keskkonnaloa taotlusele lisatakse:\n1) tegevuse asukoha plaan ja käitise asendiplaan;\n2) dokumendid, mis tõendavad käitise asukoha maatüki õiguspärast valdust või muud õiguslikku alust tegutseda käitise asukohas loa alusel, kui maatükk ei kuulu loa taotlejale;\n3) muud seadusega või käesoleva paragrahvi lõike 7 alusel kehtestatud õigusaktiga nõutavad andmed.\n(4) Riigilõivu tasumise kohustuse olemasolul peab keskkonnaloa taotleja enne taotluse esitamist tasuma riigilõivu.\n(5) Keskkonnaloa taotluses märgitakse kõik soovitavad tegevused, milleks on keskkonnaloa olemasolu nõutav.\n(6) Keskkonnaloa taotlus esitatakse ühes käitises või asukohas tehtavate tegevuste jaoks koos.\n(7) Keskkonnaloa taotluse täpsustatud nõuded ja andmekoosseisu ning taotluse esitamise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "43",
+      "title": "§ 43. Kohaliku omavalitsuse üksuse arvamus",
+      "content": "(1) Keskkonnaloa andja edastab keskkonnaloa taotluse keskkonnaotsuste infosüsteemi kaudu viivitamata pärast selle saamist kavandatava tegevuse asukoha järgsele kohaliku omavalitsuse üksusele teadmiseks.\n(2) Kohaliku omavalitsuse üksus võib esitada kirjaliku arvamuse keskkonnaloa taotluse kohta kümne päeva jooksul taotluse saamisest arvates.\n(2^1) Avatud menetluse korral on kohaliku omavalitsuse üksusel täiendav võimalus esitada kirjalik arvamus keskkonnaloa taotluse kohta 30 päeva jooksul taotluse nõuetekohaseks tunnistamisest arvates.\n(2^2) Arvamuse esitamine ei piira kohaliku omavalitsuse üksuse õigust esitada edasise menetluse käigus täiendavaid seisukohti.\n(3) Kui keskkonnaloa andmise otsustamiseks viiakse läbi kavandatud tegevuse keskkonnamõju hindamise menetlus, annab kohaliku omavalitsuse üksus arvamuse 21 päeva jooksul keskkonnamõju hindamise ja keskkonnajuhtimissüsteemi seaduse § 22 lõike 7 kohase teate kättesaamisest arvates."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "44",
+      "title": "§ 44. Avatud menetlus",
+      "content": "Keskkonnaloa taotlus vaadatakse läbi avatud menetluses, välja arvatud seadusega sätestatud juhul."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "45",
+      "title": "§ 45. Menetlusosaliste kaasamine avatud menetluse mittekohaldamisel",
+      "content": "Kui avatud menetlust läbi ei viida, teatab keskkonnaloa andja taotluse saamisest pärast nõuetekohase keskkonnaloa taotluse saamist või keskkonnaloa muutmise menetluse alustamist isikule, kelle õigusi keskkonnaloa andmisega või selle andmisest keeldumisega võidakse ilmselt rikkuda või kohustusi puudutada."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "46",
+      "title": "§ 46. Keskkonnaloa andmise menetlusest ilmselt puudutatud isikute teavitamine avatud menetluse korral",
+      "content": "(1) Kui keskkonnaloa taotlus vastab õigusaktidega sätestatud nõuetele, siis avatud menetluse korral teavitab loa andja keskkonnaloa taotluse esitamisest viivitamata vastavalt haldusmenetluse seaduse §-dele 25–32 isikut, kelle õigusi keskkonnaloa andmisega või selle andmisest keeldumisega võidakse rikkuda või kelle kohustusi puudutada, sealhulgas:\n1) kavandatud tegevuse asukoha kinnisasjaga piirneva kinnisasja omanikku;\n2) isikut, kelle valduses olevat kinnisasja kavandatud tegevus mõjutab määral, mis ületab oluliselt tavapärast mõju.\n(1^1) Keskkonnaloa andja võib jätta kavandatud tegevuse asukoha kinnisasjaga piirneva kinnisasja omaniku käesoleva paragrahvi lõikes 1 viidatud viisil teavitamata, kui kavandataval tegevusel on väheoluline mõju.\n(2) Muudest menetlusetappidest, välja arvatud käesoleva seaduse §-s 51 sätestatud haldusakti andmisest ja loa andmisest või sellest keeldumisest, sealhulgas keskkonnaloa osalisest kehtestamisest vastavalt käesoleva seaduse §-le 56 või 57, teavitatakse isikuid käesoleva paragrahvi lõikes 1 sätestatud viisil vaid siis, kui nad avaldavad selleks sõnaselgelt soovi.\n(3) Käesoleva paragrahvi lõikes 1 sätestatud korras teavitamisel tuleb isikutele edastada käesoleva seaduse § 47 lõikes 1 sätestatud teave.\n(3^1) Dokumendi postiga kättetoimetamise korral saadetakse dokument menetlusosalisele lihtkirjaga.\n(4) Käesolevat paragrahvi ei kohaldata, kui käesoleva paragrahvi lõikes 1 nimetatud isikute arv on suurem kui 100."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "47",
+      "title": "§ 47. Avalikkuse teavitamine keskkonnaloa andmise menetlusest avatud menetluse korral",
+      "content": "(1) Kui taotlus vastab õigusaktidega sätestatud nõuetele, avaldab keskkonnaloa andja avatud menetluse korral keskkonnaloa taotluse esitamise kohta viivitamata teate, milles märgitakse:\n1) kavandatava tegevuse lühikirjeldus;\n2) loa taotleja nimi;\n3) andmed kavandatava tegevuse asukoha kohta;\n4) andmed keskkonnaloa kavandatud kehtivusaja kohta;\n5) viide veebilehele, kus keskkonnaloa taotlus on kättesaadav;\n6) igaühe õigus osaleda avatud menetluses;\n7) keskkonnaloa taotluse ja selle kohta antava haldusakti eelnõu väljapaneku aeg ja koht, kui loa andmise otsustamiseks ei hinnata keskkonnamõju ning haldusakti eelnõu on teate avaldamise ajaks valminud või selle valmimise aeg on teada;\n8) ettepanekute ja vastuväidete (edaspidi koos seisukoht ) ning küsimuste esitamise tähtaeg ja adressaat, juhul kui teates on avaldatud teave avaliku väljapaneku aja ja koha kohta;\n9) vajaduse korral teave selle kohta, kas peetakse teise riigiga konsultatsioone piiriülesest mõjust.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud teade avaldatakse väljaandes Ametlikud Teadaanded ja kohalikus või maakondlikus ajalehes. Teate võib jätta kohalikus või maakondlikus ajalehes avaldamata, kui kavandatud tegevusega kaasnev keskkonnahäiring või keskkonnarisk on nii väike, et selle vastu puudub piisav avalik huvi. Teade avaldatakse vähemalt ühes üleriigilise levikuga ajalehes, kui keskkonnaloaga lubatud tegevusega võib kaasneda oluline regionaalne või üleriigiline keskkonnahäiring. Vajaduse korral võib teate avaldada üleriigilise levikuga ajalehes ka muudel juhtudel.\n(2^1) Ajalehes avaldamise kulud tasub keskkonnaloa taotleja.\n(3)\n(4) Valla- või linnavalitsus avaldab seitsme päeva jooksul keskkonnaloa taotluse loa andja poolt nõuetekohaseks tunnistamisest arvates valla- või linnavalitsuse veebilehel lihtsalt juurdepääsetava teate keskkonnaloa taotluse saamise kohta, milles märgitakse vähemalt käesoleva paragrahvi lõike 1 punktides 1–3 ja 5 nimetatud andmed. Teade peab olema veebilehel kättesaadav kuni taotluse lahendamiseni.\n(5) Isikule, kes on avaldanud soovi saada teavet keskkonnaloa menetluse käigus toimuvatest avalikest väljapanekutest ja aruteludest, saadetakse nende kohta teade tema nimetatud elektronposti või postiaadressil.\n(6) Kui käesoleva paragrahvi lõikes 1 nimetatud teates ei avaldatud keskkonnaloa taotluse ja selle kohta antava haldusakti eelnõu väljapaneku aega ja kohta või seisukoha ning küsimuste esitamise tähtaega ja adressaati, avaldatakse nende andmetega teade vastavalt käesoleva paragrahvi lõigetes 2 ja 2^1 sätestatud nõuetele viivitamata pärast haldusakti eelnõu valmimist."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "48",
+      "title": "§ 48. Keskkonnaloa taotluse ja selle kohta antava haldusakti eelnõu avalik väljapanek avatud menetluse korral",
+      "content": "(1) Keskkonnaloa taotluse ja selle kohta antava haldusakti eelnõu paneb loa andja avalikkusele tutvumiseks välja haldusmenetluse seaduse §-s 48 sätestatud korras kavandatava tegevuse lähimas loa andja kontoris.\n(2) Keskkonnaloa taotluse kohta antava haldusakti eelnõu ei panda käesoleva paragrahvi lõikes 1 nimetatud korras avalikkusele tutvumiseks välja, kui kavandatud tegevusega kaasnev keskkonnahäiring või keskkonnarisk on nii väike, et selleks puudub piisav avalik huvi.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud dokumendid peavad olema avaliku väljapaneku kestel kättesaadavad keskkonnaloa andja veebilehel kuni taotluse lahendamiseni.\n(4) Igaühel on õigus esitada keskkonnaloa andjale avalikkusele tutvumiseks välja pandud keskkonnaloa taotluse või selle kohta antava haldusakti eelnõu kohta seisukohti ja küsimusi loa andja määratud tähtaja jooksul. Tähtaeg ei või olla lühem kui kaks nädalat väljapanekust teatamisest arvates."
+    },
+    {
+      "provision_ref": "para48^1",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "48^1",
+      "title": "§ 48^1. Avalik arutelu ja avatud menetluse tulemuste arvesse võtmine",
+      "content": "(1) Keskkonnaloa andja otsustab loa andmise pärast asja arutamist avalikul arutelul, mille käigus on igaühel õigus avaldada suuliselt arvamust keskkonnaloa eelnõu ja selle andmise menetluse kohta. Keskkonnaloa andmise võib otsustada arutelu korraldamata, kui see võimalus on ette nähtud seadusega või menetlusosalised on haldusmenetluse seaduse § 50 lõike 3 kohaselt loobunud asja arutamisest avalikul istungil.\n(2) Kui arutelu toimumise aega ei ole teatavaks tehtud koos väljapanekust teatamisega, teavitab keskkonnaloa andja avalikkust arutelu toimumisest vähemalt kümme päeva enne arutelu toimumist käesoleva seaduse §-s 47 sätestatud korras.\n(3) Arutelu protokollitakse. Protokoll peab sisaldama arutelul esitatud seisukohti ja küsimusi ning nendele antud vastuseid.\n(4) Keskkonnaloa andja saadab enne loa andmise otsustamist loa taotlejale avalikul väljapanekul ja arutelul esitatud seisukohad ja küsimused, et ta saaks nendega tutvuda ning nende kohta arvamust avaldada.\n(5) Kui pärast avalikku väljapanekut keskkonnaloa taotlust või selle kohta antava haldusakti eelnõu oluliselt muudetakse, võib loa andja avalikku väljapanekut korrata, arvestades muudatuse eeldatavat mõju puudutatud isikutele ja keskkonnaloa taotleja huve. Kui see on vajalik asja õigeks otsustamiseks, võib keskkonnaloa andja korrata avalikku arutelu."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "49",
+      "title": "§ 49. Keskkonnaloa andmise otsustamise tähtaeg",
+      "content": "(1) Keskkonnaloa andmine otsustatakse 90 päeva jooksul nõuetekohase taotluse saamisest arvates, kui seadusega ei ole sätestatud teisiti.\n(1^1) Taotluses puuduste kõrvaldamise aega ei arvestata keskkonnaloa andmise tähtaja hulka.\n(2) Kui keskkonnaloa andmine otsustatakse ilma avatud menetluseta, antakse luba või keeldutakse selle andmisest 30 päeva jooksul nõuetekohase taotluse saamisest arvates, kui seadusega ei ole sätestatud teisiti.\n(3) Käesoleva seaduse § 52 lõike 1 punktides 1 ja 2 sätestatud juhtudel otsustatakse keskkonnaloa andmisest keeldumine 20 päeva jooksul nõuetekohase taotluse saamisest arvates.\n(4) Käesoleva paragrahvi lõikes 1 nimetatud tähtaega ei kohaldata, kui taotletav tegevus ei ole lubatav ilma planeeringu kehtestamiseta ja planeeringut ei ole kehtestatud 30 päeva jooksul keskkonnaloa taotluse esitamisest arvates. Sellisel juhul otsustatakse keskkonnaloa andmine 60 päeva jooksul pärast planeeringu kehtestamist.\n(5) Keskkonnaloa andja võib pikendada käesolevas paragrahvis sätestatud tähtaega, kui ilmnevad asjaolud, mis ei võimalda loa andmise otsustamist selle tähtaja jooksul."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "50",
+      "title": "§ 50. Keskkonnaloa taotluste ühine läbivaatamine ja ühe keskkonnaloa andmine",
+      "content": "(1) Keskkonnaloa andja võib keskkonnaloa taotleja taotlusel sama isiku eri asukohas toimuvateks käesoleva seaduse § 41 lõikes 1 nimetatud tegevusteks välja anda ühe keskkonnaloa või muuta isiku olemasolevat keskkonnaluba uute tegevuste lubamiseks, kui see on põhjendatud menetluse eesmärgipärasuse põhimõttega või on otstarbekas järelevalve tegemise seisukohalt.\n(2) Omavahel ruumiliselt või tehnoloogiliselt seotud tegevusteks ühe keskkonnaloa andmisel tuleb lisaks käesolevas seaduses sätestatule arvesse võtta valdkonda reguleerivates õigusaktides sätestatud nõudeid. Nõuete erinevuse korral kohaldatakse rangeimat õigusnormi juhul, kui see on põhjendatud."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "51",
+      "title": "§ 51. Keskkonnaloa andmiseks olulise asjaolu tuvastamine enne loa andmist",
+      "content": "(1) Keskkonnaloa andja võib keskkonnaloa taotleja taotlusel või omal algatusel teha enne keskkonnaloa andmist või selle andmisest keeldumist siduvalt kindlaks asja lõplikul lahendamisel tähtsust omava asjaolu, sealhulgas käesoleva seaduse § 52 lõike 1 punktides 1–4 või 8–10 sätestatud keskkonnaloa andmisest keeldumise aluse puudumise.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud eelhaldusakti andmine otsustatakse keskkonnaloa andmist käsitlevate sätete järgi. Sellise eelhaldusakti andmine ei välista käesoleva seaduse §-s 49 sätestatud menetlustähtaegade järgimise nõuet keskkonnaloa taotluse läbivaatamisel."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "52",
+      "title": "§ 52. Keskkonnaloa andmisest keeldumine",
+      "content": "(1) Keskkonnaloa andja keeldub keskkonnaloa andmisest, kui:\n1) keskkonnaloa taotlust ei ole esitanud isik, kes taotlusest nähtuvalt loaga lubataval tegevusalal tegutseb;\n1^1) taotlejat on karistatud keskkonnavastase kuriteo eest ühe korra või väärteo eest kaks või enam korda käesoleva seaduse § 41 lõikes 1 ja tööstusheite seaduse § 2 lõikes 1 nimetatud valdkonnas ning tema karistusandmed ei ole karistusregistrist karistusregistri seaduse kohaselt kustutatud;\n2) keskkonnaloa taotlejal ei ole tegevuskoha omaniku nõusolekut viimase omandis oleva kinnisasja kasutamiseks või taotletava tegevuse mõjualal asuva kinnisasja omaniku nõusolekut, kui seaduse kohaselt on mõjualal asuva kinnisasja omaniku nõusolek nõutav või taotletav tegevus kahjustab oluliselt mõjualal asuva kinnisasja omaniku huve;\n3) taotletavas tegevuses ei rakendata parimat võimalikku tehnikat, kui selle rakendamise nõue on sätestatud õigusaktiga;\n4) kavandatav tegevus ei vasta õigusaktidega sätestatud nõuetele;\n5) taotluses on esitatud olulise tähtsusega valeandmeid või keskkonnaloa taotlejale on viimase nelja kuu jooksul keeldutud sama tegevuse jaoks luba andmast valeandmete esitamise tõttu;\n6) tegevusega kaasneb keskkonnaoht, mida ei ole võimalik vältida, välja arvatud juhul, kui huvi keskkonnaloa andmiseks on ülekaalukas ja tegevusel puudub mõistlik alternatiiv ning on võetud ohu vähendamise meetmed;\n7) loa alusel kavandatava tegevuse käigus kasutatakse loodusvarasid ilmselt ebaotstarbekalt või põhjustatakse loodusvarade seisundi olulist halvenemist, arvestades taastuva ja taastumatu loodusvara säästva kasutamise põhimõtet;\n8) keskkonnaloa alusel kavandatava tegevusega kaasnevate heidete lisandumisel oleks keskkonna kvaliteedi piirväärtus ületatud. Erandina võib keskkonnaloa anda juhul, kui keskkonna kvaliteedi piirväärtus ületatakse, kuid üksnes kuni kuue kuu vältel ning huvi loa andmiseks kaalub üles keskkonnariski;\n9) keskkonnaloa alusel kavandatava tegevusega kaasnevate heidete lisandumisel tekkiv keskkonnahäiring tooks kaasa vajaduse keskkonna kvaliteedi piirväärtuse järgimiseks edaspidi keelduda keskkonnaloa andmisest teisele isikule ning avalik huvi keskkonnahäiringu vältimiseks mitte anda taotletud luba on kaalukam kui huvi taotletava keskkonnaloa andmiseks;\n10) muul seadusega sätestatud alusel.\n(2) Käesoleva paragrahvi lõike 1 punktis 8 nimetatud alusel võib keskkonnaloa andmisest keelduda, kui keskkonna kvaliteedi piirväärtuse järgimist taotletava keskkonnaloa andmisel ei saa tagada teise keskkonnaloa muutmise või kehtetuks tunnistamisega käesoleva seaduse § 59 lõike 1 punktis 3 sätestatud alusel.\n(3) Kui keskkonnaloa andmisest mõneks taotluses märgitud tegevuseks võib keelduda, tuleb taotleja soovi korral luba anda taotluses märgitud tegevuseks, milleks loa andmine on lubatav."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "53",
+      "title": "§ 53. Keskkonnaloa sisu",
+      "content": "(1) Keskkonnaloas märgitakse:\n1) loa omaja nimi ja isikukood või registrikood;\n2) loa omaja aadress ja kontaktandmed;\n3) tegevuskoha täpne asukoht, vajaduse korral geograafiliste koordinaatidega;\n4) lubatav tegevus vastavalt seaduses sätestatud nõuetele;\n5) loa kehtivusaeg;\n6) seaduses sätestatud juhul nõuded, mis esitatakse loodusvara otstarbeka kasutamise tagamiseks ja keskkonnaloaga lubatud tegevusest tuleneva keskkonnahäiringu vähendamiseks;\n7) seaduses sätestatud juhul tegevuse juures rakendatavad ohutusmeetmed ja õnnetuse tagajärgede leevendamise meetmed;\n8) seaduses sätestatud juhul tegevuse alustamisel ja lõpetamisel rakendatavad tervise- ja keskkonnakaitsemeetmed;\n9) seaduses sätestatud juhul keskkonnaseirenõuded;\n10) seaduses sätestatud juhul nõuded teabe esitamiseks keskkonnaloa andjale;\n11) seaduses sätestatud juhul muud keskkonnaloa kavandatud kõrvaltingimused;\n12) keskkonnaloa andmise otsustamise ajal esitatud kirjalike ettepanekute ja seisukohtade arvestamine ja arvestamata jätmine;\n13) muud seadusega sätestatud andmed.\n(2) Keskkonnaluba antakse tähtajatult, välja arvatud juhul, kui esineb vähemalt üks järgmistest alustest:\n1) luba taotletakse tähtajaliselt;\n2) on ette näha keskkonnaloa omaja tegevuse, sealhulgas kasutatava tehnoloogia või keskkonnaseisundi muutumist;\n3) esinevad keskkonnakaitse seisukohalt põhjendatud asjaolud;\n4) seadusega on ette nähtud muud juhud.\n(2^1) Keskkonnaloa võib anda tähtajaliselt, kui loa andmine on seotud muu tähtajalise haldusakti või kasutuslepinguga.\n(3) Keskkonnaloa andmekoosseisu ja andmise korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "54",
+      "title": "§ 54. Heitkoguse määramine",
+      "content": "Keskkonnaloaga lubatud heitkogus määratakse nii, et oleks tagatud keskkonna kvaliteedi piirväärtuse järgimine."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "55",
+      "title": "§ 55. Keskkonnaloa andmine detailplaneeringu kohustuse korral",
+      "content": "Kui keskkonnaloaga lubatavaks tegevuseks on vaja kehtestada detailplaneering, ei anta keskkonnaluba enne sellise detailplaneeringu kehtestamist."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "56",
+      "title": "§ 56. Keskkonnaloa osaline andmine",
+      "content": "(1) Keskkonnaloa andja võib anda enne keskkonnaloa taotluse tervikuna lahendamist keskkonnaloa mõneks taotluses märgitud tegevuseks, kui seda taotleb keskkonnaloa taotleja ja sellise tegevuse lubamisest keeldumise aluseid ei esine, või keelduda mõneks taotluses märgitud tegevuseks keskkonnaloa andmisest, kui keskkonnaluba selleks tegevuseks tuleb jätta andmata.\n(2) Keskkonnaloa andja võib põhjendatud juhul otsustada keskkonnaloa osalise andmise ka omal algatusel. Sellisel juhul tuleb enne ära kuulata keskkonnaloa taotleja seisukoht keskkonnaloa osalise andmise kohta.\n(3) Keskkonnaloa osalisel andmisel määratakse käesoleva seaduse § 53 lõikes 1 nimetatud tingimused lubatava tegevuse õiguspärasuse tagamiseks.\n(4) Keskkonnaloa osalisel andmisel võib ette näha, et taotluse läbivaatamisel muudetakse käesoleva seaduse § 53 lõike 1 punktides 5–11 nimetatud tingimusi, mis on loa osalisel andmisel kindlaks määratud. Sellisel juhul ei saa loa omaja tugineda usaldusele, et selliseid keskkonnaloa kõrvaltingimusi ei muudeta.\n(5) Keskkonnaloa osaline andmine otsustatakse keskkonnaloa andmist käsitlevate sätete järgi. Loa osaline andmine ei välista käesoleva seaduse §-s 49 sätestatud menetlustähtaegade järgimise nõuet keskkonnaloa taotluse läbivaatamisel muus osas."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "57",
+      "title": "§ 57. Keskkonnaloa andmine enne loa tingimuste lõplikku määramist",
+      "content": "(1) Keskkonnaloa andja võib anda keskkonnaloa ka nii, et käesoleva seaduse § 53 lõike 1 punktides 6 ja 8–11 sätestatud tingimused otsustatakse hiljem, kui esialgne hindamine näitab, et loa andmisest keeldumise aluseks olevad asjaolud puuduvad ning loa võimalike tingimuste täitmine ei ole loa taotlejale kavandatava tegevuse tegemisel sedavõrd koormav, et see tooks kaasa kavandatava tegevuse tegemata jätmise. Sellisel juhul tuleb keskkonnaloa tingimused määrata kindlaks käesoleva seaduse §-s 49 sätestatud tähtaja jooksul. Sellisel viisil keskkonnaloa andmisele kohaldatakse käesoleva seaduse § 56 sätteid.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud korras keskkonnaloa andmisel võib käesoleva seaduse § 53 lõike 1 punktides 6 ja 8–11 sätestatud tingimused määrata keskkonnaloa andmisel ajutiselt kuni käesoleva seaduse §-s 49 sätestatud tähtaja jooksul nende tingimuste lõpliku määramiseni. Kui keskkonnaloa andja ei määra selle tähtaja jooksul lõplikke keskkonnaloa tingimusi, loetakse ajutised keskkonnaloa tingimused lõplikeks tingimusteks.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud korras ei anta keskkonnaluba enne keskkonnamõju hindamise ja keskkonnajuhtimissüsteemi seaduse § 22 lõike 7 kohase teate avaldamist, kui keskkonnaloa andmisel hinnatakse kavandatud tegevuse keskkonnamõju.\n(4) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud korras kehtestatud keskkonnaloa peale võib halduskohtumenetluse seadustikus sätestatud korras esitada halduskohtule kaebuse 30 päeva jooksul vastavalt keskkonnaloa tingimuste määramise kohta antud haldusakti teatavakstegemise päevast või ajutiselt määratud keskkonnaloa tingimuste lõpliku siduvuse omandamise päevast arvates."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "58",
+      "title": "§ 58. Keskkonnaloa teatavakstegemine",
+      "content": "(1) Keskkonnaluba või keskkonnaloa andmisest keeldumise otsus toimetatakse loa taotlejale ja teistele isikutele, kelle õigusi keskkonnaluba või selle andmisest keeldumise otsus piirab, kätte vastavalt haldusmenetluse seaduse §-dele 25–30 ja 32 postiga, keskkonnaloa andja poolt või elektrooniliselt.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud isikute arv on suurem kui 100, toimetatakse keskkonnaluba või keskkonnaloa andmisest keeldumise otsus kätte ainult keskkonnaloa taotlejale.\n(3) Keskkonnaluba tehakse teatavaks teate avaldamisega väljaandes Ametlikud Teadaanded ja kohalikus või maakondlikus ajalehes. Teate võib jätta kohalikus või maakondlikus ajalehes avaldamata, kui keskkonnaloa taotluse menetlusele ei kohaldatud avatud menetluse sätteid või kavandatud tegevusega kaasnev keskkonnahäiring või keskkonnarisk on väike ja selle vastu puudub piisav avalik huvi. Teade avaldatakse vähemalt ühes üleriigilise levikuga ajalehes, kui loaga lubatud tegevusega võib kaasneda oluline regionaalne või üleriigiline keskkonnahäiring. Vajaduse korral võib teate avaldada üleriigilise levikuga ajalehes ka muudel juhtudel.\n(3^1) Ajalehes avaldamise kulud tasub keskkonnaloa taotleja.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud teade peab sisaldama vähemalt järgmisi andmeid:\n1) millist käesoleva seaduse § 41 lõikes 1 nimetatud tegevust kavandatakse;\n2) käesoleva seaduse § 42 lõike 1 punktis 1 nimetatud andmed;\n3) andmed kavandatud tegevuse asukoha kohta;\n4) tegevuse ning sellega kaasneva võimaliku keskkonnahäiringu lühikirjeldus;\n5) andmed selle kohta, kus saab keskkonnaloa või sellest keeldumise otsusega ja otsuse aluseks olnud andmetega tutvuda.\n(5) Keskkonnaluba või keskkonnaloa andmisest keeldumise otsus avalikustatakse keskkonnaotsuste infosüsteemis.\n(6) Keskkonnaluba tehakse teatavaks kohaliku omavalitsuse üksusele.\n(7) Käesoleva seaduse §-des 51, 56 ja 57 nimetatud haldusaktid tehakse teatavaks keskkonnaloa teatavakstegemiseks ettenähtud korras."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "59",
+      "title": "§ 59. Keskkonnaloa muutmine",
+      "content": "(1) Keskkonnaloa andja muudab keskkonnaloa tingimusi juhul, kui:\n1) keskkonnaloa omaja taotleb käesoleva seaduse § 53 lõike 1 punktis 1 või 2 nimetatud andmete muutmist, sealhulgas keskkonnaloa alusel kasutatava ehitise või tegutseva käitise võõrandamise korral;\n2) seire tulemusel või muul viisil selgub, et keskkonnaloaga lubatud tegevusega kaasneb keskkonnaoht või oluline keskkonnahäiring ning huvi keskkonnaloa muutmata jätmiseks ei ole ülekaalukas;\n3) keskkonnaloa andjal oleks olnud õigus jätta keskkonnaluba välja andmata hiljem muutunud asjaolude, sealhulgas parima võimaliku tehnika arengu, kui selle kasutamine on õigusaktiga nõutav, või keskkonnariski suuruse muutmise tõttu või hiljem muutunud õigusnormi alusel ning keskkonnaloa muutmist õigustab keskkonna ulatuslikuma kaitse vajadus või muu huvi, mis kaalub üles isiku usalduse, et keskkonnaluba jääb kehtima.\n(2) Keskkonnaloa andja võib keskkonnaloa tingimusi muuta juhul, kui:\n1) ilmneb, et luba oli selle andmise ajal õigusvastane;\n2)\n3) käesoleva seaduse § 53 lõike 1 punktides 5–11 nimetatud tingimuse aluseks olnud õigusnorm on kaotanud kehtivuse;\n4) muutub loa omaja keskkonnaloa alusel toimuv tegevus, kasutatav tehnoloogia või muutuvad seadmed;\n5) õigusaktid on muutunud viisil, mis mõjutab loas kindlaksmääratud tingimusi ja toob kaasa vajaduse muuta tingimusi või määrata lisatingimused;\n6) seire, uuringute või muude meetodite rakendamise järel on ilmnenud asjaolud, mis viitavad vajadusele muuta loa tingimusi, et tagada nende vastavus keskkonnanõuetele, või leevendada loaga kehtestatud tingimusi.\n(2^1) Kui keskkonnaloa tingimuste muutmiseks on loa andjal vaja küsida lisaandmeid, teeb ta loa omajale kirjalikult teatavaks loa tingimuste muutmise põhjuse ning võib nõuda loa muutmiseks vajalike andmete esitamist keskkonnaotsuste infosüsteemi kaudu loa muutmise taotlusena või määrab andmete esitamise muu viisi ning andmete esitamise tähtaja.\n(3) Keskkonnaloa muutmisel ei ole haldusmenetluse seaduse § 67 lõike 4 punkt 2 kohaldatav.\n(3^1) Kui keskkonnaloa omaja kavandab käitise toimimisviisis muudatust, mille tõttu tema tegevus ei vasta enam loas kindlaksmääratud tingimustele või toob kaasa vajaduse määrata loas lisatingimused, esitab ta enne sellise tegevuse alustamist loa andjale keskkonnaotsuste infosüsteemi kaudu andmed loa muutmise taotlusena.\n(4) Keskkonnaloa muutmise taotluse vaatab keskkonnaloa andja läbi keskkonnaloa andmiseks sätestatud korras. Käesoleva paragrahvi lõike 1 punktis 1 sätestatud juhul muudetakse keskkonnaluba seitsme päeva jooksul taotluse saamisest arvates.\n(4^1) Keskkonnaloa muutmise korral kohaldatakse käesoleva seaduse § 50 lõiget 2, võttes arvesse lisaks käesolevas seaduses sätestatule muudetavat valdkonda reguleerivates õigusaktides sätestatud nõudeid.\n(5) Keskkonnaloa muutmine otsustatakse avatud menetluseta:\n1) kui keskkonnaloa muutmine ei mõjuta keskkonnariski suurust, keskkonnaloa muutmisel ei toimu keskkonnamõju hindamist ning puudub muu oluline avalik huvi avatud menetluse läbiviimiseks;\n2) kui menetluse kiirem läbiviimine on vajalik keskkonnaohu vältimiseks;\n2^1) kui menetluse kiirem läbiviimine on vajalik, et ennetada elutähtsa teenuse katkemise ohtu;\n3) käesoleva paragrahvi lõike 1 punktis 1 sätestatud juhul.\n(6) Keskkonnaloa muutmine tehakse teatavaks keskkonnaloa teatavakstegemiseks ettenähtud korras."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "60",
+      "title": "§ 60. Keskkonnaloa üleandmine",
+      "content": "(1) Keskkonnaloa omajal on loa kehtivuse ajal õigus loast tulenevad õigused ja kohustused täielikult või osaliselt loovutada teisele isikule.\n(2) Keskkonnaloas loa omaja andmete muutmiseks esitavad loa omaja ja loa taotleja keskkonnaloa andjale ühise taotluse. Taotluses tuleb märkida tähtpäev, millal loa omaja andmeid muudetakse. Keskkonnaloas loa omaja andmete muutmise taotlus tuleb esitada hiljemalt kümme päeva enne nimetatud tähtpäeva saabumist.\n(3) Keskkonnaloa andja keeldub keskkonnaloas loa omaja andmete muutmisest, kui seadusega on loa omajale kehtestatud nõuded, millele loa taotleja ei vasta.\n(4) Keskkonnaloa andja võib keelduda keskkonnaloas loa omaja andmete muutmisest, kui esinevad keskkonnakaitse seisukohalt põhjendatud asjaolud."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "61",
+      "title": "§ 61. Keskkonnaloa kehtivuse peatamine",
+      "content": "(1) Keskkonnaloa andja võib keskkonnaloa kehtivuse täielikult või osaliselt peatada kuni üheks aastaks, kui:\n1) käesoleva seaduse § 53 lõike 1 punktis 1 või 2 nimetatud andmed on muutunud ja keskkonnaloa omaja ei ole taotlenud nende andmete muutmist;\n2) seiret tehes või muul viisil selgub, et keskkonnaloaga lubatud tegevusega kaasneb keskkonnaoht või oluline keskkonnahäiring ning huvi jätta keskkonnaluba peatamata ei ole ülekaalukas;\n3) keskkonnaloa andjal oleks olnud õigus jätta keskkonnaluba välja andmata hiljem muutunud asjaolude, sealhulgas parima võimaliku tehnika arengu tõttu, kui parima võimaliku tehnika kasutamine on õigusaktiga nõutav, või keskkonnariski suuruse muutumise tõttu või hiljem muutunud õigusnormi alusel ning keskkonnaloa peatamist õigustab keskkonna ulatuslikuma kaitse vajadus või muu huvi, mis kaalub üles isiku usalduse, et keskkonnaluba jääb kehtima;\n4) ei ole esitatud käesoleva seaduse § 59 lõikes 2^1 nimetatud nõuetekohast taotlust või vajalikke andmeid loa muutmiseks;\n5) ei ole esitatud käesoleva seaduse § 59 lõikes 3^1 nimetatud nõuetekohast taotlust ning käitise tegevus ei vasta loas sätestatud tingimustele.\n(2) Keskkonnaloa kehtivuse peatamine otsustatakse ilma avatud menetluseta.\n(3) Enne keskkonnaloa peatamist teeb Keskkonnaamet ettekirjutuse esitada käesoleva seaduse § 59 lõikes 2^1 või 3^1 sätestatud nõuetekohane taotlus või vajalikud andmed."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "5. peatükk - Loamenetlus",
+      "section": "62",
+      "title": "§ 62. Keskkonnaloa kehtetuks tunnistamine",
+      "content": "(1) Keskkonnaloa andja tunnistab keskkonnaloa kehtetuks:\n1) loa omaja taotlusel;\n2) kui loa omaja sureb ja loaga lubatud tegevus on seotud loa omaja isikuga või loa omaja õigusvõime lõpeb ilma õigusjärgluseta;\n3) kui loa alusel lubatud tegevust ei alustata kahe aasta jooksul loa andmisest arvates.\n4)\n(2) Keskkonnaloa andja võib keskkonnaloa kehtetuks tunnistada, kui:\n1) keskkonnaloa omaja ei ole taotlenud käesoleva seaduse § 59 lõike 1 punktis 1 viidatud andmete muutmist ning avalikku või kolmanda isiku huvi ei ole võimalik tõhusalt kaitsta loa muutmisega;\n2) käesoleva seaduse § 59 lõike 1 punktis 2 nimetatud tingimustel selgub, et keskkonnaloaga lubatud tegevusega kaasneb keskkonnaoht või oluline keskkonnahäiring ning huvi jätta keskkonnaluba kehtetuks tunnistamata ei ole ülekaalukas ja avalikku või kolmanda isiku huvi ei ole võimalik tõhusalt kaitsta loa muutmisega;\n3) keskkonnaloa andjal oleks olnud õigus jätta keskkonnaluba välja andmata käesoleva seaduse § 59 lõike 1 punktis 3 nimetatud asjaolude tõttu ning avalikku või kolmanda isiku huvi ei ole võimalik tõhusalt kaitsta loa muutmisega;\n4) loa omaja ei täida loas või õigusaktis sätestatud nõudeid ja luba tuleb kehtetuks tunnistada olulise avaliku huvi tõttu või loa omajat on karistatud karistusseadustikus sätestatud keskkonnavastase süüteo eest ning tema karistusandmed ei ole karistusregistrist karistusregistri seaduse kohaselt kustutatud;\n5) loa omaja on esitanud teadvalt valeandmeid, mis mõjutasid keskkonnaloa andmise otsustamist.\n(3) Keskkonnaloa kehtetuks tunnistamisel ei ole haldusmenetluse seaduse § 67 lõike 4 punkt 2 kohaldatav.\n(4) Keskkonnaluba tunnistatakse kehtetuks ilma avatud menetluseta, kui loa kehtivuse korral esineb keskkonnaoht või oluline keskkonnahäiring või kui haldusorgan ei pea vajalikuks avatud menetluse läbiviimist keskkonnaloa kehtetuks tunnistamisega kaasnevate väheoluliste mõjude tõttu."
+    },
+    {
+      "provision_ref": "para62^1",
+      "chapter": "5. peatükk - Riiklik ja haldusjärelevalve",
+      "section": "62^1",
+      "title": "§ 62^1. Riikliku ja haldusjärelevalve teostaja",
+      "content": "(1) Riiklikku ja haldusjärelevalvet käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuete täitmise üle teeb Keskkonnaamet.\n(2) Käesoleva seaduse §-des 38 ja 39, välja arvatud § 38 lõikes 7 ja § 39 lõikes 3, sätestatud nõuete täitmise üle teostab riiklikku järelevalvet lisaks Keskkonnaametile kohaliku omavalitsuse üksus."
+    },
+    {
+      "provision_ref": "para62^2",
+      "chapter": "5. peatükk - Riiklik ja haldusjärelevalve",
+      "section": "62^2",
+      "title": "§ 62^2. Riikliku järelevalve erimeetmed",
+      "content": "(1) Keskkonnaamet võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 46, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras.\n(2) Kohaliku omavalitsuse üksus võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para62^3",
+      "chapter": "5. peatükk - Riiklik ja haldusjärelevalve",
+      "section": "62^3",
+      "title": "§ 62^3. Riikliku järelevalve erisused",
+      "content": "(1) Keskkonnaamet võib tähistatud kinnisasjale siseneda valdaja või muu õigustatud isiku juuresolekuta, kui:\n1) see on vajalik olulise ohu väljaselgitamiseks või tõrjumiseks ja nimetatud isikute kaasamisega kaasneks viivitus, mis seaks ohtu meetme kohaldamise eesmärgi saavutamise;\n2) valdusesse sisenemise eesmärk on läbipääsu tagamine teisele kinnisasjale või veekogule.\n(2) Käesoleva paragrahvi lõike 1 punktis 2 sätestatud alusel valdusesse sisenemisest ei pea hiljem valdajat teavitama, kui valduses ei tehtud pärast sisenemist järelevalve- või süüteomenetluse toiminguid.\n(3) Keskkonnaamet võib kallasrajal läbipääsu takistava ehitise lammutada asendustäitmise ja sunniraha seaduses sätestatud korras. Ehitise lammutamiseks asendustäitmise käigus peab Keskkonnaamet eelnevalt teavitama asjaomast kohalikku omavalitsust.\n(4) Keskkonnaameti ametiisik võib järelevalve teostamise eesmärgil viibida ja sõidukiga, sealhulgas maastikusõidukiga ja ujuvvahendiga, liikuda maa- või veealal, kus viibimine ja liikumine on keskkonnakaitse eesmärgil õigusaktiga keelatud või piiratud."
+    },
+    {
+      "provision_ref": "para62^4",
+      "chapter": "5. peatükk - Riiklik ja haldusjärelevalve",
+      "section": "62^4",
+      "title": "§ 62^4. Vahetu sunni kasutamine",
+      "content": "Keskkonnaametil on lubatud kasutada füüsilist jõudu korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para62^5",
+      "chapter": "5. peatükk - Riiklik ja haldusjärelevalve",
+      "section": "62^5",
+      "title": "§ 62^5. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär 32 000 eurot."
+    },
+    {
+      "provision_ref": "para62^6",
+      "chapter": "5. peatükk - Vastutus",
+      "section": "62^6",
+      "title": "§ 62^6. Kallasraja ebaseaduslik sulgemine ja tõkestamine",
+      "content": "(1) Kallasraja või sellele juurdepääsu ebaseadusliku sulgemise või tõkestamise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 50 000 eurot."
+    },
+    {
+      "provision_ref": "para62^7",
+      "chapter": "5. peatükk - Vastutus",
+      "section": "62^7",
+      "title": "§ 62^7. Menetlus",
+      "content": "Käesoleva seaduse §-s 62^6 sätestatud väärteo kohtuvälised menetlejad on Keskkonnaamet ja valla- või linnavalitsus."
+    },
+    {
+      "provision_ref": "para62^8",
+      "chapter": "5. peatükk - Vastutus",
+      "section": "62^8",
+      "title": "§ 62^8. Trahvi laekumine",
+      "content": "Kui rahatrahvi määranud kohtuväline menetleja on valla- või linnavalitsus, kantakse käesoleva seaduse §-s 62^6 sätestatud väärteo eest määratud rahatrahv otsuse teinud kohaliku omavalitsuse eelarvesse."
+    },
+    {
+      "provision_ref": "para62^9",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "62^9",
+      "title": "§ 62^9. Andmete üleviimine keskkonnaotsuste infosüsteemi",
+      "content": "(1) Kuni keskkonnaotsuste infosüsteemi asutamiseni hoitakse käesoleva seaduse § 40^1 lõikes 1 nimetatud lubade ja lubadega seotud kohustuste täitmisega seotud andmeid keskkonnaregistris või muus Kliimaministeeriumi haldusala infosüsteemis.\n(2) Andmete keskkonnaotsuste infosüsteemi üleviimise tähtajad sätestatakse andmekogu põhimääruses."
+    },
+    {
+      "provision_ref": "para62^10",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "62^10",
+      "title": "§ 62^10. Varem kehtinud lubade vormistamine keskkonnaloana",
+      "content": "(1) Kui isikul on 2020. aasta 1. jaanuaril jäätmeluba, ohtlike jäätmete käitluslitsents, vee erikasutusluba, veeluba, õhusaasteluba või kaevandamisluba omavahel ruumiliselt või tehnoloogiliselt seotud tegevusteks, võib ta esitada loa andjale taotluse nende tegevuste jaoks ühe keskkonnaloa andmiseks.\n(2) Enne 2020. aasta 1. jaanuari välja antud jäätmeloa, vee erikasutusloa, veeloa, õhusaasteloa ja kaevandamisloa vormistab loa andja mõistliku aja jooksul käesoleva seaduse § 53 lõike 3 alusel kehtestatud andmekoosseisuga keskkonnaloaks. Sellisel juhul otsustab loa andja varem kehtinud loa muutmise avatud menetluseta.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud taotluse menetlemine ja lõikes 2 nimetatud toimingu tegemine on vabastatud riigilõivu tasumisest, kui menetluse eesmärk on 2020. aasta 1. jaanuaril kehtivate lubade ühendamine või uue andmekoosseisuga loaks vormistamine ning loa tingimustes ei tehta muid muudatusi kui lubade ühendamisest tulenevad muudatused."
+    },
+    {
+      "provision_ref": "para62^11",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "62^11",
+      "title": "§ 62^11. Keskkonnaregistri seaduse alusel kogutud andmete töötlemine",
+      "content": "(1) Keskkonnaregistri seaduse alusel keskkonnaregistri arhiivi kantud andmed viiakse üle Kliimaministeeriumi haldusala vastava infosüsteemi arhiivi ja neid säilitatakse tähtajatult.\n(2) Keskkonnaregistri seaduse alusel kogutud medaliväärsete jahitrofeede nimistu andmed kantakse Eesti looduse infosüsteemi arhiivi.\n(3) Keskkonnaregistri seaduse alusel kogutud andmed, mille kogumist jätkatakse käesoleva seaduse jõustumise järel Eesti looduse infosüsteemi, loetakse Eesti looduse infosüsteemi andmeteks."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "6. peatükk - Rakendussätted",
+      "section": "63",
+      "title": "§ 63. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub keskkonnaseadustiku üldosa seaduse rakendamise seaduses sätestatud ajal ja korras."
+    }
+  ],
+  "definitions": []
+}

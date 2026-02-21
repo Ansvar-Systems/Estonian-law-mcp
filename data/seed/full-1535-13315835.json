@@ -1,0 +1,63 @@
+{
+  "id": "ee-law-13315835",
+  "type": "statute",
+  "title": "Ühistatud vara maksumuse määramise seadus",
+  "title_en": "Ühistatud vara maksumuse määramise seadus",
+  "short_name": "ÜVMS",
+  "status": "in_force",
+  "issued_date": "1993-01-27",
+  "in_force_date": "2011-01-01",
+  "url": "https://www.riigiteataja.ee/akt/13315835.xml",
+  "description": "Official consolidated statute text (Ühistatud vara maksumuse määramise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Käesolev seadus sätestab ühistatud vara maksumuse määramise selle kompenseerimiseks vastavalt Eesti Vabariigi omandireformi aluste seaduse §-le 14 ja Eesti Vabariigi põllumajandusreformi seaduse §-le 9."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühistatud vara maksumuse määramise aluseks on lehma arvestuslik hind, mille kinnitab esmatasandi kohaliku omavalitsuse volikogu ühismajandi põllumajandusreformi komisjoni ettepanekul. Lehma arvestusliku hinna alammäär on 31,96 eurot."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ühistatud vara maksumus määratakse lehma arvestusliku hinna ja Vabariigi Valitsuse poolt kehtestatud ühistatud varade hinna ümberarvestuse koefitsientide alusel."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Ühistatud vara maksumuse määramiseks teeb ühismajandi põllumajandusreformi komisjon kindlaks õigustatud subjektile kuulunud ühistatud vara koosseisu ühistamise akti ja muude tõendite alusel. Kui ühistatud vara koosseisu ei ole võimalik tõendada, loetakse ühistatud vara maksumus võrdseks ühe lehma arvestusliku hinnaga talumaa iga nelja hektari kohta."
+    },
+    {
+      "provision_ref": "para6",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Käesoleva seaduse jõustumise päevaks kohaliku omavalitsuse volikogu poolt kinnitatud lehma arvestuslik hind on kehtiv, kui see ei ole madalam antud ühismajandi lehma keskmisest bilansilisest maksumusest."
+    },
+    {
+      "provision_ref": "para7",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Ühistatud vara kompenseeritakse natuuras põllumajandusreformi õigustatud subjektidele, kes on asunud või asuvad talu pidama, hiljemalt 1993. aasta 15. maiks, kui õigustatud subjekt ja ühismajandi põllumajandusreformi komisjon ei lepi kokku teisiti."
+    },
+    {
+      "provision_ref": "para8",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Kõik käesoleva seaduse ja muude õigusaktidega reguleerimata ühistatud vara maksumuse määramise küsimused otsustab ühismajandi põllumajandusreformi komisjoni ettepanekul esmatasandi kohaliku omavalitsuse volikogu."
+    },
+    {
+      "provision_ref": "para9",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Käesolev seadus jõustub väljakuulutamise päevast."
+    }
+  ],
+  "definitions": []
+}

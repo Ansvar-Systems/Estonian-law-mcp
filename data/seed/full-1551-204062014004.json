@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-204062014004",
+  "type": "statute",
+  "title": "Ülemaailmse Postiliidu kongresside lõppaktide ratifitseerimise seadus",
+  "title_en": "Ülemaailmse Postiliidu kongresside lõppaktide ratifitseerimise seadus",
+  "short_name": "ee-law-204062014004",
+  "status": "in_force",
+  "issued_date": "2001-11-07",
+  "in_force_date": "2014-06-14",
+  "url": "https://www.riigiteataja.ee/akt/204062014004.xml",
+  "description": "Official consolidated statute text (Ülemaailmse Postiliidu kongresside lõppaktide ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud Ülemaailmse Postiliidu põhikirja viies lisaprotokoll, mis on koostatud 1994. aasta 14. septembril Soulis ja Eesti Vabariigi poolt samas alla kirjutatud."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ratifitseerida juurdelisatud Ülemaailmse Postiliidu põhikirja kuues lisaprotokoll, mis on koostatud 1999. aasta 15. septembril Pekingis ja Eesti Vabariigi poolt samas alla kirjutatud."
+    }
+  ],
+  "definitions": []
+}

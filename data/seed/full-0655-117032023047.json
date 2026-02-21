@@ -1,0 +1,1023 @@
+{
+  "id": "ee-law-117032023047",
+  "type": "statute",
+  "title": "Kaubandusliku meresõidu seadus",
+  "title_en": "Kaubandusliku meresõidu seadus",
+  "short_name": "KMSS",
+  "status": "in_force",
+  "issued_date": "2002-06-05",
+  "in_force_date": "2023-03-27",
+  "url": "https://www.riigiteataja.ee/akt/117032023047.xml",
+  "description": "Official consolidated statute text (Kaubandusliku meresõidu seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse ülesanne",
+      "content": "Käesoleva seadusega reguleeritakse kaubanduslikust meresõidust tulenevaid õigussuhteid."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Kaubandusliku meresõidu mõiste",
+      "content": "Kaubanduslikuks meresõiduks loetakse käesoleva seaduse tähenduses tegevust, mis on seotud laevade kasutamisega lasti-, reisijate-, pagasi- ja postiveoks, mere elus- ja muude ressursside ning merepõhja all asuva maapõue varade uurimiseks ja ammutamiseks, jäämurde-, pukseerimis- ja päästeoperatsioonideks ning teistel õiguspärastel eesmärkidel."
+    },
+    {
+      "provision_ref": "para2^1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2^1",
+      "title": "§ 2^1. Reeder",
+      "content": "Reeder käesoleva seaduse tähenduses on laeva omanik või laeva laevapereta prahtija, kes valdab laeva ja kasutab seda oma nimel."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Seaduse kohaldamine",
+      "content": "(1) Eesti Vabariigi sadamate vahel toimuva veo (kabotaažvedu) korral ei või lepingupooled kokku leppida välisriigi õiguse kohaldamises.\n(2) Lepingupooled võivad käesolevas seaduses sätestatust kokkuleppel kõrvale kalduda, kui seaduses ei ole otse sätestatud või sätte olemusest ei tulene, et seadusest kõrvalekaldumine ei ole lubatud.\n(3)"
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "4",
+      "title": "§ 4. Lastiveoleping",
+      "content": "(1) Lastiveoleping on veoleping, millega üks isik (vedaja) kohustub teise isiku (saatja) ees meritsi vedama talle saatja poolt vedamiseks üleantud kauba sihtsadamasse ja andma seal üle kauba vastuvõtmiseks õigustatud saajale, kes ei ole lastiveolepingu osapool. Saatja kohustub vedamise eest maksma vedajale kokkulepitud tasu (edaspidi veotasu ).\n(2) Kui lastiveolepingu sõlminud isik on ühtlasi kauba saajaks, on saajal ka saatja õigused ja kohustused.\n(3) Kui veost veetakse ühtse veolepingu alusel erinevat liiki sõidukitega merel, õhus või maal, kohaldatakse lepingule võlaõigusseaduse 42. peatüki 1. jao 1. jaotises sätestatut, kui sama jao 3. jaotises sätestatust ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "5",
+      "title": "§ 5. Veotähtaeg",
+      "content": "Vedaja peab kauba kohale toimetama kokkulepitud ajavahemikul, kokkuleppe puudumisel aga ajavahemikul, mida võib hoolikalt vedajalt asjaolusid arvestades mõistlikult oodata (veotähtaeg)."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "6",
+      "title": "§ 6. Kaupade pakkimine, tähistamine, kohaletoimetamine, lastimine ja stauimine",
+      "content": "(1) Saatja peab kauba selle olemust ja kokkulepitud veoviisi arvestades pakkima nii, et see oleks kaitstud kaotsimineku ja kahjustumise eest ega tekitaks kahju vedajale, teistele isikutele, muudele kaupadele ega keskkonnale.\n(1^1) Saatja peab kauba tähistama, kui tähistamine on vajalik selleks, et vedaja saaks toimida kaubaga vastavalt lastiveolepingule.\n(2) Saatja peab toimetama kauba vedaja nimetatud kohta vedaja määratud ajaks. Kaup peab olema kohale toimetatud sellisel viisil ja sellises seisundis, et selle saaks mugavalt ja ohutult lastida ning lasti merekindlalt paigutada ehk stauida. Kohaletoimetatud kaup peab olema veokõlblikus seisundis.\n(3) Vedaja peab kauba lastima ja stauima ehk lasti merekindlalt paigutama."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "7",
+      "title": "§ 7. Kauba ülevaatamine",
+      "content": "(1) Vedaja peab kauba vastuvõtmisel mõistlikul viisil kauba väliselt üle vaatama, sealhulgas kontrollima, kas kaup on pakitud käesoleva seaduse § 6 lõikes 1 nimetatud viisil. Kui kaup on kohale toimetatud konteineris või muus sarnases suletud vahendis, ei ole vedaja kohustatud vahendit seestpoolt kontrollima, välja arvatud juhul, kui on ilmne, et see ei ole täidetud nõuetekohaselt.\n(2) Vedaja peab saatjale teatama puudustest, mis ta on käesoleva paragrahvi lõikes 1 nimetatud kontrolli käigus avastanud. Vedaja võib keelduda kaupa vedamast, kui puudusi ei saa kõrvaldada saatja kulul abinõudega, mille rakendamist saab vedajalt kauba lastimisel mõistlikult oodata."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "8",
+      "title": "§ 8. Ohtlikud kaubad",
+      "content": "(1) Ohtliku kauba puhul peab saatja vedajale õigeaegselt kirjalikult taasesitatavas vormis teatama ohu laadist. Saatja peab ohtliku kauba vedamise korral teatama vedajale ka ohtliku kauba vedamisel rakendamisele kuuluvatest ohutusnõuetest, kui seda saab temalt mõistlikult oodata. Ohtlikud kaubad peavad olema vastavalt tähistatud.\n(1^1) Käesoleva paragrahvi lõikes 1 nimetatud teavitamiskohustus täidetakse ka isiku suhtes, kes viib veo täielikult või osaliselt läbi (edaspidi tegelik vedaja ).\n(2) Kui vedajale ei ole ohu laadist teatatud ja kui ta ei ole sellest ka muul viisil teada saanud, võib vedaja ohtliku kauba vedaja valitud kohas lossida, ladustada, tagasi vedada ning vajaduse korral hävitada või kahjutuks teha.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud abinõude rakendamise korral võib vedaja saatjalt nõuda selleks tehtud vajalike kulutuste hüvitamist. Vedaja ei pea lõikes 2 nimetatud abinõude rakendamisest tekkinud kahju saatjale hüvitama.\n(4) Ohtliku kauba, mille vedamiseks on vedaja nõusoleku andnud, võib vedaja enda valitud kohas lossida, hävitada või kahjutuks teha üksnes juhul, kui kaup vahetult ohustab laeval viibivaid isikuid, laeva või lasti.\n(5) Käesoleva paragrahvi lõikes 4 nimetatud abinõude rakendamisel vastutab vedaja vaid üldavarii piires."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "9",
+      "title": "§ 9. Eritoiminguid nõudvad kaubad",
+      "content": "Kui kaubaga tuleb lastimisel, lossimisel või veo kestel toimida tavapärasest erineval viisil, peab saatja sellest vedajale õigeaegselt teatama ja osutama abinõudele, mille rakendamine võib vajalik olla. Vajaduse korral peab saatja kaubad vastavalt tähistama."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "10",
+      "title": "§ 10. Saatedokumendid",
+      "content": "(1) Saatja peab enne kauba vedajale üleandmist andma vedaja käsutusse dokumendid ja teabe, mis on vajalikud kauba lastimiseks või lossimiseks, samuti vedamisega seotud ametlike toimingute läbiviimiseks, eelkõige tollivormistusteks.\n(2) Vedaja võib keelduda veo alustamisest või kaubad lossida, kui talle üleantud dokumendid või teave on ebatäpsed või ebatäielikud või kui talle ei ole dokumente või teavet üle antud õigeaegselt. Vedaja võib nõuda lossimise tõttu tekkinud kulude hüvitamist.\n(3) Vedaja peab hüvitama talle üleantud dokumentide kaotsiminekust, kahjustumisest või nende ebaõigest kasutamisest tekkinud kahju, välja arvatud juhul, kui dokumentide kaotsiminek, kahjustumine või ebaõige kasutamine toimus asjaolu tõttu, mille toimumist ja tagajärgi vedaja ei saanud vältida.\n(4) Vedaja vastutus on käesoleva paragrahvi lõikes 3 nimetatud juhul piiratud summaga, mis tuleks hüvitisena maksta kauba kaotsimineku korral."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "11",
+      "title": "§ 11. Veotasu maksmine",
+      "content": "(1) Veotasu tuleb vedajale maksta kauba üleandmisel saajale. Vedaja võib lisaks veotasule nõuda tema poolt kaubale tehtud kulutuste hüvitamist, mille tegemist ta võis vastavalt asjaoludele vajalikuks pidada. Vedaja ei või nõuda kulude hüvitamist, mis tekivad tavaliselt sellise lastiveolepingu täitmisel või mis oleksid vedajal tekkinud ka juhul, kui ta ei oleks lepingut sõlminud.\n(2) Kui vedu ei saa vedamistakistuse tõttu lõpule viia või kui kaupa ei saa üleandmistakistuse tõttu saajale üle anda (§ 20), võib vedaja nõuda läbitud reisiteekonna pikkusele vastava veotasu maksmist ja kulude hüvitamist. Kui takistus on tekkinud vedaja süül, võib ta veotasu maksmist ja kulude hüvitamist nõuda üksnes ulatuses, milles saatjal on sellise veo vastu huvi.\n(2^1) Kui kaup on käesoleva seaduse § 8 lõikes 2 nimetatud juhul vedaja valitud kohas lossitud või ladustatud või tagasi veetud või vajaduse korral hävitatud või kahjutuks tehtud, võib vedaja lisaks kulude hüvitamisele nõuda veotasu maksmist.\n(3) Kui veotasu on kokku lepitud kauba hulga, kaalu, mõõdu või muul moel määratud koguse alusel, eeldatakse tasu arvestamisel, et konossemendi (§ 38) või mereveokirja (§ 47) andmed on õiged. See kehtib ka juhul, kui konossemendis on andmete kohta tehtud reservatsioon, põhjendusega, et vedajal ei olnud andmete õigsuse kontrollimiseks mõistlikku võimalust.\n(4) Veo ajal kahjustunud kauba eest veotasu ei maksta ja selle eest ettemakstud veotasu tagastatakse.\n(5) Veotasu tuleb vaatamata käesoleva paragrahvi lõikes 4 sätestatule siiski maksta, kui kaup on veo ajal kahjustunud kauba olemuse, ebaõige pakkimise või tähistamise tõttu."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "12",
+      "title": "§ 12. Veotasu kaotsiläinud kaupade eest",
+      "content": "(1) Kaupade eest, mis on läinud veo ajal kaotsi, ei tule veotasu maksta, ettemakstud veotasu tuleb tagastada.\n(2) Kui veotasu ei sõltu kauba hulgast, kaalust, mõõdust või muul moel määratud kauba kogusest, vähendatakse seda kauba osalise kaotsimineku korral vastavalt kaotsiläinud kauba kogusele.\n(3) Veotasu ei või vastavalt käesoleva paragrahvi lõigetele 1 ja 2 vähendada juhul, kui kauba kaotsiminek on tingitud kauba olemusest."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "13",
+      "title": "§ 13. Lastiveolepingu ülesütlemine saatja poolt",
+      "content": "(1) Saatja võib lastiveolepingu igal ajal üles öelda, välja arvatud juhul, kui ülesütlemine põhjustaks viivituse reisi läbiviimisel, tekitaks ohu laevale või lastile või tooks kaasa muude vedaja õigustatud huvide olulise kahjustamise.\n(2) Kui on väljastatud konossement, võib saatja lepingu üles öelda ainult konossemendi alusel kauba üle käsutamiseks õigustatud isiku nõusolekul.\n(3) Kui saatja ütleb lepingu üles, võib vedaja nõuda kokkulepitud veotasu ja hüvitamisele kuuluvate kulude maksmist.\n(4) Saatja võib nõuda, et käesoleva paragrahvi lõikes 3 nimetatud summadest arvestatakse maha summa, mille vedaja on lepingu lõpetamise tõttu kokku hoidnud või muul viisil lepingu lõppemise tõttu omandanud või pahauskselt omandamata jätnud.\n(5) Käesoleva paragrahvi lõikes 3 nimetatud nõude asemel võib vedaja nõuda kokkulepitud veotasust kolmandiku maksmist.\n(6) Vedajal ei ole õigust esitada käesoleva paragrahvi lõigetes 3 ja 5 nimetatud nõudeid, kui ülesütlemine toimus vedaja kohustuse olulise rikkumise tõttu.\n(7) Kui kaup on enne lepingu ülesütlemist lastitud, peab vedaja selle saatja kulul lossima, kui see on võimalik vedaja majandustegevust ning teiste saatjate või saajate veoseid kahjustamata. Kui leping öeldi üles vedaja kohustuse olulise rikkumise tõttu, peab vedaja kauba lossima oma kulul."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "14",
+      "title": "§ 14. Lastiveolepingu ülesütlemine vedaja poolt",
+      "content": "(1) Vedaja võib lastiveolepingu üles öelda, kui kaup ei ole vedamiseks õigeaegselt kohale toimetatud.\n(2) Vedaja võib lepingu ülesütlemise korral nõuda kokkulepitud veotasu ja hüvitamisele kuuluvate kulude maksmist.\n(3) Saatja võib nõuda, et käesoleva paragrahvi lõikes 2 nimetatud summadest arvestatakse maha summa, mille vedaja on lepingu lõpetamise tõttu kokku hoidnud või muul viisil lepingu lõppemise tõttu omandanud või pahauskselt omandamata jätnud.\n(4) Käesoleva paragrahvi lõikes 2 nimetatud nõude asemel võib vedaja nõuda kokkulepitud veotasust kolmandiku maksmist."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "15",
+      "title": "§ 15. Õigus nõuda mittetäieliku lasti vedamist",
+      "content": "(1) Saatja võib nõuda, et vedaja alustaks kauba vedamist ka juhul, kui lastitud on ainult osa kokkulepitud kaubast (mittetäielik last), välja arvatud juhul, kui mittetäieliku lasti vedamine tekitaks ohu laevale või muudele veetavatele kaupadele.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud juhul võib vedaja nõuda kokkulepitud veotasu maksmist ning mittetäieliku lasti vedamisest tekkinud lisakulude hüvitamist. Saatja võib nõuda, et veotasust arvestatakse maha veotasu kauba eest, mida vedaja vedas lastimata kauba asemel sama laevaga.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud juhul võib vedaja nõuda täiendava tagatise andmist veotasule, seisurahale ja hüvitamisele kuuluvatele kuludele, kui nende maksmine ei ole mittetäieliku lasti vedamise tõttu käesoleva seaduse §-s 24 nimetatud pandiõiguse või muude tagatistega piisavalt tagatud.\n(4) Kui kokkulepitud kaubast ainult osa lastimise põhjustas vedaja kohustuse rikkumine, võib vedaja nõuda veotasu maksmist üksnes tegelikult veetud kaupade eest. Käesoleva paragrahvi lõikeid 2 ja 3 ei kohaldata."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "16",
+      "title": "§ 16. Vedaja hoolsus",
+      "content": "Vedaja peab kauba vedamiseks üleandmisest kuni kauba saajale üleandmiseni toimima kaubaga vastavalt kauba omaniku huvidele ja järgima seejuures korralikule vedajale omast hoolsust."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "17",
+      "title": "§ 17. Mere- ja lastiveokõlblikkus",
+      "content": "(1) Vedaja peab rakendama nõutavat hoolsust, et laev oleks enne reisi algust ja reisi alustamisel merekõlblik.\n(2) Vedaja peab rakendama nõutavat hoolsust ka selle eest, et laeva mehhanismid ja ruumid, kuhu kaup lastitakse, oleksid lastimise alustamisel kauba vastuvõtmiseks, vedamiseks ja säilitamiseks vajalikus seisundis (lastiveokõlblikkus)."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "18",
+      "title": "§ 18. Lastimine tekile",
+      "content": "Kauba võib tekile lastida ainult saatja nõusolekul, välja arvatud juhul, kui kauba tekile lastimine on ette nähtud seadusega, tuleneb kauba olemusest või on sellise kauba vedamisel tavapärane."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "19",
+      "title": "§ 19. Juhised kaubaga toimimiseks, kauba käsutamine",
+      "content": "(1) Kaubaga toimimise kohta juhiste andmise õigus ja kauba käsutamisõigus on saatjal.\n(2) Vedaja peab juhist järgima üksnes niivõrd, kuivõrd juhise täitmisega ei kaasne kahjulikke tagajärgi tema tegevusele ega tema poolt veetava muu kauba saatjale või saajale. Vedaja võib saatjalt nõuda juhise järgimisega seotud kulude hüvitamist ning täiendava mõistliku veotasu maksmist. Vedaja võib juhise järgimiseks nõuda mõistliku ettemakse tasumist.\n(3) Kui on välja antud konossement, on kaubaga toimimise kohta juhiste andmise õigus ja kauba käsutamisõigus konossemendi õiguspärasel valdajal. Konossemendi väljaandmise korral võib vedaja juhist järgida üksnes juhul, kui talle esitatakse konossement.\n(4) Vedaja peab talle antud juhise järgimata jätmisest juhise andjale viivitamatult teatama.\n(5) Kui juhise on andnud isik, kes ei olnud selleks õigustatud, ja kui juhise järgimise kohustus sõltus konossemendi esitamisest, kuid vedaja on järginud juhist, ilma et talle oleks konossementi esitatud, peab ta hüvitama juhist andma õigustatud isikule juhise järgimise tõttu tekkinud kahju isegi juhul, kui kahju tekitamine oli vabandatav. Sel juhul ei kohaldata käesolevas seaduses vedaja vastutuse piiramise kohta sätestatut.\n(6) Kokkulepe, millega välistatakse või piiratakse vedaja kahju hüvitamise kohustust käesoleva paragrahvi lõikes 5 nimetatud juhul, ei kehti konossemendi õiguspärase valdaja suhtes."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "20",
+      "title": "§ 20. Vedamis- ja üleandmistakistused",
+      "content": "(1) Kui enne kauba sihtsadamasse saabumist selgub, et vedu ei saa lepingukohaselt lõpule viia (vedamistakistus) või kui pärast kauba sihtsadamasse saabumist selgub, et kaupa ei saa saajale üle anda (üleandmistakistus), peab vedaja küsima juhist kaubaga edasise toimimise kohta.\n(2) Kui juhist on õigustatud andma saaja, kuid teda ei saa kindlaks teha, või kui saaja keeldub kaupa vastu võtmast, võib juhist küsida saatjalt. Kui juhise järgimise kohustus sõltus konossemendi esitamisest, ei ole vaja konossementi esitada.\n(3) Vedaja võib nõuda juhise järgimisega seotud kulude hüvitamist, välja arvatud juhul, kui vedamis- või üleandmistakistus on tekkinud tema süül. Juhise järgimiseks võib vedaja nõuda mõistliku ettemakse tasumist.\n(4) Kui vedaja ei ole saanud mõistliku aja jooksul juhist, peab ta rakendama juhise andmiseks õigustatud isiku huvides mõistlikke abinõusid. Asjaolude kohaselt võib vedaja eelkõige:\n1) kauba lossida ja ladustada või kauba kolmanda isiku juures juhist andma õigustatud isiku arvel hoiustada; kauba ladustamisel või hoiustamisel kolmanda isiku juures vastutab vedaja üksnes kolmanda isiku valiku eest;\n2) kauba tagasi vedada;\n3) kauba vastavalt võlaõigusseaduse § 125 lõigetes 3–6 sätestatule müüa, kui kaup on kiiresti riknev või kui kauba seisund seda nõuab või kui muude abinõude tarvitusele võtmisel tekkivad kulud oleksid kauba väärtust arvestades ebamõistlikult suured;\n4) hävitada kauba, mida ei ole võimalik või otstarbekas müüa.\n(5) Vedaja võib nõuda käesoleva paragrahvi lõike 4 kohaselt rakendatud abinõudega kaasnevate vajalike kulude hüvitamist, välja arvatud juhul, kui vedamis- või üleandmistakistus tekkis vedaja süül."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "21",
+      "title": "§ 21. Lossimine",
+      "content": "Vedaja peab kauba sihtsadamas lossima. Lossimiskohast peab ta saajat õigeaegselt teavitama."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "22",
+      "title": "§ 22. Saaja õigused ja maksmiskohustus",
+      "content": "(1) Pärast kauba saabumist lossimiskohta võib saaja nõuda vedajalt kauba üleandmist. Vedaja võib kauba üleandmisest keelduda, kui lastiveolepingust tulenevad saatja kohustused, mille täitmise tähtaeg on saabunud, on täitmata ja saaja keeldub nende täitmisest.\n(2) Kauba kaotsimineku, kahjustumise või hilinenult kohaletoimetamise korral võib saaja esitada oma nimel lepingust tulenevad nõuded vedaja vastu. Nõude esitamine saaja poolt ei välista saatja õigust esitada sama nõue.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud nõude esitanud saaja peab maksma vedajale veel võlgnetava veotasu ja hüvitamisele kuuluvad kulud kuni konossemendis või mereveokirjas märgitud summani. Kui konossementi või mereveokirja ei ole väljastatud või saajale esitatud või sellest ei tulene makstava veotasu suurus, peab saatjaga kokkulepitud veotasu maksma saaja.\n(4) Kui vedaja annab kauba saajale üle, nõudmata veotasu maksmist ja muude kulude hüvitamist, säilivad tema nõuded saatja vastu, kui saatja ja vedaja ei ole kokku leppinud teisiti."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "23",
+      "title": "§ 23. Kauba üleandmine",
+      "content": "Kaup on saajale üle antud, kui:\n1) saaja või tema esindaja on saanud kaubale otsese valduse või\n2) kaup on käesoleva seaduse § 20 lõike 4 punktis 1 nimetatud juhul või muul lastiveolepingus ettenähtud juhul sihtsadamas saajale kättesaadavalt ladustatud või hoiule antud."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "24",
+      "title": "§ 24. Pandiõigus",
+      "content": "(1) Vedajal on lastiveolepingust tulenevate nõuete ning saatjaga varem sõlmitud veo-, ekspedeerimis- või laolepingutest tulenevate nõuete tagamiseks pandiõigus kaubale ja kauba saatedokumentidele.\n(2) Pandiõigus kestab seni, kuni kaup on vedaja valduses. Pandiõigus kestab edasi ka pärast kauba üleandmist saajale, kui vedaja esitab pandiõigusest tulenevalt kolme päeva jooksul kauba üleandmisest kohtusse hagi käesoleva paragrahvi lõikes 1 nimetatud nõuete täitmiseks ja taotleb kauba arestimist ning kaup on selle arestimise hetkel veel saaja valduses.\n(3) Asjaõigusseaduse §-s 293 ja § 294 lõikes 2 sätestatud teated tuleb esitada saajale. Kui saajat ei saa kindlaks teha või kui ta keeldub kaupa vastu võtmast, tuleb teated esitada saatjale.\n(4) Kui vedamisel osaleb mitu vedajat ja need on kokku leppinud, et viimane vedaja nõuab sisse eelnevate vedajate nõuded, on viimane vedaja kohustatud kasutama eelnevate vedajate õigusi, eelkõige pandiõigust. Iga eelneva vedaja pandiõigus kestab kuni viimase vedaja pandiõiguse lõppemiseni. Kui järgnev vedaja rahuldab eelneva vedaja nõude, lähevad selle vedaja pandiõigus ja nõue üle nõude rahuldanud vedajale."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "25",
+      "title": "§ 25. Vedaja vastutus kauba kaotsimineku või kahjustumise eest",
+      "content": "Vedaja vastutab kauba kaotsimineku või kahjustumise eest, mis on toimunud kauba vedamiseks vastuvõtmisest kuni kauba üleandmiseni."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "26",
+      "title": "§ 26. Vedaja vabanemine vastutusest",
+      "content": "(1) Vedaja ei vastuta kahju eest, kui ta tõendab, et see on tekkinud:\n1) kapteni, laevapere liikme, muu vedaja teenistuses oleva isiku või lootsi teo või tegevusetuse tõttu laeva juhtimisel või laeva juhtimise korraldamisel;\n2) seetõttu, et laev ei olnud enne reisi algust või reisi alustamisel merekõlblik või lastiveokõlblik ning vedaja ei saanud temalt nõutava hoolsuse rakendamisel seda asjaolu avastada;\n3) seetõttu, et laev kaotas merekõlblikkuse või lastiveokõlblikkuse reisi kestel;\n4) tulekahju tagajärjel, välja arvatud juhul, kui tulekahju põhjustas vedaja tegu või tegevusetus;\n5) mereõnnetuse, sõja või muu relvastatud konflikti, avaliku võimu tegevuse, karantiinist tingitud piirangu või rahutuste tagajärjel;\n6)\n7) streigi või muu tööseisaku olukorra tagajärjel;\n8) saatja või kauba omaniku või nende agentide või esindajate teo või tegevusetuse tulemusena;\n9) erandliku, vältimatu ja vääramatu jõuga loodusnähtuse tagajärjel;\n10) kauba ebapiisava pakkimise või ebapiisava või ebaõige tähistamise tõttu;\n11) kauba enda puudustest või olemusest tingituna;\n12) tingituna varjatud puudusest, mida vedaja ei saanud temalt nõutava hoolsuse rakendamisel avastada.\n(2) Kokkulepe, millega nähakse ette vedaja vabanemine vastutusest muul kui käesoleva paragrahvi lõikes 1 nimetatud juhul, on tühine."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "27",
+      "title": "§ 27. Vastutusest vabanemine päästmise korral",
+      "content": "Vedaja ei vastuta lastiveolepingu rikkumise ega selle tõttu tekkiva kahju eest, kui see on põhjustatud isikute või vara päästmiseks vajalike meetmete rakendamisest merel."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "28",
+      "title": "§ 28. Kauba kaotsimineku eeldus",
+      "content": "(1) Kui kaup ei ole üle antud 60 päeva jooksul alates ajahetkest, millal see pidi olema üle antud, võib saaja lugeda kauba kaotsi läinuks, tehes selle kohta vedajale kirjalikult taasesitatavas vormis avalduse.\n(2) Kui saaja või saatja saab kauba kaotsimineku eest hüvitise, võib ta vedajalt hüvitise kättesaamisel nõuda, et talle kauba leidmisest viivitamatult teatataks.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud nõude esitanud isik võib pärast kauba leidmise teate saamist ühe kuu jooksul nõuda, et kaup antaks talle üle hüvitise tagastamise vastu. Kui hüvitissumma hõlmas lisaks hüvitisele kauba väärtuse eest ka hüvitist veo läbiviimise ja kauba kaotsiminekuga seotud kulude eest, arvestatakse need tagastatavast hüvitisest maha.\n(4) Käesoleva paragrahvi lõikes 3 sätestatu ei välista ega piira veotähtaja ületamisest tekkinud kahju hüvitamise nõude esitamist vedaja vastu.\n(5) Kui kaup leitakse pärast hüvitise maksmist ja kauba kaotsimineku eest hüvitise saanud isik ei ole nõudnud kauba leidmisest teatamist või ei esita käesoleva paragrahvi lõikes 3 nimetatud nõuet pärast teate saamist, võib vedaja kaubaga toimida oma äranägemise järgi."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "29",
+      "title": "§ 29. Kauba väärtuse hüvitamine",
+      "content": "(1) Kauba kaotsimineku korral peab vedaja hüvitama kaotsiläinud kauba väärtuse. Kauba väärtuse määramisel tuleb lähtuda selle väärtusest lossimiskohas.\n(2) Kauba kahjustumise korral tuleb hüvitada kahjustamata kauba ja kahjustatud kauba väärtuste vahe, määratuna lossimissadamas.\n(3) Kauba väärtus määratakse turuhinna, selle puudumisel sama liiki ja samasuguste omadustega kauba tavalise hinna järgi.\n(4) Muu kui käesoleva paragrahvi lõigetes 1 ja 3 nimetatud kahju hüvitamist ei saa vedajalt kauba kaotsimineku või kahjustumise korral nõuda. See ei välista ettemakstud prahiraha tagastamise nõudmist."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "30",
+      "title": "§ 30. Piirmäärad kauba väärtuse hüvitamise korral",
+      "content": "(1) Kui vedajale ei ole enne lastimise algust esitatud andmeid kauba liigi ja väärtuse kohta ning neid andmeid ei ole kantud konossementi või mereveokirja, vastutab vedaja kauba kaotsimineku või kahjustumise korral kuni 666,67 SDRi (Rahvusvahelise Valuutafondi arveldusühik) ulatuses kaubaühiku eest või 2 SDRi ulatuses kaotsiläinud või kahjustatud kauba brutokaalu kilogrammi eest, olenevalt sellest, kumb summa on suurem.\n(2) Kui kaup asub konteineris, alusel või muul sarnasel vahendil, loetakse iga kaubaühik, mis konossemendi või mereveokirja kohaselt vahendis sisaldub, kaubaühikuks käesoleva paragrahvi lõike 1 mõttes. Kui konossement või mereveokiri selliseid andmeid ei sisalda, loetakse konteiner, alus või muu sarnane vahend koos oma sisuga üheks kaubaühikuks.\n(3) Vedaja vastutus veotähtaja ületamise eest ning lastiveolepingu rikkumise eest, mille tagajärjeks ei ole veetava kauba kaotsiminek või kahjustumine, on piiratud veotasu suurusega."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "31",
+      "title": "§ 31. Vastutuse piiramise õiguse kaotamine",
+      "content": "Vedaja kaotab õiguse piirata oma vastutust vastavalt käesoleva seaduse §-le 30, kui ta rikkus lastiveolepingut tahtlikult või raske hooletuse tõttu, ning §-s 18 sätestatud juhul, kui kaup lastiti tekile saatja nõusolekuta."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "32",
+      "title": "§ 32. Muud kui lastiveolepingust tulenevad nõuded",
+      "content": "(1) Käesoleva seaduse §-s 30 nimetatud vastutuse piirmäärad kehtivad ka kauba kaotsiminekust, kahjustumisest või veotähtaja ületamisest tulenevatele saatja või saaja nõuetele vedaja vastu, mis ei tulene lastiveolepingust, eelkõige õigusvastaselt kahju tekitamisest, käsundita asjaajamisest ja alusetust rikastumisest tulenevatele nõuetele.\n(2) Käesoleva paragrahvi lõikes 1 sätestatut ei kohaldata kauba kaotsiminekust või kahjustumisest tulenevate kolmanda isiku nõuete suhtes, kui kolmas isik, kellele veetav kaup kuulub, ei olnud vedamisega nõus ja vedaja teadis või pidi teadma, et saatjal ei ole veose saatmise õigust."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "33",
+      "title": "§ 33. Töötaja vastutus",
+      "content": "Kui kauba kaotsiminekust või kahjustumisest või veotähtaja ületamisest tulenev nõue esitatakse vedaja asemel vedaja töötaja või muu isiku vastu, kelle eest vedaja vastutab, võib ka töötaja või muu isik tugineda käesoleva seaduse §-s 30 ning lastiveolepingus ettenähtud vastutuse piirangutele, välja arvatud juhul, kui kahju tekkis tema tahtluse või raske hooletuse tõttu."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "34",
+      "title": "§ 34. Tegeliku vedaja vastutus",
+      "content": "(1) Kui veo viib täielikult või osaliselt läbi tegelik vedaja, vastutab ta kauba kaotsiminekust või kahjustumisest või veotähtaja ületamisest tekkinud kahju eest samal viisil kui vedaja, kui kahju tekkis ajal, mil kaupa vedas tegelik vedaja. Vedaja kokkulepe saatja või saajaga käesoleva seaduse §-s 30 nimetatud vastutuse piirangute kohaldamata jätmise või vedaja vastutuse laiendamise kohta kehtib tegeliku vedaja suhtes üksnes juhul, kui ta on sellega kirjalikult taasesitatavas vormis nõustunud.\n(2) Tegelik vedaja võib tema vastu esitatud nõudele esitada samu vastuväiteid, mida võib esitada vedaja.\n(3) Vedaja ja tegelik vedaja vastutavad kahju eest solidaarselt.\n(4) Kui nõue esitatakse tegeliku vedaja töötaja või muu isiku vastu, kelle eest tegelik vedaja vastutab, kohaldatakse käesoleva seaduse §-s 33 sätestatut ka neile."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "35",
+      "title": "§ 35. Vastutuse piirmäär mitme isiku vastutuse korral",
+      "content": "Kui sama kahju tekitamise eest vastutavad mitu isikut, ei tohi nende poolt makstav hüvitis kokku ületada käesoleva seaduse §-s 30 sätestatud vastutuse piirmäära."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "36",
+      "title": "§ 36. Kahjust teatamine",
+      "content": "(1) Kui kauba kahjustumine või kaotsiminek on välisel vaatlusel arusaadav, kuid saaja või saatja ei ole vedajale sellest hiljemalt kauba saajale üleandmisel teatanud, eeldatakse, et kaup on üle antud lepingujärgses seisundis. Teates tuleb kahju üldiselt kirjeldada.\n(2) Kui kauba kahjustumine või kaotsiminek ei olnud kauba saajale üleandmisel väliselt arusaadav, eeldatakse, et kaup on üle antud lepingujärgses seisundis, kui saaja või saatja ei ole kauba kaotsiminekust või kahjustumisest teatanud seitsme päeva jooksul kauba saajale üleandmisest arvates.\n(3) Veotähtaja ületamisest tulenevat nõuet ei saa esitada, kui saaja ei teata vedajale nõude esitamisest 21 päeva jooksul kauba saajale üleandmisest.\n(4) Kui teade esitatakse kauba üleandmisel, võib see olla tehtud ükskõik millises vormis. Kui teade esitatakse pärast kauba üleandmist, peab see olema tehtud kirjalikult taasesitatavas vormis. Teate allkirjastamine ei ole vajalik, kui teate saatja on muul viisil tuvastatav. Teade loetakse õigeaegselt esitatuks, kui see on käesoleva paragrahvi lõigetes 2 ja 3 nimetatud tähtajal ära saadetud.\n(5) Kui kauba kaotsiminekust, kahjustumisest või vedamise aja ületamisest teatatakse kauba üleandmisel, piisab teatamisest isikule, kes kauba üle annab."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "37",
+      "title": "§ 37. Sätete kohustuslikkus",
+      "content": "Lepingupooled ei või käesolevas seaduses sätestatud vedaja vastutust kokkuleppeliselt leevendada."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "38",
+      "title": "§ 38. Konossement",
+      "content": "(1) Konossement on kaubaväärtpaber, milles vedaja tunnistab kauba vedamiseks vastuvõtmist, kohustub vedama vastuvõetud kauba konossemendis kirjeldatud kujul sihtsadamasse ning andma selle seal üle isikule, kes esitab konossemendi ja on vastavalt konossemendile õigustatud kaupa vastu võtma.\n(2) Vedaja ja saaja vahelised õigused ja kohustused määratakse konossemendiga. Konossement tõendab lastiveolepingu sõlmimist. Lastiveolepingu tingimused on saajale kohustuslikud, kui neile on konossemendis viidatud.\n(3) Saatja ja vedaja vahelisele õigussuhtele kehtib konossement lastiveolepingu kõrval vaid siis, kui saatja on ka kaupade saaja.\n(4) Kui on välja antud konossemendi mitu eksemplari ja kauba väljaandmist nõuavad mitu isikut eri eksemplaride alusel, on kauba väljanõudmise õigus isikul, kes on omandanud konossemendi õigustatud isiku käest.\n(5) Käesoleva paragrahvi lõikes 1 nimetatud konossemendiga loetakse võrdseks elektroonilises vormis koostatud konossement tingimusel, et sellise dokumendi terviklus on igal ajal tagatud ning vedaja ja saatja on elektroonilise konossemendi kasutamises kokku leppinud."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "39",
+      "title": "§ 39. Konossemendi väljastamine",
+      "content": "(1) Vedaja peab pärast kauba vastuvõtmist väljastama saatja nõudel konossemendi. Saatja võib nõuda konossemendi väljastamist mitmes eksemplaris.\n(2) Kui saatja asemel toimetab kauba vedamiseks kohale kolmas isik, kes ei ole saatja esindaja, võib konossemendi väljastamist nõuda see isik.\n(3) Kui konossemendis ei ole märgitud teisiti, tõendab konossement, et vedaja on konossemendis nimetatud kauba vastu võtnud ja laevale lastinud.\n(4) Vedaja võib saatjale või käesoleva paragrahvi lõikes 2 nimetatud isikule anda esialgse tunnistuse kaupade vastuvõtmise kohta. See tuleb vedajale konossemendi vastu tagastada."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "40",
+      "title": "§ 40. Konossemendi sisu ja vastutus konossemendi väljastamise eest",
+      "content": "(1) Saatja või käesoleva seaduse § 39 lõikes 2 nimetatud isik võib nõuda, et konossemendis oleksid järgmised andmed:\n1) laeva nimi, kui vedu tuleb sooritada kindla laevaga;\n2) vedaja nimi; kui vedaja nimi on vale, ebatäpne või seda pole märgitud, siis loetakse vedajaks reeder;\n3) vedaja poolt vastuvõetud kauba liik;\n4) saatja nimi; kui saatja asemel toimetas kauba vedamiseks kohale kolmas isik, kes ei ole saatja esindaja, ka selle isiku nimi;\n5) sihtsadam, välja arvatud juhul, kui see on jäetud saatja või kauba vedamiseks kohaletoimetanud isiku valida;\n6) saaja nimi;\n7) kaupade tähistus ja kirjeldus kaupade liigi, tunnuste ning kauba hulga, kaalu või mõõdu järgi;\n8) märkused kauba välisel vaatlusel arusaadava seisundi kohta;\n9) kokkulepped veotasu ja selle maksmise kohta;\n10) väljastamise aeg ja koht;\n11) paberil konossemendi eksemplaride arv.\n(1^1) Kui konossement on välja antud enne kauba laevale lastimist, siis hiljem tehakse konossemendile märge kauba sellele laevale lastimise kohta.\n(2) Vedaja võib nõuda saatjalt või käesoleva seaduse § 39 lõikes 2 nimetatud isikult konossemendi väljastamiseks vajalikke andmeid ja dokumente.\n(3) Vedaja peab konossemendi allkirjastama. Konossemendi võib allkirjastada kapten või selleks vedaja poolt volitatud isik, samuti vedaja jaoks pidevalt tegutsev ja selliseid ülesandeid täitev muu isik.\n(4) Vedaja vastutab konossemendi õiguspärase valdaja ees konossemendi nõuetekohase väljastamise eest. Kui vedaja seda kohustust ei täida, peab ta hüvitama konossemendi õiguspärasele valdajale kahju, mis on tekkinud seeläbi, et konossemendi õiguspärane valdaja on usaldanud konossemendi andmete õigsust."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "41",
+      "title": "§ 41. Saatja edastatud andmete ülevõtmine",
+      "content": "(1) Vedaja peab käesoleva seaduse § 40 lõike 1 punktis 7 nimetatud andmed konossementi sisse kandma sellisel kujul, nagu saatja või § 39 lõikes 2 nimetatud isik need talle kirjalikult edastas.\n(2) Vedajal ei ole käesoleva paragrahvi lõikes 1 nimetatud kohustust, kui:\n1) tähistused kaubal või selle pakendil ei ole selgelt nähtavad või on ilmne, et need ei säili normaalsetes tingimustes reisi lõpuni;\n2) vedaja peab vastavalt asjaoludele eeldama, et saatja või käesoleva seaduse § 39 lõikes 2 nimetatud isiku edastatud andmed on ebatäpsed ja\n3) vedajal ei ole mõistlikku võimalust kontrollida saatja või käesoleva seaduse § 39 lõikes 2 nimetatud isiku edastatud andmete õigsust;\n4) vedaja teeb kindlaks, et saatja või käesoleva seaduse § 39 lõikes 2 nimetatud isiku edastatud andmed on valed.\n(3) Kui vedaja kannab konossementi saatja või käesoleva seaduse § 39 lõikes 2 nimetatud isiku edastatud andmed, kuigi esinevad käesoleva paragrahvi lõike 2 punktides 1–3 nimetatud asjaolud, teeb ta konossementi sellekohase põhjendatud märkuse. Kaupade puhul, mis antakse vedajale vedamiseks konteineris, mahutis või muus sarnases suletud vahendis, võib konossementi teha märkuse «sisu tundmatu»."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "42",
+      "title": "§ 42. Konossemendi andmete õigsuse eeldamine",
+      "content": "(1) Kui konossement on väljastatud, loetakse selle andmed õigeks, kuni pole tõendatud vastupidist. See ei kehti andmete suhtes, mille kohta on konossementi tehtud põhjendatud märkus vastavalt käesoleva seaduse § 41 lõikele 3.\n(2) Kui konossemendi andmed loetakse vastavalt käesoleva paragrahvi lõikele 1 õigeks, ei või vedaja neid vaidlustada, kui konossement on üle antud kolmandale isikule, kes konossemendi saamise ajal ei teadnud ega pidanudki teadma, et selle andmed on ebaõiged. See ei kehti konossemendis sisalduvate kauba väärtuse kohta käivate andmete kohta."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "43",
+      "title": "§ 43. Väljaandmisnõue konossemendi mitme valdaja puhul",
+      "content": "Kui kauba väljaandmist nõuab konossemendi mitu valdajat, siis peab vedaja kauba saaja arvel ladustama või hoiule andma ning teavitama sellest konossemendi valdajaid, kes on nõudnud kauba väljaandmist."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "44",
+      "title": "§ 44. Läbiv konossement",
+      "content": "(1) Läbiv konossement on konossement, milles on märgitud, et kaupade vedu viiakse läbi rohkem kui ühe vedaja poolt.\n(2) Isik, kes annab välja läbiva konossemendi, peab tagama, et vedamisel osaleva vedaja poolt teatud veoteekonna lõigu kohta väljaantud konossemendis oleks märgitud, et kaupa veetakse läbiva konossemendi kohaselt.\n(3) Läbiva konossemendi korral võivad vedajad kokku leppida solidaarses vastutuses ning selle vastavalt konossemendis märkida."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "45",
+      "title": "§ 45. Kauba üleandmine ja konossemendi tagastamine",
+      "content": "Vedaja on kohustatud kauba saajale üle andma üksnes siis, kui talle tagastatakse konossement ja saaja annab allkirja kauba vastuvõtmise kohta. Kui üle antakse üksnes osa konossemendis märgitud kaubast, peab saaja konossemendi vedaja kasuks hoiustama ja andma kauba vastuvõtmise kohta allkirja."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "46",
+      "title": "§ 46. Konossemendi üleandmise tähendus",
+      "content": "Kui vedaja on kauba vedamiseks vastu võtnud, on konossemendi üleandmisel isikule, kes võib konossemendi alusel nõuda kauba üleandmist, samasugune tähendus kui kauba valduse üleandmisel."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "47",
+      "title": "§ 47. Mereveokiri",
+      "content": "(1) Saatja või käesoleva seaduse § 39 lõikes 2 nimetatud isik võib nõuda vedajalt konossemendi asemel tunnistust kaupade vastuvõtmise kohta (mereveokiri).\n(2) Saatja võib kohustada vedajat kaupa üle andma muule kui mereveokirjas nimetatud saajale, kuni saaja ei ole esitanud kauba väljaandmise nõuet ja maksnud veotasu vastavalt käesoleva seaduse §-le 22.\n(3) Mereveokirjale kohaldatakse vastavalt käesoleva seaduse § 40 lõike 1 punktides 1, 2, 4–11 ja lõikes 2 ning §-s 41 ja § 42 lõikes 1 sätestatut."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "2. peatükk - LASTIVEDU",
+      "section": "48",
+      "title": "§ 48. Nõuete aegumine",
+      "content": "(1) Käesolevas peatükis sätestatud vedamisest tulenevate nõuete aegumistähtaeg on üks aasta kauba üleandmisest alates.\n(2) Kui kaupa ei ole üle antud, algab aegumistähtaeg päevast, mil kaup oleks tulnud üle anda. Kui kauba üleandmise aega ei ole kokku lepitud, algab aegumistähtaeg 60 päeva möödumisel kauba vedajale üleandmisest.\n(3) Kui vedamisest tuleneva nõude rahuldamiseks kohustatud isik saab nõude rahuldamiseks üleantu hüvitamist nõuda teiselt isikult, algab tema sellise hüvitusnõude aegumistähtaeg vedamisest tuleneva nõude rahuldamisest või vedamise suhtes tehtud kohtuotsuse jõustumisest. Käesolevas lõikes sätestatut ei kohaldata juhul, kui isikule, kelle vastu hüvitusnõue esitati, ei teatatud kahjust kolme kuu jooksul alates ajast, kui tagasinõude esitamiseks õigustatud isik sai teada või pidi teada saama kahjust ja tagasinõude täitmiseks kohustatud isikust.\n(4) Vedaja vastu suunatud nõude aegumistähtaeg peatub saatja või saaja poolt kirjalikult taasesitatavas vormis avalduse tegemisest, millega ta esitab kahju hüvitamise nõude, kuni ajani, mil vedaja lükkab nõude täitmise kirjalikult taasesitatavas vormis tagasi. Sama kahju hüvitamise nõude esitamine uues avalduses ei peata aegumist uuesti."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "3. peatükk - LAEVA REISIPRAHTIMINE",
+      "section": "49",
+      "title": "§ 49. Laeva reisiprahileping",
+      "content": "(1) Laeva reisiprahileping on kasutusleping, millega üks isik (prahileandja) kohustub andma teisele isikule (reisiprahtija) kasutamiseks nõuetekohaselt mehitatud ja varustatud merekõlbliku laeva või selle osa üheks või mitmeks kokkulepitud reisiks, osutamata seejuures reisiprahtijale veoteenust. Reisiprahtija kohustub laeva kasutamise eest maksma prahileandjale kokkulepitud tasu (reisiprahiraha).\n(2) Prahileandja on kohustatud tagama laeva merekõlblikkuse reisiprahilepingu kehtivuse ajal."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "3. peatükk - LAEVA REISIPRAHTIMINE",
+      "section": "50",
+      "title": "§ 50. Laeva õigeaegne etteandmine",
+      "content": "Prahileandja peab laeva ettenähtud aja jooksul kauba lastimiseks ette andma. Asenduslaeva võib ette anda ainult reisiprahtija nõusolekul. Reisiprahtija võib nõusoleku andmisest keelduda üksnes juhul, kui asenduslaev ei vasta reisiprahilepingu tingimustele. Sellisel juhul võib reisiprahtija lepingu üles öelda."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "3. peatükk - LAEVA REISIPRAHTIMINE",
+      "section": "51",
+      "title": "§ 51. Laeva etteandmisega viivitamine",
+      "content": "(1) Kui prahileandja võib eeldada, et ta ei suuda laeva ettenähtud aja jooksul ette anda, peab ta sellest viivitamatult reisiprahtijale teatama, näidates ära laeva eeldatava etteandmise aja.\n(2) Kui reisiprahtija võib reisiprahilepingu laeva etteandmisega viivitamise tõttu üles öelda, võib prahileandja käesoleva paragrahvi lõikes 1 nimetatud teate tegemisel taotleda, et reisiprahtija ütleks lepingu üles või loobuks ülesütlemisest eeldusel, et laev antakse ette lõikes 1 nimetatud teates näidatud ajal.\n(3) Kui reisiprahtija ei ole käesoleva paragrahvi lõikes 2 nimetatud taotluse saamisest alates 48 tunni jooksul prahileandjale teatanud, kas ta ütleb lepingu üles või loobub lepingu ülesütlemisest eeldusel, et laev antakse ette käesoleva paragrahvi lõikes 1 nimetatud teates näidatud ajal, on lepingu ülesütlemine laeva etteandmisega viivitamise tõttu keelatud, kui ülesütlemine toimub viivituse tõttu lõikes 1 nimetatud teates näidatud laeva etteandmise ajani.\n(4) Käesoleva paragrahvi lõikes 3 sätestatu ei välista ega piira reisiprahtija poolt muude õiguskaitsevahendite kasutamist."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "3. peatükk - LAEVA REISIPRAHTIMINE",
+      "section": "52",
+      "title": "§ 52. Lastimissadam",
+      "content": "(1) Laev tuleb kauba lastimiseks ette anda reisiprahilepinguga määratud sadamas (lastimissadam).\n(2) Lepingus võidakse kokku leppida, et lastimissadama võib kindla tähtaja jooksul pärast lepingu sõlmimist määrata reisiprahtija. Kui tähtaega ei ole kindlaks määratud, siis peab reisiprahtija määrama lähtesadama selliselt, et laev jõuaks sadamasse lepingus määratud ajaks. Reisiprahtija peab valima sobiva ja ohutu sadama.\n(3) Kui lastimissadamat ei ole määratud või kui seda ei ole määratud õigeaegselt või kui on määratud sobimatu sadam, võib prahileandja lepingu üles öelda ja nõuda:\n1) kokkulepitud reisiprahiraha ja hüvitamisele kuuluvate kulude maksmist või\n2) kokkulepitud reisiprahirahast kolmandiku maksmist.\n(4) Reisiprahtija võib käesoleva paragrahvi lõike 3 punktis 1 nimetatud nõude esitamise korral nõuda, et lõike 3 punktis 1 nimetatud summadest arvestataks maha summa, mille prahileandja on lepingu lõpetamise tõttu kokku hoidnud või muul viisil lepingu lõppemise tõttu omandanud või pahauskselt omandamata jätnud."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "3. peatükk - LAEVA REISIPRAHTIMINE",
+      "section": "53",
+      "title": "§ 53. Lastimiskoht",
+      "content": "(1) Reisiprahtija peab õigeaegselt nimetama sobiva lastimiskoha. Kui ta seda ei tee, siis on prahileandjal pärast seisuaja (§ 54 lõige 1) möödumist käesoleva seaduse § 52 lõikes 3 nimetatud õigused.\n(2) Prahileandja peab tooma laeva reisiprahtija poolt nimetatud lastimiskohale ja tagama, et laev on lastimisvalmis.\n(3) Prahileandja võib tuua laeva reisiprahtija poolt nimetatud lastimiskoha asemel muu sobiva lastimiskoha juurde, kui:\n1) reisiprahtija nimetatud lastimiskoht pole laeva lastimiseks sobiv;\n2) reisiprahtija ei ole nimetanud lastimiskohta õigeaegselt;\n3)\n4) laeva ohutus või lastimiskohas kehtivad eeskirjad ei võimalda reisiprahtija nimetatud lastimiskoha kasutamist.\n(4) Reisiprahtija võib nõuda, et laev viidaks tema kulul muule lastimiskohale.\n(5)"
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "3. peatükk - LAEVA REISIPRAHTIMINE",
+      "section": "54",
+      "title": "§ 54. Seisuaeg ja üleseisuaeg",
+      "content": "(1) Prahileandja peab võimaldama laeva lastimist kokkulepitud aja (seisuaeg) jooksul ja hoidma laeva selle aja jooksul lastimisvalmis. Seisuaja eest ei saa nõuda täiendavat tasu, välja arvatud juhul, kui see on selgesõnaliselt kokku lepitud.\n(2) Kui on kokku lepitud, et pärast seisuaja möödumist peab prahileandja võimaldama laeva lastimist kokkulepitud aja jooksul täiendava tasu eest, loetakse kokkulepitud ajavahemik üleseisuajaks.\n(3) Kui reisiprahilepingus on ette nähtud tasu maksmine üleseisuaja eest, siis loetakse üleseisuaeg kokkulepituks. Kui tasu suurust pole kokku lepitud, tuleb üleseisuaja eest maksta tavalist tasu.\n(4) Lepingus võidakse kokku leppida prahileandja kohustuses maksta laeva lühema seisuaja korral reisiprahtijale preemia kokkuhoitud aja eest."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "3. peatükk - LAEVA REISIPRAHTIMINE",
+      "section": "55",
+      "title": "§ 55. Seisuaja algus ja lastimisvalmidus",
+      "content": "(1) Seisuaeg algab pärast ettevalmistusaja möödumist. Ettevalmistusaeg on ajavahemik lastimisvalmiduse teate tegemisest järgneva tööpäeva esimese vahetuse alguseni lastimissadamas.\n(2) Kui lastimine algab enne ettevalmistusaja möödumist, arvestatakse enne ettevalmistusaja möödumist tegelikult lastimiseks kulunud aeg seisuaja hulka.\n(3) Lastimisvalmiduse teate võib teha, kui laev on saabunud lastimissadamasse ja on kauba lastimiseks valmis. Kui lastimiskoht on eelnevalt kokku lepitud, võib teate teha siis, kui laev on saabunud lastimiskohale ja on kauba lastimiseks valmis. Teates võib märkida, et laev on lastimisvalmis ettevalmistusaja möödumisel.\n(4) Lastimisvalmidusest tuleb teatada reisiprahtijale. Kui reisiprahtija asemel peab kauba vedamiseks kohale toimetama kolmas isik, kes ei ole reisiprahtija esindaja, tuleb lastimisvalmidusest teatada temale.\n(5) Kui laev ei saa sadamasse siseneda prahileandjast mitteoleneval põhjusel või kui lastimiskoht ei ole laeva vastuvõtmiseks valmis, võib käesoleva paragrahvi lõikes 3 nimetatud teate teha pärast seda, kui prahileandja on teinud kõik enda poolt võimaliku, et tuua laev sadamasse või lastimiskohale.\n(6) Kui pärast käesoleva paragrahvi lõikes 3 nimetatud teate tegemist selgub, et laev ei ole lastimisvalmis, ei arvestata ajavahemikku laeva lastimisvalmiduse puudumise avastamisest kuni lastimisvalmiduse taastamiseni seisuaja hulka. Laev ei ole lastimisvalmis, kui laeva mehhanismid ja ruumid, kuhu kaup lastitakse, ei ole kauba vastuvõtmiseks vajalikus seisundis.\n(7) Käesoleva paragrahvi lõikes 6 sätestatut ei kohaldata juhul, kui prahileandja teadis või pidi lastimisvalmiduse teate tegemise ajal teadma, et laev ei ole lastimiseks valmis. Sellisel juhul loetakse, et lastimisvalmidusest ei ole teatatud."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "3. peatükk - LAEVA REISIPRAHTIMINE",
+      "section": "56",
+      "title": "§ 56. Seisuaja kestus",
+      "content": "(1) Kui seisuaja kestust ei ole kokku lepitud, loetakse seisuajaks sarnase laeva tavaline lastimisaeg sellises sadamas.\n(2) Lastimisaega arvestatakse päevade, tundide ja minutitega. Lastimisaja hulka ei arvestata pühapäevi ja riigipühasid, välja arvatud juhul ja ulatuses, kus neid tegelikult lastimiseks kasutatakse.\n(3) Kui laev ei saa kaupa vastu võtta, näiteks haalamise ajal kaikohtade vahetamiseks, peatub lastimisaja kulgemine. Lastimisaja kulgemine peatub ka siis, kui ilmastikuolude tõttu ei saa kaupa üle anda või saab seda üle anda ainult kauba seisundit kahjustades. Lastimisaja kulgemine ei peatu takistuste tõttu, mis on tingitud kauba lastimiseks ettevalmistamisest sadamas.\n(4) Kui seisuaja kestus on kokku lepitud, ei lõpe seisuaeg enne kokkulepitud aja möödumist."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "3. peatükk - LAEVA REISIPRAHTIMINE",
+      "section": "57",
+      "title": "§ 57. Üleseisuaja algus ja kestus",
+      "content": "(1) Üleseisuaeg algab pärast seisuaja möödumist.\n(2) Kui üleseisuaja kestus ei ole kokku lepitud, siis loetakse, et üleseisuaeg on sama pikk kui seisuaeg.\n(3) Üleseisuaeg kulgeb ka pühapäevadel ja riigipühadel, samuti ka ajal, kui laev ei saa kaupa vastu võtta või saab seda vastu võtta ainult kauba seisundit kahjustades. Aega, mil laev ei olnud lastimisvalmis, ei loeta üleseisuaja hulka.\n(4) Prahileandja peab mõistliku aja jooksul enne üleseisuaja lõppemist reisiprahtijale teatama, mis ajast alates ta lasti enam ei oota. Kui reisiprahtija asemel peab kauba vedamiseks kohale toimetama kolmas isik, kes ei ole reisiprahtija esindaja, tuleb teatada temale. Üleseisuaeg ei lõpe enne teate tegemist."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "3. peatükk - LAEVA REISIPRAHTIMINE",
+      "section": "58",
+      "title": "§ 58. Lossimiskoht, seisuaeg, üleseisuaeg ja preemia laeva lossimisel",
+      "content": "Käesoleva seaduse §-des 53–57 sätestatut kohaldatakse vastavalt ka lossimiskoha määramisel ning seisuaja, üleseisuaja ja § 54 lõikes 4 nimetatud preemia määramisel laeva lossimisel."
+    },
+    {
+      "provision_ref": "para58^1",
+      "chapter": "3. peatükk - LAEVA REISIPRAHTIMINE",
+      "section": "58^1",
+      "title": "§ 58^1. Sõjarisk",
+      "content": "(1) Reisiprahilepingu pooltel on õigus prahileping igal ajal üles öelda, kui pärast prahilepingu sõlmimist selgub, et reis sisaldab ohtu laevale, inimestele laeva pardal või kaubale sõja või muu relvastatud konflikti, rahutuste või piraatluse tõttu. Lepingupooled ei vastuta sellisel juhul tekkinud kahju eest. Lepingupooltel on kohustus teha kõik mõistlikult võimalik, et tekkivat kahju vähendada.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud ülesütlemisavaldus tuleb teha viivitamata pärast seda, kui lepingupool sai teada ülesütlemise aluseks olevast asjaolust. Kui lepingupool ei järgi ülesütlemiseks ettenähtud tähtaega, peab ta hüvitama kohustuse rikkumisega tekitatud kahju."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "4. peatükk - REISIJATE VEDU MEREL",
+      "section": "59",
+      "title": "§ 59. Mere-reisijaveoleping",
+      "content": "(1) Mere-reisijaveoleping on veoleping, millega üks pool (vedaja) kohustub teise poole ees vedama meritsi sihtkohta ühe või mitu isikut (reisija) koos pagasiga või ilma selleta. Teine pool kohustub maksma selle eest kokkulepitud tasu (reisitasu). Mere-reisijaveolepingule kohaldatakse võlaõigusseaduses reisijaveolepingu kohta sätestatut käesolevas peatükis sätestatud erisustega.\n(2) Vedamine algab ajahetkest, mil reisija astub laevale, ja lõpeb, kui reisija laevalt lahkub. Vedamise hulka kuulub ka reisija mööda veeteed laevale toomise ja laevalt mööda veeteed maale viimise aeg, kui sellest tekkivad kulud sisalduvad reisitasus või kui selle teenuse osutamiseks kasutatava sõiduki annab vedaja. Vedamise hulka ei kuulu aeg, mil reisija viibib terminalis või kail.\n(3) Pagasi puhul algab vedamine pagasi üleandmisest vedajale ning lõpeb pagasi tagastamisega reisijale. Käsipagasi puhul algab vedamine samal ajal, kui reisija vedamine.\n(4) Vedaja poolt antud pilet on tõendiks mere-reisijaveolepingu sõlmimise ja reisitasu maksmise kohta. Pagasikviitung tõendab pagasi üleandmist vedajale.\n(5) Ristlusleping on mere-reisijaveoleping, mille kohaselt ristluse organiseerija kohustub korraldama kindla programmiga kollektiivse huvireisi laeval (edaspidi ristlus ) ja osutama reisijaile asjakohaseid teenuseid.\n(6) Regulaarse reisijateveo või regulaarse ristluse korraldamisega võib tegeleda ainult vedaja, kes on kindlustanud oma vastutuse reisijale tekitatud kahju eest käesolevas seaduses sätestatud vastutuse piirmäärade ulatuses, arvestades reisijate arvu, mida reisijateveol kasutatav laev võib pardale võtta."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "4. peatükk - REISIJATE VEDU MEREL",
+      "section": "60",
+      "title": "§ 60. Lepingupoolte kohustused",
+      "content": "(1) Vedaja ja reisija peavad tegema enda poolt võimaliku, et mitte ohustada laeval viibivate isikute elu ja tervist ning tagada reisijate turvalisus ja kord laeval.\n(2) Vedaja peab rakendama nõutavat hoolsust selle eest, et laev on reisi alustamisel merekõlblik, omab reisijateveo tunnistust või muud reisijateveo õigust tõendavat tunnistust, on vajalikult varustatud ja mehitatud ning on tagatud reisija turvalisus, sealhulgas laeva sisenemisel ja sealt väljumisel.\n(3) Vedaja peab reisi ajal tagama, et reisija majutataks ning tema eest hoolitsetaks veo laadile ja kestusele vastaval tavapärasel viisil. Kui reisija reisi ajal haigestub, peab vedaja reisija eest hoolitsemiseks ja tema ravi korraldamiseks võtma tarvitusele kõik vajalikud meetmed, mille rakendamist saab vedajalt vastavalt asjaoludele mõistlikult eeldada.\n(4) Reisija peab alluma kapteni korraldustele, mis puudutavad ohutust ja korda laeval."
+    },
+    {
+      "provision_ref": "para60^1",
+      "chapter": "4. peatükk - REISIJATE VEDU MEREL",
+      "section": "60^1",
+      "title": "§ 60^1. Reisijate õiguste kaitse",
+      "content": "(1) Tarbijakaitse ja Tehnilise Järelevalve Amet tagab Euroopa Parlamendi ja nõukogu määruse (EL) nr 1177/2010, mis käsitleb meritsi ja siseveeteedel reisijate õigusi ning millega muudetakse määrust (EÜ) nr 2006/2004 (ELT L 334, 17.12.2010, lk 1–16), rakendamise seoses Eestis asuvast sadamast lähtuva reisijateveoteenuse ja ristlusega ning seoses Euroopa Liidu välisest riigist sellisesse sadamasse saabuva reisijateveoteenusega.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud ristlusena käsitletakse ristlust, mis kestab kauem kui kaks ööbimist laeva pardal.\n(3) Tarbijakaitse ja Tehnilise Järelevalve Ametil on õigus teha ettekirjutusi, millega kohustatakse isikut tegema Euroopa Parlamendi ja nõukogu määruse (EL) nr 1177/2010 kohaselt nõutavat tegu või hoiduma nimetatud määruses keelatud teost. Ettekirjutust ei ole võimalik teha tarbija ja vedaja vahelise veolepingust tuleneva vaidluse lahendamiseks.\n(4) Tarbijakaitse ja Tehnilise Järelevalve Ameti tehtud ettekirjutus peab olema kirjalik ja selles peavad sisalduma järgmised andmed:\n1) isiku nimi, kellele ettekirjutus on suunatud;\n2) andmed ettekirjutuse objektiks oleva toimingu kohta;\n3) ettekirjutuse täitmise tähtaeg;\n4) ettekirjutuse tegemise põhjendus;\n5) ettekirjutuse tegemise kuupäev, ettekirjutuse teinud isiku nimi, ametikoht, ametinimetus ja allkiri.\n(5) Tarbijakaitse ja Tehnilise Järelevalve Amet võib asendustäitmise ja sunniraha seaduses sätestatud korras määrata ettekirjutuse täitmata jätmise korral sunniraha kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "4. peatükk - REISIJATE VEDU MEREL",
+      "section": "61",
+      "title": "§ 61. Vedaja vastutus õnnetusjuhtumi korral ja selle piiramine",
+      "content": "(1) Vedaja vastutab ja võib oma mere-reisijaveolepingust tuleneva vastutuse piirata vastavalt Euroopa Parlamendi ja nõukogu määrusele (EÜ) nr 392/2009 reisijate meritsi vedajate vastutuse kohta õnnetusjuhtumite korral (ELT L 131, 28.05.2009, lk 24–46).\n(1^1) Reisija surma, tervisekahjustuse või kehavigastuse põhjustamise korral rakendatav vastutuse piirmäär ühe reisija kohta peab Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 392/2009 artikli 2 kohase rahvusvahelise reisijateveo puhul olema vähemalt 250 000 SDRi. Sõjalise riski esinemisel reisijateveo kestel ei või vastutuse piirmäär juhtumi kohta ületada 250 000 SDRi reisija kohta või 340 miljonit SDRi laeva kohta, sõltuvalt sellest, kumb on madalam.\n(1^2) Käesoleva paragrahvi lõikes 1^1 sätestatud piirmäärad kehtivad riigisisese reisijateveo puhul laeval, mida kasutatakse reisijateveoks sõidupiirkonnas, kus on kohustuslik sõita vähemalt B-klassi reisilaevaga.\n(2) Kui regulaarse reisijateveo puhul on reisi lähte- või sihtsadam riigis, mille seadusandlus näeb kohustuslikuna ette kõrgemad vastutuse piirmäärad kui need, mis kehtiksid vastavalt Euroopa Parlamendi ja nõukogu määrusele (EÜ) nr 392/2009, kohaldatakse kõrgemat vastutuse piirmäära.\n(3) Lepingupooled ei või käesolevas peatükis sätestatud vedaja vastutust kokkuleppeliselt leevendada."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "5. peatükk - LAEVA TÄHTAJALINE PRAHTIMINE",
+      "section": "62",
+      "title": "§ 62. Laeva tähtajalise prahtimise leping",
+      "content": "(1) Laeva tähtajalise prahtimise leping on kasutusleping, millega üks isik (prahileandja) kohustub andma laeva koos laevaperega või ilma laevapereta lepingujärgseks tähtajaliseks kasutamiseks teisele isikule (prahtija), osutamata seejuures prahtijale veoteenust. Prahtija maksab laeva kasutamise eest kokkulepitud tasu ettemaksena.\n(2)\n(3)\n(4) Laeva tähtajalise prahtimise lepinguks on laeva ajaprahileping ja laeva laevapereta prahtimise leping.\n(5) Laeva ajaprahileping on kasutusleping, millega prahileandja kohustub andma laeva koos laevaperega lepingujärgseks tähtajaliseks kasutamiseks prahtijale, osutamata sealjuures prahtijale veoteenust.\n(6) Laeva laevapereta prahtimise leping on kasutusleping, millega prahileandja kohustub andma laeva ilma laevapereta lepingujärgseks tähtajaliseks kasutamiseks prahtijale, osutamata seejuures prahtijale veoteenust."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "5. peatükk - LAEVA TÄHTAJALINE PRAHTIMINE",
+      "section": "63",
+      "title": "§ 63. Laeva üleandmine ja tagastamine",
+      "content": "(1) Laev ja selle varustus peavad laeva üleandmisel ja laeva tagastamisel vastama kokkulepitud tingimustele, kokkuleppe puudumisel aga tavaliselt esitatavatele nõuetele.\n(2)\n(3)\n(4) Laev tuleb üle anda ja tagastada kokkulepitud ajal ja kohas. Prahileandja võib keelduda laeva üleandmisest, kui talle ei ole antud kokkulepitud tagatist prahtija kohustuste täitmise tagamiseks."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "5. peatükk - LAEVA TÄHTAJALINE PRAHTIMINE",
+      "section": "64",
+      "title": "§ 64. Puuduste kõrvaldamine",
+      "content": "(1) Prahtija peab informeerima prahileandjat laeval esinevatest puudustest ning korraldama nende kõrvaldamise prahileandjale aktsepteeritaval viisil.\n(2) Kui prahtija ei vastuta tekkinud puuduse eest, peab prahileandja hüvitama puuduse kõrvaldamise kulud.\n(3) Prahtija peab tagama prahileandja laevaga seotud huvide kaitse kolmandate isikute vastu.\n(4) Kui prahtija ei saa rohkem kui 24 tunni jooksul laeva lepingupäraselt kasutada puuduste tõttu, mille eest ta ei vastuta, ei pea ta selle aja eest tasu maksma."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "5. peatükk - LAEVA TÄHTAJALINE PRAHTIMINE",
+      "section": "65",
+      "title": "§ 65. Tasu maksmise kohustus laevahuku korral",
+      "content": "(1) Laevahuku korral lõpeb tasu maksmise kohustus laevahuku päevast. Kui laevahuku päeva ei saa kindlaks teha, lõpeb tasu maksmise kohustus laeva kohta viimase teate saamise päevast.\n(2) Kui prahtija vastutab laevahuku põhjustamise eest, ei vabane ta tasu maksmise kohustusest kogu laeva tähtajalise prahtimise lepingu kestuse aja eest."
+    },
+    {
+      "provision_ref": "para65^1",
+      "chapter": "5. peatükk - LAEVA TÄHTAJALINE PRAHTIMINE",
+      "section": "65^1",
+      "title": "§ 65^1. Erisused laeva ajaprahtimise korral",
+      "content": "(1) Ajaprahtimise korral peab prahileandja laeva üleandmisel tagama laeva kasutamise otstarbele vastava nõuetekohase mehitatuse ja varustatuse.\n(2) Prahtija võib anda kaptenile ja teistele laevapere liikmetele juhiseid, mis seonduvad laeva kasutamisega. Juhised ei tohi olla vastuolus lepingu tingimustega ega ohutu meresõidu praktikaga. Kapten ei pea alluma juhistele, mis puudutavad laeva navigeerimist."
+    },
+    {
+      "provision_ref": "para65^2",
+      "chapter": "5. peatükk - LAEVA TÄHTAJALINE PRAHTIMINE",
+      "section": "65^2",
+      "title": "§ 65^2. Erisused laeva laevapereta prahtimise korral",
+      "content": "(1) Lisaks käesoleva seaduse § 63 lõikes 1 sätestatule peab laev laevapereta prahtimise korral laeva üleandmisel ja tagastamisel vastama merekõlblikkusele esitatavatele nõuetele, välja arvatud mehitatusega seotud nõuded. Muus osas peab laev üleandmisel olema seisukorras, mis võimaldab seda kasutada kokkulepitud eesmärgil. Laeva seisukord peab olema üleandmisel ja tagastamisel nõuetekohaselt dokumenteeritud.\n(2) Laeva laevapereta prahtimise korral loetakse laeva vastuvõtmisega prahtija poolt käesoleva seaduse §-st 63 ja käesolevast paragrahvist tulenevad prahileandja kohustused täidetuks.\n(3) Lisaks käesoleva seaduse § 64 lõikes 2 sätestatule saab laeva laevapereta prahtimise korral prahtija nõuda prahileandjalt pärast laeva vastuvõtmist ilmnenud puuduse kõrvaldamiseks tehtud kulude hüvitamist üksnes juhul, kui puudus ilmneb 18 kuu jooksul laeva üleandmisest arvates ja seda ei olnud võimalik laeva üleandmisel tehtud ülevaatuse käigus avastada, samuti juhul, kui prahileandja laeva üleandmisel puudusest teadis või pidi sellest teadma."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "6. peatükk - PUKSEERIMINE",
+      "section": "66",
+      "title": "§ 66. Pukseerimisleping",
+      "content": "(1) Pukseerimisleping on töövõtuleping, millega üks isik (pukseerija) kohustub pukseerima laeva, eelkõige laeva vedamise või tõukamise teel. Teine isik (tellija) kohustub maksma selle eest kokkulepitud või tavalist tasu.\n(2) Pukseerimiseks loetakse käesoleva paragrahvi lõike 1 mõttes ka pukseri valmispanekut pukseeritava laeva läheduses, abistamaks laeva manöövri tegemisel. Pukseerimise kestuse hulka kuuluvad ka ajavahemikud, mis on pukserile mõistlikult vajalikud tellija laevani jõudmiseks ning tagasipöördumiseks oma tavalisse asukohta."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "6. peatükk - PUKSEERIMINE",
+      "section": "67",
+      "title": "§ 67. Lepingupoolte kohustused",
+      "content": "(1) Pukseerija peab kindlaksmääratud ajal ja kokkulepitud kohas valmis panema pukseri, mis on ettenähtud manöövri tegemiseks sobiv ning nõuetekohaselt varustatud ja mehitatud.\n(2) Tellija peab laeva kokkulepitud kohas õigeaegselt valmis panema. Laev peab olema pukseerimiskõlblikus seisukorras.\n(3) Pukseerimise käigus kahju tekkimise korral pukseerimises osalejale või kolmandale isikule loetakse pukseerimislepingu poolte vahelises suhtes vastutavaks laev, mille kaptenil oli navigatsiooniline juhtimine, kuni ei ole tõendatud vastupidist. Kui lepingupooled ei ole kokku leppinud teisiti, loetakse töökorras jõuseadmetega liikurlaeva pukseerimisel, et navigatsiooniline juhtimine lasub pukseeritava laeva kaptenil. Laevapere, kes on allutatud teise pukseerimises osaleva laeva kapteni navigatsioonilisele juhtimisele, peab tegema enda poolt võimaliku, et pukseerimine oleks ohutu.\n(4) Pukseerimise ajal ohtu sattunud laeva ja sellel asuva lasti päästmisel ei ole pukseerijal õigust nõuda päästetasu, välja arvatud juhul, kui ta osutas sellist abi, mis väljus pukseerimistööde raames osutatavatest teenustest, ja oht, mis tingis abi osutamise, ei olnud tema põhjustatud."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "7. peatükk - VASTUTUS KAHJU TEKITAMISE EEST JA SELLE PIIRAMINE MERINÕUETE KORRAL",
+      "section": "69",
+      "title": "§ 69. Reederi vastutus",
+      "content": "(1) Reeder vastutab laeva nõuetekohase käitamise eest.\n(2) Kui reeder ei ole vedaja, siis vastutab ta veolepingu järgse saatja, saaja või reisija ees samas ulatuses, milles ta vastutaks juhul, kui ta oleks vedaja."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "7. peatükk - VASTUTUS KAHJU TEKITAMISE EEST JA SELLE PIIRAMINE MERINÕUETE KORRAL",
+      "section": "70",
+      "title": "§ 70. Konventsioonide kohaldamine",
+      "content": "(1) Vastutuse piiramisel kuuluvad kohaldamisele merinõuete korral vastutuse piiramise 1976. aasta konventsioon, mida on muudetud 1996. aasta protokolliga (edaspidi merinõuete korral vastutuse piiramise konventsioon ), naftareostusest põhjustatud kahju korral kehtiva tsiviilvastutuse 1992. aasta rahvusvaheline konventsioon ja punkrikütusereostusest põhjustatud kahju eest kantava tsiviilvastutuse 2001. aasta rahvusvaheline konventsioon.\n(2)"
+    },
+    {
+      "provision_ref": "para70^1",
+      "chapter": "7. peatükk - VASTUTUS KAHJU TEKITAMISE EEST JA SELLE PIIRAMINE MERINÕUETE KORRAL",
+      "section": "70^1",
+      "title": "§ 70^1. Vastutuse piiramise välistamine",
+      "content": "(1) Vastutaval isikul ei ole õigust oma vastutust piirata, kui on tõendatud, et kahju tekkis tema enda teo või tegevusetuse tagajärjel, mille ta pani toime tahtlikult või raskest hooletusest.\n(2) Vastutust ei saa piirata kohtu- ja vahekohtukulude hüvitamise nõuete suhtes."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "7. peatükk - VASTUTUS KAHJU TEKITAMISE EEST JA SELLE PIIRAMINE MERINÕUETE KORRAL",
+      "section": "71",
+      "title": "§ 71. Vastutuse piirmäär väikeste laevade puhul",
+      "content": "Kuni 250-se kogumahutavusega laeva vastutuse piirmäär on vastavalt merinõuete korral vastutuse piiramise konventsiooni artikli 6 lõike 1 punktile b pool kuni 500-se kogumahutavusega laeva vastutuse piirmäärast."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "7. peatükk - VASTUTUS KAHJU TEKITAMISE EEST JA SELLE PIIRAMINE MERINÕUETE KORRAL",
+      "section": "72",
+      "title": "§ 72. Vastutuse piirmäär kulude hüvitamise nõuete puhul",
+      "content": "(1) Käesoleva seaduse § 70 lõikes 1 nimetatud konventsioone kohaldatakse ka uppunud, avarii teinud, randunud või mahajäetud laeva koos kõigega, mis selle laeva pardal on või oli, ülestõstmise, kõrvaldamise, hävitamise või kahjutuks tegemise ning laeva lasti kõrvaldamise, hävitamise või kahjutuks tegemise kulude hüvitamise nõuetele.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud nõuete suhtes ei saa vastutust piirata juhul, kui laev või selle last, mille suhtes lõikes 1 nimetatud abinõusid rakendatakse, kujutab endast ohtu keskkonnale.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud nõuete korral arvestatakse vastutuse piirmäär vastavalt merinõuete korral vastutuse piiramise konventsiooni artikli 6 lõike 1 punktile b. Vastutuse piirmäär kehtib käesoleva paragrahvi lõikes 1 nimetatud nõuetele, mis on tekkinud samast sündmusest ja suunatud isikute vastu, kes kuuluvad samasse isikute ringi merinõuete korral vastutuse piiramise konventsiooni artikli 9 lõike 1 punkti a, b või c mõttes; konventsiooni artikli 6 lõikeid 2 ja 3 ei kohaldata."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "7. peatükk - VASTUTUS KAHJU TEKITAMISE EEST JA SELLE PIIRAMINE MERINÕUETE KORRAL",
+      "section": "74",
+      "title": "§ 74. Vastutuse piirmäär lootside puhul",
+      "content": "(1) Merinõuete korral vastutuse piiramise konventsiooni artikli 6 lõike 1 punktides a ja b nimetatud vastutuse piirmäärad kehtivad ka lootside vastu esitatud nõuete suhtes. Kui lootsitava laeva kogumahutavus on suurem kui 1000, võib loots oma vastutuse piirata summaga, mis kehtiks 1000-se kogumahutavusega laeva puhul.\n(2) Kui reisijate arv, mida lootsitav laev võib vedada, ületab 12 reisijat, võib loots isikukahjude korral piirata oma vastutuse summaga, mis kehtiks laeva puhul, mis võib vedada 12 reisijat."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "7. peatükk - VASTUTUS KAHJU TEKITAMISE EEST JA SELLE PIIRAMINE MERINÕUETE KORRAL",
+      "section": "75",
+      "title": "§ 75. Vastutus laevade kokkupõrke korral",
+      "content": "(1) Reederi vastutusele laevade kokkupõrke korral kohaldatakse võlaõigusseaduses lepingulise ja lepinguvälise vastutuse kohta sätestatut koos käesolevas seaduses sätestatud õigusega piirata oma vastutust.\n(2) Pärast laevade kokkupõrget peab kapten osutama teise laeva pardal asuvatele isikutele ja laevale abi niivõrd, kuivõrd see on võimalik oma laeva pardal asuvaid isikuid ja oma laeva tõsiselt ohustamata.\n(3) Kokkupõrkes osalenud laevade kaptenid peavad vastastikku teatama oma laeva nime ja kodusadama, samuti lähte- ja sihtsadama või lähima sadama, kuhu laev siirdub."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "7. peatükk - VASTUTUS KAHJU TEKITAMISE EEST JA SELLE PIIRAMINE MERINÕUETE KORRAL",
+      "section": "76",
+      "title": "§ 76. Laevade kokkupõrkest tulenevale nõudele kohaldatav õigus",
+      "content": "(1) Laevade kokkupõrkest tulenevale nõudele kohaldatakse rahvusvaheliste laevasõidueeskirjade kõrval selle riigi õigust, mille territoriaal- ja sisemeres kokkupõrge toimus.\n(2) Kui kokkupõrge toimus väljaspool riikide jurisdiktsiooni, kohaldatakse laevade kokkupõrkest tulenevale nõudele kannatanu valikul kas kokkupõrke põhjustanud või kannatanu enda laeva lipuriigi õigust.\n(3) Kui kokkupõrke põhjustas mõlema kokkupõrkes osalenud laeva nõuetele mittevastav käitamine, kohaldatakse kummagi poole nõudele teise poole laeva lipuriigi õigust."
+    },
+    {
+      "provision_ref": "para77",
+      "chapter": "7. peatükk - VASTUTUS KAHJU TEKITAMISE EEST JA SELLE PIIRAMINE MERINÕUETE KORRAL",
+      "section": "77",
+      "title": "§ 77. Muude isikute õigus piirata vastutust",
+      "content": "(1) Reederi vastutuse piiramise kohta käesolevas peatükis sätestatut kohaldatakse ka laeva omaniku ja prahtija suhtes.\n(2) Vastutuse piiramise kohta käesolevas peatükis sätestatut kohaldatakse ka kapteni, laevapere liikme või vastutava isiku juures töötava muu isiku suhtes, kui nimetatud isik on tekitanud kahju oma teenistuskohustuste täitmisel, samuti isiku suhtes, kelle teo või tegevusetuse eest vastutab vastutav isik, kui seadusest või välislepingust ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para77^1",
+      "chapter": "7. peatükk - VASTUTUSKINDLUSTUS MERINÕUETE KORRAL",
+      "section": "77^1",
+      "title": "§ 77^1. Vastutuskindlustuse omamise kohustus ja tingimused",
+      "content": "(1) Eesti lipu all sõitva laeva reederil peab olema kehtiv vastutuskindlustusleping, millega on kindlustatud laevaomaniku või laeva laevapereta prahtija vastutus laeva käitamisel tekkivate kolmanda isiku nõuete ees. See kohustus ei käi laeva laevapereta prahtiva isiku kohta naftareostuse korral, sest naftareostusest põhjustatud kahju korral kehtiva tsiviilvastutuse 1992. aasta rahvusvahelise konventsiooni alusel saab mahtlastina rohkem kui 2000 tonni naftat vedava laeva puhul kahjuhüvitise nõuet esitada ainult laevaomaniku vastu. Nõude tagatiseks on laevaomanik kohustatud omama konventsiooni lisas toodud tunnistust laevale vastutuskindlustuse kohta.\n(2) Muu lipu all sõitva laeva reeder peab omama käesoleva paragrahvi lõikes 1 sätestatud vastutuskindlustuslepingut, kui laev saabub Eestis asuvasse sadamasse.\n(3) Vastutuskindlustust omav reeder on kindlustatud isik.\n(4) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud kindlustus katab merinõuded, mille suhtes kohaldatakse vastutuse piiramist vastavalt merinõuete korral vastutuse piiramise konventsioonile.\n(5) Vastutuskindlustust peab omama 300-se või suurema kogumahutavusega laeva suhtes.\n(6) Vastutuskindlustust ei pea omama sõjalaeva, mereväe abilaeva või muule riigile kuuluva või riigi käitatava laeva suhtes, mida kasutatakse ainult riiklikel mittekaubanduslikel eesmärkidel."
+    },
+    {
+      "provision_ref": "para77^2",
+      "chapter": "7. peatükk - VASTUTUSKINDLUSTUS MERINÕUETE KORRAL",
+      "section": "77^2",
+      "title": "§ 77^2. Vastutuskindlustusega kaetavad merinõuded",
+      "content": "Vastutuskindlustusega on kaetud vähemalt järgmised merinõuded: 1 1) nõuded surma põhjustamise, kehavigastuse või tervisekahjustuse tekitamise, asja hävimise, kaotsiminemise või kahjustumise tõttu, kaasa arvatud sadamarajatisele, -basseinile, veeteele ja navigatsiooniseadeldisele tekitatud kahju, mis toimus laeva pardal või otseses seoses laeva käitamise või päästeoperatsiooniga, ja nõuded, mis on seeläbi tekkinud edasise kahju tõttu;\n2) nõuded sellise kahju hüvitamiseks, mis on põhjustatud viivitusest lasti, reisijate või nende pagasi mereveol;\n3) nõuded kahju hüvitamiseks, mis on tekkinud muu kui lepingust tuleneva õiguse rikkumisest ning on otseses seoses laeva käitamise või päästeoperatsiooniga;\n4) uppunud, avarii teinud, randunud või mahajäetud laeva koos kõigega, mis selle laeva pardal on või oli, ülestõstmise, kõrvaldamise, hävitamise või kahjutuks tegemise kulude hüvitamise nõuded;\n5) nõuded, mis tulenevad laeva lasti teisaldamisest, hävitamisest või kahjutuks tegemisest;\n6) nõuded, mis tulenevad laeva tekitatud keskkonna, rannajoone või nendega seotud huvide kahjustamisest või kahjustamise ohust;\n7) muu kui vastutava isiku nõuded meetmete tõttu, mis võeti tarvitusele sellise kahju kõrvaldamiseks või vähendamiseks, mille tekitamise puhul saab vastutav isik merinõuete korral vastutuse piiramise konventsiooni kohaselt oma vastutust piirata, samuti nõuded selliste meetmetega põhjustatud edasise kahju hüvitamiseks."
+    },
+    {
+      "provision_ref": "para77^3",
+      "chapter": "7. peatükk - VASTUTUSKINDLUSTUS MERINÕUETE KORRAL",
+      "section": "77^3",
+      "title": "§ 77^3. Kindlustuspoliis",
+      "content": "(1) Vastutuskindlustuslepingu olemasolu tõendatakse laeva pardal asuva kindlustuspoliisiga.\n(2) Vastutuskindlustuse poliisile peavad olema märgitud järgmised andmed:\n1) laeva nimi ja IMO number ning registreerimissadam;\n2) laevaomaniku nimi ja peamine tegevuskoht;\n3) vastutuskindlustuse liik ja kestus;\n4) kindlustusandja nimi ja peamine tegevuskoht.\n(3) Eesti lipu all sõitva laeva kindlustuspoliis on kas inglis- või eesti- ja ingliskeelne."
+    },
+    {
+      "provision_ref": "para77^5",
+      "chapter": "7. peatükk - VASTUTUSKINDLUSTUS MERINÕUETE KORRAL",
+      "section": "77^5",
+      "title": "§ 77^5. Tõend vastutuskindlustuse kehtivuse kohta reisija surma, tervisekahjustuse ja kehavigastuse põhjustamise korral",
+      "content": "(1) Käesoleva seaduse § 61 lõigetes 1^1 ja 1^2 sätestatud tingimuste kohase vastutuskindlustuse või muu rahalise tagatise olemasolu ja kehtivuse tõendamiseks peab rahvusvahelise reisijateveo puhul Transpordiametilt taotlema asjaomast tõendit. Kui vastutuskindlustusleping või muu rahalise tagatise leping vastab käesoleva seaduse § 61 lõigetes 1^1 ja 1^2 sätestatud tingimustele, väljastab Transpordiamet tõendi vastutuskindlustuse või muu rahalise tagatise olemasolu ja kehtivuse kohta (edaspidi vastutuskindlustuse või muu rahalise tagatise tõend ). Tingimustele mittevastamise korral keeldub Transpordiamet tõendi väljastamisest.\n(2) Vastutuskindlustuse või muu rahalise tagatise tõend antakse tähtajaks, mis ei saa olla pikem kui selle väljastamise aluseks oleva vastutuskindlustuslepingu või muu rahalise tagatise lepingu kehtivusaeg.\n(3) Vastutuskindlustuse või muu rahalise tagatise tõendi taotlemise, andmise, kehtetuks tunnistamise ja hoidmise korra kehtestab valdkonna eest vastutav minister määrusega.\n(4) Vastutuskindlustuse või muu rahalise tagatise tõendi taotluse läbivaatamise eest tuleb tasuda riigilõivu."
+    },
+    {
+      "provision_ref": "para77^6",
+      "chapter": "7. peatükk - VASTUTUSKINDLUSTUS MERINÕUETE KORRAL",
+      "section": "77^6",
+      "title": "§ 77^6. Tunnistus laevavraki eemaldamise vastutuse kindlustuse või muu rahalise tagatise kohta",
+      "content": "(1) Eesti lipu all sõitva laeva, mille kogumahutavus on 300 ja enam ning millele kohaldub Nairobi rahvusvahelise laevavrakkide eemaldamise 2007. aasta konventsioon (edaspidi Nairobi konventsioon ), omanikul peab olema kindlustus või muu rahaline tagatis, mis vastab Nairobi konventsiooni nõuetele.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud kindlustus või muu rahaline tagatis vastab Nairobi konventsiooni nõuetele, väljastab Transpordiamet lõikes 1 nimetatud laevale tunnistuse laevavraki eemaldamise vastutuse kindlustuse või muu rahalise tagatise kohta (edaspidi tunnistus ).\n(3) Tunnistuse kehtivusaeg ei tohi olla pikem kui tunnistuse väljastamise aluseks oleva kindlustuse või muu rahalise tagatise kehtivusaeg.\n(4) Kui kindlustus või muu rahaline tagatis ei vasta Nairobi konventsiooni nõuetele, keeldub Transpordiamet käesoleva paragrahvi lõikes 1 nimetatud laevale tunnistuse väljastamisest.\n(5) Transpordiamet tunnistab tunnistuse kehtetuks järgmistel juhtudel:\n1) kindlustuse või muu rahalise tagatise lõppemisel, kui see lõpeb enne tunnistuse kehtivusaja lõppu;\n2) kui ilmneb, et tunnistuse taotlemisel on esitatud valeandmeid.\n(6) Tunnistuse taotlemise ja väljastamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(7) Tunnistuse taotluse läbivaatamise eest tuleb tasuda riigilõivu.\n(8) Transpordiamet võib käesolevas paragrahvis sätestatud korda järgides väljastada tunnistuse ka selle riigi lippu kandvale laevale, kes ei ole Nairobi konventsiooni osalisriik."
+    },
+    {
+      "provision_ref": "para77^7",
+      "chapter": "7. peatükk - VASTUTUSKINDLUSTUS MERINÕUETE KORRAL",
+      "section": "77^7",
+      "title": "§ 77^7. Kindlustuse või muu rahalise tagatise tõendi ja tunnistuse elektrooniline väljastamine",
+      "content": "Kui Transpordiamet väljastab käesolevas peatükis nimetatud kindlustuse või muu rahalise tagatise tõendi või tunnistuse elektrooniliselt, peab see vastama meresõiduohutuse seaduse § 1 lõikes 7^1 sätestatud tingimustele."
+    },
+    {
+      "provision_ref": "para77^8",
+      "chapter": "7. peatükk - VASTUTUSKINDLUSTUS MERINÕUETE KORRAL",
+      "section": "77^8",
+      "title": "§ 77^8. Kindlustuse või muu rahalise tagatise tõend seoses vastutusega ohtlike ja kahjulike ainete põhjustatud kahju eest",
+      "content": "(1) Eesti lipu all sõitva laeva, mille kogumahutavus on 200 ja enam ning millele kohaldub 1996. aasta rahvusvahelise konventsiooni vastutusest ja kahju hüvitamisest ohtlike ja kahjulike ainete mereveol 2010. aasta protokoll (edaspidi HNS konventsioon ), omanikul peab olema kindlustus või muu rahaline tagatis, mis vastab HNS konventsiooni nõuetele.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud kindlustus või muu rahaline tagatis vastab HNS konventsiooni nõuetele, väljastab Transpordiamet lõikes 1 nimetatud laevale kindlustuse või muu rahalise tagatise tõendi seoses vastutusega ohtlike ja kahjulike ainete põhjustatud kahju eest (edaspidi tõend ).\n(3) Tõendi kehtivusaeg ei tohi olla pikem kui tõendi väljastamise aluseks oleva kindlustuse või muu rahalise tagatise kehtivusaeg.\n(4) Kui kindlustus või muu rahaline tagatis ei vasta HNS konventsiooni nõuetele, keeldub Transpordiamet käesoleva paragrahvi lõikes 1 nimetatud laevale tõendi väljastamisest.\n(5) Transpordiamet tunnistab tõendi kehtetuks, kui ilmneb, et tõendi taotlemisel on esitatud valeandmeid.\n(6) Tõendi taotlemise ja väljastamise korra kehtestab valdkonna eest vastutav minister määrusega.\n(7) Tõendi taotluse läbivaatamise eest tuleb tasuda riigilõivu.\n(8) Transpordiamet võib käesolevas paragrahvis sätestatud korda järgides väljastada tõendi ka selle riigi lippu kandvale laevale, kes ei ole HNS konventsiooni osalisriik."
+    },
+    {
+      "provision_ref": "para78",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "78",
+      "title": "§ 78. Jagamismenetluse algatamine",
+      "content": "(1) Merinõuete korral vastutuse piiramise konventsiooni artiklis 11 ettenähtud fondi moodustamiseks ja selle vahendite jagamiseks tuleb algatada menetlus kohtus, kuhu on esitatud nõue fondi moodustamiseks õigustatud isiku vastu.\n(1^1) Naftareostusest põhjustatud kahju korral kehtiva tsiviilvastutuse 1992. aasta rahvusvahelise konventsiooni artikli V lõikes 3 ettenähtud fondi moodustamiseks ja selle vahendite jagamiseks tuleb algatada menetlus kohtus, kuhu on esitatud või võidakse esitada nõue fondi moodustamiseks õigustatud isiku vastu.\n(2) Vastutuse piiramise menetlus toimub kohtu- ja kohtuvälise menetlusena. Vastutuse piiramise menetlusele kohaldatakse tsiviilkohtumenetluse seadustikus sätestatut, kui käesolevast seadusest ei tulene teisiti. Vastutuse piiramine vastutuse piiramise fondi moodustamata ja vaidlused võlausaldajate üldkoosoleku otsuste vaidlustamise üle toimuvad hagimenetluses. Fondihalduri nimetamine, käesoleva paragrahvi lõikes 1 või 1^1 nimetatud vahendite jagamise menetluse (edaspidi jagamismenetlus ) algatamine, nõuete tunnustamine ja muud jagamismenetlusega seotud asjad lahendatakse hagita menetluses, kui seadusest ei tulene, et need lahendatakse hagimenetluses.\n(3) Jagamismenetluses tehtud kohtumääruse peale võib esitada määruskaebuse käesolevas seaduses sätestatud juhul. Määruskaebuse esitamine ei peata määruse täitmist, kui käesolevas seaduses pole sätestatud teisiti. Määruskaebuse esitamise tähtaeg on üks kuu määruse avaldamisest. Kui määrus ei kuulu avaldamisele, on määruskaebuse esitamise tähtaeg üks kuu määruse kättetoimetamisest."
+    },
+    {
+      "provision_ref": "para79",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "79",
+      "title": "§ 79. Jagamismenetluse ulatus",
+      "content": "(1) Jagamismenetlus hõlmab samast sündmusest tekkinud ja samasse nõudeklassi (§ 81 lõige 1) kuuluvaid nõudeid kõigi isikute vastu, kes kuuluvad samasse jagamismenetluse algatamiseks õigustatud isikute gruppi (§ 80).\n(2) Kui jagamismenetlus algatatakse laeva pardal tegutsenud lootsi avalduse alusel nõudeklassi A, B või C kuuluvate nõuete suhtes, toimub menetlus ainult avalduse esitaja vastu suunatud nõuete rahuldamiseks. Sellise jagamismenetluse võib algatada seni, kuni samast sündmusest tekkinud ja samasse nõudeklassi kuuluvate nõuete suhtes ei ole algatanud jagamismenetlust jagamismenetluse algatamiseks õigustatud muu isik."
+    },
+    {
+      "provision_ref": "para80",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "80",
+      "title": "§ 80. Jagamismenetluse algatamiseks õigustatud isikute grupid",
+      "content": "(1) Jagamismenetlus algatatakse käesoleva paragrahvi lõikes 2 nimetatud isiku avalduse alusel.\n(2) Jagamismenetluse algatamist võib taotleda:\n1) laeva omanik, reeder või vedaja, samuti isik, kelle tegevuse eest laeva omanik, reeder või vedaja vastutab;\n2) laeva, millelt osutatakse päästmisteenuseid, omanik või sellel laeval töötav päästja, samuti isik, kelle tegevuse eest omanik või päästja vastutab;\n3) päästja, kes ei tegutse laeval või kes tegutseb eranditult laeval, millele osutatakse päästmisteenuseid, samuti isik, kelle tegevuse eest päästja vastutab;\n4) laeva omanik naftareostusest põhjustatud kahju korral kehtiva tsiviilvastutuse 1992. aasta rahvusvahelise konventsiooni artikli I lõike 3 mõttes.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud isik võib taotleda menetluse algatamist, kui tal on õigus oma vastutust piirata käesoleva seaduse § 70 lõike 1 ning §-de 71, 72 ja 74 kohaselt ning tema vastu on algatatud kohtumenetlus või võidakse algatada kohtumenetlus § 81 lõikes 1 nimetatud nõude tõttu.\n(4) Jagamismenetluse algatamist võib taotleda ka kindlustusandja, kes kindlustab vastutust nõuete eest, mille suhtes käesoleva paragrahvi lõikes 2 nimetatud isik võib oma vastutuse lõikes 3 nimetatud alustel piirata, samuti tagatise andja naftareostusest põhjustatud kahju korral kehtiva tsiviilvastutuse 1992. aasta rahvusvahelise konventsiooni artikli V lõike 11 mõttes."
+    },
+    {
+      "provision_ref": "para81",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "81",
+      "title": "§ 81. Jagamismenetlusega hõlmatud nõuded",
+      "content": "(1) Jagamismenetlus viiakse läbi järgmiste nõuete rahuldamiseks:\n1) surma põhjustamisest või kehavigastuse või tervisekahjustuse tekitamisest tulenevad nõuded merinõuete korral vastutuse piiramise konventsiooni artikli 6 lõike 1 punkti a mõttes (nõuded isikukahjudest) ja muud nõuded merinõuete korral vastutuse piiramise konventsiooni artikli 6 lõike 1 punkti b mõttes (nõuded asjakahjudest) – nõudeklass A;\n2) reisijate nõuded merinõuete korral vastutuse piiramise konventsiooni artikli 7 mõttes – nõudeklass B;\n3) käesoleva seaduse §-s 72 nimetatud nõuded – nõudeklass C;\n4) naftareostusest põhjustatud kahju korral kehtiva tsiviilvastutuse 1992. aasta rahvusvahelisest konventsioonist tulenevad nõuded – nõudeklass D.\n(2) Jagamismenetlus nõudeklassi A kuuluvate nõuete rahuldamiseks viiakse läbi järgmiste erisustega:\n1) kui isikukahjudest tulenevaid nõudeid, mille suhtes võib vastutust piirata, ei ole tekkinud või selliseid nõudeid ei saa enam esitada või kui isikukahjudest tulenevate nõuete kogusumma ei ületa eelduslikult merinõuete korral vastutuse piiramise konventsiooni artikli 6 lõike 1 punktis a kehtestatud vastutuse piirmäära, toimub jagamismenetlus üksnes asjakahjudest tulenevate nõuete rahuldamiseks, kui asjakahjudest tulenevate nõuete summa ületab eelduslikult selle konventsiooni artikli 6 lõike 1 punktis b kehtestatud vastutuse piirmäära;\n2) kui isikukahjudest tulenevaid nõudeid, mille suhtes võib vastutust piirata, ei saa esitada avalduse esitaja, vaid muu käesoleva seaduse § 80 lõike 2 punktides 1–4 nimetatud isiku vastu, siis toimub jagamismenetlus üksnes asjakahjudest tulenevate nõuete rahuldamiseks, kui jagamismenetluse algatamise avalduse esitanud isik seda taotleb ja asjakahjudest tulenevate nõuete summa ületab eelduslikult merinõuete korral vastutuse piiramise konventsiooni artikli 6 lõike 1 punktis b kehtestatud vastutuse piirmäära."
+    },
+    {
+      "provision_ref": "para82",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "82",
+      "title": "§ 82. Avaldus",
+      "content": "(1) Avaldus jagamismenetluse algatamiseks esitatakse kohtule kirjalikult ja selles peavad olema:\n1) täpne kirjeldus sündmusest, millest on tekkinud nõuded, mille rahuldamiseks jagamismenetlus läbi viiakse;\n2) andmed selle kohta, millise isikute grupi suhtes menetlus tuleb algatada, või andmed selle kohta, et menetlus tuleb algatada ainult avalduse esitaja suhtes;\n3) andmed selle kohta, millisesse nõudeklassi kuuluvate nõuete rahuldamiseks menetlus tuleb algatada, või taotlus algatada menetlus ainult asjakahjudest tulenevate nõuete rahuldamiseks;\n4) avalduse esitaja nimi ja andmed tema elu- või tegevuskoha kohta; kui avalduse esitajale on teada teised võlgnikud, kelle suhtes võib jagamismenetluse läbi viia, siis ka andmed nende kohta;\n5) andmed laeva nime, lipu ja registreerimiskoha kohta;\n6) fondi moodustamiseks vajaliku summa (§ 83) arvutamiseks vajalikud andmed laeva kogumahutavuse kohta ja, kui vastutust piiratakse nõudeklassi B kuuluvate nõuete suhtes, reisijate arv, mida laev võib vedada;\n7) andmed avalduse esitajale teada olevate nõuete summa ja aluse kohta.\n(2) Avaldusele tuleb lisada avalikult tõestatud ärakiri laevaregistris sisalduvatest kannetest laeva kohta ja avalikult tõestatud ärakiri sündmust käsitlevatest kannetest laeva logiraamatus.\n(3) Kui avalduse esitaja taotleb jagamismenetluse läbiviimist vastavalt käesoleva seaduse § 81 lõikele 2, peab ta tõendama § 81 lõikes 2 nimetatud eelduste olemasolu.\n(4) Avalduse esitaja võib avalduse kuni menetluse algatamiseni tagasi võtta."
+    },
+    {
+      "provision_ref": "para83",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "83",
+      "title": "§ 83. Fondi moodustamiseks vajalik summa",
+      "content": "(1) Kohus määrab kindlaks summa, mis on vajalik fondi moodustamiseks, tehes selle kohta määruse. Summa määratakse vastavalt merinõuete korral vastutuse piiramise konventsiooni artikli 11 lõikele 1 ja naftareostusest põhjustatud kahju korral kehtiva tsiviilvastutuse 1992. aasta rahvusvahelise konventsiooni artikli V lõikele 1.\n(2) Fondi moodustamiseks vajalik summa tasutakse kohtu määratud arvele."
+    },
+    {
+      "provision_ref": "para84",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "84",
+      "title": "§ 84. Fondi moodustamiseks vajaliku summa asendamine tagatisega",
+      "content": "(1) Kohus võib määrata, et fondi moodustamiseks vajaliku summa sissemaksmine asendatakse täielikult või osaliselt tagatise andmisega. Sellisel juhul määrab kohus tagatise liigi ja selle, millist osa fondi moodustamiseks vajalikust summast tagatis asendab.\n(2) Kui tagatis osutub menetluse käigus ebapiisavaks, määrab kohus, millisel viisil tuleb tagatist suurendada või anda täiendav tagatis. Enne otsuse tegemist tuleb ära kuulata jagamismenetluse algatamise avalduse esitanud isiku arvamus."
+    },
+    {
+      "provision_ref": "para85",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "85",
+      "title": "§ 85. Menetluse algatamine",
+      "content": "(1) Kohus otsustab jagamismenetluse algatamise pärast fondi moodustamiseks vajaliku summa tasumist või nõuetekohase tagatise andmist, tehes selle kohta määruse.\n(2) Menetluse algatamise määruses märgitakse:\n1) sündmuse täpne kirjeldus, millest on tekkinud nõuded, mille rahuldamiseks jagamismenetlus läbi viiakse;\n2) isik või isikute ring, kelle suhtes menetlus algatatakse;\n3) nõudeklass, millesse kuuluvate nõuete rahuldamiseks menetlus algatati, või viide sellele, et menetlus algatatakse ainult asjakahjudest tulenevate nõuete rahuldamiseks;\n4) avalduse esitaja nimi, andmed tema elu- või tegevuskoha kohta, samuti andmed teiste kohtule teadaolevate võlgnike kohta, kelle suhtes võib läbi viia jagamismenetluse;\n5) andmed laeva nime, lipu ja registreerimiskoha ning kodusadama kohta;\n6) andmed fondi moodustamiseks vajaliku summa tasumise või tagatise andmise kohta, samuti viide sellele, millist osa fondi moodustamiseks vajalikust summast tagatis asendab;\n7) andmed fondi moodustamiseks vajaliku summa kindlaksmääramise määruse peale esitatud määruskaebuste kohta;\n8) jagamismenetluse algatamise aeg.\n(3) Jagamismenetluse algatamise määrusest antakse taotluse esitamisel ärakiri isikule, kelle vastu on jagamismenetlusest osa võtva võlausaldaja nõude tõttu esitatud hagi või toimub sundtäitmine."
+    },
+    {
+      "provision_ref": "para86",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "86",
+      "title": "§ 86. Algatamise tagajärjed",
+      "content": "(1) Jagamismenetluse algatamisega loetakse fond moodustatuks.\n(2) Fondi moodustamisega on jagamismenetluse algatamise määruses nimetatud isikute gruppi kuuluvate isikute vastutus käesoleva seaduse §-s 81 nimetatud nõuete suhtes piiratud fondi moodustamiseks vajaliku summaga.\n(3) Jagamismenetlusest võtavad osa kõik võlausaldajad, kelle nõuete rahuldamiseks fond moodustati.\n(4) Nõudeid, mille rahuldamiseks fond on moodustatud, võib esitada ainult käesolevas peatükis sätestatud korras. Nõudeid, mille suhtes ei saa vastutust vastavalt käesoleva paragrahvi lõikele 2 piirata, võib esitada nii jagamismenetluses kui ka väljaspool seda.\n(5) Kohtumenetlus nõuete üle, mille suhtes saab vastutust vastavalt käesoleva paragrahvi lõikele 2 piirata, peatatakse jagamismenetluse algatamise määruse tegemisest kuni jagamismenetluse lõpetamise või peatamiseni.\n(6) Sundtäitmine, vara arestimine ja nõude esitamine väljaspool jagamismenetlust on jagamismenetluse algatamisest kuni selle peatamise või lõpetamiseni keelatud, kui võlausaldaja on nõude esitanud fondi vastu. Kohus võib lõpetada täitemenetluse võlgniku vara suhtes, kui võlausaldaja on esitanud nõude fondi vastu.\n(7) Kui jagamismenetlus on algatatud, tühistab kohus võlgniku vara suhtes kohaldatud aresti ja vabastab vara arestist vastavalt merinõuete korral vastutuse piiramise konventsiooni artikli 13 lõikele 2 või naftareostusest põhjustatud kahju korral kehtiva tsiviilvastutuse 1992. aasta rahvusvahelise konventsiooni artikli VI lõike 1 punktile b, kui vara on arestitud nõude tagamiseks, mille suhtes on võlgniku vastutus käesoleva paragrahvi lõike 2 kohaselt piiratud. Enne jagamismenetluse algatamist võib kohus täitemenetluse või vara arestimise määruse täitmise võlgniku vara suhtes kuni kolmeks kuuks peatada, kui võlgnik on esitanud avalduse fondi moodustamiseks.\n(8) Kui pärast jagamismenetluse algatamist algatatakse jagamismenetluses osaleva võlgniku suhtes pankrotimenetlus, ei puuduta see jagamismenetlust. Fondi moodustamiseks makstud summa või seda asendav tagatis ei kuulu jagamismenetluses osaleva võlgniku pankrotivara hulka. Nõudeid, mille suhtes on võlgniku vastutus vastavalt käesoleva paragrahvi lõikele 2 piiratud, ei saa jagamismenetluse kestel esitada pankrotimenetluses.\n(9) Pärast jagamismenetluse algatamist ei saa võlausaldaja, kes võtab menetlusest osa, oma nõuet võlgniku nõudega tasaarvestada. See ei kehti merinõuete korral vastutuse piiramise konventsiooni artiklis 5 nimetatud juhu kohta.\n(10) Pärast jagamismenetluse algatamist on võlausaldajal keelatud realiseerida nõude tagamiseks antud tagatisi."
+    },
+    {
+      "provision_ref": "para87",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "87",
+      "title": "§ 87. Fondihaldur",
+      "content": "(1) Jagamismenetluse algatamisel nimetab kohus fondihalduri. Fondihalduriks määratakse selle juhtumi jaoks sobiv, asjatundlik ning võlausaldajatest ja võlgnikest sõltumatu füüsiline isik. Fondihalduriks võib määrata pankrotihalduri.\n(2) Kohus väljastab fondihaldurile tema nimetamise kohta avalikult tõestatud tunnistuse. Tunnistus tuleb pärast fondihalduri volituste lõppemist kohtule tagastada.\n(3) Fondihaldur:\n1) võib vaidlustada jagamismenetluses esitatud nõudeid;\n2) realiseerib vajaduse korral käesoleva seaduse §-s 84 nimetatud tagatised;\n3) nõuab avalduse esitajalt sisse jagamismenetluse kulud.\n(4) Kohus võib fondihaldurile teha ülesandeks ka käesoleva seaduse §-s 84 nimetatud tagatiste valitsemise.\n(5) Fondihaldur vastutab oma kohustuste rikkumisega menetlusosalisele süüliselt tekitatud kahju eest. Kohus võib fondihaldurilt enne tema nimetamist nõuda mõistlikku tagatist. Tagatise võib anda piisava kindlustuskaitsega vastutuskindlustuslepingu sõlmimisega.\n(6) Fondihaldur on kohtu järelevalve all. Kui fondihaldur rikub oma kohustusi, võib kohus talle määrata rahatrahvi või fondihalduri oma algatusel ametist vabastada. Ühekordne trahvisumma ei tohi ületada 6400 eurot. Enne määruse tegemist tuleb fondihaldur ära kuulata. Kohtumääruse peale, millega fondihaldurile määrati rahatrahv, võib fondihaldur esitada määruskaebuse."
+    },
+    {
+      "provision_ref": "para88",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "88",
+      "title": "§ 88. Fondihalduri tasu ja kulude hüvitamine",
+      "content": "(1) Fondihaldur võib oma tegevuse eest nõuda mõistlikku tasu ja oma ülesannete täitmiseks tehtud vajalike kulude hüvitamist. Tasu makstakse ja kulud hüvitatakse fondi vahenditest.\n(2) Fondihaldur võib nõuda kulude hüvitamiseks ettemakse tegemist fondi vahenditest, kui see on tema ülesannete täitmiseks vajalik.\n(3) Tasu ja ettemakse suuruse määrab kohus."
+    },
+    {
+      "provision_ref": "para89",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "89",
+      "title": "§ 89. Fondihalduri aruanne",
+      "content": "(1) Fondihaldur peab volituste lõppemisel esitama kohtule oma tegevuse kohta aruande. Aruanne peab eelkõige sisaldama andmeid võlausaldajate poolt esitatud nõuete, nende kaitsmise ja fondi moodustamiseks sissemakstud summa jagamise kohta.\n(2) Aruanne esitatakse ühe nädala jooksul pärast jagamismenetluse lõpetamist menetlusosalistele tutvumiseks kohtu määratud kohas. Kui fondihaldur vabastati ametist enne jagamismenetluse lõpetamist, esitatakse aruanne menetlusosalistele tutvumiseks kahe nädala jooksul pärast fondihalduri ametist vabastamist.\n(3) Võlgnikul ja menetlusest osa võtnud võlausaldajal on õigus esitada aruande suhtes vastuväiteid. Kui ühe nädala jooksul pärast aruande tutvumiseks esitamist ei ole vastuväiteid esitatud, loetakse aruanne kinnitatuks."
+    },
+    {
+      "provision_ref": "para90",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "90",
+      "title": "§ 90. Nõuete esitamise tähtaeg",
+      "content": "(1) Kohus määrab jagamismenetluse algatamise määrusega kindlaks nõuete esitamise tähtaja ja nõuete kaitsmise koosoleku aja.\n(2) Nõuete esitamise tähtaeg peab olema vähemalt kaks kuud jagamismenetluse algatamisest. Kui võib eeldada, et menetlusest võtavad osa võlausaldajad, kelle elu- või tegevuskoht asub väljaspool Eesti Vabariiki, peab nõuete esitamise tähtaeg olema vähemalt neli kuud jagamismenetluse algatamisest.\n(3) Ajavahemik nõuete esitamise tähtaja lõppemise ja nõuete kaitsmise koosoleku vahel ei või olla lühem kui üks nädal ja pikem kui kaks kuud."
+    },
+    {
+      "provision_ref": "para91",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "91",
+      "title": "§ 91. Üleskutse nõuete esitamiseks",
+      "content": "(1) Kohus avaldab nõuete esitamiseks teate, mis sisaldab:\n1) üleskutset, et võlausaldajad esitaksid jagamismenetluse algatamise määruses nimetatud tähtaja jooksul kohtule kõik nõuded, mis on tekkinud määruses nimetatud sündmusest ja mille suhtes on võlgniku vastutus vastavalt käesoleva seaduse § 86 lõikele 2 piiratud;\n2) viidet, et nõue tuleb kohtule esitada ka siis, kui kohtule on nõude olemasolu teada või kui nõudest on teatatud muul viisil;\n3) viidet, et nõudeid, mille suhtes on võlgniku vastutus vastavalt käesoleva seaduse § 86 lõikele 2 piiratud, saab esitada ainult käesolevas peatükis sätestatud korras ja et esitamata nõuete võlausaldajad ei võta osa fondi moodustamiseks sissemakstud summa jagamisest;\n4) üleskutset kõigile võlgnikele, kes vastutavad lisaks jagamismenetluse algatamise avalduse esitajale algatamise määruses nimetatud sündmusest tuleneva nõude täitmise eest ja kelle vastutus on pärast menetluse algatamist vastavalt käesoleva seaduse § 86 lõikele 2 piiratud, teatada üleskutses määratud tähtaja jooksul kohtule nende aadress, kui nad tahavad, et neid menetluse kulgemisest informeeritaks;\n5) viidet, et jagamismenetluse tagajärjed kehtivad ka võlgniku suhtes, kes üleskutset ei järgi.\n(2) Kui menetlus toimub üksnes asjakahjudest tulenevate nõuete rahuldamiseks, avaldab kohus ka üleskutse teatada kõikidest isikukahjudest tulenevatest nõuetest, mis on tekkinud jagamismenetluse algatamise määruses nimetatud sündmusest ja mille suhtes oleks võlgniku vastutus vastavalt käesoleva seaduse § 86 lõikele 2 piiratud juhul, kui menetlus oleks algatatud ka isikukahjudest tulenevate nõuete rahuldamiseks."
+    },
+    {
+      "provision_ref": "para92",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "92",
+      "title": "§ 92. Menetluse algatamisega seotud dokumentide avaldamine",
+      "content": "(1) Pärast jagamismenetluse algatamist avaldab kohus ametlikus väljaandes Ametlikud Teadaanded:\n1) määruse, millega kinnitati fondi moodustamiseks vajalik summa;\n2) jagamismenetluse algatamise määruse põhisisu;\n3) avaliku üleskutse nõuete esitamiseks ja nõuete kaitsmise koosoleku toimumise aja;\n4) fondihalduri nime ja aadressi.\n(2) Kui vastavalt asjaoludele võib eeldada, et menetlusest võtab osa suur hulk võlausaldajaid, kelle elu- või tegevuskoht on väljaspool Eesti Vabariiki, avaldab kohus käesoleva paragrahvi lõikes 1 nimetatud informatsiooni ka vähemalt ühes ajalehes, mis on sellistele võlausaldajatele eeldatavalt kättesaadav.\n(3) Isikute suhtes, keda avaldatav informatsioon puudutab, loetakse informatsiooni avaldamine võrdseks vastava dokumendi kättetoimetamisega.\n(4) Võlausaldajatele ja võlgnikele, kelle aadress on teada, peab kohus käesoleva paragrahvi lõikes 1 nimetatud dokumendid eraldi kätte toimetama. Kättetoimetamise toimumata jäämine ei välista lõikes 3 nimetatud tagajärje saabumist."
+    },
+    {
+      "provision_ref": "para93",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "93",
+      "title": "§ 93. Määruskaebus fondi moodustamiseks vajaliku summa määramise peale",
+      "content": "(1) Määruse peale, millega kinnitati fondi moodustamiseks vajalik summa, võib avalduse esitaja, endast teatanud võlgnik ja nõude esitanud võlausaldaja esitada määruskaebuse. Määruskaebuse esitamise tähtaeg lõpeb üks kuu pärast nõuete esitamise tähtaja lõppu.\n(2) Kohus otsustab kõigi vastavalt käesoleva paragrahvi lõikele 1 esitatud määruskaebuste üle üheaegselt ühtses menetluses. Võlgniku määruskaebuse arutamisel tuleb ära kuulata kõik esitatud nõuete võlausaldajad. Võlausaldaja määruskaebuse läbivaatamisel tuleb ära kuulata kohalviibiva võlgniku arvamus.\n(3) Määruskaebust ei või põhjendada asjaoluga, et avalduse esitaja ei olnud õigustatud jagamismenetluse algatamise avaldust esitama, kuna nõuete summa ei ületa nende nõuete jaoks ettenähtud vastutuse piirmäära."
+    },
+    {
+      "provision_ref": "para94",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "94",
+      "title": "§ 94. Nõuete esitamine",
+      "content": "(1) Nõude esitamiseks tuleb esitada kirjalik nõudeavaldus, milles tuleb märkida nõude summa ja alus. Nõudeavaldusele lisatakse avalduses nimetatud asjaolusid tõendavad dokumendid või nende avalikult tõestatud ärakirjad.\n(2) Kui enne menetluse algatamist on nõude kohta tehtud kohtuotsus, mis arvestab võlgniku vastutuse piiratust, tuleb nõue esitada siiski kogu summas.\n(3) Esitatud nõuete kohta koostab fondihaldur nimekirja. Isikukahjudest tulenevad nõuded ja asjakahjudest tulenevad nõuded tuleb nimekirja kanda eraldi, kui jagamismenetlus on nõudeklassi A suhtes algatatud mõlemat liiki nõuete alusel. Eraldi tuleb märkida nõuded, mille eest võlgnikud vastutavad solidaarselt. Nimekiri koos nõudeavaldustega tuleb teha menetlusosalistele kättesaadavaks.\n(4) Nõudeavalduse võib tagasi võtta, kuni nõue ja selle võlausaldaja menetluses osalemise õigus ei ole kaitstud. Nõudeavalduse võib võtta tagasi kirjaliku avaldusega."
+    },
+    {
+      "provision_ref": "para95",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "95",
+      "title": "§ 95. Nõuete väärtus",
+      "content": "(1) Nõuded tuleb esitada eurodes. Nõude summaks on väärtus, mis nõudel on jagamismenetluse algatamise päeval. Nõue, mis ei ole suunatud rahasumma maksmisele või mille summa on määramata või teadmata, tuleb esitada hinnangulises väärtuses.\n(2) Intressinõude võib jagamismenetluses esitada üksnes ulatuses, milles intressid on muutunud sissenõutavaks enne menetluse algatamist.\n(3) Jagamismenetlusest osavõtmisega seoses tekkinud kulude hüvitamise nõuet ei saa jagamismenetluses esitada.\n(4) Ajatatud nõuded loetakse jagamismenetluse algatamisega sissenõutavaks.\n(5) Kui nõude hinnangulist väärtust ei saa kindlaks teha, tuleb nõue esitada summat märkimata. Nõude esitamisel tuleb sellisel juhul märkida nõude ülemmäär, millega nõue jagamismenetluses esitatakse. Ülemmäär ei tohi ületada väärtust, mis nõudel vastavalt asjaoludele eeldatavasti saab olla.\n(6) Kui ühe nõude eest vastutavad solidaarselt mitu võlgnikku, kelle vastutust ei saa piirata ühes jagamismenetluses, ning kui ühe või mitme võlgniku vastutus on piiratud, võib võlausaldaja kuni nõude täieliku rahuldamiseni esitada igas jagamismenetluses nõude kogu väärtuses, mis nõudel oli menetluse algatamisel."
+    },
+    {
+      "provision_ref": "para96",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "96",
+      "title": "§ 96. Nõuete esitamine võlgniku poolt",
+      "content": "Kui võlgnik on rahuldanud nõude, mille võlausaldaja oleks saanud esitada jagamismenetluses, võib võlgnik nõude rahuldatud ulatuses jagamisemenetluses ise esitada. Kui võlausaldaja on nõude jagamismenetluses juba esitanud, loetakse, et nõude on esitanud võlgnik."
+    },
+    {
+      "provision_ref": "para97",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "97",
+      "title": "§ 97. Menetluse laiendamine nõuetele isikukahjudest",
+      "content": "(1) Kui jagamismenetlus on algatatud ainult asjakahjudest tulenevate nõuete rahuldamiseks, muudab kohus fondi moodustamiseks vajaliku summa kindlaksmääramise määrust, kui avalduse esitaja vastu esitatakse samast sündmusest tulenevad nõuded isikukahjudest, mille suhtes võlgnik saab oma vastutuse piirata ja nõuete summa ületab merinõuete korral vastutuse piiramise konventsiooni artikli 6 lõike 1 punktis a kehtestatud vastutuse piirmäära. Määrust ei saa muuta pärast nõuete kaitsmise koosoleku toimumist.\n(2) Kohus määrab käesoleva paragrahvi lõikes 1 nimetatud juhul lisasumma maksmise tähtaja. Käesoleva seaduse § 84 kohaldatakse vastavalt.\n(3) Kui summa, mille võrra on fondi moodustamiseks vajalikku summat käesoleva paragrahvi lõike 1 kohaselt suurendatud, on sisse makstud, otsustab kohus, et jagamismenetlus algatatakse ka isikukahjudest tulenevate nõuete rahuldamiseks, tehes selle kohta määruse."
+    },
+    {
+      "provision_ref": "para98",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "98",
+      "title": "§ 98. Menetluse lõpetamine",
+      "content": "(1) Kohus lõpetab määrusega jagamismenetluse, kui:\n1) fondi moodustamiseks vajalikku summat on pärast jagamismenetluse algatamist suurendatud, kuid lisasummat ei maksta ära määratud tähtaja jooksul;\n2) käesoleva seaduse § 84 lõikes 2 nimetatud juhul ei anta tähtaegselt uut või täiendavat tagatist;\n3) menetluse algatamise avaldus võetakse pärast jagamismenetluse algatamist tagasi.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud alusel tehtud menetluse lõpetamise määrus avaldatakse käesoleva seaduse §-s 92 sätestatud viisil. Kui lõpetamine otsustatakse pärast seda, kui võlausaldajate nõuded ja nende menetluses osalemise õigus on kaitstud, tuleb avaldatavas teates viidata, et nõuete võlausaldajatel on käesoleva seaduse § 102 lõigetest 3 ja 4 tulenevad õigused.\n(3) Ulatuses, kus fondi moodustamiseks sissemakstud summat ja fondi moodustamiseks antud tagatisi ei ole vaja kasutada käesoleva paragrahvi lõikes 4 ja käesoleva seaduse § 102 lõikes 3 nimetatud võlausaldajate nõuete rahuldamiseks, makstakse ühe kuu möödumise korral menetluse lõpetamise määruse jõustumisest fondi moodustamiseks sissemakstud summa sissemaksjale tagasi ja fondi moodustamiseks antud tagatised tagastatakse.\n(4) Kui käesoleva paragrahvi lõikes 3 nimetatud fondi moodustamiseks sissemakstud summa tagasimaksmise või tagatiste tagastamise nõue arestitakse ühe kuu jooksul pärast menetluse lõpetamise otsuse peale määruskaebuse esitamise tähtaja möödumist mitme menetlusest osavõtnud võlausaldaja poolt, tuleb nende võlausaldajate nõuded arestitud nõude arvel rahuldada vastavalt võlausaldajate nõuete suuruste suhtele."
+    },
+    {
+      "provision_ref": "para99",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "99",
+      "title": "§ 99. Nõuete kaitsmise koosolek",
+      "content": "(1) Esitatud nõudeid kontrollitakse nõude summa ja nõude võlausaldaja menetluses osalemise õiguse osas nõuete kaitsmise koosolekul.\n(2) Võlgnik on kohustatud nõuete kaitsmise koosolekust osa võtma. Võlgniku puudumisel otsustab koosolek, kas nõuete kaitsmine on võimalik. Nõude esitanud võlausaldaja koosolekult puudumine ei takista nõude kaitsmist.\n(3) Võlgnik võib esitada fondihaldurile nõuete kohta kirjalikke vastuväiteid.\n(4) Kui nõue on mõjuval põhjusel esitatud pärast käesoleva seaduse §-s 90 sätestatud tähtaega, kuid enne nõuete kaitsmise koosolekut, võib koosolek võlausaldaja taotlusel nõude esitamise tähtaja ennistada.\n(5) Kui nõude esitamise tähtaega ei ennistatud, võetakse nõue kaitsmisele, kuid tunnustamise korral rahuldatakse see pärast õigeaegselt esitatud tunnustatud nõuete rahuldamist."
+    },
+    {
+      "provision_ref": "para100",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "100",
+      "title": "§ 100. Nõuete kaitsmine",
+      "content": "(1) Nõue ja selle võlausaldaja jagamismenetluses osalemise õigus loetakse tunnustatuks, kui sellele ei vaidle nõuete kaitsmise koosolekul vastu fondihaldur ega ükski võlausaldaja, samuti siis, kui vastuväite esitanud võlausaldaja või fondihaldur nõuete kaitsmise koosolekul oma vastuväitest loobub.\n(2) Kui võlausaldaja on enne nõuete kaitsmise koosolekut esitanud kirjaliku vastuväite ja koosolekul ei osale, on kirjalikult esitatud vastuväitel sama tähendus kui koosolekul esitatud vastuväitel.\n(3) Nõuete kaitsmise koosolekul loetakse kaitsmiseta tunnustatuks nõue, mis on kohtu või vahekohtu jõustunud otsusega rahuldatud. Nõuete kaitsmise koosolekul saab sellisel juhul vaidlustada üksnes võlausaldaja jagamismenetluses osalemise õigust.\n(4) Iga nõude kohta märgitakse nõuete kaitsmise koosoleku protokolli, kas nõuet tunnustati või mitte ja kes vaidles nõudele või selle rahuldamisjärgule vastu. Samuti märgitakse protokolli, kes loobus esitatud vastuväitest.\n(5) Tunnustatud nõuete kohta koostab fondihaldur nimekirja. Nimekirjas märgitakse, mis ulatuses on nõue tunnustatud. Menetluses osalevate võlgnike, võlausaldajate ja fondihalduri suhtes loetakse nõude nimekirja kandmine võrdseks jõustunud kohtuotsusega nõude summa, menetluses osalemise õiguse ja nõude liigi (asja- või isikukahjud) kohta.\n(6) Sellise nõude kaitsmise korral, mis on esitatud summat märkimata ja mille hinnangulist väärtust ei saa nõuete kaitsmise koosoleku hetkeks kindlaks määrata, loetakse tunnustatuks võlausaldaja menetluses osalemise õigus kuni nõude esitamisel märgitud nõude ülemmäärani eeldusel, et nõude suuruse saab hiljem kindlaks määrata."
+    },
+    {
+      "provision_ref": "para101",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "101",
+      "title": "§ 101. Tunnustamata jäänud nõuded",
+      "content": "(1) Kui nõuete kaitsmise koosolekul ei tunnustatud nõuet või võlausaldaja jagamismenetluses osalemise õigust, otsustab nõude või võlausaldaja menetluses osalemise õiguse tunnustamise võlausaldaja hagiavalduse alusel kohus.\n(2) Kui nõude või võlausaldaja jagamismenetluses osalemise õiguse vastu on vaielnud fondihaldur, on käesoleva paragrahvi lõikes 1 nimetatud juhul kostjaks võlgnik, keda esindab fondihaldur. Kui nõude või võlausaldaja jagamismenetluses osalemise õiguse vastu on vaielnud võlausaldaja, on käesoleva paragrahvi lõikes 1 nimetatud juhul kostjaks võlausaldaja, kes nõudele või selle rahuldamisjärgule vastu vaidles.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud hagi aegumistähtaeg on üks kuu päevast, mil nõuete kaitsmise koosolek jättis nõude või selle rahuldamisjärgu tunnustamata.\n(4) Kui nõue loeti tunnustatuks vastavalt käesoleva seaduse § 100 lõikele 3, võib nõuet vaidlustada soovinud isik esitada nõude vaidlustamiseks hagi kohtusse. Sellisel juhul kohaldatakse käesoleva paragrahvi lõigetes 2 ja 3 sätestatut vastavalt.\n(5) Jõustunud kohtuotsus käesoleva paragrahvi lõigetes 1 ja 4 nimetatud vaidluses kehtib kõigi võlausaldajate ja fondihalduri suhtes."
+    },
+    {
+      "provision_ref": "para102",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "102",
+      "title": "§ 102. Tagatisõiguste lõppemine",
+      "content": "(1) Kui kaitstakse võlausaldaja nõue ja jagamismenetluses osalemise õigus, on nõude kaitsmisel nõuet tagavate laevahüpoteekide, merivõlgade ja muude tagatisõiguste püsimise suhtes samad õiguslikud tagajärjed kui nõude lõppemise korral.\n(2) Kohus annab võlgnikule nõude kaitsmise kohta tõestatud väljavõtte tunnustatud nõuete nimekirjast.\n(3) Kui jagamismenetlus lõpetatakse fondi jagamist läbi viimata ja võlausaldaja nõude jaoks oli olemas tagatis, mille ta vastavalt käesoleva paragrahvi lõikele 1 kaotas, on võlausaldajal oma nõude tagamiseks pandiõigus fondi moodustamiseks sissemakstud summa tagasimaksmise nõudele. Kui tekib mitu pandiõigust, on nendel võrdne järjekoht. Käesolevas lõikes nimetatud pandiõigused lähevad käesoleva seaduse § 98 lõikes 4 nimetatud arestist ette.\n(4) Kui fondi moodustamiseks vajalik sissemakse on käesoleva paragrahvi lõikes 3 nimetatud juhul asendatud tagatise andmisega, on võlausaldajal eelisõigus nõude rahuldamisele tagatise arvel. Tagatis tuleb kohtu määruse alusel vajalikus ulatuses realiseerida. Tagatise realiseerimisest saadu võrdsustatakse fondi moodustamiseks sissemakstud summaga.\n(5) Käesoleva paragrahvi lõigetes 3 ja 4 nimetatud õigused lõpevad, kui neid ei ole kohtus maksma pandud ühe kuu jooksul, alates menetluse lõpetamise määruse vastu määruskaebuse esitamise tähtaja möödumisest.\n(6) Pärast käesoleva paragrahvi lõikes 5 nimetatud tähtaja möödumist maksab kohus fondi moodustamiseks sissemakstud summa sissemaksjale tagasi, välja arvatud juhul, kui tagasimaksmise nõue on vastavalt käesoleva seaduse § 98 lõikele 4 arestitud.\n(7) Kui jagamismenetlus toimub ainult avalduse esitaja vastu suunatud nõuete rahuldamiseks, kohaldatakse käesoleva paragrahvi lõikeid 1–6 üksnes juhul, kui tagatisega tagati avalduse esitaja vastu suunatud nõuet."
+    },
+    {
+      "provision_ref": "para103",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "103",
+      "title": "§ 103. Sundtäitmise lõpetamine",
+      "content": "Kui nõue ja võlausaldaja jagamismenetluses osalemise õigus on kaitstud, lõpetatakse võlgniku avalduse alusel nõude rahuldamiseks algatatud täitemenetlus."
+    },
+    {
+      "provision_ref": "para104",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "104",
+      "title": "§ 104. Tagatisõiguste lõppemine ja sundtäitmise lõpetamine esitamata nõuete puhul",
+      "content": "(1) Kui võlausaldaja ei ole esitanud jagamismenetluses nõuet, mille suhtes võlgniku vastutus on vastavalt käesoleva seaduse § 86 lõikele 2 piiratud, on nõuete kaitsmise koosoleku lõppemisel nõuet tagavate tagatiste jaoks samad tagajärjed, kui tagatava nõude lõppemisel.\n(2) Kui jagamismenetlus toimub ainult avalduse esitaja vastu suunatud nõuete rahuldamiseks, kehtib käesoleva paragrahvi lõikes 1 sätestatu ainult juhul, kui tagatis on antud avalduse esitaja vastu suunatud nõude tagamiseks.\n(3) Nõuete kaitsmise koosoleku lõppemisel tuleb täitemenetlus, mis on algatatud käesoleva paragrahvi lõikes 1 nimetatud nõude rahuldamiseks tagatise arvel, võlgniku avalduse alusel lõpetada.\n(4) Kohus peab andma võlgnikule tunnistuse nõuete kaitsmise koosoleku lõppemise kohta."
+    },
+    {
+      "provision_ref": "para105",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "105",
+      "title": "§ 105. Jagamise põhimõtted",
+      "content": "(1) Fondi moodustamiseks sissemakstud summa jagamisest võtavad osa tunnustatud nõuete võlausaldajad. Nõuded rahuldatakse fondi moodustamiseks sissemakstud summa arvelt võrdeliselt nende suurusega.\n(2) Nõudeklassi A kuuluvate nõuete jagamismenetluses rahuldatakse sadamarajatiste, sadamabasseini, veeteede ja navigatsiooniseadeldiste kahjustamisest tulenevad nõuded enne muid asjakahjudest tulenevaid nõudeid.\n(3) Kui nõudeklassi A kuuluvate nõuete jagamismenetlus toimub nii asjakahjudest kui ka isikukahjudest tulenevate nõuete rahuldamiseks, tuleb fondi moodustamiseks sissemakstud summast moodustada kaks osasummat. Esimene osasumma vastab merinõuete korral vastutuse piiramise konventsiooni artikli 6 lõike 1 punktis a kehtestatud vastutuse piirmäärale, teine osasumma merinõuete korral vastutuse piiramise konventsiooni artikli 6 lõike 1 punktis b kehtestatud vastutuse piirmäärale. Esimese osasumma arvel rahuldatakse ainult isikukahjudest tulenevad tunnustatud nõuded võrdeliselt nõuete suurusega. Teise osasumma jagamisest võtavad osa kõikide asjakahjudest tulenevate nõuete võlausaldajad kogu nõude summas ja isikukahjudest tulenevate nõuete võlausaldajad ulatuses, milles nende nõuded on esimese osasumma jagamisel jäänud rahuldamata. Jagamisel osalevad nõuded rahuldatakse võrdeliselt nende suurusega.\n(4) Käesoleva seaduse § 113 lõike 2 kohaselt fondi vahendite arvel hüvitatavad kulud makstakse välja enne tunnustatud nõuete rahuldamist. Kui jagamine toimub vastavalt käesoleva paragrahvi lõikele 3, siis hüvitatakse kulud, mis on tekkinud vaidlustest isikukahjudest tulenevate nõuete üle, nende nõuete jaoks ettenähtud osasummast, ja kulud, mis on tekkinud vaidlustest asjakahjudest tulenevate nõuete üle, nende nõuete jaoks ettenähtud osasummast.\n(5) Fondi moodustamiseks sissemakstud summast pärast jagamist ülejäänud osa makstakse tagasi sissemaksjale. Mitme sissemaksja korral makstakse pärast jagamist ülejäänud osa tagasi vastavalt sissemaksete summade suhtele."
+    },
+    {
+      "provision_ref": "para106",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "106",
+      "title": "§ 106. Fondi jagamisel tehtavad väljamaksed",
+      "content": "(1) Pärast nõuete kaitsmise koosolekut toimub fondi moodustamiseks sissemakstud summade väljamaksmine tunnustatud nõuete võlausaldajatele. Väljamaksed tehakse kohtumääruse alusel. Kohus määrab ka tagatiste realiseerimise ulatuses, kus see on jagamise läbiviimiseks vajalik.\n(2) Enne väljamaksete tegemist esitab kohus kõigile menetlusosalistele tutvumiseks rahuldamisele kuuluvate nõuete nimekirja, mis on nõudeklassi A kuuluvate nõuete puhul jaotatud isikukahjudest tulenevateks nõueteks ja asjakahjudest tulenevateks nõueteks. Kohus avaldab käesoleva seaduse §-s 92 sätestatud viisil väljamakstavate nõuete kogusumma ning teate selle kohta, kus ja millal saab väljamakstavate nõuete nimekirjaga tutvuda. Käesoleva seaduse § 92 lõikeid 3 ja 4 kohaldatakse vastavalt.\n(3) Võlausaldaja, kelle nõuet ei kaitstud ja kelle nõude suhtes kaitsmisel esitatud vastuväite tõttu kestab kohtumenetlus, peab nelja nädala jooksul, alates käesoleva paragrahvi lõikes 1 nimetatud kohtumääruse tegemisest tõendama, kas ja millises summas ta on esitanud käesoleva seaduse § 101 lõikes 1 nimetatud hagi. Kui tõendeid õigeaegselt ei esitata, siis võlausaldaja nõuet jagamisel ei arvestata.\n(4) Jagamisel ei maksta välja summasid, mis langevad:\n1) nõuetele, mille suhtes kaitsmisel esitatud vastuväite tõttu kestab kohtumenetlus;\n2) nõuetele, mille puhul on kindlaks tehtud ainult nõude võlausaldaja menetluses osalemise õigus, kuid ei ole kindlaks tehtud nõude summat.\n(5) Kui võlgnik, kelle vastutus on nõude suhtes vastavalt käesoleva seaduse § 86 lõikele 2 piiratud, tõendab kohtule, et nõude tõttu on oodata sundtäitmist välisriigis, võib kohus jätta nõudele langeva summa välja maksmata, tehes selle kohta määruse. Asjaolude muutumisel võib kohus määruse muuta.\n(6) Käesoleva paragrahvi lõikes 1 nimetatud kohtumääruse peale saab esitada määruskaebuse 15 päeva jooksul lõikes 2 nimetatud teate avaldamisest."
+    },
+    {
+      "provision_ref": "para107",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "107",
+      "title": "§ 107. Nõude suuruse kindlaksmääramine pärast nõuete kaitsmise koosolekut",
+      "content": "(1) Kui nõude suurus, mille puhul on tunnustatud vaid võlausaldaja jagamismenetluses osalemise õigus nõude esitamisel märgitud nõude piirmäärani, muutub pärast nõuete kaitsmise koosoleku lõppemist määratavaks, määrab selle võlausaldaja nõudel kohus.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud kohtumäärus avaldatakse käesoleva seaduse §-s 92 sätestatud viisil. Kohtumääruse peale võib jagamismenetlusest osavõttev võlgnik, võlausaldaja või fondihaldur esitada määruskaebuse."
+    },
+    {
+      "provision_ref": "para108",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "108",
+      "title": "§ 108. Järeljagamine",
+      "content": "(1) Järeljagamise käigus rahuldatakse nõuded, mille jaoks jäid vastavalt käesoleva seaduse §-le 106 toimunud väljamaksete tegemise käigus neile langevad osad välja maksmata ning mille suhtes hiljem tehtud jõustunud kohtuotsusega nõue rahuldati või mille suurus on kindlaks määratud vastavalt käesoleva seaduse §-le 107.\n(2) Järeljagamine toimub pärast käesoleva paragrahvi lõikes 1 nimetatud eelduste täitmist järeljagamise läbiviimiseks piisava summa olemasolu korral."
+    },
+    {
+      "provision_ref": "para109",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "109",
+      "title": "§ 109. Menetluse lõpetamine fondi väljajagamise tõttu",
+      "content": "(1) Kohus lõpetab määrusega jagamismenetluse, kui fondi vahendid on välja makstud või kui välja maksmata on jäänud vaid käesoleva seaduse § 106 lõike 4 punktis 1 ja §-s 115 nimetatud summad. Kohus annab huvitatud isiku nõudmisel tõendi jagamismenetluse lõpetamise kohta.\n(2) Kui pärast jagamismenetluse lõpetamist loetakse tunnustatuks nõue, mis on vastavalt käesoleva seaduse § 106 lõike 4 punktile 1 jäetud välja maksmata, või kaitstakse võlausaldaja menetluses osalemise õigus või kui selgub, et nõuet pole vaja väljamaksete tegemisel arvestada või pole vaja kinni pidada osa kulude katmiseks (§ 115), viiakse läbi järeljagamine."
+    },
+    {
+      "provision_ref": "para110",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "110",
+      "title": "§ 110. Võlgniku taotlusel menetluse tagantjärele laiendamine isikukahjudele",
+      "content": "(1) Kui menetlus on algatatud ainult asjakahjudest tulenevate nõuete rahuldamiseks ja samast sündmusest on tekkinud ka nõudeid isikukahjudest, mille summa ületab merinõuete korral vastutuse piiramise konventsiooni artikli 6 lõike 1 punktis a kehtestatud vastutuse piirmäära, siis võib isikukahjudest tuleneva nõude võlgnik, kes kuulub isikute ringi, kelle vastu suunatud nõuete rahuldamiseks menetlus algatati, taotleda fondi moodustamiseks vajaliku summa suurendamist isikukahjudest tulenevate nõuete rahuldamiseks vajaliku summa võrra.\n(2) Kui lisasummat ei ole sisse makstud, viiakse menetlus ka pärast fondi moodustamiseks vajaliku summa suurendamist läbi ainult asjakahjudest tulenevate nõuete rahuldamiseks.\n(3) Kui vastavalt käesoleva paragrahvi lõikele 1 määratud fondi moodustamiseks vajalik lisasumma makstakse sisse pärast seda, kui menetlus asjakahjudest tulenevate nõuete rahuldamiseks on juba algatatud, otsustab kohus, et menetlus tuleb algatada ka isikukahjudest tulenevate nõuete rahuldamiseks. Pärast nõuete kaitsmise koosolekut on menetluse laiendamine nõudeklassi A kuuluvatele nõuetele välistatud."
+    },
+    {
+      "provision_ref": "para111",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "111",
+      "title": "§ 111. Isikliku vastutuse lõppemine",
+      "content": "Pärast jagamismenetluse lõppemist ei vastuta võlgnik enam nõuete täitmise eest, mille suhtes tema vastutus oli vastavalt käesoleva seaduse § 86 lõikele 2 piiratud sõltumata sellest, kas nõuded esitati jagamismenetluses või mitte."
+    },
+    {
+      "provision_ref": "para112",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "112",
+      "title": "§ 112. Isikliku vastutuse lõppemine nõuete puhul, mille suhtes ei saa vastutust piirata",
+      "content": "Kui võlausaldaja võtab jagamismenetluses talle langeva osa vastu, ei saa ta väljaspool jagamismenetlust oma nõuet võlgniku vastu esitada isegi juhul, kui võlgnik ei saanud oma vastutust selle nõude suhtes vastavalt käesoleva seaduse § 86 lõikele 2 piirata."
+    },
+    {
+      "provision_ref": "para113",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "113",
+      "title": "§ 113. Jagamismenetluse kulude kandmine",
+      "content": "(1) Jagamismenetluse algatamise avalduse esitanud isik kannab järgmised jagamismenetluse läbiviimisega seotud kulud:\n1) fondihalduri tasu ja kulud;\n2) fondihalduri kulud tagatiste valitsemisel ja realiseerimisel.\n(2) Vastutuse piiramise fondi sissemakstud summade arvel hüvitatakse fondihalduri kulud kohtuvaidlustele jagamismenetluses esitatud nõuete üle ja nende võlausaldajate menetluses osalemise õiguse üle."
+    },
+    {
+      "provision_ref": "para114",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "114",
+      "title": "§ 114. Avalduse esitaja poolt kantavate kulude tasumine",
+      "content": "(1) Jagamismenetluse algatamise avalduse esitanud isiku kantavad kulud määrab kohus jagamismenetluse lõpetamise määruses.\n(2) Kohus määrab jagamismenetluse algatamisel käesoleva seaduse § 113 lõikes 1 nimetatud kulude katteks nõutava ettemakse suuruse. Kui ettemakset ei tasuta, võib kohus jagamismenetluse algatamisest keelduda.\n(3) Kui käesoleva seaduse § 113 lõikes 1 nimetatud kulude hüvitamise nõuet ei ole jagamismenetluse algatamise avalduse esitanud isiku vara suhtes toimuval sundtäitmisel saadud rahuldada vara puudumise tõttu, hüvitatakse § 113 lõikes 1 nimetatud kulud vastutuse piiramise fondi sissemakstud summade arvel. Sellisel juhul toimub fondi moodustamiseks sissemakstud summa jagamine pärast käesoleva seaduse § 113 lõikes 1 nimetatud kulude hüvitamist."
+    },
+    {
+      "provision_ref": "para115",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "115",
+      "title": "§ 115. Kinnipidamine jagamisel",
+      "content": "(1) Kui vastutuse piiramise fondi moodustamiseks vajaliku summa väljamaksmise otsustamisel on ebaselge, kas jagamismenetluse käigus tekib veel kulusid, mis tuleb hüvitada vastutuse piiramise fondi sissemakstud summade arvel, jätab kohus jagamisel selliste kulude katteks eeldatavalt vajaliku summa välja maksmata.\n(2) Käesoleva seaduse § 109 lõikes 1 nimetatud kohtumääruse peale on käesoleva paragrahvi lõikes 1 nimetatud asjaoludel määruskaebuse esitamine keelatud.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud asjaolude äralangemisel muudab kohus oma määruse."
+    },
+    {
+      "provision_ref": "para115^1",
+      "chapter": "8. peatükk - VASTUTUSE PIIRAMISE MENETLUS",
+      "section": "115^1",
+      "title": "§ 115^1. Vastutuse piiramine vastutuse piiramise fondi moodustamata",
+      "content": "(1) Merinõuete korral vastutuse piiramise konventsiooni alusel fondi moodustamiseks õigustatud isik võib esitada vastutuse piiratuse vastuväite artiklis 11 ettenähtud fondi moodustamata, kui tal on õigus oma vastutust piirata käesoleva seaduse § 70 lõike 1 ning §-de 71, 72 ja 74 kohaselt ning tema vastu on algatatud kohtumenetlus § 81 lõike 1 punktides 1–3 nimetatud nõude tõttu. Kui vastutuse piiramise õigust kasutatakse vastutuse piiramise fondi moodustamata, kohaldatakse merinõuete korral vastutuse piiramise konventsiooni artiklit 12.\n(2) Kohus märgib kohtuotsuse resolutsioonis:\n1) mis osas on võlausaldaja kasuks nõue rahuldatud;\n2) merinõuete korral vastutuse piiramise konventsiooni artiklis 12 ettenähtud vastutuse piirmäära, mille summa suuruses võib kohtuotsust täita.\n(3) Kohus võib määrata, et tagatise pakkumisel merinõuete korral vastutuse piiramise konventsiooni artiklis 12 ettenähtud vastutuse piirmäära summa suuruses tühistab kohus võlgniku vara suhtes kohaldatud aresti ja vabastab vara arestist.\n(4) Kohtuotsus kehtib üksnes menetlusosaliste suhtes. Vastutuse piiramise vastuväite esitamine ei piira teiste võlausaldajate õigusi oma nõuete esitamisel võlgniku vastu, võlgniku vara arestimist või nõude rahuldamiseks algatatud sundtäitmist.\n(5) Võlgnik võib algatada jagamismenetluse nii kohtumenetluse ajal kui ka pärast sellise kohtuotsuse jõustumist, mis arvestab võlgniku vastutuse piiratust käesoleva paragrahvi lõike 2 kohaselt.\n(6) Jagamismenetlus tuleb algatada, kui võlgniku vastu on algatatud mitu kohtumenetlust käesoleva seaduse § 81 lõikes 1 nimetatud nõude tõttu ning nende nõuete liitmine ühte menetlusse ei ole otstarbekas."
+    },
+    {
+      "provision_ref": "para116",
+      "chapter": "9. peatükk - KAPTENI ESINDUSÕIGUS",
+      "section": "116",
+      "title": "§ 116. Reederi esindamine",
+      "content": "(1) Kapten võib teha reederi nimel tehinguid, mis on vajalikud laeva käitamiseks ja kasutamiseks, pardal viibivate isikute eest hoolitsemiseks ja nende turvalisuse tagamiseks või laeval asuvate asjade turvalisuse tagamiseks.\n(2) Reeder võib kapteni esindusõigust piirata.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud piirangud kehtivad kolmanda isiku suhtes üksnes juhul, kui kolmas isik esindusõiguse piiramisest teadis või pidi sellest teadma."
+    },
+    {
+      "provision_ref": "para117",
+      "chapter": "9. peatükk - KAPTENI ESINDUSÕIGUS",
+      "section": "117",
+      "title": "§ 117. Esindusõigus saatja või saaja suhtes",
+      "content": "(1) Kapten võib lasti säilitamiseks või sellega muude vajalike toimingute tegemiseks saatja või saaja nimel teha tehinguid, kui seda nõuavad erilised asjaolud.\n(2) Kapten peab saatjale ja saajale tehtud tehingust viivitamatult teatama."
+    },
+    {
+      "provision_ref": "para118",
+      "chapter": "10. peatükk - PÄÄSTMINE",
+      "section": "118",
+      "title": "§ 118. Päästeoperatsioon",
+      "content": "Päästeoperatsioon käesoleva seaduse tähenduses on merel või laevatatavates vetes ohus oleva laeva või muu vara päästmiseks läbiviidav toiming."
+    },
+    {
+      "provision_ref": "para119",
+      "chapter": "10. peatükk - PÄÄSTMINE",
+      "section": "119",
+      "title": "§ 119. Vara merepääste konventsiooni kohaldamine",
+      "content": "Laeva või muu vara päästmisest merel või laevatatavates vetes tulenevatele õigussuhetele kohaldatakse vara merepääste 1989. aasta rahvusvahelist konventsiooni."
+    },
+    {
+      "provision_ref": "para120",
+      "chapter": "10. peatükk - PÄÄSTMINE",
+      "section": "120",
+      "title": "§ 120. Tagatised vara merepääste konventsioonist tulenevatele nõuetele",
+      "content": "(1) Vara merepääste 1989. aasta rahvusvahelise konventsiooni artiklis 12 nimetatud päästetasunõuet omaval isikul ja artiklis 14 nimetatud erihüvitisenõuet omaval isikul on nõuete tagamiseks merivõlg päästetud laeva suhtes.\n(2) Muude päästetud asjade suhtes on vara merepääste 1989. aasta rahvusvahelise konventsiooni artiklis 12 nimetatud päästetasunõuet omaval isikul ja artiklis 14 nimetatud erihüvitisenõuet omaval isikul pandiõigus. Reeder ja vedaja on kohustatud andma päästetasunõuet või erihüvitisenõuet omavale isikule teavet päästetud asjade omaniku kohta.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud õigusi ei või maksma panna juhul, kui:\n1) nõuet omavale isikule antakse nõude tagamiseks piisav tagatis vastavalt vara merepääste 1989. aasta rahvusvahelise konventsiooni artikli 20 lõikele 2;\n2) päästetud laev või muu päästetud asi kuulus riigile või kui päästetud laev oli riigi käsutuses ja laeva või asja kasutati mitteärilisel eesmärgil ning see omas päästmise ajal rahvusvahelise õiguse üldtunnustatud printsiipide kohaselt riiklikku puutumatust.\n(4) Käesoleva paragrahvi lõikes 2 nimetatud pandiõigus lõpeb ühe aasta möödumisel nõude tekkimisest, mida pandiõigus tagab.\n(5) Kui päästetasunõuet või erihüvitisenõuet omav isik annab päästetud laeva või asja vabaks, on omanik kohustatud selle vastu võtma.\n(6) Kui laeva kapten annab päästetud asja üle vastuvõtmiseks õigustatud isikule vastuolus vara merepääste 1989. aasta rahvusvahelise konventsiooni artikli 21 lõikes 3 sätestatuga, vastutab laeva kapten päästetasunõuet või erihüvitisenõuet omavale isikule tekkinud kahju eest. See kehtib ka juhul, kui laeva kapten tegutses reederi juhiste järgi."
+    },
+    {
+      "provision_ref": "para121",
+      "chapter": "10. peatükk - PÄÄSTMINE",
+      "section": "121",
+      "title": "§ 121. Pandiõiguste rahuldamise järjekord",
+      "content": "(1) Käesoleva seaduse § 120 lõikes 2 nimetatud pandiõigusel on eesõigus kõigi muude päästetud asju koormavate pandiõiguste ees.\n(2) Kui ühe asja suhtes on tekkinud mitu käesoleva seaduse § 120 lõikes 2 nimetatud pandiõigust, on varem tekkinud nõuet tagaval pandiõigusel eesõigus hiljem tekkinud nõuet tagava pandiõiguse ees."
+    },
+    {
+      "provision_ref": "para122",
+      "chapter": "11. peatükk - ÜLDAVARII",
+      "section": "122",
+      "title": "§ 122. Üldavarii mõiste",
+      "content": "(1) Üldavariiks loetakse kahju, mis tekkis tahtlikult ja põhjendatud piires tehtud erakorralistest kulutustest või ohverdustest, et päästa laev, prahiraha ja laeval veetav last neid ähvardavast ühisest ohust.\n(2) Üldavarii ohverdused ja kulutused jagatakse laeva, lasti ja prahiraha vahel vastavalt York-Antwerpeni reeglitele, välja arvatud juhul, kui lastiveolepingust ja vedaja vastutuskindlustuse lepingust ei tulene teisiti.\n(3) Tekitatud ohverduste ja kulutuste suuruse kindlakstegemine toimub vastavalt York-Antwerpeni reeglitele.\n(4) Üldavariist tulenevatele suhetele kohaldatakse selle maa õigust, kus on väljastatud dispašš (§ 124), kui ei ole kokku lepitud teisiti."
+    },
+    {
+      "provision_ref": "para123",
+      "chapter": "11. peatükk - ÜLDAVARII",
+      "section": "123",
+      "title": "§ 123. Isiklik vastutus ja tagatise andmine",
+      "content": "(1) Üldavariis osalenud reeder, vedaja ning lastiks oleva kauba saatja ja saaja ei vastuta isiklikult üldavarii sissemakse (üldavarii kontributsioonimakse) tegemise eest. See ei kehti kaupade kohta, mille saaja nende vastuvõtmisel teadis, et kaupade eest tuleb teha üldavarii sissemakse. Saaja isiklik vastutus üldavarii sissemakse tegemise eest on piiratud kaupade väärtusega nende üleandmisel saajale.\n(2) Reeder ja vedaja peavad tagama, et kaupu, mille eest tuleb tasuda üldavarii sissemakse, ei antaks saajale üle ilma üldavarii sissemakset tegemata või sissemakse tegemiseks tagatist andmata.\n(3) Kui reeder või vedaja rikub käesoleva paragrahvi lõikes 2 nimetatud kohustust, vastutab ta kaupade eest tasutava sissemakse tegemise eest isiklikult.\n(4) Reederil või prahtijal ning veotasu nõuet omaval vedajal on pandiõigus kaupadele, mille eest tuleb teha üldavarii sissemakse. Pandiõigusest tulenevad õigused paneb maksma vedaja. Pandiõigus laieneb ka veotasunõudele, kui veotasu pole tasutud.\n(5) Kui kolmas isik on saanud otsese valduse käesoleva paragrahvi lõikes 4 nimetatud pandiõigusega koormatud kaupadele, siis ei saa pandiõigusest tulenevaid õigusi tema suhtes maksma panna, kui isik valduse omandamisel pandiõiguse olemasolust ei teadnud ega pidanudki sellest teadma."
+    },
+    {
+      "provision_ref": "para124",
+      "chapter": "11. peatükk - ÜLDAVARII",
+      "section": "124",
+      "title": "§ 124. Dispašš",
+      "content": "(1) Üldavarii sissemaksed ja kahju suuruse määrab kindlaks ja jagab selleks määratud isik (dispaššöör) reederi ülesandel, koostades selle kohta dokumendi (dispašš).\n(2) Reeder peab käesoleva paragrahvi lõikes 1 nimetatud toimingute tegemiseks andma dispaššöörile viivitamatult, aga mitte hiljem kui ühe kuu jooksul pärast üldavarii toimumist, vastava käsundi. Kui reeder viivitab käsundi andmisega, võib seda teha ka üldavariis osalenud vedaja ning lastiks oleva kauba saatja või saaja."
+    },
+    {
+      "provision_ref": "para124^1",
+      "chapter": "11. peatükk - VASTUTUS",
+      "section": "124^1",
+      "title": "§ 124^1. Kindlustuspoliisi ja kindlustuse või muu rahalise tagatise tunnistuse puudumine",
+      "content": "(1) Käesoleva seadusega ettenähtud kindlustuspoliisi või kindlustuse või muu rahalise tagatise vastavuse kohta väljastatud tunnistuseta laeva kasutamise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 16 000 eurot."
+    },
+    {
+      "provision_ref": "para124^3",
+      "chapter": "11. peatükk - VASTUTUS",
+      "section": "124^3",
+      "title": "§ 124^3. Reisijate vedu merel ilma nõuetele vastava vastutuskindlustuse ja muu rahalise tagatiseta",
+      "content": "(1) Reisijate veo eest ilma nõuetele vastava vastutuskindlustuse või muu rahalise tagatiseta – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para124^4",
+      "chapter": "11. peatükk - VASTUTUS",
+      "section": "124^4",
+      "title": "§ 124^4. Puudega või piiratud liikumisvõimega reisijale laeva pardal abi osutamata jätmine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 1177/2010 artiklis 10 sätestatud nõude täitmata jätmise eest – karistatakse rahatrahviga kuni 150 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para124^5",
+      "chapter": "11. peatükk - VASTUTUS",
+      "section": "124^5",
+      "title": "§ 124^5. Tühistatud või hilinenud väljumisest reisija teavitamise, marsruudi muutmise või piletihinna hüvitamise võimaldamise nõude eiramine",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 1177/2010 artiklites 16 ja 18 sätestatud nõuete täitmata jätmise eest – karistatakse rahatrahviga kuni 150 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para124^6",
+      "chapter": "11. peatükk - VASTUTUS",
+      "section": "124^6",
+      "title": "§ 124^6. Reisiteabe andmata jätmine laeva pardal",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 1177/2010 artiklis 22 sätestatud nõude täitmata jätmise eest – karistatakse rahatrahviga kuni 150 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para124^7",
+      "chapter": "11. peatükk - VASTUTUS",
+      "section": "124^7",
+      "title": "§ 124^7. Menetlus",
+      "content": "(1) Käesolevas peatükis sätestatud väärtegudele kohaldatakse karistusseadustiku üldosa ja väärteomenetluse seadustiku sätteid.\n(2) Käesoleva seaduse §-des 124^1 ja 124^3 sätestatud väärtegude kohtuväline menetleja on Transpordiamet.\n(3) Käesoleva seaduse §-des 124^4–124^6 sätestatud väärtegude kohtuväline menetleja on Tarbijakaitse ja Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para125",
+      "chapter": "12. peatükk - RAKENDUSSÄTTED",
+      "section": "125",
+      "title": "§ 125.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para126",
+      "chapter": "12. peatükk - RAKENDUSSÄTTED",
+      "section": "126",
+      "title": "§ 126. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2002. aasta 1. oktoobril."
+    }
+  ],
+  "definitions": []
+}

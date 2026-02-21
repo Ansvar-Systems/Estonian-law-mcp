@@ -1,0 +1,135 @@
+{
+  "id": "ee-law-112072025037",
+  "type": "statute",
+  "title": "Tartu Ülikooli seadus",
+  "title_en": "Tartu Ülikooli seadus",
+  "short_name": "TÜKS",
+  "status": "in_force",
+  "issued_date": "1995-02-16",
+  "in_force_date": "2025-10-01",
+  "url": "https://www.riigiteataja.ee/akt/112072025037.xml",
+  "description": "Official consolidated statute text (Tartu Ülikooli seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Reguleerimisala",
+      "content": "Käesolev seadus sätestab Tartu Ülikooli õigusliku seisundi, eesmärgi ja autonoomia piirid ning juhtimise, rahastamise ja tegevuse alused."
+    },
+    {
+      "provision_ref": "para1^1",
+      "section": "1^1",
+      "title": "§ 1^1. Haldusmenetluse seaduse kohaldamine",
+      "content": "Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Tartu Ülikooli eesmärk ja õiguslik seisund",
+      "content": "(1) Tartu Ülikool (edaspidi ülikool ), asutatud 1632. aastal, on Eesti Vabariigi rahvusülikool.\n(2) Ülikool on avalik-õiguslik juriidiline isik, kes tegutseb käesoleva seaduse, kõrgharidusseaduse, oma põhikirja ja muude õigusaktide alusel.\n(3) Ülikool on universaalne integreeritud teadus-, arendus-, õppe- ja kultuuriasutus. Ülikooli eesmärk on edendada teadusi ja kultuuri, pakkuda teaduse ja tehnoloogia arengule tuginevaid kõrghariduse omandamise võimalusi kõrgharidustaseme kolmel astmel humanitaar-, sotsiaal-, arsti- ning loodusteaduste alal ning osutada õppe-, teadus- ja muul loometegevusel põhinevaid avalikke teenuseid.\n(4) Ülikool edendab eesti keele ja kultuuri säilimise ning arengu eesmärgil Eestit ja tema rahvast uurivaid teadusi ning eestikeelset haridust, säilitab rahvuslikku kultuuripärandit ning pakub avalikkusele sellega seotud teenuseid.\n(5) Ülikool teeb koostööd teiste ülikoolide ja kogu ühiskonnaga, toetades Eesti ühiskonna arengut, luues ja arendades lõimitud õppe- ja teadustegevusel põhinevaid võimalusi rahvusvaheliseks koostööks ja elukestvaks õppeks ning kujundades üliõpilastest vastutustundlikke ja algatusvõimelisi kodanikke."
+    },
+    {
+      "provision_ref": "para2^1",
+      "section": "2^1",
+      "title": "§ 2^1. Ülikooli juhtorganid",
+      "content": "Ülikooli juhtorganid on nõukogu, senat ja rektor."
+    },
+    {
+      "provision_ref": "para2^2",
+      "section": "2^2",
+      "title": "§ 2^2. Nõukogu",
+      "content": "(1) Ülikooli kõrgeim otsustuskogu on nõukogu, kes vastutab ülikooli pikaajalise arengu eest ja tagab ülikooli eesmärkide täitmise.\n(2) Nõukogu koosseisu kuulub üksteist liiget, kellest:\n1) viis liiget nimetab senat ülikooli põhikirjas sätestatud korras;\n2) ühe liikme nimetab Eesti Teaduste Akadeemia isikute hulgast, kes ei ole ülikooli töötajad;\n3) viis liiget nimetab valdkonna eest vastutav minister, kaasates kandidaatide esitamisesse avalikkust ning lähtudes sellest, et nõukogu koosseisust enamuse moodustavad isikud, kes ei ole ülikooli töötajad.\n(3) Nõukogu koosseisu kinnitab valdkonna eest vastutava ministri ettepanekul viieks aastaks Vabariigi Valitsus korraldusega.\n(4) Nõukogu kehtestab ülikooli arengukava, eelarve ja majandusaasta aruande, kinnitab senati vastuvõetud põhikirja ning täidab teisi ülikooli põhikirjas sätestatud ülesandeid.\n(5) Nõukogu annab oma pädevuse piires määrusi ja võtab vastu otsuseid. Nõukogu määrused ja otsused jõustuvad allakirjutamisel, kui neis eneses ei ole sätestatud hilisemat tähtaega, välja arvatud ülikooli eelarve, mis jõustub ülikooli põhikirjas sätestatud korras."
+    },
+    {
+      "provision_ref": "para2^3",
+      "section": "2^3",
+      "title": "§ 2^3. Senat",
+      "content": "(1) Ülikooli akadeemiline otsustuskogu on senat, kes vastutab ülikooli õppe- ning teadus- ja arendustegevuse eest ning tagab selle kõrge kvaliteedi.\n(2) Senati koosseisu kuuluvad:\n1) rektor, kes on senati esimees;\n2) kuni kakskümmend üks liiget, kelle valib ülikooli liikmeskond ning kellest vähemalt 1/5 moodustavad üliõpilased.\n(3) Senati moodustamise tingimused ja korra ning tegevuse alused sätestab ülikooli põhikiri.\n(4) Senat võtab vastu ülikooli põhikirja ning õppe-, teadus- ja arendustööd ja akadeemiliste töötajate töösuhteid puudutavad üldised eeskirjad, võib panna veto nõukogu kinnitatud põhikirjale ning täidab muid talle ülikooli põhikirjaga pandud ülesandeid.\n(5) Senat annab oma pädevuse piires määrusi ja võtab vastu otsuseid. Senati määrused ja otsused jõustuvad allakirjutamisel, kui neis eneses ei ole sätestatud hilisemat tähtaega, välja arvatud põhikiri, mis jõustub kinnitamisel nõukogu poolt."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Rektor",
+      "content": "(1) Rektor on ülikooli juht.\n(2) Rektori valivad nõukogu ja senati liikmed ning teised põhikirjas nimetatud isikud ülikooli põhikirjas sätestatud korras.\n(3) Rektori ametikohale võib kandideerida isik, kes on või on olnud valitud professori ametikohale.\n(4) Nõukogu esimees sõlmib rektoriga kuni viieks aastaks lepingu, millega määratakse kindlaks rektori õigused ja kohustused, temale makstava tasu suurus ning muud tegevuseks vajalikud tingimused. Lepingule kohaldatakse võlaõigusseaduses käsunduslepingu kohta sätestatut.\n(5) Rektor juhib ülikooli igapäevast tegevust, esindab ülikooli suhetes teiste isikutega, vastutab raha ja muu vara õiguspärase ja otstarbeka kasutamise eest ning täidab muid talle ülikooli põhikirja ning nõukogu ja senati õigusaktidega pandud ülesandeid.\n(6) Rektor annab oma ülesannete täitmiseks käskkirju ja korraldusi.\n(7) Nõukogul ja senatil on õigus avaldada rektorile umbusaldust ning rektor vabastatakse enne lepingutähtaja möödumist ametist, kui selle otsuse poolt on 2/3 mõlema kogu koosseisust.\n(8) Rektori volitused lõpevad lepingutähtaja möödumise päeval, omal soovil ametist tagasiastumise päeval või ametist enne lepingutähtaja möödumist vabastamise päeval.\n(9) Volituste lõppemisel on rektoril õigus siirduda tagasi ametikohale, kus ta ülikoolis töötas enne rektoriks valimist.\n(10) Rektori ametist vabastamisel enne lepingutähtaja möödumist sõlmib nõukogu esimees senati ettepanekul kuni üheks aastaks lepingu rektori kohusetäitjaga."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4. Kultuuripärandi säilitamine ja avalike teenuste osutamine",
+      "content": "(1) Käesoleva seaduse § 2 lõikest 4 tuleneva ülesande täitmiseks säilitab ja arendab ülikool kultuuripärandi hulka kuuluvat hoonestust ning teadus-, kunsti- ja ajalooväärtusi sisaldavaid kogusid ja arhiive.\n(2) Käesoleva seaduse § 2 lõigetest 3 ja 4 tulenevate avalike teenuste osutamiseks on ülikoolil raamatukogu, botaanikaaed, muuseumid ja teaduskool."
+    },
+    {
+      "provision_ref": "para7",
+      "section": "7",
+      "title": "§ 7. Residentuur",
+      "content": "(1) Arstiõppele ja hambaarstiõppele järgneb residentuur ühel arsti või hambaarsti erialal. Lisaks arsti või hambaarsti erialale võib residentuuris omandada eriala lisapädevuse, mis tähendab täiendavaid spetsiifilisi oskusi eriala raames.\n(1^1) Residentuuri korraldamise alused on residentuuri raamnõuded ja korraldamise tingimused ning residentuuri programm. Residentuuri programmi kinnitab senat. Enne residentuuri programmi kinnitamist senatis kooskõlastab ülikool selle Sotsiaalministeeriumiga.\n(2) Residentuuri raamnõuded ja korraldamise tingimused kehtestab valdkonna eest vastutav minister määrusega.\n(2^1) Residentuuri programmi registreerimiseks esitab ülikool Eesti hariduse infosüsteemi kaudu taotluse. Haridus- ja Teadusministeerium kontrollib residentuuri programmi vastavust õigusaktidega kehtestatud nõuetele ja registreerib nõuetele vastava residentuuri programmi Eesti hariduse infosüsteemis.\n(3) Residentuuri alustamise tingimus on arstiõppe või hambaarstiõppe õppekava alusel omandatud kõrgharidus või nendele vastav kvalifikatsioon. Residentuuri vastuvõtmise ja residentuurist väljaarvamise tingimused ja korra kehtestab senat.\n(4) Residentuuri korraldab ülikool.\n(5) Residentuuri teoreetiline koolitus toimub ülikoolis ja ülikooli määratud residentuuri baasasutustes (edaspidi baasasutus ). Residentuuri praktiline koolitus toimub ülikooli määratud baasasutustes.\n(6) Residentuuri lõpetanule annab ülikool vastaval arsti või hambaarsti erialal residentuuri lõpetamist tõendava tunnistuse. Ülikooli väljaantud residentuuri lõpetamist tõendavad tunnistused kantakse Eesti hariduse infosüsteemi.\n(7) Residentuuri lõpetamist tõendava tunnistuse statuudi ja vormi kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para7^1",
+      "section": "7^1",
+      "title": "§ 7^1. Arst-resident",
+      "content": "(1) Arst-resident on isik, kes on vastu võetud arstiõppele või hambaarstiõppele järgnevasse residentuuri.\n(2) Arst-residendil on õigus:\n1) kasutada tasuta ülikooli auditooriume, laboratooriume, arvutisaale, raamatukogusid, inventari, seadmeid ja muud vara ülikoolis kehtestatud korras;\n2) residentuuri programmi sulgemisel jätkata residentuuri läbimist residentuuri teise programmi alusel;\n3) valida oma esindajaid ja olla valitud ülikooli kollegiaalsetesse otsustuskogudesse;\n4) saada residentuuri läbimiseks vajalikku õppematerjali ja muud informatsiooni;\n5) esitada rektorile põhjendatud taotlus õppejõu kõrvaldamiseks õppetegevusest;\n6) nõuda eksami või arvestuse sooritamiseks komisjoni;\n7) kasutada muid seadusest, seaduse alusel vastuvõetud õigusaktidest, ülikooli põhikirjast ja ülikooli teistest õigusaktidest tulenevaid õigusi.\n(3) Arst-residendil on kohustus järgida seadusega, seaduse alusel vastuvõetud õigusaktidega, ülikooli põhikirjaga ja ülikooli teiste õigusaktidega arst-residendile pandud kohustusi ning ta kannab vastutust nende rikkumise eest."
+    },
+    {
+      "provision_ref": "para7^2",
+      "section": "7^2",
+      "title": "§ 7^2. Residentuuritellimus ja residentuuri rahastamine",
+      "content": "(1) Residentuuritellimuse esitamisel ülikoolile lähtub Sotsiaalministeerium tervishoiuteenuse osutajate, arstide ja hambaarstide erialakomisjonide, Tervisekassa ja ülikooli ettepanekutest.\n(2) Residentuuri korraldamise, teoreetilise koolituse ja baasasutuses arst-residendi juhendamisega seotud kulu rahastatakse riigieelarvest.\n(3) Sotsiaalministeerium sõlmib ülikooliga residentuuritellimuse täitmiseks ja käesoleva paragrahvi lõikes 2 nimetatud kulu hüvitamiseks halduslepingu, mille kohustuslikud tingimused on:\n1) tellimuse alusel vastu võetavate arst-residentide arv residentuuri programmide kaupa;\n2) kulu hüvitamise alused ja ülikoolile vahendite eraldamise kord;\n3) halduslepingu täitmiseks vajalike andmete esitamise kord ja tähtajad;\n4) poolte õigused ja kohustused.\n(4) Arst-residendi tööjõukulu baasasutuses hüvitatakse Tervisekassa eelarvest.\n(5) Tervisekassa sõlmib ülikooliga käesoleva paragrahvi lõikes 4 nimetatud kulu baasasutusele hüvitamiseks halduslepingu, mille kohustuslikud tingimused on:\n1) halduslepingu täitmiseks vajalike andmete esitamise kord ja tähtajad;\n2) lepingu sisu mõjutavatest asjaoludest teavitamine;\n3) poolte õigused ja kohustused.\n(6) Käesoleva paragrahvi lõikes 5 nimetatud halduslepingu täitmise õiguspärasuse ja otstarbekuse üle teostatava järelevalve tingimused ja kord sätestatakse samas halduslepingus.\n(7) Arst-residendi tööjõukulu arvutamise ja baasasutusele hüvitamise alused kehtestab valdkonna eest vastutav minister määrusega Tervisekassa nõukogu ettepanekul."
+    },
+    {
+      "provision_ref": "para8",
+      "section": "8",
+      "title": "§ 8. Ülikooli õigus omandile",
+      "content": "(1) Ülikool on oma vara omanik, kellel on õigus seda vallata, kasutada ja käsutada käesolevas seaduses ning ülikooli põhikirjas sätestatud korras, tagades vara eesmärgipärase, otstarbeka, säästliku ja heaperemeheliku valitsemise.\n(2) Ülikool omandab ja kasutab oma vara ülikooli tegevusteks ja eesmärkide saavutamiseks ning võõrandab vara, mis ei ole eeltoodu saavutamiseks vajalik, tagades tehingute kooskõla õigusaktidega, läbipaistvuse ja kontrollitavuse."
+    },
+    {
+      "provision_ref": "para9",
+      "section": "9",
+      "title": "§ 9. Ülikooli vara koosseis",
+      "content": "(1) Ülikoolil on:\n1) vara, mida ülikool kasutab oma põhikirjas sätestatud ülesannete täitmiseks ja mille riik annab seaduse alusel ülikooli omandisse;\n2) vara, mis ülikooli taotlusel antakse seaduse alusel tema omandisse hiljem;\n3) vara, mille teine isik võõrandab ülikooli kasuks;\n4) vara, mille ülikool soetab oma tegevuse käigus.\n(2) Ülikoolil on õigus omada vara, mis oli ülikooli omandis enne 1940. aasta 16. juunit."
+    },
+    {
+      "provision_ref": "para10",
+      "section": "10",
+      "title": "§ 10. Varaga seotud õigused ja kohustused",
+      "content": "(1) Ülikool valdab, kasutab ja käsutab oma vara, arvestades järgmisi piiranguid:\n1) kinnisvara on õigus omandada, võõrandada või piiratud asjaõigusega koormata ülikooli nõukogu kehtestatud tingimustel ja korras;\n2) ülikoolil ei ole õigust tagada oma varaga teise isiku kohustusi ega anda laenu;\n3) ülikoolil on õigus, välja arvatud käesoleva lõike punktis 4 nimetatud juhul, asutada oma põhikirjaliste ülesannete täitmiseks eraõiguslikke juriidilisi isikuid ja neis osaleda;\n4) ülikoolil ega ülikooli osalusega eraõiguslikul juriidilisel isikul ei ole õigust asutada erakooli ega eraõiguslikku teadus- ja arendusasutust;\n5) ülikoolil ei ole õigust anda sponsortoetusi ega teha muid rahalisi annetusi.\n(2) Ülikooli vara väljendub tema bilansis.\n(3)\n(4) Ülikool osutab tasulisi koolitusteenuseid ning teostab tasulisi teadusuuringuid, millest saadavaid vahendeid kasutatakse tema põhikirjalise tegevuse finantseerimiseks."
+    },
+    {
+      "provision_ref": "para11",
+      "section": "11",
+      "title": "§ 11. Finantseerimine",
+      "content": "(1) Ülikooli koolitustegevust rahastatakse:\n1) riigieelarvest samadel alustel teiste avalik-õiguslike ülikoolidega;\n2) riigieelarvest residentuuritellimuse käesoleva seaduse § 7^2 lõikes 2 nimetatud tegevustega kaasnevate kulude ulatuses;\n3) õppekulude hüvitamisest saadud vahenditest;\n4) ülikooli põhitegevusest tulenevate tasuliste teenuste osutamisest saadud vahenditest;\n5) muudest allikatest.\n(1^1) Käesoleva seaduse § 2 lõikes 4 nimetatud ülesande täitmiseks loob ülikool Eesti kultuuri, eesti keele ja Eesti ajaloo õppe-, teadus- ja arendustegevusega tegelevad professuurid. Professuuride täpsem loetelu lepitakse kokku kõrgharidusseaduses sätestatud alustel avalik-õiguslikule ülikoolile toetuse eraldamiseks sõlmitavas halduslepingus.\n(1^2) Käesoleva paragrahvi lõikes 1^1 nimetatud professuuride aluseks olevates teadusvaldkondades läbib Tartu Ülikool temaatilise hindamise teadus- ja arendustegevuse ning innovatsiooni korralduse seaduse §-s 18 sätestatud korras vähemalt kord viie aasta jooksul.\n(2) Ülikooli teaduskulude finantseerimise kord sätestatakse teadus- ja arendustegevuse ning innovatsiooni korralduse seaduses.\n(3) Ülikooli raamatukogu finantseeritakse riigieelarvest infoteenuste osutamiseks ja trükiste kogumiseks samadel alustel teiste vastavate raamatukogudega.\n(4)"
+    },
+    {
+      "provision_ref": "para12",
+      "section": "12",
+      "title": "§ 12. Järelevalve ja aruandlus",
+      "content": "(1) Haldusjärelevalve ülikooli tegevuse üle ja ülikooli aruandlus oma tegevusest toimub Vabariigi Valitsuse seaduse ja teadus- ja arendustegevuse ning innovatsiooni korralduse seaduse alusel.\n(1^1) Haldusjärelevalvet käesoleva seaduse § 7^2 lõikes 3 nimetatud halduslepingu üle teostab Sotsiaalministeerium.\n(2)\n(3)\n(4)"
+    },
+    {
+      "provision_ref": "para13",
+      "section": "13",
+      "title": "§ 13. Vara andmine ülikooli omandisse",
+      "content": "Vabariigi Valitsus annab oma määrusega hiljemalt ühe aasta jooksul pärast käesoleva seaduse jõustumist ülikoolile tasuta üle sellise enne 1940. aasta 16. juunit ülikooli omandis olnud vara, mida ülikool taotleb ja mida on ülikooli omandisse võimalik üle anda ning mis on ülikoolile vajalik tema põhikirjas sätestatud ülesannete täitmiseks."
+    },
+    {
+      "provision_ref": "para14",
+      "section": "14",
+      "title": "§ 14. Muudatus varasemas seaduses",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para14^1",
+      "section": "14^1",
+      "title": "§ 14^1. Üleminek",
+      "content": "(1) Tartu Ülikooli kuratooriumi volitused lõpevad 2011. aasta 31. detsembril.\n(2) Nõukogu esimese koosseisu kinnitab Vabariigi Valitsus korraldusega ning nõukogu esimese koosseisu volitused algavad 2012. aasta 1. jaanuaril. Eesti Teaduste Akadeemia ja Tartu Ülikooli ülikooliseaduse alusel moodustatud nõukogu esitavad valdkonna eest vastutavale ministrile liikmed loodava ülikooli nõukogu koosseisu hiljemalt 2011. aasta 1. oktoobriks.\n(3) Tartu Ülikooli ülikooliseaduse alusel moodustatud nõukogu võtab hiljemalt 2011. aasta 1. septembriks vastu senati esimese koosseisu valimise tingimused ja korra.\n(4) Tartu Ülikooli ülikooliseaduse alusel moodustatud nõukogu volitused lõpevad 2011. aasta 31. detsembril.\n(5) Senati esimese koosseisu valimised toimuvad hiljemalt 2011. aasta 1. detsembril ning senati esimese koosseisu volitused algavad 2012. aasta 1. jaanuaril.\n(6) Ülikooli põhikiri ja teised õigusaktid viiakse käesoleva seaduse 2012. aasta 1. jaanuaril jõustuvate muudatustega kooskõlla hiljemalt 2012. aasta 1. märtsiks.\n(7) Tartu Ülikooli 2007. aasta 31. mail valitud rektori volitused kehtivad töölepingus sätestatud tähtaja saabumiseni või enne lepingutähtaja möödumist ametist vabastamiseni.\n(8) 2014. aasta 1. septembri seisuga ametis oleva rektoriga sõlmitud tööleping kehtib kuni töölepingus sätestatud tähtaja saabumiseni või töölepingu ennetähtaegse lõppemiseni ning temaga ei sõlmita käesoleva seaduse § 3 lõikes 4 sätestatud lepingut."
+    },
+    {
+      "provision_ref": "para15",
+      "section": "15",
+      "title": "§ 15. Rakendussäte",
+      "content": "(1) Enne 1997/98. õppeaastat arstiõppesse või hambaarstiõppesse immatrikuleeritud üliõpilastele kohaldatakse õpet, mis koosneb:\n1) arstiõppest nominaalkestusega kuus aastat või hambaarstiõppest nominaalkestusega viis aastat;\n2) internatuurist nominaalkestusega üks aasta;\n3) residentuurist nominaalkestusega kaks kuni viis aastat.\n(2) Enne 1997/98. õppeaastat proviisoriõppesse immatrikuleeritud üliõpilastele kohaldatakse õpet, mis koosneb:\n1) proviisoriõppest nominaalkestusega viis aastat;\n2) internatuurist nominaalkestusega kuus kuud.\n(3) Internatuuri lõpetamine annab üldarsti, hambaarsti või proviisori kutse. Residentuuri lõpetamine annab eriarsti kutse.\n(4) Internatuuri läbimine toimub baastervishoiuasutuses, mille määrab ülikooli ettepanekul Sotsiaalministeerium.\n(5) Riikliku koolitustellimuse alusel moodustatud internatuuri õppekohtade kulud kaetakse riigieelarvest Haridus- ja Teadusministeeriumi eelarve kaudu.\n(6) Enne 2001/02. õppeaastat riikliku koolitustellimuse alusel moodustatud residentuuri õppekohtade kulud kaetakse riigieelarvest Haridus- ja Teadusministeeriumi eelarve kaudu.\n(7) Ülikool annab residentuuri lõpetanule residentuuri lõpetamist tõendava tunnistuse alusel kutsetunnistuse, mis tõendab eriarsti kutsekvalifikatsiooni vastaval arsti või hambaarsti erialal, kuni vastavat kutsekvalifikatsiooni omistava organi määramiseni kutseseadusega sätestatud korras.\n(8) Ülikool võib pärast ülikooli kehtestatud korras toimunud hindamist anda arsti või hambaarsti eriala lisapädevust tõendava dokumendi eriarstile, kes on tervishoiutöötajate registris registreeritud vastava eriala eriarstina enne 2013. aasta 1. juulit."
+    }
+  ],
+  "definitions": []
+}

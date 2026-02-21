@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-123042022027",
+  "type": "statute",
+  "title": "2018. aasta riigieelarve seadus",
+  "title_en": "2018. aasta riigieelarve seadus",
+  "short_name": "RES2018",
+  "status": "in_force",
+  "issued_date": "2017-12-13",
+  "in_force_date": "2019-01-01",
+  "url": "https://www.riigiteataja.ee/akt/123042022027.xml",
+  "description": "Official consolidated statute text (2018. aasta riigieelarve seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

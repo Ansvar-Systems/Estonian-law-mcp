@@ -1,0 +1,372 @@
+{
+  "id": "ee-law-110052014022",
+  "type": "statute",
+  "title": "Surveseadme ohutuse seadus",
+  "title_en": "Surveseadme ohutuse seadus",
+  "short_name": "ee-law-110052014022",
+  "status": "in_force",
+  "issued_date": "2002-05-22",
+  "in_force_date": "2014-07-01",
+  "url": "https://www.riigiteataja.ee/akt/110052014022.xml",
+  "description": "Official consolidated statute text (Surveseadme ohutuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "Käesolev seadus sätestab inimese, vara ja keskkonna ohutuse tagamise eesmärgil nõuded:\n1) surveseadmele ja surveseadmestikule, nende turule laskmisele, kasutusele võtmisele, kasutamisele, paigaldamisele, ümberehitamisele ja remondile;\n2) surveseadme ja surveseadmestiku nõuetele vastavuse hindamise ja tõendamise korrale;\n3) surveseadme ja surveseadmestiku kasutamise järelevaatajale, surveseadmetöid juhtivale isikule ning nende isikute nõuetele vastavuse hindamise ja tõendamise korrale;\n4) tunnustatud asutusele, surveseadmetööde tegijale ja tehnilise kontrolli teostajale, isiku nõuetele vastavuse hindajale ja tõendajale ning tunnustatud erapooletule asutusele;\n5) tehnilisele kontrollile ja riikliku järelevalve korraldusele."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Teiste seaduste kohaldamine",
+      "content": "(1) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesolevast seadusest tulenevaid erisusi.\n(2) Kui surveseadmest või surveseadmestikust tulenevate ohtude vältimine on reguleeritud teise seadusega, kohaldatakse käesolevat seadust teisest seadusest tulenevate erisustega.\n(3)\n(4) Registreerimisele mittekuuluva surveseadme või surveseadmestiku statsionaarselt ehitisse paigaldamisele kohaldatakse ehitustegevust reguleerivas seaduses sätestatud nõudeid. Kui ehitisse statsionaarselt paigaldatav surveseade või surveseadmestik on käesoleva seaduse kohaselt registreeritav surveseade või surveseadmestik, kohaldatakse selle paigaldamisele käesolevas seaduses sätestatud nõudeid ja täiendavalt ehitustegevust reguleerivas seaduses sätestatud nõudeid, välja arvatud ehitaja suhtes kehtestatud nõuded.\n(5) Surveseadme tootja, tootja volitatud esindaja, importija ja levitaja kohustustele, tunnustatud asutusele, tunnustatud erapooletule asutusele, tehnilise kontrolli teostaja ning isiku nõuetele vastavuse hindaja ja tõendaja akrediteerijale ning turujärelevalvele ja surveseadme vastavushindamisele kohaldatakse toote nõuetele vastavuse seadust käesolevast seadusest tulenevate erisustega.\n(6) Käesolevas seaduses sätestatud tegevuslubade andmisele ja kehtetuks tunnistamisele kohaldatakse majandustegevuse seadustiku üldosa seaduses sätestatut ka juhul, kui loakohustusega tegevust ei teostata majandustegevusena."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Muud surveseadmed ja surveseadmestikud",
+      "content": "(1) Käesolevat seadust ei kohaldata järgmistele surveseadmetele ja surveseadmestikele ning nende osadele, mis on:\n1) kavandatud, valmistatud ja paigaldatud kasutamiseks riigikaitselisel otstarbel;\n2) kavandatud kasutamiseks tuumatehnikas ning mille rike võib põhjustada radioaktiivset saastumist;\n3) kavandatud kasutamiseks laevadel ja lennukitel;\n4) käesoleva seaduse § 5 punktis 6 nimetatud VI liigi surveseade ega ole käesoleva seaduse § 16 kohaselt registreeritav surveseade.\n(2)"
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Mõisted käesoleva seaduse tähenduses",
+      "content": "(1) Surveseade on surveanum, torustik, ohutus- ja lisaseadis või muu seade, milles on ette nähtud rõhu tekkimine. Surveseadme osadeks loetakse ka rõhu all olevatele osadele kinnitatud elemente nagu äärik, otsak, tuts, liitmik, tugi, tõsteaas jms. Surveseadmeid defineeritakse järgmiselt:\n1) surveanum on kest (korpus, kere), mis on kavandatud ja valmistatud sisaldama rõhu all olevat fluidumit. Surveanuma hulka arvatakse ka selle lisad kuni liitekohani teiste seadmetega. Surveanum võib koosneda rohkem kui ühest kambrist;\n2) torustik on fluidumi transportimiseks ettenähtud rõhu all olev süsteem, mis koosneb torust või torude süsteemist, toruliitmikest, kompensaatoritest, voolikutest või teistest rõhku taluvatest komponentidest. Õhu jahutamiseks või soojendamiseks ettenähtud ja torudest koosnevad soojusvahetid loetakse samuti torustikuks;\n3) ohutusseadis on seadis, mis on ette nähtud surveseadme kaitsmiseks tööparameetrite lubatud piirväärtuste ületamise eest. Ohutusseadisteks loetakse otseselt rõhku piiravad seadised nagu kaitseklapp, kaitsemembraan ja juhitav rõhualandamise ohutussüsteem ( controlledsafety pressure relief system – CSPRS ). Ohutusseadisteks loetakse ka jälgimisseadiseid, mis kas aktiveerivad korrektsiooni, seiskavad seadme või seiskavad ja lülitavad seadme välja, nagu näiteks temperatuurilülitusseadised, fluidumitaseme lülitusseadised ja ohutusega seotud mõõte-, kontroll- ja reguleerimisseadised ( safety related measurment, control and regulation – SRMCR );\n4) lisaseadis on kindlat funktsiooni täitev ja rõhu all olev seadis.\n(2) Surveseadmestik on tootja poolt mitmest surveseadmest koostatud kogum, mis moodustab ühendatud ja funktsionaalse terviku.\n(3) Fluidum on gaas, vedelik või aur puhta faasina või nende segu, milles võib sisalduda ka tahke aine osakesi.\n(4) Aerosooliballoon on ühekordselt kasutatav metallist, klaasist või plastist surveanum, mis on varustatud vajaliku tühjendusseadmega, mille kaudu anuma sisu saab tühjendada väikeste tahkete või vedelate osakeste suspensioonina, ja mis sisaldab kokkusurutud, veeldatud või rõhu all lahustatud gaasi, mis võib olla ka koos vedela, pastataolise või pulbrilise ainega.\n(5) Lihtne surveanum on igasugune seeriaviisiliselt toodetav keevisliitega anum, milles on ette nähtud suurema kui 0,5-baarise ja väiksema kui 30-baarise sisemise rõhu tekkimine ning mis sisaldab õhku või lämmastikku ega ole ette nähtud leegiga kuumutamiseks.\n(6) Transporditav surveseade on transpordivahendile paigutatav surveseade, mis on ette nähtud fluidumi veoks maanteel või raudteel.\n(7) Meditsiinigaasisüsteem on tervishoiuteenuse osutajat meditsiinigaasiga varustav süsteem, mis koosneb erinevate gaaside jaotussüsteemidest.\n(8) Püsiliited on liited, mida saab lahti ühendada vaid purustusmeetodeid kasutades.\n(9) Rõhk on atmosfäärirõhu suhtes mõõdetud rõhk.\n(10)\n(11)\n(12)"
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5. Surveseadmete liigitus",
+      "content": "Surveseadmed ja surveseadmestikud (edaspidi surveseade ) jaotatakse käesoleva seaduse tähenduses järgmistesse liikidesse:\n1) I liik – surveseadmed, milles on ette nähtud suurema kui 0,5-baarise sisemise töörõhu tekkimine ja millele kohaldatakse Euroopa Parlamendi ja Euroopa Liidu Nõukogu 1997. aasta 29. mai direktiivi 97/23/EÜ surveseadmeid käsitlevate liikmesriikide õigusaktide ühtlustamise kohta (EÜT L 181, 9.07.1997, lk 1);\n2) II liik – seeriaviisiliselt valmistatavad lihtsad surveanumad, millele kohaldatakse Euroopa Ühenduse Nõukogu 1987. aasta 25. juuni direktiivi 87/404/EMÜ lihtsaid surveanumaid käsitlevate liikmesriikide õigusaktide ühtlustamise kohta (EÜT L 220, 8.08.1987, lk 48);\n3) III liik – transporditavad surveseadmed, mille nõuded tulenevad vastavatest rahvusvahelistest konventsioonidest ning millele kohaldatakse Euroopa Liidu Nõukogu 1999. aasta 29. aprilli direktiivi 1999/36/EÜ transporditavate surveseadmete kohta (EÜT L 138, 1.06.1999, lk 20);\n4) IV liik – aerosooliballoonid, välja arvatud aerosooliballoonid, mille maht on väiksem kui 50 milliliitrit, metallist aerosooliballoonid, mille maht on suurem kui 1000 milliliitrit, kaitsva kattega klaasist või mittekillustuvast plastist aerosooliballoonid, mille maht on suurem kui 220 milliliitrit, ja kaitsva katteta klaasist või killustuvast plastist aerosooliballoonid, mille maht on suurem kui 150 milliliitrit ja millele kohaldatakse Euroopa Ühenduse Nõukogu 1975. aasta 20. mai direktiivi 75/324/EMÜ aerosoolidispensereid käsitlevate liikmesriikide õigusaktide ühtlustamise kohta (EÜT L 147, 9.06.1975, lk 40);\n5) V liik – plahvatus- või tuleohtliku, väga tuleohtliku, eriti tuleohtliku, mürgise või väga mürgise vedeliku (edaspidi ohtlik vedelik ) anumad, milles rõhu tekitab vedelikusamba kõrgus või hüdrauliline löök;\n6) VI liik muud surveseadmed, mis ei kuulu I–V liiki."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - NÕUDED SURVESEADMELE JA SELLE VALMISTAMISELE",
+      "section": "6",
+      "title": "§ 6. Nõuded surveseadmele",
+      "content": "(1) Surveseade tuleb kavandada, projekteerida, valmistada, ladustada, paigaldada, täita ja ümber ehitada ning seda tuleb remontida, hooldada, vedada ja kontrollida nii, et see ettenähtud otstarbel ja viisil kasutamise korral ei ohustaks inimest, vara ega keskkonda.\n(2) Nõuded surveseadmele ning selle valmistamisele ja täitmisele, samuti nõuded teabega varustamisele kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - NÕUDED SURVESEADMELE JA SELLE VALMISTAMISELE",
+      "section": "7",
+      "title": "§ 7. Nõuded püsiliidetega tegelevatele isikutele",
+      "content": "(1) Surveseadme valmistamisel ja surveseadmetöödel surveseadme survetaluvust mõjutavate püsiliidete tegemisel osalevad isikud peavad olema võimelised tegema nõuetekohaseid püsiliiteid.\n(2) Katseid surveseadme püsiliidetega, millega ei kaasne nende lahtiühendamist (mittepurustavad katsed), võivad teha vastava pädevusega isikud.\n(3) Käesoleva seaduse § 6 alusel kehtestatud korras ettenähtud juhtudel peab käesoleva paragrahvi lõikes 2 nimetatud isikute pädevus olema hinnatud ja tõendatud käesoleva seaduse §-s 12 sätestatud tunnustatud erapooletu asutuse poolt.\n(4) Käesoleva seaduse § 6 alusel kehtestatud korras ettenähtud juhtudel peavad surveseadme ja surveseadmetöödel surveseadme survetaluvust mõjutavate püsiliidete tegemisel osalevate isikute nõuetele vastavus ja püsiliidete tegemise protseduurid olema hinnatud ja tõendatud tootja valikul kas teavitatud asutuse või käesoleva seaduse §-s 12 sätestatud tunnustatud erapooletu asutuse poolt."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - NÕUDED SURVESEADMELE JA SELLE VALMISTAMISELE",
+      "section": "8",
+      "title": "§ 8. Surveseadme turule laskmine",
+      "content": "(1) Surveseadme võib turule lasta ainult siis, kui:\n1) see vastab käesoleva seaduse ja selle alusel kehtestatud õigusakti või asjakohase Euroopa Liidu õigusakti nõuetele;\n2) selle nõuetele vastavus on ettenähtud korras tõendatud ning surveseade on varustatud nõutava teabe ja märgistusega;\n3) sellele on paigaldatud vastavusmärk, kui see on nõutav.\n(2) Üksikut, I liiki kuuluvat surveseadet, mille suhtes ei ole järgitud nõuetele vastavuse tõendamise korda, võib Tehnilise Järelevalve Ameti loal turule lasta ja kasutusele võtta eksperimenteerimise eesmärgil.\n(3)"
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - NÕUDED SURVESEADMELE JA SELLE VALMISTAMISELE",
+      "section": "9",
+      "title": "§ 9. Surveseadme nõuetele vastavuse hindamine ja tõendamine",
+      "content": "(1) Surveseadme nõuetele vastavuse hindamise ja tõendamise peab tagama surveseadme tootja, tootja volitatud esindaja või isik, kes laseb surveseadme turule, vastavalt käesoleva paragrahvi lõike 2 alusel kehtestatud korrale.\n(2) Surveseadme nõuetele vastavuse hindamise ja tõendamise korra ning nõuetele vastavuse hindamiseks ja tõendamiseks vajalikud vastavushindamise protseduurid kehtestab majandus- ja kommunikatsiooniminister.\n(3) Surveseadme nõuetele vastavuse hindamiseks ja tõendamiseks vajalikes vastavushindamise protseduurides võib ette näha teavitatud või heakskiidetud asutuse või heakskiidetud inspekteerimisasutuse kaasamise kohustuse."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - NÕUDED SURVESEADMELE JA SELLE VALMISTAMISELE",
+      "section": "10",
+      "title": "§ 10. Nõuetele mittevastava surveseadme esitlemine",
+      "content": "Surveseadet, mis ei vasta käesoleva seaduse §-s 6 sätestatud nõuetele või mille suhtes ei ole järgitud nõuetele vastavuse hindamise ja tõendamise korda, võib esitleda messidel, näitustel, demonstratsioonidel ja teistel avalikel esitlustel tingimusel, et see on varustatud selgelt nähtava teabega, mille kohaselt surveseade ei vasta kehtestatud nõuetele ning seda ei tohi turule lasta enne, kui see on nõuetele vastavaks muudetud. Esitluse ajal peab surveseadme esitleja tagama ohutuse."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "3. peatükk - TUNNUSTATUD ASUTUS JA TUNNUSTATUD ERAPOOLETU ASUTUS",
+      "section": "11",
+      "title": "§ 11. Tunnustatud asutus",
+      "content": "(1) Tunnustatud asutus käesoleva seaduse tähenduses on vastavushindamisasutus, kellel on õigus teha surveseadme nõuetele vastavuse hindamiseks ja tõendamiseks vajalikke vastavushindamise protseduure. Tunnustatud asutused käesoleva seaduse tähenduses on teavitatud asutused, heakskiidetud asutused või heakskiidetud inspekteerimisasutused. Heakskiidetud asutus võib teha III liigi surveseadme tehnilist kontrolli.\n(2) Tunnustatud asutusele tegevusloa andmisele, selle kehtivuse peatamisele ja kehtetuks tunnistamisele, samuti tunnustatud asutusena tegutsemisele ja tema üle järelevalve teostamisele kohaldatakse toote nõuetele vastavuse seadust."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - TUNNUSTATUD ASUTUS JA TUNNUSTATUD ERAPOOLETU ASUTUS",
+      "section": "12",
+      "title": "§ 12. Tunnustatud erapooletu asutus",
+      "content": "(1) Tunnustatud erapooletu asutus on:\n1) isik, kellele on antud õigus hinnata ja tõendada käesoleva seaduse §-s 7 nimetatud isikute ja protseduuride nõuetele vastavust;\n2) Euroopa Liidu liikmesriigis asuv käesoleva seaduse §-s 7 nimetatud isikute ja protseduuride nõuetele vastavust hindav ja tõendav asutus, kellest on teavitatud Euroopa Komisjoni ja Euroopa Liidu liikmesriike.\n(2) Tunnustatud erapooletule asutusele tegevusloa andmisele, selle kehtivuse peatamisele ja kehtetuks tunnistamisele, samuti tema üle järelevalve teostamisele kohaldatakse toote nõuetele vastavuse seaduse vastavushindamisasutuse suhtes kehtivaid sätteid käesolevast seadusest tulenevate erisustega.\n(3) Tunnustatud erapooletu asutus peab olema käesoleva seaduse §-s 7 nimetatud isikute pädevuse hindamiseks ja tõendamiseks akrediteeritud. Tunnustatud erapooletu asutus peab olema §-s 7 nimetatud püsiliidete tegemise protseduuride hindamiseks ja tõendamiseks akrediteerimisasutuse poolt kompetentseks tunnistatud.\n(4) Tunnustatud erapooletule asutusele ei laiene toote nõuetele vastavuse seaduses toodet ja selle vastavushindamist käsitlevad sätted."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "4. peatükk - SURVESEADME KASUTAMINE",
+      "section": "15",
+      "title": "§ 15. Nõuded surveseadme kasutamisele",
+      "content": "(1) Surveseadme võib kasutusele võtta ja seda kasutada, kui:\n1) see on paigutatud kasutuskohale nii, et oht inimesele, varale ja keskkonnale on minimaalne ning ei ole takistatud seadme kasutamine, kontrollimine ja hooldamine;\n2) surveseade vastab käesoleva seaduse nõuetele, on tehniliselt korras ja varustatud vajalike töökindlate juhtimis-, kontroll- ja kaitseseadistega;\n3) ettenähtud juhtudel ja korras on teostatud surveseadme tehniline kontroll ning määratud surveseadme kasutamise järelevaataja.\n(2) Surveseade loetakse kasutusele võetuks hetkest, mil alustatakse selle ettenähtud otstarbel kasutamist."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "4. peatükk - SURVESEADME KASUTAMINE",
+      "section": "16",
+      "title": "§ 16. Registreeritavad surveseadmed",
+      "content": "(1) Tehnilise Järelevalve Ametis kuuluvad registreerimisele järgmised surveseadmed:\n1) aurukatel, mille töörõhk on üle 1,0 baari või mille maht on üle 1,0 kuupmeetri;\n2) kuumaveekatel, mille töötemperatuur on üle 120 °C või mille maht on üle 1,0 kuupmeetri;\n3) vedelikukatel, mille töötemperatuur on üle vedeliku keemistemperatuuri rõhul 1,0 baari või mille maht on üle 1,0 kuupmeetri;\n4) ohtlikku gaasi või vedelikku sisaldav anum, mille töörõhu (baarides) ja mahu (liitrites) korrutis on üle 500;\n5) ohutut gaasi või kuuma vett (üle 110 °C) sisaldav anum, mille töörõhu (baarides) ja mahu (liitrites) korrutis on üle 10 000;\n6) ülekuumendatud auru torustik siseläbimõõduga üle 70 millimeetri, kui selles on rõhk üle 39 baari;\n7) kuuma vee või küllastunud auru torustik siseläbimõõduga üle 70 millimeetri, kui selles on rõhk üle 80 baari;\n8) ülekuumendatud auru torustik siseläbimõõduga üle 100 millimeetri, kui selles on rõhk 16–39 baari;\n9) kuuma vee või küllastunud auru torustik siseläbimõõduga üle 100 millimeetri, kui selles on rõhk 16–80 baari;\n10) I liiki ja käesoleva seaduse § 6 lõike 2 alusel kehtestatud korras kõrgemasse kui I kategooriasse klassifitseeritav meditsiinigaasisüsteem;\n11) ohutu gaasi torustik, mille suurima töörõhu (baarides) ja nominaalse ristlõikepindala (ruutmillimeetrites) korrutis on suurem kui 10^6;\n12) ohtliku gaasi torustik, mille suurima töörõhu (baarides) ja nominaalse ristlõikepindala (ruutmillimeetrites) korrutis on suurem kui 10^4, ja ohtliku vedeliku torustik siseläbimõõduga alates 150 millimeetrist;\n13) ohtliku vedeliku paikne mahuti mahuga üle 5 kuupmeetri ja ohtliku vedeliku veoanum mahuga üle 2,5 kuupmeetri.\n(2) Käesoleva paragrahvi lõikes 1 loetletud surveseadmed ei kuulu registreerimisele, kui surveseadet kasutatakse pulbrilise aine hoidmiseks ja teisaldamiseks ning surveseade on rõhu all ainult selle tühjendamisel ja täitmisel.\n(3) Registreeritavaks surveseadmeks ei loeta III liigi surveseadet. Käesoleva paragrahvi lõikes 1 sätestatud tehnilistele kriteeriumitele vastava III liigi surveseadme, välja arvatud gaasiballooni paigaldamisele, remondile ja ümberehitamisele kohaldatakse surveseadmetöödele esitatavaid nõudeid.\n(4) Kui käesoleva paragrahvi lõikes 1 sätestatud tehnilistele kriteeriumidele vastav torustik on ühtlasi küttegaasipaigaldis küttegaasi ohutuse seaduse mõistes, ei kohaldata sellisele torustikule käesolevas seaduses registreeritava surveseadme suhtes kehtivaid nõudeid."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "4. peatükk - SURVESEADME KASUTAMINE",
+      "section": "17",
+      "title": "§ 17. Surveseadme registreerimine",
+      "content": "(1) Tehnilise kontrolli teostaja peab kümne tööpäeva jooksul pärast surveseadme tehnilist kontrolli esitama Tehnilise Järelevalve Ametile elektrooniliselt andmed registreeritava surveseadme, selle omaniku ja kasutamise järelevaataja ning tehnilise kontrolli kohta.\n(2) Surveseadme registreerib Tehnilise Järelevalve Amet tehnilise kontrolli teostaja esitatud andmete alusel.\n(3) Registreeritava surveseadme, tehnilise kontrolli, surveseadme omaniku ja surveseadme kasutamise järelevaataja kohta esitatavate andmete loetelu, vorminõuded ning andmete esitamise ja registreerimise korra kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "4. peatükk - SURVESEADME KASUTAMINE",
+      "section": "18",
+      "title": "§ 18. Surveseadme kaitsevöönd",
+      "content": "(1) Surveseadme kaitsevöönd on surveseadet, kui see on iseseisev ehitis, ümbritsev maa-ala, õhuruum või veekogu, kus ohutuse tagamise vajadusest lähtudes kitsendatakse kinnisasja kasutamist.\n(2) Surveseadme kaitsevööndis peab hoiduma tegevustest, mis võivad kahjustada surveseadet, sealhulgas ei tohi:\n1) tõkestada juurdepääsu surveseadmele, ladustada jäätmeid, kemikaale või väetisi, istutada puid ja põõsaid;\n2) surveseadme omaniku loata ehitada, teha lõhkamis-, puurimis- ja kaevetöid, samuti üleujutus-, niisutus- ja maaparandustöid, ladustada ja teisaldada raskusi ning organiseerida ülesõite või teha muid surveseadme ohutust mõjutada võivaid töid.\n3)\n(3) Surveseadme kaitsevööndi ulatuse kehtestab Vabariigi Valitsus tulenevalt surveseadme ohutasemest, survest ja asukohast."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "4. peatükk - SURVESEADME KASUTAMINE",
+      "section": "19",
+      "title": "§ 19. Surveseadme omaniku kohustused",
+      "content": "(1) Surveseadme omanik on kohustatud:\n1) tagama käesoleva seaduse § 15 lõikes 1 sätestatud nõuete täitmise;\n2) määrama registreeritavale surveseadmele kasutamise järelevaataja (edaspidi surveseadme kasutamise järelevaataja );\n3) olema surveseadme kasutamise järelevaatajaga vastavasisulises õigussuhtes käesoleva seaduse §-s 21 sätestatud kohustuste täitmiseks, välja arvatud, kui füüsilisest isikust surveseadme omanik on ise surveseadme kasutamise järelevaatajaks;\n4) tagama surveseadme kasutamise järelevaataja kohustuste täitmise;\n5) tagama, et riiklikku järelevalvet teostavale ametiisikule osutataks igakülgset abi avarii ja sellega kaasnenud õnnetusjuhtumi põhjuste väljaselgitamisel, säilitades põhjuste väljaselgitamiseni avarii ja õnnetusjuhtumi tagajärjel tekkinud olukorra, kui see ei põhjusta edasisi kahjustusi;\n6) tagama, et registreeritava surveseadmega töötaksid selleks asjakohase väljaõppe saanud isikud;\n7) omama dokumentatsiooni registreeritava surveseadme kohta ulatuses, mis on vaja surveseadme ohutuks kasutamiseks.\n(2) Kui omanik ei ole käesoleva paragrahvi lõikest 1 tulenevaid kohustusi täitnud, peab nimetatud kohustused täitma valdaja."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "4. peatükk - SURVESEADME KASUTAMINE",
+      "section": "20",
+      "title": "§ 20. Surveseadme kasutamise järelevaataja",
+      "content": "(1) Surveseadme kasutamise järelevaataja on isik, kes:\n1) on pädev käesoleva seaduse ja teiste õigusaktide kohaselt korraldama või tagama surveseadme nõuetekohast kasutamist;\n2) kohustub tagama, et surveseadme kasutamisel järgitaks käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõudeid.\n(2) Surveseadme kasutamise järelevaatajal peavad olema surveseadme kasutamise ohutuse tagamiseks vajalikus ulatuses teadmised registreeritavast surveseadmest, mille kasutamise järelevaatajaks ta on määratud, samuti selle ehitusest ja kasutamise ohutusnõuetest.\n(3) Surveseadme kasutamise järelevaataja vastavus käesoleva paragrahvi lõikes 2 sätestatud nõuetele peab olema hinnatud ja tõendatud käesoleva seaduse 7. peatükis sätestatud korras."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - SURVESEADME KASUTAMINE",
+      "section": "21",
+      "title": "§ 21. Surveseadme kasutamise järelevaataja kohustused",
+      "content": "(1) Surveseadme kasutamise järelevaataja ülesanne on tagada, et:\n1) surveseadme kasutamine toimuks käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuete kohaselt;\n2) surveseadme kasutamine peatataks, kui selle edasine kasutamine võib ohustada inimest, vara või keskkonda;\n3) esimesel võimalusel teatataks surveseadme kasutamisel toimunud avariist ja sellega kaasnenud õnnetusjuhtumist Tehnilise Järelevalve Ametile;\n4) surveseadmega töötavaid isikuid juhendataks nende ülesannete täitmisel;\n5) surveseadet paigaldaks, remondiks ja ehitaks ümber ning hooldaks ja surveseadmega töötaks pädev isik.\n(2) Surveseadme kasutamise järelevaataja peab olema kättesaadav surveseadme ohutuse tagamiseks ning tehnilise kontrolli ja riiklike järelevalvetoimingute teostamisel."
+    },
+    {
+      "provision_ref": "para21^1",
+      "chapter": "4. peatükk - SURVESEADME KASUTAMINE",
+      "section": "21^1",
+      "title": "§ 21^1. Surveseadme käitaja",
+      "content": "(1) Surveseadme käitaja käesoleva seaduse tähenduses on füüsiline isik, kelle töö on vahetult seotud surveseadmega, millega töötamiseks nõutakse pädevustunnistust.\n(2) Surveseadme käitaja peab olema vähemalt 18-aastane ja tal peavad olema tööks vajalikud teadmised ja oskused.\n(3) Surveseadme käitaja peab olema sooritanud eksami vastaval erialal töötamiseks. Surveseadme käitaja erialaeksami komisjoni peab kuuluma käesoleva seaduse §-s 31 nimetatud isiku esindaja, kes annab allkirja surveseadme käitamisoskust tõendavale pädevustunnistusele.\n(4) Loetelu surveseadmetest, mille käitajalt nõutakse pädevustunnistust, samuti käitajate hindamise ja tõendamise korra kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "5. peatükk - SURVESEADMETÖÖD",
+      "section": "22",
+      "title": "§ 22. Surveseadmetööd",
+      "content": "(1) Surveseadmetööd käesoleva seaduse tähenduses on registreeritava surveseadme paigaldamine, remont, ümberehitus ja V liigi surveseadmete valmistamine.\n(2) Surveseadme paigaldamine käesoleva seaduse tähenduses on registreeritava surveseadme kohtkindel paigutamine selle kasutuskohale või ühendamine teiste seadmetega.\n(3) Surveseadme remont käesoleva seaduse tähenduses on kasutuses oleva registreeritava surveseadme põhielemendi asendamine või keevitustööd surveseadme korrasoleku ja ohutuse tagamiseks.\n(4) Surveseadme ümberehitamine käesoleva seaduse tähenduses on registreeritava surveseadme konstruktsiooni muutmine või tööparameetrite tõstmine üle tootja poolt ettenähtud suuruste."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "5. peatükk - SURVESEADMETÖÖD",
+      "section": "23",
+      "title": "§ 23. Surveseadmetööde tegija",
+      "content": "(1)\n(1^1)\n(2) Surveseadmetööde tegija peab:\n1) tagama, et surveseadmetööde tegemisel järgitaks ohutusnõudeid;\n2) tagama, et surveseade vastaks pärast surveseadmetööde tegemist käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele;\n3) valdama vahendeid ja dokumentatsiooni surveseadmetööde tegemiseks;\n4) määrama surveseadmetööde tegemiseks surveseadmetöid juhtiva isiku;\n5) olema surveseadmetöid juhtiva isikuga vastavasisulises õigussuhtes käesoleva seaduse §-s 26 sätestatud kohustuste täitmiseks, välja arvatud, kui füüsilisest isikust surveseadmetööde tegija on ise surveseadmetöid juhtivaks isikuks;\n6) tagama, et surveseadmetöid teeksid selleks ettevalmistust omavad isikud;\n7) tagama, et surveseadmetööde tegemine dokumenteeritaks;\n8) täitma muid õigusaktidest tulenevaid kohustusi."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "5. peatükk - SURVESEADMETÖÖD",
+      "section": "24",
+      "title": "§ 24. Nõuded surveseadmetöödele",
+      "content": "(1) Surveseadmetöödel peab nende tegija tagama inimeste, vara ja keskkonna ohutuse.\n(2) Pärast surveseadmetööde tegemist tuleb käesoleva seaduse § 27 lõike 4 alusel kehtestatud korras ettenähtud juhtudel teostada surveseadme tehniline kontroll.\n(3) Nõuded surveseadmetöödele kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "5. peatükk - SURVESEADMETÖÖD",
+      "section": "25",
+      "title": "§ 25. Surveseadmetöid juhtiv isik",
+      "content": "(1) Surveseadmetöid juhtiv isik on isik, kes:\n1) on pädev käesoleva seaduse ja teiste õigusaktide kohaselt korraldama või tagama surveseadmetööde nõuetekohast tegemist;\n2) kohustub tagama, et surveseadmetöödel järgitaks õigusaktides sätestatud nõudeid.\n(2) Surveseadmetöid juhtival isikul peavad olema erialane ettevalmistus, vähemalt kaheaastane töökogemus surveseadmetööde tegemisel ja teadmised surveseadmest, selle ehitusest ja kasutamise ohutusnõuetest tema poolt juhitavate surveseadmetööde ohutuse tagamiseks vajalikus ulatuses.\n(3) Surveseadmetöid juhtiva isiku vastavus käesoleva paragrahvi lõikes 2 sätestatud nõuetele peab olema hinnatud ja tõendatud käesoleva seaduse 7. peatükis sätestatud korras."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "5. peatükk - SURVESEADMETÖÖD",
+      "section": "26",
+      "title": "§ 26. Surveseadmetöid juhtiva isiku kohustused",
+      "content": "(1) Surveseadmetöid juhtiv isik peab tagama, et:\n1) surveseadmetööde tegemisel järgitaks õigusaktide nõudeid;\n2) surveseade oleks pärast surveseadmetööde tegemist kasutamiseks ohutu;\n3) surveseadmetöid teeksid selleks erialast ettevalmistust omavad isikud;\n4) surveseadmetööde tegemine dokumenteeritaks.\n(2) Surveseadmetöid juhtiv isik peab olema kättesaadav riiklike järelevalvetoimingute teostamisel."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "6. peatükk - SURVESEADME TEHNILINE KONTROLL",
+      "section": "27",
+      "title": "§ 27. Surveseadme tehniline kontroll",
+      "content": "(1) Surveseadme tehniline kontroll (edaspidi tehniline kontroll ) käesoleva seaduse tähenduses on menetlus, mille käigus hinnatakse ja tõendatakse surveseadme vastavust käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele.\n(2) Tehniline kontroll teostatakse registreeritavale surveseadmele ja III liigi surveseadmele käesoleva paragrahvi lõike 4 alusel kehtestatud korras ettenähtud juhtudel. Tehniline kontroll jaguneb korraliseks ja erakorraliseks tehniliseks kontrolliks.\n(3) Erakorraline tehniline kontroll teostatakse järgmistel juhtudel:\n1) enne registreeritava surveseadme kasutusele võtmist, kui seda ei ole kasutatud eelnenud aasta jooksul või kui surveseade on seisnud konserveerituna üle kahe aasta;\n2) pärast surveseadmega toimunud avariid;\n3) ettenähtud juhtudel pärast surveseadmetööde tegemist.\n(4) Tehnilise kontrolli korra ja teostamise sageduse kehtestab majandus- ja kommunikatsiooniminister.\n(5)"
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "6. peatükk - SURVESEADME TEHNILINE KONTROLL",
+      "section": "28",
+      "title": "§ 28. Tehnilise kontrolli teostaja",
+      "content": "(1)\n(1^1)\n(2) III liigi surveseadmete tehnilist kontrolli teostab heakskiidetud asutus tingimusel, et teavitatud asutus on eelnevalt teostanud kasutuses oleva kontrollitava surveseadme tüübihindamise."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "6. peatükk - SURVESEADME TEHNILINE KONTROLL",
+      "section": "29",
+      "title": "§ 29. Nõuded tehnilise kontrolli teostajale",
+      "content": "(1) Tehnilise kontrolli teostaja peab:\n1) omama tehnilise kontrolli teostamiseks vajaliku ettevalmistuse, hariduse ja kogemusega töötajaid, kes tunnevad surveseadme ja selle tehnilise kontrolli kohta käivaid õigusakte, standardeid ja eeskirju ning kellel on piisavad teadmised ja kogemused surveseadme tehnilise kontrolli teostamiseks. Tehnilist kontrolli teostava töötaja nõuetele vastavus tõendatakse käesoleva seaduse 7. peatükis sätestatud korras;\n2) valdama vahendeid tehnilise kontrolli teostamiseks;\n3) olema sõltumatu, asjatundlik, erapooletu ja mittediskrimineeriv;\n4)\n5) tagama kogu Eesti territooriumil kõikide registreeritavate surveseadmete tehnilise kontrolli teenuse osutamise ühtse hinnakirja alusel, kusjuures tehnilise kontrolli teenuse hind ei tohi oleneda kontrollitava surveseadme asukohast;\n6)\n7) teavitama surveseadme omanikku või valdajat ja Tehnilise Järelevalve Ametit tehnilise kontrolli käigus tuvastatud puudustest, mis võivad ohustada inimest, vara või keskkonda;\n8) esitama Tehnilise Järelevalve Ametile andmed kontrollitud surveseadme kohta käesoleva seaduse §-s 17 sätestatud korra kohaselt;\n9) omama kogu tehnilise kontrolli teostajana tegutsemise aja jooksul kehtivat ja käesoleva seaduse §-s 37 sätestatud tingimustele vastavat vastutuskindlustust;\n10)\n11) olema tehnilise kontrolli teostamiseks akrediteeritud.\n(2)"
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "7. peatükk - ISIKU NÕUETELE VASTAVUSE HINDAMINE JA TÕENDAMINE",
+      "section": "30",
+      "title": "§ 30. Isiku nõuetele vastavuse hindamine ja tõendamine",
+      "content": "(1) Isiku nõuetele vastavuse hindamine ja tõendamine käesoleva seaduse tähenduses on menetlus, mille käigus isiku nõuetele vastavuse hindaja ja tõendaja hindab surveseadme kasutamise järelevaataja ja surveseadmetöid juhtiva isiku ning surveseadme tehnilist kontrolli teostava töötaja nõuetele vastavust ning tõendab seda pädevustunnistuse andmisega.\n(2) Pädevustunnistus antakse, kui isiku erialane ettevalmistus ja töökogemus vastavad käesolevast seadusest tulenevatele nõuetele ning isik sooritab pädevuseksami positiivselt.\n(3) Isik, kellele pädevustunnistus on antud, peab võimaldama isiku nõuetele vastavuse hindajal ja tõendajal kontrollida enda jätkuvat vastavust nõuetele.\n(4) Kui käesoleva paragrahvi alusel teostatava kontrolli käigus tuvastatakse isiku mittevastavus nõuetele, võib isiku nõuetele vastavuse hindaja ja tõendaja asjaolude kaalukust arvestades pädevustunnistuse kehtetuks tunnistada või sellel märgitud pädevuse ulatust piirata.\n(5) Isiku nõuetele vastavuse hindaja ja tõendaja tunnistab pädevustunnistuse kehtetuks, kui:\n1) tuvastatakse, et pädevustunnistus on saadud seoses pettuse, võltsingu või ebaõigete andmete esitamisega;\n2) vastavalt käesoleva seaduse § 39 lõikele 2 on pädevustunnistuse kehtivus peatatud ning isik ei ole oma pädevuse uuesti hindamiseks sooritanud pädevuseksamit kolme kuu jooksul pädevustunnistuse kehtivuse peatamise tähtaja lõppemisest arvates;\n3) pädevuse uuesti hindamisel selgub isiku mittevastavus pädevustunnistuse saamise eelduseks olevatele nõuetele;\n4) isik ei ole isiku nõuetele vastavuse hindaja ja tõendaja kontrolli käigus esitatud nõudeid täitnud kolme kuu jooksul nende esitamisest arvates.\n(6) Isiku nõuetele vastavuse hindamise ja tõendamise ning välisriigis omandatud pädevuse tunnustamise korra kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para30^1",
+      "chapter": "7. peatükk - ISIKU NÕUETELE VASTAVUSE HINDAMINE JA TÕENDAMINE",
+      "section": "30^1",
+      "title": "§ 30^1. Välisriigis omandatud pädevuse tunnustamine",
+      "content": "(1) Kui isik, kes soovib töötada surveseadme kasutamise järelevaatajana, surveseadmetöid juhtiva isikuna või surveseadme tehnilist kontrolli teostava töötajana, on omandanud pädevuse välisriigis, ei kohaldata tema suhtes käesoleva seaduse § 30 nõudeid.\n(2) Välisriigis omandatud pädevuse vastavust käesoleva seaduse nõuetele hindab ja tõendab isiku nõuetele vastavuse hindaja ja tõendaja välisriigi kutsekvalifikatsiooni tunnustamise seaduse ja selle alusel kehtestatud õigusaktide alusel, arvestades käesolevast seadusest tulenevaid erisusi.\n(3) Välisriigis omandatud pädevuse tunnustamise eest riigilõivu ei tasuta. Välisriigis omandatud pädevuse tunnustamise eest tasutakse isiku nõuetele vastavuse hindajale ja tõendajale vastavalt tema hinnakirjale.\n(4)"
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "7. peatükk - ISIKU NÕUETELE VASTAVUSE HINDAMINE JA TÕENDAMINE",
+      "section": "31",
+      "title": "§ 31. Isiku nõuetele vastavuse hindaja ja tõendaja",
+      "content": "(1)\n(2) Isiku nõuetele vastavuse hindaja ja tõendaja peab:\n1) omama isiku nõuetele vastavuse hindamiseks ja tõendamiseks vajaliku erialase ettevalmistuse, väljaõppe ja kogemusega töötajaid;\n2) valdama vahendeid isiku nõuetele vastavuse hindamiseks ja tõendamiseks;\n3) olema sõltumatu, asjatundlik, erapooletu ja mittediskrimineeriv;\n4) omama kogu isiku nõuetele vastavuse hindaja ja tõendajana tegutsemise aja jooksul kehtivat ja käesoleva seaduse §-s 37 sätestatud tingimustele vastavat vastutuskindlustust;\n5) olema isiku nõuetele vastavuse hindamiseks ja tõendamiseks akrediteeritud;\n6) tagama isiku nõuetele vastavuse hindamise ja tõendamise teenuse ning välisriigis omandatud pädevuse tunnustamise teenuse kõigile taotlejatele.\n(3)\n(4) Isiku nõuetele vastavuse hindamise ja tõendamise teenuse ning välisriigis omandatud pädevuse tunnustamise teenuse hinnad peavad olema kulupõhised, läbipaistvad ja mittediskrimineerivad ning kujundatud selliselt, et kataksid nende teenustega seotud põhjendatud kulutused ja tagaksid isiku nõuetele vastavuse hindajale ja tõendajale mõistliku kasumi."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "8. peatükk - TEGEVUSLUBA",
+      "section": "32",
+      "title": "§ 32. Loakohustus",
+      "content": "(1) Ettevõtjal peab olema tegevusluba järgmistel tegevusaladel tegutsemiseks:\n1) surveseadmetööde tegemine;\n2) tehnilise kontrolli teostamine;\n3) isiku nõuetele vastavuse hindajana ja tõendajana tegutsemine.\n(2) Käesoleva paragrahvi lõike 1 punktis 1 sätestatud loakohustus puudub teises Euroopa Majanduspiirkonna liikmesriigis õiguspäraselt surveseadmetöid tegeval ja seal asutatud isikul või Euroopa Majanduspiirkonna teise liikmesriigi kodanikul Eestis ajutiselt surveseadmetööde tegemiseks. Nimetatud isik teavitab Eestis tegevuse alustamisest Tehnilise Järelevalve Ametit ja järgib Eestis gaasitöödele kehtestatud nõudeid.\n(3) Käesoleva paragrahvi lõike 1 punktis 2 sätestatud loakohustus puudub teises Euroopa Majanduspiirkonna liikmesriigis õiguspäraselt tehnilist kontrolli teostaval ja seal asutatud isikul või Euroopa Majanduspiirkonna teise liikmesriigi kodanikul Eestis ajutiselt tehnilise kontrolli teostamiseks. Nimetatud isik teavitab Eestis tegevuse alustamisel Tehnilise Järelevalve Ametit ja järgib Eestis tehnilise kontrolli teostamisele kehtestatud nõudeid."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "8. peatükk - TEGEVUSLUBA",
+      "section": "33",
+      "title": "§ 33. Tegevusloa taotlemine",
+      "content": "Tegevusloa taotluse lahendab Majandus- ja Kommunikatsiooniministeerium tegevusloa andmise või andmisest keeldumisega viie tööpäeva jooksul taotluse esitamise päevast arvates."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "8. peatükk - TEGEVUSLUBA",
+      "section": "34",
+      "title": "§ 34. Tegevusloa kontrolliese",
+      "content": "(1) Surveseadmetööde tegemiseks antakse tegevusluba, kui taotleja surveseadmetöid juhtiv isik vastab käesoleva seaduse § 25 lõigetes 2 ja 3 sätestatud nõuetele.\n(2) Isiku nõuetele vastavuse hindamiseks ja tõendamiseks antakse ettevõtjale tegevusluba, kui ta vastab käesoleva seaduse § 31 lõikes 2 sätestatud nõuetele ning omab §-s 37 sätestatud tingimustele vastavat vastutuskindlustust.\n(3) Tehnilise kontrolli teostamiseks antakse tegevusluba, kui taotleja vastab käesoleva seaduse § 29 lõike 1 punktides 10 ja 11 sätestatud nõuetele ning omab §-s 37 sätestatud tingimustele vastavat vastutuskindlustust."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "8. peatükk - TEGEVUSLUBA",
+      "section": "35",
+      "title": "§ 35. Dokumentatsiooni üleandmise kohustus",
+      "content": "Tegevusloa kehtetuks tunnistamise korral peab isiku nõuetele vastavuse hindaja ja tõendaja kogu isiku nõuetele vastavuse hindamise ja tõendamise dokumentatsiooni üle andma Tehnilise Järelevalve Ametile ühe kuu jooksul tegevusloa kehtetuks tunnistamise päevast arvates."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "8. peatükk - TEGEVUSLUBA",
+      "section": "37",
+      "title": "§ 37. Vastutuskindlustus",
+      "content": "Ettevõtjal, kes tegutseb tehnilise kontrolli teostajana või isiku nõuetele vastavuse hindaja ja tõendajana, peab olema vastutuskindlustus kindlustussumma ulatuses, mis:\n1) tagab tema tegevuses tehnilise kontrolli teostajana või isiku nõuetele vastavuse hindaja ja tõendajana kolmandale isikule tekkida võiva kogu kahju hüvitamise;\n2) on vähemalt 31 950 eurot."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "9. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "38",
+      "title": "§ 38. Riiklik järelevalve",
+      "content": "Käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle teostab riiklikku järelevalvet Tehnilise Järelevalve Amet (edaspidi korrakaitseorgan ).\n(2) Korrakaitseorgani pädevusse kuulub:\n1) järelevalve turule lastud surveseadme nõuetele vastavuse üle (turujärelevalve);\n2) järelevalve surveseadme kasutamise ja surveseadmetööde tegemise vastavuse üle käesoleva seadusega ja selle alusel kehtestatud nõuetele;\n3) järelevalve tunnustatud asutuse, tunnustatud erapooletu asutuse, tehnilise kontrolli teostaja ja ettevõtja suhtes käesoleva seadusega ja selle alusel kehtestatud nõuete järgimise üle;\n4) surveseadmega toimunud avarii ja õnnetuse tekkepõhjuste väljaselgitamine;\n5) järelevalve käigus ettekirjutuste ja otsuste tegemine."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "9. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "40",
+      "title": "§ 40. Riikliku järelevalve erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50, 51 ja 52 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para40^1",
+      "chapter": "9. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "40^1",
+      "title": "§ 40^1. Riikliku järelevalve erisused",
+      "content": "(1) Korrakaitseorgan võib korrakaitseseaduse §-s 50 sätestatud tingimustel siseneda üksnes surveseadme valmistamis-, paigaldus-, kasutamis-, remondi-, ümberehitus-, ladustamis- ja müügikohta, samuti tehnilise kontrolli teostaja ja tunnustatud asutuse ruumidesse.\n(2) Korrakaitseorgan võib nõuda nõuetele mittevastava või ohtliku surveseadme turult eemaldamist või selle kasutamise lõpetamist.\n(3) Kui riikliku järelevalve käigus tuvastatakse, et surveseadmele on vastavusmärk valesti paigaldatud, on korrakaitseorganil õigus kohustada sellise surveseadme tootjat või tootja volitatud esindajat, transporditava surveseadme puhul ka omanikku või valdajat rakendama abinõusid vastavusmärgistuse nõuetega vastavusse viimiseks. Kui puudusi ei kõrvaldata, keelab korrakaitseorgan sellise surveseadme turule laskmise või tagab, et see turult eemaldatakse.\n(4) Kui riikliku järelevalve käigus tuvastatakse, et surveseadme kasutamise järelevaataja, surveseadmetöid juhtiv isik või tehnilist kontrolli teostav töötaja ei ole järginud tema tegevuse suhtes kohaldatavaid nõudeid ja on sellega põhjustanud ohu inimese elule, tervisele või varale või keskkonnale, võib korrakaitseorgani juht või tema volitatud ametiisik sõltuvalt rikkumise raskusest lisaks muude käesolevast seadusest tulenevate sanktsioonide rakendamisele peatada oma otsusega surveseadme kasutamise järelevaataja, surveseadmetöid juhtiva isiku või tehnilist kontrolli teostava töötaja pädevustunnistuse kehtivuse kuni aastaks. Pädevustunnistuse kehtivuse taastamiseks tuleb sooritada uus pädevuseksam."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "9. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "41",
+      "title": "§ 41. Sunniraha määr",
+      "content": "Ettekirjutuse täitmata jätmise korral võib korrakaitseorgan rakendada sunnivahendit asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 640 eurot."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "46",
+      "title": "§ 46. Surveseadme kasutamise nõuete rikkumine",
+      "content": "(1) Surveseadme kasutamise nõuete või surveseadme omaniku või surveseadme kasutamise järelevaataja kohustuste rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "47",
+      "title": "§ 47. Surveseadmetööde nõuete rikkumine",
+      "content": "(1) Surveseadmetööde tegemise nõuete rikkumise või surveseadmetöid juhtiva isiku kohustuste täitmata jätmise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "48",
+      "title": "§ 48. Tehnilise kontrolli ning isiku nõuetele vastavuse hindamise ja tõendamise nõuete rikkumine",
+      "content": "(1) Tehnilise kontrolli või isiku nõuetele vastavuse hindamise ja tõendamise nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "49",
+      "title": "§ 49. Menetlus",
+      "content": "(1) Käesoleva seaduse §-des 46–48 sätestatud väärtegudele kohaldatakse karistusseadustiku üldosa ja väärteomenetluse seadustiku sätteid.\n(2) Käesoleva seaduse §-des 46–48 sätestatud väärtegude kohtuväline menetleja on Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "50",
+      "title": "§ 50. Nõuded kasutuses olevale surveseadmele",
+      "content": "Enne käesoleva seaduse jõustumist turule lastud ja kasutusele võetud surveseade peab olema ohutu ja vastama turule laskmise või kasutusele võtmise hetkel kehtinud nõuetele."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "51",
+      "title": "§ 51. Üleminekusätted",
+      "content": "(1) Ettevõtja võib tegutseda registri registreeringuta 2002. aasta 1. oktoobrini.\n(2) Enne käesoleva seaduse jõustumist surve- ja tõsteseadme ohutuse seaduse alusel tegutsenud tehnilise kontrolli teostaja peab vastama käesoleva seaduse nõuetele hiljemalt 2003. aasta 1. jaanuaril.\n(3) Seadme kasutamise järelevaataja ja seadme valmistamise järelevaataja, kelle nõuetele vastavust on hinnatud ja tõendatud pädevustunnistusega surve- ja tõsteseadme ohutuse seaduse alusel, loetakse neile väljastatud pädevustunnistuse kehtivusaja lõpuni käesolevas seaduses esitatud nõuetele vastavaks. Seadme valmistamise järelevaataja pädevus loetakse vastavaks käesolevas seaduses sätestatud surveseadmetöid juhtiva isiku pädevusele.\n(4) Käesolevast seadusest tulenevad nõuded III liigi surveseadmele jõustuvad 2003. aasta 1. jaanuaril."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "52",
+      "title": "§ 52. Juriidilise isiku haldusvastutus enne karistusseadustiku jõustumist",
+      "content": "Juriidiline isik vastutab käesoleva seaduse või selle alusel kehtestatud õigusaktide nõuete rikkumise eest järgmises ulatuses:\n1) riikliku erinõuetega ettevõtjate registri registreeringuta surveseadmetööde tegemise või isiku nõuetele vastavuse hindamise ja tõendamise eest – määratakse rahatrahv 5000 kuni 50 000 krooni;\n2) riikliku erinõuetega ettevõtjate registri volitatud töötlejale valeandmete esitamise või andmete muutumisest teatamata jätmise või tähtaegselt esitamata jätmise eest – määratakse rahatrahv 500 kuni 5000 krooni;\n3) surveseadme turule laskmise või kasutamise nõuete rikkumise eest – määratakse rahatrahv 5000 kuni 50 000 krooni;\n4) surveseadmetööde tegemise nõuete rikkumise eest – määratakse rahatrahv 5000 kuni 50 000 krooni;\n5) isiku nõuetele vastavuse hindamise ja tõendamise või tehnilise kontrolli nõuete rikkumise eest – määratakse rahatrahv 5000 kuni 50 000 krooni."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "53",
+      "title": "§ 53. Menetlus haldusõiguserikkumise asjades enne karistusseadustiku jõustumist",
+      "content": "(1) Menetlus käesolevas seaduses sätestatud haldusõiguserikkumiste asjades, kaasa arvatud karistuse määramine ja vaidlustamine ning jõustunud halduskaristuse täitmine, toimub haldusõiguserikkumiste seadustikus sätestatud korras.\n(2) Riiklikku järelevalvet teostaval ametiisikul on õigus määrata juriidilisest isikust haldusõiguserikkujale rahatrahv kuni 20 000 krooni. Sellest suurema rahatrahvi määramise õigus on maa- või linnakohtu kohtunikul.\n(3) Käesoleva seaduse või selle alusel kehtestatud õigusaktide nõuete rikkumise korral on haldusõiguserikkumise protokolli koostamise õigus inspektsiooni riiklikku järelevalvet teostaval ametiisikul.\n(4) Haldusõiguserikkumise protokollis märgitakse:\n1) selle koostamise aeg ja koht,\n2) asutuse nimetus ja aadress, kelle nimel protokoll koostatakse;\n3) protokolli koostanud isiku ees- ja perekonnanimi ning ametinimetus;\n4) haldusõiguserikkuja nimi, aadress ja kontaktandmed;\n5) haldusõiguserikkuja esindaja ees- ja perekonnanimi ning ametikoht;\n6) viide õigusakti sättele, mida rikuti;\n7) haldusõiguserikkuja või viimase esindaja seletus õigusrikkumise kohta;\n8) tunnistajate seletused ja muud asja lahendamiseks olulised asjaolud;\n9) teave, et haldusõiguserikkujale on selgitatud õigust kasutada õigusabi.\n(5) Protokoll esitatakse tutvumiseks haldusõiguserikkujale või viimase esindajale. Haldusõiguserikkuja või viimase esindaja annab protokolliga tutvumisel allkirja. Allkirja andmisest keeldumise korral teeb protokolli koostaja protokollile sellekohase märke. Protokolli koopia väljastatakse haldusõiguserikkujale või viimase esindajale."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "54",
+      "title": "§ 54.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "55",
+      "title": "§ 55.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "56",
+      "title": "§ 56. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2002. aasta 1. juulil, välja arvatud:\n1) käesoleva seaduse § 5 2003. aasta 17. detsembril vastuvõetud redaktsioonis, § 8 lõige 3, § 12 lõike 1 punkt 2 jõustuvad Eesti ühinemisel Euroopa Liiduga;\n2) käesoleva seaduse 10. peatükk, mis jõustub samaaegselt karistusseadustikuga.\n(2) Käesoleva seaduse §-d 52 ja 53 kehtivad kuni karistusseadustiku jõustumiseni."
+    }
+  ],
+  "definitions": []
+}

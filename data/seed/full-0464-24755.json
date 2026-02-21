@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-24755",
+  "type": "statute",
+  "title": "Euroopa kohaliku omavalitsuse harta ratifitseerimise seadus",
+  "title_en": "Euroopa kohaliku omavalitsuse harta ratifitseerimise seadus",
+  "short_name": "ee-law-24755",
+  "status": "in_force",
+  "issued_date": "1994-09-28",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/24755.xml",
+  "description": "Official consolidated statute text (Euroopa kohaliku omavalitsuse harta ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud Euroopa kohaliku omavalitsuse harta, mis on sõlmitud 1985. aasta 15. oktoobril Strasbourg’is."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Eesti Vabariik kohustub järgima harta kõiki artikleid tema jurisdiktsioonile alluval territooriumil. Riigikogu esimees Ülo NUGIS Õiend Akti metaandmed parandatud ja täiendatud."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-125052018009",
+  "type": "statute",
+  "title": "Mõõteseadus",
+  "title_en": "Mõõteseadus",
+  "short_name": "ee-law-125052018009",
+  "status": "in_force",
+  "issued_date": "2004-03-10",
+  "in_force_date": "2019-01-01",
+  "url": "https://www.riigiteataja.ee/akt/125052018009.xml",
+  "description": "Official consolidated statute text (Mõõteseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

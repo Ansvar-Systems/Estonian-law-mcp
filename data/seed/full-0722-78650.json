@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-78650",
+  "type": "statute",
+  "title": "Kohtulikult karistatud isikute üleandmise Euroopa konventsiooni ratifitseerimise seadus",
+  "title_en": "Kohtulikult karistatud isikute üleandmise Euroopa konventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-78650",
+  "status": "in_force",
+  "issued_date": "1997-02-26",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/78650.xml",
+  "description": "Official consolidated statute text (Kohtulikult karistatud isikute üleandmise Euroopa konventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud kohtulikult karistatud isikute üleandmise Euroopa konventsioon, mis on koostatud 1983. aasta 21. märtsil Strasbourg'is ja alla kirjutatud Eesti Vabariigi poolt 1993. aasta 4. novembril Strasbourg'is."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Ratifitseerimisel teha järgmine deklaratsioon:",
+      "content": "Vastavalt konventsiooni artikli 17 lõikele 3 deklareerib Eesti Vabariik, et Eestile esitatakse taotlused ja nende lisad koos eesti- või ingliskeelse tõlkega. Riigikogu esimees Toomas SAVI"
+    }
+  ],
+  "definitions": []
+}

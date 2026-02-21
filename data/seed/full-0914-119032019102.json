@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-119032019102",
+  "type": "statute",
+  "title": "Muinsuskaitseseadus",
+  "title_en": "Muinsuskaitseseadus",
+  "short_name": "ee-law-119032019102",
+  "status": "in_force",
+  "issued_date": "2002-02-27",
+  "in_force_date": "2019-05-01",
+  "url": "https://www.riigiteataja.ee/akt/119032019102.xml",
+  "description": "Official consolidated statute text (Muinsuskaitseseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

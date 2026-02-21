@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-903124",
+  "type": "statute",
+  "title": "Maailma Terviseorganisatsiooni (WHO) tubaka tarbimise leviku vähendamise raamkonventsiooni ratifitseerimise seadus",
+  "title_en": "Maailma Terviseorganisatsiooni (WHO) tubaka tarbimise leviku vähendamise raamkonventsiooni ratifitseerimise seadus",
+  "short_name": "ee-law-903124",
+  "status": "in_force",
+  "issued_date": "2005-05-04",
+  "in_force_date": "2005-06-10",
+  "url": "https://www.riigiteataja.ee/akt/903124.xml",
+  "description": "Official consolidated statute text (Maailma Terviseorganisatsiooni (WHO) tubaka tarbimise leviku vähendamise raamkonventsiooni ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1. Konventsiooni ratifitseerimine",
+      "content": "Ratifitseerida juurdelisatud Maailma Terviseorganisatsiooni (WHO) tubaka tarbimise leviku vähendamise raamkonventsioon (edaspidi konventsioon ), mis on vastu võetud 2003. aasta 21. mail Genfis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2. Deklaratsioon",
+      "content": "Konventsiooni artikli 16 lõike 5 alusel deklareerib Eesti Vabariik, et ta keelab täielikult tubakamüügiautomaatide kasutuselevõtu oma jurisdiktsiooni piires."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3. Asutus",
+      "content": "Pädev asutus konventsiooni artikli 21 tähenduses on Sotsiaalministeerium. Riigikogu esimees Ene ERGMA"
+    }
+  ],
+  "definitions": []
+}

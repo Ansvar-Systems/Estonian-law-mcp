@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-128122017046",
+  "type": "statute",
+  "title": "Riikliku matusetoetuse seadus",
+  "title_en": "Riikliku matusetoetuse seadus",
+  "short_name": "RMTS",
+  "status": "in_force",
+  "issued_date": "2000-11-08",
+  "in_force_date": "2018-01-01",
+  "url": "https://www.riigiteataja.ee/akt/128122017046.xml",
+  "description": "Official consolidated statute text (Riikliku matusetoetuse seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

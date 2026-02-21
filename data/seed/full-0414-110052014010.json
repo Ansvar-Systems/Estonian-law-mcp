@@ -1,0 +1,365 @@
+{
+  "id": "ee-law-110052014010",
+  "type": "statute",
+  "title": "Elektriohutusseadus",
+  "title_en": "Elektriohutusseadus",
+  "short_name": "ee-law-110052014010",
+  "status": "in_force",
+  "issued_date": "2007-01-24",
+  "in_force_date": "2014-07-01",
+  "url": "https://www.riigiteataja.ee/akt/110052014010.xml",
+  "description": "Official consolidated statute text (Elektriohutusseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "Käesolev seadus sätestab inimesele, varale ja keskkonnale elektrist tulenevate ohtude ja elektromagnetiliste häirete vältimise ja vähendamise eesmärgil nõuded:\n1) elektriseadmele ja -paigaldisele, nende turule laskmisele, kasutusele võtmisele ja kasutamisele ning nõuetele vastavuse hindamise ja tõendamise korrale;\n2) elektripaigaldise omanikule, teavitatud asutusele, elektritöö ettevõtjale, tehnilise kontrolli teostajale, personali sertifitseerimise asutusele, elektripaigaldise käidu korraldajale ja elektritöö juhile;\n3) riikliku järelevalve teostamisele."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Teiste seaduste kohaldamine",
+      "content": "(1) Kui elektriseadmest või -paigaldisest tulenevate elektriliste ohtude või elektromagnetiliste häirete vältimise mõned nõuded on reguleeritud teises õigusaktis, siis käesolevat seadust ja selle alusel kehtestatud õigusakte nende puhul ei kohaldata.\n(2) Elektripaigaldise ehituslikule osale kohaldatakse ehitustegevust reguleerivas seaduses ja selle alusel kehtestatud õigusaktides ehitamisele sätestatud nõudeid käesolevast seadusest ja selle alusel kehtestatud õigusaktidest tulenevate erisustega.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid käesolevast seadusest tulenevate erisustega.\n(4) Elektriseadme tootja, tootja volitatud esindaja, importija ja levitaja kohustustele, elektriseadme vastavushindamisele ning turujärelevalvele kohaldatakse toote nõuetele vastavuse seadust käesolevast seadusest tulenevate erisustega. Samuti kohaldatakse toote nõuetele vastavuse seadust tehnilise kontrolli teostaja ja personali sertifitseerimisasutuse akrediteerijale ja teavitatud asutusele."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3. Mõisted",
+      "content": "(1) Käesoleva seaduse tähenduses:\n1) elektripaigaldis on elektriseadmete ja -juhtide statsionaarselt paigaldatud talitluslik kogum;\n2) elektripaigaldise käidukava on dokument või dokumentide kogum, mis määrab elektripaigaldise talitluses hoidmiseks, lülitamiseks, juhtimiseks, kontrollimiseks ja hooldamiseks vajaliku korra, protseduurid ja toimingud;\n3) elektripaigaldise käit (edaspidi käit ) on tegevus elektripaigaldise talitluses hoidmiseks, mis hõlmab eelkõige lülitamist, juhtimist, kontrollimist, hooldamist ja nii elektritöid kui ka muid töid;\n4) elektripaigaldise toitepunkt on jaotuskeskus, millest väljub selle elektripaigaldise toiteliin;\n5) elektriseade on elektrienergia tootmiseks, muundamiseks, edastamiseks, jaotamiseks või kasutamiseks mõeldud ja elektrilisi või elektroonilisi komponente sisaldav seade;\n6) elektromagnetiline häire on mis tahes elektromagnetiline nähtus, mis võib halvendada elektriseadme või -paigaldise toimimist. Elektromagnetiliseks häireks võib olla elektromagnetiline müra, soovimatu signaal või levikeskkonna muutumine;\n7) elektromagnetiline keskkond on kõik teatavas kohas täheldatavad elektromagnetilised nähud;\n8) elektromagnetiline ühilduvus on elektriseadme või -paigaldise võime toimida rahuldavalt elektromagnetilises keskkonnas, tekitamata vastuvõetamatuid elektromagnetilisi häireid teistele selles keskkonnas asuvatele seadmetele;\n9) häirekindlus on elektriseadme või -paigaldise võime toimida ettenähtud viisil talitluse kvaliteedi halvenemiseta elektromagnetilise häire korral;\n10) kaitseväikepingeallikas on eraldustrafo või muu turvalise lahendusega elektriahelat elektrienergiaga toitev seade, millest saadav pinge on sedavõrd madal (enamasti vahelduvpinge kuni 50 volti ja alalispinge kuni 120 volti), et tema toimel inimese keha läbiv vool ei kutsu esile elektrilööki;\n11) peakaitse on kaitse, mille nimivoolu või sättevoolu väärtus määratakse liitumispunkti läbilaskevõimega võrguühenduse fikseerimise kokkuleppes;\n12) raviruum on ruum, kus toimub patsiendi uuring, ravi, järelevalve või hooldus.\n13)\n(2)"
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4. Elektripaigaldiste liigitus",
+      "content": "(1) Elektripaigaldised jaotatakse elektrist tuleneva ohu järgi esimese, teise ja kolmanda liigi elektripaigaldisteks.\n(2) Esimesse liiki kuulub kogu elektripaigaldis alates võrguga liitumise punktist või toitepunktist, kui elektripaigaldis asub:\n1) plahvatusohu tsoonis või seda sisaldavas ehitises;\n2) suurõnnetusohuga ettevõtte ohtlikul objektil;\n3) haiglas või muus ravihoones, kus raviruumides võidakse kasutada võrgutoitelisi elektrilisi meditsiiniseadmeid, mille osad on kasutamisel patsiendiga füüsilises kontaktis;\n4) raviruumis, mis ei asu ravihoones ja kus võidakse kasutada võrgutoitelisi elektrilisi meditsiiniseadmeid, mille osad on kasutamisel patsiendiga füüsilises kontaktis.\n(3) Teise liiki kuuluv elektripaigaldis on:\n1) kahe või enama korteriga hoone korterivaldajate ühiskasutuses olev elektripaigaldis;\n2) ravihoones asuv elektripaigaldis, mis ei ole esimese liigi elektripaigaldis;\n3) kuni 1000-voldise nimipingega vahelduvvoolu või kuni 1500-voldise nimipingega alalisvoolu elektripaigaldis (edaspidi madalpingepaigaldis ), mille peakaitsme nimivool ületab 35 amprit ja mis ei ole esimese liigi elektripaigaldis;\n4) üle 1000-voldise nimipingega vahelduvvoolu või üle 1500-voldise nimipingega alalisvoolu elektripaigaldis (edaspidi kõrgepingepaigaldis ), mis ei ole esimese liigi elektripaigaldis;\n5) elektripaigaldis, mis asub hotellis, motellis, võõrastemajas, puhkekodus, külalistemajas või muus majutushoones.\n(4) Kolmandasse liiki kuulub elektripaigaldis, mille peakaitsme nimivool on 35 amprit või vähem ja mis ei ole esimese ega teise liigi elektripaigaldis."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - ELEKTRISEADE JA -PAIGALDIS",
+      "section": "5",
+      "title": "§ 5. Elektriseadmele ja -paigaldisele esitatavad nõuded",
+      "content": "(1) Elektriseade tuleb kavandada, projekteerida, toota ja ümber ehitada ning seda katsetada, remontida ja hooldada nii, et see nõuetele vastava paigaldamise ning ettenähtud otstarbel ja viisil kasutamise korral ei ohusta inimest, kodulooma, vara ega keskkonda ega põhjusta lubamatuid elektromagnetilisi häireid ning on häirekindel.\n(2) Elektripaigaldis tuleb projekteerida ja ehitada ning seda katsetada, remontida, hooldada ja kontrollida nii, et see ettenähtud otstarbel ja viisil kasutamise korral ei ohusta inimest, vara ega keskkonda ega põhjusta lubamatuid elektromagnetilisi häireid ning on häirekindel.\n(3) Elektriseadmele ja -paigaldisele, nende elektromagnetilisele ühilduvusele ning märgistuse või teabega varustamisele esitatavad nõuded kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - ELEKTRISEADE JA -PAIGALDIS",
+      "section": "6",
+      "title": "§ 6. Elektriseadme ja -paigaldise turule laskmine",
+      "content": "(1) Elektriseadme või -paigaldise võib turule lasta, kui:\n1) see vastab käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuetele;\n2) ettenähtud juhtudel on selle nõuetele vastavus käesoleva seaduse alusel kehtestatud korras tõendatud;\n3) see on varustatud nõutava märgistuse ning teabega;\n4) see on varustatud vastavusmärgiga (CE-märgis), kui viimane on nõutav.\n(2)\n(3)"
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - ELEKTRISEADE JA -PAIGALDIS",
+      "section": "7",
+      "title": "§ 7. Elektriseadme vastavushindamine",
+      "content": "(1) Elektriseadme vastavushindamise tagab elektriseadme tootja, tootja volitatud esindaja või turule laskja.\n(2) Elektriseadme vastavushindamise korra kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - ELEKTRISEADE JA -PAIGALDIS",
+      "section": "8",
+      "title": "§ 8. Nõuetele mittevastava elektriseadme esitlemine",
+      "content": "Elektriseadet, mis ei vasta käesolevas seaduses või selle alusel kehtestatud õigusaktides sätestatud nõuetele või mille suhtes ei ole järgitud vastavushindamise korda, võib esitleda messidel, näitustel, demonstratsioonidel ja teistel avalikel esitlustel tingimusel, et see on varustatud selgelt nähtava teabega, mille kohaselt elektriseade ei vasta kehtestatud nõuetele ning seda ei tohi turule lasta ega kasutusele võtta enne, kui see on nõuetele vastavaks muudetud. Esitluse ajal peab esitleja tagama ohutuse ja vältima lubamatute elektromagnetiliste häirete tekitamist."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "3. peatükk - TEAVITATUD ASUTUS",
+      "section": "9",
+      "title": "§ 9. Teavitatud asutus",
+      "content": "(1) Teavitatud asutus käesoleva seaduse tähenduses on vastavushindamisasutus, kellele on antud õigus teha elektriseadme elektromagnetilise ühilduvuse või elektriseadme elektriohutuse nõuetele vastavuse hindamiseks ja tõendamiseks vajalikke vastavushindamise protseduure.\n(2) Teavitatud asutusele tegevusõiguse andmisele, selle peatamisele ja kehtetuks tunnistamisele, samuti teavitatud asutusena tegutsemisele ja tema üle järelevalve teostamisele kohaldatakse toote nõuetele vastavuse seaduses vastavushindamisasutuse kohta kehtestatud nõudeid."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "4. peatükk - ELEKTRIPAIGALDISE KASUTUSELE VÕTMINE JA KASUTAMINE",
+      "section": "11",
+      "title": "§ 11. Elektripaigaldise kasutusele võtmise ja kasutamise nõuded",
+      "content": "(1) Elektripaigaldise võib kasutusele võtta ja seda kasutada, kui see vastab käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuetele ja kui:\n1) õigusaktis ettenähtud juhtudel on tehtud elektripaigaldise tehniline kontroll (edaspidi tehniline kontroll ) ja elektripaigaldise kohta on väljastatud nõuetekohasuse tunnistus;\n2) käesolevas seaduses ettenähtud juhtudel on määratud elektripaigaldise käidu korraldaja (edaspidi käidukorraldaja );\n3) võrguettevõtjale, kellega on sõlmitud uue võrguühenduse loomiseks või tarbimistingimuste muutmiseks elektrivõrguga liitumise leping, on esitatud teatis. Elektripaigaldise tarbimistingimuste muutmisel peab teatise esitama üksnes juhul, kui peakaitsme nimivool jääb üle 63 ampri.\n(2) Käesoleva paragrahvi lõike 1 punktis 3 nimetatud teatisega kinnitatakse elektripaigaldise valmisolekut pingestamiseks ja nõuetele vastavust ning selles peavad olema:\n1) andmed elektripaigaldist sisaldava ehitise kohta;\n2) andmed elektripaigaldise tehniliste näitajate ja elektripaigaldise omaniku kohta;\n3) elektripaigaldise tehnilise kontrolli teinud ettevõtja nimi;\n4) teatise allkirjastanud isiku kontaktandmed.\n(3) Võrguettevõtja pingestab elektripaigaldise selle kasutuselevõtuks teatise alusel pärast Tehnilise Järelevalve Ameti juures asuvast andmekogust elektripaigaldise tehnilise kontrolli teostatuse ja nõuetele vastavaks tunnistamise kindlaks tegemist.\n(4) Elektripaigaldis on kasutusele võetud hetkest, kui see pingestatakse ettenähtud otstarbel kasutamiseks. Elektripaigaldise võib kasutusele võtta osade kaupa, kusjuures enne iga osa kasutusele võtmist tuleb teostada tehniline kontroll.\n(5) Elektripaigaldise kasutuselevõtmine ei ole pingestamine, mis on vajalik elektripaigaldise kontrollimise toiminguteks."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "4. peatükk - ELEKTRIPAIGALDISE KASUTUSELE VÕTMINE JA KASUTAMINE",
+      "section": "12",
+      "title": "§ 12. Elektripaigaldise kaitsevöönd",
+      "content": "(1) Elektripaigaldise kaitsevöönd on elektripaigaldist, kui see on iseseisev ehitis, ümbritsev maa-ala, õhuruum või veekogu, kus ohutuse tagamise vajadusest lähtudes kehtivad kasutuspiirangud.\n(2) Elektripaigaldise kaitsevööndis on keelatud tõkestada juurdepääsu elektripaigaldisele, põhjustada oma tegevusega elektripaigaldise saastamist ja korrosiooni ning tekitada muul viisil olukorda, mis võib ohustada inimest, vara või keskkonda, samuti korraldada kõrgepingepaigaldise õhuliini kaitsevööndis massiüritusi.\n(3) Elektripaigaldise omaniku loata on keelatud:\n1) elektripaigaldise kaitsevööndis ehitada, sealhulgas ehitada tanklat, ladustada jäätmeid, materjale ja aineid, teha mis tahes mäe-, laadimis-, süvendus-, lõhkamis- ja maaparandustöid, teha tuld, istutada ning langetada puid;\n2) veekaabelliinide kaitsevööndis veesõidukiga ankrusse heita, liikuda heidetud ankru, kettide, logide, traalide ja võrkudega, paigaldada veesõidukite liiklustähiseid ja poisid ning varuda jääd;\n3) õhuliinide kaitsevööndis sõita masinate ja mehhanismidega, mille üldkõrgus maapinnast koos veosega või ilma selleta on üle 4,5 meetri;\n4) kõrgepingepaigaldise õhuliinide kaitsevööndis ehitada traattarasid ning rajada loomade joogikohti;\n5) maakaabelliinide kaitsevööndis töötada löökmehhanismidega, tasandada pinnast, teha mullatöid sügavamal kui 0,3 meetrit, küntaval maal sügavamal kui 0,45 meetrit ning ladustada ja teisaldada raskusi.\n(4) Elektripaigaldise kaitsevööndis oleva maa-ala, õhuruumi või veekogu valdaja peab lubama elektripaigaldise omanikul elektripaigaldise käitu korraldada, teha vajalikke elektripaigaldise ja selle kaitsevööndi hooldustöid ning paigaldada elektripaigaldise tähiseid.\n(5) Elektripaigaldise omanikul on õigus käesoleva paragrahvi lõikes 3 sätestatud tegevusteks loa andmisel nõuda loa taotlejalt asjakohaste ohutusabinõude rakendamist ja elektripaigaldise omanikule tekkivate põhjendatud kulude hüvitamist.\n(6) Elektripaigaldise kaitsevööndis tegutsev isik peab vältima elektripaigaldise kahjustamist või kahjustumise ohu tekkimist. Elektripaigaldise kahjustamise või kahjustumise ohu korral tuleb rakendada abinõusid edasise kahju tekkimise vastu ja viivitamata teavitada tekkinud olukorrast elektripaigaldise omanikku.\n(7) Elektripaigaldise kaitsevööndi ulatuse ja kaitsevööndis tegutsemise korra kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "4. peatükk - ELEKTRIPAIGALDISE KASUTUSELE VÕTMINE JA KASUTAMINE",
+      "section": "13",
+      "title": "§ 13. Elektripaigaldise omaniku kohustused",
+      "content": "Elektripaigaldise omanik peab tagama, et elektripaigaldist kasutataks õigusaktides kehtestatud nõuete kohaselt, sealhulgas:\n1) tagama elektripaigaldise käidu vajaliku korralduse;\n2) määrama esimese liigi elektripaigaldisele käidukorraldaja;\n3) määrama käidukorraldaja madalpingepaigaldisele, mille peakaitsme nimivool on üle 100 ampri, ja kõrgepingepaigaldisele peakaitsme nimivoolust olenemata;\n4) tagama käidukorraldajale tema kohustuste täitmise võimaluse;\n5) korraldama ettenähtud juhtudel elektripaigaldise tehnilist kontrolli;\n6) olema käidukorraldajaga lepingulises suhtes käesoleva seaduse §-s 15 sätestatud kohustuste täitmiseks, välja arvatud, kui käidukorraldajaks on elektripaigaldise füüsilisest isikust omanik ise;\n7) omama dokumentatsiooni elektripaigaldise ja selle tehnilise kontrolli teostamise kohta;\n8) andma Tehnilise Järelevalve Ameti ametiisikule ja teistele volitatud ametiisikutele igakülgset abi õnnetuse põhjuste väljaselgitamisel, säilitades põhjuste väljaselgitamiseni õnnetuse tagajärjel tekkinud olukorra, kui see ei põhjusta edasisi kahjustusi;\n9) teatama Tehnilise Järelevalve Ametile esimesel võimalusel elektripaigaldise kasutamisel toimunud õnnetusest, millega kaasnes tervisekahjustus või muu raske tagajärg."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "4. peatükk - ELEKTRIPAIGALDISE KASUTUSELE VÕTMINE JA KASUTAMINE",
+      "section": "14",
+      "title": "§ 14. Käidukorraldajale esitatavad nõuded",
+      "content": "(1) Käidukorraldajal peavad olema erialane ettevalmistus, teadmised elektripaigaldisest, selle ehitusest ja kasutamise ohutusnõuetest ning töökogemus ulatuses, mis tagab elektripaigaldise kasutamisel ohutuse.\n(2) Käidukorraldaja vastavus käesoleva paragrahvi lõikes 1 sätestatud nõuetele peab olema hinnatud ja tõendatud käesoleva seaduse 7. peatükis sätestatud korras.\n(3) Käidukorraldaja võib olla selle elektripaigaldise elektritöö juht, mille käidukorraldajaks ta on määratud."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "4. peatükk - ELEKTRIPAIGALDISE KASUTUSELE VÕTMINE JA KASUTAMINE",
+      "section": "15",
+      "title": "§ 15. Käidukorraldaja kohustused",
+      "content": "(1) Käidukorraldaja on kohustatud:\n1) koostama käidukava elektripaigaldise kohta, mille käidukorraldajana ta tegutseb, ja kontrollima selle järgimist;\n2) nõudma elektripaigaldise kasutamise või elektripaigaldises tehtava töö peatamist, kui on ilmnenud oht inimesele, varale või keskkonnale, kuni ohu möödumiseni või kõrvaldamiseni;\n3) olema kättesaadav ohutu käidu tagamiseks ja tehnilise kontrolli ning riiklike järelevalvetoimingute teostamisel;\n4) teatama Tehnilise Järelevalve Ametile elektripaigaldise kasutamise nõuete rikkumistest, kui elektripaigaldise omanik ei kõrvalda ise rikkumist mõistliku aja jooksul.\n(2) Käidukorralduse nõuded kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "4. peatükk - ELEKTRIPAIGALDISE KASUTUSELE VÕTMINE JA KASUTAMINE",
+      "section": "16",
+      "title": "§ 16. Häired ja ohud ning elektripaigaldise elektritöö tegemisega kaasnevad kulud",
+      "content": "(1) Kui elektripaigaldis põhjustab häireid või ohtu teisele elektripaigaldisele või selle käidule või teise elektripaigaldise vahendusel kolmandale elektripaigaldisele, kusjuures nii häiriv kui ka häiritav elektripaigaldis vastab õigusaktides sätestatud nõuetele, peab hiljem valminud elektripaigaldise omanik tegema oma elektripaigaldises häirete ja ohu vältimiseks vajaliku elektritöö.\n(2) Kui häire või ohu kõrvaldamine on lihtsam ja odavam varem valminud elektripaigaldise tehnilist struktuuri muutes või täiendades ning seda on võimalik teha elektripaigaldise tööd oluliselt häirimata, peab varem valminud elektripaigaldise omanik tegema oma elektripaigaldises häirete ja ohu vältimiseks vajaliku elektritöö.\n(3) Kahest elektripaigaldisest või nende osadest peetakse hiljem valminuks seda, mis on elektrivõrguga liidetud hiljem.\n(4) Käesoleva paragrahvi lõikes 2 sätestatud juhul peab hiljem valminud elektripaigaldise omanik hüvitama varem valminud elektripaigaldise omanikule elektritööga tekkinud kulud. Kulude määramisel tuleb arvestada elektritöö tulemusena varem valminud paigaldise omanikule paigaldise toimevõime või käidukulude suuruse muutumisest tekkinud kasu või kahju."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "5. peatükk - ELEKTRITÖÖ",
+      "section": "17",
+      "title": "§ 17. Elektritöö ja lihtne elektritöö",
+      "content": "(1) Elektritöö käesoleva seaduse tähenduses on elektriseadme remontimine, ümberehitamine, kontrollimine, katsetamine ja hooldamine ning elektripaigaldise projekteerimine, kontrollimine, katsetamine, remontimine, hooldamine ja ehitamine, sealhulgas elektriseadme paigaldamine.\n(2) Lihtne elektritöö on elektritöö, mida võib teha iga isik. Selliseks tööks on järgmised tööd:\n1) tööd kuni 50-voldise vahelduvpingega või kuni 120-voldise alalispingega elektriseadmetega, mida toidetakse kaitseväikepingeallikast;\n2) tööd kuni 50-voldise vahelduvpingega või kuni 120-voldise alalispingega elektripaigaldise osades, mida toidetakse kaitseväikepingeallikast;\n3) toitevõrgust lahutatud kuni 250-voldise nimivahelduvpingega elektriseadmete hooldustööd, mis ei haara kõrgema kui 50-voldise vahelduvpingega ja 120-voldise alalispingega elektriahelaid.\n(3) Lihtsaks elektritööks peetakse ka järgmisi kuni 250-voldise nimivahelduvpingega elektriseadmes ja -paigaldises tehtavaid töid:\n1) hõõglampide, luminofoorlampide ja süüturite asendamine valgustile lubatud nimiandmetega uute hõõglampide, luminofoorlampide ja süüturitega;\n2) igale isikule kasutamiseks lubatud, elektrikilbis asuvate lülitite, automaatkaitsmete ja kaitselülitite sisse- ja väljalülitamine;\n3) rikkevoolukaitselüliti rakendumise kontrollimine, sisse- ja väljalülitamine;\n4) eramu või korteri sulavkaitsmete vahetamine ettenähtuga samaväärse või väiksema nimivooluga kaitsmega;\n5) valgusregulaatoris või muus elektriseadmes asuvate pisikaitsmete pingevabas olukorras vahetamine;\n6) pinge kontrollimine indikaatoriga;\n7) kaitsejuhita pistikühendusega valgusti paindjuhtmes paikneva rikkis vahelüliti asendamine pingevabas olukorras;\n8) kaitsejuhita kohtkindla valgusti (näiteks laevalgusti) valgustiklemmidega ühendamine pingevabas olukorras;\n9) kaitsejuhita pistikupesade ja lülitikaante (näiteks tapeetimise või värvimise ajaks) eemaldamine pingevabas olukorras;\n10) elektrijuhtmete ja -seadmete demonteerimine pingevabas olukorras."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "5. peatükk - ELEKTRITÖÖ",
+      "section": "18",
+      "title": "§ 18. Elektritööle esitatavad nõuded",
+      "content": "(1) Elektritöö tegemisel tuleb tagada inimese, vara ja keskkonna ohutus, järgides selleks asjakohaseid ohutusnõudeid.\n(2) Lihtsa elektritöö puhul ei kohaldata käesoleva paragrahvi lõigetes 3–6 ja käesoleva seaduse §-des 19–21 sätestatut.\n(3) Elektripaigaldis tuleb ehitada ja rekonstrueerida vastavalt nõuetekohase elektripaigaldise projektile. Esimese liigi ja sellise teise liigi mittetüüpse elektripaigaldise, mille peakaitsme nimivool ületab 250 amprit, projektile tuleb teha ekspertiis vastavalt ehitusseaduses ehitusprojekti ekspertiisile kehtestatud nõuetele.\n(3^1) Elektripaigaldise projekti ekspertiisi teeb elektripaigaldise projekti koostamiseks pädev ning elektritööde tegevusluba või ehitusprojektide ekspertiisi tegevusluba omav isik.\n(4) Käidu- ja elektritööd võib teha ainult isik, kellel on selleks tööks vajalikus mahus tehnilisi ja ohutusalaseid teadmisi ning kogemusi. Pingealust käidu- ja elektritööd tegeva isiku elektriohuteadlikkust ja kogemusi kontrollib elektritöö juht või käidukorraldaja. Elektritöö tegija elektriohuteadlikkust võib kontrollida ka elektritööd tegeva personali sertifitseerimise organ.\n(5)\n(6)\n(7)\n(8) Elektritöö nõuded kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "5. peatükk - ELEKTRITÖÖ",
+      "section": "19",
+      "title": "§ 19. Elektritöö ettevõtjale esitatavad nõuded",
+      "content": "(1) Elektritöö ettevõtja peab:\n1) valdama piisavaid vahendeid ja dokumentatsiooni elektritöö tegemiseks;\n2) tagama, et elektritööd teeksid selleks piisava elektri- ja elektriohutusalase ettevalmistusega isikud;\n3) olema elektritöö juhiga või käesoleva seaduse § 14 lõikes 3 nimetatud juhul käidukorraldajaga lepingulises suhtes käesoleva seaduse §-s 21 sätestatud kohustuste täitmiseks, välja arvatud, kui füüsilisest isikust elektritöö ettevõtja on ise elektritöö juht või käidukorraldaja;\n4) dokumenteerima elektritöö tegemise ja konkreetsete elektritööde tegemiseks koostatud dokumentide olemasolu korral järgima nendes esitatud nõudeid;\n5) tagama käesoleva seaduse §-s 21 loetletud kohustuste täitmise.\n(2) Elektritöö ettevõtja peab pärast elektritöö tegemist veenduma mõõtmis- ja katsetustulemuste, visuaalkontrolli ning elektriseadme või -paigaldise dokumentatsiooni alusel, et elektriseade või -paigaldis või tehtud elektritöö vastab käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuetele, ning seda kirjalikult kinnitama.\n(3) Kui elektritöö ettevõtja tuvastab, et elektriseade või -paigaldis ei vasta käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuetele, peab ta sellest teatama isikule, kellele elektriseade või -paigaldis pärast elektritöö tegemist üle antakse."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "5. peatükk - ELEKTRITÖÖ",
+      "section": "20",
+      "title": "§ 20. Elektritöö juhile esitatavad nõuded",
+      "content": "(1) Elektritöö juht on isik, kes tagab elektritöö nõuetekohasuse.\n(2) Elektritöö juhil peavad olema erialane ettevalmistus, töökogemus elektritöö tegemisel ning teadmised elektriseadmetest või -paigaldistest, nende ehitusest ja kasutamise ohutusnõuetest ulatuses, mis tagab tema juhitavate elektritööde ohutu tegemise.\n(3) Elektritöö juhi vastavus käesoleva paragrahvi lõikes 2 sätestatud nõuetele peab olema hinnatud ja tõendatud käesoleva seaduse 7. peatükis sätestatud korras."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "5. peatükk - ELEKTRITÖÖ",
+      "section": "21",
+      "title": "§ 21. Elektritöö juhi kohustused",
+      "content": "(1) Elektritöö juht on kohustatud tagama, et:\n1) elektritöö tegemisel järgitaks õigusaktides sätestatud nõudeid;\n2) elektritööd teeksid selleks piisava erialase ettevalmistusega isikud;\n3) elektriseade või -paigaldis oleks pärast elektritöö tegemist kasutamiseks või edasise töö tegemiseks ohutu;\n4) elektritöö käigus toimunud õnnetusest, millega kaasnes tervisekahjustus või muu raske tagajärg, teatataks viivitamata Tehnilise Järelevalve Ametile.\n(2) Elektritöö juht peab olema kättesaadav ohutuse tagamiseks ja riiklike järelevalvetoimingute teostamisel."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "6. peatükk - TEHNILINE KONTROLL",
+      "section": "22",
+      "title": "§ 22. Tehniline kontroll",
+      "content": "(1) Elektripaigaldise tehniline kontroll käesoleva seaduse tähenduses on menetlus, mille käigus:\n1) hinnatakse visuaalkontrolli ja elektripaigaldise dokumentatsiooni, samuti labori mõõtmis- ja katsetustulemuste alusel elektripaigaldise ning selle käidu vastavust käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele;\n2) tõendatakse nõuetekohasuse tunnistusega elektripaigaldise vastavust käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuetele.\n(2) Käesoleva paragrahvi lõike 1 punktis 1 nimetatud mõõtmisi võib teha akrediteeritud või mõõteseaduse kohaselt erialaselt pädevaks hinnatud labor, mis on majandustegevuse registris mõõte- ja teimilaborina registreeritud."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "6. peatükk - TEHNILINE KONTROLL",
+      "section": "23",
+      "title": "§ 23. Tehnilise kontrolli teostaja pädevus",
+      "content": "(1) Tehnilise kontrolli teostaja käesoleva seaduse tähenduses on inspekteerimisasutuse sõltumatuse kriteeriumide alusel A-, B- või C-tüüpi inspekteerimisasutus või elektritöö ettevõtja.\n(2) A-tüüpi inspekteerimisasutus on sõltumatu kolmas osapool, kes võib tehnilist kontrolli teha kõigis elektripaigaldistes vastavalt akrediteerimisulatusele.\n(3) B-tüüpi inspekteerimisasutus moodustab eraldiseisva struktuuriüksuse organisatsioonis, mis on seotud elektripaigaldise kavandamise, ehitamise või hooldamisega. B-tüüpi inspekteerimisasutus võib teha tehnilist kontrolli enda või ema- või tütarettevõtte valduses olevates elektripaigaldistes vastavalt akrediteerimisulatusele.\n(4) C-tüüpi inspekteerimisasutus on seotud kontrollitavate elektripaigaldiste kavandamise, tootmise, paigaldamise, kasutamise või hooldamisega. C-tüüpi inspekteerimisasutus võib teha tehnilist kontrolli teise ja kolmanda liigi elektripaigaldistes vastavalt akrediteerimisulatusele. C-tüüpi inspekteerimisasutus ei või teha kasutuselevõtule eelnevat tehnilist kontrolli oma ettevõtte või emaettevõtte ehitatud, renoveeritud või remonditud elektripaigaldises.\n(5) Elektritöö ettevõtja võib teha korralist tehnilist kontrolli kolmanda liigi elektripaigaldistes."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "6. peatükk - TEHNILINE KONTROLL",
+      "section": "24",
+      "title": "§ 24. Tehnilise kontrolli teostajale esitatavad nõuded",
+      "content": "(1)\n(1^1)\n(2) Tehnilise kontrolli teostaja peab:\n1) olema vastavasisulises õigussuhtes tehnilise kontrolli teostamiseks vajaliku ettevalmistuse, hariduse ja kogemusega isikuga, välja arvatud, kui füüsilisest isikust ettevõtjana tegutsev tehnilise kontrolli teostaja on ise pädev tehnilist kontrolli tegema;\n2) valdama tehnilise kontrolli teostamise vahendeid;\n3) olema sõltumatu, asjatundlik ja erapooletu ning tegutsema mittediskrimineerivalt;\n4) teavitama elektripaigaldise omanikku ja Tehnilise Järelevalve Ametit tehnilise kontrolli käigus tuvastatud elektripaigaldisega seotud ohtudest inimesele, varale või keskkonnale;\n5) edastama andmed elektripaigaldise kasutuselevõtule eelneva tehnilise kontrolli ning esimese ja teise liigi elektripaigaldise korralise tehnilise kontrolli kohta Tehnilise Järelevalve Ametile käesoleva seaduse §-st 27 tuleneva korra kohaselt;\n6) tagama elektripaigaldise tehnilistest näitajatest olenemata tehnilise kontrolli teenuse osutamise ühtse hinnakirja alusel kogu Eesti Vabariigi territooriumil, kusjuures tehnilise kontrolli teenuse hind ei tohi oleneda kontrollitava elektripaigaldise asukohast;\n7) olema esimese või teise liigi elektripaigaldise tehnilise kontrolli või kolmanda liigi elektripaigaldise kasutuselevõtule eelneva tehnilise kontrolli teostamiseks akrediteeritud.\n(3) A- ja C-tüüpi inspekteerimisasutuse kriteeriumidele vastaval tehnilise kontrolli teostajal peab kogu tehnilise kontrolli teostajana tegutsemise aja jooksul olema kehtiv ja käesoleva seaduse §-s 36 sätestatud tingimustele vastav vastutuskindlustus.\n(4)"
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "6. peatükk - TEHNILINE KONTROLL",
+      "section": "25",
+      "title": "§ 25. Tehnilist kontrolli teostav töötaja",
+      "content": "(1) Tehnilist kontrolli teostav töötaja peab:\n1) olema võrdluskontrolli käigus hinnatud sobivaks teostama tehnilise kontrolli toiminguid ja tal peab olema kontrollitava elektripaigaldise tehnilistele näitajatele vastav pädevustunnistus;\n2) tundma elektripaigaldise ja selle tehnilise kontrolli kohta käivaid õigusakte, standardeid ja eeskirju ning tehnilise kontrolli aluseid ja tal peavad olema piisavad kogemused elektripaigaldise tehnilise kontrolli nõuetekohaseks teostamiseks;\n3) osalema perioodilistes võrdluskontrollides ja tõendama elektripaigaldise tehnilise kontrolli nõuetekohase teostamise oskusi.\n(2) Majandus- ja kommunikatsiooniminister võib kehtestada võrdluskontrolli korra."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "6. peatükk - TEHNILINE KONTROLL",
+      "section": "26",
+      "title": "§ 26. Tehnilise kontrolli teostamine",
+      "content": "(1) Tehniline kontroll tuleb teostada igas elektripaigaldises enne selle kasutuselevõttu ning ettenähtud juhtudel ja sagedusel pärast kasutuselevõttu. Tehniline kontroll jaguneb kasutuselevõtule eelnevaks, korraliseks ja erakorraliseks tehniliseks kontrolliks.\n(2) Erakorraline tehniline kontroll teostatakse, kui elektripaigaldise omanik, kasutaja või käidukorraldaja peab seda ohutuse tagamiseks vajalikuks või kui riikliku järelevalve teostaja seda nõuab.\n(3) Erakorralise tehnilise kontrolli kulud kannab selle tellinud isik. Kui erakorralise tehnilise kontrolli tellijaks on käidukorraldaja, kannab kulud elektripaigaldise omanik. Kui elektripaigaldises tuvastatakse olulised puudused, katab tehnilise kontrolli kulud elektripaigaldise nõuetele vastavuse eest vastutav isik.\n(4) Tehnilise kontrolli korra ja mahud ning korralise kontrolli juhud ja sageduse kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "6. peatükk - TEHNILINE KONTROLL",
+      "section": "27",
+      "title": "§ 27. Elektripaigaldise ja selle tehnilise kontrolli kohta andmete esitamine",
+      "content": "(1) Tehnilise kontrolli teostaja esitab ühe nädala jooksul pärast elektripaigaldise kasutuselevõtule eelnevat tehnilist kontrolli andmed nõuetekohaseks tunnistatud elektripaigaldise ja selle tehnilise kontrolli kohta Tehnilise Järelevalve Ametile.\n(2) Tehnilise kontrolli teostaja esitab ühe kuu jooksul pärast esimese ja teise liigi elektripaigaldise korralist tehnilist kontrolli andmed kontrollitud elektripaigaldise ja selle tehnilise kontrolli kohta Tehnilise Järelevalve Ametile.\n(3) Elektripaigaldise ja selle tehnilise kontrolli kohta esitatavate andmete loetelu ja esitamise korra kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "7. peatükk - PERSONALI SERTIFITSEERIMINE",
+      "section": "28",
+      "title": "§ 28. Personali sertifitseerimine",
+      "content": "(1) Personali sertifitseerimine ehk isiku nõuetele vastavuse hindamine ja tõendamine käesoleva seaduse tähenduses on menetlus, mille käigus personali sertifitseerimise asutus hindab ja tõendab kirjalikult pädevustunnistuse väljastamisega ja hilisema järelevalvega käidukorraldaja, elektritöö juhi või tehnilist kontrolli teostava töötaja vastavust nõuetele.\n(2) Personali sertifitseerimisel antakse isikule pädevusklass töötamiseks käidukorraldajana, elektritöö juhina või tehnilist kontrolli teostava töötajana, lähtudes elektriseadme või -paigaldise nimipingest ja tööde keerukusest. Pädevusklassi andmisel arvestatakse isiku haridust, töökogemust ja elektriohutusalaseid teadmisi.\n(3) Pädevusklassid ning personali sertifitseerimise korra kehtestab majandus- ja kommunikatsiooniminister."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "7. peatükk - PERSONALI SERTIFITSEERIMINE",
+      "section": "29",
+      "title": "§ 29. Järelevalve sertifitseeritud isiku üle ja pädevustunnistuse kehtetuks tunnistamine",
+      "content": "(1) Isik, kellele on väljastatud pädevustunnistus, peab alluma personali sertifitseerimise asutuse korraldatavale perioodilisele järelevalvele. Personali sertifitseerimise asutuse korraldatav järelevalve võib hõlmata isiku tööalase tegevuse kohta esitatud kaebuste läbivaatamist või erialastel täienduskoolitustel osalemise hindamist. Järelevalve teostamise nõuded ja isiku pädevuse hindamise kriteeriumid kehtestatakse käesoleva seaduse § 28 lõike 3 alusel.\n(2) Kui käesoleva paragrahvi lõike 1 alusel teostatava järelevalve käigus tuvastatakse isiku mittevastavus nõuetele, võib personali sertifitseerimise asutus, arvestades asjaolude kaalukust, pädevustunnistuse kehtetuks tunnistada või sellel märgitud pädevuse ulatust piirata.\n(3) Pädevustunnistus tunnistatakse kehtetuks, kui:\n1) isikut on kohustatud oma pädevust uuesti hinnata laskma ning ta ei ole seda teinud kolme kuu jooksul sellise kohustuse tekkimisest arvates;\n2) pädevuse uuel hindamisel selgub isiku mittevastavus pädevustunnistuse saamise nõuetele;\n3) isik ei täida pädevustunnistuse väljastanud isiku järelevalvenõudeid kolme kuu jooksul pädevustunnistuse kehtivuse peatamise hetkest arvates;\n4) tuvastatakse, et pädevustunnistus saadi seoses pettuse, võltsingu või ebaõigete andmete esitamisega."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "7. peatükk - PERSONALI SERTIFITSEERIMINE",
+      "section": "30",
+      "title": "§ 30. Välisriigis omandatud pädevus",
+      "content": "(1) Kui isik, kes soovib töötada käidukorraldajana, elektritöö juhina või tehnilist kontrolli teostava töötajana, on omandanud pädevuse välisriigis, ei kohaldata tema suhtes käesoleva seaduse §-de 28 ja 29 nõudeid.\n(2) Välisriigis omandatud pädevuse vastavust käesoleva seaduse nõuetele hindab ja tõendab personali sertifitseerimise asutus välisriigi kutsekvalifikatsiooni tunnustamise seaduse ja selle alusel kehtestatud õigusaktide alusel, arvestades käesolevast seadusest tulenevaid erisusi.\n(3) Välisriigis omandatud pädevuse tunnustamise eest riigilõivu ei tasuta. Välisriigis omandatud pädevuse tunnustamise eest tasutakse personali sertifitseerimise asutusele vastavalt viimase hinnakirjale.\n(4)"
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "7. peatükk - PERSONALI SERTIFITSEERIMINE",
+      "section": "31",
+      "title": "§ 31. Personali sertifitseerimise asutus",
+      "content": "(1) Personali sertifitseerimise asutus peab:\n1)\n2) olema vastavasisulises õigussuhtes personali sertifitseerimiseks vajaliku erialase ettevalmistuse, väljaõppe ja kogemusega isikutega;\n3) valdama personali sertifitseerimise vahendeid;\n4) olema sõltumatu, asjatundlik, erapooletu ja tegutsema mittediskrimineerivalt;\n5) olema personali sertifitseerimise asutusena akrediteeritud.\n(2)\n(3) Personali sertifitseerimise ja välisriigis omandatud pädevuse tunnustamisega seonduva teenuse hinnad peavad olema kulupõhised, läbipaistvad ja mittediskrimineerivad ning kujundatud selliselt, et nad kataksid nimetatud teenustega seotud põhjendatud kulutused ja tagaksid personali sertifitseerimise asutusele mõistliku kasumi."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "8. peatükk - TEGEVUSLUBA",
+      "section": "32",
+      "title": "§ 32. Loakohustus",
+      "content": "(1) Ettevõtjal peab olema tegevusluba järgmistel tegevusaladel tegutsemiseks:\n1) elektritööde tegemine;\n2) elektripaigaldise tehniline kontrollimine;\n3) mõõte- ja teimilaborina tegutsemine;\n4) personali sertifitseerimine.\n(2) Tegevusluba annab õiguse elektritööde tegemiseks elektritöö ettevõtja elektritöö juhi pädevustunnistusel või käesoleva seaduse § 14 lõikes 3 nimetatud juhul käidukorraldaja pädevustunnistusel märgitud ulatuses.\n(3) Käesoleva paragrahvi lõike 1 punktides 2 ja 3 sätestatud loakohustus puudub teises Euroopa Majanduspiirkonna liikmesriigis õiguspäraselt elektritöid tegeval ja seal asutatud ettevõtjal või liikmesriigi kodanikul Eestis ajutiselt elektritööde tegemiseks. Selline isik teavitab Eestis tegevuse alustamisel Tehnilise Järelevalve Ametit ja järgib Eestis elektritöödele kehtestatud nõudeid."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "8. peatükk - TEGEVUSLUBA",
+      "section": "33",
+      "title": "§ 33. Tegevusloa taotlemine",
+      "content": "(1) Tegevusloa taotluse lahendab Majandus- ja Kommunikatsiooniministeerium tegevusloa andmise või andmisest keeldumisega viie tööpäeva jooksul taotluse esitamisest arvates.\n(2) Ettevõtja esitab elektritööde tegemise soovi korral tegevusloa taotluses lisaks majandustegevuse seadustiku üldosa seaduses sätestatule täpsustatud andmed tegevusala kohta.\n(3) Ettevõtja esitab mõõte- ja teimilaborina tegutsemise soovi korral tegevusloa taotluses lisaks majandustegevuse seadustiku üldosa seaduses sätestatule andmed akrediteeringu või mõõteseaduse alusel tehtud hindamise ning mõõtetöid tegevate töötajate kohta.\n(4) Ettevõtja esitab tehnilise kontrolli teostajana tegutsemise soovi korral tegevusloa taotluses lisaks majandustegevuse seadustiku üldosa seaduses sätestatule teabe selle kohta, millistele inspekteerimisasutuse sõltumatuse kriteeriumidele ta vastab (A-, B- või C-tüüpi tehnilise kontrolli teostaja)."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "8. peatükk - TEGEVUSLUBA",
+      "section": "34",
+      "title": "§ 34. Tegevusloa kontrolliese",
+      "content": "(1) Elektritööde tegemiseks antakse ettevõtjale tegevusluba, kui tema elektritööde juht vastab käesoleva seaduse § 20 lõigetes 2 ja 3 sätestatud nõuetele.\n(2) Elektripaigaldise tehnilise kontrolli teostamiseks antakse ettevõtjale tegevusluba, kui\n1) ta omab käesoleva seaduse § 24 lõike 2 punktis 7 sätestatud juhtudel akrediteeringut;\n2) tema tehnilist kontrolli teostav töötaja vastab käesoleva seaduse §-s 25 sätestatud nõuetele;\n3) A- ja C-tüüpi inspekteerimisasutuse kriteeriumidele vastav tehnilise kontrolli teostaja omab käesoleva seaduse § 36 nõuetele vastavat vastutuskindlustust.\n(3) Personali sertifitseerimiseks antakse ettevõtjale tegevusluba, kui ta vastab käesoleva seaduse § 31 lõikes 1 sätestatud nõuetele."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "8. peatükk - TEGEVUSLUBA",
+      "section": "36",
+      "title": "§ 36. Vastutuskindlustus",
+      "content": "Ettevõtjal, kes soovib tegutseda A- või C-tüüpi tehnilise kontrolli teostajana, ja isikul, kes soovib tegutseda teavitatud asutusena, peab olema vastutuskindlustus kindlustussumma ulatuses, mis:\n1) tagab tehnilise kontrolli teostajana või teavitatud asutusena tegutsemisel kolmandale isikule tekkida võiva kogu kahju hüvitamise;\n2) on vähemalt 31 950 eurot."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "9. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "37",
+      "title": "§ 37. Riiklik järelevalve",
+      "content": "(1) Käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle teostab riiklikku järelevalvet Tehnilise Järelevalve Amet.\n(2) Elektripaigaldise nõuetele vastavuse üle teostab riiklikku järelevalvet ka Tööinspektsioon.\n(3) Elektripaigaldise või -seadme tehnilise kontrolli nõuete täitmise üle teostab riiklikku tuleohutuse järelevalvet ka Päästeamet.\n(4) Tehnilise Järelevalve Ameti pädevusse kuulub:\n1) järelevalve turule lastud elektriseadme nõuetele vastavuse üle (turujärelevalve);\n2) järelevalve elektripaigaldise ehitamise, kasutusele võtmise ja kasutamise, elektripaigaldise käidu ning elektritöö tegemise vastavuse üle käesoleva seaduse ning selle alusel kehtestatud õigusaktide nõuetele;\n3) järelevalve teavitatud asutuse ja ettevõtja suhtes käesoleva seaduse ning selle alusel kehtestatud õigusaktide nõuete järgimise üle;\n4) elektriseadme või -paigaldisega toimunud avarii või õnnetuse tekkepõhjuste väljaselgitamine;\n5) elektriseadme turule laskmise keelamine ajaks, mis on vajalik selle nõuetele vastavuse tagamiseks, samuti nõude esitamine ohtlikuks osutunud ning nõuetele mittevastava elektriseadme turult eemaldamiseks ja elektriseadme või -paigaldise kasutamise peatamiseks;\n6) ettekirjutuste ja otsuste tegemine."
+    },
+    {
+      "provision_ref": "para37^1",
+      "chapter": "9. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "37^1",
+      "title": "§ 37^1. Riikliku järelevalve erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49, 50, 51 ja 52 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "9. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "38",
+      "title": "§ 38. Riikliku järelevalve erisused",
+      "content": "(1) Tehnilise Järelevalve Amet võib korrakaitseseaduse §-s 50 sätestatud tingimustel siseneda üksnes elektriseadme või -paigaldise valmistamis-, paigaldus-, kasutus-, remondi-, ehitus-, hooldus-, ladustamis- ja müügikohta, samuti teavitatud asutuse, tehnilise kontrolli teostaja ja personali sertifitseerimise asutuse ruumidesse.\n(2) Tehnilise Järelevalve Ametil on õigus nõuda kooskõlas Euroopa Parlamendi ja nõukogu direktiivi 2004/108/EÜ, mis käsitleb liikmesriikide elektromagnetilise ühilduvuse alaste õigusaktide ühtlustamist ja millega tunnistatakse kehtetuks direktiiv 89/336/EMÜ (ELT L 390, 31.12.2004, lk 24–37), artikliga 4 järgmiste elektriseadmete või -paigaldiste kasutusele võtmist või kasutamist käsitlevate erimeetmete rakendamist:\n1) meetmed, mille eesmärk on lahendada tekkinud või prognoositav elektromagnetilise ühilduvuse probleem;\n2) ohutuse huvides võetavad meetmed, mille eesmärk on kaitsta üldkasutatavaid elektroonilise side võrke või vastuvõtu- või saatejaamu, kui neid kasutatakse ohutuse huvides täpselt määratud olukordades.\n(3) Kui riikliku järelevalve käigus tuvastatakse, et käidukorraldaja, elektritöö juht või tehnilist kontrolli teostav töötaja on rikkunud käidukorraldusele, elektritööle või tehnilisele kontrollile käesoleva seadusega kehtestatud nõudeid ja sellega põhjustanud ohu inimesele, varale või keskkonnale, võib Tehnilise Järelevalve Ameti juht või tema volitatud ametiisik sõltuvalt rikkumise raskusest ja lisaks muude käesolevast seadusest tulenevate sanktsioonide rakendamisele peatada käidukorraldaja, elektritöö juhi või tehnilist kontrolli teostava töötaja pädevustunnistuse kehtivuse kuni üheks aastaks. Pädevustunnistuse kehtivuse peatamise tähtaja lõppemisel tuleb selle kehtivuse taastamiseks teha uus pädevuseksam vastavalt käesoleva seaduse § 29 lõike 3 punktile 1."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "9. peatükk - RIIKLIK JÄRELEVALVE",
+      "section": "40",
+      "title": "§ 40. Sunniraha määr",
+      "content": "Käesoleva seaduse rikkumise korral tehtud ettekirjutuse sundtäitmisel rakendatava sunniraha ülemmäär on 2000 eurot."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "45",
+      "title": "§ 45. Elektriseadme ja -paigaldise kasutusele võtmise ja kasutamise nõuete rikkumine",
+      "content": "(1) Elektriseadme või -paigaldise kasutusele võtmise nõuete või kasutamise nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "46",
+      "title": "§ 46. Tegevus elektripaigaldise kaitsevööndis elektripaigaldise omaniku loata",
+      "content": "(1) Elektripaigaldise kaitsevööndis elektripaigaldise omaniku loata tegevuse eest, mis põhjustas avarii, avariiohtliku olukorra või ohustas või kahjustas elektripaigaldist, – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "47",
+      "title": "§ 47. Elektritöö nõuete rikkumine",
+      "content": "(1) Elektritöö tegemise nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "48",
+      "title": "§ 48. Tehnilise kontrolli ja personali sertifitseerimise nõuete rikkumine",
+      "content": "(1) Tehnilise kontrolli või personali sertifitseerimise nõuete rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 3200 eurot."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "10. peatükk - VASTUTUS",
+      "section": "49",
+      "title": "§ 49. Menetlus",
+      "content": "(1) Käesoleva seaduse §-des 45–48 sätestatud väärtegude menetlemisele kohaldatakse karistusseadustiku üldosa ja väärteomenetluse seadustiku sätteid.\n(2) Käesoleva seaduse §-des 45–48 sätestatud väärtegude kohtuväline menetleja on Tehnilise Järelevalve Amet."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "50",
+      "title": "§ 50. Üleminekusätted",
+      "content": "(1) Enne käesoleva seaduse jõustumist turule lastud elektriseade või -paigaldis peab olema ohutu ja vastama vähemalt selle ehitamise või kasutusele võtmise ajal kehtinud nõuetele.\n(2) Kui võrguettevõtjal ei ole tehnilistel põhjustel võimalik tutvuda Tehnilise Järelevalve Ameti juures asuva andmekogu andmetega vastavalt käesoleva seaduse § 11 lõikele 3, siis võib ta elektripaigaldise kasutusele võtmiseks pingestada käesoleva seaduse § 11 lõikes 2 nimetatud andmetega teatise ja tehnilise kontrolli teostaja väljastatud nõuetekohasuse tunnistuse alusel.\n(3) Kuni 2009. aasta 20. juulini võib turule lasta või kasutusele võtta ka nõukogu direktiivi 89/336/EMÜ elektromagnetilist ühilduvust käsitlevate liikmesriikide õigusaktide ühtlustamise kohta (EÜT L 139, 23.05.1989, lk 19–26) nõuetele vastavaid elektriseadmeid ja -paigaldisi.\n(4) Ettevõtjad, kes on registreeritud majandustegevuse registris elektritöö ettevõtjana või elektripaigaldise tehnilist kontrolli teostava ettevõtjana, viivad oma registriandmed käesoleva seaduse nõuetega kooskõlla aasta jooksul käesoleva seaduse jõustumisest arvates.\n(5) Käesoleva seaduse §-st 25 tulenevat kohustust osaleda võrdluskontrollides rakendatakse § 25 lõike 2 alusel kehtestatavas õigusaktis sätestatavast tähtajast arvates."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "51",
+      "title": "§ 51.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "55",
+      "title": "§ 55.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "11. peatükk - RAKENDUSSÄTTED",
+      "section": "56",
+      "title": "§ 56. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2007. aasta 20. juulil.\n(2) Käesoleva seaduse § 52 jõustub Riigi Teatajas avaldamisele järgneval päeval."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "elektripaigaldis on elektriseadmete ja",
+      "definition": "juhtide statsionaarselt paigaldatud talitluslik kogum",
+      "source_provision": "para3"
+    },
+    {
+      "term": "elektromagnetiline häire on mis tahes elektromagnetiline nähtus, mis võib halvendada elektriseadme või",
+      "definition": "paigaldise toimimist. Elektromagnetiliseks häireks võib olla elektromagnetiline müra, soovimatu signaal või levikeskkonna muutumine",
+      "source_provision": "para3"
+    },
+    {
+      "term": "elektromagnetiline ühilduvus on elektriseadme või",
+      "definition": "paigaldise võime toimida rahuldavalt elektromagnetilises keskkonnas, tekitamata vastuvõetamatuid elektromagnetilisi häireid teistele selles keskkonnas asuvatele seadmetele",
+      "source_provision": "para3"
+    },
+    {
+      "term": "häirekindlus on elektriseadme või",
+      "definition": "paigaldise võime toimida ettenähtud viisil talitluse kvaliteedi halvenemiseta elektromagnetilise häire korral",
+      "source_provision": "para3"
+    }
+  ]
+}

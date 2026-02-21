@@ -1,0 +1,218 @@
+{
+  "id": "ee-law-118122024007",
+  "type": "statute",
+  "title": "Vereseadus",
+  "title_en": "Vereseadus",
+  "short_name": "VereS",
+  "status": "in_force",
+  "issued_date": "2005-02-09",
+  "in_force_date": "2025-01-01",
+  "url": "https://www.riigiteataja.ee/akt/118122024007.xml",
+  "description": "Official consolidated statute text (Vereseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus kehtestab doonori ja retsipiendi tervise kaitse eesmärgil inimvere (edaspidi veri ) käitlemise nõuded ning vere käitlemise korralduse.\n(2) Seadus reguleerib vere käitlemise rahastamist ning käesolevas seaduses ja selle alusel kehtestatud õigusaktides esitatud nõuete üle riikliku ja haldusjärelevalve teostamist.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seadust, arvestades käesolevast seadusest tulenevaid erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Verepreparaat",
+      "content": "(1) Verepreparaat on verest valmistatud või toodetud ning nõuetekohaselt pakendatud ja märgistatud ravim, mis sisaldab üht või mitut vere koostisosa. Verepreparaadid on täisveri, verekomponendid ja plasmaderivaadid. Verepreparaatidele kohaldatakse ravimiseadust, arvestades käesolevast seadusest tulenevaid erisusi.\n(2) Täisveri on verepreparaat, mis sisaldab kõiki vere koostisosi ning verd hüübimatuks muutvat lahust.\n(3) Verekomponent on verepreparaat, mis on valmistatud täisverest või kogutud otse doonorilt ning mis sisaldab ühe või mitme doonori vere koostisosi.\n(4) Plasmaderivaat on verepreparaat, mis on tööstuslikult toodetud paljude doonorite vereplasmast ja sisaldab mõnda kindlat vereplasma koostisosa.\n(5) Vereülekanne käesoleva seaduse tähenduses on raviprotseduur, mille käigus kantakse retsipiendile üle täisverd või verekomponente."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "2. peatükk - VERE KÄITLEMINE",
+      "section": "3",
+      "title": "§ 3. Vere käitlemine",
+      "content": "Vere käitlemine on vere kogumine ning verekomponentide valmistamine, uurimine, säilitamine, väljastamine, kasutamine ja müük."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - VERE KÄITLEMINE",
+      "section": "4",
+      "title": "§ 4. Verekeskus",
+      "content": "(1) Verekeskuse ülesanne on koguda verd ning valmistada, uurida, säilitada, väljastada ja müüa verekomponente. Verekeskuse eesmärk on tagada, et Eesti tervishoiuteenuse osutajatele oleksid verekomponendid kättesaadavad ööpäev läbi.\n(2) Verekeskus võib olla eraõiguslik juriidiline isik või valitsusasutuse hallatav riigiasutus, kes tegutseb ravimiseaduse kohaselt väljastatud ravimite tootmise tegevusloa alusel."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - VERE KÄITLEMINE",
+      "section": "5",
+      "title": "§ 5. Verekabinet",
+      "content": "(1) Verekabineti ülesanne on tellida ja säilitada verekomponente ning väljastada neid haiglasiseselt, teha immunohematoloogilisi uuringuid ning koordineerida ja nõustada vereülekannete raviks kasutamist.\n(2) Verekabinetil on lubatud koguda verd erakorralistel asjaoludel, kui haiglas ja verekeskuses, kust verekabinet verekomponente tellib, puudub vajalik verevaru ning vereülekande edasilükkamine või tegemata jätmine võib põhjustada abivajaja surma või püsiva tervisekahjustuse.\n(3) Verekabinet on haigla pidaja struktuuriüksus, kes tegutseb haigla pidajale tervishoiuteenuste korraldamise seaduse kohaselt väljastatud tervishoiuteenuste osutamise tegevusloa alusel."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - VERE KÄITLEMINE",
+      "section": "6",
+      "title": "§ 6. Vere kogumine",
+      "content": "(1) Verd kogutakse vabatahtlikelt doonoritelt.\n(2) Verd ei võeta isikult, kes on doonoriks sobivuse hindamiseks tehtavatest uuringutest keeldunud, kelle veri on põetud haiguste või manustatud ravimite tõttu või muul põhjusel vere käitlemiseks kõlbmatu või kui vere loovutamine ohustab isiku tervist."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - VERE KÄITLEMINE",
+      "section": "7",
+      "title": "§ 7. Doonor ja retsipient",
+      "content": "(1) Doonor on 18–65-aastane teovõimeline isik, kes teiste inimeste ravi otstarbel loovutab vere käitlejale oma verd tasuta.\n(2) Doonoril on võlaõigusseaduses sätestatud patsiendi õigused ja kohustused.\n(3) Doonoril on õigus:\n1) saada üldist teavet vere käitlemise ja vereülekande kohta;\n2) saada teavet vere loovutamisega kaasneda võivatest ohtudest;\n3) loobuda vere loovutamisest igal ajal oma soovil;\n4) saada teavet oma tervise seisundi, verele teostatud uuringute tulemuste ja loovutatud vere raviks kõlblikkuse kohta;\n5) saada tööandjalt vaba aega vere loovutamiseks;\n6) isikuandmete salastatusele.\n(4) Doonoril on kohustus:\n1) esitada vere käitlejale oma isikuandmed ja kontaktandmed;\n2) avaldada vere käitlejale oma parima arusaama järgi kõik vere loovutamise seisukohast tähtsust omavad andmed ja asjaolud;\n3) teavitada vere käitlejat vere loovutamise järgselt teatavaks saanud asjaoludest või vere loovutamise järgselt ilmnenud muutustest oma tervise seisundis, mis võivad mõjutada loovutatud vere ja verekomponentide sobivust raviks;\n4) kinnitada oma allkirjaga tema poolt esitatud andmete õigsust.\n(5) Isiku doonoriks sobivuse kriteeriumid, hindamise tingimused ja korra ning vere loovutamist välistavate või piiravate haiguste ja muude tegurite loetelu kehtestab valdkonna eest vastutav minister määrusega.\n(6) Retsipient käesoleva seaduse tähenduses on isik, kellele tehakse vereülekanne. Retsipiendil on võlaõigusseaduses sätestatud patsiendi õigused ja kohustused.\n(7) Retsipient võib väljendada oma tahet vereülekande tegemise suhtes, kinnitades seda digitaalallkirjaga tervise infosüsteemi kaudu."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - VERE KÄITLEMINE",
+      "section": "8",
+      "title": "§ 8. Verekomponentide valmistamine",
+      "content": "(1) Verekeskuse valmistatud verekomponendid peavad olema kvaliteetsed, retsipiendile ohutud ja kliiniliselt tõhusad.\n(2) Verekeskuse toodangu kvaliteedi eest vastutav isik on verekeskuse juht.\n(3) Verekeskuse juht tagab:\n1) vere käitlemise vastavuse käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuetele;\n2) ravimite tootmise tegevusloa õigeaegse taotlemise ja selles sätestatud nõuete täitmise.\n(4) Verekeskused ja verekabinetid järgivad oma töös häid tootmistavasid. Valdkonna eest vastutav minister kehtestab kooskõlas Euroopa Liidus kehtivate heade tootmistavadega verekomponentide valmistamise eeskirja määrusega, milles sätestab verepreparaatide tootmisele, personalile, ruumidele ja seadmetele, dokumentatsioonile, vere kogumisele, uurimisele, verekomponentide valmistamisele, märgistamisele, säilitamisele ja väljastamisele, pretensioonide lahendamisele ja verekomponentide tagasikutsumisele esitatavad nõuded.\n(5) Verekomponentide kvaliteedi nõuded, verekomponentide kvaliteedi kontrollimise ja mikrobioloogiliste uuringute tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - VERE KÄITLEMINE",
+      "section": "9",
+      "title": "§ 9. Vereülekanne",
+      "content": "(1) Vereülekanne tehakse patsiendi tervise taastamise, tervise seisundi halvenemise ärahoidmise ja haigusest tingitud vaevuste leevendamise eesmärgil.\n(2) Vereülekande tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - VERE KÄITLEMINE",
+      "section": "10",
+      "title": "§ 10. Vere ja verekomponentide kasutamine teadustöös ja kaubanduslikul eesmärgil",
+      "content": "(1) Doonori verd ja verekomponente võib teadustöös kasutada doonori kirjalikul nõusolekul.\n(2) Patsiendilt tema enda raviks eemaldatud verd ja verekomponente võib teadustöös või kaubanduslikul eesmärgil kasutada patsiendi kirjalikul nõusolekul."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - VERE KÄITLEMINE",
+      "section": "11",
+      "title": "§ 11. Verepreparaatide immunohematoloogilised uuringud",
+      "content": "(1) Patsiendi raviks sobivad doonoriverepreparaadid määratakse kindlaks patsiendi vere ja doonori vere immunohematoloogiliste uuringutega.\n(2) Immunohematoloogiliste uuringute tegemise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - VERE KÄITLEMINE",
+      "section": "12",
+      "title": "§ 12. Verevalvsus",
+      "content": "(1) Verevalvsus on vere käitlemisel tekkinud ohtlikest kõrvalekalletest ning vereülekande ajal või pärast seda täheldatud rasketest kõrvaltoimetest teavitamise ja nende tekkepõhjuste väljaselgitamise kord.\n(2) Tervishoiuteenuse osutaja teavitab vereülekandejärgsest raskest kõrvaltoimest verekeskust, kellelt verekomponendid telliti. Vereülekandejärgse nakkushaigusekahtluse ning haiguse diagnoosimise korral toimub teavitamine nakkushaiguste ennetamise ja tõrje seaduses sätestatud korras.\n(3) Verekeskus teavitab talle teatavaks saanud vereülekandejärgsest raskest kõrvaltoimest, vere käitlemisel ilmnenud ohtlikust kõrvalekaldest ja verekomponentide tagasikutsumise algatamisest viivitamata kirjalikult Ravimiametit. Verekeskus teavitab vere käitlemisel ilmnenud ohtlikust kõrvalekaldest ja verekomponentide tagasikutsumise algatamisest ka tervishoiuteenuse osutajat, plasmaderivaatide või uudse ravimi tootjat ja haiglaerandi loa omajat, kes verekeskuselt vereplasmat või verekomponente ostis.\n(4) Ravimiamet koostab igal aastal talle edastatud info alusel koondaruande vere käitlemise ohtlike kõrvalekallete ning raskete kõrvaltoimete kohta ja edastab selle Sotsiaalministeeriumile, verekeskustele ja asjassepuutuvatele tervishoiuteenuse osutajatele.\n(5) Verevalvsuse ning verekomponentide tagasikutsumise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - VERE KÄITLEMINE",
+      "section": "13",
+      "title": "§ 13. Verepreparaatide ohutus",
+      "content": "Vere käitlemisel tagatakse verepreparaatide nakkusohutus nakkushaiguste ennetamise ja tõrje seaduse §-s 14 sätestatud korras."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - VERE KÄITLEMINE",
+      "section": "14",
+      "title": "§ 14. Kasutamata verepreparaatide kõrvaldamine",
+      "content": "Kasutamata jäänud verepreparaate käsitatakse jäätmetena ja preparaadid kõrvaldatakse jäätmeseaduse kohaselt."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - VERE KÄITLEMINE",
+      "section": "15",
+      "title": "§ 15. Riiklik vereteenistuse infosüsteem",
+      "content": "(1) Vere kvaliteetse käitlemise ja ravi kvaliteedi tagamise eesmärgil on valdkonna eest vastutaval ministril õigus asutada määrusega riiklik vereteenistuse infosüsteem (edaspidi infosüsteem ), mille põhimääruses kehtestatakse:\n1) volitatud töötleja ja tema ülesanded;\n2) kogutavate andmete koosseis ja andmekogusse kandmise kord;\n3) andmetele juurdepääsu ja andmete väljastamise kord;\n4) andmeandjate loetelu ja nendelt saadavad andmed, kui andmeid saadakse teistest andmekogudest;\n5) andmete säilitamise täpsem kord ja tingimused ning säilitustähtajad;\n6) muud korraldusküsimused.\n(2) Infosüsteemi vastutav töötleja on Sotsiaalministeerium."
+    },
+    {
+      "provision_ref": "para15^1",
+      "chapter": "2. peatükk - VERE KÄITLEMINE",
+      "section": "15^1",
+      "title": "§ 15^1. Vere käitlemise andmete säilitamine",
+      "content": "Käesoleva seaduse tähenduses tuleb vere käitlemise ohutuse ja verevalvsuse tagamiseks säilitada andmeid alates andmete tekkimisest järgmiselt: 1 1) vere käitlemise täieliku jälgitavuse tagamiseks vajalikke andmeid 30 aastat;\n2) isiku doonoriks sobivuse hindamise käigus kogutud andmeid 15 aastat, välja arvatud vere loovutamise alalise piirangu kehtestamise aluseks olevad andmed, mida säilitatakse kuni kehtiva doonorluse ea lõpuni;\n3) doonori immunohematoloogiliste ja nakkusuuringutega seotud andmeid 15 aastat, välja arvatud vere loovutamise alalise piirangu kehtestamise aluseks olevad andmed ja uuringutulemused ning doonori veregrupi ning veregrupisüsteemide fenotüüpide ja molekulaardiagnostika uuringutulemused, mida säilitatakse kuni kehtiva doonorluse ea lõpuni;\n4) verekaarti, transfusiooniprotokolli ja transfusioonijärgse reaktsiooni protokolli tervishoiuteenuste korraldamise seaduse §-s 4^2 sätestatud tingimustel ja korras;\n5) doonori vereloovutuste kohta peetakse arvestust isiku doonoriks sobivuse ea lõpuni."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - IMMUNOHEMATOLOOGILISTE UURINGUTE REFERENTLABOR",
+      "section": "16",
+      "title": "§ 16. Immunohematoloogiliste uuringute referentlabor",
+      "content": "Immunohematoloogiliste uuringute referentlabor (edaspidi referentlabor ) on labor, kes osutab referentteenust, sealhulgas määrab kliiniliselt olulistes veregruppide süsteemides antigeene ja antikehi ning juhendab metoodiliselt Eestis tegutsevaid teisi selle valdkonna laboreid. Referentlabori eesmärk on tagada immunohematoloogiliste uuringute kvaliteet."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - IMMUNOHEMATOLOOGILISTE UURINGUTE REFERENTLABOR",
+      "section": "17",
+      "title": "§ 17. Referentlabori ülesanded",
+      "content": "Referentteenuse osutamisel täidab referentlabor järgmisi ülesandeid:\n1) koordineerib, suunab ja kontrollib asjaomaste laborite diagnostikat;\n2) määrab kliiniliselt olulistes veregruppide süsteemides antigeene ja antikehi;\n3) rakendab rutiindiagnostikat immunohematoloogia valdkonnas;\n4) valdab ja rakendab referentmeetodeid;\n5) valmistab referentmaterjali ja -paneele;\n6) juurutab uusi diagnostikameetodeid ja kogub infot erinevate uute meetodite kohta ning võrdleb neid tõhususe seisukohast;\n7) korraldab erialanõustamist ja -õpet ning osaleb teadustöös;\n8) osaleb immunohematoloogia valdkonnas tehtud analüüside rahvusvahelises kvaliteedikontrollis."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - IMMUNOHEMATOLOOGILISTE UURINGUTE REFERENTLABOR",
+      "section": "18",
+      "title": "§ 18. Referentteenuse osutamise korraldamine",
+      "content": "Referentteenuse osutamist korraldab Terviseamet. Referentteenuse osutamiseks sõlmib Terviseameti peadirektor halduslepingu verekeskusega, millel on käesoleva seaduse nõuetele vastav referentlabor."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "4. peatükk - VERE KÄITLEMISE RAHASTAMINE",
+      "section": "19",
+      "title": "§ 19. Vere käitlemise rahastamine",
+      "content": "(1) Referentlabori tegevuskulud kaetakse Terviseameti eelarvest.\n(2) Tervishoiuteenuse osutajale hüvitab verekomponentide ostmise kulud Tervisekassa ravikindlustuse seaduse alusel."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "5. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "20",
+      "title": "§ 20. Vere käitlemise üle riikliku ja haldusjärelevalve teostajad",
+      "content": "(1) Järelevalvet vere käitlemise üle teostavad Ravimiamet ja Terviseamet.\n(2) Ravimiamet kontrollib, kas verd käitlevad verekeskused järgivad käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõudeid.\n(3) Terviseamet kontrollib, kas verekabinetid järgivad käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõudeid, mida kohaldatakse verekomponentide tellimisele, säilitamisele, haiglasisesele väljastamisele, immunohematoloogilistele uuringutele ja vereülekannete raviks kasutamisele ning erakorralistel asjaoludel vere kogumisele."
+    },
+    {
+      "provision_ref": "para20^1",
+      "chapter": "5. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "20^1",
+      "title": "§ 20^1. Riikliku järelevalve erimeetmed",
+      "content": "Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 49 ja 50 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "5. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "21",
+      "title": "§ 21. Haldusjärelevalvet teostava ametiisiku õigused ja kohustused",
+      "content": "(1) Haldusjärelevalvet teostaval ametiisikul on oma ülesannete täitmiseks õigus:\n1) siseneda kontrollitava isiku juuresolekul tema tegevuskohta, seejuures vajadusel ka ette teatamata;\n2) tutvuda vere käitlemisega;\n3) võtta vajadusel kontrolliks proove ja analüüse;\n4) tutvuda vere käitlemist käsitlevate dokumentidega või nende koopiatega ning saada nendest ärakirju;\n5) saada kontrollitava isiku juhtorganitelt seletusi;\n6) teha kontrollitavale isikule ettepanekuid tegevuse parandamiseks;\n7) teha oma pädevuse piires ettekirjutusi käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete rikkumise lõpetamiseks ja rikkumisega tekitatud tagajärgede kõrvaldamiseks või muude toimingute tegemiseks.\n(2) Haldusjärelevalvet käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle teostatakse vähemalt kord kahe aasta jooksul.\n(3) Haldusjärelevalvet teostav ametiisik esitab enne tööülesande täitmisele asumist ametitõendi."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "6. peatükk - VASTUTUS",
+      "section": "24",
+      "title": "§ 24.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "27",
+      "title": "§ 27. Euroopa Komisjoni teavitamine",
+      "content": "Sotsiaalministeerium peab Euroopa Komisjoni teavitama:\n1) vabatahtlikku tasuta doonorlust edendavatest meetmetest iga kolme aasta järel käesoleva seaduse jõustumisest arvates;\n2) vere käitlemisega seotud meetmetest, sealhulgas järelevalvemeetmetest 2006. aasta 31. detsembriks ja edaspidi iga kolme aasta järel."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "28",
+      "title": "§ 28. Heade tootmistavade rakendamine",
+      "content": "Verekeskused ja verekabinetid peavad viima vere käitlemise vastavusse käesoleva seaduse § 8 lõike 4 alusel sätestatud nõuetega hiljemalt 2006. aasta 1. jaanuariks."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "29",
+      "title": "§ 29.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "32",
+      "title": "§ 32.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "7. peatükk - RAKENDUSSÄTTED",
+      "section": "33",
+      "title": "§ 33. Seaduse jõustumine",
+      "content": "(1) Käesolev seadus jõustub 2005. aasta 1. mail.\n(2) Käesoleva seaduse §-d 15 ja 24 jõustuvad 2008. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": []
+}

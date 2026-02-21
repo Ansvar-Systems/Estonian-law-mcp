@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-13126502",
+  "type": "statute",
+  "title": "Töö- ja puhkeaja seadus",
+  "title_en": "Töö- ja puhkeaja seadus",
+  "short_name": "TPS",
+  "status": "in_force",
+  "issued_date": "2001-01-24",
+  "in_force_date": "2009-07-01",
+  "url": "https://www.riigiteataja.ee/akt/13126502.xml",
+  "description": "Official consolidated statute text (Töö- ja puhkeaja seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

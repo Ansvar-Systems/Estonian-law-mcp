@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-13238530",
+  "type": "statute",
+  "title": "Mitteeluruumide erastamise seadus",
+  "title_en": "Mitteeluruumide erastamise seadus",
+  "short_name": "MEES",
+  "status": "in_force",
+  "issued_date": "1995-06-14",
+  "in_force_date": "2010-01-01",
+  "url": "https://www.riigiteataja.ee/akt/13238530.xml",
+  "description": "Official consolidated statute text (Mitteeluruumide erastamise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

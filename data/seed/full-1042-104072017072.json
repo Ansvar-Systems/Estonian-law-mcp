@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-104072017072",
+  "type": "statute",
+  "title": "Põllumajandusreformi seadus",
+  "title_en": "Põllumajandusreformi seadus",
+  "short_name": "PõRS",
+  "status": "in_force",
+  "issued_date": "1992-03-11",
+  "in_force_date": "2018-01-01",
+  "url": "https://www.riigiteataja.ee/akt/104072017072.xml",
+  "description": "Official consolidated statute text (Põllumajandusreformi seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

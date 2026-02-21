@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-73370",
+  "type": "statute",
+  "title": "Õigusaktides rahaühikute euroga asendamise seadus",
+  "title_en": "Õigusaktides rahaühikute euroga asendamise seadus",
+  "short_name": "ÕREAS",
+  "status": "in_force",
+  "issued_date": "2001-12-05",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/73370.xml",
+  "description": "Official consolidated statute text (Õigusaktides rahaühikute euroga asendamise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Seadustes, välja arvatud välislaenulepingute ja laenudele riigigarantii andmise ratifitseerimise seadused, loetakse euro kasutusele võtnud Euroopa Liidu liikmesriikide rahaühikud rahaühikuks euro (EUR), arvestades Euroopa Liidu Nõukogu kehtestatud konverteerimiskursse."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Käesolev seadus jõustub 2002. aasta 1. jaanuaril. Riigikogu esimees Toomas SAVI"
+    }
+  ],
+  "definitions": []
+}

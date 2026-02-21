@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-221122021003",
+  "type": "statute",
+  "title": "Euroopa stabiilsusmehhanismi asutamislepingu muutmise lepingu ratifitseerimise seadus",
+  "title_en": "Euroopa stabiilsusmehhanismi asutamislepingu muutmise lepingu ratifitseerimise seadus",
+  "short_name": "ee-law-221122021003",
+  "status": "in_force",
+  "issued_date": "2021-12-15",
+  "in_force_date": "2021-12-22",
+  "url": "https://www.riigiteataja.ee/akt/221122021003.xml",
+  "description": "Official consolidated statute text (Euroopa stabiilsusmehhanismi asutamislepingu muutmise lepingu ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud Euroopa stabiilsusmehhanismi asutamislepingu muutmise leping, millele Eesti Vabariik on alla kirjutanud 2021. aasta 8. veebruaril Brüsselis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Käesolev seadus jõustub Riigi Teatajas avaldamisele järgneval päeval."
+    }
+  ],
+  "definitions": []
+}

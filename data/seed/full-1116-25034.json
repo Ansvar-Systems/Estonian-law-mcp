@@ -1,0 +1,33 @@
+{
+  "id": "ee-law-25034",
+  "type": "statute",
+  "title": "Rahvusvahelise tööorganisatsiooni (ILO) mõnede konventsioonide ratifitseerimise seadus",
+  "title_en": "Rahvusvahelise tööorganisatsiooni (ILO) mõnede konventsioonide ratifitseerimise seadus",
+  "short_name": "ee-law-25034",
+  "status": "in_force",
+  "issued_date": "1995-12-06",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/25034.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise tööorganisatsiooni (ILO) mõnede konventsioonide ratifitseerimise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ratifitseerida juurdelisatud sunniviisilise või kohustusliku töö konventsioon (nr. 29), mis on vastu võetud 1930. aasta 28. juunil Genfis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ratifitseerida juurdelisatud sunniviisilise töö kaotamise konventsioon (nr. 105), mis on vastu võetud 1957. aasta 25. juunil Genfis."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ratifitseerida juurdelisatud töötajate esindajatele ettevõttes võimaldatava kaitse ja soodustuste konventsioon (nr. 135), mis on vastu võetud 1971. aasta 23. juunil Genfis. Riigikogu esimees Toomas SAVI Õiend Lisatud avaldamisandmed."
+    }
+  ],
+  "definitions": []
+}

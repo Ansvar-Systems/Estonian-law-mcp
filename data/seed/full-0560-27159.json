@@ -1,0 +1,27 @@
+{
+  "id": "ee-law-27159",
+  "type": "statute",
+  "title": "Hariduses, teaduses ja muus kultuurivaldkonnas kasutatavate esemete sisseveo kokkuleppe ja selle protokolliga ühinemise seadus",
+  "title_en": "Hariduses, teaduses ja muus kultuurivaldkonnas kasutatavate esemete sisseveo kokkuleppe ja selle protokolliga ühinemise seadus",
+  "short_name": "ee-law-27159",
+  "status": "in_force",
+  "issued_date": "2001-06-13",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/27159.xml",
+  "description": "Official consolidated statute text (Hariduses, teaduses ja muus kultuurivaldkonnas kasutatavate esemete sisseveo kokkuleppe ja selle protokolliga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud hariduses, teaduses ja muus kultuurivaldkonnas kasutatavate esemete sisseveo kokkuleppega, mis on vastu võetud UNESCO peakonverentsil 1950. aasta 17. juunil Firenzes."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühineda juurdelisatud hariduses, teaduses ja muus kultuurivaldkonnas kasutatavate esemete sisseveo kokkuleppe protokolliga, mis on vastu võetud UNESCO peakonverentsil 1976. aasta 26. novembril Nairobis. Riigikogu aseesimees Tunne KELAM"
+    }
+  ],
+  "definitions": []
+}

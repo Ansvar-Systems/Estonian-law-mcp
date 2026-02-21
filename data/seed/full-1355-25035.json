@@ -1,0 +1,45 @@
+{
+  "id": "ee-law-25035",
+  "type": "statute",
+  "title": "Tsiviil- ja kaubandusasjades välisriigis tõendite kogumise konventsiooniga ühinemise seadus",
+  "title_en": "Tsiviil- ja kaubandusasjades välisriigis tõendite kogumise konventsiooniga ühinemise seadus",
+  "short_name": "ee-law-25035",
+  "status": "in_force",
+  "issued_date": "1995-12-07",
+  "in_force_date": "2002-06-01",
+  "url": "https://www.riigiteataja.ee/akt/25035.xml",
+  "description": "Official consolidated statute text (Tsiviil- ja kaubandusasjades välisriigis tõendite kogumise konventsiooniga ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ühineda juurdelisatud tsiviil- ja kaubandusasjades välisriigis tõendite kogumise konventsiooniga, mis on alla kirjutatud 1970. aasta 18. märtsil Haagis."
+    },
+    {
+      "provision_ref": "para2",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ühinemisel määrata artikli 2 alusel keskasutuseks Justiitsministeerium."
+    },
+    {
+      "provision_ref": "para3",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ühinemisel deklareerida: 1) artikli 8 alusel, et taotleva riigi kohtunikel on õigus osaleda protsessitoimingul Justiitsministeeriumi eelneval nõusolekul; 2) artikli 11 alusel, et isik võib keelduda tõendi võtmises või protsessitoimingus osalemast, kui tal on selleks õigus või kohustus tema koduriigi seaduste kohaselt."
+    },
+    {
+      "provision_ref": "para4",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Ühinemisel deklareerida artikli 23 alusel, et Eesti Vabariik täidab nõudekirja, milles soovitakse dokumendi või selle koopia esitamist, kui see vastab järgmistele nõuetele: 1) menetlus on algatatud; 2) dokumendid on arukalt identifitseeritud kuupäevade, sisu või muu informatsiooni järgi; 3) nõudekirjas on näidatud asjaolud, mis annavad alust arvata, et dokumendid on isiku omanduses, valduses või isikule teada."
+    },
+    {
+      "provision_ref": "para5",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Ühinemisel teatada Hollandi Kuningriigi Välisministeeriumile, et artiklite 16 ja 17 alusel on luba andma määratud Justiitsministeerium."
+    }
+  ],
+  "definitions": []
+}

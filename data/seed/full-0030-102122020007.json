@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-102122020007",
+  "type": "statute",
+  "title": "2020. aasta riigieelarve seadus",
+  "title_en": "2020. aasta riigieelarve seadus",
+  "short_name": "RES2020",
+  "status": "in_force",
+  "issued_date": "2019-12-11",
+  "in_force_date": "2021-01-01",
+  "url": "https://www.riigiteataja.ee/akt/102122020007.xml",
+  "description": "Official consolidated statute text (2020. aasta riigieelarve seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Muutmismärge",
+      "content": "Kehtetu"
+    }
+  ],
+  "definitions": []
+}

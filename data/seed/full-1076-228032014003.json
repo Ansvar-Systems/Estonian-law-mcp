@@ -1,0 +1,21 @@
+{
+  "id": "ee-law-228032014003",
+  "type": "statute",
+  "title": "Rahvusvahelise energiaprogrammi kokkuleppega ühinemise seadus",
+  "title_en": "Rahvusvahelise energiaprogrammi kokkuleppega ühinemise seadus",
+  "short_name": "ee-law-228032014003",
+  "status": "in_force",
+  "issued_date": "2014-03-19",
+  "in_force_date": "2014-04-07",
+  "url": "https://www.riigiteataja.ee/akt/228032014003.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise energiaprogrammi kokkuleppega ühinemise seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "section": "1",
+      "title": "Preambul",
+      "content": "Ühineda rahvusvahelise energiaprogrammi kokkuleppega, mis on sõlmitud 1974. aasta 18. novembril Pariisis ning muudetud 2008. aasta 25. septembril."
+    }
+  ],
+  "definitions": []
+}

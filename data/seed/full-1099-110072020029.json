@@ -1,0 +1,295 @@
+{
+  "id": "ee-law-110072020029",
+  "type": "statute",
+  "title": "Rahvusvahelise sanktsiooni seadus",
+  "title_en": "Rahvusvahelise sanktsiooni seadus",
+  "short_name": "ee-law-110072020029",
+  "status": "in_force",
+  "issued_date": "2019-02-20",
+  "in_force_date": "2021-01-01",
+  "url": "https://www.riigiteataja.ee/akt/110072020029.xml",
+  "description": "Official consolidated statute text (Rahvusvahelise sanktsiooni seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "Käesolev seadus reguleerib rahvusvahelise sanktsiooni riigisisest rakendamist, finantssanktsiooni rakendamise ja kohaldamise erisusi, finantssanktsiooni kohaldamise järelevalve korda, Vabariigi Valitsuse sanktsiooni kehtestamist ning vastutust finantssanktsiooni kohaldamisest teatamata jätmise ja valeandmete esitamise eest."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "2",
+      "title": "§ 2. Teiste seaduste kohaldamine",
+      "content": "(1) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi.\n(2) Käesoleva seaduse 2., 3. ja 5. peatükis reguleerimata küsimustes kohaldatakse rahapesu ja terrorismi rahastamise tõkestamise seadust, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "3",
+      "title": "§ 3. Rahvusvaheline sanktsioon",
+      "content": "(1) Rahvusvaheline sanktsioon on välispoliitika meede, mille eesmärk on toetada rahu säilitamist või taastamist, rahvusvahelist julgeolekut, demokraatiat ja õigusriigi põhimõtet, inimõiguste ja rahvusvahelise õiguse järgimist või muude Ühinenud Rahvaste Organisatsiooni põhikirja või Euroopa Liidu ühise välis- ja julgeolekupoliitika eesmärkide saavutamist.\n(2) Rahvusvaheline sanktsioon kehtestatakse riigi, territooriumi, territoriaalse üksuse, režiimi, organisatsiooni, ühenduse, rühmituse või isiku suhtes Ühinenud Rahvaste Organisatsiooni Julgeolekunõukogu resolutsiooni, Euroopa Liidu Nõukogu otsuse või muu Eestile kohustusi paneva õigusaktiga.\n(3) Rahvusvahelise sanktsiooniga võib keelata rahvusvahelise sanktsiooni subjekti riiki sisenemise, piirata rahvusvahelist kaubandust ja rahvusvahelisi tehinguid ning seada muid keelde või kohustusi."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "4",
+      "title": "§ 4. Vabariigi Valitsuse sanktsioon",
+      "content": "Vabariigi Valitsuse sanktsioon on välispoliitika meede, mille võib lisaks käesoleva seaduse § 3 lõikes 1 nimetatud eesmärkidele kehtestada Eesti julgeoleku või huvide kaitseks."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "5",
+      "title": "§ 5. Rahvusvahelise sanktsiooni subjekt",
+      "content": "Rahvusvahelise sanktsiooni subjekt on rahvusvahelist sanktsiooni kehtestavas või rakendavas õigusaktis kindlaksmääratud füüsiline või juriidiline isik, üksus või asutus, kelle suhtes kohaldatakse rahvusvahelist sanktsiooni."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "6",
+      "title": "§ 6. Rahvusvahelise sanktsiooni rikkumine",
+      "content": "Rahvusvahelise sanktsiooni rikkumine on käesoleva seaduse §-s 9 nimetatud rahvusvahelist sanktsiooni rakendavas õigusaktis sätestatud kohustuse täitmata jätmine või keelu rikkumine."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "7",
+      "title": "§ 7. Rahvusvahelist sanktsiooni rikkuva tehingu tühisus",
+      "content": "(1) Rahvusvahelist sanktsiooni rikkuv tehing on tühine.\n(2) Kui käesoleva seaduse § 11 lõike 2 kohane luba tehingu tegemiseks antakse tagantjärele, muutub tehing kehtivaks selle tegemise kuupäevast."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "1. peatükk - Üldsätted",
+      "section": "8",
+      "title": "§ 8. Rahvusvahelise sanktsiooni ajutine rakendamine",
+      "content": "Ühinenud Rahvaste Organisatsiooni Julgeolekunõukogu resolutsiooniga kehtestatud sanktsiooni rakendatakse resolutsiooni alusel moodustatud komitee loetletud rahvusvahelise sanktsiooni subjektide suhtes, kuni ajakohastatakse või võetakse vastu Euroopa Liidu Nõukogu määrus."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - Rahvusvahelise sanktsiooni riigisisene rakendamine",
+      "section": "9",
+      "title": "§ 9. Rahvusvahelist sanktsiooni rakendav õigusakt",
+      "content": "(1) Rahvusvahelist sanktsiooni rakendav õigusakt käesoleva seaduse tähenduses on rahvusvaheline leping, Euroopa Liidu Nõukogu määrus või Eesti Vabariigi seadus, mille alusel kohaldatakse rahvusvahelist sanktsiooni kehtestavas õigusaktis ettenähtud kohustusi ja keelde.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud õigusaktide alusel ei ole võimalik rahvusvahelist sanktsiooni kohaldada, kehtestab rahvusvahelist sanktsiooni rakendava korralduse või määruse rahvusvahelise sanktsiooni riigisiseseks rakendamiseks vajalikus ulatuses Vabariigi Valitsus Välisministeeriumi ettepanekul."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - Rahvusvahelise sanktsiooni riigisisene rakendamine",
+      "section": "10",
+      "title": "§ 10. Ministeeriumide kohustused",
+      "content": "(1) Rahvusvahelise sanktsiooni riigisisest rakendamist koordineerib Välisministeerium.\n(2) Ministeeriumid algatavad enda valitsemisalas rahvusvahelise sanktsiooni rakendamiseks vajalike õigusaktide menetluse, tagavad rahvusvahelise sanktsiooni rakendamiseks ja kohaldamiseks vajalikud tingimused ning teevad Välisministeeriumiga koostööd rahvusvahelise sanktsiooni nõuetekohaseks rakendamiseks."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - Rahvusvahelise sanktsiooni riigisisene rakendamine",
+      "section": "11",
+      "title": "§ 11. Pädeva asutuse kohustused",
+      "content": "(1) Pädev asutus vastab rahvusvahelise sanktsiooniga seotud päringutele ning annab haldusakte ja teeb toiminguid, mis on ette nähtud rahvusvahelist sanktsiooni kehtestavas või rakendavas õigusaktis.\n(2) Kui rahvusvahelist sanktsiooni rakendav õigusakt võimaldab teha erandeid või lubab teenust osutada või tehingut või toimingut teha vaid loa alusel, annab asjaomase loa pädev asutus käesoleva seaduse §-s 13 sätestatud korras, kui valdkondlikes õigusaktides ei nähta ette teisiti.\n(3) Pädevad asutused on muu hulgas:\n1) sissesõidukeelu korral Siseministeerium või selleks volitatud Siseministeeriumi valitsemisala asutus;\n2) viibimise, elamise ja töötamise piirangute korral Politsei- ja Piirivalveamet;\n3) finantssanktsiooni korral rahapesu andmebüroo;\n4) kauba sisse- ja väljaveo keelu korral Maksu- ja Tolliamet;\n5) muu kui finants- ja kaubaga seotud teenuse osutamise keelu korral Majandus- ja Kommunikatsiooniministeerium.\n(4) Kui pädevat asutust ei ole õigusaktide alusel võimalik kindlaks määrata, määratakse pädev asutus Välisministeeriumi ettepanekul Vabariigi Valitsuse korralduse või määrusega."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - Rahvusvahelise sanktsiooni riigisisene rakendamine",
+      "section": "12",
+      "title": "§ 12. Kaubaveoloale kohalduvad erisused",
+      "content": "(1) Kaubaveoloale, mille väljastab käesoleva seaduse § 11 lõike 2 alusel strateegilise kauba seaduse §-s 8 nimetatud strateegilise kauba komisjon, kohaldatakse strateegilise kauba seaduses litsentsi kohta sätestatut.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud kaubaveoloa taotluse läbivaatamise eest tasutakse riigilõivu riigilõivuseaduses sätestatud määras."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - Rahvusvahelise sanktsiooni riigisisene rakendamine",
+      "section": "13",
+      "title": "§ 13. Loa taotlemine ja andmine",
+      "content": "(1) Käesoleva seaduse § 11 lõikes 2 nimetatud erandi tegemiseks või loa väljastamiseks esitatakse pädevale asutusele taotlus.\n(2) Pädev asutus annab käesoleva seaduse § 11 lõikes 2 nimetatud loa 30 päeva jooksul alates taotluse saamisest. Loa andmine kooskõlastatakse Välisministeeriumiga.\n(3) Humanitaarabi andmiseks esitatud taotlust loa väljastamiseks menetleb pädev asutus eelisjärjekorras.\n(4) Loa andmisel või selle andmisest keeldumisel lähtutakse rahvusvahelist sanktsiooni kehtestava või rakendava õigusakti tingimustest.\n(5) Luba ei ole üleantav, kui loas ei nähta ette teisiti.\n(6) Käesoleva seaduse § 11 lõikes 2 nimetatud erandi tegemiseks või loa andmiseks võib taotluse ja loa vormi kehtestada valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - Finantssanktsiooni rakendamise erisused",
+      "section": "14",
+      "title": "§ 14. Finantssanktsioon",
+      "content": "Finantssanktsioon käesoleva seaduse tähenduses on rahvusvaheline sanktsioon, millega: 1 1) kohustatakse külmutama rahvusvahelise finantssanktsiooni subjekti rahalised vahendid ja majandusressursid;\n2) keelatakse finantssanktsiooni subjektile rahaliste vahendite ja majandusressursside kättesaadavaks tegemine;\n3) keelatakse rahvusvahelist sanktsiooni rakendavas õigusaktis ettenähtud tingimustel laenu ja krediidi andmine;\n4) keelatakse rahvusvahelist sanktsiooni rakendavas õigusaktis ettenähtud tingimustel hoiuse-, makse-, väärtpaberi- või muu konto avamine ja kasutamine;\n5) keelatakse rahvusvahelist sanktsiooni rakendavas õigusaktis ettenähtud tingimustel väärtpaberitehingud;\n6) keelatakse rahvusvahelist sanktsiooni rakendavas õigusaktis ettenähtud tingimustel kindlustuslepingu sõlmimine;\n7) keelatakse rahvusvahelist sanktsiooni rakendavas õigusaktis ettenähtud tingimustel investeerimine või\n8) keelatakse rahvusvahelist sanktsiooni rakendavas õigusaktis ettenähtud tingimustel eespool loetletud tegevustega seotud ärisuhte alustamine või jätkamine, nõustamine või muu finantsteenuse osutamine."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - Finantssanktsiooni rakendamise erisused",
+      "section": "15",
+      "title": "§ 15. Külmutamise kohustus ühisomandi korral",
+      "content": "(1) Kui finantssanktsiooni rakendav õigusakt kohustab külmutama finantssanktsiooni subjekti rahalised vahendid ja majandusressursid, tuleb finantssanktsiooni kohaldada ka juhul, kui vahendid ja ressursid kuuluvad mitme isiku ühisomandisse ning vähemalt üks neist on finantssanktsiooni subjekt.\n(2) Isik, kes ei ole finantssanktsiooni subjekt, kuid kelle rahalised vahendid ja majandusressursid on käesoleva paragrahvi lõike 1 alusel külmutatud, võib taotleda rahapesu andmebüroolt luba kasutada oma osa ühisomandist."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - Finantssanktsiooni rakendamise erisused",
+      "section": "16",
+      "title": "§ 16. Finantssanktsioonist teavitamine",
+      "content": "(1) Rahapesu andmebüroo avaldab või teeb oma veebilehel viivitamata kättesaadavaks teabe finantssanktsiooni kehtestamise, muutmise või lõpetamise kohta.\n(2) Rahapesu andmebüroo koostab ja avaldab vähemalt üks kord aastas finantssanktsioonide Eestis rakendamise koondülevaate, mis sisaldab muu hulgas teavet:\n1) tuvastatud finantssanktsiooni subjektide kohta;\n2) kohaldatud finantssanktsioonide kohta;\n3) käesoleva seaduse § 11 lõike 2 alusel erandi tegemise või loa andmise kohta."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "3. peatükk - Finantssanktsiooni rakendamise erisused",
+      "section": "17",
+      "title": "§ 17. Isiku õigus, kui tema suhtes on kohaldatud finantssanktsiooni",
+      "content": "Isikul, kelle suhtes on kohaldatud finantssanktsiooni, on õigus esitada rahapesu andmebüroole taotlus, et see kontrolliks, kas sanktsiooni kohaldamine oli õiguspärane."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "3. peatükk - Finantssanktsiooni rakendamise erisused",
+      "section": "18",
+      "title": "§ 18. Rahapesu andmebüroo kontrollikohustus",
+      "content": "Käesoleva seaduse §-s 17 nimetatud taotluse või § 19 lõike 3 ning § 21 lõigete 1 ja 4 kohase teate saamisel rahapesu andmebüroo kümne tööpäeva jooksul: 1 1) kontrollib, kas taotluse esitanud või tuvastatud isik on finantssanktsiooni subjekt;\n2) kontrollib, kas tegemist on finantssanktsiooni rikkuva tehingu või toiminguga;\n3) kontrollib, kas finantssanktsiooni on kohaldatud õiguspäraselt;\n4) teavitab taotluse või teate esitajat viivitamata kontrolli tulemustest."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "3. peatükk - Finantssanktsiooni rakendamise erisused",
+      "section": "19",
+      "title": "§ 19. Lisateabe hankimine ja teavitamiskohustus",
+      "content": "(1) Kui füüsiline või juriidiline isik tuvastab, et temaga ärisuhtes olev või seda kavandav isik on finantssanktsiooni subjekt või tema poolt kavandatav või tehtav tehing või toiming rikub finantssanktsiooni, kohaldab ta finantssanktsiooni ja teavitab sellest viivitamata rahapesu andmebürood.\n(2) Kui füüsiline või juriidiline isik kahtleb, kas temaga ärisuhtes olev või seda kavandav isik on finantssanktsiooni subjekt või tema poolt kavandatav või tehtav tehing või toiming rikub finantssanktsiooni, kohaldab ta finantssanktsiooni ja hangib lisateavet asjaolude kohta, mis võimaldavad kindlaks teha, kas kavandatav või tehtav tehing või toiming rikub finantssanktsiooni.\n(3) Kui füüsiline või juriidiline isik tuvastab lisateabe põhjal finantssanktsiooni subjekti või et tema poolt kavandatav või tehtav tehing või toiming rikub finantssanktsiooni või lisateave ei võimalda seda kindlaks teha, kohaldab isik finantssanktsiooni ja teavitab sellest viivitamata rahapesu andmebürood."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "3. peatükk - Finantssanktsiooni rakendamise erisused",
+      "section": "20",
+      "title": "§ 20. Erikohustustega isik",
+      "content": "(1) Erikohustustega isik on:\n1) krediidiasutus rahapesu ja terrorismi rahastamise tõkestamise seaduse tähenduses;\n2) finantseerimisasutus rahapesu ja terrorismi rahastamise tõkestamise seaduse tähenduses, välja arvatud Euroopa Keskpank ja Euroopa Majanduspiirkonna lepinguriikide keskpangad;\n3) virtuaalvääringu teenuse pakkuja rahapesu ja terrorismi rahastamise tõkestamise seaduse tähenduses;\n4) kontohalduri staatusega isik väärtpaberite registri pidamise seaduse tähenduses ja väärtpaberite keskdepositoorium, kui ta korraldab väärtpaberikontode avamist ning osutab registritoimingutega seotud teenuseid ilma kontohalduri vahenduseta;\n5) käesoleva lõike punktides 1–4 nimetatud asutustega sama laadi teenust pakkuva välisriigi teenusepakkuja Eesti äriregistrisse kantud filiaal.\n(2) Kui erikohustustega isikul on rohkem kui üks juhatuse liige, määrab erikohustustega isik juhatuse liikme, kes vastutab erikohustustega isiku käesoleva seaduse §-des 21, 22 ja 23 sätestatud kohustuste ning käesoleva seaduse alusel kehtestatud õigusaktide ja juhendite täitmise eest.\n(3) Erikohustustega isik määrab käesolevas seaduses sätestatud ülesannete täitmise, sealhulgas finantssanktsiooni kohaldamise eest vastutava isiku ja edastab tema kontaktandmed rahapesu andmebüroole."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "3. peatükk - Finantssanktsiooni rakendamise erisused",
+      "section": "21",
+      "title": "§ 21. Erikohustustega isiku kohustused",
+      "content": "(1) Erikohustustega isik kontrollib finantssanktsiooni jõustumisel, muutmisel või lõppemisel, kas temaga ärisuhtes olev või seda kavandav isik on finantssanktsiooni subjekt. Kui erikohustustega isik tuvastab finantssanktsiooni subjekti või et tema poolt kavandatav või tehtav tehing või toiming rikub finantssanktsiooni, kohaldab ta finantssanktsiooni ja teavitab sellest viivitamata rahapesu andmebürood.\n(2) Kui erikohustustega isik kahtleb, kas temaga ärisuhtes olev või seda kavandav isik on finantssanktsiooni subjekt või tema poolt kavandatav või tehtav tehing või toiming rikub finantssanktsiooni, kohaldab erikohustustega isik finantssanktsiooni ja järgmisi hoolsusmeetmeid:\n1) kogub lisateavet selle kohta, kas temaga ärisuhtes olev või seda kavandav isik on finantssanktsiooni subjekt või kavandatav või tehtav tehing või toiming rikub finantssanktsiooni, ning kontrollib seda lisadokumentide, andmete või teabe põhjal, mis pärineb usaldusväärsest ja sõltumatust allikast;\n2) kogub lisateavet ärisuhte, tehingu või toimingu eesmärgi ja olemuse kohta ning kontrollib seda lisadokumentide, andmete või teabe põhjal, mis pärineb usaldusväärsest ja sõltumatust allikast.\n(3) Erikohustustega isik kohaldab käesoleva paragrahvi lõikes 2 sätestatud hoolsusmeetmeid ka finantssanktsiooni rikkumise riski või kahtluse korral.\n(4) Kui erikohustustega isik tuvastab käesoleva paragrahvi lõikes 2 ettenähtud hoolsusmeetmete kohaldamise tulemusena finantssanktsiooni subjekti või et tema poolt kavandatav või tehtav tehing või toiming rikub finantssanktsiooni või kui hoolsusmeetmete kohaldamisel saadud lisateave ei võimalda seda kindlaks teha, samuti käesoleva paragrahvi lõikes 3 nimetatud finantssanktsiooni rikkumise kahtluse korral, teavitab erikohustustega isik sellest ja kohaldatud finantssanktsioonist rahapesu andmebürood.\n(5) Käesoleva paragrahvi lõigetest 1 ja 4 tuleneva teavitamiskohustuse täitmiseks rahapesu andmebüroole esitatava teate vormi ning selle täitmise juhendi kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "3. peatükk - Finantssanktsiooni rakendamise erisused",
+      "section": "22",
+      "title": "§ 22. Andmete kogumine ja säilitamine",
+      "content": "Erikohustustega isik kogub ja säilitab käesoleva seaduse § 21 lõikes 1 nimetatud kontrolli kohta käivaid ning sama paragrahvi lõikes 2 nimetatud hoolsusmeetmete täitmisel kogutud andmeid viie aasta jooksul viisil, mis võimaldab ammendavalt ja viivitamata vastata rahapesu andmebüroo päringutele."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "3. peatükk - Finantssanktsiooni rakendamise erisused",
+      "section": "23",
+      "title": "§ 23. Protseduurireeglid ja sisekontrollieeskiri",
+      "content": "(1) Erikohustustega isik kehtestab kirjalikus või kirjalikku taasesitamist võimaldavas vormis protseduurireeglid, millega tagatakse selline organisatsiooniline ülesehitus, mis võimaldab viivitamata tuvastada finantssanktsiooni jõustumise, muutmise või lõppemise, ning mis sisaldavad juhiseid vähemalt:\n1) finantssanktsiooni subjekti ja finantssanktsiooni rikkuva tehingu või toimingu tuvastamise kohta;\n2) finantssanktsiooni subjekti tuvastamise või finantssanktsiooni rikkuva tehingu või toimingu kahtluse korral toimimise kohta;\n3) finantssanktsiooni rikkumise riski kindlakstegemise ja selle tuvastamise korral toimimise kohta;\n4) käesoleva seaduse § 21 lõikes 2 sätestatud lisateabe kogumise kohta;\n5) käesoleva seaduse § 21 lõigetes 1 ja 4 sätestatud teatamiskohustuse täitmise kohta;\n6) käesoleva seaduse §-s 22 sätestatud andmete säilitamise ja nende kättesaadavaks tegemise kohta.\n(2) Protseduurireeglite täitmise kontrollimiseks kehtestab erikohustustega isik sisekontrollieeskirja, mis kirjeldab muu hulgas sisekontrolli sagedust, protseduuri ning tulemuste säilitamise korda.\n(3) Erikohustustega isik korraldab protseduurireeglite ja sisekontrollieeskirja täitmise ning rakendamise erikohustustega isiku töötajate poolt."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "3. peatükk - Finantssanktsiooni rakendamise erisused",
+      "section": "24",
+      "title": "§ 24. Õigusteenuse osutaja kohustused",
+      "content": "(1) Käesoleva seaduse § 21 lõikeid 1–4 kohaldatakse notari, advokaadi, kohtutäituri, pankrotihalduri, ajutise pankrotihalduri ja muu õigusteenuse osutaja suhtes, kui ta tegutseb finants- või kinnisvaratehingus oma kliendi esindajana tema nimel ja arvel, juhendab tehingu kavandamist või elluviimist või teeb ametitoimingut, mis on seotud:\n1) kinnisasja või ettevõtte või äriühingu aktsiate või osade ostu või müügiga;\n2) kliendi raha, väärtpaberite või muu vara haldamisega;\n3) makse-, hoiu- või väärtpaberikontode avamise või haldamisega;\n4) äriühingu asutamiseks, tegevuseks või juhtimiseks vajalike vahendite hankimisega või\n5) äriühingu, sihtasutuse, usaldushalduse või juriidilise isiku staatust mitteomava isikute ühenduse asutamise, tegevuse või juhtimisega.\n(2) Käesoleva seaduse § 21 lõigetes 1 ja 4 sätestatud teavitamiskohustust ei kohaldata õigusteenuse osutaja suhtes, kui ta hindab kliendi õiguslikku olukorda, kaitseb või esindab klienti kohtu-, vaide- või muus sellises menetluses, sealhulgas nõustab klienti menetluse alustamises või vältimises, olenemata sellest, kas teave on saadud enne menetlust, menetluse kestel või pärast menetlust."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "3. peatükk - Finantssanktsiooni rakendamise erisused",
+      "section": "25",
+      "title": "§ 25. Registripidaja kohustused",
+      "content": "(1) Finantssanktsiooni kohaldavad oma pädevuse kohaselt järgmiste registrite pidajad või vastutavad või volitatud töötlejad (edaspidi registripidaja ):\n1) Eestis kehtivate Euroopa patentide register;\n2) kasulike mudelite register;\n3) kauba- ja teenindusmärkide register;\n4) kinnistusraamat;\n5) laevakinnistusraamat;\n6) mittetulundusühingute ja sihtasutuste register;\n7) patendiregister;\n8) riiklik liiklusregister;\n9) tööstusdisainilahenduste register;\n10) Eesti väärtpaberite register;\n11) õhusõidukite register;\n12) äriregister.\n(2) Registripidaja keeldub tegemast finantssanktsiooni rikkuvat kannet.\n(3) Registripidaja määrab isiku, kes korraldab oma pädevuse piires finantssanktsiooni rakendamist, ja edastab tema kontaktandmed rahapesu andmebüroole.\n(4) Registripidaja teavitab rahapesu andmebürood finantssanktsiooni subjekti või finantssanktsiooni rikkuva tehingu või toimingu tuvastamisest, kasutades selleks käesoleva seaduse § 21 lõike 5 alusel kehtestatud vormi."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "3. peatükk - Finantssanktsiooni rakendamise erisused",
+      "section": "26",
+      "title": "§ 26. Vastutusest vabastamine",
+      "content": "Käesoleva seaduse § 19 lõigetes 1 ja 3 ning § 21 lõigetes 1 ja 4 sätestatud teavitamiskohustuse täitmine ei riku seaduse või lepinguga ettenähtud konfidentsiaalsusnõuet ning teabe avaldamise eest õigusakti või lepinguga ettenähtud vastutust ei kohaldata. Käesolevast sättest kõrvalekalduv kokkulepe on tühine."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "4. peatükk - Vabariigi Valitsuse sanktsioon",
+      "section": "27",
+      "title": "§ 27. Vabariigi Valitsuse sanktsiooni kehtestamine",
+      "content": "(1) Vabariigi Valitsuse sanktsiooni kehtestab Vabariigi Valitsus määrusega Välisministeeriumi ettepanekul.\n(2) Vabariigi Valitsuse sanktsiooni subjektid määrab valdkonna eest vastutav minister käskkirjaga.\n(3) Vabariigi Valitsuse sanktsiooni subjektide määramisele ei kohaldata haldusmenetluse seaduses sätestatut.\n(4) Sanktsiooni subjekti nimekirja lisamine ja nimekirjast eemaldamine loetakse teatavaks tehtuks vastava teabe avaldamisega Välisministeeriumi veebilehel.\n(5) Vabariigi Valitsuse sanktsioonile kohaldatakse rahvusvahelise sanktsiooni kohta sätestatut, arvestades käesolevas peatükis ettenähtud erisusi."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "4. peatükk - Vabariigi Valitsuse sanktsioon",
+      "section": "28",
+      "title": "§ 28. Vabariigi Valitsuse sanktsiooni subjekti õigused",
+      "content": "(1) Vabariigi Valitsuse sanktsiooni subjekt võib esitada Välisministeeriumile päringu enda sanktsiooni subjektiks määramise põhjuste kohta.\n(2) Vabariigi Valitsuse sanktsiooni subjekt võib enda sanktsiooni subjektide nimekirjast eemaldamiseks esitada Välisministeeriumile põhjendatud taotluse koos tõenditega.\n(3) Välisministeerium vastab käesoleva paragrahvi lõikes 1 nimetatud päringule ja lõikes 2 nimetatud taotlusele 30 päeva jooksul.\n(4) Vabariigi Valitsuse sanktsiooni subjekt võib enda sanktsiooni subjektiks määramise kohta esitada kaebuse halduskohtule halduskohtumenetluse seadustikus sätestatud korras."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "4. peatükk - Vabariigi Valitsuse sanktsioon",
+      "section": "29",
+      "title": "§ 29. Vabariigi Valitsuse sanktsiooni kehtivus ja ülevaatamine",
+      "content": "(1) Vabariigi Valitsuse sanktsioon kehtib käesoleva seaduse § 27 lõike 1 alusel kehtestatud määruses määratud ajani või tähtajatult.\n(2) Kui Vabariigi Valitsuse sanktsioon kehtib kauem kui aasta, vaadatakse seda korrapäraselt läbi.\n(3) Valdkonna eest vastutav minister võib Vabariigi Valitsuse sanktsiooni kehtivuse sanktsiooni subjekti suhtes sanktsiooni subjekti põhjendatud taotluse alusel, valitsusasutuse või valitsusasutuse hallatava riigiasutuse põhjendatud ettepanekul või omal algatusel määratud ajaks peatada.\n(4) Valitsusasutus, valitsusasutuse hallatav riigiasutus või kohus võib teha Välisministeeriumile põhjendatud ettepaneku Vabariigi Valitsuse sanktsiooni subjekti nimekirjast eemaldamise kohta."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "5. peatükk - Järelevalve korraldus",
+      "section": "30",
+      "title": "§ 30. Järelevalveasutused",
+      "content": "(1) Finantssanktsiooni kohaldamise riiklikku järelevalvet teeb rahapesu andmebüroo, kui seaduses ei nähta ette teisiti.\n(1^1) Finantsinspektsioon teostab finantssanktsioonide kohaldamise järelevalvet käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuete täitmise üle nende krediidiasutuste ning finantseerimisasutuste poolt, kelle üle ta teeb järelevalvet seaduse alusel, arvestades käesolevas seaduses sätestatud erisusi.\n(2) Käesoleva seaduse § 25 lõike 1 punktides 1–3 ja 7–11 nimetatud registripidajate poolt finantssanktsiooni kohaldamise üle tehakse järelevalvet teenistusliku järelevalve korras.\n(3) Käesoleva seaduse § 25 lõike 1 punktides 4–6 ja 12 nimetatud registripidajate poolt finantssanktsiooni kohaldamise üle tehakse järelevalvet kohtute seaduse §-s 45 sätestatud korras.\n(4) Eesti Advokatuuri juhatus teeb järelevalvet Eesti Advokatuuri liikmete poolt käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuete täitmise üle advokatuuriseaduse alusel, arvestades käesolevas seaduses sätestatut.\n(5) Justiitsministeerium teeb järelevalvet notarite poolt käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuete täitmise üle notariaadiseaduse alusel, arvestades käesolevas seaduses sätestatut. Justiitsministeerium võib järelevalve tegemise delegeerida Notarite Kojale."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "5. peatükk - Järelevalve korraldus",
+      "section": "31",
+      "title": "§ 31. Riikliku järelevalve erimeetmed",
+      "content": "(1) Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve tegemiseks kohaldada korrakaitseseaduse §-des 30 ja 50 ettenähtud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras.\n(2) Korrakaitseorgan võib korrakaitseseaduse §-s 50 ettenähtud tingimustel siseneda erikohustustega isiku, õigusteenuse osutaja ning registripidaja asu- ja tegevuskohta ning tema valduses olevasse hoonesse ja ruumi ning meedet võib kohaldada kontrollitava isiku, tema esindaja või töötaja juuresolekul.\n(3) Riikliku järelevalve tulemused kajastatakse rahapesu ja terrorismi rahastamise tõkestamise seaduse §-s 68 sätestatud korras."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "5. peatükk - Järelevalve korraldus",
+      "section": "32",
+      "title": "§ 32. Rahapesu andmebüroo või Finantsinspektsiooni ettekirjutus",
+      "content": "(1) Rahapesu andmebüroo või Finantsinspektsioon võib teha ettekirjutuse käesoleva seaduse § 20 lõikes 2 ettenähtud vastutava juhatuse liikme ja § 20 lõikes 3 ettenähtud vastutava isiku määramiseks ning käesoleva seaduse §-s 23 sätestatud nõuetele vastavate protseduurireeglite ja sisekontrolli eeskirja kehtestamiseks.\n(2) Finantssanktsiooni rikkumise kahtluse korral võib rahapesu andmebüroo rikkumise kahtlusega tehingu või toimingu ettekirjutusega peatada või kohustada võtma finantssanktsiooni kohaldamiseks vajalikke meetmeid.\n(3) Kui rahapesu andmebürool on kahtlus, et tehinguga finantseeritakse rahvusvahelise sanktsiooniga keelatud või piiratud kauba või vara käsutamist või nendega seotud teenuseid või tasutakse nende eest või tasutakse rahvusvahelise sanktsiooniga keelatud või piiratud teenuse eest, võib ta tehingu ettekirjutusega peatada.\n(4) Käesoleva paragrahvi lõigetes 2 ja 3 nimetatud ettekirjutuse võib kehtestada maksimaalselt kuni selle aluseks oleva rahvusvahelise sanktsiooni kehtivusaja lõppemiseni.\n(5) Rahapesu andmebüroo või Finantsinspektsioon teeb ettekirjutuse puudutatud isikule teatavaks kahe tööpäeva jooksul, teavitades teda ettekirjutuse:\n1) õiguslikust alusest;\n2) sisust ja ulatusest;\n3) alguskuupäevast;\n4) erandite tegemise alustest ja korrast;\n5) vaidlustamise korrast."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "5. peatükk - Järelevalve korraldus",
+      "section": "33",
+      "title": "§ 33. Sunniraha ettekirjutuse täitmata jätmise eest",
+      "content": "(1) Kui erikohustustega isik on käesoleva seaduse § 20 lõike 1 punktis 1 või 2 nimetatud krediidiasutus või finantseerimisasutus, on asendustäitmise ja sunniraha seaduses sätestatud korras rakendatava sunniraha ülemmäär käesoleva seaduse §-s 32 nimetatud ettekirjutuse täitmata jätmise või ebakohase täitmise korral:\n1) füüsilise isiku puhul esimesel korral kuni 5000 eurot ning järgmistel kordadel kuni 50 000 eurot ühe ja sama kohustuse täitmisele sundimiseks, kuid kokku kõige rohkem 5 000 000 eurot;\n2) juriidilise isiku puhul esimesel korral kuni 32 000 eurot ning järgmistel kordadel kuni 100 000 eurot ühe ja sama kohustuse täitmisele sundimiseks, kuid olenevalt sellest, milline summa on suurem, kokku kuni 5 000 000 eurot või kuni 10 protsenti juriidilise isiku aastasest kogukäibest vastavalt viimasele kättesaadavale juhtorgani kinnitatud raamatupidamise aastaaruandele.\n(2) Kui käesoleva paragrahvi lõike 1 punktis 2 nimetatud juriidiline isik on emaettevõtja või sellise emaettevõtja tütarettevõtja, kes peab koostama konsolideeritud raamatupidamise aruande, siis arvestatakse juriidilise isiku aastase kogukäibena kas aastast kogukäivet või käesoleva seaduse §-s 32 nimetatud ettekirjutuse aluseks olnud rikkumise valdkonna tululiigi kogukäivet viimase kättesaadava konsolideeritud raamatupidamise aastaaruande järgi, mille on heaks kiitnud emaettevõtja kõrgeima taseme juhtorgan.\n(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetamata isikute puhul on sunniraha ülemmäär võrdne kuni kahekordse rikkumise tulemusel teenitud kasumiga, kui sellist kasumit on võimalik kindlaks teha, või kuni 1 000 000 eurot."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "5. peatükk - Järelevalve korraldus",
+      "section": "34",
+      "title": "§ 34. Teabevahetus",
+      "content": "(1) Kui Finantsinspektsioon või käesoleva seaduse §-s 30 nimetatud järelevalve tegija tuvastab järelevalvet tehes olukorra, mille tunnused osutavad finantssanktsiooni rikkumisele või selle kahtlusele või viitavad käesoleva seaduse nõuete rikkumisele, teatab ta sellest viivitamata rahapesu andmebüroole.\n(2) Käesoleva seaduse §-s 30 nimetatud järelevalve tegija on kohustatud esitama rahapesu andmebüroole 15. aprilliks teabe eelmisel kalendriaastal:\n1) läbi viidud järelevalvemenetluste arvu ja järelevalvega hõlmatud isikute arvu kohta nende liikide kaupa;\n2) järelevalve tegemisel avastatud rikkumiste arvu ja selliste isikute arvu kohta, kelle suhtes kohaldati väärteomenetlust või muid meetmeid, ning nende õigusliku aluse isikute kaupa.\n(3) Vajaduse korral edastab rahapesu andmebüroo käesolevas seaduses ettenähtud kohustuste täitmise käigus kogutud teabe, sealhulgas panga- ja ärisaladust sisaldavad andmed, Välisministeeriumile.\n(4) Käesolevas seaduses ettenähtud kohustuste täitmiseks on rahapesu andmebürool õigus vahetada infot, sealhulgas saada ning edastada panga- ja ärisaladust sisaldavaid andmeid, rahapesu andmebüroo ülesandeid täitva välisriigi asutusega või välisriigi õiguskaitseasutusega rahapesu ja terrorismi rahastamise tõkestamise seaduse §-s 63 sätestatud korras."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "35",
+      "title": "§ 35. Finantssanktsiooni subjekti või finantssanktsiooni rikkuva tehingu või toimingu tuvastamisest ja finantssanktsiooni kohaldamisest teatamata jätmine ning valeandmete esitamine",
+      "content": "(1) Käesoleva seaduse § 21 lõigetes 1 ja 4 sätestatud finantssanktsiooni subjekti või finantssanktsiooni rikkuva tehingu või toimingu tuvastamisest ja finantssanktsiooni kohaldamisest rahapesu andmebüroole teatamise kohustuse rikkumise, samuti valeandmete esitamise eest – karistatakse rahatrahviga kuni 300 trahviühikut või arestiga.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 400 000 eurot."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "36",
+      "title": "§ 36. Andmete kogumise ja säilitamise kohustuse rikkumine",
+      "content": "(1) Käesoleva seaduse §-s 22 sätestatud andmete kogumise ja säilitamise kohustuse rikkumise eest – karistatakse rahatrahviga kuni 300 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 400 000 eurot."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "37",
+      "title": "§ 37. Menetlus",
+      "content": "Käesoleva seaduse §-des 35 ja 36 nimetatud väärtegude kohtuväline menetleja on rahapesu andmebüroo."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "38",
+      "title": "§ 38.",
+      "content": "-"
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "44",
+      "title": "§ 44.",
+      "content": "[Käesolevast tekstist välja jäetud]"
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "7. peatükk - Rakendussätted",
+      "section": "45",
+      "title": "§ 45. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2020. aasta 1. jaanuaril."
+    }
+  ],
+  "definitions": []
+}

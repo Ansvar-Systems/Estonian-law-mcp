@@ -1,0 +1,444 @@
+{
+  "id": "ee-law-102012025029",
+  "type": "statute",
+  "title": "Nakkushaiguste ennetamise ja tõrje seadus",
+  "title_en": "Nakkushaiguste ennetamise ja tõrje seadus",
+  "short_name": "ee-law-102012025029",
+  "status": "in_force",
+  "issued_date": "2003-02-12",
+  "in_force_date": "2025-09-01",
+  "url": "https://www.riigiteataja.ee/akt/102012025029.xml",
+  "description": "Official consolidated statute text (Nakkushaiguste ennetamise ja tõrje seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus reguleerib nakkushaiguste tõrje korraldamist ja nakatunud isikule tervishoiuteenuse osutamise (edaspidi arstiabi andmine ) korda ning sätestab riigi ja kohaliku omavalitsuse üksuse ning juriidilise isiku ja füüsilise isiku kohustused nakkushaiguste ennetamisel ning tõrjel.\n(2) Käesolevat seadust kohaldatakse Eesti Vabariigi territooriumil viibivale füüsilisele isikule ja Eesti Vabariigi territooriumil asuvale juriidilisele isikule, kui välislepingu või rahvusvahelise konventsiooniga ei ole kehtestatud teisiti.\n(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2. Mõisted",
+      "content": "(1) Seaduses kasutatakse mõisteid järgmises tähenduses:\n1) nakkustekitaja – prioon, viirus, bakter, mikroskoopiline seen, algloom, ussnugiline ja lülijalgne, samuti nende komponendid ja toksiinid, mis on võimelised tekitama nakkushaigust;\n2) nakkushaigus – haigus või haigustunnusteta kandlusseisund, mis on põhjustatud nakkustekitaja sattumisest organismi ja mis levib või mille puhul on alust oletada levikut inimeselt inimesele või loomalt inimesele otseselt või kaudselt;\n3) eriti ohtlik nakkushaigus – suure nakatuvusega haigus, mis levib kiiresti ja ulatuslikult või mille kulg on raske või eluohtlik. Käesoleva seaduse tähenduses on eriti ohtlikud nakkushaigused katk, koolera, kollapalavik, viiruslikud hemorraagilised palavikud ja tuberkuloos;\n4) nakkushaige – inimene, kellel on arstiteaduses tunnustatud meetoditega diagnoositud nakkushaigus;\n5) nakkuskahtlane isik – nakkushaigega samades tingimustes olnud või haigest nakatuda võinud, kuid arstliku läbivaatuse ajaks mittehaigestunud isik;\n6) nakkushaiguste tõrje – selliste tervisekaitseabinõude rakendamine, mis võimaldavad nakkushaige või nakkuskahtlase isiku varakult avastada ning teda uurida ja ravida, selgitada tema nakatumise põhjused ja viisid, tõkestada nakkushaiguse levikut ning vältida tervete nakatumist;\n7) epideemia – nakkushaiguse puhang, mis nõuab nakkustõrje meetmete laiaulatuslikku rakendamist;\n8) seire – tervisealaste andmete, sealhulgas nakkushaiguste epidemioloogiliste uuringute ja nakatumise riskitegurite andmete süstemaatiline kogumine, analüüsimine, tõlgendamine ja levitamine nakkushaiguste leviku ennetamise ning tõrje eesmärgil;\n9) haiguspuhang – tavapärast haigestumise taset ületav ühise nakkusallika või levikufaktoriga seotud teatud ajavahemikus esinev nakkushaigusjuhtude arv;\n10) doonorivere säilitusproov – doonorivere proov, mis on võetud veredoosist.\n(2) Uudne ohtlik nakkushaigus käesoleva seaduse tähenduses on nakkushaigus:\n1) millel on käesoleva paragrahvi lõike 1 punktis 3 sätestatud eriti ohtliku nakkushaiguse tunnused;\n2) millel puudub või ei ole kättesaadav efektiivne ravi või mille levik võib ületada haiglate ravivõimekust."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "2. peatükk - NAKKUSHAIGELE ARSTIABI ANDMINE",
+      "section": "3",
+      "title": "§ 3. Nõusolek arstiabi andmiseks",
+      "content": "(1) Nakkushaigele ja nakkuskahtlasele isikule antakse arstiabi tema nõusolekul.\n(2) Piiratud teovõimega isikule osutatakse arstiabi tema seadusliku esindaja nõusolekul ja isiku enda tahte alusel niivõrd, kuivõrd ta on võimeline sellekohast tahet avaldama. Vältimatu abi osutamine patsiendile on lubatud ka ilma seadusliku esindaja nõusolekuta või ilma isiku enda tahteta, kui arstiabi andmata jätmine oleks patsiendile eluohtlik või kahjustaks oluliselt tema tervist. Kolmas isik ei või keelata ega takistada vältimatu abi osutamist."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - NAKKUSHAIGELE ARSTIABI ANDMINE",
+      "section": "4",
+      "title": "§ 4. Nakkushaige tahtest olenematu ravi",
+      "content": "(1) Eriti ohtlike nakkushaiguste leviku tõkestamiseks võib nakkushaige tahtest olenemata kohaldada talle haiglaravi, kui nakkushaige on teistele ohtlik ja ta on keeldunud ravist või rikkunud ravirežiimi.\n(2) Tahtest olenematut ravi võib kohaldada üksnes kohtu määruse alusel.\n(3) Tahtest olenematut ravi võib kohaldada ka kohtu määruseta, kui see on vältimatu isiku enda või avalikkuse kaitseks ja kohtu määruse saamine ei ole piisavalt kiiresti võimalik. Otsuse kohaldada tahtest olenematut ravi kohtu loata teeb arst isiku haiglasse saabumisel või haiglas ravil viibival isikul tahtest olenematu ravi kohaldamise vajaduse ilmnemisel viivitamata pärast isiku arstlikku läbivaatust. Otsuse vormistamise aeg loetakse tahtest olenematu haiglaravi alguseks.\n(4) Käesoleva paragrahvi lõikes 3 nimetatud otsuse alusel võib tahtest olenematut ravi kohaldada 48 tunni jooksul alates tahtest olenematu haiglaravi algusest. Ravi kohaldamise otsusest teavitab arst nakkushaiget viivitamata ja tema lähedast inimest või seaduslikku esindajat 12 tunni jooksul otsuse vormistamisest.\n(5) Nakkushaige või tema poolt volitatud isik korraldab nakkushaige vara kaitse.\n(6) Käesoleva paragrahvi lõikes 2 nimetatud kohtumääruse või lõikes 3 nimetatud otsuse alusel võib tervishoiuteenuse osutaja kasutada vajaduse korral politsei abi nakkushaige haiglasse toimetamiseks, andes politseile käesoleva seaduse §-s 22 sätestatud nakkushaiguste tõrje nõuetele vastavad kaitsevahendid, samuti juhendades nende kasutamist.\n(7) Tervishoiuteenuse osutaja informeerib politseid esimesel võimalusel eriti ohtlikku nakkushaigust põdevast nakkushaigest, kes on teistele ohtlik ja keeldunud ravist või rikkunud ravirežiimi ning kelle asukoht on teadmata, edastades politseile käesoleva paragrahvi lõike 2 kohase kohtumääruse või lõike 3 kohase otsuse koopia.\n(8) Politsei informeerib viivitamata tahtest olenematu ravi kohaldamise otsuse esitanud tervishoiuteenuse osutajat käesoleva paragrahvi lõikes 7 nimetatud isiku asukoha tuvastamisest.\n(9) Tervishoiuteenuse osutaja informeerib kohalikku omavalitsust eriti ohtlikku nakkushaigust põdevast nakkushaigest, kes on teistele ohtlik, keeldunud ravist või rikkunud ravirežiimi, kui see on vajalik isiku kinnisesse asutusse paigutamiseks."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - NAKKUSHAIGELE ARSTIABI ANDMINE",
+      "section": "5",
+      "title": "§ 5. Tahtest olenematu ravi kohaldamise tingimused ja kord",
+      "content": "(1) Tahtest olenematu ravi kohaldamise, selle pikendamise ja lõpetamise otsustab kohus tsiviilkohtumenetluse seadustikus isiku kinnisesse asutusse paigutamise menetlusele ettenähtud korras, kui käesolevast seadusest ei tulene teisiti.\n(2) Esialgse õiguskaitse rakendamise taotluse isiku tahtest olenematu ravi kohaldamiseks ja isiku haiglasse paigutamiseks, samuti esialgse õiguskaitse tähtaja pikendamise taotluse võib esitada ka isiku raviarst haigla tegevuskohajärgsele kohtule tsiviilkohtumenetluse seadustikus sätestatud korras.\n(3)\n(4)\n(5)\n(6)\n(7) Kui on ära langenud käesoleva seaduse § 4 lõikes 1 sätestatud asjaolud, esitab isiku raviarst kohtule avalduse nakkushaige tahtest olenematu ravi lõpetamiseks.\n(8) Tahtest olenematuks raviks haiglasse paigutatud nakkushaige peab olema eraldi palatis, mis vastab nakkusohutuse nõuetele. Nakkushaige võib palatist lahkuda ainult haigla vastavas juhendis kehtestatud tingimustel ja nakkusohutuse meetmete rakendamise korral. Tema suhtlemisvõimalusi võib piirata niivõrd, kuivõrd see on vajalik nakkuse edasikandumise vältimiseks."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - NAKKUSHAIGELE ARSTIABI ANDMINE",
+      "section": "6",
+      "title": "§ 6. Tervishoiutöötaja ülesanded nakkushaiguste ennetamisel ja tõrjel",
+      "content": "(1) Tervishoiutöötaja tervishoiuteenuste korraldamise seaduse § 3 lõike 1 tähenduses:\n1) täidab nakkushaiguste ennetamiseks ja tõrjeks käesolevas seaduses sätestatud nõudeid;\n2) teeb nakkushaige või nakkuskahtlase isiku terviseuuringu ja saadab vajadusel uurimismaterjali laborisse uuringuteks ning määrab talle ravi;\n3) uurib nakkushaige nakatumise aega, nakkusallikat, nakatumise viisi, nakkuse levitegureid ja selgitab välja nakkushaigega kokkupuutunud isikud;\n4) teavitab nakkushaigega kokkupuutunud isikut terviseuuringu vajadusest;\n5) teavitab registreerimisele kuuluvate nakkushaigusjuhtude korral Terviseametit nakkushaiguskahtlusest, haiguse diagnoosimisest, haige nakatumise asjaoludest ja laboriuuringute tulemustest käesoleva seaduse §-s 21 sätestatud korras;\n6) teeb nakkushaigele või tema seaduslikule esindajale teatavaks haiguse nakkusohtlikkuse, haiguse leviku teed, haiguse ravimata jätmise tagajärjed ja haigele seaduse alusel kohaldatavad piirangud, annab juhiseid nakkuse leviku vältimiseks ning teeb edastatud teabe kohta sissekande ravidokumenti;\n7) väljastab sugulisel teel leviva haiguse korral nakkushaigele teatise, milles märgitakse diagnoositud haiguse nimetus ja vajadus teavitada patsiendiga seksuaalvahekorras olnud isikuid nimetatud haigusest ja arstlikule läbivaatusele pöördumise vajalikkusest.\n(2)\n(3)"
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "3. peatükk - NAKKUSHAIGUSTE LEVIKU TÕKESTAMINE",
+      "section": "7",
+      "title": "§ 7. Nakkushaiguste leviku tõkestamise põhimõtted",
+      "content": "Nakkushaiguste leviku tõkestamiseks korraldatakse inimeste immuniseerimist ja tehakse terviseuuringuid ning rakendatakse muid nakkusohutuse tagamise abinõusid."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "3. peatükk - NAKKUSHAIGUSTE LEVIKU TÕKESTAMINE",
+      "section": "8",
+      "title": "§ 8. Immuniseerimise korraldamine",
+      "content": "(1) Sotsiaalministeerium koordineerib immuniseerimiskava uuendamist, vältimatu abi korras toimuvat immuniseerimist ja nakkushaiguste epideemilise leviku tõkestamiseks vajalikku immuniseerimist.\n(1^1) Perearst:\n1) korraldab immuniseerimiskava alusel immuniseerimist;\n2) tagab nimistusse kantud isikutele immuniseerimise kättesaadavuse või vajaduse korral suunab nad immuniseerimiseks teise tervishoiuteenuse osutaja juurde.\n(1^2) Käesoleva paragrahvi lõike 1^1 punktis 1 nimetatud perearsti ülesandeid täidab pereõde, koolitervishoiuteenuse osutaja või ämmaemand juhul, kui ta vastab käesoleva paragrahvi lõike 5 alusel kehtestatud määruses sätestatud nõuetele.\n(2) Immuniseerimist korraldav tervishoiutöötaja:\n1) tuvastab immuniseerimise ajutised ja püsivad vastunäidustused;\n2) dokumenteerib immuniseerimised tervishoiuteenuste korraldamise seaduse § 4^2 lõikes 3 ja §-s 59^2 ning käesoleva paragrahvi lõike 5 alusel kehtestatud määruses sätestatud nõuete kohaselt;\n3) esitab immuniseerimise aruanded käesoleva paragrahvi lõike 5 alusel kehtestatud määruses sätestatud nõuete kohaselt;\n4) registreerib immuniseerimise kõrvalnähud ja teavitab nendest Ravimiametit ravimiseaduses sätestatud alustel ja korras.\n(2^1) Kui käesoleva paragrahvi lõikes 2 nimetatud immuniseerimist korraldab õde või ämmaemand, kaasab ta püsivate vastunäidustuste kinnitamiseks ja immuniseerimise kõrvalnähtude diagnoosimiseks arsti.\n(3)\n(4) Välismissioonile saadetavate kaitseväelaste täiendavat immuniseerimist korraldab Kaitseministeerium vajaduse järgi.\n(5) Immuniseerimise korraldamise nõuded kehtestatakse valdkonna eest vastutava ministri määrusega.\n(5^1) Tervisekassa korraldab riiklikult hangitud immuunpreparaatide jaotamist, säilitamist ja vedu ning külmahela toimimist. Immuunpreparaatide jaotamise põhimõtted kooskõlastatakse Terviseametiga.\n(6) Immuunpreparaatide kvaliteedi, ohutuse ja tõhususe säilitamiseks peab olema tagatud külmahela toimimine kõikidel käitlemisetappidel. Immuunpreparaatide külmahela nõuete tagamine nende säilitamisel ning transportimisel toimub ravimiseaduse §-s 34 sätestatud alustel ja korras."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "3. peatükk - NAKKUSHAIGUSTE LEVIKU TÕKESTAMINE",
+      "section": "9",
+      "title": "§ 9. Immuniseerimine epideemia korral",
+      "content": "(1) Nakkushaiguste epideemilise leviku tõkestamiseks korraldatakse vajaduse korral ohustatud isikute immuniseerimist.\n(2) Valdkonna eest vastutaval ministril on õigus epideemia korral ohustatud isikute immuniseerimiseks kehtestada asjakohased tegevusjuhendid."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "3. peatükk - NAKKUSHAIGUSTE LEVIKU TÕKESTAMINE",
+      "section": "10",
+      "title": "§ 10. Immuniseerimiskava",
+      "content": "(1)\n(2) Immuniseerimiskavas määratakse nakkushaigused, mille vastu immuniseeritakse, immuniseeritavad vanuserühmad või riskirühmad ja immuniseerimise tähtajad.\n(3) Immuniseerimiskava kehtestatakse valdkonna eest vastutava ministri määrusega."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "3. peatükk - NAKKUSHAIGUSTE LEVIKU TÕKESTAMINE",
+      "section": "11",
+      "title": "§ 11. Immuunsustausta jälgimine",
+      "content": "(1) Immuunsustaust on teatud haiguse osas immuunsete inimeste suhtarv elanikkonnas. Immuunsustausta jälgimiseks tehakse terviseuuringuid.\n(2)"
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "3. peatükk - NAKKUSHAIGUSTE LEVIKU TÕKESTAMINE",
+      "section": "12",
+      "title": "§ 12. Nakkushaiguse ja nakkuskandluse uurimine rasedal",
+      "content": "(1) Nakkushaiguste lootele või vastsündinule leviku tõkestamiseks uuritakse rasedat süüfilise, B-hepatiidi ja HIV-nakkuse suhtes.\n(2) Raseda uurimise ja ravimise kord kehtestatakse valdkonna eest vastutava ministri määrusega."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "3. peatükk - NAKKUSHAIGUSTE LEVIKU TÕKESTAMINE",
+      "section": "13",
+      "title": "§ 13. Töötaja, tööandja ja ettevõtja tervisekontroll nakkushaiguste suhtes",
+      "content": "(1) Tööandja on kohustatud tegevusaladel, kus töö iseärasused võivad soodustada nakkushaiguste levikut, nõudma tööle asujalt tervisetõendit nakkushaiguste suhtes tervisekontrolli läbimise kohta. Tervisetõend nakkushaiguste suhtes tervisekontrolli läbimise kohta on nõutav järgmistelt töötajatelt:\n1) toitu ja joogivett käitlevad töötajad ning oma tööülesannete tõttu toidu ja joogiveega või nende käitlemisvahenditega kokkupuutuvad töötajad, samuti toidu ja joogivee käitlemisruume puhastavad töötajad, välja arvatud töötajad, kes töötavad Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 852/2004 toiduainete hügieeni kohta (ELT L 139, 30.04.2004, lk 1–54) I lisas nimetatud valdkonnas, ning töötajad, kes töötavad valdkonnas, mis ei ole Euroopa Parlamendi ja nõukogu määruse nr 852/2004 ning määruse nr 853/2004, millega sätestatakse loomset päritolu toidu hügieeni erireeglid (ELT L 139, 30.04.2004, lk 55–205), reguleerimisalas;\n2) loomapidajad ja isikud, kes oma tööülesannete tõttu puutuvad vahetult kokku põllumajandusloomade ja loomsete saadustega, välja arvatud loomapidajad, kes peavad põllumajandusloomi, et saada loomseid saadusi enda tarbeks;\n3) õpetajad ja lasteasutuse töötajad ning teised töökohustuste tõttu laste ja noorukitega vahetult kokkupuutuvad töötajad;\n4) abivajajale vahetult teenust osutavad hoolekandetöötajad;\n5) tervishoiutöötajad ning teised patsiendiga vahetult kokkupuutuvad tervishoiuasutuse töötajad;\n6) kliendiga vahetult kokkupuutuvad ilu- ja isikuteenuseid osutavad töötajad;\n7) käesoleva lõike punktides 1–6 loetletud tegevusaladel praktikat sooritavad või täiendusõppes osalevad õpilased, üliõpilased ja töötajad.\n(2) Tööle asuja esitab tööandjale nakkushaiguste suhtes tervisekontrolli läbimise kohta kirjaliku tervisetõendi, mida tööandja säilitab töösuhte kestuse jooksul ning vähemalt aasta pärast töösuhte lõppemist.\n(3) Tööandja ja füüsilisest isikust ettevõtja, kes tegutseb käesoleva paragrahvi lõikes 1 nimetatud valdkonnas ning osaleb tööprotsessides, kus on mis tahes nakkuse otsese või kaudse ülekandumise oht, peab läbima tervisekontrolli nakkushaiguste suhtes ning tal peab olema selle kohta tervisetõend.\n(4) Perearst või töötervishoiuarst teeb nakkushaiguste suhtes tervisekontrolli ning väljastab selle kohta tervisetõendi tervishoiuteenuste korraldamise seaduse § 4^2 lõike 3 kohaselt.\n(5) Tööandjal on õigus nõuda tööle asujalt nakkushaiguste suhtes tervisekontrolli läbimist ning vastava tõendi esitamist, kui eelmise tõendi väljastamisest on möödunud rohkem kui kaks aastat või tervisekontrolli läbimine ning uue tõendi väljastamine on töö iseärasuste tõttu põhjendatud.\n(6) Käesoleva paragrahvi lõikes 1 nimetatud valdkonnas töötava isiku tervisekontroll toimub töötervishoiu ja tööohutuse seaduses sätestatud alustel ja korras. Töötaja tervisekontrolli tegemisel arvestatakse vajaduse korral töötervishoiu ja tööohutuse seaduse § 8 lõike 3 alusel kehtestatud nõudeid.\n(7) Tööandjal on õigus saata töötaja vastavalt riskihindamise tulemustele täiendavale tervisekontrollile nakkushaiguste suhtes.\n(8) Kui eriolukorra, erakorralise seisukorra või sõjaseisukorra tõttu on takistatud tervisekontrolli tegemine ja selle kohta tervisetõendi väljastamine, peab käesoleva paragrahvi lõikes 1 nimetatud valdkonnas tegutsev tööandja nõudma tööle asujalt või töötajalt kirjalikku taasesitamist võimaldavas vormis kinnituse selle kohta, et tal ei ole tuvastatud nakkushaigust, talle teadaolevalt ta ei põe nakkushaigust ja tal ei ole nakkushaiguse sümptomeid, ning tagama, et tööle asuja või töötaja esitaks nakkushaiguste suhtes tervisekontrolli läbimise kohta kirjaliku tervisetõendi hiljemalt 90 kalendripäeva möödumisel eriolukorra, erakorralise seisukorra või sõjaseisukorra lõppemisest arvates."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "3. peatükk - NAKKUSHAIGUSTE LEVIKU TÕKESTAMINE",
+      "section": "14",
+      "title": "§ 14. Veredoonorluse nakkusohutuse tagamine",
+      "content": "(1) Verekeskus ja tervishoiuteenuse osutaja rakendavad nakkusohutuse meetmeid doonori ja retsipiendi kaitseks.\n(2) Verekeskus ja tervishoiuteenuse osutaja koostavad dokumendi verepreparaatide tootmise ja verepreparaatide kasutamise kohta, järgides vereseaduses (RT I 2005, 13, 63) ja selle alusel kehtestatud õigusaktides sätestatud nõudeid.\n(3) Nakkustekitajate suhtes doonorivere ja verekomponentide uurimise kord kehtestatakse valdkonna eest vastutava ministri määrusega.\n(4) Doonorivere säilitusproovi säilitatakse viis aastat vastavalt käesoleva paragrahvi lõikes 3 nimetatud korra kohaselt. Laboris teostatud uuringuprotseduuride ja nende käigus saadud uuringutulemuste dokumente säilitatakse 15 aastat."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "3. peatükk - NAKKUSHAIGUSTE LEVIKU TÕKESTAMINE",
+      "section": "15",
+      "title": "§ 15. Rakkude, kudede ja elundite hankimise, käitlemise ja siirdamise nakkusohutuse tagamine",
+      "content": "(1) Tervishoiuteenuse osutaja rakendab nakkusohutuse meetmeid retsipiendi ja elusdoonori kaitseks.\n(2) Tervishoiuteenuse osutaja koostab dokumendi rakkude, kudede ja elundite kasutamise kohta.\n(3) Nakkustekitajate suhtes doonori uurimise tingimused ja korra kehtestab valdkonna eest vastutav minister määrusega."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "3. peatükk - NAKKUSHAIGUSTE LEVIKU TÕKESTAMINE",
+      "section": "16",
+      "title": "§ 16. Nakatumise vältimine välisreisil",
+      "content": "Turismiteenuseid pakkuv ettevõtja teeb välisriiki sõitvale isikule teatavaks:\n1) külastatavas riigis nakkushaigustesse nakatumise ohu;\n2) immuniseerimise või ravimite kasutamise otstarbekuse;\n3) võimaluse saada enne reisi arsti nõuannet ja reisi ajal arstiabi ning reisijärgse tervisekontrolli vajalikkuse."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "4. peatükk - NAKKUSHAIGUSTE SEIRE JA TÕRJE KORRALDAMINE",
+      "section": "17",
+      "title": "§ 17. Riigi ülesanded nakkushaiguste seirel ja tõrjel",
+      "content": "(1) Riigi tasandil korraldab nakkushaiguste seiret ja tõrjet Sotsiaalministeerium, kes juhib nakkushaiguste tõrjeks tehtavat tööd.\n(2) Oma haldusala asutustes nakkushaiguste ärahoidmise ja nende leviku tõkestamise meetmeid rakendades ning arstiabi korraldades juhinduvad ministeeriumid käesolevast seadusest ja selle alusel kehtestatud õigusaktidest.\n(3) Justiitsministeerium korraldab kinnipidamisasutuses ning Siseministeerium politsei arestimajas ja -kambris:\n1) võimalikult nakkusohutud tööolud vanglaametnikele, tervishoiutöötajatele ning arestialuste, vahistatute ja kinnipeetavatega vahetult kokkupuutuvatele isikutele;\n2) võimalikult nakkusohutud kinnipidamistingimused arestialustele, vahistatutele ja kinnipeetavatele;\n3) epidemioloogilistel näidustustel kohustusliku tervisekontrolli kinnipeetavatele, kes oma tegevuse iseärasuste tõttu võivad levitada nakkushaigusi toidu ja vee või muude ülekandetegurite kaudu;\n4) tuberkuloosi leviku tõkestamiseks kopsude kohustusliku radiograafilise uuringu arestialustele, vahistatutele ja kinnipeetavatele ning nendega vahetult kokkupuutuvatele vanglaametnikele ja valve- ning tervishoiutöötajatele. Uuringu tegemise kord kehtestatakse valdkonna eest vastutava ministri määrusega.\n(4) Justiitsministeerium ja Siseministeerium tagavad kinnipeetava, vahistatu ja arestialuse transportimise ajal võimalikult nakkusohutud tingimused.\n(5) Justiitsministeerium teeb tervisekaitseametnikele võimalikuks teostada järelevalvet nakkushaiguste tõrje meetmete elluviimise üle kinnipidamisasutuses.\n(6) Justiitsministeerium ja Siseministeerium koos Sotsiaalministeeriumiga korraldavad kinnipidamisasutusest ja politsei arestimajast ning -kambrist vabastamisel tuberkuloosi põdeva isiku ravile suunamise käesolevas seaduses sätestatud korras."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "4. peatükk - NAKKUSHAIGUSTE SEIRE JA TÕRJE KORRALDAMINE",
+      "section": "18",
+      "title": "§ 18. Terviseameti ülesanded nakkushaiguste ennetamisel, seirel ja tõrjel",
+      "content": "(1) Nakkushaiguste ennetamise, seire ja tõrje valdkonnas on pädev asutus Terviseamet, kes:\n1) teeb epidemioloogilisi uuringuid haige nakatumise ja nakkushaiguste leviku asjaolude väljaselgitamiseks, võtab vajaduse korral ühendust nakkushaigete ja kontaktsete isikutega ning juhendab inimeste rühmaviisilise haigestumise korral tõrjemeetmete rakendamist;\n2) teavitab massiteabevahendite kaudu elanikkonda nakkushaiguse esinemisest ja haiguspuhangu tõrje meetmetest;\n3) teeb nakkushaiguse epideemilise leviku ohu korral immuunpreparaatide hankimise ja jaotamise ettepaneku Tervisekassale;\n4) kogub, analüüsib ja avaldab andmeid immuniseerimiste kohta;\n5) korraldab nakkushaiguste seiret, sealhulgas sentinel-seiret, Euroopa Liidu asjakohaste õigusaktide ja Maailma Terviseorganisatsiooni soovituste kohaselt.\n(2) Nakkushaiguste epidemioloogilise riskianalüüsi ja riskihindamise valdkonnas on pädev asutus Terviseamet, kes määrab ja hindab:\n1) nakkushaiguste leviku tendentse;\n2) immuniseerimisega hõlmatust.\n(3) Nakkushaiguste rahvusvahelises tõrjes osalemisel on volitatud asutus Terviseamet, kes käitleb Haiguste Ennetamise ja Tõrje Euroopa Keskuse varajase teavitamise ja reageerimise süsteemi Eestis.\n(4) Terviseamet on Maailma Terviseorganisatsiooni ja Euroopa Komisjoni volitatud kontaktasutus bioloogiliste ohutegurite osas seoses rahvusvaheliste tervise-eeskirjade rakendamisega.\n(5) Terviseamet osaleb pädeva asutusena Maailma Terviseorganisatsiooni ning Haiguste Ennetamise ja Tõrje Euroopa Keskuse haigusspetsiifilises epidemioloogilises tegevuses, sealhulgas rahvusvahelistes haiguste tõrje programmides, täites nakkushaiguste asjakohastes uuringuvaldkondades riikliku referentlabori rolli.\n(6) Käesolevas seaduses ettenähtud ülesandeid täites teeb Terviseamet koostööd kohalike omavalitsustega nakkushaiguste ennetamiseks, seireks, leviku tõkestamiseks ja tõrjeks.\n(7) Terviseamet on nakkushaiguste rahvusvahelises tõrjes osaledes kohustatud teavitama teisi riike nakkushaiguse esinemisest ja haiguspuhangu tõrje meetmetest. Nakkushaiguste tõrjeks tehtava rahvusvahelise koostöö ja teavitamise nõuded ning korra kehtestab Vabariigi Valitsus.\n(8) Terviseamet osutab tervishoiuteenuseid tervishoiuteenuste korraldamise seaduse eriarstiabi osutamist reguleerivate sätete kohaselt. Eriarstiabi osutamisel ei kohaldata Terviseameti suhtes tervishoiuteenuste korraldamise seaduse § 21 lõikes 1 sätestatud juriidilise isiku vormi nõudeid."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "4. peatükk - NAKKUSHAIGUSTE SEIRE JA TÕRJE KORRALDAMINE",
+      "section": "19",
+      "title": "§ 19. Nakkushaiguskahtlus ja haiguse diagnoosimine",
+      "content": "(1) Nakkushaiguskahtlus tekib, kui inimesel ilmnevad nakkushaigusele iseloomulikud kliinilised nähud või kui ta on otse või kaudselt kokku puutunud nakatunud inimese või loomaga. Kahtlust võivad kinnitada laboriuuringu tulemused.\n(2) Eriti ohtliku nakkushaiguse kahtluse korral on arst kohustatud sellest viivitamata teavitama Terviseametit.\n(3)\n(4) Inimpatogeensete haigustekitajate avastamisega tegelev mikrobioloogia-, viroloogia- või parasitoloogialabor ja nimetatud valdkondades uurimistööd tegev teaduslabor on kohustatud eriti ohtliku nakkushaiguse kahtlusest või diagnoosimisest viivitamata teavitama Terviseametit.\n(5) Käesoleva paragrahvi lõigetes 2 ja 4 nimetatud teave edastatakse koos andmesubjekti isikuandmetega.\n(5^1) Inimpatogeensete haigustekitajate avastamisega tegelev mikrobioloogia-, viroloogia- ja parasitoloogialabor on kohustatud saatma asjakohases uuringuvaldkonnas tegutsevale referentlaborile uuringumaterjalid täiendavaks uuringuks. Uuringumaterjali kogumisel, hoidmisel ja transportimisel järgib labor referentlabori koostatud juhendeid.\n(6) Terviseametil on õigus saata nakkushaiguse diagnoosimiseks uurimismaterjali pseudonüümitud viisil välisriigi asjaomasesse laborisse või rahvusvahelisse referentlaborisse nakkushaiguste ennetamise ning tõrje eesmärgi tagamiseks."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "4. peatükk - NAKKUSHAIGUSTE SEIRE JA TÕRJE KORRALDAMINE",
+      "section": "20",
+      "title": "§ 20. Nakkushaigusjuhtumite registreerimine ja nakkushaiguste register",
+      "content": "(1) Nakkushaigusjuhtumid registreeritakse nakkushaiguste andmekogus (edaspidi register ), mida peetakse nakkushaigusjuhtumite registreerimiseks, nakkushaiguste levikutendentside selgitamiseks, nakkushaiguste ennetamiseks, tõrje ja tervishoiuteenuste korraldamiseks, tervisepoliitika väljatöötamiseks, nakkushaiguste haigestumuse, levimuse ja suremuse analüüsimiseks, diagnostika ja ravikäsitluse hindamiseks ning statistika ja teadusliku uurimistöö, sealhulgas epidemioloogiliste uuringute tegemiseks.\n(2) Registri asutab ja selle põhimääruse kehtestab valdkonna eest vastutav minister määrusega, milles sätestatakse:\n1) andmekogu volitatud töötleja, kui volitatud töötleja on määratud, ning töötlejate ülesanded;\n2) andmekogusse kogutavate andmete täpsem koosseis ja andmekogusse kandmise kord;\n3) andmetele juurdepääsu ja andmete väljastamise kord;\n4) andmeandjate loetelu ning nendelt saadavad andmed;\n5) muud korraldusküsimused.\n(3) Andmed nakkushaiguskahtluse ja haiguse diagnoosimise ning haigestumise ohutegurite ja haigestumise ärahoidmise kohta registreeritakse arsti poole pöördumise kohas.\n(4) Registris töödeldakse järgmisi andmeid:\n1) nakkushaige üldandmed olenevalt teatisest – ees- ja perekonnanimi, isikukood, sünniaeg ning sugu;\n2) nakkushaige muud andmed olenevalt teatisest – haridus, amet, töökoht või õppeasutus, kontaktandmed, sealhulgas elukoht, sünnikoht, rahvus ja sotsiaal-majanduslik seisund;\n3) nakkushaige terviseandmed olenevalt teatisest – diagnoosi, haigestumise, immuniseerimise, uurimismaterjali, uuringumeetodi ja -tulemuse, haigustekitaja ja selle tundlikkuse, testimise põhjuste, nakatumise asjaolude ja oletatava levikutee, hospitaliseerimise ning ravi kohta;\n4) HIV levikul emalt lapsele või seksuaalsel teel nakatunu nakkusallikas, riskirühma kuulumine, sünnitusviis, profülaktika raseduse ajal ja sünni järel, parenteraalsel nakatumisel ka nakatumise viis;\n5) AIDSi indikaatorhaigused;\n6) nakkushaige surma kuupäev ja põhjus;\n7) tervishoiuteenuse osutaja andmed;\n8) teatise registreerimise andmed.\n(5) Registri andmeid säilitatakse tähtajatult. Logisid ja alusandmeid säilitatakse vastavalt registri põhimääruses sätestatule.\n(6) Registri vastutav töötleja on Terviseamet."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "4. peatükk - NAKKUSHAIGUSTE SEIRE JA TÕRJE KORRALDAMINE",
+      "section": "21",
+      "title": "§ 21. Teabe edastamine",
+      "content": "(1) Tervishoiuteenuse osutaja edastab nakkushaiguskahtluse ja haiguse diagnoosimise ning haigestumise ohutegurite ja ennetamise kohta teavet Terviseametile käesoleva seadusega kehtestatud alusel ja korras.\n(2) Toidumürgituse ja haiguse kiire leviku kahtlusest või haiguse kiirest levimisest teatab tervishoiuteenuse osutaja viivitamata Terviseametile.\n(3) Terviseamet teavitab katku, koolera, kollapalaviku ja viiruslike hemorraagiliste palavike esinemisest Häirekeskust.\n(4) Mikrobioloogilisi, viroloogilisi, parasitoloogilisi ja seroloogilisi uuringuid tegevad laborid edastavad uuringutulemused uurimismaterjali saatnud arstile. Uuringutulemused nende haiguste kohta, mis viitavad registreeritavatele nakkustele, edastatakse uuritava isiku elukoha järgsele Terviseametile.\n(5) Kaitseministeerium, Siseministeerium ja Justiitsministeerium teevad Terviseametile teatavaks nende haldusalas olevates asutustes nakkushaiguste esinemise ja haigustega seotud ohutegurid käesolevas seaduses kehtestatud korras.\n(6) Maaeluministeeriumi haldusala asutused ning hallatavad asutused edastavad Terviseametile teavet toidus ja toidu käitlemise eri etappides avastatud zoonoossete haigustekitajate ning loomadel diagnoositud zoonooside kohta.\n(6^1) Teave nakkushaiguskahtluse või nakkushaiguse diagnoosimise kohta edastatakse vajadusel koos andmesubjekti isikuandmetega. Nende nakkushaiguste loetelu, mille korral on vajalik andmete edastamine koos andmesubjekti isikuandmetega, kehtestatakse valdkonna eest vastutava ministri määrusega.\n(7) Käesoleva paragrahvi lõigetes 1, 4, 5 ja 6 nimetatud teabe edastamise kord ja edastatavate andmete koosseis kehtestatakse valdkonna eest vastutava ministri määrusega.\n(8) Rahvusvahelises kokkuleppes nimetatud ohutegurite või piiriüleste terviseohtude tuvastamisest on Terviseamet kohustatud Maailma Terviseorganisatsioonile teatama ohuteguri või rahvastiku tervist ohustava sündmuse tuvastamisest alates 24 tunni jooksul.\n(9) Euroopa Liidu Komisjoni koostatud loetelusse kuuluvate nakkushaiguste diagnoosimise on Terviseamet kohustatud tegema teatavaks Euroopa Liidu nakkushaiguste epidemioloogilise järelevalve ja tõrje asutusele."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "4. peatükk - NAKKUSHAIGUSTE SEIRE JA TÕRJE KORRALDAMINE",
+      "section": "22",
+      "title": "§ 22. Nakkushaiguste tõrje nõuded",
+      "content": "(1) Nakkushaiguste tõrje nõuetes nähakse ette nakkushaiguste tõrje ja epideemilise leviku tõkestamise juhised.\n(2) Nakkushaiguste tõrje nõudeid on kohustatud täitma tervishoiutöötaja, tervisekaitseametnik, nakkushaiguse levialal viibiv isik ja teised oma tööülesannete tõttu nakkushaiguste tõrjega seotud isikud.\n(3) Nakkushaiguste tõrje nõuded ja meetmed kehtestatakse valdkonna eest vastutava ministri määrusega.\n(4) Ravimresistentset tuberkuloosi põdevate ja ravinõudeid rikkuvate patsientide ravimise kord kehtestatakse valdkonna eest vastutava ministri määrusega.\n(5) Eestis varem mitteesinenud nakkushaiguse ja uudse ohtliku nakkushaiguse tõrje nõuded ning meetmed, mis ei ole kehtestatud käesoleva paragrahvi lõike 3 alusel, töötab välja Terviseamet, lähtudes oma pädevusest ja volitustest, ning teavitab neist asjassepuutuvaid isikuid."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "4. peatükk - NAKKUSHAIGUSTE SEIRE JA TÕRJE KORRALDAMINE",
+      "section": "23",
+      "title": "§ 23. Haiglanakkuse seire, ennetamine ja tõrje",
+      "content": "(1) Haiglanakkus on nakkus, mida patsiendil ei olnud enne haiglasse või teise tervishoiuteenust osutavasse ettevõttesse minekut või mis ei ole eelmises sellises asutuses viibimise jääknäht, vaid on tekkinud patsiendil seal viibimise ajal või seal saadud ravi tagajärjel ja mille tunnused ilmnevad kas seal viibimise ajal või pärast sealt lahkumist.\n(2) Tervishoiuteenuse osutaja poolt rakendatavate haiglanakkuste seire, ennetamise ja tõrje abinõud ning sellekohase teabe edastamise kord kehtestatakse valdkonna eest vastutava ministri määrusega.\n(3) Mikrobioloogia- ja viroloogialabori haiglanakkuse laboratoorse seire ning mikroobide ravimresistentsuse uurimise tulemuste Terviseametile edastamise kord kehtestatakse valdkonna eest vastutava ministri määrusega."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "4. peatükk - NAKKUSHAIGUSTE SEIRE JA TÕRJE KORRALDAMINE",
+      "section": "24",
+      "title": "§ 24. Tööandja kohustused nakkushaiguste tõrjel",
+      "content": "Tööandja on kohustatud:\n1) looma tööaladel, kus on nakkushaigusesse nakatumise oht, töötajatele võimalikult nakkusohutud tööolud;\n2) tagama nakkusohutusnõuete täitmise töötamiskohal;\n3) tagama käesoleva paragrahvi punktis 1 nimetatud tööalade töötajate immuniseerimise ja vajadusel ennetava ravi;\n4) lubama töötajal nakkushaiguse või haiguskandluse avastamiseks käia tööajal terviseuuringul või vältimatu abi korras immuniseerimisel;\n5) vältima haigustekitajate levikut toorme või valmistoodangu käitlemisel;\n6) hoolitsema nakkusohtlike jäätmete kahjutustamise eest."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "5. peatükk - NAKKUSHAIGUSTE EPIDEEMILISE LEVIKU TÕKESTAMINE",
+      "section": "25",
+      "title": "§ 25. Eriti ohtliku nakkushaiguse leviku tõkestamise nõuded",
+      "content": "(1)\n(2) Eesti riigipiiril eriti ohtlike nakkushaiguste leviku tõkestamise kord ja tingimused kehtestatakse Vabariigi Valitsuse määrusega."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "5. peatükk - NAKKUSHAIGUSTE EPIDEEMILISE LEVIKU TÕKESTAMINE",
+      "section": "26",
+      "title": "§ 26. Nakkushaiguste leviku tõkestamine eriolukorra ajal",
+      "content": "Nakkushaiguse leviku tõkestamiseks eriolukorra ajal rakendatakse hädaolukorra seadust."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "5. peatükk - NAKKUSHAIGUSTE EPIDEEMILISE LEVIKU TÕKESTAMINE",
+      "section": "27",
+      "title": "§ 27. Karantiini kehtestamine ja lõpetamine",
+      "content": "(1) Karantiin on eriti ohtliku nakkushaiguse haiguskoldest väljapoole leviku vältimiseks või tõkestamiseks kohaldatav:\n1) viibimiskeeld korrakaitseseaduse tähenduses;\n2) isikute, kaupade ja sõidukite teatud territooriumil liikumise või sellelt lahkumise piirang või\n3) teenuste osutamise piirang.\n(2) Käesoleva seaduse tähenduses on haiguskolle piiritletud territoorium, kus asuvad haiged või nakkuskahtlased isikud ning kus elanikud on tervisekaitseasutuse tugevdatud järelevalve all.\n(3) Karantiini kehtestab Terviseamet haldusaktiga. Kui karantiini kohaldamisega kaasneb oluline mõju ühiskonnale või majandusele, kehtestab karantiini Vabariigi Valitsus korraldusega. Karantiini kehtivuse aeg määratakse kindlaks haldusaktis. Haldusaktis määratud karantiini kehtivusaega võib pikendada kuni käesoleva paragrahvi lõikes 5 sätestatud eesmärk on saavutatud.\n(3^1) Käesoleva paragrahvi lõikes 3 nimetatud karantiini kehtestamisel kaasatakse viivitamatult asjassepuutuvad isikud vastavalt haldusmenetluse seaduse §-s 40 sätestatule.\n(4) Karantiininõuded ja nende täitmise järelevalve kord kehtestatakse valdkonna eest vastutava ministri määrusega.\n(5) Karantiini lõpetab haldusorgan, kes karantiini kehtestas, kui nakkushaiguse levik on tõkestatud, nakkushaiguse tõrje nõuded on täidetud ja haiguskolle kahjutustatud. Kui karantiini on samas haiguskoldes kehtestanud nii Terviseamet kui ka Vabariigi Valitsus, loetakse Terviseameti haldusaktist tulenevad õigused ja kohustused lõppenuks Vabariigi Valitsuse haldusakti jõustumisest osas, milles need õigused ja kohustused on erinevad või vastuolulised.\n(6) Teabe karantiini kehtestamise ja lõpetamise kohta võib avaldada massiteabevahendis, kui haldusakti adressaatide arv on suurem kui 50.\n(7) Haldusakt karantiini kehtestamise ja lõpetamise kohta jõustub selle teatavaks tegemisel vahetule adressaadile või selle avaldamisel massiteabevahendis, kui haldusaktis eneses ei sätestata teist tähtaega."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "5. peatükk - NAKKUSHAIGUSTE EPIDEEMILISE LEVIKU TÕKESTAMINE",
+      "section": "28",
+      "title": "§ 28. Nakkushaiguste epideemilise leviku tõkestamine",
+      "content": "(1) Nakkushaiguste epideemilisest levikust tuleneva ohu üle otsustab Terviseamet talle laekuvate epidemioloogiliste, laboratoorsete ja kliiniliste andmete alusel.\n(2) Nakkushaiguste epideemilise leviku tõkestamiseks võib Terviseamet haldusaktiga:\n1) ajutiselt sulgeda koole ning lasteasutusi ja sotsiaalteenuseid osutavaid asutusi või piirata nende tegevust;\n2) nõuda desinfektsiooni, desinsektsiooni, kahjuritõrje või puhastuse korraldamist;\n3) nõuda inimeste terviseuuringute korraldamist ja nakkushaiguse diagnoosimist või selle korraldamist, arvestades käesoleva paragrahvi lõikes 3 sätestatut;\n4) kohustada haiglat ja sotsiaalteenust osutavat asutust kehtestama külastuspiirangu;\n5) kohustada isikuid järgima nakkusohutuse ettevaatusabinõusid.\n(3) Käesoleva paragrahvi lõike 2 punktis 3 nimetatud terviseuuringuks ja nakkushaiguse diagnoosimiseks võib kohustada isikuid, kes asuvad haiguskoldes või piirkonnas, kus on oht haiguskolde tekkimiseks, ja nendega seotud nakkuskahtlaseid isikuid. Terviseuuringust ja nakkushaiguse diagnoosimisest keeldumisel võib kohaldada isikute suhtes käesolevas seaduses sätestatud viibimiskeeldu või liikumisvabaduse piirangut.\n(4) Lasteasutuse ja sotsiaalteenuseid osutava asutuse pidaja võib ajutiselt sulgeda enda juhitava asutuse, kooskõlastades selle Terviseametiga.\n(5) Eriti ohtliku nakkushaiguse leviku tõkestamiseks võib Terviseamet, kui see on vältimatult vajalik, haldusaktiga lisaks käesoleva paragrahvi lõikes 2 sätestatud meetmetele ja piirangutele ajutiselt:\n1) sulgeda asutusi ja ettevõtteid või piirata nende tegevust;\n2) keelata avalike koosolekute pidamise ja avalike ürituste korraldamise või kehtestada nende pidamisele ja korraldamisele nõudeid;\n3) kehtestada muid liikumisvabaduse piiranguid.\n(6) Kui käesoleva paragrahvi lõigetes 2 ja 5 sätestatud meetmete ja piirangute kohaldamine toob kaasa olulise ühiskondliku või majandusliku mõju, kehtestab need Vabariigi Valitsus korraldusega.\n(7) Käesoleva paragrahvi alusel kehtestatud nõuded, meetmed ja piirangud lõpetab vajaduse äralangemisel haldusorgan, kes need kehtestas. Kui nõuded, meetmed ja piirangud on sama adressaadi suhtes kehtestanud nii Terviseamet kui ka Vabariigi Valitsus, loetakse Terviseameti haldusaktist tulenevad õigused ja kohustused lõppenuks Vabariigi Valitsuse haldusakti jõustumisest osas, milles need õigused ja kohustused on erinevad või vastuolulised.\n(8) Uudse ohtliku nakkushaiguse leviku tõkestamiseks võib rakendada muu hulgas nõudeid, meetmeid ja piiranguid, mis on seaduses või seaduse alusel ette nähtud eriti ohtliku nakkushaiguse leviku tõkestamiseks.\n(9) Teabe käesolevas paragrahvis sätestatud nõuete, meetmete ja piirangute kehtestamise ning lõpetamise kohta võib avaldada massiteabevahendis, kui haldusakti adressaatide arv on suurem kui 50.\n(10) Haldusakt käesolevas paragrahvis sätestatud nõuete, meetmete ja piirangute kehtestamise ning lõpetamise kohta jõustub selle teatavaks tegemisel vahetule adressaadile või selle avaldamisel massiteabevahendis, kui haldusaktis eneses ei sätestata teist tähtaega.\n(11) Isikut, keda käesolevas paragrahvis nimetatud piirangud puudutavad, kaasatakse viivitamatult vastavalt haldusmenetluse seaduse §-s 40 sätestatule.\n(12) Nakkushaiguste epideemilise leviku tõkestamiseks rakendatakse vajaduse korral hädaolukorra seadust."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "6. peatükk - NAKKUSOHTLIKU MATERJALI KÄITLEMINE",
+      "section": "30",
+      "title": "§ 30. Nakkusohtliku materjali käitlemine",
+      "content": "(1) Nakkusohtlik on materjal, mis sisaldab baktereid, viiruseid, mikroskoopilisi seeni, nakatatud rakukultuure, inimese endoparasiite või nakkushaigusi põhjustavaid muid bioloogiliselt aktiivseid tegureid.\n(2) Nakkusohtliku materjali käitlemine käesoleva seaduse tähenduses on käesoleva paragrahvi lõikes 1 nimetatud materjali proovi võtmine, vedu, töötlemine, uurimine, säilitamine ja kahjutustamine.\n(3) Nakkusohtliku materjali käitlemisel tuleb tagada nakkuse leviku vältimine. Nakkusohtliku materjali käitlemise kord kehtestatakse valdkonna eest vastutava ministri määrusega.\n(4) Nakkusohtlikku materjali võivad käidelda tervishoiuteenuse osutajad ja muud juriidilised ja füüsilised isikud, kellele Terviseamet on väljastanud nakkusohtliku materjali käitlemise tegevusloa käesoleva seaduse §-des 32–36 sätestatud korras.\n(5) Nõuded nakkusohtlikku materjali käitleva isiku laboriruumidele, sisseseadele ja tehnoloogiale ning rakendatavatele ohutusmeetmetele kehtestatakse valdkonna eest vastutava ministri määrusega.\n(6) Nakkusohtliku materjali uurimise eest vastutav laboritöötaja peab olema arsti- või bioloogikutsega isik."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "6. peatükk - NAKKUSOHTLIKU MATERJALI KÄITLEMINE",
+      "section": "32",
+      "title": "§ 32. Nakkusohtliku materjali käitlemise tegevusloa taotlemine Terviseametilt",
+      "content": "(1) Käesoleva seaduse § 30 lõikes 4 nimetatud isik esitab nakkusohtliku materjali käitlemise tegevusloa saamiseks Terviseametile järgmised andmed ja dokumendid:\n1) avalduse, milles märgitakse taotleja nimi ning tegevuskoha asukoht ja aadress;\n2) asutamisel oleva juriidilise isiku puhul asutamislepingu või -otsuse ja põhikirja või ühingulepingu ärakirjad;\n3) füüsilisest isikust ettevõtja puhul ettevõtja nime, isikukoodi, elukoha ja ärinime;\n4) uuringuteenuste loetelu, milleks tegevusluba taotletakse;\n5) nakkusohtliku materjali uurimisega tegelevate töötajate kutsetunnistuste ärakirjad;\n6) andmed labori ruumide, sisseseade ja tehnoloogia kohta;\n7) andmed rakendatavate ohutusmeetmete kohta;\n8) taotleja sidevahendite numbrid.\n(2) Enne taotluse esitamist tasub tegevusloa taotleja riigilõivu.\n(3) Kui tegevusloa taotleja jätab esitamata käesoleva paragrahvi lõikes 1 nimetatud andmed või dokumendid või kui taotluses on muid puudusi, määrab Terviseamet tegevusloa taotlejale tähtaja puuduste kõrvaldamiseks.\n(4) Taotluse esitamise kuupäevaks on käesoleva paragrahvi lõikes 1 nimetatud nõuetekohaste andmete ja dokumentide Terviseametisse saabumise aeg."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "6. peatükk - NAKKUSOHTLIKU MATERJALI KÄITLEMINE",
+      "section": "33",
+      "title": "§ 33. Tegevusloa väljaandmise otsustamine",
+      "content": "Tegevusloa väljaandja kontrollib taotleja esitatud dokumente ja andmeid ning teeb otsuse tegevusloa väljaandmise või sellest keeldumise kohta käesoleva seaduse §-s 32 nimetatud dokumentide ja andmete esitamisest alates hiljemalt ühe kuu jooksul."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "6. peatükk - NAKKUSOHTLIKU MATERJALI KÄITLEMINE",
+      "section": "34",
+      "title": "§ 34. Tegevusloa väljaandmine",
+      "content": "(1) Tegevusloa annab välja Terviseamet.\n(2) Tegevusluba antakse välja vastava otsuse tegemisest alates 10 tööpäeva jooksul.\n(3) Tegevusloa väljaandmise otsus avaldatakse ametlikus väljaandes Ametlikud Teadaanded."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "6. peatükk - NAKKUSOHTLIKU MATERJALI KÄITLEMINE",
+      "section": "35",
+      "title": "§ 35. Tegevusloas esitatavad andmed ja tingimused",
+      "content": "Tegevusloas esitatakse:\n1) tegevusloa omaja nimi ning tegevuskoht ja aadress, füüsilisest isikust ettevõtja puhul ka isikukood, elukoht ja ärinimi;\n2) tegevusloa number ja väljaandmise kuupäev;\n3) uuringuteenuste loetelu."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "6. peatükk - NAKKUSOHTLIKU MATERJALI KÄITLEMINE",
+      "section": "36",
+      "title": "§ 36. Tegevusloa väljaandmisest keeldumine",
+      "content": "(1) Tegevusluba ei väljastata, kui tegevusloa taotleja:\n1) ei ole esitanud kõiki käesoleva seaduse § 32 lõikes 1 nimetatud dokumente või andmeid või kui taotluses on muid puudusi, mida taotleja ei ole käesoleva seaduse § 32 lõikes 3 nimetatud tähtaja jooksul kõrvaldanud;\n2) ei vasta nakkusohtliku materjali käitlejale kehtestatud nõuetele;\n3) esitab valeandmeid;\n4) on pankrotis.\n(2) Tegevusloa väljaandja teatab tegevusloa taotlejale tegevusloa väljaandmisest keeldumisest kirjalikult keeldumisotsuse tegemisest alates 10 tööpäeva jooksul. Teates esitatakse tegevusloa väljaandmisest keeldumise põhjused viitega sellekohasele seadussättele."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "6. peatükk - NAKKUSOHTLIKU MATERJALI KÄITLEMINE",
+      "section": "37",
+      "title": "§ 37. Tegevusloa kehtivus",
+      "content": "Tegevusluba kehtib selle väljaandmisest alates viis aastat."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "6. peatükk - NAKKUSOHTLIKU MATERJALI KÄITLEMINE",
+      "section": "38",
+      "title": "§ 38. Tegevusloa kehtetuks tunnistamine",
+      "content": "(1) Tegevusloa väljaandja tunnistab tegevusloa kehtetuks, kui:\n1) seda taotleb tegevusloa omaja ise;\n2) labori ruumid, sisseseade, tehnoloogia või rakendatavad ohutusmeetmed ei vasta käesoleva seaduse § 30 lõike 5 alusel kehtestatud nõuetele;\n3) nakkusohtliku materjali uurimise eest vastutava töötaja kvalifikatsioon ei vasta käesoleva seaduse § 30 lõikes 6 sätestatud nõuetele;.\n4) nakkusohtliku materjali käitlemisel ei täideta käesoleva seaduse § 30 lõike 3 alusel kehtestatud nõudeid;\n5) tegevusloas nimetatud uuringute tegemist ei ole alustatud loa andmisest alates ühe aasta jooksul;\n6) tegevusloa omaja teeb uuringuid, mis ei ole loetletud talle väljastatud tegevusloas.\n(2) Tegevusloa kehtetuks tunnistamise otsuses esitatakse:\n1) tegevusloa omaja nimi, tegevuskoht ja aadress, füüsilisest isikust ettevõtja puhul tema nimi, isikukood, elukoht ja ärinimi;\n2) tegevusloa number ja väljaandmise kuupäev;\n3) tegevusloa kehtetuks tunnistamise tinginud asjaolud ja viide seadussättele, mille alusel tegevusluba kehtetuks tunnistatakse;\n4) otsuse tegemise kuupäev;\n5) otsuse tegija nimi, ametinimetus ja allkiri.\n(3) Tegevusloa kehtetuks tunnistamise otsus tehakse tegevusloa omajale teatavaks otsuse tegemisest alates viie tööpäeva jooksul. Tegevusloa kehtetuks tunnistamise otsus avaldatakse ametlikus väljaandes Ametlikud Teadaanded."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "6. peatükk - NAKKUSOHTLIKU MATERJALI KÄITLEMINE",
+      "section": "39",
+      "title": "§ 39. Tegevusloa osaline kehtetuks tunnistamine",
+      "content": "(1) Kui tegevusloa kehtetuks tunnistamise alused esinevad vaid mõnede uuringute osas, võib tegevusloa tunnistada osaliselt kehtetuks, piirates tegevusloas esitatud uuringute loetelu.\n(2) Tegevusloa osaliselt kehtetuks tunnistamisel esitatakse vastavas otsuses lisaks käesoleva seaduse § 38 lõikes 4 nimetatud andmetele need uuringud, mille kohta tegevusloa kehtetuks tunnistamise otsus kehtib.\n(3) Tegevusloa osaliselt kehtetuks tunnistamise otsus tehakse tegevusloa omajale teatavaks otsuse tegemisest alates viie tööpäeva jooksul. Tegevusloa osaliselt kehtetuks tunnistamise otsus avaldatakse ametlikus väljaandes Ametlikud Teadaanded."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "6. peatükk - NAKKUSOHTLIKU MATERJALI KÄITLEMINE",
+      "section": "40",
+      "title": "§ 40. Uue tegevusloa taotlemine",
+      "content": "(1) Tegevusloa omaja peab taotlema uue tegevusloa väljaandmist, kui:\n1) loa kehtivusaeg lõpeb;\n2) ta soovib muuta loas esitatud uuringuteenuste loetelu.\n(2) Uus tegevusluba antakse välja käesoleva seaduse §-des 32–36 sätestatud korras.\n(3) Uue tegevusloa taotlemiseks esitab selle taotleja need käesoleva seaduse §-s 32 loetletud andmed ja dokumendid, mis ei sisalda Terviseametile juba teadaolevat informatsiooni."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "6. peatükk - NAKKUSOHTLIKU MATERJALI KÄITLEMINE",
+      "section": "41",
+      "title": "§ 41. Referentlabor",
+      "content": "(1) Referentlabor on käesoleva seaduse tähenduses labor, mis osutab referentteenust käesolevas paragrahvis nimetatud uuringuvaldkondades kõrge tundlikkuse ja spetsiifilise diagnostika meetodiga.\n(2) Referentlaborina võib tegutseda labor, mille on asjakohastes uuringuvaldkondades akrediteerinud Eesti või välisriigi rahvusvaheliselt tunnustatud akrediteerimisorgan.\n(3) Referentlabori uuringuvaldkonnad on:\n1) HI-viirused;\n2) gripi- ja muud respiratoorsed viirused;\n3) muud viirused;\n4) tuberkuloosi- ja mükobakteriooside tekitajad;\n5) sugulisel teel levivate nakkushaiguste tekitajad;\n6) invasiivsete bakteriaalsete nakkushaiguste tekitajad;\n7) muude bakteriaalsete nakkushaiguste tekitajad;\n8) antimikroobne resistentsus.\n(4) Referentlabori ülesanded referentteenuse osutamisel oma uuringuvaldkondades on:\n1) korraldada ja koordineerida laboratoorse diagnostika kvaliteedijuhtimist;\n2) nõustada teisi laboreid laboratoorse diagnostika metoodika alal;\n3) koostada ja ajakohastada laboratoorse uuringumaterjali kogumise, hoidmise ja transportimise juhendeid;\n4) vajaduse korral kinnitada laboratoorseid diagnoose;\n5) määrata kindlaks uuringuks saadetud haigustekitajate tüved, neid koguda ja säilitada;\n6) koguda ja analüüsida laboriseire andmeid;\n7) edastada uuringu tulemused nakkushaiguste registrile vastavalt käesoleva seaduse § 21 lõigetele 6^1 ja 7;\n8) teha koostööd vastavate uuringuvaldkondade rahvusvaheliste referentlaborite ja institutsioonidega.\n(5) Referentteenuse osutamist käesolevas paragrahvis nimetatud uuringuvaldkondades korraldab Terviseamet. Referentteenuse osutamiseks võib Terviseameti peadirektor sõlmida käesoleva seaduse nõuetele vastava laboriga viieaastase tähtajaga lepingu."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "7. peatükk - NAKKUSHAIGUSTE ENNETAMISE, SEIRE JA TÕRJE RAHASTAMINE",
+      "section": "42",
+      "title": "§ 42. Nakkushaiguste ennetamise, seire ja tõrje rahastamine",
+      "content": "(1) Riigieelarvest Sotsiaalministeeriumi kaudu rahastatakse:\n1)\n2) referentlaborile esitatud riikliku tellimuse täitmist.\n(1^1) Tervisekassa eelarvest rahastatakse antiretroviirusravimeid ja tuberkuloosiravimeid ning tuberkuloosiravimitega seonduvaid kõrvaltoimeravimeid.\n(1^2) Tervisekassa eelarvest rahastatakse immuniseerimiskava täitmiseks ja vältimatu abi korras immuniseerimiseks vajalike vaktsiinide ning immuunglobuliinide hankimist, säilitamist, vedu ja külmahela toimimist ning elanike immuunsustausta uuringuid.\n(2) Riigieelarvest Kaitseministeeriumi kaudu rahastatakse välismissioonile saadetavate kaitseväelaste täiendavat immuniseerimist.\n(3) Immuniseerimist, mis ei kuulu immuniseerimiskavasse ja mida tehakse isiku soovil või arsti soovitusel, ei rahastata riigieelarvest.\n(4) Tööandja rahastab:\n1) töötaja tervise kaitseks vajalikku immuniseerimist ja ennetavat ravi neil tegevusaladel, kus töö iseärasuste tõttu on nakatumisoht;\n2) töötaja täiendavat tervisekontrolli neil tegevusaladel, kus töö iseärasused võivad soodustada nakkushaiguste levikut.\n(5) Tööandja ei ole kohustatud rahastama töövõtja tervisekontrolli nakkushaiguste suhtes enne tema tööleasumist tegevusaladel, kus töö iseärasused võivad soodustada nakkushaiguste levikut.\n(6) Valla- või linnaeelarvest võib rahastada nakkushaiguste ennetamist ja tõrjet.\n(7) Ravikindlustuse eelarvest võib rahastada nakkushaiguste ennetamist ja tõrjet."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "7. peatükk - NAKKUSHAIGUSTE ENNETAMISE, SEIRE JA TÕRJE RAHASTAMINE",
+      "section": "43",
+      "title": "§ 43. Nakkushaiguste epideemilise leviku tõkestamise rahastamine",
+      "content": "(1) Nakkushaiguste epideemilise leviku tõkestamist rahastatakse riigieelarvest vastavalt Vabariigi Valitsuse korraldusele.\n(2) Käesoleva paragrahvi lõikes 1 sätestatud korras ei hüvitata kulutusi:\n1) mida tehes on juriidiline või füüsiline isik rikkunud käesoleva seaduse või selle alusel kehtestatud õigusaktide nõudeid või tervisekaitseametniku ettekirjutust;\n2) mis on tehtud enne nakkushaiguse epideemilise leviku kahtluse tekkimist."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "44",
+      "title": "§ 44. Riiklik ja haldusjärelevalve",
+      "content": "(1) Riiklikku ja haldusjärelevalvet käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuete täitmise üle teostab Terviseamet.\n(2) Järelevalvet käesoleva seaduse § 13 lõike 1 punktide 1 ja 2 nõuete täitmise üle teeb Põllumajandus- ja Toiduamet. Põllumajandus- ja Toiduamet teostab järelevalvet joogivee käitleja üle toiduseaduses sätestatud ulatuses."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "45",
+      "title": "§ 45. Riikliku järelevalve erimeetmed ja sunnivahendi rakendamise erisused",
+      "content": "(1) Korrakaitseorgan võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30, 31, 32, 44, 49, 50 ja 51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras.\n(2) Korrakaitseorgan võib korrakaitseseaduse §-s 46 sätestatud korras vältimatu vajaduse korral nakkushaige kinni pidada toimetamiseks tema elu- või viibimiskohta, kui ta on enda või teiste elule või tervisele ohtlik ja ta ei ole järginud või ei järgi käesolevas seaduses ja selle alusel kehtestatud nõudeid ning kui muud järelevalvemeetmed ei ole tulemuslikud.\n(3) Käesoleva seaduse alusel Vabariigi Valitsuse või Terviseameti antud haldusaktis sätestatud nõuete, meetmete ja piirangute täitmise tagamiseks määratud sunnivahendit rakendab Terviseamet."
+    },
+    {
+      "provision_ref": "para45^2",
+      "chapter": "8. peatükk - RIIKLIK JA HALDUSJÄRELEVALVE",
+      "section": "45^2",
+      "title": "§ 45^2. Korrakaitseorgani kaasamine",
+      "content": "(1) Terviseamet võib kaasata eriolukorras või hädaolukorras, mis on seotud nakkushaiguse epideemiaga, oma ülesannete täitmisse korrakaitseorgani juhul ja nii kaua, kui ta ei saa ise õigel ajal või piisavalt tulemuslikult neid ülesandeid täita. Korrakaitseorgani kaasamise otsustab Vabariigi Valitsus.\n(2) Käesoleva paragrahvi lõike 1 alusel kaasatud korrakaitseorganil on ülesande täitmisel Terviseameti volitused ulatuses, milliste ülesannete täitmisse korrakaitseorgan kaasati.\n(3) Terviseameti ülesannete täitmisse kaasatud korrakaitseorgan võib töödelda isikuandmeid, sealhulgas eriliiki isikuandmeid, vastavalt ülesandele, milleks ta kaasati.\n(4) Käesoleva paragrahvi lõike 1 alusel kaasatud korrakaitseorgani ametnikul või töötajal peab olema ülesande täitmiseks vastav väljaõpe, teadmised ja oskused.\n(5) Kui Terviseamet kaasab ülesannete täitmisse Politsei- ja Piirivalveameti, siis ülesannetesse kaasatuna võib Politsei- ja Piirivalveamet kohaldada vahetut sundi.\n(6) Käesoleva paragrahvi lõikes 1 nimetatud ülesande täitmisse korrakaitseorgani kaasamise tingimused ja korra, sealhulgas kulude hüvitamise korra kehtestab Vabariigi Valitsus määrusega."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "46",
+      "title": "§ 46. Nakkushaiguste tõrje nõuete rikkumine",
+      "content": "(1) Nakkushaiguste tõrje nõuete rikkumise või nakkusohtliku materjali käitlemise nõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para46^1",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "46^1",
+      "title": "§ 46^1. Karantiininõuete rikkumine",
+      "content": "(1) Karantiininõuete rikkumise eest – karistatakse rahatrahviga kuni 200 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 32 000 eurot."
+    },
+    {
+      "provision_ref": "para46^2",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "46^2",
+      "title": "§ 46^2. Nakkushaiguste epideemilise leviku tõkestamise nõuete rikkumine",
+      "content": "(1) Käesoleva seaduse § 28 alusel kehtestatud nõuete rikkumise eest – karistatakse rahatrahviga kuni 100 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 13 000 eurot."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "47",
+      "title": "§ 47. Teabe esitamisega viivitamine",
+      "content": "(1) Nakkushaigustega seonduva teabe õigeaegselt edastamata jätmise eest – karistatakse rahatrahviga kuni 50 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik – karistatakse rahatrahviga kuni 6400 eurot."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "48",
+      "title": "§ 48. Immuniseerimise tähtaegadest mittekinnipidamine",
+      "content": "(1) Nakkushaiguste epideemilise leviku tõkestamiseks ettenähtud immuniseerimiste tähtajaliselt läbi viimata jätmise eest – karistatakse rahatrahviga kuni 100 trahviühikut.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik – karistatakse rahatrahviga kuni 13 000 eurot."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "8. peatükk - VASTUTUS",
+      "section": "49",
+      "title": "§ 49. Menetlus",
+      "content": "(1)\n(2) Käesoleva seaduse §-des 46–48 sätestatud väärtegude kohtuväline menetleja on Terviseamet.\n(3) Käesoleva seaduse §-des 46^1 ja 46^2 sätestatud väärtegude kohtuväline menetleja on ka Politsei- ja Piirivalveamet, kui ta on kaasatud §-s 45^2 sätestatud korras Terviseameti ülesannete täitmisse."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "50",
+      "title": "§ 50. Nakkusohtliku materjali käitlemise õigus",
+      "content": "(1) Eriarstiabi osutajad ja muud laboriteenust osutavad isikud, kes tegelevad nakkusohtliku materjali käitlemisega, on kohustatud taotlema nakkusohtliku materjali käitlemise õigust kahe aasta jooksul käesoleva seaduse jõustumisest.\n(2) Eriarstiabi osutaja või muu laboriteenust osutav isik kaotab õiguse nakkusohtliku materjali käitlemiseks, kui ta ei esitanud käesoleva paragrahvi lõikes 1 nimetatud tähtaja jooksul taotlust nakkusohtliku materjali käitlemise õiguse saamiseks või kui nakkusohtliku materjali käitlemise õiguse andja keeldub nimetatud õiguse andmisest."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "51",
+      "title": "§ 51.",
+      "content": "–"
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "53",
+      "title": "§ 53.",
+      "content": "[Käesolevast tekstist välja jäetud.]"
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "9. peatükk - RAKENDUSSÄTTED",
+      "section": "54",
+      "title": "§ 54. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2003. aasta 1. novembril, välja arvatud:\n1) käesoleva seaduse § 20 lõiked 1 ja 2, mis jõustuvad 2004. aasta 1. juulil;\n2) käesoleva seaduse § 9 lõige 2, mis jõustub 2004. aasta 1. novembril;\n3) käesoleva seaduse § 11, mis jõustub 2005. aasta 1. mail;\n4) käesoleva seaduse § 21 lõige 9, mis jõustub Eesti liitumisel Euroopa Liiduga."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "nakkustekitaja",
+      "definition": "prioon, viirus, bakter, mikroskoopiline seen, algloom, ussnugiline ja lülijalgne, samuti nende komponendid ja toksiinid, mis on võimelised tekitama nakkushaigust",
+      "source_provision": "para2"
+    },
+    {
+      "term": "nakkushaigus",
+      "definition": "haigus või haigustunnusteta kandlusseisund, mis on põhjustatud nakkustekitaja sattumisest organismi ja mis levib või mille puhul on alust oletada levikut inimeselt inimesele või loomalt inimesele otseselt või kaudselt",
+      "source_provision": "para2"
+    },
+    {
+      "term": "eriti ohtlik nakkushaigus",
+      "definition": "suure nakatuvusega haigus, mis levib kiiresti ja ulatuslikult või mille kulg on raske või eluohtlik. Käesoleva seaduse tähenduses on eriti ohtlikud nakkushaigused katk, koolera, kollapalavik, viiruslikud hemorraagilised palavikud ja tuberkuloos",
+      "source_provision": "para2"
+    },
+    {
+      "term": "nakkushaige",
+      "definition": "inimene, kellel on arstiteaduses tunnustatud meetoditega diagnoositud nakkushaigus",
+      "source_provision": "para2"
+    },
+    {
+      "term": "nakkuskahtlane isik",
+      "definition": "nakkushaigega samades tingimustes olnud või haigest nakatuda võinud, kuid arstliku läbivaatuse ajaks mittehaigestunud isik",
+      "source_provision": "para2"
+    },
+    {
+      "term": "nakkushaiguste tõrje",
+      "definition": "selliste tervisekaitseabinõude rakendamine, mis võimaldavad nakkushaige või nakkuskahtlase isiku varakult avastada ning teda uurida ja ravida, selgitada tema nakatumise põhjused ja viisid, tõkestada nakkushaiguse levikut ning vältida tervete nakatumist",
+      "source_provision": "para2"
+    },
+    {
+      "term": "epideemia",
+      "definition": "nakkushaiguse puhang, mis nõuab nakkustõrje meetmete laiaulatuslikku rakendamist",
+      "source_provision": "para2"
+    },
+    {
+      "term": "seire",
+      "definition": "tervisealaste andmete, sealhulgas nakkushaiguste epidemioloogiliste uuringute ja nakatumise riskitegurite andmete süstemaatiline kogumine, analüüsimine, tõlgendamine ja levitamine nakkushaiguste leviku ennetamise ning tõrje eesmärgil",
+      "source_provision": "para2"
+    },
+    {
+      "term": "haiguspuhang",
+      "definition": "tavapärast haigestumise taset ületav ühise nakkusallika või levikufaktoriga seotud teatud ajavahemikus esinev nakkushaigusjuhtude arv",
+      "source_provision": "para2"
+    },
+    {
+      "term": "doonorivere säilitusproov",
+      "definition": "doonorivere proov, mis on võetud veredoosist",
+      "source_provision": "para2"
+    }
+  ]
+}

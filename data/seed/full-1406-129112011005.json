@@ -1,0 +1,515 @@
+{
+  "id": "ee-law-129112011005",
+  "type": "statute",
+  "title": "Tööstusomandi õiguskorralduse aluste seadus",
+  "title_en": "Tööstusomandi õiguskorralduse aluste seadus",
+  "short_name": "ee-law-129112011005",
+  "status": "in_force",
+  "issued_date": "2003-01-28",
+  "in_force_date": "2012-01-01",
+  "url": "https://www.riigiteataja.ee/akt/129112011005.xml",
+  "description": "Official consolidated statute text (Tööstusomandi õiguskorralduse aluste seadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "1. peatükk - ÜLDOSA",
+      "section": "1",
+      "title": "§ 1. Seaduse reguleerimisala",
+      "content": "(1) Käesolev seadus reguleerib tööstusomandi kaitse seaduste (edaspidi tööstusomandi seadus ) alusel asutatud tööstusomandi registrite (edaspidi register ) staatust, registripidajat, tema staatust ja finantseerimist, tööstusomandi apellatsioonikomisjoni (edaspidi apellatsioonikomisjon ) staatust ja finantseerimist ning reguleerib registrite pidamist ja registripidaja otsuste ning tööstusomandi esemete õiguskaitse kohtueelset vaidlustamist apellatsioonikomisjonis.\n(2) Tööstusomandi esemed käesoleva seaduse tähenduses on:\n1) leiutised, mida registreeritakse patendiseaduse, kasuliku mudeli seaduse või Euroopa patentide väljaandmise konventsiooni kohaldamise seaduse (RT I 2002, 38, 233) alusel;\n2) mikrolülituse topoloogiad, mida registreeritakse mikrolülituse topoloogia kaitse seaduse alusel;\n3) kauba- ja teenindusmärgid (edaspidi kaubamärk ), mida registreeritakse kaubamärgiseaduse alusel;\n4) tööstusdisainilahendused, mida registreeritakse tööstusdisaini kaitse seaduse alusel.\n(3) Käesoleva paragrahvi lõikes 2 nimetatud tööstusomandi seadused on käesoleva seaduse suhtes eriseadused."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "1. peatükk - ÜLDOSA",
+      "section": "2",
+      "title": "§ 2. Tööstusomandi õiguskaitse olemus",
+      "content": "(1) Käesoleva seaduse § 1 lõikes 2 nimetatud tööstusomandi esemed saavad õiguskaitse vastava tööstusomandi seaduse kohase registreerimise või tööstusomandi seaduses sätestatud juhul muul alusel tekkinud ainuõiguse tunnustamise tulemusel.\n(2) Ainuõigus registreeritud tööstusomandi esemele kuulub isikule, kes on omanikuna kantud registrisse.\n(3) Tööstusomandi õiguskaitse sisuks on tööstusomandi eseme omaniku ainuõiguste tunnustamine ja kaitse õiguslike vahenditega. Mitte kellelgi ei ole õigust ilma omaniku nõudeta või tema teadmata ja nõusolekuta algatada teise isiku vastu väärteo või kuriteo menetlust omaniku ainuõiguse kaitseks või esitada kahjunõuet ainuõiguse rikkumisega tekitatud kahju hüvitamiseks."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "1. peatükk - ÜLDOSA",
+      "section": "3",
+      "title": "§ 3. Mõisted",
+      "content": "Käesoleva seaduse tähenduses on:\n1) taotlus – tööstusomandi kaitse seaduse kohaselt esitatud registreerimistaotlus tööstusomandi esemele õiguskaitse saamiseks. Patendikaitse taotlemise korral mõistetakse taotluse all patenditaotlust;\n2) taotleja – isik või selle isiku õigusjärglane, kes on esitanud taotluse tööstusomandi esemele õiguskaitse saamiseks;\n3) omanik – isik, kelle kohta on tehtud õiguskaitse saanud tööstusomandi eseme omanikuna registrisse viimane kanne;\n4) tööstusomandi seadus – tööstusomandi eseme õiguskaitset sätestav eriseadus;\n5) rahvusvahelised kokkulepped – Eesti suhtes kohalduvad tööstusomandi alased konventsioonid ja muud rahvusvahelised kokkulepped;\n6) apellatsioonikomisjon – tööstusomandi apellatsioonikomisjon vastavalt käesoleva seaduse 4. peatükile."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "4",
+      "title": "§ 4. Registrite eesmärk",
+      "content": "(1) Registrite põhieesmärk on tööstusomandi eseme ja selle omaniku registreerimine ning üldistes huvides avalikustamine.\n(2) Registrite eesmärgiks on ka üldsuse teavitamine tööstusomandi esemele õiguskaitse taotlemisest, õiguskaitse andmisest, õiguskaitse kehtivusest, õiguste üleminekust ja muudest tööstusomandi esemega seonduvatest toimingutest."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "5",
+      "title": "§ 5. Registrid",
+      "content": "Registrite ametlikud nimed on:\n1) Patendiregister;\n2) Kasulike mudelite register;\n3) Eestis kehtivate Euroopa patentide register;\n4) Mikrolülituste topoloogiate register;\n5) Kauba- ja teenindusmärkide register;\n6) Tööstusdisainilahenduste register."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "6",
+      "title": "§ 6. Registrite pidamise alus",
+      "content": "(1) Registreid peetakse vastavalt käesolevale seadusele, vastavatele tööstusomandi seadustele ja teistele seadustele. Kui seaduse ja rahvusvahelise kokkuleppega ei ole mõni tööstusomandi õiguskaitse küsimus reguleeritud, juhindutakse Euroopa riikides Euroopa õiguse või siseriikliku õiguse kohaldamise praktikast.\n(2) Registritele ja nende pidamisele kohaldatakse avaliku teabe seaduses andmekogude kohta sätestatut käesolevas seaduses või tööstusomandi seaduses sätestatud erisustega."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "7",
+      "title": "§ 7. Registrite pidaja",
+      "content": "Registreid peab Patendiamet."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "8",
+      "title": "§ 8. Registrite koosseis",
+      "content": "(1) Iga registri koosseisu kuuluvad andmebaas ja registritoimikud.\n(2) Andmebaas koosneb kirjetest. Kirje sisaldab kõiki ühe taotluse ja selle alusel õiguskaitse saanud tööstusomandi esemega seotud registritoiminguid iseloomustavaid andmeid, alates kirje avamisest taotluse menetlusse võtmisel kuni selle sulgemiseni õiguskaitse lõppemisel või õiguskaitse tühistamisel. Kirjeid eristatakse taotluse numbri alusel.\n(3) Iga kirje juurde kuulub registritoimik. Registritoimikus hoitakse kõiki kirjes nimetatud dokumente. Registritoimikus võib vajaduse möödumiseni ajutiselt hoida ka taotluse menetlemisega seotud Patendiameti siseseks kasutamiseks ettenähtud dokumente ja taotleja nõudel taotlusest eraldatud tööstusomandi esemega seotud ärisaladust või seaduses sätestatud juhtudel avalikustamisele mittekuuluvaid isikuandmeid sisaldavaid dokumente, kui on tagatud nende konfidentsiaalsus."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "9",
+      "title": "§ 9. Töökeel",
+      "content": "(1) Registreid peetakse eesti keeles. Võõrkeelsed dokumendid esitatakse Patendiametile koos eestikeelse tõlkega.\n(2) Patendiametil on õigus võõrkeelsete dokumentide tõlke esitamise kohustuse täitmine hilisemale ajale lükata või tõlke nõudmisest loobuda, kui vastavas tööstusomandi seaduses ei ole määratud selle dokumendi tõlke esitamise tähtpäeva.\n(3) Käesoleva paragrahvi lõike 2 kohaldumisel peab võõrkeelse dokumendi esitanud isik esitama tõlke Patendiameti, tööstusomandi apellatsioonikomisjoni, kohtu või asjast huvitatud isiku nõudel kahe kuu jooksul nõude esitamise kuupäevast arvates. Tõlke esitamata jätmise korral loetakse dokument mitteesitatuks."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "10",
+      "title": "§ 10. Registrite avalikkus",
+      "content": "(1) Patendiameti poolt taotluse avalikustamise päevast arvates on kirje ja registritoimik avalikud, arvestades tööstusomandi seaduses sätestatud piiranguid. Olenevalt tööstusomandi seadusest on Patendiameti poolt taotluse avalikustamise päev kas patenditaotluse avaldamise päev, kaubamärgi registreerimise otsuse kohta teate avaldamise päev või tööstusdisainilahenduse, kasuliku mudeli või mikrolülituse topoloogia registreeringu andmete kande teate Patendiameti ametlikus väljaandes avaldamise päev.\n(2) Patendiameti poolt avalikustamata taotluse kirje andmeid ja registritoimiku dokumente ei saa võtta aluseks väärteomenetluse või kriminaalmenetluse alustamisel ega neid kasutada tõendina väärteo või kuriteo menetlemisel, samuti eeldatava õigusrikkumise peatamiseks ja kahjunõude esitamiseks eeldatava ainuõiguse rikkumisega tekitatud kahju hüvitamiseks.\n(3) Enne Patendiameti poolt avalikustamist tagasivõetud, tagasivõetuks loetud või tagasilükatud taotlusega ja salastatud patenditaotlusega ning salastatud patendi kirje andmetega ja registritoimiku dokumentidega tutvumine on keelatud kõikidele isikutele, välja arvatud taotlejale, salastatud patendi omanikule ja Patendiameti volitatud töötajale."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "11",
+      "title": "§ 11. Registrite puutumatus",
+      "content": "(1) Registritoimiku paberkandjal originaaldokumente hoitakse Patendiametis ja nende väljaviimine Patendiameti ruumidest on keelatud. Registritoimiku paberkandjal originaaldokumentide võetust võib kriminaalmenetluse korral teha ainult dokumendi või allkirja ehtsuse kontrollimiseks. Kontrollitav dokument asendatakse võetuse ajaks koopiaga.\n(2) Andmebaasi andmete ja registritoimikute dokumentide töötlemine, sealhulgas kopeerimine äri eesmärgil on registripidaja loata keelatud."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "12",
+      "title": "§ 12. Registritoimingud",
+      "content": "(1) Registritoimingud on registri pidamisega seotud toimingud.\n(2) Registritoimingute liigid on:\n1) kirje avamine ja taotluse andmete kandmine registrisse;\n2) menetlustoimingutega seotud andmete kandmine registrisse;\n3) tööstusomandi esemele õiguskaitse andmisega seotud andmete (registreeringu andmed) kandmine registrisse;\n4) registreeringu andmete muudatuste kandmine registrisse;\n5) registreeringu jagamisega seotud uue registreeringu andmete kandmine registrisse;\n6) registreeringu jõushoidmisega või kehtivuse pikendamisega seotud andmete kandmine registrisse;\n7) litsentsi või pandiga seotud andmete kandmine registrisse;\n8) registrisse kantud andmete avaldamine ja kaitsedokumentide väljastamine;\n9) registrist andmete väljastamine;\n10) kirje sulgemine (registreeringu kustutamine registrist).\n(3) Registritoimingud sätestatakse käesoleva seaduse, tööstusomandi seaduste ning nende alusel kehtestatud Vabariigi Valitsuse ja ministrite määrustega."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "13",
+      "title": "§ 13. Menetlustoimingud",
+      "content": "(1) Menetlustoimingud on Patendiametisse saabunud taotlusega tehtavad toimingud pärast taotluse menetlusse võtmist kuni õiguskaitse andmise kohta otsuse tegemiseni, taotluse tagasilükkamiseni, taotluse tagasivõtmiseni või tagasivõetuks lugemiseni.\n(2) Menetlustoimingud sätestavad vastav tööstusomandi seadus ja rahvusvahelised kokkulepped ning nende alusel kehtestatud õigusaktid."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "14",
+      "title": "§ 14. Registrisse kantavad andmed ja nende liigid",
+      "content": "(1) Registrisse kantavad andmed sätestatakse tööstusomandi seaduse, rahvusvaheliste kokkulepete ja käesoleva seadusega ning nende alusel kehtestatud muude õigusaktidega.\n(2) Andmed kantakse andmebaasi kannete ja märgetena."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "15",
+      "title": "§ 15. Kanded",
+      "content": "(1) Kande tähendus on tööstusomandi seaduse, rahvusvaheliste kokkulepete või nende alusel kehtestatud õigusaktidega määratud andmetel, mis iseloomustavad tööstusomandi eseme suhtes õiguste tekkimist, muutumist ja lõppemist, sellega seotud menetlus- ja registritoiminguid ning nimetatud toiminguid kajastavaid dokumente.\n(2) Menetlus- ja registritoimingutega seotud kannete liigid on:\n1) taotluse andmete kanne;\n2) taotluse andmete muutmise kanne;\n3) registreeringu andmete kanne;\n4) registreeringu andmete muutmise kanne;\n5) litsentsi ja pandi andmete kanne;\n6) registreeringu, tööstusomandi eseme õiguskaitse kehtivuse või kehtivusaja pikendamise kanne;\n7) registreeringu kustutamise kanne;\n8) kanne tööstusomandi eseme suhtes õiguste tekkimise, muutumise ja lõppemisega seotud menetlustoimingute ning registritoimingute teate Patendiameti ametlikus väljaandes avaldamise kohta.\n(3) Menetlus- ja registritoiminguid kajastavad dokumendid, mille kohta tehakse kanne registrisse, on:\n1) Patendiameti poolt taotlejale väljastatud tähtaegade kehtestamisega seotud kirjalik teade, järelepärimine või otsus;\n2) taotlejalt käesoleva lõike punktis 1 nimetatud Patendiameti kirjadele vastuseks saadud kirjalik teade, selgitus või avaldus;\n3) taotleja algatusel esitatud taotluse menetluse käiku puudutav kirjalik avaldus;\n4) registreeringu andmete muutmisega, litsentsi või pandi registreerimisega, registreeringu kehtivuse pikendamise või õiguskaitse lõpetamisega seotud avaldus."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "16",
+      "title": "§ 16. Märked",
+      "content": "(1) Märke tähendus on tööstusomandi seaduse, rahvusvaheliste kokkulepete või nende alusel kehtestatud õigusaktidega määratud andmetel asjaolude kohta, mida taotluse menetlemisel või registritoimingute tegemisel peab arvesse võtma või mida registripidaja peab vajalikuks üldistes huvides avalikustada.\n(2) Märked on eelmärge, vastuväide, keelumärge ja märkus.\n(3) Eelmärge kantakse andmebaasi taotleja, omaniku või muu isiku teate või avalduse alusel tööstusomandi seaduses või muus seaduses sätestatud õiguse kohta tulevikus tehtava kande tagamiseks. Eelmärge tehakse muu hulgas taotluse või registreeringu jagamise sooviavalduse saabumise kohta.\n(4) Vastuväitena kantakse andmebaasi taotlejalt, omanikult, apellatsioonikomisjonilt või kohtult saabunud teade kaebuse, vaidlustusavalduse, vaide või hagi esitamise kohta Patendiameti ja avalikkuse teavitamiseks kande võimalikust muutumisest registris.\n(5) Keelumärge kantakse andmebaasi taotleja, omaniku, muu isiku või kohtu teate, avalduse, otsuse või määruse alusel tööstusomandi seaduses või muus seaduses sätestatud õiguse tagamiseks või õigusrikkumise vältimiseks. Keelumärge tehakse muu hulgas tööstusomandi seaduses sätestatud juhtudel autori nime avaldamise keelu korral, tööstusomandi eseme käsutamise piiramiseks või keelamiseks seoses litsentsi või pandi registreerimisega või omaniku pankrotiga seonduvalt, kui tööstusomandi ese kuulub pankrotivara hulka.\n(6) Keelumärke kannab Patendiamet andmebaasi oma algatusel, kui menetlustoimingu või kande asjaolud mõjutavad järgnevate menetlustoimingute kulgu või kui tekib õiguslik alus, mis välistab teatud kande tegemise.\n(7) Märkus kantakse andmebaasi taotleja, omaniku või muu isiku avalduse alusel või Patendiameti oma algatusel, kui selle avalikustamine on kasulik üldistes huvides. Märkusena kantakse andmebaasi ka taotluse menetlemise ja registritoimingute tegemise üleminek ühelt pädevalt ametnikult teisele ning ametniku identifitseerimise andmed."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "17",
+      "title": "§ 17. Registrile andmete esitaja",
+      "content": "(1) Registrile esitab andmed taotleja, omanik, muu isik, apellatsioonikomisjon või kohus vastavalt tööstusomandi seaduses sätestatud pädevusele.\n(2) Andmed, mis on esitanud õigustamata isik, edastatakse taotlejale või omanikule seisukoha võtmiseks, kui need on taotluse menetlemise või tööstusomandi eseme õiguskaitse kehtivuse seisukohalt olulised. Andmete esitamise ja edastamise kohta tehakse andmebaasi märkus."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "18",
+      "title": "§ 18. Vastutus andmete õigsuse eest",
+      "content": "Esitatud andmete õigsuse eest vastutab andmete esitaja. Valeandmeid esitanud isikud vastutavad süüliselt tekitatud kahju eest."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "19",
+      "title": "§ 19. Salajaste andmete esitamine",
+      "content": "(1) Andmete esitaja võib tööstusomandi seaduses sätestatud juhtudel määratleda esitatavad andmed salajastena.\n(2) Salajased andmed peavad olema nende esitaja poolt selgelt määratletud.\n(3) Salajaste andmetena ei või määratleda üldsusele avaldamisele kuuluvat teavet, sealhulgas:\n1) tööstusomandi eseme olemuse, õiguskaitse ulatuse ja andmise aluste määratlemiseks vajalikke andmeid;\n2) taotleja andmeid, alates taotluse tööstusomandi seaduse kohasest avalikustamisest;\n3) omaniku andmeid;\n4) litsentsisaaja andmeid ja talle antud õiguste ulatust ning õiguste kehtivuse tähtaega;\n5) pandipidaja andmeid, pandiga tagatud nõude olemust, nõude suurust ja täitmise tähtaega.\n(4) Salajasi andmeid registris ei säilitata, välja arvatud seaduses ettenähtud juhtudel autori andmed. Need kas avalikustatakse esitaja loal, hävitatakse menetlusega seotud vajaduse möödumisel või tagastatakse esitajale.\n(5) Salajasi andmeid hoitakse salajasena kuni nende avalikustamiseks loa saamiseni, hävitamiseni menetlusega seotud vajaduse möödumisel või esitajale tagastamiseni."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "21",
+      "title": "§ 21. Andmete kaitsele esitatavad nõuded",
+      "content": "Registrit tuleb pidada selliselt, et oleks tagatud registriandmete terviklikkus, autentsus ja säilimine ning kaitse kõrvaliste isikute juurdepääsu ja omavolilise muutmise eest. Registrite kanded, sealhulgas muutmiskanded, peavad olema autoriseeritud."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "22",
+      "title": "§ 22. Pädev isik",
+      "content": "(1) Registritoiminguid sooritab Patendiameti volitatud ametnik. Volitus antakse Patendiameti põhimääruse ja struktuuriüksuse põhimääruse alusel ametijuhendiga.\n(2) Registritoimingu sooritamise ülemineku kohta ühelt ametnikult teisele tehakse registrisse käesoleva seaduse § 16 lõikes 7 sätestatu kohane märkus."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "23",
+      "title": "§ 23. Dokumendi vastuvõtmine",
+      "content": "(1) Igale saabunud dokumendile tehakse pealdis, milles sisaldub dokumendi tegelik Patendiametisse saabumise kuupäev. Pealdis võib sisaldada täiendavalt andmeid selle kohta, millise kirje juurde dokument kuulub.\n(2) Köitmata paberkandjal esitatud dokumendi korral tehakse pealdis igale lehele, köidetud dokumendi korral võib pealdise teha ainult esimesele lehele."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "24",
+      "title": "§ 24. Dokumendi kontrollimine",
+      "content": "(1) Dokumendi kontrollimist alustatakse selle esitaja ja esitamise eesmärgi kindlakstegemisest. Kui dokumendi esitajat ei ole võimalik kindlaks teha, jäetakse dokument tähelepanuta. Kui dokumendi esitamise eesmärki ei ole võimalik kindlaks teha, saadetakse dokumendi esitajale järelepärimine selgituse saamiseks ja dokumendi kontrollimine peatatakse.\n(2) Pärast dokumendi esitaja ja esitamise eesmärgi kindlakstegemist kontrollitakse isiku õigust dokumenti esitada, välja arvatud taotluse esitanud isiku õigust taotleda tööstusomandi esemele õiguskaitset. Esindaja kaudu esitatud dokumentide korral kontrollitakse vastavalt tööstusomandi seaduses sätestatule toimingu sooritamiseks vajaliku volituse ulatuse olemasolu ja volituse kehtivust. Dokumendi esitamise õiguse puudumise korral teatatakse sellest dokumendi esitajale ja dokumendi kontrollimine peatatakse. Ettenähtud juhul kohaldatakse käesoleva seaduse § 17 lõikes 2 sätestatut.\n(3) Dokumendi esitamise õiguse olemasolu korral kontrollitakse dokumendile kehtestatud vorminõuete täitmist. Dokumendi vormi puudustest teatatakse dokumendi esitajale ja dokumendi menetlemine peatatakse. Kui digitaalne dokument on esitatud formaadis, mis võimaldab sellel toodud andmete muutmist, kantakse see üle formaati, milles andmete muutmine on välistatud.\n(4) Dokumendi saabumise kuupäev ja seda iseloomustavad andmed kantakse andmebaasi kandena või märkena, juhindudes käesoleva seaduse §-des 15 ja 16 sätestatust.\n(5) Dokumendi sisulisel menetlemisel juhindutakse vastavast tööstusomandi seadusest ja selle alusel kehtestatud määrustest."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "25",
+      "title": "§ 25. Kirje avamine ja taotluse andmete kandmine registrisse",
+      "content": "(1) Kirje avatakse taotluse menetlusse võtmisel.\n(2) Kirje avamisel tehakse andmebaasi järgmised kanded:\n1) taotluse numbri kanne;\n2) taotluse esitamise kuupäeva kanne;\n3) õiguskaitse saamise avalduses sisalduvate andmete kanne;\n4) kanne esitatud dokumentide kohta.\n(3) Kirje avamisel avatakse registritoimik."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "26",
+      "title": "§ 26. Menetlustoimingutega seotud andmete kandmine registrisse",
+      "content": "(1) Menetlustoimingutega seoses tehakse andmebaasi kanded või märked:\n1) sooritatud menetlustoimingute kohta;\n2) saabunud ja väljastatud dokumentide kohta;\n3) Patendiameti poolt määratud tähtaegade kohta.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud registrikandeid tehakse vastavas tööstusomandi seaduses sätestatu kohaselt."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "27",
+      "title": "§ 27. Tööstusomandi esemele õiguskaitse andmisega seotud andmete kandmine registrisse",
+      "content": "(1) Tööstusomandi esemele õiguskaitse andmise kanne (registreeringu kanne) tehakse registrisse Patendiameti pädeva ametniku otsuse alusel.\n(2) Tööstusomandi esemele antakse sellele õiguskaitse andmisel kordumatu number (registreeringu number) ning registrisse kantakse õiguskaitse kehtivusaeg koos muude tööstusomandi seaduses ettenähtud andmetega."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "28",
+      "title": "§ 28. Registreeringu andmete muudatuste kandmine registrisse",
+      "content": "(1) Registreeringu andmete muutumisega seoses kantakse andmebaasi:\n1) kandeavalduse andmed;\n2) uued andmed või andmed uue dokumendi kohta;\n3) tehtud muudatuste kohta kandeavalduse esitajale väljastatud teate andmed ja muudatuste kohta teate avaldamise kuupäev, kui see on tööstusomandi seaduses sätestatud;\n4) kande tegemisest keeldumise kohta kandeavalduse esitajale väljastatud teate andmed, kui kande tegemisest on keeldutud.\n(2) Muudatuse korral, mis tuleneb registreeringu jagamisest, kantakse andmebaasi sellekohane märkus ja eraldatud osa alusel tehtud uue registreeringu number."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "29",
+      "title": "§ 29. Registreeringu jagamisega seotud uue registreeringu andmete kandmine registrisse",
+      "content": "(1) Igale jagamise teel saadud registreeringule antakse uus registreeringu number ja avatakse registris uus kirje.\n(2) Uue registreeringu andmed esitatakse varasema registreeringu alusel. Uus registreering peab sisaldama viidet varasemale registreeringule.\n(3) Kui registreeringu jagamisega kaasneb tööstusomandi eseme võõrandamine või üleminek, kohaldatakse tööstusomandi seaduses tööstusomandi eseme võõrandamise või ülemineku kohta sätestatut."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "30",
+      "title": "§ 30. Registreeringu jõushoidmise või kehtivuse pikendamisega seotud andmete kandmine registrisse",
+      "content": "(1) Registreeringu jõushoidmise või kehtivuse pikendamise kanne tehakse registrisse, kui tööstusomandi seadusega sätestatud tingimused on täidetud.\n(2) Andmebaasi kantakse kandeavalduse andmed, tasutud riigilõivu summa ja tasumise kuupäev."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "31",
+      "title": "§ 31. Tööstusomandi eseme litsentsi ja pandi registreerimine",
+      "content": "(1) Tööstusomandi eseme pandiga koormamise korral kantakse registrisse pandipidaja andmed, pandi rahalise väärtuse suurus, nõude suurus ja täitmise tähtaeg.\n(2) Pant kustutatakse registrist pandiga tagatud nõude lõppemisel või pandist loobumisel. Pandist loobumisel kohaldatakse tööstusomandi pantimise kohta sätestatut, arvestades kande olemusest tulenevaid erisusi.\n(3) Tööstusomandi eseme litsentsimise korral kantakse registrisse litsentsisaaja andmed, litsentsi iseloom, ulatus ja tähtaeg ning muud tingimused, mille registrisse kandmist on peetud oluliseks."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "32",
+      "title": "§ 32. Registrisse kantud andmete avaldamine",
+      "content": "Registrisse kantud andmed avaldatakse tööstusomandi seaduses sätestatud korras Patendiameti ametlikus väljaandes."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "2. peatükk - REGISTRID",
+      "section": "33",
+      "title": "§ 33. Kirje sulgemine",
+      "content": "(1) Kirje ja selle juurde kuuluv registritoimik suletakse:\n1) taotluse tagasivõtmisel, tagasivõetuks lugemisel, tagasilükkamisel või tööstusomandi eseme registreerimisest keeldumisel;\n2) tööstusomandi eseme õiguskaitse kehtivuse lõppemisel või registreeringu kustutamisel registrist vastavalt tööstusomandi seaduses sätestatule.\n(2) Suletud kirjet säilitatakse alaliselt.\n(3) Suletud kirje on avalik, välja arvatud juhul, kui kirje suleti enne taotluse tööstusomandi seaduse kohast avalikustamist."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "3. peatükk - PATENDIAMET",
+      "section": "34",
+      "title": "§ 34. Patendiameti staatus",
+      "content": "(1) Patendiamet on tööstusomandi õiguskaitse valdkonnas täidesaatvat riigivõimu teostav ja Vabariigi Valitsuse poliitikat elluviiv valitsusasutus, kes tööstusomandi kaitse Pariisi konventsiooni (RT II 1994, 4/5, 19) artikli 12 lõike 1 tähenduses, samuti Maailma Kaubandusorganisatsiooni asutamislepingu (RT II 1999, 22, 123) lisa 1C intellektuaalomandi õiguste kaubandusaspektide lepingu artikli 2 lõikes 1 sätestatut arvestades on tööstusomandi õiguskaitse keskamet.\n(2) Oma ülesannete täitmisel esindab Patendiamet riiki."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "3. peatükk - PATENDIAMET",
+      "section": "35",
+      "title": "§ 35. Patendiameti ülesanded",
+      "content": "(1) Patendiameti ülesanded on:\n1) tööstusomandi seaduste või rahvusvaheliste kokkulepete alusel taotluste vastuvõtmine ja menetlemine, sealhulgas ekspertiisi tegemine tööstusomandi seaduste või rahvusvaheliste kokkulepetega ettenähtud juhtudel, tööstusomandi esemele õiguskaitse andmise otsuste tegemine, tööstusomandi registrite pidamine, ametlike väljaannete ja kaitsedokumentide väljaandmine;\n2) muude seaduse või rahvusvahelise kokkuleppega pandud kohustuste täitmine tööstusomandi õiguskaitse valdkonnas.\n(2) Rahvusvahelistest kokkulepetest tulenevalt Patendiamet:\n1) korraldab rahvusvahelist koostööd tööstusomandi õiguskaitse valdkonnas;\n2) osaleb Maailma Intellektuaalomandi Organisatsiooni, Siseturu Ühtlustamise Ameti ja Euroopa Patendiorganisatsiooni töös;\n3) teeb koostööd teiste riikide tööstusomandi õiguskaitse institutsioonidega."
+    },
+    {
+      "provision_ref": "para35^1",
+      "chapter": "3. peatükk - PATENDIAMET",
+      "section": "35^1",
+      "title": "§ 35^1. Patendiameti tasulised teenused",
+      "content": "(1) Patendiamet teeb Euroopa patendivõrgustiku raames tasulisi patendi standardotsinguid ja eriotsinguid.\n(2) Käesoleva paragrahvi lõikes 1 nimetatud otsingute korra ja maksumuse määrad kehtestab majandus- ja kommunikatsiooniminister määrusega.\n(3) Käesoleva paragrahvi lõikes 1 nimetatud ja lõike 2 alusel kehtestatav standardotsingu maksumuse ülemmäär on 3000 eurot ja eriotsingu maksumuse ülemmäär 4000 eurot."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "3. peatükk - PATENDIAMET",
+      "section": "36",
+      "title": "§ 36. Patendiameti sõltumatus",
+      "content": "(1) Patendiamet on käesoleva seaduse §-s 35 sätestatud ülesannete täitmisel, sealhulgas tööstusomandi esemele õiguskaitse andmise otsuste tegemisel ja otsuste tegemise metoodika kasutamisel sõltumatu. Patendiamet täidab kohtu ja apellatsioonikomisjoni otsuseid.\n(2) Teenistuslik järelevalve ei tohi piirata Patendiameti sõltumatust talle seaduse või rahvusvahelise kokkuleppega pandud ülesannete täitmisel."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "3. peatükk - PATENDIAMET",
+      "section": "37",
+      "title": "§ 37. Patendiameti eelarve ja finantseerimine",
+      "content": "(1) Patendiametit finantseeritakse riigieelarvest ning Maailma Intellektuaalomandi Organisatsiooni, Siseturu Ühtlustamise Ameti ja Euroopa Patendiorganisatsiooni sihtotstarbelistest vahenditest.\n(2) Patendiametil on arvelduskontod Riigikassa kontsernikonto koosseisus ja erikontod käesoleva paragrahvi lõikes 1 nimetatud sihtotstarbeliste vahendite kasutamiseks."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "38",
+      "title": "§ 38. Apellatsioonikomisjoni staatus",
+      "content": "(1) Apellatsioonikomisjon on kohtueelne sõltumatu organ.\n(2) Menetlus apellatsioonikomisjonis on kohustuslik kohtueelne menetlus."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "39",
+      "title": "§ 39. Apellatsioonikomisjoni pädevus",
+      "content": "(1) Apellatsioonikomisjon lahendab tööstusomandi seadustes sätestatud juhtudel:\n1) taotleja poolt Patendiameti otsuse vaidlustamiseks esitatud kaebusi;\n2) asjasthuvitatud isiku ja taotleja või omaniku vahelisi vaidlusi asjasthuvitatud isiku avalduse (edaspidi vaidlustusavaldus ) alusel.\n(2) Apellatsioonikomisjon tegutseb vastavalt käesolevale seadusele, tööstusomandi seadustele, rahvusvahelistele lepingutele ning Vabariigi Valitsuse ja ministrite määrustele. Kui seaduse või rahvusvahelise lepinguga ei ole mõni tööstusomandi õiguskaitse küsimus reguleeritud, juhindutakse Euroopa riikides Euroopa õiguse või siseriikliku õiguse kohaldamise praktikast.\n(3) Apellatsioonikomisjoni õigusvastase tegevuse tagajärjel tekkinud kahju hüvitab riik."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "40",
+      "title": "§ 40. Apellatsioonikomisjoni moodustamine ja koosseis",
+      "content": "(1) Apellatsioonikomisjon moodustatakse Majandus- ja Kommunikatsiooniministeeriumi juures.\n(2) Majandus- ja kommunikatsiooniminister kehtestab apellatsioonikomisjoni põhimääruse, millega sätestatakse:\n1) kaebuse või vaidlustusavalduse esitamise kord,\n2) apellatsioonikomisjoni töökord ja\n3) apellatsioonikomisjoni liikmete tasustamise kord.\n(3) Apellatsioonikomisjon on vähemalt kaheksaliikmeline. Liikmetel peab olema akadeemiline kõrgharidus ja nad peavad olema tööstusomandi valdkonna asjatundjad. Pooltel liikmetest peab olema akadeemiline juriidiline haridus. Apellatsioonikomisjoni liikmed, sealhulgas esimehe ja aseesimehe nimetab majandus- ja kommunikatsiooniminister.\n(4) Apellatsioonikomisjoni esimehe äraolekul asendab apellatsioonikomisjoni esimeest aseesimees."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "41",
+      "title": "§ 41. Töökeel",
+      "content": "Apellatsioonikomisjoni töökeel on eesti keel. Dokumendid, mis ei ole eesti keeles, esitatakse apellatsioonikomisjonile käesoleva seaduse § 9 lõike 3 kohaselt koos eestikeelse tõlkega."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "42",
+      "title": "§ 42. Apellatsioonikomisjoni töötingimused",
+      "content": "(1) Apellatsioonikomisjoni töötingimused, sealhulgas tööruumid ja tehnilise teenindamise tagab Majandus- ja Kommunikatsiooniministeerium.\n(2) Apellatsioonikomisjoni halduskulud ning kaebuste ja vaidlustusavalduste lahendamisega seotud kulud kaetakse riigieelarvest Majandus- ja Kommunikatsiooniministeeriumile selleks eraldatud vahenditest.\n(3) Apellatsioonikomisjoni dokumendid kuuluvad alalisele säilitamisele Majandus- ja Kommunikatsiooniministeeriumi arhiivis."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "43",
+      "title": "§ 43. Kaebuse või vaidlustusavalduse esitamine",
+      "content": "(1) Kirjalik kaebus või vaidlustusavaldus koos sellele lisatud dokumentidega adresseeritakse apellatsioonikomisjonile ja esitatakse vastavas tööstusomandi seaduses sätestatud tähtaegu arvestades.\n(2) Kaebuse või vaidlustusavalduse esitamisel pärast tähtaja möödumist võib apellatsioonikomisjoni esimees selle ennistada, kui on esitatud tähtaja ennistamise avaldus ja selgitused tähtaja möödumist tinginud mõjuvate põhjuste kohta.\n(3) Apellatsioonikomisjonile esitatud avaldus või muu dokument jäetakse tähelepanuta, kui see sisaldab sündsusetuid või solvavaid väljendeid apellatsioonikomisjoni, Patendiameti või kolmanda isiku suhtes."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "44",
+      "title": "§ 44. Kaebusele ja vaidlustusavaldusele esitatavad nõuded",
+      "content": "(1) Kaebuses peab sisalduma:\n1) kaebuse esitaja (edaspidi kaebaja ) nimi ja aadress ning soovi korral muud kontaktandmed;\n2) kaebaja esindaja nimi, kui kaebajal on esindaja;\n3) andmed Patendiameti vaidlustatava otsuse kohta;\n4) kaebaja põhjendus Patendiameti otsuse õigusvastaseks lugemise kohta;\n5) kaebaja nõue;\n6) kaebuse lisade loetelu;\n7) kaebaja või tema esindaja allkiri.\n(2) Vaidlustusavalduses peab sisalduma:\n1) vaidlustusavalduse esitaja nimi ja aadress ning soovi korral muud kontaktandmed;\n2) vaidlustusavalduse esitaja esindaja nimi, kui tal on esindaja;\n3) andmed vaidlustatava tööstusomandi eseme kohta;\n4) vaidlustusavalduse esitaja põhjendus õigusrikkumise kohta;\n5) vaidlustusavalduse esitaja nõue;\n6) vaidlustusavalduse lisade loetelu;\n7) vaidlustusavalduse esitaja või tema esindaja allkiri.\n(3) Kaebusele ja vaidlustusavaldusele lisatakse:\n1) andmed riigilõivu tasumise kohta;\n2) volikiri, kui kaebus või vaidlustusavaldus esitatakse esindaja kaudu;\n3) tõendid, mis kinnitavad kaebuse või vaidlustusavalduse aluseks olevaid asjaolusid."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "45",
+      "title": "§ 45. Kaebuse ja vaidlustusavalduse registreerimine ning nendest teavitamine",
+      "content": "(1) Kaebusele, vaidlustusavaldusele ja hiljem apellatsioonikomisjoni saabunud dokumentidele tehakse apellatsioonikomisjoni saabumisel pealdis, milles sisaldub nende saabumise kuupäev ja kaebuse või vaidlustusavalduse järjekorranumber. Apellatsioonikomisjon teavitab viivitamata Patendiametit kaebuse või vaidlustusavalduse saabumisest.\n(2) Apellatsioonikomisjoni esimees kontrollib 15 päeva jooksul kaebuse või vaidlustusavalduse andmete põhjal kaebuse või vaidlustusavalduse kuuluvust apellatsioonikomisjoni pädevusse, esitamise tähtajast kinnipidamist ning vastavust sisu- ja vorminõuetele.\n(3) Kui apellatsioonikomisjoni esimees leiab, et kaebuses või vaidlustusavalduses on kõrvaldatavaid puudusi, teatatakse sellest viivitamata kaebajale või vaidlustusavalduse esitajale kirjalikult ning määratakse 15-päevane tähtaeg puuduste kõrvaldamiseks.\n(4) Kaebaja või vaidlustusavalduse esitaja põhjendatud kirjaliku avalduse alusel võib apellatsioonikomisjon pikendada kaebuse puuduste kõrvaldamise tähtaega."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "46",
+      "title": "§ 46. Kaebuse või vaidlustusavalduse parandamine ja täiendamine",
+      "content": "(1) Kaebuses või vaidlustusavalduses võib kaebaja või vaidlustusavalduse esitaja põhjendatud kirjaliku avaldusega teha lõppmenetluse alguseni parandusi ja täiendusi, mis ei laienda kaebuse või vaidlustusavalduse esitamise kuupäeval selles esitatud nõude alust ja sisu.\n(2) Tööstusomandi seadustes sätestatud juhtudel võib taotleja või omanik piirata õiguskaitse ulatust ja nõuda kaebuse või vaidlustusavalduse menetlemist, lähtudes uuest õiguskaitse ulatusest."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "47",
+      "title": "§ 47. Kaebuse või vaidlustusavalduse tagasivõtmine ja tagasilükkamine",
+      "content": "(1) Kaebaja või vaidlustusavalduse esitaja võib kaebuse või vaidlustusavalduse lõppmenetluse alguseni tagasi võtta, esitades sellekohase kirjaliku avalduse. Kaebus või vaidlustusavaldus on tagasi võetud vastava avalduse apellatsioonikomisjonile saabumise päevast arvates.\n(2) Kaebus või vaidlustusavaldus loetakse tagasivõetuks, kui kaebaja või vaidlustusavalduse esitaja jätab käesoleva seaduse § 45 lõigetes 3 ja 4 sätestatud tähtaja jooksul vastamata.\n(3) Kaebus või vaidlustusavaldus lükatakse apellatsioonikomisjoni esimehe ainuisikulise otsusega tagasi ja otsuse ärakiri saadetakse viivitamata kaebuse või vaidlustusavalduse esitajale ning Patendiametile, kui:\n1) see ei kuulu apellatsioonikomisjoni pädevusse;\n2) see ei ole esitatud ettenähtud tähtajaks;\n3) kaebus või vaidlustusavaldus ei vasta nõuetele ning kaebaja või vaidlustusavalduse esitaja ei ole puudusi tähtajaks kõrvaldanud;\n4) kaebuse või vaidlustusavalduse esitamise eest ei ole tasutud riigilõivu;\n5) samade poolte vahel on sama eseme kohta samal alusel apellatsioonikomisjoni kehtiv otsus.\n(3^1) Käesoleva paragrahvi lõikes 3 nimetatud otsuse peale võib esitada kaebuse Harju Maakohtule 30 päeva jooksul otsuse ärakirja kättesaamisest arvates. Kohus vaatab kaebuse läbi hagita menetluses Apellatsioonikomisjon teavitab viivitamata Patendiametit kaebuse esitamisest, samuti kohtumenetluse tulemusena tehtud jõustunud kohtulahendist.\n(4) Apellatsioonikomisjoni esimehe ainuisikuliselt tehtavas otsuses peab sisalduma:\n1) apellatsioonikomisjoni nimi ja otsuse liik;\n2) viide kaebusele või vaidlustusavaldusele ja selle esitanud isikule;\n3) viide otsuse tegemisel kohaldatud seadustele;\n4) otsuse põhjendus;\n5) resolutsioon;\n6) selgitused otsuse vaidlustamise korra ja tähtaja kohta;\n7) otsuse tegemise aeg ja koht;\n8) otsuse tegija nimi ja allkiri.\n(5) Kaebajal või vaidlustusavalduse esitajal on õigus tasutud riigilõiv tagasi saada:\n1) käesoleva paragrahvi lõikes 1 nimetatud juhul, kui kaebuse või vaidlustusavalduse tagasivõtmise avaldus saabus apellatsioonikomisjoni enne kaebuse või vaidlustusavalduse menetlusse võtmist;\n2) kui kaebus või vaidlustusavaldus ei kuulu apellatsioonikomisjoni pädevusse või ei ole esitatud tähtajaks ning apellatsioonikomisjoni esimees lükkab selle vastavalt käesoleva paragrahvi lõikele 3 tagasi.\n(6)"
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "48",
+      "title": "§ 48. Kaebuse või vaidlustusavalduse menetlusse võtmine",
+      "content": "(1) Kui apellatsioonikomisjoni esimees leiab, et kaebus või vaidlustusavaldus kuulub apellatsioonikomisjoni pädevusse, on esitatud tähtaegselt ning vastab sisu- ja vorminõuetele, otsustab ta kaebuse või vaidlustusavalduse menetlusse võtta.\n(2) Kaebuse või vaidlustusavalduse menetlusse võtmine vormistatakse resolutsioonina. Resolutsioon sisaldab kuupäeva ja apellatsioonikomisjoni esimehe allkirja.\n(3) Kaebuse või vaidlustusavalduse menetlusse võtmisest teatatakse viivitamata kaebajale või vaidlustusavalduse esitajale ja Patendiametile. Teade kaebuse või vaidlustusavalduse menetlusse võtmise kohta avaldatakse apellatsioonikomisjoni veebilehel."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "49",
+      "title": "§ 49. Eelmenetlus",
+      "content": "(1) Apellatsioonikomisjoni esimees määrab viie päeva jooksul kaebuse või vaidlustusavalduse menetlusse võtmisest arvates pädeva apellatsioonikomisjoni liikme eelmenetluse läbiviijaks (edaspidi eelmenetleja ), kelle ülesanne on anda apellatsioonikomisjonile ülevaade kaebuse või vaidlustusavalduse faktilistest ja õiguslikest asjaoludest ning menetlusosaliste seisukohtadest.\n(2) Kaebuse eelmenetluses tutvub eelmenetleja vaidlustatud otsuse kohta registris olevate andmetega. Vaidlustusavalduse eelmenetluses tutvub eelmenetleja vaidlustatava tööstusomandi eseme kohta registris olevate andmetega.\n(3)\n(4) Eelmenetluse käigus teeb apellatsioonikomisjoni otsused apellatsioonikomisjoni esimees ainuisikuliselt, lähtudes käesoleva seaduse § 47 lõikes 4 sätestatust. Otsuse ärakiri edastatakse viivitamata menetlusosalistele. Otsuse peale võib esitada kaebuse Harju Maakohtule 30 päeva jooksul, arvates otsuse ärakirja kättesaamisest. Kohus vaatab kaebuse läbi hagita menetluses."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "50",
+      "title": "§ 50. Menetlusosalised apellatsioonikomisjonis",
+      "content": "(1) Kaebuse menetlemisel apellatsioonikomisjonis on menetlusosalised kaebaja ja Patendiamet.\n(2) Vaidlustusavalduse menetlemisel apellatsioonikomisjonis on menetlusosalised vaidlustusavalduse esitaja ja taotleja või omanik.\n(3) Menetlusosalisel on õigus isiklikult või tööstusomandi seaduses sätestatu kohaselt esindaja kaudu:\n1) anda kaebuse või vaidlustusavalduse kohta kirjalik seisukoht;\n2) esitada täiendavaid dokumente ja avaldusi ning anda selgitusi;\n3) esitada küsimusi teisele menetlusosalisele;\n4) nõuda apellatsioonikomisjoni liikme taandamist."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "51",
+      "title": "§ 51. Menetlusosaliste kirjalikud seisukohad",
+      "content": "(1) Kaebuse või vaidlustusavalduse menetlusse võtmisel saadab apellatsioonikomisjon teisele menetlusosalisele kaebuse või vaidlustusavalduse ärakirja ja teeb talle ettepaneku esitada oma kirjalik seisukoht kolme kuu jooksul, arvates ettepaneku tegemise kuupäevast.\n(2) Kirjalikud seisukohad adresseeritakse apellatsioonikomisjonile ja peavad sisaldama selle esitaja nime ja aadressi, viidet kaebusele või vaidlustusavaldusele ning olema põhjendatud.\n(3) Menetlusosalise esitatud kirjalik seisukoht edastatakse viivitamata teisele menetlusosalisele.\n(4) Asjaolu, et menetlusosaline ei ole oma kirjalikku seisukohta esitanud või küsimusele vastanud, ei takista menetluse jätkamist."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "52",
+      "title": "§ 52. Lisadokumentide esitamine",
+      "content": "(1) Apellatsioonikomisjon võib nõuda lisadokumente enda algatusel või menetlusosalise avalduse alusel.\n(2) Menetlusosalised peavad esitama nõutud lisadokumendid apellatsioonikomisjoni määratud tähtajaks. Menetlusosalise põhjendatud kirjaliku avalduse alusel võib apellatsioonikomisjon pikendada lisadokumentide esitamise tähtaega.\n(3) Lisadokumendid edastatakse viivitamata teisele menetlusosalisele.\n(4) Asjaolu, et menetlusosaline ei ole lisadokumente esitanud, ei takista menetluse jätkamist."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "53",
+      "title": "§ 53. Omavahel seotud iseseisvate nõuete ühendamine",
+      "content": "(1) Apellatsioonikomisjoni esimehel on õigus ühendada oma ainuisikulise otsusega mitu omavahel seotud iseseisvat nõuet.\n(2) Kui ühte menetlusse on ühendatud mitu omavahel seotud iseseisvat nõuet, võib teha neist igaühes eraldi otsuse, kui see kiirendab asja läbivaatamist.\n(3) Kui mitme nõude ühine menetlus toimub ühe vastustaja vastu, ei või teha osaotsust, kui vastustaja selle vastu põhjendatult vaidleb."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "54",
+      "title": "§ 54. Menetluse peatamine, jätkamine ja lõpetamine",
+      "content": "(1) Kaebuse või vaidlustusavalduse menetluse võib apellatsioonikomisjoni esimees oma ainuisikulise otsusega peatada tsiviilkohtumenetluse seadustikus menetluse peatamise kohta käivate sätete alusel, ühe menetlusosalise põhjendatud avalduse alusel või menetlusosaliste ühise avalduse alusel.\n(2) Menetluse peatamise tinginud asjaolude äralangemisel otsustab apellatsioonikomisjoni esimees menetluse jätkamise oma ainuisikulise otsusega.\n(3) Kui kaebuse või vaidlustusavalduse esitaja võtab kaebuse või vaidlustusavalduse tagasi, lõpetab apellatsioonikomisjoni esimees menetluse oma ainuisikulise otsusega. Menetluse lõpetamise otsuse ärakiri saadetakse Patendiametile ka siis, kui Patendiamet ei olnud menetlusosaline.\n(4)"
+    },
+    {
+      "provision_ref": "para54^1",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "54^1",
+      "title": "§ 54^1. Menetlusosaliste lõplikud seisukohad",
+      "content": "(1) Apellatsioonikomisjon ei tee lõplike seisukohtade esitamise ettepanekut enne ühe kuu möödumist menetlusosalistelt seisukohtade saamisest. Menetlusosaline peab esitama lõplikud seisukohad ühe kuu jooksul, arvates ettepaneku tegemisest.\n(2) Ettepanek lõplike seisukohtade esitamiseks tehakse kõigepealt kaebajale või vaidlustusavalduse esitajale. Kaebaja või vaidlustusavalduse esitaja lõplikud seisukohad edastab apellatsioonikomisjon viivitamata teisele menetlusosalisele koos ettepanekuga esitada omapoolsed lõplikud seisukohad. Lõplike seisukohtade esitamist ei võimaldata menetlusosalisel, kes ei ole apellatsioonikomisjonile esitanud kirjalikke seisukohti.\n(3) Koos lõplike seisukohtade esitamisega on menetlusosalisel õigus teha apellatsioonikomisjonile ettepanek kaebuse või vaidlustusavalduse suulise menetlemise (edaspidi istung ) määramise kohta, põhjendades istungi vajalikkust.\n(4) Lõplikes seisukohtades võib viidata üksnes asjaoludele, mis kirjalikes seisukohtades esile toodi, ja tõenditele, mis olid enne lõplike seisukohtade esitamise ettepaneku tegemist apellatsioonikomisjonile esitatud.\n(5) Asjaolu, et menetlusosaline ei ole lõplikke seisukohti esitanud, ei takista lõppmenetluse alustamist ja otsuse tegemist."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "55",
+      "title": "§ 55. Lõppmenetlus",
+      "content": "(1) Eelmenetleja ettepaneku alusel alustab apellatsioonikomisjoni esimees lõppmenetlust, määrates kaebust või vaidlustusavaldust menetleva apellatsioonikomisjoni koosseisu, sealhulgas koosseisu eesistuja. Kui on vaja pidada istung, määrab apellatsioonikomisjoni esimees istungi toimumise aja ja koha.\n(2) Lõppmenetluse alustamine vormistatakse resolutsioonina. Resolutsioon sisaldab kuupäeva ja apellatsioonikomisjoni esimehe allkirja.\n(3) Lõppmenetluses menetleb apellatsioonikomisjon kaebust või vaidlustusavaldust kolmeliikmelises koosseisus. Eelmenetleja on üks koosseisu liikmetest.\n(4) Lõppmenetluse alustamisest ja kaebust või vaidlustusavaldust menetlevast apellatsioonikomisjoni koosseisust ning istungi toimumise korral istungi ajast ja kohast teatatakse viivitamata menetlusosalistele. Teade lõppmenetluse kohta avaldatakse apellatsioonikomisjoni veebilehel."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "56",
+      "title": "§ 56. Istungi aeg ja istungi edasilükkamine",
+      "content": "(1) Istung toimub mitte varem kui 15 päeva ja mitte hiljem kui 30 päeva möödudes istungi aja ja koha määramise päevast arvates.\n(2) Apellatsioonikomisjon võib istungi edasi lükata, kui menetlusosaline esitab istungi edasilükkamiseks põhjendatud avalduse.\n(3) Kui istung lükatakse edasi, teatatakse menetlusosalistele istungi uus aeg ja koht ning selle kohta avaldatakse teade apellatsioonikomisjoni veebilehel.\n(4)"
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "57",
+      "title": "§ 57. Istung",
+      "content": "(1) Apellatsioonikomisjoni istungit juhib koosseisu eesistuja. Istung protokollitakse.\n(2) Istung koosneb:\n1) kohalolijate ja nende volituste kontrollimisest;\n2) menetlusosaliste taandusavalduste ja muude avalduste esitamisest ja lahendamisest;\n3) eelmenetleja lõplikust ja kokkuvõtlikust ülevaatest;\n4) menetlusosaliste seisukohtadest ja väitlusest;\n5) menetlusosaliste ja apellatsioonikomisjoni küsimuste esitamisest ja nendele vastamisest.\n(3) Menetlusosalise või tema esindaja istungile ilmumata jäämine ei takista kaebuse või vaidlustusavalduse menetlemist, kui menetlusosalisele on istungi aeg, koht ja apellatsioonikomisjoni koosseis teatavaks tehtud ning ta ei ole teatanud menetluses osalemist takistavatest olulistest asjaoludest.\n(4)\n(5) Kui menetlusosalised on apellatsioonikomisjonile selgituse andnud ja küsimustele vastanud, lõpetatakse kaebuse või vaidlustusavalduse arutamine ning menetlusosalistele teatatakse, mis ajaks teeb apellatsioonikomisjon otsuse."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "58",
+      "title": "§ 58. Apellatsioonikomisjoni liikme taandamine",
+      "content": "(1) Apellatsioonikomisjoni liige, kes on isiklikult huvitatud kaebuse või vaidlustusavalduse lahendamise tulemusest, kuulub menetlusosalise põhjendatud taandusavalduse alusel taandamisele. Kui käesolevast seadusest ei tulene teisiti, kohaldatakse taandamisele haldusmenetluse seaduse §-s 10 sätestatut.\n(2) Taandusavalduse võib esitada 10 päeva jooksul apellatsioonikomisjoni koosseisu teatavakstegemise päevast arvates. Taandusavalduse võib esitada ka istungi toimumise ajal, aga enne kaebuse või vaidlustusavalduse arutamise algust.\n(3) Taandusavalduse vaatab läbi kaebust või vaidlustusavaldust menetlev apellatsioonikomisjoni koosseis. Kui taandusavaldus rahuldatakse, arvatakse apellatsioonikomisjoni koosseisu taandatud liige kaebust või vaidlustusavaldust menetlevast apellatsioonikomisjoni koosseisust välja ja asendatakse apellatsioonikomisjoni teise liikmega. Kui liikme asendamine istungil ei ole võimalik, lükatakse istung edasi ja määratakse istungi uus toimumise aeg ja koht.\n(4) Kui taandatakse apellatsioonikomisjoni koosseisu kõik liikmed, määrab apellatsioonikomisjoni esimees uue kaebust või vaidlustusavaldust menetleva apellatsioonikomisjoni koosseisu.\n(5) Kui kaebuse või vaidlustusavalduse lahendamine otsustusvõimelise koosseisuga on võimatu, teeb apellatsioonikomisjon kaebuse või vaidlustusavalduse menetluse lõpetamise otsuse. Kaebajal on õigus esitada kaebus Patendiameti otsuse peale Harju Maakohtusse 30 päeva jooksul apellatsioonikomisjonis menetluse lõpetamise otsuse tegemise päevast arvates. Kohus vaatab kaebuse läbi hagita menetluses ja otsustab muu hulgas riigilõivu tagastamise."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "59",
+      "title": "§ 59. Apellatsioonikomisjoni otsuse tegemine",
+      "content": "(1) Apellatsioonikomisjoni otsuse tegemise juures menetlusosalised ei viibi.\n(2) Apellatsioonikomisjoni otsus tehakse häälteenamusega. Hääletamisest keeldumine ei ole lubatud.\n(3) Apellatsioonikomisjoni otsus vormistatakse kirjalikult ja sellele kirjutavad alla kõik kaebust või vaidlustusavaldust menetlenud apellatsioonikomisjoni koosseisu liikmed. Otsus peab olema põhjendatud ning tuginema menetluse käigus kindlakstehtud asjaoludele. Hääletamisel eriarvamusele jäänud apellatsioonikomisjoni liikmel on õigus esitada allkirjade järel oma eriarvamuse lühike sisu.\n(4) Apellatsioonikomisjoni otsuses peab sisalduma:\n1) apellatsioonikomisjoni nimi ja otsuse liik;\n2) kaebuse või vaidlustusavalduse sisu kokkuvõte;\n3) esitatud tõendite ja põhjenduste kokkuvõte;\n4) kaebaja või vaidlustusavalduse esitaja nõue;\n5) viide otsuse tegemisel kohaldatud seadustele;\n6) otsuse põhjendus;\n7) resolutsioon;\n8) selgitused otsuse vaidlustamise korra ja tähtaja kohta;\n9) otsuse tegemise aeg ja koht."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "60",
+      "title": "§ 60. Apellatsioonikomisjonile esitatud tõendid",
+      "content": "Apellatsioonikomisjonile esitatavatele tõenditele kohaldatakse haldusmenetluse seaduse §-s 38 sätestatut."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "61",
+      "title": "§ 61. Apellatsioonikomisjoni otsuse sisu",
+      "content": "(1) Apellatsioonikomisjon jätab kaebuse või vaidlustusavalduse rahuldamata või rahuldab selle täies ulatuses või osaliselt.\n(2) Apellatsioonikomisjon teeb otsuse vastavalt tööstusomandi seadustes sätestatule.\n(3)"
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "62",
+      "title": "§ 62. Apellatsioonikomisjoni otsuse teatavakstegemine",
+      "content": "(1) Apellatsioonikomisjoni otsus tehakse teatavaks otsuse avaldamisega apellatsioonikomisjoni veebilehel. Otsuse teatavakstegemise ajaks loetakse otsuse veebilehel avaldamise kuupäev.\n(2) Apellatsioonikomisjoni otsuse ärakiri saadetakse posti teel viivitamata menetlusosalistele. Patendiametile saadetakse otsuse ärakiri ka siis, kui Patendiamet ei olnud menetlusosaline."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "63",
+      "title": "§ 63. Apellatsioonikomisjoni otsuse jõustumine kaebuse korral",
+      "content": "(1) Kaebaja võib esitada kaebuse apellatsioonikomisjoni otsuse peale Harju Maakohtusse kolme kuu jooksul apellatsioonikomisjoni otsuse avaldamisest arvates. Kohus vaatab kaebuse läbi hagita menetluses. Kaebaja teavitab viivitamata apellatsioonikomisjoni kaebuse esitamisest.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud kaebust ei ole esitatud, jõustub apellatsioonikomisjoni otsus kolme kuu möödumisel otsuse avaldamisest ja kuulub täitmisele.\n(3) Kui käesoleva paragrahvi lõikes 1 nimetatud kaebus esitatakse, kuid kohus ei võta seda menetlusse, jätab kaebuse läbi vaatamata või lõpetab menetluse otsust tegemata, jõustub apellatsioonikomisjoni otsus vastava kohtumääruse jõustumise hetkest, kui kohtumäärusest ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "4. peatükk - APELLATSIOONIKOMISJON",
+      "section": "64",
+      "title": "§ 64. Apellatsioonikomisjoni otsuse jõustumine vaidlustusavalduse korral",
+      "content": "(1) Vaidlustusavalduse menetlusosaline, keda ei rahulda apellatsioonikomisjoni otsus ja kes soovib jätkata vaidlust menetlusosaliste vahel hagimenetluse korras, võib esitada hagi kolme kuu jooksul apellatsioonikomisjoni otsuse avaldamisest arvates. Hageja teavitab viivitamata apellatsioonikomisjoni hagi esitamisest.\n(2) Kui käesoleva paragrahvi lõikes 1 nimetatud hagi ei ole esitatud, jõustub apellatsioonikomisjoni otsus kolme kuu möödumisel otsuse avaldamisest ja kuulub täitmisele.\n(3) Kui käesoleva paragrahvi lõikes 1 nimetatud hagi esitatakse, kuid kohus ei võta hagi menetlusse, jätab hagi läbi vaatamata või lõpetab menetluse otsust tegemata, jõustub apellatsioonikomisjoni otsus vastava kohtumääruse jõustumise hetkest, kui kohtumäärusest ei tulene teisiti."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "65",
+      "title": "§ 65. Üleminekusätted",
+      "content": "(1) Tööstusomandi seaduste alusel asutatud riiklikes registrites sisalduvad andmed loetakse käesoleva seaduse alusel riigi põhiregistritesse kantud andmeteks.\n(2) Käesolevat seadust kohaldatakse enne 2004. aasta 1. maid apellatsioonikomisjonile esitatud kaebuste ja vaidlustusavalduste edasisel menetlemisel, kui käesolevas seaduses ei sätestata teisiti.\n(3)\n(4)\n(4^1) Enne 2004. aasta 1. maid apellatsioonikomisjonile 2004. aasta 1. maini kehtinud kaubamärgiseaduse §-de 24 ja 24^1 alusel esitatud kaubamärgi registreerimise kehtetuks tunnistamise taotlustele määrab apellatsioonikomisjoni esimees eelmenetleja 2005. aasta 1. maiks.\n(5) Kui enne 2004. aasta 1. maid on apellatsioonikomisjon määranud lisadokumentide esitamise tähtpäeva, ei kohaldata käesoleva seaduse § 52 lõiget 2.\n(6) Enne 2004. aasta 1. maid apellatsioonikomisjonile 2004. aasta 1. maini kehtinud kaubamärgiseaduse § 19 alusel esitatud vaidlustusavaldustele ning enne 2004. aasta 1. maid apellatsioonikomisjonile 2004. aasta 1. maini kehtinud kaubamärgiseaduse §-de 24 ja 24^1 alusel esitatud kaubamärgi registreerimise kehtetuks tunnistamise taotlustele kohaldatakse 2004. aasta 1. maini kehtinud kaubamärgiseadust ning nende läbivaatamise kohta kehtivaid vaidlustusavalduste läbivaatamist reguleerivaid sätteid."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "5. peatükk - RAKENDUSSÄTTED",
+      "section": "66",
+      "title": "§ 66. Seaduse jõustumine",
+      "content": "Käesolev seadus jõustub 2004. aasta 1. mail."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "taotlus",
+      "definition": "tööstusomandi kaitse seaduse kohaselt esitatud registreerimistaotlus tööstusomandi esemele õiguskaitse saamiseks. Patendikaitse taotlemise korral mõistetakse taotluse all patenditaotlust",
+      "source_provision": "para3"
+    },
+    {
+      "term": "taotleja",
+      "definition": "isik või selle isiku õigusjärglane, kes on esitanud taotluse tööstusomandi esemele õiguskaitse saamiseks",
+      "source_provision": "para3"
+    },
+    {
+      "term": "omanik",
+      "definition": "isik, kelle kohta on tehtud õiguskaitse saanud tööstusomandi eseme omanikuna registrisse viimane kanne",
+      "source_provision": "para3"
+    },
+    {
+      "term": "tööstusomandi seadus",
+      "definition": "tööstusomandi eseme õiguskaitset sätestav eriseadus",
+      "source_provision": "para3"
+    },
+    {
+      "term": "rahvusvahelised kokkulepped",
+      "definition": "Eesti suhtes kohalduvad tööstusomandi alased konventsioonid ja muud rahvusvahelised kokkulepped",
+      "source_provision": "para3"
+    },
+    {
+      "term": "apellatsioonikomisjon",
+      "definition": "tööstusomandi apellatsioonikomisjon vastavalt käesoleva seaduse 4. peatükile",
+      "source_provision": "para3"
+    }
+  ]
+}
