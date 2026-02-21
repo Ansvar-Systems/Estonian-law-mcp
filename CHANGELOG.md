@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased]
+### Added
+- Full-corpus ingestion mode from Riigi Teataja statute search (`--full`).
+- Maximal statute-key ingestion mode including non-active-only laws (`--all-statutes`).
+- Metadata-only seed persistence for laws where upstream XML has no extractable provisions.
+
+### Changed
+- Replaced synthetic/placeholder seeds with official Riigi Teataja legislation content.
+- Expanded corpus coverage from curated scope to full in-force and all-statutes scopes.
+- Updated documentation with coverage counts and reproducible ingestion/verification commands.
+
 ## [1.0.0] - 2026-02-21
 ### Added
 - Initial release of Estonian Law MCP

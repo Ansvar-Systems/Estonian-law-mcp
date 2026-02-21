@@ -38,6 +38,52 @@ estonian-law-mcp.vercel.app/mcp
 
 > Full provenance: [`sources.yml`](./sources.yml)
 
+## Corpus Coverage
+
+As of **2026-02-21**, the ingestion pipeline supports two statute corpus scopes:
+
+| Scope | Discovery Query | Seed Documents |
+|------|------------------|----------------|
+| In-force corpus | `dokument=seadus&kehtiv=YYYY-MM-DD` | `1561` |
+| All statute keys (including non-active) | `dokument=seadus` with active-preferred dedupe | `1602` |
+
+Current database build from the all-statutes corpus:
+
+- `1602` legal documents
+- `63652` legal provisions
+- `982` definitions
+- `804` EU documents
+- `7088` EU references
+
+Notes:
+
+- The pipeline never fabricates legal text.
+- For statute keys where Riigi Teataja XML has no extractable `paragrahv` text, a metadata-only seed is written.
+- In the current corpus, `2` repealed statutes are metadata-only due to absent provision text in source XML.
+
+## Ingestion & Verification
+
+Ingest in-force corpus (as-of date):
+
+```bash
+npm run ingest -- --full --resume --as-of 2026-02-21
+```
+
+Ingest all statute keys (maximal scope):
+
+```bash
+npm run ingest -- --full --all-statutes --resume --as-of 2026-02-21
+```
+
+Rebuild and verify:
+
+```bash
+npm run build:db
+npm run build
+npm test
+npx tsc --noEmit
+```
+
 ## Tools
 
 | Tool | Description |
