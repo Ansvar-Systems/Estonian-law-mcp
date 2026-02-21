@@ -82,7 +82,7 @@ export async function validateEUCompliance(
         compliance_status: 'not_applicable',
         eu_references_found: 0,
         warnings: [],
-        recommendations: ['No EU cross-references found for this Estonian statute. Poland is not an EU member; EU references indicate comparable frameworks rather than transposition obligations.'],
+        recommendations: ['No EU cross-references found for this Estonian statute. Estonia is an EU Member State; EU references indicate transposition obligations.'],
       },
       _metadata: generateResponseMetadata(db),
     };
