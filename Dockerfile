@@ -19,8 +19,7 @@ COPY --from=builder /app/dist ./dist
 COPY data/database.db ./data/database.db
 
 # Security: non-root user
-RUN addgroup -S nodejs && adduser -S nodejs -G nodejs \
- && chown -R nodejs:nodejs /app/data
+RUN addgroup -S nodejs && adduser -S nodejs -G nodejs
 USER nodejs
 
 ENV NODE_ENV=production
