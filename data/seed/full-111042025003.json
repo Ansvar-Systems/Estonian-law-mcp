@@ -1,0 +1,1184 @@
+{
+  "id": "ee-law-111042025003",
+  "type": "statute",
+  "title": "Eesti Vabariigi põhiseadus",
+  "title_en": "Eesti Vabariigi põhiseadus",
+  "short_name": "PS",
+  "status": "in_force",
+  "issued_date": "1992-06-28",
+  "in_force_date": "2026-03-01",
+  "url": "https://www.riigiteataja.ee/akt/111042025003.xml",
+  "description": "Official consolidated statute text (Eesti Vabariigi põhiseadus) from Riigi Teataja.",
+  "provisions": [
+    {
+      "provision_ref": "para1",
+      "chapter": "I. peatükk - ÜLDSÄTTED",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Eesti on iseseisev ja sõltumatu demokraatlik vabariik, kus kõrgeima riigivõimu kandja on rahvas. Eesti iseseisvus ja sõltumatus on aegumatu ning võõrandamatu."
+    },
+    {
+      "provision_ref": "para2",
+      "chapter": "I. peatükk - ÜLDSÄTTED",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Eesti riigi maa-ala, territoriaalveed ja õhuruum on lahutamatu ja jagamatu tervik. Eesti on riiklikult korralduselt ühtne riik, mille territooriumi haldusjaotuse sätestab seadus."
+    },
+    {
+      "provision_ref": "para3",
+      "chapter": "I. peatükk - ÜLDSÄTTED",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Riigivõimu teostatakse üksnes põhiseaduse ja sellega kooskõlas olevate seaduste alusel. Rahvusvahelise õiguse üldtunnustatud põhimõtted ja normid on Eesti õigussüsteemi lahutamatu osa. Seadused avaldatakse ettenähtud korras. Täitmiseks kohustuslikud saavad olla üksnes avaldatud seadused."
+    },
+    {
+      "provision_ref": "para4",
+      "chapter": "I. peatükk - ÜLDSÄTTED",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Riigikogu, Vabariigi Presidendi, Vabariigi Valitsuse ja kohtute tegevus on korraldatud võimude lahususe ja tasakaalustatuse põhimõttel."
+    },
+    {
+      "provision_ref": "para5",
+      "chapter": "I. peatükk - ÜLDSÄTTED",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Eesti loodusvarad ja loodusressursid on rahvuslik rikkus, mida tuleb kasutada säästlikult."
+    },
+    {
+      "provision_ref": "para6",
+      "chapter": "I. peatükk - ÜLDSÄTTED",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Eesti riigikeel on eesti keel."
+    },
+    {
+      "provision_ref": "para7",
+      "chapter": "I. peatükk - ÜLDSÄTTED",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Eesti riigivärvid on sinine, must ja valge. Riigilipu ja riigivapi kuju sätestab seadus."
+    },
+    {
+      "provision_ref": "para8",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Igal lapsel, kelle vanematest üks on Eesti kodanik, on õigus Eesti kodakondsusele sünnilt. Igaühel, kes on alaealisena kaotanud Eesti kodakondsuse, on õigus selle taastamisele. Kelleltki ei tohi võtta sünniga omandatud Eesti kodakondsust. Kelleltki ei tohi veendumuste pärast võtta Eesti kodakondsust. Eesti kodakondsuse saamise, kaotamise ja taastamise tingimused ning korra sätestab kodakondsuse seadus."
+    },
+    {
+      "provision_ref": "para9",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Põhiseaduses loetletud kõigi ja igaühe õigused, vabadused ja kohustused on võrdselt nii Eesti kodanikel kui ka Eestis viibivatel välisriikide kodanikel ja kodakondsuseta isikutel. Põhiseaduses loetletud õigused, vabadused ja kohustused laienevad juriidilistele isikutele niivõrd, kui see on kooskõlas juriidiliste isikute üldiste eesmärkide ja selliste õiguste, vabaduste ja kohustuste olemusega."
+    },
+    {
+      "provision_ref": "para10",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "Käesolevas peatükis loetletud õigused, vabadused ja kohustused ei välista muid õigusi, vabadusi ega kohustusi, mis tulenevad põhiseaduse mõttest või on sellega kooskõlas ja vastavad inimväärikuse ning sotsiaalse ja demokraatliku õigusriigi põhimõtetele."
+    },
+    {
+      "provision_ref": "para11",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "11",
+      "title": "§ 11.",
+      "content": "Õigusi ja vabadusi tohib piirata ainult kooskõlas põhiseadusega. Need piirangud peavad olema demokraatlikus ühiskonnas vajalikud ega tohi moonutada piiratavate õiguste ja vabaduste olemust."
+    },
+    {
+      "provision_ref": "para12",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "12",
+      "title": "§ 12.",
+      "content": "Kõik on seaduse ees võrdsed. Kedagi ei tohi diskrimineerida rahvuse, rassi, nahavärvuse, soo, keele, päritolu, usutunnistuse, poliitiliste või muude veendumuste, samuti varalise ja sotsiaalse seisundi või muude asjaolude tõttu. Rahvusliku, rassilise, usulise või poliitilise vihkamise, vägivalla ja diskrimineerimise õhutamine on seadusega keelatud ja karistatav. Samuti on seadusega keelatud ja karistatav õhutada vihkamist, vägivalda ja diskrimineerimist ühiskonnakihtide vahel."
+    },
+    {
+      "provision_ref": "para13",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "13",
+      "title": "§ 13.",
+      "content": "Igaühel on õigus riigi ja seaduse kaitsele. Eesti riik kaitseb oma kodanikku ka välisriikides. Seadus kaitseb igaühte riigivõimu omavoli eest."
+    },
+    {
+      "provision_ref": "para14",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "14",
+      "title": "§ 14.",
+      "content": "Õiguste ja vabaduste tagamine on seadusandliku, täidesaatva ja kohtuvõimu ning kohalike omavalitsuste kohustus."
+    },
+    {
+      "provision_ref": "para15",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "15",
+      "title": "§ 15.",
+      "content": "Igaühel on õigus pöörduda oma õiguste ja vabaduste rikkumise korral kohtusse. Igaüks võib oma kohtuasja läbivaatamisel nõuda mis tahes asjassepuutuva seaduse, muu õigusakti või toimingu põhiseadusevastaseks tunnistamist. Kohus järgib põhiseadust ja tunnistab põhiseadusevastaseks mis tahes seaduse, muu õigusakti või toimingu, mis rikub põhiseaduses sätestatud õigusi ja vabadusi või on muul viisil põhiseadusega vastuolus."
+    },
+    {
+      "provision_ref": "para16",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "16",
+      "title": "§ 16.",
+      "content": "Igaühel on õigus elule. Seda õigust kaitseb seadus. Meelevaldselt ei tohi kelleltki elu võtta."
+    },
+    {
+      "provision_ref": "para17",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "17",
+      "title": "§ 17.",
+      "content": "Kellegi au ega head nime ei tohi teotada."
+    },
+    {
+      "provision_ref": "para18",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "18",
+      "title": "§ 18.",
+      "content": "Kedagi ei tohi piinata, julmalt või väärikust alandavalt kohelda ega karistada. Kedagi ei tohi tema vaba tahte vastaselt allutada meditsiini- ega teaduskatsetele."
+    },
+    {
+      "provision_ref": "para19",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "19",
+      "title": "§ 19.",
+      "content": "Igaühel on õigus vabale eneseteostusele. Igaüks peab oma õiguste ja vabaduste kasutamisel ning kohustuste täitmisel austama ja arvestama teiste inimeste õigusi ja vabadusi ning järgima seadust."
+    },
+    {
+      "provision_ref": "para20",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "20",
+      "title": "§ 20.",
+      "content": "Igaühel on õigus vabadusele ja isikupuutumatusele. Vabaduse võib võtta ainult seaduses sätestatud juhtudel ja korras:\n1) süüdimõistva kohtuotsuse või kohtu poolt määratud aresti täitmiseks;\n2) kohtu korralduse täitmata jätmise korral või seadusega sätestatud kohustuse täitmise tagamiseks;\n3) kuriteo või haldusõiguserikkumise ärahoidmiseks, sellises õiguserikkumises põhjendatult kahtlustatava toimetamiseks pädeva riigiorgani ette või tema pakkumineku vältimiseks;\n4) alaealise üle kasvatusliku järelevalve sisseseadmiseks või tema toimetamiseks pädeva riigiorgani ette, et otsustada sellise järelevalve sisseseadmine;\n5) nakkushaige, vaimuhaige, alkohooliku või narkomaani kinnipidamiseks, kui ta on endale või teistele ohtlik;\n6) ebaseadusliku Eestisse asumise tõkestamiseks ning Eestist väljasaatmiseks või välisriigile väljaandmiseks. Kelleltki ei tohi võtta vabadust üksnes sel põhjusel, et ta ei ole suuteline täitma mingit lepingulist kohustust."
+    },
+    {
+      "provision_ref": "para21",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "21",
+      "title": "§ 21.",
+      "content": "Igaühele, kellelt on võetud vabadus, teatatakse viivitamatult talle arusaadavas keeles ja viisil vabaduse võtmise põhjus ja tema õigused ning antakse võimalus teatada vabaduse võtmisest oma lähedastele. Kuriteos kahtlustatavale antakse viivitamatult ka võimalus valida endale kaitsja ja kohtuda temaga. Kuriteos kahtlustatava õigust teatada vabaduse võtmisest oma lähedastele võib piirata ainult seaduses sätestatud juhtudel ja korras kuriteo tõkestamiseks või kriminaalmenetluses tõe väljaselgitamise huvides. Kedagi ei tohi vahi all pidada üle neljakümne kaheksa tunni ilma kohtu sellekohase loata. Kohtu otsus teatatakse vahistatule viivitamatult talle arusaadavas keeles ja viisil."
+    },
+    {
+      "provision_ref": "para22",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "22",
+      "title": "§ 22.",
+      "content": "Kedagi ei tohi käsitada kuriteos süüdi olevana enne, kui tema kohta on jõustunud süüdimõistev kohtuotsus. Keegi ei ole kriminaalmenetluses kohustatud oma süütust tõendama. Kedagi ei tohi sundida tunnistama iseenda või oma lähedaste vastu."
+    },
+    {
+      "provision_ref": "para23",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "23",
+      "title": "§ 23.",
+      "content": "Kedagi ei tohi süüdi mõista teo eest, kui seda tegu ei tunnista kuriteoks seadus, mis oli jõus teo toimepanemise ajal. Kellelegi ei tohi mõista raskemat karistust kui see, mida võinuks talle mõista õiguserikkumise toimepanemise ajal. Kui seadus sätestab pärast õiguserikkumise toimepanemist kergema karistuse, kohaldatakse kergemat karistust. Kedagi ei tohi teist korda kohtu alla anda ega karistada teo eest, milles teda vastavalt seadusele on mõistetud lõplikult süüdi või õigeks."
+    },
+    {
+      "provision_ref": "para24",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "24",
+      "title": "§ 24.",
+      "content": "Kedagi ei tohi tema vaba tahte vastaselt üle viia seadusega määratud kohtu alluvusest teise kohtu alluvusse. Igaühel on õigus olla oma kohtuasja arutamise juures. Kohtuistungid on avalikud. Kohus võib seaduses sätestatud juhtudel ja korras oma istungi või osa sellest kuulutada kinniseks riigi- või ärisaladuse, kõlbluse või inimeste perekonna- ja eraelu kaitseks või kui seda nõuavad alaealise, kannatanu või õigusemõistmise huvid. Kohtuotsus kuulutatakse avalikult, välja arvatud juhud, kui alaealise, abielupoole või kannatanu huvid nõuavad teisiti. Igaühel on õigus tema kohta tehtud kohtu otsuse peale seadusega sätestatud korras edasi kaevata kõrgemalseisvale kohtule."
+    },
+    {
+      "provision_ref": "para25",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "25",
+      "title": "§ 25.",
+      "content": "Igaühel on õigus talle ükskõik kelle poolt õigusvastaselt tekitatud moraalse ja materiaalse kahju hüvitamisele."
+    },
+    {
+      "provision_ref": "para26",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "26",
+      "title": "§ 26.",
+      "content": "Igaühel on õigus perekonna- ja eraelu puutumatusele. Riigiasutused, kohalikud omavalitsused ja nende ametiisikud ei tohi kellegi perekonna- ega eraellu sekkuda muidu, kui seaduses sätestatud juhtudel ja korras tervise, kõlbluse, avaliku korra või teiste inimeste õiguste ja vabaduste kaitseks, kuriteo tõkestamiseks või kurjategija tabamiseks."
+    },
+    {
+      "provision_ref": "para27",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "27",
+      "title": "§ 27.",
+      "content": "Perekond rahva püsimise ja kasvamise ning ühiskonna alusena on riigi kaitse all. Abikaasad on võrdõiguslikud. Vanematel on õigus ja kohustus kasvatada oma lapsi ja hoolitseda nende eest. Seadus sätestab vanemate ja laste kaitse. Perekond on kohustatud hoolitsema oma abivajavate liikmete eest."
+    },
+    {
+      "provision_ref": "para28",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "28",
+      "title": "§ 28.",
+      "content": "Igaühel on õigus tervise kaitsele. Eesti kodanikul on õigus riigi abile vanaduse, töövõimetuse, toitjakaotuse ja puuduse korral. Abi liigid, ulatuse ning saamise tingimused ja korra sätestab seadus. Kui seadus ei sätesta teisiti, siis on see õigus võrdselt Eesti kodanikuga ka Eestis viibival välisriigi kodanikul ja kodakondsuseta isikul. Riik soodustab vabatahtlikku ja omavalitsuse hoolekannet. Lasterikkad pered ja puuetega inimesed on riigi ja kohalike omavalitsuste erilise hoole all."
+    },
+    {
+      "provision_ref": "para29",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "29",
+      "title": "§ 29.",
+      "content": "Eesti kodanikul on õigus vabalt valida tegevusala, elukutset ja töökohta. Seadus võib sätestada selle õiguse kasutamise tingimused ja korra. Kui seadus ei sätesta teisiti, siis on see õigus võrdselt Eesti kodanikuga ka Eestis viibival välisriigi kodanikul ja kodakondsuseta isikul. Kedagi ei tohi sundida tema vaba tahte vastaselt tööle ega teenistusse, välja arvatud kaitseväeteenistus või selle asendusteenistus, tööd nakkushaiguse leviku tõkestamisel, loodusõnnetuse ja katastroofi korral ning töö, mida seaduse alusel ja korras peab tegema süüdimõistetu. Riik korraldab kutseõpet ja abistab tööotsijaid töö leidmisel. Töötingimused on riigi kontrolli all. Töötajate ja tööandjate ühingutesse ja liitudesse kuulumine on vaba. Töötajate ja tööandjate ühingud ja liidud võivad oma õiguste ja seaduslike huvide eest seista vahenditega, mida seadus ei keela. Streigiõiguse kasutamise tingimused ja korra sätestab seadus. Töövaidluste lahendamise korra sätestab seadus."
+    },
+    {
+      "provision_ref": "para30",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "30",
+      "title": "§ 30.",
+      "content": "Ametikohad riigiasutustes ja kohalikes omavalitsustes täidetakse seaduse alusel ja korras Eesti kodanikega. Kooskõlas seadusega võib neid ametikohti erandkorras täita ka välisriigi kodanike ja kodakondsuseta isikutega. Seadus võib piirata mõne kategooria riigiteenistujate õigust tegelda ettevõtlusega ja koonduda tulundusühendustesse (§ 31) ning õigust kuuluda erakondadesse ja mõnda liiki mittetulundusühendustesse (§ 48)."
+    },
+    {
+      "provision_ref": "para31",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "31",
+      "title": "§ 31.",
+      "content": "Eesti kodanikel on õigus tegelda ettevõtlusega ning koonduda tulundusühingutesse ja -liitudesse. Seadus võib sätestada selle õiguse kasutamise tingimused ja korra. Kui seadus ei sätesta teisiti, siis on see õigus võrdselt Eesti kodanikega ka Eestis viibivatel välisriikide kodanikel ja kodakondsuseta isikutel."
+    },
+    {
+      "provision_ref": "para32",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "32",
+      "title": "§ 32.",
+      "content": "Igaühe omand on puutumatu ja võrdselt kaitstud. Omandit võib omaniku nõusolekuta võõrandada ainult seaduses sätestatud juhtudel ja korras üldistes huvides õiglase ja kohese hüvituse eest. Igaühel, kelle vara on tema nõusolekuta võõrandatud, on õigus pöörduda kohtusse ning vaidlustada vara võõrandamine, hüvitus või selle suurus. Igaühel on õigus enda omandit vabalt vallata, kasutada ja käsutada. Kitsendused sätestab seadus. Omandit ei tohi kasutada üldiste huvide vastaselt. Seadus võib üldistes huvides sätestada vara liigid, mida tohivad Eestis omandada ainult Eesti kodanikud, mõnda liiki juriidilised isikud, kohalikud omavalitsused või Eesti riik. Pärimisõigus on tagatud."
+    },
+    {
+      "provision_ref": "para33",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "33",
+      "title": "§ 33.",
+      "content": "Kodu on puutumatu. Ei tohi tungida kellegi eluruumi, valdusse ega töökohta ega neid ka läbi otsida, välja arvatud seadusega sätestatud juhtudel ja korras avaliku korra, tervise või teiste inimeste õiguste ja vabaduste kaitseks, kuriteo tõkestamiseks, kurjategija tabamiseks või tõe väljaselgitamiseks kriminaalmenetluses."
+    },
+    {
+      "provision_ref": "para34",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "34",
+      "title": "§ 34.",
+      "content": "Igaühel, kes viibib seaduslikult Eestis, on õigus vabalt liikuda ja elukohta valida. Õigust vabalt liikuda võib seaduses sätestatud juhtudel ja korras piirata teiste inimeste õiguste ja vabaduste kaitseks, riigikaitse huvides, loodusõnnetuse ja katastroofi korral, nakkushaiguse leviku tõkestamiseks, looduskeskkonna kaitseks, alaealise või vaimuhaige järelevalvetuse ärahoidmiseks ja kriminaalasja menetluse tagamiseks."
+    },
+    {
+      "provision_ref": "para35",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "35",
+      "title": "§ 35.",
+      "content": "Igaühel on õigus lahkuda Eestist. Seda õigust võib seaduses sätestatud juhtudel ja korras piirata kohtu- ning kohtueelse menetluse tagamiseks ja kohtuotsuse täitmiseks."
+    },
+    {
+      "provision_ref": "para36",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "36",
+      "title": "§ 36.",
+      "content": "Ühtki Eesti kodanikku ei tohi Eestist välja saata ega takistada Eestisse asumast. Ühtki Eesti kodanikku ei tohi välisriigile välja anda muidu, kui välislepingus ettenähtud juhtudel ning vastavas lepingus ja seaduses sätestatud korras. Väljaandmise otsustab Vabariigi Valitsus. Igal väljaantaval on õigus vaidlustada väljaandmine Eesti kohtus. Igal eestlasel on õigus asuda Eestisse."
+    },
+    {
+      "provision_ref": "para37",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "37",
+      "title": "§ 37.",
+      "content": "Igaühel on õigus haridusele. Õppimine on kooliealistel lastel seadusega määratud ulatuses kohustuslik ning riigi ja kohalike omavalitsuste üldhariduskoolides õppemaksuta. Et teha haridus kättesaadavaks, peavad riik ja kohalikud omavalitsused ülal vajalikul arvul õppeasutusi. Seaduse alusel võib avada ja pidada ka muid õppeasutusi, sealhulgas erakoole. Laste hariduse valikul on otsustav sõna vanematel. Igaühel on õigus saada eestikeelset õpetust. Õppekeele vähemusrahvuse õppeasutuses valib õppeasutus. Hariduse andmine on riigi järelevalve all."
+    },
+    {
+      "provision_ref": "para38",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "38",
+      "title": "§ 38.",
+      "content": "Teadus ja kunst ning nende õpetused on vabad. Ülikoolid ja teadusasutused on seaduses ettenähtud piires autonoomsed."
+    },
+    {
+      "provision_ref": "para39",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "39",
+      "title": "§ 39.",
+      "content": "Autoril on võõrandamatu õigus oma loomingule. Riik kaitseb autori õigusi."
+    },
+    {
+      "provision_ref": "para40",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "40",
+      "title": "§ 40.",
+      "content": "Igaühel on südametunnistuse-, usu- ja mõttevabadus. Kuulumine kirikutesse ja usuühingutesse on vaba. Riigikirikut ei ole. Igaühel on vabadus nii üksinda kui ka koos teistega, avalikult või eraviisiliselt täita usutalitusi, kui see ei kahjusta avalikku korda, tervist ega kõlblust."
+    },
+    {
+      "provision_ref": "para41",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "41",
+      "title": "§ 41.",
+      "content": "Igaühel on õigus jääda truuks oma arvamustele ja veendumustele. Kedagi ei tohi sundida neid muutma. Veendumustega ei saa vabandada õiguserikkumist. Kedagi ei saa veendumuste pärast võtta õiguslikule vastutusele."
+    },
+    {
+      "provision_ref": "para42",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "42",
+      "title": "§ 42.",
+      "content": "Riigiasutused, kohalikud omavalitsused ja nende ametiisikud ei tohi Eesti kodaniku vaba tahte vastaselt koguda ega talletada andmeid tema veendumuste kohta."
+    },
+    {
+      "provision_ref": "para43",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "43",
+      "title": "§ 43.",
+      "content": "Igaühel on õigus tema poolt või temale posti, telegraafi, telefoni või muul üldkasutataval teel edastatavate sõnumite saladusele. Erandeid võib kohtu loal teha kuriteo tõkestamiseks või kriminaalmenetluses tõe väljaselgitamiseks seadusega sätestatud juhtudel ja korras."
+    },
+    {
+      "provision_ref": "para44",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "44",
+      "title": "§ 44.",
+      "content": "Igaühel on õigus vabalt saada üldiseks kasutamiseks levitatavat informatsiooni. Kõik riigiasutused, kohalikud omavalitsused ja nende ametiisikud on kohustatud seaduses sätestatud korras andma Eesti kodanikule tema nõudel informatsiooni oma tegevuse kohta, välja arvatud andmed, mille väljaandmine on seadusega keelatud, ja eranditult asutusesiseseks kasutamiseks mõeldud andmed. Eesti kodanikul on õigus seaduses sätestatud korras tutvuda tema kohta riigiasutustes ja kohalikes omavalitsustes ning riigi ja kohalike omavalitsuste arhiivides hoitavate andmetega. Seaduse alusel võib seda õigust piirata teiste inimeste õiguste ja vabaduste ning lapse põlvnemise saladuse kaitseks, samuti kuriteo tõkestamise, kurjategija tabamise või kriminaalmenetluses tõe väljaselgitamise huvides. Kui seadus ei sätesta teisiti, siis on käesoleva paragrahvi lõigetes kaks ja kolm nimetatud õigused võrdselt Eesti kodanikuga ka Eestis viibival välisriigi kodanikul ja kodakondsuseta isikul."
+    },
+    {
+      "provision_ref": "para45",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "45",
+      "title": "§ 45.",
+      "content": "Igaühel on õigus vabalt levitada ideid, arvamusi, veendumusi ja muud informatsiooni sõnas, trükis, pildis või muul viisil. Seda õigust võib seadus piirata avaliku korra, kõlbluse, teiste inimeste õiguste ja vabaduste, tervise, au ning hea nime kaitseks. Seadus võib seda õigust piirata ka riigi ja kohalike omavalitsuste teenistujatel neile ameti tõttu teatavaks saanud riigi- või ärisaladuse või konfidentsiaalsena saadud informatsiooni ning teiste inimeste perekonna- ja eraelu kaitseks, samuti õigusemõistmise huvides. Tsensuuri ei ole."
+    },
+    {
+      "provision_ref": "para46",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "46",
+      "title": "§ 46.",
+      "content": "Igaühel on õigus pöörduda märgukirjade ja avaldustega riigiasutuste, kohalike omavalitsuste ja nende ametiisikute poole. Vastamise korra sätestab seadus."
+    },
+    {
+      "provision_ref": "para47",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "47",
+      "title": "§ 47.",
+      "content": "Kõigil on õigus ilma eelneva loata rahumeelselt koguneda ja koosolekuid pidada. Seda õigust võib seaduses sätestatud juhtudel ja korras piirata riigi julgeoleku, avaliku korra, kõlbluse, liiklusohutuse ja koosolekust osavõtjate ohutuse tagamiseks ning nakkushaiguse leviku tõkestamiseks."
+    },
+    {
+      "provision_ref": "para48",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "48",
+      "title": "§ 48.",
+      "content": "Igaühel on õigus koonduda mittetulundusühingutesse ja -liitudesse. Erakondadesse võivad kuuluda ainult Eesti kodanikud. Relvi valdavate, samuti sõjaväeliselt korraldatud või sõjalisi harjutusi harrastavate ühingute ja liitude loomiseks on nõutav eelnev luba, mille andmise tingimused ja korra sätestab seadus. Keelatud on ühingud, liidud ja erakonnad, kelle eesmärgid või tegevus on suunatud Eesti põhiseadusliku korra vägivaldsele muutmisele või on muul viisil vastuolus kriminaalvastutust sätestava seadusega. Ainult kohus võib õiguserikkumise eest ühingu, liidu või erakonna tegevuse lõpetada või peatada, samuti teda trahvida."
+    },
+    {
+      "provision_ref": "para49",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "49",
+      "title": "§ 49.",
+      "content": "Igaühel on õigus säilitada oma rahvuskuuluvus."
+    },
+    {
+      "provision_ref": "para50",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "50",
+      "title": "§ 50.",
+      "content": "Vähemusrahvustel on õigus luua rahvuskultuuri huvides omavalitsusasutusi vähemusrahvuste kultuurautonoomia seaduses sätestatud tingimustel ja korras."
+    },
+    {
+      "provision_ref": "para51",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "51",
+      "title": "§ 51.",
+      "content": "Igaühel on õigus pöörduda riigiasutuste, kohalike omavalitsuste ja nende ametiisikute poole eesti keeles ja saada eestikeelseid vastuseid. Paikkondades, kus vähemalt pooled püsielanikest on vähemusrahvusest, on igaühel õigus saada riigiasutustelt ja kohalikelt omavalitsustelt ning nende ametiisikutelt vastuseid ka selle vähemusrahvuse keeles."
+    },
+    {
+      "provision_ref": "para52",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "52",
+      "title": "§ 52.",
+      "content": "Riigiasutuste ja kohalike omavalitsuste asjaajamiskeel on eesti keel. Paikkondades, kus elanike enamiku keel ei ole eesti keel, võivad kohalikud omavalitsused seaduses sätestatud ulatuses ja korras kasutada sisemise asjaajamiskeelena selle paikkonna püsielanike enamiku keelt. Võõrkeelte, sealhulgas vähemusrahvuste keelte kasutamise riigiasutuses ning kohtu- ja kohtueelses menetluses sätestab seadus."
+    },
+    {
+      "provision_ref": "para53",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "53",
+      "title": "§ 53.",
+      "content": "Igaüks on kohustatud säästma elu- ja looduskeskkonda ning hüvitama kahju, mis ta on keskkonnale tekitanud. Hüvitamise korra sätestab seadus."
+    },
+    {
+      "provision_ref": "para54",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "54",
+      "title": "§ 54.",
+      "content": "Eesti kodaniku kohus on olla ustav põhiseaduslikule korrale ning kaitsta Eesti iseseisvust. Kui muid vahendeid ei leidu, on igal Eesti kodanikul õigus osutada põhiseadusliku korra vägivaldsele muutmisele omaalgatuslikku vastupanu."
+    },
+    {
+      "provision_ref": "para55",
+      "chapter": "II. peatükk - PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "section": "55",
+      "title": "§ 55.",
+      "content": "Eestis viibivad teiste riikide kodanikud ja kodakondsuseta isikud on kohustatud järgima Eesti põhiseaduslikku korda."
+    },
+    {
+      "provision_ref": "para56",
+      "chapter": "III. peatükk - RAHVAS",
+      "section": "56",
+      "title": "§ 56.",
+      "content": "Kõrgeimat riigivõimu teostab rahvas hääleõiguslike kodanike kaudu:\n1) Riigikogu valimisega;\n2) rahvahääletusega."
+    },
+    {
+      "provision_ref": "para57",
+      "chapter": "III. peatükk - RAHVAS",
+      "section": "57",
+      "title": "§ 57.",
+      "content": "Hääleõiguslik on Eesti kodanik, kes on saanud kaheksateist aastat vanaks. Hääleõiguslik ei ole Eesti kodanik, kes on kohtu poolt tunnistatud teovõimetuks."
+    },
+    {
+      "provision_ref": "para58",
+      "chapter": "III. peatükk - RAHVAS",
+      "section": "58",
+      "title": "§ 58.",
+      "content": "Seadusega võib piirata nende Eesti kodanike osavõttu hääletamisest, kes on kohtu poolt süüdi mõistetud ja kannavad karistust kinnipidamiskohtades."
+    },
+    {
+      "provision_ref": "para59",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "59",
+      "title": "§ 59.",
+      "content": "Seadusandlik võim kuulub Riigikogule."
+    },
+    {
+      "provision_ref": "para60",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "60",
+      "title": "§ 60.",
+      "content": "Riigikogul on sada üks liiget. Riigikogu liikmed valitakse vabadel valimistel proportsionaalsuse põhimõtte alusel. Valimised on üldised, ühetaolised ja otsesed. Hääletamine on salajane. Riigikogusse võib kandideerida iga vähemalt kahekümne ühe aastane hääleõiguslik Eesti kodanik. Riigikogu korralised valimised toimuvad märtsikuu esimesel pühapäeval neljandal aastal, mis järgneb Riigikogu eelmiste valimiste aastale. Riigikogu erakorralised valimised toimuvad põhiseaduse §-des 89, 97, 105 ja 119 ettenähtud juhtudel varemalt kakskümmend ja hiljemalt nelikümmend päeva pärast valimiste väljakuulutamist. Riigikogu valimise korra sätestab Riigikogu valimise seadus."
+    },
+    {
+      "provision_ref": "para61",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "61",
+      "title": "§ 61.",
+      "content": "Riigikogu liikmete volitused algavad valimistulemuste väljakuulutamise päevast. Samast päevast lõpevad Riigikogu eelmise koosseisu liikmete volitused. Riigikogu liige annab enne oma kohustuste täitmisele asumist ametivande jääda ustavaks Eesti Vabariigile ja tema põhiseaduslikule korrale."
+    },
+    {
+      "provision_ref": "para62",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "62",
+      "title": "§ 62.",
+      "content": "Riigikogu liige ei ole seotud mandaadiga ega kanna õiguslikku vastutust hääletamise ja poliitiliste avalduste eest Riigikogus või selle organites."
+    },
+    {
+      "provision_ref": "para63",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "63",
+      "title": "§ 63.",
+      "content": "Riigikogu liige ei tohi olla üheski muus riigiametis. Riigikogu liige on oma volituste ajaks vabastatud kaitseväeteenistuse kohustusest."
+    },
+    {
+      "provision_ref": "para64",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "64",
+      "title": "§ 64.",
+      "content": "Riigikogu liikme volitused peatuvad tema nimetamisel Vabariigi Valitsuse liikmeks ja taastuvad tema vabastamisel valitsuse liikme kohustustest. Riigikogu liikme volitused lõpevad enne tähtaega:\n1) tema asumisega mõnda teise riigiametisse;\n2) teda süüdi mõistva kohtuotsuse jõustumisel;\n3) tema tagasiastumisega seaduses sätestatud korras;\n4) kui Riigikohus on otsustanud, et ta on kestvalt võimetu oma ülesandeid täitma;\n5) tema surma korral. Riigikogu liikme volituste peatumisel või ennetähtaegsel lõppemisel astub seaduses sätestatud korras tema asemele asendusliige. Asendusliikmel on kõik Riigikogu liikme õigused ja kohustused. Riigikogu liikme volituste taastumisel lõpevad asendusliikme volitused."
+    },
+    {
+      "provision_ref": "para65",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "65",
+      "title": "§ 65.",
+      "content": "Riigikogu:\n1) võtab vastu seadusi ja otsuseid;\n2) otsustab rahvahääletuse korraldamise;\n3) valib Vabariigi Presidendi vastavalt põhiseaduse §-le 79;\n4) ratifitseerib ja denonsseerib välislepinguid vastavalt põhiseaduse §-le 121;\n5) annab peaministrikandidaadile volitused Vabariigi Valitsuse moodustamiseks;\n6) võtab vastu riigieelarve ja kinnitab selle täitmise aruande;\n7) nimetab Vabariigi Presidendi ettepanekul ametisse Riigikohtu esimehe, Eesti Panga nõukogu esimehe, riigikontrolöri ja õiguskantsleri;\n8) nimetab Riigikohtu esimehe ettepanekul ametisse Riigikohtu liikmed;\n9) nimetab Eesti Panga nõukogu liikmed;\n10) otsustab Vabariigi Valitsuse ettepanekul riigilaenude tegemise ja riigile muude varaliste kohustuste võtmise;\n11) esineb avalduste ja deklaratsioonidega ning pöördumistega Eesti rahva, teiste riikide ning rahvusvaheliste organisatsioonide poole;\n12) kehtestab riiklikud autasud, sõjaväelised ja diplomaatilised auastmed;\n13) otsustab umbusalduse avaldamise Vabariigi Valitsusele, peaministrile või ministrile;\n14) kuulutab riigis välja erakorralise seisukorra vastavalt põhiseaduse §-le 129;\n15) kuulutab Vabariigi Presidendi ettepanekul välja sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni;\n16) lahendab muid riigielu küsimusi, mis ei ole põhiseadusega antud Vabariigi Presidendi, Vabariigi Valitsuse, teiste riigiorganite või kohalike omavalitsuste otsustada."
+    },
+    {
+      "provision_ref": "para66",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "66",
+      "title": "§ 66.",
+      "content": "Riigikogu uue koosseisu esimene istung toimub kümne päeva jooksul arvates Riigikogu valimise tulemuste väljakuulutamisest. Esimeseks istungiks kutsub Riigikogu kokku Vabariigi President."
+    },
+    {
+      "provision_ref": "para67",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "67",
+      "title": "§ 67.",
+      "content": "Riigikogu korralised istungjärgud toimuvad jaanuarikuu teisest esmaspäevast juunikuu kolmanda neljapäevani ning septembrikuu teisest esmaspäevast detsembrikuu kolmanda neljapäevani."
+    },
+    {
+      "provision_ref": "para68",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "68",
+      "title": "§ 68.",
+      "content": "Riigikogu erakorralised istungjärgud kutsub kokku Riigikogu esimees Vabariigi Presidendi, Vabariigi Valitsuse või vähemalt viiendiku Riigikogu koosseisu ettepanekul."
+    },
+    {
+      "provision_ref": "para69",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "69",
+      "title": "§ 69.",
+      "content": "Riigikogu valib oma liikmete hulgast Riigikogu esimehe ja kaks aseesimeest, kes korraldavad Riigikogu tööd vastavalt Riigikogu kodukorra seadusele ja Riigikogu töökorra seadusele."
+    },
+    {
+      "provision_ref": "para70",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "70",
+      "title": "§ 70.",
+      "content": "Riigikogu otsustusvõimelisuse sätestab Riigikogu kodukorra seadus. Erakorralisel istungjärgul on Riigikogu otsustusvõimeline, kui kohal on üle poole Riigikogu koosseisust."
+    },
+    {
+      "provision_ref": "para71",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "71",
+      "title": "§ 71.",
+      "content": "Riigikogu moodustab komisjone. Riigikogu liikmetel on õigus ühineda fraktsioonidesse. Komisjonide ja fraktsioonide moodustamise korra ning õigused sätestab Riigikogu kodukorra seadus."
+    },
+    {
+      "provision_ref": "para72",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "72",
+      "title": "§ 72.",
+      "content": "Riigikogu istungid on avalikud, kui Riigikogu ei otsusta kahekolmandikulise häälteenamusega teisiti. Hääletamine Riigikogus on avalik. Salajast hääletamist korraldatakse põhiseaduses või Riigikogu kodukorra seaduses ettenähtud juhtudel ainult ametiisikute valimisel või nimetamisel."
+    },
+    {
+      "provision_ref": "para73",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "73",
+      "title": "§ 73.",
+      "content": "Riigikogu aktid võetakse vastu poolthäälte enamusega, kui põhiseadus ei näe ette teisiti."
+    },
+    {
+      "provision_ref": "para74",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "74",
+      "title": "§ 74.",
+      "content": "Riigikogu liikmel on õigus pöörduda arupärimisega Vabariigi Valitsuse ja tema liikmete, Eesti Panga nõukogu esimehe, Eesti Panga presidendi, riigikontrolöri ja õiguskantsleri poole. Arupärimisele tuleb vastata Riigikogu istungil kahekümne istungipäeva jooksul."
+    },
+    {
+      "provision_ref": "para75",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "75",
+      "title": "§ 75.",
+      "content": "Riigikogu liikme tasu ning piirangud muu töötulu saamisel sätestab seadus, mida tohib muuta Riigikogu järgmise koosseisu kohta."
+    },
+    {
+      "provision_ref": "para76",
+      "chapter": "IV. peatükk - RIIGIKOGU",
+      "section": "76",
+      "title": "§ 76.",
+      "content": "Riigikogu liige on puutumatu. Teda saab kriminaalvastutusele võtta ainult õiguskantsleri ettepanekul Riigikogu koosseisu enamuse nõusolekul."
+    },
+    {
+      "provision_ref": "para77",
+      "chapter": "V. peatükk - VABARIIGI PRESIDENT",
+      "section": "77",
+      "title": "§ 77.",
+      "content": "Vabariigi President on Eesti riigipea."
+    },
+    {
+      "provision_ref": "para78",
+      "chapter": "V. peatükk - VABARIIGI PRESIDENT",
+      "section": "78",
+      "title": "§ 78.",
+      "content": "Vabariigi President:\n1) esindab Eesti Vabariiki rahvusvahelises suhtlemises;\n2) nimetab ja kutsub tagasi Vabariigi Valitsuse ettepanekul Eesti Vabariigi diplomaatilised esindajad ning võtab vastu Eestisse akrediteeritud diplomaatiliste esindajate volikirjad;\n3) kuulutab välja Riigikogu korralised valimised ja vastavalt põhiseaduse §-dele 89, 97, 105 ja 119 Riigikogu erakorralised valimised;\n4) kutsub kokku Riigikogu uue koosseisu vastavalt põhiseaduse §-le 66 ja avab selle esimese istungi;\n5) teeb Riigikogu esimehele ettepaneku Riigikogu erakorralise istungjärgu kokkukutsumiseks vastavalt põhiseaduse §-le 68;\n6) kuulutab välja seadused vastavalt põhiseaduse §-dele 105 ja 107 ning kirjutab alla ratifitseerimiskirjadele;\n7) annab seadlusi vastavalt põhiseaduse §-dele 109 ja 110;\n8) algatab põhiseaduse muutmist;\n9) määrab peaministrikandidaadi vastavalt põhiseaduse §-le 89;\n10) nimetab ametisse ja vabastab ametist valitsuse liikmed vastavalt põhiseaduse §-dele 89, 90 ja 92;\n11) teeb Riigikogule ettepaneku Riigikohtu esimehe, Eesti Panga nõukogu esimehe, riigikontrolöri ja õiguskantsleri ametissenimetamiseks;\n12) nimetab Eesti Panga nõukogu ettepanekul ametisse Eesti Panga presidendi;\n13) nimetab Riigikohtu ettepanekul kohtunikud;\n14)\n15) annab riiklikke autasusid, sõjaväelisi ja diplomaatilisi auastmeid;\n16) on Eesti riigikaitse kõrgeim juht;\n17) teeb Riigikogule ettepanekud sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ning vastavalt põhiseaduse §-le 129 erakorralise seisukorra väljakuulutamiseks;\n18) kuulutab Eesti vastu suunatud agressiooni korral välja sõjaseisukorra ja mobilisatsiooni vastavalt põhiseaduse §-le 128;\n19) vabastab süüdimõistetuid nende palvel armuandmise korras karistuse kandmisest või kergendab karistust;\n20) algatab õiguskantsleri kriminaalvastutusele võtmise vastavalt põhiseaduse §-le 145."
+    },
+    {
+      "provision_ref": "para79",
+      "chapter": "V. peatükk - VABARIIGI PRESIDENT",
+      "section": "79",
+      "title": "§ 79.",
+      "content": "Vabariigi Presidendi valib Riigikogu või käesoleva paragrahvi neljandas lõikes sätestatud juhul valimiskogu. Vabariigi Presidendi kandidaadi ülesseadmise õigus on vähemalt viiendikul Riigikogu koosseisust. Vabariigi Presidendi kandidaadiks võib seada sünnilt Eesti kodaniku, kes on vähemalt nelikümmend aastat vana. Vabariigi President valitakse salajasel hääletusel. Igal Riigikogu liikmel on üks hääl. Valituks tunnistatakse kandidaat, kelle poolt hääletab Riigikogu koosseisu kahekolmandikuline enamus. Kui ükski kandidaat ei saa nõutavat häälteenamust, siis korraldatakse järgmisel päeval uus hääletusvoor. Enne teist hääletusvooru toimub uus kandidaatide ülesseadmine. Kui teises hääletusvoorus ei saa ükski kandidaat nõutavat häälteenamust, siis korraldatakse kahe teises voorus enim hääli saanud kandidaadi vahel samal päeval kolmas hääletusvoor. Kui Vabariigi Presidenti ei valita ka kolmandas hääletusvoorus, kutsub Riigikogu esimees ühe kuu jooksul Vabariigi Presidendi valimiseks kokku valimiskogu. Valimiskogu koosneb Riigikogu liikmetest ja kohalike omavalitsuste volikogude esindajatest. Iga kohaliku omavalitsuse volikogu valib valimiskogusse vähemalt ühe esindaja, kes peab olema Eesti kodanik. Riigikogu esitab valimiskogule presidendikandidaadiks kaks Riigikogus enim hääli saanud kandidaati. Presidendikandidaadi ülesseadmise õigus on ka vähemalt kahekümne ühel valimiskogu liikmel. Valimiskogu valib Vabariigi Presidendi hääletamisest osavõtnud valimiskogu liikmete häälteenamusega. Kui esimeses voorus ükski kandidaat ei osutu valituks, korraldatakse samal päeval kahe enim hääli saanud kandidaadi vahel teine hääletusvoor. Vabariigi Presidendi valimise täpsema korra sätestab Vabariigi Presidendi valimise seadus."
+    },
+    {
+      "provision_ref": "para80",
+      "chapter": "V. peatükk - VABARIIGI PRESIDENT",
+      "section": "80",
+      "title": "§ 80.",
+      "content": "Vabariigi President valitakse ametisse viieks aastaks. Kedagi ei tohi valida Vabariigi Presidendiks rohkem kui kaheks ametiajaks järjestikku. Vabariigi Presidendi korralised valimised toimuvad varemalt kuuskümmend ja hiljemalt kümme päeva enne Vabariigi Presidendi ametiaja lõppemist."
+    },
+    {
+      "provision_ref": "para81",
+      "chapter": "V. peatükk - VABARIIGI PRESIDENT",
+      "section": "81",
+      "title": "§ 81.",
+      "content": "Vabariigi President astub ametisse järgmise ametivande andmisega Eesti rahvale Riigikogu ees: \"Astudes Vabariigi Presidendi ametisse, annan mina, (ees- ja perekonnanimi), pühaliku tõotuse kaitsta vankumata Eesti Vabariigi põhiseadust ja seadusi, õiglaselt ja erapooletult kasutada minule antud võimu ning täita ustavalt oma kohuseid kõigi oma võimete ja parima arusaamisega Eesti rahva ja Vabariigi kasuks.\""
+    },
+    {
+      "provision_ref": "para82",
+      "chapter": "V. peatükk - VABARIIGI PRESIDENT",
+      "section": "82",
+      "title": "§ 82.",
+      "content": "Vabariigi Presidendi volitused lõpevad:\n1) ametist tagasiastumisega;\n2) teda süüdi mõistva kohtuotsuse jõustumisega;\n3) tema surma korral;\n4) uue Vabariigi Presidendi ametisseastumisega."
+    },
+    {
+      "provision_ref": "para83",
+      "chapter": "V. peatükk - VABARIIGI PRESIDENT",
+      "section": "83",
+      "title": "§ 83.",
+      "content": "Kui Vabariigi President on Riigikohtu otsusel kestvalt võimetu oma ülesandeid täitma või ei saa ta neid seaduses nimetatud juhtudel ajutiselt täita või on tema volitused enne tähtaega lõppenud, lähevad tema ülesanded ajutiselt üle Riigikogu esimehele. Ajaks, mil Riigikogu esimees täidab Vabariigi Presidendi ülesandeid, peatuvad tema volitused Riigikogu liikmena. Riigikogu esimehel Vabariigi Presidendi ülesannetes ei ole õigust Riigikohtu nõusolekuta välja kuulutada Riigikogu erakorralisi valimisi ega keelduda seadusi välja kuulutamast. Kui Vabariigi President ei saa oma ametikohustusi täita üle kolme kuu järjest või kui tema volitused on enne tähtaega lõppenud, valib Riigikogu neljateistkümne päeva jooksul uue Vabariigi Presidendi vastavalt põhiseaduse §-le 79."
+    },
+    {
+      "provision_ref": "para84",
+      "chapter": "V. peatükk - VABARIIGI PRESIDENT",
+      "section": "84",
+      "title": "§ 84.",
+      "content": "Ametisseastumisega lõpevad Vabariigi Presidendi volitused ja ülesanded kõigis valitavates ja nimetatavates ametites ning ta peatab ametisoleku ajaks oma erakondliku kuuluvuse."
+    },
+    {
+      "provision_ref": "para85",
+      "chapter": "V. peatükk - VABARIIGI PRESIDENT",
+      "section": "85",
+      "title": "§ 85.",
+      "content": "Vabariigi Presidenti saab kriminaalvastutusele võtta ainult õiguskantsleri ettepanekul Riigikogu koosseisu enamuse nõusolekul."
+    },
+    {
+      "provision_ref": "para86",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "86",
+      "title": "§ 86.",
+      "content": "Täidesaatev riigivõim kuulub Vabariigi Valitsusele."
+    },
+    {
+      "provision_ref": "para87",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "87",
+      "title": "§ 87.",
+      "content": "Vabariigi Valitsus:\n1) viib ellu riigi sise- ja välispoliitikat;\n2) suunab ja koordineerib valitsusasutuste tegevust;\n3) korraldab seaduste, Riigikogu otsuste ja Vabariigi Presidendi aktide täitmist;\n4) esitab Riigikogule seaduseelnõusid ning ratifitseerimiseks ja denonsseerimiseks välislepinguid;\n5) koostab riigieelarve eelnõu ja esitab selle Riigikogule, korraldab riigieelarve täitmist ning esitab Riigikogule riigieelarve täitmise aruande;\n6) annab seaduse alusel ja täitmiseks määrusi ja korraldusi;\n7) korraldab suhtlemist teiste riikidega;\n8) kuulutab loodusõnnetuse ja katastroofi korral või nakkushaiguse leviku tõkestamiseks välja eriolukorra riigis või selle osas;\n9) täidab muid ülesandeid, mis põhiseaduse ja seadustega on antud Vabariigi Valitsuse otsustada."
+    },
+    {
+      "provision_ref": "para88",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "88",
+      "title": "§ 88.",
+      "content": "Vabariigi Valitsusse kuuluvad peaminister ja ministrid."
+    },
+    {
+      "provision_ref": "para89",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "89",
+      "title": "§ 89.",
+      "content": "Vabariigi President määrab neljateistkümne päeva jooksul Vabariigi Valitsuse tagasiastumisest peaministrikandidaadi, kellele teeb ülesandeks uue valitsuse moodustamise. Peaministrikandidaat esitab neljateistkümne päeva jooksul, arvates valitsuse moodustamise ülesande saamisest, Riigikogule ettekande tulevase valitsuse moodustamise aluste kohta, mille järel Riigikogu otsustab läbirääkimisteta avalikul hääletusel peaministrikandidaadile volituste andmise valitsuse moodustamiseks. Riigikogult valitsuse moodustamiseks volitused saanud peaministrikandidaat esitab seitsme päeva jooksul valitsuse koosseisu Vabariigi Presidendile, kes nimetab kolme päeva jooksul valitsuse ametisse. Kui Vabariigi Presidendi määratud peaministrikandidaat ei saa Riigikogu poolthäälte enamust või ei suuda valitsust moodustada või loobub selle moodustamisest, on Vabariigi Presidendil õigus seitsme päeva jooksul esitada teine peaministrikandidaat. Kui Vabariigi President ei esita seitsme päeva jooksul teist peaministrikandidaati või loobub selle esitamisest või kui teine kandidaat käesoleva paragrahvi lõigete kaks ja kolm tingimustel ja tähtaegadel ei saa Riigikogult volitusi või ei suuda valitsust moodustada või loobub selle moodustamisest, läheb peaministrikandidaadi ülesseadmise õigus üle Riigikogule. Riigikogu seab üles peaministrikandidaadi, kes esitab valitsuse koosseisu Vabariigi Presidendile. Kui neljateistkümne päeva jooksul, arvates peaministrikandidaadi ülesseadmise õiguse üleminekust Riigikogule, on valitsuse koosseis Vabariigi Presidendile esitamata, kuulutab Vabariigi President välja Riigikogu erakorralised valimised."
+    },
+    {
+      "provision_ref": "para90",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "90",
+      "title": "§ 90.",
+      "content": "Muudatusi ametisse nimetatud Vabariigi Valitsuse koosseisus teeb Vabariigi President peaministri ettepanekul."
+    },
+    {
+      "provision_ref": "para91",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "91",
+      "title": "§ 91.",
+      "content": "Valitsus astub ametisse ametivande andmisega Riigikogu ees."
+    },
+    {
+      "provision_ref": "para92",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "92",
+      "title": "§ 92.",
+      "content": "Vabariigi Valitsus astub tagasi:\n1) Riigikogu uue koosseisu kokkuastumisel;\n2) peaministri tagasiastumise või surma korral;\n3) kui Riigikogu avaldab Vabariigi Valitsusele või peaministrile umbusaldust. Vabariigi President vabastab Vabariigi Valitsuse ametist uue valitsuse ametisseastumisel."
+    },
+    {
+      "provision_ref": "para93",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "93",
+      "title": "§ 93.",
+      "content": "Peaminister esindab Vabariigi Valitsust ja juhib selle tegevust. Peaminister nimetab kaks ministrit, kellel on õigus asendada peaministrit tema äraolekul. Asendamise korra määrab peaminister."
+    },
+    {
+      "provision_ref": "para94",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "94",
+      "title": "§ 94.",
+      "content": "Valitsemisalade korraldamiseks moodustatakse seaduse alusel vastavad ministeeriumid. Minister juhib ministeeriumi, korraldab ministeeriumi valitsemisalasse kuuluvaid küsimusi, annab seaduse alusel ja täitmiseks määrusi ja käskkirju ning täidab muid ülesandeid, mis talle on pandud seadusega sätestatud alustel ja korras. Kui minister ei saa haiguse või muude takistuste tõttu ajutiselt oma ülesandeid täita, paneb peaminister tema ülesanded selleks ajaks mõnele teisele ministrile. Vabariigi President võib peaministri ettepanekul nimetada ametisse ministreid, kes ei juhi ministeeriumi."
+    },
+    {
+      "provision_ref": "para95",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "95",
+      "title": "§ 95.",
+      "content": "Vabariigi Valitsuse juures on riigikantselei, mida juhib riigisekretär. Riigisekretäri nimetab ametisse ja vabastab ametist peaminister. Riigisekretär võtab sõnaõigusega osa valitsuse istungitest. Riigisekretäril on riigikantselei juhina samad õigused, mis on seadusega antud ministrile ministeeriumi juhtimisel."
+    },
+    {
+      "provision_ref": "para96",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "96",
+      "title": "§ 96.",
+      "content": "Vabariigi Valitsuse istungid on kinnised, kui valitsus ei otsusta teisiti. Valitsus teeb oma otsused peaministri või asjaomase ministri ettepanekul. Valitsuse määrused kehtivad, kui nad kannavad peaministri, asjaomase ministri ja riigisekretäri allkirja."
+    },
+    {
+      "provision_ref": "para97",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "97",
+      "title": "§ 97.",
+      "content": "Riigikogu võib avaldada Vabariigi Valitsusele, peaministrile või ministrile umbusaldust otsusega, mille poolt hääletab Riigikogu koosseisu enamus. Umbusalduse avaldamise võib algatada vähemalt viiendik Riigikogu koosseisust kirjaliku nõude esitamisega Riigikogu istungil. Umbusalduse avaldamine võib tulla otsustamisele kõige varem ülejärgmisel päeval pärast selle algatamist, kui valitsus ei nõua kiiremat otsustamist. Valitsusele või peaministrile umbusalduse avaldamise korral võib Vabariigi President kolme päeva jooksul valitsuse ettepanekul välja kuulutada Riigikogu erakorralised valimised. Ministrile umbusalduse avaldamise korral teatab Riigikogu esimees sellest Vabariigi Presidendile, kes vabastab ministri ametist. Umbusalduse avaldamist võib samal alusel uuesti algatada kõige varem kolme kuu möödumisel eelmisest umbusaldushääletamisest."
+    },
+    {
+      "provision_ref": "para98",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "98",
+      "title": "§ 98.",
+      "content": "Vabariigi Valitsus võib siduda tema poolt Riigikogule esitatud eelnõu vastuvõtmise usaldusküsimusega. Hääletamine ei saa toimuda varem kui ülejärgmisel päeval pärast eelnõu sidumist usaldusküsimusega. Kui Riigikogu ei võta eelnõu vastu, astub valitsus tagasi."
+    },
+    {
+      "provision_ref": "para99",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "99",
+      "title": "§ 99.",
+      "content": "Vabariigi Valitsuse liikmed ei tohi olla üheski muus riigiametis ega kuuluda tulundusettevõtte juhatusse või nõukogusse."
+    },
+    {
+      "provision_ref": "para100",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "100",
+      "title": "§ 100.",
+      "content": "Vabariigi Valitsuse liikmed võivad sõnaõigusega osaleda Riigikogu ja tema komisjonide istungitel."
+    },
+    {
+      "provision_ref": "para101",
+      "chapter": "VI. peatükk - VABARIIGI VALITSUS",
+      "section": "101",
+      "title": "§ 101.",
+      "content": "Vabariigi Valitsuse liiget saab kriminaalvastutusele võtta ainult õiguskantsleri ettepanekul Riigikogu koosseisu enamuse nõusolekul. Valitsuse liiget süüdi mõistva kohtuotsuse jõustumisega lõpevad tema volitused."
+    },
+    {
+      "provision_ref": "para102",
+      "chapter": "VII. peatükk - SEADUSANDLUS",
+      "section": "102",
+      "title": "§ 102.",
+      "content": "Seadusi võetakse vastu kooskõlas põhiseadusega."
+    },
+    {
+      "provision_ref": "para103",
+      "chapter": "VII. peatükk - SEADUSANDLUS",
+      "section": "103",
+      "title": "§ 103.",
+      "content": "Seaduste algatamise õigus on:\n1) Riigikogu liikmel;\n2) Riigikogu fraktsioonil;\n3) Riigikogu komisjonil;\n4) Vabariigi Valitsusel;\n5) Vabariigi Presidendil põhiseaduse muutmiseks. Riigikogul on õigus koosseisu häälteenamusega tehtud otsuse alusel pöörduda Vabariigi Valitsuse poole ettepanekuga algatada Riigikogu poolt soovitav eelnõu."
+    },
+    {
+      "provision_ref": "para104",
+      "section": "104",
+      "title": "§ 104.",
+      "content": "Seaduste vastuvõtmise korra sätestab Riigikogu kodukorra seadus. Ainult Riigikogu koosseisu häälteenamusega saab vastu võtta ja muuta järgmisi seadusi:\n1) kodakondsuse seadus;\n2) Riigikogu valimise seadus;\n3) Vabariigi Presidendi valimise seadus;\n4) kohaliku omavalitsuse valimise seadus;\n5) rahvahääletuse seadus;\n6) Riigikogu kodukorra seadus ja Riigikogu töökorra seadus;\n7) Vabariigi Presidendi ja Riigikogu liikmete tasu seadus;\n8) Vabariigi Valitsuse seadus;\n9) Vabariigi Presidendi ja Vabariigi Valitsuse liikmete kohtulikule vastutusele võtmise seadus;\n10) vähemusrahvuste kultuurautonoomia seadus;\n11) riigieelarve seadus;\n12) Eesti Panga seadus;\n13) riigikontrolli seadus;\n14) kohtukorralduse seadus ja kohtumenetluse seadused;\n15) välis- ja siselaenudesse ning riigi varalistesse kohustustesse puutuvad seadused;\n16) erakorralise seisukorra seadus;\n17) rahuaja riigikaitse seadus ja sõjaaja riigikaitse seadus."
+    },
+    {
+      "provision_ref": "para105",
+      "section": "105",
+      "title": "§ 105.",
+      "content": "Riigikogul on õigus panna seaduseelnõu või muu riigielu küsimus rahvahääletusele. Rahva otsus tehakse hääletamisest osavõtnute häälteenamusega. Rahvahääletusel vastuvõetud seaduse kuulutab Vabariigi President viivitamatult välja. Rahvahääletuse otsus on riigiorganitele kohustuslik. Kui rahvahääletusele pandud seaduseelnõu ei saa poolthäälte enamust, kuulutab Vabariigi President välja Riigikogu erakorralised valimised."
+    },
+    {
+      "provision_ref": "para106",
+      "section": "106",
+      "title": "§ 106.",
+      "content": "Rahvahääletusele ei saa panna eelarve, maksude, riigi rahaliste kohustuste, välislepingute ratifitseerimise ja denonsseerimise, erakorralise seisukorra kehtestamise ja lõpetamise ning riigikaitse küsimusi. Rahvahääletuse korra sätestab rahvahääletuse seadus."
+    },
+    {
+      "provision_ref": "para107",
+      "section": "107",
+      "title": "§ 107.",
+      "content": "Seadused kuulutab välja Vabariigi President. Vabariigi President võib jätta Riigikogu poolt vastuvõetud seaduse välja kuulutamata ja saata selle koos motiveeritud otsusega neljateistkümne päeva jooksul, arvates saamise päevast, Riigikogule uueks arutamiseks ja otsustamiseks. Kui Riigikogu võtab Vabariigi Presidendi poolt tagasi saadetud seaduse muutmata kujul uuesti vastu, kuulutab Vabariigi President seaduse välja või pöördub Riigikohtu poole ettepanekuga tunnistada seadus põhiseadusega vastuolus olevaks. Kui Riigikohus tunnistab seaduse põhiseadusega kooskõlas olevaks, kuulutab Vabariigi President seaduse välja."
+    },
+    {
+      "provision_ref": "para108",
+      "section": "108",
+      "title": "§ 108.",
+      "content": "Seadus jõustub kümnendal päeval pärast Riigi Teatajas avaldamist, kui seaduses eneses ei sätestata teist tähtaega."
+    },
+    {
+      "provision_ref": "para109",
+      "section": "109",
+      "title": "§ 109.",
+      "content": "Kui Riigikogu ei saa kokku tulla, võib Vabariigi President edasilükkamatute riiklike vajaduste korral anda seaduse jõuga seadlusi, mis kannavad Riigikogu esimehe ja peaministri kaasallkirja. Kui Riigikogu on kokku tulnud, esitab Vabariigi President seadlused Riigikogule, kes võtab viivitamatult vastu nende kinnitamise või tühistamise seaduse."
+    },
+    {
+      "provision_ref": "para110",
+      "section": "110",
+      "title": "§ 110.",
+      "content": "Vabariigi Presidendi seadlusega ei saa kehtestada, muuta ega tühistada põhiseadust ega põhiseaduse §-s 104 loetletud seadusi, riiklikke makse kehtestavaid seadusi ega riigieelarvet."
+    },
+    {
+      "provision_ref": "para111",
+      "chapter": "VIII. peatükk - RAHANDUS JA RIIGIEELARVE",
+      "section": "111",
+      "title": "§ 111.",
+      "content": "Eesti raha emissiooni ainuõigus on Eesti Pangal. Eesti Pank korraldab raharinglust ja seisab hea riigi vääringu stabiilsuse eest."
+    },
+    {
+      "provision_ref": "para112",
+      "chapter": "VIII. peatükk - RAHANDUS JA RIIGIEELARVE",
+      "section": "112",
+      "title": "§ 112.",
+      "content": "Eesti Pank tegutseb seaduse alusel ja annab aru Riigikogule."
+    },
+    {
+      "provision_ref": "para113",
+      "chapter": "VIII. peatükk - RAHANDUS JA RIIGIEELARVE",
+      "section": "113",
+      "title": "§ 113.",
+      "content": "Riiklikud maksud, koormised, lõivud, trahvid ja sundkindlustuse maksed sätestab seadus."
+    },
+    {
+      "provision_ref": "para114",
+      "chapter": "VIII. peatükk - RAHANDUS JA RIIGIEELARVE",
+      "section": "114",
+      "title": "§ 114.",
+      "content": "Riigi vara valdamise, kasutamise ja käsutamise korra sätestab seadus."
+    },
+    {
+      "provision_ref": "para115",
+      "chapter": "VIII. peatükk - RAHANDUS JA RIIGIEELARVE",
+      "section": "115",
+      "title": "§ 115.",
+      "content": "Iga aasta kohta võtab Riigikogu seadusena vastu riigi kõigi tulude ja kulude eelarve. Vabariigi Valitsus esitab riigieelarve eelnõu Riigikogule hiljemalt kolm kuud enne eelarveaasta algust. Valitsuse ettepanekul võib Riigikogu eelarveaasta kestel vastu võtta lisaeelarve."
+    },
+    {
+      "provision_ref": "para116",
+      "chapter": "VIII. peatükk - RAHANDUS JA RIIGIEELARVE",
+      "section": "116",
+      "title": "§ 116.",
+      "content": "Riigieelarve või selle eelnõu muutmise ettepanekule, mis tingib nendes ettenähtud tulude vähendamise, kulude suurendamise või kulude ümberjaotamise, tuleb algatajal lisada rahalised arvestused, mis näitavad ära kulude katteks vajalikud tuluallikad. Riigikogu ei tohi kustutada ega vähendada riigieelarvesse või selle eelnõusse võetud kulusid, mis on ette nähtud muude seadustega."
+    },
+    {
+      "provision_ref": "para117",
+      "chapter": "VIII. peatükk - RAHANDUS JA RIIGIEELARVE",
+      "section": "117",
+      "title": "§ 117.",
+      "content": "Riigieelarve koostamise ja vastuvõtmise korra sätestab seadus."
+    },
+    {
+      "provision_ref": "para118",
+      "chapter": "VIII. peatükk - RAHANDUS JA RIIGIEELARVE",
+      "section": "118",
+      "title": "§ 118.",
+      "content": "Riigikogu poolt vastuvõetud riigieelarve jõustub eelarveaasta algusest. Kui Riigikogu ei võta riigieelarvet eelarveaasta alguseks vastu, võib iga kuu teha kulutusi ühe kaheteistkümnendikuni eelmise eelarveaasta kulutustest."
+    },
+    {
+      "provision_ref": "para119",
+      "chapter": "VIII. peatükk - RAHANDUS JA RIIGIEELARVE",
+      "section": "119",
+      "title": "§ 119.",
+      "content": "Kui Riigikogu ei ole riigieelarvet vastu võtnud kahe kuu jooksul pärast eelarveaasta algust, kuulutab Vabariigi President välja Riigikogu erakorralised valimised."
+    },
+    {
+      "provision_ref": "para120",
+      "chapter": "IX. peatükk - VÄLISSUHTED JA VÄLISLEPINGUD",
+      "section": "120",
+      "title": "§ 120.",
+      "content": "Eesti Vabariigi suhtlemise korra teiste riikide ja rahvusvaheliste organisatsioonidega sätestab seadus."
+    },
+    {
+      "provision_ref": "para121",
+      "chapter": "IX. peatükk - VÄLISSUHTED JA VÄLISLEPINGUD",
+      "section": "121",
+      "title": "§ 121.",
+      "content": "Riigikogu ratifitseerib ja denonsseerib Eesti Vabariigi lepingud:\n1) mis muudavad riigipiire;\n2) mille rakendamiseks on tarvis Eesti seaduste vastuvõtmist, muutmist või tühistamist;\n3) mille kohaselt Eesti Vabariik ühineb rahvusvaheliste organisatsioonide või liitudega;\n4) millega Eesti Vabariik võtab endale sõjalisi või varalisi kohustusi;\n5) milles ratifitseerimine on ette nähtud."
+    },
+    {
+      "provision_ref": "para122",
+      "chapter": "IX. peatükk - VÄLISSUHTED JA VÄLISLEPINGUD",
+      "section": "122",
+      "title": "§ 122.",
+      "content": "Eesti maismaapiir on määratud 1920. aasta 2. veebruari Tartu rahulepinguga ja teiste riikidevaheliste piirilepingutega. Eesti mere- ja õhupiir määratakse rahvusvaheliste konventsioonide alusel. Eesti riigipiire muutvate lepingute ratifitseerimiseks on nõutav Riigikogu koosseisu kahekolmandikuline häälteenamus."
+    },
+    {
+      "provision_ref": "para123",
+      "chapter": "IX. peatükk - VÄLISSUHTED JA VÄLISLEPINGUD",
+      "section": "123",
+      "title": "§ 123.",
+      "content": "Eesti Vabariik ei sõlmi välislepinguid, mis on vastuolus põhiseadusega. Kui Eesti seadused või muud aktid on vastuolus Riigikogu poolt ratifitseeritud välislepingutega, kohaldatakse välislepingu sätteid."
+    },
+    {
+      "provision_ref": "para124",
+      "chapter": "X. peatükk - RIIGIKAITSE",
+      "section": "124",
+      "title": "§ 124.",
+      "content": "Eesti kodanikud on kohustatud osa võtma riigikaitsest seaduse sätestatud alustel ja korras. Usulistel või kõlbelistel põhjustel kaitseväeteenistusest keelduja on kohustatud läbi tegema asendusteenistuse seaduses ettenähtud korras. Kui seadus ei näe teenistuse erilaadi huvides ette teisiti, on kaitseväes ja asendusteenistuses olevatel isikutel kõik põhiseaduslikud õigused, vabadused ja kohustused. Piirata ei tohi põhiseaduse §-des 8 lõiked 3 ja 4, 11-18, 20 lõige 3, 21-28, 32, 33, 36-43, 44 lõiked 1 ja 2 ning 49-51 ettenähtud õigusi ja vabadusi. Kaitseväes ja asendusteenistuses olevate isikute õigusliku seisundi sätestab seadus."
+    },
+    {
+      "provision_ref": "para125",
+      "chapter": "X. peatükk - RIIGIKAITSE",
+      "section": "125",
+      "title": "§ 125.",
+      "content": "Tegevteenistuses olev isik ei tohi olla muus valitavas ega nimetatavas ametis ega osa võtta ühegi erakonna tegevusest."
+    },
+    {
+      "provision_ref": "para126",
+      "chapter": "X. peatükk - RIIGIKAITSE",
+      "section": "126",
+      "title": "§ 126.",
+      "content": "Riigikaitse korralduse sätestavad rahuaja riigikaitse seadus ja sõjaaja riigikaitse seadus. Eesti kaitseväe ja riigikaitseorganisatsioonide korralduse sätestab seadus."
+    },
+    {
+      "provision_ref": "para127",
+      "chapter": "X. peatükk - RIIGIKAITSE",
+      "section": "127",
+      "title": "§ 127.",
+      "content": "Riigikaitse kõrgeimaks juhiks on Vabariigi President. Vabariigi Presidendi juures on nõuandva organina Riigikaitse Nõukogu, kelle koosseisu ja ülesandeid sätestab seadus."
+    },
+    {
+      "provision_ref": "para128",
+      "chapter": "X. peatükk - RIIGIKAITSE",
+      "section": "128",
+      "title": "§ 128.",
+      "content": "Riigikogu kuulutab Vabariigi Presidendi ettepanekul välja sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ning otsustab kaitseväe kasutamise Eesti riigi rahvusvaheliste kohustuste täitmisel. Eesti Vabariigi vastu suunatud agressiooni korral kuulutab Vabariigi President välja sõjaseisukorra ja mobilisatsiooni, ootamata ära Riigikogu otsust."
+    },
+    {
+      "provision_ref": "para129",
+      "chapter": "X. peatükk - RIIGIKAITSE",
+      "section": "129",
+      "title": "§ 129.",
+      "content": "Eesti põhiseaduslikku korda ähvardava ohu puhul võib Riigikogu Vabariigi Presidendi või Vabariigi Valitsuse ettepanekul oma koosseisu häälteenamusega välja kuulutada erakorralise seisukorra kogu riigis, kuid kõige kauem kolmeks kuuks. Erakorralise seisukorra korralduse sätestab seadus."
+    },
+    {
+      "provision_ref": "para130",
+      "chapter": "X. peatükk - RIIGIKAITSE",
+      "section": "130",
+      "title": "§ 130.",
+      "content": "Erakorralise või sõjaseisukorra ajal võib riigi julgeoleku ja avaliku korra huvides seadusega ettenähtud juhtudel ja korras piirata isikute õigusi ja vabadusi ning panna neile kohustusi. Piirata ei tohi õigusi ja vabadusi, mis on sätestatud põhiseaduse §-des 8, 11-18, 20 lõige 3, 22, 23, 24 lõiked 2 ja 4, 25, 27, 28, 36 lõige 2, 40, 41, 49 ja 51 lõige 1."
+    },
+    {
+      "provision_ref": "para131",
+      "chapter": "X. peatükk - RIIGIKAITSE",
+      "section": "131",
+      "title": "§ 131.",
+      "content": "Erakorralise või sõjaseisukorra ajal ei valita Riigikogu, Vabariigi Presidenti ega kohalike omavalitsuste esinduskogusid ega lõpetata ka nende volitusi. Riigikogu, Vabariigi Presidendi ja kohaliku omavalitsuse esinduskogude volitused pikenevad, kui nad lõpeksid erakorralise või sõjaseisukorra ajal või kolme kuu jooksul, arvates erakorralise või sõjaseisukorra lõppemisest. Nendel juhtudel kuulutatakse välja uued valimised kolme kuu jooksul, arvates erakorralise või sõjaseisukorra lõppemisest."
+    },
+    {
+      "provision_ref": "para132",
+      "chapter": "XI. peatükk - RIIGIKONTROLL",
+      "section": "132",
+      "title": "§ 132.",
+      "content": "Riigikontroll on oma tegevuses sõltumatu majanduskontrolli teostav riigiorgan."
+    },
+    {
+      "provision_ref": "para133",
+      "chapter": "XI. peatükk - RIIGIKONTROLL",
+      "section": "133",
+      "title": "§ 133.",
+      "content": "Riigikontroll kontrollib:\n1) riigiasutuste, riigiettevõtete ja muude riiklike organisatsioonide majandustegevust;\n2) riigi vara kasutamist ja säilimist;\n3) kohalike omavalitsuste valdusse antud riigivara kasutamist ja käsutamist;\n4) nende ettevõtete majandustegevust, kus riigil on üle poole osakute või aktsiatega määratud häältest või kelle laene või lepinguliste kohustuste täitmist tagab riik."
+    },
+    {
+      "provision_ref": "para134",
+      "chapter": "XI. peatükk - RIIGIKONTROLL",
+      "section": "134",
+      "title": "§ 134.",
+      "content": "Riigikontrolli juhib riigikontrolör, kelle nimetab ametisse ja vabastab ametist Riigikogu Vabariigi Presidendi ettepanekul. Riigikontrolöri volituste kestus on viis aastat."
+    },
+    {
+      "provision_ref": "para135",
+      "chapter": "XI. peatükk - RIIGIKONTROLL",
+      "section": "135",
+      "title": "§ 135.",
+      "content": "Riigikontrolör esitab Riigikogule ülevaate riigi vara kasutamise ja säilimise kohta eelmisel eelarveaastal üheaegselt riigieelarve täitmise aruande arutamisega Riigikogus."
+    },
+    {
+      "provision_ref": "para136",
+      "chapter": "XI. peatükk - RIIGIKONTROLL",
+      "section": "136",
+      "title": "§ 136.",
+      "content": "Riigikontrolör võib oma ülesannetesse kuuluvais asjus võtta sõnaõigusega osa Vabariigi Valitsuse istungitest. Riigikontrolöril on oma ametkonna juhina samad õigused, mis on seadusega antud ministrile ministeeriumi juhina."
+    },
+    {
+      "provision_ref": "para137",
+      "chapter": "XI. peatükk - RIIGIKONTROLL",
+      "section": "137",
+      "title": "§ 137.",
+      "content": "Riigikontrolli korralduse sätestab seadus."
+    },
+    {
+      "provision_ref": "para138",
+      "chapter": "XI. peatükk - RIIGIKONTROLL",
+      "section": "138",
+      "title": "§ 138.",
+      "content": "Riigikontrolöri saab kriminaalvastutusele võtta ainult õiguskantsleri ettepanekul Riigikogu koosseisu enamuse nõusolekul."
+    },
+    {
+      "provision_ref": "para139",
+      "chapter": "XII. peatükk - ÕIGUSKANTSLER",
+      "section": "139",
+      "title": "§ 139.",
+      "content": "Õiguskantsler on oma tegevuses sõltumatu ametiisik, kes teostab järelevalvet seadusandliku ja täidesaatva riigivõimu ning kohaliku omavalitsuse õigustloovate aktide põhiseadusele ja seadustele vastavuse üle. Õiguskantsler analüüsib seaduste muutmise, uute seaduste vastuvõtmise ja riigiasutuste töö kohta talle tehtud ettepanekuid ning esitab vajaduse korral Riigikogule ettekande. Õiguskantsler teeb Riigikogule põhiseaduse §-des 76, 85, 101, 138, 153 ettenähtud juhtudel ettepaneku Riigikogu liikme, Vabariigi Presidendi, Vabariigi Valitsuse liikme, riigikontrolöri, Riigikohtu esimehe või Riigikohtu liikme kriminaalvastutusele võtmiseks."
+    },
+    {
+      "provision_ref": "para140",
+      "chapter": "XII. peatükk - ÕIGUSKANTSLER",
+      "section": "140",
+      "title": "§ 140.",
+      "content": "Õiguskantsleri nimetab ametisse Riigikogu Vabariigi Presidendi ettepanekul seitsmeks aastaks. Õiguskantslerit saab ametist tagandada üksnes kohtuotsusega."
+    },
+    {
+      "provision_ref": "para141",
+      "chapter": "XII. peatükk - ÕIGUSKANTSLER",
+      "section": "141",
+      "title": "§ 141.",
+      "content": "Õiguskantsleril on oma kantselei juhtimisel samad õigused, mis on seadusega antud ministrile ministeeriumi juhtimiseks. Õiguskantsler võib sõnaõigusega osa võtta Riigikogu ja Vabariigi Valitsuse istungitest."
+    },
+    {
+      "provision_ref": "para142",
+      "chapter": "XII. peatükk - ÕIGUSKANTSLER",
+      "section": "142",
+      "title": "§ 142.",
+      "content": "Kui õiguskantsler leiab, et seadusandliku või täidesaatva riigivõimu või kohaliku omavalitsuse õigustloov akt on põhiseaduse või seadusega vastuolus, teeb ta akti vastuvõtnud organile ettepaneku viia see kahekümne päeva jooksul põhiseaduse või seadusega kooskõlla. Kui akt ei ole kahekümne päeva jooksul põhiseaduse või seadusega kooskõlla viidud, teeb õiguskantsler Riigikohtule ettepaneku tunnistada see akt kehtetuks."
+    },
+    {
+      "provision_ref": "para143",
+      "chapter": "XII. peatükk - ÕIGUSKANTSLER",
+      "section": "143",
+      "title": "§ 143.",
+      "content": "Õiguskantsler esitab kord aastas Riigikogule ülevaate seadusandliku ja täidesaatva riigivõimu ning kohalike omavalitsuste õigustloovate aktide kooskõlast põhiseaduse ja seadustega."
+    },
+    {
+      "provision_ref": "para144",
+      "chapter": "XII. peatükk - ÕIGUSKANTSLER",
+      "section": "144",
+      "title": "§ 144.",
+      "content": "Õiguskantsleri õigusliku seisundi ja tema kantselei töökorralduse sätestab seadus."
+    },
+    {
+      "provision_ref": "para145",
+      "chapter": "XII. peatükk - ÕIGUSKANTSLER",
+      "section": "145",
+      "title": "§ 145.",
+      "content": "Õiguskantslerit saab kriminaalvastutusele võtta ainult Vabariigi Presidendi ettepanekul Riigikogu koosseisu enamuse nõusolekul."
+    },
+    {
+      "provision_ref": "para146",
+      "chapter": "XIII. peatükk - KOHUS",
+      "section": "146",
+      "title": "§ 146.",
+      "content": "Õigust mõistab ainult kohus. Kohus on oma tegevuses sõltumatu ja mõistab õigust kooskõlas põhiseaduse ja seadustega."
+    },
+    {
+      "provision_ref": "para147",
+      "chapter": "XIII. peatükk - KOHUS",
+      "section": "147",
+      "title": "§ 147.",
+      "content": "Kohtunikud nimetatakse ametisse eluaegsetena. Kohtunike ametist vabastamise alused ja korra sätestab seadus. Kohtunikku saab ametist tagandada üksnes kohtuotsusega. Kohtunikud ei tohi peale seaduses ettenähtud juhtude olla üheski muus valitavas ega nimetatavas ametis. Kohtunike sõltumatuse tagatised ja õigusliku seisundi sätestab seadus."
+    },
+    {
+      "provision_ref": "para148",
+      "chapter": "XIII. peatükk - KOHUS",
+      "section": "148",
+      "title": "§ 148.",
+      "content": "Kohtusüsteem koosneb:\n1) maa- ja linnakohtutest ning halduskohtutest;\n2) ringkonnakohtutest;\n3) Riigikohtust. Erikohtute loomise mõnda liiki kohtuasjade jaoks sätestab seadus. Erakorraliste kohtute moodustamine on keelatud."
+    },
+    {
+      "provision_ref": "para149",
+      "chapter": "XIII. peatükk - KOHUS",
+      "section": "149",
+      "title": "§ 149.",
+      "content": "Maa- ja linnakohtud ning halduskohtud on esimese astme kohtud. Ringkonnakohtud on teise astme kohtud ning nad vaatavad apellatsiooni korras läbi esimese astme kohtu lahendeid. Riigikohus on riigi kõrgeim kohus, kes vaatab kohtulahendeid läbi kassatsiooni korras. Riigikohus on ühtlasi põhiseadusliku järelevalve kohus. Kohtukorralduse ja kohtumenetluse korra sätestab seadus."
+    },
+    {
+      "provision_ref": "para150",
+      "chapter": "XIII. peatükk - KOHUS",
+      "section": "150",
+      "title": "§ 150.",
+      "content": "Riigikohtu esimehe nimetab ametisse Riigikogu Vabariigi Presidendi ettepanekul. Riigikohtu liikmed nimetab ametisse Riigikogu Riigikohtu esimehe ettepanekul. Muud kohtunikud nimetab ametisse Vabariigi President Riigikohtu ettepanekul."
+    },
+    {
+      "provision_ref": "para151",
+      "chapter": "XIII. peatükk - KOHUS",
+      "section": "151",
+      "title": "§ 151.",
+      "content": "Esinduse, kaitse, riikliku süüdistuse ja seaduslikkuse järelevalve korralduse kohtumenetluses sätestab seadus."
+    },
+    {
+      "provision_ref": "para152",
+      "chapter": "XIII. peatükk - KOHUS",
+      "section": "152",
+      "title": "§ 152.",
+      "content": "Kohus jätab kohtuasja lahendamisel kohaldamata mis tahes seaduse või muu õigusakti, kui see on vastuolus põhiseadusega. Riigikohus tunnistab kehtetuks mis tahes seaduse või muu õigusakti, kui see on vastuolus põhiseaduse sätte ja mõttega."
+    },
+    {
+      "provision_ref": "para153",
+      "chapter": "XIII. peatükk - KOHUS",
+      "section": "153",
+      "title": "§ 153.",
+      "content": "Kohtunikku saab ametisoleku ajal kriminaalvastutusele võtta ainult Riigikohtu ettepanekul Vabariigi Presidendi nõusolekul. Riigikohtu esimeest ja liikmeid saab kriminaalvastutusele võtta ainult õiguskantsleri ettepanekul Riigikogu koosseisu enamuse nõusolekul."
+    },
+    {
+      "provision_ref": "para154",
+      "chapter": "XIV. peatükk - KOHALIK OMAVALITSUS",
+      "section": "154",
+      "title": "§ 154.",
+      "content": "Kõiki kohaliku elu küsimusi otsustavad ja korraldavad kohalikud omavalitsused, kes tegutsevad seaduste alusel iseseisvalt. Kohalikule omavalitsusele võib panna kohustusi ainult seaduse alusel või kokkuleppel kohaliku omavalitsusega. Seadusega kohalikule omavalitsusele pandud riiklike kohustustega seotud kulud kaetakse riigieelarvest."
+    },
+    {
+      "provision_ref": "para155",
+      "chapter": "XIV. peatükk - KOHALIK OMAVALITSUS",
+      "section": "155",
+      "title": "§ 155.",
+      "content": "Kohaliku omavalitsuse üksused on vallad ja linnad. Muid kohaliku omavalitsuse üksusi võib moodustada seaduses sätestatud alustel ja korras."
+    },
+    {
+      "provision_ref": "para156",
+      "chapter": "XIV. peatükk - KOHALIK OMAVALITSUS",
+      "section": "156",
+      "title": "§ 156.",
+      "content": "Kohaliku omavalitsuse esinduskogu on volikogu, kes valitakse vabadel valimistel neljaks aastaks. Seadusega võib volikogu volituste perioodi lühendada seoses kohaliku omavalitsuse üksuste ühinemise või jagunemisega või volikogu tegutsemisvõimetusega. Valimised on üldised, ühetaolised ja otsesed. Hääletamine on salajane. Kohaliku omavalitsuse volikogu valimistel on seaduses ettenähtud tingimustel hääleõiguslikud selle omavalitsuse maa-alal püsivalt elavad Eesti kodanikud, kes on vähemalt kuusteist aastat vanad."
+    },
+    {
+      "provision_ref": "para157",
+      "chapter": "XIV. peatükk - KOHALIK OMAVALITSUS",
+      "section": "157",
+      "title": "§ 157.",
+      "content": "Kohalikul omavalitsusel on iseseisev eelarve, mille kujundamise alused ja korra sätestab seadus. Kohalikul omavalitsusel on seaduse alusel õigus kehtestada ja koguda makse ning panna peale koormisi."
+    },
+    {
+      "provision_ref": "para158",
+      "chapter": "XIV. peatükk - KOHALIK OMAVALITSUS",
+      "section": "158",
+      "title": "§ 158.",
+      "content": "Kohaliku omavalitsuse üksuste piire ei tohi muuta vastavate omavalitsuste arvamust ära kuulamata."
+    },
+    {
+      "provision_ref": "para159",
+      "chapter": "XIV. peatükk - KOHALIK OMAVALITSUS",
+      "section": "159",
+      "title": "§ 159.",
+      "content": "Kohalikul omavalitsusel on õigus moodustada teiste kohalike omavalitsustega liite ja ühisasutusi."
+    },
+    {
+      "provision_ref": "para160",
+      "chapter": "XIV. peatükk - KOHALIK OMAVALITSUS",
+      "section": "160",
+      "title": "§ 160.",
+      "content": "Kohalike omavalitsuste korralduse ja järelevalve nende tegevuse üle sätestab seadus."
+    },
+    {
+      "provision_ref": "para161",
+      "chapter": "XV. peatükk - PÕHISEADUSE MUUTMINE",
+      "section": "161",
+      "title": "§ 161.",
+      "content": "Õigus algatada põhiseaduse muutmist on vähemalt viiendikul Riigikogu koosseisust ja Vabariigi Presidendil. Põhiseaduse muutmist ei saa algatada ega põhiseadust muuta erakorralise seisukorra ega sõjaseisukorra ajal."
+    },
+    {
+      "provision_ref": "para162",
+      "chapter": "XV. peatükk - PÕHISEADUSE MUUTMINE",
+      "section": "162",
+      "title": "§ 162.",
+      "content": "Põhiseaduse I peatükki \"Üldsätted\" ja XV peatükki \"Põhiseaduse muutmine\" saab muuta ainult rahvahääletusega."
+    },
+    {
+      "provision_ref": "para163",
+      "chapter": "XV. peatükk - PÕHISEADUSE MUUTMINE",
+      "section": "163",
+      "title": "§ 163.",
+      "content": "Põhiseadust saab muuta seadusega, mis on vastu võetud:\n1) rahvahääletusel;\n2) Riigikogu kahe järjestikuse koosseisu poolt;\n3) Riigikogu poolt kiireloomulisena. Põhiseaduse muutmise seaduse eelnõu arutatakse Riigikogus kolmel lugemisel, kusjuures esimese ja teise lugemise vahet on vähemalt kolm kuud ning teise ja kolmanda lugemise vahet vähemalt üks kuu. Põhiseaduse muutmise viis otsustatakse kolmandal lugemisel."
+    },
+    {
+      "provision_ref": "para164",
+      "chapter": "XV. peatükk - PÕHISEADUSE MUUTMINE",
+      "section": "164",
+      "title": "§ 164.",
+      "content": "Põhiseaduse muutmise seaduse eelnõu rahvahääletusele panekuks on nõutav Riigikogu koosseisu kolmeviiendikuline häälteenamus. Rahvahääletus toimub kõige varem kolme kuu pärast, arvates sellekohase otsuse vastuvõtmisest Riigikogus."
+    },
+    {
+      "provision_ref": "para165",
+      "chapter": "XV. peatükk - PÕHISEADUSE MUUTMINE",
+      "section": "165",
+      "title": "§ 165.",
+      "content": "Põhiseaduse muutmiseks Riigikogu kahe järjestikuse koosseisu poolt peab põhiseaduse muutmise seaduse eelnõu saama Riigikogu koosseisu enamuse toetuse. Kui Riigikogu järgmine koosseis võtab esimesel lugemisel oma koosseisu kolmeviiendikulise häälteenamusega muutmatult vastu põhiseaduse muutmise seaduse eelnõu, mis sai eelmise koosseisu enamuse toetuse, siis on põhiseaduse muutmise seadus vastu võetud."
+    },
+    {
+      "provision_ref": "para166",
+      "chapter": "XV. peatükk - PÕHISEADUSE MUUTMINE",
+      "section": "166",
+      "title": "§ 166.",
+      "content": "Otsus põhiseaduse muutmise seaduse eelnõu käsitlemiseks kiireloomulisena võetakse vastu Riigikogu neljaviiendikulise häälteenamusega. Põhiseaduse muutmise seadus võetakse sel juhul vastu Riigikogu koosseisu kahekolmandikulise häälteenamusega."
+    },
+    {
+      "provision_ref": "para167",
+      "chapter": "XV. peatükk - PÕHISEADUSE MUUTMINE",
+      "section": "167",
+      "title": "§ 167.",
+      "content": "Põhiseaduse muutmise seaduse kuulutab välja Vabariigi President ja see jõustub seaduses eneses määratud tähtajal, kuid mitte varem kui kolm kuud pärast väljakuulutamist."
+    },
+    {
+      "provision_ref": "para168",
+      "chapter": "XV. peatükk - PÕHISEADUSE MUUTMINE",
+      "section": "168",
+      "title": "§ 168.",
+      "content": "Põhiseaduse muutmist ei saa samas küsimuses algatada ühe aasta jooksul, arvates vastava eelnõu tagasilükkamisest rahvahääletusel või Riigikogus. Õiend Käesolev tekst vastab 28. mail 1992. aastal rahvahääletusele pandud ja ajalehes «Rahva Hääl» avaldatud Eesti Vabariigi põhiseaduse eelnõu tekstile. Vastavalt riigisekretäri 19. juuni 2007. a resolutsioonile nr 07-02990 on parandatud vead seni elektroonilises Riigi Teatajas avaldatud Eesti Vabariigi põhiseaduse tekstides. «Rahva Hääles» avaldatud tekstiga võrreldes on parandatud viis ilmset trükiviga. Paragrahvis 53 on välja jäetud sõnade kordus «keskkonnale tekitatud», § 60 lõikes 5 on sõna «Riigikoguvalimise» lahku kirjutatud ning erinevalt «Rahva Hääles» ilmunud tekstist on § 64 lõikes 3 ja §-s 70 Riigikogu kirjutatud suure algustähega ja § 78 punktis 3 põhiseadus kirjutatud väikese algustähega. Põhiseaduse ja põhiseaduse rakendamise seaduse jõustumise kuupäev on Riigi Teataja väljaandja poolt märgitud Vabariigi Valimiskomisjoni 2.07.1992 otsuse „1992. aasta 28. juunil toimunud rahvahääletuse tulemuste ja rahvahääletusel vastuvõetud Eesti Vabariigi põhiseaduse ning Eesti Vabariigi põhiseaduse rakendamise seaduse kohta“ ( RT 1992, 26, 348 ) alusel."
+    }
+  ],
+  "definitions": []
+}
