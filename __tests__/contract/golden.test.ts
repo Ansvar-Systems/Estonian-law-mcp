@@ -1,25 +1,30 @@
 /**
  * Golden contract tests for Estonian Law MCP.
  * Validates core tool functionality against ingested real data.
+ *
+ * Skipped automatically when database.db is not present (e.g. CI without data).
  */
 
 import { describe, it, expect, beforeAll } from 'vitest';
 import Database from 'better-sqlite3';
 import * as path from 'path';
+import * as fs from 'fs';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DB_PATH = path.resolve(__dirname, '../../data/database.db');
+const DB_EXISTS = fs.existsSync(DB_PATH);
 
 let db: InstanceType<typeof Database>;
 
 beforeAll(() => {
+  if (!DB_EXISTS) return;
   db = new Database(DB_PATH, { readonly: true });
   db.pragma('journal_mode = DELETE');
 });
 
-describe('Database integrity', () => {
+describe.skipIf(!DB_EXISTS)('Database integrity', () => {
   it('should have at least 10 legal documents', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM legal_documents').get() as { cnt: number };
     expect(row.cnt).toBeGreaterThanOrEqual(10);
@@ -56,7 +61,7 @@ describe('Database integrity', () => {
   });
 });
 
-describe('Provision retrieval', () => {
+describe.skipIf(!DB_EXISTS)('Provision retrieval', () => {
   it('ee-001: IKS § 1 contains GDPR reference 2016/679', () => {
     const row = db.prepare(
       "SELECT content FROM legal_provisions WHERE document_id = 'iks' AND section = '1'"
@@ -81,7 +86,7 @@ describe('Provision retrieval', () => {
   });
 });
 
-describe('Search tests', () => {
+describe.skipIf(!DB_EXISTS)('Search tests', () => {
   it('ee-004: search "isikuandmete" returns results', () => {
     const rows = db.prepare(
       "SELECT lp.content FROM legal_provisions lp JOIN provisions_fts fts ON lp.id = fts.rowid WHERE provisions_fts MATCH 'isikuandmete' LIMIT 10"
@@ -104,7 +109,7 @@ describe('Search tests', () => {
   });
 });
 
-describe('EU cross-references', () => {
+describe.skipIf(!DB_EXISTS)('EU cross-references', () => {
   it('ee-009: EUTS should reference eIDAS (regulation:2014/910)', () => {
     const rows = db.prepare(
       "SELECT eu_document_id FROM eu_references WHERE document_id = 'eidas-trust-services-act'"
@@ -115,7 +120,7 @@ describe('EU cross-references', () => {
   });
 });
 
-describe('Negative tests', () => {
+describe.skipIf(!DB_EXISTS)('Negative tests', () => {
   it('ee-010: non-existent law returns no results', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'fictional-estonian-law-2099'"
@@ -131,7 +136,7 @@ describe('Negative tests', () => {
   });
 });
 
-describe('List sources', () => {
+describe.skipIf(!DB_EXISTS)('List sources', () => {
   it('ee-012: metadata includes jurisdiction EE', () => {
     const row = db.prepare(
       "SELECT value FROM db_metadata WHERE key = 'jurisdiction'"
@@ -140,7 +145,7 @@ describe('List sources', () => {
   });
 });
 
-describe('All target laws are present', () => {
+describe.skipIf(!DB_EXISTS)('All target laws are present', () => {
   const expectedDocs = [
     'iks',
     'cybersecurity-act',
