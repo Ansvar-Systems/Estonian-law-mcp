@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8'?><oigusakt xmlns="Juurakt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="32cac778-b6be-4dd4-bbdb-caf4695bc648" xsi:schemaLocation="tyviseadus_1_10.02.2010 http://xmlr.eesti.ee/xml/schemas/oigusakt/tyviseadus_1_10.02.2010.xsd">
+	<metaandmed>
+		<valjaandja>Riigikogu</valjaandja>
+		<dokumentLiik>seadus</dokumentLiik>
+		<tekstiliik>terviktekst</tekstiliik>
+		
+		<lyhend>IKS</lyhend><dokumentEtapp>avaldamine</dokumentEtapp>
+		<dokumentStaatus>avaldatud</dokumentStaatus>
+		<vastuvoetud>
+			<aktikuupaev>2018-12-12</aktikuupaev>
+			<avaldamismarge>
+				<RTosa>RT I</RTosa>
+				<avaldamineKuupaev>2019-01-04</avaldamineKuupaev>
+				<RTartikkel>11</RTartikkel>
+				<aktViide>104012019011</aktViide>
+			</avaldamismarge>
+			<joustumine>2019-01-15</joustumine>
+		</vastuvoetud>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2026-03-06+02:00</avaldamineKuupaev>
+			<RTaasta>2026</RTaasta>
+			<RTartikkel>10</RTartikkel>
+			<aktViide>106032026010</aktViide>
+		</avaldamismarge>
+		<kehtivus>
+			<kehtivuseAlgus>2026-03-16</kehtivuseAlgus>
+		</kehtivus>
+		<versioon>
+			<dokumentVersioon>1</dokumentVersioon>
+			<dokumentVersioonKuupaev>2018-12-23</dokumentVersioonKuupaev>
+		</versioon>
+		<skeemiNimi>tyviseadus_1_10.02.2010.xsd</skeemiNimi>
+		<globaalID>106032026010</globaalID>
+		<metaandmedVersioon>20</metaandmedVersioon>
+		<metaandmedVersioonKuupaev>2026-03-05</metaandmedVersioonKuupaev>
+		<metaandmedVersioonPohjustaja>Maret Mauer</metaandmedVersioonPohjustaja>
+		<terviktekstiGrupiID>1045568</terviktekstiGrupiID>
+		<eesmark>Tüviseaduse raamskeem XML struktuuri koostamiseks</eesmark>
+	</metaandmed>
+	<aktinimi>
+		<nimi>
+			<pealkiri>Isikuandmete kaitse seadus</pealkiri>
+			<normtehnmarkus>
+				<normtehnmarkusNr>1</normtehnmarkusNr>
+			</normtehnmarkus>
+		</nimi>
+	</aktinimi>
+	<muutmismarge>
+		<aktikuupaev>2023-02-22</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2023-03-11</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>111032023001</aktViide>
+		</avaldamismarge>
+		<joustumine>2023-11-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2024-12-11</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2024-12-30</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>130122024001</aktViide>
+		</avaldamismarge>
+		<joustumine>2025-01-01</joustumine>
+		<tavatekst>, Vabariigi Valitsuse seaduse § 105.19 lõike 12 alusel asendatud sõna „Justiitsministeerium” sõnadega „Justiits- ja Digiministeerium” vastavas käändes</tavatekst>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2024-12-18</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2024-12-31</avaldamineKuupaev>
+			<RTartikkel>5</RTartikkel>
+			<aktViide>131122024005</aktViide>
+		</avaldamismarge>
+		<joustumine>2025-01-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2025-06-17</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2025-07-12</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>112072025001</aktViide>
+		</avaldamismarge>
+		<joustumine>2025-10-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2026-02-18</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2026-03-06</avaldamineKuupaev>
+			<RTartikkel>2</RTartikkel>
+			<aktViide>106032026002</aktViide>
+		</avaldamismarge>
+		<joustumine>2026-03-16</joustumine>
+	</muutmismarge>
+	<sisu>
+		<peatykk id="ptk1">
+			<peatykkNr>1</peatykkNr>
+			<kuvatavNr><![CDATA[1. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>Üldsätted</peatykkPealkiri>
+			<paragrahv id="para1">
+				<paragrahvNr>1</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 1.]]></kuvatavNr>
+				<paragrahvPealkiri>Seaduse reguleerimisala</paragrahvPealkiri>
+				<loige id="para1lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Käesolev seadus reguleerib:</tavatekst>
+					</sisuTekst>
+					<alampunkt id="para1lg1p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>füüsiliste isikute kaitset isikuandmete töötlemisel ulatuses, milles see täpsustab ja täiendab sätteid, mis sisalduvad Euroopa Parlamendi ja nõukogu määruses (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus) (ELT L 119, 04.05.2016, lk 1–88);</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para1lg1p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>füüsiliste isikute kaitset isikuandmete töötlemisel õiguskaitseasutuste poolt süütegude tõkestamisel, avastamisel ja menetlemisel ning karistuste täideviimisel.</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+				</loige>
+				<loige id="para1lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Käesolev seadus sätestab:</tavatekst>
+					</sisuTekst>
+					<alampunkt id="para1lg2p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>normid, et rakendada Euroopa Parlamendi ja nõukogu määrust (EL) 2016/679;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para1lg2p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>normid, et üle võtta Euroopa Parlamendi ja nõukogu direktiiv (EL) 2016/680, mis käsitleb füüsiliste isikute kaitset seoses pädevates asutustes isikuandmete töötlemisega süütegude tõkestamise, uurimise, avastamise ja nende eest vastutusele võtmise või kriminaalkaristuste täitmisele pööramise eesmärgil ning selliste andmete vaba liikumist ning millega tunnistatakse kehtetuks nõukogu raamotsus 2008/977/JSK (ELT L 119, 04.05.2016, lk 89–131);</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para1lg2p3">
+						<alampunktNr>3</alampunktNr>
+						<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>isikuandmete töötlemise nõuete täitmise üle riikliku ja haldusjärelevalve teostamise korra;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para1lg2p4">
+						<alampunktNr>4</alampunktNr>
+						<kuvatavNr><![CDATA[4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>vastutuse isikuandmete töötlemise nõuete rikkumise eest.</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para2">
+				<paragrahvNr>2</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 2.]]></kuvatavNr>
+				<paragrahvPealkiri>Seaduse ning Euroopa Parlamendi ja nõukogu määruse (EL) 2016/679 kohaldamisala erisused</paragrahvPealkiri>
+				<loige id="para2lg1">
+					<loigeNr/>
+					<kuvatavNr/>
+					<sisuTekst>
+						<tavatekst>Käesolevat seadust ning Euroopa Parlamendi ja nõukogu määrust (EL) 2016/679 kohaldatakse:</tavatekst>
+					</sisuTekst>
+					<alampunkt id="para2lg1p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>süüteomenetlusele ja kohtumenetlusele menetlusseadustikes sätestatud erisustega;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para2lg1p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>põhiseaduslikele institutsioonidele niivõrd, kuivõrd see ei puuduta nende põhiseaduslike ülesannete täitmist ega ole reguleeritud neid puudutavates eriseadustes.</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para2b1">
+				<paragrahvNr ylaIndeks="1">2</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 2<sup>1</sup>.]]></kuvatavNr>
+				<paragrahvPealkiri>Andmekaitse Inspektsiooni pädevus kollektiivse esindushagi menetluses</paragrahvPealkiri>
+				<loige id="para2b1lg1">
+					<loigeNr/>
+					<kuvatavNr/>
+					<sisuTekst>
+						<tavatekst>Andmekaitse Inspektsioon on pädev üksus tarbijakaitseseaduse §-de 60<sup>2</sup> ja 66<sup>2</sup> tähenduses ning võib pöörduda Eesti Vabariigi nimel andmesubjektide kollektiivsete huvide kaitseks riigisisese kollektiivse esindushagiga maakohtusse, samuti piiriülese kollektiivse esindushagiga teise Euroopa Liidu liikmesriigi kohtusse.</tavatekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2024-12-31</avaldamineKuupaev>
+								<RTartikkel>5</RTartikkel>
+								<aktViide>131122024005</aktViide>
+							</avaldamismarge>
+							<joustumine>2025-01-01</joustumine>
+						</muutmismarge>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para3">
+				<paragrahvNr>3</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 3.]]></kuvatavNr>
+				<paragrahvPealkiri>Haldusmenetluse seaduse kohaldamine</paragrahvPealkiri>
+				<loige id="para3lg1">
+					<loigeNr/>
+					<kuvatavNr/>
+					<sisuTekst>
+						<tavatekst>Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+		</peatykk>
+<peatykk id="ptk9">
+			<peatykkNr>9</peatykkNr>
+			<kuvatavNr><![CDATA[9. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>Testpeatükk</peatykkPealkiri>
+			<paragrahv id="para99">
+				<paragrahvNr>99</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 99.]]></kuvatavNr>
+				<paragrahvPealkiri>Kehtetu säte</paragrahvPealkiri>
+				<loige id="para99lg1">
+					<sisuTekst>
+						<tavatekst>[Kehtetu - RT I, 13.03.2019, 2 - jõust. 15.03.2019]</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+		</peatykk>
+</oigusakt>

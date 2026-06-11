@@ -1,70 +1,74 @@
 #!/usr/bin/env tsx
 /**
- * Estonian Law MCP -- Real legislation ingestion pipeline.
+ * Estonian Law MCP -- Real legislation ingestion pipeline (issue #56 rebuild).
  *
  * Source portal: Riigi Teataja (official legal portal of Estonia)
- * Endpoints:
- *   - Search API: /api/oigusakt_otsing/1/otsi
- *   - XML acts:   /akt/{ACT_ID}.xml
+ * Acquisition path (probed + verified 2026-06-11, see scripts/lib/riigiteataja.ts):
+ *   1. Resolution:  GET /public-api/api/v1/akt/{globaalID}?leiaKehtiv=true
+ *                   -> kehtivId = globaalID of the currently valid redaction
+ *   2. Text:        GET /public-api/api/v1/akt/{kehtivId}/blob-xml
+ *                   -> application/xml <oigusakt> document
+ *   3. Discovery:   GET /api/oigusakt_otsing/1/otsi?dokument=seadus&kehtiv={date}
+ *                   (--full mode; rows grouped by terviktekstID lineage id,
+ *                   each group resolved through step 1)
+ *
+ * The historical /akt/{id}.xml endpoint is RETIRED upstream: it returns
+ * HTTP 200 + text/html (the SPA shell) for both stale and current ids.
+ * Nothing in this pipeline fetches it, and every fetch asserts Content-Type
+ * and payload structure. Failures are loud; partial runs exit non-zero.
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchLegislation } from './lib/fetcher.js';
-import { parseRiigiTeatajaXml, TARGET_LAWS, type ParsedAct, type TargetLaw } from './lib/parser.js';
+import { parseRiigiTeatajaXml, TARGET_LAWS, type IngestStamp, type ParsedAct, type TargetLaw } from './lib/parser.js';
+import {
+  actPageUrl,
+  actXmlUrl,
+  assertLineageIdentity,
+  fetchActXml,
+  fetchSearchPage,
+  resolveCurrentRedaction,
+  type ResolvedRedaction,
+  type SearchAct,
+} from './lib/riigiteataja.js';
+import { assertSeedRefreshSane, writeSeedAtomic } from './lib/seed-io.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
-const SEARCH_API_BASE = 'https://www.riigiteataja.ee/api/oigusakt_otsing/1/otsi';
 
 interface CliArgs {
   limit: number | null;
   start: number;
   skipFetch: boolean;
   full: boolean;
-  allStatutes: boolean;
   resume: boolean;
   asOf: string;
-}
-
-interface SearchAct {
-  globaalID: number;
-  pealkiri: string;
-  lyhend: string | null;
-  liik: string;
-  valjaandja: string;
-  mitteJoustunud?: boolean;
-  kehtivKehtetus?: boolean;
-  muudetud: number;
-  url: string;
-  kehtivus?: {
-    algus?: string | null;
-    lopp?: string | null;
-  };
-}
-
-interface SearchResponse {
-  staatus: string;
-  metaandmed: {
-    kokku: number;
-    leht: number;
-    limiit: number;
-  };
-  aktid: SearchAct[];
 }
 
 interface LawResult {
   id: string;
   title: string;
-  sourceUrl: string;
+  sourceRef: string;
   status: 'OK' | 'SKIPPED' | 'FAILED';
   provisions: number;
   definitions: number;
   note: string;
+}
+
+interface WorkItem {
+  law: TargetLaw;
+  /** Pre-resolved redaction (full mode); curated mode resolves lazily. */
+  resolved: ResolvedRedaction | null;
+}
+
+interface CachedMeta {
+  resolved: ResolvedRedaction;
+  kehtivAsOf: string;
+  retrievedAt: string;
 }
 
 function parseArgs(): CliArgs {
@@ -73,7 +77,6 @@ function parseArgs(): CliArgs {
   let start = 1;
   let skipFetch = false;
   let full = false;
-  let allStatutes = false;
   let resume = false;
   let asOf = new Date().toISOString().slice(0, 10);
 
@@ -82,18 +85,14 @@ function parseArgs(): CliArgs {
 
     if (arg === '--limit' && args[i + 1]) {
       const parsed = Number.parseInt(args[i + 1], 10);
-      if (!Number.isNaN(parsed) && parsed > 0) {
-        limit = parsed;
-      }
+      if (!Number.isNaN(parsed) && parsed > 0) limit = parsed;
       i++;
       continue;
     }
 
     if (arg === '--start' && args[i + 1]) {
       const parsed = Number.parseInt(args[i + 1], 10);
-      if (!Number.isNaN(parsed) && parsed > 0) {
-        start = parsed;
-      }
+      if (!Number.isNaN(parsed) && parsed > 0) start = parsed;
       i++;
       continue;
     }
@@ -104,110 +103,122 @@ function parseArgs(): CliArgs {
       continue;
     }
 
-    if (arg === '--skip-fetch') {
-      skipFetch = true;
-      continue;
-    }
-
-    if (arg === '--full') {
-      full = true;
-      continue;
-    }
+    if (arg === '--skip-fetch') { skipFetch = true; continue; }
+    if (arg === '--full') { full = true; continue; }
+    if (arg === '--resume') { resume = true; continue; }
 
     if (arg === '--all-statutes') {
-      allStatutes = true;
-      continue;
-    }
-
-    if (arg === '--resume') {
-      resume = true;
-      continue;
+      console.error(
+        '--all-statutes was removed in the issue #56 rebuild: non-active statute selection relied on the ' +
+        'retired choosePreferredAct heuristics. Current-version selection is now explicit (leiaKehtiv=true). ' +
+        'Use --as-of for historical cuts.'
+      );
+      process.exit(2);
     }
   }
 
-  return { limit, start, skipFetch, full, allStatutes, resume, asOf };
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(asOf)) {
+    console.error(`--as-of must be YYYY-MM-DD, got "${asOf}"`);
+    process.exit(2);
+  }
+
+  return { limit, start, skipFetch, full, resume, asOf };
 }
 
-function ensureDirs(): void {
+function sourceCachePaths(lawId: string): { xml: string; meta: string } {
+  return {
+    xml: path.join(SOURCE_DIR, `${lawId}.xml`),
+    meta: path.join(SOURCE_DIR, `${lawId}.meta.json`),
+  };
+}
+
+function readCachedMeta(lawId: string): CachedMeta | null {
+  const { xml, meta } = sourceCachePaths(lawId);
+  if (!fs.existsSync(xml) || !fs.existsSync(meta)) return null;
+  try {
+    return JSON.parse(fs.readFileSync(meta, 'utf8')) as CachedMeta;
+  } catch {
+    return null;
+  }
+}
+
+function writeSourceCache(lawId: string, xml: string, cached: CachedMeta): void {
+  const paths = sourceCachePaths(lawId);
   fs.mkdirSync(SOURCE_DIR, { recursive: true });
-  fs.mkdirSync(SEED_DIR, { recursive: true });
+  fs.writeFileSync(paths.xml, xml, 'utf8');
+  fs.writeFileSync(paths.meta, `${JSON.stringify(cached, null, 2)}\n`, 'utf8');
 }
 
-function clearSeedDirectory(): void {
-  if (!fs.existsSync(SEED_DIR)) return;
+function buildIngestStamp(law: TargetLaw, resolved: ResolvedRedaction, asOf: string, retrievedAt: string): IngestStamp {
+  return {
+    source: 'riigiteataja',
+    resolved_from: law.riigiTeatajaId,
+    globaal_id: resolved.currentId,
+    group_id: resolved.groupId,
+    kehtiv_as_of: asOf,
+    kehtivuse_algus: resolved.validFrom,
+    retrieved_at: retrievedAt,
+    xml_endpoint: actXmlUrl(resolved.currentId),
+  };
+}
 
-  const files = fs.readdirSync(SEED_DIR).filter(file => file.endsWith('.json'));
-  for (const file of files) {
-    fs.unlinkSync(path.join(SEED_DIR, file));
+async function ingestOneLaw(law: TargetLaw, resolvedOrNull: ResolvedRedaction | null, opts: CliArgs): Promise<LawResult> {
+  try {
+    let resolved = resolvedOrNull;
+    let xml: string;
+    let retrievedAt = new Date().toISOString();
+    let asOfUsed = opts.asOf;
+
+    const cached = opts.skipFetch ? readCachedMeta(law.id) : null;
+    if (cached) {
+      const { xml: xmlPath } = sourceCachePaths(law.id);
+      xml = fs.readFileSync(xmlPath, 'utf8');
+      resolved = cached.resolved;
+      retrievedAt = cached.retrievedAt;
+      asOfUsed = cached.kehtivAsOf;
+      console.log(`  [cache] ${law.id}: reusing ${path.basename(xmlPath)} (globaalID ${resolved.currentId})`);
+    } else {
+      if (!resolved) {
+        resolved = await resolveCurrentRedaction(law.riigiTeatajaId);
+        assertLineageIdentity(law, resolved);
+      }
+      xml = await fetchActXml(resolved.currentId);
+      writeSourceCache(law.id, xml, { resolved, kehtivAsOf: asOfUsed, retrievedAt });
+    }
+
+    const parsed = parseRiigiTeatajaXml(xml, law, actPageUrl(resolved.currentId));
+    const seedPath = path.join(SEED_DIR, law.seedFile);
+
+    assertSeedRefreshSane(parsed, seedPath);
+    parsed._ingest = buildIngestStamp(law, resolved, asOfUsed, retrievedAt);
+    writeSeedAtomic(seedPath, parsed);
+
+    return {
+      id: law.id,
+      title: parsed.title,
+      sourceRef: resolved.currentId,
+      status: 'OK',
+      provisions: parsed.provisions.length,
+      definitions: parsed.definitions.length,
+      note: law.seedFile,
+    };
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    return {
+      id: law.id,
+      title: law.id,
+      sourceRef: resolvedOrNull?.currentId ?? law.riigiTeatajaId,
+      status: 'FAILED',
+      provisions: 0,
+      definitions: 0,
+      note: message,
+    };
   }
 }
 
-function parseDate(input: string | null | undefined): number {
-  if (!input) return 0;
-  const match = input.match(/\d{4}-\d{2}-\d{2}/);
-  if (!match) return 0;
-  const parsed = Date.parse(`${match[0]}T00:00:00Z`);
-  return Number.isNaN(parsed) ? 0 : parsed;
-}
-
-function normalizeSearchKey(act: SearchAct): string {
-  const normalize = (value: string | null | undefined) => (value ?? '').toLowerCase().replace(/\s+/g, ' ').trim();
-  return [
-    normalize(act.valjaandja),
-    normalize(act.liik),
-    normalize(act.lyhend),
-    normalize(act.pealkiri),
-  ].join('|');
-}
-
-function choosePreferredAct(a: SearchAct, b: SearchAct): SearchAct {
-  const aAlgus = parseDate(a.kehtivus?.algus);
-  const bAlgus = parseDate(b.kehtivus?.algus);
-  if (aAlgus !== bAlgus) return aAlgus > bAlgus ? a : b;
-
-  if (a.muudetud !== b.muudetud) return a.muudetud > b.muudetud ? a : b;
-
-  return a.globaalID >= b.globaalID ? a : b;
-}
-
-function isActiveAt(act: SearchAct, asOf: string): boolean {
-  const asOfTs = parseDate(asOf);
-  const algusTs = parseDate(act.kehtivus?.algus);
-  const loppTs = parseDate(act.kehtivus?.lopp);
-
-  if (act.mitteJoustunud === true) return false;
-  if (algusTs !== 0 && algusTs > asOfTs) return false;
-  if (loppTs !== 0 && loppTs <= asOfTs) return false;
-  if (act.kehtivKehtetus === true) return false;
-  return true;
-}
-
-function inferStatus(act: SearchAct, asOf: string): TargetLaw['status'] {
-  const asOfTs = parseDate(asOf);
-  const algusTs = parseDate(act.kehtivus?.algus);
-  const loppTs = parseDate(act.kehtivus?.lopp);
-
-  if (act.mitteJoustunud === true || (algusTs !== 0 && algusTs > asOfTs)) {
-    return 'not_yet_in_force';
-  }
-
-  if (act.kehtivKehtetus === true || (loppTs !== 0 && loppTs <= asOfTs)) {
-    return 'repealed';
-  }
-
-  return 'in_force';
-}
-
-function extractGlobalIdFromSourceUrl(sourceUrl: string): string {
-  const match = sourceUrl.match(/\/akt\/(\d+)\.xml$/);
-  return match ? match[1] : '';
-}
-
-function toAbsoluteActUrl(relativeOrAbsolute: string): string {
-  if (relativeOrAbsolute.startsWith('http://') || relativeOrAbsolute.startsWith('https://')) {
-    return relativeOrAbsolute;
-  }
-  return `https://www.riigiteataja.ee${relativeOrAbsolute}`;
+/** Curated mode: every TARGET_LAWS lineage anchor, resolved lazily in ingestOneLaw. */
+function buildCuratedWorkItems(): WorkItem[] {
+  return TARGET_LAWS.map(law => ({ law, resolved: null }));
 }
 
 function buildExistingSeedFileMap(): Map<string, string> {
@@ -235,272 +246,215 @@ function buildExistingSeedFileMap(): Map<string, string> {
   return byGlobalId;
 }
 
-function buildFullCorpusLaws(dedupedActs: SearchAct[], asOf: string): TargetLaw[] {
-  const curatedByGlobalId = new Map<string, TargetLaw>();
-  for (const law of TARGET_LAWS) {
-    const globalId = extractGlobalIdFromSourceUrl(law.sourceUrl);
-    if (globalId) curatedByGlobalId.set(globalId, law);
-  }
-
-  const existingSeedByGlobalId = buildExistingSeedFileMap();
-
-  const sorted = [...dedupedActs].sort((a, b) => {
-    const titleCmp = a.pealkiri.localeCompare(b.pealkiri, 'et');
-    if (titleCmp !== 0) return titleCmp;
-    return a.globaalID - b.globaalID;
-  });
-
-  const laws: TargetLaw[] = [];
-
-  for (const act of sorted) {
-    const globalId = String(act.globaalID);
-    const curated = curatedByGlobalId.get(globalId);
-
-    if (curated) {
-      laws.push({
-        ...curated,
-        sourceUrl: toAbsoluteActUrl(act.url),
-      });
-      continue;
-    }
-    const title = act.pealkiri.trim();
-
-    laws.push({
-      id: `ee-law-${globalId}`,
-      seedFile: existingSeedByGlobalId.get(globalId) ?? `full-${globalId}.json`,
-      sourceUrl: toAbsoluteActUrl(act.url),
-      titleEn: title,
-      shortName: act.lyhend ?? undefined,
-      description: `Official consolidated statute text (${title}) from Riigi Teataja.`,
-      status: inferStatus(act, asOf),
-    });
-  }
-
-  return laws;
+function inferStatus(resolved: ResolvedRedaction): TargetLaw['status'] {
+  if (resolved.notYetInForce) return 'not_yet_in_force';
+  if (resolved.repealed) return 'repealed';
+  return 'in_force';
 }
 
-async function fetchSearchPage(page: number, limit: number, asOf?: string): Promise<SearchResponse> {
-  const params = new URLSearchParams({
-    dokument: 'seadus',
-    limiit: String(limit),
-    leht: String(page),
-  });
-  if (asOf) params.set('kehtiv', asOf);
-
-  const url = `${SEARCH_API_BASE}?${params.toString()}`;
-  const response = await fetchLegislation(url);
-  if (response.status !== 200) {
-    throw new Error(`Search API HTTP ${response.status} (${url})`);
-  }
-
-  let parsed: SearchResponse;
-  try {
-    parsed = JSON.parse(response.body) as SearchResponse;
-  } catch (error) {
-    throw new Error(`Search API returned invalid JSON for ${url}: ${String(error)}`);
-  }
-
-  if (parsed.staatus !== 'OK') {
-    throw new Error(`Search API status ${parsed.staatus} for ${url}`);
-  }
-
-  return parsed;
-}
-
-async function discoverFullCorpusLaws(asOf: string, allStatutes: boolean): Promise<TargetLaw[]> {
+/**
+ * Full-corpus mode: enumerate statutes in force at --as-of via the search
+ * API, group rows by terviktekstID (lineage id), and resolve each group to
+ * its currently valid redaction. No heuristics: `leiaKehtiv=true` IS the
+ * current-version selection.
+ *
+ * Identity rules:
+ * - Curated lineages keep their TARGET_LAWS id/seedFile (matched by groupId).
+ * - Existing full-corpus seeds keep their id/seedFile (matched by any
+ *   globaalID the group exposes; ids embed the ORIGINAL globaalID and are
+ *   citation identity — never regenerated).
+ * - Only genuinely new statutes mint `ee-law-{currentId}`.
+ */
+async function buildFullCorpusWorkItems(asOf: string): Promise<{ items: WorkItem[]; failures: LawResult[] }> {
   const pageSize = 500;
-  const firstPage = await fetchSearchPage(1, pageSize, allStatutes ? undefined : asOf);
-
+  const firstPage = await fetchSearchPage(1, pageSize, asOf);
   const totalRows = firstPage.metaandmed.kokku;
   const totalPages = Math.max(1, Math.ceil(totalRows / pageSize));
 
-  console.log(
-    `${allStatutes ? 'Discovering all statutes' : `Discovering full corpus for ${asOf}`}: ` +
-    `${totalRows} rows across ${totalPages} pages`
-  );
+  console.log(`Discovering statutes in force at ${asOf}: ${totalRows} rows across ${totalPages} pages`);
 
-  const allActs: SearchAct[] = [...(firstPage.aktid ?? [])];
-
+  const allRows: SearchAct[] = [...(firstPage.aktid ?? [])];
   for (let page = 2; page <= totalPages; page++) {
-    const next = await fetchSearchPage(page, pageSize, allStatutes ? undefined : asOf);
-    allActs.push(...(next.aktid ?? []));
-
+    const next = await fetchSearchPage(page, pageSize, asOf);
+    allRows.push(...(next.aktid ?? []));
     if (page % 2 === 0 || page === totalPages) {
-      console.log(`  Loaded metadata page ${page}/${totalPages} (${allActs.length} rows)`);
+      console.log(`  Loaded metadata page ${page}/${totalPages} (${allRows.length} rows)`);
     }
   }
 
-  const rowsByKey = new Map<string, SearchAct[]>();
-  for (const act of allActs) {
-    if (!act.url || !act.url.endsWith('.xml')) continue;
-    const key = normalizeSearchKey(act);
-    const existing = rowsByKey.get(key);
-    if (!existing) {
-      rowsByKey.set(key, [act]);
-      continue;
+  const rowsByGroup = new Map<number, SearchAct[]>();
+  for (const row of allRows) {
+    if (typeof row.terviktekstID !== 'number') {
+      throw new Error(
+        `Search row globaalID ${row.globaalID} ("${row.pealkiri}") has no terviktekstID — cannot establish lineage`
+      );
     }
-    existing.push(act);
+    const group = rowsByGroup.get(row.terviktekstID);
+    if (group) group.push(row);
+    else rowsByGroup.set(row.terviktekstID, [row]);
   }
 
-  const dedupedActs: SearchAct[] = [];
-  let nonActiveOnly = 0;
+  console.log(`  Grouped into ${rowsByGroup.size} statute lineages`);
 
-  for (const rows of rowsByKey.values()) {
-    if (rows.length === 0) continue;
-
-    const activeRows = rows.filter(row => isActiveAt(row, asOf));
-    const sourceRows = allStatutes && activeRows.length > 0 ? activeRows : rows;
-    if (allStatutes && activeRows.length === 0) nonActiveOnly++;
-
-    const chosen = sourceRows.reduce((best, current) => choosePreferredAct(current, best));
-    dedupedActs.push(chosen);
+  // Resolve curated anchors first so curated lineages keep their identity.
+  const curatedByGroup = new Map<number, TargetLaw>();
+  const curatedResolved = new Map<string, ResolvedRedaction>();
+  for (const law of TARGET_LAWS) {
+    const resolved = await resolveCurrentRedaction(law.riigiTeatajaId);
+    assertLineageIdentity(law, resolved);
+    curatedByGroup.set(resolved.groupId, law);
+    curatedResolved.set(law.id, resolved);
   }
 
-  const laws = buildFullCorpusLaws(dedupedActs, asOf);
+  const existingSeedByGid = buildExistingSeedFileMap();
+  const items: WorkItem[] = [];
+  const failures: LawResult[] = [];
 
-  console.log(`  Deduplicated to ${laws.length} unique statutes`);
-  if (allStatutes) console.log(`  Includes ${nonActiveOnly} non-active-only statute keys`);
-
-  return laws;
-}
-
-async function readOrFetchXml(law: TargetLaw, skipFetch: boolean): Promise<string> {
-  const sourceFile = path.join(SOURCE_DIR, `${law.id}.xml`);
-
-  if (skipFetch && fs.existsSync(sourceFile)) {
-    return fs.readFileSync(sourceFile, 'utf8');
+  for (const law of TARGET_LAWS) {
+    items.push({ law, resolved: curatedResolved.get(law.id) ?? null });
   }
 
-  const response = await fetchLegislation(law.sourceUrl);
-  if (response.status !== 200) {
-    throw new Error(`HTTP ${response.status} from ${law.sourceUrl}`);
-  }
+  const sortedGroups = [...rowsByGroup.entries()].sort(([, a], [, b]) => {
+    const titleCmp = a[0].pealkiri.localeCompare(b[0].pealkiri, 'et');
+    if (titleCmp !== 0) return titleCmp;
+    return a[0].globaalID - b[0].globaalID;
+  });
 
-  if (!response.body.includes('<oigusakt')) {
-    throw new Error(`Unexpected response payload for ${law.sourceUrl}`);
-  }
+  let processed = 0;
+  for (const [groupId, rows] of sortedGroups) {
+    processed++;
+    if (curatedByGroup.has(groupId)) continue; // already queued with curated identity
 
-  fs.writeFileSync(sourceFile, response.body);
-  return response.body;
-}
-
-function writeSeed(law: TargetLaw, parsed: ParsedAct): void {
-  const seedPath = path.join(SEED_DIR, law.seedFile);
-  fs.writeFileSync(seedPath, `${JSON.stringify(parsed, null, 2)}\n`, 'utf8');
-}
-
-async function ingestOneLaw(law: TargetLaw, skipFetch: boolean): Promise<LawResult> {
-  try {
-    const xml = await readOrFetchXml(law, skipFetch);
-    const parsed = parseRiigiTeatajaXml(xml, law);
-
-    if (parsed.provisions.length === 0) {
-      // Persist metadata-only records to keep corpus accounting complete.
-      writeSeed(law, parsed);
-      return {
-        id: law.id,
-        title: parsed.title,
-        sourceUrl: law.sourceUrl,
-        status: 'SKIPPED',
+    let resolved: ResolvedRedaction;
+    try {
+      resolved = await resolveCurrentRedaction(String(rows[0].globaalID));
+      if (resolved.groupId !== groupId) {
+        throw new Error(
+          `Lineage mismatch: search row ${rows[0].globaalID} declared terviktekstID ${groupId} but the ` +
+          `metadata endpoint resolved grupiId ${resolved.groupId}`
+        );
+      }
+    } catch (error) {
+      failures.push({
+        id: `group-${groupId}`,
+        title: rows[0].pealkiri,
+        sourceRef: String(rows[0].globaalID),
+        status: 'FAILED',
         provisions: 0,
         definitions: 0,
-        note: 'No provisions extracted (metadata-only seed written)',
-      };
+        note: error instanceof Error ? error.message : String(error),
+      });
+      continue;
     }
 
-    writeSeed(law, parsed);
+    const candidateGids = [...rows.map(r => String(r.globaalID)), resolved.currentId];
+    const existingGid = candidateGids.find(gid => existingSeedByGid.has(gid));
+    const id = existingGid ? `ee-law-${existingGid}` : `ee-law-${resolved.currentId}`;
+    const seedFile = existingGid
+      ? existingSeedByGid.get(existingGid)!
+      : `full-${resolved.currentId}.json`;
+    const title = resolved.title || rows[0].pealkiri;
 
-    return {
-      id: law.id,
-      title: parsed.title,
-      sourceUrl: law.sourceUrl,
-      status: 'OK',
-      provisions: parsed.provisions.length,
-      definitions: parsed.definitions.length,
-      note: law.seedFile,
-    };
-  } catch (error) {
-    const message = error instanceof Error ? error.message : String(error);
-    return {
-      id: law.id,
-      title: law.id,
-      sourceUrl: law.sourceUrl,
-      status: 'FAILED',
-      provisions: 0,
-      definitions: 0,
-      note: message,
-    };
+    items.push({
+      law: {
+        id,
+        seedFile,
+        riigiTeatajaId: String(rows[0].globaalID),
+        titleEn: title,
+        shortName: resolved.shortName ?? undefined,
+        description: `Official consolidated statute text (${title}) from Riigi Teataja.`,
+        status: inferStatus(resolved),
+      },
+      resolved,
+    });
+
+    if (processed % 100 === 0) {
+      console.log(`  Resolved ${processed}/${sortedGroups.length} lineages`);
+    }
   }
+
+  // Loud orphan report: committed seeds whose lineage no longer appears in
+  // the search results. These are NOT deleted automatically.
+  const coveredSeedFiles = new Set(items.map(item => item.law.seedFile));
+  const orphans = [...existingSeedByGid.values()].filter(file => !coveredSeedFiles.has(file));
+  if (orphans.length > 0) {
+    console.warn(`\nWARNING: ${orphans.length} committed full-corpus seeds matched no discovered lineage at ${asOf}.`);
+    console.warn('They were NOT refreshed and NOT deleted (likely repealed or renamed upstream). Review manually:');
+    for (const file of orphans.slice(0, 20)) console.warn(`  - ${file}`);
+    if (orphans.length > 20) console.warn(`  ... and ${orphans.length - 20} more`);
+  }
+
+  return { items, failures };
 }
 
 async function main(): Promise<void> {
-  const { limit, start, skipFetch, full, allStatutes, resume, asOf } = parseArgs();
-
-  const discoveredLaws = full
-    ? await discoverFullCorpusLaws(asOf, allStatutes)
-    : TARGET_LAWS;
-
-  const startIndex = Math.max(0, start - 1);
-  const fromStart = discoveredLaws.slice(startIndex);
-  const laws = limit ? fromStart.slice(0, limit) : fromStart;
+  const opts = parseArgs();
 
   console.log('Estonian Law MCP -- Real Data Ingestion');
   console.log('========================================');
   console.log('Portal: https://www.riigiteataja.ee');
-  console.log('Method: XML_DOWNLOAD via /akt/{id}.xml');
-  if (full) {
-    console.log(`Mode: ${allStatutes ? 'FULL_CORPUS_ALL_STATUTES' : 'FULL_CORPUS'}`);
-  } else {
-    console.log('Mode: CURATED_10');
-  }
-  console.log(`Target laws: ${laws.length}`);
-  if (full) console.log(`As-of date: ${asOf}`);
-  if (allStatutes) console.log('Flag: --all-statutes (include non-active-only statute keys)');
-  if (start > 1) console.log(`Start index: ${start}`);
-  if (limit) console.log(`Limit: ${limit}`);
-  if (skipFetch) console.log('Flag: --skip-fetch (reuse cached XML when available)');
-  if (resume) console.log('Flag: --resume (keep existing seed files and skip completed documents)');
+  console.log('Method: leiaKehtiv resolution + /public-api/api/v1/akt/{id}/blob-xml');
+  console.log(`Mode: ${opts.full ? 'FULL_CORPUS' : 'CURATED_10'}`);
+  console.log(`As-of date: ${opts.asOf}`);
+  if (opts.start > 1) console.log(`Start index: ${opts.start}`);
+  if (opts.limit) console.log(`Limit: ${opts.limit}`);
+  if (opts.skipFetch) console.log('Flag: --skip-fetch (reuse cached XML+meta when both exist)');
+  if (opts.resume) console.log('Flag: --resume (skip laws whose seed file already exists)');
   console.log('');
 
-  ensureDirs();
-  if (!resume) {
-    clearSeedDirectory();
-  }
+  fs.mkdirSync(SOURCE_DIR, { recursive: true });
+  fs.mkdirSync(SEED_DIR, { recursive: true });
 
   const results: LawResult[] = [];
 
-  for (let i = 0; i < laws.length; i++) {
-    const law = laws[i];
+  let workItems: WorkItem[];
+  if (opts.full) {
+    const { items, failures } = await buildFullCorpusWorkItems(opts.asOf);
+    workItems = items;
+    results.push(...failures);
+  } else {
+    workItems = buildCuratedWorkItems();
+  }
+
+  const startIndex = Math.max(0, opts.start - 1);
+  const fromStart = workItems.slice(startIndex);
+  const selected = opts.limit ? fromStart.slice(0, opts.limit) : fromStart;
+
+  console.log(`Target laws: ${selected.length}`);
+  console.log('');
+
+  for (let i = 0; i < selected.length; i++) {
+    const { law, resolved } = selected[i];
     const seedPath = path.join(SEED_DIR, law.seedFile);
 
-    if (resume && fs.existsSync(seedPath)) {
+    if (opts.resume && fs.existsSync(seedPath)) {
       const existing = JSON.parse(fs.readFileSync(seedPath, 'utf8')) as ParsedAct;
-      const provisions = existing.provisions?.length ?? 0;
-      const definitions = existing.definitions?.length ?? 0;
-      const skipped: LawResult = {
+      results.push({
         id: law.id,
         title: existing.title ?? law.id,
-        sourceUrl: law.sourceUrl,
+        sourceRef: existing._ingest?.globaal_id ?? law.riigiTeatajaId,
         status: 'SKIPPED',
-        provisions,
-        definitions,
+        provisions: existing.provisions?.length ?? 0,
+        definitions: existing.definitions?.length ?? 0,
         note: 'Seed file already exists',
-      };
-      results.push(skipped);
+      });
       continue;
     }
 
-    const result = await ingestOneLaw(law, skipFetch);
+    const result = await ingestOneLaw(law, resolved, opts);
     results.push(result);
 
     const processed = i + 1;
-    const shouldLogProgress = laws.length <= 100 || processed % 25 === 0 || result.status !== 'OK';
+    const shouldLogProgress = selected.length <= 100 || processed % 25 === 0 || result.status !== 'OK';
 
     if (shouldLogProgress) {
       if (result.status === 'OK') {
-        console.log(`[${processed}/${laws.length}] ${law.id} -> OK (${result.provisions} provisions, ${result.definitions} definitions)`);
+        console.log(
+          `[${processed}/${selected.length}] ${law.id} -> OK ` +
+          `(globaalID ${result.sourceRef}, ${result.provisions} provisions, ${result.definitions} definitions)`
+        );
       } else {
-        console.log(`[${processed}/${laws.length}] ${law.id} -> ${result.status} (${result.note})`);
+        console.log(`[${processed}/${selected.length}] ${law.id} -> ${result.status} (${result.note})`);
       }
     }
   }

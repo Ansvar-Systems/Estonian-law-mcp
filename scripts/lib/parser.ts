@@ -1,8 +1,11 @@
 /**
  * XML parser for Estonian legislation from Riigi Teataja.
  *
- * The official machine-readable endpoint serves statutes at:
- *   https://www.riigiteataja.ee/akt/{ACT_ID}.xml
+ * Acquisition (issue #56): the historical `/akt/{id}.xml` endpoint is
+ * retired upstream — it serves the HTML SPA shell with HTTP 200. Act XML now
+ * comes from `/public-api/api/v1/akt/{globaalID}/blob-xml`, which carries the
+ * same `<oigusakt>` schema (tyviseadus_1_10.02.2010) this parser has always
+ * consumed. See scripts/lib/riigiteataja.ts for endpoint-resolution evidence.
  *
  * The parser extracts:
  * - statute metadata (title, dates, short name)
@@ -14,7 +17,13 @@
 export interface TargetLaw {
   id: string;
   seedFile: string;
-  sourceUrl: string;
+  /**
+   * Lineage anchor: any known globaalID of the statute. Resolved to the
+   * currently valid redaction via the `leiaKehtiv=true` metadata endpoint at
+   * ingest time. This is NOT citation identity — `id` is. Never regenerate
+   * `id` from URLs or globaalIDs.
+   */
+  riigiTeatajaId: string;
   titleEn: string;
   shortName?: string;
   description: string;
@@ -35,6 +44,26 @@ export interface ParsedDefinition {
   source_provision?: string;
 }
 
+/**
+ * Version-identity stamp written into every refreshed seed: which redaction
+ * was fetched, from which lineage anchor, when, and through which endpoint.
+ */
+export interface IngestStamp {
+  source: 'riigiteataja';
+  /** Lineage anchor globaalID the resolution started from. */
+  resolved_from: string;
+  /** globaalID of the redaction actually fetched (`kehtivId`). */
+  globaal_id: string;
+  /** Consolidation-group (lineage) id (`grupiId` / `terviktekstID`). */
+  group_id: number;
+  /** `kehtiv` date the run used for current-version selection. */
+  kehtiv_as_of: string;
+  /** Redaction validity start, as reported by the metadata endpoint. */
+  kehtivuse_algus: string | null;
+  retrieved_at: string;
+  xml_endpoint: string;
+}
+
 export interface ParsedAct {
   id: string;
   type: 'statute';
@@ -48,13 +77,14 @@ export interface ParsedAct {
   description: string;
   provisions: ParsedProvision[];
   definitions: ParsedDefinition[];
+  _ingest?: IngestStamp;
 }
 
 export const TARGET_LAWS: TargetLaw[] = [
   {
     id: 'iks',
     seedFile: '01-personal-data-protection-act.json',
-    sourceUrl: 'https://www.riigiteataja.ee/akt/112072025014.xml',
+    riigiTeatajaId: '112072025014',
     titleEn: 'Personal Data Protection Act',
     shortName: 'IKS',
     description: 'Estonia\'s core personal data protection statute. It supplements GDPR and sets national rules for supervision, processing grounds, and safeguards.',
@@ -63,7 +93,7 @@ export const TARGET_LAWS: TargetLaw[] = [
   {
     id: 'cybersecurity-act',
     seedFile: '02-cybersecurity-act.json',
-    sourceUrl: 'https://www.riigiteataja.ee/akt/130122025015.xml',
+    riigiTeatajaId: '130122025015',
     titleEn: 'Cybersecurity Act',
     shortName: 'KüTS',
     description: 'Framework law for cybersecurity governance and obligations in Estonia, including requirements on network and information system security and supervision.',
@@ -72,7 +102,7 @@ export const TARGET_LAWS: TargetLaw[] = [
   {
     id: 'electronic-communications-act',
     seedFile: '03-electronic-communications-act.json',
-    sourceUrl: 'https://www.riigiteataja.ee/akt/130122025018.xml',
+    riigiTeatajaId: '130122025018',
     titleEn: 'Electronic Communications Act',
     shortName: 'ESS',
     description: 'Regulates electronic communications networks and services, including provider obligations, user rights, and supervisory powers.',
@@ -81,7 +111,7 @@ export const TARGET_LAWS: TargetLaw[] = [
   {
     id: 'info-society-services-act',
     seedFile: '04-information-society-services-act.json',
-    sourceUrl: 'https://www.riigiteataja.ee/akt/104072024024.xml',
+    riigiTeatajaId: '104072024024',
     titleEn: 'Information Society Services Act',
     shortName: 'InfoTS',
     description: 'Sets legal requirements for information society services, including service provider duties and liability rules in digital services contexts.',
@@ -90,7 +120,7 @@ export const TARGET_LAWS: TargetLaw[] = [
   {
     id: 'public-information-act',
     seedFile: '05-public-information-act.json',
-    sourceUrl: 'https://www.riigiteataja.ee/akt/105072025003.xml',
+    riigiTeatajaId: '105072025003',
     titleEn: 'Public Information Act',
     shortName: 'AvTS',
     description: 'Establishes public access to information held by authorities, proactive publication duties, and data management obligations.',
@@ -99,7 +129,7 @@ export const TARGET_LAWS: TargetLaw[] = [
   {
     id: 'eidas-trust-services-act',
     seedFile: '06-eidas-trust-services-act.json',
-    sourceUrl: 'https://www.riigiteataja.ee/akt/130122025016.xml',
+    riigiTeatajaId: '130122025016',
     titleEn: 'E-Identification and Trust Services for Electronic Transactions Act',
     shortName: 'EUTS',
     description: 'Implements national rules around e-identification and trust services in alignment with Regulation (EU) No 910/2014 (eIDAS).',
@@ -108,7 +138,7 @@ export const TARGET_LAWS: TargetLaw[] = [
   {
     id: 'identity-documents-act',
     seedFile: '07-identity-documents-act.json',
-    sourceUrl: 'https://www.riigiteataja.ee/akt/126062025006.xml',
+    riigiTeatajaId: '126062025006',
     titleEn: 'Identity Documents Act',
     shortName: 'ITDS',
     description: 'Regulates identity documents and related issuance, use, and verification rules, including digital identity credentials.',
@@ -117,7 +147,7 @@ export const TARGET_LAWS: TargetLaw[] = [
   {
     id: 'penal-code-cyber',
     seedFile: '08-penal-code-cyber.json',
-    sourceUrl: 'https://www.riigiteataja.ee/akt/122122025002.xml',
+    riigiTeatajaId: '122122025002',
     titleEn: 'Penal Code',
     shortName: 'KarS',
     description: 'Estonia\'s Penal Code, including criminal law provisions relevant to cybercrime, data offences, and unlawful system interference.',
@@ -126,7 +156,7 @@ export const TARGET_LAWS: TargetLaw[] = [
   {
     id: 'trade-secrets-act',
     seedFile: '09-trade-secrets-act.json',
-    sourceUrl: 'https://www.riigiteataja.ee/akt/107122018002.xml',
+    riigiTeatajaId: '107122018002',
     titleEn: 'Anti-Unfair Competition and Trade Secrets Protection Act',
     shortName: 'EKTÄKS',
     description: 'Defines and protects trade secrets and sets remedies against unlawful acquisition, use, and disclosure in competition settings.',
@@ -135,7 +165,7 @@ export const TARGET_LAWS: TargetLaw[] = [
   {
     id: 'constitution',
     seedFile: '10-constitution.json',
-    sourceUrl: 'https://www.riigiteataja.ee/akt/111042025002.xml',
+    riigiTeatajaId: '111042025002',
     titleEn: 'Constitution of the Republic of Estonia',
     shortName: 'PS',
     description: 'Foundational constitutional text of Estonia, including rights and principles relevant to privacy, state power, and rule of law.',
@@ -402,7 +432,7 @@ function extractDefinitions(provisions: ParsedProvision[]): ParsedDefinition[] {
   return definitions;
 }
 
-export function parseRiigiTeatajaXml(xml: string, law: TargetLaw): ParsedAct {
+export function parseRiigiTeatajaXml(xml: string, law: TargetLaw, sourceUrl: string): ParsedAct {
   const title = normalizeInline(extractFirst(xml, /<aktinimi\b[\s\S]*?<pealkiri\b[^>]*>([\s\S]*?)<\/pealkiri>/i));
 
   const shortName = normalizeInline(extractFirst(xml, /<lyhend\b[^>]*>([\s\S]*?)<\/lyhend>/i)) || law.shortName || law.id;
@@ -437,7 +467,9 @@ export function parseRiigiTeatajaXml(xml: string, law: TargetLaw): ParsedAct {
     const content = extractParagraphText(fullParagraphXml);
     if (!content) continue;
 
-    if (/^kehtetu\b/i.test(content) && content.split(/\s+/).length <= 12) {
+    // Repealed markers come both bare ("Kehtetu - RT I ...") and bracketed
+    // ("[Kehtetu - RT I, 13.03.2019, 2 - jõust. 15.03.2019]").
+    if (/^\[?kehtetu\b/i.test(content) && content.split(/\s+/).length <= 12) {
       continue;
     }
 
@@ -477,7 +509,7 @@ export function parseRiigiTeatajaXml(xml: string, law: TargetLaw): ParsedAct {
     status: law.status,
     issued_date: issuedDate,
     in_force_date: inForceDate,
-    url: law.sourceUrl,
+    url: sourceUrl,
     description: law.description,
     provisions,
     definitions,
