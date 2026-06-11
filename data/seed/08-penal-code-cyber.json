@@ -7,7 +7,7 @@
   "status": "in_force",
   "issued_date": "2001-06-06",
   "in_force_date": "2026-01-01",
-  "url": "https://www.riigiteataja.ee/akt/122122025002.xml",
+  "url": "https://www.riigiteataja.ee/akt/122122025002",
   "description": "Estonia's Penal Code, including criminal law provisions relevant to cybercrime, data offences, and unlawful system interference.",
   "provisions": [
     {
@@ -3546,5 +3546,15 @@
       "content": "Karistusseadustik kehtestatakse eraldi seadusega."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "source": "riigiteataja",
+    "resolved_from": "122122025002",
+    "globaal_id": "122122025002",
+    "group_id": 162500,
+    "kehtiv_as_of": "2026-06-11",
+    "kehtivuse_algus": "2025-12-31T22:00:00Z",
+    "retrieved_at": "2026-06-11T19:39:44.910Z",
+    "xml_endpoint": "https://www.riigiteataja.ee/public-api/api/v1/akt/122122025002/blob-xml"
+  }
 }

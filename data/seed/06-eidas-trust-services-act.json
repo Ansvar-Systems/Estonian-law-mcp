@@ -7,7 +7,7 @@
   "status": "in_force",
   "issued_date": "2016-10-12",
   "in_force_date": "2026-01-01",
-  "url": "https://www.riigiteataja.ee/akt/130122025016.xml",
+  "url": "https://www.riigiteataja.ee/akt/130122025016",
   "description": "Implements national rules around e-identification and trust services in alignment with Regulation (EU) No 910/2014 (eIDAS).",
   "provisions": [
     {
@@ -214,5 +214,15 @@
       "content": "Käesolev seadus jõustub järgmisel päeval pärast Riigi Teatajas avaldamist."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "source": "riigiteataja",
+    "resolved_from": "130122025016",
+    "globaal_id": "130122025016",
+    "group_id": 1036212,
+    "kehtiv_as_of": "2026-06-11",
+    "kehtivuse_algus": "2025-12-31T22:00:00Z",
+    "retrieved_at": "2026-06-11T19:39:36.680Z",
+    "xml_endpoint": "https://www.riigiteataja.ee/public-api/api/v1/akt/130122025016/blob-xml"
+  }
 }

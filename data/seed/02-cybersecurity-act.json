@@ -7,7 +7,7 @@
   "status": "in_force",
   "issued_date": "2018-05-09",
   "in_force_date": "2026-01-01",
-  "url": "https://www.riigiteataja.ee/akt/130122025015.xml",
+  "url": "https://www.riigiteataja.ee/akt/130122025015",
   "description": "Framework law for cybersecurity governance and obligations in Estonia, including requirements on network and information system security and supervision.",
   "provisions": [
     {
@@ -477,5 +477,15 @@
       "definition": "üldkasutatav elektroonilise side võrk elektroonilise side seaduse tähenduses",
       "source_provision": "para2"
     }
-  ]
+  ],
+  "_ingest": {
+    "source": "riigiteataja",
+    "resolved_from": "130122025015",
+    "globaal_id": "130122025015",
+    "group_id": 1043127,
+    "kehtiv_as_of": "2026-06-11",
+    "kehtivuse_algus": "2025-12-31T22:00:00Z",
+    "retrieved_at": "2026-06-11T19:39:20.648Z",
+    "xml_endpoint": "https://www.riigiteataja.ee/public-api/api/v1/akt/130122025015/blob-xml"
+  }
 }
