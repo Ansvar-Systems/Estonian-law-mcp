@@ -7,7 +7,7 @@
   "status": "in_force",
   "issued_date": "2004-12-08",
   "in_force_date": "2026-01-01",
-  "url": "https://www.riigiteataja.ee/akt/130122025018.xml",
+  "url": "https://www.riigiteataja.ee/akt/130122025018",
   "description": "Regulates electronic communications networks and services, including provider obligations, user rights, and supervisory powers.",
   "provisions": [
     {
@@ -1601,5 +1601,15 @@
       "definition": "punkt (edaspidi lõpp-punkt ) on üldkasutatava elektroonilise side võrgu füüsiliselt kindlaks määratud punkt, kus kliendile on loodud juurdepääs või võimalus juurdepääsuks üldkasutatavale elektroonilise side võrgule",
       "source_provision": "para2"
     }
-  ]
+  ],
+  "_ingest": {
+    "source": "riigiteataja",
+    "resolved_from": "130122025018",
+    "globaal_id": "130122025018",
+    "group_id": 158292,
+    "resolved_current_as_of": "2026-06-11",
+    "kehtivuse_algus": "2025-12-31T22:00:00Z",
+    "retrieved_at": "2026-06-11T19:39:24.677Z",
+    "xml_endpoint": "https://www.riigiteataja.ee/public-api/api/v1/akt/130122025018/blob-xml"
+  }
 }

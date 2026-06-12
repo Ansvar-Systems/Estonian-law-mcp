@@ -46,13 +46,14 @@ export async function listSources(
         {
           name: 'Riigi Teataja',
           authority: 'Riigikantselei (State Chancellery of Estonia)',
-          url: 'https://www.www.riigiteataja.ee',
+          url: 'https://www.riigiteataja.ee',
           license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
           coverage:
-            'All Commonwealth (federal) Acts and legislative instruments, ' +
-            'including privacy, cybersecurity, critical infrastructure, ' +
-            'corporations, consumer, telecommunications, and criminal law',
-          languages: ['en'],
+            'Estonian statutes (seadused) in consolidated current form, ' +
+            'including data protection, cybersecurity, electronic ' +
+            'communications, public information, eIDAS trust services and ' +
+            'penal law, plus the full in-force statute corpus',
+          languages: ['et'],
         },
       ],
       database: {

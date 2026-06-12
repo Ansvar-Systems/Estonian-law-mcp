@@ -2,14 +2,14 @@
  * Rate-limited HTTP fetcher for Riigi Teataja legislation sources.
  *
  * Strategy:
- * - Fetch official XML endpoints from https://www.riigiteataja.ee/akt/{id}.xml
+ * - Fetch the public-api endpoints documented in scripts/lib/riigiteataja.ts
  * - Send an explicit User-Agent and XML-oriented Accept header
- * - Respect government infrastructure with >=1.2s between requests
+ * - Respect government infrastructure with >=2s between requests, one in flight
  * - Retry transient errors (429/5xx) with exponential backoff
  */
 
 const USER_AGENT = 'Ansvar-Law-MCP/1.0 (legal-data-ingestion; contact: hello@ansvar.ai)';
-const MIN_DELAY_MS = 1200;
+const MIN_DELAY_MS = 2000;
 
 let lastRequestAt = 0;
 

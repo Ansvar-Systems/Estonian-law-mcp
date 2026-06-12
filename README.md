@@ -1,8 +1,54 @@
 # Estonian Law MCP Server
 
+<!-- ANSVAR-CTA-BEGIN -->
+> ### ▶ Try this MCP instantly via Ansvar Gateway
+> **50 free queries/day · no card required · OAuth signup at [ansvar.eu/gateway](https://ansvar.eu/gateway)**
+>
+> One endpoint, one OAuth signup, access from any MCP-compatible client.
+
+### Connect
+
+**Claude Code** (one line):
+
+```bash
+claude mcp add ansvar --transport http https://gateway.ansvar.eu/mcp
+```
+
+**Claude Desktop / Cursor** — add to `claude_desktop_config.json` (or `mcp.json`):
+
+```json
+{
+  "mcpServers": {
+    "ansvar": {
+      "type": "url",
+      "url": "https://gateway.ansvar.eu/mcp"
+    }
+  }
+}
+```
+
+**Claude.ai** — Settings → Connectors → Add custom connector → paste `https://gateway.ansvar.eu/mcp`
+
+First request opens an OAuth flow at [ansvar.eu/gateway](https://ansvar.eu/gateway). After signup, your client is bound to your account; tier (free / premium / team / company) determines fan-out, quota, and which downstream MCPs are reachable.
+
+---
+
+## Self-host this MCP
+
+You can also clone this repo and build the corpus yourself. The schema,
+fetcher, and tool implementations all live here. What is not in the repo is
+the pre-built database — TDM and standards-licensing constraints on the
+upstream sources mean we host the corpus on Ansvar infrastructure rather
+than redistribute it as a public artifact.
+
+Build your own: run this repo's ingestion script (entry-point varies per
+repo — typically `scripts/ingest.sh`, `npm run ingest`, or `make ingest`;
+check the repo root).
+<!-- ANSVAR-CTA-END -->
+
+
 **The Riigi Teataja alternative for the AI age.**
 
-[![npm version](https://badge.fury.io/js/@ansvar%2Festonian-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/estonian-law-mcp)
 [![MCP Registry](https://img.shields.io/badge/MCP-Registry-blue)](https://registry.modelcontextprotocol.io)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Estonian-law-mcp?style=social)](https://github.com/Ansvar-Systems/Estonian-law-mcp)
@@ -33,82 +79,6 @@ This MCP server makes Estonian law **searchable, cross-referenceable, and AI-rea
 
 ---
 
-## Quick Start
-
-### Use Remotely (No Install Needed)
-
-> Connect directly to the hosted version — zero dependencies, nothing to install.
-
-**Endpoint:** `https://mcp.ansvar.eu/law-ee/mcp`
-
-| Client | How to Connect |
-|--------|---------------|
-| **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add estonian-law --transport http https://mcp.ansvar.eu/law-ee/mcp` |
-| **Claude Desktop** | Add to config (see below) |
-| **GitHub Copilot** | Add to VS Code settings (see below) |
-
-**Claude Desktop** — add to `claude_desktop_config.json`:
-
-```json
-{
-  "mcpServers": {
-    "estonian-law": {
-      "type": "url",
-      "url": "https://mcp.ansvar.eu/law-ee/mcp"
-    }
-  }
-}
-```
-
-**GitHub Copilot** — add to VS Code `settings.json`:
-
-```json
-{
-  "github.copilot.chat.mcp.servers": {
-    "estonian-law": {
-      "type": "http",
-      "url": "https://mcp.ansvar.eu/law-ee/mcp"
-    }
-  }
-}
-```
-
-### Use Locally (npm)
-
-```bash
-npx @ansvar/estonian-law-mcp
-```
-
-**Claude Desktop** — add to `claude_desktop_config.json`:
-
-**macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
-**Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
-
-```json
-{
-  "mcpServers": {
-    "estonian-law": {
-      "command": "npx",
-      "args": ["-y", "@ansvar/estonian-law-mcp"]
-    }
-  }
-}
-```
-
-**Cursor / VS Code:**
-
-```json
-{
-  "mcp.servers": {
-    "estonian-law": {
-      "command": "npx",
-      "args": ["-y", "@ansvar/estonian-law-mcp"]
-    }
-  }
-}
-```
-
 ## Example Queries
 
 Once connected, just ask naturally (päringud toimivad eesti keeles või inglise keeles):
@@ -129,7 +99,7 @@ Once connected, just ask naturally (päringud toimivad eesti keeles või inglise
 | Category | Count | Details |
 |----------|-------|---------|
 | **Statutes** | 1,602 seadust | Comprehensive Estonian legislation from Riigi Teataja |
-| **Provisions** | 63,652 paragrahvi | Full-text searchable with FTS5 |
+| **Provisions** | 63,624 paragrahvi | Full-text searchable with FTS5 |
 | **Premium: Case law** | 0 (free tier) | Riigikohus and circuit court decisions planned |
 | **Premium: Preparatory works** | 163,383 documents | Seaduseelnõud and seletuskirjad |
 | **Premium: Agency guidance** | 0 (free tier) | Andmekaitse Inspektsioon guidance planned |
@@ -182,7 +152,7 @@ Riigi Teataja API → Parse → SQLite → FTS5 snippet() → MCP response
 
 | Tool | Description |
 |------|-------------|
-| `search_legislation` | FTS5 full-text search across 63,652 paragrahvi with BM25 ranking. Supports quoted phrases, boolean operators, prefix wildcards |
+| `search_legislation` | FTS5 full-text search across 63,624 paragrahvi with BM25 ranking. Supports quoted phrases, boolean operators, prefix wildcards |
 | `get_provision` | Retrieve specific provision by seadus abbreviation + paragraph (e.g., "IKS" + "§ 6") |
 | `check_currency` | Check if a statute is in force (jõus/kehtetud), amended, or repealed |
 | `validate_citation` | Validate citation against database — zero-hallucination check. Supports "IKS § 6", "KarS § 206" |
@@ -242,7 +212,7 @@ All content is sourced from authoritative Estonian legal databases:
 | **Retrieval method** | Riigi Teataja official open data API |
 | **Language** | Estonian |
 | **License** | Public domain (avalik teave) |
-| **Coverage** | 1,602 statutes, 63,652 provisions |
+| **Coverage** | 1,602 statutes, 63,624 provisions |
 | **Last ingested** | 2026-02-28 |
 
 ### Automated Freshness Checks (Daily)
@@ -335,26 +305,9 @@ npm run check-updates    # Check for amendments
 
 ---
 
-## Related Projects: Complete Compliance Suite
+## More Ansvar MCPs
 
-This server is part of **Ansvar's Compliance Suite** — MCP servers that work together for end-to-end compliance coverage:
-
-### [@ansvar/eu-regulations-mcp](https://github.com/Ansvar-Systems/EU_compliance_MCP)
-**Query 49 EU regulations directly from Claude** — GDPR, AI Act, DORA, NIS2, MiFID II, eIDAS, and more. Full regulatory text with article-level search. `npx @ansvar/eu-regulations-mcp`
-
-### @ansvar/estonian-law-mcp (This Project)
-**Query 1,602 Estonian statutes directly from Claude** — IKS, KarS, Küberturvalisuse seadus, and more. Full provision text with EU cross-references. `npx @ansvar/estonian-law-mcp`
-
-### [@ansvar/us-regulations-mcp](https://github.com/Ansvar-Systems/US_Compliance_MCP)
-**Query US federal and state compliance laws** — HIPAA, CCPA, SOX, GLBA, FERPA, and more. `npx @ansvar/us-regulations-mcp`
-
-### [@ansvar/security-controls-mcp](https://github.com/Ansvar-Systems/security-controls-mcp)
-**Query 261 security frameworks** — ISO 27001, NIST CSF, SOC 2, CIS Controls, SCF, and more. `npx @ansvar/security-controls-mcp`
-
-**70+ national law MCPs** covering Denmark, Finland, France, Germany, Ireland, Italy, Latvia, Lithuania, Luxembourg, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, UK, and more.
-
----
-
+Full fleet at [ansvar.eu/gateway](https://ansvar.eu/gateway).
 ## Contributing
 
 Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
@@ -370,13 +323,12 @@ Priority areas:
 
 ## Roadmap
 
-- [x] Core statute database with FTS5 search (1,602 statutes, 63,652 provisions)
+- [x] Core statute database with FTS5 search (1,602 statutes, 63,624 provisions)
 - [x] EU law integration with bi-directional lookup
 - [x] Premium preparatory works dataset (163,383 documents)
 - [x] Vercel Streamable HTTP deployment
-- [x] npm package publication
+
 - [ ] Kohtupraktika (court case law) expansion — Riigikohus and ringkonnakohtud
-- [ ] Full EU text integration (via @ansvar/eu-regulations-mcp)
 - [ ] Historical statute versions (amendment tracking)
 - [ ] Andmekaitse Inspektsioon guidance documents
 - [ ] RIA cybersecurity guidance and notices
@@ -393,7 +345,7 @@ If you use this MCP server in academic research:
   title = {Estonian Law MCP Server: AI-Powered Legal Research Tool},
   year = {2026},
   url = {https://github.com/Ansvar-Systems/Estonian-law-mcp},
-  note = {1,602 Estonian statutes with 63,652 provisions and EU law cross-references}
+  note = {1,602 Estonian statutes with 63,624 provisions and EU law cross-references}
 }
 ```
 
@@ -414,7 +366,7 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 We build AI-accelerated compliance and legal research tools for the European market. Estonia's leadership in digital governance — from e-residency to blockchain-secured public records — makes it a natural fit for our AI-native legal research tools.
 
-So we're open-sourcing it. Navigating 1,602 seadused and 63,652 provisions shouldn't require a law degree.
+So we're open-sourcing it. Navigating 1,602 seadused and 63,624 provisions shouldn't require a law degree.
 
 **[ansvar.eu](https://ansvar.eu)** -- Stockholm, Sweden
 
