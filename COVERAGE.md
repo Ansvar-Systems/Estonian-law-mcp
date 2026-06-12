@@ -20,7 +20,7 @@
 | Ingestable | 1,602 |
 | Ingested | 1,602 |
 | Excluded | 0 |
-| Provisions extracted | 63,652 |
+| Provisions extracted | 63,624 |
 | **Coverage** | **100%** |
 
 ## Laws (1,602 ingested)
