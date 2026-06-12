@@ -1186,7 +1186,7 @@
     "resolved_from": "111042025002",
     "globaal_id": "111042025003",
     "group_id": 151381,
-    "kehtiv_as_of": "2026-06-11",
+    "resolved_current_as_of": "2026-06-11",
     "kehtivuse_algus": "2026-02-28T22:00:00Z",
     "retrieved_at": "2026-06-11T19:39:52.707Z",
     "xml_endpoint": "https://www.riigiteataja.ee/public-api/api/v1/akt/111042025003/blob-xml"

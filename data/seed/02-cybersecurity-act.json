@@ -483,7 +483,7 @@
     "resolved_from": "130122025015",
     "globaal_id": "130122025015",
     "group_id": 1043127,
-    "kehtiv_as_of": "2026-06-11",
+    "resolved_current_as_of": "2026-06-11",
     "kehtivuse_algus": "2025-12-31T22:00:00Z",
     "retrieved_at": "2026-06-11T19:39:20.648Z",
     "xml_endpoint": "https://www.riigiteataja.ee/public-api/api/v1/akt/130122025015/blob-xml"
