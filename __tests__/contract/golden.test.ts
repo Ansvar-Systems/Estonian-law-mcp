@@ -11,9 +11,14 @@ import * as path from 'path';
 import * as fs from 'fs';
 import { fileURLToPath } from 'url';
 
+import { assertDbGateNotVacuous } from '../helpers/require-db.js';
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DB_PATH = path.resolve(__dirname, '../../data/database.db');
+// CI sets REQUIRE_DB=1 after npm run build:db: a missing DB must FAIL the
+// contract gate, not skip the golden tests into a vacuous green.
+assertDbGateNotVacuous(DB_PATH);
 const DB_EXISTS = fs.existsSync(DB_PATH) && (() => {
   try {
     const _db = new Database(DB_PATH, { readonly: true });
