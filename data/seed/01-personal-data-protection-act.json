@@ -6,8 +6,8 @@
   "short_name": "IKS",
   "status": "in_force",
   "issued_date": "2018-12-12",
-  "in_force_date": "2025-10-01",
-  "url": "https://www.riigiteataja.ee/akt/112072025014.xml",
+  "in_force_date": "2026-03-16",
+  "url": "https://www.riigiteataja.ee/akt/106032026010",
   "description": "Estonia's core personal data protection statute. It supplements GDPR and sets national rules for supervision, processing grounds, and safeguards.",
   "provisions": [
     {
@@ -515,11 +515,18 @@
       "content": "Isikuandmete ebaseadusliku kogumise, vaatamise, lugemise, kasutamise, nendele juurdepääsu või nende kohta päringute või väljavõtete tegemise eest isiku poolt, kellel on juurdepääs isikuandmetele oma töö- või teenistusülesannetest lähtudes, kui puuduvad karistusseadustiku §-des 157 ja 157^1 sätestatud süüteokoosseisud, – karistatakse rahatrahviga kuni 200 trahviühikut."
     },
     {
+      "provision_ref": "para71^1",
+      "chapter": "6. peatükk - Vastutus",
+      "section": "71^1",
+      "title": "§ 71^1. Suunamis- ja reklaamiedastusmeetodite nõuete rikkumine seoses internetipõhise poliitreklaami tegemisega",
+      "content": "(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2024/900 poliitreklaami läbipaistvuse ja suunamise kohta (ELT L, 2024/900, 20.03.2024) artiklites 18 ja 19 sätestatud nõuete rikkumise eest – karistatakse rahatrahviga kuni 20 000 000 eurot.\n(2) Sama teo eest, kui selle on toime pannud juriidiline isik, – karistatakse rahatrahviga kuni 20 000 000 eurot või kuni neli protsenti tema eelmise majandusaasta ülemaailmsest kogukäibest."
+    },
+    {
       "provision_ref": "para72",
       "chapter": "6. peatükk - Vastutus",
       "section": "72",
       "title": "§ 72. Muude isikuandmete töötlemise nõuete rikkumine",
-      "content": "Isikuandmete kaitse nõuete rikkumise eest, kui puuduvad käesoleva seaduse §-des 62–71 ning karistusseadustiku §-des 157 ja 157^1 sätestatud süüteokoosseisud, – karistatakse rahatrahviga kuni 200 trahviühikut."
+      "content": "Isikuandmete kaitse nõuete rikkumise eest, kui puuduvad käesoleva seaduse §-des 62–71^1 ning karistusseadustiku §-des 157 ja 157^1 sätestatud süüteokoosseisud, – karistatakse rahatrahviga kuni 200 trahviühikut."
     },
     {
       "provision_ref": "para73",
@@ -550,5 +557,15 @@
       "content": "Käesolev seadus jõustub 2019. aasta 15. jaanuaril."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "source": "riigiteataja",
+    "resolved_from": "112072025014",
+    "globaal_id": "106032026010",
+    "group_id": 1045568,
+    "resolved_current_as_of": "2026-06-11",
+    "kehtivuse_algus": "2026-03-15T22:00:00Z",
+    "retrieved_at": "2026-06-11T19:39:18.563Z",
+    "xml_endpoint": "https://www.riigiteataja.ee/public-api/api/v1/akt/106032026010/blob-xml"
+  }
 }

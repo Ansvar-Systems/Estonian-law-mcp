@@ -11,18 +11,6 @@
   "description": "Official consolidated statute text (Eesti Vabariigi kindlustusseadus) from Riigi Teataja.",
   "provisions": [
     {
-      "provision_ref": "para1",
-      "section": "1",
-      "title": "§ 1.",
-      "content": "[Kehtetu]"
-    },
-    {
-      "provision_ref": "para2",
-      "section": "2",
-      "title": "§ 2.",
-      "content": "[Kehtetu]"
-    },
-    {
       "provision_ref": "para3",
       "section": "3",
       "title": "§ 3. Kindlustusandja",
@@ -65,12 +53,6 @@
       "content": "Kindlustusjuhtum on seaduses või kindlustuslepingus määratletud sündmus, seisund või tegu, mille tagajärjel tekib kindlustusvõtjal või kolmandal isikul kindlustussumma või -hüvitise saamise õigus ja kindlustusandjal kindlustussumma või -hüvitise väljamaksmise kohustus."
     },
     {
-      "provision_ref": "para10",
-      "section": "10",
-      "title": "§ 10.",
-      "content": "[Kehtetu]"
-    },
-    {
       "provision_ref": "para11",
       "section": "11",
       "title": "§ 11. Kindlustussumma",
@@ -81,12 +63,6 @@
       "section": "12",
       "title": "§ 12. Kindlustushüvitis",
       "content": "(1) Kindlustushüvitis on rahasumma, mis makstakse välja kindlustusjuhtumi saabumisel kindlustuslepingu järgi varalise kahju hüvitamiseks.\n(2) Kindlustuslepingus võib ette näha ka mitterahalise hüvitise.\n(3) Kindlustushüvitis on piiratud kindlustatud varale kindlustusjuhtumi tagajärjel tekkinud varalise kahju suurusega, kui kindlustuslepingus ei ole ette nähtud teisiti.\n(4) Ühe ja sama vara kohta sõlmitud mitme ühesugust riski hõlmava kindlustuslepingu alusel makstakse kindlustushüvitist kokku tegeliku kahju ulatuses, kui kindlustuslepingus ei ole ette nähtud teisiti."
-    },
-    {
-      "provision_ref": "para13",
-      "section": "13",
-      "title": "§ 13.",
-      "content": "[Kehtetu]"
     },
     {
       "provision_ref": "para14",
@@ -107,12 +83,6 @@
       "content": "Kindlustusväärtus on kindlustatava vara maksumus, mis määratakse kindlaks kindlustuslepingu sõlmimise momendil kas seaduse või kindlustusandja ja kindlustusvõtja vahelise kokkuleppe alusel ning mis ei tohi olla suurem kui kindlustatud vara taastamisväärtus vara hävimise või kahjustamise korral."
     },
     {
-      "provision_ref": "para17",
-      "section": "17",
-      "title": "§ 17.",
-      "content": "[Kehtetu]"
-    },
-    {
       "provision_ref": "para18",
       "section": "18",
       "title": "§ 18. Regressiõigus",
@@ -131,18 +101,6 @@
       "content": "Kindlustusleping, mis seab kindlustusvõtja käesoleva seadusega võrreldes halvemasse olukorda, on kehtetu."
     },
     {
-      "provision_ref": "para21",
-      "section": "21",
-      "title": "§ 21.",
-      "content": "[Kehtetu]"
-    },
-    {
-      "provision_ref": "para22",
-      "section": "22",
-      "title": "§ 22.",
-      "content": "[Kehtetu]"
-    },
-    {
       "provision_ref": "para23",
       "section": "23",
       "title": "§ 23. Kindlustuslepingu lõppemine",
@@ -159,12 +117,6 @@
       "section": "-d 59–70",
       "title": "§ -d 59–70.",
       "content": "[Kehtetud]"
-    },
-    {
-      "provision_ref": "para71",
-      "section": "71",
-      "title": "§ 71.",
-      "content": "[Kehtetu]"
     }
   ],
   "definitions": []

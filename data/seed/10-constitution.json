@@ -6,8 +6,8 @@
   "short_name": "PS",
   "status": "in_force",
   "issued_date": "1992-06-28",
-  "in_force_date": "2025-07-09",
-  "url": "https://www.riigiteataja.ee/akt/111042025002.xml",
+  "in_force_date": "2026-03-01",
+  "url": "https://www.riigiteataja.ee/akt/111042025003",
   "description": "Foundational constitutional text of Estonia, including rights and principles relevant to privacy, state power, and rule of law.",
   "provisions": [
     {
@@ -1093,7 +1093,7 @@
       "chapter": "XIV. peatükk - KOHALIK OMAVALITSUS",
       "section": "156",
       "title": "§ 156.",
-      "content": "Kohaliku omavalitsuse esinduskogu on volikogu, kes valitakse vabadel valimistel neljaks aastaks. Seadusega võib volikogu volituste perioodi lühendada seoses kohaliku omavalitsuse üksuste ühinemise või jagunemisega või volikogu tegutsemisvõimetusega. Valimised on üldised, ühetaolised ja otsesed. Hääletamine on salajane. Kohaliku omavalitsuse volikogu valimistel on seaduses ettenähtud tingimustel hääleõiguslikud selle omavalitsuse maa-alal püsivalt elavad Eesti kodanikud ja kodakondsuseta isikud, kes on vähemalt kuusteist aastat vanad."
+      "content": "Kohaliku omavalitsuse esinduskogu on volikogu, kes valitakse vabadel valimistel neljaks aastaks. Seadusega võib volikogu volituste perioodi lühendada seoses kohaliku omavalitsuse üksuste ühinemise või jagunemisega või volikogu tegutsemisvõimetusega. Valimised on üldised, ühetaolised ja otsesed. Hääletamine on salajane. Kohaliku omavalitsuse volikogu valimistel on seaduses ettenähtud tingimustel hääleõiguslikud selle omavalitsuse maa-alal püsivalt elavad Eesti kodanikud, kes on vähemalt kuusteist aastat vanad."
     },
     {
       "provision_ref": "para157",
@@ -1180,5 +1180,15 @@
       "content": "Põhiseaduse muutmist ei saa samas küsimuses algatada ühe aasta jooksul, arvates vastava eelnõu tagasilükkamisest rahvahääletusel või Riigikogus. Õiend Käesolev tekst vastab 28. mail 1992. aastal rahvahääletusele pandud ja ajalehes «Rahva Hääl» avaldatud Eesti Vabariigi põhiseaduse eelnõu tekstile. Vastavalt riigisekretäri 19. juuni 2007. a resolutsioonile nr 07-02990 on parandatud vead seni elektroonilises Riigi Teatajas avaldatud Eesti Vabariigi põhiseaduse tekstides. «Rahva Hääles» avaldatud tekstiga võrreldes on parandatud viis ilmset trükiviga. Paragrahvis 53 on välja jäetud sõnade kordus «keskkonnale tekitatud», § 60 lõikes 5 on sõna «Riigikoguvalimise» lahku kirjutatud ning erinevalt «Rahva Hääles» ilmunud tekstist on § 64 lõikes 3 ja §-s 70 Riigikogu kirjutatud suure algustähega ja § 78 punktis 3 põhiseadus kirjutatud väikese algustähega. Põhiseaduse ja põhiseaduse rakendamise seaduse jõustumise kuupäev on Riigi Teataja väljaandja poolt märgitud Vabariigi Valimiskomisjoni 2.07.1992 otsuse „1992. aasta 28. juunil toimunud rahvahääletuse tulemuste ja rahvahääletusel vastuvõetud Eesti Vabariigi põhiseaduse ning Eesti Vabariigi põhiseaduse rakendamise seaduse kohta“ ( RT 1992, 26, 348 ) alusel."
     }
   ],
-  "definitions": []
+  "definitions": [],
+  "_ingest": {
+    "source": "riigiteataja",
+    "resolved_from": "111042025002",
+    "globaal_id": "111042025003",
+    "group_id": 151381,
+    "resolved_current_as_of": "2026-06-11",
+    "kehtivuse_algus": "2026-02-28T22:00:00Z",
+    "retrieved_at": "2026-06-11T19:39:52.707Z",
+    "xml_endpoint": "https://www.riigiteataja.ee/public-api/api/v1/akt/111042025003/blob-xml"
+  }
 }
