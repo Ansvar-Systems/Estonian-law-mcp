@@ -12,10 +12,15 @@
  *
  *   GET /public-api/api/v1/akt/{globaalID}?leiaKehtiv=true
  *     -> application/json metadata for the act. `kehtivId` is the globaalID
- *        of the CURRENTLY VALID redaction (resolved server-side from any
- *        redaction id of the same act), `grupiId` is the consolidation-group
- *        (lineage) id, stable across redactions. This is the explicit
- *        current-version selector that replaces the old heuristics.
+ *        of the currently valid redaction WITHIN the requested id's
+ *        consolidation series; `grupiId` is that series' id. Resolution
+ *        does NOT cross series: for an id from a stale or superseded series
+ *        the endpoint returns the requested id itself (live probe
+ *        2026-06-11: 5/5 stale-series ids resolved to themselves). It is a
+ *        within-series current-redaction selector — correct for the curated
+ *        anchors (whose series are the current ones, guarded by
+ *        assertLineageIdentity), NOT a statute-level resolver. The endpoint
+ *        has no date parameter: it always resolves to NOW.
  *
  *   GET /public-api/api/v1/akt/{globaalID}/blob-xml
  *     -> application/xml `<oigusakt>` document (same schema the parser has
@@ -23,12 +28,18 @@
  *        error body) for unknown ids.
  *
  * - The search API `/api/oigusakt_otsing/1/otsi?dokument=seadus&kehtiv={date}`
- *   enumerates statutes in force at a date, but one statute TITLE can map to
- *   several rows from DIFFERENT lineages (e.g. "Isikuandmete kaitse seadus"
- *   has rows for the 2003-era act group 160863 AND the 2018 act group
- *   1045568) and the row's globaalID is not guaranteed to be the active
- *   redaction. Rows carry `terviktekstID` == grupiId, so discovery must
- *   group by `terviktekstID` and resolve each group through `leiaKehtiv`.
+ *   enumerates acts, but `terviktekstID` (== `grupiId`) identifies a
+ *   consolidation SERIES, not a statute: one statute can expose several
+ *   series (discovery probe 2026-06-11, page 1 of 5,481 rows: 500 rows =
+ *   500 distinct terviktekstIDs across only 403 distinct titles;
+ *   Tulumaksuseadus alone spans 12). Search rows also LIE about validity:
+ *   the repealed 2003-era "Isikuandmete kaitse seadus" row (globaalID
+ *   112062021036, series 160863) carries kehtivKehtetus=false in the
+ *   kehtiv-filtered search, while the metadata endpoint reports the truth
+ *   (staatus KEHTETUD, kehtivKehtetus=true). Grouping by terviktekstID is
+ *   therefore NOT statute discovery — full-corpus mode is gated until a
+ *   statute-level registry exists (issue #58); validity must always come
+ *   from the metadata endpoint, never from search rows.
  *
  * Every fetch asserts HTTP status, Content-Type AND payload structure.
  * A 200 response with the wrong content type is a FAILURE, never a fallback.
@@ -57,11 +68,15 @@ export function actPageUrl(globaalId: string): string {
 }
 
 export interface ResolvedRedaction {
-  /** The lineage anchor id the resolution was requested for. */
+  /** The anchor id the resolution was requested for. */
   requestedId: string;
-  /** globaalID of the currently valid redaction (`kehtivId`). */
+  /**
+   * globaalID of the currently valid redaction (`kehtivId`) WITHIN the
+   * requested id's consolidation series. For stale series this is the
+   * requested id itself — pair with assertLineageIdentity.
+   */
   currentId: string;
-  /** Consolidation-group (lineage) id (`grupiId`), stable across redactions. */
+  /** Consolidation-series id (`grupiId`), stable across redactions of one series. */
   groupId: number;
   title: string;
   shortName: string | null;
@@ -112,8 +127,11 @@ function parseJsonBody<T>(response: FetchLegislationResult, what: string): T {
 }
 
 /**
- * Resolve any known globaalID of a statute to its currently valid redaction.
- * This is the explicit current-version selector (`leiaKehtiv=true`).
+ * Resolve a globaalID to the currently valid redaction WITHIN its
+ * consolidation series (`leiaKehtiv=true`). Resolution never crosses
+ * series, and the endpoint has no date parameter — it resolves to NOW.
+ * Callers MUST validate the result with assertLineageIdentity (or an
+ * equivalent repealed / not-yet-in-force veto).
  */
 export async function resolveCurrentRedaction(
   globaalId: string,
@@ -179,13 +197,22 @@ export async function fetchActXml(
 
 export interface SearchAct {
   globaalID: number;
-  /** Consolidation-group (lineage) id — equals grupiId from the metadata endpoint. */
+  /**
+   * Consolidation-SERIES id — equals grupiId from the metadata endpoint.
+   * NOT a statute id: one statute can expose several series (see module
+   * header). Do not use for statute-level grouping.
+   */
   terviktekstID: number;
   pealkiri: string;
   lyhend: string | null;
   liik: string;
   valjaandja: string;
   mitteJoustunud?: boolean;
+  /**
+   * UNRELIABLE: the kehtiv-filtered search returns false for acts the
+   * metadata endpoint reports as KEHTETUD (probe 2026-06-11, globaalID
+   * 112062021036). Validity decisions must use resolveCurrentRedaction.
+   */
   kehtivKehtetus?: boolean;
   muudetud: number;
   url: string;

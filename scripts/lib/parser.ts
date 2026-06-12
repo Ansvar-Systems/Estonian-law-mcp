@@ -54,10 +54,16 @@ export interface IngestStamp {
   resolved_from: string;
   /** globaalID of the redaction actually fetched (`kehtivId`). */
   globaal_id: string;
-  /** Consolidation-group (lineage) id (`grupiId` / `terviktekstID`). */
+  /** Consolidation-series id (`grupiId` / `terviktekstID`). */
   group_id: number;
-  /** `kehtiv` date the run used for current-version selection. */
-  kehtiv_as_of: string;
+  /**
+   * Date (UTC) of the retrieval that resolved the current redaction.
+   * `leiaKehtiv=true` always resolves to the version current NOW — the
+   * metadata endpoint has no date parameter, so the pipeline never performs
+   * date-based version selection. This is a retrieval timestamp, not a
+   * historical cut.
+   */
+  resolved_current_as_of: string;
   /** Redaction validity start, as reported by the metadata endpoint. */
   kehtivuse_algus: string | null;
   retrieved_at: string;
@@ -172,6 +178,19 @@ export const TARGET_LAWS: TargetLaw[] = [
     status: 'in_force',
   },
 ];
+
+/**
+ * EXACT drop criterion for repeal-marker stub provisions in the §-loop.
+ * Markers come both bare ("Kehtetu - RT I ...") and bracketed
+ * ("[Kehtetu - RT I, 13.03.2019, 2 - jõust. 15.03.2019]").
+ *
+ * Single source of truth: the seed migration
+ * (scripts/migrations/2026-06-11-pr57-review-remediation.ts) applies this
+ * same predicate so the committed corpus cannot drift from the parser.
+ */
+export function isRepealMarkerStub(content: string): boolean {
+  return /^\[?kehtetu\b/i.test(content) && content.split(/\s+/).length <= 12;
+}
 
 function decodeXmlEntities(value: string): string {
   return value
@@ -467,9 +486,7 @@ export function parseRiigiTeatajaXml(xml: string, law: TargetLaw, sourceUrl: str
     const content = extractParagraphText(fullParagraphXml);
     if (!content) continue;
 
-    // Repealed markers come both bare ("Kehtetu - RT I ...") and bracketed
-    // ("[Kehtetu - RT I, 13.03.2019, 2 - jõust. 15.03.2019]").
-    if (/^\[?kehtetu\b/i.test(content) && content.split(/\s+/).length <= 12) {
+    if (isRepealMarkerStub(content)) {
       continue;
     }
 

@@ -207,6 +207,27 @@ describe('assertLineageIdentity', () => {
     expect(() => assertLineageIdentity(law, { ...resolved, repealed: true })).toThrow(/repealed/i);
   });
 
+  it('rejects the repealed 2003-era IKS lineage (real probe values, 2026-06-11)', () => {
+    // Metadata truth for globaalID 112062021036 (.probe-findakt-searchrow.json):
+    // identical title, lyhend NULL (the short-name guard is skipped),
+    // staatus KEHTETUD / kehtivKehtetus true. The repealed veto is the
+    // operative protection against this wrong-lineage class — a bare
+    // title or lyhend comparison would NOT catch it.
+    const probe2003: ResolvedRedaction = {
+      requestedId: '112062021036',
+      currentId: '112062021036',
+      groupId: 160863,
+      title: 'Isikuandmete kaitse seadus',
+      shortName: null,
+      validFrom: '2003-09-30T21:00:00Z',
+      validTo: null,
+      status: 'KEHTETUD',
+      repealed: true,
+      notYetInForce: false,
+    };
+    expect(() => assertLineageIdentity(law, probe2003)).toThrow(/repealed/i);
+  });
+
   it('rejects a not-yet-in-force redaction', () => {
     expect(() => assertLineageIdentity(law, { ...resolved, notYetInForce: true })).toThrow(/not yet in force/i);
   });
